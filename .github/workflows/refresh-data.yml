@@ -8,7 +8,7 @@ on:
       review_limit:
         description: "Maximum signals to review with OpenAI"
         required: false
-        default: "10"
+        default: "48"
       apply_needs_review:
         description: "Allow OpenAI high-confidence low-risk passes to clear needsReview"
         required: false
@@ -38,7 +38,7 @@ jobs:
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       OPENAI_REVIEW_MODEL: ${{ vars.OPENAI_REVIEW_MODEL || 'gpt-4o-mini' }}
-      REVIEW_LIMIT: ${{ github.event.inputs.review_limit || '10' }}
+      REVIEW_LIMIT: ${{ github.event.inputs.review_limit || '48' }}
       APPLY_NEEDS_REVIEW: ${{ github.event_name == 'schedule' || inputs.apply_needs_review }}
       FORCE_REVIEW: ${{ inputs.force_review }}
     steps:

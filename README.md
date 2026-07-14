@@ -165,6 +165,8 @@ git push
 PubMed collection -> ClinicalTrials.gov collection -> preserve prior aiReview -> OpenAI pre-review -> commit data.js -> deploy GitHub Pages
 ```
 
+默认每次最多处理 48 条待审核信号，允许高置信通过自动退出 `Needs Review`，并且不会强制重复审核当前政策下已有结果。手动点击 `Run workflow` 时也使用相同默认值，无需填写参数。
+
 需要在 GitHub 仓库添加 Secret：
 
 ```text
@@ -181,7 +183,7 @@ Name: OPENAI_REVIEW_MODEL
 Value: gpt-4o-mini
 ```
 
-如果不设置 `OPENAI_API_KEY`，workflow 仍会自动采集 PubMed 和 ClinicalTrials.gov，但会跳过 OpenAI 预复核。
+如果 `OPENAI_API_KEY` 不可用，workflow 会在采集前明确失败，避免发布未经预复核的新数据。
 
 GitHub Actions 的 scheduled workflow 不是严格实时系统，可能有延迟。当前实现适合“准实时/定时刷新”的静态站；如果需要用户打开网页时即时抓取和复核，需要迁移到带后端的架构，例如 Cloudflare Workers、Vercel Functions 或自建 API。
 
