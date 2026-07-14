@@ -53,6 +53,27 @@ python3 scripts/collect_pubmed.py --dry-run
 
 当前分类是规则分流，不是医学证据评价。所有自动采集的 PubMed signal 默认 `needsReview: true`。
 
+## ClinicalTrials.gov Collection Test
+
+ClinicalTrials.gov 采集脚本会拉取试验登记记录，生成 `Registry` 类型 signal，并与当前 `data.js` 合并：
+
+```bash
+python3 scripts/collect_clinicaltrials.py --page-size 4 --max-total 24
+```
+
+输出：
+
+- `data/raw/clinicaltrials_latest.json`: 原始解析试验记录、查询词、NCT ID、自动分类结果
+- `data.js`: 合并后的前端数据
+
+只测试采集和分类、不覆盖前端数据：
+
+```bash
+python3 scripts/collect_clinicaltrials.py --dry-run
+```
+
+ClinicalTrials.gov 记录只能证明试验登记事实，例如状态、入组数、设计、日期和申办方；不能单独证明疗效、安全性或临床获益。
+
 ## GitHub Pages Deployment
 
 1. 在 GitHub 新建一个仓库。

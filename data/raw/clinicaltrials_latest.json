@@ -1,0 +1,1746 @@
+{
+  "capturedAt": "2026-07-14T07:32:14.925772+00:00",
+  "source": "ClinicalTrials.gov",
+  "terms": [
+    "organoid cancer",
+    "cell therapy oncology",
+    "gene therapy",
+    "liquid biopsy",
+    "artificial intelligence clinical decision support",
+    "aging biomarker",
+    "virtual cell"
+  ],
+  "records": [
+    {
+      "nctId": "NCT06155305",
+      "matchedTerm": "organoid cancer",
+      "briefTitle": "Organoids Based Drug Sensitivity in Neoadjuvant Chemotherapy of Breast Cancer",
+      "officialTitle": "Consistency of Organoids Based Drug Sensitivity and Efficacy of Neoadjuvant Chemotherapy in Breast Cancer",
+      "organization": "Second Affiliated Hospital, School of Medicine, Zhejiang University",
+      "leadSponsor": "Second Affiliated Hospital, School of Medicine, Zhejiang University",
+      "overallStatus": "RECRUITING",
+      "hasResults": false,
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "enrollment": 58,
+      "enrollmentType": "ESTIMATED",
+      "startDate": "2023-12-06",
+      "primaryCompletionDate": "2025-12-01",
+      "completionDate": "2025-12-01",
+      "firstPostDate": "2023-12-04",
+      "lastUpdatePostDate": "2025-01-07",
+      "versionDate": "2026-07-13",
+      "briefSummary": "Breast cancer is the most common malignancy in women worldwide. Patients with breast cancer are often diagnosed at later stages and have a strong desire for breast conservation, necessitating neoadjuvant chemotherapy. Tumors of different molecular subtypes and individual variations among patients lead to significant differences in treatment efficacy. Precise assessment of patients' responses to treatment regimens is imperative in advancing prognosis of breast cancer. In this study, 58 patients diagnosed with breast cancer and scheduled for neoadjuvant therapy will be recruited. Patient-derived organoids from their tumor biopsies will be utilized to evaluate the sensitivity of chemotherapy regimen. These drugs primarily include Doxorubicin, Carboplatin, Cyclophosphamide, Paclitaxel, as well as targeted therapies such as Herceptin and Pertuzumab.",
+      "detailedDescription": "58 early-stage breast cancer patients scheduled to undergo neoadjuvant therapy will be recruited. Baseline information including medical history, ultrasound, Breast-Specific Gamma Imaging (BSGI), and magnetic resonance imaging (MRI) records, will be collected both before and after two cycles of chemotherapy. Tumor tissue from these patients will be obtained via biopsies guided by ultrasound. Patient-derived organoids (PDOs) will be established and cultured from the collected tumor tissue. Subsequently, these PDOs will be subjected to treatment with drugs from standard chemotherapeutic regimens for breast cancer. The growth of the organoids will be assessed post-treatment, and dose-response curves will be generated. For evaluating the clinical outcomes of the patients, the Residual Cancer Burden (RCB) system will be used to evaluate tumor histological responses in patients. The consistency between treatment responses observed in the PDO models and the clinical outcomes of patients will be evaluated through correlation analysis.",
+      "conditions": [
+        "Organoids",
+        "Breast Cancer",
+        "Neoadjuvant Chemotherapy"
+      ],
+      "interventions": [
+        "Biopsy"
+      ],
+      "interventionTypes": [
+        "PROCEDURE"
+      ],
+      "primaryOutcomes": [
+        "Correlation between drug sensitivity test results in patient-derived organoid models and clinical outcomes."
+      ],
+      "countries": [
+        "China"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06155305"
+    },
+    {
+      "nctId": "NCT06590454",
+      "matchedTerm": "organoid cancer",
+      "briefTitle": "REVerse Intestinal Metaplasia in the Stomach (REVISE)",
+      "officialTitle": "Therapeutic Intervention to Reverse Gastric Precancer",
+      "organization": "Duke University",
+      "leadSponsor": "Katherine Garman",
+      "overallStatus": "RECRUITING",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "enrollment": 32,
+      "enrollmentType": "ESTIMATED",
+      "startDate": "2025-12-15",
+      "primaryCompletionDate": "2026-10-01",
+      "completionDate": "2026-10-01",
+      "firstPostDate": "2024-09-19",
+      "lastUpdatePostDate": "2026-02-12",
+      "versionDate": "2026-07-13",
+      "briefSummary": "This study is designed to test the use of Pyrvinium vs placebo as a treatment for gastric intestinal metaplasia with features associated with increased risk of cancer. Response will be determined by assessing the extent and quality of the gastric intestinal metaplasia before and after treatment.\n\nA secondary aim will be to generate gastric organoids from patient-derived samples to test the effects of pyrvinium in vitro in patient-derived samples, and also to identify new drugs that may help reverse gastric intestinal metaplasia.",
+      "detailedDescription": "The proposed study is an early Phase II Clinical Trial designed to generate additional data regarding safety and efficacy for the use of Pyrvinium, an FDA-approved drug no longer in active use. The study design includes enrollment in an observational cohort for a research-focused screening upper endoscopy to document the extent and type of gastric intestinal metaplasia in patients previously diagnosed with this condition using a standardized mapping protocol (as described below). This initial screening research endoscopy is needed as current clinical care is variable (due to lack of guidelines for mapping and surveillance). The investigators anticipate enrolling 60 participants in the observational cohort for intensive gastric mapping, and then of these 60 participants, 32 eligible participants (after determining eligibility based on presence of high-risk features of the gastric intestinal metaplasia with confirmed extensive gastric intestinal metaplasia) will be included in the randomized control trial to receive either Pyrvinium (n=16) or placebo (n=16).\n\nTreatment is planned as followed:\n\n2 weeks of Pyrvinium vs placebo (within 3 months of initial research endoscopy).\n\nFollowing the initial endoscopy, participants will receive placebo or Pyrvinium (2 mg/kg/day) by mouth once each day for a total of 14 days. The drug (or placebo) will be verified and dispensed from the investigational drug pharmacy using an IND with attention to safety and blinding to research participants and clinical research staff. The drug and placebo will be administered as liquid suspensions. Medication diary logs will be used and participants will be asked to return bottles that contained the medication.\n\nAll participants will be advised to use sunblock and wear protective clothing due to potential for sun-sensitivity.",
+      "conditions": [
+        "Gastric Intestinal Metaplasia",
+        "Gastric Precancer"
+      ],
+      "interventions": [
+        "Pyrvinium",
+        "Placebo"
+      ],
+      "interventionTypes": [
+        "DRUG",
+        "DRUG"
+      ],
+      "primaryOutcomes": [
+        "Change in the number of clinical biopsies with evidence of gastric intestinal metaplasia"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06590454"
+    },
+    {
+      "nctId": "NCT07029100",
+      "matchedTerm": "organoid cancer",
+      "briefTitle": "Feasibility of ORGAnoids in Routine Clinical Practice for Molecular Analysis of the GLIOvascular Niche in Patients With Primary Brain Tumors.",
+      "officialTitle": "Feasibility of ORGAnoids in Routine Clinical Practice for Molecular Analysis of the GLIOvascular Niche in Patients With Primary Brain Tumors.",
+      "organization": "Centre Henri Becquerel",
+      "leadSponsor": "Centre Henri Becquerel",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "enrollment": 30,
+      "enrollmentType": "ESTIMATED",
+      "startDate": "2025-07-01",
+      "primaryCompletionDate": "2027-07-01",
+      "completionDate": "2029-07-01",
+      "firstPostDate": "2025-06-19",
+      "lastUpdatePostDate": "2025-06-19",
+      "versionDate": "2026-07-13",
+      "briefSummary": "The main goal of ORGA-GLIO trial is to establish the feasibility in routine clinical practice of ex-vivo organoid cultures composed of tumor cells within their microenvironment (glioblastoma organoid - GBO) and intra- and peri-tumoral blood vessels (blood vessel organoid - BVO), derived from perioperative samples obtained during complete or partial surgical resection in patients with newly diagnosed glioblastoma.",
+      "detailedDescription": "The ORGA-GLIO study will be conducted in two stages:\n\nFirst stage: Establishment of the clinical-biological collection and addressing the primary objective.\n\nStep 1: Generation of tumor organoids (Glioblastoma Organoids - GBO), vascular organoids (Blood Vessel Organoids - BVO), and cell lines.\n\nStep 2: Phenotypic and molecular analyses of tumor and vascular organoids up to 7 days.\n\nSecond stage: Utilization of the biological collection of organoids and blood samples.\n\nUtilization of the organoid collection and investigation of associations between the molecular and phenotypic and clinical and survival data collected during patient follow-up visits.\n\nCorrelation of organoid evolution under experimental treatment procedure and evolution of plasma-based biomarker from corresponding patients and along first-line treatment schedule.\n\nAll patients will be planned to receive standard of care for glioblastoma after resection, namely radiotherapy+temozolomide and TTFields.",
+      "conditions": [
+        "Glioblastoma"
+      ],
+      "interventions": [
+        "Ex-vivo organoid culture"
+      ],
+      "interventionTypes": [
+        "OTHER"
+      ],
+      "primaryOutcomes": [
+        "Ex-vivo organoid culture feasability"
+      ],
+      "countries": [
+        "France"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07029100"
+    },
+    {
+      "nctId": "NCT06246630",
+      "matchedTerm": "organoid cancer",
+      "briefTitle": "In Vitro Organoid Drug Sensitivity-Guided Treatment for Advanced Pancreatic Neuroendocrine Tumor",
+      "officialTitle": "A Prospective, Exploratory Study Evaluating the Effectiveness of Treatment Regimens for Locally Advanced/Metastatic Non-resectable Pancreatic Neuroendocrine Tumor (PNET) Guided by in Vitro Drug Sensitivity Testing of Tumor Organoids",
+      "organization": "Ruijin Hospital",
+      "leadSponsor": "Ruijin Hospital",
+      "overallStatus": "UNKNOWN",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "enrollment": 20,
+      "enrollmentType": "ESTIMATED",
+      "startDate": "2024-04-03",
+      "primaryCompletionDate": "2025-12-25",
+      "completionDate": "2026-06-25",
+      "firstPostDate": "2024-02-07",
+      "lastUpdatePostDate": "2024-05-16",
+      "versionDate": "2026-07-13",
+      "briefSummary": "The purpose of this study is to explore whether chemotherapy and targeted-therapy regimens guided by organoid drug sensitivity test can improve the outcomes of non-resectable locally advanced and metastatic Pancreatic neuroendocrine tumors. At the same time, this study will evaluate the successful stablishment rate of organoid from biopsy tissue , and explore the concordance between drug sensitivity test results and patients' treatment response",
+      "detailedDescription": "Twenty non-resectable locally advanced and metastatic pancreatic neuroendocrine Tumor(p-NET) patients who should receive palliative treatment will be enrolled in this study. Baseline information of the enrolled patients including medical history, physical examination records and clinical examination records will be collected. Tumor material of those patients will be obtained from Pancreatic endoscopic biopsies or surgical resection. Patient-derived organoids (PDOs) will be established and cultured from p-NET tumor specimens. PDOs will then be treated with drugs of the chemotherapeutic and targeted therapeutic regimens for p-NET. Organoid size and growth will be monitored before and after the treatment, and dose-response curves will be generated. As for the assessment of clinical outcomes of patients, treatment responses will be assessed by biomedical imaging according to the Response Evaluation Criteria in Solid Tumors (RECIST1.1). Consistency between treatment responses in PDO models and clinical outcomes of patients will be assessed by correlation analysis.",
+      "conditions": [
+        "Advanced Pancreatic Neuroendocrine Tumor"
+      ],
+      "interventions": [
+        "Chemotherapy and targeted-therapy guided by organoid drug sensitivity test"
+      ],
+      "interventionTypes": [
+        "OTHER"
+      ],
+      "primaryOutcomes": [
+        "Objective Response Rate"
+      ],
+      "countries": [
+        "China"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06246630"
+    },
+    {
+      "nctId": "NCT00412360",
+      "matchedTerm": "cell therapy oncology",
+      "briefTitle": "Single vs Double Umbilical Cord Blood Transplants in Children With High Risk Leukemia and Myelodysplasia (BMT CTN 0501)",
+      "officialTitle": "Multi-center, Open Label, Randomized Trial Comparing Single Versus Double Umbilical Cord Blood (UCB) Transplantation in Pediatric Patients With High Risk Leukemia and Myelodysplasia (BMT CTN #0501)",
+      "organization": "Medical College of Wisconsin",
+      "leadSponsor": "Medical College of Wisconsin",
+      "overallStatus": "COMPLETED",
+      "hasResults": true,
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "enrollment": 224,
+      "enrollmentType": "ACTUAL",
+      "startDate": "2006-12",
+      "primaryCompletionDate": "2014-03",
+      "completionDate": "2014-10",
+      "firstPostDate": "2006-12-18",
+      "lastUpdatePostDate": "2021-10-28",
+      "versionDate": "2026-07-13",
+      "briefSummary": "This study is a Phase III, randomized, open-label, multi-center, prospective study of single umbilical cord blood (UCB) transplantation versus double UCB transplantation in pediatric patients with hematologic malignancies.",
+      "detailedDescription": "BACKGROUND:\n\nIn nearly every large single center or registry analysis of outcomes after UCB transplantation, cell dose is identified as an important factor influencing the incidence and rate of hematopoietic recovery, risk of transplant-related mortality, and probability of survival. Pilot data suggest that infusion of two partially human leukocyte antigen (HLA)-matched UCB units, which always augments the graft cell dose, is safe and may improve neutrophil recovery and survival. To determine whether the infusion of two UCB units enhances survival, a multi-center, open-label, randomized trial is proposed. As adequate single UCB units can be identified for more than 80% of pediatric recipients (in contrast to less than 30% for adults), this study will be open only to pediatric patients. The population will be restricted to patients with high-risk hematologic malignancy, the most common indication of UCB transplantation in children.\n\nDESIGN NARRATIVE:\n\nParticipants will include patients 1 to 21 years of age with a diagnosis of hematological malignancy and with two partially HLA-matched UCB units. Units must be HLA-matched at 3 of 6 HLA-A and B (intermediate resolution molecular typing) and DRB1 (high resolution molecular typing) with each other and 4 of 6 with the recipient. Two appropriately HLA-matched units must be available such that one unit delivers a pre-cryopreserved, nucleated cell dose of at least 2.5 x 10\\^7 per kilogram and the second unit delivers at least 1.5 x 10\\^7 per kilogram.\n\nPatients will be randomized no more than 14 days prior to initiation of conditioning. UCB units will be shipped prior to initiation of conditioning.\n\nThe preparative regimen will consist of the following:\n\n* Fludarabine: 25 mg/m2/day IV on Days -10, -9, and -8.\n* Total Body Irradiation (TBI): 165 cGy twice daily on Days -7, -6, -5, and -4.\n* Cyclophosphamide: 60 mg/kg/day x 2 on Days -3 and -2.\n* Day 0 will be the day of the UCB transplant. The Graft-vs-Host-Disease (GVHD) prophylaxis regimen will be mycophenolate mofetil (MMF) 15 mg/kg IV BID on Day -3 to Day + 45 and cyclosporine A (CSA) to maintain level 200-400 ng/mL beginning on Day -3.\n\nPatients will be followed for at least 24 months post-transplant.",
+      "conditions": [
+        "Acute Myelogenous Leukemia",
+        "Acute Lymphocytic Leukemia",
+        "Chronic Myelogenous Leukemia",
+        "Myelodysplastic Syndrome",
+        "Natural Killer Cell Lymphoblastic Leukemia/Lymphoma"
+      ],
+      "interventions": [
+        "Single Umbilical Cord Blood Unit Transplant",
+        "Double Umbilical Cord Blood Unit Transplant",
+        "Total Body Irradiation",
+        "Cyclophosphamide",
+        "Fludarabine",
+        "Cyclosporine A",
+        "Mycophenolate Mofetil"
+      ],
+      "interventionTypes": [
+        "BIOLOGICAL",
+        "BIOLOGICAL",
+        "RADIATION",
+        "DRUG",
+        "DRUG",
+        "DRUG",
+        "DRUG"
+      ],
+      "primaryOutcomes": [
+        "Percentage of Participants With Overall Survival"
+      ],
+      "countries": [
+        "United States",
+        "Australia",
+        "Canada"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00412360"
+    },
+    {
+      "nctId": "NCT05756660",
+      "matchedTerm": "cell therapy oncology",
+      "briefTitle": "Sodium Thiosulfate Otoprotection During Salvage Cisplatin Therapy",
+      "officialTitle": "Cisplatin and Sodium Thiosulfate Otoprotection With or Without SAHA/Vorinostat Histone Deacetylase Inhibition for Relapsed/Refractory Hepatoblastoma and Other Embryonal Tumors",
+      "organization": "Children's Hospital Medical Center, Cincinnati",
+      "leadSponsor": "Children's Hospital Medical Center, Cincinnati",
+      "overallStatus": "SUSPENDED",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "enrollment": 33,
+      "enrollmentType": "ESTIMATED",
+      "startDate": "2023-03-01",
+      "primaryCompletionDate": "2027-01",
+      "completionDate": "2027-01",
+      "firstPostDate": "2023-03-06",
+      "lastUpdatePostDate": "2025-10-20",
+      "versionDate": "2026-07-13",
+      "briefSummary": "This study will attempt to demonstrate the efficacy of Sodium Thiosulfate (STS) in preventing hearing loss in patients re-treated with cisplatin-based therapy according to regimens Cisplatin and STS (regimen CS) and Cisplatin, STS and Vorinostat/SAHA (regimen CSS).",
+      "detailedDescription": "This trial will assess the effect of STS in preventing subsequent hearing loss when patients are re-challenged with cisplatin therapy at relapse/progression, as well as the efficacy of cisplatin/STS or cisplatin/STS/SAHA for patients with relapsed hepatoblastoma, Wilms, Germ Cell Tumor (GCT) and Neuroblastoma stratified by initial cisplatin sensitivity. Important pharmacokinetic measurements focused on cisplatin and STS in children, with varying degrees of renal function, will be assessed. Such pharmacokinetic data will fill a current gap in our clinical knowledge base and enable safer use of such agents for all children with such cancers, regardless of kidney function, in the future.",
+      "conditions": [
+        "Ototoxicity, Drug-Induced"
+      ],
+      "interventions": [
+        "Sodium Thiosulfate"
+      ],
+      "interventionTypes": [
+        "DRUG"
+      ],
+      "primaryOutcomes": [
+        "Prevention of hearing loss"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05756660"
+    },
+    {
+      "nctId": "NCT03969420",
+      "matchedTerm": "cell therapy oncology",
+      "briefTitle": "Study of Alvocidib in Patients With Relapsed/Refractory AML Following Treatment With Venetoclax Combination Therapy",
+      "officialTitle": "A Phase 2, Open-label, Randomized, Two-stage Clinical Study of Alvocidib in Patients With Relapsed/Refractory Acute Myeloid Leukemia Following Treatment With Venetoclax Combination Therapy",
+      "organization": "Sumitomo Pharma America, Inc.",
+      "leadSponsor": "Sumitomo Pharma America, Inc.",
+      "overallStatus": "TERMINATED",
+      "hasResults": true,
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "enrollment": 11,
+      "enrollmentType": "ACTUAL",
+      "startDate": "2020-01-15",
+      "primaryCompletionDate": "2021-04-22",
+      "completionDate": "2021-05-14",
+      "firstPostDate": "2019-05-31",
+      "lastUpdatePostDate": "2023-11-09",
+      "versionDate": "2026-07-13",
+      "briefSummary": "This study will evaluate the safety and efficacy of alvocidib in patients with AML who have either relapsed from or are refractory to venetoclax in combination with azacytidine or decitabine.",
+      "detailedDescription": "",
+      "conditions": [
+        "Acute Myeloid Leukemia (AML)"
+      ],
+      "interventions": [
+        "Alvocidib (flavopiridol) and cytarabine (Ara-C)",
+        "Alvocidib (flavopiridol)"
+      ],
+      "interventionTypes": [
+        "DRUG",
+        "DRUG"
+      ],
+      "primaryOutcomes": [
+        "Combined Complete Remission"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03969420"
+    },
+    {
+      "nctId": "NCT06016920",
+      "matchedTerm": "cell therapy oncology",
+      "briefTitle": "Safety and Efficacy of VB10.16 and Pembrolizumab in Patients with Head-Neck Squamous Cell Carcinoma",
+      "officialTitle": "A Phase 1/2a, Open-label, Dose-finding Trial to Evaluate Safety, Immunogenicity, and Anti-tumor Activity of VB10.16 and Pembrolizumab in Patients with Unresectable Recurrent or Metastatic HPV16-positive Head-Neck Squamous Cell Carcinoma",
+      "organization": "Nykode Therapeutics ASA",
+      "leadSponsor": "Nykode Therapeutics ASA",
+      "overallStatus": "RECRUITING",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "enrollment": 51,
+      "enrollmentType": "ESTIMATED",
+      "startDate": "2023-12-19",
+      "primaryCompletionDate": "2027-09",
+      "completionDate": "2028-01",
+      "firstPostDate": "2023-08-30",
+      "lastUpdatePostDate": "2024-12-17",
+      "versionDate": "2026-07-13",
+      "briefSummary": "This is a multi-center study in patients with un-resectable Recurrent or Metastatic HPV16-positive oropharyngeal Head and Neck Squamous Cell Carcinoma (HNSCC). The trial is designed to investigate VB10.16, an investigational therapeutic DNA vaccine in combination with another medicine, pembrolizumab, which is the standard of care for patients with previously untreated metastatic or resectable recurrent PD-L1 positive HNSCC. The study is divided in 2 parts: a phase 1, dose escalation part, testing 3 different doses of VB10.16 in combination with a standard fixed dose of pembrolizumab. The goal of this part is to evaluate the safety and tolerability of the combined treatment and to decide on the dose of VB10.16 to be used in the second part of the trial. In the second part of the trial, a phase 2a, dose expansion part, participants will receive either the highest safe dose of VB10.16 from part 1 or the 3 mg dose both in combination with pembrolizumab. The dose given to each participant will be decided in random.\n\nThe trial is designed to define the optimal dose of VB10.16 in combination with pembrolizumab for future clinical studies based on the safety, tolerability and anti-tumor effect data generated.",
+      "detailedDescription": "This phase 1/2a, open-label, dose-finding trial is designed to evaluate the safety, tolerability, immunogenicity, and anti-tumor activity of VB10.16 immunotherapy in patients with HPV16-positive R/M oropharyngeal HNSCC whose tumors express PDL1 (CPS ≥ 1) and who are eligible for pembrolizumab monotherapy as standard of care. The trial is designed to determine the biological optimal dose (BOD) of VB10.16 in combination with a fixed dose of pembrolizumab based on the totality of data (i.e., safety, tolerability, anti-tumor activity, and HPV16 E6/E7specific cellular immune response). The trial consists of 2 consecutive phases with separate patient groups in a seamless trial design: a dose escalation phase (phase 1) and a dose expansion phase (phase 2a). After completing 48 weeks of combination treatment, patients can either continue pembrolizumab treatment with 200 mg Q3W administration or change to 400 mg Q6W administration at the discretion of the investigator and after consultation with the Sponsor.",
+      "conditions": [
+        "HPV Positive Oropharyngeal Squamous Cell Carcinoma",
+        "HNSCC"
+      ],
+      "interventions": [
+        "VB10.16",
+        "Pembrolizumab"
+      ],
+      "interventionTypes": [
+        "BIOLOGICAL",
+        "DRUG"
+      ],
+      "primaryOutcomes": [
+        "Phase 1: Dose Escalation: Dose Limiting Toxicities (DLT)",
+        "Phase 2: Dose Expansion: AEs",
+        "Phase 2: Dose Expansion: Discontinuation due to adverse reaction",
+        "Phase 2: Dose Expansion: Objective Response Rate (ORR)",
+        "Phase 2: Dose Expansion: Immune response",
+        "Phase 1+2: Full trial: Objective Response Rate (ORR)",
+        "Phase 1+2: Full trial: Objective Response Rate (ORR)"
+      ],
+      "countries": [
+        "Czechia",
+        "France",
+        "Germany",
+        "Hungary",
+        "Norway",
+        "Poland",
+        "Spain",
+        "United Kingdom"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06016920"
+    },
+    {
+      "nctId": "NCT04880824",
+      "matchedTerm": "gene therapy",
+      "briefTitle": "Analysis of Frailty Syndrome Within the Framework of the Innovation Fund Project PRÄP-GO (ANA-PRÄP-GO)",
+      "officialTitle": "Analysis of the Pathophysiology of Frailty Syndrome and Clinical Development of Frailty Within the Framework of the Innovation Fund Project PRÄP-GO (ANA-PRÄP-GO)",
+      "organization": "Charite University, Berlin, Germany",
+      "leadSponsor": "Charite University, Berlin, Germany",
+      "overallStatus": "COMPLETED",
+      "hasResults": false,
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "enrollment": 693,
+      "enrollmentType": "ACTUAL",
+      "startDate": "2021-05-19",
+      "primaryCompletionDate": "2025-03-21",
+      "completionDate": "2025-03-21",
+      "firstPostDate": "2021-05-11",
+      "lastUpdatePostDate": "2025-08-26",
+      "versionDate": "2026-07-13",
+      "briefSummary": "The patients included in PRÄP-GO and the corresponding comparison cohorts will be offered to participate in this complementary study in order to be able to carry out a detailed characterization and phenotyping of the frailty complex.\n\nAmendment vote of 08/05/2024: Recruitment extension of Non-frail surgical control group (NFC cohort) until August 31, 2025.",
+      "detailedDescription": "As part of the innovation fund project PRÄP-GO (EA1/225/19), a multimodal intervention is being conducted in patients with a frailty syndrome. However, the health care research project is limited to evaluating clinical issues only. In order to be able to research further pathophysiological, clinical, psychosocial and work-organizational connections, different groups of participants will be offered the participation in this scientific support program of PRÄP-GO.\n\nThe groups of participants in this accompanying program ANA-PRÄP-GO are:\n\n* Randomized study patients with a frailty syndrome of the intervention study PRÄP-GO (PG cohort)\n* Non-frail surgical control group (NFC cohort)\n* Non-surgical comparison group (NO cohort)\n* Participants with health professions (GB cohort)\n\nAdditionally, relatives of the patients can be included.\n\nSubprojects are included to reflect research questions of interest in sub groups:\n\n* Success of endoprosthetic implants (clinical outcome and gait pattern after total hip arthroplasty and total knee arthroplasty in frail patients)\n* Functional treatment outcome and health-related quality of life after elective spinal surgery in the PG cohort, in the NFC cohort, and in the NO cohort\n* Hemodynamic evaluation in patients of the PG and NFC cohort with preoperative abnormal cardiovascular function\n* Establishment of a German standard database for 14 CANTAB tests by CANTAB Connect technology\n* Aggregated evaluation of the cognitive data of different surgical cohorts from studies carried out at the department of anesthesiology to describe domain-specific changes in the perioperative course\n* Perspectives of different health professional groups regarding barriers and facilitators in the implementation of a prehabilitation program and necessary changes in skill, organizational and management, and communication in an interdisciplinary setting\n* Perspectives of patients and significant others regarding the organizational pathway of the prehabilitation program\n* Frequency, pathophysiology and trajectory of muscle weakness as well as functional impairments of patients admitted to intensive care units of the PG and NFC cohort and their long-term outcomes.\n* The gut microbiome as a potential risk factor for perioperative neurocognitive disorders (PNDs) in the elderly\n* Evaluation of nutrition data in all cohorts (e.g. adherence to mediterranean diet, nutrition habits, nutritional status, dental status etc.)",
+      "conditions": [
+        "Frailty Syndrome"
+      ],
+      "interventions": [
+        "Prehabilitation- new form of care"
+      ],
+      "interventionTypes": [
+        "BEHAVIORAL"
+      ],
+      "primaryOutcomes": [
+        "Frailty",
+        "Neuro-cognitive disorder (NCD)"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04880824"
+    },
+    {
+      "nctId": "NCT05329662",
+      "matchedTerm": "gene therapy",
+      "briefTitle": "Adipose Tissue-derived Mesenchymal Stem Cell (AD-MSC) Therapy for the Treatment of Sexual Function Impairment in Female",
+      "officialTitle": "Evaluation of Autologous Adipose Tissue-derived Mesenchymal Stem Cell Efficacy for the Treatment of Sexual Function Impairment in Female",
+      "organization": "Vinmec Research Institute of Stem Cell and Gene Technology",
+      "leadSponsor": "Vinmec Research Institute of Stem Cell and Gene Technology",
+      "overallStatus": "UNKNOWN",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "enrollment": 130,
+      "enrollmentType": "ESTIMATED",
+      "startDate": "2023-05-01",
+      "primaryCompletionDate": "2025-06-01",
+      "completionDate": "2025-12-30",
+      "firstPostDate": "2022-04-15",
+      "lastUpdatePostDate": "2024-06-04",
+      "versionDate": "2026-07-13",
+      "briefSummary": "Hormones are a chemical substance synthesized and secreted by endocrine gland. Several vital hormones, including Mullerian hormone (AMH), follicle-stimulating hormone (FSH), and Estradiol (E2), play crucial roles in regulating female sexual function.- Hormone therapy is used to treat female hormone deficiency and results in a significant improvement, but long-term use increases cardiovascular disease or cancer risk. Other treatments do not give apparent results. Therefore, it is necessary to develop new and effective treatments to achieve the requirements of improving health in general and sexual health in particularly in women. AD-MSCs have been widely used as autologous and allogeneic stem cell sources to treat numerous disease recently, and they have been proven to be safe. The phase I trial showed that administration of autologous AD-MSCs at the dose of 1.0 x 10\\^6 cells/kg patient bodyweight was safe for patients with sex hormone deficiency. The therapy introduced potential improvement in sexual and general quality of life indicating by the increased FSFI. Therefore, this phase II trial to evaluate efficiency of autologous adipose tissue-derived mesenchymal stem cells therapy in treatment of female patients with sexual function impairment.",
+      "detailedDescription": "Hormones are a chemical substance synthesized and secreted by endocrine gland. They are used by multicellular organism to organize, coordinate, and regulate multiple functions of cells and tissues in the body. They are considered as chemical messenger molecules that send signals from one cell to another within or between various body parts. Hormones are responsible for regulating many physiological processes and behavioral activities such as growth and development of the body, metabolism, homeostasis of intracellular and extracellular fluid, and reproduction. Several vital hormones, including Mullerian hormone (AMH), follicle-stimulating hormone (FSH), and Estradiol (E2), play crucial roles in regulating female sexual function. The phase I clinical study named \" Single-group, open-label clinical trial, evaluating the safety and efficacy of adipose tissue-derived mesenchymal stem cell therapy for early sex hormone deficiency in middle-aged people\" showed that AD-MSC therapy for patients with hormone deficiency is safe, can improve the sexual quality of life in both men and women. A significant statistical increase of testosterone levels was observed in male patients at 3-month, 6-month and 12-month. In female patients, the FSFI was 20.70 at baseline and increased to 27.1 at 12 months after AD-MSC infusion (p\\<0.05). There were no significant changes in AMH, FSH, or E2 infusion compared to baseline in the 16 enrolled patients. Within those under 45 years old, FSH and E2 tended to increase at 3 months after ADSC infusion and decreased at the follow-up after 6 and 12 months. Therefore, this phase II trial to evaluate efficiency of autologous adipose tissue-derived mesenchymal stem cells therapy in treatment of female patients with sexual function impairment.",
+      "conditions": [
+        "Sexual Dysfunction Female"
+      ],
+      "interventions": [
+        "Autologous adipose-derived mesenchymal stem cell administration for female with sexual functional deficiency"
+      ],
+      "interventionTypes": [
+        "BIOLOGICAL"
+      ],
+      "primaryOutcomes": [
+        "Change of Follicle-stimulating hormone (FSH) hormone level",
+        "Change of Estradiol (E2) hormone level",
+        "Change in Quality of life using Female Sexual Function Index - FSFI questionaires",
+        "Change in Quality of life using The Utian Quality of life Scale"
+      ],
+      "countries": [
+        "Vietnam"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05329662"
+    },
+    {
+      "nctId": "NCT03962088",
+      "matchedTerm": "gene therapy",
+      "briefTitle": "Timisnar - Biomarkers Substudy (Timisnar-mirna)",
+      "officialTitle": "Timing To Minimally Invasive Surgery After Neoadjuvant Chemoradiotherapy For Rectal Cancer: A Multicenter Randomized Controlled Trial - Biomarkers SubStudy",
+      "organization": "Azienda Ospedaliera SS. Antonio e Biagio e Cesare Arrigo di Alessandria",
+      "leadSponsor": "Azienda Ospedaliera SS. Antonio e Biagio e Cesare Arrigo di Alessandria",
+      "overallStatus": "UNKNOWN",
+      "hasResults": false,
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "enrollment": 200,
+      "enrollmentType": "ESTIMATED",
+      "startDate": "2019-04-01",
+      "primaryCompletionDate": "2025-04-01",
+      "completionDate": "2025-04-01",
+      "firstPostDate": "2019-05-23",
+      "lastUpdatePostDate": "2024-04-16",
+      "versionDate": "2026-07-13",
+      "briefSummary": "Neoadjuvant chemoradiotherapy (nCHT) followed by surgery is the mainstay treatment for locally advanced rectal cancer, leading to significant decrease in tumor size (downsizing) and a shift towards earlier disease stage in the primary tumor and lymph nodes (downstaging). Extensive histopathological work-up of the tumor specimen after surgery including tumor regression grading (TRG) and lymph node status (ypN) helped to visualize individual tumor sensitivity to CRT retrospectively. Since the response to nCHT is heterogeneous, however, valid biomarkers are needed to monitor tumor response. A relevant number of studies aimed to identify molecular markers retrieved from tumor tissue while the relevance of blood-based biomarkers is less stringent assessed.\n\nAs a potential alternative to CEA and ctDNA, microRNAs (miRNAs) are currently under investigation to serve as blood-based biomarkers. miRNAs are small, noncoding RNAs that regulate gene expression by post-transcriptional mRNA binding, which promotes the destabilization of target miRNAs. The target specificity of miRNAs is largely predetermined by their so-called \"seed-sequence\" (containing nucleotides at position 2-7 of the miRNA). They are highly conserved between species, stable and easy detectable even in small concentrations. They have been widely analyzed in physiological and pathological processes, and their expression is tissue specific.",
+      "detailedDescription": "Neoadjuvant chemoradiotherapy (nCHT) followed by surgery is the mainstay treatment for locally advanced rectal cancer, leading to significant decrease in tumor size (downsizing) and a shift towards earlier disease stage in the primary tumor and lymph nodes (downstaging). Extensive histopathological work-up of the tumor specimen after surgery including tumor regression grading (TRG) and lymph node status (ypN) helped to visualize individual tumor sensitivity to CRT retrospectively. Since the response to nCHT is heterogeneous, however, valid biomarkers are needed to monitor tumor response. A relevant number of studies aimed to identify molecular markers retrieved from tumor tissue while the relevance of blood-based biomarkers is less stringent assessed.\n\nBlood samples, i.e. Liquid Biopsy, however, offer several advantages:\n\n1. Taking blood samples is less invasive, less expensive, easy to schedule, and nearly without any severe complications.\n2. Blood samples are a source of fresh DNA and RNA, without modifications due to preservatives; especially in the case of rectal cancer, beyond intratumoral heterogeneity, tumor biopsies are in general accompanied by normal, adenomatous or stromal tissue. This contamination may affect results of molecular analyses\n3. Investigating blood from patients can account for molecular heterogeneity and surrogate for tumor burden since tumor-derived fragments or biomarkers are collected from all tumor cells in a patients' body through circulation.\n4. Liquid biopsy may offer both the possibility of dynamic monitoring under treatment and the possibility to assess disease activity even after pathologic complete response (pCR) or after resection of the tumor when no tissue is left for molecular analyses.\n\nIn clinical routines, to date, carcinoembryonic antigen (CEA) is established as a colorectal cancer (CRC) related tumor marker but is not recommended as a screening test for colorectal cancer. First, normal levels of CEA do not exclude the possibility of a colorectal cancer. Second, an elevated CEA is not categorically associated with CRC, or in the period of follow-up with disease progression. Circulating tumor DNA (ctDNA) represents nowadays, the main approach to monitor tumor burden and therapy resistance, to evaluate the presence of residual disease after potentially curative treatment and to monitor disease recurrence with high sensitivity and specificity.\n\nAs a potential alternative to CEA and ctDNA, microRNAs (miRNAs) are currently under investigation to serve as blood-based biomarkers. miRNAs are small, noncoding RNAs that regulate gene expression by post-transcriptional mRNA binding, which promotes the destabilization of target miRNAs. The target specificity of miRNAs is largely predetermined by their so-called \"seed-sequence\" (containing nucleotides at position 2-7 of the miRNA). They are highly conserved between species, stable and easy detectable even in small concentrations. They have been widely analyzed in physiological and pathological processes, and their expression is tissue specific.\n\nTo date, no screening approach to identify relevant miRNAs as biomarkers in blood of patients with rectal cancer was undertaken.",
+      "conditions": [
+        "Rectal Cancer"
+      ],
+      "interventions": [
+        "miRNA"
+      ],
+      "interventionTypes": [
+        "DIAGNOSTIC_TEST"
+      ],
+      "primaryOutcomes": [
+        "Change in expression levels of plasma miRNA"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03962088"
+    },
+    {
+      "nctId": "NCT03311503",
+      "matchedTerm": "gene therapy",
+      "briefTitle": "Phase I/II Trial of Lentiviral Gene Transfer for SCID-X1 With Low Dose Targeted Busulfan Conditioning",
+      "officialTitle": "Phase I/II Trial of Lentiviral Gene Transfer for SCID-X1 With Low Dose Targeted Busulfan Conditioning",
+      "organization": "Boston Children's Hospital",
+      "leadSponsor": "David Williams",
+      "overallStatus": "RECRUITING",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "enrollment": 12,
+      "enrollmentType": "ESTIMATED",
+      "startDate": "2018-02-26",
+      "primaryCompletionDate": "2028-01-01",
+      "completionDate": "2028-01-01",
+      "firstPostDate": "2017-10-17",
+      "lastUpdatePostDate": "2025-12-11",
+      "versionDate": "2026-07-13",
+      "briefSummary": "This is a phase I/II open label multi-center study in which patients will receive low dose targeted busulfan followed by infusion of autologous CD34+ selected bone marrow or mobilized peripheral blood cells transduced with the G2SCID vector. Subjects will be enrolled over 3 years and be followed for 2 years post-infusion on this protocol, then followed long-term on a separate long-term follow-up protocol.\n\nEnrollment of subjects will be agreed upon by representatives of both sites. Data will be collected uniformly from both sites through an electronic capture system and key laboratory studies will be centralized.\n\nHarvest, cellular manufacturing and infusion will occur at each site using the same SOPs. Key aspects of cellular product characterization will be centralized",
+      "detailedDescription": "This is an open labeled, multi-center, phase I/II, cohort study involving a single infusion of autologous CD34+ cells transduced with the self-inactivating (SIN) lentiviral vector G2SCID in up to 10 patients with X-linked SCID (SCID-X1) at Boston Children's Hospital, UCLA Mattel Children's Hospital, Cincinnatti Childrens Hospital Medical Center, Children's Healthcare of Atlanta. Patients will receive transduced cells after low dose targeted busulfan pre-conditioning (n=12).\n\nEnrolled subjects will be followed for 2 years after infusion on this protocol. Required long-term monitoring for a total of 15 years after infusion will be performed on a separate protocol.\n\nSingle infusion of autologous CD34+ cells transduced with the SIN lentiviral vector rHIV\\_IL2RGcoG2SCID (hereafter G2SCID) The primary objective is to measure event free survival and T cell immune reconstitution at 1 year post-infusion\n\nSecondary objectives are to measure overall survival, event-free survival, safety related to the procedure, and clinical and laboratory measures of efficacy including humoral immune reconstitution and gene marking after gene transfer.\n\nExploratory objectives include: molecular characterization of gene transfer, detailed assessment of biomarkers of T and B cell development and function, assessment of infections, nutritional status, growth and development post gene therapy, assessment of T cell receptor and B cell receptor repertoire by next generation sequencing, correlation of busulfan levels with immune outcome and molecular measurements of gene transfer",
+      "conditions": [
+        "Severe Combined Immunodeficiency, X Linked",
+        "Gene Therapy"
+      ],
+      "interventions": [
+        "autologous CD34+ cell transduced with G2SCID vector"
+      ],
+      "interventionTypes": [
+        "BIOLOGICAL"
+      ],
+      "primaryOutcomes": [
+        "The primary objective is to measure event free survival",
+        "T cell reconstitution"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03311503"
+    },
+    {
+      "nctId": "NCT00672594",
+      "matchedTerm": "liquid biopsy",
+      "briefTitle": "Study of Sunitinib Malate in Patients With Newly Diagnosed Prostate Cancer Prior to Prostatectomy",
+      "officialTitle": "Investigator-Initiated Pilot Study of Sunitinib Malate in Patients With Newly Diagnosed Prostate Cancer Prior to Prostatectomy",
+      "organization": "Duke University",
+      "leadSponsor": "Duke University",
+      "overallStatus": "COMPLETED",
+      "hasResults": true,
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "enrollment": 30,
+      "enrollmentType": "ACTUAL",
+      "startDate": "2006-07",
+      "primaryCompletionDate": "2012-09",
+      "completionDate": "2013-09",
+      "firstPostDate": "2008-05-06",
+      "lastUpdatePostDate": "2014-08-04",
+      "versionDate": "2026-07-13",
+      "briefSummary": "The purpose of this study is to look at blood and tissue samples for changes following the use of Sunitinib malate. Additionally, we would like to find out if the drug, Sunitinib malate, is safe and works in men with prostate cancer. Sunitinib malate , also known as Sutent, is approved by the U.S. Food and Drug Administration (FDA), for treatment of tumors of intestines and kidney but it is being tested in research studies for use in men with prostate cancer.",
+      "detailedDescription": "Eligible patients will be treated with 50 mg once daily for four weeks followed by one to two weeks off treatment prior to undergoing radical prostatectomy. Patients with palpable disease (cT2-3) and patients with 3 or more positive prostatic biopsies from one lobe may undergo an additional study of IFP monitoring before treatment and during week 4 of study treatment. Safety and tolerability of Sunitinib malate therapy at this dose and schedule in this patient population will be assessed. Extensive correlative science evaluations, including assessment of physiologic, cellular, molecular and genetic changes during treatment with Sunitinib malate, will be performed",
+      "conditions": [
+        "Prostate Cancer",
+        "Prostatectomy"
+      ],
+      "interventions": [
+        "Sunitinib Malate"
+      ],
+      "interventionTypes": [
+        "DRUG"
+      ],
+      "primaryOutcomes": [
+        "Change in Apoptotic Indices Before and After Treatment",
+        "Change in Proliferation Indices Before and After Treatment"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00672594"
+    },
+    {
+      "nctId": "NCT06126731",
+      "matchedTerm": "liquid biopsy",
+      "briefTitle": "Combination Study of Antibiotics With Enzalutamide (PROMIZE)",
+      "officialTitle": "PROMIZE: A Phase I/II Trial to Assess the Safety, Tolerability and Preliminary Anti-tumour Activity of Oral Combination Antibiotic Therapy to Modulate the Microbiome in Combination With Enzalutamide With Metastatic Castration Resistant Prostate Cancer (mCRPC).",
+      "organization": "Institute of Cancer Research, United Kingdom",
+      "leadSponsor": "Institute of Cancer Research, United Kingdom",
+      "overallStatus": "RECRUITING",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "enrollment": 39,
+      "enrollmentType": "ESTIMATED",
+      "startDate": "2023-11-02",
+      "primaryCompletionDate": "2026-06-30",
+      "completionDate": "2027-06-30",
+      "firstPostDate": "2023-11-13",
+      "lastUpdatePostDate": "2025-11-24",
+      "versionDate": "2026-07-13",
+      "briefSummary": "PROMIZE is an open-label, multi-centre, single-arm, Phase I/II clinical trial, evaluating the safety, tolerability and anti-tumuor efficacy of an antibiotic combination and enzalutamide in patients with metastatic castration-resistant prostate cancer (mCRPC).",
+      "detailedDescription": "Patients with histologically confirmed metastatic castration-resistant adenocarcinoma of the prostate refractory to conventional therapy (or for which no conventional therapy exists or is declined by the patient), that have progressed after at least 1 line of taxane based chemotherapy (or not fit or not willing to receive a taxane) and a NAAT are eligible for the study. The Phase I will evaluate the safety and tolerability of the combination of amoxicillin plus metronidazole (2 weeks) followed by ciprofloxacin plus vancomycin (2 weeks) administered for 2 cycles (i.e., 8 weeks) in addition to enzalutamide (160 mg daily). Enzalutamide will continue beyond the completion of the antibiotic combination until disease progression, intolerance, or withdrawal from the study. The DLT period is 4 weeks and commences at the time of combination treatment with antibiotics plus enzalutamide. Each cycle of treatment will be 4 weeks in length.\n\nThe design permits the safety monitoring of DLT regularly throughout the 2 phases. During the Phase I study, if 2 or more patients experience a DLT out of up to 6 patients, the schedule will be deemed intolerable, and a decision will be made by the SRC to modify the schedule depending on the timing and nature of toxicity observed and its causality. For any modified schedule, a further 6 patients will be treated, and the new dose and schedule will only be deemed tolerable if no more than 1 out of 6 patients experience a DLT.\n\nThe Phase II study will employ a 2-stage design. It will recruit a maximum of 33 patients with a desirable response level of 30% and an undesirable response rate of 10%. Patients enrolled to the Phase I who are treated at the RP2D and are evaluable for response will contribute to the Phase II study. Patients will receive the same dose and schedule deemed to be safe in the Phase I.\n\nIn the phase II study, the first stage will enrol 15 patients who are evaluable for response. If at least one patient responds during stage 1, a further 18 patients will be recruited (stage 2). The decision to proceed to stage 2 can be made once one response has been observed after thorough review of the cases where objective response was observed by the SRC. The trial will be terminated with the conclusion that the treatment is futile if no responses are observed in the first 15 patients. The second stage of the trial will enrol 18 patients who are evaluable for response. If \\>6 patients respond across the 2 stages, the study will have met its efficacy threshold. Further details of the Simon 2-stage design are specified in section 13. If \\<7 patients respond across the 2 stages, all samples will be analysed to identify predictive biomarkers of response. If a robust biomarker is identified, the study may be expanded in a biomarker-selected cohort following protocol amendment. Further safety analysis of safety (at least 2 further interim looks) will occur throughout the phase II trial.\n\nApproximately 6 patients will be enrolled to the Phase I and up to a total of 33 response evaluable patients will be enrolled to the Phase II study. Patients in the Phase I study who are treated with the RP2D and are evaluable for response can contribute to the Phase II study. Based on this, up to 39 response evaluable patients will be recruited across the 2 phases. Based on a recruitment rate of 3 patients per month across the 2 sites, recruitment will be completed within 24 months.",
+      "conditions": [
+        "Metastatic Castration-Resistant Prostate Cancer (mCRPC)"
+      ],
+      "interventions": [
+        "Enzalutamide 40mg",
+        "Amoxicillin 500mg",
+        "Metronidazole 400mg",
+        "Vancomycin 125mg",
+        "Ciprofloxacin 500g"
+      ],
+      "interventionTypes": [
+        "DRUG",
+        "DRUG",
+        "DRUG",
+        "DRUG",
+        "DRUG"
+      ],
+      "primaryOutcomes": [
+        "Confirm the safety and tolerability of the combination of amoxicillin plus metronidazole (2 weeks) followed by ciprofloxacin plus vancomycin (2 weeks) along with enzalutamide in Phase I in mCRPC patients.",
+        "Describe the safety profile of the antibiotic combinations along with enzalutamide in Phase I.",
+        "Determine the response rate of the antibiotic combinations in patients with mCRPC in Phase II."
+      ],
+      "countries": [
+        "Switzerland",
+        "United Kingdom"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06126731"
+    },
+    {
+      "nctId": "NCT03576937",
+      "matchedTerm": "liquid biopsy",
+      "briefTitle": "Achieving Value in Cancer Diagnostics: Blood Versus Tissue Molecular Profiling - a Prospective Canadian Study",
+      "officialTitle": "Achieving Value in Cancer Diagnostics: Blood Versus Tissue Molecular Profiling - a Prospective Canadian Study",
+      "organization": "University Health Network, Toronto",
+      "leadSponsor": "University Health Network, Toronto",
+      "overallStatus": "COMPLETED",
+      "hasResults": false,
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "enrollment": 207,
+      "enrollmentType": "ACTUAL",
+      "startDate": "2019-02-12",
+      "primaryCompletionDate": "2020-10-30",
+      "completionDate": "2023-04-30",
+      "firstPostDate": "2018-07-05",
+      "lastUpdatePostDate": "2023-05-15",
+      "versionDate": "2026-07-13",
+      "briefSummary": "Current guidelines in non-small cell lung cancer recommend genomic assessment for mutations in EGFR and BRAF, gene rearrangements in ALK and ROS1, and resistance mutations such as T790M upon progression during EGFR inhibitor therapy. However, obtaining sufficient tumour tissue to test for these molecular alterations, as well as those with emerging targeted therapies, is challenging in lung cancer. A promising method to improve molecular diagnostic testing in lung and other cancers is the use of circulating cell-free DNA (cfDNA) obtained from blood samples or liquid biopsies. This multi-centre prospective study will compare blood-based profiling (using the GUARDANT360 assay) to standard of care tissue-based profiling within the Canadian system.",
+      "detailedDescription": "",
+      "conditions": [
+        "Non-small Cell Lung Cancer"
+      ],
+      "interventions": [
+        "GUARDANT360"
+      ],
+      "interventionTypes": [
+        "DIAGNOSTIC_TEST"
+      ],
+      "primaryOutcomes": [
+        "Response rate to first-line therapy"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03576937"
+    },
+    {
+      "nctId": "NCT06602570",
+      "matchedTerm": "liquid biopsy",
+      "briefTitle": "The Mosaic Brain: a New Diagnostic Approach in Focal Epilepsies",
+      "officialTitle": "The Mosaic Brain: a New Diagnostic Approach in Focal Epilepsies",
+      "organization": "Institute of Child Health",
+      "leadSponsor": "Institute of Child Health",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "hasResults": false,
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "enrollment": 40,
+      "enrollmentType": "ESTIMATED",
+      "startDate": "2024-10-01",
+      "primaryCompletionDate": "2026-09-01",
+      "completionDate": "2026-09-01",
+      "firstPostDate": "2024-09-19",
+      "lastUpdatePostDate": "2024-09-19",
+      "versionDate": "2026-07-13",
+      "briefSummary": "Overall, this observational cohort study aims to:\n\n1. Improve our understanding of the genetic architecture of childhood focal epilepsies.\n2. Develop a liquid biopsy of cerebrospinal fluid (CSF) and assess feasibility to detect cerebral mosaicism using cell-free DNA (cfDNA) analysis and evaluate its performance against brain tissue on the panel testing.\n3. Develop a methodology to use trace tissue from Stereoelectroencephalography (SEEG) DNA and assess feasibility to detect cerebral mosaicism and evaluate its performance against brain tissue on the panel testing.\n\n3\\. Validate the use of the liquid biopsy and SEEG trace tissue for use in the English National Health Service clinical services and share with other Genomic Laboratory Hubs.",
+      "detailedDescription": "Epilepsy is characterised by recurrent epileptic seizures, and is the most common brain disease affecting children, significantly reducing their quality of life. Understanding the cause of epilepsy is key, as it can help doctors to identify the most effective treatment. This is an urgent issue as 30% of all children with epilepsy do not respond to currently available treatments.\n\nIn some children, seizures can start in an area of abnormal brain structure which can be removed with epilepsy surgery.\n\nWe see 150 children a year with epilepsy suspected to be caused by a brain lesion. As part of their evaluation, we do genetic testing in blood, as we know that changes in their DNA (mutations) can cause epilepsy in 30-40% of children.\n\nIt is now known that mutations are found in some areas of brain responsible for seizures but these are not present in the blood. This is mosaicism, when genetic variation affects only a subgroup of cells or tissues in an individual. Understanding these genetic changes in the brain tissue will help us understand how epilepsy starts and may help us design new treatments. Recently, we designed a new genetic test to pick up these mosaic mutations in brain tissue. However, current methods to detect mosaicism require the use of brain tissue, which limits testing to those children who qualify for surgery.\n\nTo expand testing to more children, without the need for surgery, we want to focus our work in using alternative samples, such as cell-free DNA cerebrospinal fluid (CSF) and trace-tissue DNA from trace cells collected from Stereoelectroencephalography (SEEG) electrodes.\n\nWe aim to further our understanding of brain mosaicism in epilepsy, using the current available tests, as well as aim to increase access to testing by developing methods to use samples collected using less invasive and pre-surgical methods.",
+      "conditions": [
+        "Epilepsy Intractable",
+        "Epilepsy in Children"
+      ],
+      "interventions": [],
+      "interventionTypes": [],
+      "primaryOutcomes": [
+        "Measure concordance of genetic results for brain mosaicism testing between brain tissue and alternative samples."
+      ],
+      "countries": [],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06602570"
+    },
+    {
+      "nctId": "NCT07659262",
+      "matchedTerm": "artificial intelligence clinical decision support",
+      "briefTitle": "AI-ECG for One-Year Mortality Risk Prediction",
+      "officialTitle": "An Artificial Intelligence-Based Electrocardiogram Analysis System for One-Year Mortality Risk Prediction",
+      "organization": "National Defense Medical Center, Taiwan",
+      "leadSponsor": "National Defense Medical Center, Taiwan",
+      "overallStatus": "COMPLETED",
+      "hasResults": false,
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "enrollment": 461982,
+      "enrollmentType": "ACTUAL",
+      "startDate": "2025-04-01",
+      "primaryCompletionDate": "2025-07-21",
+      "completionDate": "2025-07-21",
+      "firstPostDate": "2026-06-22",
+      "lastUpdatePostDate": "2026-06-24",
+      "versionDate": "2026-07-13",
+      "briefSummary": "Cardiovascular disease (CVD) remains one of the leading causes of death worldwide. While the electrocardiogram (ECG) is a standard, widely accessible tool for cardiovascular screening, traditional risk assessment models often rely heavily on blood test results, which may be unavailable in electronic health records (EHRs). To address this limitation, the Chang Gung ECG Mortality Risk Prediction Software, an artificial intelligence (AI)-based Software as a Medical Device (SaMD), was developed. The software analyzes standard 10-second, 12-lead resting ECG signals to predict the probability of cardiac-related mortality within one year.\n\nThis study is a multicenter retrospective cohort study designed to validate the clinical performance of the AI software. Researchers will analyze retrospectively collected ECG data from patients aged 20 years or older with suspected cardiovascular disease across three hospitals in Taiwan. The AI model's predictions will be compared with the actual one-year mortality outcomes documented in the patients' medical records. The primary objective is to determine whether the AI model can accurately and consistently stratify patients according to their risk of cardiac-related mortality (e.g., heart failure, arrhythmia, and myocardial infarction), with an area under the receiver operating characteristic curve (AUC) greater than 0.80. The software is intended to serve as a clinical decision-support tool for long-term risk stratification in non-acute clinical settings, thereby assisting physicians in clinical decision-making and long-term patient management.",
+      "detailedDescription": "Cardiovascular disease (CVD) is a major global health burden. Current cardiovascular risk assessment models (e.g., Framingham and QRISK) rely heavily on blood biochemical data, which limits their applicability when electronic health record (EHR) data are incomplete. The 12-lead resting electrocardiogram (ECG) is a rapid, non-invasive, and widely accessible screening tool. Recent advances in artificial intelligence (AI), particularly deep learning models such as ResNet, have demonstrated superior capabilities for automatically extracting clinically relevant features from ECG signals to predict cardiovascular risk.\n\nThis national multi-center retrospective study aims to evaluate the clinical performance of the Chang Gung ECG Mortality Risk Prediction Software, a standalone Software as a Medical Device (SaMD). The core algorithm utilizes a 1D-ResNet-18 convolutional neural network to analyze 10-second, 12-lead resting ECG signals sampled at 500 Hz with a 60-Hz Alternating Current (AC) filter. The software outputs the predicted probability of cardiac-related mortality within one year to assist physicians in non-acute clinical settings.\n\nStudy Methodology: The study will retrospectively collect de-identified electronic health records and ECG data obtained between August 2011 and September 2024 from three institutions in Taiwan: Tri-Service General Hospital, Kaohsiung Armed Forces General Hospital, and Taipei Municipal Wanfang Hospital. Only the first eligible ECG from each patient will be included to avoid intra-individual bias.\n\nThe AI model's predictions will be compared with the actual one-year mortality outcomes. To improve interpretability, cardiologists with more than five years of clinical experience will review high-risk predictions using Gradient-weighted Class Activation Mapping (Grad-CAM). A prediction will be considered clinically interpretable only if both the predicted risk and the corresponding Grad-CAM localization are deemed clinically reasonable.\n\nStatistical Analysis: The study employs a one-tailed superiority design with a significance level of 0.05. The null hypothesis states that the area under the receiver operating characteristic curve (AUC) is ≤0.80, whereas the alternative hypothesis states that the AUC is \\>0.80. Subgroup analyses will be performed according to age groups (e.g., 20-40, 41-60, and \\>60 years) and disease categories (e.g., arrhythmia, myocardial infarction, and heart failure). DeLong's test will be used to evaluate the model's predictive performance across different demographic and clinical subgroups.\n\nData Privacy and Federated Learning: All patient data will be strictly de-identified in accordance with Health Insurance Accountability and Portability Act (HIPAA) guidelines and analyzed within secure, closed intra-hospital networks. If the initial validation does not achieve the predefined performance target (AUC \\>0.80), a horizontal federated learning architecture will be implemented. Up to 10% of the available dataset will be used for model fine-tuning, after which the updated model will be independently validated using a separate untouched dataset to ensure robustness and prevent data contamination.",
+      "conditions": [
+        "Electrocardiogram",
+        "Mortality Risk Prediction"
+      ],
+      "interventions": [
+        "Chang Gung ECG Mortality Risk Prediction Software (Model: CGMH-DRP-001)"
+      ],
+      "interventionTypes": [
+        "DEVICE"
+      ],
+      "primaryOutcomes": [
+        "Area Under the Receiver Operating Characteristic Curve (AUC) for Predicting One-Year Cardiac-Related Mortality"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07659262"
+    },
+    {
+      "nctId": "NCT07378683",
+      "matchedTerm": "artificial intelligence clinical decision support",
+      "briefTitle": "A Clinical Prediction Model for Surgical Site Infection After Central Nervous System Tumor Surgery",
+      "officialTitle": "A Prospective, Single-Center Clinical Validation Study: Machine Learning Model-Based Risk Stratification Intervention for Reducing Surgical Site Infection After Central Nervous System Tumor Surgery",
+      "organization": "Cancer Institute and Hospital, Chinese Academy of Medical Sciences",
+      "leadSponsor": "Ming Yang",
+      "overallStatus": "RECRUITING",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "enrollment": 500,
+      "enrollmentType": "ESTIMATED",
+      "startDate": "2025-06-01",
+      "primaryCompletionDate": "2029-10-30",
+      "completionDate": "2029-10-30",
+      "firstPostDate": "2026-01-30",
+      "lastUpdatePostDate": "2026-01-30",
+      "versionDate": "2026-07-13",
+      "briefSummary": "1. Study Background For patients undergoing brain or spinal tumor surgery, postoperative surgical wound infection (known as \"surgical site infection,\" SSI) is a recognized risk. Once an infection occurs, it may complicate and prolong the recovery process. Currently, doctors primarily rely on clinical experience to judge which patients are at higher risk of infection. Our research team has previously developed an intelligent prediction model (a machine learning tool) that can very accurately identify which patients are at higher risk of postoperative infection. This study aims to validate whether implementing enhanced preventive measures for high-risk patients in advance, based on the model's predictions, can effectively reduce the occurrence of infection.\n2. Study Purpose The primary purpose of this study is to validate whether an individualized intervention strategy based on an intelligent prediction model can effectively reduce the incidence of surgical site infection in patients after central nervous system tumor surgery. Simultaneously, we will also evaluate the safety of this strategy, its impact on patient hospital stay length and medical costs, as well as its feasibility in practical clinical application.\n3. Study Design Type: This is a prospective, single-center clinical validation study. \"Prospective\" means the research plan is established first, followed by patient recruitment and data collection according to the plan; \"single-center\" indicates the study is conducted solely at the Chinese Academy of Medical Sciences Cancer Hospital.\n\n   Process: For all patients who consent to participate in this study, within 72 hours after surgery, the research system will automatically calculate their infection risk based on 8 key clinical indicators (such as blood test results, medical history, etc.).\n\n   High-Risk Group (model-predicted infection probability ≥50%): Will receive a set of enhanced, individualized infection prevention measures (e.g., adjusted antibiotic regimen, enhanced nutritional support, closer monitoring).\n\n   Low-Risk Group (model-predicted infection probability \\<50%): Will receive the current standard, high-quality postoperative care.\n\n   Duration: The study is planned to run from February 2026 to October 2029. Each participating patient will be followed for 3 months (90 days) to observe whether infection occurs.\n\n   Sample Size: It is planned to recruit approximately 500 eligible patients.\n4. Primary Evaluation Indicators Primary Indicator: The incidence of surgical site infection within 90 days after surgery. The diagnosis of infection will be made by experts who are unaware of the patient's group assignment, strictly following international standards.\n\n   Secondary Indicators: Include the accuracy of the intelligent prediction model in practical use, patient hospital stay length, other infection-related complications, medical costs, and the adoption rate of the model's recommendations by physicians.\n5. Eligibility Criteria (Inclusion Criteria Summary)\n\n   You may be eligible to participate in this study if you meet the following conditions:\n\n   Diagnosed with a brain or spinal tumor and scheduled for elective surgery. Aged 18 years or older. Expected survival exceeds 3 months and able to cooperate with postoperative follow-up.\n\n   Voluntary participation and signing of a written informed consent form. (Note: This study has detailed exclusion criteria. Final confirmation of whether all criteria are met will be determined by your study doctor.)\n6. Patients' Rights and Safety Voluntary Participation: Participation in this study is entirely voluntary. You have the right to withdraw from the study at any time, which will not affect the quality of any normal medical services you are entitled to at our hospital or your relationship with it.\n\n   Informed Consent: Before the study begins, your study doctor will explain all study procedures, potential risks, and benefits in detail, and you will sign an \"Informed Consent Form.\" Privacy Protection: All your personally identifiable information will be kept strictly confidential. Codes will replace your name and other identifiable information in research analyses and reports.\n\n   Safety Assurance: This study has been reviewed and approved by the hospital's Ethics Committee. We have established an independent Data Safety Monitoring Board to monitor the study's safety throughout. Clinical trial liability insurance has been purchased for all participants to cover damages related to the trial.\n7. Contact Information\n\nIf you would like to learn more about this study, please contact us via:\n\nPrincipal Investigator: Dr. Yang Ming National Cancer Center/National Clinical Research Center for Cancer/Cancer Research Unit: Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College",
+      "detailedDescription": "",
+      "conditions": [
+        "Surgical Site Infection (SSI)",
+        "Central Nervous System Tumor"
+      ],
+      "interventions": [
+        "ML-Based Enhanced Intervention Package for SSI Prevention",
+        "Standard Postoperative Care"
+      ],
+      "interventionTypes": [
+        "OTHER",
+        "OTHER"
+      ],
+      "primaryOutcomes": [
+        "Incidence of surgical site infection within 90 days postoperatively"
+      ],
+      "countries": [
+        "China"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07378683"
+    },
+    {
+      "nctId": "NCT07277634",
+      "matchedTerm": "artificial intelligence clinical decision support",
+      "briefTitle": "Cultural Adaptation of Attitude Scales Towards Artificial Intelligence Into Turkish",
+      "officialTitle": "Cultural Adaptation and Validity-Reliability of Attitude Scales Toward Artificial Intelligence in Turkish: A Psychometric Study on Physical Therapy Patients",
+      "organization": "Gazi University",
+      "leadSponsor": "Barış SEVEN",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "hasResults": false,
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "enrollment": 200,
+      "enrollmentType": "ESTIMATED",
+      "startDate": "2026-01-01",
+      "primaryCompletionDate": "2026-06-01",
+      "completionDate": "2027-01-01",
+      "firstPostDate": "2025-12-11",
+      "lastUpdatePostDate": "2025-12-11",
+      "versionDate": "2026-07-13",
+      "briefSummary": "The rapid proliferation of artificial intelligence (AI) applications in healthcare has led to significant transformations, particularly in applications such as patient management, treatment planning, clinical decision support systems, and remote rehabilitation. Ensuring that this transformation is effective and safe requires the reliable measurement of patients' perceptions and attitudes toward AI-based health technologies. However, the existing literature does not include any scales developed to measure patients' attitudes toward AI that have been adapted to Turkish society. This situation complicates both the assessment of acceptance of AI in clinical applications and the sound execution of scientific research in this field.\n\nThis research aims to culturally adapt the internationally developed ATTARI-12 (Attitudes Toward Artificial Intelligence-12) and ATTARI-WHE (Artificial Intelligence in Work, Health and Everyday Life) scales into Turkish and to evaluate their construct validity and reliability. The study is methodological in design and will be conducted at the Faculty of Health Sciences, Izmir Katip Celebi University, between January 2026 and January 2027, following approval by the ethics committee. The cultural adaptation method proposed by Beaton and colleagues, which includes forward translation, back translation, expert panel, and content validity stages, will be applied during the scale adaptation process; then, the understandability of the items will be tested with a pilot application. The sample will consist of at least 200 physical therapy patients, and convergent validity, construct validity using confirmatory factor analysis, and reliability using Cronbach's alpha and test-retest methods will be evaluated.\n\nThe project will be carried out according to a structured schedule consisting of project management, translation process, pilot application, data collection, and analysis stages. All measurements will be performed after obtaining ethical committee approval.\n\nThe results of this study will contribute to the literature by providing patient-specific, valid, and reliable measurement tools that can be used to scientifically evaluate patients' attitudes toward AI in Turkey. These scales are expected to have a widespread impact in national research, in the evaluation of clinical decision support systems, and in strategies aimed at increasing the acceptance of AI-based health technologies.",
+      "detailedDescription": "This is a Cultural Adaptation and Validity-Reliability study",
+      "conditions": [
+        "Physical Therapy Patient"
+      ],
+      "interventions": [],
+      "interventionTypes": [],
+      "primaryOutcomes": [
+        "ATTARI-12 (Attitudes Toward Artificial Intelligence-12) and ATTARI-WHE (Artificial Intelligence in Work, Health and Everyday Life) Scales"
+      ],
+      "countries": [],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07277634"
+    },
+    {
+      "nctId": "NCT04584281",
+      "matchedTerm": "artificial intelligence clinical decision support",
+      "briefTitle": "Artificial Intelligence (AI) in Cardiotocography (CTG) Interpretation",
+      "officialTitle": "Introduction of Artificial Intelligence (AI) and Machine Learning in Cardiotocography (CTG) Interpretation to Improve Clinical Use",
+      "organization": "Insel Gruppe AG, University Hospital Bern",
+      "leadSponsor": "Insel Gruppe AG, University Hospital Bern",
+      "overallStatus": "UNKNOWN",
+      "hasResults": false,
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "enrollment": 15000,
+      "enrollmentType": "ESTIMATED",
+      "startDate": "2020-10",
+      "primaryCompletionDate": "2021-06",
+      "completionDate": "2021-06",
+      "firstPostDate": "2020-10-12",
+      "lastUpdatePostDate": "2020-10-12",
+      "versionDate": "2026-07-13",
+      "briefSummary": "The project leaders plan to create a clinical decision support (CDS) system by programming a self-learning software to analyze the cardiotocography (CTG) traces in the - already existing - database from the maternity department of the Inselspital Berne. The project leaders will process and analyze all clinical outcomes of the estimated 10000-15000 eligible patient records. CSEM will design, develop, and validate several AI architectures with the intend to create the CDS system. The AI would learn to assist on this task by training machine learning (ML) algorithms. The main purpose of the AI-CDS will be to determine the best fetal extraction moment during labor, based on a self-learning approach, as a \"superhuman\" support tool for obstetricians in decision making during labor.",
+      "detailedDescription": "",
+      "conditions": [
+        "To Introduce Artificial Intelligence (AI) and Machine Learning in Cardiotocography (CTG) Interpretation to Improve Clinical Use"
+      ],
+      "interventions": [],
+      "interventionTypes": [],
+      "primaryOutcomes": [
+        "Superior prediction of fetal morbidity through the self-learning CDS system than if performed by obstetricians alone, especially in regards to specificity."
+      ],
+      "countries": [
+        "Switzerland"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04584281"
+    },
+    {
+      "nctId": "NCT06191302",
+      "matchedTerm": "aging biomarker",
+      "briefTitle": "Post-acute COVID-19 Sequelae in Denmark",
+      "officialTitle": "Investigation of COVID-19 Post-acute Sequelae in Patients From Hvidovre Hospitals Catchment Area, and in a Register of the Danish Population 2000-2026",
+      "organization": "Hvidovre University Hospital",
+      "leadSponsor": "Hvidovre University Hospital",
+      "overallStatus": "RECRUITING",
+      "hasResults": false,
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "enrollment": 800,
+      "enrollmentType": "ESTIMATED",
+      "startDate": "2024-09-10",
+      "primaryCompletionDate": "2026-03-01",
+      "completionDate": "2026-03-01",
+      "firstPostDate": "2024-01-05",
+      "lastUpdatePostDate": "2025-03-12",
+      "versionDate": "2026-07-13",
+      "briefSummary": "Since the first SARS-CoV-2 cases in 2019, over 660 million COVID-19 cases have been reported globally, including 183 million in the EU. Up to 70% of those infected experience reduced organ function four months or more after a COVID-19 diagnosis, potentially increasing the risk of non-communicable diseases (NCDs). The post-acute phase (PAP) after COVID-19 (four months or more after the acute phase) can lead to impaired function in various organ systems, with a focus on the lungs, cardiovascular system, and kidneys. These three NCDs collectively impose a significant burden on individuals and society. Urgently, we need to understand the connection between COVID-19, PAP and NCDs, identifying robust biomarkers for early detection. This study examines PAP and associated risk factors, investigating the link between PAP and the heightened risk of lung, heart, and kidney complications. Utilizing data from a cohort of COVID-19 patients and a control group with respiratory diseases, the study aims to determine prevalence and risk ratios more precisely. The aim is to contribute to minimizing the risk of NCD development or exacerbation in current and future COVID-19 patients, enhancing our understanding of chronic disease development at the population leve",
+      "detailedDescription": "The post-acute phase (PAP) after COVID-19 (four months or more after the acute phase of COVID-19) can manifest with reduced function in multiple organ systems, with a particular focus on the lungs, cardiovascular system, and kidneys. Collectively, these three non-communicable diseases (NCDs) represent a significant burden for both the individual and society as a whole. There is an urgent need to elucidate this connection and build a more detailed understanding of the link between COVID-19\\&#39;s PAP and individual NCDs, as well as to identify robust biomarkers that can assist in the early identification of the development of these NCDs.\n\nThis study focuses on PAP and the associated risk factors in this later phase of the disease, examining the relationship between PAP and the increased risk of specifically lung, heart, and kidney complications in the Danish population. Additionally, data (medical records, registry data, patient reported outcomes and blood samples) from a cohort of former patients hospitalized with COVID-19, as well as a control group hospitalized with other respiratory diseases, are investigated to determine the prevalence and risk ratios in disease development more precisely.\n\nThe purpose of the study is to contribute to minimizing the risk of developing or worsening NCDs in current and future COVID-19 patients, as well as contributing to our understanding of chronic disease development at the population level. The study aims to investigate the hypothesis that biomarkers can predict if SARS-CoV-2 infection leads to increased and exacerbated non-communicable pulmonary, cardiovascular, and renal diseases.\n\nFurther, we address the unmet need to understand the molecular mechanisms responsible for the link between post-acute effects of SARS-CoV-2 and complications in the pulmonary, cardiovascular, and renal system. More specific we will investigate the molecular mechanisms responsible for the aetiology and decline in organ function.\n\nThe population in the registry study is the entire population of Denmark. The population in the clinical cohort consists of former patients who have been admitted to Hvidovre Hospital with the diagnosis OBS COVID. Participants consent to the use of residual material from their blood sample, taken during their hospitalization with the diagnosis OBS-COVID in the period 2020-2022 (index blood sample). After obtaining consent, patients come to Hvidovre Hospital, where a blood sample (follow-up blood sample) is taken, and an online questionnaire is completed and stored in REDCap. Blood samples are analyzed and compared with collected registry data and questionnaire data, after which the results are reported in international peer-reviewed journals.",
+      "conditions": [
+        "Non-communicable Disease",
+        "COVID-19"
+      ],
+      "interventions": [
+        "blood sample",
+        "Online questionaire"
+      ],
+      "interventionTypes": [
+        "PROCEDURE",
+        "OTHER"
+      ],
+      "primaryOutcomes": [
+        "1.Is there a difference in the incidence and disease progression of NCD (pulmonary, cardiovascular, and renal disease) in the PAP between SARS-CoV-2-positive patients and a control group of patients admitted with other respiratory diseases?",
+        "2. Is there a difference in the association of admission biomarkers and incidence, severity, and disease progression of NCD in PAP, between SARS-CoV-2 positive patients and a control group of patients admitted with other respiratory diseases?",
+        "3. Which biomarkers are involved in development or disease progression of NCDs in PAP?"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06191302"
+    },
+    {
+      "nctId": "NCT02260466",
+      "matchedTerm": "aging biomarker",
+      "briefTitle": "Prevalence and Post-surgical Outcomes of CARdiac Wild-type TransthyrEtin amyloidoSIs in Elderly Patients With Aortic steNosis Referred for Valvular Replacement.",
+      "officialTitle": "AMYLO-CARTESIAN Study :Prevalence and Post-surgical Outcomes of CARdiac Wild-type TransthyrEtin amyloidoSIs in Elderly Patients With Aortic steNosis Referred for Valvular Replacement.",
+      "organization": "French Cardiology Society",
+      "leadSponsor": "French Cardiology Society",
+      "overallStatus": "UNKNOWN",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "enrollment": 186,
+      "enrollmentType": "ACTUAL",
+      "startDate": "2014-10",
+      "primaryCompletionDate": "2022-11-23",
+      "completionDate": "2024-12-31",
+      "firstPostDate": "2014-10-09",
+      "lastUpdatePostDate": "2024-03-13",
+      "versionDate": "2026-07-13",
+      "briefSummary": "Background: The prevalence of both senile cardiac amyloidosis (CA) and aortic stenosis (AS) markedly increases with age. Aortic stenosis increases left ventricular pressure overload. Cardiac deposits have been observed in AS and the amount of these deposits has been correlated to post-surgical outcome. As they are strong echocardiographic and cardiac MRI imaging similarities between CA and AS, the investigators hypothesized that the deposit observed in AS is transthyretin amyloid deposit. The investigators objective is to demonstrate that amyloid deposit is associated with poor outcomes following aortic stenosis surgical valve replacement.\n\nMateriel and methods: 180 patients with indication for surgical aortic valve replacement will be recruited prospectively and consecutively in 5 French centers. A replicative study will be performed in one Austrian center. Echocardiography, cardiac MRI and bone scintigraphy will be performed prior to surgery. During surgery, a basal LV septum biopsy will be collected for determination and quantification of interstitial deposits using specific staining which will be performed in a blind fashion. Clinical outcomes will be recorded during the hospitalization period following the surgery and at 1 year. Alive and re-hospitalization status will be determined. Patients will be classified according to the presence or not of amyloid deposits.\n\nExpected results and impact: This study will emphasize how pressure overload stress accelerates and magnifies amyloid deposition usually known to be related to cardiac aging process. It will develop reliable imaging tools and markers to detect cardiac amyloid deposition. Correlation between anatomopathologic analyses and the three different imaging technics will identify accurate imaging markers of CA. A risk stratification model based on amyloid deposits level for the clinical management of these patients will be created combining imaging and biological markers.",
+      "detailedDescription": "Cardiovascular diseases remain the major cause of mortality and morbidity in industrialised countries. Their prevalence increases steeply as consequence of the aging of the population in these countries. Curiously, cardiovascular and neurodegenerative diseases share common aging pathological pathways involving abnormal accumulation of insoluble amyloid proteins in the extracellular matrix disrupting normal organ function. Whereas neurological amyloid diseases has been considerably investigated, little attention has been paid to the aggregation of amyloid proteins in cardiovascular diseases. Post-mortem studies have identified cardiac wild-type transthyretin amyloidosis deposition in 25% of individuals over the age of 80 years leading to the concept of \"senile cardiac amyloidosis\" (CA) (Cornwell, Am j Med 1984; Pitkanen, Am J Pathol 1984). The cause of this deposition is not yet known but might be related primarily to aging process and enhanced by cardiac mechanical stress (overload), hypoxia, oxidative stress and inflammation. Since patients with transthyretin CA develop severe heart failure with poor prognosis, it is crucial to identify them especially among population at risk such those with aortic stenosis (AS). Indeed this common valvular heart disease affects mainly senescent subjects and combines so the adverse effects on myocardial function of both pressure overload and myocardial aging.\n\nInterestingly, some elderly patients with severe AS exhibit similar echocardiographic and cardiac MRI patterns as those reported in CA including increased cardiac wall thickness and progressive left ventricular dysfunction starting with alteration of basal LV-2D strain. They also exhibit increased late gadolinium enhancement (LGE) at cardiac MRI. This has been interpreted as related to interstitial myocardial \"fibrosis\" and has been correlated with poor prognosis after aortic valve replacement i.e.; high mortality, persistence of heart failure symptoms and LV dysfunction (Weidemann Circ 2009; Dweck, JACC 2011; Hermann JACC 2011). However none of these patients have benefited from a detailed histology analysis with aiming at identifying amyloid deposits. The investigators have recently found similar clinical observations in the investigators AS cohort. Using specific staining, the investigators were able to unmask the association of severe AS and CA in these patients. These preliminary findings raise the question of a potential pathophysiological link between CA and AS and might explain why some patients with AS may not benefit from cardiac surgery.",
+      "conditions": [
+        "Heart Disease",
+        "Aging",
+        "Amyloidosis",
+        "Aortic Valve Stenosis"
+      ],
+      "interventions": [
+        "a basal LV septum biopsy"
+      ],
+      "interventionTypes": [
+        "OTHER"
+      ],
+      "primaryOutcomes": [
+        "Clinical composite criterion: All causes of death and cardiovascular hospitalization at 1 year after surgery"
+      ],
+      "countries": [
+        "France"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT02260466"
+    },
+    {
+      "nctId": "NCT07104929",
+      "matchedTerm": "aging biomarker",
+      "briefTitle": "Beta Glucan 500 and Biological Age and Immune Age",
+      "officialTitle": "Prospective Human Study Evaluating the Effects of Beta Glucan 500 on Markers of Biological Age and Immune Age: An Open-label Pilot Study",
+      "organization": "OvationLab",
+      "leadSponsor": "OvationLab",
+      "overallStatus": "COMPLETED",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "enrollment": 60,
+      "enrollmentType": "ACTUAL",
+      "startDate": "2025-05-14",
+      "primaryCompletionDate": "2025-10-09",
+      "completionDate": "2025-10-09",
+      "firstPostDate": "2025-08-05",
+      "lastUpdatePostDate": "2026-02-19",
+      "versionDate": "2026-07-13",
+      "briefSummary": "The primary purpose of this study is to evaluate the effects of BWH Labs - Beta Glucan 500 on biomarkers of biological and immune age among healthy adults.\n\nA single-arm, open-label prospective study will be conducted evaluating the impact of 12 weeks of supplementation with two capsules daily of Beta Glucan 500 on a variety of validated markers of biological and immune age on the comprehensive TruAge panel (TruDiagnostics, Lexington, KY).",
+      "detailedDescription": "",
+      "conditions": [
+        "Aging"
+      ],
+      "interventions": [
+        "Beta Glucan"
+      ],
+      "interventionTypes": [
+        "DIETARY_SUPPLEMENT"
+      ],
+      "primaryOutcomes": [
+        "Epigenetic Testing"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07104929"
+    },
+    {
+      "nctId": "NCT04838301",
+      "matchedTerm": "aging biomarker",
+      "briefTitle": "Allopregnanolone Regenerative Therapeutic for Mild Alzheimer's Disease",
+      "officialTitle": "Safety and Efficacy of Allopregnanolone (Allo) as a Regenerative Therapeutic for Alzheimer's Disease: Multicenter, Double-Blind, Randomized, Placebo-Controlled, Phase 2 Clinical Trial",
+      "organization": "University of Arizona",
+      "leadSponsor": "University of Arizona",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "enrollment": 100,
+      "enrollmentType": "ESTIMATED",
+      "startDate": "2023-08-15",
+      "primaryCompletionDate": "2026-11-18",
+      "completionDate": "2027-03-18",
+      "firstPostDate": "2021-04-09",
+      "lastUpdatePostDate": "2026-06-30",
+      "versionDate": "2026-07-13",
+      "briefSummary": "A phase 2, double-blind, randomized, placebo-controlled clinical trial to evaluate the safety and efficacy of Allopregnanolone as a regenerative therapeutic for Alzheimer's disease.",
+      "detailedDescription": "This is a proof-of-concept phase 2 clinical trial to investigate the long-term safety and efficacy of Allo to function as a regenerative therapeutic to restore structural integrity and cognitive function of the brain in participants with mild Alzheimer's disease (AD) dementia. Study participants will be male and female, diagnosed with probable AD, Mini-Mental State Exam (MMSE) 20 to 26, ages 55 to 80 years old.\n\nAfter a 2-4-week screening period, participants will be randomized to 4 mg Allo (administered intravenously over 30 minutes, once per week, in clinic) or matching placebo, 1:1 allocation, for a period of 6 months. After 6 months, all participants in the placebo group will be crossed-over to receive Allo for the remainder of the study (3 month open-label phase). Brain imaging to evaluate the primary endpoint will be conducted at baseline, 3 and 6 months.",
+      "conditions": [
+        "Alzheimer Dementia",
+        "Late Onset Alzheimer Disease",
+        "Neurodegenerative Diseases"
+      ],
+      "interventions": [
+        "Allopregnanolone",
+        "Placebo"
+      ],
+      "interventionTypes": [
+        "DRUG",
+        "OTHER"
+      ],
+      "primaryOutcomes": [
+        "Hippocampal volume"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04838301"
+    }
+  ],
+  "signals": [
+    {
+      "id": "clinicaltrials-NCT04838301",
+      "date": "2026-06-30",
+      "title": "Allopregnanolone Regenerative Therapeutic for Mild Alzheimer's Disease",
+      "entity": "Clinical Trial",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04838301",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Recruiting"
+      ],
+      "tags": [
+        "临床试验"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT04838301 with status ACTIVE_NOT_RECRUITING, phase PHASE2, enrollment 100, lead sponsor University of Arizona, countries United States.",
+      "report": "A phase 2, double-blind, randomized, placebo-controlled clinical trial to evaluate the safety and efficacy of Allopregnanolone as a regenerative therapeutic for Alzheimer's disease.",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT07659262",
+      "date": "2026-06-24",
+      "title": "AI-ECG for One-Year Mortality Risk Prediction",
+      "entity": "Diagnostics Trial",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07659262",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Diagnostics",
+        "Precision Medicine",
+        "Healthcare AI",
+        "Medical AI"
+      ],
+      "tags": [
+        "临床试验",
+        "诊断",
+        "精准医疗",
+        "医疗 AI",
+        "临床决策支持"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT07659262 with status COMPLETED, phase N/A, enrollment 461982, lead sponsor National Defense Medical Center, Taiwan, countries Taiwan.",
+      "report": "Cardiovascular disease (CVD) remains one of the leading causes of death worldwide. While the electrocardiogram (ECG) is a standard, widely accessible tool for cardiovascular screening, traditional risk assessment models often rely heavily on blood test results...",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Diagnostics, Precision Medicine, Healthcare AI, Medical AI。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT07104929",
+      "date": "2026-02-19",
+      "title": "Beta Glucan 500 and Biological Age and Immune Age",
+      "entity": "Longevity Clinical Study",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07104929",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Longevity",
+        "Biomarkers"
+      ],
+      "tags": [
+        "临床试验",
+        "衰老",
+        "biomarker"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT07104929 with status COMPLETED, phase PHASE2, enrollment 60, lead sponsor OvationLab, countries United States.",
+      "report": "The primary purpose of this study is to evaluate the effects of BWH Labs - Beta Glucan 500 on biomarkers of biological and immune age among healthy adults. A single-arm, open-label prospective study will be conducted evaluating the impact of 12 weeks of supple...",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT06590454",
+      "date": "2026-02-12",
+      "title": "REVerse Intestinal Metaplasia in the Stomach (REVISE)",
+      "entity": "Organoid Clinical Study",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06590454",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Organoids",
+        "Advanced Disease Models",
+        "Oncology",
+        "Precision Oncology",
+        "Recruiting"
+      ],
+      "tags": [
+        "临床试验",
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT06590454 with status RECRUITING, phase PHASE2, enrollment 32, lead sponsor Katherine Garman, countries United States.",
+      "report": "This study is designed to test the use of Pyrvinium vs placebo as a treatment for gastric intestinal metaplasia with features associated with increased risk of cancer. Response will be determined by assessing the extent and quality of the gastric intestinal me...",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Organoids, Advanced Disease Models。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT07378683",
+      "date": "2026-01-30",
+      "title": "A Clinical Prediction Model for Surgical Site Infection After Central Nervous System Tumor Surgery",
+      "entity": "Healthcare AI Trial",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07378683",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Healthcare AI",
+        "Medical AI",
+        "Oncology",
+        "Precision Oncology",
+        "Recruiting"
+      ],
+      "tags": [
+        "临床试验",
+        "医疗 AI",
+        "临床决策支持",
+        "肿瘤",
+        "中国"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT07378683 with status RECRUITING, phase NA, enrollment 500, lead sponsor Ming Yang, countries China.",
+      "report": "1. Study Background For patients undergoing brain or spinal tumor surgery, postoperative surgical wound infection (known as \"surgical site infection,\" SSI) is a recognized risk. Once an infection occurs, it may complicate and prolong the recovery process. Curr...",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Healthcare AI, Medical AI。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT03311503",
+      "date": "2025-12-11",
+      "title": "Phase I/II Trial of Lentiviral Gene Transfer for SCID-X1 With Low Dose Targeted Busulfan Conditioning",
+      "entity": "Gene Therapy Trial",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03311503",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Gene Therapy",
+        "Genetic Medicine",
+        "Recruiting"
+      ],
+      "tags": [
+        "临床试验",
+        "基因治疗",
+        "基因编辑"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT03311503 with status RECRUITING, phase PHASE1, PHASE2, enrollment 12, lead sponsor David Williams, countries United States.",
+      "report": "This is a phase I/II open label multi-center study in which patients will receive low dose targeted busulfan followed by infusion of autologous CD34+ selected bone marrow or mobilized peripheral blood cells transduced with the G2SCID vector. Subjects will be e...",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Gene Therapy, Genetic Medicine。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT07277634",
+      "date": "2025-12-11",
+      "title": "Cultural Adaptation of Attitude Scales Towards Artificial Intelligence Into Turkish",
+      "entity": "Healthcare AI Trial",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07277634",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Healthcare AI",
+        "Medical AI",
+        "Recruiting"
+      ],
+      "tags": [
+        "临床试验",
+        "医疗 AI",
+        "临床决策支持"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT07277634 with status NOT_YET_RECRUITING, phase N/A, enrollment 200, lead sponsor Barış SEVEN, countries N/A.",
+      "report": "The rapid proliferation of artificial intelligence (AI) applications in healthcare has led to significant transformations, particularly in applications such as patient management, treatment planning, clinical decision support systems, and remote rehabilitation...",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Healthcare AI, Medical AI。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT06126731",
+      "date": "2025-11-24",
+      "title": "Combination Study of Antibiotics With Enzalutamide (PROMIZE)",
+      "entity": "Clinical Trial",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06126731",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "Recruiting"
+      ],
+      "tags": [
+        "临床试验",
+        "肿瘤"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT06126731 with status RECRUITING, phase PHASE1, PHASE2, enrollment 39, lead sponsor Institute of Cancer Research, United Kingdom, countries Switzerland, United Kingdom.",
+      "report": "PROMIZE is an open-label, multi-centre, single-arm, Phase I/II clinical trial, evaluating the safety, tolerability and anti-tumuor efficacy of an antibiotic combination and enzalutamide in patients with metastatic castration-resistant prostate cancer (mCRPC).",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT05756660",
+      "date": "2025-10-20",
+      "title": "Sodium Thiosulfate Otoprotection During Salvage Cisplatin Therapy",
+      "entity": "Clinical Trial",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05756660",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "临床试验",
+        "肿瘤"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT05756660 with status SUSPENDED, phase EARLY_PHASE1, enrollment 33, lead sponsor Children's Hospital Medical Center, Cincinnati, countries United States.",
+      "report": "This study will attempt to demonstrate the efficacy of Sodium Thiosulfate (STS) in preventing hearing loss in patients re-treated with cisplatin-based therapy according to regimens Cisplatin and STS (regimen CS) and Cisplatin, STS and Vorinostat/SAHA (regimen...",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT04880824",
+      "date": "2025-08-26",
+      "title": "Analysis of Frailty Syndrome Within the Framework of the Innovation Fund Project PRÄP-GO (ANA-PRÄP-GO)",
+      "entity": "Clinical Trial",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04880824",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials"
+      ],
+      "tags": [
+        "临床试验"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT04880824 with status COMPLETED, phase N/A, enrollment 693, lead sponsor Charite University, Berlin, Germany, countries Germany.",
+      "report": "The patients included in PRÄP-GO and the corresponding comparison cohorts will be offered to participate in this complementary study in order to be able to carry out a detailed characterization and phenotyping of the frailty complex. Amendment vote of 08/05/20...",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT07029100",
+      "date": "2025-06-19",
+      "title": "Feasibility of ORGAnoids in Routine Clinical Practice for Molecular Analysis of the GLIOvascular Niche in Patients With Primary Brain Tumors.",
+      "entity": "Organoid Clinical Study",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07029100",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Organoids",
+        "Advanced Disease Models",
+        "Oncology",
+        "Precision Oncology",
+        "Recruiting"
+      ],
+      "tags": [
+        "临床试验",
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT07029100 with status NOT_YET_RECRUITING, phase NA, enrollment 30, lead sponsor Centre Henri Becquerel, countries France.",
+      "report": "The main goal of ORGA-GLIO trial is to establish the feasibility in routine clinical practice of ex-vivo organoid cultures composed of tumor cells within their microenvironment (glioblastoma organoid - GBO) and intra- and peri-tumoral blood vessels (blood vess...",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Organoids, Advanced Disease Models。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT06191302",
+      "date": "2025-03-12",
+      "title": "Post-acute COVID-19 Sequelae in Denmark",
+      "entity": "Diagnostics Trial",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06191302",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Diagnostics",
+        "Precision Medicine",
+        "Longevity",
+        "Biomarkers",
+        "Recruiting"
+      ],
+      "tags": [
+        "临床试验",
+        "诊断",
+        "精准医疗",
+        "衰老",
+        "biomarker"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT06191302 with status RECRUITING, phase N/A, enrollment 800, lead sponsor Hvidovre University Hospital, countries Denmark.",
+      "report": "Since the first SARS-CoV-2 cases in 2019, over 660 million COVID-19 cases have been reported globally, including 183 million in the EU. Up to 70% of those infected experience reduced organ function four months or more after a COVID-19 diagnosis, potentially in...",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Diagnostics, Precision Medicine, Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT06155305",
+      "date": "2025-01-07",
+      "title": "Organoids Based Drug Sensitivity in Neoadjuvant Chemotherapy of Breast Cancer",
+      "entity": "Organoid Clinical Study",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06155305",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Organoids",
+        "Advanced Disease Models",
+        "Oncology",
+        "Precision Oncology",
+        "Recruiting"
+      ],
+      "tags": [
+        "临床试验",
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "乳腺癌",
+        "中国"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT06155305 with status RECRUITING, phase N/A, enrollment 58, lead sponsor Second Affiliated Hospital, School of Medicine, Zhejiang University, countries China.",
+      "report": "Breast cancer is the most common malignancy in women worldwide. Patients with breast cancer are often diagnosed at later stages and have a strong desire for breast conservation, necessitating neoadjuvant chemotherapy. Tumors of different molecular subtypes and...",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Organoids, Advanced Disease Models。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT06016920",
+      "date": "2024-12-17",
+      "title": "Safety and Efficacy of VB10.16 and Pembrolizumab in Patients with Head-Neck Squamous Cell Carcinoma",
+      "entity": "Clinical Trial",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06016920",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "Recruiting"
+      ],
+      "tags": [
+        "临床试验",
+        "肿瘤"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT06016920 with status RECRUITING, phase PHASE1, PHASE2, enrollment 51, lead sponsor Nykode Therapeutics ASA, countries Czechia, France, Germany, Hungary, Norway, Poland, Spain, United Kingdom.",
+      "report": "This is a multi-center study in patients with un-resectable Recurrent or Metastatic HPV16-positive oropharyngeal Head and Neck Squamous Cell Carcinoma (HNSCC). The trial is designed to investigate VB10.16, an investigational therapeutic DNA vaccine in combinat...",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT06602570",
+      "date": "2024-09-19",
+      "title": "The Mosaic Brain: a New Diagnostic Approach in Focal Epilepsies",
+      "entity": "Diagnostics Trial",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06602570",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Diagnostics",
+        "Precision Medicine",
+        "Recruiting"
+      ],
+      "tags": [
+        "临床试验",
+        "诊断",
+        "精准医疗"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT06602570 with status NOT_YET_RECRUITING, phase N/A, enrollment 40, lead sponsor Institute of Child Health, countries N/A.",
+      "report": "Overall, this observational cohort study aims to: 1. Improve our understanding of the genetic architecture of childhood focal epilepsies. 2. Develop a liquid biopsy of cerebrospinal fluid (CSF) and assess feasibility to detect cerebral mosaicism using cell-fre...",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Diagnostics, Precision Medicine。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT05329662",
+      "date": "2024-06-04",
+      "title": "Adipose Tissue-derived Mesenchymal Stem Cell (AD-MSC) Therapy for the Treatment of Sexual Function Impairment in Female",
+      "entity": "Cell Therapy Trial",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05329662",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Cell Therapy",
+        "Oncology",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "临床试验",
+        "细胞治疗",
+        "肿瘤"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT05329662 with status UNKNOWN, phase PHASE2, enrollment 130, lead sponsor Vinmec Research Institute of Stem Cell and Gene Technology, countries Vietnam.",
+      "report": "Hormones are a chemical substance synthesized and secreted by endocrine gland. Several vital hormones, including Mullerian hormone (AMH), follicle-stimulating hormone (FSH), and Estradiol (E2), play crucial roles in regulating female sexual function.- Hormone...",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Cell Therapy, Oncology。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT06246630",
+      "date": "2024-05-16",
+      "title": "In Vitro Organoid Drug Sensitivity-Guided Treatment for Advanced Pancreatic Neuroendocrine Tumor",
+      "entity": "Organoid Clinical Study",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06246630",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Organoids",
+        "Advanced Disease Models",
+        "Oncology",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "临床试验",
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "中国"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT06246630 with status UNKNOWN, phase NA, enrollment 20, lead sponsor Ruijin Hospital, countries China.",
+      "report": "The purpose of this study is to explore whether chemotherapy and targeted-therapy regimens guided by organoid drug sensitivity test can improve the outcomes of non-resectable locally advanced and metastatic Pancreatic neuroendocrine tumors. At the same time, t...",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Organoids, Advanced Disease Models。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT03962088",
+      "date": "2024-04-16",
+      "title": "Timisnar - Biomarkers Substudy (Timisnar-mirna)",
+      "entity": "Longevity Clinical Study",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03962088",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Longevity",
+        "Biomarkers",
+        "Oncology",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "临床试验",
+        "衰老",
+        "biomarker",
+        "肿瘤"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT03962088 with status UNKNOWN, phase N/A, enrollment 200, lead sponsor Azienda Ospedaliera SS. Antonio e Biagio e Cesare Arrigo di Alessandria, countries Italy.",
+      "report": "Neoadjuvant chemoradiotherapy (nCHT) followed by surgery is the mainstay treatment for locally advanced rectal cancer, leading to significant decrease in tumor size (downsizing) and a shift towards earlier disease stage in the primary tumor and lymph nodes (do...",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT02260466",
+      "date": "2024-03-13",
+      "title": "Prevalence and Post-surgical Outcomes of CARdiac Wild-type TransthyrEtin amyloidoSIs in Elderly Patients With Aortic steNosis Referred for Valvular Replacement.",
+      "entity": "Longevity Clinical Study",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT02260466",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Longevity",
+        "Biomarkers"
+      ],
+      "tags": [
+        "临床试验",
+        "衰老",
+        "biomarker"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT02260466 with status UNKNOWN, phase NA, enrollment 186, lead sponsor French Cardiology Society, countries France.",
+      "report": "Background: The prevalence of both senile cardiac amyloidosis (CA) and aortic stenosis (AS) markedly increases with age. Aortic stenosis increases left ventricular pressure overload. Cardiac deposits have been observed in AS and the amount of these deposits ha...",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT03969420",
+      "date": "2023-11-09",
+      "title": "Study of Alvocidib in Patients With Relapsed/Refractory AML Following Treatment With Venetoclax Combination Therapy",
+      "entity": "Clinical Trial",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial Results",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03969420",
+      "reliability": "High",
+      "evidenceLevel": "High",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "临床试验",
+        "肿瘤"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT03969420 with status TERMINATED, phase PHASE2, enrollment 11, lead sponsor Sumitomo Pharma America, Inc., countries United States.",
+      "report": "This study will evaluate the safety and efficacy of alvocidib in patients with AML who have either relapsed from or are refractory to venetoclax in combination with azacytidine or decitabine.",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT03576937",
+      "date": "2023-05-15",
+      "title": "Achieving Value in Cancer Diagnostics: Blood Versus Tissue Molecular Profiling - a Prospective Canadian Study",
+      "entity": "Clinical Trial",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03576937",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "临床试验",
+        "肿瘤"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT03576937 with status COMPLETED, phase N/A, enrollment 207, lead sponsor University Health Network, Toronto, countries Canada.",
+      "report": "Current guidelines in non-small cell lung cancer recommend genomic assessment for mutations in EGFR and BRAF, gene rearrangements in ALK and ROS1, and resistance mutations such as T790M upon progression during EGFR inhibitor therapy. However, obtaining suffici...",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT00412360",
+      "date": "2021-10-28",
+      "title": "Single vs Double Umbilical Cord Blood Transplants in Children With High Risk Leukemia and Myelodysplasia (BMT CTN 0501)",
+      "entity": "Clinical Trial",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial Results",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00412360",
+      "reliability": "High",
+      "evidenceLevel": "High",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "临床试验",
+        "肿瘤"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT00412360 with status COMPLETED, phase PHASE3, enrollment 224, lead sponsor Medical College of Wisconsin, countries United States, Australia, Canada.",
+      "report": "This study is a Phase III, randomized, open-label, multi-center, prospective study of single umbilical cord blood (UCB) transplantation versus double UCB transplantation in pediatric patients with hematologic malignancies.",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT04584281",
+      "date": "2020-10-12",
+      "title": "Artificial Intelligence (AI) in Cardiotocography (CTG) Interpretation",
+      "entity": "Healthcare AI Trial",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04584281",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Healthcare AI",
+        "Medical AI"
+      ],
+      "tags": [
+        "临床试验",
+        "医疗 AI",
+        "临床决策支持"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT04584281 with status UNKNOWN, phase N/A, enrollment 15000, lead sponsor Insel Gruppe AG, University Hospital Bern, countries Switzerland.",
+      "report": "The project leaders plan to create a clinical decision support (CDS) system by programming a self-learning software to analyze the cardiotocography (CTG) traces in the - already existing - database from the maternity department of the Inselspital Berne. The pr...",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Healthcare AI, Medical AI。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    },
+    {
+      "id": "clinicaltrials-NCT00672594",
+      "date": "2014-08-04",
+      "title": "Study of Sunitinib Malate in Patients With Newly Diagnosed Prostate Cancer Prior to Prostatectomy",
+      "entity": "Clinical Trial",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Trials",
+      "eventType": "Clinical Trial Results",
+      "sourceType": "Registry",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00672594",
+      "reliability": "High",
+      "evidenceLevel": "High",
+      "needsReview": true,
+      "themes": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "临床试验",
+        "肿瘤"
+      ],
+      "fact": "ClinicalTrials.gov lists NCT00672594 with status COMPLETED, phase PHASE2, enrollment 30, lead sponsor Duke University, countries United States.",
+      "report": "The purpose of this study is to look at blood and tissue samples for changes following the use of Sunitinib malate. Additionally, we would like to find out if the drug, Sunitinib malate, is safe and works in men with prostate cancer. Sunitinib malate , also kn...",
+      "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
+      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+    }
+  ]
+}
