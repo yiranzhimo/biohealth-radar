@@ -43,6 +43,13 @@ jobs:
         with:
           python-version: "3.13"
 
+      - name: Verify OpenAI configuration
+        run: |
+          if [ -z "$OPENAI_API_KEY" ]; then
+            echo "::error::OPENAI_API_KEY is unavailable to this job. Add it as a repository Actions secret, or as an environment secret for the github-pages environment."
+            exit 1
+          fi
+
       - name: Preserve previous data snapshot
         run: |
           cp data.js /tmp/biohealth-radar-data-previous.js
@@ -61,11 +68,6 @@ jobs:
 
       - name: Run OpenAI pre-review
         run: |
-          if [ -z "$OPENAI_API_KEY" ]; then
-            echo "OPENAI_API_KEY secret is not set; skipping OpenAI pre-review."
-            exit 0
-          fi
-
           if [ "$APPLY_NEEDS_REVIEW" = "true" ]; then
             python3 scripts/review_with_openai.py --limit "$REVIEW_LIMIT" --apply-needs-review --auto-clear-threshold 0.9
           else
@@ -91,7 +93,22 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data.js data/raw
           git commit -m "Refresh BioHealth Radar data"
-          git push
+
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              break
+            fi
+
+            if [ "$attempt" = "3" ]; then
+              echo "::error::Could not push refreshed data after 3 attempts."
+              exit 1
+            fi
+
+            echo "Remote main changed; rebasing refreshed data before retry $((attempt + 1))/3."
+            git fetch origin main
+            git rebase origin/main
+          done
+
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
       - name: Configure Pages
