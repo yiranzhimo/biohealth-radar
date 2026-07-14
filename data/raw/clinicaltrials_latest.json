@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-14T08:59:54.443542+00:00",
+  "capturedAt": "2026-07-14T09:30:59.245577+00:00",
   "source": "ClinicalTrials.gov",
   "terms": [
     "organoid cancer",
@@ -1043,7 +1043,7 @@
       "fact": "ClinicalTrials.gov lists NCT04838301 with status ACTIVE_NOT_RECRUITING, phase PHASE2, enrollment 100, lead sponsor University of Arizona, countries United States.",
       "report": "A phase 2, double-blind, randomized, placebo-controlled clinical trial to evaluate the safety and efficacy of Allopregnanolone as a regenerative therapeutic for Alzheimer's disease.",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT07659262",
@@ -1076,7 +1076,7 @@
       "fact": "ClinicalTrials.gov lists NCT07659262 with status COMPLETED, phase N/A, enrollment 461982, lead sponsor National Defense Medical Center, Taiwan, countries Taiwan.",
       "report": "Cardiovascular disease (CVD) remains one of the leading causes of death worldwide. While the electrocardiogram (ECG) is a standard, widely accessible tool for cardiovascular screening, traditional risk assessment models often rely heavily on blood test results...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Diagnostics, Precision Medicine, Healthcare AI, Medical AI。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT07104929",
@@ -1105,7 +1105,7 @@
       "fact": "ClinicalTrials.gov lists NCT07104929 with status COMPLETED, phase PHASE2, enrollment 60, lead sponsor OvationLab, countries United States.",
       "report": "The primary purpose of this study is to evaluate the effects of BWH Labs - Beta Glucan 500 on biomarkers of biological and immune age among healthy adults. A single-arm, open-label prospective study will be conducted evaluating the impact of 12 weeks of supple...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT06590454",
@@ -1138,7 +1138,7 @@
       "fact": "ClinicalTrials.gov lists NCT06590454 with status RECRUITING, phase PHASE2, enrollment 32, lead sponsor Katherine Garman, countries United States.",
       "report": "This study is designed to test the use of Pyrvinium vs placebo as a treatment for gastric intestinal metaplasia with features associated with increased risk of cancer. Response will be determined by assessing the extent and quality of the gastric intestinal me...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Organoids, Advanced Disease Models。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT07378683",
@@ -1172,7 +1172,7 @@
       "fact": "ClinicalTrials.gov lists NCT07378683 with status RECRUITING, phase NA, enrollment 500, lead sponsor Ming Yang, countries China.",
       "report": "1. Study Background For patients undergoing brain or spinal tumor surgery, postoperative surgical wound infection (known as \"surgical site infection,\" SSI) is a recognized risk. Once an infection occurs, it may complicate and prolong the recovery process. Curr...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Healthcare AI, Medical AI。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT03311503",
@@ -1202,7 +1202,7 @@
       "fact": "ClinicalTrials.gov lists NCT03311503 with status RECRUITING, phase PHASE1, PHASE2, enrollment 12, lead sponsor David Williams, countries United States.",
       "report": "This is a phase I/II open label multi-center study in which patients will receive low dose targeted busulfan followed by infusion of autologous CD34+ selected bone marrow or mobilized peripheral blood cells transduced with the G2SCID vector. Subjects will be e...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Gene Therapy, Genetic Medicine。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT07277634",
@@ -1232,7 +1232,7 @@
       "fact": "ClinicalTrials.gov lists NCT07277634 with status NOT_YET_RECRUITING, phase N/A, enrollment 200, lead sponsor Barış SEVEN, countries N/A.",
       "report": "The rapid proliferation of artificial intelligence (AI) applications in healthcare has led to significant transformations, particularly in applications such as patient management, treatment planning, clinical decision support systems, and remote rehabilitation...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Healthcare AI, Medical AI。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT06126731",
@@ -1261,7 +1261,7 @@
       "fact": "ClinicalTrials.gov lists NCT06126731 with status RECRUITING, phase PHASE1, PHASE2, enrollment 39, lead sponsor Institute of Cancer Research, United Kingdom, countries Switzerland, United Kingdom.",
       "report": "PROMIZE is an open-label, multi-centre, single-arm, Phase I/II clinical trial, evaluating the safety, tolerability and anti-tumuor efficacy of an antibiotic combination and enzalutamide in patients with metastatic castration-resistant prostate cancer (mCRPC).",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT05756660",
@@ -1289,7 +1289,7 @@
       "fact": "ClinicalTrials.gov lists NCT05756660 with status SUSPENDED, phase EARLY_PHASE1, enrollment 33, lead sponsor Children's Hospital Medical Center, Cincinnati, countries United States.",
       "report": "This study will attempt to demonstrate the efficacy of Sodium Thiosulfate (STS) in preventing hearing loss in patients re-treated with cisplatin-based therapy according to regimens Cisplatin and STS (regimen CS) and Cisplatin, STS and Vorinostat/SAHA (regimen...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT04880824",
@@ -1314,7 +1314,7 @@
       "fact": "ClinicalTrials.gov lists NCT04880824 with status COMPLETED, phase N/A, enrollment 693, lead sponsor Charite University, Berlin, Germany, countries Germany.",
       "report": "The patients included in PRÄP-GO and the corresponding comparison cohorts will be offered to participate in this complementary study in order to be able to carry out a detailed characterization and phenotyping of the frailty complex. Amendment vote of 08/05/20...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT07029100",
@@ -1347,7 +1347,7 @@
       "fact": "ClinicalTrials.gov lists NCT07029100 with status NOT_YET_RECRUITING, phase NA, enrollment 30, lead sponsor Centre Henri Becquerel, countries France.",
       "report": "The main goal of ORGA-GLIO trial is to establish the feasibility in routine clinical practice of ex-vivo organoid cultures composed of tumor cells within their microenvironment (glioblastoma organoid - GBO) and intra- and peri-tumoral blood vessels (blood vess...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Organoids, Advanced Disease Models。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT06191302",
@@ -1381,7 +1381,7 @@
       "fact": "ClinicalTrials.gov lists NCT06191302 with status RECRUITING, phase N/A, enrollment 800, lead sponsor Hvidovre University Hospital, countries Denmark.",
       "report": "Since the first SARS-CoV-2 cases in 2019, over 660 million COVID-19 cases have been reported globally, including 183 million in the EU. Up to 70% of those infected experience reduced organ function four months or more after a COVID-19 diagnosis, potentially in...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Diagnostics, Precision Medicine, Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT06155305",
@@ -1416,7 +1416,7 @@
       "fact": "ClinicalTrials.gov lists NCT06155305 with status RECRUITING, phase N/A, enrollment 58, lead sponsor Second Affiliated Hospital, School of Medicine, Zhejiang University, countries China.",
       "report": "Breast cancer is the most common malignancy in women worldwide. Patients with breast cancer are often diagnosed at later stages and have a strong desire for breast conservation, necessitating neoadjuvant chemotherapy. Tumors of different molecular subtypes and...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Organoids, Advanced Disease Models。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT06016920",
@@ -1445,7 +1445,7 @@
       "fact": "ClinicalTrials.gov lists NCT06016920 with status RECRUITING, phase PHASE1, PHASE2, enrollment 51, lead sponsor Nykode Therapeutics ASA, countries Czechia, France, Germany, Hungary, Norway, Poland, Spain, United Kingdom.",
       "report": "This is a multi-center study in patients with un-resectable Recurrent or Metastatic HPV16-positive oropharyngeal Head and Neck Squamous Cell Carcinoma (HNSCC). The trial is designed to investigate VB10.16, an investigational therapeutic DNA vaccine in combinat...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT06602570",
@@ -1475,7 +1475,7 @@
       "fact": "ClinicalTrials.gov lists NCT06602570 with status NOT_YET_RECRUITING, phase N/A, enrollment 40, lead sponsor Institute of Child Health, countries N/A.",
       "report": "Overall, this observational cohort study aims to: 1. Improve our understanding of the genetic architecture of childhood focal epilepsies. 2. Develop a liquid biopsy of cerebrospinal fluid (CSF) and assess feasibility to detect cerebral mosaicism using cell-fre...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Diagnostics, Precision Medicine。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT05329662",
@@ -1505,7 +1505,7 @@
       "fact": "ClinicalTrials.gov lists NCT05329662 with status UNKNOWN, phase PHASE2, enrollment 130, lead sponsor Vinmec Research Institute of Stem Cell and Gene Technology, countries Vietnam.",
       "report": "Hormones are a chemical substance synthesized and secreted by endocrine gland. Several vital hormones, including Mullerian hormone (AMH), follicle-stimulating hormone (FSH), and Estradiol (E2), play crucial roles in regulating female sexual function.- Hormone...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Cell Therapy, Oncology。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT06246630",
@@ -1538,7 +1538,7 @@
       "fact": "ClinicalTrials.gov lists NCT06246630 with status UNKNOWN, phase NA, enrollment 20, lead sponsor Ruijin Hospital, countries China.",
       "report": "The purpose of this study is to explore whether chemotherapy and targeted-therapy regimens guided by organoid drug sensitivity test can improve the outcomes of non-resectable locally advanced and metastatic Pancreatic neuroendocrine tumors. At the same time, t...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Organoids, Advanced Disease Models。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT03962088",
@@ -1570,7 +1570,7 @@
       "fact": "ClinicalTrials.gov lists NCT03962088 with status UNKNOWN, phase N/A, enrollment 200, lead sponsor Azienda Ospedaliera SS. Antonio e Biagio e Cesare Arrigo di Alessandria, countries Italy.",
       "report": "Neoadjuvant chemoradiotherapy (nCHT) followed by surgery is the mainstay treatment for locally advanced rectal cancer, leading to significant decrease in tumor size (downsizing) and a shift towards earlier disease stage in the primary tumor and lymph nodes (do...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT02260466",
@@ -1599,7 +1599,7 @@
       "fact": "ClinicalTrials.gov lists NCT02260466 with status UNKNOWN, phase NA, enrollment 186, lead sponsor French Cardiology Society, countries France.",
       "report": "Background: The prevalence of both senile cardiac amyloidosis (CA) and aortic stenosis (AS) markedly increases with age. Aortic stenosis increases left ventricular pressure overload. Cardiac deposits have been observed in AS and the amount of these deposits ha...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT03969420",
@@ -1627,7 +1627,7 @@
       "fact": "ClinicalTrials.gov lists NCT03969420 with status TERMINATED, phase PHASE2, enrollment 11, lead sponsor Sumitomo Pharma America, Inc., countries United States.",
       "report": "This study will evaluate the safety and efficacy of alvocidib in patients with AML who have either relapsed from or are refractory to venetoclax in combination with azacytidine or decitabine.",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT03576937",
@@ -1655,7 +1655,7 @@
       "fact": "ClinicalTrials.gov lists NCT03576937 with status COMPLETED, phase N/A, enrollment 207, lead sponsor University Health Network, Toronto, countries Canada.",
       "report": "Current guidelines in non-small cell lung cancer recommend genomic assessment for mutations in EGFR and BRAF, gene rearrangements in ALK and ROS1, and resistance mutations such as T790M upon progression during EGFR inhibitor therapy. However, obtaining suffici...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT00412360",
@@ -1683,7 +1683,7 @@
       "fact": "ClinicalTrials.gov lists NCT00412360 with status COMPLETED, phase PHASE3, enrollment 224, lead sponsor Medical College of Wisconsin, countries United States, Australia, Canada.",
       "report": "This study is a Phase III, randomized, open-label, multi-center, prospective study of single umbilical cord blood (UCB) transplantation versus double UCB transplantation in pediatric patients with hematologic malignancies.",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT04584281",
@@ -1712,7 +1712,7 @@
       "fact": "ClinicalTrials.gov lists NCT04584281 with status UNKNOWN, phase N/A, enrollment 15000, lead sponsor Insel Gruppe AG, University Hospital Bern, countries Switzerland.",
       "report": "The project leaders plan to create a clinical decision support (CDS) system by programming a self-learning software to analyze the cardiotocography (CTG) traces in the - already existing - database from the maternity department of the Inselspital Berne. The pr...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Healthcare AI, Medical AI。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
       "id": "clinicaltrials-NCT00672594",
@@ -1740,7 +1740,7 @@
       "fact": "ClinicalTrials.gov lists NCT00672594 with status COMPLETED, phase PHASE2, enrollment 30, lead sponsor Duke University, countries United States.",
       "report": "The purpose of this study is to look at blood and tissue samples for changes following the use of Sunitinib malate. Additionally, we would like to find out if the drug, Sunitinib malate, is safe and works in men with prostate cancer. Sunitinib malate , also kn...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
-      "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。"
+      "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     }
   ]
 }

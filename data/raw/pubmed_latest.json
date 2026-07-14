@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-14T08:59:50.975229+00:00",
+  "capturedAt": "2026-07-14T09:30:55.451717+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -363,7 +363,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Signal transduction and targeted therapy，PMID 为 42443151。",
       "report": "Multiple organ dysfunction syndrome presents a significant challenge in clinical critical care, characterized by the progressive or simultaneous failure of two or more organ systems following severe insults such as infection, trauma, acute pancreatitis, shock,...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -388,7 +388,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Scientific reports，PMID 为 42443320。",
       "report": "The cardiac autonomic nervous system regulates cardiac function through innervation, and dysfunction of the neuronal and cardiovascular crosstalk has been linked to various pathologies. Here, we present a cardiac innervation-on-a-chip model by combining human...",
-      "inference": "自动分类命中规则：fallback。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -419,7 +419,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42443174。",
       "report": "The fallopian tube (FT) is increasingly recognized as the origin of high-grade serous ovarian cancer (HGSOC), yet its immune landscape remains poorly understood. Here, we employ single-cell RNA sequencing and paired T-cell receptor sequencing to profile tissue...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -446,7 +446,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Ageing research reviews，PMID 为 42442507。",
       "report": "Vascular aging contributes to systemic dysfunction and underlies many age-related diseases, driven by structural and functional changes across various cell types, including endothelial cells, vascular smooth muscle cells, pericytes, and cardiomyocytes. This re...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -479,7 +479,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Progress in neuro-psychopharmacology & biological psychiatry，PMID 为 42442472。",
       "report": "NRXN1 deletions are recurrent genetic risk factors for autism spectrum disorder (ASD), yet most functional work has focused on synaptic mechanisms. We asked whether NRXN1 haploinsufficiency is also associated with earlier gene-regulatory programs during cortic...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -507,7 +507,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Nature computational science，PMID 为 42443524。",
       "report": "Protein language models, as well as models that incorporate structural information or homologous sequences, estimate the sequence likelihood p(sequence), which reflects the protein fitness landscape and is commonly used in mutation effect prediction and protei...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -535,7 +535,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Accounts of chemical research，PMID 为 42439322。",
       "report": "ConspectusThiamine diphosphate (ThDP)-dependent enzymes are among nature's most elegant biocatalysts for C-C bond formation and cleavage, typically operating through a two-electron umpolung mechanism. Although a small subset of ThDP enzymes, such as pyruvate:...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -563,7 +563,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Journal of chemical information and modeling，PMID 为 42439276。",
       "report": "Deep learning models have transformed several fields lately. In the past, capturing thermodynamic trends from free energies has relied on computationally expensive and time-consuming umbrella sampling simulations for dynamic proteins. Here, we investigate whet...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -592,7 +592,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Communications biology，PMID 为 42443324。",
       "report": "Cell-free DNA (cfDNA) circulating in blood is characterized by epigenetic context-dependent fragmentation that distinguishes it from the stable genomic DNA of solid tissues. Extensive fragmentation and degradation of cfDNA can result in uneven coverage and pot...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -619,7 +619,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Scientific reports，PMID 为 42443216。",
       "report": "Deep learning (DL) chest radiograph (CXR) models are often trained on downsampled images to reduce computational overhead, despite clinical workflows operating at high resolution. Previous studies have investigated the impact of input resolution on CXR classif...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -648,7 +648,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42440365。",
       "report": "Immune checkpoint blockers (ICBs) have transformed advanced non-small cell lung cancer (aNSCLC) treatment, but identifying patients who benefit from adding chemotherapy remains challenging, especially in PD-L1 ≥ 50%. PD-L1 is an imperfect biomarker, highlighti...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -683,7 +683,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Neoplasia (New York, N.Y.)，PMID 为 42431103。",
       "report": "Pharmacotherapy induces complex molecular reprogramming in cancer, driving transcriptome-wide alterations and widespread dysregulation of alternative splicing. Despite these profound changes, there remain limited resources characterizing drug-induced whole-tra...",
-      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Medical AI。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 British journal of pharmacology，PMID 为 42429061。",
       "report": "Cells are the fundamental units through which genetic variation and pharmacological perturbations influence disease processes and therapeutic responses. However, cellular responses to intervention are strongly shaped by biological context, creating a central c...",
-      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42431910。",
       "report": "Chemical language models are powerful tools for navigating chemical space, but their reliance on linear representations such as molecular strings creates a semantic gap, hindering their ability to bridge natural language with the full complexity of molecular s...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -774,7 +774,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Journal of the American Chemical Society，PMID 为 42425911。",
       "report": "Modern protein design methods based on deep learning allow generation of customized protein scaffolds with diverse geometries and functionalities. Here we capitalize on these recent advances to develop hyper-thermostable de novo CO2 reductases featuring a coba...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -811,7 +811,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Expert opinion on drug discovery，PMID 为 42400328。",
       "report": "Drug discovery remains constrained by high attrition rates and the fragmented evaluation of exposure, efficacy, and safety. Mechanistic models offer a biologically grounded framework for connecting these determinants across multiple levels of biological organi...",
-      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery, Clinical Evidence。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -842,7 +842,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Briefings in bioinformatics，PMID 为 42418828。",
       "report": "Spatially resolved genomics and transcriptomics are reshaping our understanding of tumor evolution and therapeutic resistance, yet benchmarking spatial copy number variation (CNV), single-nucleotide variant (SNV), and spatial mutation-burden proxy analyses is...",
-      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -871,7 +871,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42412811。",
       "report": "Single-cell foundation models (FMs) pretrained on massive unlabeled scRNA-seq data show strong potential in predicting transcriptional responses to unseen genetic perturbations (e.g. knockouts, variants). However, existing approaches do not effectively transfe...",
-      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -899,7 +899,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42440565。",
       "report": "Respiratory syncytial virus (RSV) is a major cause of severe lower respiratory tract disease (LRTD) in infants and older adults worldwide. Although vaccines based on the fusion (F) protein have shown progress, their efficacy remains limited by antigenic instab...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -928,7 +928,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Frontiers in pharmacology，PMID 为 42440815。",
       "report": "Cadherin-3 (CDH3), which encodes P-cadherin, is a classical cadherin involved in epithelial architecture, basal-cell identity, and tissue repair. Once viewed primarily as a structural adhesion molecule, CDH3 is now recognized as a context-dependent regulator o...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -957,7 +957,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42440508。",
       "report": "Acute lymphoblastic leukemia (ALL) is the most common pediatric malignancy, and despite advances in therapy, relapse remains a major cause of treatment failure. Liquid biopsy has emerged as a powerful, minimally invasive tool for real-time disease monitoring a...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -986,7 +986,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Frontiers in neuroscience，PMID 为 42382105。",
       "report": "As a first-line treatment for acute ischemic stroke (AIS), tenecteplase (TNK) can cause adverse effects, such as depression, in AIS patients. This study aims to elucidate the TNK target-related pathogenic mechanisms underlying major depressive disorder (MDD) i...",
-      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1015,7 +1015,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Methods in cell biology，PMID 为 42442863。",
       "report": "In vitro cultured organoids exhibit highly similar structures to their corresponding tissues and organs. Intestinal organoids derived from intestinal stem cells faithfully recapitulate the key characteristics of native intestinal epithelium, including morpholo...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1042,7 +1042,7 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 International review of neurobiology，PMID 为 42442917。",
       "report": "Alzheimer's disease (AD) is a neurodegenerative condition that is characterized by the misfolding of Amyloid Precursor Protein, hyperphosphorylation of tau protein, and neuroinflammation. This leads to the formation of extracellular senile amyloid beta plaque...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
