@@ -446,7 +446,7 @@ def make_signal(record: dict[str, Any], index: int) -> dict[str, Any]:
         "tags": classification["tags"],
         "fact": f"PubMed 记录显示该文献收录于 {journal}，PMID 为 {pmid or 'unknown'}。",
         "report": summarize_abstract(record.get("abstract", "")),
-        "inference": f"自动分类命中规则：{matched}。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+        "inference": f"自动分类命中规则：{matched}。该分类仅用于情报分流，不代表研究质量或临床结论。",
         "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
     }
 

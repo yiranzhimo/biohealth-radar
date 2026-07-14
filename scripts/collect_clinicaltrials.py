@@ -318,7 +318,7 @@ def make_signal(record: dict[str, Any], index: int) -> dict[str, Any]:
             f"自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：{matched}。"
             "登记状态和设计字段不能直接证明疗效或安全性。"
         ),
-        "unknown": "尚未人工核验试验方案变化、结果披露、样本量充分性、终点质量、入组进度或监管影响。",
+        "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。",
     }
 
 

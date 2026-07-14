@@ -21,10 +21,13 @@ from typing import Any
 
 RESPONSES_URL = "https://api.openai.com/v1/responses"
 DEFAULT_MODEL = "gpt-4o-mini"
+REVIEW_POLICY_VERSION = "publication-quality-v2"
 
 SYSTEM_PROMPT = """You are reviewing biotech and healthcare intelligence signals.
 
-Your task is source hygiene and triage, not medical advice.
+Your task is publication-quality review, source hygiene, and triage. You are not
+reviewing whether a biomedical intervention is clinically valid, and you must not
+provide medical advice.
 
 Review only the supplied signal fields. Do not invent external facts. Separate:
 - fact: directly supported by the source metadata in the signal
@@ -32,9 +35,26 @@ Review only the supplied signal fields. Do not invent external facts. Separate:
 - inference: what the platform inferred from those fields
 - unknown: what is missing or cannot be verified from the signal
 
-Be conservative. Require human review when the signal contains clinical efficacy,
-safety, treatment, regulatory, commercial, or patient-impact claims; when the
-classification is only weakly supported; or when source text is insufficient.
+Judge whether the supplied card can be published as a neutral intelligence record.
+The mere fact that a source concerns a disease, clinical trial, treatment, safety,
+regulation, or patient population is NOT by itself a reason to require human review.
+A registry record may safely report that a study exists, but must not imply that its
+intervention works. A PubMed record may safely report the article's title and topic,
+but must not turn the title into a verified clinical conclusion.
+
+Return status=pass and humanReviewRequired=false when all of these are true:
+- the category and evidence level are reasonable for the supplied metadata
+- fact, report, inference, and unknown are clearly separated
+- efficacy, safety, regulatory, commercial, and patient-impact statements are
+  attributed to the source or explicitly marked as unknown
+- there is no treatment recommendation or unsupported clinical conclusion
+
+Return status=needs_human and humanReviewRequired=true only when publication needs
+judgment or correction, including unsupported efficacy or safety conclusions,
+treatment advice, evidence inflation, materially weak classification, contradictory
+fields, or source metadata too sparse to support the card. Use riskFlags to record
+clinical or regulatory subject matter even when the card passes; a risk flag does
+not automatically require human review.
 
 Do not generalize from a single study, registry record, company claim, or preprint
 into treatment advice. Return only JSON that matches the schema."""
@@ -56,7 +76,7 @@ REVIEW_SCHEMA: dict[str, Any] = {
         "status": {
             "type": "string",
             "enum": ["pass", "needs_human", "fail"],
-            "description": "pass means the signal is internally consistent for low-risk publication; needs_human means keep in review queue; fail means likely incorrect or unsafe.",
+            "description": "pass means the card is internally consistent and neutrally grounded for publication; needs_human means publication needs judgment or correction; fail means materially incorrect or unsafe.",
         },
         "confidence": {
             "type": "number",
@@ -65,7 +85,7 @@ REVIEW_SCHEMA: dict[str, Any] = {
         },
         "humanReviewRequired": {
             "type": "boolean",
-            "description": "True for clinical, regulatory, safety, treatment, weak-source, or uncertain classifications.",
+            "description": "True only when publication needs human judgment or correction. Clinical subject matter alone is not sufficient.",
         },
         "reviewSummaryCn": {
             "type": "string",
@@ -141,7 +161,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--auto-clear-threshold",
         type=float,
-        default=0.9,
+        default=0.85,
         help="Minimum confidence for clearing needsReview when --apply-needs-review is set.",
     )
     parser.add_argument("--sleep", type=float, default=0.2, help="Delay between API calls.")
@@ -164,7 +184,8 @@ def write_data_js(path: Path, payload: dict[str, Any]) -> None:
 def select_candidates(signals: list[dict[str, Any]], limit: int, force: bool) -> list[dict[str, Any]]:
     candidates = []
     for signal in signals:
-        if not force and signal.get("aiReview"):
+        ai_review = signal.get("aiReview") or {}
+        if not force and ai_review.get("policyVersion") == REVIEW_POLICY_VERSION:
             continue
         if not signal.get("needsReview") and not force:
             continue
@@ -279,12 +300,16 @@ def apply_review(
     signal["aiReview"] = {
         "provider": "openai",
         "model": model,
+        "policyVersion": REVIEW_POLICY_VERSION,
         "responseId": response_id,
         "reviewedAt": reviewed_at,
         **review,
     }
-    if apply_needs_review and should_clear_review(review, clear_threshold):
-        signal["needsReview"] = False
+    if apply_needs_review:
+        if should_clear_review(review, clear_threshold):
+            signal["needsReview"] = False
+        elif not signal.get("manualReview"):
+            signal["needsReview"] = True
 
 
 def main() -> int:
@@ -341,6 +366,7 @@ def main() -> int:
             {
                 "capturedAt": reviewed_at,
                 "model": args.model,
+                "policyVersion": REVIEW_POLICY_VERSION,
                 "applyNeedsReview": args.apply_needs_review,
                 "autoClearThreshold": args.auto_clear_threshold,
                 "reviews": raw_reviews,

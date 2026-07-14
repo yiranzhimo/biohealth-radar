@@ -105,10 +105,12 @@ python3 scripts/review_with_openai.py --limit 10
 默认情况下，脚本不会自动把 `needsReview` 改成 `false`。如果要允许高置信、低风险条目自动移出复核队列：
 
 ```bash
-python3 scripts/review_with_openai.py --limit 10 --apply-needs-review --auto-clear-threshold 0.9
+python3 scripts/review_with_openai.py --limit 10 --apply-needs-review --auto-clear-threshold 0.85
 ```
 
-临床、监管、安全性、疗效、治疗建议、商业化或患者影响相关内容仍应保留人工复核。
+复核判断针对卡片的发布质量，而不是判断医疗干预本身是否有效。仅仅涉及临床、监管或治疗主题不会自动要求人工复核；存在未被来源支持的疗效或安全结论、治疗建议、证据夸大、分类明显不可靠或字段矛盾时，才保留人工复核。
+
+每版审核政策会写入 `aiReview.policyVersion`。旧政策结果会在后续运行中自动重新审核；需要主动重跑当前政策结果时，可以增加 `--force`。
 
 ## Manual Review
 

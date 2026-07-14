@@ -6,13 +6,19 @@ on:
   workflow_dispatch:
     inputs:
       review_limit:
-        description: "Maximum new signals to review with OpenAI"
+        description: "Maximum signals to review with OpenAI"
         required: false
         default: "10"
       apply_needs_review:
         description: "Allow OpenAI high-confidence low-risk passes to clear needsReview"
         required: false
-        default: "false"
+        type: boolean
+        default: true
+      force_review:
+        description: "Re-review signals already reviewed under the current policy"
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -33,7 +39,8 @@ jobs:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       OPENAI_REVIEW_MODEL: ${{ vars.OPENAI_REVIEW_MODEL || 'gpt-4o-mini' }}
       REVIEW_LIMIT: ${{ github.event.inputs.review_limit || '10' }}
-      APPLY_NEEDS_REVIEW: ${{ github.event.inputs.apply_needs_review || 'false' }}
+      APPLY_NEEDS_REVIEW: ${{ github.event_name == 'schedule' || inputs.apply_needs_review }}
+      FORCE_REVIEW: ${{ inputs.force_review }}
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -68,11 +75,19 @@ jobs:
 
       - name: Run OpenAI pre-review
         run: |
-          if [ "$APPLY_NEEDS_REVIEW" = "true" ]; then
-            python3 scripts/review_with_openai.py --limit "$REVIEW_LIMIT" --apply-needs-review --auto-clear-threshold 0.9
-          else
-            python3 scripts/review_with_openai.py --limit "$REVIEW_LIMIT"
+          REVIEW_ARGS=(--limit "$REVIEW_LIMIT")
+
+          if [ "$FORCE_REVIEW" = "true" ]; then
+            REVIEW_ARGS+=(--force)
           fi
+
+          if [ "$APPLY_NEEDS_REVIEW" = "true" ]; then
+            REVIEW_ARGS+=(--apply-needs-review --auto-clear-threshold 0.85)
+          else
+            echo "OpenAI results will not clear needsReview in this run."
+          fi
+
+          python3 scripts/review_with_openai.py "${REVIEW_ARGS[@]}"
 
       - name: Validate generated files
         run: |
