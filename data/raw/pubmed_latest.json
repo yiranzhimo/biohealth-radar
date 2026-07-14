@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-14T09:30:55.451717+00:00",
+  "capturedAt": "2026-07-14T14:16:38.570266+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-07-14"
   },
   "pmids": [
+    "42443944",
+    "42443936",
     "42443320",
     "42443174",
     "42443151",
     "42442863",
-    "42442507",
-    "42442472",
     "42431103",
     "42429061",
     "42418828",
@@ -32,14 +32,38 @@
     "42439276",
     "42431910",
     "42425911",
+    "42444346",
+    "42443915",
+    "42443911",
     "42443324",
     "42443216",
-    "42442917",
-    "42440815",
-    "42440508",
-    "42440365"
+    "42442917"
   ],
   "records": [
+    {
+      "pmid": "42443944",
+      "title": "Causal immune-inflammation mapping of the GERD-Barrett-adenocarcinoma cascade identifies FGF19-HLA-DR⁺ T-cell axis driving esophagogastric junction metaplasia.",
+      "abstract": "Gastroesophageal reflux disease (GERD), Barrett's esophagus (BE), and esophageal adenocarcinoma (EAC) form a recognized pathological continuum, but the causal immune and inflammatory processes driving progression remain incompletely defined. Summary-level genome-wide association study (GWAS) data were analyzed for 91 circulating inflammatory proteins (n = 14,824), 731 immune cell phenotypes (n = 3,757), and three esophageal diseases (GERD, BE, and EAC). Bidirectional and two-step Mendelian randomization (MR) were used to infer causal effects and mediation, with Cochran's Q, MR-Egger, and MR-PRESSO applied to assess heterogeneity and pleiotropy. Causal interaction networks were reconstructed to map immune- and inflammation-dominant regulatory patterns across disease stages, and MR-prioritized signals were experimentally validated in esophagogastric junction (EGJ) organoids and mouse models. MR supported a causal GERD-BE-EAC sequence, with BE mediating 31.95% of the total GERD-to-EAC effect. In total, 139 immune cell traits and 29 inflammatory proteins showed causal links to disease risk. Mediation analyses highlighted M-CSF1 and HLA-DR+CD4 + T cells as central hubs. Guided by the MR-prioritized FGF19-HLA-DR + T-cell axis, experimental studies demonstrated that FGF19 promotes EGJ glandular conversion and increases infiltration of HLA-DR+ CD4+/CD8 + T cells, validated in EGJ organoids and mouse models. This integrated genetic and experimental framework delineates a bidirectional immune-inflammation regulatory network underlying progression from GERD to BE and EAC. FGF19 emerges as a candidate cytokine driving EGJ glandular remodeling through HLA-DR+ CD4+/CD8 + T-cell associated immune activation, providing candidate molecular targets for early prevention and intervention.",
+      "journal": "Journal of translational medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1186/s12967-026-08552-w",
+      "date": "2026-07-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443944/"
+    },
+    {
+      "pmid": "42443936",
+      "title": "A polyphenol-functionalized cartilage matrix bioink protects cell-laden organoid constructs under oxidative stress.",
+      "abstract": "Cartilage repair in osteoarthritis is limited not only by structural defects in articular cartilage but also by the chronic redox and immune dysregulation in the microenvironment. Acellular cartilage matrix (ACM) replicates tissue-specific extracellular matrix (ECM) characteristics, but lacks the capacity to counteract oxidative stress and secondary inflammation in the tissue microenvironment. In this research, we incorporated tannic acid (TA) into methacrylated ACM (ACMMA) to develop a dynamic dual-crosslinked network bioink for cartilage organoid constructs. TA remodeled precursor assembly behavior, altered the interfacial charge, and promoted the formation of a denser hydrogel microstructure. ACMMA-TA exhibited enhanced chondrogenic differentiation of bone marrow mesenchymal stem cells (BMSCs) equivalent to ACMMA. However, under oxidative stress, it significantly reduced intracellular and mitochondrial reactive oxygen species (ROS) levels, preserved mitochondrial membrane potential, suppressed the expression of pro-inflammatory cytokines, and promoted anti-inflammatory macrophage polarization. Transcriptomic analysis of ACMMA-TA based organoid constructs revealed enhanced ECM preservation and glutathione metabolism, along with the inhibition of IL-17 and NF-κB signaling. In a rat articular cartilage defect model, the ACMMA and ACMMA-TA groups showed comparable moderate improvement, while TA functionalized cell-laden organoid constructs achieved the highest ICRS scores with hyaline-like cartilage formation. These results indicate that TA functions as a conditional microenvironment stabilizer, suggesting that biomaterial design for cartilage repair may prioritize maintaining cell function under pathological stress over structural optimization or robust chondrogenic capacity alone.",
+      "journal": "Journal of nanobiotechnology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1186/s12951-026-04797-1",
+      "date": "2026-07-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443936/"
+    },
     {
       "pmid": "42443320",
       "title": "Human cardiac innervation-on-a-chip platform recapitulates neurocardiac interactions and supports future disease modeling.",
@@ -88,31 +112,6 @@
       "doi": "10.1016/bs.mcb.2026.05.001",
       "date": "2026-06-02",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42442863/"
-    },
-    {
-      "pmid": "42442507",
-      "title": "Experimental model systems to study vascular aging.",
-      "abstract": "Vascular aging contributes to systemic dysfunction and underlies many age-related diseases, driven by structural and functional changes across various cell types, including endothelial cells, vascular smooth muscle cells, pericytes, and cardiomyocytes. This review highlights experimental models that facilitate mechanistic insights and the development of novel therapeutic approaches for vascular aging, emphasizing both in vitro and in vivo methodologies. This review discusses in vitro models utilizing primary and induced pluripotent stem cell (iPSC)-derived cultures across two-dimensional (2D) and three-dimensional (3D) systems, such as spheroids, organoids, and vessel-on-chip platforms, which allow for a more physiological investigation of aging-associated processes. Moreover, currently used in vivo models, including genetically engineered mice, and disease models mimicking human vascular aging, as well as state-of-the-art readouts, including flow-mediated dilation (FMD) and pulse wave velocity (PWV), are also reviewed. Lastly, an overview of the most prominent hurdles and shortcomings associated with modeling vascular aging is provided, underscoring the need for continued refinement to drive therapeutic innovation.",
-      "journal": "Ageing research reviews",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.arr.2026.103256",
-      "date": "2026-07-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42442507/"
-    },
-    {
-      "pmid": "42442472",
-      "title": "NRXN1 haploinsufficiency converges on RNA processing during cortical development, with partial transcriptomic concordance in adult autism cortex.",
-      "abstract": "NRXN1 deletions are recurrent genetic risk factors for autism spectrum disorder (ASD), yet most functional work has focused on synaptic mechanisms. We asked whether NRXN1 haploinsufficiency is also associated with earlier gene-regulatory programs during cortical development, and whether related signals are detectable in adult ASD cortex. We reanalyzed two public single-cell datasets: matched control and NRXN1-heterozygous cortical organoid samples (GSE228315; 215,442 cells, 26 samples) and post-mortem adult ASD cortex (Velmeshev et al., 2019; 104,559 nuclei, 31 donors). All comparisons were performed at the sample or donor level. In adult ASD cortex, donor-level analyses revealed no significant cell-type composition or CellRank-based fate-commitment differences. In organoids, paired pseudobulk comparisons identified 282 genes consistently downregulated across three or more neural cell types in NRXN1-heterozygous samples (10.6-fold enrichment, permutation p < 0.001). Robustness analyses-leave-one-gene-out, threshold-sensitivity, threshold-free consistency scoring, and unbiased GO/Reactome enrichment-supported a broad RNA-processing signal, with mRNA nuclear export and splicing prominently affected (Reactome \"Metabolism of RNA\" FDR = 3 × 10-10). In the same adult cohort, 8 of 16 cell types showed directional concordance under unmatched tests, but none exceeded an expression-matched permutation null after correction (0/16). NRXN1 haploinsufficiency is associated with coordinated downregulation of RNA-processing genes in cortical organoids. Cross-dataset concordance with adult ASD cortex is directional but not specific to NRXN1, and the convergence on mRNA nuclear export and RNA-processing genes should be interpreted cautiously and verified by direct experimental perturbation.",
-      "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.pnpbp.2026.111835",
-      "date": "2026-07-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42442472/"
     },
     {
       "pmid": "42431103",
@@ -262,6 +261,43 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42425911/"
     },
     {
+      "pmid": "42444346",
+      "title": "Current Perspective: The Role of Liquid Biopsy in Diagnosis and Management of Pediatric Rhabdomyosarcomas (RMS).",
+      "abstract": "Rhabdomyosarcoma is the third most common extracranial solid tumor of childhood. Despite extensive research over the preceding decades, prognosis in children with metastatic or recurrent disease remains very poor with overall 5-year survival rates under 20%. Liquid biopsy is emerging as an effective, clinically applicable, noninvasive adjunct to conventional oncological management. To date, liquid biopsy has predominantly been applied in the field of adult oncology. Translation into pediatric malignancies, including rhabdomyosarcoma, remains at an early stage with small cohort studies addressing feasibility and technique optimization. This narrative review addresses the current literature in the field of liquid biopsies in rhabdomyosarcoma considering a variety of circulating biomarkers including ctDNA, mRNA, miRNA, proteins, and tumor cells. Liquid biopsies have the potential to revolutionize real-time tumor monitoring and personalized oncological treatment. The results of further large-scale prospective clinical trials in rhabdomyosarcoma are necessary to enable successful integration into standard clinical care.",
+      "journal": "Pediatric hematology and oncology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1080/08880018.2026.2696405",
+      "date": "2026-07-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42444346/"
+    },
+    {
+      "pmid": "42443915",
+      "title": "Exploring platelet-covered and naked circulating tumor cells - a single-cell transcriptomic perspective.",
+      "abstract": "Circulating tumor cells (CTCs) and platelets might be collected simultaneously during liquid biopsy; however, their interaction in the form of platelet-covered CTCs (pcCTCs) remains only partially understood. In this study, we aimed to detect and characterize pcCTCs using single-cell data from peripheral blood mononuclear cells (PBMCs) and to compare their transcriptomic profiles with naked CTCs and platelets. We analyzed 22 samples (10 from breast cancer patients and 12 from ovarian cancer patients) and 7 controls (3 non-malignant samples and 4 healthy donors) to identify candidate CTCs and pcCTCs. We identified 12 candidate CTCs: 5 naked CTCs and 7 pcCTCs in 5 patients in total. We next examined genes associated with epithelial-mesenchymal transition (EMT), angiogenesis, extracellular matrix organization, and platelet activation, signaling, and aggregation. These pathways were found to be upregulated in pcCTCs exhibiting the highest platelet-associated signal. We computed scores for epithelial and mesenchymal CTC phenotypes, platelet-related signatures, and gene sets associated with ovarian and breast cancer CTCs. Transcriptomic analysis revealed that platelet cloaking significantly influences genes connected with CTCs survival in the bloodstream and metastatic progression.",
+      "journal": "Journal of translational medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1186/s12967-026-08612-1",
+      "date": "2026-07-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443915/"
+    },
+    {
+      "pmid": "42443911",
+      "title": "Integrative plasma-to-spatial proteomics reveals fibroblast-associated signatures in liver metastatic breast cancer.",
+      "abstract": "Liver metastases from breast cancer (BCLM) are associated with aggressive disease and poor survival outcomes. Liver-directed locoregional therapies (LRT) based on radiation are limited by resistance and relapse. While liquid biopsy enables systemic monitoring, it provides limited insight into the tumor microenvironment and mechanisms of resistance. In this hypothesis-generating study, high-throughput plasma proteomics alongside digital spatial profiling of matched tumor tissues was employed to link systemic signals with local tumor biology, aiming to elucidate mechanisms underlying therapy response. Plasma and tissue samples were collected from BCLM (n = 14) patients receiving LRT. High-throughput proteomic analysis (Olink Proteomics, Uppsala, Sweden) was run to detect and quantify circulating proteins in plasma. Matched tissue samples were obtained before LRT and analyzed using Digital Spatial Profiling (GeoMX, NanoString Technologies, Seattle, WA) to assess the protein expression within defined tissue compartments. Results were then correlated with clinical outcome. Systemic proteomic analysis showed significant high levels of CD8A, CX3CL1, FGF-21 before treatment in non-survivors suggesting a hyperactivated yet ineffective immune state. In contrast, survivors exhibited elevated plasma MMP1 (p = 0.035, AUC = 0.896) alongside reduced intratumoral levels. Spatial analysis did not identify significant differences in the distribution of immune cell signaling within the TME. However, compartment-specific profiling illuminated critical patterns: Ki-67 in immune stroma, not tumor cells, correlated with response, while fibronectin and α-SMA were abnormally enriched in tumor epithelial cells of non-survivors. These findings were consistent with a mesenchymal-like signature associated with poor survival, highlighting epithelial fibronectin as a candidate biomarker that warrants further investigation. Integrating plasma and spatial proteomics reveals key resistance mechanisms to LRT in BCLM with the opposing roles of MMP1 and fibronectin in blood versus tumor. Cancer-associated fibroblasts, linked to the epithelial compartment of the tumor, may represent potential targets for future investigation, particularly through MMP1 inhibition, potentially acting as adjuvants to radiation therapy.",
+      "journal": "Cancer cell international",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1186/s12935-026-04416-x",
+      "date": "2026-07-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443911/"
+    },
+    {
       "pmid": "42443324",
       "title": "Fragmentation-Induced Coverage Biases in Cell-Free DNA Sequencing Affect the Clinical Sensitivity of Liquid Biopsies.",
       "abstract": "Cell-free DNA (cfDNA) circulating in blood is characterized by epigenetic context-dependent fragmentation that distinguishes it from the stable genomic DNA of solid tissues. Extensive fragmentation and degradation of cfDNA can result in uneven coverage and potential loss of genetic information. Yet, its implications for the sensitivity of non-invasive detection of clinically relevant variants remain unclear. We analyzed clinical genomic data comprising 0.4 million variants across 67,129 samples from 99 cohorts spanning all major cancer types. We demonstrate that locus-specific and allele-specific coverage biases in liquid biopsy, driven by cfDNA fragmentation, affect known oncogenic hotspots in clinically actionable genes, including TP53, EGFR, and NRAS. These biases result in uneven sensitivity for detecting somatic variants. Longitudinal analysis reveals that these biases can compromise the reliability of disease tracking, potentially leading to false-negative conclusions about clonal extinction and minimal residual disease. We also urge caution while assessing clonal hematopoiesis from cfDNA sequencing.",
@@ -296,47 +332,42 @@
       "doi": "10.1016/bs.irn.2026.02.001",
       "date": "2026-03-25",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42442917/"
-    },
-    {
-      "pmid": "42440815",
-      "title": "CDH3 in human tumors: tumor biology and potential therapeutic target.",
-      "abstract": "Cadherin-3 (CDH3), which encodes P-cadherin, is a classical cadherin involved in epithelial architecture, basal-cell identity, and tissue repair. Once viewed primarily as a structural adhesion molecule, CDH3 is now recognized as a context-dependent regulator of tumor progression and a candidate therapeutic target across several human malignancies. Available evidence indicates that CDH3 is frequently overexpressed in breast, lung, gastric, colorectal, pancreatic, biliary, ovarian, and glioblastoma settings, where it is commonly linked to high grade, invasion, metastasis, therapy resistance, and unfavorable outcomes. A unidirectional interpretation is nevertheless insufficient. In melanoma, bladder carcinoma, hepatocellular carcinoma, renal cancer, and selected lineage-specific settings, CDH3 loss, cytoplasmic redistribution, or restoration can instead associate with altered adhesion control, reduced invasion, or bidirectional phenotypes. Mechanistically, CDH3 operates at the intersection of cell-cell adhesion and signaling output. Its dysregulation is shaped by promoter methylation, chromatin remodeling, transcription-factor programs, noncoding RNAs, oxidative stress, and protein-stability pathways. Functionally, CDH3 can amplify epidermal growth factor receptor and insulin-like growth factor 1 receptor signaling, cooperate with Wnt and Rho GTPase circuits, organize collective migration and extracellular-matrix remodeling, support stem-like and metabolic states, and integrate hypoxia- or exosome-driven communication. Translationally, CDH3 has progressed from a tumor-associated antigen to a platform for monoclonal antibodies, antibody-drug conjugates, bispecific T-cell engagers, radioimmunotherapy, and apoptosis-inducing bispecific constructs. Clinical implementation remains constrained by expression heterogeneity, normal-tissue expression, and the lack of robust companion diagnostics. Clarifying its lineage dependence, membrane-functional state, and biomarker-guided therapeutic window will be essential for converting promising biological knowledge into clinically useful diagnostics and treatments.",
-      "journal": "Frontiers in pharmacology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.3389/fphar.2026.1874056",
-      "date": "2026-06-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42440815/"
-    },
-    {
-      "pmid": "42440508",
-      "title": "Liquid biopsy in pediatric acute lymphoblastic leukemia.",
-      "abstract": "Acute lymphoblastic leukemia (ALL) is the most common pediatric malignancy, and despite advances in therapy, relapse remains a major cause of treatment failure. Liquid biopsy has emerged as a powerful, minimally invasive tool for real-time disease monitoring and prognostication in hematologic malignancies. This review summarizes recent progress in the application of liquid biopsy technologies in pediatric ALL, focusing on circulating tumor DNA (ctDNA), circulating microRNAs (miRNAs), and extracellular vesicles (EVs). We discuss their respective biological origins, detection platforms, and clinical utilities in diagnosis, risk stratification, and measurable residual disease (MRD) assessment. Particular attention is paid to pediatric-specific challenges such as limited blood volume, pre-analytical variability, and the need for sensitive assays adapted to the pediatric context. Furthermore, we highlight cutting-edge innovations in EV isolation, machine learning-based biomarker integration, and prospective clinical applications. Notably, bone marrow evaluation remains the irreplaceable gold standard for pediatric ALL diagnosis and MRD monitoring. Although most liquid biopsy approaches are still in early translational stages for pediatric ALL, accumulating evidence supports their complementary value for optimizing individualized patient management. Continued validation in large, prospective pediatric cohorts is essential to bring these technologies closer to clinical implementation.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.3389/fonc.2026.1853549",
-      "date": "2026-06-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42440508/"
-    },
-    {
-      "pmid": "42440365",
-      "title": "Role of ctDNA Tumor Fraction in Selecting Immunotherapy Based Regimens in Advanced Non-small Cell Lung Cancer.",
-      "abstract": "Immune checkpoint blockers (ICBs) have transformed advanced non-small cell lung cancer (aNSCLC) treatment, but identifying patients who benefit from adding chemotherapy remains challenging, especially in PD-L1 ≥ 50%. PD-L1 is an imperfect biomarker, highlighting the need for better selection tools. Liquid biopsy (LBx) assessment was performed using hybrid capture-based next-generation sequencing of plasma cell-free DNA. LBx data, molecular profile, and clinico-pathological data were collected. The predictive and prognostic values of tumor fraction (TF) were assessed using a de-identified nationwide (US-based) NSCLC clinicogenomic database (CGDB). An independent cohort with aNSCLC from Gustave Roussy was used to validate the findings and to study the correlation of ctDNA tumor fraction and total metabolic tumor volume (tMTV) and its molecular correlates. In the CGDB Database (n=965), elevated ctDNA TF was prognostic for worse outcomes on ICBs and, when ≥5%, predictive of benefit from ICB+chemotherapy (HR for real-world progression-free survival 0.58 [0.41-0.82], p=0.002). The 5% cutoff for TF was validated in an independent cohort from Gustave Roussy. In 283 patients with paired PET scans, ctDNA TF correlated with metabolic tumor volume (rho=0.46, p<0.001) and was influenced by TP53/RB1 mutations. ctDNA TF integrates disease burden and biology. Patients with high ctDNA TF derive greater benefit from chemo-immunotherapy, supporting its use as a biomarker to guide treatment intensification.",
-      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1158/1078-0432.CCR-25-3917",
-      "date": "2026-07-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42440365/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42443944",
+      "date": "2026-07-14",
+      "title": "Causal immune-inflammation mapping of the GERD-Barrett-adenocarcinoma cascade identifies FGF19-HLA-DR⁺ T-cell axis driving esophagogastric junction metaplasia.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443944/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42443944。",
+      "report": "Gastroesophageal reflux disease (GERD), Barrett's esophagus (BE), and esophageal adenocarcinoma (EAC) form a recognized pathological continuum, but the causal immune and inflammatory processes driving progression remain incompletely defined. Summary-level geno...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42443151",
       "date": "2026-07-14",
@@ -363,6 +394,99 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Signal transduction and targeted therapy，PMID 为 42443151。",
       "report": "Multiple organ dysfunction syndrome presents a significant challenge in clinical critical care, characterized by the progressive or simultaneous failure of two or more organ systems following severe insults such as infection, trauma, acute pancreatitis, shock,...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42444346",
+      "date": "2026-07-14",
+      "title": "Current Perspective: The Role of Liquid Biopsy in Diagnosis and Management of Pediatric Rhabdomyosarcomas (RMS).",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42444346/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Pediatric hematology and oncology，PMID 为 42444346。",
+      "report": "Rhabdomyosarcoma is the third most common extracranial solid tumor of childhood. Despite extensive research over the preceding decades, prognosis in children with metastatic or recurrent disease remains very poor with overall 5-year survival rates under 20%. L...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42443915",
+      "date": "2026-07-14",
+      "title": "Exploring platelet-covered and naked circulating tumor cells - a single-cell transcriptomic perspective.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443915/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42443915。",
+      "report": "Circulating tumor cells (CTCs) and platelets might be collected simultaneously during liquid biopsy; however, their interaction in the form of platelet-covered CTCs (pcCTCs) remains only partially understood. In this study, we aimed to detect and characterize...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42443936",
+      "date": "2026-07-13",
+      "title": "A polyphenol-functionalized cartilage matrix bioink protects cell-laden organoid constructs under oxidative stress.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443936/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Journal of nanobiotechnology，PMID 为 42443936。",
+      "report": "Cartilage repair in osteoarthritis is limited not only by structural defects in articular cartilage but also by the chronic redox and immune dysregulation in the microenvironment. Acellular cartilage matrix (ACM) replicates tissue-specific extracellular matrix...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -420,66 +544,6 @@
       "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42443174。",
       "report": "The fallopian tube (FT) is increasingly recognized as the origin of high-grade serous ovarian cancer (HGSOC), yet its immune landscape remains poorly understood. Here, we employ single-cell RNA sequencing and paired T-cell receptor sequencing to profile tissue...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42442507",
-      "date": "2026-07-13",
-      "title": "Experimental model systems to study vascular aging.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42442507/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Ageing research reviews，PMID 为 42442507。",
-      "report": "Vascular aging contributes to systemic dysfunction and underlies many age-related diseases, driven by structural and functional changes across various cell types, including endothelial cells, vascular smooth muscle cells, pericytes, and cardiomyocytes. This re...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42442472",
-      "date": "2026-07-13",
-      "title": "NRXN1 haploinsufficiency converges on RNA processing during cortical development, with partial transcriptomic concordance in adult autism cortex.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42442472/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "多组学"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Progress in neuro-psychopharmacology & biological psychiatry，PMID 为 42442472。",
-      "report": "NRXN1 deletions are recurrent genetic risk factors for autism spectrum disorder (ASD), yet most functional work has focused on synaptic mechanisms. We asked whether NRXN1 haploinsufficiency is also associated with earlier gene-regulatory programs during cortic...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -567,6 +631,37 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42443911",
+      "date": "2026-07-13",
+      "title": "Integrative plasma-to-spatial proteomics reveals fibroblast-associated signatures in liver metastatic breast cancer.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443911/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Cancer cell international，PMID 为 42443911。",
+      "report": "Liver metastases from breast cancer (BCLM) are associated with aggressive disease and poor survival outcomes. Liver-directed locoregional therapies (LRT) based on radiation are limited by resistance and relapse. While liquid biopsy enables systemic monitoring,...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42443324",
       "date": "2026-07-13",
       "title": "Fragmentation-Induced Coverage Biases in Cell-Free DNA Sequencing Affect the Clinical Sensitivity of Liquid Biopsies.",
@@ -619,35 +714,6 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Scientific reports，PMID 为 42443216。",
       "report": "Deep learning (DL) chest radiograph (CXR) models are often trained on downsampled images to reduce computational overhead, despite clinical workflows operating at high resolution. Previous studies have investigated the impact of input resolution on CXR classif...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42440365",
-      "date": "2026-07-13",
-      "title": "Role of ctDNA Tumor Fraction in Selecting Immunotherapy Based Regimens in Advanced Non-small Cell Lung Cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42440365/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42440365。",
-      "report": "Immune checkpoint blockers (ICBs) have transformed advanced non-small cell lung cancer (aNSCLC) treatment, but identifying patients who benefit from adding chemotherapy remains challenging, especially in PD-L1 ≥ 50%. PD-L1 is an imperfect biomarker, highlighti...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -900,64 +966,6 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42440565。",
       "report": "Respiratory syncytial virus (RSV) is a major cause of severe lower respiratory tract disease (LRTD) in infants and older adults worldwide. Although vaccines based on the fusion (F) protein have shown progress, their efficacy remains limited by antigenic instab...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42440815",
-      "date": "2026-06-22",
-      "title": "CDH3 in human tumors: tumor biology and potential therapeutic target.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42440815/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in pharmacology，PMID 为 42440815。",
-      "report": "Cadherin-3 (CDH3), which encodes P-cadherin, is a classical cadherin involved in epithelial architecture, basal-cell identity, and tissue repair. Once viewed primarily as a structural adhesion molecule, CDH3 is now recognized as a context-dependent regulator o...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42440508",
-      "date": "2026-06-22",
-      "title": "Liquid biopsy in pediatric acute lymphoblastic leukemia.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42440508/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42440508。",
-      "report": "Acute lymphoblastic leukemia (ALL) is the most common pediatric malignancy, and despite advances in therapy, relapse remains a major cause of treatment failure. Liquid biopsy has emerged as a powerful, minimally invasive tool for real-time disease monitoring a...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
