@@ -19,6 +19,13 @@ class ReviewPolicyTests(unittest.TestCase):
 
         self.assertEqual([signal["id"] for signal in selected], ["old", "new"])
 
+    def test_all_pending_has_no_numeric_limit(self):
+        signals = [{"id": str(index), "needsReview": True} for index in range(60)]
+
+        selected = review.select_candidates(signals, limit=None, force=False)
+
+        self.assertEqual(len(selected), 60)
+
     def test_pass_at_threshold_can_clear_review(self):
         result = {
             "status": "pass",

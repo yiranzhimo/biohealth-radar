@@ -5,10 +5,6 @@ on:
     - cron: "17 */6 * * *"
   workflow_dispatch:
     inputs:
-      review_limit:
-        description: "Maximum signals to review with OpenAI"
-        required: false
-        default: "48"
       apply_needs_review:
         description: "Allow OpenAI high-confidence low-risk passes to clear needsReview"
         required: false
@@ -38,7 +34,6 @@ jobs:
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       OPENAI_REVIEW_MODEL: ${{ vars.OPENAI_REVIEW_MODEL || 'gpt-4o-mini' }}
-      REVIEW_LIMIT: ${{ github.event.inputs.review_limit || '48' }}
       APPLY_NEEDS_REVIEW: ${{ github.event_name == 'schedule' || inputs.apply_needs_review }}
       FORCE_REVIEW: ${{ inputs.force_review }}
     steps:
@@ -75,7 +70,7 @@ jobs:
 
       - name: Run OpenAI pre-review
         run: |
-          REVIEW_ARGS=(--limit "$REVIEW_LIMIT")
+          REVIEW_ARGS=(--all-pending)
 
           if [ "$FORCE_REVIEW" = "true" ]; then
             REVIEW_ARGS+=(--force)

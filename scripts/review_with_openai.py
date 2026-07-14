@@ -151,6 +151,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--raw-output", default="data/raw/openai_reviews_latest.json", help="Raw AI review output JSON.")
     parser.add_argument("--model", default=os.environ.get("OPENAI_REVIEW_MODEL", DEFAULT_MODEL), help="OpenAI model ID.")
     parser.add_argument("--limit", type=int, default=10, help="Maximum signals to review.")
+    parser.add_argument(
+        "--all-pending",
+        action="store_true",
+        help="Review every signal without an AI review from the current policy version.",
+    )
     parser.add_argument("--force", action="store_true", help="Review signals even if aiReview already exists.")
     parser.add_argument("--dry-run", action="store_true", help="Show selected candidates without calling the API.")
     parser.add_argument(
@@ -181,7 +186,7 @@ def write_data_js(path: Path, payload: dict[str, Any]) -> None:
     path.write_text(f"window.BHR_DATA = {serialized};\n", encoding="utf-8")
 
 
-def select_candidates(signals: list[dict[str, Any]], limit: int, force: bool) -> list[dict[str, Any]]:
+def select_candidates(signals: list[dict[str, Any]], limit: int | None, force: bool) -> list[dict[str, Any]]:
     candidates = []
     for signal in signals:
         ai_review = signal.get("aiReview") or {}
@@ -190,7 +195,7 @@ def select_candidates(signals: list[dict[str, Any]], limit: int, force: bool) ->
         if not signal.get("needsReview") and not force:
             continue
         candidates.append(signal)
-        if len(candidates) >= limit:
+        if limit is not None and len(candidates) >= limit:
             break
     return candidates
 
@@ -317,7 +322,8 @@ def main() -> int:
     data_path = Path(args.data_file)
     payload = read_data_js(data_path)
     signals = payload.get("signals", [])
-    candidates = select_candidates(signals, args.limit, args.force)
+    candidate_limit = None if args.all_pending else args.limit
+    candidates = select_candidates(signals, candidate_limit, args.force)
 
     print(f"Selected {len(candidates)} signal(s) for OpenAI review.")
     for signal in candidates:

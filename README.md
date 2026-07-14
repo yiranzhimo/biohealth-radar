@@ -165,7 +165,7 @@ git push
 PubMed collection -> ClinicalTrials.gov collection -> preserve prior aiReview -> OpenAI pre-review -> commit data.js -> deploy GitHub Pages
 ```
 
-默认每次最多处理 48 条待审核信号，允许高置信通过自动退出 `Needs Review`，并且不会强制重复审核当前政策下已有结果。手动点击 `Run workflow` 时也使用相同默认值，无需填写参数。
+每次自动处理所有尚未获得当前政策版本 AI 审核结果的信号，允许高置信通过自动退出 `Needs Review`。已有当前政策 `aiReview` 的条目会跳过；只有显式启用 `force_review` 才会重复审核。手动点击 `Run workflow` 时无需填写数量。
 
 需要在 GitHub 仓库添加 Secret：
 
