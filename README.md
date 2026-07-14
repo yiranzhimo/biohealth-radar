@@ -39,6 +39,28 @@ http://localhost:8080
 3. 在仓库 `Settings -> Pages -> Build and deployment` 里选择 `GitHub Actions`。
 4. push 后 Actions 会把根目录作为静态站部署到 GitHub Pages。
 
+### Troubleshooting
+
+如果 Actions 出现以下错误：
+
+```text
+Get Pages site failed. Please verify that the repository has Pages enabled and configured to build using GitHub Actions
+```
+
+原因通常是仓库还没有启用 GitHub Pages，或者 Pages 的部署来源还不是 `GitHub Actions`。进入：
+
+```text
+Settings -> Pages -> Build and deployment -> Source
+```
+
+选择：
+
+```text
+GitHub Actions
+```
+
+保存后重新运行 workflow。
+
 ## Data Model
 
 `data.js` 里的每条 signal 使用以下结构：
