@@ -110,6 +110,45 @@ python3 scripts/review_with_openai.py --limit 10 --apply-needs-review --auto-cle
 
 临床、监管、安全性、疗效、治疗建议、商业化或患者影响相关内容仍应保留人工复核。
 
+## Manual Review
+
+人工复核完成的含义是：确认该 signal 可以从复核队列移出，并把 `needsReview` 改成 `false`。当前 GitHub Pages 是静态站，网页本身不能直接写回仓库；建议用脚本标记，不要手改 `data.js`。
+
+列出待复核条目：
+
+```bash
+python3 - <<'PY'
+import json
+text=open('data.js', encoding='utf-8').read()
+payload=json.loads(text.split('=',1)[1].strip().rstrip(';'))
+for signal in payload['signals']:
+    if signal.get('needsReview'):
+        print(signal['id'], '|', signal['sourceType'], '|', signal['title'])
+PY
+```
+
+标记单条为已复核：
+
+```bash
+python3 scripts/mark_reviewed.py pubmed-42443151 --reviewer "liqian" --note "分类和证据分层可接受"
+```
+
+标记多条为已复核：
+
+```bash
+python3 scripts/mark_reviewed.py pubmed-42443151 clinicaltrials-NCT06155305 --reviewer "liqian"
+```
+
+然后提交并推送：
+
+```bash
+git add data.js
+git commit -m "Mark reviewed signals"
+git push
+```
+
+被标记的条目会进入网页的 `已复核` 筛选视图，并显示 `Manual Review` 记录。
+
 ## Scheduled Automation
 
 仓库包含定时刷新 workflow：

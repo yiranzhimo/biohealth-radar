@@ -500,6 +500,11 @@ select {
   background: rgba(55, 87, 166, 0.06);
 }
 
+.manual-review-box {
+  border-color: rgba(31, 122, 77, 0.22);
+  background: rgba(31, 122, 77, 0.06);
+}
+
 .signal-footer {
   display: flex;
   justify-content: space-between;

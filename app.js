@@ -170,6 +170,14 @@
                     </div>`
                   : ""
               }
+              ${
+                item.manualReview
+                  ? `<div class="evidence-box manual-review-box">
+                      <span>Manual Review</span>
+                      <p>${escapeHtml(item.manualReview.status)} · ${escapeHtml(item.manualReview.reviewer)} · ${escapeHtml(item.manualReview.note || "No note")}</p>
+                    </div>`
+                  : ""
+              }
             </div>
 
             <footer class="signal-footer">
