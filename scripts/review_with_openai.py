@@ -20,7 +20,7 @@ from typing import Any
 
 
 RESPONSES_URL = "https://api.openai.com/v1/responses"
-DEFAULT_MODEL = "gpt-5.6-luna"
+DEFAULT_MODEL = "gpt-4o-mini"
 
 SYSTEM_PROMPT = """You are reviewing biotech and healthcare intelligence signals.
 
