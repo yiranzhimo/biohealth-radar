@@ -110,6 +110,40 @@ python3 scripts/review_with_openai.py --limit 10 --apply-needs-review --auto-cle
 
 临床、监管、安全性、疗效、治疗建议、商业化或患者影响相关内容仍应保留人工复核。
 
+## Scheduled Automation
+
+仓库包含定时刷新 workflow：
+
+```text
+.github/workflows/refresh-data.yml
+```
+
+它会每 6 小时自动运行：
+
+```text
+PubMed collection -> ClinicalTrials.gov collection -> preserve prior aiReview -> OpenAI pre-review -> commit data.js -> deploy GitHub Pages
+```
+
+需要在 GitHub 仓库添加 Secret：
+
+```text
+Settings -> Secrets and variables -> Actions -> New repository secret
+Name: OPENAI_API_KEY
+Value: 你的 OpenAI API key
+```
+
+可选添加变量：
+
+```text
+Settings -> Secrets and variables -> Actions -> Variables -> New repository variable
+Name: OPENAI_REVIEW_MODEL
+Value: gpt-5.6-luna
+```
+
+如果不设置 `OPENAI_API_KEY`，workflow 仍会自动采集 PubMed 和 ClinicalTrials.gov，但会跳过 OpenAI 预复核。
+
+GitHub Actions 的 scheduled workflow 不是严格实时系统，可能有延迟。当前实现适合“准实时/定时刷新”的静态站；如果需要用户打开网页时即时抓取和复核，需要迁移到带后端的架构，例如 Cloudflare Workers、Vercel Functions 或自建 API。
+
 ## GitHub Pages Deployment
 
 1. 在 GitHub 新建一个仓库。
