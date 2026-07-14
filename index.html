@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>BioHealth Radar</title>
+    <meta
+      name="description"
+      content="Biotech and healthcare intelligence dashboard focused on source-tagged events, evidence levels, and timelines."
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <div class="brand-mark" aria-hidden="true"></div>
+          <div>
+            <h1>BioHealth Radar</h1>
+            <p>Biotech & Healthcare Intelligence</p>
+          </div>
+        </div>
+
+        <nav class="nav" aria-label="Primary categories">
+          <button class="nav-item active" data-category="All" type="button">全部</button>
+          <button class="nav-item" data-category="Biotech 技术平台" type="button">Biotech 技术平台</button>
+          <button class="nav-item" data-category="AI Drug Discovery" type="button">AI Drug Discovery</button>
+          <button class="nav-item" data-category="Diagnostics & Precision Medicine" type="button">Diagnostics</button>
+          <button class="nav-item" data-category="Clinical & Regulatory" type="button">Clinical & Regulatory</button>
+          <button class="nav-item" data-category="Healthcare AI" type="button">Healthcare AI</button>
+          <button class="nav-item" data-category="Longevity & Wellness" type="button">Longevity & Wellness</button>
+        </nav>
+
+        <section class="panel source-panel" aria-labelledby="source-heading">
+          <div class="section-heading">
+            <h2 id="source-heading">Source Watchlist</h2>
+            <span id="source-count">0</span>
+          </div>
+          <div id="source-list" class="source-list"></div>
+        </section>
+      </aside>
+
+      <main class="main">
+        <section class="topbar" aria-label="Dashboard summary">
+          <div>
+            <p class="eyebrow">测试原型</p>
+            <h2>Biotech / 大健康情报雷达</h2>
+          </div>
+          <div class="updated">
+            <span>Updated</span>
+            <strong id="updated-at">-</strong>
+          </div>
+        </section>
+
+        <section class="overview-grid" aria-label="Key metrics">
+          <article class="metric">
+            <span>Total Signals</span>
+            <strong id="metric-total">0</strong>
+          </article>
+          <article class="metric">
+            <span>Primary Sources</span>
+            <strong id="metric-primary">0</strong>
+          </article>
+          <article class="metric">
+            <span>Needs Review</span>
+            <strong id="metric-review">0</strong>
+          </article>
+          <article class="metric">
+            <span>Evidence High</span>
+            <strong id="metric-high">0</strong>
+          </article>
+        </section>
+
+        <section class="workspace">
+          <section class="feed-area">
+            <div class="toolbar">
+              <label class="search-box" for="search-input">
+                <span aria-hidden="true">⌕</span>
+                <input id="search-input" type="search" placeholder="搜索公司、疾病、靶点、技术、来源" />
+              </label>
+              <select id="source-filter" aria-label="Source type filter">
+                <option value="All">全部来源</option>
+                <option value="Regulator">Regulator</option>
+                <option value="Registry">Registry</option>
+                <option value="Paper">Paper</option>
+                <option value="Company">Company</option>
+                <option value="Media">Media</option>
+              </select>
+              <select id="evidence-filter" aria-label="Evidence filter">
+                <option value="All">全部证据</option>
+                <option value="High">High</option>
+                <option value="Medium">Medium</option>
+                <option value="Low">Low</option>
+              </select>
+            </div>
+
+            <div class="feed-heading">
+              <div>
+                <h2>Signal Feed</h2>
+                <p id="feed-count">0 signals</p>
+              </div>
+              <div class="view-toggle" role="tablist" aria-label="View mode">
+                <button class="active" id="view-cards" type="button">Cards</button>
+                <button id="view-table" type="button">Table</button>
+              </div>
+            </div>
+
+            <div id="card-feed" class="card-feed"></div>
+            <div id="table-feed" class="table-feed hidden"></div>
+          </section>
+
+          <aside class="insight-rail">
+            <section class="panel visual-panel" aria-labelledby="map-heading">
+              <div class="section-heading">
+                <h2 id="map-heading">Theme Map</h2>
+                <span id="theme-total">0</span>
+              </div>
+              <canvas id="theme-map" width="360" height="220" aria-label="Theme signal map"></canvas>
+              <div id="theme-list" class="theme-list"></div>
+            </section>
+
+            <section class="panel" aria-labelledby="review-heading">
+              <div class="section-heading">
+                <h2 id="review-heading">Review Queue</h2>
+                <span id="review-count">0</span>
+              </div>
+              <div id="review-list" class="review-list"></div>
+            </section>
+          </aside>
+        </section>
+      </main>
+    </div>
+
+    <script src="./data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

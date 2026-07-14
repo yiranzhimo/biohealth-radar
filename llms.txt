@@ -1,0 +1,27 @@
+# BioHealth Radar
+
+BioHealth Radar is a prototype biotech and healthcare intelligence dashboard.
+
+Core categories:
+
+- Biotech 技术平台
+- AI Drug Discovery
+- Diagnostics & Precision Medicine
+- Clinical & Regulatory
+- Healthcare AI
+- Longevity & Wellness
+
+Core evidence fields:
+
+- Fact: what a primary source or identified report states.
+- Report: claims made by company, media, paper, or registry.
+- Inference: platform-level interpretation that requires source context.
+- Unknown: missing or unverified information.
+
+Data file:
+
+- ./data.js
+
+Homepage:
+
+- ./index.html
