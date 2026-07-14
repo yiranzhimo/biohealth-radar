@@ -74,6 +74,42 @@ python3 scripts/collect_clinicaltrials.py --dry-run
 
 ClinicalTrials.gov 记录只能证明试验登记事实，例如状态、入组数、设计、日期和申办方；不能单独证明疗效、安全性或临床获益。
 
+## OpenAI Review Test
+
+OpenAI 复核脚本用于结构化预复核：检查分类是否被 signal 字段支持、`Fact / Report / Inference / Unknown` 是否分开、证据等级是否合理，并输出 `aiReview` 字段。
+
+先设置环境变量：
+
+```bash
+export OPENAI_API_KEY="你的 key"
+export OPENAI_REVIEW_MODEL="gpt-5.6-luna"
+```
+
+只查看待复核候选项，不调用 API：
+
+```bash
+python3 scripts/review_with_openai.py --dry-run --limit 5
+```
+
+调用 OpenAI API 并写入 `aiReview`：
+
+```bash
+python3 scripts/review_with_openai.py --limit 10
+```
+
+输出：
+
+- `data/raw/openai_reviews_latest.json`: OpenAI 返回的结构化复核结果
+- `data.js`: 带 `aiReview` 字段的前端数据
+
+默认情况下，脚本不会自动把 `needsReview` 改成 `false`。如果要允许高置信、低风险条目自动移出复核队列：
+
+```bash
+python3 scripts/review_with_openai.py --limit 10 --apply-needs-review --auto-clear-threshold 0.9
+```
+
+临床、监管、安全性、疗效、治疗建议、商业化或患者影响相关内容仍应保留人工复核。
+
 ## GitHub Pages Deployment
 
 1. 在 GitHub 新建一个仓库。

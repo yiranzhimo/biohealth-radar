@@ -138,6 +138,7 @@
               <span class="badge ${evidenceClass(item.evidenceLevel)}">${escapeHtml(item.evidenceLevel)} evidence</span>
               <span class="badge ${evidenceClass(item.reliability)}">${escapeHtml(item.sourceType)}</span>
               ${item.needsReview ? '<span class="badge review">Needs review</span>' : '<span class="badge reviewed">Reviewed</span>'}
+              ${item.aiReview ? `<span class="badge ai-review">AI ${escapeHtml(item.aiReview.status)}</span>` : ""}
             </div>
 
             <div class="tag-row">
@@ -161,6 +162,14 @@
                 <span>Unknown</span>
                 <p>${escapeHtml(item.unknown)}</p>
               </div>
+              ${
+                item.aiReview
+                  ? `<div class="evidence-box ai-review-box">
+                      <span>AI Review</span>
+                      <p>${escapeHtml(item.aiReview.reviewSummaryCn)} Confidence: ${escapeHtml(item.aiReview.confidence)}</p>
+                    </div>`
+                  : ""
+              }
             </div>
 
             <footer class="signal-footer">
