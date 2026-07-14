@@ -5,6 +5,7 @@
     query: "",
     sourceType: "All",
     evidenceLevel: "All",
+    reviewStatus: "All",
     view: "cards"
   };
 
@@ -14,10 +15,12 @@
     metricPrimary: document.querySelector("#metric-primary"),
     metricReview: document.querySelector("#metric-review"),
     metricHigh: document.querySelector("#metric-high"),
+    reviewInboxButton: document.querySelector("#review-inbox-button"),
     sourceCount: document.querySelector("#source-count"),
     sourceList: document.querySelector("#source-list"),
     sourceFilter: document.querySelector("#source-filter"),
     evidenceFilter: document.querySelector("#evidence-filter"),
+    reviewFilter: document.querySelector("#review-filter"),
     searchInput: document.querySelector("#search-input"),
     feedCount: document.querySelector("#feed-count"),
     cardFeed: document.querySelector("#card-feed"),
@@ -58,6 +61,10 @@
       const categoryMatch = state.category === "All" || item.primaryCategory === state.category;
       const sourceMatch = state.sourceType === "All" || item.sourceType === state.sourceType;
       const evidenceMatch = state.evidenceLevel === "All" || item.evidenceLevel === state.evidenceLevel;
+      const reviewMatch =
+        state.reviewStatus === "All" ||
+        (state.reviewStatus === "NeedsReview" && item.needsReview) ||
+        (state.reviewStatus === "Reviewed" && !item.needsReview);
       const haystack = normalize(
         [
           item.title,
@@ -78,7 +85,7 @@
         ].join(" ")
       );
       const queryMatch = !query || haystack.includes(query);
-      return categoryMatch && sourceMatch && evidenceMatch && queryMatch;
+      return categoryMatch && sourceMatch && evidenceMatch && reviewMatch && queryMatch;
     });
   }
 
@@ -116,7 +123,7 @@
     els.cardFeed.innerHTML = signals
       .map(
         (item) => `
-          <article class="signal-card">
+          <article class="signal-card" id="signal-${escapeHtml(item.id)}">
             <div class="signal-top">
               <div class="signal-title">
                 <h3>${escapeHtml(item.title)}</h3>
@@ -130,6 +137,7 @@
               <span class="badge">${escapeHtml(item.eventType)}</span>
               <span class="badge ${evidenceClass(item.evidenceLevel)}">${escapeHtml(item.evidenceLevel)} evidence</span>
               <span class="badge ${evidenceClass(item.reliability)}">${escapeHtml(item.sourceType)}</span>
+              ${item.needsReview ? '<span class="badge review">Needs review</span>' : '<span class="badge reviewed">Reviewed</span>'}
             </div>
 
             <div class="tag-row">
@@ -286,16 +294,52 @@
     els.reviewList.innerHTML = reviewItems
       .map(
         (item) => `
-          <article class="review-item">
+          <button class="review-item" data-signal-id="${escapeHtml(item.id)}" type="button">
             <strong>${escapeHtml(item.title)}</strong>
             <div class="review-meta">
               <span>${escapeHtml(item.sourceType)} · ${escapeHtml(item.evidenceLevel)}</span>
               <span>${escapeHtml(item.date)}</span>
             </div>
-          </article>
+          </button>
         `
       )
       .join("");
+  }
+
+  function setActiveCategory(category) {
+    document.querySelectorAll(".nav-item").forEach((item) => {
+      item.classList.toggle("active", item.dataset.category === category);
+    });
+  }
+
+  function syncControls() {
+    els.searchInput.value = state.query;
+    els.sourceFilter.value = state.sourceType;
+    els.evidenceFilter.value = state.evidenceLevel;
+    els.reviewFilter.value = state.reviewStatus;
+    setActiveCategory(state.category);
+  }
+
+  function openReviewInbox() {
+    state.category = "All";
+    state.query = "";
+    state.sourceType = "All";
+    state.evidenceLevel = "All";
+    state.reviewStatus = "NeedsReview";
+    syncControls();
+    renderFeed();
+  }
+
+  function focusSignal(signalId) {
+    openReviewInbox();
+    setView("cards");
+    window.requestAnimationFrame(() => {
+      const card = document.getElementById(`signal-${signalId}`);
+      if (!card) return;
+      card.scrollIntoView({ behavior: "smooth", block: "start" });
+      card.classList.add("signal-card-highlight");
+      window.setTimeout(() => card.classList.remove("signal-card-highlight"), 1800);
+    });
   }
 
   function renderFeed() {
@@ -338,6 +382,19 @@
     els.evidenceFilter.addEventListener("change", (event) => {
       state.evidenceLevel = event.target.value;
       renderFeed();
+    });
+
+    els.reviewFilter.addEventListener("change", (event) => {
+      state.reviewStatus = event.target.value;
+      renderFeed();
+    });
+
+    els.reviewInboxButton.addEventListener("click", openReviewInbox);
+
+    els.reviewList.addEventListener("click", (event) => {
+      const button = event.target.closest("[data-signal-id]");
+      if (!button) return;
+      focusSignal(button.dataset.signalId);
     });
 
     els.viewCards.addEventListener("click", () => setView("cards"));

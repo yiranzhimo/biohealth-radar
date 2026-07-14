@@ -61,10 +61,10 @@
             <span>Primary Sources</span>
             <strong id="metric-primary">0</strong>
           </article>
-          <article class="metric">
+          <button class="metric metric-button" id="review-inbox-button" type="button">
             <span>Needs Review</span>
             <strong id="metric-review">0</strong>
-          </article>
+          </button>
           <article class="metric">
             <span>Evidence High</span>
             <strong id="metric-high">0</strong>
@@ -91,6 +91,11 @@
                 <option value="High">High</option>
                 <option value="Medium">Medium</option>
                 <option value="Low">Low</option>
+              </select>
+              <select id="review-filter" aria-label="Review status filter">
+                <option value="All">全部状态</option>
+                <option value="NeedsReview">待复核</option>
+                <option value="Reviewed">已复核</option>
               </select>
             </div>
 
