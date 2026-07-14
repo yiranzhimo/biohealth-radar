@@ -1,206 +1,538 @@
 {
-  "capturedAt": "2026-07-14T14:16:41.596616+00:00",
+  "capturedAt": "2026-07-14T19:46:18.127648+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42443944",
-      "responseId": "resp_0c39415b622d5b8a006a5644cb06f081a193f8ee888d5020b9",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录内在一致，来源清晰，符合发表标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断明确分开，证据水平合理。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "临床",
-            "监管",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42443944。",
-          "report": "Gastroesophageal reflux disease (GERD), Barrett's esophagus (BE), and esophageal adenocarcinoma (EAC) form a recognized pathological continuum, but the causal immune and inflammatory processes driving progression remain incompletely defined. Summary-level geno...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42444346",
-      "responseId": "resp_0890eba2cdc27353006a5644d57db881a1b6fbae53eddf674b",
+      "signalId": "pubmed-42446805",
+      "responseId": "resp_0768699951890a96006a56920b567481a2b5d46e08a844feca",
       "review": {
         "status": "needs_human",
-        "confidence": 0.8,
+        "confidence": 0.75,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审核，存在潜在的临床结论风险。",
+        "reviewSummaryCn": "需人工审查，因缺乏对研究质量及临床结论的明确判断。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "分类未合理反映研究结果，可能存在误导性信息。"
+          "notesCn": "分类与研究内容不完全对应，需进一步验证。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "虽然证据级别已标注为中，但文献内容可能有误导性内容。"
+          "notesCn": "尽管事实和报告分开，证据水平未达到支持临床结论的标准。"
         },
         "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
+          "weak_classification",
+          "insufficient_source"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
           "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Precision Oncology"
+            "Organoids",
+            "Advanced Disease Models",
+            "Drug Screening"
           ],
           "tags": [
-            "诊断",
-            "精准医疗",
-            "临床",
-            "监管",
-            "肿瘤"
+            "类器官",
+            "疾病模型",
+            "药筛"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Pediatric hematology and oncology，PMID 为 42444346。",
-          "report": "Rhabdomyosarcoma is the third most common extracranial solid tumor of childhood. Despite extensive research over the preceding decades, prognosis in children with metastatic or recurrent disease remains very poor with overall 5-year survival rates under 20%. L...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Cell regeneration (London, England)，PMID 为 42446805。",
+          "report": "The development of functional human vasculature is essential for tissue engineering, disease modeling, and regenerative medicine.",
+          "inference": "此分类反映研究主题，客观上不代表治疗建议或临床成果。",
+          "unknown": "缺少关于研究质量、样本量及潜在利益冲突的信息。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42446380",
+      "responseId": "resp_025c99f938736a53006a569214147081a18e0f80ee34e3aeaa",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录与研究相关，分类合理且无未经支持的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "文献类别与证据水平合理支持所提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论已明确分开，证据水平合理。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Biotech"
+          ],
+          "tags": [
+            "biotech"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of Parkinson's disease，PMID 为 42446380。",
+          "report": "The lack of disease-modifying therapies for Parkinson's disease (PD) places a severe burden on patients, their caregivers and aging societies. While the incomplete knowledge of underlying causes and pathophysiology remains a major bottleneck towards the develo...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42443915",
-      "responseId": "resp_0321639b55d98bcf006a5644dda770819eb6480c7e86f282cb",
+      "signalId": "pubmed-42446105",
+      "responseId": "resp_078a8b20c9c66fea006a569219f0988192bba50a453a451560",
       "review": {
         "status": "pass",
         "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号记录清晰，符合发布要求，未含有支持性治疗或安全性结论。",
+        "reviewSummaryCn": "该文献记录清晰且信息准确，适合发布。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，与文献主题一致。"
+          "notesCn": "分类与文献内容相符，符合合理标准。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论之间的区分明确。"
+          "notesCn": "事实、报告和推论分开明确，证据水平适中。"
         },
         "riskFlags": [
           "insufficient_source"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42443915。",
-          "report": "Circulating tumor cells (CTCs) and platelets might be collected simultaneously during liquid biopsy; however, their interaction in the form of platelet-covered CTCs (pcCTCs) remains only partially understood. In this study, we aimed to detect and characterize...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42443936",
-      "responseId": "resp_019368db6e83ea34006a5644e6e06881a2be39feb8fed09752",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "所有信息在源基础上合理且明确，满足发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类与研究内容一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "信息分离清晰，证据水平合适。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
           "subCategory": "Organoids & Advanced Disease Models",
           "evidenceLevel": "Medium",
           "themes": [
             "Organoids",
             "Advanced Disease Models",
-            "Multi-omics"
+            "Drug Screening"
           ],
           "tags": [
             "类器官",
             "疾病模型",
-            "多组学"
+            "药筛"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of nanobiotechnology，PMID 为 42443936。",
-          "report": "Cartilage repair in osteoarthritis is limited not only by structural defects in articular cartilage but also by the chronic redox and immune dysregulation in the microenvironment. Acellular cartilage matrix (ACM) replicates tissue-specific extracellular matrix...",
+          "fact": "PubMed 记录显示该文献收录于 Chembiochem : a European journal of chemical biology，PMID 为 42446105。",
+          "report": "As an emerging microphysiological system, organ-on-a-chip (OoC) replicates human organ structures and functions through microfabrication, holding promise as novel platforms for drug screening, disease modeling, and toxicity testing, although their broad applic...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42443911",
-      "responseId": "resp_06eac9025ee879d9006a5644f5ae008191addff368db1d44b0",
+      "signalId": "pubmed-42445940",
+      "responseId": "resp_065da9d76fc05326006a569223b1c081a29883e7bdbe4059f6",
       "review": {
         "status": "pass",
-        "confidence": 0.9,
+        "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录基于高可靠性的来源，信息分层分明，未提出临床结论或治疗建议。",
+        "reviewSummaryCn": "该卡片的内容与来源一致，未包含未验证的临床结论或治疗建议。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "主要类别和子类别对于提供的元数据合适。"
+          "notesCn": "分类合理，符合提供的元数据。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断之间的分隔清晰，证据水平合理。"
+          "notesCn": "文献的来源和主题明确，报告和推论分开。"
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Development (Cambridge, England)，PMID 为 42445940。",
+          "report": "Alex Hughes is an Associate Professor of Bioengineering at the University of Pennsylvania, USA, using in vitro organoid models of the developing human kidney to study organogenesis from an engineering perspective. This year, Alex is a Guest Editor for Developm...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42446136",
+      "responseId": "resp_07094b4426784230006a56922bd7c4819e887f21835ac79281",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "此条信号符合发布标准，无需人工审核。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Neuro-oncology，PMID 为 42446136。",
+          "report": "Focused ultrasound-mediated blood-brain barrier opening (BBBO) is hypothesized to enhance liquid biopsy by facilitating the release of tumor material into the circulation. This study aimed to evaluate the impact of MR-guided FUS-BBBO on plasma extracellular ve...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42444981",
+      "responseId": "resp_049a762c622f0584006a569233d4608192b4a2de787774caa8",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号缺乏关于研究质量和可能商业冲突的清晰信息。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类存在相对较弱的支持，需进一步确认研究的质量和可信度。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平标记为中等，但未能确认研究质量与样本量。"
         },
         "riskFlags": [
           "clinical_claim",
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "AI Drug Discovery",
+          "subCategory": "AI-enabled Discovery",
+          "evidenceLevel": "Low",
+          "themes": [
+            "AI for Biology",
+            "Drug Discovery",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "AI 制药",
+            "蛋白设计",
+            "分子生成",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 MedComm，PMID 为 42444981。",
+          "report": "De novo protein design enables the creation of proteins with entirely novel structures and biological functions from scratch, offering a promising new paradigm for cancer immunotherapy. Emerging methodologies are integrating principles of rational design, incl...",
+          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42446827",
+      "responseId": "resp_0762df769aab75db006a56923d5c2081a1a4bc7141f46a42e5",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号需要人工审核以确认其分类和临床结论的合理性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "主要类别和子类别与源内容不完全一致，可能存在分类不合理问题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平被界定为中等，但具体支持信息不足，未充分反映研究质量。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source",
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Science China. Life sciences，PMID 为 42446827。",
+          "report": "The TBX1 deletion is frequently observed in patients with tetralogy of Fallot (TOF), the most prevalent cyanotic congenital heart defect (CHD); however, the role of noncoding variants in its regulatory region remains unclear. We performed whole-genome sequencing...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42445758",
+      "responseId": "resp_04d8a9995f747168006a5692451048819dbd355a415616e6a7",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审核以确保分类准确性和避免误导性结论。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类不够清晰，证据水平未充分支持当前分类。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "中等证据水平不足以支持该类研究的广泛应用或结论。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "AI Drug Discovery",
+          "subCategory": "AI-enabled Discovery",
+          "evidenceLevel": "Low",
+          "themes": [
+            "AI for Biology",
+            "Drug Discovery",
+            "Clinical Evidence",
+            "Regulatory Watch"
+          ],
+          "tags": [
+            "AI 制药",
+            "蛋白设计",
+            "分子生成",
+            "临床",
+            "监管"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Saudi medical journal，PMID 为 42445758。",
+          "report": "The integration of artificial intelligence (AI) into pharmaceutical care represents a paradigm shift in healthcare delivery, offering unprecedented opportunities to revolutionize medication management, accelerate drug development, and enhance patient outcomes....",
+          "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42444608",
+      "responseId": "resp_096da5a279f328a6006a56924cb7f481a1b01175c0bb2c4ba6",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献内容未严格分离事实、报告及推论，且存在未评估的研究质量及商业化状态。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "主要类别与子类别未合理匹配。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "事实、报告及推论未能明确分开，且证据水平评估需进一步验证。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "AI Drug Discovery",
+          "subCategory": "Virtual Cell / Cell Foundation Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Virtual Cell",
+            "AI for Biology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "虚拟细胞",
+            "细胞基础模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Nucleic acids research，PMID 为 42444608。",
+          "report": "Virtual cells represent a promising paradigm to understand cellular mechanisms, behavior, and dynamics. The realization of virtual cells relies on the accurate modeling of cellular dynamics from large-scale, multi-modal single-cell data. However, experiment-sp...",
+          "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42445712",
+      "responseId": "resp_08dc6943028da98b006a569252848881a3b95c76cd2b172b36",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献未明确判断研究质量及其临床结论的可靠性，需专家评审。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合主题范围。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "虽然文献分类合理，但提供的证据水平为中等，可能不充分。"
+        },
+        "riskFlags": [
+          "insufficient_source",
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Reports of practical oncology and radiotherapy : journal of Greatpoland Cancer Center in Poznan and Polish Society of Radiation Oncology，PMID 为 42445712。",
+          "report": "Breast cancer is the second most commonly diagnosed cancer worldwide and remains a major cause of cancer-related mortality. Despite advances in treatment, challenges like tumor heterogeneity, recurrence, and drug resistance persist. A critical unmet need in br...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42445193",
+      "responseId": "resp_016d476b82f94507006a56925b4eec819eb59bed8e9ff6d703",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该卡片涉及潜在的治疗策略，缺乏对研究质量和样本量的评估，需人工审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类合理，但未考虑相关研究质量和样本量。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平被标记为中等，但缺乏支持质量评估的关键信息。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42445193。",
+          "report": "Microsatellite-stable colorectal cancer (MSS-CRC) is refractory to immune checkpoint inhibitors (ICIs), mainly because of low tumor immunogenicity, impaired antigen presentation, immune exclusion, and myeloid- or Treg-dominated immunosuppression. Traditional Chinese medicine as a potential barrier-oriented sensitization strategy is discussed in this context.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42445727",
+      "responseId": "resp_088e9f099129f9e6006a5692633554819eb5d8acb2f7b4f91c",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号符合发布标准，信息清晰且无临床建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Clinical Evidence",
+            "Regulatory Watch"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "临床",
+            "监管"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Frontiers in genetics，PMID 为 42445727。",
+          "report": "Acute rejection (AR) remains a major complication affecting graft function and recipient prognosis after liver transplantation (LT). Bile exosomal microRNAs (miRNAs) possess organ specificity, local enrichment, and high stability, making them promising non-invasive biomarkers for AR.",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42444935",
+      "responseId": "resp_0308039c9a3e6f48006a56926bdcf081928f4a410bba86a548",
+      "review": {
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号在信息分流中合理，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "类别和证据水平与提供的元数据相符。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断明确分开，来源支持的信息合理。"
+        },
+        "riskFlags": [
           "insufficient_source"
         ],
         "suggestedEdits": {
@@ -211,1029 +543,18 @@
             "Diagnostics",
             "Precision Medicine",
             "Precision Oncology",
-            "Multi-omics"
+            "Drug Screening"
           ],
           "tags": [
             "诊断",
             "精准医疗",
             "肿瘤",
-            "多组学"
+            "药筛"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Cancer cell international，PMID 为 42443911。",
-          "report": "Liver metastases from breast cancer (BCLM) are associated with aggressive disease and poor survival outcomes. Liver-directed locoregional therapies (LRT) based on radiation are limited by resistance and relapse. While liquid biopsy enables systemic monitoring,...",
+          "fact": "PubMed 记录显示该文献收录于 Journal of thoracic disease，PMID 为 42444935。",
+          "report": "Artificial intelligence (AI) is increasingly applied across interventional pulmonology (IP), though the transition from technical innovation to actual clinical benefit remains a work in progress. This narrative review examines the current evidence of key AI su...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT06620380",
-      "responseId": "resp_0d1f6291f28adbb3006a5644fe704881a39e18d7c7d667c16c",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该登记记录的疗效和安全性未得到明确证明，因此需要人类评审。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类不够明确，未能支持对疗效或安全性的具体说明。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
-          "evidenceLevelReasonable": false,
-          "notesCn": "报告和推断之间的分隔不清，且证据层次不合理。"
-        },
-        "riskFlags": [
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Clinical Trials",
-            "Organoids",
-            "Advanced Disease Models",
-            "Biomarkers"
-          ],
-          "tags": [],
-          "fact": "ClinicalTrials.gov lists NCT06620380 with status RECRUITING, phase PHASE2, enrollment 102, lead sponsor University of Zurich, countries Switzerland.",
-          "report": "Pharmacoscopy refers to an ex vivo real-time drug sensitivity profiling platform that has been shown to be of value in the treatment of leukemia (Snijder et al. 2017) (Kornauth et al. 2022) and may help to identify novel treatment opportunities for brain tumor...",
-          "inference": "登记状态和设计字段不能直接证明疗效或安全性。",
-          "unknown": "当前登记记录未能充分证明疗效和安全性，需提供更多支持性数据。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT06290713",
-      "responseId": "resp_02c06aa1fb76455e006a56450d0d6c81a3b2996bf3f5b1e456",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该临床试验的报道中存在对疗效和安全性的暗示，需要人类评审以确认其准确性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据水平为中等，但元数据不足以支持效果或安全性的声明。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "登记记录未能全面评估所有必要的临床试验要素。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Clinical Trials",
-            "Recruiting"
-          ],
-          "tags": [
-            "临床试验"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT06290713 with status RECRUITING, phase PHASE2, enrollment 50, lead sponsor University of Florida, countries United States.",
-          "report": "Examining two strategies as potential adjuvant therapies for Duchenne muscular dystrophy (DMD); aerobic exercise training (to induce adaptations in skeletal muscle and improve cardiovascular health) and tadalafil, an FDA-approved vasodilator (to optimize blood...",
-          "inference": "该研究报告中对治疗效果的暗示需要进一步审查以确保准确性。",
-          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT07576946",
-      "responseId": "resp_042e4308e40b90a4006a564516a23481928bdb799df621a505",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "登记记录中存在需要人工审查的内容，尤其是在安全性和有效性结论方面。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类不支持，有效性和安全性的主张未得到充分支撑。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平不足以支持有效性或安全性结论。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Clinical Trials",
-            "Healthcare AI",
-            "Medical AI",
-            "Recruiting"
-          ],
-          "tags": [
-            "临床试验",
-            "医疗 AI",
-            "临床决策支持"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT07576946 with status ACTIVE_NOT_RECRUITING, phase N/A, enrollment 7, lead sponsor Koç University, countries Turkey (Türkiye).",
-          "report": "This study aims to evaluate the functional performance and feasibility of the Saturista system, a novel device designed for automated oxygen flow regulation based on continuous monitoring of oxygen saturation (SpO₂). The system integrates real-time physiologic...",
-          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Healthcare AI, Medical AI。登记状态和设计字段不能直接证明疗效或安全性。",
-          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT07284069",
-      "responseId": "resp_07f8ed1b6bd9e4d8006a56451fb82c81a199fcbc824e4b9c93",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审核，因为报告中的疗效或安全性推断尚未明确指出。 ",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "类别和证据水平的合理性有待进一步评估。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平的合理性不足，需更多信息以支持结论。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Clinical Trials",
-            "Oncology",
-            "Precision Oncology",
-            "Recruiting"
-          ],
-          "tags": [
-            "临床试验",
-            "肿瘤"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT07284069 with status RECRUITING, phase EARLY_PHASE1, enrollment 36, lead sponsor Aarhus University Hospital, countries Denmark.",
-          "report": "Glioblastoma is the most common and aggressive form of brain cancer in adults. Despite surgery, radiotherapy, and chemotherapy, most patients only live about one year after diagnosis. There is an urgent need for new and better treatments. Recent research has shown potential...",
-          "inference": "登记状态和设计字段不能直接证明疗效或安全性。",
-          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT07215325",
-      "responseId": "resp_04bf0db4b69791de006a564526ec7081a2bc0ab8b916fe4427",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人类审查以确认临床试验宣称的可靠性和相关性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "类别和证据水平不完全合理，缺乏足够信息以支持临床效能声明。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "注册记录虽然提供了基本信息，但未能充分支撑疗效或安全性的声明。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Clinical Trials",
-            "Recruiting"
-          ],
-          "tags": [
-            "临床试验"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT07215325 with status RECRUITING, phase PHASE4, enrollment 200, lead sponsor Emory University, countries United States.",
-          "report": "This study is being done to test the effects of doxycycline on inflammation and the bacteria in the body in people with HIV and in people on HIV pre-exposure prophylaxis.",
-          "inference": "登记状态和设计字段不能直接证明疗效或安全性。",
-          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT07453342",
-      "responseId": "resp_0c8fded7587d7625006a56452eb5708192a5eea688fb30c03d",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审核，因为存在未支持的疗效或安全性推论。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据等级与类别之间存在差异，存在不支持临床结论的风险。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
-          "evidenceLevelReasonable": false,
-          "notesCn": "未能清晰区分事实、报告与推论，证据水平为中等，可能不足以支持断言。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Clinical Trials",
-            "Oncology",
-            "Precision Oncology",
-            "Recruiting"
-          ],
-          "tags": [
-            "临床试验",
-            "肿瘤",
-            "中国"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT07453342 with status RECRUITING, phase N/A, enrollment 500, lead sponsor Peking Union Medical College Hospital, countries China.",
-          "report": "This observational study aims to comprehensively characterize immune-related adverse events (irAEs) occurring during immune checkpoint inhibitor (ICI) therapy in cancer patients and to evaluate the safety and clinical outcomes of ICI rechallenge following irAE...",
-          "inference": "存在未支持的结论，需进行更详细的审核。",
-          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT04469556",
-      "responseId": "resp_0a0f053b530c2f83006a564539f6908191a136458665303c16",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审核以确认临床试验的效力和安全性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "未能充分支持分类，所提供信息不完整。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "尽管事实、报告和推断已分开，但证据水平不够合理，缺乏对结果质量的评估。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Clinical Trials",
-            "Organoids",
-            "Oncology"
-          ],
-          "tags": [
-            "临床试验",
-            "类器官",
-            "肿瘤"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT04469556 with status COMPLETED, phase PHASE2, enrollment 150, lead sponsor University Health Network, Toronto, countries United States, Canada.",
-          "report": "This is a randomized multicentre phase II trial with a large translational component. The trial will evaluate the two standard chemotherapy regimens: modified folfirinox (mFFX) and gemcitabine/nab-paclitaxel (GA), in patients with untreated metastatic pancreat...",
-          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Organoids, Advanced Disease Models, Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
-          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT06044025",
-      "responseId": "resp_0635bdd7937642af006a56454233188192864c73def3c3ed5f",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审查，涉及治疗效果的主张。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类支持不足，需更详细的信息确认治疗效果。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平未能确定，特别是疗效或安全性未被充分支持。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Clinical Trials",
-            "Oncology",
-            "Precision Oncology",
-            "Recruiting"
-          ],
-          "tags": [
-            "临床试验",
-            "肿瘤"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT06044025 with status RECRUITING, phase PHASE1, enrollment 34, lead sponsor University of Arkansas, countries United States.",
-          "report": "The goal of this clinical trial is to assess the feasibility of adding a combination of metformin and turmeric as part of a nutritional intervention regimen to the current standard of care, namely, intermittent Androgen Deprivation Therapy (iADT), for patients...",
-          "inference": "This clinical trial explores a nutritional intervention but does not provide evidence of efficacy.",
-          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT05517083",
-      "responseId": "resp_0ef695ba5285b3ce006a56454d45ec81a1beea5bfd871e7330",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该临床试验的信息缺乏关于结果和有效性的全面性评估，需要人工审核。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据水平标记为中等，但信息不够充分，尤其是在结果质量和样本量方面。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "虽然信息分隔良好，但中等证据水平不支持推断的完整性。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Clinical Trials",
-            "Oncology",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "临床试验",
-            "肿瘤"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT05517083 with status COMPLETED, phase NA, enrollment 41, lead sponsor Pusan National University Hospital, countries South Korea.",
-          "report": "The purpose of this study is to evaluate the relevance of intratumoral washing for detection of EGFR mutation (including T790M positivity).",
-          "inference": "The data do not support clinical effectiveness claims without further details on outcomes and methodologies.",
-          "unknown": "Current registration does not cover verification of protocol changes, outcome quality assessment, sample size adequacy, endpoint quality, or regulatory implications."
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT06998082",
-      "responseId": "resp_0b037ee3c75ba32e006a564555380c819e970db0d12cbbdb17",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "此临床试验信息需要人工审查，以确认疗效、安全性及其它重要信息的完整性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类设置不当，证据水平应重新评估。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平不够明确，未能准确分离事实、报告和推论。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Clinical Trials",
-            "Healthcare AI",
-            "Medical AI",
-            "Recruiting"
-          ],
-          "tags": [
-            "临床试验",
-            "医疗 AI",
-            "临床决策支持",
-            "中国"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT06998082 with status NOT_YET_RECRUITING, phase N/A, enrollment 1533, lead sponsor Beijing Tiantan Hospital, countries China.",
-          "report": "Acute hemorrhagic cerebrovascular disease is a life-threatening condition characterized by sudden onset, rapid progression, multiple complications, poor prognosis, and high mortality. It presents a significant public health burden. During surgical intervention...",
-          "inference": "登记状态和设计字段不能直接证明疗效或安全性。",
-          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT05041335",
-      "responseId": "resp_0a581e73886be036006a56455f3a88819c98f67f148320249f",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人类评审以验证研究目的和结果的清晰性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据水平和分类不太可靠，可能导致误解。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
-          "evidenceLevelReasonable": false,
-          "notesCn": "报告的目的未清晰分离，可能导致对试验的误解。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Clinical Trials",
-            "Oncology",
-            "Precision Oncology",
-            "Recruiting"
-          ],
-          "tags": [
-            "临床试验",
-            "肿瘤"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT05041335 with status NOT_YET_RECRUITING, phase NA, enrollment 42, lead sponsor H. Lee Moffitt Cancer Center and Research Institute, countries United States.",
-          "report": "The purpose of this research is to compare the amount and quality of tissue obtained by EUS-FNB when the device is flushed with an anticoagulant or \"blood thinner\" vs. saline a salt water solution as well as the use of a microsieve in order for the doctor to l...",
-          "inference": "研究目的未直接支持疗效或安全性，因此需要人类判断。",
-          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT06658080",
-      "responseId": "resp_07196832442da30e006a5645657ab881a184e45aa389bdf3c4",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "临床试验卡片需要人工审查，原因是缺乏相关结果和方案信息，可能导致关于疗效的不当推断。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "当前分类并未充分考虑登记记录缺失的关键信息，导致可能的混淆。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "现有的证据水平被标记为中等，但缺乏临床结果的支持，需慎重对待。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Clinical Trials",
-            "Organoids",
-            "Advanced Disease Models",
-            "Oncology",
-            "Precision Oncology",
-            "Recruiting"
-          ],
-          "tags": [
-            "临床试验",
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "乳腺癌",
-            "中国"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT06658080 with status RECRUITING, phase N/A, enrollment 90, lead sponsor Second Affiliated Hospital, School of Medicine, Zhejiang University, countries China.",
-          "report": "Malignant hydrothorax and ascitic fluid in advanced breast cancer often arise from metastasis to the lungs, pleura, or liver. Patients with this condition experience rapid disease progression and multidrug resistance, facing limited treatment options. Clinical...",
-          "inference": "该试验的设计和结果尚未被验证，因此不应立即推断疗效或安全性。",
-          "unknown": "缺乏关于方案变化、结果质量等关键信息，可能影响对这项研究的理解。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT06266169",
-      "responseId": "resp_06fe11805349f460006a56456e34608191bc5399daed51bb72",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "发布需要人工判断，因为报告中包含对研究相关性的陈述，缺乏支持性证据。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据水平被认为中等，但报告中包含对研究主题相关性的结论。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "报告的相关性感知缺乏足够证据支持，卡片整体证据水平不足。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Clinical Trials",
-            "Healthcare AI",
-            "Medical AI"
-          ],
-          "tags": [
-            "临床试验",
-            "医疗 AI",
-            "临床决策支持"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT06266169 with status UNKNOWN, phase NA, enrollment 1064, lead sponsor Family Planning Center of Women's Welfare Clinic #44 of Pushkin District, countries Russia.",
-          "report": "Relevance of the research topic: At present, in the world, a kind of \"plateau\" in the efficiency of assisted reproductive technologies has been achieved, which ensures a birth rate of 30% per embryo transfer.",
-          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Healthcare AI, Medical AI。登记状态和设计字段不能直接证明疗效或安全性。",
-          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT05058950",
-      "responseId": "resp_01541c63c5fb411e006a56457552d48191b999a10967328515",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该临床试验记录在设计上和报告内容上存在不足，需要进一步审查。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据等级低，分类数据不足以支持结论。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "虽然事实和报告已分开，但证据水平被认为不合理。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Clinical Trials",
-            "Longevity",
-            "Biomarkers"
-          ],
-          "tags": [
-            "临床试验",
-            "衰老",
-            "biomarker"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT05058950 with status TERMINATED, phase N/A, enrollment 22720, lead sponsor Biogen, countries United States.",
-          "report": "The primary objectives are to develop and validate a classifier using multimodal passive sensor data and metrics derived from normal iPhone and Apple Watch usage to distinguish individuals with normal cognition from those with mild cognitive impairment (MCI)...",
-          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
-          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT05637411",
-      "responseId": "resp_0e911722b3a49cef006a56457cbf40819cb4c13e136ed2cd14",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该临床试验记录需要人类审核以确认其内容的完整性和准确性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据级别和分类不够强，需提供更多上下文。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "当前证据级别为中等，不足以支持声明。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Clinical Trials"
-          ],
-          "tags": [
-            "临床试验"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT05637411 with status UNKNOWN, phase N/A, enrollment 214, lead sponsor Hospital Universitario Virgen Macarena, countries Spain.",
-          "report": "The objective of the project is to develop a potentially marketable system for clinical, epidemiological and translational research capable of associating contextual variables and geospatial data with clinical patient information.",
-          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
-          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT02304354",
-      "responseId": "resp_0999ea735142bbf4006a564586d56c8192a2303acabd6bc626",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该记录包含关于治疗效果的不充分结论，需要人工审查和修正。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "当前分类未能明确支持材料的准确性。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "虽然事实和报告分开，但证据水平不足以支持提出的结论。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Clinical Trials"
-          ],
-          "tags": [
-            "临床试验"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT02304354 with status COMPLETED, phase PHASE3, enrollment 70, lead sponsor University Hospital, Tours, countries France.",
-          "report": "Rituximab, an anti CD-20 monoclonal antibody targeting B lymphocytes is prescribed in rheumatoid arthritis (RA) patients refractory to TNF alpha antagonists.",
-          "inference": "报告中对疗效的推测不够明确，需要更详细的证据支持。",
-          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT00914940",
-      "responseId": "resp_05c36f4477b36be5006a56458d9c44819d9b623be28a47185e",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "登记记录缺乏对结果质量和终点的覆盖，需人工审核。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "临床与监管分类不完全支持现有数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "虽然登记信息高可靠性，但缺少对结果和设计的充分覆盖。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Clinical Trials",
-            "Cell Therapy",
-            "Oncology",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "临床试验",
-            "细胞治疗",
-            "肿瘤"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT00914940 with status TERMINATED, phase PHASE2, enrollment 41, lead sponsor Fred Hutchinson Cancer Center, countries United States.",
-          "report": "RATIONALE: Allogeneic hematopoietic stem cell transplant (HSCT) is a treatment that can cure acute leukemia and myelodysplasia. After giving the patient chemotherapy and total body irradiation to stop the growth of cancer and remove the patient's diseased bone...",
-          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Cell Therapy, Oncology。登记状态和设计字段不能直接证明疗效或安全性。",
-          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT03820908",
-      "responseId": "resp_0d46fe1b182faf2b006a564594e1948192801a4024b77ced0b",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该信号中的某些临床有效性和安全性声明需进行更严格审查。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类不完全支持现有源信息。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据级别不合理，难以支持疗效声明。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "medical_advice_risk",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Clinical Trials",
-            "Cell Therapy",
-            "Oncology"
-          ],
-          "tags": [
-            "临床试验",
-            "细胞治疗",
-            "肿瘤"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT03820908 with status COMPLETED, phase PHASE2, enrollment 10, lead sponsor Sheba Medical Center, countries Israel.",
-          "report": "Induction of response in patients with AML that are either primary resistant (failed induction and or salvage therapy) or relapsed including post allogeneic stem cell transplantation and failed salvage therapy or cannot receive additional anthracycline.",
-          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Cell Therapy, Oncology。登记状态和设计字段不能直接证明疗效或安全性。",
-          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT04045730",
-      "responseId": "resp_0af7dfd753187711006a56459beed481a2a673f053db89b858",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该临床试验的信息需要进一步确认与纠正，包括疗效和安全性结论。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据水平为低的临床试验记录可能不充分支持相关结论。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "列出的证据水平与临床试验的性质不一致。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Clinical Trials",
-            "Oncology",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "临床试验",
-            "肿瘤"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT04045730 with status WITHDRAWN, phase PHASE2, enrollment N/A, lead sponsor Yale University, countries N/A.",
-          "report": "This is an open-label single arm phase 2 study for patients with metastatic pancreatic ductal adenocarcinoma who have not received any prior systemic therapies.",
-          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
-          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT03688594",
-      "responseId": "resp_00850e0b09af768b006a5645a303a88192b9f07901e0cecab3",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该记录中有不支持的安全性或疗效结论，需要进一步审查。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类未能明确支持，需评估登记的实际内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平过于一般，与实际情况不符。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Clinical Trials",
-            "Diagnostics",
-            "Precision Medicine"
-          ],
-          "tags": [
-            "临床试验",
-            "诊断",
-            "精准医疗"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT03688594 with status UNKNOWN and enrollment of 60.",
-          "report": "The aim of this study is to evaluate performances of a NIPT test based on maternal blood to search for known genetic mutations.",
-          "inference": "该登记的设计不能直接证明疗效或安全性。",
-          "unknown": "登记记录未覆盖结果质量判断、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT00900289",
-      "responseId": "resp_0dce38f238720fda006a5645abc4b481a0958e3521506cdd81",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需人工审查，部分结论未明确来源，存在疗效推断问题。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据水平和主要类别之间存在不一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "源信息不足以支持疗效或安全性声明的推断。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Clinical Trials",
-            "Longevity",
-            "Biomarkers",
-            "Oncology",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "临床试验",
-            "衰老",
-            "biomarker",
-            "肿瘤"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT00900289 with status UNKNOWN, phase N/A, enrollment 1000, lead sponsor Liz-Anne Lewsley, countries United Kingdom.",
-          "report": "RATIONALE: Studying tissue and blood samples from patients with cancer in the laboratory may help doctors learn more about changes that occur in DNA and identify biomarkers related to cancer. It may also help doctors predict how patients respond to treatment.",
-          "inference": "虽有临床试验的登记，但缺乏支持疗效或安全性的具体数据。",
-          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT01111396",
-      "responseId": "resp_036fc7c3a6f43b3f006a5645b2b9b08192bedf2ea308fcacd0",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该登记记录缺乏对试验设计、结果质量和样本量的充分信息，需人工审查以判断是否符合出版标准。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类和证据水平与提供的元数据不一致，需评估其适用性。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平标注为中等，但项目的细节不足以支持这一评价。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Clinical Trials",
-            "Cell Therapy",
-            "Oncology",
-            "Longevity",
-            "Biomarkers",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "临床试验",
-            "细胞治疗",
-            "肿瘤",
-            "衰老",
-            "biomarker"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT01111396 with status UNKNOWN, phase N/A, enrollment 10, lead sponsor Technische Universität Dresden, countries Germany.",
-          "report": "There are two regions in the adult brain that exhibit neuronal stem and progenitor cells, generating new neurons postnatally and throughout adulthood. One is the so called subventricular zone the other is the dentate gyrus of the hippocampus. Adult neurogenesi...",
-          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Cell Therapy, Oncology, Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
-          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT00239746",
-      "responseId": "resp_06a72bab1c24fad2006a5645ba38a0819187100ef63baa6668",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "登记信息存在未验证的效能和安全性描述，需要人工审核。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类与证据水平不一致，可能需要进一步指定。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平标记为中等，但不支持强有力的临床结论。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Clinical Trials",
-            "Longevity",
-            "Biomarkers"
-          ],
-          "tags": [
-            "临床试验",
-            "衰老",
-            "biomarker"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT00239746 with status UNKNOWN, phase PHASE1, enrollment 40, lead sponsor National Institute on Aging (NIA), countries United States.",
-          "report": "The purpose of this study is to test the effect of ibuprofen on the levels of a number of different proteins (called biomarkers) in cerebrospinal fluid (CSF), blood, and urine to see whether ibuprofen can influence certain biomarkers associated with the progression of conditions.",
-          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
-          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "signalId": "clinicaltrials-NCT00196768",
-      "responseId": "resp_0d21da5e8278bda3006a5645c1cd2081a1bee8ec87885a88a9",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该登记记录的信息不足以判断疗效或安全性，因此需要人工审查。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "类别和证据水平与提供的元数据之间不够一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "中等证据水平不适用于当前登记记录。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Trials",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Clinical Trials",
-            "Cell Therapy",
-            "Oncology",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "临床试验",
-            "细胞治疗",
-            "肿瘤"
-          ],
-          "fact": "ClinicalTrials.gov lists NCT00196768 with status UNKNOWN, phase PHASE4, enrollment 30, lead sponsor German AML Cooperative Group, countries Germany.",
-          "report": "Summary Acute promyelocytic leukemia is defined by a characteristic morphology (AML FAB M3/M3v), by the specific translocation t(15;17) and its molecular correlates (PML/RARa and RARa/PML). Thereby it can be separated from all other forms of acute leukemia. By...",
-          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Cell Therapy, Oncology。登记状态和设计字段不能直接证明疗效或安全性。",
-          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
       }
     }
