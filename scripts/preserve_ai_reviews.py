@@ -51,7 +51,8 @@ def main() -> int:
         if signal.get("id")
     }
 
-    preserved_reviews = 0
+    preserved_ai_reviews = 0
+    preserved_manual_reviews = 0
     preserved_reviewed_status = 0
     for signal in current.get("signals", []):
         prior = previous_by_id.get(signal.get("id"))
@@ -59,14 +60,18 @@ def main() -> int:
             continue
         if prior.get("aiReview") and not signal.get("aiReview"):
             signal["aiReview"] = prior["aiReview"]
-            preserved_reviews += 1
+            preserved_ai_reviews += 1
+        if prior.get("manualReview") and not signal.get("manualReview"):
+            signal["manualReview"] = prior["manualReview"]
+            preserved_manual_reviews += 1
         if args.preserve_reviewed_status and prior.get("needsReview") is False:
             signal["needsReview"] = False
             preserved_reviewed_status += 1
 
     write_data_js(current_path, current)
     print(
-        f"Preserved {preserved_reviews} aiReview field(s) and "
+        f"Preserved {preserved_ai_reviews} aiReview field(s), "
+        f"{preserved_manual_reviews} manualReview field(s), and "
         f"{preserved_reviewed_status} reviewed status flag(s)."
     )
     return 0

@@ -106,7 +106,11 @@ jobs:
 
             echo "Remote main changed; rebasing refreshed data before retry $((attempt + 1))/3."
             git fetch origin main
-            git rebase origin/main
+            git show origin/main:data.js > /tmp/biohealth-radar-data-remote.js
+            python3 scripts/preserve_ai_reviews.py --previous /tmp/biohealth-radar-data-remote.js --current data.js
+            git add data.js
+            git commit --amend --no-edit
+            git rebase -X theirs origin/main
           done
 
           echo "changed=true" >> "$GITHUB_OUTPUT"
