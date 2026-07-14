@@ -138,6 +138,66 @@ window.BHR_DATA = {
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42442507",
+      "date": "2026-07-13",
+      "title": "Experimental model systems to study vascular aging.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42442507/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Ageing research reviews，PMID 为 42442507。",
+      "report": "Vascular aging contributes to systemic dysfunction and underlies many age-related diseases, driven by structural and functional changes across various cell types, including endothelial cells, vascular smooth muscle cells, pericytes, and cardiomyocytes. This re...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42442472",
+      "date": "2026-07-13",
+      "title": "NRXN1 haploinsufficiency converges on RNA processing during cortical development, with partial transcriptomic concordance in adult autism cortex.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42442472/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Progress in neuro-psychopharmacology & biological psychiatry，PMID 为 42442472。",
+      "report": "NRXN1 deletions are recurrent genetic risk factors for autism spectrum disorder (ASD), yet most functional work has focused on synaptic mechanisms. We asked whether NRXN1 haploinsufficiency is also associated with earlier gene-regulatory programs during cortic...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42443524",
       "date": "2026-07-13",
       "title": "Understanding language model scaling for protein fitness prediction.",
@@ -222,6 +282,35 @@ window.BHR_DATA = {
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42443324",
+      "date": "2026-07-13",
+      "title": "Fragmentation-Induced Coverage Biases in Cell-Free DNA Sequencing Affect the Clinical Sensitivity of Liquid Biopsies.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443324/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Communications biology，PMID 为 42443324。",
+      "report": "Cell-free DNA (cfDNA) circulating in blood is characterized by epigenetic context-dependent fragmentation that distinguishes it from the stable genomic DNA of solid tissues. Extensive fragmentation and degradation of cfDNA can result in uneven coverage and pot...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42443216",
       "date": "2026-07-13",
       "title": "Sharpness matters: Higher image resolution improves generalization and explainability in chest X-ray classification.",
@@ -249,16 +338,16 @@ window.BHR_DATA = {
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42443324",
+      "id": "pubmed-42440365",
       "date": "2026-07-13",
-      "title": "Fragmentation-Induced Coverage Biases in Cell-Free DNA Sequencing Affect the Clinical Sensitivity of Liquid Biopsies.",
+      "title": "Role of ctDNA Tumor Fraction in Selecting Immunotherapy Based Regimens in Advanced Non-small Cell Lung Cancer.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443324/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42440365/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -272,8 +361,8 @@ window.BHR_DATA = {
         "精准医疗",
         "肿瘤"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Communications biology，PMID 为 42443324。",
-      "report": "Cell-free DNA (cfDNA) circulating in blood is characterized by epigenetic context-dependent fragmentation that distinguishes it from the stable genomic DNA of solid tissues. Extensive fragmentation and degradation of cfDNA can result in uneven coverage and pot...",
+      "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42440365。",
+      "report": "Immune checkpoint blockers (ICBs) have transformed advanced non-small cell lung cancer (aNSCLC) treatment, but identifying patients who benefit from adding chemotherapy remains challenging, especially in PD-L1 ≥ 50%. PD-L1 is an imperfect biomarker, highlighti...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -376,34 +465,31 @@ window.BHR_DATA = {
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42442130",
+      "id": "pubmed-42425911",
       "date": "2026-07-09",
-      "title": "Targeting LIG1 to overcome oxaliplatin resistance by inducing PANoptosis in colorectal cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "A De Novo CO2 Reductase Featuring a Cysteine-Ligated Cobalt Porphyrin Cofactor.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42442130/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42425911/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
+        "AI for Biology",
+        "Drug Discovery"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Drug resistance updates : reviews and commentaries in antimicrobial and anticancer chemotherapy，PMID 为 42442130。",
-      "report": "Oxaliplatin-based chemotherapy is the first-line treatment for colorectal cancer (CRC) patients, but its clinical efficacy is hindered by therapeutic resistance. Here, we demonstrate that DNA ligase 1 (LIG1) is highly expressed in CRC and impairs chemosensitiv...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "fact": "PubMed 记录显示该文献收录于 Journal of the American Chemical Society，PMID 为 42425911。",
+      "report": "Modern protein design methods based on deep learning allow generation of customized protein scaffolds with diverse geometries and functionalities. Here we capitalize on these recent advances to develop hyper-thermostable de novo CO2 reductases featuring a coba...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -646,6 +732,35 @@ window.BHR_DATA = {
       "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42440508。",
       "report": "Acute lymphoblastic leukemia (ALL) is the most common pediatric malignancy, and despite advances in therapy, relapse remains a major cause of treatment failure. Liquid biopsy has emerged as a powerful, minimally invasive tool for real-time disease monitoring a...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42382105",
+      "date": "2026-06-16",
+      "title": "Assessment of tenecteplase target-associated pathogenic mechanisms underlying depression in acute ischemic stroke patients: insights from artificial intelligence-driven multi-omics analysis and in vitro validation.",
+      "entity": "Virtual Cell Model",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "Virtual Cell / Cell Foundation Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42382105/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Virtual Cell",
+        "AI for Biology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "虚拟细胞",
+        "细胞基础模型",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in neuroscience，PMID 为 42382105。",
+      "report": "As a first-line treatment for acute ischemic stroke (AIS), tenecteplase (TNK) can cause adverse effects, such as depression, in AIS patients. This study aims to elucidate the TNK target-related pathogenic mechanisms underlying major depressive disorder (MDD) i...",
+      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

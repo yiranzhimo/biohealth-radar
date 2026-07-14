@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-14T07:19:15.720472+00:00",
+  "capturedAt": "2026-07-14T08:34:11.859798+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -17,23 +17,27 @@
     "42443320",
     "42443174",
     "42443151",
-    "42442130",
     "42442863",
+    "42442507",
+    "42442472",
     "42431103",
     "42429061",
     "42418828",
     "42412811",
     "42400328",
+    "42382105",
     "42443524",
     "42440565",
     "42439322",
     "42439276",
     "42431910",
+    "42425911",
+    "42443324",
     "42443216",
     "42442917",
-    "42443324",
     "42440815",
-    "42440508"
+    "42440508",
+    "42440365"
   ],
   "records": [
     {
@@ -74,18 +78,6 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443151/"
     },
     {
-      "pmid": "42442130",
-      "title": "Targeting LIG1 to overcome oxaliplatin resistance by inducing PANoptosis in colorectal cancer.",
-      "abstract": "Oxaliplatin-based chemotherapy is the first-line treatment for colorectal cancer (CRC) patients, but its clinical efficacy is hindered by therapeutic resistance. Here, we demonstrate that DNA ligase 1 (LIG1) is highly expressed in CRC and impairs chemosensitivity, highlighting LIG1 as a promising therapeutic target. However, the mechanism by which targeting LIG1 enhances chemosensitivity to oxaliplatin remains incompletely defined, and no highly selective LIG1 inhibitors have been identified to date. In this study, a library of 1220 natural compounds was screened to identify LIG1 inhibitors. As a result, gambogenic acid (GNA) was identified as a selective LIG1-binding candidate followed by cell-based cytotoxicity assays. Subsequently, we show that GNA treatment markedly enhances oxaliplatin chemosensitivity in CRC cells, drug-tolerant persister (DTP) cells, organoids, and in vivo tumor models. Moreover, the combination of GNA with FOLFOX (oxaliplatin + 5-fluorouracil + calcium levofolinate) also improves tumor responsiveness to anti-PD-1 immunotherapy. Mechanistically, GNA combined with oxaliplatin triggers ZBP1-dependent PANoptosis. Further investigations unveil that GNA suppresses DNA repair by targeting LIG1, thereby enhancing the DNA damage response and ultimately promoting PANoptosis and immunogenic cell death (ICD), which establishes a mechanistic link between LIG1 inhibition and PANoptosis induction. Overall, our findings suggest that LIG1 can be explored as a key target for oxaliplatin chemosensitivity in CRC and targeting LIG1 by GNA may be a promising therapeutic strategy for augmenting the sensitivity of CRC cells to oxaliplatin and anti-PD-1 treatment.",
-      "journal": "Drug resistance updates : reviews and commentaries in antimicrobial and anticancer chemotherapy",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.drup.2026.101445",
-      "date": "2026-07-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42442130/"
-    },
-    {
       "pmid": "42442863",
       "title": "In vitro culture of intestinal organoids for cell death assessments.",
       "abstract": "In vitro cultured organoids exhibit highly similar structures to their corresponding tissues and organs. Intestinal organoids derived from intestinal stem cells faithfully recapitulate the key characteristics of native intestinal epithelium, including morphological features, physiological functions, and personalized responses to specific stimuli. This protocol focuses on the isolation of intestinal crypts from murine intestinal tissues and the subsequent establishment of stable intestinal organoid cultures in vitro. Furthermore, propidium iodide (PI) staining coupled with high-content imaging analysis was employed to characterize organoid cell death. This optimized protocol provides a robust platform for high-throughput screening of intestinal disease-related cell death factors, thereby facilitating mechanistic investigations into intestinal pathogenesis.",
@@ -96,6 +88,31 @@
       "doi": "10.1016/bs.mcb.2026.05.001",
       "date": "2026-06-02",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42442863/"
+    },
+    {
+      "pmid": "42442507",
+      "title": "Experimental model systems to study vascular aging.",
+      "abstract": "Vascular aging contributes to systemic dysfunction and underlies many age-related diseases, driven by structural and functional changes across various cell types, including endothelial cells, vascular smooth muscle cells, pericytes, and cardiomyocytes. This review highlights experimental models that facilitate mechanistic insights and the development of novel therapeutic approaches for vascular aging, emphasizing both in vitro and in vivo methodologies. This review discusses in vitro models utilizing primary and induced pluripotent stem cell (iPSC)-derived cultures across two-dimensional (2D) and three-dimensional (3D) systems, such as spheroids, organoids, and vessel-on-chip platforms, which allow for a more physiological investigation of aging-associated processes. Moreover, currently used in vivo models, including genetically engineered mice, and disease models mimicking human vascular aging, as well as state-of-the-art readouts, including flow-mediated dilation (FMD) and pulse wave velocity (PWV), are also reviewed. Lastly, an overview of the most prominent hurdles and shortcomings associated with modeling vascular aging is provided, underscoring the need for continued refinement to drive therapeutic innovation.",
+      "journal": "Ageing research reviews",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.arr.2026.103256",
+      "date": "2026-07-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42442507/"
+    },
+    {
+      "pmid": "42442472",
+      "title": "NRXN1 haploinsufficiency converges on RNA processing during cortical development, with partial transcriptomic concordance in adult autism cortex.",
+      "abstract": "NRXN1 deletions are recurrent genetic risk factors for autism spectrum disorder (ASD), yet most functional work has focused on synaptic mechanisms. We asked whether NRXN1 haploinsufficiency is also associated with earlier gene-regulatory programs during cortical development, and whether related signals are detectable in adult ASD cortex. We reanalyzed two public single-cell datasets: matched control and NRXN1-heterozygous cortical organoid samples (GSE228315; 215,442 cells, 26 samples) and post-mortem adult ASD cortex (Velmeshev et al., 2019; 104,559 nuclei, 31 donors). All comparisons were performed at the sample or donor level. In adult ASD cortex, donor-level analyses revealed no significant cell-type composition or CellRank-based fate-commitment differences. In organoids, paired pseudobulk comparisons identified 282 genes consistently downregulated across three or more neural cell types in NRXN1-heterozygous samples (10.6-fold enrichment, permutation p < 0.001). Robustness analyses-leave-one-gene-out, threshold-sensitivity, threshold-free consistency scoring, and unbiased GO/Reactome enrichment-supported a broad RNA-processing signal, with mRNA nuclear export and splicing prominently affected (Reactome \"Metabolism of RNA\" FDR = 3 × 10-10). In the same adult cohort, 8 of 16 cell types showed directional concordance under unmatched tests, but none exceeded an expression-matched permutation null after correction (0/16). NRXN1 haploinsufficiency is associated with coordinated downregulation of RNA-processing genes in cortical organoids. Cross-dataset concordance with adult ASD cortex is directional but not specific to NRXN1, and the convergence on mRNA nuclear export and RNA-processing genes should be interpreted cautiously and verified by direct experimental perturbation.",
+      "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111835",
+      "date": "2026-07-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42442472/"
     },
     {
       "pmid": "42431103",
@@ -160,6 +177,18 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42400328/"
     },
     {
+      "pmid": "42382105",
+      "title": "Assessment of tenecteplase target-associated pathogenic mechanisms underlying depression in acute ischemic stroke patients: insights from artificial intelligence-driven multi-omics analysis and in vitro validation.",
+      "abstract": "As a first-line treatment for acute ischemic stroke (AIS), tenecteplase (TNK) can cause adverse effects, such as depression, in AIS patients. This study aims to elucidate the TNK target-related pathogenic mechanisms underlying major depressive disorder (MDD) in AIS patients. By analyzing six public peripheral blood bulk datasets from AIS and MDD patients using integrative bioinformatics methods (limma, non-negative matrix factorization (NMF), and machine learning), we identified TNK target-associated molecular subgroups and diagnostic models for MDD and AIS patients, respectively. Next, a hub gene involved in the pathogenesis of both MDD and AIS was identified, and its corresponding molecular characteristics were analyzed in the peripheral blood bulk profiles of MDD and AIS patients. In addition, to gain a deeper understanding of the molecular implications of the hub gene involved in the pathogenesis of MDD in AIS, we performed disease ontology (DO) analysis and virtual cell knockout (KO) of the hub gene using public AIS mouse brain single-cell datasets. Furthermore, a deep learning pipeline (DrugReflector) model and molecular docking were used to identify MDD-preventive therapeutic agents for AIS patients based on MDD and AIS public blood bulk data. Finally, the expression pattern of the hub gene was also evaluated in MDD and AIS cell models. Myeloperoxidase (MPO) can be considered an upregulated TNK target-associated gene involved in the pathogenesis of MDD in AIS patients, and BRD-K11973162 can be considered an MDD-preventive therapeutic candidate for AIS patients after TNK treatment. Our study is the first to identify MDD-associated diagnostic and therapeutic candidates for AIS patients after TNK treatment, providing a novel strategy for their clinical management.",
+      "journal": "Frontiers in neuroscience",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "doi": "10.3389/fnins.2026.1848128",
+      "date": "2026-06-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42382105/"
+    },
+    {
       "pmid": "42443524",
       "title": "Understanding language model scaling for protein fitness prediction.",
       "abstract": "Protein language models, as well as models that incorporate structural information or homologous sequences, estimate the sequence likelihood p(sequence), which reflects the protein fitness landscape and is commonly used in mutation effect prediction and protein design. It is widely believed in deep learning field that larger models perform better across tasks. However, for fitness prediction, language model performance declines beyond a certain size, raising concerns about their scalability. Here we showed that model size, training dataset and stochastic elements can bias the predicted p(sequence) away from real fitness. Model performance on fitness prediction depends on how well p(sequence) matches evolutionary patterns in homologs, which is best achieved at a moderate p(sequence) level for most proteins. At extreme predicted wild-type sequence likelihoods, models predict uniformly low or high likelihoods for nearly all mutations, failing to reflect the real fitness landscape. Notably, larger models tend to predict proteins with higher p(sequence), which may exceed the moderate range and thus reduce performance. Our findings clarify the scaling behavior of protein models on fitness prediction and provide practical guidelines for their application and future development.",
@@ -221,6 +250,30 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42431910/"
     },
     {
+      "pmid": "42425911",
+      "title": "A De Novo CO2 Reductase Featuring a Cysteine-Ligated Cobalt Porphyrin Cofactor.",
+      "abstract": "Modern protein design methods based on deep learning allow generation of customized protein scaffolds with diverse geometries and functionalities. Here we capitalize on these recent advances to develop hyper-thermostable de novo CO2 reductases featuring a cobalt porphyrin IX (CoPPIX) cofactor. CoPPIX-containing enzymes were assembled in vivo through media supplementation with cobalt salts and assessed for photocatalytic CO2 reductase activity. We identified two cysteine-ligated designs that exhibit high activity (>1000 turnovers at rates of up to 25 min-1) while suppressing competing hydrogen evolution pathways. A 2.1 Å crystal structure shows close agreement to the design model with the Co-Cys bond programmed as intended. This study showcases the power of computational protein design in developing artificial enzymes to activate challenging molecules such as CO2.",
+      "journal": "Journal of the American Chemical Society",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1021/jacs.6c07615",
+      "date": "2026-07-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42425911/"
+    },
+    {
+      "pmid": "42443324",
+      "title": "Fragmentation-Induced Coverage Biases in Cell-Free DNA Sequencing Affect the Clinical Sensitivity of Liquid Biopsies.",
+      "abstract": "Cell-free DNA (cfDNA) circulating in blood is characterized by epigenetic context-dependent fragmentation that distinguishes it from the stable genomic DNA of solid tissues. Extensive fragmentation and degradation of cfDNA can result in uneven coverage and potential loss of genetic information. Yet, its implications for the sensitivity of non-invasive detection of clinically relevant variants remain unclear. We analyzed clinical genomic data comprising 0.4 million variants across 67,129 samples from 99 cohorts spanning all major cancer types. We demonstrate that locus-specific and allele-specific coverage biases in liquid biopsy, driven by cfDNA fragmentation, affect known oncogenic hotspots in clinically actionable genes, including TP53, EGFR, and NRAS. These biases result in uneven sensitivity for detecting somatic variants. Longitudinal analysis reveals that these biases can compromise the reliability of disease tracking, potentially leading to false-negative conclusions about clonal extinction and minimal residual disease. We also urge caution while assessing clonal hematopoiesis from cfDNA sequencing.",
+      "journal": "Communications biology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1038/s42003-026-10414-6",
+      "date": "2026-07-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443324/"
+    },
+    {
       "pmid": "42443216",
       "title": "Sharpness matters: Higher image resolution improves generalization and explainability in chest X-ray classification.",
       "abstract": "Deep learning (DL) chest radiograph (CXR) models are often trained on downsampled images to reduce computational overhead, despite clinical workflows operating at high resolution. Previous studies have investigated the impact of input resolution on CXR classification accuracy, yet two fundamental pillars of safe and trustworthy AI, explainability and generalizability, remain underexplored. In this retrospective study, we evaluated how training image resolution affects CXR classification performance and explanation quality in internal versus external testing. We trained Convolutional Neural Networks (CNN) for disease classification on the SIIM-ACR Pneumothorax and RSNA Pneumonia datasets at six resolutions (ranging from 64×64 to 1024×1024) using five-fold cross-validation and evaluated models on internal and external test sets. Internal performance was high across resolutions (AUROC >0.85), but external testing showed substantially worse generalizability at lower training resolutions, with internal-to-external drops >20% versus 4.2%-10.7% at higher resolutions (512×512 to 1024×1024). Higher resolutions also produced more concise explanations, with the tightest saliency-map coverage at 1024×1024 (<4%) across models and datasets, and improved explanation quality on external data (peak precision plateauing at 768×768 for pneumothorax). Overall, training at higher CXR resolutions improved both generalizability and explainability, providing practical guidance for radiology AI design beyond internal test performance.",
@@ -243,18 +296,6 @@
       "doi": "10.1016/bs.irn.2026.02.001",
       "date": "2026-03-25",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42442917/"
-    },
-    {
-      "pmid": "42443324",
-      "title": "Fragmentation-Induced Coverage Biases in Cell-Free DNA Sequencing Affect the Clinical Sensitivity of Liquid Biopsies.",
-      "abstract": "Cell-free DNA (cfDNA) circulating in blood is characterized by epigenetic context-dependent fragmentation that distinguishes it from the stable genomic DNA of solid tissues. Extensive fragmentation and degradation of cfDNA can result in uneven coverage and potential loss of genetic information. Yet, its implications for the sensitivity of non-invasive detection of clinically relevant variants remain unclear. We analyzed clinical genomic data comprising 0.4 million variants across 67,129 samples from 99 cohorts spanning all major cancer types. We demonstrate that locus-specific and allele-specific coverage biases in liquid biopsy, driven by cfDNA fragmentation, affect known oncogenic hotspots in clinically actionable genes, including TP53, EGFR, and NRAS. These biases result in uneven sensitivity for detecting somatic variants. Longitudinal analysis reveals that these biases can compromise the reliability of disease tracking, potentially leading to false-negative conclusions about clonal extinction and minimal residual disease. We also urge caution while assessing clonal hematopoiesis from cfDNA sequencing.",
-      "journal": "Communications biology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1038/s42003-026-10414-6",
-      "date": "2026-07-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443324/"
     },
     {
       "pmid": "42440815",
@@ -281,6 +322,18 @@
       "doi": "10.3389/fonc.2026.1853549",
       "date": "2026-06-22",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42440508/"
+    },
+    {
+      "pmid": "42440365",
+      "title": "Role of ctDNA Tumor Fraction in Selecting Immunotherapy Based Regimens in Advanced Non-small Cell Lung Cancer.",
+      "abstract": "Immune checkpoint blockers (ICBs) have transformed advanced non-small cell lung cancer (aNSCLC) treatment, but identifying patients who benefit from adding chemotherapy remains challenging, especially in PD-L1 ≥ 50%. PD-L1 is an imperfect biomarker, highlighting the need for better selection tools. Liquid biopsy (LBx) assessment was performed using hybrid capture-based next-generation sequencing of plasma cell-free DNA. LBx data, molecular profile, and clinico-pathological data were collected. The predictive and prognostic values of tumor fraction (TF) were assessed using a de-identified nationwide (US-based) NSCLC clinicogenomic database (CGDB). An independent cohort with aNSCLC from Gustave Roussy was used to validate the findings and to study the correlation of ctDNA tumor fraction and total metabolic tumor volume (tMTV) and its molecular correlates. In the CGDB Database (n=965), elevated ctDNA TF was prognostic for worse outcomes on ICBs and, when ≥5%, predictive of benefit from ICB+chemotherapy (HR for real-world progression-free survival 0.58 [0.41-0.82], p=0.002). The 5% cutoff for TF was validated in an independent cohort from Gustave Roussy. In 283 patients with paired PET scans, ctDNA TF correlated with metabolic tumor volume (rho=0.46, p<0.001) and was influenced by TP53/RB1 mutations. ctDNA TF integrates disease burden and biology. Patients with high ctDNA TF derive greater benefit from chemo-immunotherapy, supporting its use as a biomarker to guide treatment intensification.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1158/1078-0432.CCR-25-3917",
+      "date": "2026-07-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42440365/"
     }
   ],
   "signals": [
@@ -370,6 +423,66 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42442507",
+      "date": "2026-07-13",
+      "title": "Experimental model systems to study vascular aging.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42442507/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Ageing research reviews，PMID 为 42442507。",
+      "report": "Vascular aging contributes to systemic dysfunction and underlies many age-related diseases, driven by structural and functional changes across various cell types, including endothelial cells, vascular smooth muscle cells, pericytes, and cardiomyocytes. This re...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42442472",
+      "date": "2026-07-13",
+      "title": "NRXN1 haploinsufficiency converges on RNA processing during cortical development, with partial transcriptomic concordance in adult autism cortex.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42442472/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Progress in neuro-psychopharmacology & biological psychiatry，PMID 为 42442472。",
+      "report": "NRXN1 deletions are recurrent genetic risk factors for autism spectrum disorder (ASD), yet most functional work has focused on synaptic mechanisms. We asked whether NRXN1 haploinsufficiency is also associated with earlier gene-regulatory programs during cortic...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42443524",
       "date": "2026-07-13",
       "title": "Understanding language model scaling for protein fitness prediction.",
@@ -454,6 +567,35 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42443324",
+      "date": "2026-07-13",
+      "title": "Fragmentation-Induced Coverage Biases in Cell-Free DNA Sequencing Affect the Clinical Sensitivity of Liquid Biopsies.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443324/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Communications biology，PMID 为 42443324。",
+      "report": "Cell-free DNA (cfDNA) circulating in blood is characterized by epigenetic context-dependent fragmentation that distinguishes it from the stable genomic DNA of solid tissues. Extensive fragmentation and degradation of cfDNA can result in uneven coverage and pot...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42443216",
       "date": "2026-07-13",
       "title": "Sharpness matters: Higher image resolution improves generalization and explainability in chest X-ray classification.",
@@ -481,16 +623,16 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42443324",
+      "id": "pubmed-42440365",
       "date": "2026-07-13",
-      "title": "Fragmentation-Induced Coverage Biases in Cell-Free DNA Sequencing Affect the Clinical Sensitivity of Liquid Biopsies.",
+      "title": "Role of ctDNA Tumor Fraction in Selecting Immunotherapy Based Regimens in Advanced Non-small Cell Lung Cancer.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443324/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42440365/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -504,8 +646,8 @@
         "精准医疗",
         "肿瘤"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Communications biology，PMID 为 42443324。",
-      "report": "Cell-free DNA (cfDNA) circulating in blood is characterized by epigenetic context-dependent fragmentation that distinguishes it from the stable genomic DNA of solid tissues. Extensive fragmentation and degradation of cfDNA can result in uneven coverage and pot...",
+      "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42440365。",
+      "report": "Immune checkpoint blockers (ICBs) have transformed advanced non-small cell lung cancer (aNSCLC) treatment, but identifying patients who benefit from adding chemotherapy remains challenging, especially in PD-L1 ≥ 50%. PD-L1 is an imperfect biomarker, highlighti...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -608,34 +750,31 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42442130",
+      "id": "pubmed-42425911",
       "date": "2026-07-09",
-      "title": "Targeting LIG1 to overcome oxaliplatin resistance by inducing PANoptosis in colorectal cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "A De Novo CO2 Reductase Featuring a Cysteine-Ligated Cobalt Porphyrin Cofactor.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42442130/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42425911/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
+        "AI for Biology",
+        "Drug Discovery"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Drug resistance updates : reviews and commentaries in antimicrobial and anticancer chemotherapy，PMID 为 42442130。",
-      "report": "Oxaliplatin-based chemotherapy is the first-line treatment for colorectal cancer (CRC) patients, but its clinical efficacy is hindered by therapeutic resistance. Here, we demonstrate that DNA ligase 1 (LIG1) is highly expressed in CRC and impairs chemosensitiv...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "fact": "PubMed 记录显示该文献收录于 Journal of the American Chemical Society，PMID 为 42425911。",
+      "report": "Modern protein design methods based on deep learning allow generation of customized protein scaffolds with diverse geometries and functionalities. Here we capitalize on these recent advances to develop hyper-thermostable de novo CO2 reductases featuring a coba...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -819,6 +958,35 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42440508。",
       "report": "Acute lymphoblastic leukemia (ALL) is the most common pediatric malignancy, and despite advances in therapy, relapse remains a major cause of treatment failure. Liquid biopsy has emerged as a powerful, minimally invasive tool for real-time disease monitoring a...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42382105",
+      "date": "2026-06-16",
+      "title": "Assessment of tenecteplase target-associated pathogenic mechanisms underlying depression in acute ischemic stroke patients: insights from artificial intelligence-driven multi-omics analysis and in vitro validation.",
+      "entity": "Virtual Cell Model",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "Virtual Cell / Cell Foundation Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42382105/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Virtual Cell",
+        "AI for Biology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "虚拟细胞",
+        "细胞基础模型",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in neuroscience，PMID 为 42382105。",
+      "report": "As a first-line treatment for acute ischemic stroke (AIS), tenecteplase (TNK) can cause adverse effects, such as depression, in AIS patients. This study aims to elucidate the TNK target-related pathogenic mechanisms underlying major depressive disorder (MDD) i...",
+      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该结论仅用于情报分流，需要人工复核研究类型、样本量和适用边界。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
