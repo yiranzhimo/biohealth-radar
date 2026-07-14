@@ -32,6 +32,27 @@ python3 -m http.server 8080
 http://localhost:8080
 ```
 
+## PubMed Collection Test
+
+第一版采集脚本使用 NCBI E-utilities 从 PubMed 拉取最近文献，做规则分类，并生成前端使用的 `data.js`：
+
+```bash
+python3 scripts/collect_pubmed.py --days 365 --retmax 6 --max-total 24
+```
+
+输出：
+
+- `data/raw/pubmed_latest.json`: 原始解析记录、查询词、PMID、自动分类结果
+- `data.js`: GitHub Pages 前端直接读取的数据
+
+只测试采集和分类、不覆盖前端数据：
+
+```bash
+python3 scripts/collect_pubmed.py --dry-run
+```
+
+当前分类是规则分流，不是医学证据评价。所有自动采集的 PubMed signal 默认 `needsReview: true`。
+
 ## GitHub Pages Deployment
 
 1. 在 GitHub 新建一个仓库。
