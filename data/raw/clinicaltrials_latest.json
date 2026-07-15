@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-15T03:39:46.866514+00:00",
+  "capturedAt": "2026-07-15T05:06:28.177117+00:00",
   "source": "ClinicalTrials.gov",
   "terms": [
     "organoid cancer",
@@ -1063,6 +1063,7 @@
         "biomarker",
         "肿瘤"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT06620380 with status RECRUITING, phase PHASE2, enrollment 102, lead sponsor University of Zurich, countries Switzerland.",
       "report": "Pharmacoscopy refers to an ex vivo real-time drug sensitivity profiling platform that has been shown to be of value in the treatment of leukemia (Snijder et al. 2017) (Kornauth et al. 2022) and may help to identify novel treatment opportunities for brain tumor...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Organoids, Advanced Disease Models, Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1089,6 +1090,7 @@
       "tags": [
         "临床试验"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT06290713 with status RECRUITING, phase PHASE2, enrollment 50, lead sponsor University of Florida, countries United States.",
       "report": "Examining two strategies as potential adjuvant therapies for Duchenne muscular dystrophy (DMD); aerobic exercise training (to induce adaptations in skeletal muscle and improve cardiovascular health) and tadalafil, an FDA-approved vasodilator (to optimize blood...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1119,6 +1121,7 @@
         "医疗 AI",
         "临床决策支持"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT07576946 with status ACTIVE_NOT_RECRUITING, phase N/A, enrollment 7, lead sponsor Koç University, countries Turkey (Türkiye).",
       "report": "This study aims to evaluate the functional performance and feasibility of the Saturista system, a novel device designed for automated oxygen flow regulation based on continuous monitoring of oxygen saturation (SpO₂). The system integrates real-time physiologic...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Healthcare AI, Medical AI。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1148,6 +1151,7 @@
         "临床试验",
         "肿瘤"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT07284069 with status RECRUITING, phase EARLY_PHASE1, enrollment 36, lead sponsor Aarhus University Hospital, countries Denmark.",
       "report": "Glioblastoma is the most common and aggressive form of brain cancer in adults. Despite surgery, radiotherapy, and chemotherapy, most patients only live about one year after diagnosis. There is an urgent need for new and better treatments. Recent research has s...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1174,6 +1178,7 @@
       "tags": [
         "临床试验"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT07215325 with status RECRUITING, phase PHASE4, enrollment 200, lead sponsor Emory University, countries United States.",
       "report": "This study is being done to test the effects of doxycycline on inflammation and the bacteria in the body in people with HIV and in people on HIV pre-exposure prophylaxis. This drug is approved by the Food and Drug Administration (FDA) for the treatment of bact...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1204,6 +1209,7 @@
         "肿瘤",
         "中国"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT07453342 with status RECRUITING, phase N/A, enrollment 500, lead sponsor Peking Union Medical College Hospital, countries China.",
       "report": "This observational study aims to comprehensively characterize immune-related adverse events (irAEs) occurring during immune checkpoint inhibitor (ICI) therapy in cancer patients and to evaluate the safety and clinical outcomes of ICI rechallenge following irAE...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1240,6 +1246,7 @@
         "biomarker",
         "肿瘤"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT04469556 with status COMPLETED, phase PHASE2, enrollment 150, lead sponsor University Health Network, Toronto, countries United States, Canada.",
       "report": "This is a randomized multicentre phase II trial with a large translational component. The trial will evaluate the two standard chemotherapy regimens: modified folfirinox (mFFX) and gemcitabine/nab-paclitaxel (GA), in patients with untreated metastatic pancreat...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Organoids, Advanced Disease Models, Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1269,6 +1276,7 @@
         "临床试验",
         "肿瘤"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT06044025 with status RECRUITING, phase PHASE1, enrollment 34, lead sponsor University of Arkansas, countries United States.",
       "report": "The goal of this clinical trial is to assess the feasibility of adding a combination of metformin and turmeric as part of a nutritional intervention regimen to the current standard of care, namely, intermittent Androgen Deprivation Therapy (iADT), for patients...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1297,6 +1305,7 @@
         "临床试验",
         "肿瘤"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT05517083 with status COMPLETED, phase NA, enrollment 41, lead sponsor Pusan National University Hospital, countries South Korea.",
       "report": "The purpose of this study is to evaluate the relevance of intratumoral washing for detection of EGFR mutation (including T790M positivity).",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1328,6 +1337,7 @@
         "临床决策支持",
         "中国"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT06998082 with status NOT_YET_RECRUITING, phase N/A, enrollment 1533, lead sponsor Beijing Tiantan Hospital, countries China.",
       "report": "Acute hemorrhagic cerebrovascular disease is a life-threatening condition characterized by sudden onset, rapid progression, multiple complications, poor prognosis, and high mortality. It presents a significant public health burden. During surgical intervention...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Healthcare AI, Medical AI。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1357,6 +1367,7 @@
         "临床试验",
         "肿瘤"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT05041335 with status NOT_YET_RECRUITING, phase NA, enrollment 42, lead sponsor H. Lee Moffitt Cancer Center and Research Institute, countries United States.",
       "report": "The purpose of this research is to compare the amount and quality of tissue obtained by EUS-FNB when the device is flushed with an anticoagulant or \"blood thinner\" vs. saline a salt water solution as well as the use of a microsieve in order for the doctor to l...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1392,6 +1403,7 @@
         "乳腺癌",
         "中国"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT06658080 with status RECRUITING, phase N/A, enrollment 90, lead sponsor Second Affiliated Hospital, School of Medicine, Zhejiang University, countries China.",
       "report": "Malignant hydrothorax and ascitic fluid in advanced breast cancer often arise from metastasis to the lungs, pleura, or liver. Patients with this condition experience rapid disease progression and multidrug resistance, facing limited treatment options. Clinical...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Organoids, Advanced Disease Models。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1421,6 +1433,7 @@
         "医疗 AI",
         "临床决策支持"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT06266169 with status UNKNOWN, phase NA, enrollment 1064, lead sponsor Family Planning Center of Women's Welfare Clinic #44 of Pushkin District, countries Russia.",
       "report": "Relevance of the research topic: At present, in the world, a kind of \"plateau\" in the efficiency of assisted reproductive technologies has been achieved, which ensures a birth rate of 30% per embryo transfer. At the same time, a relatively high (15-20%) and st...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Healthcare AI, Medical AI。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1450,6 +1463,7 @@
         "衰老",
         "biomarker"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT05058950 with status TERMINATED, phase N/A, enrollment 22720, lead sponsor Biogen, countries United States.",
       "report": "The primary objectives are to develop and validate a classifier using multimodal passive sensor data and metrics derived from normal iPhone and Apple Watch usage to distinguish individuals with normal cognition from those with mild cognitive impairment (MCI) a...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1475,6 +1489,7 @@
       "tags": [
         "临床试验"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT05637411 with status UNKNOWN, phase N/A, enrollment 214, lead sponsor Hospital Universitario Virgen Macarena, countries Spain.",
       "report": "The objective of the project is to develop a potentially marketable system for clinical, epidemiological and translational research capable of associating contextual variables and geospatial data with clinical patient information. The GeoHealth system will inc...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1500,6 +1515,7 @@
       "tags": [
         "临床试验"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT02304354 with status COMPLETED, phase PHASE3, enrollment 70, lead sponsor University Hospital, Tours, countries France.",
       "report": "Rituximab, an anti CD-20 monoclonal antibody targeting B lymphocytes is prescribed in rheumatoid arthritis (RA) patients refractory to TNF alpha antagonists. According to previous studies, 25 to 50% of patients have an insufficient or absence of response to ri...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1530,6 +1546,7 @@
         "细胞治疗",
         "肿瘤"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT00914940 with status TERMINATED, phase PHASE2, enrollment 41, lead sponsor Fred Hutchinson Cancer Center, countries United States.",
       "report": "RATIONALE: Allogeneic hematopoietic stem cell transplant (HSCT) is a treatment that can cure acute leukemia and myelodysplasia. After giving the patient chemotherapy and total body irradiation to stop the growth of cancer and remove the patient's diseased bone...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Cell Therapy, Oncology。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1560,6 +1577,7 @@
         "细胞治疗",
         "肿瘤"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT03820908 with status COMPLETED, phase PHASE2, enrollment 10, lead sponsor Sheba Medical Center, countries Israel.",
       "report": "Induction of response in patients with AML that are either primary resistant (failed induction and or salvage therapy) or relapsed including post allogeneic stem cell transplantation and failed salvage therapy or cannot receive additional anthracycline .",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Cell Therapy, Oncology。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1588,6 +1606,7 @@
         "临床试验",
         "肿瘤"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT04045730 with status WITHDRAWN, phase PHASE2, enrollment N/A, lead sponsor Yale University, countries N/A.",
       "report": "This is an open-label single arm phase 2 study for patients with metastatic pancreatic ductal adenocarcinoma who have not received any prior systemic therapies.",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1620,6 +1639,7 @@
         "精准医疗",
         "肿瘤"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT03688594 with status UNKNOWN, phase NA, enrollment 60, lead sponsor University Hospital, Strasbourg, France, countries France.",
       "report": "The aim of this study is to evaluate performances of a NIPT test based onto the study of the maternal blood to search known genetic mutations already detected in the family and potentially inherited by the fetus. This test will avoid an invasive prenatal diagn...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Diagnostics, Precision Medicine。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1652,6 +1672,7 @@
         "biomarker",
         "肿瘤"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT00900289 with status UNKNOWN, phase N/A, enrollment 1000, lead sponsor Liz-Anne Lewsley, countries United Kingdom.",
       "report": "RATIONALE: Studying tissue and blood samples from patients with cancer in the laboratory may help doctors learn more about changes that occur in DNA and identify biomarkers related to cancer. It may also help doctors predict how patients respond to treatment....",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1686,6 +1707,7 @@
         "衰老",
         "biomarker"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT01111396 with status UNKNOWN, phase N/A, enrollment 10, lead sponsor Technische Universität Dresden, countries Germany.",
       "report": "There are two regions in the adult brain that exhibit neuronal stem and progenitor cells, generating new neurons postnatally and throughout adulthood. One is the so called subventricular zone the other is the dentate gyrus of the hippocampus. Adult neurogenesi...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Cell Therapy, Oncology, Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1715,6 +1737,7 @@
         "衰老",
         "biomarker"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT00239746 with status UNKNOWN, phase PHASE1, enrollment 40, lead sponsor National Institute on Aging (NIA), countries United States.",
       "report": "The purpose of this study is to test the effect of ibuprofen on the levels of a number of different proteins (called biomarkers) in cerebrospinal fluid (CSF), blood, and urine to see whether ibuprofen can influence certain biomarkers associated with the progre...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
@@ -1745,6 +1768,7 @@
         "细胞治疗",
         "肿瘤"
       ],
+      "companyIds": [],
       "fact": "ClinicalTrials.gov lists NCT00196768 with status UNKNOWN, phase PHASE4, enrollment 30, lead sponsor German AML Cooperative Group, countries Germany.",
       "report": "Summary Acute promyelocytic leukemia is defined by a characteristic morphology (AML FAB M3/M3v), by the specific translocation t(15;17) and its molecular correlates (PML/RARa and RARa/PML). Thereby it can be separated from all other forms of acute leukemia. By...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Cell Therapy, Oncology。登记状态和设计字段不能直接证明疗效或安全性。",

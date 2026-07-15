@@ -1,0 +1,481 @@
+{
+  "capturedAt": "2026-07-15T05:06:33.534873+00:00",
+  "source": "SEC EDGAR",
+  "dateWindow": {
+    "start": "2026-07-01",
+    "end": "2026-07-15"
+  },
+  "forms": [
+    "10-K",
+    "10-Q",
+    "20-F",
+    "424B1",
+    "424B2",
+    "424B3",
+    "424B4",
+    "424B5",
+    "6-K",
+    "8-K",
+    "F-1",
+    "S-1"
+  ],
+  "resolvedCompanies": [
+    {
+      "companyId": "recursion",
+      "secTicker": "RXRX",
+      "cik": "0001601830",
+      "secName": "RECURSION PHARMACEUTICALS, INC."
+    },
+    {
+      "companyId": "crispr-therapeutics",
+      "secTicker": "CRSP",
+      "cik": "0001674416",
+      "secName": "CRISPR Therapeutics AG"
+    },
+    {
+      "companyId": "intellia",
+      "secTicker": "NTLA",
+      "cik": "0001652130",
+      "secName": "Intellia Therapeutics, Inc."
+    },
+    {
+      "companyId": "beam-therapeutics",
+      "secTicker": "BEAM",
+      "cik": "0001745999",
+      "secName": "Beam Therapeutics Inc."
+    },
+    {
+      "companyId": "alnylam",
+      "secTicker": "ALNY",
+      "cik": "0001178670",
+      "secName": "ALNYLAM PHARMACEUTICALS, INC."
+    },
+    {
+      "companyId": "ionis",
+      "secTicker": "IONS",
+      "cik": "0000874015",
+      "secName": "IONIS PHARMACEUTICALS INC"
+    },
+    {
+      "companyId": "moderna",
+      "secTicker": "MRNA",
+      "cik": "0001682852",
+      "secName": "Moderna, Inc."
+    },
+    {
+      "companyId": "legend-biotech",
+      "secTicker": "LEGN",
+      "cik": "0001801198",
+      "secName": "Legend Biotech Corp"
+    },
+    {
+      "companyId": "autolus",
+      "secTicker": "AUTL",
+      "cik": "0001730463",
+      "secName": "Autolus Therapeutics plc"
+    },
+    {
+      "companyId": "beone-medicines",
+      "secTicker": "ONC",
+      "cik": "0001651308",
+      "secName": "BeOne Medicines Ltd."
+    },
+    {
+      "companyId": "genmab",
+      "secTicker": "GMAB",
+      "cik": "0001434265",
+      "secName": "GENMAB A/S"
+    },
+    {
+      "companyId": "arvinas",
+      "secTicker": "ARVN",
+      "cik": "0001655759",
+      "secName": "ARVINAS, INC."
+    },
+    {
+      "companyId": "c4-therapeutics",
+      "secTicker": "CCCC",
+      "cik": "0001662579",
+      "secName": "C4 Therapeutics, Inc."
+    },
+    {
+      "companyId": "nurix",
+      "secTicker": "NRIX",
+      "cik": "0001549595",
+      "secName": "Nurix Therapeutics, Inc."
+    },
+    {
+      "companyId": "guardant-health",
+      "secTicker": "GH",
+      "cik": "0001576280",
+      "secName": "Guardant Health, Inc."
+    },
+    {
+      "companyId": "natera",
+      "secTicker": "NTRA",
+      "cik": "0001604821",
+      "secName": "Natera, Inc."
+    },
+    {
+      "companyId": "tempus-ai",
+      "secTicker": "TEM",
+      "cik": "0001717115",
+      "secName": "Tempus AI, Inc."
+    },
+    {
+      "companyId": "illumina",
+      "secTicker": "ILMN",
+      "cik": "0001110803",
+      "secName": "ILLUMINA, INC."
+    },
+    {
+      "companyId": "10x-genomics",
+      "secTicker": "TXG",
+      "cik": "0001770787",
+      "secName": "10x Genomics, Inc."
+    }
+  ],
+  "unresolvedCompanyIds": [
+    "arcellx"
+  ],
+  "records": [
+    {
+      "filingDate": "2026-07-10",
+      "reportDate": "2026-07-09",
+      "acceptanceDateTime": "2026-07-10T01:03:42.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "000-19125",
+      "filmNumber": "261166795",
+      "items": "7.01,9.01",
+      "size": 155003,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "ef20077783_8k.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001140361-26-028154",
+      "companyId": "ionis",
+      "companyName": "Ionis Pharmaceuticals",
+      "companyDirections": [
+        "RNA Therapeutics"
+      ],
+      "secTicker": "IONS",
+      "cik": "0000874015",
+      "secName": "IONIS PHARMACEUTICALS INC",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126028154/ef20077783_8k.htm"
+    },
+    {
+      "filingDate": "2026-07-09",
+      "reportDate": "2026-05-31",
+      "acceptanceDateTime": "2026-07-09T20:12:07.000Z",
+      "act": "34",
+      "form": "10-Q",
+      "fileNumber": "001-39398",
+      "filmNumber": "261165801",
+      "items": "",
+      "size": 6702163,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "nrix-20260531.htm",
+      "primaryDocDescription": "10-Q",
+      "accessionNumber": "0001549595-26-000040",
+      "companyId": "nurix",
+      "companyName": "Nurix Therapeutics",
+      "companyDirections": [
+        "Targeted Protein Degradation"
+      ],
+      "secTicker": "NRIX",
+      "cik": "0001549595",
+      "secName": "Nurix Therapeutics, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000040/nrix-20260531.htm"
+    },
+    {
+      "filingDate": "2026-07-09",
+      "reportDate": "2026-07-09",
+      "acceptanceDateTime": "2026-07-09T20:09:51.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-39398",
+      "filmNumber": "261165775",
+      "items": "2.02,9.01",
+      "size": 261908,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "nrix-20260709.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001549595-26-000038",
+      "companyId": "nurix",
+      "companyName": "Nurix Therapeutics",
+      "companyDirections": [
+        "Targeted Protein Degradation"
+      ],
+      "secTicker": "NRIX",
+      "cik": "0001549595",
+      "secName": "Nurix Therapeutics, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000038/nrix-20260709.htm"
+    },
+    {
+      "filingDate": "2026-07-09",
+      "reportDate": "2026-07-09",
+      "acceptanceDateTime": "2026-07-09T18:55:22.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "000-19125",
+      "filmNumber": "261165416",
+      "items": "7.01,8.01,9.01",
+      "size": 191710,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "ef20077664_8k.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001140361-26-028092",
+      "companyId": "ionis",
+      "companyName": "Ionis Pharmaceuticals",
+      "companyDirections": [
+        "RNA Therapeutics"
+      ],
+      "secTicker": "IONS",
+      "cik": "0000874015",
+      "secName": "IONIS PHARMACEUTICALS INC",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126028092/ef20077664_8k.htm"
+    },
+    {
+      "filingDate": "2026-07-08",
+      "reportDate": "2026-07-06",
+      "acceptanceDateTime": "2026-07-08T11:08:16.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-38753",
+      "filmNumber": "261160755",
+      "items": "5.02,7.01,9.01",
+      "size": 164899,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "mrna-20260706.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001682852-26-000134",
+      "companyId": "moderna",
+      "companyName": "Moderna",
+      "companyDirections": [
+        "RNA Therapeutics"
+      ],
+      "secTicker": "MRNA",
+      "cik": "0001682852",
+      "secName": "Moderna, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000134/mrna-20260706.htm"
+    },
+    {
+      "filingDate": "2026-07-06",
+      "reportDate": "2026-07-01",
+      "acceptanceDateTime": "2026-07-06T20:05:18.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-37478",
+      "filmNumber": "261155853",
+      "items": "5.02",
+      "size": 221013,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "ntra-20260701.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001604821-26-000005",
+      "companyId": "natera",
+      "companyName": "Natera",
+      "companyDirections": [
+        "Precision Diagnostics"
+      ],
+      "secTicker": "NTRA",
+      "cik": "0001604821",
+      "secName": "Natera, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1604821/000160482126000005/ntra-20260701.htm"
+    }
+  ],
+  "signals": [
+    {
+      "id": "sec-0000874015-000114036126028154",
+      "date": "2026-07-10",
+      "title": "Ionis Pharmaceuticals filed Form 8-K",
+      "entity": "Ionis Pharmaceuticals",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126028154/ef20077783_8k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "RNA Therapeutics"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "IONS"
+      ],
+      "companyIds": [
+        "ionis"
+      ],
+      "fact": "SEC EDGAR lists accession 0001140361-26-028154 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-07-10.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001549595-000154959526000040",
+      "date": "2026-07-09",
+      "title": "Nurix Therapeutics filed Form 10-Q",
+      "entity": "Nurix Therapeutics",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000040/nrix-20260531.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Targeted Protein Degradation"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "NRIX"
+      ],
+      "companyIds": [
+        "nurix"
+      ],
+      "fact": "SEC EDGAR lists accession 0001549595-26-000040 for Nurix Therapeutics, Form 10-Q, filed on 2026-07-09.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001549595-000154959526000038",
+      "date": "2026-07-09",
+      "title": "Nurix Therapeutics filed Form 8-K",
+      "entity": "Nurix Therapeutics",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000038/nrix-20260709.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Targeted Protein Degradation"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "NRIX"
+      ],
+      "companyIds": [
+        "nurix"
+      ],
+      "fact": "SEC EDGAR lists accession 0001549595-26-000038 for Nurix Therapeutics, Form 8-K, filed on 2026-07-09.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0000874015-000114036126028092",
+      "date": "2026-07-09",
+      "title": "Ionis Pharmaceuticals filed Form 8-K",
+      "entity": "Ionis Pharmaceuticals",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126028092/ef20077664_8k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "RNA Therapeutics"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "IONS"
+      ],
+      "companyIds": [
+        "ionis"
+      ],
+      "fact": "SEC EDGAR lists accession 0001140361-26-028092 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-07-09.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001682852-000168285226000134",
+      "date": "2026-07-08",
+      "title": "Moderna filed Form 8-K",
+      "entity": "Moderna",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000134/mrna-20260706.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "RNA Therapeutics"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "MRNA"
+      ],
+      "companyIds": [
+        "moderna"
+      ],
+      "fact": "SEC EDGAR lists accession 0001682852-26-000134 for Moderna, Form 8-K, filed on 2026-07-08.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001604821-000160482126000005",
+      "date": "2026-07-06",
+      "title": "Natera filed Form 8-K",
+      "entity": "Natera",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1604821/000160482126000005/ntra-20260701.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Precision Diagnostics"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "NTRA"
+      ],
+      "companyIds": [
+        "natera"
+      ],
+      "fact": "SEC EDGAR lists accession 0001604821-26-000005 for Natera, Form 8-K, filed on 2026-07-06.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    }
+  ]
+}

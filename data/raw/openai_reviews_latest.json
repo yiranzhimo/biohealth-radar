@@ -1,63 +1,65 @@
 {
-  "capturedAt": "2026-07-15T03:39:47.021127+00:00",
+  "capturedAt": "2026-07-15T05:06:33.748868+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42447126",
-      "responseId": "resp_0bd2194a182e4604006a570103ddec819cae8b01b7248402f2",
+      "signalId": "pubmed-42448899",
+      "responseId": "resp_02ece1bfb8ed0927006a57155a9e4881a28d7d0a213b2f6994",
       "review": {
         "status": "pass",
-        "confidence": 0.9,
+        "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号记录中信息分类合理，未涉及治疗建议或支持的临床结论。",
+        "reviewSummaryCn": "该信号符合出版要求，信息清晰，无临床建议。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，符合研究内容。"
+          "notesCn": "分类符合论文主题。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "文献来源可靠，证据等级中等，信息条目合理分离。"
+          "notesCn": "报告和事实有效分离，证据水平合理。"
         },
-        "riskFlags": [],
+        "riskFlags": [
+          "clinical_claim"
+        ],
         "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
           "evidenceLevel": "Medium",
           "themes": [
-            "Organoids",
-            "Advanced Disease Models"
+            "Diagnostics",
+            "Precision Medicine"
           ],
           "tags": [
-            "类器官",
-            "疾病模型"
+            "诊断",
+            "精准医疗"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42447126。",
-          "report": "Chronic stroke poses enduring neurological deficits, while experimental strategies based on human induced pluripotent stem cell-derived cortical organoids (COs) remain limited by the lack of tools for longitudinal in vivo graft monitoring. Here, we introduce t...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 European radiology，PMID 为 42448899。",
+          "report": "This systematic review evaluates the available evidence on the efficacy of commercially available AI-software applications for lung nodule assessment on CT scans. In adherence to PRISMA guidelines, a thorough search of electronic databases was conducted (Janua...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42447000",
-      "responseId": "resp_0b60c7cee07cebce006a570108e440819eb78a22679db3a644",
+      "signalId": "pubmed-42448953",
+      "responseId": "resp_00c4bb2f815b15a4006a57155fafd4819f9e106d09d4e1002c",
       "review": {
         "status": "pass",
-        "confidence": 0.95,
+        "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "信息明确，无需人类审核，内容可发布。",
+        "reviewSummaryCn": "该文献记录清晰，分类合理，未包含临床结论或建议。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，符合文献内容。"
+          "notesCn": "分类符合文献主题，且合理。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论分开明确，证据水平合理。"
+          "evidenceLevelReasonable": false,
+          "notesCn": "尽管证据等级标记为低，但与源数据一致。"
         },
         "riskFlags": [
           "insufficient_source"
@@ -65,7 +67,7 @@
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
           "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
+          "evidenceLevel": "Low",
           "themes": [
             "Organoids",
             "Advanced Disease Models"
@@ -74,32 +76,33 @@
             "类器官",
             "疾病模型"
           ],
-          "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42447000。",
-          "report": "Nucleus-specific brain organoids enable precise human brain research, yet refined hindbrain models are rare. Here, we present a guided differentiation protocol for generating human medullary spinal trigeminal nucleus-like organoids (hmSpVOs). We describe steps...",
+          "fact": "PubMed 记录显示该文献收录于 Nature reviews. Cardiology，PMID 为 42448953。",
+          "report": "PubMed 记录未提供摘要。",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42446987",
-      "responseId": "resp_076413c657bc3b7c006a57010e690081a28c8a576484047004",
+      "signalId": "pubmed-42448724",
+      "responseId": "resp_0156863a21a78dca006a571563e050819fbfcb929b542cbe18",
       "review": {
         "status": "pass",
         "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录基于可靠来源，内容中立，不含未支持的临床结论或治疗建议。",
+        "reviewSummaryCn": "发布记录符合中立标准，信息来源明确，分类适当。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，符合文献主题。"
+          "notesCn": ""
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "文献级别适中，信息来源清晰可辨。"
+          "notesCn": ""
         },
         "riskFlags": [
-          "weak_classification"
+          "clinical_claim",
+          "regulatory_claim"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -108,40 +111,49 @@
           "themes": [
             "Organoids",
             "Advanced Disease Models",
+            "AI for Biology",
+            "Drug Discovery",
+            "Clinical Evidence",
+            "Regulatory Watch",
             "Multi-omics"
           ],
           "tags": [
             "类器官",
             "疾病模型",
+            "AI 制药",
+            "蛋白设计",
+            "分子生成",
+            "临床",
+            "监管",
             "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42446987。",
-          "report": "Spatially controlling morphogenesis is a challenge for many organoid systems that manifests as a limited understanding of self-organization of differentiating cells and leads to a high degree of heterogeneity in organoid morphometrics. Current methods to grow...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 NPJ Regenerative medicine，PMID 为 42448724。",
+          "report": "Dermal fibroblasts exhibit spatiotemporal heterogeneity, transitioning from coordinating immune signaling and depositing a provisional extracellular matrix during the early inflammatory phase to driving directional migration and mature matrix synthesis in the...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42446981",
-      "responseId": "resp_0a8abfa49826f5ec006a5701183d28819cbe5fc6c33ec7dea1",
+      "signalId": "pubmed-42447803",
+      "responseId": "resp_0ba061a126c5b932006a5715699278819db4a95fb7ce49b199",
       "review": {
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录清晰，来源可靠，未包含不支持的临床结论或治疗建议。",
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献支持研究，但缺乏研究质量和样本量的判断，需人工审核。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "主要和次要分类合理，符合研究主题。"
+          "notesCn": "主要分类合适，细分类别符合主题。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "源头元数据支持分类和证据水平。"
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平评价为中等，但相关性未完全明确，可能需要进一步评估。"
         },
         "riskFlags": [
           "clinical_claim",
-          "regulatory_claim"
+          "insufficient_source"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -161,32 +173,33 @@
             "监管",
             "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42446981。",
-          "report": "Small nucleolar RNAs (snoRNAs) play crucial regulatory roles in various cancers. However, the mechanisms by which snoRNAs regulate N6-methyladenosine (m6A) modifications in colorectal cancer (CRC) remain unclear. This study systematically deciphered the precise mechanisms.",
+          "fact": "PubMed 记录显示该文献收录于 International immunopharmacology，PMID 为 42447803。",
+          "report": "Adoptive T-cell therapy is a promising strategy for cancer immunotherapy; however, its efficacy is often limited by the immunosuppressive tumor microenvironment. γδ T cells, particularly the Vγ9Vδ2 subset, exhibit innate-like cytotoxicity and are emerging cand...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42446979",
-      "responseId": "resp_0f71bf10b3f26fb6006a57011e4cc881a0adb37878e9eaf643",
+      "signalId": "pubmed-42448241",
+      "responseId": "resp_0f9373a8ff83ec9a006a57156effa8819c8d5f912d079f1420",
       "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "此卡片信息清晰，未包含未经支持的临床结论或建议。",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该记录包含未经过审核的临床推断，可能影响信息的中立性。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别与源数据合理匹配。"
+          "isSupported": false,
+          "notesCn": "分类的不合理性，未能反映文献的实际内容。"
         },
         "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "来源信息充分，事实、报告和推断清晰分离。"
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "研究质量、样本量、利益冲突等信息缺失，导致证据水平的合理性受到质疑。"
         },
         "riskFlags": [
-          "insufficient_source"
+          "clinical_claim",
+          "regulatory_claim"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -194,78 +207,133 @@
           "evidenceLevel": "Medium",
           "themes": [
             "Organoids",
-            "Advanced Disease Models"
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Multi-omics"
           ],
           "tags": [
             "类器官",
-            "疾病模型"
+            "疾病模型",
+            "肿瘤",
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42446979。",
-          "report": "Optical tweezers (OT), a cornerstone of micromanipulation, are fundamentally constrained by substrate-induced adhesion and friction, limiting their application to mesoscale objects and fragile biological specimens where overcoming these resistive forces requires advanced techniques.",
+          "fact": "PubMed记录显示该文献收录于Gastroenterology，PMID为42448241。",
+          "report": "Gastric cancer develops through a sequential carcinogenic process beginning with pyloric metaplasia, a key feature of which is the transdifferentiation of gastric chief cells into spasmolytic polypeptide-expressing metaplastic (SPEM) cells. We found that SOX9,...",
+          "inference": "该分类仅用于情报分流，未能代表临床结论的有效性。",
+          "unknown": "有必要确认研究的质量、样本量和潜在的利益冲突，以提高证据水平的合理性。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42447954",
+      "responseId": "resp_0b64e1550a4c7137006a5715763c2c81a2a9b3db91070ed4a5",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献关注药物重新利用的效果，可能存在对药物效果的隐含结论，需要进一步审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类可能过于模糊，未明确指涉具体的临床或研究结论。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "中等证据级别未能有效支持所有声明，尤其是关于药物效果的暗示。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42447954。",
+          "report": "This study aims to investigate the efficacy of drug repurposing using a corneal organoid model developed from patient-derived iPSCs and to elucidate the pathophysiology of Aniridia-Associated Keratopathy (AAK). A 90-day stepwise differentiation protocol was us...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42447285",
-      "responseId": "resp_02cfed4d8992e4d3006a5701249bbc81a0ac3a503d9352539a",
+      "signalId": "pubmed-42448985",
+      "responseId": "resp_0a1a79f977647809006a57157becc081a19d24837707b1b6fa",
       "review": {
         "status": "pass",
-        "confidence": 0.95,
+        "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号记录提供了关于新兴AI药物发现研究的精确信息，内容清晰且符合发布标准。",
+        "reviewSummaryCn": "文献记录与主题一致，未涉及不当临床结论或建议。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类准确且与文献内容一致。"
+          "notesCn": "分类合理，符合文献内容。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "文献来源可靠，提供的信息与报告和推断相分离。"
+          "notesCn": "文献证据水平与类别一致。"
         },
         "riskFlags": [
-          "insufficient_source"
+          "clinical_claim",
+          "regulatory_claim"
         ],
         "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
           "evidenceLevel": "Medium",
           "themes": [
-            "AI for Biology",
-            "Drug Discovery"
+            "Diagnostics",
+            "Precision Medicine",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology",
+            "Drug Screening"
           ],
           "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成"
+            "诊断",
+            "精准医疗",
+            "临床",
+            "监管",
+            "肿瘤",
+            "药筛"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of chemical information and modeling，PMID 为 42447285。",
-          "report": "Structure-based molecular generation has made substantial progress in recent years, yet methods for multiobjective optimization remain lacking. Here, we introduce IFPGen, a framework for interaction fingerprints-guided multiobjective molecular generation. It i...",
-          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Discover oncology，PMID 为 42448985。",
+          "report": "Colorectal cancer (CRC) is a leading cause of cancer-related death worldwide. Exosomes have emerged as key mediators in CRC pathogenesis and progression. However, a systematic overview of the research landscape is lacking. This study aimed to conduct a compreh...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42447248",
-      "responseId": "resp_0b710482295d3eff006a57012a19c481a3820d0da296f0102e",
+      "signalId": "pubmed-42448514",
+      "responseId": "resp_0c86add5a232d646006a5715806648819185fda1fa263ce2ee",
       "review": {
         "status": "pass",
         "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该卡片内容合理且符合发布标准，信息明确，无需进一步人工审查。",
+        "reviewSummaryCn": "该记录中事实、报告和推断分明，符合发布标准。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，符合研究主题。"
+          "notesCn": "分类合理，符合文献内容。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论间分离清晰，证据水平适中。"
+          "notesCn": "证据水平合理，符合中等级别。"
         },
         "riskFlags": [
-          "weak_classification"
+          "clinical_claim",
+          "insufficient_source"
         ],
         "suggestedEdits": {
           "primaryCategory": "Diagnostics & Precision Medicine",
@@ -281,51 +349,330 @@
             "精准医疗",
             "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 The oncologist，PMID 为 42447248。",
-          "report": "Histologic transformation from non-small cell lung cancer (NSCLC) to small cell lung cancer (SCLC) is a rare mechanism of resistance in anaplastic lymphoma kinase (ALK)-rearranged disease. Diagnosis is traditionally dependent on tissue biopsy, which may be lim...",
+          "fact": "PubMed 记录显示该文献收录于 European urology oncology，PMID 为 42448514。",
+          "report": "Metastatic urothelial cancer (mUC) is associated with diverse genomic alterations, including frequent FGFR3 mutations that influence survival outcomes and treatment responses. Erdafitinib, a targeted therapy, has shown improved survival in patients with locall...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42447329",
-      "responseId": "resp_09fa7f3e8252be92006a57012e75cc81a1bdf830d832badee0",
+      "signalId": "pubmed-42448257",
+      "responseId": "resp_0344c22311faa481006a5715854adc819cbb826068c978f820",
       "review": {
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该信号需要人工审查以确保没有未经支持的结论或推荐。",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该卡片信息清晰、分类合理且没有临床结论或建议。",
         "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类不符合研究质量或临床结论的标准。"
+          "isSupported": true,
+          "notesCn": "分类合理，符合主题。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平为中，但未知因素影响信号的完整性。"
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平符合源材料，事实、报告和推断清晰分隔。"
         },
         "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
+          "weak_classification"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Research",
-          "subCategory": "Genetics",
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
           "evidenceLevel": "Medium",
           "themes": [
-            "Clinical Evidence",
-            "Epigenetics"
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology",
+            "Multi-omics"
           ],
           "tags": [
-            "临床",
-            "遗传学",
-            "表观遗传学"
+            "诊断",
+            "精准医疗",
+            "肿瘤",
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Human molecular genetics，PMID 为 42447329。",
-          "report": "Epigenetic inheritance links fetal chromatin organization and CpG methylation to lifelong tissue phenotypes. We tested the Fetal Chromatin-CpG Developmental Blueprint (FCCD-B) model, proposing that fetal chromatin states shaped by maternal nutrient and transcr...",
-          "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Critical reviews in oncology/hematology，PMID 为 42448257。",
+          "report": "Cell free RNA (cfRNA) based liquid biopsy is pushing noninvasive diagnostics forward, moving the field from a static view focused on genomics into a more dynamic space centered on functional transcriptomics. Circulating tumor DNA (ctDNA) mainly tells us about...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42447744",
+      "responseId": "resp_06c93e7307f2dede006a57158a92c481a2afd1a70558639d85",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录符合中立情报标准，缺乏临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合所提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论清晰分离，且证据等级适中。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Current opinion in structural biology，PMID 为 42447744。",
+          "report": "Understanding the complexity of cells - their components, processes, and dynamics - requires imaging techniques capable of capturing biological organization in situ and across scales. Advances in cryo-electron tomography (cryo-ET), enabled by focused ion beam...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "sec-0000874015-000114036126028154",
+      "responseId": "resp_02f552f2edc1a03a006a57159038a081a297d5ce4469b7358c",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该卡片信息内部一致，适合发表。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "RNA Therapeutics"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "IONS"
+          ],
+          "fact": "SEC EDGAR lists accession 0001140361-26-028154 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-07-10.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001549595-000154959526000040",
+      "responseId": "resp_0d9ce25f4f1739fb006a57159439e881a1a3d3b9558a393da3",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号为Nurix Therapeutics的10-Q表格定期报告，源于SEC EDGAR，信息分离清晰，符合出版标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类和证据水平符合提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论清晰分离，证据水平合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Targeted Protein Degradation"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "NRIX"
+          ],
+          "fact": "SEC EDGAR lists accession 0001549595-26-000040 for Nurix Therapeutics, Form 10-Q, filed on 2026-07-09.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001549595-000154959526000038",
+      "responseId": "resp_08bd15057d6378a1006a5715988a64819daae60eadc9dfa0a0",
+      "review": {
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "此记录符合发布标准，信息准确且无临床建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合证据水平要求。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断明确分开，支持证据水平。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Targeted Protein Degradation"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "NRIX"
+          ],
+          "fact": "SEC EDGAR lists accession 0001549595-26-000038 for Nurix Therapeutics, Form 8-K, filed on 2026-07-09.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0000874015-000114036126028092",
+      "responseId": "resp_07e8c14af83b671d006a57159ca67c819c899ccad5930366b7",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信息准确，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "RNA Therapeutics"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "IONS"
+          ],
+          "fact": "SEC EDGAR lists accession 0001140361-26-028092 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-07-09.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001682852-000168285226000134",
+      "responseId": "resp_0a834b01776d2c9b006a5715a05d48819ea9f3c17eb5902272",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合出版标准，无需人类审查。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "RNA Therapeutics"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "MRNA"
+          ],
+          "fact": "SEC EDGAR lists accession 0001682852-26-000134 for Moderna, Form 8-K, filed on 2026-07-08.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001604821-000160482126000005",
+      "responseId": "resp_070d7f17dc8c0a35006a5715b5aee0819eabc733a4cc994347",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信息源自SEC，内容清晰且中立，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "类别合理，有效性中等。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断之间分隔明确，符合发布要求。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Precision Diagnostics"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "NTRA"
+          ],
+          "fact": "SEC EDGAR lists accession 0001604821-26-000005 for Natera, Form 8-K, filed on 2026-07-06.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
         }
       }
     }
