@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-07-14",
+  "updatedAt": "2026-07-15",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -53,223 +53,16 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
-      "id": "pubmed-42446805",
+      "id": "pubmed-42447126",
       "date": "2026-07-14",
-      "title": "Generation of synthetic vascular organoids via orthogonal programming of human pluripotent stem cells.",
+      "title": "Intravital Multimodal Imaging of Human Cortical Organoid Transplantation in a Mouse Model of Chronic Stroke.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446805/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Cell regeneration (London, England)，PMID 为 42446805。",
-      "report": "The development of functional human vasculature is essential for tissue engineering, disease modeling, and regenerative medicine. Conventional differentiation protocols of vascular lineages often exhibit lineage heterogeneity and limited control over cellular...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0768699951890a96006a56920b567481a2b5d46e08a844feca",
-        "reviewedAt": "2026-07-14T19:46:18.127648+00:00",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需人工审查，因缺乏对研究质量及临床结论的明确判断。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类与研究内容不完全对应，需进一步验证。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "尽管事实和报告分开，证据水平未达到支持临床结论的标准。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Cell regeneration (London, England)，PMID 为 42446805。",
-          "report": "The development of functional human vasculature is essential for tissue engineering, disease modeling, and regenerative medicine.",
-          "inference": "此分类反映研究主题，客观上不代表治疗建议或临床成果。",
-          "unknown": "缺少关于研究质量、样本量及潜在利益冲突的信息。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42446380",
-      "date": "2026-07-14",
-      "title": "Rodent models and accompanying in vitro strategies for studying the etiology and therapy of Parkinson's disease.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446380/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Journal of Parkinson's disease，PMID 为 42446380。",
-      "report": "The lack of disease-modifying therapies for Parkinson's disease (PD) places a severe burden on patients, their caregivers and aging societies. While the incomplete knowledge of underlying causes and pathophysiology remains a major bottleneck towards the develo...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_025c99f938736a53006a569214147081a18e0f80ee34e3aeaa",
-        "reviewedAt": "2026-07-14T19:46:18.127648+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录与研究相关，分类合理且无未经支持的临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "文献类别与证据水平合理支持所提供的元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论已明确分开，证据水平合理。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Biotech"
-          ],
-          "tags": [
-            "biotech"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of Parkinson's disease，PMID 为 42446380。",
-          "report": "The lack of disease-modifying therapies for Parkinson's disease (PD) places a severe burden on patients, their caregivers and aging societies. While the incomplete knowledge of underlying causes and pathophysiology remains a major bottleneck towards the develo...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42446105",
-      "date": "2026-07-14",
-      "title": "Strategies for the Selection and Application of Biological Scaffolds in Organ-on-a-Chip Systems.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446105/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Chembiochem : a European journal of chemical biology，PMID 为 42446105。",
-      "report": "As an emerging microphysiological system, organ-on-a-chip (OoC) replicates human organ structures and functions through microfabrication, holding promise as novel platforms for drug screening, disease modeling, and toxicity testing, although their broad applic...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_078a8b20c9c66fea006a569219f0988192bba50a453a451560",
-        "reviewedAt": "2026-07-14T19:46:18.127648+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录清晰且信息准确，适合发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类与文献内容相符，符合合理标准。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论分开明确，证据水平适中。"
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Chembiochem : a European journal of chemical biology，PMID 为 42446105。",
-          "report": "As an emerging microphysiological system, organ-on-a-chip (OoC) replicates human organ structures and functions through microfabrication, holding promise as novel platforms for drug screening, disease modeling, and toxicity testing, although their broad applic...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42445940",
-      "date": "2026-07-14",
-      "title": "An interview with Alex Hughes.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42445940/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447126/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
@@ -281,31 +74,96 @@ window.BHR_DATA = {
         "类器官",
         "疾病模型"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Development (Cambridge, England)，PMID 为 42445940。",
-      "report": "Alex Hughes is an Associate Professor of Bioengineering at the University of Pennsylvania, USA, using in vitro organoid models of the developing human kidney to study organogenesis from an engineering perspective. This year, Alex is a Guest Editor for Developm...",
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42447126。",
+      "report": "Chronic stroke poses enduring neurological deficits, while experimental strategies based on human induced pluripotent stem cell-derived cortical organoids (COs) remain limited by the lack of tools for longitudinal in vivo graft monitoring. Here, we introduce t...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_065da9d76fc05326006a569223b1c081a29883e7bdbe4059f6",
-        "reviewedAt": "2026-07-14T19:46:18.127648+00:00",
+        "responseId": "resp_0bd2194a182e4604006a570103ddec819cae8b01b7248402f2",
+        "reviewedAt": "2026-07-15T03:39:47.021127+00:00",
         "status": "pass",
-        "confidence": 0.95,
+        "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该卡片的内容与来源一致，未包含未验证的临床结论或治疗建议。",
+        "reviewSummaryCn": "该信号记录中信息分类合理，未涉及治疗建议或支持的临床结论。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，符合提供的元数据。"
+          "notesCn": "分类合理，符合研究内容。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "文献的来源和主题明确，报告和推论分开。"
+          "notesCn": "文献来源可靠，证据等级中等，信息条目合理分离。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42447126。",
+          "report": "Chronic stroke poses enduring neurological deficits, while experimental strategies based on human induced pluripotent stem cell-derived cortical organoids (COs) remain limited by the lack of tools for longitudinal in vivo graft monitoring. Here, we introduce t...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42447000",
+      "date": "2026-07-14",
+      "title": "Protocol for the generation of human medullary spinal trigeminal nucleus-like organoids and trigeminothalamic assembloids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447000/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42447000。",
+      "report": "Nucleus-specific brain organoids enable precise human brain research, yet refined hindbrain models are rare. Here, we present a guided differentiation protocol for generating human medullary spinal trigeminal nucleus-like organoids (hmSpVOs). We describe steps...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0b60c7cee07cebce006a570108e440819eb78a22679db3a644",
+        "reviewedAt": "2026-07-15T03:39:47.021127+00:00",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信息明确，无需人类审核，内容可发布。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合文献内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分开明确，证据水平合理。"
         },
         "riskFlags": [
-          "weak_classification"
+          "insufficient_source"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -319,9 +177,367 @@ window.BHR_DATA = {
             "类器官",
             "疾病模型"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Development (Cambridge, England)，PMID 为 42445940。",
-          "report": "Alex Hughes is an Associate Professor of Bioengineering at the University of Pennsylvania, USA, using in vitro organoid models of the developing human kidney to study organogenesis from an engineering perspective. This year, Alex is a Guest Editor for Developm...",
+          "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42447000。",
+          "report": "Nucleus-specific brain organoids enable precise human brain research, yet refined hindbrain models are rare. Here, we present a guided differentiation protocol for generating human medullary spinal trigeminal nucleus-like organoids (hmSpVOs). We describe steps...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42446987",
+      "date": "2026-07-14",
+      "title": "Spatiotemporally controlled matrix softening facilitates deterministic crypt formation in human intestinal organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446987/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42446987。",
+      "report": "Spatially controlling morphogenesis is a challenge for many organoid systems that manifests as a limited understanding of self-organization of differentiating cells and leads to a high degree of heterogeneity in organoid morphometrics. Current methods to grow...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_076413c657bc3b7c006a57010e690081a28c8a576484047004",
+        "reviewedAt": "2026-07-15T03:39:47.021127+00:00",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录基于可靠来源，内容中立，不含未支持的临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合文献主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献级别适中，信息来源清晰可辨。"
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42446987。",
+          "report": "Spatially controlling morphogenesis is a challenge for many organoid systems that manifests as a limited understanding of self-organization of differentiating cells and leads to a high degree of heterogeneity in organoid morphometrics. Current methods to grow...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42446981",
+      "date": "2026-07-14",
+      "title": "Oncogenic snoRNA SNORD78 fuels colorectal cancer by protecting the m6A reader IMP2 to enhance phospholipid metabolism.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446981/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42446981。",
+      "report": "Small nucleolar RNAs (snoRNAs) play crucial regulatory roles in various cancers. However, the mechanisms by which snoRNAs regulate N6-methyladenosine (m6A) modifications in colorectal cancer (CRC) remain unclear. This study systematically deciphered the precis...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0a8abfa49826f5ec006a5701183d28819cbe5fc6c33ec7dea1",
+        "reviewedAt": "2026-07-15T03:39:47.021127+00:00",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录清晰，来源可靠，未包含不支持的临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要和次要分类合理，符合研究主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "源头元数据支持分类和证据水平。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42446981。",
+          "report": "Small nucleolar RNAs (snoRNAs) play crucial regulatory roles in various cancers. However, the mechanisms by which snoRNAs regulate N6-methyladenosine (m6A) modifications in colorectal cancer (CRC) remain unclear. This study systematically deciphered the precise mechanisms.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42446979",
+      "date": "2026-07-14",
+      "title": "Dielectric levitation optical tweezers for powerful mesoscale biomanipulation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446979/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42446979。",
+      "report": "Optical tweezers (OT), a cornerstone of micromanipulation, are fundamentally constrained by substrate-induced adhesion and friction, limiting their application to mesoscale objects and fragile biological specimens where overcoming these resistive forces requir...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0f71bf10b3f26fb6006a57011e4cc881a0adb37878e9eaf643",
+        "reviewedAt": "2026-07-15T03:39:47.021127+00:00",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "此卡片信息清晰，未包含未经支持的临床结论或建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别和子类别与源数据合理匹配。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "来源信息充分，事实、报告和推断清晰分离。"
+        },
+        "riskFlags": [
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42446979。",
+          "report": "Optical tweezers (OT), a cornerstone of micromanipulation, are fundamentally constrained by substrate-induced adhesion and friction, limiting their application to mesoscale objects and fragile biological specimens where overcoming these resistive forces requires advanced techniques.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42447285",
+      "date": "2026-07-14",
+      "title": "Iterative Interaction Fingerprints-Guided Multiobjective Molecular Generation.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447285/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Journal of chemical information and modeling，PMID 为 42447285。",
+      "report": "Structure-based molecular generation has made substantial progress in recent years, yet methods for multiobjective optimization remain lacking. Here, we introduce IFPGen, a framework for interaction fingerprints-guided multiobjective molecular generation. It i...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_02cfed4d8992e4d3006a5701249bbc81a0ac3a503d9352539a",
+        "reviewedAt": "2026-07-15T03:39:47.021127+00:00",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号记录提供了关于新兴AI药物发现研究的精确信息，内容清晰且符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类准确且与文献内容一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献来源可靠，提供的信息与报告和推断相分离。"
+        },
+        "riskFlags": [
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "AI Drug Discovery",
+          "subCategory": "AI-enabled Discovery",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "AI for Biology",
+            "Drug Discovery"
+          ],
+          "tags": [
+            "AI 制药",
+            "蛋白设计",
+            "分子生成"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of chemical information and modeling，PMID 为 42447285。",
+          "report": "Structure-based molecular generation has made substantial progress in recent years, yet methods for multiobjective optimization remain lacking. Here, we introduce IFPGen, a framework for interaction fingerprints-guided multiobjective molecular generation. It i...",
+          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42447248",
+      "date": "2026-07-14",
+      "title": "Methylation-based Liquid Biopsy Facilitates Early Detection of Small Cell Transformation in ALK-rearranged Non-Small Cell Lung Cancer.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447248/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 The oncologist，PMID 为 42447248。",
+      "report": "Histologic transformation from non-small cell lung cancer (NSCLC) to small cell lung cancer (SCLC) is a rare mechanism of resistance in anaplastic lymphoma kinase (ALK)-rearranged disease. Diagnosis is traditionally dependent on tissue biopsy, which may be lim...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0b710482295d3eff006a57012a19c481a3820d0da296f0102e",
+        "reviewedAt": "2026-07-15T03:39:47.021127+00:00",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该卡片内容合理且符合发布标准，信息明确，无需进一步人工审查。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合研究主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论间分离清晰，证据水平适中。"
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 The oncologist，PMID 为 42447248。",
+          "report": "Histologic transformation from non-small cell lung cancer (NSCLC) to small cell lung cancer (SCLC) is a rare mechanism of resistance in anaplastic lymphoma kinase (ALK)-rearranged disease. Diagnosis is traditionally dependent on tissue biopsy, which may be lim...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -473,81 +689,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Pediatric hematology and oncology，PMID 为 42444346。",
           "report": "Rhabdomyosarcoma is the third most common extracranial solid tumor of childhood. Despite extensive research over the preceding decades, prognosis in children with metastatic or recurrent disease remains very poor with overall 5-year survival rates under 20%. L...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42443915",
-      "date": "2026-07-14",
-      "title": "Exploring platelet-covered and naked circulating tumor cells - a single-cell transcriptomic perspective.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443915/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42443915。",
-      "report": "Circulating tumor cells (CTCs) and platelets might be collected simultaneously during liquid biopsy; however, their interaction in the form of platelet-covered CTCs (pcCTCs) remains only partially understood. In this study, we aimed to detect and characterize...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0321639b55d98bcf006a5644dda770819eb6480c7e86f282cb",
-        "reviewedAt": "2026-07-14T14:16:41.596616+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号记录清晰，符合发布要求，未含有支持性治疗或安全性结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，与文献主题一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论之间的区分明确。"
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42443915。",
-          "report": "Circulating tumor cells (CTCs) and platelets might be collected simultaneously during liquid biopsy; however, their interaction in the form of platelet-covered CTCs (pcCTCs) remains only partially understood. In this study, we aimed to detect and characterize...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -759,75 +900,6 @@ window.BHR_DATA = {
           ],
           "fact": "PubMed 记录显示该文献收录于 Accounts of chemical research，PMID 为 42439322。",
           "report": "ConspectusThiamine diphosphate (ThDP)-dependent enzymes are among nature's most elegant biocatalysts for C-C bond formation and cleavage, typically operating through a two-electron umpolung mechanism. Although a small subset of ThDP enzymes, such as pyruvate:...",
-          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42439276",
-      "date": "2026-07-13",
-      "title": "Deep Learning Models Capture Umbrella Sampling-Derived Energetic Trends: A Troponin C Case Study.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42439276/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Journal of chemical information and modeling，PMID 为 42439276。",
-      "report": "Deep learning models have transformed several fields lately. In the past, capturing thermodynamic trends from free energies has relied on computationally expensive and time-consuming umbrella sampling simulations for dynamic proteins. Here, we investigate whet...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0bb6d61915d18dad006a560201313c81969f8b81cd7e5e27e9",
-        "reviewedAt": "2026-07-14T09:30:59.399296+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "文献记录合理，不包含未支持的临床结论或治疗建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别合理，符合文献主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断被清晰分开，并且证据水平合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "AI for Biology",
-            "Drug Discovery"
-          ],
-          "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of chemical information and modeling，PMID 为 42439276。",
-          "report": "Deep learning models have transformed several fields lately. In the past, capturing thermodynamic trends from free energies has relied on computationally expensive and time-consuming umbrella sampling simulations for dynamic proteins. Here, we investigate whet...",
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
@@ -1071,94 +1143,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Science China. Life sciences，PMID 为 42446827。",
           "report": "The TBX1 deletion is frequently observed in patients with tetralogy of Fallot (TOF), the most prevalent cyanotic congenital heart defect (CHD); however, the role of noncoding variants in its regulatory region remains unclear. We performed whole-genome sequencing...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42400328",
-      "date": "2026-07-08",
-      "title": "Why next-generation mechanistic models will transform drug discovery: integrating efficacy and safety.",
-      "entity": "Virtual Cell Model",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "Virtual Cell / Cell Foundation Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42400328/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Virtual Cell",
-        "AI for Biology",
-        "Multi-omics",
-        "Drug Discovery",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "虚拟细胞",
-        "细胞基础模型",
-        "多组学",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "临床",
-        "监管"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Expert opinion on drug discovery，PMID 为 42400328。",
-      "report": "Drug discovery remains constrained by high attrition rates and the fragmented evaluation of exposure, efficacy, and safety. Mechanistic models offer a biologically grounded framework for connecting these determinants across multiple levels of biological organi...",
-      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0448026fe9c98ab1006a560235ef98819095283e56a889807f",
-        "reviewedAt": "2026-07-14T09:30:59.399296+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录信息清晰，分离明确，并没有支持的治疗建议或临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合提供的元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论明确分开，证据级别合理。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "Virtual Cell / Cell Foundation Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Virtual Cell",
-            "AI for Biology",
-            "Multi-omics",
-            "Drug Discovery",
-            "Clinical Evidence",
-            "Regulatory Watch"
-          ],
-          "tags": [
-            "虚拟细胞",
-            "细胞基础模型",
-            "多组学",
-            "AI 制药",
-            "蛋白设计",
-            "分子生成",
-            "临床",
-            "监管"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Expert opinion on drug discovery，PMID 为 42400328。",
-          "report": "Drug discovery remains constrained by high attrition rates and the fragmented evaluation of exposure, efficacy, and safety. Mechanistic models offer a biologically grounded framework for connecting these determinants across multiple levels of biological organization.",
-          "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1533,90 +1517,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42445193",
-      "date": "2026-06-29",
-      "title": "Traditional Chinese medicine as a potential barrier-oriented sensitization strategy for immune checkpoint blockade in microsatellite-stable colorectal cancer: from resistance mechanisms to translational validation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42445193/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤",
-        "多组学"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42445193。",
-      "report": "Microsatellite-stable colorectal cancer (MSS-CRC) is refractory to immune checkpoint inhibitors (ICIs), mainly because of low tumor immunogenicity, impaired antigen presentation, immune exclusion, and myeloid- or Treg-dominated immunosuppression. Traditional C...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_016d476b82f94507006a56925b4eec819eb59bed8e9ff6d703",
-        "reviewedAt": "2026-07-14T19:46:18.127648+00:00",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该卡片涉及潜在的治疗策略，缺乏对研究质量和样本量的评估，需人工审查。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类合理，但未考虑相关研究质量和样本量。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平被标记为中等，但缺乏支持质量评估的关键信息。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "临床",
-            "监管",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42445193。",
-          "report": "Microsatellite-stable colorectal cancer (MSS-CRC) is refractory to immune checkpoint inhibitors (ICIs), mainly because of low tumor immunogenicity, impaired antigen presentation, immune exclusion, and myeloid- or Treg-dominated immunosuppression. Traditional Chinese medicine as a potential barrier-oriented sensitization strategy is discussed in this context.",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42445727",
       "date": "2026-06-29",
       "title": "Identification and validation of bile exosomal microRNA signatures for diagnosing acute rejection in liver transplant recipients.",
@@ -1834,6 +1734,77 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42440565。",
           "report": "Respiratory syncytial virus (RSV) is a major cause of severe lower respiratory tract disease (LRTD) in infants and older adults worldwide. Although vaccines based on the fusion (F) protein have shown progress, their efficacy remains limited by antigenic instab...",
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42447329",
+      "date": "2026-06-06",
+      "title": "Fetal myogenesis chromatin state and CpG from the open alliance markers and their intersection with adult muscle and gastrointestinal genetics.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447329/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
+      ],
+      "tags": [
+        "临床",
+        "监管",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Human molecular genetics，PMID 为 42447329。",
+      "report": "Epigenetic inheritance links fetal chromatin organization and CpG methylation to lifelong tissue phenotypes. We tested the Fetal Chromatin-CpG Developmental Blueprint (FCCD-B) model, proposing that fetal chromatin states shaped by maternal nutrient and transcr...",
+      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_09fa7f3e8252be92006a57012e75cc81a1bdf830d832badee0",
+        "reviewedAt": "2026-07-15T03:39:47.021127+00:00",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号需要人工审查以确保没有未经支持的结论或推荐。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类不符合研究质量或临床结论的标准。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平为中，但未知因素影响信号的完整性。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Research",
+          "subCategory": "Genetics",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Clinical Evidence",
+            "Epigenetics"
+          ],
+          "tags": [
+            "临床",
+            "遗传学",
+            "表观遗传学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Human molecular genetics，PMID 为 42447329。",
+          "report": "Epigenetic inheritance links fetal chromatin organization and CpG methylation to lifelong tissue phenotypes. We tested the Fetal Chromatin-CpG Developmental Blueprint (FCCD-B) model, proposing that fetal chromatin states shaped by maternal nutrient and transcr...",
+          "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }

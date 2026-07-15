@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-14T19:46:14.915160+00:00",
+  "capturedAt": "2026-07-15T03:39:43.827782+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,36 +10,96 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-07-14",
-    "end": "2026-07-14"
+    "start": "2025-07-15",
+    "end": "2026-07-15"
   },
   "pmids": [
+    "42447126",
+    "42447000",
+    "42446987",
+    "42446981",
+    "42446979",
     "42446827",
-    "42446805",
-    "42446380",
-    "42446105",
-    "42445940",
-    "42445193",
+    "42447329",
     "42444608",
     "42431103",
     "42429061",
     "42418828",
     "42412811",
-    "42400328",
+    "42447285",
     "42445758",
     "42444981",
     "42443524",
     "42440565",
     "42439322",
-    "42439276",
+    "42447248",
     "42446136",
     "42445727",
     "42445712",
     "42444935",
-    "42444346",
-    "42443915"
+    "42444346"
   ],
   "records": [
+    {
+      "pmid": "42447126",
+      "title": "Intravital Multimodal Imaging of Human Cortical Organoid Transplantation in a Mouse Model of Chronic Stroke.",
+      "abstract": "Chronic stroke poses enduring neurological deficits, while experimental strategies based on human induced pluripotent stem cell-derived cortical organoids (COs) remain limited by the lack of tools for longitudinal in vivo graft monitoring. Here, we introduce the Multimodal Imaging Platform for Organoid Tracking (MIPOT), integrating MRI, bioluminescence imaging, surgical microscopy, and intravital two-photon fluorescence microscopy to monitor CO transplantation in chronic stroke lesions in mice. MIPOT enabled confirmation of initial graft placement within cleaned infarct cavities, longitudinal assessment of viability-associated bioluminescence signals, and high-resolution visualization of graft-derived cells and short-term cellular dynamics. Bioluminescence imaging revealed a progressive decline in graft-associated signals that stabilized at approximately 25% by two weeks, while endpoint histology confirmed limited persistence of human graft-derived cells at later time points. Together, MIPOT provides a multimodal framework for monitoring organoid transplantation in the injured brain and supports future optimization of graft survival, maturation, and host-graft integration.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1002/advs.202515913",
+      "date": "2026-07-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447126/"
+    },
+    {
+      "pmid": "42447000",
+      "title": "Protocol for the generation of human medullary spinal trigeminal nucleus-like organoids and trigeminothalamic assembloids.",
+      "abstract": "Nucleus-specific brain organoids enable precise human brain research, yet refined hindbrain models are rare. Here, we present a guided differentiation protocol for generating human medullary spinal trigeminal nucleus-like organoids (hmSpVOs). We describe steps for constructing spinal trigeminal nucleus (SpV)-thalamus assembloids. Moreover, we outline the assays to characterize functional connections within these assembloids. For complete details on the use and execution of this protocol, please refer to Pang et al.1.",
+      "journal": "STAR protocols",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.xpro.2026.104705",
+      "date": "2026-07-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447000/"
+    },
+    {
+      "pmid": "42446987",
+      "title": "Spatiotemporally controlled matrix softening facilitates deterministic crypt formation in human intestinal organoids.",
+      "abstract": "Spatially controlling morphogenesis is a challenge for many organoid systems that manifests as a limited understanding of self-organization of differentiating cells and leads to a high degree of heterogeneity in organoid morphometrics. Current methods to grow organoids rely on temporal presentation of soluble cues that are not controllably delivered, and little is known about the role of the extracellular microenvironment in this process. Here, we present a material-based strategy to spatiotemporally control morphogenesis of human intestinal organoids (HIOs) with predictable crypt morphometrics and cell composition that match their in vivo tissue counterparts. We first optimize culture conditions to generate more reproducible HIOs with predictable growth in phototunable poly (ethylene glycol)-based hydrogels, and then systematically investigate the role of light-mediated matrix softening in guiding crypt formation. The light dose delivered to crypt-sized regions adjacent to growing organoids is a key factor in maintaining organoid cell viability, as well as crypt budding and elongation. With optimized light doses, predictable epithelial shape changes result in programmable crypt formation, confirmed by the presence of proliferative (Ki67+) and niche-defining Paneth (Lyz+) cells. This methodology could be readily adopted for other budding and branching organoids to facilitate controllable changes in morphogenesis or cell migration. Sequential patterning approaches and more complex pattern designs could further open the parameter space to facilitate modeling of a wide array of engineered tissues for applications ranging from fundamental biology to disease modeling and translational medicine.",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1073/pnas.2533029123",
+      "date": "2026-07-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446987/"
+    },
+    {
+      "pmid": "42446981",
+      "title": "Oncogenic snoRNA SNORD78 fuels colorectal cancer by protecting the m6A reader IMP2 to enhance phospholipid metabolism.",
+      "abstract": "Small nucleolar RNAs (snoRNAs) play crucial regulatory roles in various cancers. However, the mechanisms by which snoRNAs regulate N6-methyladenosine (m6A) modifications in colorectal cancer (CRC) remain unclear. This study systematically deciphered the precise interaction mechanism between SNORD78 and the m6A reader IMP2 in CRC. We demonstrate that SNORD78 specifically stabilizes IMP2 to activate the PIK3CD-CHKA-Kennedy pathway in an m6A-dependent manner, promoting endoplasmic reticulum stress (ERS) and phosphatidylcholine (PC) biosynthesis, thereby driving CRC. Conversely, the SNORD78-targeting antisense oligonucleotide (ASO), ASO-78, effectively suppresses ERS and PC levels, inhibiting CRC progression. Mechanistically, SNORD78, relying on the \"UAAUGA\" element in its C-D box region, specifically binds to the Lys221 ubiquitination site of IMP2, blocking TRIM25-mediated degradation of IMP2 and maintaining its stability. IMP2 enhanced the stability and translation of the target mRNAs PIK3CD and CHKA by recognizing their corresponding m6A positions, m6A-3208 and m6A-1619, respectively, to reshape the phosphatidylcholine metabolite profile in CRC cells. In terms of potential therapeutic strategies, the ASO-78 can significantly inhibit CRC cell proliferation, reduce ERS levels, and decrease phosphatidylcholine content. The combination of ASO-78 and IMP2 inhibitor IMP2-IN1, by dual blocking of the SNORD78-IMP2 axis, exhibits an excellent proliferation-inhibiting effect in CRC organoids. This study not only reveals a mechanism by which the SNORD78-IMP2 interaction regulates CRC occurrence and development but also provides theoretical basis for innovative therapeutic strategies for precise targeting of tumor snoRNA-m6A reader interactions.",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1073/pnas.2531283123",
+      "date": "2026-07-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446981/"
+    },
+    {
+      "pmid": "42446979",
+      "title": "Dielectric levitation optical tweezers for powerful mesoscale biomanipulation.",
+      "abstract": "Optical tweezers (OT), a cornerstone of micromanipulation, are fundamentally constrained by substrate-induced adhesion and friction, limiting their application to mesoscale objects and fragile biological specimens where overcoming these resistive forces requires physiologically damaging laser powers. Here, we overcome this long-standing challenge by introducing dielectric levitation optical tweezers (DL-OT), a multiphysics platform that seamlessly integrates alternating-current dielectric levitation with optical traps. By using negative dielectrophoresis (n-DEP) to actively neutralize the normal force, DL-OT eliminates solid-solid contact and near-wall viscous drag. Crucially, we demonstrate the fundamental superiority of this active physical levitation over traditional passive antiadhesion coatings. This physical decoupling enables the smooth translation of large biological samples using low, biologically safe optical powers (~15 mW) rather than nonviable levels (>150 mW). The creation of this frictionless environment not only boosts the maximum manipulation speed of standard microtargets by 40% but also enables the stable optical transport of previously intractable mesoscale objects (100 to 260 μm), including microgears and shrimp eggs. By preventing photothermal damage and mechanical deformation, DL-OT demonstrates very good biocompatibility, significantly enhancing cell viability postmanipulation. Building upon these advantages, we demonstrate advanced on-chip biofabrication protocols through the targeted, high-precision assembly of multicellular spheroids and the safe transport of patient-derived organoids, followed by their success in situ culture. By transforming OT from a microscale tool into a mesoscale assembly platform, DL-OT paves the way for breakthroughs in tissue engineering, regenerative medicine, and the bottom-up assembly of living systems.",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1073/pnas.2533103123",
+      "date": "2026-07-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446979/"
+    },
     {
       "pmid": "42446827",
       "title": "Functional noncoding variants within the TBX1 enhancer contribute to tetralogy of Fallot.",
@@ -53,67 +113,16 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446827/"
     },
     {
-      "pmid": "42446805",
-      "title": "Generation of synthetic vascular organoids via orthogonal programming of human pluripotent stem cells.",
-      "abstract": "The development of functional human vasculature is essential for tissue engineering, disease modeling, and regenerative medicine. Conventional differentiation protocols of vascular lineages often exhibit lineage heterogeneity and limited control over cellular ratios. Here, we describe a protocol for generating vascular organoids (VOs) via orthogonal forward programming of hPSCs. By utilizing doxycycline-inducible activation of the transcription factors ETV2 and NKX3.1, hPSCs are rapidly directed toward endothelial and mural cell lineages, respectively. This strategy enables the assembly of VOs with precisely tunable cellular compositions within six days. When combined with fluorescent reporter lines (PECAM1-mRuby3 and ACTA2-EGFP), vascular networks can be visualized in real time without the need for tissue clearing or immunostaining. We detail procedures for stable cell line engineering, 3D organoid assembly, in vitro angiogenesis assays for drug screening, and in vivo transplantation under the mouse kidney capsule to form perfusable human vasculature. This platform provides a flexible, standardized, and scalable tool for investigating vascular biology, modeling inherited vasculopathies, and enhancing the vascularization of co-transplant tissues.",
-      "journal": "Cell regeneration (London, England)",
+      "pmid": "42447329",
+      "title": "Fetal myogenesis chromatin state and CpG from the open alliance markers and their intersection with adult muscle and gastrointestinal genetics.",
+      "abstract": "Epigenetic inheritance links fetal chromatin organization and CpG methylation to lifelong tissue phenotypes. We tested the Fetal Chromatin-CpG Developmental Blueprint (FCCD-B) model, proposing that fetal chromatin states shaped by maternal nutrient and transcription factor networks establish regulatory programs preserved in adult traits. We integrated 21 970 fetal single-cell transcriptomes with chromatin accessibility data, including 130 myogenic cells. Adult GWAS datasets included 1614 appendicular lean mass (ALM) loci and 445 grip strength loci. Fine-mapping, colocalization, and gene regulatory networks were inferred using GRNBoost2, Enformer, and Basenji, alongside virtual-cell simulations of nutrient and stress perturbations. ALM and grip strength showed strong genetic correlation (rg = 0.49; Z = 26). Fine-mapping identified 1355 high-confidence ALM loci (median PIP = 0.91). A total of 2935 shared GWAS-eQTL variants overlapped fetal chromatin, with 70-88% accessibility preserved in endothelial and cardiomyocyte lineages. A SMAD3-centered TGF-β network (50 targets) was identified. Simulations showed that vitamin D, folate, and oxidative stress increased myofibril index (+0.141), epithelial regeneration (+0.035), and combined effects (+0.147). Persistent fetal chromatin and CpG architectures encode regulatory programs linking maternal environment to adult phenotypes, supporting the FCCD-B model as a predictive framework for developmental epigenetics.",
+      "journal": "Human molecular genetics",
       "publicationTypes": [
         "Journal Article"
       ],
-      "doi": "10.1186/s13619-026-00298-6",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446805/"
-    },
-    {
-      "pmid": "42446380",
-      "title": "Rodent models and accompanying in vitro strategies for studying the etiology and therapy of Parkinson's disease.",
-      "abstract": "The lack of disease-modifying therapies for Parkinson's disease (PD) places a severe burden on patients, their caregivers and aging societies. While the incomplete knowledge of underlying causes and pathophysiology remains a major bottleneck towards the development of rational therapies, there have been important advances in our understanding of neurodegenerative processes. Here, animal models have contributed substantially by allowing researchers to decipher PD-relevant pathology and the development of corresponding behavioral signs, which enabled development and refinement of treatment options. Without animal models, hypotheses of mechanisms underlying the development of motor symptoms after dopamine depletion, dyskinesia as side effects, the impact of diverse environmental neurotoxins, or the formation of alpha-synuclein pathology and spreading could not have been conclusively tested. Likewise, novel technologies are enabling the use of patient derived tissues for generating in vitro models that further enhance our understanding of mechanisms and of the effects of specific genetic modifications and their role in neurodegeneration. However, animal models are, as of yet, still required to model a fully functional central nervous system connected to the immune system and peripheral organs, which are impacted by the diversity of PD pathology and symptoms. Here, we provide an overview of key contributions of animal models, their ongoing role in PD research, and how this research can be enhanced by the concomitant use of advanced in vitro systems.",
-      "journal": "Journal of Parkinson's disease",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1177/1877718X261463389",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446380/"
-    },
-    {
-      "pmid": "42446105",
-      "title": "Strategies for the Selection and Application of Biological Scaffolds in Organ-on-a-Chip Systems.",
-      "abstract": "As an emerging microphysiological system, organ-on-a-chip (OoC) replicates human organ structures and functions through microfabrication, holding promise as novel platforms for drug screening, disease modeling, and toxicity testing, although their broad application still faces significant validation challenges. This review systematically examines biomimetic scaffold selection strategies in OoC systems, with a focus on hydrogels, hydrogel microspheres, and other scaffold types. It details chip fabrication processes, including design concepts, material selection, microfabrication technology, and cell sources. By comparing physicochemical properties, biocompatibility, and functional characteristics of different materials, this paper explores optimal scaffold strategies for specific organ simulations. Based on comprehensive analysis, hydrogel scaffolds have become widely adopted for OoC construction due to their excellent biocompatibility and extracellular matrix-like properties. Synthetic polymers and bioceramic scaffolds demonstrate significant value in meeting specific mechanical requirements and constructing complex microstructures. As a novel hydrogel form, hydrogel microspheres exhibit considerable potential in dynamic culture simulation and drug delivery owing to their high specific surface area and controllable release capabilities. This paper also discusses future directions, including personalized scaffold design, intelligent responsive materials, and multiorgan coupling systems, providing theoretical guidance for advancing OoC technology.",
-      "journal": "Chembiochem : a European journal of chemical biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1002/cbic.70464",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446105/"
-    },
-    {
-      "pmid": "42445940",
-      "title": "An interview with Alex Hughes.",
-      "abstract": "Alex Hughes is an Associate Professor of Bioengineering at the University of Pennsylvania, USA, using in vitro organoid models of the developing human kidney to study organogenesis from an engineering perspective. This year, Alex is a Guest Editor for Development's special issue on the extracellular environment, which highlights the contribution of non-cellular components in instructing development. We caught up with Alex over Teams to discuss the importance of the extracellular environment and the challenges it poses to classical experimental design.",
-      "journal": "Development (Cambridge, England)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1242/dev.205923",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42445940/"
-    },
-    {
-      "pmid": "42445193",
-      "title": "Traditional Chinese medicine as a potential barrier-oriented sensitization strategy for immune checkpoint blockade in microsatellite-stable colorectal cancer: from resistance mechanisms to translational validation.",
-      "abstract": "Microsatellite-stable colorectal cancer (MSS-CRC) is refractory to immune checkpoint inhibitors (ICIs), mainly because of low tumor immunogenicity, impaired antigen presentation, immune exclusion, and myeloid- or Treg-dominated immunosuppression. Traditional Chinese medicine (TCM), characterized by multi-component and multi-target regulation, may provide complementary approaches for modulating these resistance barriers. This review summarizes the rationale, evidence, and translational requirements for integrating TCM with ICI-based therapy in MSS-CRC. To evaluate the potential of TCM to regulate immune-resistance mechanisms in MSS-CRC and to propose a barrier-oriented framework for rational TCM-ICI combination strategies. A structured narrative review was conducted in PubMed, Web of Science, Embase, Scopus, CNKI, and Wanfang for studies published from January 2019 to March 2026. Searches covered MSS/pMMR CRC, immune checkpoint blockade, TCM interventions, tumor microenvironment, microbiota, immunometabolism, syndrome patterns, active constituents, and herbal quality control. Eligible studies addressed MSS/pMMR CRC immunotherapy, TCM or phytomedicine-based interventions, or immune-resistance mechanisms. Direct MSS/pMMR CRC studies involving ICI combinations were prioritized, while broader CRC, cross-cancer, pharmacological, and computational studies were used as supportive evidence. Selected TCM interventions may improve ICI responsiveness in MSS-CRC when matched to specific resistance barriers. Representative interventions include Zhenqi Fuzheng Granules, Shenqi Yichang Formula, Gegen Qinlian Decoction, modified Shenling Baizhu San, Changweiqing, and electroacupuncture-related evidence. These interventions have been linked to immunometabolic remodeling, dendritic-cell mitophagy and antigen presentation, microbiota-driven TME remodeling, Tfh-B-cell interactions, and STING-dependent immune activation. However, direct formula-specific clinical evidence for ICI sensitization in molecularly defined MSS-CRC remains limited. Clinical-translational evidence includes an early phase II study of electroacupuncture combined with fruquintinib and sintilimab in refractory MSS-mCRC, whereas most herbal-formula evidence remains preclinical or indirect. We therefore propose matching TCM interventions and active ingredients to dominant immune-resistance phenotypes and integrating syndrome-informed host-state stratification. These hypotheses require validation using causal assays, organoid-immune co-culture, single-cell/spatial omics, pharmacological standardization, and biomarker-enriched clinical trials. TCM may serve as a complementary, mechanism-informed candidate sensitization strategy for MSS-CRC immunotherapy, but it is not an established standard combination approach. Future translation requires formula-specific and component-level validation, reproducible immune and microbiota-metabolic biomarkers, TCM syndrome assessment, herbal quality control, safety monitoring, and clinically meaningful outcomes.",
-      "journal": "Frontiers in immunology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.3389/fimmu.2026.1874066",
-      "date": "2026-06-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42445193/"
+      "doi": "10.1093/hmg/ddag062",
+      "date": "2026-06-06",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447329/"
     },
     {
       "pmid": "42444608",
@@ -177,17 +186,16 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42412811/"
     },
     {
-      "pmid": "42400328",
-      "title": "Why next-generation mechanistic models will transform drug discovery: integrating efficacy and safety.",
-      "abstract": "Drug discovery remains constrained by high attrition rates and the fragmented evaluation of exposure, efficacy, and safety. Mechanistic models offer a biologically grounded framework for connecting these determinants across multiple levels of biological organization. This may help improve translational decision-making by supporting earlier and more integrated assessment of candidate progression. This narrative review examines the conceptual basis and current role of next-generation mechanistic models in drug discovery, with emphasis on physiologically based pharmacokinetic models, virtual cell-based assays, quantitative systems pharmacology, artificial intelligence (AI)-augmented mechanistic models, and emerging virtual-cell frameworks. It highlights how these approaches may connect efficacy and safety across biological scales, support in vitro-to-in vivo extrapolation, incorporate in silico predictions, and improve candidate prioritization. The literature was surveyed through PubMed searches conducted up to 25 May 2026. Next-generation mechanistic models are unlikely to transform drug discovery simply by increasing biological detail or computational sophistication. Progress in this direction will depend on standardized data streams, robust validation, explicit model calibration, reproducibility, tighter integration between models, and careful alignment between model design and context of use. Under these conditions, mechanistic frameworks may become important components of a more predictive and less attrition-prone drug discovery pipeline.",
-      "journal": "Expert opinion on drug discovery",
+      "pmid": "42447285",
+      "title": "Iterative Interaction Fingerprints-Guided Multiobjective Molecular Generation.",
+      "abstract": "Structure-based molecular generation has made substantial progress in recent years, yet methods for multiobjective optimization remain lacking. Here, we introduce IFPGen, a framework for interaction fingerprints-guided multiobjective molecular generation. It integrates a conditional diffusion model for molecular generation guided by interaction fingerprints within an iterative optimization loop that refines the search for molecules with an optimal balance across multiple objectives. On test sets, IFPGen outperforms baseline models in generating molecules with interaction patterns that closely resemble those of reference ligands. IFPGen effectively achieves multiobjective optimization by dynamically updating reference ligands and interaction patterns during the optimization process. IFPGen was employed for lead optimization of an inhibitor targeting human glutaminyl cyclases, leading to the identification of a series of new inhibitors. The most potent inhibitor exhibited a substantial improvement in potency, likely due to the establishment of predefined hydrogen-bonding interactions.",
+      "journal": "Journal of chemical information and modeling",
       "publicationTypes": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ],
-      "doi": "10.1080/17460441.2026.2699304",
-      "date": "2026-07-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42400328/"
+      "doi": "10.1021/acs.jcim.6c00955",
+      "date": "2026-07-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447285/"
     },
     {
       "pmid": "42445758",
@@ -253,16 +261,16 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42439322/"
     },
     {
-      "pmid": "42439276",
-      "title": "Deep Learning Models Capture Umbrella Sampling-Derived Energetic Trends: A Troponin C Case Study.",
-      "abstract": "Deep learning models have transformed several fields lately. In the past, capturing thermodynamic trends from free energies has relied on computationally expensive and time-consuming umbrella sampling simulations for dynamic proteins. Here, we investigate whether modern deep learning protein design methods (ProteinMPNN and ThermoMPNN) can obtain comparable energetic readouts more expeditiously. As a case study we use Troponin C (TnC) as a model system. TnC plays a central role in regulating muscle contraction through calcium-induced hydrophobic patch opening, transitioning between closed and open conformations. Disease associated mutations and isoform specific differences in TnC modulate this process by altering the free energies of hydrophobic patch opening. From ThermoMPNN, we quantified the free-energy differences associated with disease-linked variants in both open and closed states of cardiac TnC and compared with umbrella sampling results for the free energy of hydrophobic patch opening. We found a strong correlation with an R2 value of 0.82 between ThermoMPNN and umbrella sampling values for hydrophobic patch opening. The model accurately captured the lowered free energy of hydrophobic patch opening caused by hypertrophic cardiomyopathy (HCM) and designed calcium sensitizing mutations. In these cases, the average of difference in ThermoMPNN ΔΔG values between the ensemble of closed and open structures was positive for 6/7 mutations (ΔΔGclosed - ΔΔGopen > 0), indicating that the open structure is relatively more favorable than the closed state. Conversely, the model captured the increased free energy of hydrophobic patch opening caused by dilated cardiomyopathy (DCM) and designed calcium desensitizing mutations. Here the difference in the ThermoMPNN ΔΔG values between the closed and open structures was negative for 5/5 mutations (ΔΔGclosed - ΔΔGopen < 0), indicating the closed structure is relatively more favorable than the open state. We also showed that ProteinMPNN sequence probabilities distinguished isoform specific conformational preferences, correctly identifying skeletal TnC to favor a more open conformation compared to cardiac TnC. These observations were also consistent with previous umbrella sampling study. Together, these results demonstrate that deep learning frameworks have the potential to serve as viable alternative to traditional free energy methods like umbrella sampling to accurately determine trends in isoform-specific and mutational effects in TnC. More broadly, our findings highlight the potential of deep learning-based metrics to guide the design of calcium sensitizing and desensitizing mutations in TnC.",
-      "journal": "Journal of chemical information and modeling",
+      "pmid": "42447248",
+      "title": "Methylation-based Liquid Biopsy Facilitates Early Detection of Small Cell Transformation in ALK-rearranged Non-Small Cell Lung Cancer.",
+      "abstract": "Histologic transformation from non-small cell lung cancer (NSCLC) to small cell lung cancer (SCLC) is a rare mechanism of resistance in anaplastic lymphoma kinase (ALK)-rearranged disease. Diagnosis is traditionally dependent on tissue biopsy, which may be limited by lesion accessibility and low disease burden. We report a case of ALK-rearranged lung adenocarcinoma that underwent small cell transformation, in which methylation-based circulating cell-free DNA (cfDNA) analysis detected a small cell lung cancer signature five months prior to tissue confirmation. Serial liquid biopsies demonstrated dynamic changes in tumor fraction and histologic composition that correlated with response to chemoradiation and continuation of ALK-directed therapy. This case highlights the potential utility of methylation-based liquid biopsy for early detection and longitudinal monitoring of histologic transformation in oncogene-driven NSCLC.",
+      "journal": "The oncologist",
       "publicationTypes": [
         "Journal Article"
       ],
-      "doi": "10.1021/acs.jcim.6c01925",
-      "date": "2026-07-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42439276/"
+      "doi": "10.1093/oncolo/oyag271",
+      "date": "2026-07-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447248/"
     },
     {
       "pmid": "42446136",
@@ -326,115 +334,20 @@
       "doi": "10.1080/08880018.2026.2696405",
       "date": "2026-07-14",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42444346/"
-    },
-    {
-      "pmid": "42443915",
-      "title": "Exploring platelet-covered and naked circulating tumor cells - a single-cell transcriptomic perspective.",
-      "abstract": "Circulating tumor cells (CTCs) and platelets might be collected simultaneously during liquid biopsy; however, their interaction in the form of platelet-covered CTCs (pcCTCs) remains only partially understood. In this study, we aimed to detect and characterize pcCTCs using single-cell data from peripheral blood mononuclear cells (PBMCs) and to compare their transcriptomic profiles with naked CTCs and platelets. We analyzed 22 samples (10 from breast cancer patients and 12 from ovarian cancer patients) and 7 controls (3 non-malignant samples and 4 healthy donors) to identify candidate CTCs and pcCTCs. We identified 12 candidate CTCs: 5 naked CTCs and 7 pcCTCs in 5 patients in total. We next examined genes associated with epithelial-mesenchymal transition (EMT), angiogenesis, extracellular matrix organization, and platelet activation, signaling, and aggregation. These pathways were found to be upregulated in pcCTCs exhibiting the highest platelet-associated signal. We computed scores for epithelial and mesenchymal CTC phenotypes, platelet-related signatures, and gene sets associated with ovarian and breast cancer CTCs. Transcriptomic analysis revealed that platelet cloaking significantly influences genes connected with CTCs survival in the bloodstream and metastatic progression.",
-      "journal": "Journal of translational medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1186/s12967-026-08612-1",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443915/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42446805",
+      "id": "pubmed-42447126",
       "date": "2026-07-14",
-      "title": "Generation of synthetic vascular organoids via orthogonal programming of human pluripotent stem cells.",
+      "title": "Intravital Multimodal Imaging of Human Cortical Organoid Transplantation in a Mouse Model of Chronic Stroke.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446805/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Cell regeneration (London, England)，PMID 为 42446805。",
-      "report": "The development of functional human vasculature is essential for tissue engineering, disease modeling, and regenerative medicine. Conventional differentiation protocols of vascular lineages often exhibit lineage heterogeneity and limited control over cellular...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42446380",
-      "date": "2026-07-14",
-      "title": "Rodent models and accompanying in vitro strategies for studying the etiology and therapy of Parkinson's disease.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446380/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Journal of Parkinson's disease，PMID 为 42446380。",
-      "report": "The lack of disease-modifying therapies for Parkinson's disease (PD) places a severe burden on patients, their caregivers and aging societies. While the incomplete knowledge of underlying causes and pathophysiology remains a major bottleneck towards the develo...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42446105",
-      "date": "2026-07-14",
-      "title": "Strategies for the Selection and Application of Biological Scaffolds in Organ-on-a-Chip Systems.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446105/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Chembiochem : a European journal of chemical biology，PMID 为 42446105。",
-      "report": "As an emerging microphysiological system, organ-on-a-chip (OoC) replicates human organ structures and functions through microfabrication, holding promise as novel platforms for drug screening, disease modeling, and toxicity testing, although their broad applic...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42445940",
-      "date": "2026-07-14",
-      "title": "An interview with Alex Hughes.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42445940/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447126/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -446,9 +359,182 @@
         "类器官",
         "疾病模型"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Development (Cambridge, England)，PMID 为 42445940。",
-      "report": "Alex Hughes is an Associate Professor of Bioengineering at the University of Pennsylvania, USA, using in vitro organoid models of the developing human kidney to study organogenesis from an engineering perspective. This year, Alex is a Guest Editor for Developm...",
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42447126。",
+      "report": "Chronic stroke poses enduring neurological deficits, while experimental strategies based on human induced pluripotent stem cell-derived cortical organoids (COs) remain limited by the lack of tools for longitudinal in vivo graft monitoring. Here, we introduce t...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42447000",
+      "date": "2026-07-14",
+      "title": "Protocol for the generation of human medullary spinal trigeminal nucleus-like organoids and trigeminothalamic assembloids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447000/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42447000。",
+      "report": "Nucleus-specific brain organoids enable precise human brain research, yet refined hindbrain models are rare. Here, we present a guided differentiation protocol for generating human medullary spinal trigeminal nucleus-like organoids (hmSpVOs). We describe steps...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42446987",
+      "date": "2026-07-14",
+      "title": "Spatiotemporally controlled matrix softening facilitates deterministic crypt formation in human intestinal organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446987/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42446987。",
+      "report": "Spatially controlling morphogenesis is a challenge for many organoid systems that manifests as a limited understanding of self-organization of differentiating cells and leads to a high degree of heterogeneity in organoid morphometrics. Current methods to grow...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42446981",
+      "date": "2026-07-14",
+      "title": "Oncogenic snoRNA SNORD78 fuels colorectal cancer by protecting the m6A reader IMP2 to enhance phospholipid metabolism.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446981/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42446981。",
+      "report": "Small nucleolar RNAs (snoRNAs) play crucial regulatory roles in various cancers. However, the mechanisms by which snoRNAs regulate N6-methyladenosine (m6A) modifications in colorectal cancer (CRC) remain unclear. This study systematically deciphered the precis...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42446979",
+      "date": "2026-07-14",
+      "title": "Dielectric levitation optical tweezers for powerful mesoscale biomanipulation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446979/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42446979。",
+      "report": "Optical tweezers (OT), a cornerstone of micromanipulation, are fundamentally constrained by substrate-induced adhesion and friction, limiting their application to mesoscale objects and fragile biological specimens where overcoming these resistive forces requir...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42447285",
+      "date": "2026-07-14",
+      "title": "Iterative Interaction Fingerprints-Guided Multiobjective Molecular Generation.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447285/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Journal of chemical information and modeling，PMID 为 42447285。",
+      "report": "Structure-based molecular generation has made substantial progress in recent years, yet methods for multiobjective optimization remain lacking. Here, we introduce IFPGen, a framework for interaction fingerprints-guided multiobjective molecular generation. It i...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42447248",
+      "date": "2026-07-14",
+      "title": "Methylation-based Liquid Biopsy Facilitates Early Detection of Small Cell Transformation in ALK-rearranged Non-Small Cell Lung Cancer.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447248/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 The oncologist，PMID 为 42447248。",
+      "report": "Histologic transformation from non-small cell lung cancer (NSCLC) to small cell lung cancer (SCLC) is a rare mechanism of resistance in anaplastic lymphoma kinase (ALK)-rearranged disease. Diagnosis is traditionally dependent on tissue biopsy, which may be lim...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -511,37 +597,6 @@
       "fact": "PubMed 记录显示该文献收录于 Pediatric hematology and oncology，PMID 为 42444346。",
       "report": "Rhabdomyosarcoma is the third most common extracranial solid tumor of childhood. Despite extensive research over the preceding decades, prognosis in children with metastatic or recurrent disease remains very poor with overall 5-year survival rates under 20%. L...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42443915",
-      "date": "2026-07-14",
-      "title": "Exploring platelet-covered and naked circulating tumor cells - a single-cell transcriptomic perspective.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443915/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42443915。",
-      "report": "Circulating tumor cells (CTCs) and platelets might be collected simultaneously during liquid biopsy; however, their interaction in the form of platelet-covered CTCs (pcCTCs) remains only partially understood. In this study, we aimed to detect and characterize...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -627,34 +682,6 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Accounts of chemical research，PMID 为 42439322。",
       "report": "ConspectusThiamine diphosphate (ThDP)-dependent enzymes are among nature's most elegant biocatalysts for C-C bond formation and cleavage, typically operating through a two-electron umpolung mechanism. Although a small subset of ThDP enzymes, such as pyruvate:...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42439276",
-      "date": "2026-07-13",
-      "title": "Deep Learning Models Capture Umbrella Sampling-Derived Energetic Trends: A Troponin C Case Study.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42439276/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Journal of chemical information and modeling，PMID 为 42439276。",
-      "report": "Deep learning models have transformed several fields lately. In the past, capturing thermodynamic trends from free energies has relied on computationally expensive and time-consuming umbrella sampling simulations for dynamic proteins. Here, we investigate whet...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -757,43 +784,6 @@
       "fact": "PubMed 记录显示该文献收录于 Science China. Life sciences，PMID 为 42446827。",
       "report": "The TBX1 deletion is frequently observed in patients with tetralogy of Fallot (TOF), the most prevalent cyanotic congenital heart defect (CHD); however, the role of noncoding variants in its regulatory region remains unclear. We performed whole-genome sequenci...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42400328",
-      "date": "2026-07-08",
-      "title": "Why next-generation mechanistic models will transform drug discovery: integrating efficacy and safety.",
-      "entity": "Virtual Cell Model",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "Virtual Cell / Cell Foundation Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42400328/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Virtual Cell",
-        "AI for Biology",
-        "Multi-omics",
-        "Drug Discovery",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "虚拟细胞",
-        "细胞基础模型",
-        "多组学",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "临床",
-        "监管"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Expert opinion on drug discovery，PMID 为 42400328。",
-      "report": "Drug discovery remains constrained by high attrition rates and the fragmented evaluation of exposure, efficacy, and safety. Mechanistic models offer a biologically grounded framework for connecting these determinants across multiple levels of biological organi...",
-      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -947,41 +937,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42445193",
-      "date": "2026-06-29",
-      "title": "Traditional Chinese medicine as a potential barrier-oriented sensitization strategy for immune checkpoint blockade in microsatellite-stable colorectal cancer: from resistance mechanisms to translational validation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42445193/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤",
-        "多组学"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42445193。",
-      "report": "Microsatellite-stable colorectal cancer (MSS-CRC) is refractory to immune checkpoint inhibitors (ICIs), mainly because of low tumor immunogenicity, impaired antigen presentation, immune exclusion, and myeloid- or Treg-dominated immunosuppression. Traditional C...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42445727",
       "date": "2026-06-29",
       "title": "Identification and validation of bile exosomal microRNA signatures for diagnosing acute rejection in liver transplant recipients.",
@@ -1038,6 +993,35 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42440565。",
       "report": "Respiratory syncytial virus (RSV) is a major cause of severe lower respiratory tract disease (LRTD) in infants and older adults worldwide. Although vaccines based on the fusion (F) protein have shown progress, their efficacy remains limited by antigenic instab...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42447329",
+      "date": "2026-06-06",
+      "title": "Fetal myogenesis chromatin state and CpG from the open alliance markers and their intersection with adult muscle and gastrointestinal genetics.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447329/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
+      ],
+      "tags": [
+        "临床",
+        "监管",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Human molecular genetics，PMID 为 42447329。",
+      "report": "Epigenetic inheritance links fetal chromatin organization and CpG methylation to lifelong tissue phenotypes. We tested the Fetal Chromatin-CpG Developmental Blueprint (FCCD-B) model, proposing that fetal chromatin states shaped by maternal nutrient and transcr...",
+      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
