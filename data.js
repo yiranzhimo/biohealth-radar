@@ -1049,6 +1049,79 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "pubmed-42447954",
+      "date": "2026-07-14",
+      "title": "Patient-derived cornea organoids as drug repurposing models for aniridia-associated keratopathy.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447954/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42447954。",
+      "report": "This study aims to investigate the efficacy of drug repurposing using a corneal organoid model developed from patient-derived iPSCs and to elucidate the pathophysiology of Aniridia-Associated Keratopathy (AAK). A 90-day stepwise differentiation protocol was us...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0b64e1550a4c7137006a5715763c2c81a2a9b3db91070ed4a5",
+        "reviewedAt": "2026-07-15T05:06:33.748868+00:00",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献关注药物重新利用的效果，可能存在对药物效果的隐含结论，需要进一步审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类可能过于模糊，未明确指涉具体的临床或研究结论。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "中等证据级别未能有效支持所有声明，尤其是关于药物效果的暗示。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42447954。",
+          "report": "This study aims to investigate the efficacy of drug repurposing using a corneal organoid model developed from patient-derived iPSCs and to elucidate the pathophysiology of Aniridia-Associated Keratopathy (AAK). A 90-day stepwise differentiation protocol was us...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42447803",
       "date": "2026-07-14",
       "title": "Pemetrexed potentiates γδ T cell-based immunotherapy in NSCLC through ATM-STING-NF-κB-mediated induction of NKG2D ligands.",
@@ -1203,79 +1276,6 @@ window.BHR_DATA = {
           "report": "Gastric cancer develops through a sequential carcinogenic process beginning with pyloric metaplasia, a key feature of which is the transdifferentiation of gastric chief cells into spasmolytic polypeptide-expressing metaplastic (SPEM) cells. We found that SOX9,...",
           "inference": "该分类仅用于情报分流，未能代表临床结论的有效性。",
           "unknown": "有必要确认研究的质量、样本量和潜在的利益冲突，以提高证据水平的合理性。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42447954",
-      "date": "2026-07-14",
-      "title": "Patient-derived cornea organoids as drug repurposing models for aniridia-associated keratopathy.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447954/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42447954。",
-      "report": "This study aims to investigate the efficacy of drug repurposing using a corneal organoid model developed from patient-derived iPSCs and to elucidate the pathophysiology of Aniridia-Associated Keratopathy (AAK). A 90-day stepwise differentiation protocol was us...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0b64e1550a4c7137006a5715763c2c81a2a9b3db91070ed4a5",
-        "reviewedAt": "2026-07-15T05:06:33.748868+00:00",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献关注药物重新利用的效果，可能存在对药物效果的隐含结论，需要进一步审查。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类可能过于模糊，未明确指涉具体的临床或研究结论。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "中等证据级别未能有效支持所有声明，尤其是关于药物效果的暗示。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42447954。",
-          "report": "This study aims to investigate the efficacy of drug repurposing using a corneal organoid model developed from patient-derived iPSCs and to elucidate the pathophysiology of Aniridia-Associated Keratopathy (AAK). A 90-day stepwise differentiation protocol was us...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },

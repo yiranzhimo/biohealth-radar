@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-15T05:06:24.980965+00:00",
+  "capturedAt": "2026-07-15T08:37:56.568750+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -16,10 +16,10 @@
   "pmids": [
     "42448953",
     "42448724",
+    "42447954",
     "42447803",
     "42447744",
     "42448241",
-    "42447954",
     "42447329",
     "42444608",
     "42431103",
@@ -78,6 +78,24 @@
       "doi": "10.1038/s41536-026-00483-w",
       "date": "2026-07-14",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42448724/"
+    },
+    {
+      "pmid": "42447954",
+      "title": "Patient-derived cornea organoids as drug repurposing models for aniridia-associated keratopathy.",
+      "abstract": "This study aims to investigate the efficacy of drug repurposing using a corneal organoid model developed from patient-derived iPSCs and to elucidate the pathophysiology of Aniridia-Associated Keratopathy (AAK). A 90-day stepwise differentiation protocol was used to generate corneal organoids from iPSC cell lines developed from aniridia patients and healthy control. The corneal organoids produced were characterized using histology, immunofluorescence, qPCR, western blot, and transcriptomics. Two known agents, Duloxetine and Ataluren, were tested for corneal organoids for the restoring PAX6 protein expression. Histological analyses showed that the corneal organoids had a similar architecture to the native corneal tissue. Corneal epithelial, stromal, and endothelial cell biomarker staining showed positive expressions. AAK corneal organoids exhibited features that indicate the AAK disease phenotype, such as thickening of the epithelial cell layers and decrease in expressions of PAX6, ΔNP63, and keratocan genes. An increase in PAX6 protein was observed in organoids produced from AAK1 after duloxetine treatment and in organoids produced from AAK2 following ataluren treatment. AAK3 did not respond to either agent, indicating that there was no mutation-specific drug activity. Transcriptomic analyses showed clear corneal differentiation and absence of retina or lens profile in organoids. This study presents patient-specific organoid models for AAK using iPSCs and offers insight into mutation effects and PAX6 restoration following drug repurposing. The findings form the basis of personalized treatments for congenital aniridia.",
+      "journal": "Life sciences",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "İzmir Biomedicine and Genome Center, 35340, İzmir, Türkiye; İzmir International Biomedicine and Genome Institute, Dokuz Eylül University, 35340, İzmir, Türkiye.",
+        "Science for Life Laboratory, KTH - Royal Institute of Technology, Stockholm, SE-100 44, Sweden; Centre for Host-Microbiome Interactions, Faculty of Dentistry, Oral & Craniofacial Sciences, King's College London, London, SE1 9RT, UK.",
+        "İzmir Biomedicine and Genome Center, 35340, İzmir, Türkiye; Department of Ophthalmology, Dokuz Eylül University Hospital, Dokuz Eylül University, İzmir, Türkiye.",
+        "İzmir Biomedicine and Genome Center, 35340, İzmir, Türkiye; İzmir International Biomedicine and Genome Institute, Dokuz Eylül University, 35340, İzmir, Türkiye; Department of Medical Biology and Genetics, Faculty of Medicine, Dokuz Eylül University, 35340, İzmir, Türkiye. Electronic address: sinan.guven@ibg.edu.tr."
+      ],
+      "doi": "10.1016/j.lfs.2026.124586",
+      "date": "2026-07-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447954/"
     },
     {
       "pmid": "42447803",
@@ -142,24 +160,6 @@
       "doi": "10.1053/j.gastro.2026.06.024",
       "date": "2026-07-14",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42448241/"
-    },
-    {
-      "pmid": "42447954",
-      "title": "Patient-derived cornea organoids as drug repurposing models for aniridia-associated keratopathy.",
-      "abstract": "This study aims to investigate the efficacy of drug repurposing using a corneal organoid model developed from patient-derived iPSCs and to elucidate the pathophysiology of Aniridia-Associated Keratopathy (AAK). A 90-day stepwise differentiation protocol was used to generate corneal organoids from iPSC cell lines developed from aniridia patients and healthy control. The corneal organoids produced were characterized using histology, immunofluorescence, qPCR, western blot, and transcriptomics. Two known agents, Duloxetine and Ataluren, were tested for corneal organoids for the restoring PAX6 protein expression. Histological analyses showed that the corneal organoids had a similar architecture to the native corneal tissue. Corneal epithelial, stromal, and endothelial cell biomarker staining showed positive expressions. AAK corneal organoids exhibited features that indicate the AAK disease phenotype, such as thickening of the epithelial cell layers and decrease in expressions of PAX6, ΔNP63, and keratocan genes. An increase in PAX6 protein was observed in organoids produced from AAK1 after duloxetine treatment and in organoids produced from AAK2 following ataluren treatment. AAK3 did not respond to either agent, indicating that there was no mutation-specific drug activity. Transcriptomic analyses showed clear corneal differentiation and absence of retina or lens profile in organoids. This study presents patient-specific organoid models for AAK using iPSCs and offers insight into mutation effects and PAX6 restoration following drug repurposing. The findings form the basis of personalized treatments for congenital aniridia.",
-      "journal": "Life sciences",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "İzmir Biomedicine and Genome Center, 35340, İzmir, Türkiye; İzmir International Biomedicine and Genome Institute, Dokuz Eylül University, 35340, İzmir, Türkiye.",
-        "Science for Life Laboratory, KTH - Royal Institute of Technology, Stockholm, SE-100 44, Sweden; Centre for Host-Microbiome Interactions, Faculty of Dentistry, Oral & Craniofacial Sciences, King's College London, London, SE1 9RT, UK.",
-        "İzmir Biomedicine and Genome Center, 35340, İzmir, Türkiye; Department of Ophthalmology, Dokuz Eylül University Hospital, Dokuz Eylül University, İzmir, Türkiye.",
-        "İzmir Biomedicine and Genome Center, 35340, İzmir, Türkiye; İzmir International Biomedicine and Genome Institute, Dokuz Eylül University, 35340, İzmir, Türkiye; Department of Medical Biology and Genetics, Faculty of Medicine, Dokuz Eylül University, 35340, İzmir, Türkiye. Electronic address: sinan.guven@ibg.edu.tr."
-      ],
-      "doi": "10.1016/j.lfs.2026.124586",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447954/"
     },
     {
       "pmid": "42447329",
@@ -595,6 +595,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42447954",
+      "date": "2026-07-14",
+      "title": "Patient-derived cornea organoids as drug repurposing models for aniridia-associated keratopathy.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447954/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42447954。",
+      "report": "This study aims to investigate the efficacy of drug repurposing using a corneal organoid model developed from patient-derived iPSCs and to elucidate the pathophysiology of Aniridia-Associated Keratopathy (AAK). A 90-day stepwise differentiation protocol was us...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42447803",
       "date": "2026-07-14",
       "title": "Pemetrexed potentiates γδ T cell-based immunotherapy in NSCLC through ATM-STING-NF-κB-mediated induction of NKG2D ligands.",
@@ -657,36 +687,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Gastroenterology，PMID 为 42448241。",
       "report": "Gastric cancer develops through a sequential carcinogenic process beginning with pyloric metaplasia, a key feature of which is the transdifferentiation of gastric chief cells into spasmolytic polypeptide-expressing metaplastic (SPEM) cells. We found that SOX9,...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42447954",
-      "date": "2026-07-14",
-      "title": "Patient-derived cornea organoids as drug repurposing models for aniridia-associated keratopathy.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447954/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42447954。",
-      "report": "This study aims to investigate the efficacy of drug repurposing using a corneal organoid model developed from patient-derived iPSCs and to elucidate the pathophysiology of Aniridia-Associated Keratopathy (AAK). A 90-day stepwise differentiation protocol was us...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
