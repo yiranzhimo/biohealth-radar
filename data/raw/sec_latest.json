@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-15T08:38:06.273954+00:00",
+  "capturedAt": "2026-07-15T19:38:48.643790+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-07-01",
@@ -139,6 +139,56 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-07-15",
+      "reportDate": "2026-07-15",
+      "acceptanceDateTime": "2026-07-15T07:30:04.000Z",
+      "act": "34",
+      "form": "6-K",
+      "fileNumber": "001-39307",
+      "filmNumber": "261175874",
+      "items": "",
+      "size": 14714,
+      "isXBRL": 0,
+      "isInlineXBRL": 0,
+      "primaryDocument": "f6k_071426.htm",
+      "primaryDocDescription": "FORM 6-K",
+      "accessionNumber": "0001171843-26-004649",
+      "companyId": "legend-biotech",
+      "companyName": "Legend Biotech",
+      "companyDirections": [
+        "Cell Therapy"
+      ],
+      "secTicker": "LEGN",
+      "cik": "0001801198",
+      "secName": "Legend Biotech Corp",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326004649/f6k_071426.htm"
+    },
+    {
+      "filingDate": "2026-07-15",
+      "reportDate": "2026-07-15",
+      "acceptanceDateTime": "2026-07-15T07:22:20.000Z",
+      "act": "34",
+      "form": "6-K",
+      "fileNumber": "001-38976",
+      "filmNumber": "261175867",
+      "items": "",
+      "size": 105790,
+      "isXBRL": 0,
+      "isInlineXBRL": 0,
+      "primaryDocument": "gmab_20260715x6k.htm",
+      "primaryDocDescription": "6-K",
+      "accessionNumber": "0001434265-26-000102",
+      "companyId": "genmab",
+      "companyName": "Genmab",
+      "companyDirections": [
+        "Antibody / ADC"
+      ],
+      "secTicker": "GMAB",
+      "cik": "0001434265",
+      "secName": "GENMAB A/S",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000102/gmab_20260715x6k.htm"
+    },
     {
       "filingDate": "2026-07-10",
       "reportDate": "2026-07-09",
@@ -291,6 +341,68 @@
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001801198-000117184326004649",
+      "date": "2026-07-15",
+      "title": "Legend Biotech filed Form 6-K",
+      "entity": "Legend Biotech",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326004649/f6k_071426.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Cell Therapy"
+      ],
+      "tags": [
+        "SEC",
+        "6-K",
+        "LEGN"
+      ],
+      "companyIds": [
+        "legend-biotech"
+      ],
+      "fact": "SEC EDGAR lists accession 0001171843-26-004649 for Legend Biotech, Form 6-K, filed on 2026-07-15.",
+      "report": "SEC metadata describes the primary document as: FORM 6-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001434265-000143426526000102",
+      "date": "2026-07-15",
+      "title": "Genmab filed Form 6-K",
+      "entity": "Genmab",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000102/gmab_20260715x6k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Antibody / ADC"
+      ],
+      "tags": [
+        "SEC",
+        "6-K",
+        "GMAB"
+      ],
+      "companyIds": [
+        "genmab"
+      ],
+      "fact": "SEC EDGAR lists accession 0001434265-26-000102 for Genmab, Form 6-K, filed on 2026-07-15.",
+      "report": "SEC metadata describes the primary document as: 6-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0000874015-000114036126028154",
       "date": "2026-07-10",

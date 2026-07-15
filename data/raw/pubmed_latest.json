@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-15T08:37:56.568750+00:00",
+  "capturedAt": "2026-07-15T19:38:40.274569+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,152 +14,144 @@
     "end": "2026-07-15"
   },
   "pmids": [
-    "42448953",
-    "42448724",
-    "42447954",
-    "42447803",
-    "42447744",
-    "42448241",
+    "42455448",
+    "42455253",
+    "42454579",
+    "42454519",
+    "42454248",
+    "42453877",
     "42447329",
     "42444608",
     "42431103",
     "42429061",
     "42418828",
     "42412811",
+    "42451726",
+    "42450185",
+    "42449970",
     "42447285",
     "42445758",
     "42444981",
-    "42443524",
-    "42440565",
-    "42439322",
-    "42448985",
-    "42448899",
-    "42448514",
-    "42448257",
-    "42447248",
-    "42446136"
+    "42455255",
+    "42455071",
+    "42454978",
+    "42454192",
+    "42453701",
+    "42453186"
   ],
   "records": [
     {
-      "pmid": "42448953",
-      "title": "In the era of AI, omics and organoids, animal models are still needed in cardiovascular research.",
-      "abstract": "",
-      "journal": "Nature reviews. Cardiology",
+      "pmid": "42455448",
+      "title": "DLBCL-microenvironment interactions: cytokine profiling and ECM-mediated ibrutinib resistance in a 3D bone-based model.",
+      "abstract": "Diffuse large B-cell lymphoma (DLBCL) frequently relapses following therapy, partly due to microenvironment-mediated drug resistance. Bone marrow involvement is associated with poor prognosis, yet preclinical models that faithfully recapitulate its extracellular matrix (ECM) remain limited. We used a decellularized human bone-derived 3D scaffold to evaluate the impact of extracellular matrix (ECM) interactions on proliferation, cytokine secretion, and ibrutinib sensitivity in four DLBCL cell lines (OCI-LY1, OCI-LY18, RIVA, NU-DUL-1). Functional assays and cytokine profiling were performed under 2D and 3D culture conditions. Compared with 2D cultures, the 3D ECM model induced a profound remodeling of the DLBCL secretome, with upregulation of a coordinated network of pro-migratory chemokines, particularly CXCL9, CCL22, CCL17, CCL4 and CXCL1/2/3. ECM engagement enhanced DLBCL migration and promoted scaffold colonization, indicating a positive feedback loop between tumor cells and the microenvironment. While all DLBCL cell lines were sensitive to ibrutinib in 2D, ECM-adherent OCI-LY18 and RIVA cells showed reduced drug-induced apoptosis in 3D. This effect was dependent on direct ECM contact, was not reproduced by inert 3D scaffold, and was fully reversible upon disruption of cell-ECM interaction. Mechanistically, ECM adhesion was associated with activation of the AKT/mTOR pathway. The human bone-derived 3D ECM model reveals that direct tumor-matrix interactions induce reversible ibrutinib resistance and reshape the cytokine milieu in DLBCL. These findings highlight the role of ECM as a dynamic regulator of drug response and support the use of physiologically relevant 3D models to investigate microenvironment-driven resistance and guide therapeutic strategies.",
+      "journal": "Medical oncology (Northwood, London, England)",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Cardioprotection Unit, Institute for Pathophysiology, West German Heart and Vascular Center, University of Duisburg-Essen, Essen, Germany.",
-        "Center for Biomedical Research and Translational Surgery, Medical University of Vienna, Vienna, Austria.",
-        "Institut de Recerca Sant Pau (IR SANT PAU), Barcelona, Spain.",
-        "CIBER-CV, Instituto de Salud Carlos III, Madrid, Spain.",
-        "Comprehensive Heart Failure Center (CHFC) & Medical Clinic and Polyclinic I, University Hospital Würzburg, Würzburg, Germany.",
-        "William Harvey Research Institute, Barts and the London Faculty of Medicine and Dentistry, Queen Mary University of London, London, UK. d.aksentijevic@qmul.ac.uk."
+        "Hematology Unit, Department of Medicine-DIMED, University-Hospital of Padua, Padua, Italy.",
+        "Laboratory of Myeloma and Lymphoma Pathobiology, Veneto Institute of Molecular Medicine (VIMM), Padua, Italy.",
+        "Internal Medicine and Allergology and Clinical Immunology Unit, Treviso Ca' Foncello Hospital, Treviso, Italy.",
+        "Orthopedics and Orthopedic Oncology, Department of Surgery, Oncology and Gastroenterology (DiSCOG), University-Hospital of Padua, Padua, Italy.",
+        "Pathology Unit, Department of Medicine-DIMED, University-Hospital of Padua, Padua, Italy.",
+        "Hematology Unit, Department of Medicine-DIMED, University-Hospital of Padua, Padua, Italy. fabrizio.vianello@unipd.it."
       ],
-      "doi": "10.1038/s41569-026-01327-2",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42448953/"
+      "doi": "10.1007/s12032-026-03309-3",
+      "date": "2026-07-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42455448/"
     },
     {
-      "pmid": "42448724",
-      "title": "Gli2-serpinh1 drives fibroblast state transition during skin wound healing.",
-      "abstract": "Dermal fibroblasts exhibit spatiotemporal heterogeneity, transitioning from coordinating immune signaling and depositing a provisional extracellular matrix during the early inflammatory phase to driving directional migration and mature matrix synthesis in the proliferative phase of wound healing. However, the molecular mechanisms underlying these fibroblast state transitions remain unclear. Here, by integrating single-cell RNA-sequencing, spatial transcriptomics, and in vivo and in vitro analyses in both mouse and skin organoid models for functional validation, we identify a previously underappreciated Gli2-Serpinh1 regulatory axis that plays a key role in fibroblast state transitions during skin wound healing. Serpinh1⁺ fibroblast subsets drive wound closure through re-epithelialization, vascular regeneration, and actin-mediated filopodia formation. Gli2, as a key upstream regulator of Serpinh1, modulates fibroblast function in a level-dependent manner across different healing states. Leveraging organoid technology as a drug discovery platform, we further identify three traditional Chinese medicine candidates that enhance wound healing by activating the Gli2-Serpinh1 axis. Our study reveals the Gli2-Serpinih1 axis as a pivotal regulator of fibroblast state transitions, providing mechanistic insight into fibroblast heterogeneity during wound healing and opening new avenues for precision regenerative therapies.",
-      "journal": "NPJ Regenerative medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Key Laboratory of Biorheological Science and Technology of Ministry of Education & 111 Project Laboratory of Biomechanics and Tissue Repair, College of Bioengineering, Chongqing University, Chongqing, China.",
-        "Beijing Anzhen Nanchong Hospital of Capital Medical University & Nanchong Central Hospital, Nanchong, China.",
-        "The Affiliated Hospital of Beihua University, Jilin, China.",
-        "Institute of Burn Research, Southwest Hospital, State Key Lab of Trauma, Burn and Combined Injury, Chongqing Key Laboratory for Disease Proteomics, Third Military Medical University, Chongqing, China.",
-        "Key Laboratory of Biorheological Science and Technology of Ministry of Education & 111 Project Laboratory of Biomechanics and Tissue Repair, College of Bioengineering, Chongqing University, Chongqing, China. mingxing@cqu.edu.cn."
-      ],
-      "doi": "10.1038/s41536-026-00483-w",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42448724/"
-    },
-    {
-      "pmid": "42447954",
-      "title": "Patient-derived cornea organoids as drug repurposing models for aniridia-associated keratopathy.",
-      "abstract": "This study aims to investigate the efficacy of drug repurposing using a corneal organoid model developed from patient-derived iPSCs and to elucidate the pathophysiology of Aniridia-Associated Keratopathy (AAK). A 90-day stepwise differentiation protocol was used to generate corneal organoids from iPSC cell lines developed from aniridia patients and healthy control. The corneal organoids produced were characterized using histology, immunofluorescence, qPCR, western blot, and transcriptomics. Two known agents, Duloxetine and Ataluren, were tested for corneal organoids for the restoring PAX6 protein expression. Histological analyses showed that the corneal organoids had a similar architecture to the native corneal tissue. Corneal epithelial, stromal, and endothelial cell biomarker staining showed positive expressions. AAK corneal organoids exhibited features that indicate the AAK disease phenotype, such as thickening of the epithelial cell layers and decrease in expressions of PAX6, ΔNP63, and keratocan genes. An increase in PAX6 protein was observed in organoids produced from AAK1 after duloxetine treatment and in organoids produced from AAK2 following ataluren treatment. AAK3 did not respond to either agent, indicating that there was no mutation-specific drug activity. Transcriptomic analyses showed clear corneal differentiation and absence of retina or lens profile in organoids. This study presents patient-specific organoid models for AAK using iPSCs and offers insight into mutation effects and PAX6 restoration following drug repurposing. The findings form the basis of personalized treatments for congenital aniridia.",
-      "journal": "Life sciences",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "İzmir Biomedicine and Genome Center, 35340, İzmir, Türkiye; İzmir International Biomedicine and Genome Institute, Dokuz Eylül University, 35340, İzmir, Türkiye.",
-        "Science for Life Laboratory, KTH - Royal Institute of Technology, Stockholm, SE-100 44, Sweden; Centre for Host-Microbiome Interactions, Faculty of Dentistry, Oral & Craniofacial Sciences, King's College London, London, SE1 9RT, UK.",
-        "İzmir Biomedicine and Genome Center, 35340, İzmir, Türkiye; Department of Ophthalmology, Dokuz Eylül University Hospital, Dokuz Eylül University, İzmir, Türkiye.",
-        "İzmir Biomedicine and Genome Center, 35340, İzmir, Türkiye; İzmir International Biomedicine and Genome Institute, Dokuz Eylül University, 35340, İzmir, Türkiye; Department of Medical Biology and Genetics, Faculty of Medicine, Dokuz Eylül University, 35340, İzmir, Türkiye. Electronic address: sinan.guven@ibg.edu.tr."
-      ],
-      "doi": "10.1016/j.lfs.2026.124586",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447954/"
-    },
-    {
-      "pmid": "42447803",
-      "title": "Pemetrexed potentiates γδ T cell-based immunotherapy in NSCLC through ATM-STING-NF-κB-mediated induction of NKG2D ligands.",
-      "abstract": "Adoptive T-cell therapy is a promising strategy for cancer immunotherapy; however, its efficacy is often limited by the immunosuppressive tumor microenvironment. γδ T cells, particularly the Vγ9Vδ2 subset, exhibit innate-like cytotoxicity and are emerging candidates for adoptive immunotherapy. Pemetrexed, an antifolate chemotherapeutic agent, has documented immunomodulatory effects in αβ T-cell settings; however, its impact on γδ T-cell antitumor responses remains insufficiently defined. Here, Vγ9Vδ2 T cells were isolated and expanded from healthy-donor peripheral blood mononuclear cells (PMBCs) and co-cultured with non-small cell lung cancer (NSCLC) cells with or without pemetrexed pretreatment. Pemetrexed significantly enhanced γδ T cell-mediated cytotoxicity compared with either treatment alone. Mechanistically, pemetrexed increased the expression of NKG2D ligands, including MHC class I chain-related proteins A/B (MICA/B) and UL16-binding proteins (ULBPs), through the ataxia-telangiectasia mutated (ATM)-stimulator of interferon genes (STING)-nuclear factor-κB (NF-κB) signaling axis. ATM activation triggered cyclic GMP-AMP synthase-independent STING signaling and preferentially activated NF-κB rather than interferon regulatory factor 3 (IRF3), thereby promoting transcriptional upregulation of NKG2D ligands and improving tumor recognition by γδ T cells. Consistent with the cell-line findings, pemetrexed increased MICA/B and ULBP2/5/6 expression in NSCLC patient-derived organoids. Furthermore, in an in vivo NSCLC animal model, combined pemetrexed and adoptive γδ T-cell therapy suppressed tumor growth more effectively than either treatment alone and was accompanied by increased NKG2D ligand expression. Collectively, these findings reveal a tumor-sensitizing mechanism by which pemetrexed potentiates γδ T-cell antitumor function and support combining pemetrexed with γδ T cell-based immunotherapy for NSCLC.",
-      "journal": "International immunopharmacology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Medical Research, Advanced Therapeutic & Pharmaceutical Center, China Medical University Hospital, Taichung, Taiwan; Department of Life Sciences, National Chung Hsing University, Taichung, Taiwan.",
-        "Department of Life Sciences, National Chung Hsing University, Taichung, Taiwan; Master in Senior Health and Exercise Science, Tunghai University, Taichung, Taiwan.",
-        "Department of Life Sciences, National Chung Hsing University, Taichung, Taiwan.",
-        "Department of Medical Research, Advanced Therapeutic & Pharmaceutical Center, China Medical University Hospital, Taichung, Taiwan; Drug Development Center, China Medical University, Taichung, Taiwan; Department of Neurosurgery, Neuropsychiatric Center, China Medical University Hospital, Taichung, Taiwan; Graduate Institute of Biomedical Sciences, China Medical University, Taichung, Taiwan.",
-        "Department of Medical Research, Advanced Therapeutic & Pharmaceutical Center, China Medical University Hospital, Taichung, Taiwan; Drug Development Center, China Medical University, Taichung, Taiwan; Graduate Institute of Biomedical Sciences, China Medical University, Taichung, Taiwan.",
-        "Department of Medical Research, Advanced Therapeutic & Pharmaceutical Center, China Medical University Hospital, Taichung, Taiwan.",
-        "Department of Medical Research, Advanced Therapeutic & Pharmaceutical Center, China Medical University Hospital, Taichung, Taiwan; Drug Development Center, China Medical University, Taichung, Taiwan.",
-        "Division of Thoracic Surgery, Department of Surgery, China Medical University Hospital, Taichung, Taiwan; School of Medicine, College of Medicine, China Medical University, Taichung, Taiwan.",
-        "Department of Medical Research, Advanced Therapeutic & Pharmaceutical Center, China Medical University Hospital, Taichung, Taiwan; Graduate Institute of Biomedical Sciences, China Medical University, Taichung, Taiwan.",
-        "Department of Medical Research, Advanced Therapeutic & Pharmaceutical Center, China Medical University Hospital, Taichung, Taiwan; Department of Biochemistry and Molecular Biology, College of Medicine, National Taiwan University, Taipei, Taiwan.",
-        "Department of Biomedical Imaging and Radiological Science, China Medical University, Taichung, Taiwan; Translation Research Core, China Medical University Hospital, China Medical University, Taichung, Taiwan.",
-        "Department of Medical Research, Advanced Therapeutic & Pharmaceutical Center, China Medical University Hospital, Taichung, Taiwan. Electronic address: 033019@tool.caaumed.org.tw."
-      ],
-      "doi": "10.1016/j.intimp.2026.117115",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447803/"
-    },
-    {
-      "pmid": "42447744",
-      "title": "Transforming cryo-lift-out one section at a time.",
-      "abstract": "Understanding the complexity of cells - their components, processes, and dynamics - requires imaging techniques capable of capturing biological organization in situ and across scales. Advances in cryo-electron tomography (cryo-ET), enabled by focused ion beam (FIB) milling, have positioned this technique as a powerful tool for visualizing cells at molecular resolution. Extending cryo-ET to multicellular specimens such as organoids or tissues, however, requires sample preparation strategies that can access areas deep within complex specimens. Cryo-lift-out has emerged as a key sample preparation technique to address this challenge. Here, we review recent advances in cryo-lift-out to image cellular processes, discuss the remaining technical challenges, and outline our perspectives on how continued methodological development may enable more holistic in situ studies in the future.",
-      "journal": "Current opinion in structural biology",
+      "pmid": "42455253",
+      "title": "Immune organoids for Africa: a roadmap for bridging the innovation gap in infectious diseases and cancer research.",
+      "abstract": "Sub-Saharan Africa bears approximately 25% of the global disability-adjusted life-year (DALY) burden yet contributes fewer than 3% of global health research outputs. HIV/AIDS, tuberculosis (TB), and malaria coexist with a rising cancer burden, with attributable mortality projected to increase 75% by 2050. Fewer than 0.2% of genome-wide association study (GWAS) participants are of African ancestry, constraining precision medicine relevance. Conventional two-dimensional cultures and murine models inadequately replicate immune dynamics, tissue-level pathogenesis, and African pharmacogenomics. Immune organoids (three-dimensional microphysiological constructs) offer human-relevant platforms for mechanistic immunology, drug screening, vaccine evaluation, and precision oncology. A narrative review was conducted across PubMed, Scopus, Web of Science, and Google Scholar (January 2019-June 2025), integrating technical descriptors (lymph node-on-a-chip, patient-derived organoids, microphysiological systems) with regional keywords (sub-Saharan Africa, genomic sovereignty, STISA-2034, frugal bioengineering). Gray literature from WHO, World Bank, and Africa CDC was incorporated. Thematic synthesis identified technological advances, infrastructural barriers, regulatory gaps, and sociopolitical determinants of adoption. Lymph node-on-a-chip, tonsil-derived, and tumor-immune co-culture organoids enable high-fidelity interrogation of host-pathogen and tumor-immune interactions. Adoption is constrained by infrastructure deficits, reagent costs, energy instability, bioinformatics gaps, and nascent regulatory frameworks. Scalable solutions include a three-tier hub framework (Coordinator-Generator-Collaborator), ABCOMICS for continental genomic data governance, frugal LCD-based bioprinting, and passive microfluidic perfusion. Harmonized ethical guidelines and community-engaged consent are essential for genomic sovereignty. A phased, STISA-2034-aligned roadmap integrating frugal bioengineering, ethical governance, and targeted capacity-building can position Africa as a global leader in human-centric biomedical research, accelerating precision medicine, pandemic preparedness, and health equity.",
+      "journal": "Journal of the Egyptian National Cancer Institute",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Human Technopole, Milan, Italy.",
-        "Human Technopole, Milan, Italy. Electronic address: philipp.erdmann@fht.org."
+        "Usmanu Danfodiyo University Sokoto, Sokoto, Nigeria. adeyanju8998@gmail.com.",
+        "Usmanu Danfodiyo University Sokoto, Sokoto, Nigeria.",
+        "Roswell Park Comprehensive Cancer Center, Buffalo, USA.",
+        "University of Nigeria Nsukka, Enugu, Nigeria.",
+        "University of Jos, Jos, Nigeria.",
+        "University of South Africa, Florida, Johannesburg, South Africa.",
+        "University of Lagos, Lagos, Nigeria."
       ],
-      "doi": "10.1016/j.sbi.2026.103327",
-      "date": "2026-07-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447744/"
+      "doi": "10.1186/s43046-026-00385-4",
+      "date": "2026-07-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42455253/"
     },
     {
-      "pmid": "42448241",
-      "title": "SOX9-driven SPEM cell lineage plasticity is a potential therapeutic target that mitigates risk of metaplastic progression to gastric cancer.",
-      "abstract": "Gastric cancer develops through a sequential carcinogenic process beginning with pyloric metaplasia, a key feature of which is the transdifferentiation of gastric chief cells into spasmolytic polypeptide-expressing metaplastic (SPEM) cells. We found that SOX9, a transcription factor, is highly expressed in SPEM cells in both human and murine metaplasia. We therefore investigated the impact of SOX9-mediated SPEM cell plasticity and function on metaplasia development and progression during gastric carcinogenesis. We utilized two Sox9 knock-out mouse models, GIFrtTA/+;TetO-CreTg/+; Sox9flox/flox (GCS) and GIFrtTA/+;TetO-CreTg/+;LSL-KrasG12DTg/+;Sox9flox/flox (GCKS) to examine the effects of SOX9 loss on metaplasia development following mucosal injury and carcinogenesis by immunofluorescence and single-cell RNA-sequencing. We also confirmed our findings in human patient tissue microarrays and utilized SPEM organoids to identify genes regulated by SOX9. Sox9 knock-out in chief cells resulted in the failure of metaplasia development in both acute and chronic injury as chief cells were unable to transdifferentiate into SPEM cells. The GCKS mouse failed to progress through carcinogenesis due to lack of a SPEM cell subpopulation responsible for metaplasia progression and fibroblast recruitment to gland bases. Instead, homeostatic gastric cell lineages were repopulated in the glands. We also identified a TOP2A-expressing SPEM cell subpopulation that contributes to metaplasia progression, and putative SOX9 downstream genes associated with lineage plasticity. These results demonstrate that SOX9 is a master regulator of SPEM cell lineage evolution and metaplasia progression. Therefore, SOX9-mediated SPEM cell plasticity is a central mechanism in carcinogenesis.",
-      "journal": "Gastroenterology",
+      "pmid": "42454579",
+      "title": "The STAT3-CCND2 Axis Drives a Proliferative Metaplastic Precursor Population in Gastric Intestinal Metaplasia.",
+      "abstract": "Gastric intestinal metaplasia (GIM) is a crucial precancerous lesion with ill-defined drivers, and identifying regulators of its early proliferation and reprogramming is key to interception. We integrated epigenomic-transcriptomic analysis of human GIM and normal tissues, validated targets via dual-luciferase assay, and mapped cellular heterogeneity by single-cell RNA sequencing of patient-derived gastric organoids. Functional validation using organoids included STAT3 knockdown assessed by qRT-PCR and immunofluorescence. STAT3 was identified as a top regulator of hypomethylated, upregulated genes in GIM and directly transactivated CCND2. Single-cell analysis revealed a dominant proliferative \"Cycling GIM-precursor\" population co-expressing STAT3/CCND2. STAT3 knockdown reduced CCND2 and intestinal markers (CDX2, MUC2) in GIM organoids. The STAT3-CCND2 axis is central to early GIM pathogenesis, offering targets for early detection and chemoprevention of gastric cancer.",
+      "journal": "Journal of cellular and molecular medicine",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Cell and Developmental Biology, Vanderbilt University, Nashville, Tennessee, USA, Epithelial Biology Center, Vanderbilt University Medical Center, Nashville, Tennessee, USA; Nashville, Tennessee, USA.",
-        "Department of Surgery and Epithelial Biology Center, Vanderbilt University Medical Center, Nashville, Tennessee, USA.",
-        "Department of Pathology, Jeju National University College of Medicine, Jeju, Republic of Korea.",
-        "Department of Microbiology, Immunology and Cell Biology, West Virginia University School of Medicine, Morgantown, West Virginia, USA.",
-        "Department of Medicine, Vanderbilt University Medical Center, Nashville, Tennessee, USA.",
-        "Department of Medicine and Department of Pathology, Microbiology, and Immunology, Vanderbilt University Medical Center, Nashville, Tennessee, USA.",
-        "Department of Surgery and Epithelial Biology Center, Vanderbilt University Medical Center, Nashville, Tennessee, USA. Electronic address: eunyoung.choi@vumc.org."
+        "Henan Key Laboratory for Helicobacter Pylori and Digestive Tract Microecology, the Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou University, Zhengzhou, Henan, China.",
+        "Department of Gastroenterology, The Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, China."
       ],
-      "doi": "10.1053/j.gastro.2026.06.024",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42448241/"
+      "doi": "10.1111/jcmm.71283",
+      "date": "2026-07-00",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42454579/"
+    },
+    {
+      "pmid": "42454519",
+      "title": "Bioprinted bonoid-on-a-chip model for studying drug effects on human osteocyte differentiation.",
+      "abstract": "Osteocytes form an extensive dendritic network within bone tissue that senses mechanical and biochemical stimuli, critical for bone homeostasis. However, the complex interplay between mechanotransduction, oxygen tension, and osteocyte differentiation remains difficult to study due to the lack of physiologically relevant humanin vitromodels. Previously, we developed a microphysiological system (MPS) that integrates perfusion, mechanical loading, and oxygen control within a culture platform that enables the culture of bone-like three-dimensional (3D) constructs [1]. Here, we demonstrate the application of this MPS as Bonoid-on-a-chip (BoC)-platform to investigate osteoblast-to-early osteocyte transition and mechanosensitive signalling in a human-relevant 3D context, under different physical and chemical conditions. We generated bonoids by bioprinting primary human osteoblasts into a gelatine-hydrogel and cultured them under either static conditions or as dynamic BoC. Different BoC environments consisting in controlled perfusion (0.5 ml min-1), mechanical loading (0% or 10% compression, 1 Hz frequency), and physiological oxygen tension (21% or 12%) over a seven-day period were compared. These different models were additionally treated with dexamethasone (DEXA), to evaluate early osteocyte-targeted effects of drug exposure under these different conditions. We observed high cell viability across all conditions, but clear differences in metabolic activity, morphological changes, and mechanotransduction markers between static and dynamic cultures. Notably, cells within the BoC-platform exhibited extended dendritic processes and significantly increased secretion of prostaglandin E2 and nitrite in response to mechanical stimulation - hallmarks of osteocytic signalling in mechanotransduction. When testing the new BoC as platform for early osteocyte-targeted investigations, we found DEXA exposure disrupting this mechanoresponsive phenotype, highlighting the model's applicability for pharmacological screening. These findings demonstrate the value of our BoC-platform as a human-relevant model for studying bone mechanobiology and drug responsesin vitro. This approach offers a promising alternative to animal models in bone research and opens new avenues for investigating osteocyte function under physiologically dynamic conditions.",
+      "journal": "Biofabrication",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "German Federal Institute for Risk Assessment (BfR), German Centre for the Protection of Laboratory Animals (Bf3R), 10589 Berlin, Germany.",
+        "Cellbricks GmbH, 13353 Berlin, Germany.",
+        "Technische Universität Berlin, 13355 Berlin, Germany.",
+        "DRK Kliniken Westend, 14050 Berlin, Germany.",
+        "Institute of Veterinary Physiology, Faculty of Veterinary Medicine, University of Leipzig, 04103 Leipzig, Germany.",
+        "Institute of Clinical Pharmacology and Toxicology, Charité-Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, 10117 Berlin, Germany.",
+        "Center for Orthopaedics, Trauma Surgery and Rehabilitation Medicine, University Medicine Greifswald, 17475 Greifswald, Germany.",
+        "GRET and Toxicology Unit, Department of Pharmacology, Toxicology and Therapeutic Chemistry, Faculty of Pharmacy and Food Sciences, University of Barcelona, 08028 Barcelona, Spain."
+      ],
+      "doi": "10.1088/1758-5090/ae7ed2",
+      "date": "2026-07-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42454519/"
+    },
+    {
+      "pmid": "42454248",
+      "title": "DEPDC5: Modeling of the Two-Hit Wonder in Cortical Organoids.",
+      "abstract": "",
+      "journal": "Epilepsy currents",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Division of Pharmacotherapy and Experimental Therapeutics, Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.",
+        "Department of Genetics, School of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA."
+      ],
+      "doi": "10.1177/15357597261464330",
+      "date": "2026-07-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42454248/"
+    },
+    {
+      "pmid": "42453877",
+      "title": "Lung cancer organoids for functional precision oncology: from disease modeling to clinical decision support.",
+      "abstract": "Lung cancer is characterized by extensive heterogeneity and the frequent emergence of acquired resistance, posing major obstacles for successful therapy. Traditional preclinical models, such as two-dimensional (2D) cell cultures and animal models, either lack physiological relevance or require timelines that are poorly coordinated with clinical needs. Lung cancer organoids (LCOs) have been recognized as a promising in vitro three-dimensional (3D) platform that retain key features of original tumors, including histological architecture, genetic alterations, and intratumoral heterogeneity. In this review, we summarize recent developments in the area from the perspective of functional precision oncology. We first consider why LCOs are especially valuable, yet technically difficult, in lung cancer, with special focus on sample source, culture bias, contamination by normal airway epithelium, and authentication approaches. We then outline the functional applications of LCOs in recapitulating tumor initiation, evolutionary plasticity, treatment-induced adaptation, immune interactions, drug screening, and biobank construction. Building on these applications, we underscore the critical translational bottlenecks that still constrain routine clinical implementation, such as model fidelity, lack of standardization, temporal restrictions, and inadequate microenvironmental complexity. Lastly, we explore how microfluidic systems, biomimetic matrices, 3D bioprinting, and artificial intelligence (AI)-assisted analytics could help convert LCOs from research models into clinically implementable decision-support platforms. Collectively, these advances place LCOs as a core part of emerging functional precision oncology in lung cancer.",
+      "journal": "Frontiers in oncology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Center for Genetic Medicine, International School of Medicine and International Institute of Medicine, Zhejiang University, Yiwu, Zhejiang, China.",
+        "Department of Thoracic Surgery, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, China."
+      ],
+      "doi": "10.3389/fonc.2026.1864153",
+      "date": "2026-06-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42453877/"
     },
     {
       "pmid": "42447329",
@@ -273,6 +265,55 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42412811/"
     },
     {
+      "pmid": "42451726",
+      "title": "Bridging Algorithms and Biocatalysis: Perspectives on AI-Supported Enzyme Engineering.",
+      "abstract": "The combination of computational and experimental methods has become indispensable for optimization and rational enzyme design. Recently, the development of artificial intelligence (AI)-based tools has further streamlined enzyme engineering pipelines, enabling more accurate designs, while reducing the number of variants required for experimental validation. However, due to the intricate complexity of enzymatic systems, significant challenges must be addressed before we take the next step to fully optimize the use of these AI-guided enzyme design methodologies. These challenges include un-curated datasets, the need to consider both the static and dynamic structure of enzymes, and the requirement for effective interdisciplinary collaborations to ensure the integration of computational and experimental approaches. Here, we present recent advances in AI-based computational enzyme design, discussing the main challenges in the field and how a combination with classical physics-based methods could help overcome them. We further explore novel trends that could completely modulate the future of protein design and provide our outlook on the key concepts and future opportunities that will shape the next steps of enzyme design.",
+      "journal": "Molecules (Basel, Switzerland)",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Laboratory of Structural Biochemistry, Institute of Chemistry and Biochemistry, Freie Universität Berlin, 14195 Berlin, Germany.",
+        "Werner Siemens-Chair of Synthetic Biotechnology, TUM School of Natural Sciences, Technical University of Munich (TUM), 85748 Garching, Germany."
+      ],
+      "doi": "10.3390/molecules31132359",
+      "date": "2026-07-04",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42451726/"
+    },
+    {
+      "pmid": "42450185",
+      "title": "Evaluating AI-Generated Molecules for Drug Discovery: From Generic Metrics to Translational Readiness.",
+      "abstract": "Artificial intelligence-driven molecular generation has become an increasingly used computational approach for proposing candidate chemical structures in early-stage drug discovery, yet the practical value of the molecules produced is often difficult to judge. Many studies still rely mainly on model-level metrics such as validity, uniqueness, novelty, and diversity. These metrics describe whether a generator produces parsable, non-redundant structures that extend beyond a reference set, but they do not show whether the molecules are chemically credible, biologically relevant, or experimentally actionable. AI-generated molecules are best treated as testable hypotheses requiring staged, complementary evidence rather than judgments based on generic generative statistics. We discuss the interpretive limits of common metrics, examine complementary levels of evaluation including medicinal chemistry feasibility, target relevance and prediction reliability, structure-based plausibility, and translational readiness, and identify recurring failure modes such as false novelty, reward exploitation, predictor bias, docking overinterpretation, and selective reporting. We propose a six-stage, failure-aware evaluation framework spanning molecular correctness, medicinal chemistry feasibility, novelty and diversity in context, target relevance and prediction reliability, structure-based plausibility, and translational readiness. This framework does not replace experimental validation; instead, it helps align computational claims with the strength of supporting evidence and promotes more transparent and reproducible evaluation of AI-generated molecules in drug discovery.",
+      "journal": "International journal of molecular sciences",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Centre for Artificial Intelligence Driven Drug Discovery, Faculty of Applied Sciences, Macao Polytechnic University, Rua de Luís Gonzaga Gomes, Macau SAR, China."
+      ],
+      "doi": "10.3390/ijms27135916",
+      "date": "2026-06-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42450185/"
+    },
+    {
+      "pmid": "42449970",
+      "title": "Thermostability Engineering in Therapeutic Antioxidant Enzymes: From Molecular Fundamentals to Oxidative Stress Applications.",
+      "abstract": "The efficacy of enzyme therapy is limited by their poor stability under physiological conditions. Thermostable enzymes, derived from extremophilic organisms or generated by advanced protein engineering, offer a revolutionary solution to this long-standing challenge. They are widely used in industrial biocatalysis. Their therapeutic applications are poorly investigated and spread across diverse disciplines. While most applications are in the preclinical stages, emerging evidence from animal models demonstrates proof-of-concept for thermostable antioxidant enzymes in cardiovascular, neurodegenerative, and inflammatory diseases. This review critically assesses the translational landscape, distinguishing between established therapeutic enzymes (e.g., asparaginase, PEGylated SOD) and emerging experimental candidates. This narrative review consolidates existing knowledge about thermostable enzyme engineering and their emerging functions as molecular therapies, particularly in oxidative stress-related diseases. This review synthesizes recent advances in structural biology, computational protein design, biomaterials engineering, and translational antioxidant strategies, highlighting how breaking down disciplinary barriers is accelerating the development of sustainable and self-regenerating antioxidant platforms. By integrating molecular precision with systems-level therapeutic design, engineered thermostable antioxidant enzymes exemplify the future of biological development, where multidisciplinary collaboration drives innovation against oxidative stress-driven pathologies. Engineered thermostable enzymes provide a versatile basis for next-generation therapeutics, with the potential to address medical needs through improved stability, targeted activity, and multifunctional design.",
+      "journal": "International journal of molecular sciences",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Grigore T. Popa University of Medicine and Pharmacy, 700115 Iasi, Romania."
+      ],
+      "doi": "10.3390/ijms27135695",
+      "date": "2026-06-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42449970/"
+    },
+    {
       "pmid": "42447285",
       "title": "Iterative Interaction Fingerprints-Guided Multiobjective Molecular Generation.",
       "abstract": "Structure-based molecular generation has made substantial progress in recent years, yet methods for multiobjective optimization remain lacking. Here, we introduce IFPGen, a framework for interaction fingerprints-guided multiobjective molecular generation. It integrates a conditional diffusion model for molecular generation guided by interaction fingerprints within an iterative optimization loop that refines the search for molecules with an optimal balance across multiple objectives. On test sets, IFPGen outperforms baseline models in generating molecules with interaction patterns that closely resemble those of reference ligands. IFPGen effectively achieves multiobjective optimization by dynamically updating reference ligands and interaction patterns during the optimization process. IFPGen was employed for lead optimization of an inhibitor targeting human glutaminyl cyclases, leading to the identification of a series of new inhibitors. The most potent inhibitor exhibited a substantial improvement in potency, likely due to the establishment of predefined hydrogen-bonding interactions.",
@@ -322,194 +363,272 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42444981/"
     },
     {
-      "pmid": "42443524",
-      "title": "Understanding language model scaling for protein fitness prediction.",
-      "abstract": "Protein language models, as well as models that incorporate structural information or homologous sequences, estimate the sequence likelihood p(sequence), which reflects the protein fitness landscape and is commonly used in mutation effect prediction and protein design. It is widely believed in deep learning field that larger models perform better across tasks. However, for fitness prediction, language model performance declines beyond a certain size, raising concerns about their scalability. Here we showed that model size, training dataset and stochastic elements can bias the predicted p(sequence) away from real fitness. Model performance on fitness prediction depends on how well p(sequence) matches evolutionary patterns in homologs, which is best achieved at a moderate p(sequence) level for most proteins. At extreme predicted wild-type sequence likelihoods, models predict uniformly low or high likelihoods for nearly all mutations, failing to reflect the real fitness landscape. Notably, larger models tend to predict proteins with higher p(sequence), which may exceed the moderate range and thus reduce performance. Our findings clarify the scaling behavior of protein models on fitness prediction and provide practical guidelines for their application and future development.",
-      "journal": "Nature computational science",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA. ch3849@cumc.columbia.edu.",
-        "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, USA.",
-        "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA. ys2411@cumc.columbia.edu.",
-        "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, USA. ys2411@cumc.columbia.edu.",
-        "JP Sulzberger Columbia Genome Center, Columbia University, New York, NY, USA. ys2411@cumc.columbia.edu.",
-        "Program for Mathematical Genomics, Columbia University Irving Medical Center, New York, NY, USA. ys2411@cumc.columbia.edu."
-      ],
-      "doi": "10.1038/s43588-026-01010-z",
-      "date": "2026-07-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443524/"
-    },
-    {
-      "pmid": "42440565",
-      "title": "Rational design 2.0: transitioning from static structural biology to computational prioritization and iterative vaccine optimization for RSV.",
-      "abstract": "Respiratory syncytial virus (RSV) is a major cause of severe lower respiratory tract disease (LRTD) in infants and older adults worldwide. Although vaccines based on the fusion (F) protein have shown progress, their efficacy remains limited by antigenic instability and viral evolution. The metastable transition of the F protein between prefusion (preF) and postF conformations critically determines the exposure of neutralizing epitopes, with most potent antibodies targeting preF-specific sites. In addition, the glycosylated G protein contributes to immune evasion through glycan shielding and CX3C-mediated immunomodulation. Recent advances in structural biology and computational protein design have improved the stabilization of preF conformations; however, these approaches do not fully address antigenic variability. Emerging methods, including protein language models (PLMs) and structure prediction frameworks, enable antigen design to be guided by sequence-structure relationships, allowing researchers to prioritize candidate antigens with favorable stability profiles. Here, we propose the term \"Rational Design 2.0\" to describe this emerging framework. By integrating structural information with evolutionary and sequence-level constraints, Rational Design 2.0 extends RSV vaccine design beyond static structural optimization and provides a conceptual framework for future vaccine-development strategies.",
-      "journal": "Frontiers in immunology",
+      "pmid": "42455255",
+      "title": "Optimizing Extended Adjuvant Endocrine Therapy in Early HR+/HER2- Breast Cancer: The Emerging Role of Genomic Assays and ctDNA MRD.",
+      "abstract": "Hormone receptor-positive (HR+) and HER2-negative (HER2-) breast cancer represents the most prevalent subtype of early-stage breast cancer. Adjuvant endocrine therapy (ET) substantially reduces recurrence and breast cancer mortality; however, late relapse remains a major challenge, with a considerable proportion of recurrences occurring beyond 5 years after diagnosis. Although extended ET can modestly reduce late recurrence, it is associated with cumulative toxicities and impaired quality of life, highlighting the urgent need for biomarkers to identify patients who truly benefit from treatment escalation or extension, while sparing low-risk individuals from overtreatment. Tissue-based multigene expression assays, including the Breast Cancer Index (BCI), EndoPredict, Prosigna, Oncotype DX, and MammaPrint, have improved risk stratification and informed treatment decisions, with BCI demonstrating the strongest evidence for predicting benefit from extended endocrine therapy. Among currently available assays, BCI has the strongest level of evidence supporting its use in guiding extended endocrine therapy decisions. In parallel, liquid biopsy approaches, particularly circulating tumor DNA (ctDNA)/minimal residual disease (MRD) detection, have emerged as promising tools for dynamic monitoring and early detection of molecular relapse. This review summarizes current evidence supporting biomarker-guided decision-making in early-stage HR+/HER2- breast cancer, focusing on three clinically relevant questions: who requires treatment escalation, who benefits from extended endocrine therapy, and who may safely de-escalate. We further discuss challenges and future directions toward integrated models combining genomic assays with longitudinal ctDNA monitoring to refine personalized adjuvant endocrine strategies. However, current evidence remains limited, and prospective validation is required.",
+      "journal": "Advances in therapy",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Center of Infectious Diseases and Pathogen Biology, The First Hospital of Jilin University, Changchun, China.",
-        "Institute of Virology and Acquired Immunodeficiency Syndrome (AIDS) Research, The First Hospital of Jilin University, Changchun, China."
+        "Tangshan People's Hospital Medical Group of Renmin Hospital, Hebei, China.",
+        "State Key Laboratory of Neurology and Oncology Drug Development, Jiangsu Simcere Diagnostics Co., Ltd., Nanjing Simcere Medical Laboratory Science Co., Ltd., Nanjing, China.",
+        "State Key Laboratory of Neurology and Oncology Drug Development, Jiangsu Simcere Diagnostics Co., Ltd., Nanjing Simcere Medical Laboratory Science Co., Ltd., Nanjing, China. xing.zhang@simceredx.com.",
+        "Tangshan People's Hospital Medical Group of Renmin Hospital, Hebei, China. wangxiaohongrenmin@163.com."
       ],
-      "doi": "10.3389/fimmu.2026.1862216",
-      "date": "2026-06-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42440565/"
-    },
-    {
-      "pmid": "42439322",
-      "title": "Repurposing Thiamine-Dependent Benzaldehyde Lyases as Visible-Light-Driven Radical Acyltransferases.",
-      "abstract": "ConspectusThiamine diphosphate (ThDP)-dependent enzymes are among nature's most elegant biocatalysts for C-C bond formation and cleavage, typically operating through a two-electron umpolung mechanism. Although a small subset of ThDP enzymes, such as pyruvate: ferredoxin oxidoreductase (PFOR), has been shown to proceed via single-electron radical pathways, this knowledge had not yet been harnessed for asymmetric radical reactions. Inspired by thiamine biocatalysis, chemists have developed biomimetic N-heterocyclic carbene (NHC) complexes since the 1950s, and more recently, established radical NHC catalysis as a powerful platform for radical transformations. In this approach, an NHC-stabilized ketyl radical undergoes cross-coupling with a free C-centered radical. However, achieving enantioselective cross-coupling involving prochiral C-center radicals had remained an unsolved challenge with chiral chemo-NHC catalysts. This difficulty stems from both the highly reactive nature of these open-shell intermediates and the inherent limitation of small organo-NHC complexes in creating a suitable and tunable chiral environment.To address the above challenges, we drew inspiration from nature's ThDP-dependent biocatalysis and biomimetic chemo-NHC-based radical pathways, developing a synergistic photoredox-/thiamine radical biocatalysis for asymmetric radical acylations. In this system, the thiamine-dependent benzaldehyde lyase from Pseudomonas fluorescens PfBAL activates aldehyde substrates to form catalytically active enzymatic Breslow intermediates. Visible-light-driven photoredox catalysis enables the concurrent formation of prochiral C-centered radicals and enzyme-bound thiamine-derived ketyl radicals. Through protein engineering, the evolved active site of PfBAL variant precisely orchestrates the enantioselective cross-coupling of the two radical intermediates. Overall, this combination of chemomimetic and biomimetic strategies repurposes ThDP-dependent PfBAL into a radical acyltransferase (RAT), expanding the reactivity repertoire of enzymes and overcoming the challenges in stereochemical control of free prochiral C-centered radicals.We first established this synergistic photoredox/thiamine radical catalysis through a decarboxylative radical acylation, in which prochiral C-centered radicals generated from N-(acyloxy)phthalimides under Eosin Y-mediated photoredox conditions were selectively acylated by PfBAL variants with benzyaldehyde as the acyl donor. Mechanistic studies confirmed the involvement of both ketyl and prochiral radical intermediates. Building on this discovery, we subsequently demonstrated the robustness of thiamine-dependent radical biocatalysis in diverse challenging transformations, including benzylic C(sp3)-H bonds acylation, C-C bonds acylation via nitrogen-centered radicals, three-component radical cross-coupling, and the construction of all-carbon quaternary stereocenter bearing minimally differentiated alkyl substituents.Across all these systems, a shared key mechanistic scheme is the cross-coupling of the enzymatic thiamine-derived ketyl radical with a prochiral C-centered radical, which could be assembled as the radical rebound pathway widely observed in P450 enzymes. Protein engineering campaigns and computational studies consistently suggest that residues 480 and 481 create differential steric environments, playing key roles in achieving high enantioselectivity.This Account describes our journey in repurposing PfBAL from a natural lyase to a versatile radical acyltransferase. The synergistic integration of photoredox catalysis, directed evolution, and enzymology establishes a generalizable platform for controlling free fleeting radical intermediates for enzymatic acylations. Looking forward, deeper mechanistic mimic, artificial intelligence-assisted protein design and engineering promise to further expand the chemical space and applicability accessible to thiamine-dependent enzymes.",
-      "journal": "Accounts of chemical research",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "State Key Laboratory of Coordination Chemistry, Chemistry and Biomedicine Innovation Center (ChemBIC), Frontier Interdisciplinary Science Research Center, School of Chemistry and Chemical Engineering, Nanjing University, Nanjing 210023, China.",
-        "State Key Laboratory of Microbial Technology, School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 210097, China."
-      ],
-      "doi": "10.1021/acs.accounts.6c00370",
-      "date": "2026-07-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42439322/"
-    },
-    {
-      "pmid": "42448985",
-      "title": "A bibliometric analysis of exosome research in colorectal cancer from 2010 to 2024.",
-      "abstract": "Colorectal cancer (CRC) is a leading cause of cancer-related death worldwide. Exosomes have emerged as key mediators in CRC pathogenesis and progression. However, a systematic overview of the research landscape is lacking. This study aimed to conduct a comprehensive bibliometric analysis to investigate global publication trends and research hotspots in exosome-based CRC research from 2010 to 2024. Publications were retrieved from the Web of Science Core Collection (WoSCC) and Scopus databases. After screening, deduplication, and merging, eligible studies (English-language articles and reviews published between 2010 and 2024) were included. Bibliometric analyses were performed using VOSviewer and CiteSpace. Clinical trials were additionally retrieved from PubMed to assess translational progress. A total of 3,018 publications were included. Annual publication output showed a steady increase, with a marked acceleration after 2016 (linear trend R² = 0.8607). Research originated from 100 countries. China contributed the most publications (933, 49.5%), while the United States ranks among the top in average citations per article (79.8). The most prolific authors published at least 13 articles. High-frequency keywords included \"exosome miRNA\", \"liquid biopsy\", and \"Fusobacterium nucleatum\". Citation burst analysis identified \"drug delivery\" and \"immunotherapy\" as emerging frontiers. Only six clinical studies were identified, all at early phases, with no exosome-based therapeutic having entered late-phase development. Exosome research in CRC has evolved steadily over the past 15 years, shifting from basic biology toward translational applications. Exosomes show promise as diagnostic/prognostic biomarkers, therapeutic targets, and drug delivery vehicles, but clinical translation remains at an early stage.",
-      "journal": "Discover oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Gastrointestinal Surgery, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, China.",
-        "Department of Gastrointestinal Surgery, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, China. ylwhuhhust@hust.edu.cn."
-      ],
-      "doi": "10.1007/s12672-026-05582-0",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42448985/"
-    },
-    {
-      "pmid": "42448899",
-      "title": "Scientific evidence of commercial artificial intelligence products for pulmonary nodule assessment on CT scans: a systematic review.",
-      "abstract": "This systematic review evaluates the available evidence on the efficacy of commercially available AI-software applications for lung nodule assessment on CT scans. In adherence to PRISMA guidelines, a thorough search of electronic databases was conducted (January 2012-November 2024) to identify studies on CE-marked and/or FDA-cleared AI-based systems for evaluating pulmonary nodules on CT scans. Articles were systematically categorised using the Radiology AI Deployment and Assessment Rubric (RADAR) to assess the evolution of efficacy over time across various hierarchical levels. A total of 95 studies were included. Between 2012 and 2024, the number of studies increased from 14 in 2012-2017 to a total of 95 by 2024. The studies were categorised using the RADAR efficacy model. In the early period (2012-2017), most studies focused on lower efficacy levels, with Level-1 (technical efficacy) and Level-2 (diagnostic accuracy) dominating at 83.3%. During this period, AI applications were mainly focused on quantification (46.7%), while malignancy prediction was addressed in only 6.7% of studies. By 2024, Levels-3 (diagnostic thinking efficacy), 4 (therapeutic efficacy), and 5 (patient outcomes) accounted for over a third of all studies. Malignancy prediction further increased to 28.6%, and nodule characterisation emerged in 4.5% of studies. Despite advancements, research on patient outcomes and cost-effectiveness efficacy (Levels-5 and 6) remains limited. Also, all included studies demonstrated high risk of bias in at least one domain, and nearly two-thirds involved vendor funding or co-authorship. In conclusion, the growing interest and investment in AI technologies for thoracic radiology have driven significant advancements in lung nodule assessment on CT-scans. Gaps remain in assessing patient outcomes and societal implications, which must be addressed to fully realise AI's potential in clinical practice and public health. Question What is the current level of scientific evidence supporting commercially available AI tools for pulmonary nodule assessment on CT, and is this sufficient to support their clinical implementation? Findings Research on AI for pulmonary nodule assessment has surged, with the focus evolving from basic technical performance in the early years to higher clinical outcomes by 2024. Clinical relevance This study provides critical insights into the evolving role of AI in lung nodule assessment on CT-scans, highlighting advancements in technology and identifying key gaps in current research. Addressing these is essential for optimising AI's clinical application and improving patient outcomes.",
-      "journal": "European radiology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Radiology and Nuclear Medicine, Erasmus Medical Center, Rotterdam, The Netherlands.",
-        "Department of Pulmonology, Erasmus Medical Center, Rotterdam, The Netherlands.",
-        "Department of Radiology and Nuclear Medicine, Erasmus Medical Center, Rotterdam, The Netherlands. j.j.visser@erasmusmc.nl."
-      ],
-      "doi": "10.1007/s00330-026-12745-8",
+      "doi": "10.1007/s12325-026-03616-1",
       "date": "2026-07-15",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42448899/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42455255/"
     },
     {
-      "pmid": "42448514",
-      "title": "FGFR3 Testing in Urothelial Carcinoma: An Expert Commentary on Best Practices From Patient Identification to Result Reporting.",
-      "abstract": "Metastatic urothelial cancer (mUC) is associated with diverse genomic alterations, including frequent FGFR3 mutations that influence survival outcomes and treatment responses. Erdafitinib, a targeted therapy, has shown improved survival in patients with locally advanced (LA) or mUC harbouring FGFR3 alterations, reinforcing the importance of timely FGFR3 testing. This article aims to provide practical guidance for step-by-step best practices in FGFR3 testing in mUC from sample acquisition to result reporting. This narrative review presents practical recommendations for FGFR3 testing in mUC, developed by a multidisciplinary European panel of pathologists, molecular biologists, oncologists, and urologists, based on critical appraisal of current evidence and collective clinical experience. Patients with LA/mUC should undergo FGFR3 testing at diagnosis, as supported by the current guidelines. Other factors to consider include age, frailty, fitness for treatment, and quality of life. FGFR3 testing should be performed using validated quantitative polymerase chain reaction (PCR) assays or next-generation sequencing (NGS) methods. While liquid biopsy analysis on circulating tumour deoxyribonucleic acid (ctDNA) via PCR and NGS may offer a complementary approach to tissue testing, further research is needed to determine its value in detecting FGFR3 alterations in mUC. The molecular laboratory report should contain details of all detected genetic alterations by the European Society for Medical Oncology Scale for Clinical Actionability of molecular Targets tier to indicate potential actionability. Early FGFR3 testing at diagnosis in patients with LA/mUC is clinically essential to ensure timely access to targeted therapies. Multidisciplinary collaboration is key to integrating molecular testing into patient care, supporting effective and personalised disease management.",
-      "journal": "European urology oncology",
+      "pmid": "42455071",
+      "title": "Microsensors for a Quick Detection of Tissue Functional Age and Precision Medicine.",
+      "abstract": "This proof-of-concept-study presents a novel microsensor based on specifically grafted functionalized glass for detection of low concentrated biomarkers in human fluids, gels, and for liquid biopsy. The device integrates functionalized nanofibers with grafted glass, creating an easy-to-use, rapid, and cost-effective biosensor. The approach combines fractionated nanofiber membranes with functionalized surfaces and light-scattering analysis on grafted glass which serves as a signal enhancer for data evaluation by light scattering. This method offers a novel tool for a quick evaluation of low concentrated protein samples. Experimental validation in this study confirmed its ability to identify low-abundance markers, supporting applications in precision medicine, tissue functional age assessment, and bacterial monitoring. Compared with conventional laboratory assays, optical sensors built on functionalized glass enable rapid, sensitive, and multiplexed biomarker detection directly at the point of care. We observed distinct changes in light transmittance caused by specific interactions between microsized particles and antibodies immobilized on the glass surface. This principle can also be applied to the direct detection of micrometer-scale systems such as bacteria, enabling fast urine analysis. Key words Biosensors \" Nanofibers \" Biomarkers \" Precision medicine \" Tissue aging.",
+      "journal": "Physiological research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Second Faculty of Medicine, Charles University, Prague, Czech Republic. aleksei.pashchenko@lfmotol.cuni.cz; Department of Natural Sciences, Faculty of Biomedical Engineering, Czech Technical University in Prague, Kladno, Czech Republic. varvaleo@fbmi.cvut.cz; Second Faculty of Medicine, Charles University, Prague, Czech Republic. evzen.amler@lfmotol.cuni.cz."
+      ],
+      "doi": "",
+      "date": "2026-07-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42455071/"
+    },
+    {
+      "pmid": "42454978",
+      "title": "Mechanisms of Clonal Expansion: Mutations, Methylation, and ncRNA Networks From Monoclonal B-Cell Lymphocytosis to Chronic Lymphocytic Leukemia.",
+      "abstract": "Monoclonal B-cell lymphocytosis (MBL) is a type of chronic lymphocytic leukemia (CLL) and offers a unique window into the initial stages of leukemogenesis. Even though the vast majority of MBL patients are clinically stable, a subgroup develops CLL, which highlights the significance of understanding the molecular processes that modulate this development. Recent developments in molecular genetics have shown recurrent NOTCH1, SF3B1, TP53, and ATM mutations that determine clonal dynamics and the development of disease. In a like manner, the epigenetic dysregulation, where DNA methylation patterns and chromatin remodeling are aberrant, plays a role in lineage plasticity and altered outlines of gene expression during the transition phase between MBL and CLL. The significant role of non-coding RNAs (ncRNAs) in this development is intensively highlighted by growing evidence. MicroRNAs (miR-15a/16-1, miR-34a, and miR-155) and long non-coding RNAs (DLEU2, MALAT1, NEAT1) control apoptosis, DNA damage response and immune signaling, and transcriptional networks involved in leukemogenesis, respectively. The circular RNA is involved as a sponge in competing endogenous RNA interactions and enhances oncogenic signaling. Combining genetic, epigenetics, and ncRNA signatures provides an attractive chance to optimize risk stratification of MBL, forecast progression to CLL and establish minimally invasive biomarkers in liquid biopsy format. Though the application of ncRNA-targeted therapeutics is mostly experimental, initial translational research indicates that there are lines along which molecularly guided therapy can be pursued. This review provides a synthesis of the existing knowledge of the molecular evolution of MBL to CLL with a special focus on the interactions between DNA modifications, epigenetic control, and ncRNA biology and outlines how these findings can be used to provide more accurate diagnostics, prognostication, and subsequent targeted treatment.",
+      "journal": "International journal of laboratory hematology",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Medical University of Vienna (Urological Pathology Unit), Vienna, Austria. Electronic address: evacomperat@gmail.com.",
-        "Institute of Pathology, University Hospital Erlangen, Erlangen, Bavaria, Germany.",
-        "Curie Institute (Saint-Cloud Hospital), Saint-Cloud, Île-de-France, France.",
-        "MAR Health Park (Del Mar Hospital) Barcelona, Catalonia, Spain.",
-        "Centro de Anatomia Patológica Germano de Sousa, Coimbra, Portugal, Instituto de Histologia e Embriologia, Faculdade de Medicina da Universidade de Coimbra, Coimbra, Portugal.",
-        "Umberto I Polyclinic University Hospital (Department of Diagnostic Medicine and Radiology - Pathological Anatomy and Cytodiagnostics Unit), Rome, Lazio, Italy.",
-        "Johnson & Johnson Innovative Medicine, Beerse, Belgium.",
-        "The Royal Marsden, Downs Road, Sutton, Surrey, United Kingdom.",
-        "University Hospital Bonn, Bonn, North Rhine-Westphalia, Germany.",
-        "Gustave Roussy, Université Paris-Saclay, France.",
-        "Unicancer (Jean Perrin Center), Clermont-Ferrand, Auvergne-Rhône-Alpes, France.",
-        "Erasmus Medical Center (Department of Pathology and Clinical Bioinformatics), Rotterdam, South Holland, The Netherlands.",
-        "NHS England, London, England, United Kingdom.",
-        "University Hospital Leuven (Center for Human Genetics), Leuven, Flemish Brabant, Belgium.",
-        "Erasmus MC (Erasmus MC Bone Center), Rotterdam, South Holland, The Netherlands.",
-        "ASST Fatebenefratelli Sacco - Luigi Sacco Hospital University Center (Department of Obstetrics and Gynecology), Milan, Lombardy, Italy.",
-        "University Hospital Erlangen, Erlangen, Bavaria, Germany."
+        "Department of Biochemistry, Faculty of Sciences, King Abdulaziz University, Jeddah, Saudi Arabia.",
+        "Department of Biology, College of Science, Imam Mohammad Ibn Saud Islamic University (IMSIU), Riyadh, Saudi Arabia.",
+        "Department of Pharmaceutical Sciences, Pharmacy Program, Batterjee Medical College, Jeddah, Saudi Arabia.",
+        "Division of Basic Medical Sciences, College of Medicine, Dhofar University, Salala, Oman.",
+        "Department of Pharmacology, College of Pharmacy, Jouf University, Sakaka, Saudi Arabia.",
+        "Department of Physics, Faculty of Science, King Abdulaziz University, Jeddah, Saudi Arabia.",
+        "Department of Pharmacology, Dr. R. G. Bhoyar Institute of Pharmaceutical Education & Research, Wardha, India."
       ],
-      "doi": "10.1016/j.euo.2026.06.003",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42448514/"
+      "doi": "10.1111/ijlh.70196",
+      "date": "2026-07-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42454978/"
     },
     {
-      "pmid": "42448257",
-      "title": "Application of cell-free RNA in liquid biopsy.",
-      "abstract": "Cell free RNA (cfRNA) based liquid biopsy is pushing noninvasive diagnostics forward, moving the field from a static view focused on genomics into a more dynamic space centered on functional transcriptomics. Circulating tumor DNA (ctDNA) mainly tells us about genetic alterations, but cfRNA provides a distinct informational dimension by capturing gene expression as it happens, along with splicing changes, non-coding regulation, and post-transcriptional modifications. This yields a more functional and comprehensive picture of disease biology. This review systematically examines the molecular features of cfRNA, contemporary analytical technologies, and clinical applications spanning early cancer detection, molecular subtyping, and prediction of pregnancy complications. Emerging dimensions including fragmentomics, epitranscriptomics, and microbial-derived cfRNA are also examined. Current challenges around standardization, sensitivity, and clinical validation are addressed. With advances in multi-omics integration and artificial intelligence, cfRNA has substantial potential to evolve from a supplementary biomarker into a core technology for early disease detection, longitudinal monitoring, and personalized treatment. The goal of this review is to delineate the current state of the field, identify key obstacles, and outline pathways through which cfRNA may achieve routine clinical implementation.",
-      "journal": "Critical reviews in oncology/hematology",
+      "pmid": "42454192",
+      "title": "Quantification of EV-associated miRNA in liquid biopsies for biomarker signature development.",
+      "abstract": "Extracellular vesicle (EV)-associated microRNAs (miRNAs) are promising minimally invasive biomarkers, as EV encapsulation protects miRNAs from degradation while preserving disease- and cell- type-specific expression patterns across diverse human body fluids. This review summarizes the current understanding of miRNA and EV biogenesis, including the mechanisms governing EV cargo packaging. We further discuss the broad range of EV sources used in liquid biopsy and molecular diagnostics, including blood, urine, saliva, milk, respiratory fluids, and cerebrospinal fluid, highlighting both the diagnostic utility and key pre-analytical challenges associated with EV-miRNA analysis. State-of-the-art EV isolation approaches, including differential ultracentrifugation, size-exclusion chromatography, affinity-based methods, microfluidic platforms, flow cytometry and nanoparticle-based analyses are not isolation methods and are therefore excluded from this comparison. In addition, workflows for EV-associated RNA extraction and quantification, including RNA sequencing and reverse transcription-quantitative polymerase chain reaction-based methodologies, are critically evaluated. Emphasis is placed on challenges related to data quality assessment, normalization strategies, low-input sample analysis, and high sample heterogeneity. This review also summarizes current standardization initiatives, including MISEV, MIQE, EV-TRACK, and EV Task Force biofluid guidelines, emphasizing the importance of rigorous reporting standards, harmonized pre-analytical workflows, and multiparametric normalization strategies for reproducible detection and accurate quantification. Finally, we discuss emerging best practices and unresolved challenges in multivariate modeling, miRNA isoform-based analyses, and in silico validation of the target recognition elements and regulatory pathways. An integrated, guideline-based workflow from liquid biopsy collection to clinically actionable EV-miRNA signatures is proposed to facilitate translation of this approach into routine molecular diagnostics.",
+      "journal": "Extracellular vesicles and circulating nucleic acids",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "School of Basic Medicine, Shandong Second Medical University, Weifang 261053, China.",
-        "Chinese Institute for Brain Research, Beijing 102206, China.",
-        "Institute of Blood Transfusion, Chinese Academy of Medical Sciences & Peking Union Medical College, Chengdu 610052, China; Chinese Institute for Brain Research, Beijing 102206, China; Translational Medical Center, Weifang Second People's Hospital, Weifang 261041, Shandong Province, China. Electronic address: knightz@pumc.edu.cn."
+        "Division of Animal Physiology and Immunology, School of Life Sciences Weihenstephan, Technical University of Munich, Freising 85354, Germany.",
+        "Authors contributed equally to this work.",
+        "Data Science in Systems Biology, School of Life Sciences, Technical University of Munich, Freising 85354, Germany.",
+        "Center for Discovery and Innovation, Nutley, NJ 07110, USA.",
+        "Key Laboratory of Applied Technology on Green-Eco-Healthy Animal Husbandry of Zhejiang Province, Zhejiang Provincial Engineering Laboratory for Animal Health Inspection & Internet Technology, Zhejiang International Science and Technology Cooperation Base for Veterinary Medicine and Health Management, China-Australia Joint Laboratory for Animal Health Big Data Analytics, College of Animal Science and Technology & College of Veterinary Medicine of Zhejiang A&F University, Hangzhou 311300, Zhejiang, China.",
+        "Department of Cell Biology, University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA.",
+        "Department of Obstetrics and Gynecology, University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA.",
+        "Stephenson Cancer Center, University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA.",
+        "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA.",
+        "IBM Thomas J Watson Research Center, Yorktown Heights, NY 10598, USA.",
+        "Division of Pediatric Neuro-Oncology, German Cancer Research Center, Heidelberg 69120, Germany."
       ],
-      "doi": "10.1016/j.critrevonc.2026.105489",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42448257/"
+      "doi": "10.20517/evcna.2026.19",
+      "date": "2026-06-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42454192/"
     },
     {
-      "pmid": "42447248",
-      "title": "Methylation-based Liquid Biopsy Facilitates Early Detection of Small Cell Transformation in ALK-rearranged Non-Small Cell Lung Cancer.",
-      "abstract": "Histologic transformation from non-small cell lung cancer (NSCLC) to small cell lung cancer (SCLC) is a rare mechanism of resistance in anaplastic lymphoma kinase (ALK)-rearranged disease. Diagnosis is traditionally dependent on tissue biopsy, which may be limited by lesion accessibility and low disease burden. We report a case of ALK-rearranged lung adenocarcinoma that underwent small cell transformation, in which methylation-based circulating cell-free DNA (cfDNA) analysis detected a small cell lung cancer signature five months prior to tissue confirmation. Serial liquid biopsies demonstrated dynamic changes in tumor fraction and histologic composition that correlated with response to chemoradiation and continuation of ALK-directed therapy. This case highlights the potential utility of methylation-based liquid biopsy for early detection and longitudinal monitoring of histologic transformation in oncogene-driven NSCLC.",
-      "journal": "The oncologist",
+      "pmid": "42453701",
+      "title": "Post-IMvigor011 Era: CtDNA-Guided Postoperative Adjuvant Treatment Stratification in Muscle-Invasive Bladder Cancer.",
+      "abstract": "Muscle-invasive bladder cancer (MIBC) remains characterized by substantial postoperative heterogeneity after radical cystectomy, and conventional pathology and imaging incompletely identify patients with biologically active residual disease. Circulating tumor DNA (ctDNA) has emerged as the most clinically advanced liquid-biopsy marker of molecular residual disease (MRD) in this setting because it can detect recurrence before radiographic progression and, more importantly, can now inform postoperative treatment selection. The Phase III IMvigor011 trial provided the first prospective randomized evidence that ctDNA-guided adjuvant atezolizumab improves disease-free and overall survival in patients who become ctDNA-positive after cystectomy, thereby establishing molecular relapse as an actionable postoperative state rather than a merely prognostic observation. By contrast, the favorable outcomes observed in persistently ctDNA-negative patients support surveillance-based de-escalation but do not yet constitute randomized proof that adjuvant therapy can be safely omitted. In this review, we examine how the field evolved from early prognostic studies to biomarker-directed intervention, synthesize the distinct clinical logics of escalation and de-escalation, and analyze the remaining barriers to implementation, including assay selection, sampling kinetics, false-negative risk, clonal hematopoiesis of indeterminate potential (CHIP) interference, pre-analytical control, and economic feasibility. We also discuss how emerging data from TOMBOLA, MODERN, and complementary plasma/urine multi-analyte approaches may determine whether ctDNA-guided management matures from selective escalation into a broader risk-adapted postoperative strategy. The central challenge in the post-IMvigor011 era is therefore no longer whether ctDNA is clinically relevant, but how to integrate it rigorously, reproducibly, and contextually into contemporary perioperative MIBC care.",
+      "journal": "Cancer management and research",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "affiliations": [
-        "The Ohio State University Comprehensive Cancer Center, Columbus, Ohio.",
-        "University of California Davis Comprehensive Cancer Center, Davis, California."
+        "Department of Geratology, The First Hospital of China Medical University, Shenyang, Liaoning, People's Republic of China.",
+        "Department of Urology, The First Hospital of China Medical University, Shenyang, Liaoning, People's Republic of China.",
+        "Emergency Department, The First Hospital of China Medical University, Shenyang, Liaoning, People's Republic of China.",
+        "Department of Pancreatic-Biliary Surgery, The First Hospital of China Medical University, Shenyang, Liaoning, People's Republic of China."
       ],
-      "doi": "10.1093/oncolo/oyag271",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447248/"
+      "doi": "10.2147/CMAR.S609903",
+      "date": "2026-07-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42453701/"
     },
     {
-      "pmid": "42446136",
-      "title": "FUS-mediated BBB opening reshapes plasma extracellular vesicle size distribution without elevating concentration in glioblastoma patients.",
-      "abstract": "Focused ultrasound-mediated blood-brain barrier opening (BBBO) is hypothesized to enhance liquid biopsy by facilitating the release of tumor material into the circulation. This study aimed to evaluate the impact of MR-guided FUS-BBBO on plasma extracellular vesicle (EV) concentrations and size distributions, alongside cell-free DNA (cfDNA) profiles, to determine the clinical efficacy of this approach in glioblastoma (GB) patients. We performed 14 MR-guided focused ultrasound (FUS)-BBBO procedures in patients with GB with blood sampling 1 h before and 1 h after sonication. Plasma EVs were isolated by size-exclusion chromatography and quantified by tunable resistive pulse sensing technology. Cell-free DNA (cfDNA) concentration and fragment profiles were assessed using fluorometric and electrophoretic methods. EV concentration showed no consistent change after FUS-BBBO, with marked inter-patient and inter-procedure heterogeneity. In contrast, EV size displayed a reproducible diameter reduction of ∼8-10 nm, driven predominantly by contraction of the upper tail of the size distribution, indicating selective modulation of larger vesicle subpopulations. cfDNA concentrations and fragmentation showed a heterogeneous pattern, with occasional patient-specific increases. Exploratory analyses revealed no significant associations between biomarker changes and procedural parameters except for treated volume. Our findings challenge the assumption that clinical BBBO uniformly increases biomarker abundance. The consistent shift toward smaller EVs suggests a selective modulation rather than an increased release. While BBBO may enhance the detectability of analytes that poorly cross the BBB, this may not apply to EVs, which are able to traverse the BBB under physiological conditions, further supporting their value as liquid-biopsy substrates in neuro-oncology. Future studies integrating clinical data with mechanistic models are necessary to refine FUS-enhanced diagnostic strategies.",
-      "journal": "Neuro-oncology",
+      "pmid": "42453186",
+      "title": "Primary central nervous system lymphoma-current standards and recent developments.",
+      "abstract": "Primary central nervous system lymphoma (PCNSL) is a rare aggressive B-cell non-Hodgkin lymphoma confined to the central nervous system, without systemic involvement. The incidence has increased over the past 3 decades. The prognosis has improved in patients up to 70 years old, and this type of lymphoma can be potentially cured. The gold standard of diagnosing PCNSL is histological, usually on a brain biopsy specimen via a neurosurgical procedure. Recent developments in both imaging and laboratory analyses of the cerebrospinal fluid, can be helpful in narrowing the differential diagnosis, diagnosing PCNSL itself, and in follow-up after treatment. This narrative review gives an overview of the epidemiology, diagnosis, and treatment of PCNSL, with an emphasis on recent developments in diagnostic techniques and treatment.",
+      "journal": "Neuro-oncology practice",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "affiliations": [
-        "Department of Neurosurgery, Fondazione IRCCS Istituto Neurologico C. Besta, Milan, Italy.",
-        "Department of Pharmacological and Biomolecular Sciences, University of Milan, Milan, Italy.",
-        "Department of Experimental Oncology, IEO, European Institute of Oncology IRCCS, Milan, Italy.",
-        "Neuroradiology Unit, Fondazione IRCCS Istituto Neurologico Carlo Besta, Milan, Italy.",
-        "Data Science Center, Fondazione IRCCS Istituto Neurologico Carlo Besta, Milan, Italy.",
-        "Neurointensive Care Unit, Department of Neurosurgery, Fondazione IRCCS Istituto Neurologico Carlo Besta, Milan, Italy.",
-        "Department of Neuro-oncology, Fondazione IRCCS Istituto Neurologico Carlo Besta, Milan, Italy.",
-        "Department of Translational Medicine University of Piemonte Orientale, Novara, Italy.",
-        "Department of Oncology and Hematology-Oncology, University of Milan, Milan, Italy.",
-        "Department of Neurosurgery, Johns Hopkins Medical School, Baltimore, USA."
+        "Department of Neurology, Leiden University Medical Center, Leiden, the Netherlands.",
+        "Department of Hematology, Leiden University Medical Center, Leiden, the Netherlands.",
+        "Department of Neurology, University Hospital Cologne, Cologne, Germany.",
+        "Institute of Neuroscience and Medicine (INM-3), Research Center Juelich, Juelich, Germany.",
+        "Department of Hematology, Middlemore Hospital, Auckland, New Zealand.",
+        "Department of Radiology, Leiden University Medical Center, Leiden, the Netherlands.",
+        "Department of hematology, Erasmus MC Cancer Institute, University Medical Center Rotterdam, Rotterdam, the Netherlands.",
+        "Department of neurology, Erasmus MC Cancer Institute, Brain Tumor Center, University Medical Center Rotterdam, Rotterdam, the Netherlands."
       ],
-      "doi": "10.1093/neuonc/noag155",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446136/"
+      "doi": "10.1093/nop/npag016",
+      "date": "2026-02-23",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42453186/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42448899",
+      "id": "pubmed-42455448",
       "date": "2026-07-15",
-      "title": "Scientific evidence of commercial artificial intelligence products for pulmonary nodule assessment on CT scans: a systematic review.",
+      "title": "DLBCL-microenvironment interactions: cytokine profiling and ECM-mediated ibrutinib resistance in a 3D bone-based model.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42455448/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Medical oncology (Northwood, London, England)，PMID 为 42455448。",
+      "report": "Diffuse large B-cell lymphoma (DLBCL) frequently relapses following therapy, partly due to microenvironment-mediated drug resistance. Bone marrow involvement is associated with poor prognosis, yet preclinical models that faithfully recapitulate its extracellul...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42455253",
+      "date": "2026-07-15",
+      "title": "Immune organoids for Africa: a roadmap for bridging the innovation gap in infectious diseases and cancer research.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42455253/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of the Egyptian National Cancer Institute，PMID 为 42455253。",
+      "report": "Sub-Saharan Africa bears approximately 25% of the global disability-adjusted life-year (DALY) burden yet contributes fewer than 3% of global health research outputs. HIV/AIDS, tuberculosis (TB), and malaria coexist with a rising cancer burden, with attributabl...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42454519",
+      "date": "2026-07-15",
+      "title": "Bioprinted bonoid-on-a-chip model for studying drug effects on human osteocyte differentiation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42454519/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biofabrication，PMID 为 42454519。",
+      "report": "Osteocytes form an extensive dendritic network within bone tissue that senses mechanical and biochemical stimuli, critical for bone homeostasis. However, the complex interplay between mechanotransduction, oxygen tension, and osteocyte differentiation remains d...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42455255",
+      "date": "2026-07-15",
+      "title": "Optimizing Extended Adjuvant Endocrine Therapy in Early HR+/HER2- Breast Cancer: The Emerging Role of Genomic Assays and ctDNA MRD.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42455255/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advances in therapy，PMID 为 42455255。",
+      "report": "Hormone receptor-positive (HR+) and HER2-negative (HER2-) breast cancer represents the most prevalent subtype of early-stage breast cancer. Adjuvant endocrine therapy (ET) substantially reduces recurrence and breast cancer mortality; however, late relapse rema...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42455071",
+      "date": "2026-07-15",
+      "title": "Microsensors for a Quick Detection of Tissue Functional Age and Precision Medicine.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42448899/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42455071/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -522,172 +641,39 @@
         "精准医疗"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 European radiology，PMID 为 42448899。",
-      "report": "This systematic review evaluates the available evidence on the efficacy of commercially available AI-software applications for lung nodule assessment on CT scans. In adherence to PRISMA guidelines, a thorough search of electronic databases was conducted (Janua...",
+      "fact": "PubMed 记录显示该文献收录于 Physiological research，PMID 为 42455071。",
+      "report": "This proof-of-concept-study presents a novel microsensor based on specifically grafted functionalized glass for detection of low concentrated biomarkers in human fluids, gels, and for liquid biopsy. The device integrates functionalized nanofibers with grafted...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42448953",
-      "date": "2026-07-14",
-      "title": "In the era of AI, omics and organoids, animal models are still needed in cardiovascular research.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "id": "pubmed-42454978",
+      "date": "2026-07-15",
+      "title": "Mechanisms of Clonal Expansion: Mutations, Methylation, and ncRNA Networks From Monoclonal B-Cell Lymphocytosis to Chronic Lymphocytic Leukemia.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42448953/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature reviews. Cardiology，PMID 为 42448953。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42448724",
-      "date": "2026-07-14",
-      "title": "Gli2-serpinh1 drives fibroblast state transition during skin wound healing.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42448724/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42454978/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "临床",
-        "监管",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 NPJ Regenerative medicine，PMID 为 42448724。",
-      "report": "Dermal fibroblasts exhibit spatiotemporal heterogeneity, transitioning from coordinating immune signaling and depositing a provisional extracellular matrix during the early inflammatory phase to driving directional migration and mature matrix synthesis in the...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42447954",
-      "date": "2026-07-14",
-      "title": "Patient-derived cornea organoids as drug repurposing models for aniridia-associated keratopathy.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447954/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42447954。",
-      "report": "This study aims to investigate the efficacy of drug repurposing using a corneal organoid model developed from patient-derived iPSCs and to elucidate the pathophysiology of Aniridia-Associated Keratopathy (AAK). A 90-day stepwise differentiation protocol was us...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42447803",
-      "date": "2026-07-14",
-      "title": "Pemetrexed potentiates γδ T cell-based immunotherapy in NSCLC through ATM-STING-NF-κB-mediated induction of NKG2D ligands.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447803/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
+        "Diagnostics",
+        "Precision Medicine",
         "Precision Oncology"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
+        "诊断",
+        "精准医疗",
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International immunopharmacology，PMID 为 42447803。",
-      "report": "Adoptive T-cell therapy is a promising strategy for cancer immunotherapy; however, its efficacy is often limited by the immunosuppressive tumor microenvironment. γδ T cells, particularly the Vγ9Vδ2 subset, exhibit innate-like cytotoxicity and are emerging cand...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42448241",
-      "date": "2026-07-14",
-      "title": "SOX9-driven SPEM cell lineage plasticity is a potential therapeutic target that mitigates risk of metaplastic progression to gastric cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42448241/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Gastroenterology，PMID 为 42448241。",
-      "report": "Gastric cancer develops through a sequential carcinogenic process beginning with pyloric metaplasia, a key feature of which is the transdifferentiation of gastric chief cells into spasmolytic polypeptide-expressing metaplastic (SPEM) cells. We found that SOX9,...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 International journal of laboratory hematology，PMID 为 42454978。",
+      "report": "Monoclonal B-cell lymphocytosis (MBL) is a type of chronic lymphocytic leukemia (CLL) and offers a unique window into the initial stages of leukemogenesis. Even though the vast majority of MBL patients are clinically stable, a subgroup develops CLL, which high...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -720,176 +706,18 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42448985",
-      "date": "2026-07-14",
-      "title": "A bibliometric analysis of exosome research in colorectal cancer from 2010 to 2024.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42448985/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Discover oncology，PMID 为 42448985。",
-      "report": "Colorectal cancer (CRC) is a leading cause of cancer-related death worldwide. Exosomes have emerged as key mediators in CRC pathogenesis and progression. However, a systematic overview of the research landscape is lacking. This study aimed to conduct a compreh...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42448514",
-      "date": "2026-07-14",
-      "title": "FGFR3 Testing in Urothelial Carcinoma: An Expert Commentary on Best Practices From Patient Identification to Result Reporting.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42448514/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 European urology oncology，PMID 为 42448514。",
-      "report": "Metastatic urothelial cancer (mUC) is associated with diverse genomic alterations, including frequent FGFR3 mutations that influence survival outcomes and treatment responses. Erdafitinib, a targeted therapy, has shown improved survival in patients with locall...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42448257",
-      "date": "2026-07-14",
-      "title": "Application of cell-free RNA in liquid biopsy.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42448257/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Critical reviews in oncology/hematology，PMID 为 42448257。",
-      "report": "Cell free RNA (cfRNA) based liquid biopsy is pushing noninvasive diagnostics forward, moving the field from a static view focused on genomics into a more dynamic space centered on functional transcriptomics. Circulating tumor DNA (ctDNA) mainly tells us about...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42447248",
-      "date": "2026-07-14",
-      "title": "Methylation-based Liquid Biopsy Facilitates Early Detection of Small Cell Transformation in ALK-rearranged Non-Small Cell Lung Cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447248/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The oncologist，PMID 为 42447248。",
-      "report": "Histologic transformation from non-small cell lung cancer (NSCLC) to small cell lung cancer (SCLC) is a rare mechanism of resistance in anaplastic lymphoma kinase (ALK)-rearranged disease. Diagnosis is traditionally dependent on tissue biopsy, which may be lim...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42446136",
-      "date": "2026-07-14",
-      "title": "FUS-mediated BBB opening reshapes plasma extracellular vesicle size distribution without elevating concentration in glioblastoma patients.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446136/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neuro-oncology，PMID 为 42446136。",
-      "report": "Focused ultrasound-mediated blood-brain barrier opening (BBBO) is hypothesized to enhance liquid biopsy by facilitating the release of tumor material into the circulation. This study aimed to evaluate the impact of MR-guided FUS-BBBO on plasma extracellular ve...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42447744",
+      "id": "pubmed-42454248",
       "date": "2026-07-13",
-      "title": "Transforming cryo-lift-out one section at a time.",
+      "title": "DEPDC5: Modeling of the Two-Hit Wonder in Cortical Organoids.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447744/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42454248/",
       "reliability": "High",
-      "evidenceLevel": "Medium",
+      "evidenceLevel": "Low",
       "needsReview": true,
       "themes": [
         "Organoids",
@@ -900,8 +728,8 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Current opinion in structural biology，PMID 为 42447744。",
-      "report": "Understanding the complexity of cells - their components, processes, and dynamics - requires imaging techniques capable of capturing biological organization in situ and across scales. Advances in cryo-electron tomography (cryo-ET), enabled by focused ion beam...",
+      "fact": "PubMed 记录显示该文献收录于 Epilepsy currents，PMID 为 42454248。",
+      "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -933,64 +761,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 MedComm，PMID 为 42444981。",
       "report": "De novo protein design enables the creation of proteins with entirely novel structures and biological functions from scratch, offering a promising new paradigm for cancer immunotherapy. Emerging methodologies are integrating principles of rational design, incl...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42443524",
-      "date": "2026-07-13",
-      "title": "Understanding language model scaling for protein fitness prediction.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443524/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature computational science，PMID 为 42443524。",
-      "report": "Protein language models, as well as models that incorporate structural information or homologous sequences, estimate the sequence likelihood p(sequence), which reflects the protein fitness landscape and is commonly used in mutation effect prediction and protei...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42439322",
-      "date": "2026-07-13",
-      "title": "Repurposing Thiamine-Dependent Benzaldehyde Lyases as Visible-Light-Driven Radical Acyltransferases.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42439322/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Accounts of chemical research，PMID 为 42439322。",
-      "report": "ConspectusThiamine diphosphate (ThDP)-dependent enzymes are among nature's most elegant biocatalysts for C-C bond formation and cleavage, typically operating through a two-electron umpolung mechanism. Although a small subset of ThDP enzymes, such as pyruvate:...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1067,6 +837,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42453701",
+      "date": "2026-07-10",
+      "title": "Post-IMvigor011 Era: CtDNA-Guided Postoperative Adjuvant Treatment Stratification in Muscle-Invasive Bladder Cancer.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Clinical Study",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42453701/",
+      "reliability": "High",
+      "evidenceLevel": "High",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer management and research，PMID 为 42453701。",
+      "report": "Muscle-invasive bladder cancer (MIBC) remains characterized by substantial postoperative heterogeneity after radical cystectomy, and conventional pathology and imaging incompletely identify patients with biologically active residual disease. Circulating tumor...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42445758",
       "date": "2026-07-07",
       "title": "Artificial Intelligence in Pharmaceutical Care: Transforming Drug Discovery, Development, and Patient-care Delivery.",
@@ -1097,6 +895,35 @@
       "fact": "PubMed 记录显示该文献收录于 Saudi medical journal，PMID 为 42445758。",
       "report": "The integration of artificial intelligence (AI) into pharmaceutical care represents a paradigm shift in healthcare delivery, offering unprecedented opportunities to revolutionize medication management, accelerate drug development, and enhance patient outcomes....",
       "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42451726",
+      "date": "2026-07-04",
+      "title": "Bridging Algorithms and Biocatalysis: Perspectives on AI-Supported Enzyme Engineering.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42451726/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecules (Basel, Switzerland)，PMID 为 42451726。",
+      "report": "The combination of computational and experimental methods has become indispensable for optimization and rational enzyme design. Recently, the development of artificial intelligence (AI)-based tools has further streamlined enzyme engineering pipelines, enabling...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1192,16 +1019,84 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42440565",
-      "date": "2026-06-22",
-      "title": "Rational design 2.0: transitioning from static structural biology to computational prioritization and iterative vaccine optimization for RSV.",
+      "id": "pubmed-42454579",
+      "date": "2026-07-00",
+      "title": "The STAT3-CCND2 Axis Drives a Proliferative Metaplastic Precursor Population in Gastric Intestinal Metaplasia.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42454579/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of cellular and molecular medicine，PMID 为 42454579。",
+      "report": "Gastric intestinal metaplasia (GIM) is a crucial precancerous lesion with ill-defined drivers, and identifying regulators of its early proliferation and reprogramming is key to interception. We integrated epigenomic-transcriptomic analysis of human GIM and nor...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42453877",
+      "date": "2026-06-30",
+      "title": "Lung cancer organoids for functional precision oncology: from disease modeling to clinical decision support.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42453877/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Healthcare AI",
+        "Medical LLM",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "医疗 AI",
+        "临床决策支持",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42453877。",
+      "report": "Lung cancer is characterized by extensive heterogeneity and the frequent emergence of acquired resistance, posing major obstacles for successful therapy. Traditional preclinical models, such as two-dimensional (2D) cell cultures and animal models, either lack...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42450185",
+      "date": "2026-06-30",
+      "title": "Evaluating AI-Generated Molecules for Drug Discovery: From Generic Metrics to Translational Readiness.",
       "entity": "AI Drug Discovery Research",
       "primaryCategory": "AI Drug Discovery",
       "subCategory": "AI-enabled Discovery",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42440565/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42450185/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -1215,8 +1110,37 @@
         "分子生成"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42440565。",
-      "report": "Respiratory syncytial virus (RSV) is a major cause of severe lower respiratory tract disease (LRTD) in infants and older adults worldwide. Although vaccines based on the fusion (F) protein have shown progress, their efficacy remains limited by antigenic instab...",
+      "fact": "PubMed 记录显示该文献收录于 International journal of molecular sciences，PMID 为 42450185。",
+      "report": "Artificial intelligence-driven molecular generation has become an increasingly used computational approach for proposing candidate chemical structures in early-stage drug discovery, yet the practical value of the molecules produced is often difficult to judge....",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42449970",
+      "date": "2026-06-24",
+      "title": "Thermostability Engineering in Therapeutic Antioxidant Enzymes: From Molecular Fundamentals to Oxidative Stress Applications.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42449970/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of molecular sciences，PMID 为 42449970。",
+      "report": "The efficacy of enzyme therapy is limited by their poor stability under physiological conditions. Thermostable enzymes, derived from extremophilic organisms or generated by advanced protein engineering, offer a revolutionary solution to this long-standing chal...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1248,6 +1172,66 @@
       "fact": "PubMed 记录显示该文献收录于 Human molecular genetics，PMID 为 42447329。",
       "report": "Epigenetic inheritance links fetal chromatin organization and CpG methylation to lifelong tissue phenotypes. We tested the Fetal Chromatin-CpG Developmental Blueprint (FCCD-B) model, proposing that fetal chromatin states shaped by maternal nutrient and transcr...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42454192",
+      "date": "2026-06-03",
+      "title": "Quantification of EV-associated miRNA in liquid biopsies for biomarker signature development.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42454192/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Extracellular vesicles and circulating nucleic acids，PMID 为 42454192。",
+      "report": "Extracellular vesicle (EV)-associated microRNAs (miRNAs) are promising minimally invasive biomarkers, as EV encapsulation protects miRNAs from degradation while preserving disease- and cell- type-specific expression patterns across diverse human body fluids. T...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42453186",
+      "date": "2026-02-23",
+      "title": "Primary central nervous system lymphoma-current standards and recent developments.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42453186/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Neuro-oncology practice，PMID 为 42453186。",
+      "report": "Primary central nervous system lymphoma (PCNSL) is a rare aggressive B-cell non-Hodgkin lymphoma confined to the central nervous system, without systemic involvement. The incidence has increased over the past 3 decades. The prognosis has improved in patients u...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
