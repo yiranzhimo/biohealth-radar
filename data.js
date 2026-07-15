@@ -44,6 +44,13 @@ window.BHR_DATA = {
       "url": "https://www.sec.gov/edgar/search/"
     },
     {
+      "name": "SEC EDGAR",
+      "type": "Filing",
+      "cadence": "6h",
+      "reliability": "High",
+      "url": "https://www.sec.gov/edgar/search/"
+    },
+    {
       "name": "Selected Industry Media",
       "type": "Media",
       "cadence": "1h",
@@ -115,7 +122,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42447000",
@@ -182,7 +190,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42446987",
@@ -253,7 +262,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42446981",
@@ -333,7 +343,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42446979",
@@ -400,7 +411,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42447285",
@@ -469,7 +481,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42447248",
@@ -540,7 +553,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42446136",
@@ -611,7 +625,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42444346",
@@ -691,7 +706,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42444981",
@@ -765,7 +781,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42443524",
@@ -834,7 +851,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42439322",
@@ -903,7 +921,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42431103",
@@ -987,7 +1006,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42429061",
@@ -1068,7 +1088,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42446827",
@@ -1145,7 +1166,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42445758",
@@ -1223,7 +1245,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42444608",
@@ -1295,7 +1318,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42418828",
@@ -1370,7 +1394,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42412811",
@@ -1442,7 +1467,8 @@ window.BHR_DATA = {
           "inference": "需明确分类依据，以防止误解研究质量或临床应用。",
           "unknown": "当前缺乏研究质量、样本量、利益冲突和临床阶段的信息。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42445712",
@@ -1514,7 +1540,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42445727",
@@ -1590,7 +1617,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT06620380",
@@ -1666,7 +1694,8 @@ window.BHR_DATA = {
           "inference": "登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未能充分证明疗效和安全性，需提供更多支持性数据。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42440565",
@@ -1736,7 +1765,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42447329",
@@ -1807,7 +1837,8 @@ window.BHR_DATA = {
           "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "pubmed-42444935",
@@ -1882,7 +1913,8 @@ window.BHR_DATA = {
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT06290713",
@@ -1948,7 +1980,8 @@ window.BHR_DATA = {
           "inference": "该研究报告中对治疗效果的暗示需要进一步审查以确保准确性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT07576946",
@@ -2022,7 +2055,8 @@ window.BHR_DATA = {
           "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Healthcare AI, Medical AI。登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT07284069",
@@ -2094,7 +2128,8 @@ window.BHR_DATA = {
           "inference": "登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT07215325",
@@ -2160,7 +2195,8 @@ window.BHR_DATA = {
           "inference": "登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT07453342",
@@ -2234,7 +2270,8 @@ window.BHR_DATA = {
           "inference": "存在未支持的结论，需进行更详细的审核。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT04469556",
@@ -2313,7 +2350,8 @@ window.BHR_DATA = {
           "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Organoids, Advanced Disease Models, Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT06044025",
@@ -2385,7 +2423,8 @@ window.BHR_DATA = {
           "inference": "This clinical trial explores a nutritional intervention but does not provide evidence of efficacy.",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT05517083",
@@ -2455,7 +2494,8 @@ window.BHR_DATA = {
           "inference": "The data do not support clinical effectiveness claims without further details on outcomes and methodologies.",
           "unknown": "Current registration does not cover verification of protocol changes, outcome quality assessment, sample size adequacy, endpoint quality, or regulatory implications."
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT06998082",
@@ -2531,7 +2571,8 @@ window.BHR_DATA = {
           "inference": "登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT05041335",
@@ -2603,7 +2644,8 @@ window.BHR_DATA = {
           "inference": "研究目的未直接支持疗效或安全性，因此需要人类判断。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT06658080",
@@ -2687,7 +2729,8 @@ window.BHR_DATA = {
           "inference": "该试验的设计和结果尚未被验证，因此不应立即推断疗效或安全性。",
           "unknown": "缺乏关于方案变化、结果质量等关键信息，可能影响对这项研究的理解。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT06266169",
@@ -2759,7 +2802,8 @@ window.BHR_DATA = {
           "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Healthcare AI, Medical AI。登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT05058950",
@@ -2832,7 +2876,8 @@ window.BHR_DATA = {
           "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT05637411",
@@ -2896,7 +2941,8 @@ window.BHR_DATA = {
           "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT02304354",
@@ -2960,7 +3006,8 @@ window.BHR_DATA = {
           "inference": "报告中对疗效的推测不够明确，需要更详细的证据支持。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT00914940",
@@ -3034,7 +3081,8 @@ window.BHR_DATA = {
           "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Cell Therapy, Oncology。登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT03820908",
@@ -3108,7 +3156,8 @@ window.BHR_DATA = {
           "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Cell Therapy, Oncology。登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT04045730",
@@ -3178,7 +3227,8 @@ window.BHR_DATA = {
           "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT03688594",
@@ -3253,7 +3303,8 @@ window.BHR_DATA = {
           "inference": "该登记的设计不能直接证明疗效或安全性。",
           "unknown": "登记记录未覆盖结果质量判断、终点质量或监管影响。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT00900289",
@@ -3331,7 +3382,8 @@ window.BHR_DATA = {
           "inference": "虽有临床试验的登记，但缺乏支持疗效或安全性的具体数据。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT01111396",
@@ -3414,7 +3466,8 @@ window.BHR_DATA = {
           "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Cell Therapy, Oncology, Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT00239746",
@@ -3486,7 +3539,8 @@ window.BHR_DATA = {
           "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
-      }
+      },
+      "companyIds": []
     },
     {
       "id": "clinicaltrials-NCT00196768",
@@ -3560,7 +3614,770 @@ window.BHR_DATA = {
           "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Cell Therapy, Oncology。登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
-      }
+      },
+      "companyIds": []
+    }
+  ],
+  "companies": [
+    {
+      "id": "recursion",
+      "name": "Recursion Pharmaceuticals",
+      "aliases": [
+        "Recursion Pharmaceuticals, Inc.",
+        "Recursion Pharma"
+      ],
+      "ticker": "RXRX",
+      "exchange": "NASDAQ",
+      "ownership": "Public",
+      "headquarters": "United States",
+      "directions": [
+        "AI Drug Discovery"
+      ],
+      "modalities": [
+        "Small Molecule",
+        "Target Discovery",
+        "Phenotypic Screening"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://recursion.com/",
+      "irUrl": "https://ir.recursion.com/",
+      "pipelineUrl": "https://recursion.com/pipeline"
+    },
+    {
+      "id": "xtalpi",
+      "name": "XtalPi",
+      "aliases": [
+        "XtalPi Inc.",
+        "晶泰科技",
+        "QuantumPharm"
+      ],
+      "ticker": "2228",
+      "exchange": "HKEX",
+      "ownership": "Public",
+      "headquarters": "China",
+      "directions": [
+        "AI Drug Discovery"
+      ],
+      "modalities": [
+        "Small Molecule",
+        "Biologics",
+        "Lab Automation"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://www.xtalpi.com/",
+      "irUrl": "https://ir.xtalpi.com/",
+      "pipelineUrl": "https://www.xtalpi.com/solutions/"
+    },
+    {
+      "id": "insilico-medicine",
+      "name": "Insilico Medicine",
+      "aliases": [
+        "Insilico Medicine, Inc.",
+        "英矽智能"
+      ],
+      "ticker": null,
+      "exchange": null,
+      "ownership": "Private",
+      "headquarters": "United States / Hong Kong",
+      "directions": [
+        "AI Drug Discovery"
+      ],
+      "modalities": [
+        "Target Discovery",
+        "Generative Chemistry",
+        "Small Molecule"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://insilico.com/",
+      "irUrl": null,
+      "pipelineUrl": "https://insilico.com/pipeline"
+    },
+    {
+      "id": "crispr-therapeutics",
+      "name": "CRISPR Therapeutics",
+      "aliases": [
+        "CRISPR Therapeutics AG",
+        "CRISPR Therapeutics Ltd."
+      ],
+      "ticker": "CRSP",
+      "exchange": "NASDAQ",
+      "ownership": "Public",
+      "headquarters": "Switzerland / United States",
+      "directions": [
+        "Gene Editing"
+      ],
+      "modalities": [
+        "CRISPR/Cas9",
+        "Cell Therapy",
+        "In Vivo Editing"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://crisprtx.com/",
+      "irUrl": "https://ir.crisprtx.com/",
+      "pipelineUrl": "https://crisprtx.com/pipeline"
+    },
+    {
+      "id": "intellia",
+      "name": "Intellia Therapeutics",
+      "aliases": [
+        "Intellia Therapeutics, Inc."
+      ],
+      "ticker": "NTLA",
+      "exchange": "NASDAQ",
+      "ownership": "Public",
+      "headquarters": "United States",
+      "directions": [
+        "Gene Editing"
+      ],
+      "modalities": [
+        "In Vivo CRISPR",
+        "Ex Vivo CRISPR",
+        "LNP Delivery"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://www.intelliatx.com/",
+      "irUrl": "https://ir.intelliatx.com/",
+      "pipelineUrl": "https://www.intelliatx.com/pipeline/"
+    },
+    {
+      "id": "beam-therapeutics",
+      "name": "Beam Therapeutics",
+      "aliases": [
+        "Beam Therapeutics Inc.",
+        "Beam Therapeutics, Inc."
+      ],
+      "ticker": "BEAM",
+      "exchange": "NASDAQ",
+      "ownership": "Public",
+      "headquarters": "United States",
+      "directions": [
+        "Gene Editing"
+      ],
+      "modalities": [
+        "Base Editing",
+        "Cell Therapy",
+        "LNP Delivery"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://beamtx.com/",
+      "irUrl": "https://investors.beamtx.com/",
+      "pipelineUrl": "https://beamtx.com/pipeline/"
+    },
+    {
+      "id": "alnylam",
+      "name": "Alnylam Pharmaceuticals",
+      "aliases": [
+        "Alnylam Pharmaceuticals, Inc.",
+        "Alnylam"
+      ],
+      "ticker": "ALNY",
+      "exchange": "NASDAQ",
+      "ownership": "Public",
+      "headquarters": "United States",
+      "directions": [
+        "RNA Therapeutics"
+      ],
+      "modalities": [
+        "RNAi",
+        "siRNA"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://www.alnylam.com/",
+      "irUrl": "https://investors.alnylam.com/",
+      "pipelineUrl": "https://www.alnylam.com/alnylam-rnai-pipeline"
+    },
+    {
+      "id": "ionis",
+      "name": "Ionis Pharmaceuticals",
+      "aliases": [
+        "Ionis Pharmaceuticals, Inc.",
+        "Ionis"
+      ],
+      "ticker": "IONS",
+      "exchange": "NASDAQ",
+      "ownership": "Public",
+      "headquarters": "United States",
+      "directions": [
+        "RNA Therapeutics"
+      ],
+      "modalities": [
+        "Antisense Oligonucleotide",
+        "RNA Targeting"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://ionis.com/",
+      "irUrl": "https://ir.ionis.com/",
+      "pipelineUrl": "https://ionis.com/science-and-innovation/pipeline"
+    },
+    {
+      "id": "moderna",
+      "name": "Moderna",
+      "aliases": [
+        "Moderna, Inc.",
+        "Moderna Therapeutics"
+      ],
+      "ticker": "MRNA",
+      "exchange": "NASDAQ",
+      "ownership": "Public",
+      "headquarters": "United States",
+      "directions": [
+        "RNA Therapeutics"
+      ],
+      "modalities": [
+        "mRNA",
+        "Vaccine",
+        "Therapeutics"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://www.modernatx.com/",
+      "irUrl": "https://investors.modernatx.com/",
+      "pipelineUrl": "https://www.modernatx.com/research/product-pipeline"
+    },
+    {
+      "id": "legend-biotech",
+      "name": "Legend Biotech",
+      "aliases": [
+        "Legend Biotech Corporation",
+        "Legend Biotech USA Inc.",
+        "传奇生物"
+      ],
+      "ticker": "LEGN",
+      "exchange": "NASDAQ",
+      "ownership": "Public",
+      "headquarters": "United States / China",
+      "directions": [
+        "Cell Therapy"
+      ],
+      "modalities": [
+        "CAR-T",
+        "In Vivo CAR-T",
+        "Cell Therapy"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://legendbiotech.com/",
+      "irUrl": "https://investors.legendbiotech.com/",
+      "pipelineUrl": "https://legendbiotech.com/pipeline/"
+    },
+    {
+      "id": "autolus",
+      "name": "Autolus Therapeutics",
+      "aliases": [
+        "Autolus Therapeutics plc",
+        "Autolus Limited",
+        "Autolus"
+      ],
+      "ticker": "AUTL",
+      "exchange": "NASDAQ",
+      "ownership": "Public",
+      "headquarters": "United Kingdom",
+      "directions": [
+        "Cell Therapy"
+      ],
+      "modalities": [
+        "CAR-T",
+        "T Cell Programming"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://www.autolus.com/",
+      "irUrl": "https://www.autolus.com/investor-relations/",
+      "pipelineUrl": "https://www.autolus.com/our-science/pipeline/"
+    },
+    {
+      "id": "arcellx",
+      "name": "Arcellx",
+      "aliases": [
+        "Arcellx, Inc."
+      ],
+      "ticker": "ACLX",
+      "exchange": "NASDAQ",
+      "ownership": "Public",
+      "headquarters": "United States",
+      "directions": [
+        "Cell Therapy"
+      ],
+      "modalities": [
+        "CAR-T",
+        "Synthetic Biology"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://www.arcellx.com/",
+      "irUrl": "https://ir.arcellx.com/",
+      "pipelineUrl": "https://www.arcellx.com/pipeline/"
+    },
+    {
+      "id": "akeso",
+      "name": "Akeso",
+      "aliases": [
+        "Akeso, Inc.",
+        "Akeso Biopharma",
+        "康方生物"
+      ],
+      "ticker": "9926",
+      "exchange": "HKEX",
+      "ownership": "Public",
+      "headquarters": "China",
+      "directions": [
+        "Antibody / ADC"
+      ],
+      "modalities": [
+        "Bispecific Antibody",
+        "ADC",
+        "Monoclonal Antibody"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://www.akesobio.com/en/",
+      "irUrl": "https://www.akesobio.com/en/investor/",
+      "pipelineUrl": "https://www.akesobio.com/en/pipeline/"
+    },
+    {
+      "id": "beone-medicines",
+      "name": "BeOne Medicines",
+      "aliases": [
+        "BeOne Medicines Ltd.",
+        "BeiGene",
+        "BeiGene, Ltd.",
+        "百济神州"
+      ],
+      "ticker": "ONC / 6160 / 688235",
+      "exchange": "NASDAQ / HKEX / SSE",
+      "ownership": "Public",
+      "headquarters": "Global",
+      "directions": [
+        "Antibody / ADC",
+        "Oncology"
+      ],
+      "modalities": [
+        "Small Molecule",
+        "ADC",
+        "Bispecific Antibody",
+        "Protein Degrader"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://beonemedicines.com/",
+      "irUrl": "https://ir.beonemedicines.com/",
+      "pipelineUrl": "https://beonemedicines.com/science/pipeline/"
+    },
+    {
+      "id": "genmab",
+      "name": "Genmab",
+      "aliases": [
+        "Genmab A/S",
+        "Genmab US, Inc."
+      ],
+      "ticker": "GMAB",
+      "exchange": "NASDAQ Copenhagen / NASDAQ",
+      "ownership": "Public",
+      "headquarters": "Denmark",
+      "directions": [
+        "Antibody / ADC"
+      ],
+      "modalities": [
+        "Bispecific Antibody",
+        "Antibody Platform",
+        "ADC"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://www.genmab.com/",
+      "irUrl": "https://ir.genmab.com/",
+      "pipelineUrl": "https://www.genmab.com/our-products-and-pipeline"
+    },
+    {
+      "id": "arvinas",
+      "name": "Arvinas",
+      "aliases": [
+        "Arvinas, Inc."
+      ],
+      "ticker": "ARVN",
+      "exchange": "NASDAQ",
+      "ownership": "Public",
+      "headquarters": "United States",
+      "directions": [
+        "Targeted Protein Degradation"
+      ],
+      "modalities": [
+        "PROTAC",
+        "Protein Degrader"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://www.arvinas.com/",
+      "irUrl": "https://ir.arvinas.com/",
+      "pipelineUrl": "https://www.arvinas.com/research-and-development/pipeline/"
+    },
+    {
+      "id": "c4-therapeutics",
+      "name": "C4 Therapeutics",
+      "aliases": [
+        "C4 Therapeutics, Inc."
+      ],
+      "ticker": "CCCC",
+      "exchange": "NASDAQ",
+      "ownership": "Public",
+      "headquarters": "United States",
+      "directions": [
+        "Targeted Protein Degradation"
+      ],
+      "modalities": [
+        "Protein Degrader",
+        "MonoDAC",
+        "BiDAC"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://c4therapeutics.com/",
+      "irUrl": "https://ir.c4therapeutics.com/",
+      "pipelineUrl": "https://c4therapeutics.com/science/pipeline/"
+    },
+    {
+      "id": "nurix",
+      "name": "Nurix Therapeutics",
+      "aliases": [
+        "Nurix Therapeutics, Inc.",
+        "Nurix"
+      ],
+      "ticker": "NRIX",
+      "exchange": "NASDAQ",
+      "ownership": "Public",
+      "headquarters": "United States",
+      "directions": [
+        "Targeted Protein Degradation"
+      ],
+      "modalities": [
+        "Protein Degrader",
+        "E3 Ligase",
+        "Cell Therapy"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://www.nurixtx.com/",
+      "irUrl": "https://ir.nurixtx.com/",
+      "pipelineUrl": "https://www.nurixtx.com/pipeline/"
+    },
+    {
+      "id": "guardant-health",
+      "name": "Guardant Health",
+      "aliases": [
+        "Guardant Health, Inc."
+      ],
+      "ticker": "GH",
+      "exchange": "NASDAQ",
+      "ownership": "Public",
+      "headquarters": "United States",
+      "directions": [
+        "Precision Diagnostics"
+      ],
+      "modalities": [
+        "Liquid Biopsy",
+        "MRD",
+        "Cancer Screening"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://guardanthealth.com/",
+      "irUrl": "https://investors.guardanthealth.com/",
+      "pipelineUrl": "https://guardanthealth.com/products/"
+    },
+    {
+      "id": "natera",
+      "name": "Natera",
+      "aliases": [
+        "Natera, Inc."
+      ],
+      "ticker": "NTRA",
+      "exchange": "NASDAQ",
+      "ownership": "Public",
+      "headquarters": "United States",
+      "directions": [
+        "Precision Diagnostics"
+      ],
+      "modalities": [
+        "cfDNA",
+        "MRD",
+        "Genetic Testing"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://www.natera.com/",
+      "irUrl": "https://investor.natera.com/",
+      "pipelineUrl": "https://www.natera.com/oncology/"
+    },
+    {
+      "id": "tempus-ai",
+      "name": "Tempus AI",
+      "aliases": [
+        "Tempus AI, Inc.",
+        "Tempus Labs",
+        "Tempus Labs, Inc."
+      ],
+      "ticker": "TEM",
+      "exchange": "NASDAQ",
+      "ownership": "Public",
+      "headquarters": "United States",
+      "directions": [
+        "Precision Diagnostics",
+        "Healthcare AI"
+      ],
+      "modalities": [
+        "Molecular Diagnostics",
+        "Clinical Data",
+        "AI"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://www.tempus.com/",
+      "irUrl": "https://investors.tempus.com/",
+      "pipelineUrl": "https://www.tempus.com/life-sciences/"
+    },
+    {
+      "id": "illumina",
+      "name": "Illumina",
+      "aliases": [
+        "Illumina, Inc."
+      ],
+      "ticker": "ILMN",
+      "exchange": "NASDAQ",
+      "ownership": "Public",
+      "headquarters": "United States",
+      "directions": [
+        "Sequencing & Research Tools"
+      ],
+      "modalities": [
+        "Short-read Sequencing",
+        "Multi-omics"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://www.illumina.com/",
+      "irUrl": "https://investor.illumina.com/",
+      "pipelineUrl": "https://www.illumina.com/systems.html"
+    },
+    {
+      "id": "10x-genomics",
+      "name": "10x Genomics",
+      "aliases": [
+        "10x Genomics, Inc.",
+        "10X Genomics"
+      ],
+      "ticker": "TXG",
+      "exchange": "NASDAQ",
+      "ownership": "Public",
+      "headquarters": "United States",
+      "directions": [
+        "Sequencing & Research Tools"
+      ],
+      "modalities": [
+        "Single Cell",
+        "Spatial Biology",
+        "Multi-omics"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://www.10xgenomics.com/",
+      "irUrl": "https://investors.10xgenomics.com/",
+      "pipelineUrl": "https://www.10xgenomics.com/products"
+    },
+    {
+      "id": "oxford-nanopore",
+      "name": "Oxford Nanopore Technologies",
+      "aliases": [
+        "Oxford Nanopore Technologies plc",
+        "Oxford Nanopore"
+      ],
+      "ticker": "ONT",
+      "exchange": "LSE",
+      "ownership": "Public",
+      "headquarters": "United Kingdom",
+      "directions": [
+        "Sequencing & Research Tools"
+      ],
+      "modalities": [
+        "Nanopore Sequencing",
+        "Long-read Sequencing"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://nanoporetech.com/",
+      "irUrl": "https://nanoporetech.com/investors",
+      "pipelineUrl": "https://nanoporetech.com/platform"
+    },
+    {
+      "id": "mimetas",
+      "name": "MIMETAS",
+      "aliases": [
+        "MIMETAS B.V.",
+        "MIMETAS BV"
+      ],
+      "ticker": null,
+      "exchange": null,
+      "ownership": "Private",
+      "headquarters": "Netherlands",
+      "directions": [
+        "Organoids & Disease Models"
+      ],
+      "modalities": [
+        "Organ-on-a-Chip",
+        "Organoids",
+        "Disease Models"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://www.mimetas.com/",
+      "irUrl": null,
+      "pipelineUrl": "https://www.mimetas.com/technology"
+    },
+    {
+      "id": "emulate",
+      "name": "Emulate",
+      "aliases": [
+        "Emulate, Inc.",
+        "Emulate Bio"
+      ],
+      "ticker": null,
+      "exchange": null,
+      "ownership": "Private",
+      "headquarters": "United States",
+      "directions": [
+        "Organoids & Disease Models"
+      ],
+      "modalities": [
+        "Organ-on-a-Chip",
+        "Human Tissue Models"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://emulatebio.com/",
+      "irUrl": null,
+      "pipelineUrl": "https://emulatebio.com/products/"
+    },
+    {
+      "id": "hub-organoids",
+      "name": "HUB Organoids",
+      "aliases": [
+        "HUB Organoid Technology",
+        "HUB Organoids B.V."
+      ],
+      "ticker": null,
+      "exchange": null,
+      "ownership": "Private",
+      "headquarters": "Netherlands",
+      "directions": [
+        "Organoids & Disease Models"
+      ],
+      "modalities": [
+        "Patient-derived Organoids",
+        "Disease Models"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://www.huborganoids.nl/",
+      "irUrl": null,
+      "pipelineUrl": "https://www.huborganoids.nl/technology/"
+    },
+    {
+      "id": "altos-labs",
+      "name": "Altos Labs",
+      "aliases": [
+        "Altos Labs, Inc."
+      ],
+      "ticker": null,
+      "exchange": null,
+      "ownership": "Private",
+      "headquarters": "United States / United Kingdom",
+      "directions": [
+        "Longevity"
+      ],
+      "modalities": [
+        "Cellular Rejuvenation",
+        "Cell Programming"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://www.altoslabs.com/",
+      "irUrl": null,
+      "pipelineUrl": "https://www.altoslabs.com/"
+    },
+    {
+      "id": "calico",
+      "name": "Calico Life Sciences",
+      "aliases": [
+        "Calico LLC",
+        "Calico Labs",
+        "Calico"
+      ],
+      "ticker": null,
+      "exchange": null,
+      "ownership": "Private",
+      "headquarters": "United States",
+      "directions": [
+        "Longevity"
+      ],
+      "modalities": [
+        "Aging Biology",
+        "Drug Discovery"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://www.calicolabs.com/",
+      "irUrl": null,
+      "pipelineUrl": "https://www.calicolabs.com/"
+    },
+    {
+      "id": "retro-biosciences",
+      "name": "Retro Biosciences",
+      "aliases": [
+        "Retro Biosciences, Inc.",
+        "Retro Bio"
+      ],
+      "ticker": null,
+      "exchange": null,
+      "ownership": "Private",
+      "headquarters": "United States",
+      "directions": [
+        "Longevity"
+      ],
+      "modalities": [
+        "Cellular Reprogramming",
+        "Autophagy",
+        "Plasma Therapeutics"
+      ],
+      "watchTier": "A",
+      "officialUrl": "https://retro.bio/",
+      "irUrl": null,
+      "pipelineUrl": "https://retro.bio/"
+    },
+    {
+      "id": "sumitomo-pharma",
+      "name": "Sumitomo Pharma",
+      "aliases": [
+        "Sumitomo Pharma Co., Ltd.",
+        "Sumitomo Pharma America, Inc.",
+        "Sumitomo Dainippon Pharma"
+      ],
+      "ticker": "4506",
+      "exchange": "TSE",
+      "ownership": "Public",
+      "headquarters": "Japan",
+      "directions": [
+        "Integrated Biopharma"
+      ],
+      "modalities": [
+        "Small Molecule",
+        "Cell Therapy",
+        "Regenerative Medicine"
+      ],
+      "watchTier": "B",
+      "officialUrl": "https://www.sumitomo-pharma.com/",
+      "irUrl": "https://www.sumitomo-pharma.com/ir/",
+      "pipelineUrl": "https://www.sumitomo-pharma.com/rd/pipeline/"
+    },
+    {
+      "id": "nykode-therapeutics",
+      "name": "Nykode Therapeutics",
+      "aliases": [
+        "Nykode Therapeutics ASA",
+        "Vaccibody AS"
+      ],
+      "ticker": "NYKD",
+      "exchange": "Oslo Bors",
+      "ownership": "Public",
+      "headquarters": "Norway",
+      "directions": [
+        "Immunotherapy"
+      ],
+      "modalities": [
+        "DNA Vaccine",
+        "Immunotherapy"
+      ],
+      "watchTier": "B",
+      "officialUrl": "https://nykode.com/",
+      "irUrl": "https://nykode.com/investors/",
+      "pipelineUrl": "https://nykode.com/pipeline/"
     }
   ]
 };

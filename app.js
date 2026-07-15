@@ -1,8 +1,11 @@
 (function () {
   const data = window.BHR_DATA;
+  const companies = data.companies || [];
+  const companyById = new Map(companies.map((company) => [company.id, company]));
   const state = {
     category: "All",
     query: "",
+    companyId: "All",
     sourceType: "All",
     evidenceLevel: "All",
     reviewStatus: "All",
@@ -15,9 +18,13 @@
     metricPrimary: document.querySelector("#metric-primary"),
     metricReview: document.querySelector("#metric-review"),
     metricHigh: document.querySelector("#metric-high"),
+    metricCompanies: document.querySelector("#metric-companies"),
     reviewInboxButton: document.querySelector("#review-inbox-button"),
     sourceCount: document.querySelector("#source-count"),
     sourceList: document.querySelector("#source-list"),
+    companyFilter: document.querySelector("#company-filter"),
+    companyCount: document.querySelector("#company-count"),
+    companyList: document.querySelector("#company-list"),
     sourceFilter: document.querySelector("#source-filter"),
     evidenceFilter: document.querySelector("#evidence-filter"),
     reviewFilter: document.querySelector("#review-filter"),
@@ -55,10 +62,15 @@
     return data.signals.filter((item) => ["Regulator", "Registry", "Paper"].includes(item.sourceType)).length;
   }
 
+  function getSignalCompanies(item) {
+    return (item.companyIds || []).map((companyId) => companyById.get(companyId)).filter(Boolean);
+  }
+
   function getFilteredSignals() {
     const query = normalize(state.query);
     return data.signals.filter((item) => {
       const categoryMatch = state.category === "All" || item.primaryCategory === state.category;
+      const companyMatch = state.companyId === "All" || (item.companyIds || []).includes(state.companyId);
       const sourceMatch = state.sourceType === "All" || item.sourceType === state.sourceType;
       const evidenceMatch = state.evidenceLevel === "All" || item.evidenceLevel === state.evidenceLevel;
       const reviewMatch =
@@ -81,11 +93,17 @@
           item.inference,
           item.unknown,
           ...(item.themes || []),
-          ...(item.tags || [])
+          ...(item.tags || []),
+          ...getSignalCompanies(item).flatMap((company) => [
+            company.name,
+            company.ticker,
+            ...(company.aliases || []),
+            ...(company.directions || [])
+          ])
         ].join(" ")
       );
       const queryMatch = !query || haystack.includes(query);
-      return categoryMatch && sourceMatch && evidenceMatch && reviewMatch && queryMatch;
+      return categoryMatch && companyMatch && sourceMatch && evidenceMatch && reviewMatch && queryMatch;
     });
   }
 
@@ -95,6 +113,52 @@
     els.metricPrimary.textContent = getPrimaryCount();
     els.metricReview.textContent = data.signals.filter((item) => item.needsReview).length;
     els.metricHigh.textContent = data.signals.filter((item) => item.evidenceLevel === "High").length;
+    els.metricCompanies.textContent = companies.length;
+  }
+
+  function renderCompanyControls() {
+    const options = [...companies]
+      .sort((a, b) => {
+        const directionCompare = (a.directions?.[0] || "").localeCompare(b.directions?.[0] || "");
+        return directionCompare || a.name.localeCompare(b.name);
+      })
+      .map((company) => {
+        const direction = company.directions?.[0] || "Biotech";
+        return `<option value="${escapeHtml(company.id)}">${escapeHtml(direction)} · ${escapeHtml(company.name)}</option>`;
+      })
+      .join("");
+    els.companyFilter.insertAdjacentHTML("beforeend", options);
+  }
+
+  function renderCompanies() {
+    const signalCounts = new Map();
+    data.signals.forEach((signal) => {
+      (signal.companyIds || []).forEach((companyId) => {
+        signalCounts.set(companyId, (signalCounts.get(companyId) || 0) + 1);
+      });
+    });
+    const sortedCompanies = [...companies].sort((a, b) => {
+      if (state.companyId === a.id) return -1;
+      if (state.companyId === b.id) return 1;
+      return (signalCounts.get(b.id) || 0) - (signalCounts.get(a.id) || 0) || a.name.localeCompare(b.name);
+    });
+
+    els.companyCount.textContent = companies.length;
+    els.companyList.innerHTML = sortedCompanies
+      .slice(0, 12)
+      .map((company) => {
+        const ticker = company.ticker ? ` · ${company.ticker}` : " · Private";
+        return `
+          <article class="company-item ${state.companyId === company.id ? "active" : ""}">
+            <button data-company-id="${escapeHtml(company.id)}" type="button">
+              <strong>${escapeHtml(company.name)}</strong>
+              <span>${escapeHtml(company.directions?.[0] || "Biotech")}${escapeHtml(ticker)}</span>
+            </button>
+            <span class="company-signal-count">${signalCounts.get(company.id) || 0}</span>
+          </article>
+        `;
+      })
+      .join("");
   }
 
   function renderSources() {
@@ -121,8 +185,9 @@
     }
 
     els.cardFeed.innerHTML = signals
-      .map(
-        (item) => `
+      .map((item) => {
+        const linkedCompanies = getSignalCompanies(item);
+        return `
           <article class="signal-card" id="signal-${escapeHtml(item.id)}">
             <div class="signal-top">
               <div class="signal-title">
@@ -137,6 +202,7 @@
               <span class="badge">${escapeHtml(item.eventType)}</span>
               <span class="badge ${evidenceClass(item.evidenceLevel)}">${escapeHtml(item.evidenceLevel)} evidence</span>
               <span class="badge ${evidenceClass(item.reliability)}">${escapeHtml(item.sourceType)}</span>
+              ${linkedCompanies.map((company) => `<span class="badge company-badge">${escapeHtml(company.name)}</span>`).join("")}
               ${item.needsReview ? '<span class="badge review">Needs review</span>' : '<span class="badge reviewed">Reviewed</span>'}
               ${item.aiReview ? `<span class="badge ai-review">AI ${escapeHtml(item.aiReview.status)}</span>` : ""}
             </div>
@@ -185,8 +251,8 @@
               <a href="${escapeHtml(item.sourceUrl)}" target="_blank" rel="noreferrer">Source</a>
             </footer>
           </article>
-        `
-      )
+        `;
+      })
       .join("");
   }
 
@@ -203,6 +269,7 @@
             <th>Date</th>
             <th>Signal</th>
             <th>Category</th>
+            <th>Company</th>
             <th>Source</th>
             <th>Evidence</th>
             <th>Review</th>
@@ -216,6 +283,7 @@
                   <td>${escapeHtml(item.date)}</td>
                   <td><strong>${escapeHtml(item.title)}</strong><br>${escapeHtml(item.entity)}</td>
                   <td>${escapeHtml(item.primaryCategory)}<br>${escapeHtml(item.subCategory)}</td>
+                  <td>${escapeHtml(getSignalCompanies(item).map((company) => company.name).join(", ") || "—")}</td>
                   <td>${escapeHtml(item.sourceType)}<br>${escapeHtml(item.sourceName)}</td>
                   <td>${escapeHtml(item.evidenceLevel)}<br>${escapeHtml(item.reliability)} reliability</td>
                   <td>${item.needsReview ? "Yes" : "No"}</td>
@@ -331,6 +399,7 @@
 
   function syncControls() {
     els.searchInput.value = state.query;
+    els.companyFilter.value = state.companyId;
     els.sourceFilter.value = state.sourceType;
     els.evidenceFilter.value = state.evidenceLevel;
     els.reviewFilter.value = state.reviewStatus;
@@ -340,10 +409,12 @@
   function openReviewInbox() {
     state.category = "All";
     state.query = "";
+    state.companyId = "All";
     state.sourceType = "All";
     state.evidenceLevel = "All";
     state.reviewStatus = "NeedsReview";
     syncControls();
+    renderCompanies();
     renderFeed();
   }
 
@@ -391,6 +462,21 @@
       renderFeed();
     });
 
+    els.companyFilter.addEventListener("change", (event) => {
+      state.companyId = event.target.value;
+      renderCompanies();
+      renderFeed();
+    });
+
+    els.companyList.addEventListener("click", (event) => {
+      const button = event.target.closest("[data-company-id]");
+      if (!button) return;
+      state.companyId = state.companyId === button.dataset.companyId ? "All" : button.dataset.companyId;
+      syncControls();
+      renderCompanies();
+      renderFeed();
+    });
+
     els.sourceFilter.addEventListener("change", (event) => {
       state.sourceType = event.target.value;
       renderFeed();
@@ -420,6 +506,8 @@
 
   renderMetrics();
   renderSources();
+  renderCompanyControls();
+  renderCompanies();
   renderReviewQueue();
   renderFeed();
   bindEvents();

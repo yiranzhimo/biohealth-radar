@@ -34,6 +34,7 @@ jobs:
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       OPENAI_REVIEW_MODEL: ${{ vars.OPENAI_REVIEW_MODEL || 'gpt-4o-mini' }}
+      SEC_USER_AGENT: ${{ vars.SEC_USER_AGENT }}
       APPLY_NEEDS_REVIEW: ${{ github.event_name == 'schedule' || inputs.apply_needs_review }}
       FORCE_REVIEW: ${{ inputs.force_review }}
     steps:
@@ -64,6 +65,21 @@ jobs:
         run: |
           python3 scripts/collect_clinicaltrials.py --page-size 4 --max-total 24
 
+      - name: Collect SEC EDGAR
+        if: env.SEC_USER_AGENT != ''
+        continue-on-error: true
+        run: |
+          python3 scripts/collect_sec_edgar.py --days 14 --max-total 80
+
+      - name: Report disabled SEC collection
+        if: env.SEC_USER_AGENT == ''
+        run: |
+          echo "SEC EDGAR collection is disabled. Set the SEC_USER_AGENT repository variable to enable it."
+
+      - name: Preserve prior SEC signals
+        run: |
+          python3 scripts/preserve_source_signals.py --previous /tmp/biohealth-radar-data-previous.js --current data.js --id-prefix sec- --max-signals 120
+
       - name: Preserve prior AI reviews
         run: |
           python3 scripts/preserve_ai_reviews.py --previous /tmp/biohealth-radar-data-previous.js --current data.js
@@ -86,7 +102,8 @@ jobs:
 
       - name: Validate generated files
         run: |
-          python3 -m py_compile scripts/collect_pubmed.py scripts/collect_clinicaltrials.py scripts/preserve_ai_reviews.py scripts/review_with_openai.py
+          python3 -m py_compile scripts/company_registry.py scripts/sync_companies.py scripts/collect_pubmed.py scripts/collect_clinicaltrials.py scripts/collect_sec_edgar.py scripts/preserve_source_signals.py scripts/preserve_ai_reviews.py scripts/review_with_openai.py
+          python3 -m unittest discover -s tests
           node --check app.js
           node --check data.js
 

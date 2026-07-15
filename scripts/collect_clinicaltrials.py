@@ -19,6 +19,11 @@ import urllib.request
 from pathlib import Path
 from typing import Any
 
+try:
+    from .company_registry import load_companies, match_company_ids
+except ImportError:
+    from company_registry import load_companies, match_company_ids
+
 
 API_BASE = "https://clinicaltrials.gov/api/v2/studies"
 
@@ -73,6 +78,13 @@ SOURCE_WATCHLIST = [
         "type": "Company",
         "cadence": "1h",
         "reliability": "Medium",
+        "url": "https://www.sec.gov/edgar/search/",
+    },
+    {
+        "name": "SEC EDGAR",
+        "type": "Filing",
+        "cadence": "6h",
+        "reliability": "High",
         "url": "https://www.sec.gov/edgar/search/",
     },
     {
@@ -275,8 +287,13 @@ def classify_trial(record: dict[str, Any]) -> dict[str, Any]:
     }
 
 
-def make_signal(record: dict[str, Any], index: int) -> dict[str, Any]:
+def make_signal(
+    record: dict[str, Any],
+    index: int,
+    companies: list[dict[str, Any]] | None = None,
+) -> dict[str, Any]:
     classification = classify_trial(record)
+    companies = companies if companies is not None else load_companies()
     nct_id = record.get("nctId", "")
     title = record.get("briefTitle") or record.get("officialTitle") or f"ClinicalTrials.gov study {nct_id}"
     phase = format_list(record.get("phases", []), "N/A")
@@ -292,6 +309,17 @@ def make_signal(record: dict[str, Any], index: int) -> dict[str, Any]:
         or dt.date.today().isoformat()
     )
     matched = ", ".join(classification.pop("matchedThemes")) or "clinical registry"
+    company_ids = match_company_ids(
+        [
+            record.get("leadSponsor", ""),
+            record.get("organization", ""),
+            record.get("briefTitle", ""),
+            record.get("officialTitle", ""),
+            record.get("briefSummary", ""),
+            record.get("interventions", []),
+        ],
+        companies,
+    )
 
     return {
         "id": f"clinicaltrials-{nct_id or index:0>8}",
@@ -309,6 +337,7 @@ def make_signal(record: dict[str, Any], index: int) -> dict[str, Any]:
         "needsReview": True,
         "themes": classification["themes"],
         "tags": classification["tags"],
+        "companyIds": company_ids,
         "fact": (
             f"ClinicalTrials.gov lists {nct_id or 'unknown NCT ID'} with status {status}, "
             f"phase {phase}, enrollment {enrollment}, lead sponsor {lead}, countries {countries}."
@@ -347,7 +376,12 @@ def unique(values: list[Any]) -> list[str]:
 
 def read_data_js(path: Path) -> dict[str, Any]:
     if not path.exists():
-        return {"updatedAt": dt.date.today().isoformat(), "sources": SOURCE_WATCHLIST, "signals": []}
+        return {
+            "updatedAt": dt.date.today().isoformat(),
+            "sources": SOURCE_WATCHLIST,
+            "companies": load_companies(),
+            "signals": [],
+        }
     text = path.read_text(encoding="utf-8").strip()
     prefix = "window.BHR_DATA ="
     if not text.startswith(prefix):
@@ -378,6 +412,7 @@ def merge_signals(existing: dict[str, Any], trial_signals: list[dict[str, Any]],
     return {
         "updatedAt": dt.date.today().isoformat(),
         "sources": SOURCE_WATCHLIST,
+        "companies": existing.get("companies", load_companies()),
         "signals": signals,
     }
 
@@ -401,7 +436,8 @@ def main() -> int:
             parsed_by_nct[nct_id] = parsed
 
     records = list(parsed_by_nct.values())[: args.max_total]
-    signals = [make_signal(record, index) for index, record in enumerate(records, start=1)]
+    companies = load_companies()
+    signals = [make_signal(record, index, companies) for index, record in enumerate(records, start=1)]
     signals.sort(key=lambda item: item.get("date", ""), reverse=True)
 
     raw_payload = {

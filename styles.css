@@ -148,6 +148,7 @@ button {
 }
 
 .source-list,
+.company-list,
 .theme-list,
 .review-list {
   display: grid;
@@ -227,7 +228,7 @@ button {
 
 .overview-grid {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(5, minmax(0, 1fr));
   gap: 0.75rem;
   margin-bottom: 1rem;
 }
@@ -278,10 +279,19 @@ button {
 }
 
 .toolbar {
-  display: grid;
-  grid-template-columns: minmax(14rem, 1fr) 10rem 10rem 10rem;
+  display: flex;
+  flex-wrap: wrap;
   gap: 0.65rem;
   margin-bottom: 1rem;
+}
+
+.toolbar .search-box {
+  flex: 2 1 18rem;
+}
+
+.toolbar select {
+  flex: 1 1 9rem;
+  min-width: 0;
 }
 
 .search-box {
@@ -465,6 +475,12 @@ select {
   background: rgba(55, 87, 166, 0.07);
 }
 
+.badge.company-badge {
+  color: var(--accent-3);
+  border-color: rgba(55, 87, 166, 0.22);
+  background: rgba(55, 87, 166, 0.07);
+}
+
 .evidence-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -530,6 +546,71 @@ select {
 .insight-rail {
   display: grid;
   gap: 1rem;
+}
+
+.company-panel {
+  padding: 0.9rem;
+}
+
+.company-item {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 0.6rem;
+  align-items: center;
+  border-top: 1px solid var(--line);
+  padding-top: 0.65rem;
+}
+
+.company-item:first-child {
+  border-top: 0;
+  padding-top: 0;
+}
+
+.company-item button {
+  min-width: 0;
+  border: 0;
+  padding: 0;
+  color: inherit;
+  background: transparent;
+  text-align: left;
+}
+
+.company-item button strong,
+.company-item button span {
+  display: block;
+}
+
+.company-item button strong {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 0.82rem;
+}
+
+.company-item button span,
+.company-signal-count {
+  color: var(--muted);
+  font-size: 0.72rem;
+  margin-top: 0.22rem;
+}
+
+.company-item.active button strong,
+.company-item button:hover strong,
+.company-item button:focus-visible strong {
+  color: var(--accent);
+}
+
+.company-item button:focus-visible {
+  outline: 2px solid rgba(20, 124, 114, 0.28);
+  outline-offset: 3px;
+}
+
+.company-signal-count {
+  min-width: 1.8rem;
+  border-radius: 999px;
+  background: var(--surface-soft);
+  padding: 0.18rem 0.42rem;
+  text-align: center;
 }
 
 .visual-panel {
@@ -685,7 +766,13 @@ tr:last-child td {
   }
 
   .toolbar {
-    grid-template-columns: 1fr;
+    flex-direction: column;
+  }
+
+  .toolbar .search-box,
+  .toolbar select {
+    flex-basis: auto;
+    width: 100%;
   }
 
   .nav {

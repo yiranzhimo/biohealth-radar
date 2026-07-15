@@ -4,11 +4,12 @@ Biotech / 大健康情报雷达测试原型。
 
 ## Scope
 
-这个原型先验证三个设计点：
+这个原型先验证几个设计点：
 
-- 一级分类：`Biotech 技术平台`、`AI Drug Discovery`、`Diagnostics & Precision Medicine`、`Clinical & Regulatory`、`Healthcare AI`、`Longevity & Wellness`
+- 一级分类：`Biotech 技术平台`、`AI Drug Discovery`、`Diagnostics & Precision Medicine`、`Clinical & Regulatory`、`Healthcare AI`、`Longevity & Wellness`、`Company & Market`
 - 前沿专题：`Organoids`、`Virtual Cell`、`AI for Biology`、`Precision Oncology`、`Longevity`
 - 证据分层：`Fact`、`Report`、`Inference`、`Unknown`
+- 公司实体：通过稳定 `companyId` 把论文、试验、后续监管和公司事件连接到同一家公司
 
 ## Files
 
@@ -16,6 +17,7 @@ Biotech / 大健康情报雷达测试原型。
 - `styles.css`: Dashboard 样式
 - `app.js`: 搜索、筛选、视图切换、主题图
 - `data.js`: 当前样例数据和来源 watchlist
+- `data/companies.json`: 公司 watchlist、别名、方向和官方入口
 - `.github/workflows/pages.yml`: GitHub Pages Actions 部署
 
 ## Local Test
@@ -53,6 +55,8 @@ python3 scripts/collect_pubmed.py --dry-run
 
 当前分类是规则分流，不是医学证据评价。所有自动采集的 PubMed signal 默认 `needsReview: true`。
 
+PubMed 标题、摘要、期刊和作者机构会与公司 registry 的正式名称及别名匹配；只有明确名称命中才写入 `companyIds`，不会仅凭研究主题推断公司归属。
+
 ## ClinicalTrials.gov Collection Test
 
 ClinicalTrials.gov 采集脚本会拉取试验登记记录，生成 `Registry` 类型 signal，并与当前 `data.js` 合并：
@@ -73,6 +77,71 @@ python3 scripts/collect_clinicaltrials.py --dry-run
 ```
 
 ClinicalTrials.gov 记录只能证明试验登记事实，例如状态、入组数、设计、日期和申办方；不能单独证明疗效、安全性或临床获益。
+
+试验的 lead sponsor、登记机构、标题、摘要和干预名称会与公司 registry 匹配，用于生成稳定的 `companyIds`。
+
+## Company Watchlist
+
+`data/companies.json` 当前包含 AI Drug Discovery、Gene Editing、RNA Therapeutics、Cell Therapy、Antibody / ADC、Targeted Protein Degradation、Precision Diagnostics、Sequencing & Research Tools、Organoids & Disease Models、Longevity 等方向的核心公司。
+
+每家公司使用稳定 ID，并记录：
+
+```text
+id
+name
+aliases
+ticker
+exchange
+ownership
+headquarters
+directions
+modalities
+watchTier
+officialUrl
+irUrl
+pipelineUrl
+```
+
+修改 registry 后，可以把公司数据同步到前端并重新关联现有 signal：
+
+```bash
+python3 scripts/sync_companies.py
+```
+
+公司关联只表示来源记录中明确出现了公司名称，不表示公司支持论文结论，也不表示试验结果有效。
+
+## SEC EDGAR Collection
+
+SEC 采集器使用官方 ticker / CIK 映射和 submissions API，追踪 watchlist 中在美国上市或发行 ADR 的公司：
+
+```bash
+export SEC_USER_AGENT="BioHealth Radar your-email@example.com"
+python3 scripts/collect_sec_edgar.py --days 14 --max-total 80
+```
+
+只测试连接、公司解析和表单分类，不写文件：
+
+```bash
+python3 scripts/collect_sec_edgar.py --days 7 --company recursion --dry-run
+```
+
+默认跟踪：
+
+```text
+8-K / 6-K
+10-Q / 10-K / 20-F
+S-1 / F-1
+424B1 / 424B2 / 424B3 / 424B4 / 424B5
+```
+
+输出：
+
+- `data/raw/sec_latest.json`: CIK 映射和原始 filing metadata
+- `data.js`: 合并后的 `Company & Market` signal
+
+第一版只根据 EDGAR metadata 确认“公司提交了某份表单”，不会自动解释正文或推断临床结果、融资完成、管线变化和商业影响。所有 SEC signal 默认 `needsReview: true`。
+
+SEC 要求自动访问声明带联系方式的 User-Agent，并限制在每秒 10 次请求以内。采集器每次请求间隔 0.15 秒；如果 SEC 返回 403，应先检查 `SEC_USER_AGENT`，也可能是运行环境的出口 IP 被其 fair-access 控制限制。
 
 ## OpenAI Review Test
 
@@ -162,7 +231,7 @@ git push
 它会每 6 小时自动运行：
 
 ```text
-PubMed collection -> ClinicalTrials.gov collection -> preserve prior aiReview -> OpenAI pre-review -> commit data.js -> deploy GitHub Pages
+PubMed collection -> ClinicalTrials.gov collection -> optional SEC EDGAR collection -> preserve prior aiReview -> OpenAI pre-review -> commit data.js -> deploy GitHub Pages
 ```
 
 每次自动处理所有尚未获得当前政策版本 AI 审核结果的信号，允许高置信通过自动退出 `Needs Review`。已有当前政策 `aiReview` 的条目会跳过；只有显式启用 `force_review` 才会重复审核。手动点击 `Run workflow` 时无需填写数量。
@@ -182,6 +251,15 @@ Settings -> Secrets and variables -> Actions -> Variables -> New repository vari
 Name: OPENAI_REVIEW_MODEL
 Value: gpt-4o-mini
 ```
+
+启用 SEC EDGAR 采集还需要添加仓库变量：
+
+```text
+Name: SEC_USER_AGENT
+Value: BioHealth Radar your-email@example.com
+```
+
+SEC 步骤是非阻断的：未配置时会跳过；SEC 暂时拒绝访问时不会阻止 PubMed、ClinicalTrials.gov 和页面部署。
 
 如果 `OPENAI_API_KEY` 不可用，workflow 会在采集前明确失败，避免发布未经预复核的新数据。
 
@@ -236,6 +314,7 @@ evidenceLevel
 needsReview
 themes
 tags
+companyIds
 fact
 report
 inference

@@ -10,6 +10,7 @@ Core categories:
 - Clinical & Regulatory
 - Healthcare AI
 - Longevity & Wellness
+- Company & Market
 
 Core evidence fields:
 
@@ -21,6 +22,7 @@ Core evidence fields:
 Data file:
 
 - ./data.js
+- ./data/companies.json
 
 Homepage:
 

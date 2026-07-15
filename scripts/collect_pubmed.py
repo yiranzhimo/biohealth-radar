@@ -19,6 +19,11 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 from typing import Any
 
+try:
+    from .company_registry import load_companies, match_company_ids
+except ImportError:
+    from company_registry import load_companies, match_company_ids
+
 
 EUTILS_BASE = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 TOOL_NAME = "BioHealthRadar"
@@ -73,6 +78,13 @@ SOURCE_WATCHLIST = [
         "type": "Company",
         "cadence": "1h",
         "reliability": "Medium",
+        "url": "https://www.sec.gov/edgar/search/",
+    },
+    {
+        "name": "SEC EDGAR",
+        "type": "Filing",
+        "cadence": "6h",
+        "reliability": "High",
         "url": "https://www.sec.gov/edgar/search/",
     },
     {
@@ -277,6 +289,9 @@ def parse_article(article: ET.Element) -> dict[str, Any]:
     publication_types = [
         flatten(node) for node in article.findall(".//PublicationTypeList/PublicationType")
     ]
+    affiliations = unique(
+        [flatten(node) for node in article.findall(".//AuthorList/Author/AffiliationInfo/Affiliation")]
+    )
     doi = ""
     for article_id in article.findall(".//ArticleIdList/ArticleId"):
         if article_id.attrib.get("IdType") == "doi":
@@ -289,6 +304,7 @@ def parse_article(article: ET.Element) -> dict[str, Any]:
         "abstract": abstract,
         "journal": journal,
         "publicationTypes": publication_types,
+        "affiliations": affiliations,
         "doi": doi,
         "date": pub_date,
         "sourceUrl": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/" if pmid else "https://pubmed.ncbi.nlm.nih.gov/",
@@ -422,12 +438,26 @@ def summarize_abstract(abstract: str, limit: int = 260) -> str:
     return clean if len(clean) <= limit else f"{clean[:limit].rstrip()}..."
 
 
-def make_signal(record: dict[str, Any], index: int) -> dict[str, Any]:
+def make_signal(
+    record: dict[str, Any],
+    index: int,
+    companies: list[dict[str, Any]] | None = None,
+) -> dict[str, Any]:
     classification = classify(record)
+    companies = companies if companies is not None else load_companies()
     pmid = record.get("pmid", "")
     title = record.get("title", "")
     journal = record.get("journal", "") or "PubMed"
     matched = ", ".join(classification.pop("matchedRules")) or "fallback"
+    company_ids = match_company_ids(
+        [
+            record.get("title", ""),
+            record.get("abstract", ""),
+            record.get("journal", ""),
+            record.get("affiliations", []),
+        ],
+        companies,
+    )
     return {
         "id": f"pubmed-{pmid or index:0>8}",
         "date": record.get("date", ""),
@@ -444,6 +474,7 @@ def make_signal(record: dict[str, Any], index: int) -> dict[str, Any]:
         "needsReview": True,
         "themes": classification["themes"],
         "tags": classification["tags"],
+        "companyIds": company_ids,
         "fact": f"PubMed 记录显示该文献收录于 {journal}，PMID 为 {pmid or 'unknown'}。",
         "report": summarize_abstract(record.get("abstract", "")),
         "inference": f"自动分类命中规则：{matched}。该分类仅用于情报分流，不代表研究质量或临床结论。",
@@ -472,12 +503,17 @@ def main() -> int:
     records = fetch_pubmed(deduped_pmids, args.email)
     records_by_pmid = {record.get("pmid", ""): record for record in records}
     ordered_records = [records_by_pmid[pmid] for pmid in deduped_pmids if pmid in records_by_pmid]
-    signals = [make_signal(record, index) for index, record in enumerate(ordered_records, start=1)]
+    companies = load_companies()
+    signals = [
+        make_signal(record, index, companies)
+        for index, record in enumerate(ordered_records, start=1)
+    ]
     signals.sort(key=lambda item: item.get("date", ""), reverse=True)
 
     payload = {
         "updatedAt": today.isoformat(),
         "sources": SOURCE_WATCHLIST,
+        "companies": companies,
         "signals": signals,
     }
     raw_payload = {

@@ -29,6 +29,7 @@
           <button class="nav-item" data-category="Clinical & Regulatory" type="button">Clinical & Regulatory</button>
           <button class="nav-item" data-category="Healthcare AI" type="button">Healthcare AI</button>
           <button class="nav-item" data-category="Longevity & Wellness" type="button">Longevity & Wellness</button>
+          <button class="nav-item" data-category="Company & Market" type="button">Company & Market</button>
         </nav>
 
         <section class="panel source-panel" aria-labelledby="source-heading">
@@ -69,6 +70,10 @@
             <span>Evidence High</span>
             <strong id="metric-high">0</strong>
           </article>
+          <article class="metric">
+            <span>Companies Tracked</span>
+            <strong id="metric-companies">0</strong>
+          </article>
         </section>
 
         <section class="workspace">
@@ -78,6 +83,9 @@
                 <span aria-hidden="true">⌕</span>
                 <input id="search-input" type="search" placeholder="搜索公司、疾病、靶点、技术、来源" />
               </label>
+              <select id="company-filter" aria-label="Company filter">
+                <option value="All">全部公司</option>
+              </select>
               <select id="source-filter" aria-label="Source type filter">
                 <option value="All">全部来源</option>
                 <option value="Regulator">Regulator</option>
@@ -115,6 +123,14 @@
           </section>
 
           <aside class="insight-rail">
+            <section class="panel company-panel" aria-labelledby="company-heading">
+              <div class="section-heading">
+                <h2 id="company-heading">Company Watchlist</h2>
+                <span id="company-count">0</span>
+              </div>
+              <div id="company-list" class="company-list"></div>
+            </section>
+
             <section class="panel visual-panel" aria-labelledby="map-heading">
               <div class="section-heading">
                 <h2 id="map-heading">Theme Map</h2>
