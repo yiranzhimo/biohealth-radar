@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-15T19:38:40.274569+00:00",
+  "capturedAt": "2026-07-16T03:42:09.672652+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-07-15",
-    "end": "2026-07-15"
+    "start": "2025-07-16",
+    "end": "2026-07-16"
   },
   "pmids": [
+    "42456173",
     "42455448",
     "42455253",
     "42454579",
     "42454519",
     "42454248",
-    "42453877",
     "42447329",
     "42444608",
     "42431103",
@@ -32,14 +32,31 @@
     "42447285",
     "42445758",
     "42444981",
+    "42456092",
+    "42456001",
     "42455255",
     "42455071",
     "42454978",
-    "42454192",
-    "42453701",
-    "42453186"
+    "42454192"
   ],
   "records": [
+    {
+      "pmid": "42456173",
+      "title": "Tinengotinib (TT-00420) inhibits tumor growth and overcomes multidrug resistance in gastrointestinal cancers.",
+      "abstract": "Gastrointestinal malignancies have a high incidence and mortality rates worldwide; however, treatment challenges persist, including the lack of effective targets, limited therapeutic options, and primary and acquired resistance. Tinengotinib (TT-00420), an innovative multi-target kinase inhibitor developed by TransThera Sciences (Nanjing), Inc., has demonstrated strong antitumor activity in breast cancer, cholangiocarcinoma, and small cell lung cancer, but its therapeutic potential in gastrointestinal cancers has not been fully explored. In this study, human gastric cancer and colorectal cancer cell lines, together with patient-derived xenograft, cell line-derived xenograft, and patient-derived organoid models, were used to comprehensively evaluate the antitumor efficacy of TT-00420 in regulating tumor growth. In addition, trastuzumab-resistant and immunotherapy-resistant models were established to assess the antitumor activity of TT-00420 in treatment-refractory settings. TT-00420 effectively suppressed tumor growth in both gastric and colorectal cancer PDX models while maintaining a favorable safety profile and demonstrated robust efficacy in trastuzumab-resistant and immunotherapy-resistant models. Mechanistically, Western blot analysis revealed that Aurora A expression was downregulated following TT-00420 treatment, and the IC50 of TT-00420 increased in AURKA-knockdown cell lines, suggesting that Aurora A contributes to the antitumor activity of TT-00420. Collectively, these findings indicate that TT-00420 is a highly promising antitumor agent with potent efficacy against gastric and colorectal cancers, providing a potential therapeutic strategy for gastrointestinal malignancies and offering valuable insights for future clinical research.",
+      "journal": "Molecular cancer therapeutics",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Peking University Cancer Hospital & Institute Beijing China.",
+        "Peking University Cancer Hospital Beijing United States.",
+        "TransThera Sciences (Nanjing), Inc. Nanjing China."
+      ],
+      "doi": "10.1158/1535-7163.MCT-25-0633",
+      "date": "2026-07-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42456173/"
+    },
     {
       "pmid": "42455448",
       "title": "DLBCL-microenvironment interactions: cytokine profiling and ECM-mediated ibrutinib resistance in a 3D bone-based model.",
@@ -135,23 +152,6 @@
       "doi": "10.1177/15357597261464330",
       "date": "2026-07-13",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42454248/"
-    },
-    {
-      "pmid": "42453877",
-      "title": "Lung cancer organoids for functional precision oncology: from disease modeling to clinical decision support.",
-      "abstract": "Lung cancer is characterized by extensive heterogeneity and the frequent emergence of acquired resistance, posing major obstacles for successful therapy. Traditional preclinical models, such as two-dimensional (2D) cell cultures and animal models, either lack physiological relevance or require timelines that are poorly coordinated with clinical needs. Lung cancer organoids (LCOs) have been recognized as a promising in vitro three-dimensional (3D) platform that retain key features of original tumors, including histological architecture, genetic alterations, and intratumoral heterogeneity. In this review, we summarize recent developments in the area from the perspective of functional precision oncology. We first consider why LCOs are especially valuable, yet technically difficult, in lung cancer, with special focus on sample source, culture bias, contamination by normal airway epithelium, and authentication approaches. We then outline the functional applications of LCOs in recapitulating tumor initiation, evolutionary plasticity, treatment-induced adaptation, immune interactions, drug screening, and biobank construction. Building on these applications, we underscore the critical translational bottlenecks that still constrain routine clinical implementation, such as model fidelity, lack of standardization, temporal restrictions, and inadequate microenvironmental complexity. Lastly, we explore how microfluidic systems, biomimetic matrices, 3D bioprinting, and artificial intelligence (AI)-assisted analytics could help convert LCOs from research models into clinically implementable decision-support platforms. Collectively, these advances place LCOs as a core part of emerging functional precision oncology in lung cancer.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Center for Genetic Medicine, International School of Medicine and International Institute of Medicine, Zhejiang University, Yiwu, Zhejiang, China.",
-        "Department of Thoracic Surgery, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, China."
-      ],
-      "doi": "10.3389/fonc.2026.1864153",
-      "date": "2026-06-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42453877/"
     },
     {
       "pmid": "42447329",
@@ -363,6 +363,46 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42444981/"
     },
     {
+      "pmid": "42456092",
+      "title": "A modern review of uveal melanoma: molecular insights, clinical management, and emerging therapies.",
+      "abstract": "Uveal melanoma is the most frequent primary intraocular malignancy in adults and is characterized by an aggressive clinical course, high propensity for hepatic metastasis, and poor survival after metastatic progression. Improvements in ocular imaging and local therapies have improved primary tumor control, but approximately half of patients will ultimately develop metastatic disease with poor treatment options. Recent advances in genomics and molecular biology have dramatically improved our understanding of uveal melanoma pathogenesis, with the discovery of activating mutations in GNAQ, GNA11, CYSLTR2, and PLCB4 as early oncogenic events that drive aberrant signaling through the protein kinase C (PKC), MAPK, PI3K/AKT, and Hippo-YAP pathways. Additional changes in BAP1, SF3B1, and EIF1AX as well as common chromosomal aberrations, contribute to tumor progression, metastatic risk and clinical heterogeneity. New insights into the distinct immune landscape of uveal melanoma, including low tumor mutational burden, immune-desert and immune-excluded phenotypes, a macrophage-dominant microenvironment, and hepatic immune tolerance, have provided important explanations for its poor response to conventional immunotherapies. This review summarizes current knowledge on the epidemiology, risk factors, molecular pathogenesis, tumor microenvironment, diagnostic innovations and prognostic biomarkers of UM. We also review novel developments in molecular profiling, liquid biopsy, artificial intelligence-assisted diagnostics, and precision oncology strategies, as well as novel therapeutic approaches such as tebentafusp, protein kinase C inhibitors, immune checkpoint inhibitors, adoptive cell therapies, and liver-directed therapies. These advances are together changing the clinical management of uveal melanoma and provide new opportunities for personalized treatment, earlier detection of metastatic disease and improved patient outcomes.",
+      "journal": "Melanoma research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Agriculture Sciences, Janardan Rai Nagar Rajasthan Vidyapeeth, Udaipur, Rajasthan.",
+        "Institute of Bioinformatics, International Technology Park, Bangalore, Karnataka.",
+        "Department of Bioscience and Biotechnology, Banasthali Vidyapith, Tonk.",
+        "Department of Biotechnology, Mohanlal Sukhadia University, Udaipur, Rajasthan.",
+        "Department of Biosciences, Chandigarh University, Mohali, Punjab, India.",
+        "Department of Integrated Oncology, Center for Integrated Oncology (CIO) Bonn, University Hospital Bonn, Bonn, Germany.",
+        "Department of Biochemistry, Central University of Haryana, Mahendergarh, Haryana.",
+        "Manipal Academy of Higher Education, Manipal, Karnataka, India."
+      ],
+      "doi": "10.1097/CMR.0000000000001124",
+      "date": "2026-07-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42456092/"
+    },
+    {
+      "pmid": "42456001",
+      "title": "Aptamer-Modified Nanostructured Particles Exhibiting Sensitive Cell-Scale FRET Enable Precise Pancreatic Cancer Diagnosis.",
+      "abstract": "Diagnosis of pancreatic cancer (PC) at early stage remains a challenge due to the limited sensitivity and specificity of current biomarkers. Here, we develop nanostructured magnetic particles (NMPs) exhibiting highly sensitive and specific circulating tumor cells (CTCs) quantification enabled by Förster resonance energy transfer (FRET), and demonstrate precise diagnosis of PC from benign pancreatic tumors (BPT) and healthy donors (HD). The NMPs are modified with aptamer, which can preferably bind to cells with higher specificity and guarantee effective substitution of acceptors. Compared with smooth magnetic particles (SMPs), NMPs provide more binding sites for CTCs, which significantly enhances the fluorescent signal and detection limit. An ultralow detection limit (1 cell/mL) is achieved using this unique capture and detection platform. Clinical validation demonstrates the superior diagnostic performance of this CTCs-based approach, with 91.7% sensitivity in detecting PC patients and 96.6% specificity. Receiver operating characteristic (ROC) analysis reveals an area under the curve (AUC) of 0.957, outperforming conventional biomarkers (CA19-9:0.905; CEA: 0.747; CA125:0.625). Our strategy represents an important methodological progress for tumor liquid biopsy, showing promise for clinical diagnosis, monitoring, and evaluation.",
+      "journal": "Analytical chemistry",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Beijing Key Laboratory for Bioengineering and Sensing Technology, School of Chemistry and Biological Engineering, University of Science and Technology Beijing, Beijing 100083, P. R. China.",
+        "Department of General Surgery, State Key Lab of Digestive Health, National Clinical Research Center for Digestive Diseases, Beijing Friendship Hospital, Capital Medical University, Beijing 100050, P. R. China.",
+        "Laboratory of Bio-inspired Smart Interface Science, Technical Institute of Physics and Chemistry, Chinese Academy of Sciences, Beijing 100190, P. R. China.",
+        "University of Chinese Academy of Sciences, Beijing 100049, P. R. China."
+      ],
+      "doi": "10.1021/acs.analchem.6c02175",
+      "date": "2026-07-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42456001/"
+    },
+    {
       "pmid": "42455255",
       "title": "Optimizing Extended Adjuvant Endocrine Therapy in Early HR+/HER2- Breast Cancer: The Emerging Role of Genomic Assays and ctDNA MRD.",
       "abstract": "Hormone receptor-positive (HR+) and HER2-negative (HER2-) breast cancer represents the most prevalent subtype of early-stage breast cancer. Adjuvant endocrine therapy (ET) substantially reduces recurrence and breast cancer mortality; however, late relapse remains a major challenge, with a considerable proportion of recurrences occurring beyond 5 years after diagnosis. Although extended ET can modestly reduce late recurrence, it is associated with cumulative toxicities and impaired quality of life, highlighting the urgent need for biomarkers to identify patients who truly benefit from treatment escalation or extension, while sparing low-risk individuals from overtreatment. Tissue-based multigene expression assays, including the Breast Cancer Index (BCI), EndoPredict, Prosigna, Oncotype DX, and MammaPrint, have improved risk stratification and informed treatment decisions, with BCI demonstrating the strongest evidence for predicting benefit from extended endocrine therapy. Among currently available assays, BCI has the strongest level of evidence supporting its use in guiding extended endocrine therapy decisions. In parallel, liquid biopsy approaches, particularly circulating tumor DNA (ctDNA)/minimal residual disease (MRD) detection, have emerged as promising tools for dynamic monitoring and early detection of molecular relapse. This review summarizes current evidence supporting biomarker-guided decision-making in early-stage HR+/HER2- breast cancer, focusing on three clinically relevant questions: who requires treatment escalation, who benefits from extended endocrine therapy, and who may safely de-escalate. We further discuss challenges and future directions toward integrated models combining genomic assays with longitudinal ctDNA monitoring to refine personalized adjuvant endocrine strategies. However, current evidence remains limited, and prospective validation is required.",
@@ -443,51 +483,43 @@
       "doi": "10.20517/evcna.2026.19",
       "date": "2026-06-03",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42454192/"
-    },
-    {
-      "pmid": "42453701",
-      "title": "Post-IMvigor011 Era: CtDNA-Guided Postoperative Adjuvant Treatment Stratification in Muscle-Invasive Bladder Cancer.",
-      "abstract": "Muscle-invasive bladder cancer (MIBC) remains characterized by substantial postoperative heterogeneity after radical cystectomy, and conventional pathology and imaging incompletely identify patients with biologically active residual disease. Circulating tumor DNA (ctDNA) has emerged as the most clinically advanced liquid-biopsy marker of molecular residual disease (MRD) in this setting because it can detect recurrence before radiographic progression and, more importantly, can now inform postoperative treatment selection. The Phase III IMvigor011 trial provided the first prospective randomized evidence that ctDNA-guided adjuvant atezolizumab improves disease-free and overall survival in patients who become ctDNA-positive after cystectomy, thereby establishing molecular relapse as an actionable postoperative state rather than a merely prognostic observation. By contrast, the favorable outcomes observed in persistently ctDNA-negative patients support surveillance-based de-escalation but do not yet constitute randomized proof that adjuvant therapy can be safely omitted. In this review, we examine how the field evolved from early prognostic studies to biomarker-directed intervention, synthesize the distinct clinical logics of escalation and de-escalation, and analyze the remaining barriers to implementation, including assay selection, sampling kinetics, false-negative risk, clonal hematopoiesis of indeterminate potential (CHIP) interference, pre-analytical control, and economic feasibility. We also discuss how emerging data from TOMBOLA, MODERN, and complementary plasma/urine multi-analyte approaches may determine whether ctDNA-guided management matures from selective escalation into a broader risk-adapted postoperative strategy. The central challenge in the post-IMvigor011 era is therefore no longer whether ctDNA is clinically relevant, but how to integrate it rigorously, reproducibly, and contextually into contemporary perioperative MIBC care.",
-      "journal": "Cancer management and research",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Geratology, The First Hospital of China Medical University, Shenyang, Liaoning, People's Republic of China.",
-        "Department of Urology, The First Hospital of China Medical University, Shenyang, Liaoning, People's Republic of China.",
-        "Emergency Department, The First Hospital of China Medical University, Shenyang, Liaoning, People's Republic of China.",
-        "Department of Pancreatic-Biliary Surgery, The First Hospital of China Medical University, Shenyang, Liaoning, People's Republic of China."
-      ],
-      "doi": "10.2147/CMAR.S609903",
-      "date": "2026-07-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42453701/"
-    },
-    {
-      "pmid": "42453186",
-      "title": "Primary central nervous system lymphoma-current standards and recent developments.",
-      "abstract": "Primary central nervous system lymphoma (PCNSL) is a rare aggressive B-cell non-Hodgkin lymphoma confined to the central nervous system, without systemic involvement. The incidence has increased over the past 3 decades. The prognosis has improved in patients up to 70 years old, and this type of lymphoma can be potentially cured. The gold standard of diagnosing PCNSL is histological, usually on a brain biopsy specimen via a neurosurgical procedure. Recent developments in both imaging and laboratory analyses of the cerebrospinal fluid, can be helpful in narrowing the differential diagnosis, diagnosing PCNSL itself, and in follow-up after treatment. This narrative review gives an overview of the epidemiology, diagnosis, and treatment of PCNSL, with an emphasis on recent developments in diagnostic techniques and treatment.",
-      "journal": "Neuro-oncology practice",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Neurology, Leiden University Medical Center, Leiden, the Netherlands.",
-        "Department of Hematology, Leiden University Medical Center, Leiden, the Netherlands.",
-        "Department of Neurology, University Hospital Cologne, Cologne, Germany.",
-        "Institute of Neuroscience and Medicine (INM-3), Research Center Juelich, Juelich, Germany.",
-        "Department of Hematology, Middlemore Hospital, Auckland, New Zealand.",
-        "Department of Radiology, Leiden University Medical Center, Leiden, the Netherlands.",
-        "Department of hematology, Erasmus MC Cancer Institute, University Medical Center Rotterdam, Rotterdam, the Netherlands.",
-        "Department of neurology, Erasmus MC Cancer Institute, Brain Tumor Center, University Medical Center Rotterdam, Rotterdam, the Netherlands."
-      ],
-      "doi": "10.1093/nop/npag016",
-      "date": "2026-02-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42453186/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42456173",
+      "date": "2026-07-15",
+      "title": "Tinengotinib (TT-00420) inhibits tumor growth and overcomes multidrug resistance in gastrointestinal cancers.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42456173/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular cancer therapeutics，PMID 为 42456173。",
+      "report": "Gastrointestinal malignancies have a high incidence and mortality rates worldwide; however, treatment challenges persist, including the lack of effective targets, limited therapeutic options, and primary and acquired resistance. Tinengotinib (TT-00420), an inn...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42455448",
       "date": "2026-07-15",
@@ -586,6 +618,66 @@
       "fact": "PubMed 记录显示该文献收录于 Biofabrication，PMID 为 42454519。",
       "report": "Osteocytes form an extensive dendritic network within bone tissue that senses mechanical and biochemical stimuli, critical for bone homeostasis. However, the complex interplay between mechanotransduction, oxygen tension, and osteocyte differentiation remains d...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42456092",
+      "date": "2026-07-15",
+      "title": "A modern review of uveal melanoma: molecular insights, clinical management, and emerging therapies.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42456092/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Melanoma research，PMID 为 42456092。",
+      "report": "Uveal melanoma is the most frequent primary intraocular malignancy in adults and is characterized by an aggressive clinical course, high propensity for hepatic metastasis, and poor survival after metastatic progression. Improvements in ocular imaging and local...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42456001",
+      "date": "2026-07-15",
+      "title": "Aptamer-Modified Nanostructured Particles Exhibiting Sensitive Cell-Scale FRET Enable Precise Pancreatic Cancer Diagnosis.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42456001/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Analytical chemistry，PMID 为 42456001。",
+      "report": "Diagnosis of pancreatic cancer (PC) at early stage remains a challenge due to the limited sensitivity and specificity of current biomarkers. Here, we develop nanostructured magnetic particles (NMPs) exhibiting highly sensitive and specific circulating tumor ce...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -837,34 +929,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42453701",
-      "date": "2026-07-10",
-      "title": "Post-IMvigor011 Era: CtDNA-Guided Postoperative Adjuvant Treatment Stratification in Muscle-Invasive Bladder Cancer.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Clinical Study",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42453701/",
-      "reliability": "High",
-      "evidenceLevel": "High",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer management and research，PMID 为 42453701。",
-      "report": "Muscle-invasive bladder cancer (MIBC) remains characterized by substantial postoperative heterogeneity after radical cystectomy, and conventional pathology and imaging incompletely identify patients with biologically active residual disease. Circulating tumor...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42445758",
       "date": "2026-07-07",
       "title": "Artificial Intelligence in Pharmaceutical Care: Transforming Drug Discovery, Development, and Patient-care Delivery.",
@@ -1051,42 +1115,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42453877",
-      "date": "2026-06-30",
-      "title": "Lung cancer organoids for functional precision oncology: from disease modeling to clinical decision support.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42453877/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Healthcare AI",
-        "Medical LLM",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "医疗 AI",
-        "临床决策支持",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42453877。",
-      "report": "Lung cancer is characterized by extensive heterogeneity and the frequent emergence of acquired resistance, posing major obstacles for successful therapy. Traditional preclinical models, such as two-dimensional (2D) cell cultures and animal models, either lack...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42450185",
       "date": "2026-06-30",
       "title": "Evaluating AI-Generated Molecules for Drug Discovery: From Generic Metrics to Translational Readiness.",
@@ -1204,34 +1232,6 @@
       "fact": "PubMed 记录显示该文献收录于 Extracellular vesicles and circulating nucleic acids，PMID 为 42454192。",
       "report": "Extracellular vesicle (EV)-associated microRNAs (miRNAs) are promising minimally invasive biomarkers, as EV encapsulation protects miRNAs from degradation while preserving disease- and cell- type-specific expression patterns across diverse human body fluids. T...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42453186",
-      "date": "2026-02-23",
-      "title": "Primary central nervous system lymphoma-current standards and recent developments.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42453186/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neuro-oncology practice，PMID 为 42453186。",
-      "report": "Primary central nervous system lymphoma (PCNSL) is a rare aggressive B-cell non-Hodgkin lymphoma confined to the central nervous system, without systemic involvement. The incidence has increased over the past 3 decades. The prognosis has improved in patients u...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
