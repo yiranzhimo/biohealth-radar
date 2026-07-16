@@ -1,26 +1,26 @@
 {
-  "capturedAt": "2026-07-16T03:42:18.815589+00:00",
+  "capturedAt": "2026-07-16T08:36:44.224269+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42456173",
-      "responseId": "resp_0c1c23ee813068fd006a58531bcfe081a2b6fba76d4a65765a",
+      "signalId": "pubmed-42458200",
+      "responseId": "resp_0c23ee73ab7d8958006a58981d0dc08198b27b0e1f47a895e6",
       "review": {
         "status": "pass",
         "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号的事实、报告和推断清晰分离，且未包含未支持的疗效或安全性结论，适合发布。",
+        "reviewSummaryCn": "该记录符合出版标准，内部一致且中立。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": ""
+          "notesCn": "分类合理，符合主题。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": ""
+          "notesCn": "证据等级合理，并已明确分离事实、报告和推论。"
         },
         "riskFlags": [
           "clinical_claim",
@@ -34,42 +34,174 @@
             "Organoids",
             "Advanced Disease Models",
             "Clinical Evidence",
-            "Regulatory Watch",
-            "Precision Oncology"
+            "Regulatory Watch"
           ],
           "tags": [
             "类器官",
             "疾病模型",
             "临床",
-            "监管",
-            "肿瘤"
+            "监管"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Molecular cancer therapeutics，PMID 为 42456173。",
-          "report": "Gastrointestinal malignancies have a high incidence and mortality rates worldwide; however, treatment challenges persist, including the lack of effective targets, limited therapeutic options, and primary and acquired resistance.",
+          "fact": "PubMed 记录显示该文献收录于 Reproductive sciences (Thousand Oaks, Calif.)，PMID 为 42458200。",
+          "report": "Endometrial injury is an important cause of infertility and adverse reproductive outcomes, but current treatments often fail to fully restore uterine structure and function. Tissue engineering strategies, including hydrogels, biodegradable scaffolds, 3D biopri...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42456092",
-      "responseId": "resp_061deb790d719e43006a585322117481a19c4e0f6b5219f4ad",
+      "signalId": "pubmed-42457924",
+      "responseId": "resp_0898348b5073d7d5006a589823f4708198b6d17b56967b6275",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人类审核，因存在对研究结果的部分推测。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类合理性不足，未能充分支持临床结论。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平标识为中等，但推断的临床相关性不明确。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cell death and differentiation，PMID 为 42457924。",
+          "report": "Colorectal cancer stem cells (CSCs) drive tumor progression through poorly understood metabolic-epigenetic crosstalk. Here, we identify mitochondrial RNA polymerase POLRMT as a key link connecting mitochondrial transcription to CSC maintenance. Clinically, POL...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42456994",
+      "responseId": "resp_00bf8b405251606f006a58982c93808199aa0691dc88caffc9",
       "review": {
         "status": "pass",
-        "confidence": 0.95,
+        "confidence": 0.85,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献符合中立情报记录的标准，信息分类合理。",
+        "reviewSummaryCn": "该文献强调肝脑轴在生活方式诱导的脑衰老中的作用，信息整合合理，未做不当临床推论。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类与研究主题一致。"
+          "notesCn": "类别和证据水平与提供的元数据相符。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推理清晰分离，证据水平合理。"
+          "notesCn": "事实、报告和推论之间的界限已明确区分。"
         },
         "riskFlags": [
-          "weak_classification"
+          "biomarker",
+          "aging_biology",
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Longevity",
+            "Biomarkers",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "衰老",
+            "biomarker",
+            "longevity",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Free radical biology & medicine，PMID 为 42456994。",
+          "report": "Unhealthy lifestyles promote brain aging, but their mechanisms remain unclear. The liver-brain axis acts as a key mediator of brain dysfunction and warrants investigation in lifestyle-induced brain aging. To elucidate how the liver-brain axis mediates lifestyle-related brain aging...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42457023",
+      "responseId": "resp_0d01b2275aaf64cf006a5898327998819986ab7c3ffbd50cac",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献涉及前额叶痴呆的潜在治疗策略，但缺乏足够信息来判断研究质量及其临床应用。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "虽然主题类别合理，但证据级别不适合该文献的描述和推断。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "报告中包含非支持的疗效推断，证据级别评估不合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "AI Drug Discovery",
+          "subCategory": "AI-enabled Discovery",
+          "evidenceLevel": "Low",
+          "themes": [
+            "AI for Biology",
+            "Drug Discovery",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "AI 制药",
+            "蛋白设计",
+            "分子生成",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 New biotechnology，PMID 为 42457023。",
+          "report": "Loss-of-function mutations in the gene encoding progranulin (PGRN) are a common cause of frontotemporal dementia, leading to markedly decreased PGRN levels. A potential therapeutic strategy is therefore to increase extracellular PGRN by blocking sortilin-mediated endocytosis.",
+          "inference": "该文献不应被用作临床治疗建议。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42458480",
+      "responseId": "resp_0e6f116ee4de6b74006a589838e2988198abe5e6750dc40e65",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人类审查，研究质量、样本量和利益冲突等缺乏判断。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "类别未能支持具体的研究质量与临床结论。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据级别被标记为中等，但缺乏对研究质量的判断。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
         ],
         "suggestedEdits": {
           "primaryCategory": "Diagnostics & Precision Medicine",
@@ -78,39 +210,40 @@
           "themes": [
             "Diagnostics",
             "Precision Medicine",
-            "Precision Oncology"
+            "Precision Oncology",
+            "Multi-omics"
           ],
           "tags": [
             "诊断",
             "精准医疗",
-            "肿瘤"
+            "肿瘤",
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Melanoma research，PMID 为 42456092。",
-          "report": "Uveal melanoma is the most frequent primary intraocular malignancy in adults and is characterized by an aggressive clinical course, high propensity for hepatic metastasis, and poor survival after metastatic progression. Improvements in ocular imaging and local...",
+          "fact": "PubMed 记录显示该文献收录于 Cell communication and signaling : CCS，PMID 为 42458480。",
+          "report": "Chemoresistance remains a major obstacle to effective treatment in gastric cancer (GC), with a notable scarcity of clinically applicable biomarkers and therapeutic targets. In this study, we employed an integrated proteomic approach analyzing paired serum samp...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42456001",
-      "responseId": "resp_07074063a1c9a8e2006a5853277014819da306d21e6aaaaf98",
+      "signalId": "pubmed-42458453",
+      "responseId": "resp_09ff4a98842d026d006a58983f5400819b9015859a0d742815",
       "review": {
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该信号报告的内容涉及早期胰腺癌诊断的研究，存在未验证的临床结论，需要人工审查。",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号记录清晰分离了事实、报告、推断和未知内容，符合发布要求。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，适用于提供的元数据。"
+          "notesCn": "分类和证据级别合理符合源元数据。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平被标记为中等，但未足够支持具体结论。"
+          "evidenceLevelReasonable": true,
+          "notesCn": "源数据报告和推断清晰分隔，无治疗建议或不支持的临床结论。"
         },
         "riskFlags": [
-          "weak_classification",
           "clinical_claim"
         ],
         "suggestedEdits": {
@@ -119,17 +252,63 @@
           "evidenceLevel": "Medium",
           "themes": [
             "Diagnostics",
+            "Precision Medicine"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42458453。",
+          "report": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative syndrome diagnosed clinically using standardized criteria, with neuropathological confirmation of motor neuron loss and TDP-43 aggregates in postmortem brain tissue. Extracellular vesicles (EVs)...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42457866",
+      "responseId": "resp_0233af229a4e947b006a589847894c819bb78c932a151e8e89",
+      "review": {
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号已按要求分开事实、报告和推论，且未做未经支持的临床推断。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要分类和证据水平合理。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论明确分开。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
             "Precision Medicine",
-            "Precision Oncology"
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology",
+            "Multi-omics"
           ],
           "tags": [
             "诊断",
             "精准医疗",
-            "肿瘤"
+            "临床",
+            "监管",
+            "肿瘤",
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Analytical chemistry，PMID 为 42456001。",
-          "report": "Diagnosis of pancreatic cancer (PC) at early stage remains a challenge due to the limited sensitivity and specificity of current biomarkers. Here, we develop nanostructured magnetic particles (NMPs) exhibiting highly sensitive and specific circulating tumor cells detection.",
-          "inference": "该分类仅用于情报分流，不可推测为临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 NPJ precision oncology，PMID 为 42457866。",
+          "report": "Gastric cancer remains a leading cause of cancer-related mortality, with positive peritoneal lavage cytology (PLC) indicating early peritoneal metastasis and poor prognosis. However, conventional imaging and laparoscopy lack sufficient sensitivity for early detection.",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
