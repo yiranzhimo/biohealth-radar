@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-07-16",
+  "updatedAt": "2026-07-17",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -822,6 +822,79 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42461884",
+      "date": "2026-07-16",
+      "title": "12-HHT is associated with epithelial barrier enhancement and reduced inflammatory responses in colon organoids of normoganglionosis in Hirschsprung's disease.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42461884/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 PloS one，PMID 为 42461884。",
+      "report": "Hirschsprung-associated enterocolitis remains a major postoperative complication of Hirschsprung's disease (HD), and impaired epithelial barrier integrity has been proposed as a contributing factor. In this study, we investigated whether 12-hydroxyheptadecatri...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_009282370d23c934006a59a47d6480819aad9bca8f3e21bf6f",
+        "reviewedAt": "2026-07-17T03:41:48.784027+00:00",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录的事实、报告和推论清晰分离，适合发布。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类符合文献内容和研究主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平与来源一致，且推断合理。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 PloS one，PMID 为 42461884。",
+          "report": "Hirschsprung-associated enterocolitis remains a major postoperative complication of Hirschsprung's disease (HD), and impaired epithelial barrier integrity has been proposed as a contributing factor. In this study, we investigated whether 12-hydroxyheptadecatri...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42461083",
       "date": "2026-07-16",
       "title": "Targeting WRN Helicase in Microsatellite Instable Colorectal Cancer Induces Antitumor Immunity through Extrachromosomal Circular DNA Release.",
@@ -1131,75 +1204,216 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42460645",
+      "id": "pubmed-42462358",
       "date": "2026-07-16",
-      "title": "Stromal-Derived IL-8 Promotes M2 Macrophage Polarization via the RhoA/MRTF-A/SRF Transcriptional Axis to Impair CD8+ T Cell Cytotoxicity in Lung Cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "title": "Protein function evolution through the lens of conformational dynamics: A single-molecule perspective.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42460645/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42462358/",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": true,
+      "needsReview": false,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
+        "AI for Biology",
+        "Drug Discovery"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42460645。",
-      "report": "Building upon our previous finding that tumor-derived lactate activates DESMIN+ cancer-associated fibroblasts (CAFs) to secrete interleukin-8 (IL-8), this study investigates the downstream IL-8/C-X-C motif chemokine receptor 2 (CXCR2) axis in CAF-mediated macr...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Current opinion in structural biology，PMID 为 42462358。",
+      "report": "Understanding how proteins evolve requires moving beyond the classical sequence-structure paradigm toward a framework that incorporates conformational dynamics as a substrate of innovation. Within this framework, function emerges not only from single structure...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0148233be0bb5586006a5932c4320c819b8e92e733592294b5",
-        "reviewedAt": "2026-07-16T19:36:12.409675+00:00",
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文档未能明确区分学术报告与结论，需人工审查。",
+        "responseId": "resp_0238ebd1c9d4cf95006a59a482ec9c8199a7cec478b26e0f95",
+        "reviewedAt": "2026-07-17T03:41:48.784027+00:00",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录清晰分类，支持信息合理，未有临床结论或治疗建议。",
         "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类与文档内容不完全一致，需确认研究质量及其实证水平。"
+          "isSupported": true,
+          "notesCn": "主分类和子分类合理，符合提供的元数据。"
         },
         "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
-          "evidenceLevelReasonable": false,
-          "notesCn": "文献报告的临床结论未得到充分支持，其证据水平偏低。"
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论之间的区分清晰，证据水平合理。"
         },
         "riskFlags": [
-          "clinical_claim",
           "insufficient_source"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
+          "primaryCategory": "AI Drug Discovery",
+          "subCategory": "AI-enabled Discovery",
           "evidenceLevel": "Medium",
           "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
+            "AI for Biology",
+            "Drug Discovery"
           ],
           "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
+            "AI 制药",
+            "蛋白设计",
+            "分子生成"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Advanced Science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42460645。",
-          "report": "Building upon our previous finding that tumor-derived lactate activates DESMIN+ cancer-associated fibroblasts (CAFs) to secrete interleukin-8 (IL-8), this study investigates the downstream IL-8/C-X-C motif chemokine receptor 2 (CXCR2) axis in CAF-mediated macrophage polarization.",
-          "inference": "分类与报告可能存在不一致，需提供进一步的研究评估。",
-          "unknown": "采集脚本未能评估研究的质量、样本量、利益冲突、临床阶段或商业化状态。"
+          "fact": "PubMed 记录显示该文献收录于 Current opinion in structural biology，PMID 为 42462358。",
+          "report": "Understanding how proteins evolve requires moving beyond the classical sequence-structure paradigm toward a framework that incorporates conformational dynamics as a substrate of innovation. Within this framework, function emerges not only from single structure...",
+          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42462008",
+      "date": "2026-07-16",
+      "title": "Structure and evolution-guided design of minimal RNA-guided nucleases.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42462008/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Drug Screening"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Science (New York, N.Y.)，PMID 为 42462008。",
+      "report": "The design of RNA-guided nucleases with properties not limited by evolution can expand programmable genome-editing capabilities. However, generating diverse multidomain proteins with robust enzymatic properties remains challenging. Here, we use a protein desig...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_047a79aad0a35f9f006a59a4876c3c819a86706c9b08414872",
+        "reviewedAt": "2026-07-17T03:41:48.784027+00:00",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该稿件符合发布标准，内容客观且数据来源可靠。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合内容主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断明确分开，证据水平合理。"
+        },
+        "riskFlags": [
+          "scientific_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "AI Drug Discovery",
+          "subCategory": "AI-enabled Discovery",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "AI for Biology",
+            "Drug Discovery",
+            "Drug Screening"
+          ],
+          "tags": [
+            "AI 制药",
+            "蛋白设计",
+            "分子生成",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Science (New York, N.Y.)，PMID 为 42462008。",
+          "report": "The design of RNA-guided nucleases with properties not limited by evolution can expand programmable genome-editing capabilities. However, generating diverse multidomain proteins with robust enzymatic properties remains challenging. Here, we use a protein design approach...",
+          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42461986",
+      "date": "2026-07-16",
+      "title": "De novo design of orthogonal far-red, orange, and green fluorophore-binding proteins for multiplexed imaging.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42461986/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Science (New York, N.Y.)，PMID 为 42461986。",
+      "report": "Fluorescent proteins and small-molecule dyes offer complementary advantages for biological imaging: proteins are amenable to genetic tagging, whereas dyes provide superior brightness and photostability. To combine these strengths, we used de novo protein desig...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_016164c0dce9342c006a59a48e947c81989aeefbf832f8fa10",
+        "reviewedAt": "2026-07-17T03:41:48.784027+00:00",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号内容清晰，符合发表标准，分类合理。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平符合所提交的元数据"
+        },
+        "riskFlags": [
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "AI Drug Discovery",
+          "subCategory": "AI-enabled Discovery",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "AI for Biology",
+            "Drug Discovery"
+          ],
+          "tags": [
+            "AI 制药",
+            "蛋白设计",
+            "分子生成"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Science (New York, N.Y.)，PMID 为 42461986。",
+          "report": "Fluorescent proteins and small-molecule dyes offer complementary advantages for biological imaging: proteins are amenable to genetic tagging, whereas dyes provide superior brightness and photostability. To combine these strengths, we used de novo protein design...",
+          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -1267,6 +1481,91 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Journal of agricultural and food chemistry，PMID 为 42461222。",
           "report": "Food enzymology is entering a new era driven by the convergence of metagenomics, artificial intelligence, and synthetic biology. While traditional food processes rely on a limited repertoire of established biocatalysts, metagenomic and multiomics approaches no...",
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42461906",
+      "date": "2026-07-16",
+      "title": "Precision Oncology in Northern Germany - Integrating Multi-Omics and AI to Support Evidence-Based Molecular Tumor Boards.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42461906/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Oncology research and treatment，PMID 为 42461906。",
+      "report": "The expanding availability of multi-omics profiling and advances in artificial intelli-gence (AI) and machine learning (ML) are changing precision oncology. Molecular testing strategies such as longitudinal liquid biopsy assessment, germline variant analysis,...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_03dcd3e344074bee006a59a4946148819b83c6d88fd18289d3",
+        "reviewedAt": "2026-07-17T03:41:48.784027+00:00",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该项记录符合发表标准，信息源整合清晰，未包含临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论已经明确分开，证据水平合适。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "临床",
+            "监管",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Oncology research and treatment，PMID 为 42461906。",
+          "report": "The expanding availability of multi-omics profiling and advances in artificial intelligence (AI) and machine learning (ML) are changing precision oncology. Molecular testing strategies such as longitudinal liquid biopsy assessment, germline variant analysis,...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1632,6 +1931,82 @@ window.BHR_DATA = {
           "report": "This phase Ib trial tests the safety, side effects, and best dose of SNDX-5613 when given in combination with the standard chemotherapy treatment (daunorubicin and cytarabine) in treating patients with newly diagnosed acute myeloid leukemia that has changes in...",
           "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42461727",
+      "date": "2026-07-15",
+      "title": "Protocol for establishing rectal tumor organoid-derived monolayers in a microphysiological system to model radiotherapy.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42461727/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42461727。",
+      "report": "Patient-derived organoids offer greater human translational relevance than mouse models or immortalized cell lines, owing to their multicellular composition and patient-specific responses. Here, we present a protocol for establishing a human in vitro rectal tu...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0ebd0e85af67a04a006a59a49aa18481999a9400f1b195fe9f",
+        "reviewedAt": "2026-07-17T03:41:48.784027+00:00",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录清晰且中立，无需人工审查。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类与文献内容一致，符合预期。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论明确分开，证据水平合理。"
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42461727。",
+          "report": "Patient-derived organoids offer greater human translational relevance than mouse models or immortalized cell lines, owing to their multicellular composition and patient-specific responses. Here, we present a protocol for establishing a human in vitro rectal tu...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -2619,76 +2994,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42451726",
-      "date": "2026-07-04",
-      "title": "Bridging Algorithms and Biocatalysis: Perspectives on AI-Supported Enzyme Engineering.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42451726/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecules (Basel, Switzerland)，PMID 为 42451726。",
-      "report": "The combination of computational and experimental methods has become indispensable for optimization and rational enzyme design. Recently, the development of artificial intelligence (AI)-based tools has further streamlined enzyme engineering pipelines, enabling...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0356af6f381e160b006a57e21c3ee881a2b7c5c0d4e43948f7",
-        "reviewedAt": "2026-07-15T19:38:48.888968+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息记录符合出版要求，无需人类审核。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别适合提供的元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论清晰分离，证据水平合理。"
-        },
-        "riskFlags": [
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "AI for Biology",
-            "Drug Discovery"
-          ],
-          "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Molecules (Basel, Switzerland)，PMID 为 42451726。",
-          "report": "The combination of computational and experimental methods has become indispensable for optimization and rational enzyme design. Recently, the development of artificial intelligence (AI)-based tools has further streamlined enzyme engineering pipelines, enabling...",
-          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42444608",
       "date": "2026-07-03",
       "title": "scDifformer: diffusion-based post-training for virtual cell modeling across large-scale single-cell data.",
@@ -3071,215 +3376,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42459690",
-      "date": "2026-07-01",
-      "title": "Plasma HERV-K envelopE RNA: a minimally invasive biomarker for lung adenocarcinoma detection and prognostic assessment in the context of conventional serum tumor markers.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42459690/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42459690。",
-      "report": "Early detection of lung adenocarcinoma (LUAD) remains challenging because low-dose computed tomography produces many false-positive pulmonary nodules and conventional serum tumor markers show histology-dependent diagnostic performance. We investigated whether...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0e923a61988e080c006a59330aaad88198ada9fea61a9a204f",
-        "reviewedAt": "2026-07-16T19:36:12.409675+00:00",
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人类审核，以确保没有无支持的疗效或安全性结论。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据水平为中等，但分类不一定支持临床结论。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "文献的证据水平被评估为中等，但具体内容未充分支持分类。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Biotech",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "biotech",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42459690。",
-          "report": "Early detection of lung adenocarcinoma (LUAD) remains challenging because low-dose computed tomography produces many false-positive pulmonary nodules and conventional serum tumor markers show histology-dependent diagnostic performance. We investigated whether...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42450185",
-      "date": "2026-06-30",
-      "title": "Evaluating AI-Generated Molecules for Drug Discovery: From Generic Metrics to Translational Readiness.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42450185/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of molecular sciences，PMID 为 42450185。",
-      "report": "Artificial intelligence-driven molecular generation has become an increasingly used computational approach for proposing candidate chemical structures in early-stage drug discovery, yet the practical value of the molecules produced is often difficult to judge....",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0d92b2cc5c772cab006a57e234c8ec8192ad5761154c722ff8",
-        "reviewedAt": "2026-07-15T19:38:48.888968+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "文献记录合理，分类和证据水平适当，无不当临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "AI for Biology",
-            "Drug Discovery"
-          ],
-          "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 International journal of molecular sciences，PMID 为 42450185。",
-          "report": "Artificial intelligence-driven molecular generation has become an increasingly used computational approach for proposing candidate chemical structures in early-stage drug discovery, yet the practical value of the molecules produced is often difficult to judge....",
-          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42449970",
-      "date": "2026-06-24",
-      "title": "Thermostability Engineering in Therapeutic Antioxidant Enzymes: From Molecular Fundamentals to Oxidative Stress Applications.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42449970/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of molecular sciences，PMID 为 42449970。",
-      "report": "The efficacy of enzyme therapy is limited by their poor stability under physiological conditions. Thermostable enzymes, derived from extremophilic organisms or generated by advanced protein engineering, offer a revolutionary solution to this long-standing chal...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0d0689e6f4b6cb49006a57e2431e98819e85939ce195b7bc53",
-        "reviewedAt": "2026-07-15T19:38:48.888968+00:00",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审核，因文献中涉及酶治疗的疗效，但未明确提供研究数据支持。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类符合出版记录主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "尽管事实、报告和推论有明确分离，但证据水平偏低，报告的疗效建议审查。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "AI for Biology",
-            "Drug Discovery"
-          ],
-          "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 International journal of molecular sciences，PMID 为 42449970。",
-          "report": "The efficacy of enzyme therapy is limited by their poor stability under physiological conditions. Thermostable enzymes, derived from extremophilic organisms or generated by advanced protein engineering, offer a revolutionary solution to this long-standing challenge.",
-          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42447329",
       "date": "2026-06-06",
       "title": "Fetal myogenesis chromatin state and CpG from the open alliance markers and their intersection with adult muscle and gastrointestinal genetics.",
@@ -3347,79 +3443,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Human molecular genetics，PMID 为 42447329。",
           "report": "Epigenetic inheritance links fetal chromatin organization and CpG methylation to lifelong tissue phenotypes. We tested the Fetal Chromatin-CpG Developmental Blueprint (FCCD-B) model, proposing that fetal chromatin states shaped by maternal nutrient and transcr...",
           "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42460370",
-      "date": "2026-06-03",
-      "title": "Spectroscopic correlation tomography (SpCT) for visualization of spatial correlations in volumetric OCT scans.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42460370/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomedical optics express，PMID 为 42460370。",
-      "report": "Spectroscopic optical coherence tomography (SOCT) allows for the targeted analysis of cell nuclei due to their spectrally distinct scattering properties. SOCT has been explored for optical biopsy based on its ability to extract structural and spectroscopic pro...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_01605b8c71014498006a59330fbff88198a3f0730823f5eb0d",
-        "reviewedAt": "2026-07-16T19:36:12.409675+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号符合发布标准，且分类合理。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类和证据级别合理。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断已清晰分离。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Biomedical optics express，PMID 为 42460370。",
-          "report": "Spectroscopic optical coherence tomography (SOCT) allows for the targeted analysis of cell nuclei due to their spectrally distinct scattering properties. SOCT has been explored for optical biopsy based on its ability to extract structural and spectroscopic pro...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }

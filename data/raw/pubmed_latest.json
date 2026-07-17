@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-16T19:36:01.611656+00:00",
+  "capturedAt": "2026-07-17T03:41:38.385127+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,36 +10,70 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-07-16",
-    "end": "2026-07-16"
+    "start": "2025-07-17",
+    "end": "2026-07-17"
   },
   "pmids": [
+    "42461884",
+    "42461727",
     "42461083",
     "42460799",
     "42460688",
     "42460667",
-    "42460645",
-    "42460370",
     "42447329",
     "42444608",
     "42431103",
     "42429061",
     "42418828",
     "42412811",
+    "42462358",
+    "42462008",
+    "42461986",
     "42461222",
     "42458650",
     "42457023",
-    "42451726",
-    "42450185",
-    "42449970",
+    "42461906",
     "42461341",
     "42460985",
     "42460670",
     "42460502",
-    "42459835",
-    "42459690"
+    "42459835"
   ],
   "records": [
+    {
+      "pmid": "42461884",
+      "title": "12-HHT is associated with epithelial barrier enhancement and reduced inflammatory responses in colon organoids of normoganglionosis in Hirschsprung's disease.",
+      "abstract": "Hirschsprung-associated enterocolitis remains a major postoperative complication of Hirschsprung's disease (HD), and impaired epithelial barrier integrity has been proposed as a contributing factor. In this study, we investigated whether 12-hydroxyheptadecatrienoic acid (12-HHT), an endogenous leukotriene B4 receptor 2 (BLT2) agonist, is associated with epithelial barrier enhancement and reduced inflammatory responses in patient-derived colonic organoids. Normoganglionic specimens from rectal/rectosigmoid HD at pull-through (HD-N; n = 8) and transverse colon specimens from anorectal malformation (ARM) at colostomy closure (n = 10) were used to generate colonic organoids. Epithelia were isolated using ethylenediaminetetraacetic acid and subsequently embedded in Matrigel. Baseline expression of TJP1, TJP2, F11R (encoding junctional adhesion molecule-A), JAM2, CLDN1, CLDN3, CLDN4) and LTB4R2 (encoding BLT2) was assessed by qPCR and immunoblotting. Organoids were then treated with 12-HHT (0.4, 2, or 10 μM) for 7 days, followed by qPCR. Additional experiments assessed cytokine expression (IL1B, IL6) and TJPs after 24 h with tumor necrosis factor-α (TNF-α, 100 ng/mL) plus phosphate buffered saline or 12-HHT. Barrier function was evaluated using FITC-dextran influx assays. HD-N and ARM organoids exhibited similar growth efficiencies. Baseline expression for F11R, JAM2, CLDN1, CLDN3, CLDN4, and LTB4R2 was significantly lower in HD-N than in ARM. TJPs were upregulated by 12-HHT at 2 and 10 μM in both groups, with stronger effects in ARM. In HD-N organoids, 10 μM 12-HHT suppressed TNF-α-induced IL1B and IL6 elevation mitigated tight junction proteins (TJPs) downregulation more effectively than 2 μM. 12-HHT attenuated TNF-α-induced FITC-dextran influx in HD-N organoids. 12-HHT is associated with epithelial barrier enhancement and reduced inflammatory responses in HD-N organoids.",
+      "journal": "PloS one",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Pediatric General and Urogenital Surgery, Juntendo University School of Medicine, Tokyo, Japan."
+      ],
+      "doi": "10.1371/journal.pone.0344140",
+      "date": "2026-07-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42461884/"
+    },
+    {
+      "pmid": "42461727",
+      "title": "Protocol for establishing rectal tumor organoid-derived monolayers in a microphysiological system to model radiotherapy.",
+      "abstract": "Patient-derived organoids offer greater human translational relevance than mouse models or immortalized cell lines, owing to their multicellular composition and patient-specific responses. Here, we present a protocol for establishing a human in vitro rectal tumor model for radiotherapy studies using patient-derived tumor organoids (PDTOs) and monolayer derivatives integrated into a microphysiological system (MPS). We describe steps for cultivating PDTOs, their transition into monolayers, and transfer into an MPS. This protocol enables radiotherapy modelling, toxicity testing, and adjuvant therapies screening.",
+      "journal": "STAR protocols",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Nuclear Medical Applications, Belgian Nuclear Research Center (SCK CEN), Boeretang 190, 2400 Mol, Belgium; Department of Bioscience Engineering, University of Antwerp, Groenenborgerlaan 171, 2020 Antwerp, Belgium. Electronic address: eloise.bouges@sckcen.be.",
+        "Nuclear Medical Applications, Belgian Nuclear Research Center (SCK CEN), Boeretang 190, 2400 Mol, Belgium.",
+        "Swammerdam Institute for Life Sciences, Faculty of Science, University of Amsterdam, Science Park 904, 1098 XH Amsterdam, the Netherlands.",
+        "Department of Bioscience Engineering, University of Antwerp, Groenenborgerlaan 171, 2020 Antwerp, Belgium.",
+        "Nuclear Medical Applications, Belgian Nuclear Research Center (SCK CEN), Boeretang 190, 2400 Mol, Belgium. Electronic address: felice.mastroleo@sckcen.be."
+      ],
+      "doi": "10.1016/j.xpro.2026.104708",
+      "date": "2026-07-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42461727/"
+    },
     {
       "pmid": "42461083",
       "title": "Targeting WRN Helicase in Microsatellite Instable Colorectal Cancer Induces Antitumor Immunity through Extrachromosomal Circular DNA Release.",
@@ -123,44 +157,6 @@
       "doi": "10.1152/ajpgi.00001.2026",
       "date": "2026-07-16",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42460667/"
-    },
-    {
-      "pmid": "42460645",
-      "title": "Stromal-Derived IL-8 Promotes M2 Macrophage Polarization via the RhoA/MRTF-A/SRF Transcriptional Axis to Impair CD8+ T Cell Cytotoxicity in Lung Cancer.",
-      "abstract": "Building upon our previous finding that tumor-derived lactate activates DESMIN+ cancer-associated fibroblasts (CAFs) to secrete interleukin-8 (IL-8), this study investigates the downstream IL-8/C-X-C motif chemokine receptor 2 (CXCR2) axis in CAF-mediated macrophage polarization and lung cancer (LC) progression. Orthotopic and subcutaneous tumor models were established in immunocompetent and immunodeficient mice using LC, CAFs, or murine tumor organoids (MTO). Global and myeloid-specific Cxcr2 knockout models, in vitro co-cultures (macrophages, CD8+ T cells, and tumor cells), and patient-derived organoid (PDO) systems were employed. DESMIN+ CAFs were the predominant source of IL-8 and promoted tumorigenesis and M2-like macrophage accumulation via the IL-8/CXCR2 axis. Genetic deletion of Cxcr2, myeloid-specific knockout, or pharmacological blockade reduced M2-like macrophage polarization through the PI3K/AKT/RhoA/MRTF-A/SRF pathway, restored CD8+ T cell effector function, and suppressed tumor progression. CXCR2 blockade also synergized with chemotherapy and anti-PD-L1 immunotherapy in murine models. In human PDO co-cultures with matched DESMIN+ CAFs and autologous CD8+ T cells, CXCR2 inhibition attenuated M2-like polarization and enhanced T cell-mediated killing of tumor organoids. DESMIN+ CAFs drive an immunosuppressive tumor microenvironment in LC through IL-8/CXCR2 signaling and downstream MRTF-A activation. Targeting this axis represents a promising strategy to overcome treatment resistance in LC.",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Oncology, School of Medicine, Shanghai Pulmonary Hospital, Tongji University Medical School Cancer Institute, Tongji University, Shanghai, China.",
-        "Department of Biotherapy, Cancer Center, West China Hospital, Sichuan University, Chengdu, China.",
-        "Department of Pathology and Laboratory of Pathology, State Key Laboratory of Biotherapy, West China School of Medicine, West China Hospital, Sichuan University, Chengdu, China.",
-        "Department of Thoracic Surgery, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai, China."
-      ],
-      "doi": "10.1002/advs.202508001",
-      "date": "2026-07-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42460645/"
-    },
-    {
-      "pmid": "42460370",
-      "title": "Spectroscopic correlation tomography (SpCT) for visualization of spatial correlations in volumetric OCT scans.",
-      "abstract": "Spectroscopic optical coherence tomography (SOCT) allows for the targeted analysis of cell nuclei due to their spectrally distinct scattering properties. SOCT has been explored for optical biopsy based on its ability to extract structural and spectroscopic properties of a sample without the need for labels. Using the dual-window method for SOCT, spatial correlations can be computed throughout volumetric scans and analyzed to determine the size of cell nuclei. Such analysis could enable quantitative visualization of tissue boundaries that appear homogenous in structural OCT images. Here, we present spectroscopic correlation tomography (SpCT), a technique for mapping spatial correlation measurements to a hue-saturation-value (HSV) color space to help visualize relative changes in spatial correlation throughout volumetric OCT samples. SpCT B-Scans and volumes of polystyrene bead samples with diameters 5.1 μm to 11.3 μm were acquired and scatterer sizes were quantified using a Gaussian mixture model, achieving size estimates within half-wavelength accuracy. 3T3 fibroblasts were imaged and analyzed via connected component analysis, producing strong agreement with scatterer size measured via confocal microscopy, thus validating our approach. Histology versus SpCT B-Scan comparisons were performed for human colon organoids, cardiac organoids, and human lung airway explant to demonstrate this technique's ability to identify varying degrees of nuclear morphology in different regions. SpCT volumes were used to objectively discriminate between control and APC-mutated human colon organoids based on a connected component analysis, identifying regions of long spatial correlation and computing the coefficient of variation of the region volumes, which points to a potential clinical use of this technique.",
-      "journal": "Biomedical optics express",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Biomedical Engineering, Duke University, Durham, NC 27707, USA.",
-        "Division of Gastroenterology, Department of Medicine, Duke University School of Medicine, Durham, NC 27710, USA.",
-        "Division of Cardiology, Department of Medicine, Duke University Medical Center, Durham, NC 27707, USA.",
-        "Department of Surgery, Surgical Sciences, Duke University School of Medicine, Durham, NC 27710, USA.",
-        "Departments of Cell Biology and Medicine, Duke University School of Medicine, Durham, NC 27707, USA.",
-        "Department of Pathology, Duke University School of Medicine, NC 27707, USA."
-      ],
-      "doi": "10.1364/BOE.593432",
-      "date": "2026-06-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42460370/"
     },
     {
       "pmid": "42447329",
@@ -274,6 +270,78 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42412811/"
     },
     {
+      "pmid": "42462358",
+      "title": "Protein function evolution through the lens of conformational dynamics: A single-molecule perspective.",
+      "abstract": "Understanding how proteins evolve requires moving beyond the classical sequence-structure paradigm toward a framework that incorporates conformational dynamics as a substrate of innovation. Within this framework, function emerges not only from single structures but from an ensemble encoded in the sequence. In this context, single-molecule Förster resonance energy transfer, which resolves heterogeneous and transient conformations inaccessible to ensemble methods, has shown that dynamics can tune activity, specificity, and regulation. Importantly, disordered proteins - which maintain biochemical properties rather than precise sequences - represent the limiting case of this principle, where dynamics become the primary substrate for evolution. Recent advances have extended these principles to protein design, demonstrating that dynamics are not only evolvable but also programmable. Together, these insights position conformational dynamics at the center of understanding and engineering the evolutionary logic of protein function, opening the door to study how proteins are tuned to operate under the nonequilibrium conditions of living cells.",
+      "journal": "Current opinion in structural biology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Departamento de Biología, Facultad de Ciencias, Universidad de Chile, Santiago, Chile.",
+        "Departamento de Bioquímica y Biología Molecular, Facultad de Ciencias Químicas y Farmacéuticas, Santiago, Chile.",
+        "Departamento de Bioquímica y Biología Molecular, Facultad de Ciencias Químicas y Farmacéuticas, Santiago, Chile. Electronic address: exequiel.medinago@uchile.cl."
+      ],
+      "doi": "10.1016/j.sbi.2026.103329",
+      "date": "2026-07-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42462358/"
+    },
+    {
+      "pmid": "42462008",
+      "title": "Structure and evolution-guided design of minimal RNA-guided nucleases.",
+      "abstract": "The design of RNA-guided nucleases with properties not limited by evolution can expand programmable genome-editing capabilities. However, generating diverse multidomain proteins with robust enzymatic properties remains challenging. Here, we use a protein design strategy that couples a structure-guided inverse-folding model with evolution-informed residue constraints to generate active, divergent variants of TnpB, a minimal CRISPR-Cas12-like nuclease, termed SynTnpBs. High-throughput screening of artificial intelligence-generated variants yielded editors that retained or exceeded wild-type activity in bacterial, plant, and human cells. Cryo-electron microscopy-based structure determination of the most divergent variant revealed stabilizing contacts in the RNA-DNA interfaces across conformations, demonstrating the design potential of this approach. Together, these results establish a strategy for creating non-natural RNA-guided nucleases and conformationally active nucleic acid binders, enlarging the designable protein space.",
+      "journal": "Science (New York, N.Y.)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Innovative Genomics Institute, University of California, Berkeley, Berkeley, CA, USA.",
+        "California Institute for Quantitative Biosciences (QB3), University of California, Berkeley, Berkeley, CA, USA.",
+        "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
+        "Department of Molecular, Cell and Developmental Biology, University of California at Los Angeles, Los Angeles, CA, USA.",
+        "Biophysics Graduate Group, University of California, Berkeley, Berkeley, CA, CA, USA.",
+        "Center for Computational Biology, University of California Berkeley, Berkeley, CA, USA.",
+        "Department of Chemistry, University of California, Berkeley, Berkeley, CA, USA.",
+        "Department of Earth and Planetary Science, University of California, Berkeley, CA, USA.",
+        "Department of Microbiology, Biomedicine Discovery Institute, Monash University, Clayton, Victoria, Australia.",
+        "Molecular Biophysics and Integrated Bioimaging Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA.",
+        "Howard Hughes Medical Institute (HHMI), University of California at Los Angeles, Los Angeles, CA, USA.",
+        "Howard Hughes Medical Institute, University of California, Berkeley, Berkeley, CA, USA.",
+        "Li Ka Shing Center for Genomic Engineering, University of California, Berkeley, Berkeley, CA, USA.",
+        "Gladstone Institute of Data Science and Biotechnology, San Francisco, CA, USA.",
+        "Gladstone-UCSF Institute of Genomic Immunology, San Francisco, CA, USA."
+      ],
+      "doi": "10.1126/science.aed6123",
+      "date": "2026-07-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42462008/"
+    },
+    {
+      "pmid": "42461986",
+      "title": "De novo design of orthogonal far-red, orange, and green fluorophore-binding proteins for multiplexed imaging.",
+      "abstract": "Fluorescent proteins and small-molecule dyes offer complementary advantages for biological imaging: proteins are amenable to genetic tagging, whereas dyes provide superior brightness and photostability. To combine these strengths, we used de novo protein design to generate small, nanomolar-affinity, high-selectivity binders (NovoTags) for three cell-permeable dyes spanning the visible spectrum. We show that the NovoTag fluorescent lifetimes can be tuned and demonstrate their application in lifetime and wavelength-based multiplexed fluorescence imaging. We further design a two-chain NovoTag that functions as a chemically induced dimerization system with fluorescent readout in living cells, or as a minimally perturbing proximity probe in fixed cells. Our approach combines the advantages of fluorescent proteins and small-molecule dyes, expanding the toolkit for cellular imaging.",
+      "journal": "Science (New York, N.Y.)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Chemical Engineering, University of Washington, Seattle, WA, USA.",
+        "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+        "Molecular Systems Biology Unit, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany.",
+        "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+        "Graduate Program in Molecular Engineering, University of Washington, Seattle, WA, USA.",
+        "Department of Chemistry, Stanford University, Stanford, CA, USA.",
+        "Department of Bioengineering, University of Washington, Seattle, WA, USA.",
+        "Department of Biological Sciences, Korea Advanced Institute of Science and Technology, Daejeon, South Korea.",
+        "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA.",
+        "Cell Biology and Biophysics Unit, EMBL, Heidelberg, Germany.",
+        "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+      ],
+      "doi": "10.1126/science.aeb0822",
+      "date": "2026-07-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42461986/"
+    },
+    {
       "pmid": "42461222",
       "title": "Next-Generation Food Enzymology: From Metagenomic Discovery to AI-Driven Biocatalyst Design.",
       "abstract": "Food enzymology is entering a new era driven by the convergence of metagenomics, artificial intelligence, and synthetic biology. While traditional food processes rely on a limited repertoire of established biocatalysts, metagenomic and multiomics approaches now provide access to vast reservoirs of unexplored enzymatic diversity. Simultaneously, advances in protein structure prediction, functional modeling, and de novo protein design are transforming enzyme discovery from a largely empirical process to a predictive discipline. In this Perspective, we discuss how these technologies will enable the development of tailored biocatalysts for sustainable, precise, and next-generation food processing applications.",
@@ -328,53 +396,18 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42457023/"
     },
     {
-      "pmid": "42451726",
-      "title": "Bridging Algorithms and Biocatalysis: Perspectives on AI-Supported Enzyme Engineering.",
-      "abstract": "The combination of computational and experimental methods has become indispensable for optimization and rational enzyme design. Recently, the development of artificial intelligence (AI)-based tools has further streamlined enzyme engineering pipelines, enabling more accurate designs, while reducing the number of variants required for experimental validation. However, due to the intricate complexity of enzymatic systems, significant challenges must be addressed before we take the next step to fully optimize the use of these AI-guided enzyme design methodologies. These challenges include un-curated datasets, the need to consider both the static and dynamic structure of enzymes, and the requirement for effective interdisciplinary collaborations to ensure the integration of computational and experimental approaches. Here, we present recent advances in AI-based computational enzyme design, discussing the main challenges in the field and how a combination with classical physics-based methods could help overcome them. We further explore novel trends that could completely modulate the future of protein design and provide our outlook on the key concepts and future opportunities that will shape the next steps of enzyme design.",
-      "journal": "Molecules (Basel, Switzerland)",
+      "pmid": "42461906",
+      "title": "Precision Oncology in Northern Germany - Integrating Multi-Omics and AI to Support Evidence-Based Molecular Tumor Boards.",
+      "abstract": "The expanding availability of multi-omics profiling and advances in artificial intelli-gence (AI) and machine learning (ML) are changing precision oncology. Molecular testing strategies such as longitudinal liquid biopsy assessment, germline variant analysis, and the evaluation of tumor-infiltrating clonal hematopoiesis (TI-CH) are gain-ing attention, given their potential to inform treatment decisions from surveillance through therapy selection. In 2025, during a NORD (Northern Oncology, Research and Development) workshop on \"Precision Oncology\", stakeholders from three Northern German university hospitals exchanged insights on the impact of tumor heterogeneity and the tumor microenviron-ment, approaches for multi-layer data integration, and strategies to accelerate transla-tion using innovative clinical trial designs. Building on this discussion, participants evaluated how the integration of multi-omics data, AI and ML into molecular tumor board (MTB) workflows could enhance decision-making, as well as the challenges as-sociated with implementing these tools in routine clinical care. The workshop thereby not only identified key opportunities and obstacles but also formulated recommenda-tions on how these tools can be stepwise integrated into existing workflows to generate the evidence required for their implementation in clinical practice. This review connects expert perspectives with targeted literature to outline how these emerging methods advance precision oncology. It further identifies the technical, struc-tural, and clinical requirements for their implementation in clinical use, and highlights how they can improve the quality, speed and accessibility of MTB recommendations.",
+      "journal": "Oncology research and treatment",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
-      "affiliations": [
-        "Laboratory of Structural Biochemistry, Institute of Chemistry and Biochemistry, Freie Universität Berlin, 14195 Berlin, Germany.",
-        "Werner Siemens-Chair of Synthetic Biotechnology, TUM School of Natural Sciences, Technical University of Munich (TUM), 85748 Garching, Germany."
-      ],
-      "doi": "10.3390/molecules31132359",
-      "date": "2026-07-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42451726/"
-    },
-    {
-      "pmid": "42450185",
-      "title": "Evaluating AI-Generated Molecules for Drug Discovery: From Generic Metrics to Translational Readiness.",
-      "abstract": "Artificial intelligence-driven molecular generation has become an increasingly used computational approach for proposing candidate chemical structures in early-stage drug discovery, yet the practical value of the molecules produced is often difficult to judge. Many studies still rely mainly on model-level metrics such as validity, uniqueness, novelty, and diversity. These metrics describe whether a generator produces parsable, non-redundant structures that extend beyond a reference set, but they do not show whether the molecules are chemically credible, biologically relevant, or experimentally actionable. AI-generated molecules are best treated as testable hypotheses requiring staged, complementary evidence rather than judgments based on generic generative statistics. We discuss the interpretive limits of common metrics, examine complementary levels of evaluation including medicinal chemistry feasibility, target relevance and prediction reliability, structure-based plausibility, and translational readiness, and identify recurring failure modes such as false novelty, reward exploitation, predictor bias, docking overinterpretation, and selective reporting. We propose a six-stage, failure-aware evaluation framework spanning molecular correctness, medicinal chemistry feasibility, novelty and diversity in context, target relevance and prediction reliability, structure-based plausibility, and translational readiness. This framework does not replace experimental validation; instead, it helps align computational claims with the strength of supporting evidence and promotes more transparent and reproducible evaluation of AI-generated molecules in drug discovery.",
-      "journal": "International journal of molecular sciences",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Centre for Artificial Intelligence Driven Drug Discovery, Faculty of Applied Sciences, Macao Polytechnic University, Rua de Luís Gonzaga Gomes, Macau SAR, China."
-      ],
-      "doi": "10.3390/ijms27135916",
-      "date": "2026-06-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42450185/"
-    },
-    {
-      "pmid": "42449970",
-      "title": "Thermostability Engineering in Therapeutic Antioxidant Enzymes: From Molecular Fundamentals to Oxidative Stress Applications.",
-      "abstract": "The efficacy of enzyme therapy is limited by their poor stability under physiological conditions. Thermostable enzymes, derived from extremophilic organisms or generated by advanced protein engineering, offer a revolutionary solution to this long-standing challenge. They are widely used in industrial biocatalysis. Their therapeutic applications are poorly investigated and spread across diverse disciplines. While most applications are in the preclinical stages, emerging evidence from animal models demonstrates proof-of-concept for thermostable antioxidant enzymes in cardiovascular, neurodegenerative, and inflammatory diseases. This review critically assesses the translational landscape, distinguishing between established therapeutic enzymes (e.g., asparaginase, PEGylated SOD) and emerging experimental candidates. This narrative review consolidates existing knowledge about thermostable enzyme engineering and their emerging functions as molecular therapies, particularly in oxidative stress-related diseases. This review synthesizes recent advances in structural biology, computational protein design, biomaterials engineering, and translational antioxidant strategies, highlighting how breaking down disciplinary barriers is accelerating the development of sustainable and self-regenerating antioxidant platforms. By integrating molecular precision with systems-level therapeutic design, engineered thermostable antioxidant enzymes exemplify the future of biological development, where multidisciplinary collaboration drives innovation against oxidative stress-driven pathologies. Engineered thermostable enzymes provide a versatile basis for next-generation therapeutics, with the potential to address medical needs through improved stability, targeted activity, and multifunctional design.",
-      "journal": "International journal of molecular sciences",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Grigore T. Popa University of Medicine and Pharmacy, 700115 Iasi, Romania."
-      ],
-      "doi": "10.3390/ijms27135695",
-      "date": "2026-06-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42449970/"
+      "affiliations": [],
+      "doi": "10.1159/000553462",
+      "date": "2026-07-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42461906/"
     },
     {
       "pmid": "42461341",
@@ -468,25 +501,39 @@
       "doi": "10.3389/fcell.2026.1834106",
       "date": "2026-07-01",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42459835/"
-    },
-    {
-      "pmid": "42459690",
-      "title": "Plasma HERV-K envelopE RNA: a minimally invasive biomarker for lung adenocarcinoma detection and prognostic assessment in the context of conventional serum tumor markers.",
-      "abstract": "Early detection of lung adenocarcinoma (LUAD) remains challenging because low-dose computed tomography produces many false-positive pulmonary nodules and conventional serum tumor markers show histology-dependent diagnostic performance. We investigated whether plasma HERV-K env mRNA could serve as a minimally invasive biomarker for subtype-specific diagnosis and prognostic assessment in lung cancer. This retrospective single-center study enrolled 379 subjects, including 249 patients with non-small cell lung cancer (162 LUAD and 87 lung squamous cell carcinoma [LUSC]), 30 patients with malignant pulmonary nodules, 50 patients with benign pulmonary nodules, and 50 healthy controls. HERV-K env mRNA was quantified in tumor tissues, paired adjacent tissues, and EDTA-anticoagulated plasma by qRT-PCR. Associations with clinicopathological variables, tissue-plasma concordance, correlations with conventional serum tumor markers, ROC diagnostic performance, Kaplan-Meier survival, and multivariable Cox regression were analyzed. HERV-K env mRNA was significantly upregulated in NSCLC tissues versus paired adjacent tissues (P < 0.0001) and was higher in LUAD than in LUSC (P < 0.0001). Tissue expression increased with advanced T stage, lymph node metastasis, and higher TNM stage (all P < 0.0001). Plasma HERV-K env mRNA levels were significantly elevated in lung cancer compared with benign pulmonary nodules and healthy controls (P < 0.0001) and correlated strongly with tissue expression in both LUSC (r = 0.9025) and LUAD (r = 0.7305). ROC analysis showed excellent performance for stage I/II LUAD versus healthy controls (AUC = 0.914), moderate performance for malignant pulmonary nodules versus healthy controls (AUC = 0.758), but limited performance for early-stage LUSC (AUC = 0.505). Plasma HERV-K env mRNA showed no significant correlations with conventional serum tumor markers. High plasma HERV-K env mRNA was associated with poorer overall survival in LUAD (P = 0.035), and multivariable Cox regression supported independent prognostic value in the overall cohort. Plasma HERV-K env mRNA captures a biologically plausible and analytically non-redundant signal with the strongest current clinical promise in LUAD rather than LUSC. Its LUAD performance appears competitive with published single-marker serum assays, but broader clinical application and comparison with optimized conventional multi-marker panels require prospective multicenter and same-cohort validation.",
-      "journal": "Frontiers in immunology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Zhejiang Cancer Institute, Zhejiang Cancer Hospital, Hangzhou, Zhejiang, China.",
-        "The Second Clinical Medical College of Zhejiang Chinese Medicine University, Hangzhou, Zhejiang, China."
-      ],
-      "doi": "10.3389/fimmu.2026.1782414",
-      "date": "2026-07-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42459690/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42461884",
+      "date": "2026-07-16",
+      "title": "12-HHT is associated with epithelial barrier enhancement and reduced inflammatory responses in colon organoids of normoganglionosis in Hirschsprung's disease.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42461884/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 PloS one，PMID 为 42461884。",
+      "report": "Hirschsprung-associated enterocolitis remains a major postoperative complication of Hirschsprung's disease (HD), and impaired epithelial barrier integrity has been proposed as a contributing factor. In this study, we investigated whether 12-hydroxyheptadecatri...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42461083",
       "date": "2026-07-16",
@@ -618,33 +665,92 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42460645",
+      "id": "pubmed-42462358",
       "date": "2026-07-16",
-      "title": "Stromal-Derived IL-8 Promotes M2 Macrophage Polarization via the RhoA/MRTF-A/SRF Transcriptional Axis to Impair CD8+ T Cell Cytotoxicity in Lung Cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "title": "Protein function evolution through the lens of conformational dynamics: A single-molecule perspective.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42460645/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42462358/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
+        "AI for Biology",
+        "Drug Discovery"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42460645。",
-      "report": "Building upon our previous finding that tumor-derived lactate activates DESMIN+ cancer-associated fibroblasts (CAFs) to secrete interleukin-8 (IL-8), this study investigates the downstream IL-8/C-X-C motif chemokine receptor 2 (CXCR2) axis in CAF-mediated macr...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Current opinion in structural biology，PMID 为 42462358。",
+      "report": "Understanding how proteins evolve requires moving beyond the classical sequence-structure paradigm toward a framework that incorporates conformational dynamics as a substrate of innovation. Within this framework, function emerges not only from single structure...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42462008",
+      "date": "2026-07-16",
+      "title": "Structure and evolution-guided design of minimal RNA-guided nucleases.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42462008/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Drug Screening"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Science (New York, N.Y.)，PMID 为 42462008。",
+      "report": "The design of RNA-guided nucleases with properties not limited by evolution can expand programmable genome-editing capabilities. However, generating diverse multidomain proteins with robust enzymatic properties remains challenging. Here, we use a protein desig...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42461986",
+      "date": "2026-07-16",
+      "title": "De novo design of orthogonal far-red, orange, and green fluorophore-binding proteins for multiplexed imaging.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42461986/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Science (New York, N.Y.)，PMID 为 42461986。",
+      "report": "Fluorescent proteins and small-molecule dyes offer complementary advantages for biological imaging: proteins are amenable to genetic tagging, whereas dyes provide superior brightness and photostability. To combine these strengths, we used de novo protein desig...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -674,6 +780,42 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of agricultural and food chemistry，PMID 为 42461222。",
       "report": "Food enzymology is entering a new era driven by the convergence of metagenomics, artificial intelligence, and synthetic biology. While traditional food processes rely on a limited repertoire of established biocatalysts, metagenomic and multiomics approaches no...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42461906",
+      "date": "2026-07-16",
+      "title": "Precision Oncology in Northern Germany - Integrating Multi-Omics and AI to Support Evidence-Based Molecular Tumor Boards.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42461906/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Oncology research and treatment，PMID 为 42461906。",
+      "report": "The expanding availability of multi-omics profiling and advances in artificial intelli-gence (AI) and machine learning (ML) are changing precision oncology. Molecular testing strategies such as longitudinal liquid biopsy assessment, germline variant analysis,...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -794,6 +936,38 @@
       "fact": "PubMed 记录显示该文献收录于 Analytical chemistry，PMID 为 42460502。",
       "report": "Metabolites packaged within extracellular vesicles (EVs) are increasingly recognized for their role in intercellular communication and metabolic regulation. However, their comprehensive characterization remains challenging due to the low abundance of metabolit...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42461727",
+      "date": "2026-07-15",
+      "title": "Protocol for establishing rectal tumor organoid-derived monolayers in a microphysiological system to model radiotherapy.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42461727/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42461727。",
+      "report": "Patient-derived organoids offer greater human translational relevance than mouse models or immortalized cell lines, owing to their multicellular composition and patient-specific responses. Here, we present a protocol for establishing a human in vitro rectal tu...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -929,35 +1103,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42451726",
-      "date": "2026-07-04",
-      "title": "Bridging Algorithms and Biocatalysis: Perspectives on AI-Supported Enzyme Engineering.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42451726/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecules (Basel, Switzerland)，PMID 为 42451726。",
-      "report": "The combination of computational and experimental methods has become indispensable for optimization and rational enzyme design. Recently, the development of artificial intelligence (AI)-based tools has further streamlined enzyme engineering pipelines, enabling...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42444608",
       "date": "2026-07-03",
       "title": "scDifformer: diffusion-based post-training for virtual cell modeling across large-scale single-cell data.",
@@ -1086,92 +1231,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42459690",
-      "date": "2026-07-01",
-      "title": "Plasma HERV-K envelopE RNA: a minimally invasive biomarker for lung adenocarcinoma detection and prognostic assessment in the context of conventional serum tumor markers.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42459690/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42459690。",
-      "report": "Early detection of lung adenocarcinoma (LUAD) remains challenging because low-dose computed tomography produces many false-positive pulmonary nodules and conventional serum tumor markers show histology-dependent diagnostic performance. We investigated whether...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42450185",
-      "date": "2026-06-30",
-      "title": "Evaluating AI-Generated Molecules for Drug Discovery: From Generic Metrics to Translational Readiness.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42450185/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of molecular sciences，PMID 为 42450185。",
-      "report": "Artificial intelligence-driven molecular generation has become an increasingly used computational approach for proposing candidate chemical structures in early-stage drug discovery, yet the practical value of the molecules produced is often difficult to judge....",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42449970",
-      "date": "2026-06-24",
-      "title": "Thermostability Engineering in Therapeutic Antioxidant Enzymes: From Molecular Fundamentals to Oxidative Stress Applications.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42449970/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of molecular sciences，PMID 为 42449970。",
-      "report": "The efficacy of enzyme therapy is limited by their poor stability under physiological conditions. Thermostable enzymes, derived from extremophilic organisms or generated by advanced protein engineering, offer a revolutionary solution to this long-standing chal...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42447329",
       "date": "2026-06-06",
       "title": "Fetal myogenesis chromatin state and CpG from the open alliance markers and their intersection with adult muscle and gastrointestinal genetics.",
@@ -1199,36 +1258,6 @@
       "fact": "PubMed 记录显示该文献收录于 Human molecular genetics，PMID 为 42447329。",
       "report": "Epigenetic inheritance links fetal chromatin organization and CpG methylation to lifelong tissue phenotypes. We tested the Fetal Chromatin-CpG Developmental Blueprint (FCCD-B) model, proposing that fetal chromatin states shaped by maternal nutrient and transcr...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42460370",
-      "date": "2026-06-03",
-      "title": "Spectroscopic correlation tomography (SpCT) for visualization of spatial correlations in volumetric OCT scans.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42460370/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomedical optics express，PMID 为 42460370。",
-      "report": "Spectroscopic optical coherence tomography (SOCT) allows for the targeted analysis of cell nuclei due to their spectrally distinct scattering properties. SOCT has been explored for optical biopsy based on its ability to extract structural and spectroscopic pro...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
