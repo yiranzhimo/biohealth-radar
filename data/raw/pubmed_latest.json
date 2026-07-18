@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-18T08:11:21.752926+00:00",
+  "capturedAt": "2026-07-18T13:52:50.330690+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,10 +14,10 @@
     "end": "2026-07-18"
   },
   "pmids": [
-    "42468620",
     "42469253",
     "42469013",
     "42468771",
+    "42468620",
     "42468168",
     "42468059",
     "42447329",
@@ -40,24 +40,6 @@
     "42466209"
   ],
   "records": [
-    {
-      "pmid": "42468620",
-      "title": "Brain organoids in Parkinson's disease drug development: Human-specific models for translational discovery.",
-      "abstract": "Parkinson's disease (PD) poses a major unmet therapeutic challenge, with most drug candidates failing in clinical translation despite promising animal model data. Human induced pluripotent stem cell-derived midbrain organoids recapitulate key PD pathological hallmarks - including dopaminergic neuron loss, α-synuclein aggregation, and neuroinflammation - in a genetically defined, human-specific context. This review summarizes drug screening studies in midbrain organoids across genetic, toxin-based, and α-synuclein preformed fibril models. We highlight therapeutic interventions that rescue PD phenotypes, compare organoid and animal model systems, and discuss the personalized medicine potential of patient-derived organoids. We also critically assess current limitations and outline how artificial intelligence integration and assembloid platforms are advancing organoid-based drug discovery towards regulatory acceptance.",
-      "journal": "Drug discovery today",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Developmental and Cellular Biology, Luxembourg Centre for Systems Biomedicine (LCSB), University of Luxembourg, 2, place de l'Université, L-4365 Esch-sur-Alzette, Luxembourg; OrganoTherapeutics SARL, 29 Rue Henri Koch. 4354 Esch-sur-Alzette, Luxembourg.",
-        "OrganoTherapeutics SARL, 29 Rue Henri Koch. 4354 Esch-sur-Alzette, Luxembourg.",
-        "Developmental and Cellular Biology, Luxembourg Centre for Systems Biomedicine (LCSB), University of Luxembourg, 2, place de l'Université, L-4365 Esch-sur-Alzette, Luxembourg; OrganoTherapeutics SARL, 29 Rue Henri Koch. 4354 Esch-sur-Alzette, Luxembourg. Electronic address: jens.schwamborn@uni.lu."
-      ],
-      "doi": "10.1016/j.drudis.2026.104742",
-      "date": "2026-07-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42468620/"
-    },
     {
       "pmid": "42469253",
       "title": "Extracellular matrix stiffness directs region-specific lung epithelial differentiation revealed by hPSC-derived lung organoids.",
@@ -121,6 +103,24 @@
       "doi": "10.1016/j.neuroscience.2026.07.027",
       "date": "2026-07-17",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42468771/"
+    },
+    {
+      "pmid": "42468620",
+      "title": "Brain organoids in Parkinson's disease drug development: Human-specific models for translational discovery.",
+      "abstract": "Parkinson's disease (PD) poses a major unmet therapeutic challenge, with most drug candidates failing in clinical translation despite promising animal model data. Human induced pluripotent stem cell-derived midbrain organoids recapitulate key PD pathological hallmarks - including dopaminergic neuron loss, α-synuclein aggregation, and neuroinflammation - in a genetically defined, human-specific context. This review summarizes drug screening studies in midbrain organoids across genetic, toxin-based, and α-synuclein preformed fibril models. We highlight therapeutic interventions that rescue PD phenotypes, compare organoid and animal model systems, and discuss the personalized medicine potential of patient-derived organoids. We also critically assess current limitations and outline how artificial intelligence integration and assembloid platforms are advancing organoid-based drug discovery towards regulatory acceptance.",
+      "journal": "Drug discovery today",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Developmental and Cellular Biology, Luxembourg Centre for Systems Biomedicine (LCSB), University of Luxembourg, 2, place de l'Université, L-4365 Esch-sur-Alzette, Luxembourg; OrganoTherapeutics SARL, 29 Rue Henri Koch. 4354 Esch-sur-Alzette, Luxembourg.",
+        "OrganoTherapeutics SARL, 29 Rue Henri Koch. 4354 Esch-sur-Alzette, Luxembourg.",
+        "Developmental and Cellular Biology, Luxembourg Centre for Systems Biomedicine (LCSB), University of Luxembourg, 2, place de l'Université, L-4365 Esch-sur-Alzette, Luxembourg; OrganoTherapeutics SARL, 29 Rue Henri Koch. 4354 Esch-sur-Alzette, Luxembourg. Electronic address: jens.schwamborn@uni.lu."
+      ],
+      "doi": "10.1016/j.drudis.2026.104742",
+      "date": "2026-07-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42468620/"
     },
     {
       "pmid": "42468168",
@@ -515,45 +515,6 @@
   ],
   "signals": [
     {
-      "id": "pubmed-42468620",
-      "date": "2026-07-17",
-      "title": "Brain organoids in Parkinson's disease drug development: Human-specific models for translational discovery.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42468620/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "临床",
-        "监管",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Drug discovery today，PMID 为 42468620。",
-      "report": "Parkinson's disease (PD) poses a major unmet therapeutic challenge, with most drug candidates failing in clinical translation despite promising animal model data. Human induced pluripotent stem cell-derived midbrain organoids recapitulate key PD pathological h...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42469253",
       "date": "2026-07-17",
       "title": "Extracellular matrix stiffness directs region-specific lung epithelial differentiation revealed by hPSC-derived lung organoids.",
@@ -643,6 +604,45 @@
       "fact": "PubMed 记录显示该文献收录于 Neuroscience，PMID 为 42468771。",
       "report": "Human-induced pluripotent stem cell-derived midbrain organoids offer a promising platform for modeling Parkinson's disease (PD). Yet, their utility has been limited by the absence of microglia and the development of a necrotic core during maturation. Here, we...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42468620",
+      "date": "2026-07-17",
+      "title": "Brain organoids in Parkinson's disease drug development: Human-specific models for translational discovery.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42468620/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "临床",
+        "监管",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Drug discovery today，PMID 为 42468620。",
+      "report": "Parkinson's disease (PD) poses a major unmet therapeutic challenge, with most drug candidates failing in clinical translation despite promising animal model data. Human induced pluripotent stem cell-derived midbrain organoids recapitulate key PD pathological h...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

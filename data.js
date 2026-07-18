@@ -822,97 +822,6 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
-      "id": "pubmed-42468620",
-      "date": "2026-07-17",
-      "title": "Brain organoids in Parkinson's disease drug development: Human-specific models for translational discovery.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42468620/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "临床",
-        "监管",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Drug discovery today，PMID 为 42468620。",
-      "report": "Parkinson's disease (PD) poses a major unmet therapeutic challenge, with most drug candidates failing in clinical translation despite promising animal model data. Human induced pluripotent stem cell-derived midbrain organoids recapitulate key PD pathological h...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0f05cc71bda3b87a006a5b353519f08198b681b51cda61e18c",
-        "reviewedAt": "2026-07-18T08:11:32.369256+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号数据已清晰分离事实、报告、推论和未知信息，不包含无支持的临床结论，适合发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类别和证据水平与提供的元数据一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告、推论和未知信息已明确分开。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "AI for Biology",
-            "Drug Discovery",
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "AI 制药",
-            "蛋白设计",
-            "分子生成",
-            "临床",
-            "监管",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Drug discovery today，PMID 为 42468620。",
-          "report": "Parkinson's disease (PD) poses a major unmet therapeutic challenge, with most drug candidates failing in clinical translation despite promising animal model data. Human induced pluripotent stem cell-derived midbrain organoids recapitulate key PD pathological h...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42469253",
       "date": "2026-07-17",
       "title": "Extracellular matrix stiffness directs region-specific lung epithelial differentiation revealed by hPSC-derived lung organoids.",
@@ -1126,6 +1035,97 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Neuroscience，PMID 为 42468771。",
           "report": "Human-induced pluripotent stem cell-derived midbrain organoids offer a promising platform for modeling Parkinson's disease (PD). Yet, their utility has been limited by the absence of microglia and the development of a necrotic core during maturation. Here, we...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42468620",
+      "date": "2026-07-17",
+      "title": "Brain organoids in Parkinson's disease drug development: Human-specific models for translational discovery.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42468620/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "临床",
+        "监管",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Drug discovery today，PMID 为 42468620。",
+      "report": "Parkinson's disease (PD) poses a major unmet therapeutic challenge, with most drug candidates failing in clinical translation despite promising animal model data. Human induced pluripotent stem cell-derived midbrain organoids recapitulate key PD pathological h...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0f05cc71bda3b87a006a5b353519f08198b681b51cda61e18c",
+        "reviewedAt": "2026-07-18T08:11:32.369256+00:00",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号数据已清晰分离事实、报告、推论和未知信息，不包含无支持的临床结论，适合发布。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "类别和证据水平与提供的元数据一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告、推论和未知信息已明确分开。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "AI for Biology",
+            "Drug Discovery",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "AI 制药",
+            "蛋白设计",
+            "分子生成",
+            "临床",
+            "监管",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Drug discovery today，PMID 为 42468620。",
+          "report": "Parkinson's disease (PD) poses a major unmet therapeutic challenge, with most drug candidates failing in clinical translation despite promising animal model data. Human induced pluripotent stem cell-derived midbrain organoids recapitulate key PD pathological h...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
