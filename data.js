@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-07-17",
+  "updatedAt": "2026-07-18",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -822,6 +822,83 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42468059",
+      "date": "2026-07-17",
+      "title": "Biophysical forces in tissue formation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42468059/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Seminars in cell & developmental biology，PMID 为 42468059。",
+      "report": "Tissue development and regeneration are governed by a dynamic interplay between biochemical signaling programs and biophysical forces that act across molecular, cellular, and tissue scales. Mechanical cues including cytoskeletal tension, extracellular matrix (...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_09fc33376c4aaa06006a5af4e8b210819b92e369d72ab66990",
+        "reviewedAt": "2026-07-18T03:37:11.994995+00:00",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献来源和内容需要更详细的判断，部分信息缺乏可靠性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "一级和二级分类信息并未充分支持其在临床背景中的应用。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": true,
+          "notesCn": "Fact、report 和 inference 之间未明确分离，可能导致误解。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Seminars in cell & developmental biology，PMID 为 42468059。",
+          "report": "Tissue development and regeneration are governed by a dynamic interplay between biochemical signaling programs and biophysical forces that act across molecular, cellular, and tissue scales. Mechanical cues including cytoskeletal tension, extracellular matrix (...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence，仅用于情报分流，未直接反映临床结论。",
+          "unknown": "未评估研究质量、样本量或相关利益冲突等信息。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42466889",
       "date": "2026-07-17",
       "title": "Endometrial gland secretome maintains the homeostasis of decidualization.",
@@ -1058,6 +1135,75 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Molecular diversity，PMID 为 42467311。",
           "report": "The programmed cell death-1/programmed cell death-ligand 1 (PD-1/PD-L1) pathway is a key target in cancer immunotherapy. Although monoclonal antibodies (mAbs) have demonstrated remarkable clinical efficacy, their application is limited by poor tissue penetration.",
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42468056",
+      "date": "2026-07-17",
+      "title": "Circulating tumor DNA to predict the risk of venous thromboembolism in locally advanced rectal cancer.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42468056/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer treatment and research communications，PMID 为 42468056。",
+      "report": "Venous thromboembolism (VTE) is a common complication in cancer patients and negatively affects prognosis. Colorectal cancer (CRC) has the second highest incidence of VTE among the four most common cancers. In locally advanced rectal cancer (LARC), circulating...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0df159aa1253e809006a5af4edce7081988c48b1399567955a",
+        "reviewedAt": "2026-07-18T03:37:11.994995+00:00",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查以确认研究质量和样本量等信息。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "虽然分类标记为中等，但缺乏对研究质量和样本量的详细说明，可能影响可靠性。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "研究的证据水平被标记为中等，但没有足够的信息支持这一点。"
+        },
+        "riskFlags": [
+          "insufficient_source",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Biotech",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "biotech",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cancer treatment and research communications，PMID 为 42468056。",
+          "report": "Venous thromboembolism (VTE) is a common complication in cancer patients and negatively affects prognosis. Colorectal cancer (CRC) has the second highest incidence of VTE among the four most common cancers. In locally advanced rectal cancer (LARC), circulating...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1859,79 +2005,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42462627",
-      "date": "2026-07-14",
-      "title": "Organotropism-specific circulating tumor cells profiles: Morphology and heterotypic clustering predict metastatic sites in liquid biopsy of solid tumors.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42462627/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 European journal of cancer (Oxford, England : 1990)，PMID 为 42462627。",
-      "report": "While circulating tumor cells (CTCs) are the primary drivers of metastatic dissemination, the mechanisms governing their organotropism remain poorly characterized. CTC morphology, including size and elongation, and cluster configuration (homotypic vs. heteroty...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_063ad1c5af23a48c006a59e87065c8819e97e316d92ceaf08b",
-        "reviewedAt": "2026-07-17T08:30:39.934588+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献的分类和证据水平合理，并且事实、报告、推断和未知信息明确分开，没有不当的临床结论或治疗建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "该分类支持文献主题，符合情报流分类标准。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平为中等，符合源信息支持。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 European journal of cancer (Oxford, England : 1990)，PMID 为 42462627。",
-          "report": "While circulating tumor cells (CTCs) are the primary drivers of metastatic dissemination, the mechanisms governing their organotropism remain poorly characterized. CTC morphology, including size and elongation, and cluster configuration (homotypic vs. heterotyp...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "clinicaltrials-NCT07703761",
       "date": "2026-07-14",
       "title": "AI-driven Processing and Analysis of Glioma Imaging Data",
@@ -2025,76 +2098,6 @@ window.BHR_DATA = {
           "report": "GLIOMAID is a scientific research project focused on improving how brain tumors, specifically gliomas, are diagnosed and managed. It uses Artificial Intelligence (AI) to analyze MRI brain scans and patient data.",
           "inference": "该登记记录尚需进一步验证以确保其准确性和临床适用性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42465424",
-      "date": "2026-07-10",
-      "title": "Long-read, whole-genome sequencing and chemotherapy response of two patient-derived organoids from a TP53- and KRAS-mutant ovarian carcinoma.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42465424/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42465424。",
-      "report": "Patient-derived organoids (PDOs) have transformed translational cancer research, allowing tractable models that better represent clinical features than traditional immortalized cell lines. Here we describe two PDOs with differential responses to carboplatin de...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0aca1245ddc3f476006a5a843128e8819482096c14f4698dfb",
-        "reviewedAt": "2026-07-17T19:35:38.540721+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "此卡片符合出版标准，信息分离明确。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合信号的主题和范围。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "文献引用和结论分离清晰，证据水平适中。"
-        },
-        "riskFlags": [],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42465424。",
-          "report": "Patient-derived organoids (PDOs) have transformed translational cancer research, allowing tractable models that better represent clinical features than traditional immortalized cell lines. Here we describe two PDOs with differential responses to carboplatin de...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },

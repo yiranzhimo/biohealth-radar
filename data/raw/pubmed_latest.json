@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-17T19:35:29.639167+00:00",
+  "capturedAt": "2026-07-18T03:37:01.741832+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-07-17",
-    "end": "2026-07-17"
+    "start": "2025-07-18",
+    "end": "2026-07-18"
   },
   "pmids": [
+    "42468059",
     "42466889",
     "42466578",
     "42466362",
     "42465663",
     "42465428",
-    "42465424",
     "42447329",
     "42444608",
     "42431103",
@@ -32,14 +32,32 @@
     "42462008",
     "42461986",
     "42461222",
+    "42468056",
     "42467395",
     "42467275",
     "42466209",
     "42464652",
-    "42463523",
-    "42462627"
+    "42463523"
   ],
   "records": [
+    {
+      "pmid": "42468059",
+      "title": "Biophysical forces in tissue formation.",
+      "abstract": "Tissue development and regeneration are governed by a dynamic interplay between biochemical signaling programs and biophysical forces that act across molecular, cellular, and tissue scales. Mechanical cues including cytoskeletal tension, extracellular matrix (ECM) stiffness and viscoelasticity, fluid shear, and hydrostatic pressure serve not merely as passive by-products of growth but as active regulators of cell fate, polarity, and morphogenesis. Through integrin- and cadherin-mediated adhesions, RhoA-ROCK contractility, and mechanosensitive pathways such as YAP/TAZ and β-catenin, cells sense and generate forces that coordinate collective migration, apical constriction, convergent extension, branching morphogenesis, and self-organization of organ primordia. Emerging evidence highlights the importance of ECM remodeling, nuclear mechanotransduction, and tissue-scale macromolecular flows as critical determinants of tissue patterning, organ architecture, and stem cell differentiation. This review synthesizes current insights into how mechanical forces shape development and regeneration, emphasizing the regulation of cell, tissue, and organ behavior through mechanochemical feedback loops and the ECM niche. Understanding how physical forces interface with gene regulatory networks will be essential for decoding developmental design principles and engineering functional tissues and organoids.",
+      "journal": "Seminars in cell & developmental biology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Institute of Regenerative Biology and Medicine, Chinese Institutes for Medical Research, Beijing, China.",
+        "Institute of Regenerative Biology and Medicine, Chinese Institutes for Medical Research, Beijing, China; Capital Medical University, Beijing, China.",
+        "Institute of Regenerative Biology and Medicine, Chinese Institutes for Medical Research, Beijing, China; Capital Medical University, Beijing, China; New Cornerstone Science Laboratory, China. Electronic address: yuval.rinkevich@cimrbj.ac.cn."
+      ],
+      "doi": "10.1016/j.semcdb.2026.103684",
+      "date": "2026-07-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42468059/"
+    },
     {
       "pmid": "42466889",
       "title": "Endometrial gland secretome maintains the homeostasis of decidualization.",
@@ -135,20 +153,6 @@
       "doi": "10.64898/2026.07.07.736946",
       "date": "2026-07-07",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42465428/"
-    },
-    {
-      "pmid": "42465424",
-      "title": "Long-read, whole-genome sequencing and chemotherapy response of two patient-derived organoids from a TP53- and KRAS-mutant ovarian carcinoma.",
-      "abstract": "Patient-derived organoids (PDOs) have transformed translational cancer research, allowing tractable models that better represent clinical features than traditional immortalized cell lines. Here we describe two PDOs with differential responses to carboplatin derived from sequential ascites fluid collections from a patient with high-grade müllerian carcinoma, that could not be further subclassified on the omental biopsy. Uterine origin was clinically excluded by pelvic imaging/CT scan of the uterus and absence of vaginal bleeding. Successful derivation from independent collections enabled comparison of intra-patient heterogeneity across sequential ascites samples and demonstrates that PDO efficiency rate is at least partly patient-specific or tumor-dependent. We performed long-read whole genome sequencing on the two PDOs, OC104 and OC109, to better characterize the structural variant landscape while also obtaining information on single nucleotide variants and DNA methylation. In addition to confirming single nucleotide variants noted in clinical sequencing (TP53, KRAS, SPOP, PPP2R1A, KMT2D), we identified additional variants in TSC2, NCOR2, and CTNNA2 that are predicted to be likely pathogenic. The spectrum of mutations, particularly the coincident KRAS and TP53, highlighted unexpected overlap with ovarian mucinous carcinoma. We also identified larger insertions and deletions that result in non-synonymous variants in MUC5AC, TPRX1, and BMX, as well as four translocation events, including two that could not have been resolved with short-read sequencing. Differentially methylated promoters between the two PDOs include 201 oncogenes and tumor suppressor genes, with HNF1A, MSI2, and SETBP1 having methylation directions consistent with these genes' roles in platinum response differences observed between the PDOs. Notably, the clonal nature of PDOs produced from two samples taken one week apart is important for the field to appreciate, particularly since they have clonal differences in platinum response. The temporal differences in clonality may indicate a limitation of low volume sampling, however may provide opportunity to longitudinally predict clinical outcomes. We also demonstrate the ability of long-read sequencing to add detail into the genomics and epigenetics of ovarian cancer.",
-      "journal": "bioRxiv : the preprint server for biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Preprint"
-      ],
-      "affiliations": [],
-      "doi": "10.64898/2026.07.06.736185",
-      "date": "2026-07-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42465424/"
     },
     {
       "pmid": "42447329",
@@ -386,6 +390,26 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42461222/"
     },
     {
+      "pmid": "42468056",
+      "title": "Circulating tumor DNA to predict the risk of venous thromboembolism in locally advanced rectal cancer.",
+      "abstract": "Venous thromboembolism (VTE) is a common complication in cancer patients and negatively affects prognosis. Colorectal cancer (CRC) has the second highest incidence of VTE among the four most common cancers. In locally advanced rectal cancer (LARC), circulating tumor DNA (ctDNA) has emerged as a biomarker of residual disease and tumor burden, but its association with thrombotic risk remains unclear. We aimed to explore the association between baseline ctDNA levels and VTE occurrence in LARC. We conducted a prospective study of patients with LARC treated with chemoradiation at IEO. Plasma ctDNA was analyzed by droplet digital PCR for tumor-specific mutations identified in tissue samples, including KRAS, NRAS, BRAF, and PIK3CA. Baseline ctDNA, defined as variant allele frequency (VAF), was correlated with VTE occurrence using univariable and exploratory adjusted analyses. Sixty-one patients underwent ctDNA assessment and were classified as VAF-low (n = 33) or VAF-high (n = 28) according to the median baseline value. Twenty-three patients (38%) were VAF-negative. After a median follow-up of 58 months, 9 VTE events (15%) were observed. Higher VTE cumulative incidence was observed in VAF-high versus VAF-low patients [HR 2.42, 95% CI 0.61-9.59; p = 0.21] and in ctDNA-positive versus ctDNA-negative patients [HR 5.70, 95% CI 0.70-46.1; p = 0.10]. In the KRAS-mutant subgroup, all VTE events occurred in patients with high baseline VAF (p = 0.001). Higher baseline ctDNA levels may be associated with increased VTE occurrence in KRAS-mutant LARC. These exploratory findings require validation in larger prospective studies.",
+      "journal": "Cancer treatment and research communications",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Division of Gastrointestinal Medical Oncology and Neuroendocrine Tumors, European Institute of Oncology, IRCCS, Milan, Italy. Electronic address: lorenzo.gervaso@ieo.it.",
+        "Division of Gastrointestinal Medical Oncology and Neuroendocrine Tumors, European Institute of Oncology, IRCCS, Milan, Italy.",
+        "Department of Statistics and Quantitative Methods, University of Milano-Bicocca, Milan, Italy; Department of Medicine and Surgery, University of Milano-Bicocca, Milan, Italy.",
+        "Department of Statistics and Quantitative Methods, University of Milano-Bicocca, Milan, Italy.",
+        "Laboratory of Hematology-Oncology, European Institute of Oncology, IRCCS, Milan, Italy.",
+        "Division of Gastrointestinal Medical Oncology and Neuroendocrine Tumors, European Institute of Oncology, IRCCS, Milan, Italy. Electronic address: nicola.fazio@ieo.it."
+      ],
+      "doi": "10.1016/j.ctarc.2026.101316",
+      "date": "2026-07-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42468056/"
+    },
+    {
       "pmid": "42467395",
       "title": "Circulating Tumor DNA Analysis in Adrenocortical Carcinoma: A Retrospective Cohort Study.",
       "abstract": "Adrenocortical carcinoma (ACC) is a rare malignancy with high recurrence rates. Circulating tumor DNA (ctDNA) is a minimally invasive, blood-based biomarker with multiple oncologic applications. The role of ctDNA in ACC care remains understudied. This retrospective, single-institution, study evaluated real-world use of ctDNA testing in patients with ACC and its correlation with imaging-based tumor burden. Patients with ACC (≥ 18 years) who underwent ctDNA testing via a clinically validated, personalized, tumor-informed assay (Signatera™, Natera) during their disease course were reviewed, and clinical data were obtained from the medical records. ctDNA results were tested for association with disease status and tumor burden determined by concurrent imaging and clinical evaluation. Twenty patients (55% male) were included; the median age at first ctDNA assessment was 58.3 years (range, 23.3-81.1). A total of 87 ctDNA tests were analyzed (median, 4 tests/patient; interquartile range [IQR], 1-6). The median ctDNA level was 1.27 mean tumor molecules/mL (IQR, 0.05-22.86). Detected ctDNA was strongly associated with evidence of disease (odds ratio, 74; 95% confidence interval, 9-3438). The ctDNA assay demonstrated high sensitivity (88%), specificity (91.7%), and overall accuracy (88.5%), with a positive post-test probability of 98% and a negative post-test probability of 45%. In addition, ctDNA levels were positively correlated with tumor burden (Spearman R = 0.844; p < 0.001). These findings support the potential value of ctDNA testing for disease monitoring in ACC and it may support a more personalized approach to this rare disease.",
@@ -487,29 +511,41 @@
       "doi": "10.1038/s41597-026-07798-9",
       "date": "2026-07-16",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42463523/"
-    },
-    {
-      "pmid": "42462627",
-      "title": "Organotropism-specific circulating tumor cells profiles: Morphology and heterotypic clustering predict metastatic sites in liquid biopsy of solid tumors.",
-      "abstract": "While circulating tumor cells (CTCs) are the primary drivers of metastatic dissemination, the mechanisms governing their organotropism remain poorly characterized. CTC morphology, including size and elongation, and cluster configuration (homotypic vs. heterotypic) may encode site-specific metastatic signatures. Characterizing these features could provide critical pre-radiological biomarkers for predicting organ-specific recurrence and refining metastatic risk assessment in clinical. We analyzed a large retrospective cohort of patients with a single metastatic site (bone, liver, brain, or lung), regardless of primary tumor origin, using the CellSearch® system. CTC were classified by morphological subtypes (canonical, large, elongated) and cluster phenotypes (homotypic versus heterotypic). CellSearch® profiling of 8359 CTCs from 82 patients with metastatic cancer uncovered marked site-specific heterogeneity reflective of tumor burden and biological tropisms. Among 34 patients with bone metastases, 7010 CTCs (median 21 [IQR 6-135]) were predominantly canonical (85%) and organized in nearly exclusive homotypic clusters (97.7%). In 26 patients with liver metastases, 1273 CTCs (median 4 [IQR 3-7]) shifted to large CTCs (80%) with mixed homotypic (65.2%) and heterotypic (34.8%) clustering. Conversely, 22 patients with brain/lung metastases yielded 76 CTCs (median 3 [IQR 3-5]), enriched for elongated forms (84%) in exclusively heterotypic clusters (100%). These distinct profiles demonstrated statistically significant disparities (P < 0.001), implicating anatomical and microenvironmental drivers of CTC shedding and dissemination. CTC morphology and heterotypic clustering exhibit organotropism-specific profiles, aligning with microenvironmental cues like capillary shear, endothelial activation, and immune niches. These findings position multimodal CTC analysis as a liquid biopsy tool for early metastasis site forecasting, guiding precision interventions.",
-      "journal": "European journal of cancer (Oxford, England : 1990)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Cancer Liquid Biopsy Unit, Department of Experimental Medicine, Sapienza University of Rome, Italy. Electronic address: michela.demeo@uniroma1.it.",
-        "Department of Molecular Medicine, Sapienza University of Rome, Italy; Medical Oncology, Sant'Andrea University Hospital, Rome, Italy.",
-        "Department of Molecular Medicine, Sapienza University of Rome, Italy.",
-        "UOC di Oncologia Medica, Ospedale Leopoldo Parodi Delfino, Colleferro 00034, Italy.",
-        "Cancer Liquid Biopsy Unit, Department of Experimental Medicine, Sapienza University of Rome, Italy; Department of Life Science, Health, and Health Professions, Link Campus University, Rome, Italy.",
-        "Cancer Liquid Biopsy Unit, Department of Experimental Medicine, Sapienza University of Rome, Italy."
-      ],
-      "doi": "10.1016/j.ejca.2026.116934",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42462627/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42468059",
+      "date": "2026-07-17",
+      "title": "Biophysical forces in tissue formation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42468059/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Seminars in cell & developmental biology，PMID 为 42468059。",
+      "report": "Tissue development and regeneration are governed by a dynamic interplay between biochemical signaling programs and biophysical forces that act across molecular, cellular, and tissue scales. Mechanical cues including cytoskeletal tension, extracellular matrix (...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42466889",
       "date": "2026-07-17",
@@ -611,6 +647,34 @@
       "fact": "PubMed 记录显示该文献收录于 Molecular diversity，PMID 为 42467311。",
       "report": "The programmed cell death-1/programmed cell death-ligand 1 (PD-1/PD-L1) pathway is a key target in cancer immunotherapy. Although monoclonal antibodies (mAbs) have demonstrated remarkable clinical efficacy, their application is limited by poor tissue penetrati...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42468056",
+      "date": "2026-07-17",
+      "title": "Circulating tumor DNA to predict the risk of venous thromboembolism in locally advanced rectal cancer.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42468056/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer treatment and research communications，PMID 为 42468056。",
+      "report": "Venous thromboembolism (VTE) is a common complication in cancer patients and negatively affects prognosis. Colorectal cancer (CRC) has the second highest incidence of VTE among the four most common cancers. In locally advanced rectal cancer (LARC), circulating...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -884,66 +948,6 @@
       "fact": "PubMed 记录显示该文献收录于 Scientific data，PMID 为 42463523。",
       "report": "Artificial intelligence (AI) is increasingly used in digital pathology. Publicly available histopathology datasets remain scarce, and those that do exist predominantly represent Western populations. Consequently, the generalizability of AI models to population...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42462627",
-      "date": "2026-07-14",
-      "title": "Organotropism-specific circulating tumor cells profiles: Morphology and heterotypic clustering predict metastatic sites in liquid biopsy of solid tumors.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42462627/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 European journal of cancer (Oxford, England : 1990)，PMID 为 42462627。",
-      "report": "While circulating tumor cells (CTCs) are the primary drivers of metastatic dissemination, the mechanisms governing their organotropism remain poorly characterized. CTC morphology, including size and elongation, and cluster configuration (homotypic vs. heteroty...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42465424",
-      "date": "2026-07-10",
-      "title": "Long-read, whole-genome sequencing and chemotherapy response of two patient-derived organoids from a TP53- and KRAS-mutant ovarian carcinoma.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42465424/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42465424。",
-      "report": "Patient-derived organoids (PDOs) have transformed translational cancer research, allowing tractable models that better represent clinical features than traditional immortalized cell lines. Here we describe two PDOs with differential responses to carboplatin de...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
