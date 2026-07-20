@@ -1,26 +1,26 @@
 {
-  "capturedAt": "2026-07-20T04:07:58.236955+00:00",
+  "capturedAt": "2026-07-20T09:37:00.177469+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42472463",
-      "responseId": "resp_0729788d68cb1f32006a5d9f1efe7c8199a9ff7e2666430c92",
+      "signalId": "pubmed-42473035",
+      "responseId": "resp_0ac2814b97596adb006a5dec3d6ca0819cb71cecce51249545",
       "review": {
         "status": "pass",
-        "confidence": 0.9,
+        "confidence": 0.85,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录清晰地展示了来源信息，事实、报告和推论分离明确，符合出版要求。",
+        "reviewSummaryCn": "该文献记录符合发布标准，信息明确且未包含临床建议。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类与提供的元数据合理匹配。"
+          "notesCn": "分类与文献信息一致，适合用于情报记录。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "证据水平合理，来源可靠。"
+          "notesCn": "研究证据水平合理，信息分离清晰。"
         },
         "riskFlags": [
           "clinical_claim",
@@ -33,15 +33,15 @@
           "themes": [
             "Organoids",
             "Advanced Disease Models",
-            "Multi-omics"
+            "Precision Oncology"
           ],
           "tags": [
             "类器官",
             "疾病模型",
-            "多组学"
+            "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Tissue barriers，PMID 为 42472463。",
-          "report": "A key bottleneck in preclinical vaccine research is the lack of a human in vitro system that faithfully models the germinal center (GC) reactions, a critical process for generating protective antibodies. This gap hinders the accurate assessment of vaccine candidates.",
+          "fact": "PubMed 记录显示该文献收录于 Cancer medicine，PMID 为 42473035。",
+          "report": "At present, colorectal cancer (CRC) ranks as the third most prevalent cancer globally and is the second most common cause of mortality associated with cancer. The expression of A Disintegrin and Metalloproteinase with Thrombospondin Motifs 5 (ADAMTS5) is upreg...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
