@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-07-19",
+  "updatedAt": "2026-07-20",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -822,6 +822,79 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42472463",
+      "date": "2026-07-19",
+      "title": "Modeling tonsil organoids for studying mucosal immune responses to SARS-CoV-2 vaccination.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42472463/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Tissue barriers，PMID 为 42472463。",
+      "report": "A key bottleneck in preclinical vaccine research is the lack of a human in vitro system that faithfully models the germinal center (GC) reactions, a critical process for generating protective antibodies. This gap hinders the accurate assessment of vaccine cand...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0729788d68cb1f32006a5d9f1efe7c8199a9ff7e2666430c92",
+        "reviewedAt": "2026-07-20T04:07:58.236955+00:00",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录清晰地展示了来源信息，事实、报告和推论分离明确，符合出版要求。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类与提供的元数据合理匹配。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平合理，来源可靠。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Tissue barriers，PMID 为 42472463。",
+          "report": "A key bottleneck in preclinical vaccine research is the lack of a human in vitro system that faithfully models the germinal center (GC) reactions, a critical process for generating protective antibodies. This gap hinders the accurate assessment of vaccine candidates.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42471504",
       "date": "2026-07-19",
       "title": "Translational gaps and clinical readiness of artificial intelligence and multimodal imaging in breast cancer diagnostics.",
@@ -1042,79 +1115,6 @@ window.BHR_DATA = {
           ],
           "fact": "PubMed 记录显示该文献收录于 Discover oncology，PMID 为 42471534。",
           "report": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal malignancies worldwide, characterized by late-stage diagnosis, profound chemoresistance, and a five-year survival rate that barely exceeds 12%. The fibrotic stromal barrier surrounding the...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42471452",
-      "date": "2026-07-18",
-      "title": "Preclinical efficacy of iPSC-derived MUC1-targeted CAR-NK cells against esophageal squamous cell carcinoma.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42471452/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer immunology, immunotherapy : CII，PMID 为 42471452。",
-      "report": "MUC1 is frequently overexpressed in esophageal squamous cell carcinoma (ESCC), but MUC1-targeted CAR-NK cells remain unexplored in this malignancy. MUC1 expression was assessed by IHC in 90 ESCC specimens, 47 paired adjacent normal tissues, and normal human or...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_009a99397bbe2e18006a5c8c9665fc8199b0937f8eaa532442",
-        "reviewedAt": "2026-07-19T08:36:15.653751+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录清晰，分类合理，没有不当的临床结论或建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类符合文献内容，具有合理性。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论之间明确分开，证据水平合理。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Cancer immunology, immunotherapy : CII，PMID 为 42471452。",
-          "report": "MUC1 is frequently overexpressed in esophageal squamous cell carcinoma (ESCC), but MUC1-targeted CAR-NK cells remain unexplored in this malignancy. MUC1 expression was assessed by IHC in 90 ESCC specimens, 47 paired adjacent normal tissues, and normal human or...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }

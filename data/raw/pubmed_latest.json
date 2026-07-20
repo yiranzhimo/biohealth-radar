@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-19T19:35:34.532027+00:00",
+  "capturedAt": "2026-07-20T04:07:47.841828+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-07-19",
-    "end": "2026-07-19"
+    "start": "2025-07-20",
+    "end": "2026-07-20"
   },
   "pmids": [
+    "42472463",
     "42472089",
     "42472088",
     "42472075",
     "42471543",
     "42471534",
-    "42471452",
     "42447329",
     "42444608",
     "42431103",
@@ -40,6 +40,21 @@
     "42467395"
   ],
   "records": [
+    {
+      "pmid": "42472463",
+      "title": "Modeling tonsil organoids for studying mucosal immune responses to SARS-CoV-2 vaccination.",
+      "abstract": "A key bottleneck in preclinical vaccine research is the lack of a human in vitro system that faithfully models the germinal center (GC) reactions, a critical process for generating protective antibodies. This gap hinders the accurate assessment of vaccine candidates. The tonsil is a key component of the mucosal immune system in the oropharynx, acting as its first-line immune sentinel. We established a novel human tonsil organoid platform and stimulated it with the chimpanzee adenovirus serotype 68-19 spike protein (AdC68-19S) SARS-CoV-2 vaccine candidate. Cellular immune phenotypes were analyzed by flow cytometry, while spatial organization was assessed via immunofluorescence. Functional immune responses were quantified using enzyme-linked immunosorbent assay, enzyme-linked immunospot assay, and pseudovirus neutralization tests to measure antigen-specific antibodies production and their neutralizing capacity. AdC68‑19S immunization elicited coordinated GC reactions in tonsil organoids, characterized spatially by the formation of discrete GC compartments, specifically an AICDA+ dark zone and a PD‑1+ light zone. This reorganization was accompanied by a marked expansion of key effector populations, including GC B cells and plasma cells. Functionally, the platform generated antibody‑secreting cells as well as antigen‑specific IgG and IgA antibodies, these antibodies demonstrated neutralizing capacity against the SARS‑CoV‑2 pseudovirus. The human tonsil organoids platform represents a paradigm shift in vitro immunology, establishing a system that recapitulates key features of adaptive immune responses induced by AdC68-19S vaccine. This approach provides a robust, physiologically relevant, and ethically viable model to advance our understanding of human immunity, oral immune barrier and accelerate vaccine development.",
+      "journal": "Tissue barriers",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Otolaryngology-Head and Neck Surgery, Beijing Tsinghua Changgung Hospital, School of Clinical Medicine, Tsinghua Medicine, Tsinghua University, Beijing, People's Republic of China."
+      ],
+      "doi": "10.1080/21688370.2026.2700690",
+      "date": "2026-07-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42472463/"
+    },
     {
       "pmid": "42472089",
       "title": "Organoid-loaded core-shell cryomicroneedles induce biomimetic follicular units and hair regeneration.",
@@ -134,30 +149,6 @@
       "doi": "10.1007/s12672-026-05532-w",
       "date": "2026-07-18",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42471534/"
-    },
-    {
-      "pmid": "42471452",
-      "title": "Preclinical efficacy of iPSC-derived MUC1-targeted CAR-NK cells against esophageal squamous cell carcinoma.",
-      "abstract": "MUC1 is frequently overexpressed in esophageal squamous cell carcinoma (ESCC), but MUC1-targeted CAR-NK cells remain unexplored in this malignancy. MUC1 expression was assessed by IHC in 90 ESCC specimens, 47 paired adjacent normal tissues, and normal human organs. MUC1-targeted CAR-NK cells were generated from an iPSC platform. Antitumor activity was evaluated against patient-specific ESCC organoids (PSOs), primary ESCC cells, KYSE150 and KYSE140 cells using live/dead staining, CCK-8, and xCELLigence assays. In vivo efficacy was assessed in a KYSE140 xenograft model. MUC1 was expressed in 70% (63/90) of ESCC cases versus 14.9% (7/47) of adjacent normal tissues (P < 0.001), with negligible expression in normal organs. Among MUC1-positive ESCCs, 88.9% and 42.8% showed > 50% and > 80% tumor cell positivity, respectively. iPSC-derived MUC1 CAR-NK cells exhibited > 95% CAR expression across iPSC, progenitor, and mature stages. Compared with controls, MUC1 CAR-NK cells elicited potent, antigen-specific cytotoxicity against MUC1-expressing ESCC PSOs, primary cells, KYSE150, and KYSE140 in vitro and significantly suppressed KYSE140 xenograft growth in vivo. iPSC-derived MUC1-targeted CAR-NK cells exert robust and specific antitumor efficacy against human ESCC, supporting clinical translation of this off-the-shelf cell therapy.",
-      "journal": "Cancer immunology, immunotherapy : CII",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Radiation Oncology, Guangdong Engineering Research Center of AI-Powered Precision Cancer Diagnostics and Therapeutics (Proposed)/Guangdong Engineering Technology Research Center of AI-Powered Precision Cancer Diagnostics and Therapeutics, Cancer Hospital of Shantou University Medical College, Guangdong, China.",
-        "Guangdong Procapzoom Bioscience Inc., Guangzhou, China.",
-        "Department of Thoracic Oncology, Cancer Hospital of Shantou University Medical College, Guangdong, China.",
-        "Radiology Department, Second Affiliated Hospital of Shantou University Medical College, Shantou, Guangdong, China.",
-        "Department of Pathology, the First Affiliated Hospital of Fujian Medical University, Fuzhou, China. juping0128@163.com.",
-        "Department of Pathophysiology, School of Basic Medical Sciences, Bengbu Medical University, Bengbu, China. juping0128@163.com.",
-        "Guangdong Procapzoom Bioscience Inc., Guangzhou, China. hyzeng@procapzoom.com.",
-        "Key Laboratory of Molecular Target & Clinical Pharmacology and State Key Laboratory of Respiratory Disease, School of Pharmaceutical Sciences, Guangzhou Medical University, Guangzhou, Guangdong, China. hyzeng@procapzoom.com.",
-        "Department of Radiation Oncology, Guangdong Engineering Research Center of AI-Powered Precision Cancer Diagnostics and Therapeutics (Proposed)/Guangdong Engineering Technology Research Center of AI-Powered Precision Cancer Diagnostics and Therapeutics, Cancer Hospital of Shantou University Medical College, Guangdong, China. 994370958@qq.com.",
-        "Chaoshan Branch of State Key Laboratory for Esophageal Cancer Prevention and Treatment, Shantou University Medical College, Guangdong, China. 994370958@qq.com."
-      ],
-      "doi": "10.1007/s00262-026-04493-x",
-      "date": "2026-07-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42471452/"
     },
     {
       "pmid": "42447329",
@@ -524,6 +515,36 @@
   ],
   "signals": [
     {
+      "id": "pubmed-42472463",
+      "date": "2026-07-19",
+      "title": "Modeling tonsil organoids for studying mucosal immune responses to SARS-CoV-2 vaccination.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42472463/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Tissue barriers，PMID 为 42472463。",
+      "report": "A key bottleneck in preclinical vaccine research is the lack of a human in vitro system that faithfully models the germinal center (GC) reactions, a critical process for generating protective antibodies. This gap hinders the accurate assessment of vaccine cand...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42471504",
       "date": "2026-07-19",
       "title": "Translational gaps and clinical readiness of artificial intelligence and multimodal imaging in breast cancer diagnostics.",
@@ -614,36 +635,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Discover oncology，PMID 为 42471534。",
       "report": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal malignancies worldwide, characterized by late-stage diagnosis, profound chemoresistance, and a five-year survival rate that barely exceeds 12%. The fibrotic stromal barrier surrounding the...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42471452",
-      "date": "2026-07-18",
-      "title": "Preclinical efficacy of iPSC-derived MUC1-targeted CAR-NK cells against esophageal squamous cell carcinoma.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42471452/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer immunology, immunotherapy : CII，PMID 为 42471452。",
-      "report": "MUC1 is frequently overexpressed in esophageal squamous cell carcinoma (ESCC), but MUC1-targeted CAR-NK cells remain unexplored in this malignancy. MUC1 expression was assessed by IHC in 90 ESCC specimens, 47 paired adjacent normal tissues, and normal human or...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
