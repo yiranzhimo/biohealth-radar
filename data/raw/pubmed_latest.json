@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-20T09:36:51.759590+00:00",
+  "capturedAt": "2026-07-20T14:35:14.842128+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-07-20"
   },
   "pmids": [
+    "42473353",
     "42473035",
     "42472463",
     "42472089",
     "42472088",
     "42472075",
-    "42471543",
     "42447329",
     "42444608",
     "42431103",
@@ -32,14 +32,32 @@
     "42463579",
     "42462358",
     "42462008",
+    "42473726",
+    "42473674",
+    "42473295",
     "42472109",
     "42471504",
-    "42469558",
-    "42468094",
-    "42468056",
-    "42467395"
+    "42469558"
   ],
   "records": [
+    {
+      "pmid": "42473353",
+      "title": "VitroOrganoSphere (VOS): an automated droplet-engineered organoid sorting platform.",
+      "abstract": "Industrialization and clinical translation applications based on organoids are often limited by low automation, high matrix consumption, and poor reproducibility. Here we present the VitroOrganoSphere (VOS) system, an automated droplet-engineered organoid sorting platform, which integrates droplet generation, photoelectric detection, fluorescence-based content evaluation, sorting, and automated dispensing into 96-well plates. Monodisperse droplets (CV <3%) are deposited as single droplets per well with Matrigel consumption as low as ∼0.3 μL. Real-time quality control enables rejection of empty or overloaded droplets and selective collection of droplets with appropriate encapsulation of viable organoids. Under the rigorous screening of two droplet selection criteria (size and sample content), the VOS system ultimately achieved a recovery rate of over 90% and accuracy of over 95%. Encapsulated organoids maintain viability and exhibit enhanced growth compared with manual methods. Drug sensitivity testing using patient-derived tumor organoids reliably distinguishes drug-sensitive and drug-resistant samples and reveals interpatient heterogeneity across multiple therapeutic agents. The VOS system establishes a standardized workflow for automated organoid-based drug screening and supports applications in precision medicine.",
+      "journal": "Lab on a chip",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "National Key Laboratory of Advanced Micro and Nano Manufacture Technology, Shanghai Jiao Tong University, Shanghai, 200240, China. xlwang83@sjtu.edu.cn.",
+        "School of Integrated Circuits (School of Information Science and Electronic Engineering), Shanghai Jiao Tong University, Shanghai, 200240, China.",
+        "Research and Early Development, D1Med Technology (Hangzhou) Inc, Shanghai, 200235, China.",
+        "Institute of Medical Robotics, Shanghai Jiao Tong University, Shanghai, 200240, China."
+      ],
+      "doi": "10.1039/d6lc00309e",
+      "date": "2026-07-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473353/"
+    },
     {
       "pmid": "42473035",
       "title": "Inhibition of the Metalloproteinase ADAMTS5 Suppresses Colorectal Cancer Metastasis via the PEDF/Wnt/β-Catenin Pathway.",
@@ -127,25 +145,6 @@
       "doi": "10.2147/DDDT.S618870",
       "date": "2026-07-14",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42472075/"
-    },
-    {
-      "pmid": "42471543",
-      "title": "The closer, the better: intratumoral delivery of a thermoresponsive gemcitabine-loaded hydrogel in preclinical PDAC models.",
-      "abstract": "Current treatments for pancreatic ductal adenocarcinoma (PDAC) patients are typically restricted to (neo)adjuvant chemotherapy, surgery or palliative care. Mainly due to a late diagnosis and highly desmoplastic environment, these treatments have limited efficacy and patient prognosis is very poor. Intratumoral delivery of chemotherapeutic agents using hydrogel technology might boost treatment efficacy and reduce side effects. Here, we aimed to investigate the preclinical efficacy and tolerability of a novel thermosensitive hydrogel, ChemoGell, loaded with the chemotherapeutic agent gemcitabine. We explored this in vitro, using patient-derived organoids and surgically obtained tumor explants, and in vivo, using a human patient-derived xenograft (PDX) and syngeneic KPC3 mouse models. Upon intratumoral injections of gemcitabine-loaded ChemoGell, respective survival, peripheral blood and end-stage tumor histological analyses were performed. Intratumoral injection of gemcitabine-loaded ChemoGell in in vitro and in vivo models showed decreased tumor growth and increased cytotoxicity compared to blank ChemoGell and saline control intratumoral injections. In contrast, systemic administration of gemcitabine did not show therapeutic benefits. Intratumoral ChemoGell injections induced interesting lymphocyte and monocyte dynamics overtime, showing an intratumoral influx of NK cells and monocytes and an in-depot infiltration of activated fibroblasts, macrophages and activated CD8 + T cells. Our findings establish a foundation for integrating localized treatment modalities, addressing critical challenges in PDAC and improving patient prognosis through more effective, localized therapeutic strategies.",
-      "journal": "Drug delivery and translational research",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Gastroenterology and Hepatology, Leiden University Medical Center, Leiden, Zuid-Holland, The Netherlands.",
-        "School of Pharmacy and Biomolecular Sciences, Royal College of Surgeons in Ireland (RCSI), Dublin, Ireland.",
-        "OncoLize B.V., Maastricht, The Netherlands.",
-        "Tissue Engineering Research Group, Department of Anatomy, Royal College of Surgeons in Ireland (RCSI), Dublin, Ireland.",
-        "Department of Gastroenterology and Hepatology, Leiden University Medical Center, Leiden, Zuid-Holland, The Netherlands. l.j.a.c.hawinkels@lumc.nl."
-      ],
-      "doi": "10.1007/s13346-026-02187-6",
-      "date": "2026-07-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42471543/"
     },
     {
       "pmid": "42447329",
@@ -390,6 +389,60 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42462008/"
     },
     {
+      "pmid": "42473726",
+      "title": "Tailored strategies to overcome third-generation TKI resistance in EGFR-mutated non-small cell lung cancer.",
+      "abstract": "In the era of precision medicine, targeting resistance mechanisms is a rational approach to optimize treatment management based on tumor molecular profiling, with the goal of improving clinical outcomes. However, the role of tailored strategies in the treatment algorithm of EGFR-mutated NSCLC remains incompletely defined. This review provides an overview of resistance mechanisms to EGFR-targeted therapy. Acquired resistances include on-target alterations (EGFR C797S and other secondary kinase domain mutations), off-target pathways activation (MET or HER2 amplification, RAS-MAPK, oncogenic fusions), and neuroendocrine transformation to SCLC. Evidence from clinical and observational studies demonstrates activity of tailored therapies, such as EGFR plus MET inhibitors combinations. In parallel, mechanism-agnostic strategies, including bispecific antibodies and ADC have emerged as effective options in the post-osimertinib setting. Comprehensive molecular assessment through both tissue and liquid biopsy at EGFR-TKI progression is essential to identify actionable alterations and guide treatment decisions. When supported by Molecular Tumor Board discussion, biomarker-driven strategies could enable personalized treatment selection and provide effective chemotherapy-free options. Emergence of upfront combinations is reshaping the biological landscape of EGFR-TKI resistance, increasing the proportion of patients with unknown escape mechanisms and potentially affecting the feasibility of molecularly matched therapies in later lines.",
+      "journal": "Expert opinion on therapeutic targets",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Medical Oncology, Department of Oncology, University of Turin, San Luigi Hospital, Orbassano, Turin, Italy."
+      ],
+      "doi": "10.1080/14728222.2026.2706458",
+      "date": "2026-07-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473726/"
+    },
+    {
+      "pmid": "42473674",
+      "title": "Genomic innovations in cancer prevention, diagnosis, prognosis and precision therapeutics.",
+      "abstract": "Cancer research has undergone a transformative change with the advent of high-throughput genomic technologies. Advances in next-generation sequencing accelerated the identification of somatic and germline alterations that drive tumorigenesis enabling the transition from traditional histology-based cancer classification to molecularly informed precision oncology. Large-scale sequencing initiatives and clinical genomic profiling facilitated the development of companion diagnostic assays and targeted therapies. Beyond targeted therapies, genomic innovations have also catalyzed the emergence of novel therapeutic strategies including immunogenomics-driven immunotherapies, RNA-based therapeutics, cancer vaccines and genome editing technologies based on CRISPR-Cas systems. This review summarizes the major technological developments in cancer genomics, including sequencing platforms, transcriptomic profiling, liquid biopsy, and functional genomic screening, and highlights the utility of these innovations in discovery of actionable biomarkers and next-generation therapeutic strategies. Collectively, these advances underscore the central role of genomic technologies in driving the evolution of precision oncology toward more personalized and effective cancer treatment strategies.",
+      "journal": "Frontiers in genetics",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Surgery, University of Connecticut School of Medicine, Farmington, CT, United States.",
+        "Department of Medical Genetics, JSS Medical College and Hospital, JSS Academy of Higher Education and Research, Mysore, Karnataka, India.",
+        "Division of Reproductive Biology, Department of Reproductive Science, Kasturba Medical College, Manipal Academy of Higher Education, Manipal, India.",
+        "Department of Biochemistry, JSS Medical College and Hospital, JSS Academy of Higher Education and Research, Mysore, Karnataka, India.",
+        "Department of Surgery, Ellis Fischel Cancer Center, University of Missouri, Columbia, MO, United States.",
+        "Department of Medical Oncology, JSS Medical College and Hospital, JSS Academy of Higher Education and Research, Mysore, Karnataka, India."
+      ],
+      "doi": "10.3389/fgene.2026.1828450",
+      "date": "2026-07-06",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473674/"
+    },
+    {
+      "pmid": "42473295",
+      "title": "Recent Advances on Liquid-Phase Separation Techniques in Liquid Biopsy Technology for Detecting Circulating Cancer Biomarkers.",
+      "abstract": "Globally, cancer morbidity and death are rising quickly, making it imperative to develop a workable plan for early cancer patient identification and treatment outcome prediction. Liquid biopsy, a minimally invasive and repeatable technique, can replace the restrictions of tissue biopsy by detecting, assessing, and tracking cancer in any bodily fluid, including human blood. This novel diagnostic technique offers crucial data for tracking and recognizing tumor genomes in samples of physiological fluids. Through minimally invasive methods, the identification of tumor-origin biological components, such as circulating tumor cells (CTCs), circulating tumor DNA (ctDNA), circulating microRNAs (miRNAs), exosomes, and autoantibodies in serum, plasma, saliva, and urine, allows for disease monitoring, early diagnosis, and assessment of treatment response. The goal of this study is to provide a comprehensive summary of the most recent discoveries and applications of liquid biopsy technology for detecting cancer biomarkers, with an emphasis on the years 2005-2025. When used in conjunction with other test results, liquid biopsy is also advantageous for early recurrence detection, monitoring patients who are considered to be at high risk of getting cancer and improving diagnosis. Combining patient history, clinical results, and biopsy biomarker amounts will enable more precise and timely diagnosis thanks to developments in analytical methods and informatics. This review thoroughly examined the biosynthesis, significance, and potential role of four well-known biological markers in tumor diagnosis and treatment. In addition, the advances and challenges in detection technologies for these analytes, as well as potential solutions to address these issues, were also discussed. Finally, we discuss the advantages and disadvantages of liquid biopsy, along with suggestions for its future advancement.",
+      "journal": "Electrophoresis",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Scientific and Technological Research Center, Tekirdağ Namık Kemal University, Tekirdağ, Turkey.",
+        "Faculty of Engineering, Bioengineering Department, Çanakkale Onsekiz Mart University, Çanakkale, Turkey."
+      ],
+      "doi": "10.1002/elps.70134",
+      "date": "2026-07-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473295/"
+    },
+    {
       "pmid": "42472109",
       "title": "The role of serologic biomarkers \"liquid biopsy\" in the fight against breast cancer: From biological foundations to clinical impact.",
       "abstract": "Liquid biopsy, analyzing circulating tumor-derived components, including ctDNA, circulating tumor cells, microRNAs, and exosomes, has emerged as a key tool in precision oncology. This review synthesizes evidence from the past five years, covering biological mechanisms, analytical platforms, clinical applications, and implementation barriers. Evidence from multiple clinical studies suggests ctDNA shows higher sensitivity for metastatic disease monitoring than conventional biomarkers such as CA15-3 and circulating tumor cells. For minimal residual disease detection, tumor-informed assays demonstrate sensitivity of 88%-100% and provide a median lead time of 8-15 months before clinical relapse. Despite these advances, early-stage cancer detection remains suboptimal, cost-effectiveness evidence is limited, and disparities in access are increasing. We critically evaluate current technologies and translational gaps and highlight the need for standardized clinical integration pathways. Overall, liquid biopsy is transitioning from a complementary diagnostic tool toward a longitudinal framework for cancer management, although substantial methodological and systemic challenges remain.",
@@ -445,72 +498,75 @@
       "doi": "10.1007/s12672-026-05600-1",
       "date": "2026-07-17",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42469558/"
-    },
-    {
-      "pmid": "42468094",
-      "title": "Heterostructure nanozyme-synergistically modulated electrochemiluminescence/photoelectrochemical sensing platform for detection of Alzheimer's disease biomarkers in plasma samples.",
-      "abstract": "In this work, a PtPd/CeO2 heterostructure nanozyme-synergistically modulated ternary ZnS/CdS/Bi2Se3 electrochemiluminescence/photoelectrochemical (ECL/PEC) aptasensor was designed for simultaneous detection of amyloid-β peptides (Aβ1-40 and Aβ1-42), as the key plasma biomarkers of Alzheimer's disease (AD). Benefiting from the bimetallic alloy effect and the support-active component synergy, PtPd/CeO2 heterostructure efficiently accelerated interfacial electron transfer, leading to both an improved catalytic reaction kinetic rate and enhanced adsorption and activation of reactants. Ternary ZnS/CdS/Bi2Se3 achieved photocurrent self-enhancement via synergistic bandgap excitation and multi-interface charge transfer effects among its components, thereby significantly boosting the response signals of both ECL and PEC. Through the integration of aptamer-mediated specific target recognition and toehold-triggered strand displacement reaction (TSDR)-based signal amplification, this aptasensor realized the simultaneous detection of Aβ1-42 and Aβ1-40. Notably, practical validation of the aptasensor for Aβ1-42/Aβ1-40 ratio detection in actual plasma specimens demonstrated the feasibility of minimally invasive liquid biopsy with high patient compliance and great potential for large-scale screening and early diagnosis of AD.",
-      "journal": "Biosensors & bioelectronics",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Chemistry and Materials Science, Jiangsu Normal University, Xuzhou, 221116, China.",
-        "Department of Neurology, Xuzhou Central Hospital, Xuzhou, 221009, China.",
-        "Department of Engineering Science and Mechanics, Pennsylvania State University, University Park, State College, PA, 16802, USA.",
-        "School of Chemistry and Materials Science, Jiangsu Normal University, Xuzhou, 221116, China. Electronic address: wangpo@jsnu.edu.cn.",
-        "Department of Neurology, Xuzhou Central Hospital, Xuzhou, 221009, China. Electronic address: cgfxdd@126.com."
-      ],
-      "doi": "10.1016/j.bios.2026.119004",
-      "date": "2026-07-07",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42468094/"
-    },
-    {
-      "pmid": "42468056",
-      "title": "Circulating tumor DNA to predict the risk of venous thromboembolism in locally advanced rectal cancer.",
-      "abstract": "Venous thromboembolism (VTE) is a common complication in cancer patients and negatively affects prognosis. Colorectal cancer (CRC) has the second highest incidence of VTE among the four most common cancers. In locally advanced rectal cancer (LARC), circulating tumor DNA (ctDNA) has emerged as a biomarker of residual disease and tumor burden, but its association with thrombotic risk remains unclear. We aimed to explore the association between baseline ctDNA levels and VTE occurrence in LARC. We conducted a prospective study of patients with LARC treated with chemoradiation at IEO. Plasma ctDNA was analyzed by droplet digital PCR for tumor-specific mutations identified in tissue samples, including KRAS, NRAS, BRAF, and PIK3CA. Baseline ctDNA, defined as variant allele frequency (VAF), was correlated with VTE occurrence using univariable and exploratory adjusted analyses. Sixty-one patients underwent ctDNA assessment and were classified as VAF-low (n = 33) or VAF-high (n = 28) according to the median baseline value. Twenty-three patients (38%) were VAF-negative. After a median follow-up of 58 months, 9 VTE events (15%) were observed. Higher VTE cumulative incidence was observed in VAF-high versus VAF-low patients [HR 2.42, 95% CI 0.61-9.59; p = 0.21] and in ctDNA-positive versus ctDNA-negative patients [HR 5.70, 95% CI 0.70-46.1; p = 0.10]. In the KRAS-mutant subgroup, all VTE events occurred in patients with high baseline VAF (p = 0.001). Higher baseline ctDNA levels may be associated with increased VTE occurrence in KRAS-mutant LARC. These exploratory findings require validation in larger prospective studies.",
-      "journal": "Cancer treatment and research communications",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Division of Gastrointestinal Medical Oncology and Neuroendocrine Tumors, European Institute of Oncology, IRCCS, Milan, Italy. Electronic address: lorenzo.gervaso@ieo.it.",
-        "Division of Gastrointestinal Medical Oncology and Neuroendocrine Tumors, European Institute of Oncology, IRCCS, Milan, Italy.",
-        "Department of Statistics and Quantitative Methods, University of Milano-Bicocca, Milan, Italy; Department of Medicine and Surgery, University of Milano-Bicocca, Milan, Italy.",
-        "Department of Statistics and Quantitative Methods, University of Milano-Bicocca, Milan, Italy.",
-        "Laboratory of Hematology-Oncology, European Institute of Oncology, IRCCS, Milan, Italy.",
-        "Division of Gastrointestinal Medical Oncology and Neuroendocrine Tumors, European Institute of Oncology, IRCCS, Milan, Italy. Electronic address: nicola.fazio@ieo.it."
-      ],
-      "doi": "10.1016/j.ctarc.2026.101316",
-      "date": "2026-07-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42468056/"
-    },
-    {
-      "pmid": "42467395",
-      "title": "Circulating Tumor DNA Analysis in Adrenocortical Carcinoma: A Retrospective Cohort Study.",
-      "abstract": "Adrenocortical carcinoma (ACC) is a rare malignancy with high recurrence rates. Circulating tumor DNA (ctDNA) is a minimally invasive, blood-based biomarker with multiple oncologic applications. The role of ctDNA in ACC care remains understudied. This retrospective, single-institution, study evaluated real-world use of ctDNA testing in patients with ACC and its correlation with imaging-based tumor burden. Patients with ACC (≥ 18 years) who underwent ctDNA testing via a clinically validated, personalized, tumor-informed assay (Signatera™, Natera) during their disease course were reviewed, and clinical data were obtained from the medical records. ctDNA results were tested for association with disease status and tumor burden determined by concurrent imaging and clinical evaluation. Twenty patients (55% male) were included; the median age at first ctDNA assessment was 58.3 years (range, 23.3-81.1). A total of 87 ctDNA tests were analyzed (median, 4 tests/patient; interquartile range [IQR], 1-6). The median ctDNA level was 1.27 mean tumor molecules/mL (IQR, 0.05-22.86). Detected ctDNA was strongly associated with evidence of disease (odds ratio, 74; 95% confidence interval, 9-3438). The ctDNA assay demonstrated high sensitivity (88%), specificity (91.7%), and overall accuracy (88.5%), with a positive post-test probability of 98% and a negative post-test probability of 45%. In addition, ctDNA levels were positively correlated with tumor burden (Spearman R = 0.844; p < 0.001). These findings support the potential value of ctDNA testing for disease monitoring in ACC and it may support a more personalized approach to this rare disease.",
-      "journal": "Endocrine pathology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Endocrine Neoplasia and Hormonal Disorders, The University of Texas MD Anderson Cancer Center, Unit 1601, 1515 Holcombe Blvd, Houston, TX, 77030, USA. vbalderrama@mdanderson.org.",
-        "Department of Abdominal Imaging, The University of Texas MD Anderson Cancer Center, Houston, Texas, USA.",
-        "Department of Genitourinary Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas, USA.",
-        "Department of Biostatistics, The University of Texas MD Anderson Cancer Center, Houston, Texas, USA.",
-        "Department of Endocrine Neoplasia and Hormonal Disorders, The University of Texas MD Anderson Cancer Center, Unit 1601, 1515 Holcombe Blvd, Houston, TX, 77030, USA.",
-        "Department of Surgical Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas, USA.",
-        "Department of Interventional Radiology, The University of Texas MD Anderson Cancer Center, Houston, Texas, USA.",
-        "Department of Pathology, The University of Texas MD Anderson Cancer Center, Houston, Texas, USA.",
-        "Department of Endocrine Neoplasia and Hormonal Disorders, The University of Texas MD Anderson Cancer Center, Unit 1601, 1515 Holcombe Blvd, Houston, TX, 77030, USA. mahabra@mdanderson.org.",
-        "Section of Endocrinology, King Faisal Specialist Hospital and Research Centre, Riyadh, Saudi Arabia. mahabra@mdanderson.org."
-      ],
-      "doi": "10.1007/s12022-026-09927-x",
-      "date": "2026-07-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42467395/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42473353",
+      "date": "2026-07-20",
+      "title": "VitroOrganoSphere (VOS): an automated droplet-engineered organoid sorting platform.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473353/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Lab on a chip，PMID 为 42473353。",
+      "report": "Industrialization and clinical translation applications based on organoids are often limited by low automation, high matrix consumption, and poor reproducibility. Here we present the VitroOrganoSphere (VOS) system, an automated droplet-engineered organoid sort...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42473726",
+      "date": "2026-07-20",
+      "title": "Tailored strategies to overcome third-generation TKI resistance in EGFR-mutated non-small cell lung cancer.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473726/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Expert opinion on therapeutic targets，PMID 为 42473726。",
+      "report": "In the era of precision medicine, targeting resistance mechanisms is a rational approach to optimize treatment management based on tumor molecular profiling, with the goal of improving clinical outcomes. However, the role of tailored strategies in the treatmen...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42472463",
       "date": "2026-07-19",
@@ -539,6 +595,36 @@
       "fact": "PubMed 记录显示该文献收录于 Tissue barriers，PMID 为 42472463。",
       "report": "A key bottleneck in preclinical vaccine research is the lack of a human in vitro system that faithfully models the germinal center (GC) reactions, a critical process for generating protective antibodies. This gap hinders the accurate assessment of vaccine cand...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42473295",
+      "date": "2026-07-19",
+      "title": "Recent Advances on Liquid-Phase Separation Techniques in Liquid Biopsy Technology for Detecting Circulating Cancer Biomarkers.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473295/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Electrophoresis，PMID 为 42473295。",
+      "report": "Globally, cancer morbidity and death are rising quickly, making it imperative to develop a workable plan for early cancer patient identification and treatment outcome prediction. Liquid biopsy, a minimally invasive and repeatable technique, can replace the res...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -571,36 +657,6 @@
       "fact": "PubMed 记录显示该文献收录于 Discover oncology，PMID 为 42471504。",
       "report": "A persistent translational gap separates the high research-benchmark performance of artificial intelligence (AI) and advanced imaging in breast cancer from demonstrated real-world clinical utility. Most systems reporting accuracy above 95% on curated datasets...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42471543",
-      "date": "2026-07-18",
-      "title": "The closer, the better: intratumoral delivery of a thermoresponsive gemcitabine-loaded hydrogel in preclinical PDAC models.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42471543/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Drug delivery and translational research，PMID 为 42471543。",
-      "report": "Current treatments for pancreatic ductal adenocarcinoma (PDAC) patients are typically restricted to (neo)adjuvant chemotherapy, surgery or palliative care. Mainly due to a late diagnosis and highly desmoplastic environment, these treatments have limited effica...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -725,64 +781,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Discover oncology，PMID 为 42469558。",
       "report": "Esophageal cancer (EC) is highly invasive, recurrent, and metastatic, with high incidence and mortality rates, particularly in China, where it remains endemic. Although metastasis has traditionally been considered a late event in tumor progression, increasing...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42468056",
-      "date": "2026-07-17",
-      "title": "Circulating tumor DNA to predict the risk of venous thromboembolism in locally advanced rectal cancer.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42468056/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer treatment and research communications，PMID 为 42468056。",
-      "report": "Venous thromboembolism (VTE) is a common complication in cancer patients and negatively affects prognosis. Colorectal cancer (CRC) has the second highest incidence of VTE among the four most common cancers. In locally advanced rectal cancer (LARC), circulating...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42467395",
-      "date": "2026-07-17",
-      "title": "Circulating Tumor DNA Analysis in Adrenocortical Carcinoma: A Retrospective Cohort Study.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42467395/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [
-        "natera"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Endocrine pathology，PMID 为 42467395。",
-      "report": "Adrenocortical carcinoma (ACC) is a rare malignancy with high recurrence rates. Circulating tumor DNA (ctDNA) is a minimally invasive, blood-based biomarker with multiple oncologic applications. The role of ctDNA in ACC care remains understudied. This retrospe...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1066,32 +1064,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42468094",
-      "date": "2026-07-07",
-      "title": "Heterostructure nanozyme-synergistically modulated electrochemiluminescence/photoelectrochemical sensing platform for detection of Alzheimer's disease biomarkers in plasma samples.",
+      "id": "pubmed-42473674",
+      "date": "2026-07-06",
+      "title": "Genomic innovations in cancer prevention, diagnosis, prognosis and precision therapeutics.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42468094/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473674/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Diagnostics",
         "Precision Medicine",
-        "Drug Screening"
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
       ],
       "tags": [
         "诊断",
         "精准医疗",
-        "药筛"
+        "肿瘤",
+        "药筛",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42468094。",
-      "report": "In this work, a PtPd/CeO2 heterostructure nanozyme-synergistically modulated ternary ZnS/CdS/Bi2Se3 electrochemiluminescence/photoelectrochemical (ECL/PEC) aptasensor was designed for simultaneous detection of amyloid-β peptides (Aβ1-40 and Aβ1-42), as the key...",
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in genetics，PMID 为 42473674。",
+      "report": "Cancer research has undergone a transformative change with the advent of high-throughput genomic technologies. Advances in next-generation sequencing accelerated the identification of somatic and germline alterations that drive tumorigenesis enabling the trans...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },

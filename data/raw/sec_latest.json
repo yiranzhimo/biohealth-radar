@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-20T09:36:59.946123+00:00",
+  "capturedAt": "2026-07-20T14:35:23.559527+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-07-06",
@@ -139,6 +139,32 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-07-20",
+      "reportDate": "2026-07-20",
+      "acceptanceDateTime": "2026-07-20T09:03:42.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-42130",
+      "filmNumber": "261185306",
+      "items": "7.01,9.01",
+      "size": 200489,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "d124162d8k.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001193125-26-308469",
+      "companyId": "tempus-ai",
+      "companyName": "Tempus AI",
+      "companyDirections": [
+        "Precision Diagnostics",
+        "Healthcare AI"
+      ],
+      "secTicker": "TEM",
+      "cik": "0001717115",
+      "secName": "Tempus AI, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526308469/d124162d8k.htm"
+    },
     {
       "filingDate": "2026-07-15",
       "reportDate": "2026-07-15",
@@ -341,6 +367,38 @@
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001717115-000119312526308469",
+      "date": "2026-07-20",
+      "title": "Tempus AI filed Form 8-K",
+      "entity": "Tempus AI",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526308469/d124162d8k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Precision Diagnostics",
+        "Healthcare AI"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "TEM"
+      ],
+      "companyIds": [
+        "tempus-ai"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-308469 for Tempus AI, Form 8-K, filed on 2026-07-20.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001801198-000117184326004649",
       "date": "2026-07-15",
