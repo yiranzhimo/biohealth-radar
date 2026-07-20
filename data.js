@@ -822,6 +822,225 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42474943",
+      "date": "2026-07-20",
+      "title": "Multi-regional Organoid Biobank Reveals FAK-ACSL1-Driven Doxorubicin-Resistance and Predictive Biomarkers in Breast Cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42474943/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42474943。",
+      "report": "Inter-tumor and intra-tumor heterogeneity present significant challenges to achieving precise treatment in breast cancer (BC). To address this, we established a living biobank comprising 68 patient-derived organoids (PDOs) from 50 patients across various regio...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0680b9a202d49e22006a5e7e05877c81a388557bbbfcc6e060",
+        "reviewedAt": "2026-07-20T19:59:00.695553+00:00",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献可能含有未经支持的结论，需要人工审阅。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类与文献内容相符，但需要更多的支持性信息。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据级别被评估为中等，但研究质量和样本量未提供，影响评估可靠性。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42474943。",
+          "report": "Inter-tumor and intra-tumor heterogeneity present significant challenges to achieving precise treatment in breast cancer (BC). To address this, we established a living biobank comprising 68 patient-derived organoids (PDOs) from 50 patients across various regions.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42474512",
+      "date": "2026-07-20",
+      "title": "[Endometriosis pain research in Germany : ENDO-PAIN and StEPP-UPP-two new research consortia on endometriosis pain].",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42474512/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Schmerz (Berlin, Germany)，PMID 为 42474512。",
+      "report": "Endometriosis is one of the most common causes of chronic pelvic or lower-abdominal pain, yet mechanisms, predictors, and patient-centered treatment pathways remain insufficiently defined. This article summarizes the situation in Germany and presents two compl...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_02a1660799e28c8c006a5e7e0c1fec81a0a38df4d9d056ef67",
+        "reviewedAt": "2026-07-20T19:59:00.695553+00:00",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "本卡片已通过审核，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别和子类别合理，符合文献内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论已清晰分离，证据水平适中。"
+        },
+        "riskFlags": [
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Schmerz (Berlin, Germany)，PMID 为 42474512。",
+          "report": "Endometriosis is one of the most common causes of chronic pelvic or lower-abdominal pain, yet mechanisms, predictors, and patient-centered treatment pathways remain insufficiently defined. This article summarizes the situation in Germany and presents two compl...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42474232",
+      "date": "2026-07-20",
+      "title": "Engineering Neural Organoids: Technological Advances and Translational Frontiers.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42474232/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Stem cells (Dayton, Ohio)，PMID 为 42474232。",
+      "report": "Neural organoids have transformed experimental neuroscience by enabling human-specific models of brain development, function, and disease. Emerging at the intersection of stem cell biology and tissue engineering, these self-organizing systems recapitulate key...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_09fbd4b76dae6404006a5e7e110ac481a18350cc2cfb393e6d",
+        "reviewedAt": "2026-07-20T19:59:00.695553+00:00",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该卡片符合发布标准，满足信息透明性和来源可靠性要求。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，反映研究主题和领域。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断清晰分离，证据水平适当。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Stem cells (Dayton, Ohio)，PMID 为 42474232。",
+          "report": "Neural organoids have transformed experimental neuroscience by enabling human-specific models of brain development, function, and disease. Emerging at the intersection of stem cell biology and tissue engineering, these self-organizing systems recapitulate key...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42473353",
       "date": "2026-07-20",
       "title": "VitroOrganoSphere (VOS): an automated droplet-engineered organoid sorting platform.",
@@ -901,6 +1120,241 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Lab on a chip，PMID 为 42473353。",
           "report": "Industrialization and clinical translation applications based on organoids are often limited by low automation, high matrix consumption, and poor reproducibility. Here we present the VitroOrganoSphere (VOS) system, an automated droplet-engineered organoid sort...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42474749",
+      "date": "2026-07-20",
+      "title": "Sarcoma metastasis: distinct biological principles beyond the carcinoma paradigm.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42474749/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer metastasis reviews，PMID 为 42474749。",
+      "report": "Sarcomas are rare in adults but constitute a substantial fraction of pediatric malignancies and are characterized by a high propensity for hematogenous dissemination and poor outcomes once metastatic. Yet, most mechanistic understanding of metastasis derives f...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0ab84748222e2a5a006a5e7e18bbf0819d96928a8b5281bc5c",
+        "reviewedAt": "2026-07-20T19:59:00.695553+00:00",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查以解决潜在的临床结论问题。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类不符合文献内容的实际支持。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "文献的证据级别和报告之间缺乏明确区分，且证据级别不合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Oncology",
+          "subCategory": "Sarcoma Metastasis",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Oncology",
+            "Metastasis Research"
+          ],
+          "tags": [
+            "肿瘤转移",
+            "成年肿瘤",
+            "儿童肿瘤"
+          ],
+          "fact": "PubMed文献记录显示该文献收录于Cancer Metastasis Reviews，PMID为42474749。",
+          "report": "文献讨论了肉瘤的特征及其转移机制，但未提供明确的临床或治疗结论。",
+          "inference": "当前分类和证据水平未能合理反映文献的实际内容。",
+          "unknown": "未评估的研究质量、样本量及临床阶段使得信息不完整。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42474245",
+      "date": "2026-07-20",
+      "title": "First report of dual KRAS Y96C/Y96S resistance mutations detected by liquid biopsy in KRAS G12C-mutant metastatic colorectal cancer.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42474245/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 The oncologist，PMID 为 42474245。",
+      "report": "Acquired resistance limits the long-term efficacy of KRAS G12C inhibitors in metastatic colorectal cancer (mCRC). While feedback signaling is a known resistance driver, the clinical evolution of structural alterations within the drug-binding pocket remains poo...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_01ac1e1b5e3fe6e1006a5e7e1d4f08819c9954264df739f96b",
+        "reviewedAt": "2026-07-20T19:59:00.695553+00:00",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号数据符合出版标准，分类合理且信息清晰。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 The oncologist，PMID 为 42474245。",
+          "report": "Acquired resistance limits the long-term efficacy of KRAS G12C inhibitors in metastatic colorectal cancer (mCRC). While feedback signaling is a known resistance driver, the clinical evolution of structural alterations within the drug-binding pocket remains poor...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42473975",
+      "date": "2026-07-20",
+      "title": "Stage-specific circulating transcriptomic and proteomic biomarkers and regulators in colorectal cancer: bridging affordable diagnostics and translational therapeutics.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473975/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Critical reviews in clinical laboratory sciences，PMID 为 42473975。",
+      "report": "Colorectal cancer (CRC) remains a leading cause of cancer-related mortality worldwide, driven largely by pronounced molecular heterogeneity and delayed clinical detection. Although high-throughput sequencing technologies have substantially advanced the underst...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_005d33ef811b1b65006a5e7e225fcc81a295e486ccf818f098",
+        "reviewedAt": "2026-07-20T19:59:00.695553+00:00",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号条目在临床结论上存在不确定性，需要人工审核。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类与文献内容不完全相符。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "文献的证据等级评估为中等，但其临床应用不得而知。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "临床",
+            "监管",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Critical reviews in clinical laboratory sciences，PMID 为 42473975。",
+          "report": "Colorectal cancer (CRC) remains a leading cause of cancer-related mortality worldwide, driven largely by pronounced molecular heterogeneity and delayed clinical detection. Although high-throughput sequencing technologies have substantially advanced the understanding of CRC...",
+          "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1197,83 +1651,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42471504",
-      "date": "2026-07-19",
-      "title": "Translational gaps and clinical readiness of artificial intelligence and multimodal imaging in breast cancer diagnostics.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42471504/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Discover oncology，PMID 为 42471504。",
-      "report": "A persistent translational gap separates the high research-benchmark performance of artificial intelligence (AI) and advanced imaging in breast cancer from demonstrated real-world clinical utility. Most systems reporting accuracy above 95% on curated datasets...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_08c82ff8c8b84d09006a5c8c8048e0819bbedfdf1a9d8e7cb5",
-        "reviewedAt": "2026-07-19T08:36:15.653751+00:00",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人为审核，以确保没有未支持的临床结论或治疗建议。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "主要类别与子类别虽然合理，但缺乏对研究质量的验证。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平标记为中等，但缺乏支持的细节和验证。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Discover oncology，PMID 为 42471504。",
-          "report": "A persistent translational gap separates the high research-benchmark performance of artificial intelligence (AI) and advanced imaging in breast cancer from demonstrated real-world clinical utility. Most systems reporting accuracy above 95% on curated datasets...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42470596",
       "date": "2026-07-18",
       "title": "Artificial Intelligence and Protein Design: A retrospective study on 20-year emerging trends and core research areas from bibliometric perspectives.",
@@ -1495,75 +1872,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Molecular diversity，PMID 为 42467311。",
           "report": "The programmed cell death-1/programmed cell death-ligand 1 (PD-1/PD-L1) pathway is a key target in cancer immunotherapy. Although monoclonal antibodies (mAbs) have demonstrated remarkable clinical efficacy, their application is limited by poor tissue penetration.",
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42469558",
-      "date": "2026-07-17",
-      "title": "Applications of circulating tumor cells in esophageal cancer detection and treatment.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42469558/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Discover oncology，PMID 为 42469558。",
-      "report": "Esophageal cancer (EC) is highly invasive, recurrent, and metastatic, with high incidence and mortality rates, particularly in China, where it remains endemic. Although metastasis has traditionally been considered a late event in tumor progression, increasing...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_096ddd655a7ffbf5006a5b35660da48199abef133b4f962056",
-        "reviewedAt": "2026-07-18T08:11:32.369256+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录信息清晰，符合发布要求。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和副类别合理。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平为中等，信息来源可靠。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Biotech",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "biotech",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Discover oncology，PMID 为 42469558。",
-          "report": "Esophageal cancer (EC) is highly invasive, recurrent, and metastatic, with high incidence and mortality rates, particularly in China, where it remains endemic. Although metastasis has traditionally been considered a late event in tumor progression, increasing...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1925,151 +2233,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42472075",
-      "date": "2026-07-14",
-      "title": "Tumor Assembloids as Three-Dimensional Platforms for Modeling Drug Delivery Barriers: Construction Strategies, Applications, and Translational Challenges.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42472075/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Drug design, development and therapy，PMID 为 42472075。",
-      "report": "A major limitation of conventional two and three-dimensional preclinical in vitro cancer models is their inability to reproduce the drug-delivery barriers. Tumor assembloids, which integrate patient-derived cancer cells with stromal, endothelial, and immune co...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_076e6727ac21d156006a5cd7941c988193abf7b031aa9c8104",
-        "reviewedAt": "2026-07-19T13:56:35.452585+00:00",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献虽然来源于可靠的PubMed记录，但缺乏足够的研究质量和临床相关性信息，需进一步审查。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "次级分类不明确，可能导致误导信息。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "文章中未提供足够的证明来支持中等证据级别的分类。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Drug design, development and therapy，PMID 为 42472075。",
-          "report": "A major limitation of conventional two and three-dimensional preclinical in vitro cancer models is their inability to reproduce the drug-delivery barriers. Tumor assembloids, which integrate patient-derived cancer cells with stromal, endothelial, and immune co...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42472088",
-      "date": "2026-07-10",
-      "title": "Injectable microsphere-based delivery strategies for stem cells and their derivatives in tissue regeneration.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42472088/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bioactive materials，PMID 为 42472088。",
-      "report": "Tissue and organ injury, degeneration, and functional loss represent a growing global health challenge, exacerbated by an aging population and the limitations of current clinical interventions. Regenerative medicine offers a promising alternative by restoring...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0b9bc3583c6c45e5006a5cd79e221c8196b730723d9972b34d",
-        "reviewedAt": "2026-07-19T13:56:35.452585+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息记录清晰，支持发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主分类和子分类符合提供的元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论清晰分离，证据级别合理。"
-        },
-        "riskFlags": [
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Bioactive materials，PMID 为 42472088。",
-          "report": "Tissue and organ injury, degeneration, and functional loss represent a growing global health challenge, exacerbated by an aging population and the limitations of current clinical interventions. Regenerative medicine offers a promising alternative by restoring...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42431103",
       "date": "2026-07-10",
       "title": "DRIVE: a comprehensive resource deciphering drug-induced transcriptomic and splicing response in cancer cell.",
@@ -2237,79 +2400,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42472109",
-      "date": "2026-07-10",
-      "title": "The role of serologic biomarkers \"liquid biopsy\" in the fight against breast cancer: From biological foundations to clinical impact.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42472109/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42472109。",
-      "report": "Liquid biopsy, analyzing circulating tumor-derived components, including ctDNA, circulating tumor cells, microRNAs, and exosomes, has emerged as a key tool in precision oncology. This review synthesizes evidence from the past five years, covering biological me...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_046a85913417cd2e006a5cd7a3103c8195a73972af0062610f",
-        "reviewedAt": "2026-07-19T13:56:35.452585+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该本文可以安全发布，数据来源充足且明确，没有支持性疗效或安全性结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合实体和主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据等级合理，事实、报告和推论明确分离。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "diagnostic_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42472109。",
-          "report": "Liquid biopsy, analyzing circulating tumor-derived components, including ctDNA, circulating tumor cells, microRNAs, and exosomes, has emerged as a key tool in precision oncology. This review synthesizes evidence from the past five years, covering biological mechanisms and clinical implications.",
-          "inference": "此文献可进行情报分流，但不构成临床结论。",
-          "unknown": "研究质量、样本量、利益冲突、临床阶段或商业化状态的信息缺乏。"
-        }
-      }
-    },
-    {
       "id": "sec-0000874015-000114036126028154",
       "date": "2026-07-10",
       "title": "Ionis Pharmaceuticals filed Form 8-K",
@@ -2378,74 +2468,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42472089",
-      "date": "2026-07-09",
-      "title": "Organoid-loaded core-shell cryomicroneedles induce biomimetic follicular units and hair regeneration.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42472089/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bioactive materials，PMID 为 42472089。",
-      "report": "Tissue-engineered hair follicle regeneration offers a promising method for increasing hair follicle count, yet it faces challenges such as difficulty with hair emergence through the skin and the potential for clustered and disordered growth. Achieving biomimet...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_01ff7ebefddd65d7006a5cd7a88e8c81958d8c1155a97a7b9f",
-        "reviewedAt": "2026-07-19T13:56:35.452585+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录保持中立且不含不当临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，支持该研究主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论明确分开，证据级别合理。"
-        },
-        "riskFlags": [
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Bioactive materials，PMID 为 42472089。",
-          "report": "Tissue-engineered hair follicle regeneration offers a promising method for increasing hair follicle count, yet it faces challenges such as difficulty with hair emergence through the skin and the potential for clustered and disordered growth. Achieving biomimet...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },

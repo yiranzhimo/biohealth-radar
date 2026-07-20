@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-20T14:35:14.842128+00:00",
+  "capturedAt": "2026-07-20T19:58:49.862895+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-07-20"
   },
   "pmids": [
+    "42474943",
+    "42474512",
+    "42474232",
     "42473353",
     "42473035",
     "42472463",
-    "42472089",
-    "42472088",
-    "42472075",
     "42447329",
     "42444608",
     "42431103",
@@ -32,14 +32,72 @@
     "42463579",
     "42462358",
     "42462008",
+    "42474749",
+    "42474245",
+    "42473975",
     "42473726",
     "42473674",
-    "42473295",
-    "42472109",
-    "42471504",
-    "42469558"
+    "42473295"
   ],
   "records": [
+    {
+      "pmid": "42474943",
+      "title": "Multi-regional Organoid Biobank Reveals FAK-ACSL1-Driven Doxorubicin-Resistance and Predictive Biomarkers in Breast Cancer.",
+      "abstract": "Inter-tumor and intra-tumor heterogeneity present significant challenges to achieving precise treatment in breast cancer (BC). To address this, we established a living biobank comprising 68 patient-derived organoids (PDOs) from 50 patients across various regions, accurately maintaining the histological, genomic, and transcriptomic characteristics of the original tumors. Paired profiling demonstrated high concordance in mutation burden, copy number alterations, and molecular subtypes, capturing both inter- and intra-tumor heterogeneity. Drug screening with four clinically used agents revealed pronounced response variability, enabling the development of multi-gene expression signatures predictive of drug sensitivity. ACSL1 emerged as a key mediator of Doxorubicin resistance, enriched in malignant epithelial cells exhibiting focal adhesion/MAPK pathway activation and immune-evasive features. Functional and mechanistic analyses identified focal adhesion kinase (FAK) as an upstream regulator of ACSL1, mediating resistance via ERK and STAT3 signaling. Inhibiting FAK or ACSL1 through pharmacological methods increased the sensitivity of resistant PDOs to Doxorubicin. The combined treatment was effective in decreasing tumor growth and preventing metastasis in xenograft models. Clinically, elevated ACSL1 expression correlated with advanced disease and poor survival. Collectively, these findings define BC heterogeneity, establish prognostic biomarkers, as well as uncover a means of Doxorubicin resistance that supports rational combination therapy.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "The Second Surgical Department of Breast Cancer, Tianjin Medical University Cancer Institute & Hospital, National Clinical Research Center for Cancer, Tianjin, P. R. China.",
+        "Tianjin' s Clinical Research Center for Cancer, Tianjin Medical University, Tianjin, P. R. China.",
+        "Key Laboratory of Breast Cancer Prevention and Therapy, Ministry of Education, Tianjin Medical University, Tianjin, P. R. China.",
+        "Key Laboratory of Cancer Prevention and Therapy, Tianjin, P. R. China.",
+        "Department of Breast Surgery, Puyang Oilfield General Hospital Affiliated with Xinxiang Medical College, Puyang, Henan, P. R. China.",
+        "Translational Cancer Research Center, Peking University First Hospital, Beijing, P. R. China.",
+        "InxMed (Shanghai) Co. Ltd, Shanghai, P. R. China.",
+        "Department of Thoracic Surgery, The Fourth Hospital of Hebei Medical University, Shijiazhuang, Hebei, P. R. China.",
+        "State Key Laboratory of Natural and Biomimetic Drugs, Peking University, Beijing, P. R. China."
+      ],
+      "doi": "10.1002/advs.76541",
+      "date": "2026-07-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42474943/"
+    },
+    {
+      "pmid": "42474512",
+      "title": "[Endometriosis pain research in Germany : ENDO-PAIN and StEPP-UPP-two new research consortia on endometriosis pain].",
+      "abstract": "Endometriosis is one of the most common causes of chronic pelvic or lower-abdominal pain, yet mechanisms, predictors, and patient-centered treatment pathways remain insufficiently defined. This article summarizes the situation in Germany and presents two complementary research consortia: StEPP-UPP and ENDO-PAIN.StEPP-UPP addresses the clinical heterogeneity of endometriosis pain via a prospective multicenter cohort, standardized patient-reported outcomes, quantitative sensory testing, and multi-omics from blood, stool, and lesions. Explainable artificial intelligence and machine-learning models aim to estimate risk and trajectories of persistent pain, define mechanism-informed subgroups, and support treatment decisions. Preclinical mouse models with non-evoked behavioral metrics plus multiparametric MRI and single-cell analyses provide mechanistic anchoring for clinical signatures.ENDO-PAIN focuses on neuroinflammation and fibrosis as drivers of pain and chronification. Using patient samples, cell cultures, and 3D organoids, it maps immune-stroma interactions, syndecan signaling, and hormone-inflammation axes (for example P4-TGFβ-NFκB-COX-2) to derive biomarker networks and therapeutic targets.Both consortia integrate patient advocacy structurally to ensure patient-relevant endpoints and accessible information. Together they point to three priorities: standardization of data collection and biobanking; stratification along bio-psycho-social profiles and molecular signatures; and interdisciplinary shared decision-making across research, clinics, and people with endometriosis, aiming for mechanistically grounded, data-driven, patient-centered pain medicine.",
+      "journal": "Schmerz (Berlin, Germany)",
+      "publicationTypes": [
+        "English Abstract",
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Klinik für Gynäkologie mit Zentrum für onkologische Chirurgie, Endometriosezentrum, Charité - Universitätsmedizin Berlin, Campus Virchow-Klinikum, Augustenburger Platz 1, 13353, Berlin, Deutschland.",
+        "Klinik für Anästhesiologie, Operative Intensivmedizin und Schmerztherapie, Universitätsklinikum Münster, 48149, Münster, Deutschland. bruno.pradier@ukmuenster.de.",
+        "Klinik für Anästhesiologie, Operative Intensivmedizin und Schmerztherapie, Universitätsklinikum Münster, 48149, Münster, Deutschland."
+      ],
+      "doi": "10.1007/s00482-026-00958-1",
+      "date": "2026-07-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42474512/"
+    },
+    {
+      "pmid": "42474232",
+      "title": "Engineering Neural Organoids: Technological Advances and Translational Frontiers.",
+      "abstract": "Neural organoids have transformed experimental neuroscience by enabling human-specific models of brain development, function, and disease. Emerging at the intersection of stem cell biology and tissue engineering, these self-organizing systems recapitulate key aspects of neurogenesis, gliogenesis, and circuit formation within a controllable in vitro context. Advances in guided patterning, vascularization, and electrophysiological monitoring have enhanced structural and functional fidelity, enabling the study of dynamic processes previously inaccessible in human models. Beyond developmental biology, neural organoids have broad translational applications, including modeling neurodevelopmental and neurodegenerative disorders, screening pharmacological compounds, and testing regenerative strategies. Integration with microfluidics, bioelectronic interfaces, and computational modeling further expands their analytical capacity, transforming organoids into modular and quantifiable platforms for mechanistic and therapeutic discovery. Despite this progress, key challenges remain, including limited maturation, inter-organoid variability, and incomplete physiological integration. Addressing these limitations requires standardized differentiation protocols, robust functional benchmarks, and cross-disciplinary collaboration. The goal is not to replicate the brain in miniature, but to reconstruct its organizing principles in an experimentally accessible system. From this perspective, neural organoids serve as a bridge between biology and technology, offering new insights into human neural complexity while advancing neuroscience and medicine.",
+      "journal": "Stem cells (Dayton, Ohio)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Cellular and Molecular Medicine, University of Bristol, Biomedical Sciences Building, University Walk, Bristol BS8 1TD, UK.",
+        "Department of Animal Science and Technology, Chung-Ang University, Anseong, 17546, Republic of Korea."
+      ],
+      "doi": "10.1093/stmcls/sxag041",
+      "date": "2026-07-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42474232/"
+    },
     {
       "pmid": "42473353",
       "title": "VitroOrganoSphere (VOS): an automated droplet-engineered organoid sorting platform.",
@@ -90,61 +148,6 @@
       "doi": "10.1080/21688370.2026.2700690",
       "date": "2026-07-19",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42472463/"
-    },
-    {
-      "pmid": "42472089",
-      "title": "Organoid-loaded core-shell cryomicroneedles induce biomimetic follicular units and hair regeneration.",
-      "abstract": "Tissue-engineered hair follicle regeneration offers a promising method for increasing hair follicle count, yet it faces challenges such as difficulty with hair emergence through the skin and the potential for clustered and disordered growth. Achieving biomimetic regeneration of single or double hair follicular units is therefore essential. Microneedle arrays (MNs) can mimic natural hair density, enabling controlled hair regeneration in direction and density. However, most MNs for hair regeneration are designed for drug delivery, which can only modulate the hair cycle of existing follicles and cannot generate de novo hair follicles in bald areas. MNs designed for tissue-engineered hair follicle delivery are rare and face challenges in sustaining cellular vitality and achieving epidermal breakthrough. Thus, a novel approach based on core-shell MN technology and hair follicle organoids (HFOs) culture was developed for hair follicle unit regeneration. In this study, degradable core-shell cryomicroneedles (CryoMNs) with uniform walls and multiple small channels were loaded with HFOs. When applied to nude mice, the core-shell CryoMNs supported biomimetic follicular unit growth, mimicking natural hair regeneration. Controllably degradable core-shell CryoMNs offer nutrient channels for HFOs and cutaneous channels for hair growth, controlling hair growth direction and spacing, and enabling orderly follicular unit regeneration in patients with baldness. This study introduces novel ideas and strategies for the subcutaneous delivery of organoids and the systematic regeneration of tissue-engineered hair follicles.",
-      "journal": "Bioactive materials",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Plastic Surgery, State Key Laboratory of Trauma and Chemical Poisoning, Southwest Hospital, Third Military Medical University (Army Medical University), Chongqing, 400038, China.",
-        "Department of Plastic and Burn Surgery, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, China.",
-        "Department of Stem Cell and Regenerative Medicine, Institute of Pathology and Southwest Cancer Center, The First Affiliated Hospital (Southwest Hospital) of Army Medical University, Chongqing, 400038, China."
-      ],
-      "doi": "10.1016/j.bioactmat.2026.07.004",
-      "date": "2026-07-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42472089/"
-    },
-    {
-      "pmid": "42472088",
-      "title": "Injectable microsphere-based delivery strategies for stem cells and their derivatives in tissue regeneration.",
-      "abstract": "Tissue and organ injury, degeneration, and functional loss represent a growing global health challenge, exacerbated by an aging population and the limitations of current clinical interventions. Regenerative medicine offers a promising alternative by restoring tissue function through the delivery of stem cells and their bioactive derivatives, particularly exosomes. However, direct administration of these therapeutic agents faces significant hurdles, including low retention, rapid clearance, and poor spatiotemporal control. Injectable microsphere-based delivery systems have emerged as a versatile and minimally invasive platform to overcome these limitations. This review systematically outlines the latest advances in microsphere-mediated strategies for delivering stem cells and their derivatives across multiple tissue types, including bone, cartilage, neural, skin, dental pulp, cardiac and lung. We critically evaluate the design principles of natural and synthetic polymers, fabrication techniques such as microfluidics and electrospray, and the biological functions of microspheres in providing three-dimensional (3D) scaffolds, immune protection, and sustained release. Furthermore, we highlight emerging frontiers, including the delivery of novel regenerative cues such as apoptotic bodies and the integration of microsphere-based organoid models. This comprehensive analysis aims to accelerate the clinical translation of next-generation microsphere-enabled regenerative therapies.",
-      "journal": "Bioactive materials",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Sports Medicine and Rehabilitation, Peking University Shenzhen Hospital, PKU-Shenzhen Clinical Institute of Shantou University Medical College, Shenzhen, 518036, China.",
-        "Department of Bone & Joint Surgery, Peking University Shenzhen Hospital, Shenzhen, 518036, China.",
-        "Department of Orthopedics, Second Hospital of Shanxi Medical University, Wuyi Road, Taiyuan, 030001, China.",
-        "Shenzhen Second People's Hospital, The First Affiliated Hospital of Shenzhen University, Shenzhen, 518035, China."
-      ],
-      "doi": "10.1016/j.bioactmat.2026.07.005",
-      "date": "2026-07-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42472088/"
-    },
-    {
-      "pmid": "42472075",
-      "title": "Tumor Assembloids as Three-Dimensional Platforms for Modeling Drug Delivery Barriers: Construction Strategies, Applications, and Translational Challenges.",
-      "abstract": "A major limitation of conventional two and three-dimensional preclinical in vitro cancer models is their inability to reproduce the drug-delivery barriers. Tumor assembloids, which integrate patient-derived cancer cells with stromal, endothelial, and immune components in three-dimensional architectures, provide a manipulable framework for simulating these multicellular impediments. This review specifically examines the application of tumor assembloids to investigate drug delivery constraints, including stromal exclusion, vascular transport, immune-mediated resistance, penetration gradients, and spatially heterogeneous drug exposure. We compared three major construction strategies, including self-assembly, 3D bioprinting, and microfluidic compartmentalization, and evaluated their respective strengths for drug assessment. We also discussed assembloids' current limitations, including reproducibility, incomplete physiological dynamics, insufficient spatial analytics, and the need for standardized benchmarking. Overall, tumor assembloids represent promising mechanistic platforms for studying tumor drug delivery barriers. However, broader clinical application will necessitate rigorous validation and harmonized assay standards.",
-      "journal": "Drug design, development and therapy",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Natural Sciences, Wenzhou-Kean University, Wenzhou, Zhejiang, People's Republic of China.",
-        "International Frontier Interdisciplinary Research Institute, Wenzhou-Kean University, Wenzhou, Zhejiang, People's Republic of China.",
-        "Zhejiang Bioinformatics International Science and Technology Cooperation Center, Wenzhou-Kean University, Wenzhou, Zhejiang, People's Republic of China.",
-        "Department of Biological Sciences, Kean University, Union, NJ, USA."
-      ],
-      "doi": "10.2147/DDDT.S618870",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42472075/"
     },
     {
       "pmid": "42447329",
@@ -389,6 +392,60 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42462008/"
     },
     {
+      "pmid": "42474749",
+      "title": "Sarcoma metastasis: distinct biological principles beyond the carcinoma paradigm.",
+      "abstract": "Sarcomas are rare in adults but constitute a substantial fraction of pediatric malignancies and are characterized by a high propensity for hematogenous dissemination and poor outcomes once metastatic. Yet, most mechanistic understanding of metastasis derives from carcinomas and is frequently extrapolated to sarcomas despite major biological differences. This review synthesizes current evidence on sarcoma metastasis and highlights key knowledge gaps across the metastatic cascade. It frames sarcomas as malignancies often arising from mesenchymal stromal cells, whose intrinsic motility, plasticity, and stem-like features may predispose transformed cells to dissemination without requiring a classic epithelial-to-mesenchymal transition program. The concept of metastasis-initiating cells is discussed in the context of sarcoma cancer stem cell biology, clonal evolution, and epigenetic reprogramming, emphasizing that the relative genomic simplicity of certain pediatric sarcomas driven by recurrent fusion oncogenes may provide powerful models to dissect metastasis dependencies. The review examines how the sarcoma tumor microenvironment, often immunosuppressive and macrophage-rich, may shape invasion, intravasation, survival in circulation, extravasation, and organotropism, particularly the strong predilection for pulmonary metastasis. It summarizes emerging data on circulating tumor cells and complementary liquid biopsy approaches, while underscoring technical limitations caused by sarcoma heterogeneity and lack of robust markers. Finally, the review appraises current treatment limitations for metastatic sarcoma and argues that improved mechanistic resolution, especially of plasticity, epigenetic states, microenvironmental interactions, and dormancy, will be essential to identify actionable vulnerabilities and improve outcomes for patients with disseminated disease.",
+      "journal": "Cancer metastasis reviews",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Division of Pediatric Hematology-Oncology, Department of Pediatrics, Lausanne University Hospital, Lausanne, Switzerland. nadja.chevalier@chuv.ch.",
+        "Division of Hematology and Oncology, The Hospital for Sick Children, University of Toronto, Toronto, Canada. nadja.chevalier@chuv.ch.",
+        "Division of Hematology and Oncology, The Hospital for Sick Children, University of Toronto, Toronto, Canada.",
+        "Experimental Pathology Service, Lausanne University Hospital, University of Lausanne, Lausanne, Switzerland."
+      ],
+      "doi": "10.1007/s10555-026-10360-z",
+      "date": "2026-07-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42474749/"
+    },
+    {
+      "pmid": "42474245",
+      "title": "First report of dual KRAS Y96C/Y96S resistance mutations detected by liquid biopsy in KRAS G12C-mutant metastatic colorectal cancer.",
+      "abstract": "Acquired resistance limits the long-term efficacy of KRAS G12C inhibitors in metastatic colorectal cancer (mCRC). While feedback signaling is a known resistance driver, the clinical evolution of structural alterations within the drug-binding pocket remains poorly characterized. We present a patient with microsatellite-stable (MSS) KRAS G12C-mutated mCRC who progressed after 9.3 months of sequential KRAS G12C inhibitor monotherapy. Comparative molecular profiling of baseline tissue and post-progression plasma ctDNA identified the de novo emergence of concurrent KRAS Y96S and Y96C mutations. These polyclonal Switch II pocket alterations, absent in pretreatment specimens, indicated convergent evolution under therapeutic selective pressure. A rationale-based salvage therapy utilizing vertical MAPK pathway blockade (sotorasib, cetuximab, and trametinib) failed to achieve durable control (PFS: 1.9 months), confirming biological refractoriness. The acquisition of polyclonal KRAS Y96S/C mutations represents a definitive structural resistance mechanism that compromises the efficacy of intensified vertical pathway blockade. The discordance between tissue and liquid biopsy findings underscores the necessity of plasma-based monitoring to capture spatial heterogeneity. These findings suggest that overcoming convergent Switch II pocket remodeling requires next-generation inhibitors with distinct binding modes rather than further pathway intensification.",
+      "journal": "The oncologist",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Medical Oncology, Affiliated Hospital of Hebei University, Baoding, Hebei, China.",
+        "Department of Integrated Traditional Chinese and Western Medicine, Affiliated Hospital of Hebei University, Baoding, Hebei, China.",
+        "Experimental Center, Affiliated Hospital of Hebei University, Baoding, Hebei, China.",
+        "Burning Rock Biotech, Guangzhou, 510300, P.R. China."
+      ],
+      "doi": "10.1093/oncolo/oyag263",
+      "date": "2026-07-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42474245/"
+    },
+    {
+      "pmid": "42473975",
+      "title": "Stage-specific circulating transcriptomic and proteomic biomarkers and regulators in colorectal cancer: bridging affordable diagnostics and translational therapeutics.",
+      "abstract": "Colorectal cancer (CRC) remains a leading cause of cancer-related mortality worldwide, driven largely by pronounced molecular heterogeneity and delayed clinical detection. Although high-throughput sequencing technologies have substantially advanced the understanding of CRC biology, their routine clinical implementation remains constrained by high costs, infrastructural requirements, and limited accessibility. This review addresses these translational barriers by systematically synthesizing circulating transcriptomic and proteomic biomarkers within a clinically scalable framework. Particular emphasis is placed on biomolecules detectable using reverse transcription-polymerase chain reaction (RT-PCR) and enzyme-linked immunosorbent assay (ELISA), two widely accessible platforms that underwent extensive global optimization during the COVID-19 pandemic and are readily adaptable to liquid biopsy workflows. Through a stage-resolved analysis, we identify 9 genomic and 7 proteomic biomarkers associated with early-stage (I-II) CRC, alongside 9 genomic and 4 proteomic biomarkers linked to advanced-stage (III-IV) disease progression. Beyond biomarker cataloging, these molecules are integrated with Cancer Hallmark pathways, clinical-stage associations, and available clinical trial evidence to evaluate their biological relevance and translational readiness. In addition, we summarize standardized operating procedure (SOP) considerations and multiplex detection strategies to improve assay reproducibility, scalability, and cross-border clinical implementation. Collectively, this review bridges molecular discovery with clinically deployable laboratory workflows and provides a translational roadmap for the development of affordable, liquid biopsy-based diagnostic strategies aimed at improving CRC detection, patient stratification, longitudinal monitoring, and early therapeutic intervention.",
+      "journal": "Critical reviews in clinical laboratory sciences",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Medical Biotechnology, AVMC Medical College & Hospital, Vinayaka Mission's Research Foundation (Deemed to be University), Kirumampakkam, Pondicherry, India.",
+        "Department of Pathology, AVMC Medical College & Hospital, Vinayaka Mission's Research Foundation (Deemed to be University), Kirumampakkam, Pondicherry, India."
+      ],
+      "doi": "10.1080/10408363.2026.2682852",
+      "date": "2026-07-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473975/"
+    },
+    {
       "pmid": "42473726",
       "title": "Tailored strategies to overcome third-generation TKI resistance in EGFR-mutated non-small cell lung cancer.",
       "abstract": "In the era of precision medicine, targeting resistance mechanisms is a rational approach to optimize treatment management based on tumor molecular profiling, with the goal of improving clinical outcomes. However, the role of tailored strategies in the treatment algorithm of EGFR-mutated NSCLC remains incompletely defined. This review provides an overview of resistance mechanisms to EGFR-targeted therapy. Acquired resistances include on-target alterations (EGFR C797S and other secondary kinase domain mutations), off-target pathways activation (MET or HER2 amplification, RAS-MAPK, oncogenic fusions), and neuroendocrine transformation to SCLC. Evidence from clinical and observational studies demonstrates activity of tailored therapies, such as EGFR plus MET inhibitors combinations. In parallel, mechanism-agnostic strategies, including bispecific antibodies and ADC have emerged as effective options in the post-osimertinib setting. Comprehensive molecular assessment through both tissue and liquid biopsy at EGFR-TKI progression is essential to identify actionable alterations and guide treatment decisions. When supported by Molecular Tumor Board discussion, biomarker-driven strategies could enable personalized treatment selection and provide effective chemotherapy-free options. Emergence of upfront combinations is reshaping the biological landscape of EGFR-TKI resistance, increasing the proportion of patients with unknown escape mechanisms and potentially affecting the feasibility of molecularly matched therapies in later lines.",
@@ -441,66 +498,103 @@
       "doi": "10.1002/elps.70134",
       "date": "2026-07-19",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473295/"
-    },
-    {
-      "pmid": "42472109",
-      "title": "The role of serologic biomarkers \"liquid biopsy\" in the fight against breast cancer: From biological foundations to clinical impact.",
-      "abstract": "Liquid biopsy, analyzing circulating tumor-derived components, including ctDNA, circulating tumor cells, microRNAs, and exosomes, has emerged as a key tool in precision oncology. This review synthesizes evidence from the past five years, covering biological mechanisms, analytical platforms, clinical applications, and implementation barriers. Evidence from multiple clinical studies suggests ctDNA shows higher sensitivity for metastatic disease monitoring than conventional biomarkers such as CA15-3 and circulating tumor cells. For minimal residual disease detection, tumor-informed assays demonstrate sensitivity of 88%-100% and provide a median lead time of 8-15 months before clinical relapse. Despite these advances, early-stage cancer detection remains suboptimal, cost-effectiveness evidence is limited, and disparities in access are increasing. We critically evaluate current technologies and translational gaps and highlight the need for standardized clinical integration pathways. Overall, liquid biopsy is transitioning from a complementary diagnostic tool toward a longitudinal framework for cancer management, although substantial methodological and systemic challenges remain.",
-      "journal": "iScience",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Biochemistry and Molecular Biology, Medical College of Northwest Minzu University, Lanzhou, Gansu, China.",
-        "School of Public Health, Gansu University of Chinese Medicine, Lanzhou, Gansu, China.",
-        "Department of Clinical Laboratory Centre, Gansu Province Maternity and Child-care Hospital, Lanzhou, Gansu, China."
-      ],
-      "doi": "10.1016/j.isci.2026.116670",
-      "date": "2026-07-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42472109/"
-    },
-    {
-      "pmid": "42471504",
-      "title": "Translational gaps and clinical readiness of artificial intelligence and multimodal imaging in breast cancer diagnostics.",
-      "abstract": "A persistent translational gap separates the high research-benchmark performance of artificial intelligence (AI) and advanced imaging in breast cancer from demonstrated real-world clinical utility. Most systems reporting accuracy above 95% on curated datasets have not been externally validated across diverse populations and imaging platforms. We critically examine AI-driven diagnostics and advanced imaging modalities for breast cancer, focusing on the barriers-generalization failure, algorithmic bias, reproducibility, and workflow integration-that determine clinical readiness rather than on benchmark capability alone. We conducted a structured review of peer-reviewed literature (January 2015-March 2025) across PubMed, Scopus, IEEE Xplore, and Web of Science, combining breast cancer terms with AI, deep learning, vision transformers, digital breast tomosynthesis (DBT), contrast-enhanced mammography (CEM), MRI, and liquid biopsy. Study selection followed an explicit, PRISMA-style screening workflow; 127 of 312 identified records met predefined eligibility and quality criteria. Reported benchmark performance is consistently optimistic relative to clinical performance: deep learning exceeds 95% accuracy and vision transformers report near-perfect classification on CBIS-DDSM, yet a reproducible 5-15% degradation follows deployment owing to distribution shift, scanner and vendor heterogeneity, and population differences. Among validated technologies, DBT raises cancer detection by 27% while lowering false positives; CEM increases sensitivity from 71.5% to 92.7% in dense breasts; and the Mirai risk model (AUC 0.76-0.81) outperforms traditional clinical tools. Liquid biopsy offers high-specificity molecular profiling but inadequate sensitivity (33%) for population screening. Critically, technical maturity is decoupled from validation depth and equity readiness-the dimensions that actually gate adoption. Realizing the potential of AI-augmented, risk-stratified screening requires multicenter prospective and multi-vendor external validation, fairness-aware design with subgroup reporting, transparent reproducibility, and adaptive regulation of continuously learning systems. We propose an operationally defined translational readiness framework that scores each technology along six dimensions, locating it on the continuum from research capability to equitable clinical deployment.",
-      "journal": "Discover oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Information Technology Engineering, Syrian Virtual University, Damascus, Syria. ons.hassan.shahin@gmail.com.",
-        "Department of Internal Medicine, Faculty of Medicine, Damascus University, Damascus, Syria.",
-        "Medical Education, Syrian Virtual University, Damascus, Syria.",
-        "Faculty of Medicine, Damascus University, Damascus, Syria.",
-        "Faculty of Pharmacy, Damascus University, Damascus, Syria."
-      ],
-      "doi": "10.1007/s12672-026-05608-7",
-      "date": "2026-07-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42471504/"
-    },
-    {
-      "pmid": "42469558",
-      "title": "Applications of circulating tumor cells in esophageal cancer detection and treatment.",
-      "abstract": "Esophageal cancer (EC) is highly invasive, recurrent, and metastatic, with high incidence and mortality rates, particularly in China, where it remains endemic. Although metastasis has traditionally been considered a late event in tumor progression, increasing experimental and clinical evidence suggests that dissemination of tumor cells may occur at earlier disease stages than previously recognized [1]. Detection of circulating tumor cells (CTCs) in the bloodstream may indicate tumor dissemination, making CTCs a key factor in the metastatic cascade. In recent years, despite progress in CTC research, there is still a lack of systematic and significant evidence to confirm the diagnostic, monitoring, and prognostic value of CTCs in EC. This review aims to summarize current evidence on the relationship between CTCs and EC and to provide insights that may support improved management and treatment strategies for EC.",
-      "journal": "Discover oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Affiliated Hospital of Jining Medical University, No. 89, Guhuai Road, Jining, 272000, Shandong Province, China.",
-        "Shandong First Medical University, Jinan, 250117, Shandong Province, China.",
-        "Jining Medical University, Jining, 272000, Shandong Province, China.",
-        "Affiliated Hospital of Jining Medical University, No. 89, Guhuai Road, Jining, 272000, Shandong Province, China. ronghanghu@163.com."
-      ],
-      "doi": "10.1007/s12672-026-05600-1",
-      "date": "2026-07-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42469558/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42474943",
+      "date": "2026-07-20",
+      "title": "Multi-regional Organoid Biobank Reveals FAK-ACSL1-Driven Doxorubicin-Resistance and Predictive Biomarkers in Breast Cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42474943/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42474943。",
+      "report": "Inter-tumor and intra-tumor heterogeneity present significant challenges to achieving precise treatment in breast cancer (BC). To address this, we established a living biobank comprising 68 patient-derived organoids (PDOs) from 50 patients across various regio...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42474512",
+      "date": "2026-07-20",
+      "title": "[Endometriosis pain research in Germany : ENDO-PAIN and StEPP-UPP-two new research consortia on endometriosis pain].",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42474512/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Schmerz (Berlin, Germany)，PMID 为 42474512。",
+      "report": "Endometriosis is one of the most common causes of chronic pelvic or lower-abdominal pain, yet mechanisms, predictors, and patient-centered treatment pathways remain insufficiently defined. This article summarizes the situation in Germany and presents two compl...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42474232",
+      "date": "2026-07-20",
+      "title": "Engineering Neural Organoids: Technological Advances and Translational Frontiers.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42474232/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Stem cells (Dayton, Ohio)，PMID 为 42474232。",
+      "report": "Neural organoids have transformed experimental neuroscience by enabling human-specific models of brain development, function, and disease. Emerging at the intersection of stem cell biology and tissue engineering, these self-organizing systems recapitulate key...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42473353",
       "date": "2026-07-20",
@@ -535,6 +629,104 @@
       "fact": "PubMed 记录显示该文献收录于 Lab on a chip，PMID 为 42473353。",
       "report": "Industrialization and clinical translation applications based on organoids are often limited by low automation, high matrix consumption, and poor reproducibility. Here we present the VitroOrganoSphere (VOS) system, an automated droplet-engineered organoid sort...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42474749",
+      "date": "2026-07-20",
+      "title": "Sarcoma metastasis: distinct biological principles beyond the carcinoma paradigm.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42474749/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer metastasis reviews，PMID 为 42474749。",
+      "report": "Sarcomas are rare in adults but constitute a substantial fraction of pediatric malignancies and are characterized by a high propensity for hematogenous dissemination and poor outcomes once metastatic. Yet, most mechanistic understanding of metastasis derives f...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42474245",
+      "date": "2026-07-20",
+      "title": "First report of dual KRAS Y96C/Y96S resistance mutations detected by liquid biopsy in KRAS G12C-mutant metastatic colorectal cancer.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42474245/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 The oncologist，PMID 为 42474245。",
+      "report": "Acquired resistance limits the long-term efficacy of KRAS G12C inhibitors in metastatic colorectal cancer (mCRC). While feedback signaling is a known resistance driver, the clinical evolution of structural alterations within the drug-binding pocket remains poo...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42473975",
+      "date": "2026-07-20",
+      "title": "Stage-specific circulating transcriptomic and proteomic biomarkers and regulators in colorectal cancer: bridging affordable diagnostics and translational therapeutics.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473975/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Critical reviews in clinical laboratory sciences，PMID 为 42473975。",
+      "report": "Colorectal cancer (CRC) remains a leading cause of cancer-related mortality worldwide, driven largely by pronounced molecular heterogeneity and delayed clinical detection. Although high-throughput sequencing technologies have substantially advanced the underst...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -624,38 +816,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Electrophoresis，PMID 为 42473295。",
       "report": "Globally, cancer morbidity and death are rising quickly, making it imperative to develop a workable plan for early cancer patient identification and treatment outcome prediction. Liquid biopsy, a minimally invasive and repeatable technique, can replace the res...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42471504",
-      "date": "2026-07-19",
-      "title": "Translational gaps and clinical readiness of artificial intelligence and multimodal imaging in breast cancer diagnostics.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42471504/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Discover oncology，PMID 为 42471504。",
-      "report": "A persistent translational gap separates the high research-benchmark performance of artificial intelligence (AI) and advanced imaging in breast cancer from demonstrated real-world clinical utility. Most systems reporting accuracy above 95% on curated datasets...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -757,34 +917,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42469558",
-      "date": "2026-07-17",
-      "title": "Applications of circulating tumor cells in esophageal cancer detection and treatment.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42469558/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Discover oncology，PMID 为 42469558。",
-      "report": "Esophageal cancer (EC) is highly invasive, recurrent, and metastatic, with high incidence and mortality rates, particularly in China, where it remains endemic. Although metastasis has traditionally been considered a late event in tumor progression, increasing...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42463579",
       "date": "2026-07-16",
       "title": "Deep generative models for 3D structure-based drug design and molecular optimisation: a comprehensive survey.",
@@ -874,66 +1006,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42472075",
-      "date": "2026-07-14",
-      "title": "Tumor Assembloids as Three-Dimensional Platforms for Modeling Drug Delivery Barriers: Construction Strategies, Applications, and Translational Challenges.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42472075/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Drug design, development and therapy，PMID 为 42472075。",
-      "report": "A major limitation of conventional two and three-dimensional preclinical in vitro cancer models is their inability to reproduce the drug-delivery barriers. Tumor assembloids, which integrate patient-derived cancer cells with stromal, endothelial, and immune co...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42472088",
-      "date": "2026-07-10",
-      "title": "Injectable microsphere-based delivery strategies for stem cells and their derivatives in tissue regeneration.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42472088/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bioactive materials，PMID 为 42472088。",
-      "report": "Tissue and organ injury, degeneration, and functional loss represent a growing global health challenge, exacerbated by an aging population and the limitations of current clinical interventions. Regenerative medicine offers a promising alternative by restoring...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42431103",
       "date": "2026-07-10",
       "title": "DRIVE: a comprehensive resource deciphering drug-induced transcriptomic and splicing response in cancer cell.",
@@ -1003,64 +1075,6 @@
       "fact": "PubMed 记录显示该文献收录于 British journal of pharmacology，PMID 为 42429061。",
       "report": "Cells are the fundamental units through which genetic variation and pharmacological perturbations influence disease processes and therapeutic responses. However, cellular responses to intervention are strongly shaped by biological context, creating a central c...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42472109",
-      "date": "2026-07-10",
-      "title": "The role of serologic biomarkers \"liquid biopsy\" in the fight against breast cancer: From biological foundations to clinical impact.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42472109/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42472109。",
-      "report": "Liquid biopsy, analyzing circulating tumor-derived components, including ctDNA, circulating tumor cells, microRNAs, and exosomes, has emerged as a key tool in precision oncology. This review synthesizes evidence from the past five years, covering biological me...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42472089",
-      "date": "2026-07-09",
-      "title": "Organoid-loaded core-shell cryomicroneedles induce biomimetic follicular units and hair regeneration.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42472089/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bioactive materials，PMID 为 42472089。",
-      "report": "Tissue-engineered hair follicle regeneration offers a promising method for increasing hair follicle count, yet it faces challenges such as difficulty with hair emergence through the skin and the potential for clustered and disordered growth. Achieving biomimet...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
