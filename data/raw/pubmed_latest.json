@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-21T08:48:48.112169+00:00",
+  "capturedAt": "2026-07-21T14:26:27.734596+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-07-21"
   },
   "pmids": [
+    "42478060",
+    "42477763",
     "42477693",
     "42477445",
-    "42476973",
     "42477348",
     "42477212",
-    "42476445",
     "42476548",
     "42447329",
     "42444608",
@@ -32,14 +32,52 @@
     "42468751",
     "42467311",
     "42463579",
+    "42477937",
     "42476386",
     "42476234",
     "42475778",
     "42475517",
-    "42475426",
-    "42474749"
+    "42475426"
   ],
   "records": [
+    {
+      "pmid": "42478060",
+      "title": "Establishing a safe and effective cleaning method for PDMS devices derived from 3D-printed resin moulds in embryo production.",
+      "abstract": "Dynamic systems for in vitro embryo production (IVEP) have long been sought to allow a higher resemblance to the physiological conditions of the oviduct and uterus. Although significant progress has been demonstrated in the microfluidic field, some challenges are still present regarding the microfluidic devices' sterilization protocol. This complication is related to the leached components from the poly(dimethylsiloxane) (PDMS). The PDMS is one of the safest materials used in soft lithography for embryo production. However, the use of moulds required for soft lithography can compromise embryo culture. This limitation arises from the restricted range of biocompatible resins available for 3D-printing of moulds. While the replacement of the biomaterial for mould production is not a straightforward option, we hypothesized that PDMS devices fabricated from such moulds could be rendered biocompatible through an optimized cleaning protocol. In this current study, we evaluated the effectiveness of sequential washes, sonication, and extended incubation in washing solutions. Our results demonstrate that a prior incubation of the PDMS devices in PBS supplemented with antibiotics and antifungal (at 4°C for 48 hours), in addition to the incubation in IVC medium (at 38.5°C for 48 hours), enables bovine embryo development within PDMS devices fabricated with moulds from a 3D printer. This optimized protocol supported IVEP at rates equivalent to standard conditions, with no increase in apoptosis or oxidative stress, validating its suitability for artificial reproductive techniques applications.",
+      "journal": "Zygote (Cambridge, England)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Federal University of the ABC Centre for Natural Sciences and Humanities, Brazil.",
+        "Clinic of Ruminants, Faculty of Veterinary Medicine, https://ror.org/05591te55Ludwig-Maximilians-Universität München, Germany.",
+        "Reproductive Sciences Unit, https://ror.org/04et42c10Toronto Zoo, Canada."
+      ],
+      "doi": "10.1017/S0967199426100550",
+      "date": "2026-07-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42478060/"
+    },
+    {
+      "pmid": "42477763",
+      "title": "Adoptive transfer of VSIG4+ macrophages interrupts the CCL2-CCR2 inflammatory amplification loop to mitigate acetaminophen-induced acute liver injury in murine and human organoid models.",
+      "abstract": "Acute liver injury (ALI) can rapidly progress to life-threatening acute liver failure. Liver transplantation remains the only definitive treatment, despite critical donor shortages. Macrophage-based therapies have shown promise in ALI but face challenges related to subset imprecision and limited humanized validation. VSIG4 is generally considered a marker of Kupffer cells; however, it is also expressed in monocyte-derived macrophages (MoMFs), and its role remains unclear during ALI. By integrating single-cell RNA sequencing (scRNA-seq) data from human and mouse liver tissues with clinical ALI tissue samples, we elucidated the dynamic changes in VSIG4+ macrophages (VSIG4+ Mφ) within the liver. We developed a reversible immunomagnetic nanoparticle system for the non-destructive isolation of viable VSIG4+ Mφ. The therapeutic efficacy and potential mechanisms of VSIG4+ Mφ were evaluated through tissue and molecular-level analyses in an acetaminophen (APAP)-induced ALI mouse model, as well as in a newly established vascularized human liver organoid ALI and monocyte chemotaxis model. scRNA-seq revealed a previously underrecognized subpopulation of VSIG4+ MoMFs, which increases following ALI, while the number of resident VSIG4+ Kupffer cells decreases significantly. Clinical ALI tissue samples also confirmed the presence of CCR2+VSIG4+ cells in the livers of patients with ALI. In the APAP-induced ALI animal model, adoptive transfer of isolated VSIG4+ MoMFs dramatically decreased serum alanine transaminase, hepatic necrosis, and apoptosis while increasing anti-inflammatory cytokines. In contrast, adoptive transfer of unselected BMDM failed to improve liver injury and instead exacerbated certain pro-inflammatory responses, including elevated TNF-α and reduced CD206 expression. Mechanistically, VSIG4+ MoMFs prevented inflammatory amplification by suppressing NF-κB-dependent CCL2 transcription, thereby disrupting the CCL2-CCR2 chemotactic axis and reducing pro-inflammatory CCR2+ monocyte and macrophage recruitment. We further developed vascularized human liver organoids and APAP-induced hepatocyte injury and monocyte chemotaxis, finding that the chemotaxis-interrupting mechanism was fully recapitulated in the human liver organoid ALI model. This study identifies VSIG4+ MoMFs as a therapeutically viable subset for ALI, with clear superiority over unselected BMDM. By blocking the CCL2-CCR2 inflammatory amplification loop, these cells attenuate liver injury in both mouse and humanized models. These consistent findings provide robust preclinical evidence to support the advancement of VSIG4+ Mφ-based immunotherapies into clinical practice.",
+      "journal": "Journal of translational medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Hepatobiliary Surgery Center, Tongji Hospital, School of Medicine, Tongji University, Shanghai, 200092, China.",
+        "Baoshan Branch of Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, 200444, China.",
+        "Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055, China.",
+        "Central Laboratory, Shuguang Hospital Affiliated to Shanghai University of Traditional Chinese Medicine, Shanghai, 201203, China.",
+        "Central Laboratory, Shuguang Hospital Affiliated to Shanghai University of Traditional Chinese Medicine, Shanghai, 201203, China. kong_xiaoni@126.com.",
+        "Department of Gastroenterology, Songjiang Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, 201600, China. weifangrong@shsmu.edu.cn.",
+        "Hepatobiliary Surgery Center, Tongji Hospital, School of Medicine, Tongji University, Shanghai, 200092, China. twf1231@163.com."
+      ],
+      "doi": "10.1186/s12967-026-08631-y",
+      "date": "2026-07-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42477763/"
+    },
     {
       "pmid": "42477693",
       "title": "Subcutaneous transplantation of lung organoids ameliorates vascular dementia via the IGFBP7-Ago2 mediated lung-brain axis.",
@@ -89,28 +127,6 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42477445/"
     },
     {
-      "pmid": "42476973",
-      "title": "NOD1/2 signaling in macrophages drives adaptive immune resistance in cancer.",
-      "abstract": "Therapeutic resistance remains a prevalent and intractable clinical challenge across a broad spectrum of human malignancies. Despite extensive investigations, the intricate molecular networks by which the tumor microenvironment (TME) mediates such resistance are not fully understood. In this study, we identified nucleotide-binding oligomerization domain-containing proteins 1 and 2 (NOD1/2) as pivotal regulators of adaptive resistance to diverse antitumor therapies, including immune checkpoint blockade (ICB), adoptive T-cell therapy, and cytotoxic chemotherapy. In murine tumor models, genetic ablation of NOD1/2 or receptor-interacting protein kinase 2 (RIPK2), as well as pharmacological inhibition of RIPK2, remodeled the TME by decreasing immunosuppressive macrophages and boosting CD8⁺ T cell infiltration and cytotoxicity. Mechanistically, NOD1/2 activation in macrophages upregulated programmed death-ligand 1 (PD-L1) expression via the RIPK2/NF-κB signaling axis, establishing an immunosuppressive TME that impaired CD8⁺ T cell-mediated antitumor immunity. Notably, in the clinically relevant setting of immunotherapy resistance, targeted suppression of NOD1/2 signaling in patient-derived peripheral blood mononuclear cells (PBMCs) restored and potentiated ICB responsiveness in patient-derived tumor organoids. Bioinformatic analyses further demonstrated that NOD1/2-associated gene signatures were significantly enriched in tumor-associated macrophages post-therapy. Our findings define NOD1/2 as a novel innate immune checkpoint that orchestrates therapy-induced adaptive resistance and highlight this pathway as a promising target to overcome treatment resistance in refractory cancers.",
-      "journal": "Signal transduction and targeted therapy",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Pharmaceutical Sciences, Tsinghua University, Beijing, PR China.",
-        "MOE Key Laboratory of Bioinformatics, Center for Synthetic & Systems Biology, School of Life Sciences, Tsinghua University, Beijing, PR China.",
-        "State Key Laboratory of Holistic Integrative Management of Gastrointestinal Cancers, Beijing Key Laboratory of Carcinogenesis and Translational Research, Department of Hepatobiliary and Pancreatic Surgery Unit I, Peking University, Cancer Hospital & Institute, Beijing, PR China.",
-        "College of Pharmaceutical Sciences, The Fourth Affiliated Hospital of Soochow University, Soochow Medical School of Soochow University, Soochow University, Suzhou, PR China.",
-        "Institute of Materia Medica, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, PR China.",
-        "Ningbo Combireg Pharmaceutical Technology Co. Ltd., Ningbo, PR China.",
-        "School of Pharmaceutical Sciences, Tsinghua University, Beijing, PR China. gangliu27@mail.tsinghua.edu.cn.",
-        "Institute of Materia Medica, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, PR China. mayao@imm.ac.cn."
-      ],
-      "doi": "10.1038/s41392-026-02758-6",
-      "date": "2026-07-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42476973/"
-    },
-    {
       "pmid": "42477348",
       "title": "Neural dynamics of temporal interference stimulation monitoring by soft liquid metal interfaces across neural systems.",
       "abstract": "Neuromodulation is widely employed to enhance neural activity and restore impaired circuitry, yet current methods suffer from invasiveness, limited depth, or poor spatial resolution. Temporal interference stimulation (TIS) has emerged as a non-invasive approach to modulate deep brain regions via interference of high-frequency electric fields, achieving spatial selectivity. Despite its potential, the physiological effects remain unexplored. Here, we present a customized liquid metal-based neural interface to record electrophysiological responses to TIS across diverse neural tissues, from brain organoids to mouse brains. The softness of the interface minimizes invasiveness while ensuring stable access to deep neural regions. Electrophysiological analyses reveal TIS-induced dynamics in neurodevelopment and functional connectivity. Furthermore, we investigated latent neural dynamics, presenting population-level neural activity, to compare responses across models of differing complexity and maturity. By combining soft neural interfaces with multi-scale analyses, this study uncovers how neuromodulation shapes neural dynamics and supports the development of future therapeutic strategies.",
@@ -153,22 +169,6 @@
       "doi": "10.1007/s10571-026-01779-7",
       "date": "2026-07-20",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42477212/"
-    },
-    {
-      "pmid": "42476445",
-      "title": "Triclocarban Drives Intrahepatic Cholangiocyte Injury by Triggering Ferroptosis via the SLC7A11/GSH/GPX4 Axis.",
-      "abstract": "Triclosan (TCS) and triclocarban (TCC), which are widely used as antimicrobial agents, come into direct contact with humans due to their increasing environmental release. Because of concerns regarding the environmental impact and potential hepatotoxicity of TCS, it is being phased out in many countries and substituted with TCC. However, the biological and molecular mechanisms underlying TCC's toxicity, particularly in relation to liver damage, remain largely unexplored. In this study, we demonstrated that although TCC exhibited reduced hepatotoxicity relative to TCS, it exerted a more significant impact on cholangiocytes compared to TCS. Using an intrahepatic cholangiocyte organoid model, we identified ferroptosis as a predominant pathological feature of TCC-induced cytotoxicity and dysfunction in cholangiocytes, characterized by iron overload, ROS generation, lipid peroxidation, and aberrant activation of the ferroptosis pathway. Mechanistically, TCC not only elevated Fe2+ levels in organoids by disrupting iron metabolism pathway but also impaired the antioxidant system by targeting the SLC7A11/GSH/GPX4 antioxidant axis, indicating that TCC induced ferroptosis through both canonical and noncanonical pathways. Notably, targeting ferroptosis with the ferroptosis inhibitor Fer-1 effectively rescued the cytotoxicity and attenuated the enhanced secretory function of organoids induced by TCC. Our study elucidates the critical cellular events occurring in cholangiocytes exposed to TCC and provides valuable insights into the mechanisms by which TCC exerts its toxic effects within the hepatobiliary system.",
-      "journal": "Toxicology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Information Materials and Intelligent Sensing Laboratory of Anhui Province, Institutes of Physical Science and Information Technology, Anhui University, Hefei, Anhui 230601, PR China.",
-        "Information Materials and Intelligent Sensing Laboratory of Anhui Province, Institutes of Physical Science and Information Technology, Anhui University, Hefei, Anhui 230601, PR China. Electronic address: shmxu@ahu.edu.cn."
-      ],
-      "doi": "10.1016/j.tox.2026.154543",
-      "date": "2026-07-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42476445/"
     },
     {
       "pmid": "42476548",
@@ -401,6 +401,27 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42463579/"
     },
     {
+      "pmid": "42477937",
+      "title": "[Advancement of subtype-based early breast cancer systematic therapy].",
+      "abstract": "This article systematically reviews the latest advances in systemic therapy for early breast cancer (EBC) across different molecular subtypes-hormone receptor positive/human epidermal growth factor receptor 2 negative (HR+HER2-), HER2-positive, and triple-negative breast cancer (TNBC). It elaborates on the evolution of treatment strategies in endocrine therapy, targeted therapy, and immunotherapy. The combination of CDK4/6 inhibitors with adjuvant endocrine therapy has redefined the high-risk population in HR+HER2-breast cancer. PARP inhibitors have become an important therapeutic option for patients with germline pathogenic or likely pathogenic BRCA mutations in HER2-negative disease. Novel oral selective estrogen receptor degraders are expected to emerge as a new adjuvant treatment choice for this subtype. For HER2 positive patients, treatment is now in an era where de-escalation and escalation strategies are pursued in parallel. Antibody drug conjugates (ADC) have profoundly reshaped the treatment landscape for patients who do not achieve pathological complete response (pCR) after neoadjuvant therapy, and their role in neoadjuvant and adjuvant settings is being further explored. In TNBC, refined subtyping and the investigation of subtype-specific combination strategies have significantly improved outcomes in a subset of patients. The use of PD-1/PD-L1 inhibitors combined with chemotherapy in the neoadjuvant setting has entered the exploratory phase of de-escalation. PARP inhibitors and TROP-2 ADC have also achieved breakthrough progress in both neoadjuvant and adjuvant settings. Precision diagnostic tools, including genetic testing and liquid biopsy, are increasingly being integrated into treatment decision-making across all subtypes of breast cancer. Molecular subtype-guided precision medicine now enables individualized systemic therapy for EBC via novel agents and biomarker-driven strategies, optimizing clinical decisions and improving outcomes.",
+      "journal": "Zhonghua yi xue za zhi",
+      "publicationTypes": [
+        "Journal Article",
+        "Review",
+        "English Abstract"
+      ],
+      "affiliations": [
+        "The Affiliated Hospital of Guizhou Medical University, Department of Breast Surgery, Guiyang 550004, China.",
+        "The Breast Center of Yunnan Cancer Hospital & the Third Affiliated Hospital of Kunming Medical University, Kunming 650118, China.",
+        "Department of Phase Ⅰ Clinical Trial Center, Fudan University Shanghai Cancer Center, Shanghai 200032, China.",
+        "Breast Center, Sichuan Provincial Engineering Research Center for Intelligent Diagnosis and Treatment of Breast Diseases, West China Hospital, Sichuan University, Chengdu 610041, China.",
+        "Department of Rehabilitation and Palliative Medicine, the Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Kunming 650118, China."
+      ],
+      "doi": "10.3760/cma.j.cn112137-20260306-00633",
+      "date": "2026-07-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42477937/"
+    },
+    {
       "pmid": "42476386",
       "title": "A new chapter in precision medicine: Circulating tumor cells in breast cancer prognosis and treatment.",
       "abstract": "Breast cancer (BC) persists as a leading cause of cancer-related mortality among women globally. While the characterization of molecular subtypes has improved our understanding and precision treatment of the disease, the detection and analysis of circulating tumor cells (CTCs) offer a complementary, dynamic perspective. Shed from primary tumors or metastatic sites, CTCs function as pro-metastatic precursors, providing critical insights into tumor progression, metastatic potential, and therapeutic response. We synthesize findings from key clinical trials that underscore the utility of CTCs in early diagnosis, prognostic assessment, and real-time treatment monitoring. Furthermore, we explore the potential of CTCs in uncovering novel biomarkers of therapy resistance and their emerging role in drug development. Ultimately, the integration of CTC-based liquid biopsies into clinical practice promises to open new avenues for precision medicine in BC.",
@@ -508,28 +529,95 @@
       "doi": "10.3791/70971",
       "date": "2026-06-30",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42475426/"
-    },
-    {
-      "pmid": "42474749",
-      "title": "Sarcoma metastasis: distinct biological principles beyond the carcinoma paradigm.",
-      "abstract": "Sarcomas are rare in adults but constitute a substantial fraction of pediatric malignancies and are characterized by a high propensity for hematogenous dissemination and poor outcomes once metastatic. Yet, most mechanistic understanding of metastasis derives from carcinomas and is frequently extrapolated to sarcomas despite major biological differences. This review synthesizes current evidence on sarcoma metastasis and highlights key knowledge gaps across the metastatic cascade. It frames sarcomas as malignancies often arising from mesenchymal stromal cells, whose intrinsic motility, plasticity, and stem-like features may predispose transformed cells to dissemination without requiring a classic epithelial-to-mesenchymal transition program. The concept of metastasis-initiating cells is discussed in the context of sarcoma cancer stem cell biology, clonal evolution, and epigenetic reprogramming, emphasizing that the relative genomic simplicity of certain pediatric sarcomas driven by recurrent fusion oncogenes may provide powerful models to dissect metastasis dependencies. The review examines how the sarcoma tumor microenvironment, often immunosuppressive and macrophage-rich, may shape invasion, intravasation, survival in circulation, extravasation, and organotropism, particularly the strong predilection for pulmonary metastasis. It summarizes emerging data on circulating tumor cells and complementary liquid biopsy approaches, while underscoring technical limitations caused by sarcoma heterogeneity and lack of robust markers. Finally, the review appraises current treatment limitations for metastatic sarcoma and argues that improved mechanistic resolution, especially of plasticity, epigenetic states, microenvironmental interactions, and dormancy, will be essential to identify actionable vulnerabilities and improve outcomes for patients with disseminated disease.",
-      "journal": "Cancer metastasis reviews",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Division of Pediatric Hematology-Oncology, Department of Pediatrics, Lausanne University Hospital, Lausanne, Switzerland. nadja.chevalier@chuv.ch.",
-        "Division of Hematology and Oncology, The Hospital for Sick Children, University of Toronto, Toronto, Canada. nadja.chevalier@chuv.ch.",
-        "Division of Hematology and Oncology, The Hospital for Sick Children, University of Toronto, Toronto, Canada.",
-        "Experimental Pathology Service, Lausanne University Hospital, University of Lausanne, Lausanne, Switzerland."
-      ],
-      "doi": "10.1007/s10555-026-10360-z",
-      "date": "2026-07-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42474749/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42478060",
+      "date": "2026-07-21",
+      "title": "Establishing a safe and effective cleaning method for PDMS devices derived from 3D-printed resin moulds in embryo production.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42478060/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Zygote (Cambridge, England)，PMID 为 42478060。",
+      "report": "Dynamic systems for in vitro embryo production (IVEP) have long been sought to allow a higher resemblance to the physiological conditions of the oviduct and uterus. Although significant progress has been demonstrated in the microfluidic field, some challenges...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42477937",
+      "date": "2026-07-21",
+      "title": "[Advancement of subtype-based early breast cancer systematic therapy].",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42477937/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Zhonghua yi xue za zhi，PMID 为 42477937。",
+      "report": "This article systematically reviews the latest advances in systemic therapy for early breast cancer (EBC) across different molecular subtypes-hormone receptor positive/human epidermal growth factor receptor 2 negative (HR+HER2-), HER2-positive, and triple-nega...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42477763",
+      "date": "2026-07-20",
+      "title": "Adoptive transfer of VSIG4+ macrophages interrupts the CCL2-CCR2 inflammatory amplification loop to mitigate acetaminophen-induced acute liver injury in murine and human organoid models.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42477763/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42477763。",
+      "report": "Acute liver injury (ALI) can rapidly progress to life-threatening acute liver failure. Liver transplantation remains the only definitive treatment, despite critical donor shortages. Macrophage-based therapies have shown promise in ALI but face challenges relat...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42477693",
       "date": "2026-07-20",
@@ -647,34 +735,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Cellular and molecular neurobiology，PMID 为 42477212。",
       "report": "Alzheimer's disease (AD) is a neurodegenerative disorder characterised by progressive dementia, brain atrophy, and ultimately death. Using cerebral organoids derived from human-induced pluripotent stem cells (hiPSCs) carrying the familial PSEN1 A246E variant,...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42476445",
-      "date": "2026-07-20",
-      "title": "Triclocarban Drives Intrahepatic Cholangiocyte Injury by Triggering Ferroptosis via the SLC7A11/GSH/GPX4 Axis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42476445/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Toxicology，PMID 为 42476445。",
-      "report": "Triclosan (TCS) and triclocarban (TCC), which are widely used as antimicrobial agents, come into direct contact with humans due to their increasing environmental release. Because of concerns regarding the environmental impact and potential hepatotoxicity of TC...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -806,36 +866,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42474749",
-      "date": "2026-07-20",
-      "title": "Sarcoma metastasis: distinct biological principles beyond the carcinoma paradigm.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42474749/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer metastasis reviews，PMID 为 42474749。",
-      "report": "Sarcomas are rare in adults but constitute a substantial fraction of pediatric malignancies and are characterized by a high propensity for hematogenous dissemination and poor outcomes once metastatic. Yet, most mechanistic understanding of metastasis derives f...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42470596",
       "date": "2026-07-18",
       "title": "Artificial Intelligence and Protein Design: A retrospective study on 20-year emerging trends and core research areas from bibliometric perspectives.",
@@ -930,36 +960,6 @@
       "fact": "PubMed 记录显示该文献收录于 Molecular diversity，PMID 为 42467311。",
       "report": "The programmed cell death-1/programmed cell death-ligand 1 (PD-1/PD-L1) pathway is a key target in cancer immunotherapy. Although monoclonal antibodies (mAbs) have demonstrated remarkable clinical efficacy, their application is limited by poor tissue penetrati...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42476973",
-      "date": "2026-07-16",
-      "title": "NOD1/2 signaling in macrophages drives adaptive immune resistance in cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42476973/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Signal transduction and targeted therapy，PMID 为 42476973。",
-      "report": "Therapeutic resistance remains a prevalent and intractable clinical challenge across a broad spectrum of human malignancies. Despite extensive investigations, the intricate molecular networks by which the tumor microenvironment (TME) mediates such resistance a...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
