@@ -1,9 +1,9 @@
 {
-  "capturedAt": "2026-07-20T19:59:00.481976+00:00",
+  "capturedAt": "2026-07-21T03:50:15.407220+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
-    "start": "2026-07-06",
-    "end": "2026-07-20"
+    "start": "2026-07-07",
+    "end": "2026-07-21"
   },
   "forms": [
     "10-K",
@@ -139,6 +139,32 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-07-20",
+      "reportDate": "2026-07-20",
+      "acceptanceDateTime": "2026-07-20T17:15:12.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-42130",
+      "filmNumber": "261187467",
+      "items": "1.01,9.01",
+      "size": 966826,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "d128960d8k.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001193125-26-309073",
+      "companyId": "tempus-ai",
+      "companyName": "Tempus AI",
+      "companyDirections": [
+        "Precision Diagnostics",
+        "Healthcare AI"
+      ],
+      "secTicker": "TEM",
+      "cik": "0001717115",
+      "secName": "Tempus AI, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526309073/d128960d8k.htm"
+    },
     {
       "filingDate": "2026-07-20",
       "reportDate": "2026-07-20",
@@ -339,34 +365,41 @@
       "cik": "0001682852",
       "secName": "Moderna, Inc.",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000134/mrna-20260706.htm"
-    },
-    {
-      "filingDate": "2026-07-06",
-      "reportDate": "2026-07-01",
-      "acceptanceDateTime": "2026-07-06T20:05:18.000Z",
-      "act": "34",
-      "form": "8-K",
-      "fileNumber": "001-37478",
-      "filmNumber": "261155853",
-      "items": "5.02",
-      "size": 221013,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "ntra-20260701.htm",
-      "primaryDocDescription": "8-K",
-      "accessionNumber": "0001604821-26-000005",
-      "companyId": "natera",
-      "companyName": "Natera",
-      "companyDirections": [
-        "Precision Diagnostics"
-      ],
-      "secTicker": "NTRA",
-      "cik": "0001604821",
-      "secName": "Natera, Inc.",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1604821/000160482126000005/ntra-20260701.htm"
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001717115-000119312526309073",
+      "date": "2026-07-20",
+      "title": "Tempus AI filed Form 8-K",
+      "entity": "Tempus AI",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526309073/d128960d8k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Precision Diagnostics",
+        "Healthcare AI"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "TEM"
+      ],
+      "companyIds": [
+        "tempus-ai"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-309073 for Tempus AI, Form 8-K, filed on 2026-07-20.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001717115-000119312526308469",
       "date": "2026-07-20",
@@ -612,37 +645,6 @@
         "moderna"
       ],
       "fact": "SEC EDGAR lists accession 0001682852-26-000134 for Moderna, Form 8-K, filed on 2026-07-08.",
-      "report": "SEC metadata describes the primary document as: 8-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001604821-000160482126000005",
-      "date": "2026-07-06",
-      "title": "Natera filed Form 8-K",
-      "entity": "Natera",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Company",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1604821/000160482126000005/ntra-20260701.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "Precision Diagnostics"
-      ],
-      "tags": [
-        "SEC",
-        "8-K",
-        "NTRA"
-      ],
-      "companyIds": [
-        "natera"
-      ],
-      "fact": "SEC EDGAR lists accession 0001604821-26-000005 for Natera, Form 8-K, filed on 2026-07-06.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."

@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-20T19:58:49.862895+00:00",
+  "capturedAt": "2026-07-21T03:50:04.790330+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,36 +10,73 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-07-20",
-    "end": "2026-07-20"
+    "start": "2025-07-21",
+    "end": "2026-07-21"
   },
   "pmids": [
+    "42475323",
+    "42475260",
     "42474943",
     "42474512",
     "42474232",
     "42473353",
-    "42473035",
-    "42472463",
     "42447329",
     "42444608",
     "42431103",
     "42429061",
     "42418828",
     "42412811",
+    "42475171",
     "42470596",
     "42468751",
     "42467311",
     "42463579",
     "42462358",
-    "42462008",
+    "42475778",
+    "42475517",
+    "42475426",
     "42474749",
     "42474245",
-    "42473975",
-    "42473726",
-    "42473674",
-    "42473295"
+    "42473975"
   ],
   "records": [
+    {
+      "pmid": "42475323",
+      "title": "Probing the Ovarian Microenvironment: Methods for Isolation, 2D Culture, and Organoid Culture of Mouse Ovarian Somatic Cells.",
+      "abstract": "The ovary consists of heterogeneous populations of somatic cells, both within the follicle and the surrounding stroma, which are critical to support ovarian function and for the generation of high-quality gametes. We report methods for isolating somatic cells from mouse ovaries, including endothelial, epithelial, steroidogenic, stromal, and immune cells. When these primary ovarian somatic cells are plated and cultured in a traditional 2D culture system, the cellular heterogeneity, organization, as well as cell-cell and cell-matrix interactions typically found in the ovary are lost. Thus, we also describe how to generate mouse ovarian somatic organoids using a scaffold-free approach. These organoids self-assemble, maintain diverse cell populations, and produce extracellular matrix and secreted factors, including cytokines. Organoids can be utilized for co-culture experiments and can be maintained in culture for at least 3 weeks with high viability. Overall, these models enable interrogation of ovarian physiology and pathology from the somatic cell perspective.",
+      "journal": "Journal of visualized experiments : JoVE",
+      "publicationTypes": [
+        "Journal Article",
+        "Video-Audio Media"
+      ],
+      "affiliations": [
+        "Department of Obstetrics and Gynecology, Feinberg School of Medicine, Northwestern University, Chicago.",
+        "Department of Obstetrics and Gynecology, Feinberg School of Medicine, Northwestern University, Chicago; f-duncan@northwestern.edu."
+      ],
+      "doi": "10.3791/71001",
+      "date": "2026-07-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42475323/"
+    },
+    {
+      "pmid": "42475260",
+      "title": "Epigenomic profiling links IGF2 oveexpression to anthracycline resistance in colorectal cancer organoids.",
+      "abstract": "",
+      "journal": "JCI insight",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Division of Oncology Research, Mayo Clinic, Rochester, United States of America.",
+        "Division of Oncology Research, Mayo Cinic, Rochester, United States of America.",
+        "Division of Medical Oncology, Mayo Clinic, Rochester, United States of America.",
+        "Division of Computational Biology, Mayo Clinic, Rochester, United States of America.",
+        "Division of Hematology/Oncology, Mayo Clinic, Phoenix, United States of America.",
+        "Department of Surgery, Mayo Clinic, Rochester, United States of America."
+      ],
+      "doi": "10.1172/jci.insight.195194",
+      "date": "2026-07-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42475260/"
+    },
     {
       "pmid": "42474943",
       "title": "Multi-regional Organoid Biobank Reveals FAK-ACSL1-Driven Doxorubicin-Resistance and Predictive Biomarkers in Breast Cancer.",
@@ -115,39 +152,6 @@
       "doi": "10.1039/d6lc00309e",
       "date": "2026-07-20",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473353/"
-    },
-    {
-      "pmid": "42473035",
-      "title": "Inhibition of the Metalloproteinase ADAMTS5 Suppresses Colorectal Cancer Metastasis via the PEDF/Wnt/β-Catenin Pathway.",
-      "abstract": "At present, colorectal cancer (CRC) ranks as the third most prevalent cancer globally and is the second most common cause of mortality associated with cancer. The expression of A Disintegrin and Metalloproteinase with Thrombospondin Motifs 5 (ADAMTS5) is upregulated in CRC, and high ADAMTS5 expression strongly correlates with an unfavorable prognosis. However, the function of ADAMTS5 in CRC remains unknown. This study aimed to investigate the role of ADAMTS5 in CRC and its potential mechanisms of action. The results showed that ADAMTS5 expression was higher in CRC tissues than in paracancerous tissues. Bioinformatics analysis revealed that its expression gradually increased with tumor progression and that high expression was correlated with poor prognosis. ADAMTS5 knockdown suppressed the proliferation and migration of HCT116 and HT29 cells, and ADAMTS5 inhibition suppressed epithelial-mesenchymal transition (EMT) in HCT116, HT29, and patient-derived organoids. Mechanistic analysis using the STRING database revealed that ADAMTS5 expression was strongly correlated with the Wnt signaling pathway. Western blotting analysis confirmed that ADAMTS5 inhibition suppressed tumor cell invasion and migration and blocked EMT in vitro through the PEDF/Wnt/β-catenin pathway. Furthermore, ADAMTS5 inhibition significantly inhibited tumor proliferation and metastasis within a nude mouse CRC liver metastasis model. These findings indicated that inhibition of ADAMTS5 could suppress CRC progression and metastasis via the PEDF/Wnt/β-catenin pathway.",
-      "journal": "Cancer medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Gastroenterology, The First People's Hospital of Taicang, Taicang Affiliated Hospital of Soochow University, Suzhou Medical College of Soochow University, Suzhou, China.",
-        "Department of General Surgery, Suzhou TCM Hospital Affiliated to Nanjing University of Chinese Medicine, Suzhou, China.",
-        "Department of Pathology, The First People's Hospital of Taicang, Taicang Affiliated Hospital of Soochow University, Suzhou Medical College of Soochow University, Suzhou, China.",
-        "Central Laboratory, The First People's Hospital of Taicang, Taicang Affiliated Hospital of Soochow University, Suzhou Medical College of Soochow University, Suzhou, China."
-      ],
-      "doi": "10.1002/cam4.72118",
-      "date": "2026-07-00",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473035/"
-    },
-    {
-      "pmid": "42472463",
-      "title": "Modeling tonsil organoids for studying mucosal immune responses to SARS-CoV-2 vaccination.",
-      "abstract": "A key bottleneck in preclinical vaccine research is the lack of a human in vitro system that faithfully models the germinal center (GC) reactions, a critical process for generating protective antibodies. This gap hinders the accurate assessment of vaccine candidates. The tonsil is a key component of the mucosal immune system in the oropharynx, acting as its first-line immune sentinel. We established a novel human tonsil organoid platform and stimulated it with the chimpanzee adenovirus serotype 68-19 spike protein (AdC68-19S) SARS-CoV-2 vaccine candidate. Cellular immune phenotypes were analyzed by flow cytometry, while spatial organization was assessed via immunofluorescence. Functional immune responses were quantified using enzyme-linked immunosorbent assay, enzyme-linked immunospot assay, and pseudovirus neutralization tests to measure antigen-specific antibodies production and their neutralizing capacity. AdC68‑19S immunization elicited coordinated GC reactions in tonsil organoids, characterized spatially by the formation of discrete GC compartments, specifically an AICDA+ dark zone and a PD‑1+ light zone. This reorganization was accompanied by a marked expansion of key effector populations, including GC B cells and plasma cells. Functionally, the platform generated antibody‑secreting cells as well as antigen‑specific IgG and IgA antibodies, these antibodies demonstrated neutralizing capacity against the SARS‑CoV‑2 pseudovirus. The human tonsil organoids platform represents a paradigm shift in vitro immunology, establishing a system that recapitulates key features of adaptive immune responses induced by AdC68-19S vaccine. This approach provides a robust, physiologically relevant, and ethically viable model to advance our understanding of human immunity, oral immune barrier and accelerate vaccine development.",
-      "journal": "Tissue barriers",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Otolaryngology-Head and Neck Surgery, Beijing Tsinghua Changgung Hospital, School of Clinical Medicine, Tsinghua Medicine, Tsinghua University, Beijing, People's Republic of China."
-      ],
-      "doi": "10.1080/21688370.2026.2700690",
-      "date": "2026-07-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42472463/"
     },
     {
       "pmid": "42447329",
@@ -261,6 +265,24 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42412811/"
     },
     {
+      "pmid": "42475171",
+      "title": "De Novo Design of Protein Nanopores: From Minimal Peptides to AI-Driven Design.",
+      "abstract": "Protein nanopores offer a powerful platform for analytical applications by directly converting chemical properties into information-rich, single-molecule electrical readouts. However, engineering natural nanopores for sensing remains challenging due to the limited number of available scaffolds and evolutionary constraints on their geometries and chemistries. Recent advances in AI- and data-driven protein design are enabling increasingly complex membrane protein architectures, opening new possibilities for designing synthetic nanopores with tailored folds and functions. This review surveys the evolution of de novo nanopore design, from minimal sequences to AI-supported approaches, highlights emerging strategies, and outlines key challenges─including data scarcity, membrane modeling, and experimental characterization─that must be addressed to realize robust, programmable nanopores for next-generation sensing technologies.",
+      "journal": "Chemical reviews",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "VUB-VIB Center for Structural Biology, 1050 Brussels, Belgium.",
+        "Structural Biology Brussels, Vrije Universiteit Brussel, 1050 Brussels, Belgium.",
+        "Department of Chemical, Biological, and Materials Engineering, University of South Florida, Tampa, Florida 33620, United States."
+      ],
+      "doi": "10.1021/acs.chemrev.5c00990",
+      "date": "2026-07-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42475171/"
+    },
+    {
       "pmid": "42470596",
       "title": "Artificial Intelligence and Protein Design: A retrospective study on 20-year emerging trends and core research areas from bibliometric perspectives.",
       "abstract": "Protein design has numerous applications in synthetic biology, drug discovery, and bioengineering. Recently, there has been a revolution in this field due to the emergence of artificial intelligence. At the forefront are deep learning models (DLMs). The impact of these models on the design pipeline is so transformative that it leads to radical advances in prediction accuracy, functional enrichment, and de novo synthesis of proteins. We performed bibliometric analysis on a Web of Science data-set (2006-2025) obtained through a targeted keyword search. Our analysis method orchestrated the use of standard tools such as CiteSpace and VOSviewer for co-citation, keyword co-occurrence, and burst detection, while we used custom python scripts to generate more nuanced plots for collaboration networks and intellectual overlap. Based on the bibliometric analysis, we observe a sudden jump in publication counts after the year 2018. This period also coincides with the publication of many methodological breakthroughs such as AlphaFold2 and RoseTTAFold. The analysis revealed three major intellectual clusters focused around protein structure prediction, directed evolution, and de novo design of proteins. DLMs play a major role in the publication impact of generating functional protein sequences, with frameworks such as ProteinMPNN having a notable citation footprint. Although China and the United States dominated in raw publication volume, citation impact told a different story-Switzerland ranked second in per-publication influence, suggesting that research programs combining computational design with systematic experimental validation tend to generate disproportionate scholarly impact. International collaborative efforts were notable after 2020. Citation and co-citation analysis highlighted works that have formed the bedrock of this field. Notable mentions include seminal works on AlphaFold2, ProteinMPNN, and RFdiffusion. Protein design stands at the center of an AI revolution that has drawn database mining, computational generation, and experimental validation into an increasingly rapid and interconnected engineering loop. Yet sustaining this momentum requires confronting limitations that the field's most cited literature has largely left unspoken: models trained on stable, crystallizable structures struggle to generalize beyond their training distributions, static predictions remain blind to the conformational dynamics governing allostery and catalysis, and in silico confidence scores have repeatedly proven poor predictors of wet-lab outcomes. Closing this gap will demand not incremental refinement but the sustained, bidirectional coupling of high-throughput experimental feedback with iterative design-test-learn cycles, supported by next-generation models that natively represent PTMs, cellular context, and conformational ensembles-a convergence that holds genuine promise for translating the field's computational ambitions into reliable therapeutic and synthetic biology outcomes.",
@@ -363,33 +385,74 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42462358/"
     },
     {
-      "pmid": "42462008",
-      "title": "Structure and evolution-guided design of minimal RNA-guided nucleases.",
-      "abstract": "The design of RNA-guided nucleases with properties not limited by evolution can expand programmable genome-editing capabilities. However, generating diverse multidomain proteins with robust enzymatic properties remains challenging. Here, we use a protein design strategy that couples a structure-guided inverse-folding model with evolution-informed residue constraints to generate active, divergent variants of TnpB, a minimal CRISPR-Cas12-like nuclease, termed SynTnpBs. High-throughput screening of artificial intelligence-generated variants yielded editors that retained or exceeded wild-type activity in bacterial, plant, and human cells. Cryo-electron microscopy-based structure determination of the most divergent variant revealed stabilizing contacts in the RNA-DNA interfaces across conformations, demonstrating the design potential of this approach. Together, these results establish a strategy for creating non-natural RNA-guided nucleases and conformationally active nucleic acid binders, enlarging the designable protein space.",
-      "journal": "Science (New York, N.Y.)",
+      "pmid": "42475778",
+      "title": "Accelerating Lung Cancer Management Through Previsit Liquid Biopsy: Results From the LUNG-FAST Pilot Study.",
+      "abstract": "Timely molecular profiling is essential for treatment selection in non-small cell lung cancer (NSCLC), yet delays in biomarker testing remain common. We evaluated the feasibility and early clinical impact of a nurse navigator-driven workflow to initiate liquid biopsy before the initial oncology visit. LUNG-FAST (Liquid Biopsy for Urgent Neoplastic Genomic Profiling Focused Accelerated Stratification and Testing) was a 4-month prospective pilot at a tertiary cancer center. Intake nurse navigators identified eligible patients with suspected or newly diagnosed lung cancer and facilitated previsit liquid biopsy ordering. Feasibility, turnaround times, genomic findings, and early clinical outcomes were assessed. Among 64 patients, intake nurse navigators identified 94% (60/64) of eligible cases. Liquid biopsy was ordered in 58 patients, with 62% (36/58) placed before the initial oncology visit. Median turnaround time from blood draw to results was 8.5 days for commercial testing and 12.5 days for institutional testing. FDA-actionable genomic alterations were identified in 34% (22/64) of patients, while an additional 11% (7/64) harbored clinically relevant, non-FDA-actionable alterations. Overall, FDA-actionable or clinically relevant alterations were identified in 45% (29/64), with 22% detected by liquid biopsy and an additional 23% by tissue-only profiling. Median time from new patient visit to systemic therapy was 26 days. A nurse navigator-driven workflow enabling previsit liquid biopsy is feasible and identifies actionable genomic alterations in a substantial proportion of patients with lung cancer. Plasma and tissue profiling are complementary, and earlier plasma-based testing may expedite treatment decision-making while highlighting opportunities to optimize biomarker testing workflows.",
+      "journal": "Clinical lung cancer",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Innovative Genomics Institute, University of California, Berkeley, Berkeley, CA, USA.",
-        "California Institute for Quantitative Biosciences (QB3), University of California, Berkeley, Berkeley, CA, USA.",
-        "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
-        "Department of Molecular, Cell and Developmental Biology, University of California at Los Angeles, Los Angeles, CA, USA.",
-        "Biophysics Graduate Group, University of California, Berkeley, Berkeley, CA, CA, USA.",
-        "Center for Computational Biology, University of California Berkeley, Berkeley, CA, USA.",
-        "Department of Chemistry, University of California, Berkeley, Berkeley, CA, USA.",
-        "Department of Earth and Planetary Science, University of California, Berkeley, CA, USA.",
-        "Department of Microbiology, Biomedicine Discovery Institute, Monash University, Clayton, Victoria, Australia.",
-        "Molecular Biophysics and Integrated Bioimaging Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA.",
-        "Howard Hughes Medical Institute (HHMI), University of California at Los Angeles, Los Angeles, CA, USA.",
-        "Howard Hughes Medical Institute, University of California, Berkeley, Berkeley, CA, USA.",
-        "Li Ka Shing Center for Genomic Engineering, University of California, Berkeley, Berkeley, CA, USA.",
-        "Gladstone Institute of Data Science and Biotechnology, San Francisco, CA, USA.",
-        "Gladstone-UCSF Institute of Genomic Immunology, San Francisco, CA, USA."
+        "Department of Thoracic/Head and Neck Medical Oncology, Division of Cancer Medicine, University of Texas MD Anderson Cancer Center, Houston, TX. Electronic address: eksinghi@mdanderson.org.",
+        "Department of Thoracic/Head and Neck Medical Oncology, Division of Cancer Medicine, University of Texas MD Anderson Cancer Center, Houston, TX.",
+        "Department of Thoracic and Cardiovascular Surgery, Division of Surgery, University of Texas MD Anderson Cancer Center, Houston, TX.",
+        "Department of Molecular Pathology and Cytogenetics, Division of Pathology and Laboratory Medicine, University of Texas MD Anderson Cancer Center, Houston, TX."
       ],
-      "doi": "10.1126/science.aed6123",
-      "date": "2026-07-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42462008/"
+      "doi": "10.1016/j.cllc.2026.06.010",
+      "date": "2026-06-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42475778/"
+    },
+    {
+      "pmid": "42475517",
+      "title": "Clinical Utility of Next Generation Sequencing in Concurrent EBUS-TBNA and Liquid Biopsies in NSCLC.",
+      "abstract": "Genetic testing is standard of care in Non-small Cell Lung Cancer(NSCLC). Few studies evaluate concurrent Endobronchial Ultrasound-Transbronchial Needle Aspiration(EBUS-TBNA) and liquid biopsy for Next Generation Sequencing(NGS). Compare diagnostic yield differences for detecting clinically relevant mutations via NGS in concurrent EBUS-TBNA and liquid biopsies. Prospective observational cohort study of NSCLC patients undergoing concurrent biopsies. Yield differences, receiver operating characteristic (ROC) and kappa statistics were calculated for clinically relevant mutations. Of 199 subjects, diagnostic yield for EGFR was 9.5% in EBUS-TBNA and 7.0% in blood with yield difference 2.5%(95% CI: 3.4%, 8.5%, p = 0.36). For clinically relevant targets, there were 79(39.7%) from EBUS-TBNA and 49(29.6%) from blood with yield difference 15.1%(95% CI: 5.5%, 24.2%, p = 0.001). ROC statistics for detection of clinically relevant mutations (where tissue results were the gold standard) included: sensitivity 0.53 (95% CI: 0.42, 0.64), specificity: 0.95(95% CI: 0.90,0.98), positive predictive value: 0.89 (95% CI: 0.77, 0.96), negative predictive value: 0.74 (95% CI: 0.65, 0.81), and kappa statistic: 0.51 (95% CI: 0.39, 0.63). There were 37 (18.6%) participants with mutations in tissue only and 7(3.5%) with mutations in blood only, while 42(21.1%) had mutations reported from both sources. EBUS-TBNA was more likely to detect mutations than blood. However, some patients had mutations in blood only, suggesting blood testing is complementary. Strategies are needed to improve NGS turnaround time(TAT) and QNS definition.",
+      "journal": "American journal of respiratory and critical care medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Professor of Medicine, Division of Pulmonary, Critical Care, and Sleep Medicine, Department of Internal Medicine, Davis Heart and Lung Institute, College of Medicine, The Ohio State University Wexner Medical Center, Columbus, Ohio, USA, 241 West 11th Avenue, Suite 5000, Columbus, OH 43201.",
+        "Assistant Professor of Medicine, Medical University of South Carolina, Thoracic Oncology Research Group, Division of Pulmonary and Critical Care Medicine. Charleston, South Carolina, USA.",
+        "Associate Professor of Medicine, Medical University of South Carolina, Thoracic Oncology Research Group, Division of Pulmonary and Critical Care Medicine. Charleston, South Carolina, USA.",
+        "Associate Professor of Medicine, Johns Hopkins University, Division of Pulmonary and Critical Care Medicine, Baltimore, Maryland, USA.",
+        "Professor of Medicine, Medical University of South Carolina, Thoracic Oncology Research Group, Division of Pulmonary and Critical Care Medicine. Charleston, South Carolina, USA.",
+        "Professor of Medicine, Johns Hopkins University, Division of Pulmonary and Critical Care Medicine, Baltimore, Maryland, USA.",
+        "Research Associate Professor, Department of Public Health Sciences, Medical University of South Carolina, Charleston, South Carolina, USA.",
+        "Johns Hopkins University, Division of Pulmonary and Critical Care Medicine, Baltimore, Maryland, USA.",
+        "Medical University of South Carolina, Thoracic Oncology Research Group, Division of Pulmonary and Critical Care Medicine. Charleston, South Carolina, USA.",
+        "Senior Fellow, Medical University of South Carolina, Thoracic Oncology Research Group, Division of Pulmonary and Critical Care Medicine. Charleston, South Carolina, USA.",
+        "Fellow, Johns Hopkins University, Division of Pulmonary and Critical Care Medicine, Baltimore, Maryland, USA.",
+        "Medical Student, College of Medicine, The Ohio State University Wexner Medical Center, Columbus, Ohio, USA.",
+        "Assistant Professor, Division of Pulmonary, Critical Care, and Sleep Medicine, Department of Internal Medicine, Davis Heart and Lung Institute, College of Medicine, The Ohio State University Wexner Medical Center, Columbus, Ohio, USA.",
+        "Associate Professor, Division of Pulmonary, Critical Care, and Sleep Medicine, Department of Internal Medicine, Davis Heart and Lung Institute, College of Medicine, The Ohio State University Wexner Medical Center, Columbus, Ohio, USA.",
+        "Professor of Medicine, Division of Medical Oncology at the Ohio State University Comprehensive Cancer Center - Arthur G. James Cancer Hospital and Richard J. Solove Research Institute, Columbus, Ohio, USA."
+      ],
+      "doi": "10.1093/ajrccm/aamag372",
+      "date": "2026-07-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42475517/"
+    },
+    {
+      "pmid": "42475426",
+      "title": "Robust Isolation and Multiplexed Identification of Circulating Rare Cells via Continuous Centrifugal Microfluidics and Hydrogel Immunocytochemistry.",
+      "abstract": "Circulating rare cells (CRCs), including circulating tumor cells (CTCs) and circulating cancer-associated fibroblasts (cCAFs), are promising biomarkers for cancer diagnosis and prognosis. However, their extremely low abundance and phenotypic heterogeneity make efficient isolation and multiparametric analysis technically challenging. Here, we present a continuous centrifugal microfluidic workflow for the sequential isolation and identification of CRCs from whole blood. The cartridge comprises five interconnected chambers with controllable valves that enable precise handling of density gradient medium and blood layers during centrifugation. Based on a previously validated enrichment platform, the present workflow integrates hydrogel-based cell immobilization with multiplexed immunocytochemistry to support the downstream identification and characterization of multiple CRC subtypes, including CTCs and cCAFs. Following isolation, cells are immobilized within a hydrogel matrix to support cell retention during repeated immunostaining and imaging-based analysis. Using this workflow, both CTCs and cCAFs were identified from the same sample, demonstrating the feasibility of integrated analysis of multiple circulating rare-cell populations within a single liquid-biopsy workflow. This platform provides a practical and reproducible approach for downstream rare-cell characterization in liquid biopsy applications.",
+      "journal": "Journal of visualized experiments : JoVE",
+      "publicationTypes": [
+        "Journal Article",
+        "Video-Audio Media"
+      ],
+      "affiliations": [
+        "Department of New Biology, Daegu Gyeongbuk Institute of Science & Technology.",
+        "Department of Internal Medicine, Gangnam Severance Hospital, Yonsei University College of Medicine.",
+        "Department of Laboratory Medicine, Pusan National University School of Medicine.",
+        "CTCELLS Inc.",
+        "Department of Laboratory Medicine, Research Institute, National Cancer Center Korea.",
+        "Center for Urologic Cancer, National Cancer Center Korea.",
+        "Division of Medical Oncology, Department of Internal Medicine, Yonsei Cancer Center, Yonsei University College of Medicine.",
+        "Department of New Biology, Daegu Gyeongbuk Institute of Science & Technology; Department of Laboratory Medicine, Pusan National University School of Medicine; kms@dgist.ac.kr."
+      ],
+      "doi": "10.3791/70971",
+      "date": "2026-06-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42475426/"
     },
     {
       "pmid": "42474749",
@@ -444,60 +507,6 @@
       "doi": "10.1080/10408363.2026.2682852",
       "date": "2026-07-20",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473975/"
-    },
-    {
-      "pmid": "42473726",
-      "title": "Tailored strategies to overcome third-generation TKI resistance in EGFR-mutated non-small cell lung cancer.",
-      "abstract": "In the era of precision medicine, targeting resistance mechanisms is a rational approach to optimize treatment management based on tumor molecular profiling, with the goal of improving clinical outcomes. However, the role of tailored strategies in the treatment algorithm of EGFR-mutated NSCLC remains incompletely defined. This review provides an overview of resistance mechanisms to EGFR-targeted therapy. Acquired resistances include on-target alterations (EGFR C797S and other secondary kinase domain mutations), off-target pathways activation (MET or HER2 amplification, RAS-MAPK, oncogenic fusions), and neuroendocrine transformation to SCLC. Evidence from clinical and observational studies demonstrates activity of tailored therapies, such as EGFR plus MET inhibitors combinations. In parallel, mechanism-agnostic strategies, including bispecific antibodies and ADC have emerged as effective options in the post-osimertinib setting. Comprehensive molecular assessment through both tissue and liquid biopsy at EGFR-TKI progression is essential to identify actionable alterations and guide treatment decisions. When supported by Molecular Tumor Board discussion, biomarker-driven strategies could enable personalized treatment selection and provide effective chemotherapy-free options. Emergence of upfront combinations is reshaping the biological landscape of EGFR-TKI resistance, increasing the proportion of patients with unknown escape mechanisms and potentially affecting the feasibility of molecularly matched therapies in later lines.",
-      "journal": "Expert opinion on therapeutic targets",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Medical Oncology, Department of Oncology, University of Turin, San Luigi Hospital, Orbassano, Turin, Italy."
-      ],
-      "doi": "10.1080/14728222.2026.2706458",
-      "date": "2026-07-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473726/"
-    },
-    {
-      "pmid": "42473674",
-      "title": "Genomic innovations in cancer prevention, diagnosis, prognosis and precision therapeutics.",
-      "abstract": "Cancer research has undergone a transformative change with the advent of high-throughput genomic technologies. Advances in next-generation sequencing accelerated the identification of somatic and germline alterations that drive tumorigenesis enabling the transition from traditional histology-based cancer classification to molecularly informed precision oncology. Large-scale sequencing initiatives and clinical genomic profiling facilitated the development of companion diagnostic assays and targeted therapies. Beyond targeted therapies, genomic innovations have also catalyzed the emergence of novel therapeutic strategies including immunogenomics-driven immunotherapies, RNA-based therapeutics, cancer vaccines and genome editing technologies based on CRISPR-Cas systems. This review summarizes the major technological developments in cancer genomics, including sequencing platforms, transcriptomic profiling, liquid biopsy, and functional genomic screening, and highlights the utility of these innovations in discovery of actionable biomarkers and next-generation therapeutic strategies. Collectively, these advances underscore the central role of genomic technologies in driving the evolution of precision oncology toward more personalized and effective cancer treatment strategies.",
-      "journal": "Frontiers in genetics",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Surgery, University of Connecticut School of Medicine, Farmington, CT, United States.",
-        "Department of Medical Genetics, JSS Medical College and Hospital, JSS Academy of Higher Education and Research, Mysore, Karnataka, India.",
-        "Division of Reproductive Biology, Department of Reproductive Science, Kasturba Medical College, Manipal Academy of Higher Education, Manipal, India.",
-        "Department of Biochemistry, JSS Medical College and Hospital, JSS Academy of Higher Education and Research, Mysore, Karnataka, India.",
-        "Department of Surgery, Ellis Fischel Cancer Center, University of Missouri, Columbia, MO, United States.",
-        "Department of Medical Oncology, JSS Medical College and Hospital, JSS Academy of Higher Education and Research, Mysore, Karnataka, India."
-      ],
-      "doi": "10.3389/fgene.2026.1828450",
-      "date": "2026-07-06",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473674/"
-    },
-    {
-      "pmid": "42473295",
-      "title": "Recent Advances on Liquid-Phase Separation Techniques in Liquid Biopsy Technology for Detecting Circulating Cancer Biomarkers.",
-      "abstract": "Globally, cancer morbidity and death are rising quickly, making it imperative to develop a workable plan for early cancer patient identification and treatment outcome prediction. Liquid biopsy, a minimally invasive and repeatable technique, can replace the restrictions of tissue biopsy by detecting, assessing, and tracking cancer in any bodily fluid, including human blood. This novel diagnostic technique offers crucial data for tracking and recognizing tumor genomes in samples of physiological fluids. Through minimally invasive methods, the identification of tumor-origin biological components, such as circulating tumor cells (CTCs), circulating tumor DNA (ctDNA), circulating microRNAs (miRNAs), exosomes, and autoantibodies in serum, plasma, saliva, and urine, allows for disease monitoring, early diagnosis, and assessment of treatment response. The goal of this study is to provide a comprehensive summary of the most recent discoveries and applications of liquid biopsy technology for detecting cancer biomarkers, with an emphasis on the years 2005-2025. When used in conjunction with other test results, liquid biopsy is also advantageous for early recurrence detection, monitoring patients who are considered to be at high risk of getting cancer and improving diagnosis. Combining patient history, clinical results, and biopsy biomarker amounts will enable more precise and timely diagnosis thanks to developments in analytical methods and informatics. This review thoroughly examined the biosynthesis, significance, and potential role of four well-known biological markers in tumor diagnosis and treatment. In addition, the advances and challenges in detection technologies for these analytes, as well as potential solutions to address these issues, were also discussed. Finally, we discuss the advantages and disadvantages of liquid biopsy, along with suggestions for its future advancement.",
-      "journal": "Electrophoresis",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Scientific and Technological Research Center, Tekirdağ Namık Kemal University, Tekirdağ, Turkey.",
-        "Faculty of Engineering, Bioengineering Department, Çanakkale Onsekiz Mart University, Çanakkale, Turkey."
-      ],
-      "doi": "10.1002/elps.70134",
-      "date": "2026-07-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473295/"
     }
   ],
   "signals": [
@@ -632,6 +641,65 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42475171",
+      "date": "2026-07-20",
+      "title": "De Novo Design of Protein Nanopores: From Minimal Peptides to AI-Driven Design.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42475171/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Chemical reviews，PMID 为 42475171。",
+      "report": "Protein nanopores offer a powerful platform for analytical applications by directly converting chemical properties into information-rich, single-molecule electrical readouts. However, engineering natural nanopores for sensing remains challenging due to the lim...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42475517",
+      "date": "2026-07-20",
+      "title": "Clinical Utility of Next Generation Sequencing in Concurrent EBUS-TBNA and Liquid Biopsies in NSCLC.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42475517/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 American journal of respiratory and critical care medicine，PMID 为 42475517。",
+      "report": "Genetic testing is standard of care in Non-small Cell Lung Cancer(NSCLC). Few studies evaluate concurrent Endobronchial Ultrasound-Transbronchial Needle Aspiration(EBUS-TBNA) and liquid biopsy for Next Generation Sequencing(NGS). Compare diagnostic yield diffe...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42474749",
       "date": "2026-07-20",
       "title": "Sarcoma metastasis: distinct biological principles beyond the carcinoma paradigm.",
@@ -727,96 +795,6 @@
       "fact": "PubMed 记录显示该文献收录于 Critical reviews in clinical laboratory sciences，PMID 为 42473975。",
       "report": "Colorectal cancer (CRC) remains a leading cause of cancer-related mortality worldwide, driven largely by pronounced molecular heterogeneity and delayed clinical detection. Although high-throughput sequencing technologies have substantially advanced the underst...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42473726",
-      "date": "2026-07-20",
-      "title": "Tailored strategies to overcome third-generation TKI resistance in EGFR-mutated non-small cell lung cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473726/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Expert opinion on therapeutic targets，PMID 为 42473726。",
-      "report": "In the era of precision medicine, targeting resistance mechanisms is a rational approach to optimize treatment management based on tumor molecular profiling, with the goal of improving clinical outcomes. However, the role of tailored strategies in the treatmen...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42472463",
-      "date": "2026-07-19",
-      "title": "Modeling tonsil organoids for studying mucosal immune responses to SARS-CoV-2 vaccination.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42472463/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Tissue barriers，PMID 为 42472463。",
-      "report": "A key bottleneck in preclinical vaccine research is the lack of a human in vitro system that faithfully models the germinal center (GC) reactions, a critical process for generating protective antibodies. This gap hinders the accurate assessment of vaccine cand...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42473295",
-      "date": "2026-07-19",
-      "title": "Recent Advances on Liquid-Phase Separation Techniques in Liquid Biopsy Technology for Detecting Circulating Cancer Biomarkers.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473295/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Electrophoresis，PMID 为 42473295。",
-      "report": "Globally, cancer morbidity and death are rising quickly, making it imperative to develop a workable plan for early cancer patient identification and treatment outcome prediction. Liquid biopsy, a minimally invasive and repeatable technique, can replace the res...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -917,6 +895,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42475260",
+      "date": "2026-07-16",
+      "title": "Epigenomic profiling links IGF2 oveexpression to anthracycline resistance in colorectal cancer organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42475260/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 JCI insight，PMID 为 42475260。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42463579",
       "date": "2026-07-16",
       "title": "Deep generative models for 3D structure-based drug design and molecular optimisation: a comprehensive survey.",
@@ -971,37 +979,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Current opinion in structural biology，PMID 为 42462358。",
       "report": "Understanding how proteins evolve requires moving beyond the classical sequence-structure paradigm toward a framework that incorporates conformational dynamics as a substrate of innovation. Within this framework, function emerges not only from single structure...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42462008",
-      "date": "2026-07-16",
-      "title": "Structure and evolution-guided design of minimal RNA-guided nucleases.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42462008/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Science (New York, N.Y.)，PMID 为 42462008。",
-      "report": "The design of RNA-guided nucleases with properties not limited by evolution can expand programmable genome-editing capabilities. However, generating diverse multidomain proteins with robust enzymatic properties remains challenging. Here, we use a protein desig...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1078,37 +1055,31 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42473674",
-      "date": "2026-07-06",
-      "title": "Genomic innovations in cancer prevention, diagnosis, prognosis and precision therapeutics.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
+      "id": "pubmed-42475323",
+      "date": "2026-07-03",
+      "title": "Probing the Ovarian Microenvironment: Methods for Isolation, 2D Culture, and Organoid Culture of Mouse Ovarian Somatic Cells.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473674/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42475323/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
+        "Organoids",
+        "Advanced Disease Models"
       ],
       "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛",
-        "多组学"
+        "类器官",
+        "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in genetics，PMID 为 42473674。",
-      "report": "Cancer research has undergone a transformative change with the advent of high-throughput genomic technologies. Advances in next-generation sequencing accelerated the identification of somatic and germline alterations that drive tumorigenesis enabling the trans...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42475323。",
+      "report": "The ovary consists of heterogeneous populations of somatic cells, both within the follicle and the surrounding stroma, which are critical to support ovarian function and for the generation of high-quality gametes. We report methods for isolating somatic cells...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1204,33 +1175,63 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42473035",
-      "date": "2026-07-00",
-      "title": "Inhibition of the Metalloproteinase ADAMTS5 Suppresses Colorectal Cancer Metastasis via the PEDF/Wnt/β-Catenin Pathway.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "id": "pubmed-42475778",
+      "date": "2026-06-30",
+      "title": "Accelerating Lung Cancer Management Through Previsit Liquid Biopsy: Results From the LUNG-FAST Pilot Study.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42473035/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42475778/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
         "Precision Oncology"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
+        "诊断",
+        "精准医疗",
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer medicine，PMID 为 42473035。",
-      "report": "At present, colorectal cancer (CRC) ranks as the third most prevalent cancer globally and is the second most common cause of mortality associated with cancer. The expression of A Disintegrin and Metalloproteinase with Thrombospondin Motifs 5 (ADAMTS5) is upreg...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Clinical lung cancer，PMID 为 42475778。",
+      "report": "Timely molecular profiling is essential for treatment selection in non-small cell lung cancer (NSCLC), yet delays in biomarker testing remain common. We evaluated the feasibility and early clinical impact of a nurse navigator-driven workflow to initiate liquid...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42475426",
+      "date": "2026-06-30",
+      "title": "Robust Isolation and Multiplexed Identification of Circulating Rare Cells via Continuous Centrifugal Microfluidics and Hydrogel Immunocytochemistry.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42475426/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42475426。",
+      "report": "Circulating rare cells (CRCs), including circulating tumor cells (CTCs) and circulating cancer-associated fibroblasts (cCAFs), are promising biomarkers for cancer diagnosis and prognosis. However, their extremely low abundance and phenotypic heterogeneity make...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
