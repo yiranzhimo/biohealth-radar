@@ -1,29 +1,69 @@
 {
-  "capturedAt": "2026-07-21T19:54:47.546490+00:00",
+  "capturedAt": "2026-07-22T03:50:51.608360+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42478871",
-      "responseId": "resp_0c5916731dfe6f01006a5fce884f4881999473a2741c42a32b",
+      "signalId": "pubmed-42480139",
+      "responseId": "resp_09b6dff569620499006a603e1c4454819a835696b0cbc08d7f",
       "review": {
         "status": "needs_human",
         "confidence": 0.75,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献涉及遗传变异与疾病之间的关系，但报告和推断未明确区分，可能导致误解。",
+        "reviewSummaryCn": "该信号中包含对PFBS的临床影响的暗示，而未明确标识效力和安全性，需进一步审查。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "分类与研究的实际内容不完全一致。"
+          "notesCn": "虽然类别合理，但临床证据的归类缺乏足够支持。"
         },
         "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
+          "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "事实、报告和推断未明确分开，使信息的解读存在模糊性。"
+          "notesCn": "虽然有高可靠性，但证据水平被评为中等，与研究质量未作充分区分。"
         },
         "riskFlags": [
           "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Ecotoxicology and environmental safety，PMID 为 42480139。",
+          "report": "Perfluorobutanesulfonic acid (PFBS) is detected in environmental matrices and human samples, with implications for human health.",
+          "inference": "该信息提出了PFBS的潜在影响，但未标明临床结论的具体依据。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42479644",
+      "responseId": "resp_0ab82c0d1af0c048006a603e20c5a081998d2acaca66b0c2b3",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献缺乏对研究质量和样本量的审核，存在需评估的潜在局限性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类需评估以确保与文献内容相符。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平评价不符合文献类型和内容。"
+        },
+        "riskFlags": [
+          "commercial_claim",
           "weak_classification"
         ],
         "suggestedEdits": {
@@ -32,218 +72,50 @@
           "evidenceLevel": "Medium",
           "themes": [
             "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
+            "Advanced Disease Models"
           ],
           "tags": [
             "类器官",
-            "疾病模型",
-            "多组学"
+            "疾病模型"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Cardiovascular research，PMID 为 42478871。",
-          "report": "Mutations in the LMNA gene, which encodes lamin A/C, are associated with laminopathies, particularly dilated cardiomyopathy and heart failure, but genotype-phenotype relationships need further exploration.",
-          "inference": "该分类仅用于情报分流，不代表研究质量。更多信息需人类评审以确认。",
+          "fact": "PubMed 记录显示该文献收录于 Nephron，PMID 为 42479644。",
+          "report": "Polycystic kidney disease (PKD) is commonly inherited as a loss-of-function mutation in PC1 (polycystin-1) or PC2. The molecular functions of polycystins remain uncertain, and therapeutics remain limited for millions of patients. One major roadblock has been t...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42478568",
-      "responseId": "resp_0033a8c2d293a946006a5fce8eec848198a531cd32841116e3",
+      "signalId": "pubmed-42479609",
+      "responseId": "resp_0cdae8403aceedc8006a603e269944819abf5e764e305a3e1b",
       "review": {
         "status": "pass",
         "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录符合发布标准，无需人工审查。",
+        "reviewSummaryCn": "该文献被正确归类且与研究内容一致，无不当临床结论或建议。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，与研究主题一致。"
+          "notesCn": "分类合理，符合研究的主题和来源。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "文献来源可靠，证据等级合理。"
+          "notesCn": "事实、报告和推断清晰分开，证据水平与内容一致。"
         },
-        "riskFlags": [
-          "clinical_claim"
-        ],
+        "riskFlags": [],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
+          "subCategory": "General Biotech Research",
           "evidenceLevel": "Medium",
           "themes": [
-            "Organoids",
-            "Advanced Disease Models"
+            "Biotech"
           ],
           "tags": [
-            "类器官",
-            "疾病模型"
+            "biotech"
           ],
-          "fact": "PubMed 记录显示该文献收录于 American journal of physiology. Cell physiology，PMID 为 42478568。",
-          "report": "Alveolar epithelial cells (AEC) are covered apically by the alveolar lining layer (ALL). The alveolar epithelial glycocalyx (AEGCX), which is part of the ALL, consists of a mixture of glycoproteins, proteoglycans and glycosaminoglycans. In comparison to the en...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42478557",
-      "responseId": "resp_0e9732403b7c6e40006a5fce96c138819899852ea534b1cca3",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "文献摘要中存在未明确的机制研究结论，需要人工审查以明确安全性及有效性.",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类未充分支持其研究的质量或可靠性。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据级别与报告内容不一致，可能引起误解。"
-        },
-        "riskFlags": [
-          "commercial_claim",
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of pediatric gastroenterology and nutrition，PMID 为 42478557。",
-          "report": "Exclusive enteral nutrition (EEN) is the first-line treatment for pediatric Crohn's disease, but its mechanisms of action remain poorly understood. Our aim was to identify the mechanisms that could explain the anti-inflammatory effects of EEN, studying the nut...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42478866",
-      "responseId": "resp_0051d210816474cc006a5fce9d4ddc819ab239447aa9ce7491",
-      "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录的内容清晰，并未包含未支持的临床结论或治疗建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别合理，符合文献主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断之间的关系明确，允许中立发布。"
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "AI for Biology",
-            "Drug Discovery"
-          ],
-          "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of chemical information and modeling，PMID 为 42478866。",
-          "report": "Key objectives in conditional molecular generation include ensuring chemical validity, aligning generated molecules with target properties, promoting structural diversity, and enabling efficient sampling for discovery. Recent advances in computer vision introd...",
-          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42479142",
-      "responseId": "resp_0ff0c603e24882e8006a5fcea33034819bb8fa2b7ff3fc767c",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献讨论了液体活检的应用，但存在潜在的临床推论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要分类合理。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平被评估为中等，但该文献提出的安全性和有效性的推论并未得到支持。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "medical_advice_risk"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 The oncologist，PMID 为 42479142。",
-          "report": "Liquid biopsies using cell-free DNA (cfDNA) can identify actionable somatic alterations in prostate cancer (PCa). The presence of alterations related to clonal hematopoiesis (CH) can complicate interpretation of cfDNA results and lead to clinical inaction. We...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42478603",
-      "responseId": "resp_068e1390d0cf2eed006a5fceaadfb4819b86d054f0f0df9faa",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献涉及类器官研究，需进一步判断以确保无咨询性质的结论。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "主要分类与子分类的合理性有待核实。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据等级标注为中等，但文章涉及的主题和结论需要更高的证据基础。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "High",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of neurochemistry，PMID 为 42478603。",
-          "report": "The evolution of the human brain underlies our higher-order cognitive functions. In particular, the cerebral cortex, the outermost layer of the brain, has rapidly evolved to contain a disproportionately large number of neurons relative to the rest of the brain...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 ACS applied materials & interfaces，PMID 为 42479609。",
+          "report": "In this work, we de novo designed a two-helix α-helical protein capable of forming dimers, which features a central cavity that accommodates porphyrin molecules. The resulting porphyrin-binding protein, formed by mixing the porphyrin with the dimer protein, ex...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }

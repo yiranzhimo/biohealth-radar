@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-07-21",
+  "updatedAt": "2026-07-22",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -822,6 +822,148 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42480139",
+      "date": "2026-07-21",
+      "title": "Perfluorobutanesulfonic acid (PFBS) elicits compartment-specific divergent responses in prostate homeostasis: Wnt/β-catenin oncogenic activation in epithelial cells versus mitochondria-mediated ferroptosis susceptibility in stromal cells.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42480139/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Ecotoxicology and environmental safety，PMID 为 42480139。",
+      "report": "Perfluorobutanesulfonic acid (PFBS), a short-chain per- and polyfluoroalkyl substance (PFAS) adopted as a replacement for perfluorooctane sulfonate (PFOS), is ubiquitously detected in environmental matrices and human biological samples. Despite growing regulat...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_09b6dff569620499006a603e1c4454819a835696b0cbc08d7f",
+        "reviewedAt": "2026-07-22T03:50:51.608360+00:00",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号中包含对PFBS的临床影响的暗示，而未明确标识效力和安全性，需进一步审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "虽然类别合理，但临床证据的归类缺乏足够支持。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "虽然有高可靠性，但证据水平被评为中等，与研究质量未作充分区分。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Ecotoxicology and environmental safety，PMID 为 42480139。",
+          "report": "Perfluorobutanesulfonic acid (PFBS) is detected in environmental matrices and human samples, with implications for human health.",
+          "inference": "该信息提出了PFBS的潜在影响，但未标明临床结论的具体依据。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42479644",
+      "date": "2026-07-21",
+      "title": "Human Organoids as Drug Development Tools for Polycystic Kidney Disease.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42479644/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nephron，PMID 为 42479644。",
+      "report": "Polycystic kidney disease (PKD) is commonly inherited as a loss-of-function mutation in PC1 (polycystin-1) or PC2. The molecular functions of polycystins remain uncertain, and therapeutics remain limited for millions of patients. One major roadblock has been t...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0ab82c0d1af0c048006a603e20c5a081998d2acaca66b0c2b3",
+        "reviewedAt": "2026-07-22T03:50:51.608360+00:00",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献缺乏对研究质量和样本量的审核，存在需评估的潜在局限性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类需评估以确保与文献内容相符。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平评价不符合文献类型和内容。"
+        },
+        "riskFlags": [
+          "commercial_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Nephron，PMID 为 42479644。",
+          "report": "Polycystic kidney disease (PKD) is commonly inherited as a loss-of-function mutation in PC1 (polycystin-1) or PC2. The molecular functions of polycystins remain uncertain, and therapeutics remain limited for millions of patients. One major roadblock has been t...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42478871",
       "date": "2026-07-21",
       "title": "LMNA p.H222P mutation causes contractile dysfunction via impaired mitochondrial calcium uptake in human cardiac laminopathy.",
@@ -1032,16 +1174,16 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42478060",
+      "id": "pubmed-42479609",
       "date": "2026-07-21",
-      "title": "Establishing a safe and effective cleaning method for PDMS devices derived from 3D-printed resin moulds in embryo production.",
+      "title": "De Novo Designed Porphyrin-Binding Proteins Photocatalyze the Nitrogen Reduction Reaction.",
       "entity": "Biotech Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "General Biotech Research",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42478060/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42479609/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
@@ -1052,28 +1194,28 @@ window.BHR_DATA = {
         "biotech"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Zygote (Cambridge, England)，PMID 为 42478060。",
-      "report": "Dynamic systems for in vitro embryo production (IVEP) have long been sought to allow a higher resemblance to the physiological conditions of the oviduct and uterus. Although significant progress has been demonstrated in the microfluidic field, some challenges...",
+      "fact": "PubMed 记录显示该文献收录于 ACS applied materials & interfaces，PMID 为 42479609。",
+      "report": "In this work, we de novo designed a two-helix α-helical protein capable of forming dimers, which features a central cavity that accommodates porphyrin molecules. The resulting porphyrin-binding protein, formed by mixing the porphyrin with the dimer protein, ex...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0aae1071aa26ad70006a5f819eb600819bb6d649bdf8863489",
-        "reviewedAt": "2026-07-21T14:26:37.918980+00:00",
+        "responseId": "resp_0cdae8403aceedc8006a603e269944819abf5e764e305a3e1b",
+        "reviewedAt": "2026-07-22T03:50:51.608360+00:00",
         "status": "pass",
-        "confidence": 0.85,
+        "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录明确区分了事实、报告、推论和未知，适合发布。",
+        "reviewSummaryCn": "该文献被正确归类且与研究内容一致，无不当临床结论或建议。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，符合文献内容。"
+          "notesCn": "分类合理，符合研究的主题和来源。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "文献来源可靠，证据水平适中。"
+          "notesCn": "事实、报告和推断清晰分开，证据水平与内容一致。"
         },
         "riskFlags": [],
         "suggestedEdits": {
@@ -1086,8 +1228,8 @@ window.BHR_DATA = {
           "tags": [
             "biotech"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Zygote (Cambridge, England)，PMID 为 42478060。",
-          "report": "Dynamic systems for in vitro embryo production (IVEP) have long been sought to allow a higher resemblance to the physiological conditions of the oviduct and uterus. Although significant progress has been demonstrated in the microfluidic field, some challenges...",
+          "fact": "PubMed 记录显示该文献收录于 ACS applied materials & interfaces，PMID 为 42479609。",
+          "report": "In this work, we de novo designed a two-helix α-helical protein capable of forming dimers, which features a central cavity that accommodates porphyrin molecules. The resulting porphyrin-binding protein, formed by mixing the porphyrin with the dimer protein, ex...",
           "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
@@ -1309,79 +1451,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42477763",
-      "date": "2026-07-20",
-      "title": "Adoptive transfer of VSIG4+ macrophages interrupts the CCL2-CCR2 inflammatory amplification loop to mitigate acetaminophen-induced acute liver injury in murine and human organoid models.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42477763/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42477763。",
-      "report": "Acute liver injury (ALI) can rapidly progress to life-threatening acute liver failure. Liver transplantation remains the only definitive treatment, despite critical donor shortages. Macrophage-based therapies have shown promise in ALI but face challenges relat...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0657ca36a7ede712006a5f81adaeb8819bbfb35d0d005578a5",
-        "reviewedAt": "2026-07-21T14:26:37.918980+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录合理，无不当临床结论，适合发表。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "信息来源高可靠性，证据等级适中，信息清晰分离。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42477763。",
-          "report": "Acute liver injury (ALI) can rapidly progress to life-threatening acute liver failure. Liver transplantation remains the only definitive treatment, despite critical donor shortages. Macrophage-based therapies have shown promise in ALI but face challenges relat...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42475171",
       "date": "2026-07-20",
       "title": "De Novo Design of Protein Nanopores: From Minimal Peptides to AI-Driven Design.",
@@ -1535,7 +1604,7 @@ window.BHR_DATA = {
     {
       "id": "pubmed-42476234",
       "date": "2026-07-20",
-      "title": "Molecular Mechanisms of Targeted Therapy in Breast Cancer: An Integrated Signaling Network Perspective.",
+      "title": "Molecular mechanisms of targeted therapy in breast cancer: An integrated signaling network perspective.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
@@ -1975,85 +2044,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Biotechnology advances，PMID 为 42468751。",
           "report": "Immunoassays are essential tools in clinical diagnostics, food safety surveillance, and environmental monitoring; however, a persistent discrepancy exists between the theoretical performance of bioreceptors and their practical efficacy in sensor devices. This...",
           "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42467311",
-      "date": "2026-07-17",
-      "title": "Fragment-based diffusion modeling and molecular dynamics simulation validation for the discovery of PD-L1 small-molecule inhibitors.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42467311/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular diversity，PMID 为 42467311。",
-      "report": "The programmed cell death-1/programmed cell death-ligand 1 (PD-1/PD-L1) pathway is a key target in cancer immunotherapy. Although monoclonal antibodies (mAbs) have demonstrated remarkable clinical efficacy, their application is limited by poor tissue penetrati...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0597d64bb38b74c3006a5a8418cd14819392ec0a3f291d9133",
-        "reviewedAt": "2026-07-17T19:35:38.540721+00:00",
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号符合中立情报发布标准，信息分类明确，没有不当临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别合理，符合出版标准。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "文献依据合理，信息分类清晰。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "AI for Biology",
-            "Drug Discovery",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Molecular diversity，PMID 为 42467311。",
-          "report": "The programmed cell death-1/programmed cell death-ligand 1 (PD-1/PD-L1) pathway is a key target in cancer immunotherapy. Although monoclonal antibodies (mAbs) have demonstrated remarkable clinical efficacy, their application is limited by poor tissue penetration.",
-          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }

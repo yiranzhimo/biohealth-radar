@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-21T19:54:37.685499+00:00",
+  "capturedAt": "2026-07-22T03:50:40.887523+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,28 +10,28 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-07-21",
-    "end": "2026-07-21"
+    "start": "2025-07-22",
+    "end": "2026-07-22"
   },
   "pmids": [
+    "42480139",
+    "42479644",
     "42478871",
     "42478603",
     "42478568",
     "42478557",
-    "42478060",
-    "42477763",
     "42476548",
     "42447329",
     "42444608",
     "42431103",
     "42429061",
     "42418828",
+    "42479609",
     "42478866",
     "42476547",
     "42475171",
     "42470596",
     "42468751",
-    "42467311",
     "42479142",
     "42477937",
     "42476386",
@@ -40,6 +40,43 @@
     "42475517"
   ],
   "records": [
+    {
+      "pmid": "42480139",
+      "title": "Perfluorobutanesulfonic acid (PFBS) elicits compartment-specific divergent responses in prostate homeostasis: Wnt/β-catenin oncogenic activation in epithelial cells versus mitochondria-mediated ferroptosis susceptibility in stromal cells.",
+      "abstract": "Perfluorobutanesulfonic acid (PFBS), a short-chain per- and polyfluoroalkyl substance (PFAS) adopted as a replacement for perfluorooctane sulfonate (PFOS), is ubiquitously detected in environmental matrices and human biological samples. Despite growing regulatory concern, the molecular mechanisms by which PFBS affects prostate tissue at environmentally relevant concentrations remain poorly characterized. In the present study, we exposed human prostate epithelial (RWPE-1) and stromal (WPMY-1) cells to PFBS (0-100 nM, 24 h) and integrated in vitro mechanistic analyses with genome-wide RNA sequencing (RNA-seq), Gene Ontology (GO) enrichment, KEGG pathway analysis, and protein-protein interaction (PPI) network clustering. At concentrations maintaining cell viability above 80%, PFBS induced opposing responses in the two cell types. In RWPE-1 epithelial cells, PFBS activated the PI3K-AKT-GSK3β axis with concurrent nuclear β-catenin accumulation, upregulation of Wnt target genes, S-phase entry, and induction of an IGF-1/IGF-2 autocrine loop. In WPMY-1 stromal cells, PFBS suppressed the PI3K-AKT axis, induced G0/G1 arrest, caused approximately 400% ROS elevation, depolarized mitochondrial membranes, decreased GPX4, and upregulated ACSL4 and intracellular Fe2 + accumulation, collectively suggesting heightened ferroptosis susceptibility, along with reduced expression of stromal paracrine factors (FGF7, FGF10 and HGF). RNA-seq and bioinformatics analyses revealed markedly divergent transcriptional landscapes between two cell types. GO enrichment identified phospholipid metabolic process and Wnt signaling as the dominant RWPE-1 programs, and extrinsic apoptotic signaling and mitochondrion organization regulation in WPMY-1. These findings suggest that, under these in vitro conditions, PFBS can simultaneously activate Wnt signaling in epithelial cells and promote ferroptosis susceptibility in stromal cells, a divergent response pattern not captured by conventional single-endpoint toxicity assays. As these observations were obtained in isolated monocultures, they should be interpreted as cell-autonomous vulnerabilities that require validation in co-culture, organoid, and in vivo systems before any inference regarding human systemic risk can be drawn.",
+      "journal": "Ecotoxicology and environmental safety",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Division of Gyeongnam Bio-Environmental Research, Korea Institute of Toxicology (KIT), 17 Jeigok-gil, Jinju 52834, Republic of Korea. Electronic address: smlee84@kitox.re.kr.",
+        "Division of Gyeongnam Bio-Environmental Research, Korea Institute of Toxicology (KIT), 17 Jeigok-gil, Jinju 52834, Republic of Korea. Electronic address: hyejinkim@kitox.re.kr.",
+        "Division of Gyeongnam Bio-Environmental Research, Korea Institute of Toxicology (KIT), 17 Jeigok-gil, Jinju 52834, Republic of Korea. Electronic address: jiwon.park@kitox.re.kr.",
+        "Division of Gyeongnam Bio-Environmental Research, Korea Institute of Toxicology (KIT), 17 Jeigok-gil, Jinju 52834, Republic of Korea. Electronic address: jungmin.kwon@kitox.re.kr.",
+        "Division of Gyeongnam Bio-Environmental Research, Korea Institute of Toxicology (KIT), 17 Jeigok-gil, Jinju 52834, Republic of Korea. Electronic address: hyungmin.kim@kitox.re.kr.",
+        "Division of Gyeongnam Bio-Environmental Research, Korea Institute of Toxicology (KIT), 17 Jeigok-gil, Jinju 52834, Republic of Korea. Electronic address: juhonglee@kitox.re.kr.",
+        "Research Institute of Life Science and College of Veterinary Medicine, Gyeongsang National University, Jinju 52828, Republic of Korea. Electronic address: tpgy123@gmail.com.",
+        "Division of Gyeongnam Bio-Environmental Research, Korea Institute of Toxicology (KIT), 17 Jeigok-gil, Jinju 52834, Republic of Korea. Electronic address: ygmoon@kitox.re.kr.",
+        "Division of Gyeongnam Bio-Environmental Research, Korea Institute of Toxicology (KIT), 17 Jeigok-gil, Jinju 52834, Republic of Korea. Electronic address: hunhwan.kim@kitox.re.kr."
+      ],
+      "doi": "10.1016/j.ecoenv.2026.120519",
+      "date": "2026-07-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42480139/"
+    },
+    {
+      "pmid": "42479644",
+      "title": "Human Organoids as Drug Development Tools for Polycystic Kidney Disease.",
+      "abstract": "Polycystic kidney disease (PKD) is commonly inherited as a loss-of-function mutation in PC1 (polycystin-1) or PC2. The molecular functions of polycystins remain uncertain, and therapeutics remain limited for millions of patients. One major roadblock has been the scarcity of assays that re-create PKD-specific cystogenesis in vitro, to complement mouse models. Over the past decade, a human organoid model of PKD has emerged that promises to bridge this gap. Human kidney organoids derived from PKD1-/- or PKD2-/- pluripotent stem cells recapitulate the pathognomonic cystic phenotype in a PKD-specific manner. This system reveals that PKD cystogenesis is a cell intrinsic process that can be re-created in vitro. Human PKD organoids have revealed unexpected mechanisms for PKD cystogenesis, and have been utilized to blueprint new therapeutic strategies, but their potential is not yet fully realized. The complexity and cost of organoids remain significant barriers to entry, and dedicated technology development is required to improve their physiological relevance. Here we review important achievements, current limitations, and future strategies, with a focus on translational 'bench to bedside' potential of PKD organoids as drug development tools.",
+      "journal": "Nephron",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [],
+      "doi": "10.1159/000553552",
+      "date": "2026-07-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42479644/"
+    },
     {
       "pmid": "42478871",
       "title": "LMNA p.H222P mutation causes contractile dysfunction via impaired mitochondrial calcium uptake in human cardiac laminopathy.",
@@ -118,44 +155,6 @@
       "doi": "10.1002/jpn3.70517",
       "date": "2026-07-21",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42478557/"
-    },
-    {
-      "pmid": "42478060",
-      "title": "Establishing a safe and effective cleaning method for PDMS devices derived from 3D-printed resin moulds in embryo production.",
-      "abstract": "Dynamic systems for in vitro embryo production (IVEP) have long been sought to allow a higher resemblance to the physiological conditions of the oviduct and uterus. Although significant progress has been demonstrated in the microfluidic field, some challenges are still present regarding the microfluidic devices' sterilization protocol. This complication is related to the leached components from the poly(dimethylsiloxane) (PDMS). The PDMS is one of the safest materials used in soft lithography for embryo production. However, the use of moulds required for soft lithography can compromise embryo culture. This limitation arises from the restricted range of biocompatible resins available for 3D-printing of moulds. While the replacement of the biomaterial for mould production is not a straightforward option, we hypothesized that PDMS devices fabricated from such moulds could be rendered biocompatible through an optimized cleaning protocol. In this current study, we evaluated the effectiveness of sequential washes, sonication, and extended incubation in washing solutions. Our results demonstrate that a prior incubation of the PDMS devices in PBS supplemented with antibiotics and antifungal (at 4°C for 48 hours), in addition to the incubation in IVC medium (at 38.5°C for 48 hours), enables bovine embryo development within PDMS devices fabricated with moulds from a 3D printer. This optimized protocol supported IVEP at rates equivalent to standard conditions, with no increase in apoptosis or oxidative stress, validating its suitability for artificial reproductive techniques applications.",
-      "journal": "Zygote (Cambridge, England)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Federal University of the ABC Centre for Natural Sciences and Humanities, Brazil.",
-        "Clinic of Ruminants, Faculty of Veterinary Medicine, https://ror.org/05591te55Ludwig-Maximilians-Universität München, Germany.",
-        "Reproductive Sciences Unit, https://ror.org/04et42c10Toronto Zoo, Canada."
-      ],
-      "doi": "10.1017/S0967199426100550",
-      "date": "2026-07-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42478060/"
-    },
-    {
-      "pmid": "42477763",
-      "title": "Adoptive transfer of VSIG4+ macrophages interrupts the CCL2-CCR2 inflammatory amplification loop to mitigate acetaminophen-induced acute liver injury in murine and human organoid models.",
-      "abstract": "Acute liver injury (ALI) can rapidly progress to life-threatening acute liver failure. Liver transplantation remains the only definitive treatment, despite critical donor shortages. Macrophage-based therapies have shown promise in ALI but face challenges related to subset imprecision and limited humanized validation. VSIG4 is generally considered a marker of Kupffer cells; however, it is also expressed in monocyte-derived macrophages (MoMFs), and its role remains unclear during ALI. By integrating single-cell RNA sequencing (scRNA-seq) data from human and mouse liver tissues with clinical ALI tissue samples, we elucidated the dynamic changes in VSIG4+ macrophages (VSIG4+ Mφ) within the liver. We developed a reversible immunomagnetic nanoparticle system for the non-destructive isolation of viable VSIG4+ Mφ. The therapeutic efficacy and potential mechanisms of VSIG4+ Mφ were evaluated through tissue and molecular-level analyses in an acetaminophen (APAP)-induced ALI mouse model, as well as in a newly established vascularized human liver organoid ALI and monocyte chemotaxis model. scRNA-seq revealed a previously underrecognized subpopulation of VSIG4+ MoMFs, which increases following ALI, while the number of resident VSIG4+ Kupffer cells decreases significantly. Clinical ALI tissue samples also confirmed the presence of CCR2+VSIG4+ cells in the livers of patients with ALI. In the APAP-induced ALI animal model, adoptive transfer of isolated VSIG4+ MoMFs dramatically decreased serum alanine transaminase, hepatic necrosis, and apoptosis while increasing anti-inflammatory cytokines. In contrast, adoptive transfer of unselected BMDM failed to improve liver injury and instead exacerbated certain pro-inflammatory responses, including elevated TNF-α and reduced CD206 expression. Mechanistically, VSIG4+ MoMFs prevented inflammatory amplification by suppressing NF-κB-dependent CCL2 transcription, thereby disrupting the CCL2-CCR2 chemotactic axis and reducing pro-inflammatory CCR2+ monocyte and macrophage recruitment. We further developed vascularized human liver organoids and APAP-induced hepatocyte injury and monocyte chemotaxis, finding that the chemotaxis-interrupting mechanism was fully recapitulated in the human liver organoid ALI model. This study identifies VSIG4+ MoMFs as a therapeutically viable subset for ALI, with clear superiority over unselected BMDM. By blocking the CCL2-CCR2 inflammatory amplification loop, these cells attenuate liver injury in both mouse and humanized models. These consistent findings provide robust preclinical evidence to support the advancement of VSIG4+ Mφ-based immunotherapies into clinical practice.",
-      "journal": "Journal of translational medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Hepatobiliary Surgery Center, Tongji Hospital, School of Medicine, Tongji University, Shanghai, 200092, China.",
-        "Baoshan Branch of Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, 200444, China.",
-        "Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055, China.",
-        "Central Laboratory, Shuguang Hospital Affiliated to Shanghai University of Traditional Chinese Medicine, Shanghai, 201203, China.",
-        "Central Laboratory, Shuguang Hospital Affiliated to Shanghai University of Traditional Chinese Medicine, Shanghai, 201203, China. kong_xiaoni@126.com.",
-        "Department of Gastroenterology, Songjiang Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, 201600, China. weifangrong@shsmu.edu.cn.",
-        "Hepatobiliary Surgery Center, Tongji Hospital, School of Medicine, Tongji University, Shanghai, 200092, China. twf1231@163.com."
-      ],
-      "doi": "10.1186/s12967-026-08631-y",
-      "date": "2026-07-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42477763/"
     },
     {
       "pmid": "42476548",
@@ -269,6 +268,23 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42418828/"
     },
     {
+      "pmid": "42479609",
+      "title": "De Novo Designed Porphyrin-Binding Proteins Photocatalyze the Nitrogen Reduction Reaction.",
+      "abstract": "In this work, we de novo designed a two-helix α-helical protein capable of forming dimers, which features a central cavity that accommodates porphyrin molecules. The resulting porphyrin-binding protein, formed by mixing the porphyrin with the dimer protein, exhibits visible-light-driven catalytic activity for the nitrogen reduction reaction. To further optimize the protein, we selected three mutation layers and predicted their structures. From these, we identified seven mutants that retained the original protein folding structure, which are used for the photocatalytic ammonia production from nitrogen after binding porphyrin. Among them, the best-performing mutant achieved a catalytic rate of 9.704 mg gcat-1 h-1 for ammonia synthesis, which is higher than most of the current reported artificial catalysts. This work provides a promising strategy for the de novo design of porphyrin-binding proteins as catalysts for nitrogen fixation under mild conditions.",
+      "journal": "ACS applied materials & interfaces",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Chemical Engineering and Low-Carbon Technology, School of Chemical Engineering and Technology, Tianjin University, Tianjin 300072, P. R. China.",
+        "Collaborative Innovation Center of Chemical Science and Engineering (Tianjin), Tianjin 300072, P. R. China.",
+        "Tianjin Key Laboratory of Membrane Science and Desalination Technology, Tianjin University, Tianjin 300072, P. R. China."
+      ],
+      "doi": "10.1021/acsami.6c05576",
+      "date": "2026-07-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42479609/"
+    },
+    {
       "pmid": "42478866",
       "title": "MolGuidance: Advanced Guidance Strategies for Conditional Molecular Generation with Flow Matching.",
       "abstract": "Key objectives in conditional molecular generation include ensuring chemical validity, aligning generated molecules with target properties, promoting structural diversity, and enabling efficient sampling for discovery. Recent advances in computer vision introduced a range of new guidance strategies for generative models, many of which can be adapted to support these goals. In this work, we integrate state-of-the-art guidance methods─including classifier-free guidance, autoguidance, and model guidance─in a leading molecule generation framework built on an SE(3)-equivariant flow matching process. We propose a hybrid guidance strategy that separately guides continuous and discrete molecular modalities─operating on velocity fields and predicted denoising probabilities, respectively─while jointly optimizing their guidance scales via Bayesian optimization. Our implementation, benchmarked on the QM9 and QMe14S data sets, achieves new state-of-the-art performance in property alignment for de novo molecular generation. The generated molecules also exhibit high structural validity. Furthermore, we systematically compare the strengths and limitations of various guidance methods, offering insights into their broader applicability.",
@@ -377,23 +393,6 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42468751/"
     },
     {
-      "pmid": "42467311",
-      "title": "Fragment-based diffusion modeling and molecular dynamics simulation validation for the discovery of PD-L1 small-molecule inhibitors.",
-      "abstract": "The programmed cell death-1/programmed cell death-ligand 1 (PD-1/PD-L1) pathway is a key target in cancer immunotherapy. Although monoclonal antibodies (mAbs) have demonstrated remarkable clinical efficacy, their application is limited by poor tissue penetration, high production costs, and the need for intravenous administration. Small-molecule inhibitors provide a promising complementary strategy, but designing them remains challenging due to the large, relatively flat PD-1/PD-L1 interface. In this study, we integrated fragment-based drug design (FBDD) with conditional diffusion modeling to overcome these obstacles. Core scaffolds consisting of key fragments identified through protein-ligand interaction analysis were used as conditional inputs. Considering the relatively conserved binding mode and limited pocket flexibility of reported PD-L1/small-molecule inhibitor complexes, seven representative co-crystal structures were selected to capture the major binding features and guide molecular generation. Structurally plausible candidate inhibitors were generated using diffusion modeling and screened by molecular docking. After 500 ns molecular dynamics (MD) simulations, we identified four candidates (bo1-bo4), which were selected for MD-based evaluation. The predicted binding free energy (BFE) values of three compounds (bo1, bo2, and bo3) were lower than - 40 kcal/mol, as calculated by the molecular mechanics-Poisson Boltzmann surface area (MM-PBSA) method with interaction entropy (IE) correction, suggesting their potential to stabilize the PD-L1 dimer interface in silico and serve as computationally prioritized candidates for further experimental evaluation of PD-1/PD-L1 blockade. Overall, this work suggests that fragment-based diffusion modeling is an efficient and interpretable strategy for the discovery of computationally prioritized PD-L1 small-molecule candidate inhibitors and offers a promising framework for tackling challenging targets in cancer immunotherapy.",
-      "journal": "Molecular diversity",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "College of Materials and Chemical Engineering, South China Agricultural University, Guangzhou, 510630, China.",
-        "College of Materials and Chemical Engineering, South China Agricultural University, Guangzhou, 510630, China. boping@scau.edu.cn.",
-        "College of Materials and Chemical Engineering, South China Agricultural University, Guangzhou, 510630, China. wbfeng@scau.edu.cn."
-      ],
-      "doi": "10.1007/s11030-026-11642-y",
-      "date": "2026-07-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42467311/"
-    },
-    {
       "pmid": "42479142",
       "title": "Interference of Clonal Hematopoiesis in cfDNA Liquid Biopsy Testing & Identification of Actionable Alterations in Large Diverse Cohort of US Veterans.",
       "abstract": "Liquid biopsies using cell-free DNA (cfDNA) can identify actionable somatic alterations in prostate cancer (PCa). The presence of alterations related to clonal hematopoiesis (CH) can complicate interpretation of cfDNA results and lead to clinical inaction. We sought to determine alteration profiles identified by cfDNA testing in a large, racially diverse cohort of United States Veterans with metastatic PCa and quantify the extent of CH interference in the identification of actionable alterations. Next-generation sequencing of cfDNA biopsy specimens from US Veterans with metastatic PCa was performed using Foundation Medicine through the VA National Precision Oncology Program (NPOP) from August 2020 to January 2025. Actionable and non-actionable alteration rates were compared between tests with and without identification of a CH alteration. Tests with CH interference were then stratified by the presence of a PCa-related alteration (TMPRSS2, ERG, SPOP) and rates of actionable and non-actionable alterations were compared between these groups. cfDNA alterations were identified in 2501/2657 (94.1%) cfDNA tests. CH interference was common, with 663/2657 (25%) tests identifying CH alterations only and 1615/2657 (60.8%) tests identifying CH and non-CH alterations concurrently. Accounting for tests in which no alteration was identified (156/2657; [5.9%]), only 223/2501 (8.4%) tests exhibited non-CH only alterations. Alteration rates in FDA-approved targetable genes were similar in samples with and without CH interference, except for CDK12 variants, which were more frequently identified in tests without CH interference (8.5% vs 3.8%, p < 0.01) and BRCA1 variants which were more frequently identified in tests with CH interference (2.0% vs 0%, p = 0.02). In samples with CH interference, alterations in PTEN, RB1, and TP53 were more likely and HRR alterations were less likely in samples with a PCa specific alteration versus those without (TSG 72% vs 51%, p < 0.0001; HRR 36% vs 56%, p < 0.0001). CH interference was very common in cfDNA testing in metastatic PCa patients. The absence of a CH alteration or presence of a known PCa-related alteration does not reliably modify identification frequencies of actionable alterations. Robust CH inferential platforms or analysis of a matched lymphocyte sample with cfDNA may improve clinical differentiation of CH versus PCa derived cfDNA results.",
@@ -464,7 +463,7 @@
     },
     {
       "pmid": "42476234",
-      "title": "Molecular Mechanisms of Targeted Therapy in Breast Cancer: An Integrated Signaling Network Perspective.",
+      "title": "Molecular mechanisms of targeted therapy in breast cancer: An integrated signaling network perspective.",
       "abstract": "Breast cancer encompasses molecularly distinct subtypes with divergent oncogenic dependencies, each amenable to precision therapeutic intervention. Over the past decade, clinically meaningful advances have reshaped breast cancer management: antibody-drug conjugates (ADCs) have expanded actionable HER2 expression thresholds to include HER2-low and HER2-ultralow populations; cyclin-dependent kinase (CDK) 4/6 inhibitors have become standard-of-care in hormone receptor-positive disease; and immune checkpoint blockade has established durable responses in a defined subset of triple-negative breast cancer (TNBC). Nevertheless, therapeutic resistance remains the central unresolved obstacle to durable benefit. Here, we synthesize current evidence on the signaling architecture underlying targeted therapy across breast cancer subtypes and propose a four-layer network topology model of resistance integrating: (i) canonical pathway reactivation; (ii) receptor tyrosine kinase (RTK) reprogramming; (iii) non-coding RNA (ncRNA) regulatory circuits; and (iv) epigenetic plasticity coupled with tumor microenvironment (TME) co-evolution. We explicitly stratify the discussed mechanisms into three evidence tiers-clinically actionable, plausibly translational, and exploratory-to avoid conflating preclinical observations with validated biomarkers. We critically evaluate FDA-approved and emerging agents within this framework, identify knowledge gaps, and outline future directions-including liquid biopsy-guided adaptive therapy, multi-omic resistance profiling, and biologically rational combination strategies-together with their feasibility constraints related to toxicity, sequencing, cost, and biomarker validation.",
       "journal": "Critical reviews in oncology/hematology",
       "publicationTypes": [
@@ -473,7 +472,7 @@
       ],
       "affiliations": [
         "Emergency Department, Wuhan Hospital of Traditional Chinese Medicine, Wuhan, Hubei 430000, China.",
-        "Department of Pathology, Ezhou Central Hospital, Ezhou 436000, Hubei, China.",
+        "Department of Pathology, Ezhou Central Hospital, Ezhou, Hubei 436000, China.",
         "Integrated Traditional Chinese and Western Medicine Department, Hubei Cancer Hospital, Tongji Medical College, Hua zhong University of Science and Technology, Wuhan 430065, China. Electronic address: guo654119010@163.com.",
         "Department of Laboratory Medicine, Hubei University of Chinese Medicine, Wuhan 430065, China. Electronic address: wangyuxue20012001@163.com.",
         "Emergency Department, Wuhan Hospital of Traditional Chinese Medicine, Wuhan, Hubei 430000, China. Electronic address: 13277996429@163.com."
@@ -531,6 +530,66 @@
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42480139",
+      "date": "2026-07-21",
+      "title": "Perfluorobutanesulfonic acid (PFBS) elicits compartment-specific divergent responses in prostate homeostasis: Wnt/β-catenin oncogenic activation in epithelial cells versus mitochondria-mediated ferroptosis susceptibility in stromal cells.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42480139/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Ecotoxicology and environmental safety，PMID 为 42480139。",
+      "report": "Perfluorobutanesulfonic acid (PFBS), a short-chain per- and polyfluoroalkyl substance (PFAS) adopted as a replacement for perfluorooctane sulfonate (PFOS), is ubiquitously detected in environmental matrices and human biological samples. Despite growing regulat...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42479644",
+      "date": "2026-07-21",
+      "title": "Human Organoids as Drug Development Tools for Polycystic Kidney Disease.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42479644/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nephron，PMID 为 42479644。",
+      "report": "Polycystic kidney disease (PKD) is commonly inherited as a loss-of-function mutation in PC1 (polycystin-1) or PC2. The molecular functions of polycystins remain uncertain, and therapeutics remain limited for millions of patients. One major roadblock has been t...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42478871",
       "date": "2026-07-21",
@@ -618,16 +677,16 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42478060",
+      "id": "pubmed-42479609",
       "date": "2026-07-21",
-      "title": "Establishing a safe and effective cleaning method for PDMS devices derived from 3D-printed resin moulds in embryo production.",
+      "title": "De Novo Designed Porphyrin-Binding Proteins Photocatalyze the Nitrogen Reduction Reaction.",
       "entity": "Biotech Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "General Biotech Research",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42478060/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42479609/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -638,8 +697,8 @@
         "biotech"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Zygote (Cambridge, England)，PMID 为 42478060。",
-      "report": "Dynamic systems for in vitro embryo production (IVEP) have long been sought to allow a higher resemblance to the physiological conditions of the oviduct and uterus. Although significant progress has been demonstrated in the microfluidic field, some challenges...",
+      "fact": "PubMed 记录显示该文献收录于 ACS applied materials & interfaces，PMID 为 42479609。",
+      "report": "In this work, we de novo designed a two-helix α-helical protein capable of forming dimers, which features a central cavity that accommodates porphyrin molecules. The resulting porphyrin-binding protein, formed by mixing the porphyrin with the dimer protein, ex...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -733,36 +792,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42477763",
-      "date": "2026-07-20",
-      "title": "Adoptive transfer of VSIG4+ macrophages interrupts the CCL2-CCR2 inflammatory amplification loop to mitigate acetaminophen-induced acute liver injury in murine and human organoid models.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42477763/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42477763。",
-      "report": "Acute liver injury (ALI) can rapidly progress to life-threatening acute liver failure. Liver transplantation remains the only definitive treatment, despite critical donor shortages. Macrophage-based therapies have shown promise in ALI but face challenges relat...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42475171",
       "date": "2026-07-20",
       "title": "De Novo Design of Protein Nanopores: From Minimal Peptides to AI-Driven Design.",
@@ -828,7 +857,7 @@
     {
       "id": "pubmed-42476234",
       "date": "2026-07-20",
-      "title": "Molecular Mechanisms of Targeted Therapy in Breast Cancer: An Integrated Signaling Network Perspective.",
+      "title": "Molecular mechanisms of targeted therapy in breast cancer: An integrated signaling network perspective.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
@@ -951,39 +980,6 @@
       "fact": "PubMed 记录显示该文献收录于 Biotechnology advances，PMID 为 42468751。",
       "report": "Immunoassays are essential tools in clinical diagnostics, food safety surveillance, and environmental monitoring; however, a persistent discrepancy exists between the theoretical performance of bioreceptors and their practical efficacy in sensor devices. This...",
       "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42467311",
-      "date": "2026-07-17",
-      "title": "Fragment-based diffusion modeling and molecular dynamics simulation validation for the discovery of PD-L1 small-molecule inhibitors.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42467311/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular diversity，PMID 为 42467311。",
-      "report": "The programmed cell death-1/programmed cell death-ligand 1 (PD-1/PD-L1) pathway is a key target in cancer immunotherapy. Although monoclonal antibodies (mAbs) have demonstrated remarkable clinical efficacy, their application is limited by poor tissue penetrati...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
