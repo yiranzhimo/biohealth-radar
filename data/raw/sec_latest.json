@@ -1,9 +1,9 @@
 {
-  "capturedAt": "2026-07-22T19:47:11.070745+00:00",
+  "capturedAt": "2026-07-23T03:48:41.296453+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
-    "start": "2026-07-08",
-    "end": "2026-07-22"
+    "start": "2026-07-09",
+    "end": "2026-07-23"
   },
   "forms": [
     "10-K",
@@ -340,31 +340,6 @@
       "cik": "0000874015",
       "secName": "IONIS PHARMACEUTICALS INC",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126028092/ef20077664_8k.htm"
-    },
-    {
-      "filingDate": "2026-07-08",
-      "reportDate": "2026-07-06",
-      "acceptanceDateTime": "2026-07-08T11:08:16.000Z",
-      "act": "34",
-      "form": "8-K",
-      "fileNumber": "001-38753",
-      "filmNumber": "261160755",
-      "items": "5.02,7.01,9.01",
-      "size": 164899,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "mrna-20260706.htm",
-      "primaryDocDescription": "8-K",
-      "accessionNumber": "0001682852-26-000134",
-      "companyId": "moderna",
-      "companyName": "Moderna",
-      "companyDirections": [
-        "RNA Therapeutics"
-      ],
-      "secTicker": "MRNA",
-      "cik": "0001682852",
-      "secName": "Moderna, Inc.",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000134/mrna-20260706.htm"
     }
   ],
   "signals": [
@@ -614,37 +589,6 @@
         "ionis"
       ],
       "fact": "SEC EDGAR lists accession 0001140361-26-028092 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-07-09.",
-      "report": "SEC metadata describes the primary document as: 8-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001682852-000168285226000134",
-      "date": "2026-07-08",
-      "title": "Moderna filed Form 8-K",
-      "entity": "Moderna",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Company",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000134/mrna-20260706.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "RNA Therapeutics"
-      ],
-      "tags": [
-        "SEC",
-        "8-K",
-        "MRNA"
-      ],
-      "companyIds": [
-        "moderna"
-      ],
-      "fact": "SEC EDGAR lists accession 0001682852-26-000134 for Moderna, Form 8-K, filed on 2026-07-08.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
