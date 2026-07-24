@@ -822,19 +822,244 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
-      "id": "pubmed-42493487",
+      "id": "pubmed-42496939",
       "date": "2026-07-24",
-      "title": "Engineering etiology-aligned in vitro models of human vessels.",
+      "title": "The Application of 3D Cell Culture in Thyroid Cancer.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42493487/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42496939/",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": true,
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Annals of biomedical engineering，PMID 为 42496939。",
+      "report": "Thyroid cancer is the most prevalent endocrine malignancy and displays pronounced heterogeneity in histology, molecular alterations, and therapeutic responses, particularly in poorly differentiated, anaplastic, and radioiodine-refractory disease. Conventional...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0aafddf0ba46aeed006a63c1ca48988191a2390348b8dc7c42",
+        "reviewedAt": "2026-07-24T19:49:26.477143+00:00",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "文献基于PubMed记录清晰且无临床结论，分类合理。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类与所提供资料相符。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据级别合理，事实、报告和推论分隔明确。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Annals of biomedical engineering，PMID 为 42496939。",
+          "report": "Thyroid cancer is the most prevalent endocrine malignancy and displays pronounced heterogeneity in histology, molecular alterations, and therapeutic responses, particularly in poorly differentiated, anaplastic, and radioiodine-refractory disease. Conventional...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42496585",
+      "date": "2026-07-24",
+      "title": "Tooth development, replacement and regeneration.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42496585/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Development (Cambridge, England)，PMID 为 42496585。",
+      "report": "Teeth serve as a powerful model to dissect epithelial-mesenchymal interaction-mediated organogenesis. While most non-mammalian vertebrates exhibit lifelong tooth renewal (polyphyodonty), mammals have largely lost this capacity and become predominantly diphyodo...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_09fcca8435929c01006a63c1d4e86c8192b09774db4785270c",
+        "reviewedAt": "2026-07-24T19:49:26.477143+00:00",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信息准确反映了文献来源和内容，没有临床建议，也没有不支持的结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Development (Cambridge, England)，PMID 为 42496585。",
+          "report": "Teeth serve as a powerful model to dissect epithelial-mesenchymal interaction-mediated organogenesis. While most non-mammalian vertebrates exhibit lifelong tooth renewal (polyphyodonty), mammals have largely lost this capacity and become predominantly diphyodo...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42496153",
+      "date": "2026-07-24",
+      "title": "Faecalibacterium duncaniae-derived metabolites protect intestinal epithelial integrity under inflammatory conditions in dairy calves.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42496153/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Applied and environmental microbiology，PMID 为 42496153。",
+      "report": "Preweaning diarrhea and intestinal inflammation represent leading causes of morbidity and economic loss in modern dairy calf production systems, causing impaired growth performance, increased mortality, and substantial veterinary costs that collectively constr...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0b163638a75b2e8b006a63c1da3d28819cae98d8fe5f725e6e",
+        "reviewedAt": "2026-07-24T19:49:26.477143+00:00",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录合理且中立，未包含临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "类别与源信息合理匹配。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "源报告与事实分开，证据级别适中。"
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Applied and environmental microbiology，PMID 为 42496153。",
+          "report": "Preweaning diarrhea and intestinal inflammation represent leading causes of morbidity and economic loss in modern dairy calf production systems, causing impaired growth performance, increased mortality, and substantial veterinary costs that collectively constr...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42496071",
+      "date": "2026-07-24",
+      "title": "An Integrated Organoid-on-a-Chip Platform for Modeling the Human Placental Barrier.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42496071/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
       "themes": [
         "Organoids",
         "Advanced Disease Models"
@@ -844,31 +1069,30 @@ window.BHR_DATA = {
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Microsystems & nanoengineering，PMID 为 42493487。",
-      "report": "Vascular diseases remain a major global health burden, yet traditional animal models often fail to capture the human-specific mechanisms that drive disease progression. Recent policy shifts, including the FDA Modernization Act and the NIH's transition away fro...",
+      "fact": "PubMed 记录显示该文献收录于 Tissue engineering. Part A，PMID 为 42496071。",
+      "report": "The placental barrier plays a critical role in protecting the fetus from xenobiotics and regulating the maternal-fetal exchange. However, conventional trophoblast cell lines and animal models often fail to accurately recapitulate the key structural and functio...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_04370d82dd758260006a63261f87d08195a98391820178ffe7",
-        "reviewedAt": "2026-07-24T08:45:18.835230+00:00",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人类审查以确保研究质量和商业化状态的准确性。",
+        "responseId": "resp_0a22303915d8f520006a63c1e1157c819faf4c3e7643e7e957",
+        "reviewedAt": "2026-07-24T19:49:26.477143+00:00",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号满足出版标准，数据清晰且支持独立验证。",
         "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类缺乏支持，研究质量和临床状态未被评估。"
+          "isSupported": true,
+          "notesCn": "分类合理，符合提供的元数据。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据等级为中等，但未评估研究质量，影响可信度。"
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断已明确分开，提供的证据水平合适。"
         },
         "riskFlags": [
-          "weak_classification",
           "insufficient_source"
         ],
         "suggestedEdits": {
@@ -883,133 +1107,62 @@ window.BHR_DATA = {
             "类器官",
             "疾病模型"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Microsystems & nanoengineering，PMID 为 42493487。",
-          "report": "Vascular diseases remain a major global health burden, yet traditional animal models often fail to capture the human-specific mechanisms that drive disease progression. Recent policy shifts, including the FDA Modernization Act and the NIH's transition away fro...",
+          "fact": "PubMed 记录显示该文献收录于 Tissue engineering. Part A，PMID 为 42496071。",
+          "report": "The placental barrier plays a critical role in protecting the fetus from xenobiotics and regulating the maternal-fetal exchange. However, conventional trophoblast cell lines and animal models often fail to accurately recapitulate the key structural and functio...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "id": "pubmed-42494196",
-      "date": "2026-07-23",
-      "title": "A Novel Perfused Full-Thickness Human Skin Microphysiological System for Modeling Injury, Regeneration, Tumor Pathophysiology, and Therapeutics Development.",
+      "id": "pubmed-42495988",
+      "date": "2026-07-24",
+      "title": "Preclinical characterization of CLSP-1025, a first-in-class, mutation-specific T-cell engager targeting a neoantigen derived from a common p53 mutation.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42494196/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42495988/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Precision Oncology"
+        "Precision Oncology",
+        "Drug Screening"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "肿瘤"
+        "肿瘤",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42494196。",
-      "report": "Translating preclinical research findings to clinical applications presents challenges due to the metabolic and anatomical disparities between animal models and humans. Although organ-on-a-chip models replicate the organization of human cells, they lack the co...",
+      "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42495988。",
+      "report": "Targeting intracellular oncogenic mutations with T-cell engagers has the potential to expand precision immunotherapy beyond surface antigens. Here, we describe the preclinical characterization of CLSP-1025, a mutation-specific T-cell engager that targets the p...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_046a74c1c4ff7677006a6373b051388197bc32bd52bfd7fe8b",
-        "reviewedAt": "2026-07-24T14:16:15.341995+00:00",
+        "responseId": "resp_029ceece94276b3a006a63c1e8a85c819e972831589dc8b4d0",
+        "reviewedAt": "2026-07-24T19:49:26.477143+00:00",
         "status": "pass",
-        "confidence": 0.9,
+        "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号在分类、证据水平合理，信息分离明确，没有临床建议，因此可以发布。",
+        "reviewSummaryCn": "该信号符合发布标准，信息清晰且分离明确。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，符合信号内容。"
+          "notesCn": "分类符合文献内容。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断清晰分离，证据水平合理。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42494196。",
-          "report": "Translating preclinical research findings to clinical applications presents challenges due to the metabolic and anatomical disparities between animal models and humans. Although organ-on-a-chip models replicate the organization of human cells, they lack the co...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42493544",
-      "date": "2026-07-23",
-      "title": "Activation of the NF-κB/ALDH1A1 signaling promotes non-mutational resistance to EGFR-TKIs in non-small cell lung cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42493544/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Oncogene，PMID 为 42493544。",
-      "report": "Acquired resistance to tyrosine kinase inhibitors (TKIs) remains a major clinical challenge in the treatment of EGFR-mutant non-small cell lung cancer (NSCLC). This study established TKI-resistant variants by integrating cell lines, lung cancer organoids (LCOs...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0def5b0b8f446c9a006a632627800c8190a8c46b25b4c0b9a5",
-        "reviewedAt": "2026-07-24T08:45:18.835230+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该条目根据提供的元数据合理分类，事实、报告、推论和未知信息清晰分离，无不当临床结论。可安全发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合源元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论清晰分离，证据水平合理。"
+          "notesCn": "证据水平合理，信息分离清晰。"
         },
         "riskFlags": [
           "clinical_claim"
@@ -1021,88 +1174,17 @@ window.BHR_DATA = {
           "themes": [
             "Organoids",
             "Advanced Disease Models",
-            "Precision Oncology"
+            "Precision Oncology",
+            "Drug Screening"
           ],
           "tags": [
             "类器官",
             "疾病模型",
-            "肿瘤"
+            "肿瘤",
+            "药筛"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Oncogene，PMID 为 42493544。",
-          "report": "Acquired resistance to tyrosine kinase inhibitors (TKIs) remains a major clinical challenge in the treatment of EGFR-mutant non-small cell lung cancer (NSCLC). This study established TKI-resistant variants by integrating cell lines, lung cancer organoids (LCOs...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42492831",
-      "date": "2026-07-23",
-      "title": "Targeting tumor cell-intrinsic POU4F1 enhances antitumor immunity and sensitizes tumors to immunotherapy in basal-like breast cancer by modulating macrophage recruitment and polarization.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42492831/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42492831。",
-      "report": "Immunosuppressive tumor microenvironment is a major driver of tumor progression and therapeutic resistance. Basal-like breast cancer (BLBC), which largely overlaps with triple-negative breast cancer, generally displays an immunosuppressive tumor microenvironme...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_05bb0dff9369780e006a63262d04008196a06db5cc4b10507b",
-        "reviewedAt": "2026-07-24T08:45:18.835230+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "符合发布标准，信息分离清晰。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别与文献主题一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平合理，事实与报告分离明确。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42492831。",
-          "report": "Immunosuppressive tumor microenvironment is a major driver of tumor progression and therapeutic resistance. Basal-like breast cancer (BLBC), which largely overlaps with triple-negative breast cancer, generally displays an immunosuppressive tumor microenvironment.",
+          "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42495988。",
+          "report": "Targeting intracellular oncogenic mutations with T-cell engagers has the potential to expand precision immunotherapy beyond surface antigens. Here, we describe the preclinical characterization of CLSP-1025, a mutation-specific T-cell engager that targets the p...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
@@ -1546,75 +1628,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 JCO precision oncology，PMID 为 42492027。",
           "report": "Glioblastoma (GBM) is an aggressive brain tumor characterized by extensive heterogeneity and inevitable recurrence. Although extracranial metastases are rare, circulating tumor cells (CTCs) are consistently detectable in patients with GBM, challenging the idea...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42494793",
-      "date": "2026-07-22",
-      "title": "Integrating single-cell and spheroid strategies in tissue engineering: Comparative insights from pancreas, cartilage, heart and brain.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42494793/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Biotech",
-        "Multi-omics"
-      ],
-      "tags": [
-        "biotech",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of tissue engineering，PMID 为 42494793。",
-      "report": "Tissue engineering (TE) remains a cornerstone of regenerative medicine, aiming to bypass the limitation of organ transplantation through the fabrication of functional tissue substitutes. Traditionally, TE has followed two primary paradigms: the top-down approa...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_00008b36dcb0b683006a6373b5b9688193bdfeda6ad88ac26e",
-        "reviewedAt": "2026-07-24T14:16:15.341995+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "此记录符合出版标准，信息清晰且中立。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合元数据的内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平中等，事实与报告已清楚分开。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Biotech",
-            "Multi-omics"
-          ],
-          "tags": [
-            "biotech",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of tissue engineering，PMID 为 42494793。",
-          "report": "Tissue engineering (TE) remains a cornerstone of regenerative medicine, aiming to bypass the limitation of organ transplantation through the fabrication of functional tissue substitutes. Traditionally, TE has followed two primary paradigms: the top-down approa...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -2116,74 +2129,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42494838",
-      "date": "2026-07-16",
-      "title": "Mechanistic insights into the lipid-lowering effects of phycocyanin through human intestinal and liver organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42494838/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Current research in food science，PMID 为 42494838。",
-      "report": "Dyslipidemia is a major risk factor for cardiovascular and cerebrovascular diseases. Phycocyanin (PC), a pigment derived from Arthrospira platensis, improves hyperlipidemia in vivo; however, its mechanisms remain elusive. This study investigated whether PC inf...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0d97fb8695a6aa55006a6373c7c7788194801a1ecd994210a3",
-        "reviewedAt": "2026-07-24T14:16:15.341995+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息清晰，分类合理，无需人工审核。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类符合文献主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论明确区分，证据水平适中。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Current research in food science，PMID 为 42494838。",
-          "report": "Dyslipidemia is a major risk factor for cardiovascular and cerebrovascular diseases. Phycocyanin (PC), a pigment derived from Arthrospira platensis, improves hyperlipidemia in vivo; however, its mechanisms remain elusive. This study investigated whether PC inf...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -3288,6 +3233,82 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Frontiers in medicine，PMID 为 42491413。",
           "report": "To construct and validate a prediction model for tumor metastasis in patients with urological tumors based on liquid biopsy biomarkers and clinical characteristics, to facilitate early clinical identification of metastasis risk and formulation of individualized treatment approaches.",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42496313",
+      "date": "2026-07-02",
+      "title": "From Therapeutic Drug to Xenobiotic in Cancer Repurposing: Clozapine Mechanisms, Metabolic Liabilities, and Human-Relevant Translational Approaches.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42496313/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of xenobiotics，PMID 为 42496313。",
+      "report": "Drug repurposing represents a rational and resource-efficient strategy to expand the oncological armamentarium by leveraging the established pharmacology, clinical experience, and safety-monitoring frameworks of approved non-oncological agents. Clozapine (CZP)...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0d2624c8f85f3444006a63c1ee7a5481a1a3b24649fc53110d",
+        "reviewedAt": "2026-07-24T19:49:26.477143+00:00",
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人类审查以确保没有未支持的临床结论。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "主要类别和子类别的支持不够充分。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "尽管分类未表现出矛盾，但根据文献的性质，证据等级应重新评估。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of xenobiotics，PMID 为 42496313。",
+          "report": "Drug repurposing represents a rational and resource-efficient strategy to expand the oncological armamentarium by leveraging the established pharmacology, clinical experience, and safety-monitoring frameworks of approved non-oncological agents. Clozapine (CZP)...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }

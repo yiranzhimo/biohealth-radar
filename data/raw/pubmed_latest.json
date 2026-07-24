@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-24T14:16:05.512659+00:00",
+  "capturedAt": "2026-07-24T19:49:18.482505+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-07-24"
   },
   "pmids": [
-    "42494838",
-    "42494793",
-    "42494196",
-    "42493544",
-    "42493487",
-    "42492831",
+    "42496939",
+    "42496585",
+    "42496313",
+    "42496153",
+    "42496071",
+    "42495988",
     "42486102",
     "42482180",
     "42476548",
@@ -41,127 +41,116 @@
   ],
   "records": [
     {
-      "pmid": "42494838",
-      "title": "Mechanistic insights into the lipid-lowering effects of phycocyanin through human intestinal and liver organoids.",
-      "abstract": "Dyslipidemia is a major risk factor for cardiovascular and cerebrovascular diseases. Phycocyanin (PC), a pigment derived from Arthrospira platensis, improves hyperlipidemia in vivo; however, its mechanisms remain elusive. This study investigated whether PC influences lipid metabolism, particularly lipoprotein secretion dynamics, using human small intestine and liver organoids, which are physiologically relevant in vitro models. In small intestinal organoids, PC significantly suppressed chylomicron marker apolipoprotein (Apo) B-48 secretion without affecting its expression and intracellular triglyceride levels. Peptidomic analysis using mass spectrometry identified MKTPL as a key peptide among digestion-derived peptides of PC that exhibited an inhibitory effect on chylomicron secretion similar to that of intact PC. In liver organoids, digested PC (dPC) and MKTPL reduced the secretion of very-low-density lipoprotein marker ApoB-100. These results revealed the novel action of PC and dPC in preventing lipoprotein secretion in both intestinal and liver cells, providing mechanistic insights into their lipid-lowering effects.",
-      "journal": "Current research in food science",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "DIC Corporation, Central Research Laboratories, Chiba, 285-8668, Japan.",
-        "Food Biochemistry Laboratory, Department of Applied Biological Chemistry, Graduate School of Agricultural and Life Sciences, The University of Tokyo, Tokyo, 113-8657, Japan.",
-        "Nutri-Life Science Laboratory, Department of Applied Biological Chemistry, Graduate School of Agricultural and Life Sciences, The University of Tokyo, Tokyo, 113-8657, Japan.",
-        "Department of Microbiology and Immunology, School of Pharmaceutical Sciences, Wakayama Medical University, Wakayama, 640-8156, Japan.",
-        "Department of Virology, Research Institute for Microbial Diseases, Osaka University, Osaka, 565-0871, Japan."
-      ],
-      "doi": "10.1016/j.crfs.2026.101502",
-      "date": "2026-07-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42494838/"
-    },
-    {
-      "pmid": "42494793",
-      "title": "Integrating single-cell and spheroid strategies in tissue engineering: Comparative insights from pancreas, cartilage, heart and brain.",
-      "abstract": "Tissue engineering (TE) remains a cornerstone of regenerative medicine, aiming to bypass the limitation of organ transplantation through the fabrication of functional tissue substitutes. Traditionally, TE has followed two primary paradigms: the top-down approach, utilising single cells seeded on a scaffold, and the bottom-up approach, employing cell spheroids as building blocks. While top-down offers architectural and structural control, bottom-up promotes self-assembly, native-like extracellular matrix deposition, and intercellular signalling. However, modern techniques increasingly blur this dichotomy, creating a spectrum of cell-based fabrication approaches. This review evaluates the diverse approaches across four major tissue classes: epithelial (pancreas as an example), connective (cartilage), muscle (heart), and nervous (brain) tissues. For each tissue, we examine notable studies to evaluate how different assembly methods recapitulate native tissue properties. By reviewing case studies across diverse tissue types, we highlight the relative strengths and limitations of various fabrication strategies. Although this review is limited by a selective cross-section of literature within a rapidly advancing technological landscape, it provides critical insights into optimising next-generation tissue constructs. In conclusion, we posit that there is no universal fabrication strategy; rather, the future of the field depends on tailoring approaches along this single-cell-to-spheroid spectrum based on the specific architectural and functional demands of the target tissue.",
-      "journal": "Journal of tissue engineering",
+      "pmid": "42496939",
+      "title": "The Application of 3D Cell Culture in Thyroid Cancer.",
+      "abstract": "Thyroid cancer is the most prevalent endocrine malignancy and displays pronounced heterogeneity in histology, molecular alterations, and therapeutic responses, particularly in poorly differentiated, anaplastic, and radioiodine-refractory disease. Conventional two-dimensional cultures and animal models inadequately recapitulate the three-dimensional (3D) architecture, tumor microenvironment, and thyroid-specific functions, limiting their translational relevance. Recent advances in 3D culture technologies, especially organoid models, have provided physiologically relevant platforms for in vitro thyroid cancer research. This review summarizes current strategies for constructing thyroid cancer 3D models, with emphasis on spheroid and organoid systems, encompassing scaffold-free, scaffold-based cultures, and emerging bioengineering platforms such as dynamic bioreactors, decellularized extracellular matrices, microfluidic organ-on-a-chip systems, and 3D bioprinting. We further highlight key applications of thyroid cancer organoids in disease modeling, drug screening, radioiodine response prediction, and personalized therapeutic evaluation and discuss remaining challenges and future directions toward improved standardization and clinical translation. Compared with previous reviews on thyroid 3D culture, this work provides a more integrated and updated perspective by systematically linking culture strategies with tumor microenvironmental complexity, functional thyroid phenotypes, and emerging translational platforms, thereby offering a comprehensive framework for next-generation thyroid cancer modeling.",
+      "journal": "Annals of biomedical engineering",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Bioengineering & Automation (BE&A), Bioprocessing Technology Institute (BTI), Agency for Science, Technology, and Research (A STAR), Singapore.",
-        "Department of Orthopaedic Surgery, Yong Loo Lin School of Medicine, National University of Singapore, Singapore.",
-        "Faculty of Dentistry, National University of Singapore, Singapore.",
-        "Department of Food Science and Technology, National University of Singapore, Singapore.",
-        "Bezos Centre for Sustainable Protein at the National University of Singapore, Singapore."
+        "School of Medicine, Ningbo University, Ningbo, 315211, China.",
+        "Department of Neurosurgery, Ningbo Key Laboratory of Nervous System and Brain Function, The First Affiliated Hospital of Ningbo University, Ningbo, 315010, Zhejiang, China.",
+        "Center for Medical and Engineering Innovation, Central Laboratory, The First Affiliated Hospital of Ningbo University, Ningbo, 315010, Zhejiang, China.",
+        "Smart Medicine and Engineering Interdisciplinary Innovation Center, Ningbo University, Ningbo, 315211, China.",
+        "Center for Mechanics Plus under Extreme Environments, School of Mechanical Engineering & Mechanics, Ningbo University, Ningbo, 315211, China.",
+        "Center for Medical and Engineering Innovation, Central Laboratory, The First Affiliated Hospital of Ningbo University, Ningbo, 315010, Zhejiang, China. xukailei@zju.edu.cn.",
+        "Department of Neurosurgery, Ningbo Key Laboratory of Nervous System and Brain Function, The First Affiliated Hospital of Ningbo University, Ningbo, 315010, Zhejiang, China. fyysunjie@nbu.edu.cn."
       ],
-      "doi": "10.1177/20417314261460410",
-      "date": "2026-07-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42494793/"
-    },
-    {
-      "pmid": "42494196",
-      "title": "A Novel Perfused Full-Thickness Human Skin Microphysiological System for Modeling Injury, Regeneration, Tumor Pathophysiology, and Therapeutics Development.",
-      "abstract": "Translating preclinical research findings to clinical applications presents challenges due to the metabolic and anatomical disparities between animal models and humans. Although organ-on-a-chip models replicate the organization of human cells, they lack the complexity of the microenvironment and anatomical fidelity. Developing alternative research models with greater physiological and anatomical relevance to humans holds the potential to enhance translational success and reduce reliance on animal experimentation. In this study, we have showcased the technical details and conditions to maintain the viability of ex vivo perfused large human abdominal fasciocutaneous flaps for up to three weeks. Our efforts involved refining surgical procedures, vascular territory mapping (angiosome analysis), and pedicle exploration; engineering the bioreactor system; and optimizing perfusion media. Angiography via thermal and fluorescent methods was used to confirm the perfusion success. Metabolic activity was closely monitored by tracking glucose consumption and lactate production. Assessments of tissue viability encompassed histological analysis, TUNEL staining, gene expression profiling, measurement of vascular and metabolic reactivity, and in vitro propagation of isolated adipose stem cells and dermal fibroblasts. Furthermore, we harnessed our optimized human skin perfusion model to investigate the dynamics of radiation and chemical-induced injuries. Additionally, we explored the model's utility in studying adipose tissue metabolism and employed human skin tissue to establish melanoma and breast cancer tumor models. To our knowledge, this is the first model capable of preserving the function and viability of a large flap for extended periods, providing a proof-of-concept foundation for diverse research applications.",
-      "journal": "Advanced healthcare materials",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Plastic Surgery, University of Pittsburgh, Pittsburgh, Pennsylvania, USA.",
-        "Aging Institute of UPMC, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, USA."
-      ],
-      "doi": "10.1002/adhm.71445",
-      "date": "2026-07-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42494196/"
-    },
-    {
-      "pmid": "42493544",
-      "title": "Activation of the NF-κB/ALDH1A1 signaling promotes non-mutational resistance to EGFR-TKIs in non-small cell lung cancer.",
-      "abstract": "Acquired resistance to tyrosine kinase inhibitors (TKIs) remains a major clinical challenge in the treatment of EGFR-mutant non-small cell lung cancer (NSCLC). This study established TKI-resistant variants by integrating cell lines, lung cancer organoids (LCOs), and in vivo models, revealing the pivotal role of the NF-κB/ALDH1A1 signaling in mediating non-mutational TKI resistance. Resistant cells exhibited elevated RELA phosphorylation, enhanced ALDH1A1 expression and enzymatic activity, and stem-like properties. Mechanistically, NF-κB activation occurred as an early response to TKI exposure and promoted ALDH1A1 transcription via RELA. In turn, ALDH1A1 contributed to the sustained activation of NF-κB signaling, forming a self-reinforcing positive feedback loop. Genetic ALDH1A1 or RELA silencing reversed the resistant phenotype. Pharmacologically, treatment with an EGFR-TKI and the ALDH1A1 inhibitor disulfiram or the NF-κB-targeting agent EGCG synergistically restored the antitumor efficacy of TKIs both in vitro and in vivo. These findings establish the NF-κB/ALDH1A1 signaling as a key non-genetic mechanism of acquired EGFR-TKI resistance and provide a rational combination strategy to overcome it. Catalysis-dependent NF-κB-ALDH1A1 feedback loop drives non-mutational EGFR-TKI resistance. EGFR-TKI treatment suppresses EGFR signaling but rapidly induces NF-κB activation as an early event under TKI stress in EGFR-mutant NSCLC cells. Activated NF-κB (p-RELA) drives ALDH1A1 transcription, while ALDH1A1 enzymatic activity reinforces NF-κB signaling via IKKβ phosphorylation, forming a catalysis-dependent positive feedback loop that sustains stemness and promotes non-mutational TKI resistance. Disruption of this axis by inhibiting ALDH1A1 (DSF) or NF-κB (EGCG) restores TKI sensitivity.",
-      "journal": "Oncogene",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou, 350014, China.",
-        "Fujian Key Laboratory of Translational Cancer Medicine, Fuzhou, 350014, China.",
-        "College of Chemistry, Fuzhou University, 2 Xueyuan Road, Fuzhou, 350116, China.",
-        "Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou, 350014, China. linwansong@fjzlhospital.com.",
-        "Fujian Key Laboratory of Translational Cancer Medicine, Fuzhou, 350014, China. linwansong@fjzlhospital.com.",
-        "College of Chemistry, Fuzhou University, 2 Xueyuan Road, Fuzhou, 350116, China. linwansong@fjzlhospital.com.",
-        "Fujian Key Laboratory of Oral Diseases, School and Hospital of Stomatology, Fujian Medical University, Fuzhou, 350004, China. dalizheng@fjmu.edu.cn.",
-        "Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou, 350014, China. zjyunbin@fjmu.edu.cn.",
-        "Fujian Key Laboratory of Translational Cancer Medicine, Fuzhou, 350014, China. zjyunbin@fjmu.edu.cn.",
-        "College of Chemistry, Fuzhou University, 2 Xueyuan Road, Fuzhou, 350116, China. zjyunbin@fjmu.edu.cn."
-      ],
-      "doi": "10.1038/s41388-026-03907-5",
-      "date": "2026-07-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42493544/"
-    },
-    {
-      "pmid": "42493487",
-      "title": "Engineering etiology-aligned in vitro models of human vessels.",
-      "abstract": "Vascular diseases remain a major global health burden, yet traditional animal models often fail to capture the human-specific mechanisms that drive disease progression. Recent policy shifts, including the FDA Modernization Act and the NIH's transition away from animal-only studies, have intensified the need for human-relevant vascular platforms. This review introduces an etiology-to-model framework that maps six principal classes of vascular disease, including congenital, metabolic, neoplastic, inflammatory, degenerative, and risk factor-induced, to the in vitro systems best equipped to reproduce their defining microenvironmental disturbances. We evaluate how 2D assays, organoids, organ-on-chip platforms, tissue-engineered grafts, and bioprinted vessels each recapitulate distinct structural, cellular, and hemodynamic features of human pathology. We argue that the central challenge is no longer the lack of advanced tools, but the need to validate models against disease-specific benchmarks and integrate biological complexity without compromising reproducibility. By embedding disease etiology into model design, this framework provides a foundation for developing predictive vascular platforms that accelerate mechanistic insight and support precision therapy development.",
-      "journal": "Microsystems & nanoengineering",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "School of Engineering, Hangzhou Normal University, Hangzhou, 311121, People's Republic of China. lqhznu@hznu.edu.cn.",
-        "State Key Laboratory of Fluid Power and Mechatronic Systems, Zhejiang University, Hangzhou, 310058, People's Republic of China. lqhznu@hznu.edu.cn.",
-        "School of Mechanical Engineering, Zhejiang University, Hangzhou, 310058, People's Republic of China. lqhznu@hznu.edu.cn.",
-        "School of Engineering, Hangzhou Normal University, Hangzhou, 311121, People's Republic of China.",
-        "State Key Laboratory of Fluid Power and Mechatronic Systems, Zhejiang University, Hangzhou, 310058, People's Republic of China.",
-        "School of Mechanical Engineering, Zhejiang University, Hangzhou, 310058, People's Republic of China.",
-        "Women's Hospital, Zhejiang University School of Medicine, Hangzhou, 310006, People's Republic of China. shenluqi@westlake.edu.cn.",
-        "State Key Laboratory of Fluid Power and Mechatronic Systems, Zhejiang University, Hangzhou, 310058, People's Republic of China. hz_zhou@zju.edu.cn.",
-        "School of Mechanical Engineering, Zhejiang University, Hangzhou, 310058, People's Republic of China. hz_zhou@zju.edu.cn.",
-        "State Key Laboratory of Materials Processing and Die & Mould Technology, Huazhong University of Science and Technology, Wuhan, 430074, China. hz_zhou@zju.edu.cn."
-      ],
-      "doi": "10.1038/s41378-026-01397-9",
+      "doi": "10.1007/s10439-026-04299-z",
       "date": "2026-07-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42493487/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42496939/"
     },
     {
-      "pmid": "42492831",
-      "title": "Targeting tumor cell-intrinsic POU4F1 enhances antitumor immunity and sensitizes tumors to immunotherapy in basal-like breast cancer by modulating macrophage recruitment and polarization.",
-      "abstract": "Immunosuppressive tumor microenvironment is a major driver of tumor progression and therapeutic resistance. Basal-like breast cancer (BLBC), which largely overlaps with triple-negative breast cancer, generally displays an immunosuppressive tumor microenvironment enriched with tumor-associated macrophages and other immunosuppressive cell populations. However, the driving mechanisms that establish and maintain these tumor microenvironment features remain not fully understood. This study identifies tumor cell-intrinsic POU4F1 as a key regulator of the immunosuppressive tumor microenvironment in BLBC. Tumors with high POU4F1 expression exhibited lower IFNγ-related signature and poor responses to immunotherapy. In immunocompetent 4T1 tumor-bearing mice, POU4F1 knockout led to decreased infiltration of M2-like macrophages and increased infiltration of proliferative and functional CD8+ T cells and NK cells. In-vitro assays using human immune cells demonstrated that POU4F1 directly promoted monocyte recruitment and macrophage polarization, which in turn suppressed the proliferation and effector function of tumor-specific CD8+ T cells and NK cells. Mechanistically, POU4F1 upregulated CCL2 expression through NIK-mediated activation of the non-canonical NF-κB signaling pathway, thereby promoting monocyte recruitment and immunosuppressive phenotype polarization. Genetic ablation or pharmacological targeting of POU4F1 with Bobcat339 significantly inhibited tumor growth, remodeled the tumor immune microenvironment, and synergized with anti-PD-1 therapy in mouse models and patient-derived breast cancer organoids. These findings provide mechanistic insights into how POU4F1, a BLBC-specific transcription factor, orchestrates intercellular crosstalk to establish an immunosuppressive, tumor-supportive microenvironment, and indicate that targeting POU4F1 may represent a promising therapeutic strategy for BLBCs.",
-      "journal": "Cancer letters",
+      "pmid": "42496585",
+      "title": "Tooth development, replacement and regeneration.",
+      "abstract": "Teeth serve as a powerful model to dissect epithelial-mesenchymal interaction-mediated organogenesis. While most non-mammalian vertebrates exhibit lifelong tooth renewal (polyphyodonty), mammals have largely lost this capacity and become predominantly diphyodont. Elucidating this evolutionary transition is crucial for understanding developmental constraints on regeneration, yet key mechanisms, particularly how the successional dental lamina persists and how dormant stem cell niches are reactivated, remain largely unresolved. Recent advances in lineage tracing, single-cell sequencing, multi-omics profiling and organoid models have uncovered remarkable cellular diversity and lineage potential during tooth development and homeostasis across vertebrates, reshaping our view of dental stem cell identity and its roles in tissue regeneration. In this Review, we summarize recent progress in tooth development, replacement and molecular regulation, and our current understanding of dental stem cells and organoid models, aiming to delineate a roadmap for translational tooth regeneration.",
+      "journal": "Development (Cambridge, England)",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Center of Growth Metabolism and Aging, Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, Animal Disease Prevention and Food Safety Key Laboratory of Sichuan Province, College of Life Sciences, Sichuan University, Chengdu 610064, China.",
+        "Frontiers Medical Center, Tianfu Jincheng Laboratory, Chengdu 610041, China.",
+        "Yunnan Key Laboratory of Stomatology, Department of Pediatric Dentistry, The Affiliated Stomatology Hospital of Kunming Medical University, Kunming Medical University, Kunming 650500, China."
+      ],
+      "doi": "10.1242/dev.205531",
+      "date": "2026-07-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42496585/"
+    },
+    {
+      "pmid": "42496313",
+      "title": "From Therapeutic Drug to Xenobiotic in Cancer Repurposing: Clozapine Mechanisms, Metabolic Liabilities, and Human-Relevant Translational Approaches.",
+      "abstract": "Drug repurposing represents a rational and resource-efficient strategy to expand the oncological armamentarium by leveraging the established pharmacology, clinical experience, and safety-monitoring frameworks of approved non-oncological agents. Clozapine (CZP), an atypical antipsychotic characterized by broad receptor pharmacology, complex biotransformation, and clinically relevant toxicological liabilities, has emerged as a candidate of interest following preclinical evidence of context-dependent anticancer activity across multiple tumor types. As such, CZP provides an informative case study at the interface between therapeutic drug action and xenobiotic behavior. This review provides a critical and integrated synthesis of the current evidence supporting the repurposing of CZP in oncology, with particular emphasis on the relationship between its molecular mechanisms, dose-exposure requirements, pharmacological complexity, and potential toxicity. Analysis of in vitro and in vivo studies across glioblastoma, non-small cell lung cancer, breast cancer, and melanoma brain metastasis models indicates that CZP can impair tumor cell proliferation and survival through a form of mechanistic plasticity. Rather than acting through a single conserved pathway, CZP appears to disrupt shared upstream processes related to pro-survival signaling, cellular stress tolerance, and metabolic homeostasis, while engaging tumor-specific downstream responses, including autophagic cell death, mitochondria-dependent apoptosis, oxidative stress, and coordinated modulation of survival and angiogenic pathways. Despite this mechanistic rationale, translation remains substantially constrained, most notably by the order of magnitude gap between anticancer-effective concentrations in vitro and clinically achievable plasma exposures, requiring careful distinction between potentially useful anticancer pharmacology and nonspecific xenobiotic-induced cellular stress and clinically unacceptable toxicity. Key limitations include the discrepancy between anticancer-effective concentrations observed in vitro and exposures achievable during standard psychiatric dosing, the limited understanding of how CZP metabolism and metabolite formation may influence efficacy and toxicity, the absence of integrated pharmacokinetic-pharmacodynamic and toxicokinetic modeling, and the lack of dedicated clinical trial evidence. To address these challenges, this review examines complementary translational strategies, including patient-derived organoids, co-culture systems, microphysiological platforms, pharmacokinetic and toxicological modeling, and computational digital twin frameworks. Together, these approaches may support a biologically informed and risk-aware evaluation of CZP, helping to identify responsive tumor contexts, anticipate exposure-related liabilities, and prioritize rational combination strategies. By integrating therapeutic potential with xenobiotic pharmacology and toxicology, this review positions CZP within the evolving landscape of precision oncology and evidence-driven drug repurposing.",
+      "journal": "Journal of xenobiotics",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "PerMed Research Group, RISE-Health, Department of Community Medicine, Health Information and Decision (MEDCIDS), Faculty of Medicine, University of Porto, Alameda Professor Hernâni Monteiro, 4200-319 Porto, Portugal.",
+        "Laboratory of Personalized Medicine, Department of Community Medicine, Health Information and Decision (MEDCIDS), Faculty of Medicine, University of Porto, Rua Doutor Plácido da Costa, 4200-450 Porto, Portugal.",
+        "Department of Community Medicine, Information and Health Decision Sciences (MEDCIDS), Faculty of Medicine, University of Porto, Rua Doutor Placido da Costa, 4200-450 Porto, Portugal."
+      ],
+      "doi": "10.3390/jox16040125",
+      "date": "2026-07-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42496313/"
+    },
+    {
+      "pmid": "42496153",
+      "title": "Faecalibacterium duncaniae-derived metabolites protect intestinal epithelial integrity under inflammatory conditions in dairy calves.",
+      "abstract": "Preweaning diarrhea and intestinal inflammation represent leading causes of morbidity and economic loss in modern dairy calf production systems, causing impaired growth performance, increased mortality, and substantial veterinary costs that collectively constrain farm profitability. Faecalibacterium duncaniae, a key butyrate-producing commensal bacterium, is consistently depleted in diarrheic dairy calves, yet its protective effects on the ruminant intestinal epithelium remain mechanistically understood. In this study, a long-term expandable ruminant colonic organoid model was used to investigate the effects of F. duncaniae-derived metabolites under inflammatory conditions induced by tumor necrosis factor-α (TNF-α). TNF-α stimulation caused epithelial injury characterized by elevated inflammatory cytokine expression, impaired barrier function, and increased epithelial permeability. Treatment with F. duncaniae cell-free supernatant markedly attenuated inflammatory responses, restored epithelial proliferation, and preserved tight junction integrity, as evidenced by reduced permeability and increased expression of barrier-related proteins. Transcriptomic analysis further indicated suppression of inflammation-associated signaling pathways, including chemokine signaling and NF-κB pathways, accompanied by enrichment of energy metabolism and epithelial repair pathways, thereby creating a molecular environment conducive to epithelial barrier improvement and repair. In addition, comparison with the bacterial culture medium and the single metabolite sodium butyrate (NaB) further supported the role of F. duncaniae-derived metabolites in barrier repair. Collectively, these findings demonstrate that F. duncaniae-derived metabolites protect intestinal epithelial integrity under inflammatory stress and provide mechanistic and translational support for microbiota-targeted nutritional strategies to improve gut health in dairy calves, thereby establishing a foundation for the development of postbiotic-based interventions aimed at reducing diarrhea incidence, decreasing antimicrobial dependence, and enhancing growth efficiency and long-term productivity in dairy systems. Dairy calves are highly susceptible to severe impacts from diarrhea and intestinal inflammation before weaning, leading to malnutrition, dehydration, and even death. The costs associated with enteritis, including mortality, productivity losses, and treatment expenses, have been rising annually. Therefore, the treatment and prevention of enteritis are of paramount importance. Faecalibacterium duncaniae, a beneficial bacterium that produces butyrate, plays a crucial role in maintaining gut health. However, its specific protective mechanisms in intestinal inflammation remain poorly understood. This study reveals the molecular mechanisms by which F. duncaniae metabolites protect the intestinal barrier under inflammatory stress, providing valuable insights into how microbiota-based nutritional interventions can enhance gut health in neonatal and preweaning dairy calves. These strategies may offer innovative approaches to managing calf intestinal diseases, improving their health and growth, and enhancing overall productivity in dairy farming.",
+      "journal": "Applied and environmental microbiology",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Guangdong Provincial Key Laboratory of Malignant Tumor Epigenetics and Gene Regulation, Guangdong-Hong Kong Joint Laboratory for RNA Medicine, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou 510120, China; Breast Tumor Center, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou 510120, China.",
-        "Guangdong Provincial Key Laboratory of Malignant Tumor Epigenetics and Gene Regulation, Guangdong-Hong Kong Joint Laboratory for RNA Medicine, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou 510120, China; Department of Plastic Surgery, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou 510120, China.",
-        "Department of Thyroid Surgery, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou 510120, China. Electronic address: zhouy853@mail.sysu.edu.cn.",
-        "Guangdong Provincial Key Laboratory of Malignant Tumor Epigenetics and Gene Regulation, Guangdong-Hong Kong Joint Laboratory for RNA Medicine, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou 510120, China; Center for Basic and Translational Medical Research, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou 510120, China. Electronic address: zengx96@mail.sysu.edu.cn.",
-        "Guangdong Provincial Key Laboratory of Malignant Tumor Epigenetics and Gene Regulation, Guangdong-Hong Kong Joint Laboratory for RNA Medicine, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou 510120, China; Breast Tumor Center, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou 510120, China; State Key Laboratory of Oncology in South China, Sun Yat-Sen University, Guangzhou 510120, China; NHC Key Laboratory of In Vitro Diagnostics Technology. Electronic address: huangd63@mail.sysu.edu.cn."
+        "Laboratory of Gastrointestinal Microbiology, College of Animal Science and Technology, Nanjing Agricultural University, Nanjing, China.",
+        "Jiangsu Key Laboratory of Gastrointestinal Nutrition and Animal Health, National Center for International Research on Animal Gut Nutrition, College of Animal Science and Technology, Nanjing Agricultural University, Nanjing, China.",
+        "Faculty of Agricultural Innovation and Technology, Rajamangala University of Technology Isan, Nakhon Ratchasima, Thailand.",
+        "Department of Animal Science, Faculty of Agriculture and Food Processing, National University of Battambang, Battambang, Cambodia.",
+        "Department of Animal Sciences College of Agriculture and Environmental Sciences, North Carolina A&T State University, Greensboro, North Carolina, USA.",
+        "Dairy Science Department, National Research Centre, Giza, Egypt."
       ],
-      "doi": "10.1016/j.canlet.2026.218763",
-      "date": "2026-07-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42492831/"
+      "doi": "10.1128/aem.00854-26",
+      "date": "2026-07-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42496153/"
+    },
+    {
+      "pmid": "42496071",
+      "title": "An Integrated Organoid-on-a-Chip Platform for Modeling the Human Placental Barrier.",
+      "abstract": "The placental barrier plays a critical role in protecting the fetus from xenobiotics and regulating the maternal-fetal exchange. However, conventional trophoblast cell lines and animal models often fail to accurately recapitulate the key structural and functional features of the human placental barrier. In this study, a novel organ-on-a-chip (OOC) model was developed that integrated human JEG-3 trophoblast organoids with human umbilical vein endothelial cells under combined fluid shear stress and mechanical strain. This configuration supports the self-assembly of a three-dimensional, functional placental barrier. The engineered tissue exhibited essential physiological characteristics, including syncytiotrophoblast marker expression, human chorionic gonadotropin secretion, and enhanced glucose transport activity. This model was used to assess the transbarrier transport of several flavonoid compounds. The results indicated that permeation occurred primarily via passive diffusion, with permeability differences governed mainly by physicochemical properties, such as lipophilicity, rather than molecular size. This integrated OOC platform establishes a biomimetic human placental model that provides a reliable tool for evaluating placental permeability and the potential toxicity risks of complex compounds.",
+      "journal": "Tissue engineering. Part A",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Tianjin University of Traditional Chinese Medicine, Tianjin, China.",
+        "The Second Affiliated Hospital of Tianjin University of Traditional Chinese Medicine, Tianjin, China."
+      ],
+      "doi": "10.1177/19373341261470331",
+      "date": "2026-07-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42496071/"
+    },
+    {
+      "pmid": "42495988",
+      "title": "Preclinical characterization of CLSP-1025, a first-in-class, mutation-specific T-cell engager targeting a neoantigen derived from a common p53 mutation.",
+      "abstract": "Targeting intracellular oncogenic mutations with T-cell engagers has the potential to expand precision immunotherapy beyond surface antigens. Here, we describe the preclinical characterization of CLSP-1025, a mutation-specific T-cell engager that targets the p53R175H neoantigen presented by HLA-A*02:01. CLSP-1025 binding, selectivity, and functional activity were evaluated using biochemical assays, T-cell activation and cytotoxicity assays, primary human cells, patient-derived tumor organoids, and humanized mouse models. Off-target activity was assessed using broad HLA cross-reactivity screens, primary tissue panels, and cytokine release assays. Pharmacokinetic and pharmacodynamic properties were characterized in rats and human CD3 transgenic mice. CLSP-1025 bound with nM affinity to both CD3 and the HLA-A*02:01-p53R175H complex, with structural modeling suggesting spacing consistent with a physiologic immune synapse. The molecule mediated potent and mutation-dependent cytotoxicity across tumor cell lines and patient-derived organoids expressing p53R175H, with minimal activity against p53 wild-type targets. Extensive cross-reactivity screening demonstrated a narrow HLA recognition profile and limited off-target T-cell activation. In humanized mouse models, CLSP-1025 induced robust tumor growth inhibition, accompanied by increased intratumoral CD8⁺ and CD4⁺ T-cell infiltration. Pharmacokinetic analyses showed dose-proportional exposure with an IgG-like half-life, and CD3 receptor occupancy correlated with systemic exposure. These data establish CLSP-1025 as a highly selective, mutation-specific T-cell engager and support the feasibility of targeting shared intracellular neoantigens with pHLA-directed immunotherapies. This favorable preclinical activity and specificity support ongoing clinical investigation of CLSP-1025 in HLA-A*02:01+ patients with cancers harboring p53R175H and outline a framework for developing next-generation TCEs against additional driver mutations.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Clasp Therapeutics, Inc Cambridge United States.",
+        "Clasp Therapeutics, Inc United States.",
+        "Clasp Therapeutics, Inc Rockville, MD United States.",
+        "Orlando Data Science Potomac, MD United States."
+      ],
+      "doi": "10.1158/1078-0432.CCR-26-1252",
+      "date": "2026-07-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42495988/"
     },
     {
       "pmid": "42486102",
@@ -509,16 +498,110 @@
   ],
   "signals": [
     {
-      "id": "pubmed-42493487",
+      "id": "pubmed-42496939",
       "date": "2026-07-24",
-      "title": "Engineering etiology-aligned in vitro models of human vessels.",
+      "title": "The Application of 3D Cell Culture in Thyroid Cancer.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42493487/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42496939/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Annals of biomedical engineering，PMID 为 42496939。",
+      "report": "Thyroid cancer is the most prevalent endocrine malignancy and displays pronounced heterogeneity in histology, molecular alterations, and therapeutic responses, particularly in poorly differentiated, anaplastic, and radioiodine-refractory disease. Conventional...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42496585",
+      "date": "2026-07-24",
+      "title": "Tooth development, replacement and regeneration.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42496585/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Development (Cambridge, England)，PMID 为 42496585。",
+      "report": "Teeth serve as a powerful model to dissect epithelial-mesenchymal interaction-mediated organogenesis. While most non-mammalian vertebrates exhibit lifelong tooth renewal (polyphyodonty), mammals have largely lost this capacity and become predominantly diphyodo...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42496153",
+      "date": "2026-07-24",
+      "title": "Faecalibacterium duncaniae-derived metabolites protect intestinal epithelial integrity under inflammatory conditions in dairy calves.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42496153/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Applied and environmental microbiology，PMID 为 42496153。",
+      "report": "Preweaning diarrhea and intestinal inflammation represent leading causes of morbidity and economic loss in modern dairy calf production systems, causing impaired growth performance, increased mortality, and substantial veterinary costs that collectively constr...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42496071",
+      "date": "2026-07-24",
+      "title": "An Integrated Organoid-on-a-Chip Platform for Modeling the Human Placental Barrier.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42496071/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -531,98 +614,40 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Microsystems & nanoengineering，PMID 为 42493487。",
-      "report": "Vascular diseases remain a major global health burden, yet traditional animal models often fail to capture the human-specific mechanisms that drive disease progression. Recent policy shifts, including the FDA Modernization Act and the NIH's transition away fro...",
+      "fact": "PubMed 记录显示该文献收录于 Tissue engineering. Part A，PMID 为 42496071。",
+      "report": "The placental barrier plays a critical role in protecting the fetus from xenobiotics and regulating the maternal-fetal exchange. However, conventional trophoblast cell lines and animal models often fail to accurately recapitulate the key structural and functio...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42494196",
-      "date": "2026-07-23",
-      "title": "A Novel Perfused Full-Thickness Human Skin Microphysiological System for Modeling Injury, Regeneration, Tumor Pathophysiology, and Therapeutics Development.",
+      "id": "pubmed-42495988",
+      "date": "2026-07-24",
+      "title": "Preclinical characterization of CLSP-1025, a first-in-class, mutation-specific T-cell engager targeting a neoantigen derived from a common p53 mutation.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42494196/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42495988/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Precision Oncology"
+        "Precision Oncology",
+        "Drug Screening"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "肿瘤"
+        "肿瘤",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42494196。",
-      "report": "Translating preclinical research findings to clinical applications presents challenges due to the metabolic and anatomical disparities between animal models and humans. Although organ-on-a-chip models replicate the organization of human cells, they lack the co...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42493544",
-      "date": "2026-07-23",
-      "title": "Activation of the NF-κB/ALDH1A1 signaling promotes non-mutational resistance to EGFR-TKIs in non-small cell lung cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42493544/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Oncogene，PMID 为 42493544。",
-      "report": "Acquired resistance to tyrosine kinase inhibitors (TKIs) remains a major clinical challenge in the treatment of EGFR-mutant non-small cell lung cancer (NSCLC). This study established TKI-resistant variants by integrating cell lines, lung cancer organoids (LCOs...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42492831",
-      "date": "2026-07-23",
-      "title": "Targeting tumor cell-intrinsic POU4F1 enhances antitumor immunity and sensitizes tumors to immunotherapy in basal-like breast cancer by modulating macrophage recruitment and polarization.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42492831/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42492831。",
-      "report": "Immunosuppressive tumor microenvironment is a major driver of tumor progression and therapeutic resistance. Basal-like breast cancer (BLBC), which largely overlaps with triple-negative breast cancer, generally displays an immunosuppressive tumor microenvironme...",
+      "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42495988。",
+      "report": "Targeting intracellular oncogenic mutations with T-cell engagers has the potential to expand precision immunotherapy beyond surface antigens. Here, we describe the preclinical characterization of CLSP-1025, a mutation-specific T-cell engager that targets the p...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -813,34 +838,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42494793",
-      "date": "2026-07-22",
-      "title": "Integrating single-cell and spheroid strategies in tissue engineering: Comparative insights from pancreas, cartilage, heart and brain.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42494793/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Multi-omics"
-      ],
-      "tags": [
-        "biotech",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of tissue engineering，PMID 为 42494793。",
-      "report": "Tissue engineering (TE) remains a cornerstone of regenerative medicine, aiming to bypass the limitation of organ transplantation through the fabrication of functional tissue substitutes. Traditionally, TE has followed two primary paradigms: the top-down approa...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42486102",
       "date": "2026-07-22",
       "title": "HIT-MAP: A scalable approach to multimodal mapping of subcellular organization.",
@@ -992,34 +989,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42494838",
-      "date": "2026-07-16",
-      "title": "Mechanistic insights into the lipid-lowering effects of phycocyanin through human intestinal and liver organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42494838/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Current research in food science，PMID 为 42494838。",
-      "report": "Dyslipidemia is a major risk factor for cardiovascular and cerebrovascular diseases. Phycocyanin (PC), a pigment derived from Arthrospira platensis, improves hyperlipidemia in vivo; however, its mechanisms remain elusive. This study investigated whether PC inf...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42431103",
       "date": "2026-07-10",
       "title": "DRIVE: a comprehensive resource deciphering drug-induced transcriptomic and splicing response in cancer cell.",
@@ -1145,6 +1114,40 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in medicine，PMID 为 42491413。",
       "report": "To construct and validate a prediction model for tumor metastasis in patients with urological tumors based on liquid biopsy biomarkers and clinical characteristics, to facilitate early clinical identification of metastasis risk and formulation of individualize...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42496313",
+      "date": "2026-07-02",
+      "title": "From Therapeutic Drug to Xenobiotic in Cancer Repurposing: Clozapine Mechanisms, Metabolic Liabilities, and Human-Relevant Translational Approaches.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42496313/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of xenobiotics，PMID 为 42496313。",
+      "report": "Drug repurposing represents a rational and resource-efficient strategy to expand the oncological armamentarium by leveraging the established pharmacology, clinical experience, and safety-monitoring frameworks of approved non-oncological agents. Clozapine (CZP)...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
