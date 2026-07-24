@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-24T08:45:08.989731+00:00",
+  "capturedAt": "2026-07-24T14:16:05.512659+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,32 +14,87 @@
     "end": "2026-07-24"
   },
   "pmids": [
+    "42494838",
+    "42494793",
+    "42494196",
     "42493544",
     "42493487",
     "42492831",
-    "42492522",
-    "42492515",
-    "42492514",
     "42486102",
     "42482180",
     "42476548",
     "42447329",
     "42444608",
     "42431103",
+    "42495264",
     "42491104",
     "42490461",
     "42489643",
     "42482806",
     "42479609",
-    "42478866",
+    "42494421",
     "42493294",
     "42492797",
     "42492601",
     "42492027",
-    "42491413",
-    "42491061"
+    "42491413"
   ],
   "records": [
+    {
+      "pmid": "42494838",
+      "title": "Mechanistic insights into the lipid-lowering effects of phycocyanin through human intestinal and liver organoids.",
+      "abstract": "Dyslipidemia is a major risk factor for cardiovascular and cerebrovascular diseases. Phycocyanin (PC), a pigment derived from Arthrospira platensis, improves hyperlipidemia in vivo; however, its mechanisms remain elusive. This study investigated whether PC influences lipid metabolism, particularly lipoprotein secretion dynamics, using human small intestine and liver organoids, which are physiologically relevant in vitro models. In small intestinal organoids, PC significantly suppressed chylomicron marker apolipoprotein (Apo) B-48 secretion without affecting its expression and intracellular triglyceride levels. Peptidomic analysis using mass spectrometry identified MKTPL as a key peptide among digestion-derived peptides of PC that exhibited an inhibitory effect on chylomicron secretion similar to that of intact PC. In liver organoids, digested PC (dPC) and MKTPL reduced the secretion of very-low-density lipoprotein marker ApoB-100. These results revealed the novel action of PC and dPC in preventing lipoprotein secretion in both intestinal and liver cells, providing mechanistic insights into their lipid-lowering effects.",
+      "journal": "Current research in food science",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "DIC Corporation, Central Research Laboratories, Chiba, 285-8668, Japan.",
+        "Food Biochemistry Laboratory, Department of Applied Biological Chemistry, Graduate School of Agricultural and Life Sciences, The University of Tokyo, Tokyo, 113-8657, Japan.",
+        "Nutri-Life Science Laboratory, Department of Applied Biological Chemistry, Graduate School of Agricultural and Life Sciences, The University of Tokyo, Tokyo, 113-8657, Japan.",
+        "Department of Microbiology and Immunology, School of Pharmaceutical Sciences, Wakayama Medical University, Wakayama, 640-8156, Japan.",
+        "Department of Virology, Research Institute for Microbial Diseases, Osaka University, Osaka, 565-0871, Japan."
+      ],
+      "doi": "10.1016/j.crfs.2026.101502",
+      "date": "2026-07-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42494838/"
+    },
+    {
+      "pmid": "42494793",
+      "title": "Integrating single-cell and spheroid strategies in tissue engineering: Comparative insights from pancreas, cartilage, heart and brain.",
+      "abstract": "Tissue engineering (TE) remains a cornerstone of regenerative medicine, aiming to bypass the limitation of organ transplantation through the fabrication of functional tissue substitutes. Traditionally, TE has followed two primary paradigms: the top-down approach, utilising single cells seeded on a scaffold, and the bottom-up approach, employing cell spheroids as building blocks. While top-down offers architectural and structural control, bottom-up promotes self-assembly, native-like extracellular matrix deposition, and intercellular signalling. However, modern techniques increasingly blur this dichotomy, creating a spectrum of cell-based fabrication approaches. This review evaluates the diverse approaches across four major tissue classes: epithelial (pancreas as an example), connective (cartilage), muscle (heart), and nervous (brain) tissues. For each tissue, we examine notable studies to evaluate how different assembly methods recapitulate native tissue properties. By reviewing case studies across diverse tissue types, we highlight the relative strengths and limitations of various fabrication strategies. Although this review is limited by a selective cross-section of literature within a rapidly advancing technological landscape, it provides critical insights into optimising next-generation tissue constructs. In conclusion, we posit that there is no universal fabrication strategy; rather, the future of the field depends on tailoring approaches along this single-cell-to-spheroid spectrum based on the specific architectural and functional demands of the target tissue.",
+      "journal": "Journal of tissue engineering",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Bioengineering & Automation (BE&A), Bioprocessing Technology Institute (BTI), Agency for Science, Technology, and Research (A STAR), Singapore.",
+        "Department of Orthopaedic Surgery, Yong Loo Lin School of Medicine, National University of Singapore, Singapore.",
+        "Faculty of Dentistry, National University of Singapore, Singapore.",
+        "Department of Food Science and Technology, National University of Singapore, Singapore.",
+        "Bezos Centre for Sustainable Protein at the National University of Singapore, Singapore."
+      ],
+      "doi": "10.1177/20417314261460410",
+      "date": "2026-07-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42494793/"
+    },
+    {
+      "pmid": "42494196",
+      "title": "A Novel Perfused Full-Thickness Human Skin Microphysiological System for Modeling Injury, Regeneration, Tumor Pathophysiology, and Therapeutics Development.",
+      "abstract": "Translating preclinical research findings to clinical applications presents challenges due to the metabolic and anatomical disparities between animal models and humans. Although organ-on-a-chip models replicate the organization of human cells, they lack the complexity of the microenvironment and anatomical fidelity. Developing alternative research models with greater physiological and anatomical relevance to humans holds the potential to enhance translational success and reduce reliance on animal experimentation. In this study, we have showcased the technical details and conditions to maintain the viability of ex vivo perfused large human abdominal fasciocutaneous flaps for up to three weeks. Our efforts involved refining surgical procedures, vascular territory mapping (angiosome analysis), and pedicle exploration; engineering the bioreactor system; and optimizing perfusion media. Angiography via thermal and fluorescent methods was used to confirm the perfusion success. Metabolic activity was closely monitored by tracking glucose consumption and lactate production. Assessments of tissue viability encompassed histological analysis, TUNEL staining, gene expression profiling, measurement of vascular and metabolic reactivity, and in vitro propagation of isolated adipose stem cells and dermal fibroblasts. Furthermore, we harnessed our optimized human skin perfusion model to investigate the dynamics of radiation and chemical-induced injuries. Additionally, we explored the model's utility in studying adipose tissue metabolism and employed human skin tissue to establish melanoma and breast cancer tumor models. To our knowledge, this is the first model capable of preserving the function and viability of a large flap for extended periods, providing a proof-of-concept foundation for diverse research applications.",
+      "journal": "Advanced healthcare materials",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Plastic Surgery, University of Pittsburgh, Pittsburgh, Pennsylvania, USA.",
+        "Aging Institute of UPMC, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, USA."
+      ],
+      "doi": "10.1002/adhm.71445",
+      "date": "2026-07-23",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42494196/"
+    },
     {
       "pmid": "42493544",
       "title": "Activation of the NF-κB/ALDH1A1 signaling promotes non-mutational resistance to EGFR-TKIs in non-small cell lung cancer.",
@@ -107,73 +162,6 @@
       "doi": "10.1016/j.canlet.2026.218763",
       "date": "2026-07-23",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42492831/"
-    },
-    {
-      "pmid": "42492522",
-      "title": "Tissue-reactive zonation of mesenchymal-like phenotypes in human glioblastoma.",
-      "abstract": "Glioblastoma is the deadliest brain cancer, characterized by large cellular diversity. Both neurodevelopment-like and mesenchymal-like cell states have been described, with the latter being strongly implicated in malignancy and disease progression. However, the spatial organization of these mesenchymal-like cell states has not been systematically described outside the tumor bulk. We performed deep single-cell RNA sequencing of rare glioblastoma cases where tissue could be sampled from tumor core to macroscopically normal cortex and 888-plex enhanced electric single-molecule fluorescence in situ hybridization (EEL-FISH) spatial transcriptomics on a large cohort of standard resections. We also established four glioblastoma organoid lines to test in vitro inducibility of mesenchymal-like cell states under hypoxia and blood plasma exposure. We discovered that previously defined mesenchymal-like tumor cell states were shared across both malignant and non-malignant cell types and spatially confined to the tumor bulk. Peripheral regions were instead dominated by neurodevelopment-like tumor states and endogenous microglia. In patient-derived organoids and non-malignant astrocytes, the mesenchymal transcriptional state could be reversibly induced in vitro by hypoxia and human plasma, indicative of a wound response. Multiplex single-molecule spatial transcriptomics revealed that the activation of mesenchymal-like states was associated with hypoxia and organized by distance to perivascular niches. Our findings clarify the cellular landscape and biology of glioblastoma, wherein the mesenchymal state arises at least partly as a reactive tissue state shared by all cells in the tumor bulk. This work was supported by Region Stockholm, Erling-Persson Family Foundation (Atlas of Childhood Disease), Hjärnfonden (FO2023-0309), Swedish Research Council (2022-01248), and Torsten Söderberg Foundation.",
-      "journal": "Med (New York, N.Y.)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Medical Biochemistry and Biophysics, Karolinska Institute, 17177 Stockholm, Sweden.",
-        "Department of Medical Biochemistry and Biophysics, Karolinska Institute, 17177 Stockholm, Sweden; Department of Neurology, Karolinska University Hospital, 17164 Stockholm, Sweden.",
-        "Department of Medical Biochemistry and Biophysics, Karolinska Institute, 17177 Stockholm, Sweden; Department of Clinical Pathology and Cancer Diagnostics, Karolinska University Hospital, 17164 Stockholm, Sweden.",
-        "Department of Medical Biochemistry and Biophysics, Karolinska Institute, 17177 Stockholm, Sweden; Center for Brain & Disease Research, VIB, 3000 Leuven, Belgium; Center for AI & Computational Biology, VIB, 3000 Leuven, Belgium; Department of Human Genetics, KU Leuven, 3000 Leuven, Belgium.",
-        "Department of Clinical Pathology and Cancer Diagnostics, Karolinska University Hospital, 17164 Stockholm, Sweden; Department of Oncology-Pathology, Karolinska Institute, 17177 Stockholm, Sweden.",
-        "Department of Medical Biochemistry and Biophysics, Karolinska Institute, 17177 Stockholm, Sweden; Department of Translational Neuroscience, University Medical Center Utrecht, 3584 CG Utrecht, the Netherlands.",
-        "Department of Clinical Neuroscience, Karolinska Institute, 17177 Stockholm, Sweden; Department of Neurosurgery, Karolinska University Hospital, 17164 Stockholm, Sweden.",
-        "Department of Medical Biochemistry and Biophysics, Karolinska Institute, 17177 Stockholm, Sweden. Electronic address: sten.linnarsson@ki.se."
-      ],
-      "doi": "10.1016/j.medj.2026.101228",
-      "date": "2026-07-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42492522/"
-    },
-    {
-      "pmid": "42492515",
-      "title": "Brain corticogenesis promotes SARS-CoV-2 neuro-glial tropism through lipid-dependent viral replication.",
-      "abstract": "While extensive research has examined the neuroinvasiveness of SARS-CoV-2, its relationship with brain maturation remains unclear. Using a multi-omics approach, we established cerebral organoid (CBO) at day 60 (EB60) and day 120 (EB120) to model immature and mature developmental stages. We found that enhanced corticogenesis and gliogenesis during maturation are associated with substantial alterations in lipid metabolism, functionally linking these processes to coordinated molecular and functional brain development. Leveraging this model, we provide the first quantitative insights into long-term viral propagation kinetics up to 20 days post-infection, revealing significantly higher infectivity in mature CBOs. Single-cell transcriptomics, RT-qPCR, and immunohistochemistry revealed the upregulation of lipid-associated genes in EB120, suggesting a key driver of increased susceptibility. Consistently, pharmacological lipid reduction attenuated SARS-CoV-2 infection. Our findings establish a mechanistic link between intrinsic brain maturation and viral susceptibility mediated by lipid remodeling, suggesting lipid-lowering strategies as potential candidates for therapeutic repurposing in COVID-19.",
-      "journal": "Stem cell reports",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Medical Biotechnology, Yeungnam University, Gyeongsan 38541, Korea. Electronic address: bsmoon@yu.ac.kr.",
-        "Department of Convergent Research of Emerging Virus Infection, Therapeutics and Biotechnology Division, Korea Research Institute of Chemical Technology, Daejeon 34114, Korea. Electronic address: dgahn@krict.re.kr.",
-        "Department of Cell Biology and Physiology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.",
-        "Department of Medical Biotechnology, Yeungnam University, Gyeongsan 38541, Korea.",
-        "Drug Discovery Platform Research Center, Therapeutics and Biotechnology Division, Korea Research Institute of Chemical Technology, Daejeon 34114, Korea.",
-        "Department of Convergent Research of Emerging Virus Infection, Therapeutics and Biotechnology Division, Korea Research Institute of Chemical Technology, Daejeon 34114, Korea.",
-        "Department of Ocean Integrated Science, Chonnam National University, Yeosu 59626, Korea.",
-        "Untreatable Infectious Disease Institute, Kyungpook National University, Daegu 41944, Korea; Department of Microbiology, School of Medicine, Kyungpook National University, Daegu 41944, Korea. Electronic address: sjkim0080@knu.ac.kr.",
-        "Drug Discovery Platform Research Center, Therapeutics and Biotechnology Division, Korea Research Institute of Chemical Technology, Daejeon 34114, Korea. Electronic address: hycho@krict.re.kr."
-      ],
-      "doi": "10.1016/j.stemcr.2026.103020",
-      "date": "2026-07-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42492515/"
-    },
-    {
-      "pmid": "42492514",
-      "title": "Allogeneic iPSC-derived γδT cells demonstrate antitumor efficacy against patient-derived tissues.",
-      "abstract": "Various immunotherapies have been developed to treat malignant tumors, and autologous CAR-T cell therapy is clinically used for certain malignancies. However, their efficacy against solid tumors is limited. γδT cells are recognized for their potent tumor cytotoxicity and MHC-unrestricted activity. We successfully induced γδT cells from iPS cells and demonstrated their cytotoxicity against colorectal cancer cell lines in vitro. However, cancer cell lines often lack critical tumor characteristics such as heterogeneity and drug sensitivity. In contrast, patient-derived cancer organoids retain many features of the patient's tumor tissues. This study evaluated the cytotoxicity of allogeneic iγδT cells against cell lines and organoids, in vitro and in vivo. iγδT cells showed 70%-90% cytotoxicity against cell lines and organoids in vitro. In vivo, local and intravenous administration of iγδT cells suppressed tumor growth by 70%-100%, highlighting their potential as a novel immunotherapy for colorectal cancer.",
-      "journal": "Stem cell reports",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Division of Stem Cell Medicine, Graduate School of Medicine, Kobe University, Kobe, Hyogo, Japan; Division of Gastroenterology, Department of Internal Medicine, Kobe University Graduate School of Medicine, Kobe University, Kobe, Hyogo, Japan.",
-        "Division of Stem Cell Medicine, Graduate School of Medicine, Kobe University, Kobe, Hyogo, Japan; Division of Advanced Medical Science, Graduate School of Science, Technology and Innovation, Kobe University, Kobe, Hyogo, Japan; Center for Human Resource Development for Regenerative Medicine, Kobe University Hospital, Kobe, Hyogo, Japan.",
-        "Division of Stem Cell Medicine, Graduate School of Medicine, Kobe University, Kobe, Hyogo, Japan.",
-        "Division of Stem Cell Medicine, Graduate School of Medicine, Kobe University, Kobe, Hyogo, Japan; Division of Urology, Graduate School of Medicine, Kobe University, Kobe, Hyogo, Japan.",
-        "Division of Stem Cell Medicine, Graduate School of Medicine, Kobe University, Kobe, Hyogo, Japan; Division of Gastrointestinal Surgery, Department of Surgery, Graduate School of Medicine, Kobe University, Kobe, Hyogo, Japan.",
-        "Division of Gastrointestinal Surgery, Department of Surgery, Graduate School of Medicine, Kobe University, Kobe, Hyogo, Japan.",
-        "Division of Gastroenterology, Department of Internal Medicine, Kobe University Graduate School of Medicine, Kobe University, Kobe, Hyogo, Japan.",
-        "Division of Stem Cell Medicine, Graduate School of Medicine, Kobe University, Kobe, Hyogo, Japan; Division of Advanced Medical Science, Graduate School of Science, Technology and Innovation, Kobe University, Kobe, Hyogo, Japan; Center for Human Resource Development for Regenerative Medicine, Kobe University Hospital, Kobe, Hyogo, Japan; Division of Signal Pathways, Biosignal Research Center, Kobe University, Kobe, Japan. Electronic address: takaaoi@med.kobe-u.ac.jp."
-      ],
-      "doi": "10.1016/j.stemcr.2026.103018",
-      "date": "2026-07-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42492514/"
     },
     {
       "pmid": "42486102",
@@ -287,6 +275,22 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42431103/"
     },
     {
+      "pmid": "42495264",
+      "title": "Albumin-Binding Domains in Therapeutic Protein Engineering: A Structural and Computational Perspective on Rational Design.",
+      "abstract": "Therapeutic proteins face a critical pharmacokinetic challenge: rapid clearance from circulation limits their clinical efficacy. Albumin-binding domains (ABDs) offer an elegant solution by enabling therapeutic proteins to \"hitchhike\" on serum albumin's favorable 19-day half-life through FcRn-mediated recycling. Clinical validation through approved therapeutics like ozoralizumab demonstrates the success of this approach, with preclinical studies showing fusion to an ABD extended half-life to 18 days. This review provides an analysis of ABD-fusion protein design, integrating structural biology, computational prediction, and rational engineering principles. We catalog the major classes of albumin-binding modalities, including bacterial three-helix bundle domains, engineered peptides, antibody-derived binders, and alternative scaffolds, comparing their binding properties, size contributions, cross-species reactivity, and production cost. Critical examination of linker architectures reveals that flexible glycine-serine linkers (particularly the widely successful (GGGGS)3 motif) provide optimal balance between domain independence and molecular economy, though linker choice profoundly influences not only spatial separation but also binding affinity, folding, stability, and pharmacokinetics. We evaluate the utility and limitations of the structure prediction tools for ABD-fusion design. We establish practical guidelines for integrating computational screening with experimental validation. This review provides protein engineers and synthetic biologists with a comprehensive framework for rational design of albumin-binding therapeutics, emphasizing the synergistic integration of structural insight, computational prediction, and systematic experimental validation to accelerate development of next-generation long-acting biotherapeutics.",
+      "journal": "SynBio",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Physics and Astronomy, Brigham Young University, Utah.",
+        "Department of Chemical and Biological Engineering, Brigham Young University, Utah."
+      ],
+      "doi": "10.3390/synbio4010005",
+      "date": "2026-02-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42495264/"
+    },
+    {
       "pmid": "42491104",
       "title": "Deep learning for small-molecule drug discovery: From molecular design to clinical translation.",
       "abstract": "Recent advances in artificial intelligence (AI) are increasingly transforming drug discovery, offering new approaches to accelerate the identification and optimization of therapeutic candidates. Deep learning (DL) methods have shown strong potential for generative modeling and molecular property prediction, enabling the design of compounds with tailored pharmacological profiles. In this review, we synthesize recent AI-driven progress in drug discovery, highlighting both achievements and ongoing challenges. We discuss key technical aspects underpinning DL-based models, including the use of curated molecular databases, molecular descriptors, and standardized evaluation strategies. We examine representative architectures and illustrate how they have been applied to molecular generation, binding affinity prediction, and multi-modal integration of ligand and protein data. In addition, we provide a comprehensive analysis of AI-enabled small-molecule drugs, including discovered and repurposed molecules in clinical trials, and explore the intellectual property information and chemical structures of these compounds. We demonstrate that AI-native companies are evolving pharmaceutical pipelines by integrating these tools at various stages of development. We also address the regulatory framework of agencies such as the U.S. Food and Drug Administration (FDA) and the European Medicines Agency (EMA) as they adapt to integrate AI innovations. Finally, we outline persistent limitations, such as data inconsistency, model interpretability, and the gap between benchmark performance and real-world applicability, which remain critical barriers to widespread adoption. By consolidating technical advances and open challenges, this review aims to provide a balanced perspective on the role of AI in reshaping modern drug discovery.",
@@ -374,27 +378,22 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42479609/"
     },
     {
-      "pmid": "42478866",
-      "title": "MolGuidance: Advanced Guidance Strategies for Conditional Molecular Generation with Flow Matching.",
-      "abstract": "Key objectives in conditional molecular generation include ensuring chemical validity, aligning generated molecules with target properties, promoting structural diversity, and enabling efficient sampling for discovery. Recent advances in computer vision introduced a range of new guidance strategies for generative models, many of which can be adapted to support these goals. In this work, we integrate state-of-the-art guidance methods─including classifier-free guidance, autoguidance, and model guidance─in a leading molecule generation framework built on an SE(3)-equivariant flow matching process. We propose a hybrid guidance strategy that separately guides continuous and discrete molecular modalities─operating on velocity fields and predicted denoising probabilities, respectively─while jointly optimizing their guidance scales via Bayesian optimization. Our implementation, benchmarked on the QM9 and QMe14S data sets, achieves new state-of-the-art performance in property alignment for de novo molecular generation. The generated molecules also exhibit high structural validity. Furthermore, we systematically compare the strengths and limitations of various guidance methods, offering insights into their broader applicability.",
-      "journal": "Journal of chemical information and modeling",
+      "pmid": "42494421",
+      "title": "Exploratory profiling of serum small extracellular vesicle-associated miRNAs as candidate biomarkers for Moyamoya disease.",
+      "abstract": "Moyamoya disease (MMD) is a chronic progressive cerebrovascular disease with elevated rates of mortality and disability in children and adults. Therefore, early and accurate identification of MMD is crucial for good prognosis, effective therapeutics, and increased clinical survival rates. Serum small extracellular vesicles (EVs) have attracted significant attention as innovative liquid biopsy biomarkers for screening and diagnosing MMD. We performed small RNA (sRNA) sequencing to determine the miRNA profiles of serum-derived EVs and integrated the Weighted gene co-expression network analysis to identify the serum exosomal miRNA biomarkers within a screening cohort comprised of 10 adult MMD patients (38.7 ± 12.2 years), along with 10 age and gender-matched healthy controls (adult HCs, 41.0 ± 15.0 years) and 11 pediatric MMD patients (8.6 ± 2.2 years). Our results indicated that mRNA-derived fragments represented the largest annotated mapped fraction, whereas miRNAs were the principal small regulatory RNA class further analyzed for candidate biomarker discovery. Among them, specific EV-derived miRNAs, miR-378c, miR-205-5p and miR-374a-5p, were identified as closely related to disease progression in adult MMD patients. This miRNA exhibited significantly altered expression levels in adult MMD patients but not in pediatric cases, suggesting a potential role in the pathophysiology of MMD that might be associated with age-dependent factors or stages of disease development. The findings of this study emphasize the potential application of serum-EV-derived miRNAs as biomarkers for MMD, which could serve as an indicator for disease progression in adult patients. While the profiles of pediatric MMD were less significantly altered, the association of EV-derived miRNAs with adult disease progression presents a promising lead for adult-specific biomarkers. These results provide a foundation for larger-scale studies with longitudinal follow-up to validate using serum exosomal miRNAs, particularly miR-205-5p and miR-374a-5p as non-invasive diagnostic and prognostic biomarkers for patients with adult MMD, enhancing clinical management and patient outcomes.",
+      "journal": "Biochemistry and biophysics reports",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Chemistry, University of Florida, Gainesville, Florida 32611, United States.",
-        "Quantum Theory Project, University of Florida, Gainesville, Florida 32611, United States.",
-        "Department of Physics, University of Florida, Gainesville, Florida 32611, United States.",
-        "Department of Aerospace Engineering and Mechanics, University of Minnesota, Minneapolis, Minnesota 55455, United States.",
-        "Department of Materials Science & Engineering, University of Florida, Gainesville, Florida 32611, United States.",
-        "Center for Soft Matter Research, Department of Physics, New York University, New York, New York 10003, United States.",
-        "Simons Center for Computational Physical Chemistry, Department of Chemistry, New York University, New York, New York 10003, United States.",
-        "Courant Institute of Mathematical Sciences, New York University, New York, New York 10003, United States.",
-        "Center for Neural Science, New York University, New York, New York 10003, United States."
+        "Department of Neurosurgery, Xuanwu Hospital, Capital Medical University, Beijing, 100053, China.",
+        "China International Neuroscience Institute (China-INI), Beijing, 100053, China.",
+        "Beijing Key Laboratory for Drug Delivery Nanocarriers, CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology, Beijing, 100190, China.",
+        "Beijing Key Laboratory of Environment and Aging, Department of Nutrition & Food Hygiene, School of Public Health, Capital Medical University, Beijing, 100069, China."
       ],
-      "doi": "10.1021/acs.jcim.6c00964",
-      "date": "2026-07-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42478866/"
+      "doi": "10.1016/j.bbrep.2026.102686",
+      "date": "2026-07-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42494421/"
     },
     {
       "pmid": "42493294",
@@ -506,26 +505,6 @@
       "doi": "10.3389/fmed.2026.1718624",
       "date": "2026-07-03",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42491413/"
-    },
-    {
-      "pmid": "42491061",
-      "title": "A case of advanced esophagogastric junction cancer in which comprehensive genomic profiling by liquid biopsy led to the diagnosis of a second primary hepatocellular carcinoma.",
-      "abstract": "The primary objective of comprehensive genomic profiling (CGP) is to identify actionable genomic alterations. We report a case in which CGP performed by liquid biopsy (LB) led to the diagnosis of multiple primary cancers. A 66-year-old man was diagnosed with unresectable esophagogastric junction cancer and received systemic chemotherapy. Initially, all distant metastases disappeared; however, a new liver tumor-first suspected to be a metastasis-appeared and gradually enlarged, while the other lesions remained controlled. CGP by LB, performed after initiation of fifth-line chemotherapy, detected genomic alterations suggestive of hepatocellular carcinoma (HCC). Subsequent liver biopsy confirmed the liver tumor, initially thought to be a metastasis, as a second primary HCC. This case suggests that CGP by LB may provide an opportunity to detect multiple primary cancers. When genomic alterations that are inconsistent with the clinical diagnosis are identified, the possibility of multiple primary cancers should be considered.",
-      "journal": "International cancer conference journal",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Division of Cancer Genome Medicine, Yokohama City University Medical Center, 4-57 Urafune-cho, Minami-ku, Yokohama, 232-0024 Japan.",
-        "Gastroenterological Center, Yokohama City University Medical Center, Yokohama, Japan.",
-        "Division of Genomics Laboratory, Yokohama City University Medical Center, Yokohama, Japan.",
-        "Department of Surgery, Gastroenterological Center, Yokohama City University Medical Center, Yokohama, Japan.",
-        "Respiratory Disease Center, Yokohama City University Medical Center, Yokohama, Japan.",
-        "Department of Gastroenterology, Yokohama City University Graduate School of Medicine, Yokohama, Japan."
-      ],
-      "doi": "10.1007/s13691-026-00860-8",
-      "date": "2026-03-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42491061/"
     }
   ],
   "signals": [
@@ -554,6 +533,36 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Microsystems & nanoengineering，PMID 为 42493487。",
       "report": "Vascular diseases remain a major global health burden, yet traditional animal models often fail to capture the human-specific mechanisms that drive disease progression. Recent policy shifts, including the FDA Modernization Act and the NIH's transition away fro...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42494196",
+      "date": "2026-07-23",
+      "title": "A Novel Perfused Full-Thickness Human Skin Microphysiological System for Modeling Injury, Regeneration, Tumor Pathophysiology, and Therapeutics Development.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42494196/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42494196。",
+      "report": "Translating preclinical research findings to clinical applications presents challenges due to the metabolic and anatomical disparities between animal models and humans. Although organ-on-a-chip models replicate the organization of human cells, they lack the co...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -614,100 +623,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42492831。",
       "report": "Immunosuppressive tumor microenvironment is a major driver of tumor progression and therapeutic resistance. Basal-like breast cancer (BLBC), which largely overlaps with triple-negative breast cancer, generally displays an immunosuppressive tumor microenvironme...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42492522",
-      "date": "2026-07-23",
-      "title": "Tissue-reactive zonation of mesenchymal-like phenotypes in human glioblastoma.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42492522/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Med (New York, N.Y.)，PMID 为 42492522。",
-      "report": "Glioblastoma is the deadliest brain cancer, characterized by large cellular diversity. Both neurodevelopment-like and mesenchymal-like cell states have been described, with the latter being strongly implicated in malignancy and disease progression. However, th...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42492515",
-      "date": "2026-07-23",
-      "title": "Brain corticogenesis promotes SARS-CoV-2 neuro-glial tropism through lipid-dependent viral replication.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42492515/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42492515。",
-      "report": "While extensive research has examined the neuroinvasiveness of SARS-CoV-2, its relationship with brain maturation remains unclear. Using a multi-omics approach, we established cerebral organoid (CBO) at day 60 (EB60) and day 120 (EB120) to model immature and m...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42492514",
-      "date": "2026-07-23",
-      "title": "Allogeneic iPSC-derived γδT cells demonstrate antitumor efficacy against patient-derived tissues.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42492514/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42492514。",
-      "report": "Various immunotherapies have been developed to treat malignant tumors, and autologous CAR-T cell therapy is clinically used for certain malignancies. However, their efficacy against solid tumors is limited. γδT cells are recognized for their potent tumor cytot...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -898,6 +813,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42494793",
+      "date": "2026-07-22",
+      "title": "Integrating single-cell and spheroid strategies in tissue engineering: Comparative insights from pancreas, cartilage, heart and brain.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42494793/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of tissue engineering，PMID 为 42494793。",
+      "report": "Tissue engineering (TE) remains a cornerstone of regenerative medicine, aiming to bypass the limitation of organ transplantation through the fabrication of functional tissue substitutes. Traditionally, TE has followed two primary paradigms: the top-down approa...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42486102",
       "date": "2026-07-22",
       "title": "HIT-MAP: A scalable approach to multimodal mapping of subcellular organization.",
@@ -1015,32 +958,65 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42478866",
-      "date": "2026-07-21",
-      "title": "MolGuidance: Advanced Guidance Strategies for Conditional Molecular Generation with Flow Matching.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
+      "id": "pubmed-42494421",
+      "date": "2026-07-20",
+      "title": "Exploratory profiling of serum small extracellular vesicle-associated miRNAs as candidate biomarkers for Moyamoya disease.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42478866/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42494421/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "AI for Biology",
-        "Drug Discovery"
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Drug Screening"
       ],
       "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of chemical information and modeling，PMID 为 42478866。",
-      "report": "Key objectives in conditional molecular generation include ensuring chemical validity, aligning generated molecules with target properties, promoting structural diversity, and enabling efficient sampling for discovery. Recent advances in computer vision introd...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Biochemistry and biophysics reports，PMID 为 42494421。",
+      "report": "Moyamoya disease (MMD) is a chronic progressive cerebrovascular disease with elevated rates of mortality and disability in children and adults. Therefore, early and accurate identification of MMD is crucial for good prognosis, effective therapeutics, and incre...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42494838",
+      "date": "2026-07-16",
+      "title": "Mechanistic insights into the lipid-lowering effects of phycocyanin through human intestinal and liver organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42494838/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Current research in food science，PMID 为 42494838。",
+      "report": "Dyslipidemia is a major risk factor for cardiovascular and cerebrovascular diseases. Phycocyanin (PC), a pigment derived from Arthrospira platensis, improves hyperlipidemia in vivo; however, its mechanisms remain elusive. This study investigated whether PC inf...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1202,33 +1178,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42491061",
-      "date": "2026-03-26",
-      "title": "A case of advanced esophagogastric junction cancer in which comprehensive genomic profiling by liquid biopsy led to the diagnosis of a second primary hepatocellular carcinoma.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
+      "id": "pubmed-42495264",
+      "date": "2026-02-12",
+      "title": "Albumin-Binding Domains in Therapeutic Protein Engineering: A Structural and Computational Perspective on Rational Design.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42491061/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42495264/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
+        "AI for Biology",
+        "Drug Discovery",
+        "Drug Screening",
+        "Multi-omics"
       ],
       "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "药筛",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International cancer conference journal，PMID 为 42491061。",
-      "report": "The primary objective of comprehensive genomic profiling (CGP) is to identify actionable genomic alterations. We report a case in which CGP performed by liquid biopsy (LB) led to the diagnosis of multiple primary cancers. A 66-year-old man was diagnosed with u...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 SynBio，PMID 为 42495264。",
+      "report": "Therapeutic proteins face a critical pharmacokinetic challenge: rapid clearance from circulation limits their clinical efficacy. Albumin-binding domains (ABDs) offer an elegant solution by enabling therapeutic proteins to \"hitchhike\" on serum albumin's favorab...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
