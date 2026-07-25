@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-07-24",
+  "updatedAt": "2026-07-25",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -822,6 +822,165 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42497345",
+      "date": "2026-07-24",
+      "title": "Cell death analysis of inducible, titratable neurodegenerative disease models in zebrafish and human stem cell-derived retinal organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42497345/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Disease models & mechanisms，PMID 为 42497345。",
+      "report": "Inducible disease models enable large-scale screening by providing control over pathology onset, such as cell death in neurodegenerative disease. The nitroreductase (NTR)/prodrug system of cell ablation has facilitated investigations of cell function and regen...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_009e5e0e54d9533a006a6430921f9c819a96a6e3be30c08c4c",
+        "reviewedAt": "2026-07-25T03:42:09.441991+00:00",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信息合理，元数据清晰，未包含不当临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "类别和证据水平合理，符合文献内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断清晰分开，符合来源证据水平。"
+        },
+        "riskFlags": [
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "AI for Biology",
+            "Drug Discovery",
+            "Drug Screening",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "AI 制药",
+            "蛋白设计",
+            "分子生成",
+            "药筛",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Disease models & mechanisms，PMID 为 42497345。",
+          "report": "Inducible disease models enable large-scale screening by providing control over pathology onset, such as cell death in neurodegenerative disease. The nitroreductase (NTR)/prodrug system of cell ablation has facilitated investigations of cell function and regen...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42497252",
+      "date": "2026-07-24",
+      "title": "Expanded GEP-NET organoid culture for personalized therapy evaluation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42497252/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42497252。",
+      "report": "Gastro-entero-pancreatic neuroendocrine tumors (GEP-NETs) are a rare subset of cancers with increasing incidence. Due to their slow growth and lack of targetable mutations, the identification of effective treatments remains limited. One reason behind this stag...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_00374dfcff246e04006a643097ba6081988ed5b4c9d237e130",
+        "reviewedAt": "2026-07-25T03:42:09.441991+00:00",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需人工审查，因存在临床结论的不确定性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类支持不足，缺乏明确的研究质量指标。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平不合理，尽管文献可靠性高，但存在研究方法和数据方面的潜在问题。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42497252。",
+          "report": "Gastro-entero-pancreatic neuroendocrine tumors (GEP-NETs) are a rare subset of cancers with increasing incidence. Due to their slow growth and lack of targetable mutations, the identification of effective treatments remains limited. One reason behind this stag...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42496939",
       "date": "2026-07-24",
       "title": "The Application of 3D Cell Culture in Thyroid Cancer.",
@@ -1047,145 +1206,74 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42496071",
+      "id": "pubmed-42497395",
       "date": "2026-07-24",
-      "title": "An Integrated Organoid-on-a-Chip Platform for Modeling the Human Placental Barrier.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "title": "Lung Cancer Biomarker Testing: IHC, Tissue Genomics, Digital Pathology, and ctDNA.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42496071/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42497395/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models"
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
       ],
       "tags": [
-        "类器官",
-        "疾病模型"
+        "诊断",
+        "精准医疗",
+        "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Tissue engineering. Part A，PMID 为 42496071。",
-      "report": "The placental barrier plays a critical role in protecting the fetus from xenobiotics and regulating the maternal-fetal exchange. However, conventional trophoblast cell lines and animal models often fail to accurately recapitulate the key structural and functio...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Cancer journal (Sudbury, Mass.)，PMID 为 42497395。",
+      "report": "Testing for predictive biomarkers in lung cancer has evolved to integrate immunohistochemistry, tissue-based next-generation sequencing (NGS), and liquid biopsy. Tissue-based NGS remains the foundation for comprehensive genomic profiling, enabling detection of...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0a22303915d8f520006a63c1e1157c819faf4c3e7643e7e957",
-        "reviewedAt": "2026-07-24T19:49:26.477143+00:00",
+        "responseId": "resp_0bc2f8327549335e006a64309d1fc481989dc617b2705fde6d",
+        "reviewedAt": "2026-07-25T03:42:09.441991+00:00",
         "status": "pass",
         "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号满足出版标准，数据清晰且支持独立验证。",
+        "reviewSummaryCn": "该记录符合发表标准，信息准确且中立。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，符合提供的元数据。"
+          "notesCn": "主类别和子类别合理，符合文献内容。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断已明确分开，提供的证据水平合适。"
+          "notesCn": "事实、报告和推论清晰分开，证据等级适中。"
         },
         "riskFlags": [
+          "clinical_claim",
           "insufficient_source"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
           "evidenceLevel": "Medium",
           "themes": [
-            "Organoids",
-            "Advanced Disease Models"
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
           ],
           "tags": [
-            "类器官",
-            "疾病模型"
+            "诊断",
+            "精准医疗",
+            "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Tissue engineering. Part A，PMID 为 42496071。",
-          "report": "The placental barrier plays a critical role in protecting the fetus from xenobiotics and regulating the maternal-fetal exchange. However, conventional trophoblast cell lines and animal models often fail to accurately recapitulate the key structural and functio...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42495988",
-      "date": "2026-07-24",
-      "title": "Preclinical characterization of CLSP-1025, a first-in-class, mutation-specific T-cell engager targeting a neoantigen derived from a common p53 mutation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42495988/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42495988。",
-      "report": "Targeting intracellular oncogenic mutations with T-cell engagers has the potential to expand precision immunotherapy beyond surface antigens. Here, we describe the preclinical characterization of CLSP-1025, a mutation-specific T-cell engager that targets the p...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_029ceece94276b3a006a63c1e8a85c819e972831589dc8b4d0",
-        "reviewedAt": "2026-07-24T19:49:26.477143+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号符合发布标准，信息清晰且分离明确。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类符合文献内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平合理，信息分离清晰。"
-        },
-        "riskFlags": [
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42495988。",
-          "report": "Targeting intracellular oncogenic mutations with T-cell engagers has the potential to expand precision immunotherapy beyond surface antigens. Here, we describe the preclinical characterization of CLSP-1025, a mutation-specific T-cell engager that targets the p...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Cancer journal (Sudbury, Mass.)，PMID 为 42497395。",
+          "report": "Testing for predictive biomarkers in lung cancer has evolved to integrate immunohistochemistry, tissue-based next-generation sequencing (NGS), and liquid biopsy. Tissue-based NGS remains the foundation for comprehensive genomic profiling, enabling detection of...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -3157,82 +3245,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Nucleic acids research，PMID 为 42444608。",
           "report": "Virtual cells represent a promising paradigm to understand cellular mechanisms, behavior, and dynamics. The realization of virtual cells relies on the accurate modeling of cellular dynamics from large-scale, multi-modal single-cell data. However, experiment-sp...",
           "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42491413",
-      "date": "2026-07-03",
-      "title": "A prediction model for urological tumor metastasis using liquid biopsy-derived biomarkers.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42491413/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in medicine，PMID 为 42491413。",
-      "report": "To construct and validate a prediction model for tumor metastasis in patients with urological tumors based on liquid biopsy biomarkers and clinical characteristics, to facilitate early clinical identification of metastasis risk and formulation of individualize...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_089a2b4dc54dd4ae006a62e08917e08199854a8396cb1aa6b5",
-        "reviewedAt": "2026-07-24T03:47:40.048014+00:00",
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "此信号符合发布标准，信息分离清晰，没有临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，与源信息一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平符合源信息，信息分离清晰。"
-        },
-        "riskFlags": [
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in medicine，PMID 为 42491413。",
-          "report": "To construct and validate a prediction model for tumor metastasis in patients with urological tumors based on liquid biopsy biomarkers and clinical characteristics, to facilitate early clinical identification of metastasis risk and formulation of individualized treatment approaches.",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }

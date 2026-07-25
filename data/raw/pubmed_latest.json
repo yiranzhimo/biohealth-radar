@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-24T19:49:18.482505+00:00",
+  "capturedAt": "2026-07-25T03:42:00.315859+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-07-24",
-    "end": "2026-07-24"
+    "start": "2025-07-25",
+    "end": "2026-07-25"
   },
   "pmids": [
+    "42497345",
+    "42497252",
     "42496939",
     "42496585",
     "42496313",
     "42496153",
-    "42496071",
-    "42495988",
     "42486102",
     "42482180",
     "42476548",
@@ -32,14 +32,60 @@
     "42489643",
     "42482806",
     "42479609",
+    "42497395",
     "42494421",
     "42493294",
     "42492797",
     "42492601",
-    "42492027",
-    "42491413"
+    "42492027"
   ],
   "records": [
+    {
+      "pmid": "42497345",
+      "title": "Cell death analysis of inducible, titratable neurodegenerative disease models in zebrafish and human stem cell-derived retinal organoids.",
+      "abstract": "Inducible disease models enable large-scale screening by providing control over pathology onset, such as cell death in neurodegenerative disease. The nitroreductase (NTR)/prodrug system of cell ablation has facilitated investigations of cell function and regeneration but has not been widely adopted as a disease modeling platform, perhaps owing to assumptions that the cell death mechanism(s) elicited is artificial in nature. Prior reports suggested that NTR/prodrug-mediated death occurred through apoptosis, necroptosis and/or parthanatos, which have all been implicated in neurodegenerative disease. To clarify this issue, we investigated the cell death pathway(s) elicited by the prodrug metronidazole (MTZ) with improved nitroreductase enzyme variants. We assessed the cell death pathway(s) elicited by NTR 2.0-expressing zebrafish retinal neurons using a transcriptomic analysis, chemical inhibitors and gene-targeting assays. NTR-H, a novel NTR variant, was tested - and found to be effective - in human stem cell-derived retinal organoids. Parthanatos was implicated across all conditions tested, while evidence of apoptosis was variable. As parthanatos is associated with neurodegeneration, our results support the use of the NTR/MTZ system to create inducible neurodegenerative models targeted to specific disease-relevant neuronal cell types.",
+      "journal": "Disease models & mechanisms",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Wilmer Eye Institute, Johns Hopkins School of Medicine, Baltimore, MD 21231, USA.",
+        "Translational Vascular Medicine Branch, National Heart, Lung and Blood Institute, National Institutes of Health, Bethesda, MD 20814, USA.",
+        "Department of Pharmaceutical Sciences, University of Illinois-Chicago, Chicago, IL 60612, USA.",
+        "Neuroregeneration and Stem Cell Programs, Institute for Cell Engineering, Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA.",
+        "Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA.",
+        "CellSight Ocular Stem Cell and Regeneration Research Program, Department of Ophthalmology, Sue Anschutz-Rodgers Eye Center, University of Colorado Anschutz, Aurora, CO 80045, USA.",
+        "Solomon H. Snyder Department of Neuroscience, Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA.",
+        "School of Biological Sciences, Victoria University of Wellington. Wellington 6140, New Zealand.",
+        "Te Matapihipihi - The Centre for Biodiscovery and Maurice Wilkins Centre for Molecular Biodiscovery, Victoria University of Wellington, Wellington 6140, New Zealand.",
+        "Department of Ophthalmology, University of Pittsburgh, Pittsburgh, PA 15219, USA.",
+        "Department of Physiology, Pharmacology and Therapeutics, Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA."
+      ],
+      "doi": "10.1242/dmm.052747",
+      "date": "2026-07-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42497345/"
+    },
+    {
+      "pmid": "42497252",
+      "title": "Expanded GEP-NET organoid culture for personalized therapy evaluation.",
+      "abstract": "Gastro-entero-pancreatic neuroendocrine tumors (GEP-NETs) are a rare subset of cancers with increasing incidence. Due to their slow growth and lack of targetable mutations, the identification of effective treatments remains limited. One reason behind this stagnation is the lack of applicable, accurate study models. One solution is patient tumor organoids (PTOs) that maintain tumor characteristics and can scale for high throughput assays. In this study, PTOs were generated from 35 tumors of pancreatic, small intestinal, and gastric origin, obtained from 17 patients. Important subtypes including hormone functional and MEN1/VHL mutant GEP-NETs are represented, with each demonstrating growth in culture while maintaining GEP-NET immunohistochemistry and genomic characteristics. Half of G2/G3 tumors (10 of 20) could be cultured past passage 6, whereas G1 tumors (n = 15) were capable of growth until passage 4. Therapeutic targeting of the PTOs displayed both tissue-origin and grade-based response to standard of care and investigational therapies while maintaining patient tumor sensitivity and resistance. Last, a successful PTO xenograft model was developed from one PTO line. This study describes GEP-NET organoid development that demonstrates feasibility for expansion, enabling their use for translational investigations.",
+      "journal": "Science advances",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Neuroendocrine Cancer Therapy Section, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, USA.",
+        "Surgical Oncology Program, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, USA.",
+        "CCR Collaborative Bioinformatics Resource, Office of Science and Technology Resources, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, USA.",
+        "Advanced Biomedical Computational Science, Frederick National Laboratory for Cancer Research, Frederick, MD 21702, USA.",
+        "Laboratory of Pathology, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, USA.",
+        "Developmental Therapeutics Branch, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, USA.",
+        "Center for Advanced Preclinical Research, Frederick National Laboratory for Cancer Research, Center for Cancer Research, National Cancer Institute, Frederick, MD 21702, USA."
+      ],
+      "doi": "10.1126/sciadv.aea4296",
+      "date": "2026-07-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42497252/"
+    },
     {
       "pmid": "42496939",
       "title": "The Application of 3D Cell Culture in Thyroid Cancer.",
@@ -117,40 +163,6 @@
       "doi": "10.1128/aem.00854-26",
       "date": "2026-07-24",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42496153/"
-    },
-    {
-      "pmid": "42496071",
-      "title": "An Integrated Organoid-on-a-Chip Platform for Modeling the Human Placental Barrier.",
-      "abstract": "The placental barrier plays a critical role in protecting the fetus from xenobiotics and regulating the maternal-fetal exchange. However, conventional trophoblast cell lines and animal models often fail to accurately recapitulate the key structural and functional features of the human placental barrier. In this study, a novel organ-on-a-chip (OOC) model was developed that integrated human JEG-3 trophoblast organoids with human umbilical vein endothelial cells under combined fluid shear stress and mechanical strain. This configuration supports the self-assembly of a three-dimensional, functional placental barrier. The engineered tissue exhibited essential physiological characteristics, including syncytiotrophoblast marker expression, human chorionic gonadotropin secretion, and enhanced glucose transport activity. This model was used to assess the transbarrier transport of several flavonoid compounds. The results indicated that permeation occurred primarily via passive diffusion, with permeability differences governed mainly by physicochemical properties, such as lipophilicity, rather than molecular size. This integrated OOC platform establishes a biomimetic human placental model that provides a reliable tool for evaluating placental permeability and the potential toxicity risks of complex compounds.",
-      "journal": "Tissue engineering. Part A",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Tianjin University of Traditional Chinese Medicine, Tianjin, China.",
-        "The Second Affiliated Hospital of Tianjin University of Traditional Chinese Medicine, Tianjin, China."
-      ],
-      "doi": "10.1177/19373341261470331",
-      "date": "2026-07-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42496071/"
-    },
-    {
-      "pmid": "42495988",
-      "title": "Preclinical characterization of CLSP-1025, a first-in-class, mutation-specific T-cell engager targeting a neoantigen derived from a common p53 mutation.",
-      "abstract": "Targeting intracellular oncogenic mutations with T-cell engagers has the potential to expand precision immunotherapy beyond surface antigens. Here, we describe the preclinical characterization of CLSP-1025, a mutation-specific T-cell engager that targets the p53R175H neoantigen presented by HLA-A*02:01. CLSP-1025 binding, selectivity, and functional activity were evaluated using biochemical assays, T-cell activation and cytotoxicity assays, primary human cells, patient-derived tumor organoids, and humanized mouse models. Off-target activity was assessed using broad HLA cross-reactivity screens, primary tissue panels, and cytokine release assays. Pharmacokinetic and pharmacodynamic properties were characterized in rats and human CD3 transgenic mice. CLSP-1025 bound with nM affinity to both CD3 and the HLA-A*02:01-p53R175H complex, with structural modeling suggesting spacing consistent with a physiologic immune synapse. The molecule mediated potent and mutation-dependent cytotoxicity across tumor cell lines and patient-derived organoids expressing p53R175H, with minimal activity against p53 wild-type targets. Extensive cross-reactivity screening demonstrated a narrow HLA recognition profile and limited off-target T-cell activation. In humanized mouse models, CLSP-1025 induced robust tumor growth inhibition, accompanied by increased intratumoral CD8⁺ and CD4⁺ T-cell infiltration. Pharmacokinetic analyses showed dose-proportional exposure with an IgG-like half-life, and CD3 receptor occupancy correlated with systemic exposure. These data establish CLSP-1025 as a highly selective, mutation-specific T-cell engager and support the feasibility of targeting shared intracellular neoantigens with pHLA-directed immunotherapies. This favorable preclinical activity and specificity support ongoing clinical investigation of CLSP-1025 in HLA-A*02:01+ patients with cancers harboring p53R175H and outline a framework for developing next-generation TCEs against additional driver mutations.",
-      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Clasp Therapeutics, Inc Cambridge United States.",
-        "Clasp Therapeutics, Inc United States.",
-        "Clasp Therapeutics, Inc Rockville, MD United States.",
-        "Orlando Data Science Potomac, MD United States."
-      ],
-      "doi": "10.1158/1078-0432.CCR-26-1252",
-      "date": "2026-07-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42495988/"
     },
     {
       "pmid": "42486102",
@@ -367,6 +379,23 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42479609/"
     },
     {
+      "pmid": "42497395",
+      "title": "Lung Cancer Biomarker Testing: IHC, Tissue Genomics, Digital Pathology, and ctDNA.",
+      "abstract": "Testing for predictive biomarkers in lung cancer has evolved to integrate immunohistochemistry, tissue-based next-generation sequencing (NGS), and liquid biopsy. Tissue-based NGS remains the foundation for comprehensive genomic profiling, enabling detection of actionable mutations and guiding personalized therapies. RNA-based assays complement DNA testing by improving fusion detection. Liquid biopsy using circulating tumor DNA (ctDNA) offers a minimally invasive alternative for genotyping, monitoring treatment response, and assessing minimal residual disease, though sensitivity challenges persist in early-stage disease. Immunohistochemistry for PD-L1 and emerging antibody-drug conjugate targets further expands therapeutic options. Workflow optimization, including molecular tumor boards, reflex testing, and rapid assays, is critical to reduce turnaround times. Lastly, advances in digital pathology and AI promise novel biomarker discovery and integration into clinical practice, ensuring accurate interpretation and personalized treatment strategies in the rapidly evolving field of lung cancer personalized oncology.",
+      "journal": "Cancer journal (Sudbury, Mass.)",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Pathology and Translational Pathology, Moffit Cancer Center, Tampa, FL.",
+        "Department of Pathology, Yale School of Medicine, New Haven, CT."
+      ],
+      "doi": "10.1097/PPO.0000000000000839",
+      "date": "2026-07-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42497395/"
+    },
+    {
       "pmid": "42494421",
       "title": "Exploratory profiling of serum small extracellular vesicle-associated miRNAs as candidate biomarkers for Moyamoya disease.",
       "abstract": "Moyamoya disease (MMD) is a chronic progressive cerebrovascular disease with elevated rates of mortality and disability in children and adults. Therefore, early and accurate identification of MMD is crucial for good prognosis, effective therapeutics, and increased clinical survival rates. Serum small extracellular vesicles (EVs) have attracted significant attention as innovative liquid biopsy biomarkers for screening and diagnosing MMD. We performed small RNA (sRNA) sequencing to determine the miRNA profiles of serum-derived EVs and integrated the Weighted gene co-expression network analysis to identify the serum exosomal miRNA biomarkers within a screening cohort comprised of 10 adult MMD patients (38.7 ± 12.2 years), along with 10 age and gender-matched healthy controls (adult HCs, 41.0 ± 15.0 years) and 11 pediatric MMD patients (8.6 ± 2.2 years). Our results indicated that mRNA-derived fragments represented the largest annotated mapped fraction, whereas miRNAs were the principal small regulatory RNA class further analyzed for candidate biomarker discovery. Among them, specific EV-derived miRNAs, miR-378c, miR-205-5p and miR-374a-5p, were identified as closely related to disease progression in adult MMD patients. This miRNA exhibited significantly altered expression levels in adult MMD patients but not in pediatric cases, suggesting a potential role in the pathophysiology of MMD that might be associated with age-dependent factors or stages of disease development. The findings of this study emphasize the potential application of serum-EV-derived miRNAs as biomarkers for MMD, which could serve as an indicator for disease progression in adult patients. While the profiles of pediatric MMD were less significantly altered, the association of EV-derived miRNAs with adult disease progression presents a promising lead for adult-specific biomarkers. These results provide a foundation for larger-scale studies with longitudinal follow-up to validate using serum exosomal miRNAs, particularly miR-205-5p and miR-374a-5p as non-invasive diagnostic and prognostic biomarkers for patients with adult MMD, enhancing clinical management and patient outcomes.",
@@ -479,24 +508,76 @@
       "doi": "10.1200/PO-25-01199",
       "date": "2026-07-23",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42492027/"
-    },
-    {
-      "pmid": "42491413",
-      "title": "A prediction model for urological tumor metastasis using liquid biopsy-derived biomarkers.",
-      "abstract": "To construct and validate a prediction model for tumor metastasis in patients with urological tumors based on liquid biopsy biomarkers and clinical characteristics, to facilitate early clinical identification of metastasis risk and formulation of individualized diagnosis and treatment plans. A total of 360 patients with urological tumors admitted to our hospital from January 2021 to December 2024 were retrospectively included. They were randomly divided into a training set (n = 252) and a validation set (n = 108) at a ratio of 7:3. Demographic characteristics and liquid biopsy biomarker indicators of the patients were collected. In the training set, demographic characteristics (age, gender) and liquid biopsy biomarkers (C-reactive protein, neutrophil count, monocyte count, platelet count, mean platelet volume, platelet distribution width, large platelet percentage, hemoglobin, white blood cell count, and urine parameters) were assessed. Univariate analysis was used to screen metastasis-related indicators, followed by Least Absolute Shrinkage and Selection Operator (LASSO) regression and multivariate Logistic regression to identify independent predictors. Three machine learning models (random forest, support vector machine, gradient boosting) were then constructed. The efficacy of the models was evaluated by the area under the receiver operating characteristic curve (AUC). The optimal model was selected, and the importance of key prediction indicators was analyzed. There was no significant difference in baseline data between the training set and the validation set (P > 0.05). Multivariate Logistic regression indicated that C-reactive protein, neutrophil count, platelet count, platelet distribution width, hemoglobin, white blood cell count, and mean platelet volume were independent influencing factors for tumor metastasis in patients with urological tumors (all P < 0.05). The AUC of the random forest model (0.891) was significantly higher than that of the support vector machine (0.885) and the gradient boosting model (0.739), making it the optimal model. The random forest model constructed based on liquid biopsy predictive indicators can effectively predict tumor metastasis in patients with urological tumors. Neutrophil count, platelet count, and white blood cell count are key prediction indicators for urological tumor metastasis.",
-      "journal": "Frontiers in medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Urology, Qingdao Municipal Hospital, Qingdao, Shandong, China."
-      ],
-      "doi": "10.3389/fmed.2026.1718624",
-      "date": "2026-07-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42491413/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42497345",
+      "date": "2026-07-24",
+      "title": "Cell death analysis of inducible, titratable neurodegenerative disease models in zebrafish and human stem cell-derived retinal organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42497345/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Disease models & mechanisms，PMID 为 42497345。",
+      "report": "Inducible disease models enable large-scale screening by providing control over pathology onset, such as cell death in neurodegenerative disease. The nitroreductase (NTR)/prodrug system of cell ablation has facilitated investigations of cell function and regen...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42497252",
+      "date": "2026-07-24",
+      "title": "Expanded GEP-NET organoid culture for personalized therapy evaluation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42497252/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42497252。",
+      "report": "Gastro-entero-pancreatic neuroendocrine tumors (GEP-NETs) are a rare subset of cancers with increasing incidence. Due to their slow growth and lack of targetable mutations, the identification of effective treatments remains limited. One reason behind this stag...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42496939",
       "date": "2026-07-24",
@@ -592,63 +673,33 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42496071",
+      "id": "pubmed-42497395",
       "date": "2026-07-24",
-      "title": "An Integrated Organoid-on-a-Chip Platform for Modeling the Human Placental Barrier.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "title": "Lung Cancer Biomarker Testing: IHC, Tissue Genomics, Digital Pathology, and ctDNA.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42496071/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42497395/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models"
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
       ],
       "tags": [
-        "类器官",
-        "疾病模型"
+        "诊断",
+        "精准医疗",
+        "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Tissue engineering. Part A，PMID 为 42496071。",
-      "report": "The placental barrier plays a critical role in protecting the fetus from xenobiotics and regulating the maternal-fetal exchange. However, conventional trophoblast cell lines and animal models often fail to accurately recapitulate the key structural and functio...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42495988",
-      "date": "2026-07-24",
-      "title": "Preclinical characterization of CLSP-1025, a first-in-class, mutation-specific T-cell engager targeting a neoantigen derived from a common p53 mutation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42495988/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42495988。",
-      "report": "Targeting intracellular oncogenic mutations with T-cell engagers has the potential to expand precision immunotherapy beyond surface antigens. Here, we describe the preclinical characterization of CLSP-1025, a mutation-specific T-cell engager that targets the p...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Cancer journal (Sudbury, Mass.)，PMID 为 42497395。",
+      "report": "Testing for predictive biomarkers in lung cancer has evolved to integrate immunohistochemistry, tissue-based next-generation sequencing (NGS), and liquid biopsy. Tissue-based NGS remains the foundation for comprehensive genomic profiling, enabling detection of...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1082,38 +1133,6 @@
       "fact": "PubMed 记录显示该文献收录于 Nucleic acids research，PMID 为 42444608。",
       "report": "Virtual cells represent a promising paradigm to understand cellular mechanisms, behavior, and dynamics. The realization of virtual cells relies on the accurate modeling of cellular dynamics from large-scale, multi-modal single-cell data. However, experiment-sp...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42491413",
-      "date": "2026-07-03",
-      "title": "A prediction model for urological tumor metastasis using liquid biopsy-derived biomarkers.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42491413/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in medicine，PMID 为 42491413。",
-      "report": "To construct and validate a prediction model for tumor metastasis in patients with urological tumors based on liquid biopsy biomarkers and clinical characteristics, to facilitate early clinical identification of metastasis risk and formulation of individualize...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

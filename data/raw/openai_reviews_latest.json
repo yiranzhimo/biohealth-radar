@@ -1,154 +1,26 @@
 {
-  "capturedAt": "2026-07-24T19:49:26.477143+00:00",
+  "capturedAt": "2026-07-25T03:42:09.441991+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42496939",
-      "responseId": "resp_0aafddf0ba46aeed006a63c1ca48988191a2390348b8dc7c42",
+      "signalId": "pubmed-42497345",
+      "responseId": "resp_009e5e0e54d9533a006a6430921f9c819a96a6e3be30c08c4c",
       "review": {
         "status": "pass",
         "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "文献基于PubMed记录清晰且无临床结论，分类合理。",
+        "reviewSummaryCn": "信息合理，元数据清晰，未包含不当临床结论。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类与所提供资料相符。"
+          "notesCn": "类别和证据水平合理，符合文献内容。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "证据级别合理，事实、报告和推论分隔明确。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Annals of biomedical engineering，PMID 为 42496939。",
-          "report": "Thyroid cancer is the most prevalent endocrine malignancy and displays pronounced heterogeneity in histology, molecular alterations, and therapeutic responses, particularly in poorly differentiated, anaplastic, and radioiodine-refractory disease. Conventional...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42496585",
-      "responseId": "resp_09fcca8435929c01006a63c1d4e86c8192b09774db4785270c",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信息准确反映了文献来源和内容，没有临床建议，也没有不支持的结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Development (Cambridge, England)，PMID 为 42496585。",
-          "report": "Teeth serve as a powerful model to dissect epithelial-mesenchymal interaction-mediated organogenesis. While most non-mammalian vertebrates exhibit lifelong tooth renewal (polyphyodonty), mammals have largely lost this capacity and become predominantly diphyodo...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42496153",
-      "responseId": "resp_0b163638a75b2e8b006a63c1da3d28819cae98d8fe5f725e6e",
-      "review": {
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录合理且中立，未包含临床结论或治疗建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类别与源信息合理匹配。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "源报告与事实分开，证据级别适中。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Applied and environmental microbiology，PMID 为 42496153。",
-          "report": "Preweaning diarrhea and intestinal inflammation represent leading causes of morbidity and economic loss in modern dairy calf production systems, causing impaired growth performance, increased mortality, and substantial veterinary costs that collectively constr...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42496071",
-      "responseId": "resp_0a22303915d8f520006a63c1e1157c819faf4c3e7643e7e957",
-      "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号满足出版标准，数据清晰且支持独立验证。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合提供的元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断已明确分开，提供的证据水平合适。"
+          "notesCn": "事实、报告和推断清晰分开，符合来源证据水平。"
         },
         "riskFlags": [
           "insufficient_source"
@@ -159,37 +31,47 @@
           "evidenceLevel": "Medium",
           "themes": [
             "Organoids",
-            "Advanced Disease Models"
+            "Advanced Disease Models",
+            "AI for Biology",
+            "Drug Discovery",
+            "Drug Screening",
+            "Multi-omics"
           ],
           "tags": [
             "类器官",
-            "疾病模型"
+            "疾病模型",
+            "AI 制药",
+            "蛋白设计",
+            "分子生成",
+            "药筛",
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Tissue engineering. Part A，PMID 为 42496071。",
-          "report": "The placental barrier plays a critical role in protecting the fetus from xenobiotics and regulating the maternal-fetal exchange. However, conventional trophoblast cell lines and animal models often fail to accurately recapitulate the key structural and functio...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Disease models & mechanisms，PMID 为 42497345。",
+          "report": "Inducible disease models enable large-scale screening by providing control over pathology onset, such as cell death in neurodegenerative disease. The nitroreductase (NTR)/prodrug system of cell ablation has facilitated investigations of cell function and regen...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42495988",
-      "responseId": "resp_029ceece94276b3a006a63c1e8a85c819e972831589dc8b4d0",
+      "signalId": "pubmed-42497252",
+      "responseId": "resp_00374dfcff246e04006a643097ba6081988ed5b4c9d237e130",
       "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号符合发布标准，信息清晰且分离明确。",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需人工审查，因存在临床结论的不确定性。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类符合文献内容。"
+          "isSupported": false,
+          "notesCn": "分类支持不足，缺乏明确的研究质量指标。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平合理，信息分离清晰。"
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平不合理，尽管文献可靠性高，但存在研究方法和数据方面的潜在问题。"
         },
         "riskFlags": [
+          "weak_classification",
           "clinical_claim"
         ],
         "suggestedEdits": {
@@ -199,59 +81,58 @@
           "themes": [
             "Organoids",
             "Advanced Disease Models",
-            "Precision Oncology",
-            "Drug Screening"
+            "Precision Oncology"
           ],
           "tags": [
             "类器官",
             "疾病模型",
-            "肿瘤",
-            "药筛"
+            "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42495988。",
-          "report": "Targeting intracellular oncogenic mutations with T-cell engagers has the potential to expand precision immunotherapy beyond surface antigens. Here, we describe the preclinical characterization of CLSP-1025, a mutation-specific T-cell engager that targets the p...",
+          "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42497252。",
+          "report": "Gastro-entero-pancreatic neuroendocrine tumors (GEP-NETs) are a rare subset of cancers with increasing incidence. Due to their slow growth and lack of targetable mutations, the identification of effective treatments remains limited. One reason behind this stag...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42496313",
-      "responseId": "resp_0d2624c8f85f3444006a63c1ee7a5481a1a3b24649fc53110d",
+      "signalId": "pubmed-42497395",
+      "responseId": "resp_0bc2f8327549335e006a64309d1fc481989dc617b2705fde6d",
       "review": {
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人类审查以确保没有未支持的临床结论。",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合发表标准，信息准确且中立。",
         "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "主要类别和子类别的支持不够充分。"
+          "isSupported": true,
+          "notesCn": "主类别和子类别合理，符合文献内容。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "尽管分类未表现出矛盾，但根据文献的性质，证据等级应重新评估。"
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论清晰分开，证据等级适中。"
         },
         "riskFlags": [
           "clinical_claim",
           "insufficient_source"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
           "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Clinical Evidence"
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
           ],
           "tags": [
-            "类器官",
-            "疾病模型"
+            "诊断",
+            "精准医疗",
+            "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of xenobiotics，PMID 为 42496313。",
-          "report": "Drug repurposing represents a rational and resource-efficient strategy to expand the oncological armamentarium by leveraging the established pharmacology, clinical experience, and safety-monitoring frameworks of approved non-oncological agents. Clozapine (CZP)...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Cancer journal (Sudbury, Mass.)，PMID 为 42497395。",
+          "report": "Testing for predictive biomarkers in lung cancer has evolved to integrate immunohistochemistry, tissue-based next-generation sequencing (NGS), and liquid biopsy. Tissue-based NGS remains the foundation for comprehensive genomic profiling, enabling detection of...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
