@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-26T08:41:02.623298+00:00",
+  "capturedAt": "2026-07-26T14:01:56.131574+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-07-26"
   },
   "pmids": [
+    "42502818",
+    "42502713",
+    "42502608",
+    "42502268",
     "42501956",
     "42501813",
-    "42501773",
-    "42501549",
-    "42501435",
-    "42500661",
     "42498177",
     "42497867",
     "42486102",
@@ -32,14 +32,98 @@
     "42491104",
     "42490461",
     "42489643",
+    "42502846",
+    "42502197",
     "42500587",
     "42500570",
     "42499691",
-    "42499413",
-    "42498744",
-    "42498740"
+    "42499413"
   ],
   "records": [
+    {
+      "pmid": "42502818",
+      "title": "GenX exposure induces neurodevelopmental impairment and synaptic toxicity in hESC-derived cerebral organoids.",
+      "abstract": "GenX, also known as hexafluoropropylene oxide dimer acid (HFPO-DA), was introduced in 2009 as a purportedly safer alternative to perfluorooctanoic acid (PFOA). However, nearly two decades of use have raised increasing safety concerns owing to its reported association with multiple forms of organ damage. However, only a few studies have systematically evaluated the molecular mechanisms underlying the neurotoxicity of GenX exposure. In this study, we aimed to investigate the neurodevelopmental impairments and synaptic toxicity induced by GenX during cortical development using human embryonic stem cell-derived cerebral organoids. We found that early exposure to GenX resulted in reduced organoid size and concentration-dependent deficits in basal neural progenitor cell proliferation. Moreover, GenX exposure prior to differentiation impaired synapse formation and decreased the number of excitatory synapses. We also found that early GenX exposure disrupted neural activity and altered neural network organization. RNA sequencing and Gene Ontology analyses revealed that these effects were associated with dysregulation of neuropeptide signaling pathways, synapse assembly, and postsynaptic organization. Collectively, these impairments in neurogenesis and neural activity indicate that GenX exerts neurotoxic effects and may pose a potential risk factor for neurodevelopmental disorders.",
+      "journal": "Materials today. Bio",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Center for Convergence Toxicology Research, Korea Institute of Toxicology, Daejeon, 34114, Republic of Korea.",
+        "Center for Regulatory Toxicology Research, Korea Institute of Toxicology, Daejeon, 34114, Republic of Korea.",
+        "Department of Biomaterials Science, College of Natural Resources and Life Science/Life and Industry Convergence Research Institute, Pusan National University, Miryang, 50463, Republic of Korea.",
+        "Department of Biochemistry, Chungnam National University, Daejeon, 34134, Republic of Korea.",
+        "Human and Environmental Toxicology, University of Science and Technology, Daejeon, 34114, Republic of Korea.",
+        "Center for Toxicologic Pathology Research, Korea Institute of Toxicology, Daejeon, 34114, Republic of Korea."
+      ],
+      "doi": "10.1016/j.mtbio.2026.103458",
+      "date": "2026-07-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42502818/"
+    },
+    {
+      "pmid": "42502713",
+      "title": "Targeting Elastin-Derived Peptides Reverses Alveolar Epithelial Dysfunction in Chronic Obstructive Pulmonary Disease.",
+      "abstract": "Chronic obstructive pulmonary disease (COPD) is characterized by progressive alveolar destruction and defective regeneration, yet the matrix-derived factors contributing to this process remain poorly defined. We investigated the role of elastin-derived peptides (EDPs), bioactive fragments generated during cigarette smoke (CS)-induced elastin degradation, in alveolar epithelial dysfunction. In lung tissues from patients with COPD and in CS-exposed mice, elevated levels of EDPs were associated with elastic fiber disruption and impaired alveolar type 2 (AT2)-to-alveolar type 1 (AT1) differentiation. These observations were supported by histological analyses, single-cell transcriptomic profiling, and organoid-based functional assays. In mouse and human alveolar organoids, CS extract and EDPs each suppressed organoid growth and impaired AT2-to-AT1 differentiation. Mechanistically, EDPs exposure was associated with activation of TLR4/NF-κB signaling, and reduced β-catenin activity, whereas pharmacological inhibition of TLR4 partially restored alveolar epithelial differentiation. Notably, the EDPs-neutralizing agent TB partially rescued AT2-to-AT1 differentiation in organoids and alleviated emphysematous injury in vivo. Together, these findings identify EDPs as an important matrix-derived mediator of alveolar regenerative failure in COPD and support further evaluation of EDP-targeted intervention as a potential strategy for promoting alveolar repair.",
+      "journal": "MedComm",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "GMU-GIBH Joint School of Life Sciences The Guangdong-Hong Kong-Macao Joint Laboratory For Cell Fate Regulation and Diseases State Key Laboratory of Respiratory Disease Guangzhou Medical University Guangzhou Guangdong People's Republic of China.",
+        "Department of Intensive Care Unit The Second Affiliated Hospital Guangzhou Medical University Guangzhou Guangdong People's Republic of China.",
+        "Department of Intensive Care Unit The First Affiliated Hospital Guangzhou Medical University Guangzhou Guangdong People's Republic of China.",
+        "Guangzhou National Laboratory Bio-Island Guangzhou People's Republic of China."
+      ],
+      "doi": "10.1002/mco2.70889",
+      "date": "2026-07-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42502713/"
+    },
+    {
+      "pmid": "42502608",
+      "title": "Melatonin-inspired hybrid spheroids accelerate intestinal repair via YAP-driven fetal reprogramming.",
+      "abstract": "Following injury, prostaglandin E2 (PGE2) drives intestinal epithelial repair by inducing revival stem cells (RSCs), which compensate for the loss of homeostatic Lgr5+ stem cells. Using intestinal organoid models, we demonstrate that melatonin potentiates the PGE2- or damage-induced RSC emergence by rewiring cellular plasticity toward a fetal-like state and sustaining pro-regenerative YAP activity, thereby enhancing overall repair capacity. To translate this finding into a therapeutic application, we developed a biohybrid heterospheroid (Mel-HS) by combining melatonin-loaded poly(lactic-co-glycolic acid) microspheres with 3D-cultured mesenchymal stem cells (MSCs), which serve as a PGE2 source. We confirmed that this biohybrid construct preserves the paracrine capacity of MSCs to secrete PGE2. Notably, Mel-HS demonstrates superior in vivo retention compared with naive 3D-MSCs, underscoring the cytoprotective effect of encapsulated melatonin in enhancing MSC viability. Furthermore, Mel-HS promoted robust RSC induction while simultaneously providing protection against inflammatory- and oxidative insults in vitro. In a colitis model, Mel-HS accelerated mucosal healing through the dual mechanisms-immunomodulation and enhanced RSC-driven repair-resulting in marked clinical improvement. Collectively, our findings highlight the therapeutic potential of enhancing endogenous regeneration with melatonin and MSCs, establishing a promising framework for next-generation biohybrid cell therapeutics in inflammatory bowel disease management.",
+      "journal": "Asian journal of pharmaceutical sciences",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Oral Biochemistry, Dental and Life Science Institute, School of Dentistry, Pusan National University, Yangsan 50612, South Korea.",
+        "Department of Precision Medicine, School of Medicine, Sungkyunkwan University, Suwon 16419, South Korea.",
+        "Department of Life Science in Dentistry, School of Dentistry, Pusan National University, Yangsan 50612, South Korea.",
+        "Education and Research Team for Life Science on Dentistry, Pusan National University, Yangsan 50612, South Korea.",
+        "Medical Research Institute, Pusan National University, Yangsan 50612, South Korea.",
+        "Department of Laboratory Animal Medicine, College of Veterinary Medicine and Veterinary Medical Research Institute, Jeju National University, Jeju 63243, South Korea.",
+        "Division of Biological Sciences, Sookmyung Women's University, Seoul 04310, South Korea.",
+        "Department of Otorhinolaryngology-Head and Neck Surgery, Biomedical Research Institute, Pusan National University School of Medicine, Yangsan Pusan National University Hospital, Yangsan 50612, South Korea.",
+        "Department of Biomaterials Science, College of Dentistry, Dankook University, Cheonan 31116, South Korea.",
+        "Department of Convergence Medicine, Yonsei University Wonju College of Medicine, Wonju 26426, South Korea.",
+        "Natural Products Research Center, Korea Institute of Science and Technology, Gangneung 25451, South Korea.",
+        "Department of Convergence Medicine, Pusan National University School of Medicine, Yangsan 50612, South Korea.",
+        "Department of Anatomy, Pusan National University School of Medicine, Yangsan 50612, South Korea."
+      ],
+      "doi": "10.1016/j.ajps.2026.101176",
+      "date": "2026-06-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42502608/"
+    },
+    {
+      "pmid": "42502268",
+      "title": "Three-dimensional bioprinted organoids: advances and clinical translation.",
+      "abstract": "Three-dimensional (3D) bioprinting enables the precise fabrication of complex tissue constructs by depositing living cells, biomaterials, and bioactive factors in a spatially controlled manner. Concurrently, organoids-self-organizing 3D cellular structures that recapitulate key aspects of organ architecture and function-have revolutionized biomedical research by providing physiologically relevant models for disease modeling, drug screening, and regenerative medicine. The convergence of 3D bioprinting and organoid technology represents a significant advancement, offering new opportunities for personalized medicine and tissue engineering. This review examines the current state of 3D bioprinted organoids, encompassing bioprinting techniques, bio-ink development, and diverse clinical applications spanning oncology (patient-derived tumor organoids for predicting therapy response in selected gastrointestinal cancers), regenerative medicine (bioprinted bone, cartilage, cardiac, and skin constructs), drug discovery (hepatotoxicity and nephrotoxicity screening platforms), and personalized therapeutics. We discuss technological advances supporting translational development, while distinguishing clinically validated patient-derived tumor organoid evidence from preclinical and proof-of-concept regenerative applications, and critically analyze the challenges that must be addressed for widespread clinical adoption. Finally, we provide perspectives on future directions, including the integration of artificial intelligence, multiorganoid systems, and regulatory pathways that will shape the next generation of 3D bioprinted organoids for clinical use.",
+      "journal": "Regenerative biomaterials",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Orthopedics, Tongji Hospital, School of Medicine, Tongji University, Shanghai 200092, China.",
+        "Department of Orthopedics, The First Affiliated Hospital, Fujian Medical University, Fuzhou 350005, China.",
+        "Department of Orthopedics, National Regional Medical Center, Binhai Campus of the First Affiliated Hospital, Fujian Medical University, Fuzhou 350212, China.",
+        "Department of Orthopedics, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+      ],
+      "doi": "10.1093/rb/rbag142",
+      "date": "2026-06-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42502268/"
+    },
     {
       "pmid": "42501956",
       "title": "Retinal Pigment Epithelium and Microglia Transplantation in Age-related Macular Degeneration.",
@@ -79,84 +163,6 @@
       "doi": "10.1016/j.tox.2026.154550",
       "date": "2026-07-25",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501813/"
-    },
-    {
-      "pmid": "42501773",
-      "title": "Engineering Spatially Organized Hair Peg-like Structures in Human Skin Constructs Using Keratinocyte-Dermal Papilla Fibroblast Spheroids and Micropatterned Dermal Scaffolds.",
-      "abstract": "Tissue-engineered skin substitutes (TESS) represent a key therapeutic option for extensive cutaneous injuries when autologous grafting is limited; however, current constructs lack skin appendages, particularly hair follicles, resulting in incomplete functional and aesthetic restoration. A central barrier to engineering follicular structures within TESS is the rapid loss of hair-inductive features in cultured human dermal papilla (DP) fibroblasts and the difficulty of recreating epithelial-mesenchymal interactions required for early folliculogenesis. Here, we report a bioengineering platform that integrates self-organizing composite spheroids composed of adult human epidermal keratinocytes (KCs) and DP fibroblasts with laser-micropatterned collagen scaffolds to generate spatially defined hair peg-like structures within human TESS. Under optimized three-dimensional culture conditions, mixed KC-DP spheroids reproducibly undergo polarization, budding, and elongation to form hair peg-like structures that exhibit compartmentalized organization and expression of key follicle-associated markers. Transcriptomic analysis reveals activation of follicular-associated transcriptional programs in KCs, while DP fibroblasts retain DP-associated features under these conditions. When implanted into predefined microwells within collagen-based dermal scaffolds, these spheroids continue coordinated morphogenesis alongside epidermal stratification and dermal matrix formation, yielding engineered skin constructs containing spatially integrated hair peg-like structures. Although maturation into fully developed hair follicles remains to be achieved, this study establishes a scalable, clinically relevant platform for integrating early-stage follicular units into TESS. Collectively, these findings provide a foundation for future efforts toward appendage-inclusive skin regeneration using adult human cells. STATEMENT OF SIGNIFICANCE: Engineering human hair follicles in skin substitutes remains challenging because dermal papilla cells rapidly lose hair-inductive function during laboratory expansion, and existing organoid models are difficult to scale or integrate into engineered skin. Here, we present a laser-micropatterned collagen scaffold that spatially incorporates early-stage follicular units formed from human keratinocytes and dermal papilla cells. Through systematic optimization of cell state, spheroid configuration, culture conditions, and scaffold integration, mixed keratinocyte-dermal papilla cell spheroids reproducibly undergo polarization, budding, and elongation in 3D culture and retain hair peg-like organization after incorporation into micropatterned dermal scaffolds. This work advances hair follicle engineering toward clinically relevant skin constructs for studying human hair biology and regenerative skin therapies.",
-      "journal": "Acta biomaterialia",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Division of Pharmaceutical Science, University of Cincinnati College of Pharmacy, Cincinnati, OH, USA.",
-        "Department of Materials Science and Engineering, the Ohio State University, Columbus, OH, USA.",
-        "Department of Surgery, University of Cincinnati College of Medicine, Cincinnati, OH, USA.",
-        "Department of Surgery, University of Cincinnati College of Medicine, Cincinnati, OH, USA; Shriners Children's Ohio, Dayton, OH, USA.",
-        "Department of Materials Science and Engineering, the Ohio State University, Columbus, OH, USA; Department of Biomedical Engineering, the Ohio State University, Columbus, OH, USA; Shriners Children's Ohio, Dayton, OH, USA.",
-        "Stravitz-Sanyal Institute for Liver Disease and Metabolic Health, Virginia Commonwealth University, Richmond, VA, USA.",
-        "XXX, USA. Electronic address: zhang2y4@ucmail.uc.edu."
-      ],
-      "doi": "10.1016/j.actbio.2026.07.041",
-      "date": "2026-07-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501773/"
-    },
-    {
-      "pmid": "42501549",
-      "title": "Xiaoyaosan reactivates the muscle-brain axis via FNDC5/Irisin to ameliorate LPS-induced depression.",
-      "abstract": "The muscle-brain axis is critical in neuropsychiatric disorders. However, its role in the antidepressant mechanism of Xiaoyaosan (XYS) remains unclear. This study explored whether XYS exerts antidepressant effects by modulating the muscle FNDC5/Irisin-mediated muscle-brain axis to restore hippocampal synaptic plasticity. LPS-induced mouse model was established for in vivo evaluation. In vitro, siRNA knockdown in C2C12-HT22 Transwell co-culture system was used to investigate the involvement of FNDC5/Irisin signaling in muscle-neuron communication. Neuromuscular organoids were established as a three-dimensional platform to model key features of muscle-neuron interactions. Untargeted metabolomics, immunohistochemistry, immunofluorescence, Western blotting, and ELISA were performed. XYS dose-dependently ameliorated LPS-induced depressive-like behaviors, restored muscle fiber integrity, and reversed hippocampal neuronal loss and synaptic deficits. Metabolomics analysis showed that XYS was associated with normalized metabolite profiles associated with β-alanine and taurine metabolism in the hippocampus and PPAR signaling pathway in the muscle. XYS was also associated with activation of the muscle PPARγ/PGC-1α/FNDC5/Irisin signaling pathway, accompanied by increased circulating Irisin levels and upregulation of hippocampal BDNF, PSD95, and synaptophysin. siRNA knockdown of FNDC5 attenuated the effects of XYS on Irisin secretion and synaptic marker restoration in co-cultured neurons. In organoids, XYS protected both myotube and neuronal compartments from LPS-induced injury. XYS exerts antidepressant effects, at least in part, through the activation of the muscle PPARγ/PGC-1α/FNDC5/Irisin axis and the restoration of hippocampal BDNF-mediated synaptic plasticity. The present findings support a potential role for FNDC5/Irisin in peripheral-to-central signaling associated with the antidepressant effects of XYS. These findings further suggest that the muscle-brain axis may represent a promising therapeutic target for depression and warrants further investigation.",
-      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, 510515, China.",
-        "Zhujiang Hospital, Southern Medical University, Guangzhou, China.",
-        "The Affiliated Traditional Chinese Medicine Hospital, Guangzhou Medical University, Guangzhou, China.",
-        "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, 510515, China; Southern Medical University Hospital of Integrated Traditional Chinese and Western Medicine, Southern Medical University, Guangzhou, 510515, China; Guangdong Basic Research Center of Excellence for Integrated Traditional and Western Medicine for Qingzhi Diseases, Guangzhou, 510515, China. Electronic address: hsh@smu.edu.cn.",
-        "School of Basic Medical Science, Guangzhou University of Chinese Medicine, Guangzhou, 510006, China. Electronic address: chandergao@hotmail.com.",
-        "School of Basic Medical Science, Guangzhou University of Chinese Medicine, Guangzhou, 510006, China; School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, 510515, China. Electronic address: raygaolei@smu.edu.cn.",
-        "School of Nursing, Guangzhou University of Chinese Medicine, Guangzhou, 510006, China. Electronic address: dongzy@gzucm.edu.cn."
-      ],
-      "doi": "10.1016/j.phymed.2026.158567",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501549/"
-    },
-    {
-      "pmid": "42501435",
-      "title": "Experimental study on the fabrication of GelMA hydrogel microsphere-based cartilage organoid precursors for the repair of cartilage defects.",
-      "abstract": "This study aimed to develop cartilage organoid precursors (COP) using CoCl₂-pretreated bone marrow mesenchymal stem cells (BMSCs) encapsulated in gelatin methacryloyl (GelMA) hydrogel microspheres (GMS) and to evaluate their therapeutic efficacy in cartilage defect repair. GMS with a uniform porous structure and high biocompatibility were fabricated using microfluidic technology and photopolymerization. Optimal BMSC pretreatment was determined to be 100 μM CoCl₂ for 24 h, which stabilized HIF-1α protein expression and significantly enhanced cell migration and the synthesis of extracellular matrix (ECM) components, specifically increasing Col II expression as confirmed by immunofluorescence and Alcian blue staining. The resulting COP, formed by loading pretreated BMSCs into GMS, were implanted into a rat knee cartilage defect model. In vivo results demonstrated that the defect area was covered by nascent cartilage at 6 weeks post-surgery, progressing to a regular, native-like tissue structure by 12 weeks with OARSI scores comparable to natural cartilage. In conclusion, the integration of CoCl₂-pretreated BMSCs with GMS provides an efficient biomimetic strategy for constructing functional cartilage organoid precursors, offering a promising tissue engineering solution for robust cartilage regeneration.",
-      "journal": "Colloids and surfaces. B, Biointerfaces",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Plastic and Aesthetic Surgery, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, Jiangxi 330031, China.",
-        "The First Affiliated Hospital of Northwest University, Xi'an, Shaanxi 710001, China.",
-        "School of Advanced Manufacturing, Nanchang: University, Nanchang, Jiangxi 330031, China. Electronic address: aifanrong@ncu.edu.cn.",
-        "Department of Plastic and Aesthetic Surgery, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, Jiangxi 330031, China; Medical Center of Burn, Plastic Surgery and Wound Repair, The First Affiliated Hospital of Nanchang University, Nanchang, Jiangxi 330031, China. Electronic address: surgeonhuangjj@ncu.edu.cn."
-      ],
-      "doi": "10.1016/j.colsurfb.2026.116010",
-      "date": "2026-07-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501435/"
-    },
-    {
-      "pmid": "42500661",
-      "title": "Berberine restrains the expansion of colorectal cancer organoids by blocking cell cycle progression and reducing lipid synthesis.",
-      "abstract": "Among all the most prevalent malignant gastrointestinal cancers, colorectal cancer (CRC) occurs frequently in all the populations around the world. Despite remarkable advances in related research, substantial obstacles persist in the prevention and treatment of this malignancy, including safety concerns, adverse side effects, and tumor recurrence. Natural plant-derived compounds have increasingly attracted the attention of researchers in cancer research. Among these compounds, berberine (BBR) is a natural plant substance with multiple functions, which is extracted from Coptis Chinensis that possesses strong antitumor potential. Here we aim to investigate the effects and underlying mechanisms of BBR on CRC using several organoid models developed in our laboratory. We firstly established CRC organoid models derived from KPC transgenic mice and Caco-2 cell line. CRC organoids were treated with different doses of BBR. The morphological characteristics, proliferation, ROS, apoptosis, and cell cycle were carefully evaluated. RNA-Seq assay, epithelial permeability, and lipid probes were also used to examine the underlying molecular mechanisms of BBR on CRC organoids. BBR exhibited no harmful impact on healthy colonic tissues. However, BBR significantly inhibited the growth of both KPC organoids and Caco-2 organoids either at the early formation stage or after the maturity. BBR greatly decreased the ratio of Ki67 and EdU positive cells in CRC organoids and increased the level of ROS in organoids. RNA-Seq data implicated that BBR exerted direct cytotoxic effects on CRC organoids by inducing cell cycle arrest and breaking down the gap junctions. Immunohistochemical (IHC) staining identified the consistent changes of cell cycle arrest and dysfunction of epithelial barrier. FD4 staining showed increased epithelial permeability. Finally, LD540 probes and qPCR identified that BBR significantly blocked the lipid synthesis in CRC organoids. In summary, our study identifies that BBR may suppress the malignant phenotype of CRC organoids via multiple mechanisms, including blocking cell cycle progression and disrupting lipid metabolism.",
-      "journal": "Frontiers in immunology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Basic Medical Sciences, Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
-        "Precision Radiation in Oncology Key Laboratory of Sichuan Province, Department of Experimental Research, Sichuan Cancer Hospital & Institute, Sichuan Provincial Engineering Research Center for Tumor Organoids and Clinical Transformation, Sichuan Clinical Research Center for Cancer, Sichuan Cancer Center, School of Medicine, University of Electronic Science and Technology of China, Chengdu, China.",
-        "The People's Liberation Army (PLA) Rocket Force Characteristic Medical Center, Beijing, China.",
-        "Department of Laboratory Medicine, Hospital of Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
-      ],
-      "doi": "10.3389/fimmu.2026.1855151",
-      "date": "2026-07-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42500661/"
     },
     {
       "pmid": "42498177",
@@ -379,6 +385,42 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42489643/"
     },
     {
+      "pmid": "42502846",
+      "title": "Autoimmune Biliary Diseases: From Fragmented Pathways to Precision Diagnosis.",
+      "abstract": "Autoimmune biliary diseases, such as primary sclerosing cholangitis (PSC), Primary biliary cholangitis (PBC) and IgG4-related sclerosing cholangitis (IgG4-SC) are recognized as contributors to chronic cholestatic liver disease. Time-to-diagnosis remains prolonged, despite the presence of high resolution MRCP, expanded autoantibody panels and improved endoscopic tissue acquisition. This is due to the fragmented disease-specific pathways, variable marker sensitivity, overlap syndromes, malignant mimickers and in some cases early/small-duct imaging limitations. Critically evaluate and synthesize current diagnostic modalities and propose an integrated, precision-layered, phenotype-defined, and tissue-informed diagnostic pathway that standardizes evaluation across autoimmune and immune-mediated cholangiopathies. Major society guidelines such as AASLD/EASL, key reviews and pivotal studies were used in order to extract evidence regarding autoimmune serologies, MRCP and advanced MRCP techniques, elastography/MRE for fibrosis staging and targeted endoscopic-tissue diagnostics, emphasizing on overlap phenotypes, intermediate strictures and malignancy exclusion. Seronegative/atypical PBC, limited sensitivity of MRCP in early or small-duct PSC, as well as frequent misclassification of IgG4-SC as PSC; are remarkable contributors of diagnostic delay. Iterative resolution, achieved through sequential escalation from serology to non-invasive ductal mapping, selective tissue clarification and investigational molecular and AI-assisted tools such as radiomics-enhanced MRCP, molecular cytology and liquid biopsy when conventional modalities fail, all aimed to improve discrimination of overlaps and support risk-stratified surveillance. Diagnostic uncertainty and disease misclassification may be reduced by implementing a precision-layered, phenotype-defined, and tissue-informed diagnostic pathway. This will standardize evaluation across autoimmune biliary diseases. It is important to note that these emerging tools remain investigational and require prospective validation prior to routine clinical integration.",
+      "journal": "Sage open pathology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Internal Medicine, University of Balamand, Beirut, Lebanon.",
+        "Department of Internal Medicine, Saint Joseph University, Beirut, Lebanon.",
+        "Department of Gastroenterology and Hepatology, University of Balamand, Beirut, Lebanon.",
+        "Department of Gastroenterology and Hepatology, Saint George University Medical Center, Beirut, Lebanon."
+      ],
+      "doi": "10.1177/30502098261472445",
+      "date": "2026-07-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42502846/"
+    },
+    {
+      "pmid": "42502197",
+      "title": "Detection of Point Mutation in Individual Living Circulating Malignant Cells by Targeting Molecular Beacon Delivery.",
+      "abstract": "As a prevalent form of genetic alteration, single-base substitution serves as a critical determinant of targeted cancer therapeutic strategies and a driver of acquired drug resistance. Despite its clinical significance, detecting these mutations at the single-cell level remains challenging due to high costs, long analysis times, and difficulties in capturing real-time cellular dynamics and tumor heterogeneity. Herein, we demonstrate that an aptamer-functionalized triple-targeting nanoprobe integrating AT11 and R13 aptamers, along with hyaluronic acid, enables efficient and specific delivery of molecular beacons into circulating malignant cells (CMCs) in whole blood from cancer patients, leading to the hybridization of the molecular beacons with their target mRNAs (reference GAPDH mRNA, EGFR mRNA lacking the L858R mutation, and EGFR mRNA harboring the L858R mutation) in living CMCs. By comparison of fluorescence intensities between the molecular beacons targeting the L858R-lacking and L858R-harboring EGFR mRNAs, this approach allows for the single-cell-resolution profiling of EGFR L858R point mutation status and patient-specific tumor heterogeneity. Our study establishes a versatile, non-invasive liquid biopsy strategy to achieve in situ tumor genotyping at single-cell resolution and map tumor heterogeneity at the individual patient level, offering wide applicability for cancer monitoring and therapeutic guidance.",
+      "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Key Laboratory of Biomedical Polymers of Ministry of Education, Department of Chemistry, Wuhan University, Wuhan, Hubei, China.",
+        "School of Life Science and Technology, Wuhan Polytechnic University, Wuhan, Hubei, China.",
+        "Cancer Center, Renmin Hospital of Wuhan University, Wuhan, Hubei, China."
+      ],
+      "doi": "10.1002/smll.74776",
+      "date": "2026-07-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42502197/"
+    },
+    {
       "pmid": "42500587",
       "title": "Navigating the Metabolic-Genomic Paradigm: Mitochondrial Reprogramming as a Driver of Cancer Plasticity.",
       "abstract": "Breast cancer (BC) management has transitioned from histological classification to molecular subtyping, yet therapeutic resistance and intratumor heterogeneity remain critical clinical challenges. This review examines the emerging paradigm shift toward integrating mitochondrial metabolism into the precision medicine framework. We detail the complex mitonuclear crosstalk where nuclear genetic alterations, such as Breast Cancer 1 (BRCA1) deficiency and TP53 mutations, fundamentally reprogram mitochondrial bioenergetics. Specifically, the loss of BRCA1 function triggers a systemic NAD+ depletion trap through PARP1 hyperactivation, while oncogenic drivers like MYC coordinate with PGC1α to enhance mitochondrial biogenesis for metastatic survival. We evaluate the diagnostic potential of mitochondrial DNA heteroplasmy and machine learning derived metabolic gene signatures as high performance biomarkers for patient stratification and the detection of minimal residual disease via liquid biopsy. Furthermore, we analyze current clinical efforts to target mitochondrial vulnerabilities, including respiratory chain inhibitors like metformin and BH3 mimetics, while highlighting the significant challenges posed by metabolic plasticity and nutrient competition in the tumor microenvironment. The analysis of clinical trial data, such as the MA.32 study, suggests that metabolic interventions require precise patient selection based on specific metabolic phenotypes rather than broad application. Looking forward, the integration of genome scale metabolic models and artificial intelligence (AI) offers a transformative pathway to simulate patient specific metabolic fluxes and identify novel synthetic lethal targets. By bridging the gap between nuclear genomic drivers and dynamic mitochondrial adaptations, this review aims to provide a preliminary framework for the exploration of metabolic-genomic precision oncology in BC.",
@@ -458,66 +500,39 @@
       "doi": "10.3389/or.2026.1885622",
       "date": "2026-07-10",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42499413/"
-    },
-    {
-      "pmid": "42498744",
-      "title": "Chinese expert consensus on precision testing and molecular diagnosis of pancreatic cancer (2025).",
-      "abstract": "This consensus by the CSCO Pancreatic Cancer Expert Committee establishes evidence-based guidelines for molecular testing in pancreatic ductal adenocarcinoma. It details recommendations for biomarkers (e.g., KRAS, BRCA, MSI), liquid biopsy, and precision imaging to direct targeted therapies and immunotherapy, aiming to standardize diagnosis and optimize individualized patient care. Pancreatic ductal adenocarcinoma (PDAC) is the most common pathological type of primary pancreatic malignancy, accounting for ~95% of cases and generally referred to as pancreatic cancer [1]. Its prognosis is extremely poor and its incidence continues to rise [2]. According to the most recent global cancer statistics, the incidence of pancreatic cancer ranks 12th among all cancers, and its mortality ranks 6th, making it one of the deadliest malignancies worldwide [3]. Approximately 57% of patients have metastatic disease at diagnosis and require systemic therapy, for which chemotherapy remains the standard first-line option [1]. However, the overall response rate to currently available systemic regimens is low, and the 5-year survival rate for patients with metastatic disease remains below 5% [3]. Although most pancreatic cancers harbor canonical driver mutations, they exhibit marked heterogeneity at the molecular level. Whole-genome sequencing (WGS) and integrative genomic analyses have identified molecular subtypes of PDAC with potential clinical relevance [4-9]. With the increasing implementation of precision oncology, the Chinese Society of Clinical Oncology (CSCO) Guidelines for the Diagnosis and Treatment of Pancreatic Cancer give a level 1 recommendation to perform genetic and other molecular testing on tissue or cytologic specimens as part of the pathological diagnostic work-up, in order to guide individualized treatment, including targeted therapy and immunotherapy [10]. To further promote the use of genetic and molecular testing in the precision treatment of pancreatic cancer, the CSCO Pancreatic Cancer Expert Committee convened a multidisciplinary panel to develop the present Chinese Expert Consensus on Precision Testing and Molecular Diagnosis of Pancreatic Cancer (2025), aiming to provide clinicians with an authoritative reference for precision diagnostics and treatment decision-making.",
-      "journal": "British journal of cancer",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Division of Abdominal Tumor Multimodality Treatment, West China Hospital of Sichuan University, Chengdu, China.",
-        "Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education), Department of Hepato-Pancreato-Biliary Surgery, Peking University Cancer Hospital and Institute, Beijing, China.",
-        "Department of Oncology and State Key Laboratory of Systems Medicine for Cancer of Shanghai Cancer Institute, Renji Hospital, School of Medicine, Shanghai Jiaotong University, Shanghai, China.",
-        "Hepatobiliary and Pancreatic Tumor Department, Nanjing Tianyinshan Hospital Affiliated to China Pharmaceutical University, Nanjing, China.",
-        "Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education), Department of Gastrointestinal Oncology, Peking University Cancer Hospital & Institute, Beijing, China.",
-        "Department of Oncology, The First Affiliated Hospital of Soochow University, Suzhou, China.",
-        "Department of Medical Oncology, The Second Hospital of Dalian Medical University, Dalian, China.",
-        "Department of Medical Oncology, The First Affiliated Hospital of Zhejiang University, Hangzhou, China.",
-        "Department of Medical Oncology, Cancer Center, West China Hospital, Sichuan University, Chengdu, China.",
-        "Department of Medical Oncology, West China Hospital, Sichuan University, Chengdu, China.",
-        "Department of Medical Oncology, Chinese PLA General hospital, Beijing, China.",
-        "Pancreas Center & Department of General Surgery, The First Affiliated Hospital of Nanjing Medical University, Nanjing, China.",
-        "Department of Oncology, Shanghai General Hospital, Shanghai, China.",
-        "Department of Hepatobiliary surgery, The First Affiliated Hospital of Dalian Medical University, Dalian, China.",
-        "Department of Oncology, Xijing Hospital, The Air Force Military Medical University, Xi'an, China.",
-        "Cancer Center, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
-        "Department of Pathology, The First Affiliated Hospital of Nanjing Medical University, Nanjing, China.",
-        "Hepato-Pancreato-Biliary Surgery, Peking University Cancer Hospital, Beijing, China. haochunyi@bjmu.edu.cn.",
-        "Oncology Department and State Key Laboratory of Systems Medicine for Cancer of Shanghai Cancer Institute, Renji Hospital, School of Medicine, Shanghai Jiaotong University, Shanghai, China. liweiwang@shsmu.edu.cn.",
-        "Cancer Center, Tianyinshan Hospital, China Pharmaceutical University, Nanjing, China. qinsk@csco.org.cn."
-      ],
-      "doi": "10.1038/s41416-026-03522-x",
-      "date": "2026-07-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42498744/"
-    },
-    {
-      "pmid": "42498740",
-      "title": "Towards liquid biopsy-based analysis of antitumour immunity.",
-      "abstract": "Analysis of tissue biopsy samples is the gold-standard approach to cancer diagnosis and patient selection for biomarker-guided therapies. Although spatial analyses of tumour tissue can provide important insights into local antitumour immune responses, repeated tumour biopsy is invasive and rarely feasible for monitoring dynamic immune responses over time. Technical advances have enabled multimodal analyses of cells and cellular products in peripheral blood samples, which can be obtained easily and repeatedly over the course of the disease. These liquid biopsy-based approaches cannot provide spatial information on the tumour immune microenvironment and tumour-derived material can be highly diluted in the circulation, yet they offer a unique opportunity to monitor systemic immune dynamics, anticipate responses to immunotherapies and detect emerging resistance to treatment. Thus, blood-based analyses might complement tumour tissue analysis. In this Review, we discuss insights on systemic antitumour immune responses that can be gained through the analysis of tumour-derived biomarkers in peripheral blood and/or circulating immune cells.",
-      "journal": "Nature reviews. Clinical oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Tumor Biology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany. pantel@uke.de.",
-        "European Liquid Biopsy Society, Hamburg, Germany. pantel@uke.de.",
-        "Laboratory of Rare Human Circulating Cells and Liquid Biopsy, University Medical Center of Montpellier, Montpellier, France.",
-        "CREEC/CANECEV, MIVEGEC, Unité Mixte de Recherches, IRD 224-CNRS 5290-Université de Montpellier, Montpellier, France.",
-        "European Liquid Biopsy Society, Hamburg, Germany. c-panabieres@chu-montpellier.fr.",
-        "Laboratory of Rare Human Circulating Cells and Liquid Biopsy, University Medical Center of Montpellier, Montpellier, France. c-panabieres@chu-montpellier.fr.",
-        "CREEC/CANECEV, MIVEGEC, Unité Mixte de Recherches, IRD 224-CNRS 5290-Université de Montpellier, Montpellier, France. c-panabieres@chu-montpellier.fr."
-      ],
-      "doi": "10.1038/s41571-026-01181-8",
-      "date": "2026-07-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42498740/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42502713",
+      "date": "2026-07-25",
+      "title": "Targeting Elastin-Derived Peptides Reverses Alveolar Epithelial Dysfunction in Chronic Obstructive Pulmonary Disease.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42502713/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 MedComm，PMID 为 42502713。",
+      "report": "Chronic obstructive pulmonary disease (COPD) is characterized by progressive alveolar destruction and defective regeneration, yet the matrix-derived factors contributing to this process remain poorly defined. We investigated the role of elastin-derived peptide...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42501956",
       "date": "2026-07-25",
@@ -577,61 +592,35 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42501773",
+      "id": "pubmed-42502197",
       "date": "2026-07-25",
-      "title": "Engineering Spatially Organized Hair Peg-like Structures in Human Skin Constructs Using Keratinocyte-Dermal Papilla Fibroblast Spheroids and Micropatterned Dermal Scaffolds.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "Detection of Point Mutation in Individual Living Circulating Malignant Cells by Targeting Molecular Beacon Delivery.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501773/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42502197/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
         "Multi-omics"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "肿瘤",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Acta biomaterialia，PMID 为 42501773。",
-      "report": "Tissue-engineered skin substitutes (TESS) represent a key therapeutic option for extensive cutaneous injuries when autologous grafting is limited; however, current constructs lack skin appendages, particularly hair follicles, resulting in incomplete functional...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42501435",
-      "date": "2026-07-24",
-      "title": "Experimental study on the fabrication of GelMA hydrogel microsphere-based cartilage organoid precursors for the repair of cartilage defects.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501435/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Colloids and surfaces. B, Biointerfaces，PMID 为 42501435。",
-      "report": "This study aimed to develop cartilage organoid precursors (COP) using CoCl₂-pretreated bone marrow mesenchymal stem cells (BMSCs) encapsulated in gelatin methacryloyl (GelMA) hydrogel microspheres (GMS) and to evaluate their therapeutic efficacy in cartilage d...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Small (Weinheim an der Bergstrasse, Germany)，PMID 为 42502197。",
+      "report": "As a prevalent form of genetic alteration, single-base substitution serves as a critical determinant of targeted cancer therapeutic strategies and a driver of acquired drug resistance. Despite its clinical significance, detecting these mutations at the single-...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -746,64 +735,30 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42498744",
+      "id": "pubmed-42502846",
       "date": "2026-07-24",
-      "title": "Chinese expert consensus on precision testing and molecular diagnosis of pancreatic cancer (2025).",
+      "title": "Autoimmune Biliary Diseases: From Fragmented Pathways to Precision Diagnosis.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42498744/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42502846/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
+        "Precision Medicine"
       ],
       "tags": [
         "诊断",
-        "精准医疗",
-        "肿瘤"
+        "精准医疗"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 British journal of cancer，PMID 为 42498744。",
-      "report": "This consensus by the CSCO Pancreatic Cancer Expert Committee establishes evidence-based guidelines for molecular testing in pancreatic ductal adenocarcinoma. It details recommendations for biomarkers (e.g., KRAS, BRCA, MSI), liquid biopsy, and precision imagi...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42498740",
-      "date": "2026-07-24",
-      "title": "Towards liquid biopsy-based analysis of antitumour immunity.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42498740/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature reviews. Clinical oncology，PMID 为 42498740。",
-      "report": "Analysis of tissue biopsy samples is the gold-standard approach to cancer diagnosis and patient selection for biomarker-guided therapies. Although spatial analyses of tumour tissue can provide important insights into local antitumour immune responses, repeated...",
+      "fact": "PubMed 记录显示该文献收录于 Sage open pathology，PMID 为 42502846。",
+      "report": "Autoimmune biliary diseases, such as primary sclerosing cholangitis (PSC), Primary biliary cholangitis (PBC) and IgG4-related sclerosing cholangitis (IgG4-SC) are recognized as contributors to chronic cholestatic liver disease. Time-to-diagnosis remains prolon...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -988,44 +943,16 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42501549",
-      "date": "2026-07-14",
-      "title": "Xiaoyaosan reactivates the muscle-brain axis via FNDC5/Irisin to ameliorate LPS-induced depression.",
+      "id": "pubmed-42502818",
+      "date": "2026-07-15",
+      "title": "GenX exposure induces neurodevelopmental impairment and synaptic toxicity in hESC-derived cerebral organoids.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501549/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Phytomedicine : international journal of phytotherapy and phytopharmacology，PMID 为 42501549。",
-      "report": "The muscle-brain axis is critical in neuropsychiatric disorders. However, its role in the antidepressant mechanism of Xiaoyaosan (XYS) remains unclear. This study explored whether XYS exerts antidepressant effects by modulating the muscle FNDC5/Irisin-mediated...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42500661",
-      "date": "2026-07-10",
-      "title": "Berberine restrains the expansion of colorectal cancer organoids by blocking cell cycle progression and reducing lipid synthesis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42500661/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42502818/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -1033,19 +960,17 @@
         "Organoids",
         "Advanced Disease Models",
         "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
+        "Regulatory Watch"
       ],
       "tags": [
         "类器官",
         "疾病模型",
         "临床",
-        "监管",
-        "肿瘤"
+        "监管"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42500661。",
-      "report": "Among all the most prevalent malignant gastrointestinal cancers, colorectal cancer (CRC) occurs frequently in all the populations around the world. Despite remarkable advances in related research, substantial obstacles persist in the prevention and treatment o...",
+      "fact": "PubMed 记录显示该文献收录于 Materials today. Bio，PMID 为 42502818。",
+      "report": "GenX, also known as hexafluoropropylene oxide dimer acid (HFPO-DA), was introduced in 2009 as a purportedly safer alternative to perfluorooctanoic acid (PFOA). However, nearly two decades of use have raised increasing safety concerns owing to its reported asso...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1107,6 +1032,77 @@
       "fact": "PubMed 记录显示该文献收录于 Briefings in bioinformatics，PMID 为 42476548。",
       "report": "Single-cell RNA sequencing has emerged as a transformative tool, enabling precise phenotype prediction and the detailed identification of disease-associated cell subpopulations. However, many existing computational approaches still rely on predefined cell-type...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42502268",
+      "date": "2026-06-30",
+      "title": "Three-dimensional bioprinted organoids: advances and clinical translation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42502268/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Regenerative biomaterials，PMID 为 42502268。",
+      "report": "Three-dimensional (3D) bioprinting enables the precise fabrication of complex tissue constructs by depositing living cells, biomaterials, and bioactive factors in a spatially controlled manner. Concurrently, organoids-self-organizing 3D cellular structures tha...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42502608",
+      "date": "2026-06-20",
+      "title": "Melatonin-inspired hybrid spheroids accelerate intestinal repair via YAP-driven fetal reprogramming.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42502608/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Asian journal of pharmaceutical sciences，PMID 为 42502608。",
+      "report": "Following injury, prostaglandin E2 (PGE2) drives intestinal epithelial repair by inducing revival stem cells (RSCs), which compensate for the loss of homeostatic Lgr5+ stem cells. Using intestinal organoid models, we demonstrate that melatonin potentiates the...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
