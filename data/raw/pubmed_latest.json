@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-25T14:04:44.377934+00:00",
+  "capturedAt": "2026-07-26T03:59:18.002233+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-07-25",
-    "end": "2026-07-25"
+    "start": "2025-07-26",
+    "end": "2026-07-26"
   },
   "pmids": [
+    "42501435",
     "42500661",
     "42499344",
     "42498990",
     "42498414",
     "42498177",
-    "42498075",
     "42497867",
     "42486102",
     "42482180",
@@ -37,9 +37,27 @@
     "42499413",
     "42498744",
     "42498740",
-    "42500782"
+    "42500998"
   ],
   "records": [
+    {
+      "pmid": "42501435",
+      "title": "Experimental study on the fabrication of GelMA hydrogel microsphere-based cartilage organoid precursors for the repair of cartilage defects.",
+      "abstract": "This study aimed to develop cartilage organoid precursors (COP) using CoCl₂-pretreated bone marrow mesenchymal stem cells (BMSCs) encapsulated in gelatin methacryloyl (GelMA) hydrogel microspheres (GMS) and to evaluate their therapeutic efficacy in cartilage defect repair. GMS with a uniform porous structure and high biocompatibility were fabricated using microfluidic technology and photopolymerization. Optimal BMSC pretreatment was determined to be 100 μM CoCl₂ for 24 h, which stabilized HIF-1α protein expression and significantly enhanced cell migration and the synthesis of extracellular matrix (ECM) components, specifically increasing Col II expression as confirmed by immunofluorescence and Alcian blue staining. The resulting COP, formed by loading pretreated BMSCs into GMS, were implanted into a rat knee cartilage defect model. In vivo results demonstrated that the defect area was covered by nascent cartilage at 6 weeks post-surgery, progressing to a regular, native-like tissue structure by 12 weeks with OARSI scores comparable to natural cartilage. In conclusion, the integration of CoCl₂-pretreated BMSCs with GMS provides an efficient biomimetic strategy for constructing functional cartilage organoid precursors, offering a promising tissue engineering solution for robust cartilage regeneration.",
+      "journal": "Colloids and surfaces. B, Biointerfaces",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Plastic and Aesthetic Surgery, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, Jiangxi 330031, China.",
+        "The First Affiliated Hospital of Northwest University, Xi'an, Shaanxi 710001, China.",
+        "School of Advanced Manufacturing, Nanchang: University, Nanchang, Jiangxi 330031, China. Electronic address: aifanrong@ncu.edu.cn.",
+        "Department of Plastic and Aesthetic Surgery, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, Jiangxi 330031, China; Medical Center of Burn, Plastic Surgery and Wound Repair, The First Affiliated Hospital of Nanchang University, Nanchang, Jiangxi 330031, China. Electronic address: surgeonhuangjj@ncu.edu.cn."
+      ],
+      "doi": "10.1016/j.colsurfb.2026.116010",
+      "date": "2026-07-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501435/"
+    },
     {
       "pmid": "42500661",
       "title": "Berberine restrains the expansion of colorectal cancer organoids by blocking cell cycle progression and reducing lipid synthesis.",
@@ -128,24 +146,6 @@
       "doi": "10.1016/j.lfs.2026.124600",
       "date": "2026-07-24",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42498177/"
-    },
-    {
-      "pmid": "42498075",
-      "title": "GSTT1 promotes stemness and FGFR inhibitor sensitivity in pancreatic cancer through regulation of CD133 (PROM1).",
-      "abstract": "Pancreatic ductal adenocarcinoma (PDA) is among the deadliest malignancies, driven by metastatic progression and profound cellular heterogeneity. We previously identified glutathione S-transferase theta 1 (GSTT1) as a regulator of a slow-cycling, highly metastatic tumor cell population, suggesting that GSTT1High cells may possess stem-like properties. Here, we define the functional and molecular features of this subpopulation in metastatic PDA. Using a mCherry-tagged Gstt1 reporter system in metastatic murine PDAC cells, we enriched for Gstt1High cells and observed increased tumor sphere formation, accompanied by upregulation of stemness-associated genes including PROM1 (CD133) and activation of Wnt and FGF signaling pathways. In human PDA models, CD133HighGSTT1High cells exhibited enhanced tumor sphere initiation and expansion compared to other populations, defining a maximal stem-like state. Notably, sensitivity to FGFR inhibitors was observed only under tumor sphere conditions, highlighting a context-dependent therapeutic vulnerability. Mechanistically, FGFR3 expression correlated with GSTT1 and CD133 levels, and FGF signaling was required to sustain this state. GSTT1 knockdown reduced CD133 protein levels, impaired tumor sphere formation, and altered sensitivity to FGFR inhibition. These findings were largely recapitulated in patient-derived PDA organoids, where GSTT1 and PROM1 co-expression predicted increased tumor sphere formation and enhanced response to the multi-kinase inhibitor Nintedanib. Together, these results identify a GSTT1HighCD133High stem-like subpopulation in metastatic PDA and identify an FGFR-dependent signaling axis that sustains this state, representing a potential therapeutic vulnerability.",
-      "journal": "Cancer letters",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "University of Maryland School of Medicine and the Marlene and Stewart Greenebaum Comprehensive Cancer Center, Baltimore, Maryland 21201, USA.",
-        "University of Maryland School of Medicine and the Marlene and Stewart Greenebaum Comprehensive Cancer Center, Baltimore, Maryland 21201, USA; University of Maryland School of Medicine, Institute for Genome Sciences, Baltimore, Maryland 21201, USA.",
-        "University of Maryland School of Medicine, Institute for Genome Sciences, Baltimore, Maryland 21201, USA.",
-        "University of Maryland School of Medicine and the Marlene and Stewart Greenebaum Comprehensive Cancer Center, Baltimore, Maryland 21201, USA. Electronic address: cferrer@som.umaryland.edu."
-      ],
-      "doi": "10.1016/j.canlet.2026.218733",
-      "date": "2026-07-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42498075/"
     },
     {
       "pmid": "42497867",
@@ -487,24 +487,84 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42498740/"
     },
     {
-      "pmid": "42500782",
-      "title": "The Real \"Catch\" in Clinical Automation: Rethinking Artificial Intelligence for Healthcare Workflows.",
-      "abstract": "Artificial intelligence (AI) has demonstrated impressive performance in controlled retrospective studies, yet many systems struggle to achieve meaningful operational utility when deployed in real-world clinical environments. Live healthcare workflows are characterized by documentation burdens, user-interface friction, variable data quality, and competing demands on clinician attention. These challenges can reduce the effectiveness of predictive systems and contribute to alert fatigue, workflow inefficiencies, and administrative burdens. This editorial, presented as a narrative perspective and conceptual synthesis, argues that successful clinical AI implementation requires a shift in focus from theoretical predictive accuracy toward practical workflow integration and floor efficiency. Effective clinical systems should function as supportive layers within healthcare workflows by reducing cognitive burden, improving documentation quality, and facilitating safer clinical decision-making. Approaches such as tiered information presentation, workflow-aware design, human oversight, and strict medicolegal frameworks, including mandatory electronic health record (EHR) \"watermarking\" and continuous audit trails, may help improve adoption while minimizing unintended consequences. By supporting accurate documentation and efficient chart completion, integrated AI has the potential to enhance operational performance, preserve clinician cognition, and facilitate safer patient care.",
-      "journal": "Cureus",
+      "pmid": "42500998",
+      "title": "Diagnostic Ambiguity in Appendicitis: Comparing Failure Modes of Large Language Models and Surgeons.",
+      "abstract": "BackgroundSuspected acute appendicitis is difficult to triage in atypical presentations, including pediatric and geriatric cases and scenarios with muted inflammatory markers. Frontier LLMs are increasingly evaluated in emergency decision-making, but vignette-based comparisons should not be interpreted as evidence of clinical readiness. This study evaluated diagnostic behavior, triage safety, and error profiles of frontier LLMs in standardized appendicitis scenarios, using general surgery specialists as a benchmark.MethodsWe performed a comparative, cross-sectional diagnostic-accuracy simulation study using 150 standardized emergency department vignettes (90 appendicitis and 60 non-surgical mimics), enriched for diagnostically difficult scenarios. Six frontier AI systems and two board-certified general surgery specialists independently evaluated each vignette using a fixed triage prompt. Outcomes were diagnostic accuracy, sensitivity, specificity, inter-rater agreement, triage-priority accuracy, and qualitative error taxonomy.ResultsOverall diagnostic performance differed across cohorts (P < 0.001). GPT-5 achieved the highest accuracy (95.3%), exceeding GPT-4o (82.0%; P < 0.001) and slightly surpassing specialist consensus (92.7%). In pediatric and geriatric vignettes, GPT-5 maintained 93.8% accuracy, compared with 90.0% for specialists and 71.2% for GPT-4o. Error analysis identified distinct failure modes, including search-induced hallucinations in web-augmented systems. These findings were interpreted alongside clinical error severity rather than as product-level superiority.ConclusionIn this vignette-based simulation study, LLM performance varied substantially across systems. The main contribution was characterization of model and human failure modes under diagnostic ambiguity, supporting supervised, diagnosis-specific evaluation rather than autonomous emergency triage deployment.",
+      "journal": "The American surgeon",
       "publicationTypes": [
-        "Editorial"
+        "Journal Article"
       ],
       "affiliations": [
-        "General Surgery, St. Martha's Hospital, Bengaluru, IND.",
-        "Neurosurgery, Gleneagles Hospital, Chennai, IND.",
-        "General Surgery, SRM Medical College Hospital & Research Centre, Chennai, IND."
+        "Department of General Surgery, University of Health Sciences, Kanuni Training and Research Hospital, Istanbul, Turkey.",
+        "Department of General Surgery, University of Health Sciences, Umraniye Training and Research Hospital, Istanbul, Turkey.",
+        "Department of General Surgery, University of Health Sciences, Cam Sakura Training and Research Hospital, Istanbul, Turkey."
       ],
-      "doi": "10.7759/cureus.111390",
-      "date": "2026-06-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42500782/"
+      "doi": "10.1177/00031348261471464",
+      "date": "2026-07-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42500998/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42500998",
+      "date": "2026-07-25",
+      "title": "Diagnostic Ambiguity in Appendicitis: Comparing Failure Modes of Large Language Models and Surgeons.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42500998/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Healthcare AI",
+        "Medical LLM"
+      ],
+      "tags": [
+        "临床",
+        "监管",
+        "医疗 AI",
+        "临床决策支持"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 The American surgeon，PMID 为 42500998。",
+      "report": "BackgroundSuspected acute appendicitis is difficult to triage in atypical presentations, including pediatric and geriatric cases and scenarios with muted inflammatory markers. Frontier LLMs are increasingly evaluated in emergency decision-making, but vignette-...",
+      "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42501435",
+      "date": "2026-07-24",
+      "title": "Experimental study on the fabrication of GelMA hydrogel microsphere-based cartilage organoid precursors for the repair of cartilage defects.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501435/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Colloids and surfaces. B, Biointerfaces，PMID 为 42501435。",
+      "report": "This study aimed to develop cartilage organoid precursors (COP) using CoCl₂-pretreated bone marrow mesenchymal stem cells (BMSCs) encapsulated in gelatin methacryloyl (GelMA) hydrogel microspheres (GMS) and to evaluate their therapeutic efficacy in cartilage d...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42498990",
       "date": "2026-07-24",
@@ -579,36 +639,6 @@
       "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42498177。",
       "report": "Drug discovery for complex diseases has long been constrained by high developmental costs and suboptimal clinical transition rates. To bridge the \"translational gap\" between in vitro target screening and in vivo therapeutic efficacy, life science and pharmacol...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models, AI-enabled Discovery, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42498075",
-      "date": "2026-07-24",
-      "title": "GSTT1 promotes stemness and FGFR inhibitor sensitivity in pancreatic cancer through regulation of CD133 (PROM1).",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42498075/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42498075。",
-      "report": "Pancreatic ductal adenocarcinoma (PDA) is among the deadliest malignancies, driven by metastatic progression and profound cellular heterogeneity. We previously identified glutathione S-transferase theta 1 (GSTT1) as a regulator of a slow-cycling, highly metast...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1047,34 +1077,6 @@
       "fact": "PubMed 记录显示该文献收录于 Neuroprotection (Chichester, England)，PMID 为 42499344。",
       "report": "Imaging-based phenotypic assays are widely used in neuroprotection, drug discovery, and neurorepair studies, but long-term, high-throughput time-lapse datasets remain difficult to analyze because of segmentation noise, photobleaching, crowded fields, cell divi...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42500782",
-      "date": "2026-06-23",
-      "title": "The Real \"Catch\" in Clinical Automation: Rethinking Artificial Intelligence for Healthcare Workflows.",
-      "entity": "Healthcare AI Research",
-      "primaryCategory": "Healthcare AI",
-      "subCategory": "Medical AI",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42500782/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Healthcare AI",
-        "Medical LLM"
-      ],
-      "tags": [
-        "医疗 AI",
-        "临床决策支持"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cureus，PMID 为 42500782。",
-      "report": "Artificial intelligence (AI) has demonstrated impressive performance in controlled retrospective studies, yet many systems struggle to achieve meaningful operational utility when deployed in real-world clinical environments. Live healthcare workflows are chara...",
-      "inference": "自动分类命中规则：Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
