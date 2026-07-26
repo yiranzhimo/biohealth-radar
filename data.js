@@ -822,77 +822,210 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
-      "id": "pubmed-42500998",
+      "id": "pubmed-42501956",
       "date": "2026-07-25",
-      "title": "Diagnostic Ambiguity in Appendicitis: Comparing Failure Modes of Large Language Models and Surgeons.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Research",
+      "title": "Retinal Pigment Epithelium and Microglia Transplantation in Age-related Macular Degeneration.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42500998/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501956/",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": true,
+      "needsReview": false,
       "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Healthcare AI",
-        "Medical LLM"
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
       ],
       "tags": [
-        "临床",
-        "监管",
-        "医疗 AI",
-        "临床决策支持"
+        "类器官",
+        "疾病模型",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The American surgeon，PMID 为 42500998。",
-      "report": "BackgroundSuspected acute appendicitis is difficult to triage in atypical presentations, including pediatric and geriatric cases and scenarios with muted inflammatory markers. Frontier LLMs are increasingly evaluated in emergency decision-making, but vignette-...",
-      "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 American journal of ophthalmology，PMID 为 42501956。",
+      "report": "Age-related macular degeneration (AMD) remains a leading cause of irreversible blindness worldwide, characterized by the progressive breakdown of the outer blood-retinal barrier, accumulation of protein and lipid deposits in the subretinal space, and the conse...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_05a7779a08d037d8006a65861ff8e8819a9eb9deaf2f8899b5",
-        "reviewedAt": "2026-07-26T03:59:27.190323+00:00",
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该信号基于一项研究，未明确支持临床效益或安全性，需人工审核矛盾或缺失信息。",
+        "responseId": "resp_09e1d75e76eafbb1006a65c8294e6081938a39ff57a2aab9a7",
+        "reviewedAt": "2026-07-26T08:41:12.616965+00:00",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号内部一致，信息中立，适合发布。",
         "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类不符合研究内容，可能误导理解。"
+          "isSupported": true,
+          "notesCn": ""
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平定为中等，但未符合高标准的研究人群及设计要求。"
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
         },
         "riskFlags": [
-          "clinical_claim",
-          "medical_advice_risk",
-          "weak_classification",
           "insufficient_source"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Evidence",
-          "evidenceLevel": "Low",
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
           "themes": [
-            "Clinical Evidence",
-            "Healthcare AI"
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
           ],
           "tags": [
-            "临床",
-            "医疗 AI"
+            "类器官",
+            "疾病模型",
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 The American surgeon，PMID 为 42500998。",
-          "report": "Suspected acute appendicitis is difficult to triage in atypical presentations.",
-          "inference": "分类用于情报分流，需强调研究未支持临床结论。",
-          "unknown": "未列出研究的具体质量及样本量，需补充信息"
+          "fact": "PubMed 记录显示该文献收录于 American journal of ophthalmology，PMID 为 42501956。",
+          "report": "Age-related macular degeneration (AMD) remains a leading cause of irreversible blindness worldwide, characterized by the progressive breakdown of the outer blood-retinal barrier, accumulation of protein and lipid deposits in the subretinal space, and the conse...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42501813",
+      "date": "2026-07-25",
+      "title": "Fate, Toxicology and Organ-on-A-Chip Methodology of Nanoplastics in Human Body.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501813/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Toxicology，PMID 为 42501813。",
+      "report": "Nanoplastics (NPs) can cross the human biological barriers, enter the bloodstream, and accumulate in vital organs due to their unique physical and chemical properties. This review provides a detailed explanation of the mechanisms by which NPs cross the air-blo...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_02c6f6a58e069979006a65c82e40f481969d14e582d4978bf7",
+        "reviewedAt": "2026-07-26T08:41:12.616965+00:00",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号符合发布标准，分类和证据等级合理，信息分离清晰。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要分类和子分类匹配证据内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "报告内容与来源一致，分类合理。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Toxicology，PMID 为 42501813。",
+          "report": "Nanoplastics (NPs) can cross the human biological barriers, enter the bloodstream, and accumulate in vital organs due to their unique physical and chemical properties. This review provides a detailed explanation of the mechanisms by which NPs cross the air-blo...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42501773",
+      "date": "2026-07-25",
+      "title": "Engineering Spatially Organized Hair Peg-like Structures in Human Skin Constructs Using Keratinocyte-Dermal Papilla Fibroblast Spheroids and Micropatterned Dermal Scaffolds.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501773/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Acta biomaterialia，PMID 为 42501773。",
+      "report": "Tissue-engineered skin substitutes (TESS) represent a key therapeutic option for extensive cutaneous injuries when autologous grafting is limited; however, current constructs lack skin appendages, particularly hair follicles, resulting in incomplete functional...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_059053e97abb3e25006a65c832b1b08190a7edd2ed70767d95",
+        "reviewedAt": "2026-07-26T08:41:12.616965+00:00",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录清晰，无临床建议或未支持的结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论明确分离，证据等级合理。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Acta biomaterialia，PMID 为 42501773。",
+          "report": "Tissue-engineered skin substitutes (TESS) represent a key therapeutic option for extensive cutaneous injuries when autologous grafting is limited; however, current constructs lack skin appendages, particularly hair follicles, resulting in incomplete functional...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -957,78 +1090,6 @@ window.BHR_DATA = {
           ],
           "fact": "PubMed 记录显示该文献收录于 Colloids and surfaces. B, Biointerfaces，PMID 为 42501435。",
           "report": "This study aimed to develop cartilage organoid precursors (COP) using CoCl₂-pretreated bone marrow mesenchymal stem cells (BMSCs) encapsulated in gelatin methacryloyl (GelMA) hydrogel microspheres (GMS) and to evaluate their therapeutic efficacy in cartilage d...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42498990",
-      "date": "2026-07-24",
-      "title": "A Lightweight, 3D-Printable, Low-Cost, \"One-Click\" Dorsal Skin Window for High-Quality Long-Term Multimodal Subcutaneous Tumor Imaging.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42498990/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42498990。",
-      "report": "Intravital microscopy (IVM) using dorsal skinfold chambers (DSCs) enables real-time, high-resolution imaging of the tumor microenvironment. Conventional, metal-based DSC systems often cause animal distress and require technically demanding surgical implantatio...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0183f8cef4dec41a006a64c2865fa481999786f0724fc7cb2e",
-        "reviewedAt": "2026-07-25T14:04:53.689341+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录中所有信息清晰且一致，符合发表要求。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类和证据水平与元数据匹配。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断之间清晰区分，且证据水平适当。"
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42498990。",
-          "report": "Intravital microscopy (IVM) using dorsal skinfold chambers (DSCs) enables real-time, high-resolution imaging of the tumor microenvironment. Conventional, metal-based DSC systems often cause animal distress and require technically demanding surgical implantation.",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
@@ -2155,6 +2216,74 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "pubmed-42501549",
+      "date": "2026-07-14",
+      "title": "Xiaoyaosan reactivates the muscle-brain axis via FNDC5/Irisin to ameliorate LPS-induced depression.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501549/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Phytomedicine : international journal of phytotherapy and phytopharmacology，PMID 为 42501549。",
+      "report": "The muscle-brain axis is critical in neuropsychiatric disorders. However, its role in the antidepressant mechanism of Xiaoyaosan (XYS) remains unclear. This study explored whether XYS exerts antidepressant effects by modulating the muscle FNDC5/Irisin-mediated...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_09d6326d3c52c547006a65c836396481958eff22958b9511c3",
+        "reviewedAt": "2026-07-26T08:41:12.616965+00:00",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献涉及抑郁机制，但未明确研究质量和结论，需人工审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类不够明确，需确认研究质量及其它关键要素。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据级别标注为中等，但信息不足以支持这一评估。"
+        },
+        "riskFlags": [
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Phytomedicine : international journal of phytotherapy and phytopharmacology，PMID 为 42501549。",
+          "report": "The muscle-brain axis is critical in neuropsychiatric disorders. However, its role in the antidepressant mechanism of Xiaoyaosan (XYS) remains unclear. This study explored whether XYS exerts antidepressant effects by modulating the muscle FNDC5/Irisin-mediated...",
+          "inference": "该研究不应被视为已确认的临床结论。",
+          "unknown": "缺乏对研究质量和样本量的评估，需进一步确认。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42500661",
       "date": "2026-07-10",
       "title": "Berberine restrains the expansion of colorectal cancer organoids by blocking cell cycle progression and reducing lipid synthesis.",
@@ -3037,93 +3166,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42499344",
-      "date": "2026-07-02",
-      "title": "An open-source pipeline for longitudinal single-cell tracking and cell-cycle/migration coupling analysis for neurotherapeutic screening.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42499344/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neuroprotection (Chichester, England)，PMID 为 42499344。",
-      "report": "Imaging-based phenotypic assays are widely used in neuroprotection, drug discovery, and neurorepair studies, but long-term, high-throughput time-lapse datasets remain difficult to analyze because of segmentation noise, photobleaching, crowded fields, cell divi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0395c63b1135fdad006a64c2a5fbd4819b8b3971f9397ece5d",
-        "reviewedAt": "2026-07-25T14:04:53.689341+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录符合中立情报标准，信息分类清晰。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论之间区分明确。"
-        },
-        "riskFlags": [
-          "research",
-          "bioinformatics"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "AI for Biology",
-            "Drug Discovery",
-            "Drug Screening",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "AI 制药",
-            "蛋白设计",
-            "分子生成",
-            "药筛",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Neuroprotection (Chichester, England)，PMID 为 42499344。",
-          "report": "Imaging-based phenotypic assays are widely used in neuroprotection, drug discovery, and neurorepair studies, but long-term, high-throughput time-lapse datasets remain difficult to analyze because of segmentation noise, photobleaching, crowded fields, cell division.",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "clinicaltrials-NCT07678346",
       "date": "2026-07-01",
       "title": "Evaluation of AppleX™ Apple Extract on Anti-Inflammatory and Healthy Aging Effects",
@@ -3874,74 +3916,6 @@ window.BHR_DATA = {
           "report": "The goal of this feasibility study is to evaluate a new sample preparator called See.d. After blood processing the instrument will produce a set of slides and a tube of plasma. These outputs could be used in further analysis in liquid biopsy applications.",
           "inference": "该注册记录未能提供疗效或安全性的验证。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42498414",
-      "date": "2025-12-26",
-      "title": "Fine particulate matter promoted vascular calcification through the miR-27b-5p/HES1 signaling pathway.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42498414/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of environmental sciences (China)，PMID 为 42498414。",
-      "report": "Fine particulate matter (PM2.5) remains to be the leading cause of global disease burden and is linked to arterial calcification in humans. This study revealed that PM2.5 facilitated the phenotype switching of mouse aortic smooth muscle (MOVAS) cells and promo...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0dc5ecc199ebaa71006a64735ef8c8819192efd50b995be3ef",
-        "reviewedAt": "2026-07-25T08:26:26.360272+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号符合发布标准，分类与证据水平合理。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合研究主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断明确分开，且证据水平合理。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of environmental sciences (China)，PMID 为 42498414。",
-          "report": "Fine particulate matter (PM2.5) remains to be the leading cause of global disease burden and is linked to arterial calcification in humans. This study revealed that PM2.5 facilitated the phenotype switching of mouse aortic smooth muscle (MOVAS) cells and promo...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },

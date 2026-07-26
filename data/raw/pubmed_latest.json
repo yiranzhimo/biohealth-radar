@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-26T03:59:18.002233+00:00",
+  "capturedAt": "2026-07-26T08:41:02.623298+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,11 +14,12 @@
     "end": "2026-07-26"
   },
   "pmids": [
+    "42501956",
+    "42501813",
+    "42501773",
+    "42501549",
     "42501435",
     "42500661",
-    "42499344",
-    "42498990",
-    "42498414",
     "42498177",
     "42497867",
     "42486102",
@@ -36,10 +37,91 @@
     "42499691",
     "42499413",
     "42498744",
-    "42498740",
-    "42500998"
+    "42498740"
   ],
   "records": [
+    {
+      "pmid": "42501956",
+      "title": "Retinal Pigment Epithelium and Microglia Transplantation in Age-related Macular Degeneration.",
+      "abstract": "Age-related macular degeneration (AMD) remains a leading cause of irreversible blindness worldwide, characterized by the progressive breakdown of the outer blood-retinal barrier, accumulation of protein and lipid deposits in the subretinal space, and the consequential degeneration of macular photoreceptors. Geographic atrophy (GA) is one of the blinding end points of AMD. While current pharmaceutical interventions can slow lesion expansion or counter choroidal neovascularization, they fail to address the most significant clinical unmet need: regeneration of damaged retinal tissue to restore vision. Regenerative medicine via stem cell transplantation offers a definitive curative approach by replacing the structural and immune framework of the outer retina. This review synthesizes current advancements in human embryonic and pluripotent stem cells platforms engineered for outer retinal reconstruction. We evaluate the differentiation, culturing, and quality validation required to generate clinical-grade, polarized RPE monolayers and homeostatic microglia-like cells. Structurally, single-cell suspensions are contrasted against bioengineered patches, scaffold-free cell sheets, and advanced cell strips, analyzing how graft configuration dictates post-transplantation integration and visual recovery while balancing procedural adverse events like cell reflux and epiretinal membrane formation. Furthermore, this review addresses the microenvironmental challenges of transplanting allogeneic constructs into an inflamed, senescent host niche. We examine CRISPR-Cas9 genome editing paradigms, including cytosine base and prime editing, designed to rectify cell-intrinsic genetic vulnerabilities such as the complement factor H (CFH) risk variant. We highlight translational applications, such as knocking out the Class II transactivator to eliminate major histocompatibility complex class II (MHC-II) expression, which successfully circumvents host T-cell immune surveillance and prevents graft rejection in non-human primates. Additionally, we analyze how engineering an inhibitor-resistant colony-stimulating factor 1 receptor (CSF1R) point mutation enables exogenously administered microglia to robustly outcompete and replace maladaptive, pro-inflammatory host microglia under selective small-molecule pressure. Finally, we discuss future directions, emphasizing multi-lineage bilayered co-transplantation models that combine genome-edited RPE patches with homeostatic microglia or retinal organoids to achieve durable synaptic repair, alongside automated artificial intelligence manufacturing pipelines. Together, these combined structural, molecular, and immune-modulating strategies represent the next clinical frontier in restoring clear central vision and achieving permanent neurovascular rescue in advanced macular degeneration.",
+      "journal": "American journal of ophthalmology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Ophthalmology, Columbia University Irving Medical Center, New York, NY 10032, USA; Center of Excellence in Retina, Department of Ophthalmology, Faculty of Medicine, Chulalongkorn University and King Chulalongkorn Memorial Hospital, Thai Red Cross Society, Bangkok, Thailand.",
+        "Department of Ophthalmology, Columbia University Irving Medical Center, New York, NY 10032, USA.",
+        "Department of Ophthalmology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Biomedical Engineering, Columbia University, New York, NY 10027, USA.",
+        "Department of Ophthalmology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Pathology and Cell Biology, Columbia University Irving Medical Center, New York, NY 10032, USA. Electronic address: sht2@cumc.columbia.edu."
+      ],
+      "doi": "10.1016/j.ajo.2026.07.036",
+      "date": "2026-07-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501956/"
+    },
+    {
+      "pmid": "42501813",
+      "title": "Fate, Toxicology and Organ-on-A-Chip Methodology of Nanoplastics in Human Body.",
+      "abstract": "Nanoplastics (NPs) can cross the human biological barriers, enter the bloodstream, and accumulate in vital organs due to their unique physical and chemical properties. This review provides a detailed explanation of the mechanisms by which NPs cross the air-blood, intestinal, and blood-brain barriers. It provides more insight into how NPs interact with blood components after entering circulation, assesses the cardiovascular toxicity that results, and visually represents how NPs are distributed in human tissues. Traditional static models have significant limitations in simulating the complex physiological microenvironments of the human body. Organ-on-a-chip (OoC) technology is emerging as a novel toxicology tool due to its unique advantages in dynamically reconstructing the vascular microenvironment and biological barriers. This technology allows for a precise characterization of the hemodynamic behavior of NPs and their mechanisms of cross-barrier toxicity. In general, this work offers crucial theoretical and methodological insights to address existing technical issues in assessing the toxicity of emerging environmental contaminants.",
+      "journal": "Toxicology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Institute of Waste Treatment and Reclamation, College of Environmental Science and Engineering, Tongji University, Shanghai 200092, China; State Key Laboratory of Water Pollution Control and Green Resource Recycling, Tongji University, Shanghai 200092, China. Electronic address: 2431393@tongji.edu.cn.",
+        "Institute of Waste Treatment and Reclamation, College of Environmental Science and Engineering, Tongji University, Shanghai 200092, China; State Key Laboratory of Water Pollution Control and Green Resource Recycling, Tongji University, Shanghai 200092, China. Electronic address: lvfan.rhodea@tongji.edu.cn.",
+        "Naval Medical Center, The Naval Medical University, Shanghai 200433, China. Electronic address: jjfang@smmu.edu.cn.",
+        "Department of Neurology, Shanghai East Hospital, School of Medicine, Tongji University, Shanghai 200092, China. Electronic address: ligang@tongji.edu.cn.",
+        "Institute of Waste Treatment and Reclamation, College of Environmental Science and Engineering, Tongji University, Shanghai 200092, China; State Key Laboratory of Water Pollution Control and Green Resource Recycling, Tongji University, Shanghai 200092, China. Electronic address: zhanghua_tj@tongji.edu.cn.",
+        "Institute of Waste Treatment and Reclamation, College of Environmental Science and Engineering, Tongji University, Shanghai 200092, China; State Key Laboratory of Water Pollution Control and Green Resource Recycling, Tongji University, Shanghai 200092, China; Shanghai Institute of Pollution Control and Ecological Security, Shanghai 200092, China. Electronic address: solidwaste@tongji.edu.cn."
+      ],
+      "doi": "10.1016/j.tox.2026.154550",
+      "date": "2026-07-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501813/"
+    },
+    {
+      "pmid": "42501773",
+      "title": "Engineering Spatially Organized Hair Peg-like Structures in Human Skin Constructs Using Keratinocyte-Dermal Papilla Fibroblast Spheroids and Micropatterned Dermal Scaffolds.",
+      "abstract": "Tissue-engineered skin substitutes (TESS) represent a key therapeutic option for extensive cutaneous injuries when autologous grafting is limited; however, current constructs lack skin appendages, particularly hair follicles, resulting in incomplete functional and aesthetic restoration. A central barrier to engineering follicular structures within TESS is the rapid loss of hair-inductive features in cultured human dermal papilla (DP) fibroblasts and the difficulty of recreating epithelial-mesenchymal interactions required for early folliculogenesis. Here, we report a bioengineering platform that integrates self-organizing composite spheroids composed of adult human epidermal keratinocytes (KCs) and DP fibroblasts with laser-micropatterned collagen scaffolds to generate spatially defined hair peg-like structures within human TESS. Under optimized three-dimensional culture conditions, mixed KC-DP spheroids reproducibly undergo polarization, budding, and elongation to form hair peg-like structures that exhibit compartmentalized organization and expression of key follicle-associated markers. Transcriptomic analysis reveals activation of follicular-associated transcriptional programs in KCs, while DP fibroblasts retain DP-associated features under these conditions. When implanted into predefined microwells within collagen-based dermal scaffolds, these spheroids continue coordinated morphogenesis alongside epidermal stratification and dermal matrix formation, yielding engineered skin constructs containing spatially integrated hair peg-like structures. Although maturation into fully developed hair follicles remains to be achieved, this study establishes a scalable, clinically relevant platform for integrating early-stage follicular units into TESS. Collectively, these findings provide a foundation for future efforts toward appendage-inclusive skin regeneration using adult human cells. STATEMENT OF SIGNIFICANCE: Engineering human hair follicles in skin substitutes remains challenging because dermal papilla cells rapidly lose hair-inductive function during laboratory expansion, and existing organoid models are difficult to scale or integrate into engineered skin. Here, we present a laser-micropatterned collagen scaffold that spatially incorporates early-stage follicular units formed from human keratinocytes and dermal papilla cells. Through systematic optimization of cell state, spheroid configuration, culture conditions, and scaffold integration, mixed keratinocyte-dermal papilla cell spheroids reproducibly undergo polarization, budding, and elongation in 3D culture and retain hair peg-like organization after incorporation into micropatterned dermal scaffolds. This work advances hair follicle engineering toward clinically relevant skin constructs for studying human hair biology and regenerative skin therapies.",
+      "journal": "Acta biomaterialia",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Division of Pharmaceutical Science, University of Cincinnati College of Pharmacy, Cincinnati, OH, USA.",
+        "Department of Materials Science and Engineering, the Ohio State University, Columbus, OH, USA.",
+        "Department of Surgery, University of Cincinnati College of Medicine, Cincinnati, OH, USA.",
+        "Department of Surgery, University of Cincinnati College of Medicine, Cincinnati, OH, USA; Shriners Children's Ohio, Dayton, OH, USA.",
+        "Department of Materials Science and Engineering, the Ohio State University, Columbus, OH, USA; Department of Biomedical Engineering, the Ohio State University, Columbus, OH, USA; Shriners Children's Ohio, Dayton, OH, USA.",
+        "Stravitz-Sanyal Institute for Liver Disease and Metabolic Health, Virginia Commonwealth University, Richmond, VA, USA.",
+        "XXX, USA. Electronic address: zhang2y4@ucmail.uc.edu."
+      ],
+      "doi": "10.1016/j.actbio.2026.07.041",
+      "date": "2026-07-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501773/"
+    },
+    {
+      "pmid": "42501549",
+      "title": "Xiaoyaosan reactivates the muscle-brain axis via FNDC5/Irisin to ameliorate LPS-induced depression.",
+      "abstract": "The muscle-brain axis is critical in neuropsychiatric disorders. However, its role in the antidepressant mechanism of Xiaoyaosan (XYS) remains unclear. This study explored whether XYS exerts antidepressant effects by modulating the muscle FNDC5/Irisin-mediated muscle-brain axis to restore hippocampal synaptic plasticity. LPS-induced mouse model was established for in vivo evaluation. In vitro, siRNA knockdown in C2C12-HT22 Transwell co-culture system was used to investigate the involvement of FNDC5/Irisin signaling in muscle-neuron communication. Neuromuscular organoids were established as a three-dimensional platform to model key features of muscle-neuron interactions. Untargeted metabolomics, immunohistochemistry, immunofluorescence, Western blotting, and ELISA were performed. XYS dose-dependently ameliorated LPS-induced depressive-like behaviors, restored muscle fiber integrity, and reversed hippocampal neuronal loss and synaptic deficits. Metabolomics analysis showed that XYS was associated with normalized metabolite profiles associated with β-alanine and taurine metabolism in the hippocampus and PPAR signaling pathway in the muscle. XYS was also associated with activation of the muscle PPARγ/PGC-1α/FNDC5/Irisin signaling pathway, accompanied by increased circulating Irisin levels and upregulation of hippocampal BDNF, PSD95, and synaptophysin. siRNA knockdown of FNDC5 attenuated the effects of XYS on Irisin secretion and synaptic marker restoration in co-cultured neurons. In organoids, XYS protected both myotube and neuronal compartments from LPS-induced injury. XYS exerts antidepressant effects, at least in part, through the activation of the muscle PPARγ/PGC-1α/FNDC5/Irisin axis and the restoration of hippocampal BDNF-mediated synaptic plasticity. The present findings support a potential role for FNDC5/Irisin in peripheral-to-central signaling associated with the antidepressant effects of XYS. These findings further suggest that the muscle-brain axis may represent a promising therapeutic target for depression and warrants further investigation.",
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, 510515, China.",
+        "Zhujiang Hospital, Southern Medical University, Guangzhou, China.",
+        "The Affiliated Traditional Chinese Medicine Hospital, Guangzhou Medical University, Guangzhou, China.",
+        "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, 510515, China; Southern Medical University Hospital of Integrated Traditional Chinese and Western Medicine, Southern Medical University, Guangzhou, 510515, China; Guangdong Basic Research Center of Excellence for Integrated Traditional and Western Medicine for Qingzhi Diseases, Guangzhou, 510515, China. Electronic address: hsh@smu.edu.cn.",
+        "School of Basic Medical Science, Guangzhou University of Chinese Medicine, Guangzhou, 510006, China. Electronic address: chandergao@hotmail.com.",
+        "School of Basic Medical Science, Guangzhou University of Chinese Medicine, Guangzhou, 510006, China; School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, 510515, China. Electronic address: raygaolei@smu.edu.cn.",
+        "School of Nursing, Guangzhou University of Chinese Medicine, Guangzhou, 510006, China. Electronic address: dongzy@gzucm.edu.cn."
+      ],
+      "doi": "10.1016/j.phymed.2026.158567",
+      "date": "2026-07-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501549/"
+    },
     {
       "pmid": "42501435",
       "title": "Experimental study on the fabrication of GelMA hydrogel microsphere-based cartilage organoid precursors for the repair of cartilage defects.",
@@ -75,58 +157,6 @@
       "doi": "10.3389/fimmu.2026.1855151",
       "date": "2026-07-10",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42500661/"
-    },
-    {
-      "pmid": "42499344",
-      "title": "An open-source pipeline for longitudinal single-cell tracking and cell-cycle/migration coupling analysis for neurotherapeutic screening.",
-      "abstract": "Imaging-based phenotypic assays are widely used in neuroprotection, drug discovery, and neurorepair studies, but long-term, high-throughput time-lapse datasets remain difficult to analyze because of segmentation noise, photobleaching, crowded fields, cell division, and tracking errors. Fluorescent ubiquitination-based cell cycle indicator (FUCCI) reporters enable live visualization of cell-cycle phases, but their integration with migration behaviors remains limited. This study aimed to developed an open workflow for tracking cycle and motility. We combined Fiji/ImageJ preprocessing, Cellpose-based deep learning segmentation, and TrackMate-based cell tracking. FUCCI-expressing HEK293 cells were imaged using a Tecan Spark Cyto (Männedorf, Switzerland) every 15 min for 24 h. Cellpose models were retrained using manually corrected masks from brightfield and fluorescence images, and TrackMate parameters were optimized using manually curated tracks. Statistical analyses were conducted using Paleontological Statistics (PAST) software (version 4.0, Natural History Museum, University of Oslo, Oslo, Norway). Iterative cellpose retraining improved segmentation accuracy in both brightfield and fluorescent datasets by reducing false-positive and false-negative errors (Brightfield Type I error improvement: t(10) = 33.323, p = 1.400 × 10-11, Brightfield Type II error improvement: t(10) = 16.066, p = 1.805 × 10-8, Fluorescent Type II errors: U = 0, p = 0.00077). TrackMate optimization improved trajectory continuity, especially through adjustment of frame-to-frame linking distances (Brightfield: χ 2 (2) = 10, p = 0.00077, Fluorescent: χ 2 (2) = 10, p = 0.00077). The workflow enabled single-cell and population-level analysis of migration distance, turning behavior, morphology, division events, and FUCCI-defined cell-cycle progression. Cells showed heterogeneous motility, with lower displacement trends during green-dominant S/G2/M phases than red-dominant G1 phases. This workflow links cell-cycle state with migration dynamics and can be adapted for neuroprotective screening, neural cultures, organoids, and neuron-glia co-culture studies.",
-      "journal": "Neuroprotection (Chichester, England)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Diagnostic Radiology and Nuclear Medicine University of Maryland School of Medicine Baltimore Maryland USA.",
-        "Janelia Research Campus Howard Hughes Medical Institute Ashburn Virginia USA."
-      ],
-      "doi": "10.1002/nep3.70047",
-      "date": "2026-07-02",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42499344/"
-    },
-    {
-      "pmid": "42498990",
-      "title": "A Lightweight, 3D-Printable, Low-Cost, \"One-Click\" Dorsal Skin Window for High-Quality Long-Term Multimodal Subcutaneous Tumor Imaging.",
-      "abstract": "Intravital microscopy (IVM) using dorsal skinfold chambers (DSCs) enables real-time, high-resolution imaging of the tumor microenvironment. Conventional, metal-based DSC systems often cause animal distress and require technically demanding surgical implantation. To address these challenges and adhere to the 3Rs principles of animal welfare, this study presents a novel, stereolithography (SLA)-based, 3D-printed DSC featuring a lightweight (0.69 g) biocompatible resin structure and a suture-free \"one-click\" fixation system. This affordable device simplifies surgical installation and minimizes postoperative inflammation, allowing continuous multimodal imaging-IVM, micro-CT, ultrasound, and in vivo fluorescence-for up to four weeks. The system is validated in mice bearing subcutaneous tumors generated from PDAC93-GFP pancreatic tumor organoids implanted in the DSC. Longitudinal, high-resolution imaging successfully tracks tumor expansion, active stromal remodeling characterized by progressive collagen fiber compaction and alignment, and the emergence of a highly tortuous peritumoral vascular network. Furthermore, in vivo tracking in Catchup mice reveals a distinct transition of tumor-associated neutrophils from random acute inflammatory migration to directed tumor-driven chemotaxis. Overall, this ergonomic and robust DSC design provides a highly reliable platform for sustained, high-quality assessment of tumor-stroma-immune interactions and therapeutic responses, while notably improving animal welfare.",
-      "journal": "Advanced healthcare materials",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Imaging Platform, CIMA Universidad de Navarra, Pamplona, Spain.",
-        "Program in Biomedical Engineering, CIMA Universidad de Navarra, Cancer Center Clínica Universidad de Navarra (CCUN), Pamplona, Spain.",
-        "Instituto De Investigación Sanitaria De Navarra (IdiSNA), Pamplona, Spain.",
-        "Immunology and Immunotherapy Program, CIMA Universidad de Navarra, Cancer Center Clínica Universidad de Navarra (CCUN), Pamplona, Spain.",
-        "Centro de Investigación Biomédica en Red de Cáncer (CIBERONC), Madrid, Spain.",
-        "University of Navarra, Department of Biomedical Engineering, TECNUN, San Sebastián, Spain."
-      ],
-      "doi": "10.1002/adhm.71452",
-      "date": "2026-07-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42498990/"
-    },
-    {
-      "pmid": "42498414",
-      "title": "Fine particulate matter promoted vascular calcification through the miR-27b-5p/HES1 signaling pathway.",
-      "abstract": "Fine particulate matter (PM2.5) remains to be the leading cause of global disease burden and is linked to arterial calcification in humans. This study revealed that PM2.5 facilitated the phenotype switching of mouse aortic smooth muscle (MOVAS) cells and promoted in vitro calcification in the present of phosphate calcification medium. Mechanistic investigations revealed that PM2.5 may inhibit the transcription of miR-27b-5p in an XBP1 dependent manner, which subsequently promoted the interaction of HES1 and Runx2, eventually leading to the osteogenic transformation of MOVAS cells. More importantly, through using human induced pluripotent stem cells (hiPSCs)-derived 3D blood vessel organoids to simulate PM2.5-induced effects on the vascular system, we also observed that PM2.5 enhanced the expression of osteogenic markers, while pretreatment with miR-27b-5p mimics could significantly attenuate the phenotype switching of VSMCs and calcium deposition in the organoids. The proposed mechanisms were also confirmed by a mouse model, in which PM2.5 could promote vascular calcification, increase intima-media thickness, and interfere with vascular function in both dosage and duration-dependent manners. In summary, this study comprehensively evaluated PM2.5-induced vascular calcification and unraveled implicated mechanisms, highlighting the importance of consistent efforts in reducing PM2.5 pollution and identifying sensitive cardiovascular biomarkers.",
-      "journal": "Journal of environmental sciences (China)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Toxicology and Sanitary Chemistry, School of Public Health, Capital Medical University, Beijing 100069, China; Beijing Key Laboratory of environment and aging, Capital Medical University, Beijing 100069, China; Laboratory for Clinical Medicine, Capital Medical University, Beijing 100069, China.",
-        "Department of Toxicology and Sanitary Chemistry, School of Public Health, Capital Medical University, Beijing 100069, China; Beijing Key Laboratory of environment and aging, Capital Medical University, Beijing 100069, China; Laboratory for Clinical Medicine, Capital Medical University, Beijing 100069, China. Electronic address: zwsun@ccmu.edu.cn."
-      ],
-      "doi": "10.1016/j.jes.2025.12.074",
-      "date": "2025-12-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42498414/"
     },
     {
       "pmid": "42498177",
@@ -485,56 +515,95 @@
       "doi": "10.1038/s41571-026-01181-8",
       "date": "2026-07-24",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42498740/"
-    },
-    {
-      "pmid": "42500998",
-      "title": "Diagnostic Ambiguity in Appendicitis: Comparing Failure Modes of Large Language Models and Surgeons.",
-      "abstract": "BackgroundSuspected acute appendicitis is difficult to triage in atypical presentations, including pediatric and geriatric cases and scenarios with muted inflammatory markers. Frontier LLMs are increasingly evaluated in emergency decision-making, but vignette-based comparisons should not be interpreted as evidence of clinical readiness. This study evaluated diagnostic behavior, triage safety, and error profiles of frontier LLMs in standardized appendicitis scenarios, using general surgery specialists as a benchmark.MethodsWe performed a comparative, cross-sectional diagnostic-accuracy simulation study using 150 standardized emergency department vignettes (90 appendicitis and 60 non-surgical mimics), enriched for diagnostically difficult scenarios. Six frontier AI systems and two board-certified general surgery specialists independently evaluated each vignette using a fixed triage prompt. Outcomes were diagnostic accuracy, sensitivity, specificity, inter-rater agreement, triage-priority accuracy, and qualitative error taxonomy.ResultsOverall diagnostic performance differed across cohorts (P < 0.001). GPT-5 achieved the highest accuracy (95.3%), exceeding GPT-4o (82.0%; P < 0.001) and slightly surpassing specialist consensus (92.7%). In pediatric and geriatric vignettes, GPT-5 maintained 93.8% accuracy, compared with 90.0% for specialists and 71.2% for GPT-4o. Error analysis identified distinct failure modes, including search-induced hallucinations in web-augmented systems. These findings were interpreted alongside clinical error severity rather than as product-level superiority.ConclusionIn this vignette-based simulation study, LLM performance varied substantially across systems. The main contribution was characterization of model and human failure modes under diagnostic ambiguity, supporting supervised, diagnosis-specific evaluation rather than autonomous emergency triage deployment.",
-      "journal": "The American surgeon",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of General Surgery, University of Health Sciences, Kanuni Training and Research Hospital, Istanbul, Turkey.",
-        "Department of General Surgery, University of Health Sciences, Umraniye Training and Research Hospital, Istanbul, Turkey.",
-        "Department of General Surgery, University of Health Sciences, Cam Sakura Training and Research Hospital, Istanbul, Turkey."
-      ],
-      "doi": "10.1177/00031348261471464",
-      "date": "2026-07-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42500998/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42500998",
+      "id": "pubmed-42501956",
       "date": "2026-07-25",
-      "title": "Diagnostic Ambiguity in Appendicitis: Comparing Failure Modes of Large Language Models and Surgeons.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Research",
+      "title": "Retinal Pigment Epithelium and Microglia Transplantation in Age-related Macular Degeneration.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42500998/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501956/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Healthcare AI",
-        "Medical LLM"
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
       ],
       "tags": [
-        "临床",
-        "监管",
-        "医疗 AI",
-        "临床决策支持"
+        "类器官",
+        "疾病模型",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The American surgeon，PMID 为 42500998。",
-      "report": "BackgroundSuspected acute appendicitis is difficult to triage in atypical presentations, including pediatric and geriatric cases and scenarios with muted inflammatory markers. Frontier LLMs are increasingly evaluated in emergency decision-making, but vignette-...",
-      "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 American journal of ophthalmology，PMID 为 42501956。",
+      "report": "Age-related macular degeneration (AMD) remains a leading cause of irreversible blindness worldwide, characterized by the progressive breakdown of the outer blood-retinal barrier, accumulation of protein and lipid deposits in the subretinal space, and the conse...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42501813",
+      "date": "2026-07-25",
+      "title": "Fate, Toxicology and Organ-on-A-Chip Methodology of Nanoplastics in Human Body.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501813/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Toxicology，PMID 为 42501813。",
+      "report": "Nanoplastics (NPs) can cross the human biological barriers, enter the bloodstream, and accumulate in vital organs due to their unique physical and chemical properties. This review provides a detailed explanation of the mechanisms by which NPs cross the air-blo...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42501773",
+      "date": "2026-07-25",
+      "title": "Engineering Spatially Organized Hair Peg-like Structures in Human Skin Constructs Using Keratinocyte-Dermal Papilla Fibroblast Spheroids and Micropatterned Dermal Scaffolds.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501773/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Acta biomaterialia，PMID 为 42501773。",
+      "report": "Tissue-engineered skin substitutes (TESS) represent a key therapeutic option for extensive cutaneous injuries when autologous grafting is limited; however, current constructs lack skin appendages, particularly hair follicles, resulting in incomplete functional...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -562,36 +631,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Colloids and surfaces. B, Biointerfaces，PMID 为 42501435。",
       "report": "This study aimed to develop cartilage organoid precursors (COP) using CoCl₂-pretreated bone marrow mesenchymal stem cells (BMSCs) encapsulated in gelatin methacryloyl (GelMA) hydrogel microspheres (GMS) and to evaluate their therapeutic efficacy in cartilage d...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42498990",
-      "date": "2026-07-24",
-      "title": "A Lightweight, 3D-Printable, Low-Cost, \"One-Click\" Dorsal Skin Window for High-Quality Long-Term Multimodal Subcutaneous Tumor Imaging.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42498990/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42498990。",
-      "report": "Intravital microscopy (IVM) using dorsal skinfold chambers (DSCs) enables real-time, high-resolution imaging of the tumor microenvironment. Conventional, metal-based DSC systems often cause animal distress and require technically demanding surgical implantatio...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -949,6 +988,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42501549",
+      "date": "2026-07-14",
+      "title": "Xiaoyaosan reactivates the muscle-brain axis via FNDC5/Irisin to ameliorate LPS-induced depression.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501549/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Phytomedicine : international journal of phytotherapy and phytopharmacology，PMID 为 42501549。",
+      "report": "The muscle-brain axis is critical in neuropsychiatric disorders. However, its role in the antidepressant mechanism of Xiaoyaosan (XYS) remains unclear. This study explored whether XYS exerts antidepressant effects by modulating the muscle FNDC5/Irisin-mediated...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42500661",
       "date": "2026-07-10",
       "title": "Berberine restrains the expansion of colorectal cancer organoids by blocking cell cycle progression and reducing lipid synthesis.",
@@ -1040,43 +1107,6 @@
       "fact": "PubMed 记录显示该文献收录于 Briefings in bioinformatics，PMID 为 42476548。",
       "report": "Single-cell RNA sequencing has emerged as a transformative tool, enabling precise phenotype prediction and the detailed identification of disease-associated cell subpopulations. However, many existing computational approaches still rely on predefined cell-type...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42499344",
-      "date": "2026-07-02",
-      "title": "An open-source pipeline for longitudinal single-cell tracking and cell-cycle/migration coupling analysis for neurotherapeutic screening.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42499344/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neuroprotection (Chichester, England)，PMID 为 42499344。",
-      "report": "Imaging-based phenotypic assays are widely used in neuroprotection, drug discovery, and neurorepair studies, but long-term, high-throughput time-lapse datasets remain difficult to analyze because of segmentation noise, photobleaching, crowded fields, cell divi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1201,34 +1231,6 @@
       "fact": "PubMed 记录显示该文献收录于 SynBio，PMID 为 42495264。",
       "report": "Therapeutic proteins face a critical pharmacokinetic challenge: rapid clearance from circulation limits their clinical efficacy. Albumin-binding domains (ABDs) offer an elegant solution by enabling therapeutic proteins to \"hitchhike\" on serum albumin's favorab...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42498414",
-      "date": "2025-12-26",
-      "title": "Fine particulate matter promoted vascular calcification through the miR-27b-5p/HES1 signaling pathway.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42498414/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of environmental sciences (China)，PMID 为 42498414。",
-      "report": "Fine particulate matter (PM2.5) remains to be the leading cause of global disease burden and is linked to arterial calcification in humans. This study revealed that PM2.5 facilitated the phenotype switching of mouse aortic smooth muscle (MOVAS) cells and promo...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
