@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-27T04:05:49.196485+00:00",
+  "capturedAt": "2026-07-27T10:11:33.151949+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-07-27"
   },
   "pmids": [
+    "42503464",
     "42503245",
     "42502818",
     "42502713",
     "42502608",
     "42502268",
-    "42501956",
     "42498177",
     "42497867",
     "42486102",
@@ -32,14 +32,33 @@
     "42491104",
     "42490461",
     "42489643",
+    "42503304",
     "42502846",
     "42502197",
     "42500587",
     "42500570",
-    "42499691",
-    "42499413"
+    "42499691"
   ],
   "records": [
+    {
+      "pmid": "42503464",
+      "title": "From patient to tumor organoid: Culture protocol choice controls glioblastoma tumor architecture and identity.",
+      "abstract": "Patient-derived tumor organoids are widely used in cancer research, yet the biological impact of tissue processing during model generation remains unclear. Fragment-based and dissociation-based (DIS) approaches are commonly assumed to trade fidelity for uniformity, but their molecular consequences remain incompletely defined. To address this gap, we performed a proteome-wide comparison of fragment-based (cut-and-culture [CUT]) and DIS glioblastoma organoid protocols using quantitative mass spectrometry. Organoids from multiple patient tumors were cultured under growth factor-free or growth factor-supplemented conditions and compared with matched primary tissue. Results show that both protocols produced technically robust glioblastoma organoids when maintained in their native media. However, CUT organoids matched the reproducibility of DIS cultures while preserving a broader extracellular matrix (ECM) repertoire and networks linked to collagen assembly, vascular support, and cell-matrix signaling. DIS cultures were biased toward exogenous basement membrane components and proliferative, growth factor-responsive states. Across tumors, CUT organoids consistently showed greater proteomic similarity to matched primary tissue, retaining neural, glial, stromal, and extracellular features largely absent from DIS models. Taken together, fragment-based glioblastoma organoids can be both reproducible and biologically faithful. Tissue dissociation acts as a major perturbation that reshapes ECM organization, cellular states, and tumor identity, making protocol choice a critical determinant of model fidelity and translational relevance.",
+      "journal": "Brain pathology (Zurich, Switzerland)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Histology and Embryology, Faculty of Medicine, Masaryk University, Brno, Czech Republic.",
+        "International Clinical Research Center, St. Anne's University Hospital Brno, Brno, Czech Republic.",
+        "Department of Neurosurgery, Faculty of Medicine, Masaryk University and St. Anne's University Hospital Brno, Brno, Czech Republic.",
+        "First Department of Pathology, Faculty of Medicine, Masaryk University and St. Anne's University Hospital Brno, Brno, Czech Republic.",
+        "Laboratory of Genome Integrity, Institute of Molecular Genetics of the Czech Academy of Sciences, Prague 4, Czech Republic."
+      ],
+      "doi": "10.1111/bpa.70125",
+      "date": "2026-07-26",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42503464/"
+    },
     {
       "pmid": "42503245",
       "title": "CLCF1-ZIC5-CNTFR feedback loop drives cisplatin resistance in cervical squamous cell carcinoma.",
@@ -141,25 +160,6 @@
       "doi": "10.1093/rb/rbag142",
       "date": "2026-06-30",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42502268/"
-    },
-    {
-      "pmid": "42501956",
-      "title": "Retinal Pigment Epithelium and Microglia Transplantation in Age-related Macular Degeneration.",
-      "abstract": "Age-related macular degeneration (AMD) remains a leading cause of irreversible blindness worldwide, characterized by the progressive breakdown of the outer blood-retinal barrier, accumulation of protein and lipid deposits in the subretinal space, and the consequential degeneration of macular photoreceptors. Geographic atrophy (GA) is one of the blinding end points of AMD. While current pharmaceutical interventions can slow lesion expansion or counter choroidal neovascularization, they fail to address the most significant clinical unmet need: regeneration of damaged retinal tissue to restore vision. Regenerative medicine via stem cell transplantation offers a definitive curative approach by replacing the structural and immune framework of the outer retina. This review synthesizes current advancements in human embryonic and pluripotent stem cells platforms engineered for outer retinal reconstruction. We evaluate the differentiation, culturing, and quality validation required to generate clinical-grade, polarized RPE monolayers and homeostatic microglia-like cells. Structurally, single-cell suspensions are contrasted against bioengineered patches, scaffold-free cell sheets, and advanced cell strips, analyzing how graft configuration dictates post-transplantation integration and visual recovery while balancing procedural adverse events like cell reflux and epiretinal membrane formation. Furthermore, this review addresses the microenvironmental challenges of transplanting allogeneic constructs into an inflamed, senescent host niche. We examine CRISPR-Cas9 genome editing paradigms, including cytosine base and prime editing, designed to rectify cell-intrinsic genetic vulnerabilities such as the complement factor H (CFH) risk variant. We highlight translational applications, such as knocking out the Class II transactivator to eliminate major histocompatibility complex class II (MHC-II) expression, which successfully circumvents host T-cell immune surveillance and prevents graft rejection in non-human primates. Additionally, we analyze how engineering an inhibitor-resistant colony-stimulating factor 1 receptor (CSF1R) point mutation enables exogenously administered microglia to robustly outcompete and replace maladaptive, pro-inflammatory host microglia under selective small-molecule pressure. Finally, we discuss future directions, emphasizing multi-lineage bilayered co-transplantation models that combine genome-edited RPE patches with homeostatic microglia or retinal organoids to achieve durable synaptic repair, alongside automated artificial intelligence manufacturing pipelines. Together, these combined structural, molecular, and immune-modulating strategies represent the next clinical frontier in restoring clear central vision and achieving permanent neurovascular rescue in advanced macular degeneration.",
-      "journal": "American journal of ophthalmology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Ophthalmology, Columbia University Irving Medical Center, New York, NY 10032, USA; Center of Excellence in Retina, Department of Ophthalmology, Faculty of Medicine, Chulalongkorn University and King Chulalongkorn Memorial Hospital, Thai Red Cross Society, Bangkok, Thailand.",
-        "Department of Ophthalmology, Columbia University Irving Medical Center, New York, NY 10032, USA.",
-        "Department of Ophthalmology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Biomedical Engineering, Columbia University, New York, NY 10027, USA.",
-        "Department of Ophthalmology, Columbia University Irving Medical Center, New York, NY 10032, USA; Department of Pathology and Cell Biology, Columbia University Irving Medical Center, New York, NY 10032, USA. Electronic address: sht2@cumc.columbia.edu."
-      ],
-      "doi": "10.1016/j.ajo.2026.07.036",
-      "date": "2026-07-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501956/"
     },
     {
       "pmid": "42498177",
@@ -382,6 +382,25 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42489643/"
     },
     {
+      "pmid": "42503304",
+      "title": "Extracellular Vesicles in Cancer: Biomarkers, Mechanisms, and Emerging Diagnostic Technologies.",
+      "abstract": "Extracellular vesicles (EVs) are nanoscale, membrane-bound particles that transport diverse biomolecules-including proteins, nucleic acids, lipids, and metabolites-between cells, thereby orchestrating key processes in cancer progression. Tumor-derived EVs modulate angiogenesis, epithelial-to-mesenchymal transition, extracellular matrix remodeling, fibroblast activation, and immune evasion, shaping the tumor microenvironment, and driving metastasis as well as therapy resistance. With their stability in biofluids and cargo reflective of cellular origin, EVs have emerged as powerful non-invasive biomarkers for early detection, disease monitoring, and prognosis across multiple cancer types. Recent advances in enrichment, characterization, and molecular profiling technologies-ranging from ultracentrifugation and microfluidics to proteomics, RNA sequencing, and surface-enhanced Raman spectroscopy, have greatly expanded the diagnostic potential of EVs. Integration with machine learning further enhances sensitivity, specificity, and tumor classification, while multiomic and multiplex platforms enable high-throughput and clinically relevant applications. This review highlights the multifaceted roles of EVs in cancer biology, catalogs emerging biomarkers, and compares state-of-the-art detection technologies, offering a comprehensive reference for advancing EV-based diagnostics and precision oncology.",
+      "journal": "Advanced healthcare materials",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Precise Genome Engineering Center, School of Life Sciences, Guangzhou University, Guangzhou, China.",
+        "Reproductive and Genetic Medicine Department, Zhuzhou Hospital Affiliated to Xiangya School of Medicine, Central South University, Zhuzhou, Hunan, China.",
+        "School of Chemistry and Chemical Engineering, Guizhou University, Guiyang, China.",
+        "Guangzhou Municipal and Guangdong Provincial Key Laboratory of Molecular Target & Clinical Pharmacology, the NMPA and State Key Laboratory of Respiratory Disease, School of Pharmaceutical Sciences, Guangzhou Medical University, Guangzhou, China."
+      ],
+      "doi": "10.1002/adhm.71462",
+      "date": "2026-07-26",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42503304/"
+    },
+    {
       "pmid": "42502846",
       "title": "Autoimmune Biliary Diseases: From Fragmented Pathways to Precision Diagnosis.",
       "abstract": "Autoimmune biliary diseases, such as primary sclerosing cholangitis (PSC), Primary biliary cholangitis (PBC) and IgG4-related sclerosing cholangitis (IgG4-SC) are recognized as contributors to chronic cholestatic liver disease. Time-to-diagnosis remains prolonged, despite the presence of high resolution MRCP, expanded autoantibody panels and improved endoscopic tissue acquisition. This is due to the fragmented disease-specific pathways, variable marker sensitivity, overlap syndromes, malignant mimickers and in some cases early/small-duct imaging limitations. Critically evaluate and synthesize current diagnostic modalities and propose an integrated, precision-layered, phenotype-defined, and tissue-informed diagnostic pathway that standardizes evaluation across autoimmune and immune-mediated cholangiopathies. Major society guidelines such as AASLD/EASL, key reviews and pivotal studies were used in order to extract evidence regarding autoimmune serologies, MRCP and advanced MRCP techniques, elastography/MRE for fibrosis staging and targeted endoscopic-tissue diagnostics, emphasizing on overlap phenotypes, intermediate strictures and malignancy exclusion. Seronegative/atypical PBC, limited sensitivity of MRCP in early or small-duct PSC, as well as frequent misclassification of IgG4-SC as PSC; are remarkable contributors of diagnostic delay. Iterative resolution, achieved through sequential escalation from serology to non-invasive ductal mapping, selective tissue clarification and investigational molecular and AI-assisted tools such as radiomics-enhanced MRCP, molecular cytology and liquid biopsy when conventional modalities fail, all aimed to improve discrimination of overlaps and support risk-stratified surveillance. Diagnostic uncertainty and disease misclassification may be reduced by implementing a precision-layered, phenotype-defined, and tissue-informed diagnostic pathway. This will standardize evaluation across autoimmune biliary diseases. It is important to note that these emerging tools remain investigational and require prospective validation prior to routine clinical integration.",
@@ -480,26 +499,67 @@
       "doi": "10.1159/000552643",
       "date": "2026-05-22",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42499691/"
-    },
-    {
-      "pmid": "42499413",
-      "title": "Salivary cell-free DNA in head and neck cancer: emerging clinical applications and future perspectives.",
-      "abstract": "Head and neck cancer (HNC) diagnosis and surveillance still rely primarily on clinical examination, imaging, and tissue biopsy, with no established non-invasive biomarkers for routine early detection or disease monitoring. This limitation underscores the need for alternative strategies that can facilitate timely diagnosis and longitudinal assessment. Salivary cell-free DNA (scfDNA) has emerged as a promising liquid biopsy biomarker owing to its close proximity to primary HNC lesions and its suitability for non-invasive, repeatable sampling. Detection and characterization of scfDNA enable the identification of tumour-associated molecular alterations, including somatic mutations, aberrant DNA methylation, copy number alterations, viral DNA, and fragmentation signatures, providing valuable insights into tumour biology and disease dynamics. These molecular features have demonstrated considerable potential for early detection, prognostication, therapeutic monitoring, and post-treatment surveillance in head and neck cancer. However, current data are derived largely from exploratory studies with heterogeneous methodologies, small validation cohorts, and limited standardization of analytical workflows. Nevertheless, advances in sample processing, extraction methods, high-sensitivity sequencing technologies, and advanced bioinformatic approaches are enhancing assay accuracy and reproducibility. This review summarizes the current evidence on scfDNA in HNC by delineating its biological basis, evaluating the robustness and translational relevance of available clinical studies, and examining the analytical, technical, and implementation challenges that must be addressed to facilitate its integration into evidence-based clinical practice.",
-      "journal": "Oncology reviews",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Biological and Life Sciences, School of Arts and Sciences, Ahmedabad University, Ahmedabad, Gujarat, India.",
-        "Bioinformatics Institute, Agency for Science Technology and Research (A*STAR), Singapore, Singapore."
-      ],
-      "doi": "10.3389/or.2026.1885622",
-      "date": "2026-07-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42499413/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42503464",
+      "date": "2026-07-26",
+      "title": "From patient to tumor organoid: Culture protocol choice controls glioblastoma tumor architecture and identity.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42503464/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Brain pathology (Zurich, Switzerland)，PMID 为 42503464。",
+      "report": "Patient-derived tumor organoids are widely used in cancer research, yet the biological impact of tissue processing during model generation remains unclear. Fragment-based and dissociation-based (DIS) approaches are commonly assumed to trade fidelity for unifor...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42503304",
+      "date": "2026-07-26",
+      "title": "Extracellular Vesicles in Cancer: Biomarkers, Mechanisms, and Emerging Diagnostic Technologies.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42503304/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42503304。",
+      "report": "Extracellular vesicles (EVs) are nanoscale, membrane-bound particles that transport diverse biomolecules-including proteins, nucleic acids, lipids, and metabolites-between cells, thereby orchestrating key processes in cancer progression. Tumor-derived EVs modu...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42503245",
       "date": "2026-07-25",
@@ -561,36 +621,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 MedComm，PMID 为 42502713。",
       "report": "Chronic obstructive pulmonary disease (COPD) is characterized by progressive alveolar destruction and defective regeneration, yet the matrix-derived factors contributing to this process remain poorly defined. We investigated the role of elastin-derived peptide...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42501956",
-      "date": "2026-07-25",
-      "title": "Retinal Pigment Epithelium and Microglia Transplantation in Age-related Macular Degeneration.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501956/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 American journal of ophthalmology，PMID 为 42501956。",
-      "report": "Age-related macular degeneration (AMD) remains a leading cause of irreversible blindness worldwide, characterized by the progressive breakdown of the outer blood-retinal barrier, accumulation of protein and lipid deposits in the subretinal space, and the conse...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -975,36 +1005,6 @@
       "fact": "PubMed 记录显示该文献收录于 Materials today. Bio，PMID 为 42502818。",
       "report": "GenX, also known as hexafluoropropylene oxide dimer acid (HFPO-DA), was introduced in 2009 as a purportedly safer alternative to perfluorooctanoic acid (PFOA). However, nearly two decades of use have raised increasing safety concerns owing to its reported asso...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42499413",
-      "date": "2026-07-10",
-      "title": "Salivary cell-free DNA in head and neck cancer: emerging clinical applications and future perspectives.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42499413/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Oncology reviews，PMID 为 42499413。",
-      "report": "Head and neck cancer (HNC) diagnosis and surveillance still rely primarily on clinical examination, imaging, and tissue biopsy, with no established non-invasive biomarkers for routine early detection or disease monitoring. This limitation underscores the need...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

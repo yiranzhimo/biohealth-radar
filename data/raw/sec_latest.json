@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-27T04:05:56.769119+00:00",
+  "capturedAt": "2026-07-27T10:11:41.315544+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-07-13",
@@ -140,6 +140,31 @@
   ],
   "records": [
     {
+      "filingDate": "2026-07-27",
+      "reportDate": "2026-07-27",
+      "acceptanceDateTime": "2026-07-27T06:02:09.000Z",
+      "act": "34",
+      "form": "6-K",
+      "fileNumber": "001-39307",
+      "filmNumber": "261202736",
+      "items": "",
+      "size": 12587,
+      "isXBRL": 0,
+      "isInlineXBRL": 0,
+      "primaryDocument": "d56062d6k.htm",
+      "primaryDocDescription": "6-K",
+      "accessionNumber": "0001193125-26-316760",
+      "companyId": "legend-biotech",
+      "companyName": "Legend Biotech",
+      "companyDirections": [
+        "Cell Therapy"
+      ],
+      "secTicker": "LEGN",
+      "cik": "0001801198",
+      "secName": "Legend Biotech Corp",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000119312526316760/d56062d6k.htm"
+    },
+    {
       "filingDate": "2026-07-20",
       "reportDate": "2026-07-20",
       "acceptanceDateTime": "2026-07-20T21:15:12.000Z",
@@ -243,6 +268,37 @@
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001801198-000119312526316760",
+      "date": "2026-07-27",
+      "title": "Legend Biotech filed Form 6-K",
+      "entity": "Legend Biotech",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000119312526316760/d56062d6k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Cell Therapy"
+      ],
+      "tags": [
+        "SEC",
+        "6-K",
+        "LEGN"
+      ],
+      "companyIds": [
+        "legend-biotech"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-316760 for Legend Biotech, Form 6-K, filed on 2026-07-27.",
+      "report": "SEC metadata describes the primary document as: 6-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001717115-000119312526309073",
       "date": "2026-07-20",
