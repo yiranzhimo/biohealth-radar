@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-26T19:37:52.923400+00:00",
+  "capturedAt": "2026-07-27T04:05:49.196485+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-07-26",
-    "end": "2026-07-26"
+    "start": "2025-07-27",
+    "end": "2026-07-27"
   },
   "pmids": [
+    "42503245",
     "42502818",
     "42502713",
     "42502608",
     "42502268",
     "42501956",
-    "42501813",
     "42498177",
     "42497867",
     "42486102",
@@ -40,6 +40,24 @@
     "42499413"
   ],
   "records": [
+    {
+      "pmid": "42503245",
+      "title": "CLCF1-ZIC5-CNTFR feedback loop drives cisplatin resistance in cervical squamous cell carcinoma.",
+      "abstract": "Cervical squamous cell carcinoma (CESC) is frequently complicated by cisplatin (CDDP) resistance, which is a primary cause of treatment failure and poor prognosis. Here, we identified a CLCF1-ZIC5-CNTFR feedback loop that contributes to CDDP resistance in CESC. We found that ZIC5 was significantly upregulated in CDDP-resistant CESC and correlated with worse overall survival. Functionally, ZIC5 promoted CDDP resistance, in part by enhancing properties associated with cancer stem cells (CSCs) through the transcriptional activation of CNTFR. CLCF1, the ligand for CNTFR, was found to induce ZIC5 expression via STAT3 signaling, thereby forming a CLCF1-ZIC5-CNTFR positive feedback loop. Targeting CNTFR with a neutralizing antibody disrupted this regulatory circuit, leading to a reversal of CDDP resistance and suppression of CSC-associated phenotypes in vitro. Furthermore, combining an anti-CNTFR antibody with CDDP resulted in enhanced antitumor effects in patient-derived xenograft (PDX) and organoid (PDO) models. In summary, our findings suggest that the CLCF1-ZIC5-CNTFR positive feedback loop promotes CDDP resistance in CESC, potentially by sustaining CSC properties. Targeting this pathway, particularly CNTFR, may represent a potential therapeutic strategy for patients with CDDP-resistant CESC.",
+      "journal": "Neoplasia (New York, N.Y.)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Obstetrics and Gynecology, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an 710061, China; Department of Reproductive Medicine, Xi'an International Medical Center Hospital, Northwest University, Xi'an 710100, China.",
+        "Department of Pathology, Xijing Hospital and School of Basic Medicine, Fourth Military Medical University, Xi'an 710032, China.",
+        "Department of Otorhinolaryngology-Head and Neck Surgery, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an 710061, China. Electronic address: sf_brighteyes@163.com.",
+        "Department of Obstetrics and Gynecology, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an 710061, China. Electronic address: m18991232845@163.com."
+      ],
+      "doi": "10.1016/j.neo.2026.101342",
+      "date": "2026-07-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42503245/"
+    },
     {
       "pmid": "42502818",
       "title": "GenX exposure induces neurodevelopmental impairment and synaptic toxicity in hESC-derived cerebral organoids.",
@@ -142,27 +160,6 @@
       "doi": "10.1016/j.ajo.2026.07.036",
       "date": "2026-07-25",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501956/"
-    },
-    {
-      "pmid": "42501813",
-      "title": "Fate, Toxicology and Organ-on-A-Chip Methodology of Nanoplastics in Human Body.",
-      "abstract": "Nanoplastics (NPs) can cross the human biological barriers, enter the bloodstream, and accumulate in vital organs due to their unique physical and chemical properties. This review provides a detailed explanation of the mechanisms by which NPs cross the air-blood, intestinal, and blood-brain barriers. It provides more insight into how NPs interact with blood components after entering circulation, assesses the cardiovascular toxicity that results, and visually represents how NPs are distributed in human tissues. Traditional static models have significant limitations in simulating the complex physiological microenvironments of the human body. Organ-on-a-chip (OoC) technology is emerging as a novel toxicology tool due to its unique advantages in dynamically reconstructing the vascular microenvironment and biological barriers. This technology allows for a precise characterization of the hemodynamic behavior of NPs and their mechanisms of cross-barrier toxicity. In general, this work offers crucial theoretical and methodological insights to address existing technical issues in assessing the toxicity of emerging environmental contaminants.",
-      "journal": "Toxicology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Institute of Waste Treatment and Reclamation, College of Environmental Science and Engineering, Tongji University, Shanghai 200092, China; State Key Laboratory of Water Pollution Control and Green Resource Recycling, Tongji University, Shanghai 200092, China. Electronic address: 2431393@tongji.edu.cn.",
-        "Institute of Waste Treatment and Reclamation, College of Environmental Science and Engineering, Tongji University, Shanghai 200092, China; State Key Laboratory of Water Pollution Control and Green Resource Recycling, Tongji University, Shanghai 200092, China. Electronic address: lvfan.rhodea@tongji.edu.cn.",
-        "Naval Medical Center, The Naval Medical University, Shanghai 200433, China. Electronic address: jjfang@smmu.edu.cn.",
-        "Department of Neurology, Shanghai East Hospital, School of Medicine, Tongji University, Shanghai 200092, China. Electronic address: ligang@tongji.edu.cn.",
-        "Institute of Waste Treatment and Reclamation, College of Environmental Science and Engineering, Tongji University, Shanghai 200092, China; State Key Laboratory of Water Pollution Control and Green Resource Recycling, Tongji University, Shanghai 200092, China. Electronic address: zhanghua_tj@tongji.edu.cn.",
-        "Institute of Waste Treatment and Reclamation, College of Environmental Science and Engineering, Tongji University, Shanghai 200092, China; State Key Laboratory of Water Pollution Control and Green Resource Recycling, Tongji University, Shanghai 200092, China; Shanghai Institute of Pollution Control and Ecological Security, Shanghai 200092, China. Electronic address: solidwaste@tongji.edu.cn."
-      ],
-      "doi": "10.1016/j.tox.2026.154550",
-      "date": "2026-07-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501813/"
     },
     {
       "pmid": "42498177",
@@ -504,6 +501,40 @@
   ],
   "signals": [
     {
+      "id": "pubmed-42503245",
+      "date": "2026-07-25",
+      "title": "CLCF1-ZIC5-CNTFR feedback loop drives cisplatin resistance in cervical squamous cell carcinoma.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42503245/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Neoplasia (New York, N.Y.)，PMID 为 42503245。",
+      "report": "Cervical squamous cell carcinoma (CESC) is frequently complicated by cisplatin (CDDP) resistance, which is a primary cause of treatment failure and poor prognosis. Here, we identified a CLCF1-ZIC5-CNTFR feedback loop that contributes to CDDP resistance in CESC...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42502713",
       "date": "2026-07-25",
       "title": "Targeting Elastin-Derived Peptides Reverses Alveolar Epithelial Dysfunction in Chronic Obstructive Pulmonary Disease.",
@@ -560,34 +591,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 American journal of ophthalmology，PMID 为 42501956。",
       "report": "Age-related macular degeneration (AMD) remains a leading cause of irreversible blindness worldwide, characterized by the progressive breakdown of the outer blood-retinal barrier, accumulation of protein and lipid deposits in the subretinal space, and the conse...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42501813",
-      "date": "2026-07-25",
-      "title": "Fate, Toxicology and Organ-on-A-Chip Methodology of Nanoplastics in Human Body.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501813/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Toxicology，PMID 为 42501813。",
-      "report": "Nanoplastics (NPs) can cross the human biological barriers, enter the bloodstream, and accumulate in vital organs due to their unique physical and chemical properties. This review provides a detailed explanation of the mechanisms by which NPs cross the air-blo...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
