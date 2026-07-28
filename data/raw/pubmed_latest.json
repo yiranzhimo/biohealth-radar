@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-27T19:58:06.818019+00:00",
+  "capturedAt": "2026-07-28T03:40:47.880358+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-07-27",
-    "end": "2026-07-27"
+    "start": "2025-07-28",
+    "end": "2026-07-28"
   },
   "pmids": [
+    "42507615",
     "42505397",
     "42505375",
     "42504825",
     "42504738",
     "42503464",
-    "42503245",
     "42498177",
     "42497867",
     "42486102",
@@ -32,14 +32,31 @@
     "42495264",
     "42491104",
     "42490461",
+    "42507708",
     "42507229",
     "42507175",
     "42507084",
     "42505460",
-    "42505381",
-    "42505223"
+    "42505381"
   ],
   "records": [
+    {
+      "pmid": "42507615",
+      "title": "Live-Cell Imaging and Single-Cell Tracking to Monitor Clonal Dynamics and Fate Transitions in Human and Murine Intestinal Organoids.",
+      "abstract": "The intestinal epithelium undergoes rapid self-renewal through stem cell division, cell differentiation, and migration. Understanding how individual cells commit to specific fates and how clonal dynamics emerge within this tissue requires methods that capture cellular behavior in real time and at single-cell resolution. Intestinal organoids recapitulate key features of epithelial self-organization and cell-type diversity, making them a powerful system for studying these processes in a controlled setting. Here we present a protocol for long-term confocal live-cell imaging (up to 72 h) and single-cell tracking in human and murine intestinal organoids, built around two complementary reporter strategies. First, we describe the generation of mosaic organoids by combining differentially labeled cell populations, enabling single-cell resolution of membrane-localized and cytoskeletal reporters that cannot otherwise be attributed to individual cells in a dense epithelium. Second, we use cell-type-specific fate reporters (MUC2 for goblet cells and DEFA5 for Paneth cells) to monitor secretory cell type transitions in real time. The protocol covers organoid culture, mosaic organoid formation, sample preparation with strategies to minimize phototoxicity, image acquisition over several days, and semi-automated single-cell tracking using OrganoidTracker, which reconstructs cell trajectories and lineages over time. While demonstrated in intestinal organoids, this framework is readily adaptable to other epithelial organoid systems, including gastric, pancreatic, and colonic models, broadening its utility for studies of epithelial biology, homeostasis, and disease.",
+      "journal": "Journal of visualized experiments : JoVE",
+      "publicationTypes": [
+        "Journal Article",
+        "Video-Audio Media"
+      ],
+      "affiliations": [
+        "Hubrecht Institute for Developmental Biology and Stem Cell Research; Oncode Institute; Royal Netherlands Academy of Arts and Sciences (KNAW); University Medical Center Utrecht.",
+        "Hubrecht Institute for Developmental Biology and Stem Cell Research; Oncode Institute; Royal Netherlands Academy of Arts and Sciences (KNAW); University Medical Center Utrecht; H.Clevers@hubrecht.eu."
+      ],
+      "doi": "10.3791/72058",
+      "date": "2026-07-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42507615/"
+    },
     {
       "pmid": "42505397",
       "title": "Rasgrp1-Mediated Dampening of EGFR Signals Supports Coordinated Mammary Gland Development.",
@@ -129,24 +146,6 @@
       "doi": "10.1111/bpa.70125",
       "date": "2026-07-26",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42503464/"
-    },
-    {
-      "pmid": "42503245",
-      "title": "CLCF1-ZIC5-CNTFR feedback loop drives cisplatin resistance in cervical squamous cell carcinoma.",
-      "abstract": "Cervical squamous cell carcinoma (CESC) is frequently complicated by cisplatin (CDDP) resistance, which is a primary cause of treatment failure and poor prognosis. Here, we identified a CLCF1-ZIC5-CNTFR feedback loop that contributes to CDDP resistance in CESC. We found that ZIC5 was significantly upregulated in CDDP-resistant CESC and correlated with worse overall survival. Functionally, ZIC5 promoted CDDP resistance, in part by enhancing properties associated with cancer stem cells (CSCs) through the transcriptional activation of CNTFR. CLCF1, the ligand for CNTFR, was found to induce ZIC5 expression via STAT3 signaling, thereby forming a CLCF1-ZIC5-CNTFR positive feedback loop. Targeting CNTFR with a neutralizing antibody disrupted this regulatory circuit, leading to a reversal of CDDP resistance and suppression of CSC-associated phenotypes in vitro. Furthermore, combining an anti-CNTFR antibody with CDDP resulted in enhanced antitumor effects in patient-derived xenograft (PDX) and organoid (PDO) models. In summary, our findings suggest that the CLCF1-ZIC5-CNTFR positive feedback loop promotes CDDP resistance in CESC, potentially by sustaining CSC properties. Targeting this pathway, particularly CNTFR, may represent a potential therapeutic strategy for patients with CDDP-resistant CESC.",
-      "journal": "Neoplasia (New York, N.Y.)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Obstetrics and Gynecology, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an 710061, China; Department of Reproductive Medicine, Xi'an International Medical Center Hospital, Northwest University, Xi'an 710100, China.",
-        "Department of Pathology, Xijing Hospital and School of Basic Medicine, Fourth Military Medical University, Xi'an 710032, China.",
-        "Department of Otorhinolaryngology-Head and Neck Surgery, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an 710061, China. Electronic address: sf_brighteyes@163.com.",
-        "Department of Obstetrics and Gynecology, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an 710061, China. Electronic address: m18991232845@163.com."
-      ],
-      "doi": "10.1016/j.neo.2026.101342",
-      "date": "2026-07-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42503245/"
     },
     {
       "pmid": "42498177",
@@ -372,6 +371,21 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42490461/"
     },
     {
+      "pmid": "42507708",
+      "title": "ALFAssay: A feed‑forward neural network for quantitative fragmentomics‑based ctDNA profiling in breast cancer.",
+      "abstract": "The analysis of cell‑free DNA (cfDNA) is transforming cancer diagnostics, yet quantifying the fraction of circulating tumour DNA (ctDNA) from shallow whole‑genome sequencing (sWGS) remains challenging in tumours with low copy‑number aberration burden. We introduce ALFAssay, a feed‑forward neural network that estimates ctDNA fraction from fragmentation profiles of cfDNA in breast cancer. Using cfDNA from 896 plasma samples spanning early and metastatic HR + /HER2- and triple‑negative breast cancer, and healthy controls, (id: NCT03616886, NCT02028364, NCT03065621) we extract 204 bin‑level fragmentation features by computing the ratio of short fragments (90-150 bp) to all reads within 5 Mb genomic windows, while accounting for coverage effects by incorporating the total number of reads for each bin as an additional input feature. The resulting 408‑dimensional vectors are input to a fully connected network trained against ichorCNA‑derived ctDNA fractions using five‑fold cross‑validation. ALFAssay demonstrates high sensitivity (0.87) and specificity (0.94) for ctDNA detection and correlates with ichorCNA (r = 0.89) and the fragmentation‑based tool Fragle (r = 0.81). Its ctDNA predictions stratify patients by progression‑free survival and add complementary prognostic value to available tools. ALFAssay thus expands the bioinformatics toolkit for ctDNA quantification and highlights the potential of fragmentation signatures to augment multi‑modal liquid‑biopsy workflows.",
+      "journal": "PLoS computational biology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Institut Jules Bordet and l'Université Libre de Bruxelles (U.L.B.), Brussels, Belgium."
+      ],
+      "doi": "10.1371/journal.pcbi.1014505",
+      "date": "2026-07-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42507708/"
+    },
+    {
       "pmid": "42507229",
       "title": "Recent progress in clinical and molecular biological research in rectal serrated lesions.",
       "abstract": "Colorectal cancer ranks among the most common malignancies worldwide. Rectal serrated lesions represent a significant precancerous condition, accounting for approximately 30% of sporadic colorectal carcinomas. Their flat morphology and indistinct borders often lead to missed detection during routine colonoscopy. In addition, the complex classification system and considerable molecular heterogeneity of these lesions create challenges for clinical management, including diagnostic accuracy, risk stratification, and treatment decisions. Research in recent years has progressively clarified the unique oncogenic pathway associated with serrated lesions-referred to as the serrated pathway. Characteristic molecular events include mutations in b-raf murine sarcoma viral oncogene homolog B (BRAF) or kirsten rat sarcoma viral proto-oncogene (KRAS) mutations, CpG island methylator phenotype (CIMP), and microsatellite instability (MSI). Among these, the BRAF V600E mutation serves as the core driver event. Combination therapy with encorafenib and cetuximab, which targets this mutation, has been shown to improve outcomes in patients with BRAF-mutated metastatic colorectal cancer. Furthermore, Microsatellite Instability-High (MSI-H) lesions exhibit sensitivity to immune checkpoint inhibitors, offering novel options for personalized treatment. Concurrently, the application of technologies such as artificial intelligence (AI)-assisted endoscopy, molecular imaging, and liquid biopsy holds promise for improving the detection of early-stage lesions. This systematic review examines the current research landscape regarding rectal serrated lesions, covering an evolution of classification systems, elucidation of molecular and cellular mechanism, advances in diagnostic technology, and optimized treatment strategies. We further discussed molecular differences between the serrated pathway and the classical adenoma-carcinoma sequence, epigenetic regulatory mechanisms, tumour microenvironment characteristics, and personalized management strategies based on molecular subtyping. By synthesizing existing evidence, this review aims to provide theoretical guidance for the clinical management of rectal serrated lesions and lay the groundwork for future research.",
@@ -461,23 +475,6 @@
       "doi": "10.3390/cells15141271",
       "date": "2026-07-15",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42505381/"
-    },
-    {
-      "pmid": "42505223",
-      "title": "Evolving First-Line Endocrine Therapy in HR+/HER2- Metastatic Breast Cancer: CDK4/6 Inhibition, Biomarker-Guided Strategies and Emerging Therapeutic Paradigms.",
-      "abstract": "Hormone receptor-positive (HR+), human epidermal growth factor receptor 2-negative (HER2-) metastatic breast cancer (MBC) is the most prevalent subtype of advanced breast cancer and is predominantly driven by estrogen receptor (ER) signaling. Endocrine therapy (ET) has become the backbone of first-line treatment; however, both intrinsic and acquired resistance limit long-term disease control. The introduction of cyclin-dependent kinase 4/6 (CDK4/6) inhibitors has fundamentally reshaped the therapeutic landscape even in subsets of patients with aggressive or symptomatic visceral metastatic disease. Advances in molecular profiling have also enabled more precise, adaptive therapy. Circulating tumor DNA (ctDNA)-based liquid biopsy now allows real-time detection of emerging resistance mutations, particularly in ESR1. Additionally, patients with PIK3CA-mutated tumors who had progressed on or within 12 months of completing adjuvant ET and had no prior systemic therapy for metastatic disease had better treatment outcomes when treated with the PI3K inhibitor inavolisib in combination with palbociclib and fulvestrant. Together, these developments mark a shift from fixed treatment sequencing toward a more dynamic, biomarker-driven approach in first-line HR+/HER2- MBC. Integration of CDK4/6 inhibitors with next-generation endocrine agents and liquid biopsy-guided therapy offers the potential to delay resistance, improve survival outcomes, and individualize treatment.",
-      "journal": "Current oncology (Toronto, Ont.)",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Section of Hematology and Medical Oncology, Department of Internal Medicine, King Hussein Cancer Center, Amman 11941, Jordan.",
-        "School of Medicine, The University of Jordan, Amman 11942, Jordan."
-      ],
-      "doi": "10.3390/curroncol33070421",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42505223/"
     }
   ],
   "signals": [
@@ -539,6 +536,34 @@
       "fact": "PubMed 记录显示该文献收录于 Emerging microbes & infections，PMID 为 42504738。",
       "report": "Pigs serve as mixing vessels for influenza A viruses, facilitating reassortment and the emergence of variants with zoonotic potential. Since the 2009 pandemic, human-origin influenza gene segments have been repeatedly detected in swine populations, contributin...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42507708",
+      "date": "2026-07-27",
+      "title": "ALFAssay: A feed‑forward neural network for quantitative fragmentomics‑based ctDNA profiling in breast cancer.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42507708/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 PLoS computational biology，PMID 为 42507708。",
+      "report": "The analysis of cell‑free DNA (cfDNA) is transforming cancer diagnostics, yet quantifying the fraction of circulating tumour DNA (ctDNA) from shallow whole‑genome sequencing (sWGS) remains challenging in tumours with low copy‑number aberration burden. We intro...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -692,40 +717,6 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of medicinal chemistry，PMID 为 42503659。",
       "report": "Nuclear receptor-binding SET domain protein 3 (NSD3) is a histone H3K36 methyltransferase implicated in lung squamous cell carcinoma, yet chemical targeting is challenging due to the shallow PWWP reader pocket. Here, we report XSY12, a hydrophobic-tag degrader...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42503245",
-      "date": "2026-07-25",
-      "title": "CLCF1-ZIC5-CNTFR feedback loop drives cisplatin resistance in cervical squamous cell carcinoma.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42503245/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neoplasia (New York, N.Y.)，PMID 为 42503245。",
-      "report": "Cervical squamous cell carcinoma (CESC) is frequently complicated by cisplatin (CDDP) resistance, which is a primary cause of treatment failure and poor prognosis. Here, we identified a CLCF1-ZIC5-CNTFR feedback loop that contributes to CDDP resistance in CESC...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1054,33 +1045,33 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42505223",
-      "date": "2026-07-14",
-      "title": "Evolving First-Line Endocrine Therapy in HR+/HER2- Metastatic Breast Cancer: CDK4/6 Inhibition, Biomarker-Guided Strategies and Emerging Therapeutic Paradigms.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
+      "id": "pubmed-42507615",
+      "date": "2026-07-10",
+      "title": "Live-Cell Imaging and Single-Cell Tracking to Monitor Clonal Dynamics and Fate Transitions in Human and Murine Intestinal Organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42505223/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42507615/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
       ],
       "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
+        "类器官",
+        "疾病模型",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Current oncology (Toronto, Ont.)，PMID 为 42505223。",
-      "report": "Hormone receptor-positive (HR+), human epidermal growth factor receptor 2-negative (HER2-) metastatic breast cancer (MBC) is the most prevalent subtype of advanced breast cancer and is predominantly driven by estrogen receptor (ER) signaling. Endocrine therapy...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42507615。",
+      "report": "The intestinal epithelium undergoes rapid self-renewal through stem cell division, cell differentiation, and migration. Understanding how individual cells commit to specific fates and how clonal dynamics emerge within this tissue requires methods that capture...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
