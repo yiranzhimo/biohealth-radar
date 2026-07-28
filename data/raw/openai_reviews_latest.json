@@ -1,68 +1,30 @@
 {
-  "capturedAt": "2026-07-28T03:40:54.881898+00:00",
+  "capturedAt": "2026-07-28T09:08:26.941416+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42507708",
-      "responseId": "resp_06e2d895a7a407e2006a6824c7cc348192b3fed2d3972e24d3",
+      "signalId": "pubmed-42508794",
+      "responseId": "resp_0dea469145b026f7006a68718bb83081a1ab26bce8dd04b801",
       "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号记录符合发表标准，信息清晰且来源可靠。",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人类审查以评估研究质量和潜在的利益冲突。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合提供的元数据。"
+          "isSupported": false,
+          "notesCn": "分类支持不足，尤其是研究质量未被评估。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "信息已分隔，证明和假设清晰可辨。"
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据级别为中等，但缺乏对研究质量的判定，影响发布合规性。"
         },
         "riskFlags": [
-          "research_focus"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Biotech",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "biotech",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 PLoS computational biology，PMID 为 42507708。",
-          "report": "The analysis of cell‑free DNA (cfDNA) is transforming cancer diagnostics, yet quantifying the fraction of circulating tumour DNA (ctDNA) from shallow whole‑genome sequencing (sWGS) remains challenging in tumours with low copy‑number aberration burden. We intro...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42507615",
-      "responseId": "resp_0656b38aad0d2036006a6824cdff90819f9829544d9dfcf8c5",
-      "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录清晰、分类合适，未包含治疗建议或临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主分类和子分类合理，符合文章主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论分开清晰，证据水平适当。"
-        },
-        "riskFlags": [
-          "weak_classification"
+          "weak_classification",
+          "insufficient_source"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -78,8 +40,377 @@
             "疾病模型",
             "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42507615。",
-          "report": "The intestinal epithelium undergoes rapid self-renewal through stem cell division, cell differentiation, and migration. Understanding how individual cells commit to specific fates and how clonal dynamics emerge within this tissue requires methods that capture...",
+          "fact": "PubMed 记录显示该文献收录于 Chemico-biological interactions，PMID 为 42508794。",
+          "report": "Evaluating endocrine-disrupting chemicals (EDCs) risk such as mono-butyl phthalate (MBP) and bisphenol A (BPA) raises a pressing question: can doses deemed safe for each individual exposure become hazardous in combination? This study aimed to determine whether...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42509447",
+      "responseId": "resp_0752f1135c840c54006a6871936b0c819296afb813aa1004ca",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号需要人类审查以评估研究质量和临床关联性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类未明确支持文献的质量或临床效果。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据等级为中等，但缺乏支持性细节，可能导致误解。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "AI for Biology",
+            "Drug Discovery",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "AI 制药",
+            "蛋白设计",
+            "分子生成",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 International journal of clinical oncology，PMID 为 42509447。",
+          "report": "Metastatic disease remains the leading cause of cancer-related death, yet most precision oncology strategies still emphasize profiling primary tumors and tracking cell-free tumor DNA (ctDNA). Although ctDNA has transformed genomic profiling, molecular residual...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42509415",
+      "responseId": "resp_061ba8934b6dc4d9006a6871996e9081a08583f082520c11f0",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献符合发布标准，信息清晰且已妥善分离。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "研究质量及相关细节未在报告中评估，但不影响目前的信息发布。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Oncogene，PMID 为 42509415。",
+          "report": "Epigenetic dysregulation is a hallmark of hepatocellular carcinoma (HCC), yet the mechanisms linking chromatin modifiers to tumor stemness remain incompletely understood. Here, we identify the histone methyltransferase KMT5C as master regulator of HCC stemness...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42509373",
+      "responseId": "resp_0c12f7a399d71ceb006a68719e816481a0852505873b641901",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "此信号缺乏足够的证据支持其分类，需人工评审以确保信息准确性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类评估不足，证据水平为低，影响可信度。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "虽然事实、报告和推论分开，但证据水平低不支持分类。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Nature reviews. Nephrology，PMID 为 42509373。",
+          "report": "PubMed 记录未提供摘要。",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42509573",
+      "responseId": "resp_0000febde1a99e23006a6871a48b1481928a964031605c3189",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献的某些结论未被足够支持，需人类审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类不支持潜在的临床结论。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平中等，但缺乏对关键指标的支持。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Oncology",
+          "subCategory": "Molecular Diagnostics",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Molecular Diagnostics",
+            "Pediatric Oncology"
+          ],
+          "tags": [
+            "分子诊断",
+            "儿科肿瘤"
+          ],
+          "fact": "PubMed记录显示文献收录于Genome Medicine，PMID为42509573。",
+          "report": "儿科高风险恶性肿瘤大多缺乏建立的分子生物标志物用于早期检测、微小残留病评估或治疗监测。",
+          "inference": "分类依据需进一步验证以确认研究质量和可靠性。",
+          "unknown": "缺乏对研究质量、样本量、利益冲突等方面的评估。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42509446",
+      "responseId": "resp_07884c33afba0e89006a6871a943f481a098dd1d503cf80b15",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "研究具有一定的证据支持但缺乏关键的信息验证，需人类评审。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "主要类别和子类别选择不够准确，未能反映文献的实际内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平标记为中级，但文献的支持力度过强，建议修正为低级或缺乏支持。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Oncology Research",
+          "subCategory": "Genomic Profiling",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Genomics",
+            "Oncology"
+          ],
+          "tags": [
+            "oncology",
+            "genomics"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 International journal of clinical oncology，PMID 为 42509446。",
+          "report": "Clinically relevant ALK alterations are identified across routine comprehensive genomic profiling (CGP), but their observed frequency may vary according to testing context. Because ALK-directed treatment is primarily linked to fusion/rearrangement events, we s...",
+          "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42508592",
+      "responseId": "resp_02fdee8d6c8706aa006a6871ae1cb481a2a05ccc0c130e5861",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献的分类和证据水平合理，信息清晰可分离，且没有未支持的临床推断或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类和证据水平基于源数据信息合理，符合要求。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证明和报告之间的分离清晰，支持文献的高可靠性。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "High",
+          "themes": [
+            "Biotech",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "biotech",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Critical reviews in oncology/hematology，PMID 为 42508592。",
+          "report": "Oesophageal cancer remains prone to relapse after curative-intent treatment, and conventional staging, imaging and pathology do not fully identify patients with occult residual disease. Circulating tumour DNA (ctDNA) and molecular residual disease (MRD) testing...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42508256",
+      "responseId": "resp_01176c36b9ca0a3a006a6871bae5d0819fb214c1f156e6a92a",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审核以确认公共健康声明的准确性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类与提供的元数据不完全匹配。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "中等证据水平可能不足以支持该研究的有效性和临床影响。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "medical_advice_risk"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Healthcare AI",
+          "subCategory": "Medical AI",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Healthcare AI",
+            "Child Abuse Detection"
+          ],
+          "tags": [
+            "医疗 AI",
+            "儿童虐待检测"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Child abuse & neglect，PMID 为 42508256。",
+          "report": "Universal screening tools can help detect child physical abuse. Epic released an electronic health record-embedded universal child physical abuse screening tool (U-CAST) that can quickly be implemented by any institution that uses Epic.",
+          "inference": "该研究的结果和实际应用需要进一步验证。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42508388",
+      "responseId": "resp_0664fc4706c1f12e006a6871c080ac819fb7afe37be04b02ed",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献聚焦于阿尔茨海默病的肠道病理，但推断未基于绳索依据，需人工审查以确认质量与评估。 ",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类依据不完善，该研究的质量与样本量未被验证。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "虽然文献的可靠性高，但证据水平为中等，不足以支持明确的科学结论。"
+        },
+        "riskFlags": [
+          "insufficient_source",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Aging and disease，PMID 为 42508388。",
+          "report": "Alzheimer's disease (AD) is the most common form of dementia, and early alterations in the gut may contribute to disease progression. The current study focused on generating intestinal organoids from 3xTg-AD transgenic and Wild Type (WT) mice to investigate th...",
+          "inference": "分类未基于研究质量等其他关键因素。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42509382",
+      "responseId": "resp_03ddbba26a34daf5006a6871c576d88191ae1e855a20be9099",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审核，证据水平过低。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类和证据水平不匹配。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平低，无法支持相关结论。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Nature，PMID 为 42509382。",
+          "report": "PubMed 记录未提供摘要。",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
