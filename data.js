@@ -1973,78 +1973,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42515797",
-      "date": "2026-07-20",
-      "title": "Preclinical Models of Bladder Cancer: Barrier, Metabolic, and Translational Susceptibility.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42515797/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Pharmaceuticals (Basel, Switzerland)，PMID 为 42515797。",
-      "report": "Preclinical bladder cancer models are often judged by tumor take, tumor growth or treatment inhibition, yet these endpoints do not reveal which bladder-specific constraints a given model preserves or bypasses. The bladder is shaped by a specialized urothelial...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_021ea7b5040cc8a1006a68bff8de28819db1fe897a8347d190",
-        "reviewedAt": "2026-07-28T14:42:12.707786+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "内容有效，符合发布标准，且信息截然分开。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "该分类合理，符合主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "信息清晰，支持文献分类。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Pharmaceuticals (Basel, Switzerland)，PMID 为 42515797。",
-          "report": "Preclinical bladder cancer models are often judged by tumor take, tumor growth or treatment inhibition, yet these endpoints do not reveal which bladder-specific constraints a given model preserves or bypasses. The bladder is shaped by a specialized urothelial...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "sec-0001717115-000119312526309073",
       "date": "2026-07-20",
       "title": "Tempus AI filed Form 8-K",
@@ -3630,6 +3558,78 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Life (Basel, Switzerland)，PMID 为 42514149。",
           "report": "Hepatocellular carcinoma (HCC) is one of the most common and deadliest cancers worldwide. Alpha-fetoprotein (AFP), a widely used and accessible tumoral marker, has limited performance in the early detection of HCC among high-risk populations. This study aims t...",
           "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42517431",
+      "date": "2026-06-12",
+      "title": "An Optimized Method To Isolate Female Mouse Urethral Epithelium For Single-Cell And Immunofluorescence Analysis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42517431/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42517431。",
+      "report": "The urethra, lined by epithelial cells, serves as the conduit for urine outflow from the body. The epithelial lining of the urethra comprises distinct cell types with gene signatures indicative of roles in antimicrobial and immune defense. Resident macrophages...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_03501ecf0a1bdd9e006a690925d404819bb107736e36304a18",
+        "reviewedAt": "2026-07-28T19:55:17.067298+00:00",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号记录以中立方式呈现，并未做出未经支持的临床结论或建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类与文献一致，支持内容无误。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断已明确分开，证据等级合理。"
+        },
+        "riskFlags": [
+          "academic_research"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42517431。",
+          "report": "The urethra, lined by epithelial cells, serves as the conduit for urine outflow from the body. The epithelial lining of the urethra comprises distinct cell types with gene signatures indicative of roles in antimicrobial and immune defense. Resident macrophages...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }

@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-28T14:42:04.979184+00:00",
+  "capturedAt": "2026-07-28T19:55:07.669275+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-07-28"
   },
   "pmids": [
+    "42517431",
     "42516584",
     "42516565",
     "42516424",
     "42516310",
     "42515979",
-    "42515797",
     "42498177",
     "42497867",
     "42486102",
@@ -40,6 +40,24 @@
     "42513625"
   ],
   "records": [
+    {
+      "pmid": "42517431",
+      "title": "An Optimized Method To Isolate Female Mouse Urethral Epithelium For Single-Cell And Immunofluorescence Analysis.",
+      "abstract": "The urethra, lined by epithelial cells, serves as the conduit for urine outflow from the body. The epithelial lining of the urethra comprises distinct cell types with gene signatures indicative of roles in antimicrobial and immune defense. Resident macrophages embedded in the urethral epithelial layer represent a transcriptionally distinct subtype with purported roles in immune surveillance and antigen presentation. Urinary pathogens ascend up the urethra to reach the bladder. A study of the urethral epithelial lining and associated immune cells will shed light on host defense mechanisms in the lower urinary tract. A central goal of this protocol is to provide optimized methods for dissecting the female mouse urethra and isolating the epithelial lining for downstream analyses. The protocol describes an optimized method for isolating epithelial tissue from the female mouse urethra by gentle enzymatic and mechanical separation. Subsequent to epithelial isolation, methods for gentle enzymatic digestion of isolated urethral epithelium and associated immune cells to obtain high-viability single-cell suspensions are described. The protocol also details methods for flow cytometry analysis of the isolated mouse urethral epithelial cells and epithelial-associated immune cells. Additionally, methods to generate stratified 3D urethral epithelial organoids from isolated epithelial cells are presented here. The protocol also details an optimized method for whole-mount immunostaining of urethral epithelial sheets, which can be used to observe the morphology and molecular structures of mouse urethral epithelium and associated immune cells. Overall, the methods described here for isolation and single-cell digestion of mouse urethral epithelial cells enable downstream analyses, including immunostaining, flow cytometry, organoid generation, and single-cell RNA-sequencing.",
+      "journal": "Journal of visualized experiments : JoVE",
+      "publicationTypes": [
+        "Journal Article",
+        "Video-Audio Media"
+      ],
+      "affiliations": [
+        "BRIC-Institute for Stem Cell Science and Regenerative Medicine.",
+        "BRIC-Institute for Stem Cell Science and Regenerative Medicine; Regional Center for Biotechnology, NCR Biotech Science Cluster.",
+        "BRIC-Institute for Stem Cell Science and Regenerative Medicine; diyabj@instem.res.in."
+      ],
+      "doi": "10.3791/70973",
+      "date": "2026-06-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42517431/"
+    },
     {
       "pmid": "42516584",
       "title": "Histological Processing of Organoids for Immunostaining.",
@@ -123,26 +141,6 @@
       "doi": "10.1158/1535-7163.MCT-26-0063",
       "date": "2026-07-28",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42515979/"
-    },
-    {
-      "pmid": "42515797",
-      "title": "Preclinical Models of Bladder Cancer: Barrier, Metabolic, and Translational Susceptibility.",
-      "abstract": "Preclinical bladder cancer models are often judged by tumor take, tumor growth or treatment inhibition, yet these endpoints do not reveal which bladder-specific constraints a given model preserves or bypasses. The bladder is shaped by a specialized urothelial barrier, urine exposure, cyclic filling and emptying, inflammatory injury, metabolic stress and intravesical treatment pressure. In this review, we use susceptibility engineering as an organizing framework for model selection and validation. We define susceptibility engineering as the deliberate definition, perturbation and reporting of model states that alter tumor initiation, adhesion, colonization, survival or therapeutic exposure. This framework groups cell lines, patient-derived organoids, cell-line-derived xenograft (CDX) and patient-derived xenograft (PDX) models, orthotopic transplantation, N-butyl-N-(4-hydroxybutyl) nitrosamine (BBN)-induced tumors, genetically engineered mouse models and large-animal platforms according to the biological constraints they test. We focus on three linked dimensions: urothelial barrier integrity and uroplakin-related tools; local colonization thresholds under bladder-specific selection; metabolic susceptibility involving peroxisome proliferator-activated receptor gamma (PPARG)-associated differentiation programs and candidate solute carrier family 25 (SLC25)-linked mitochondrial stress nodes. We further distinguish large-animal systems as platforms for local delivery, imaging, device testing and procedural scale rather than universal substitutes for mouse models. A susceptibility-based validation framework could improve model selection, explain divergent responses across systems and support tiered platforms that connect patient-derived biology, mechanistic mouse studies and clinically realistic intravesical evaluation.",
-      "journal": "Pharmaceuticals (Basel, Switzerland)",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "College of Pharmacy, Baicheng Medical College, Baicheng 137000, China.",
-        "College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China.",
-        "Public Experimental Center, Changchun University of Chinese Medicine, Changchun 130117, China.",
-        "School of Clinical Medicine, Changchun University of Chinese Medicine, Changchun 130117, China.",
-        "Northeast Asian Institute of Traditional Chinese Medicine, Changchun University of Chinese Medicine, Changchun 130117, China."
-      ],
-      "doi": "10.3390/ph19071116",
-      "date": "2026-07-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42515797/"
     },
     {
       "pmid": "42498177",
@@ -848,36 +846,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42515797",
-      "date": "2026-07-20",
-      "title": "Preclinical Models of Bladder Cancer: Barrier, Metabolic, and Translational Susceptibility.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42515797/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Pharmaceuticals (Basel, Switzerland)，PMID 为 42515797。",
-      "report": "Preclinical bladder cancer models are often judged by tumor take, tumor growth or treatment inhibition, yet these endpoints do not reveal which bladder-specific constraints a given model preserves or bypasses. The bladder is shaped by a specialized urothelial...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42514248",
       "date": "2026-07-16",
       "title": "Proteome of CD9+ Plasma Small Extracellular Vesicles Differentiates Stages of HPV-Associated Cervical Neoplasia from Normal Epithelium to Invasive Cancer.",
@@ -1137,6 +1105,36 @@
       "fact": "PubMed 记录显示该文献收录于 Life (Basel, Switzerland)，PMID 为 42514149。",
       "report": "Hepatocellular carcinoma (HCC) is one of the most common and deadliest cancers worldwide. Alpha-fetoprotein (AFP), a widely used and accessible tumoral marker, has limited performance in the early detection of HCC among high-risk populations. This study aims t...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42517431",
+      "date": "2026-06-12",
+      "title": "An Optimized Method To Isolate Female Mouse Urethral Epithelium For Single-Cell And Immunofluorescence Analysis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42517431/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42517431。",
+      "report": "The urethra, lined by epithelial cells, serves as the conduit for urine outflow from the body. The epithelial lining of the urethra comprises distinct cell types with gene signatures indicative of roles in antimicrobial and immune defense. Resident macrophages...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
