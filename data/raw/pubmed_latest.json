@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-29T03:44:21.894945+00:00",
+  "capturedAt": "2026-07-29T09:12:49.464266+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-07-29"
   },
   "pmids": [
-    "42519667",
-    "42519548",
-    "42519207",
-    "42517431",
-    "42516584",
-    "42516565",
+    "42521807",
+    "42521490",
+    "42520640",
+    "42520549",
+    "42522048",
+    "42521669",
     "42498177",
     "42497867",
     "42486102",
@@ -32,118 +32,161 @@
     "42500723",
     "42499170",
     "42495264",
+    "42520866",
+    "42520639",
+    "42520471",
+    "42520476",
     "42519900",
-    "42519345",
-    "42519020",
-    "42518683",
-    "42518680",
-    "42517029"
+    "42519345"
   ],
   "records": [
     {
-      "pmid": "42519667",
-      "title": "A chemo-free thermo-sensitive necroptosis-inducing perfusate to enable potent hyperthermic intraperitoneal immunotherapy.",
-      "abstract": "Hyperthermic intraperitoneal chemotherapy (HIPEC) is widely performed for treating peritoneal malignancies, yet its clinical application remains limited by insufficient efficacies and risks in chemotherapy-associated side effects. This study demonstrates that mild hyperthermia enhances cancer cell sensitivity to hydrogen peroxide (H2O2) and Ca2+ exposure while sparing normal cells at both elevated and physiological temperatures. Mechanistically, mild hyperthermia promotes H2O2 cellular entry, synergistically activating calcium channels in the plasma membrane and endoplasmic reticulum to induce Ca2+-overload-dependent cancer cell necroptosis. Using H2O2 and Ca2+ solution as a thermo-sensitive necroptosis-inducing perfusate (TNIP), peritoneal perfusion at 43°C demonstrates stronger suppressive effects on the growth of multiple peritoneal tumors in mice compared to conventional HIPEC using various chemotherapeutics. TNIP-mediated hyperthermic intraperitoneal treatment also elicits robust antitumor immunity in syngeneic murine models, with enhanced therapeutic efficacy when combined with postoperative immune checkpoint blockade therapy. The superior immune activation capacities of this strategy are further validated in patient-derived organoids. This work establishes a chemo-free, thermo-activated immunogenic perfusion strategy to selectively trigger cancer cell necroptosis, demonstrating a translatable hyperthermic intraperitoneal immunotherapy with improved therapeutic efficacy and safety.",
-      "journal": "National science review",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Institute of Functional Nano & Soft Materials (FUNSOM), Jiangsu Key Laboratory for Carbon-Based Functional Materials & Devices, Biomedical Basic Research Center (BBRC) of Jiangsu Province, Engineering Research Center of RNA Medicine and Cell Therapy Technology, Ministry of Education, Soochow University, Suzhou 215123, China.",
-        "Department of Obstetrics and Gynecology, The First Affiliated Hospital of Soochow University, Suzhou 215006, China.",
-        "Department of Radiation Oncology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences, Peking Union Medical College, Beijing 10021, China."
-      ],
-      "doi": "10.1093/nsr/nwag321",
-      "date": "2026-05-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42519667/"
-    },
-    {
-      "pmid": "42519548",
-      "title": "Three Dimensional Biomimetic Liver Models to Reconstitute Metabolic Dysfunction-Associated Steatohepatitis (MASH) In Vitro: Hope and Reality.",
-      "abstract": "This review article provides an in-depth exploration of recent advancements in in vitro liver models for studying metabolic dysfunction-associated steatohepatitis (MASH), a progressive liver disease linked to metabolic disorders. The article highlights the significance of these models in mimicking the liver's complex microarchitecture and physiological functions, offering an essential platform for understanding MASH pathogenesis and testing potential therapeutic agents. Key innovations discussed include biomimetic three-dimensional cultures, microfluidic liver-on-a-chip systems, liver organoids, and scaffold-based approaches. These modals partially recapitulate key features of MASH, such as lipid accumulation, inflammation, and fibrosis, while enabling the investigation of signaling pathways and molecular mechanisms underlying the disease. Additionally, the article examines the advantages and limitations of various models, with a focus on their application in drug discovery, toxicity assessment, and personalized medicine. By facilitating a deeper understanding of MASH's intricate biology, these models hold promise for the identification of new therapeutic targets and the development of more effective treatment strategies for a disease with no current Food and Drug Administration (FDA)-approved pharmacological therapies. This review underscores the transformative potential of bioengineered platforms in MASH research and their role in advancing the future of liver disease management.",
-      "journal": "Journal of clinical and experimental hepatology",
+      "pmid": "42521807",
+      "title": "Core2Edge: a human glioblastoma organoid-brain slice model capturing infiltration and transcriptional heterogeneity from core to single-cell dispersion.",
+      "abstract": "Glioblastomas function as intricate cellular networks that extend into the surrounding brain tissue, facilitating long-distance communication. This malignant connectivity spans from the tumor core to remote infiltration zones, in support of the concept of glioblastoma as a whole-brain disease. With growing ethical concerns in biomedical research and the inherent limitations of animal models in recapitulating human glioblastoma biology, there is an increasing demand for human ex vivo platforms capable of capturing the full infiltration spectrum from the tumor core to single-cell dispersion. Here we present a 3D, fully human ex vivo glioblastoma model (Core2Edge) that replicates this extensive infiltration range while preserving the intratumoral heterogeneity of the original tumor. This model involves implanting fluorescently labeled human glioblastoma organoids (GBOs) into organotypic human brain slices, maintaining the genetic integrity and cytoarchitecture of both brain and tumor. By combining tissue expansion with light-sheet fluorescence microscopy, we achieve high-resolution, 3D imaging of the entire GBO-brain slice model. This approach allows the study of initial infiltration steps, in-depth analysis of the invasive front, and exploration of cell-cell interactions between tumor cells and the tumor microenvironment, and offers a platform for drug screening and testing, reducing the need for animal models. Once GBOs are prepared, the protocol takes ~7-12 d. Key steps include brain slice preparation (~4-6 h, depending on quantity), 1 d for initial culture before GBO staining and transplantation, a variable culture period (≤10 d), and fixation (~8 h). The protocol requires experience with human brain slice and organoid culture.",
+      "journal": "Nature protocols",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Student Research Committee, Qom University of Medical Sciences, Qom, Iran.",
-        "Department of Tissue Engineering and Applied Cell Sciences, School of Medicine, Qom University of Medical Sciences, Qom, Iran.",
-        "Department of Hematology and Blood Banking, Faculty of Allied Medicine, Iran University of Medical Sciences, Tehran, Iran.",
-        "Cellular and Molecular Research Center, Qom University of Medical Sciences, Qom, Iran.",
-        "Department of Anatomy, Faculty of Medicine, Qom University of Medical Sciences, Qom, Iran."
+        "Department of Neurosurgery, University of Bonn, University Hospital Bonn, Bonn, Germany.",
+        "Brain Tumor Translational Research Group, University of Bonn, University Hospital Bonn, Bonn, Germany.",
+        "Functional Neuroconnectomics Group, Institute for Experimental Epileptology and Cognition Research, University of Bonn, University Hospital Bonn, Bonn, Germany.",
+        "Institute of Experimental Oncology, University of Bonn, University Hospital Bonn, Bonn, Germany.",
+        "Institute of Neuropathology, University of Bonn, University Hospital Bonn, Bonn, Germany.",
+        "Biology of Inflammation, Life & Medical Sciences Institute, University of Bonn, Bonn, Germany.",
+        "Department of Pathology, University Hospital Bonn, Bonn, Germany.",
+        "German Center for Child and Adolescent Health (DZKJ), partner site Ulm, Ulm, Germany.",
+        "Department of Neurosurgery, Medical Center, University of Freiburg, Freiburg, Germany.",
+        "Faculty of Medicine, Freiburg University, Freiburg, Germany.",
+        "3D Brain Models Lab for Neurodegenerative Diseases, Department of Neurosurgery, Medical Center-University of Freiburg, Freiburg, Germany.",
+        "Microenvironment and Immunology Research Laboratory, Medical Center-University of Freiburg, Freiburg, Germany.",
+        "Translational NeuroOncology Research Group, Medical Center-University of Freiburg, Freiburg, Germany.",
+        "Department of Neurosurgery, University Hospital Erlangen, Erlangen, Germany.",
+        "Department of Radiotherapy and Radiation Oncology, University of Bonn, University Hospital Bonn, Bonn, Germany.",
+        "Department of Neurooncology, Center for Neurology, University of Bonn, University Hospital Bonn, Bonn, Germany.",
+        "Clausius Institute of Physical and Theoretical Chemistry, University of Bonn, Bonn, Germany.",
+        "Department of Neurosurgery, University of Bonn, University Hospital Bonn, Bonn, Germany. matthias.schneider@ukbonn.de.",
+        "Brain Tumor Translational Research Group, University of Bonn, University Hospital Bonn, Bonn, Germany. matthias.schneider@ukbonn.de."
       ],
-      "doi": "10.1016/j.jceh.2026.103599",
-      "date": "2026-06-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42519548/"
+      "doi": "10.1038/s41596-026-01412-3",
+      "date": "2026-07-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42521807/"
     },
     {
-      "pmid": "42519207",
-      "title": "From spatial patterning to coordinated execution: a cross-system framework for autism spectrum disorder.",
-      "abstract": "Autism spectrum disorder (ASD) is characterized by differences in social communication and restricted or repetitive behaviors, yet converging evidence also points to altered neural timing, synchronization, and large-scale coordination despite largely preserved gross neuroanatomy. Parallel observations across non-neural systems, including functional gastrointestinal disturbances, minor anomalies in neural crest-derived tissues, and variation in epithelial patterning outcomes, raise the possibility of a broader vulnerability in coordination-dependent biological processes. Here, we propose a framework in which developmental systems distinguish between spatial patterning mechanisms that establish tissue geometry and a calcium-dependent execution layer that stabilizes coordinated behavior across time. Patterning systems, including planar cell polarity signaling, morphogen gradients, and neural crest guidance cues, specify directional organization and spatial relationships among cells. Their realization, however, requires intracellular processes capable of synchronizing cytoskeletal remodeling, adhesion dynamics, excitability, and metabolic coupling across cells and networks. Within this framework, intracellular Ca²+ signaling - and particularly endoplasmic reticulum Ca²+ release mediated by inositol 1,4,5-trisphosphate receptors (ITPRs) - represents a candidate mechanism for stabilizing coordinated execution across biological systems. Partial disruption of this coordination layer could degrade synchronization, propagation, and temporal integration without abolishing underlying structural organization. This perspective provides a potential basis for linking altered cortical synchronization with coordination-dependent processes in enteric function, neural crest development, and epithelial patterning outcomes observed in ASD. This framework is not proposed as a universal explanation for ASD, but as a testable organizing model for coordination-related phenotypes across systems. By distinguishing spatial developmental instruction from the mechanisms that stabilize coordinated execution, this perspective generates experimentally tractable predictions across cellular, organoid, and systems-level models and offers a unifying framework for investigating coordination-dependent biology in ASD.",
-      "journal": "Frontiers in psychiatry",
+      "pmid": "42521490",
+      "title": "A Cerebral Organoid Model of Familial Alzheimer's Disease Using Amyloid Precursor Protein Mutation, Val669Leu (APPSeoul).",
+      "abstract": "Various animal and cellular Alzheimer's disease (AD) models harboring familial AD (fAD) mutations have been developed and widely used for AD research. In this study, we established an AD cerebral organoid (CO) model using a novel Val669Leu (APPSeoul) mutation in the APP gene. We generated a human embryonic stem cell (hESC) line overexpressing APPSeoul, referred to as the fAD-S hESC line. Using this line, we produced COs and confirmed robust AD-associated pathologies, including amyloid-β (Aβ) accumulation and tau phosphorylation. In addition, increased expression of β-secretase was observed in this model. Based on these findings, we investigated the effects of BACE1 inhibitor IV, a β-secretase inhibitor, in the CO model. Treatment with BACE1 inhibitor IV significantly reduced Aβ levels and tau phosphorylation. Furthermore, we differentiated the fAD-S hESC line into cortical neurons (fAD-S neurons) to establish a 2D cellular AD model. Consistent with the CO results, fAD-S neurons exhibited elevated levels of Aβ and phosphorylated tau, which were also significantly attenuated by BACE1 inhibitor IV treatment. Collectively, these results demonstrate the successful establishment of hESC-derived 2D and 3D AD models based on the APPSeoul fAD mutation.",
+      "journal": "International journal of stem cells",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Molecular Physiology, College of Pharmacy, Research Institute of Pharmaceutical Sciences, Vessel-Organ Interaction Research Center, Kyungpook National University, Daegu, Korea.",
+        "Department of Genetics, Yale Stem Cell Center, Yale Child Study Center (VOICE, MRC), Yale School of Medicine, New Haven, CT, USA.",
+        "Department of Cardiovascular and Neurologic Disease, College of Oriental Medicine, Daegu Haany University, Daegu, Korea.",
+        "Department of Biology Education, College of Education, Pusan National University, Busan, Korea.",
+        "Futuristic Animal Resource and Research Center, Korea Research Institute of Bioscience and Biotechnology, Cheongju, Korea.",
+        "Department of Veterinary Anatomy, College of Veterinary Medicine, Chonnam National University, Gwangju, Korea.",
+        "Department of Pharmacology, School of Medicine, Gyeongsang National University, Jinju, Korea."
+      ],
+      "doi": "10.15283/ijsc25044",
+      "date": "2026-07-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42521490/"
+    },
+    {
+      "pmid": "42520640",
+      "title": "Ultrasmall nanosonocatalyst induces PANoptosis to suppress ovarian cancer: From patient-derived organoids to in vivo models.",
+      "abstract": "Ovarian cancer represents one of the most lethal gynecological malignancies, marked by a high recurrence rate and dismal prognosis. Existing targeted treatments face challenges such as limited applicability, modest effectiveness, and considerable costs, underscoring the demand for novel therapeutic alternatives. Growing research suggests that triggering a significant intracellular reactive oxygen species (ROS) surge can selectively induce oxidative destruction and death in tumor cells with compromised redox balance, while largely sparing normal cells. In this work, we designed lanthanum-doped zinc sulfide (ZnS:La) nanocrystals as an efficient sonocatalyst to augment sonodynamic treatment for ovarian cancer. Under ultrasound exposure, ZnS:La demonstrated improved charge separation and a notable boost in ROS generation, leading to substantial oxidative injury in cancer cells. Concurrently, the slow release of La3+ ions contributed to lysosomal membrane disruption, increasing cellular susceptibility to oxidative stress. These processes promoted the formation of PANoptosomes and initiated PANoptosis-a synergistic type of programmed cell death encompassing apoptosis, pyroptosis, and necroptosis. In evaluations using patient-derived organoids, subcutaneous grafts, and orthotopic ovarian tumor models, ultrasound-activated ZnS:La consistently inhibited tumor progression and spread. This study introduces a powerful sonocatalyst-based approach to engage multiple programmed cell death mechanisms, highlighting a potential new direction for ovarian cancer therapy.",
+      "journal": "Biomaterials",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Gynecological Oncology, Fudan University Shanghai Cancer Center, Shanghai, China; Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, China.",
+        "Science and Technology Innovation Center, Shanghai Municipal Hospital of Traditional Chinese Medicine, Shanghai University of Traditional Chinese Medicine, Shanghai, China.",
+        "Materdicine Lab, School of Life Sciences, Shanghai University, Shanghai, China. Electronic address: chenyuedu@shu.edu.cn.",
+        "Department of Gynecological Oncology, Fudan University Shanghai Cancer Center, Shanghai, China; Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, China. Electronic address: lixiaoqi@fudan.edu.cn.",
+        "Department of Gynecological Oncology, Fudan University Shanghai Cancer Center, Shanghai, China; Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, China. Electronic address: huangyan1168@aliyun.com."
+      ],
+      "doi": "10.1016/j.biomaterials.2026.124462",
+      "date": "2026-07-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42520640/"
+    },
+    {
+      "pmid": "42520549",
+      "title": "Low reporting quality limits the contribution of human organ models to COVID-19 research: a systematic review.",
+      "abstract": "The COVID-19 pandemic created a unique situation in which researchers repurposed human models of varying complexity to investigate SARS-CoV-2, providing the opportunity to analyse their contribution across organs. We conducted a systematic review of 558 studies, divided into pandemic and post-pandemic periods, to assess how human models were applied to investigate host factors, viral replication of SARS-CoV-2, immune responses, and to evaluate reporting quality. Our analysis revealed substantial limitations that were only partially alleviated in post-pandemic studies. These limitations included heterogeneity of outcome measures, incomplete documentation of model characteristics and experimental procedures, and variable reporting quality, which were associated with reduced cross-study comparability, more difficult risk-of-bias assessment, and limited reliability and interpretability of evidence synthesis and meta-analytical results. Strengthening community-driven reporting standards and methodological transparency is essential to enable robust evidence synthesis and to fully realise the potential of human organ models in future pandemics and translational research. The study was supported by Einstein Foundation Berlin; Federal Ministry of Research, Technology and Space; European Union; Else Kröner-Fresenius-Stiftung; Volkswagen Foundation; Charité 3R; Foundation Charité.",
+      "journal": "EBioMedicine",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Departments of Pediatrics, Medical Genetics & Genomics, Physiology & Biophysics and Center for Autism Research & Translation, University of California Irvine, Irvine, CA, United States.",
-        "NeuroQure, Dana Point, CA, United States."
+        "Berlin Institute of Health at Charité - Universitätsmedizin Berlin, QUEST Center for Responsible Research, Berlin, Germany. Electronic address: maren.huelsemann@charite.de.",
+        "Berlin Institute of Health at Charité - Universitätsmedizin Berlin, QUEST Center for Responsible Research, Berlin, Germany.",
+        "Department of Infectious Diseases, Respiratory Medicine and Critical Care Medicine, Charité - University Medical Center Berlin, Corporate Member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Germany.",
+        "Department of Infectious Diseases, Respiratory Medicine and Critical Care Medicine, Charité - University Medical Center Berlin, Corporate Member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Germany; Brandenburg Technische Universität Cottbus-Senftenberg, Faculty of Health Sciences, Senftenberg, Germany.",
+        "Berlin Institute of Health at Charité-Universitätsmedizin Berlin, Core Unit Pluripotent Stem Cells and Organoids (CUSCO), Berlin, Germany.",
+        "Berlin Institute for Medical Systems Biology, Max Delbrueck Center in the Helmholtz Association, Berlin, Germany.",
+        "Technische Universität Berlin, Department of Applied Biochemistry, Berlin, Germany.",
+        "Berlin Institute of Health at Charité - Universitätsmedizin Berlin, QUEST Center for Responsible Research, Berlin, Germany; Institute of Social and Preventative Medicine, University of Bern, Switzerland.",
+        "Institute of Virology, University Hospital Münster, University of Münster, Germany; Immunology of Respiratory Tract Infections, Medical Clinic V, University Giessen, Germany.",
+        "Institute of Virology, University Hospital Münster, University of Münster, Germany; Department of Anesthesiology, Intensive Care, and Pain Medicine, University Hospital Muenster, Germany.",
+        "Center for Stroke Research Berlin, Charité - University Medical Center Berlin, Corporate Member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Berlin, Germany; Department of Neurology with Experimental Neurology, Charité - University Medical Center Berlin, Corporate Member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Berlin, Germany.",
+        "Immunology of Respiratory Tract Infections, Medical Clinic V, University Giessen, Germany.",
+        "Department of Obstetrics and Gynecology, Ludwig-Maximilians-Universität München, Munich, Germany.",
+        "Center for Sepsis Control and Care, Institute of Biochemistry II, Universitätsklinikum Jena, Germany.",
+        "Center for Stroke Research Berlin, Charité - University Medical Center Berlin, Corporate Member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Berlin, Germany; Department of Neurology with Experimental Neurology, Charité - University Medical Center Berlin, Corporate Member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Berlin, Germany; Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+        "Institute of Medical Physics and Biophysics, Charité - University Medical Center Berlin, Corporate Member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Berlin, Germany."
       ],
-      "doi": "10.3389/fpsyt.2026.1883356",
-      "date": "2026-07-06",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42519207/"
+      "doi": "10.1016/j.ebiom.2026.106392",
+      "date": "2026-07-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42520549/"
     },
     {
-      "pmid": "42517431",
-      "title": "An Optimized Method To Isolate Female Mouse Urethral Epithelium For Single-Cell And Immunofluorescence Analysis.",
-      "abstract": "The urethra, lined by epithelial cells, serves as the conduit for urine outflow from the body. The epithelial lining of the urethra comprises distinct cell types with gene signatures indicative of roles in antimicrobial and immune defense. Resident macrophages embedded in the urethral epithelial layer represent a transcriptionally distinct subtype with purported roles in immune surveillance and antigen presentation. Urinary pathogens ascend up the urethra to reach the bladder. A study of the urethral epithelial lining and associated immune cells will shed light on host defense mechanisms in the lower urinary tract. A central goal of this protocol is to provide optimized methods for dissecting the female mouse urethra and isolating the epithelial lining for downstream analyses. The protocol describes an optimized method for isolating epithelial tissue from the female mouse urethra by gentle enzymatic and mechanical separation. Subsequent to epithelial isolation, methods for gentle enzymatic digestion of isolated urethral epithelium and associated immune cells to obtain high-viability single-cell suspensions are described. The protocol also details methods for flow cytometry analysis of the isolated mouse urethral epithelial cells and epithelial-associated immune cells. Additionally, methods to generate stratified 3D urethral epithelial organoids from isolated epithelial cells are presented here. The protocol also details an optimized method for whole-mount immunostaining of urethral epithelial sheets, which can be used to observe the morphology and molecular structures of mouse urethral epithelium and associated immune cells. Overall, the methods described here for isolation and single-cell digestion of mouse urethral epithelial cells enable downstream analyses, including immunostaining, flow cytometry, organoid generation, and single-cell RNA-sequencing.",
-      "journal": "Journal of visualized experiments : JoVE",
+      "pmid": "42522048",
+      "title": "Neuroinflammation in Alzheimer's and Parkinson's diseases: pathogenic mechanisms and therapeutic strategies.",
+      "abstract": "Neuroinflammation is increasingly recognized as a key contributor and amplifier associated with the pathogenesis of Alzheimer's disease (AD) and Parkinson's disease (PD). Neuroinflammation occurs throughout various stages of these diseases with expanding complexity. Currently, no effective therapies exist that specifically target neuroinflammatory processes in these disorders. In this review, we synthesize current understanding of central and peripheral inflammatory mechanisms implicated in both diseases. We illustrate how endogenous pathological triggers, such as amyloid-β (Aβ) peptide, hyperphosphorylated tau, and α-synuclein, activate glial cells, contributing to chronic neuroinflammation that exacerbates neurodegeneration. Additionally, peripheral factors, including systemic inflammation, environmental exposures, and gut-brain axis interactions, are discussed for their roles in modulating neuroinflammatory responses. Notably, the underappreciated roles of oligodendrocyte precursor cells and oligodendrocytes in neuroimmune crosstalk are also highlighted. Advanced methodologies, including glial cell imaging, single-cell transcriptomics, and human induced pluripotent stem cell-derived organoid models, are providing unprecedented insights into the molecular and cellular mechanisms underlying neuroinflammation. Finally, we evaluate emerging therapeutic strategies and ongoing clinical trials targeting neuroinflammatory pathways and analyze the potential of immunomodulatory approaches to slow disease progression. This comprehensive review emphasizes that precise targeting of neuroinflammation represents a tractable strategy for developing effective disease‑modifying treatments for AD and PD.",
+      "journal": "Translational neurodegeneration",
       "publicationTypes": [
         "Journal Article",
-        "Video-Audio Media"
+        "Review"
       ],
       "affiliations": [
-        "BRIC-Institute for Stem Cell Science and Regenerative Medicine.",
-        "BRIC-Institute for Stem Cell Science and Regenerative Medicine; Regional Center for Biotechnology, NCR Biotech Science Cluster.",
-        "BRIC-Institute for Stem Cell Science and Regenerative Medicine; diyabj@instem.res.in."
+        "School of Mental Health, Jining Medical University, Jining, China.",
+        "Key Laboratory of Medicinal Resources and Natural Pharmaceutical Chemistry, The Ministry of Education; College of Life Sciences, Shaanxi Normal University, Xi'an, China.",
+        "Institute of Neuroscience, CAS Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences, Shanghai, 200031, China.",
+        "Distinctive College of Health Social Services and Development, Department of Social Work and Health Management (Mental Health Education Center), Xihua University, Chengdu, 610039, China.",
+        "Institute of Neuroscience, CAS Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences, Shanghai, 200031, China. jwzhou@ion.ac.cn.",
+        "School of Future Technology, University of Chinese Academy of Sciences, Beijing, 100049, China. jwzhou@ion.ac.cn."
       ],
-      "doi": "10.3791/70973",
-      "date": "2026-06-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42517431/"
+      "doi": "10.1186/s40035-026-00571-3",
+      "date": "2026-07-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42522048/"
     },
     {
-      "pmid": "42516584",
-      "title": "Histological Processing of Organoids for Immunostaining.",
-      "abstract": "Organoids are three-dimensional cell structures derived from stem cells that recapitulate the architecture and function of native tissues. Histological analysis of organoids is essential for assessing their structure, cellular composition, and responses to experimental conditions. However, their small size and fragility make standard paraffin embedding workflows difficult. Here, we describe a robust and reproducible protocol for the fixation, paraffin embedding, and sectioning of human organoids, enabling high-quality histological and immunostaining analysis. The method involves direct fixation within the culture matrix and inclusion in HistoGel to prevent organoid loss during processing. The protocol is compatible with hematoxylin-eosin (H&E) staining and multiplex immunofluorescence. Critical steps, troubleshooting, and adaptations for intestinal and cardiac organoids are discussed. This cost-effective and accessible method supports long-term preservation and detailed structural analysis of organoid models. Key features • Enables reliable fixation, embedding, and sectioning of fragile human organoids for histological and immunofluorescence analysis. • Uses HistoGel inclusion to prevent organoid loss during paraffin embedding and processing. • Compatible with multiple organoid types (intestinal, cardiac, etc.) and staining methods (H&E, immunofluorescence). • Produces high-quality paraffin blocks and sections suitable for long-term storage.",
-      "journal": "Bio-protocol",
+      "pmid": "42521669",
+      "title": "Alu-mediated SPAST deletion impairs golgi zinc transport and reveals a druggable vulnerability.",
+      "abstract": "Alu elements are primate-specific retrotransposons known to mediate structural genomic alterations associated with neurological disorders, yet their underlying disease mechanism remains incompletely understood. Here, we leveraged human pluripotent stem cell-derived cortical organoids and xenografts to model an Alu-mediated exon 17 deletion in the SPAST gene, a frequent cause of hereditary spastic paraplegia (SPG4) with dementia. This deletion generates fusion transcripts between SPAST and the downstream gene SLC30A6, resulting in reduced expression of ZnT6, the Golgi-resident zinc transporter encoded by SLC30A6. In SPASTΔe17 organoids, we detected pronounced cytosolic zinc accumulation, Golgi fragmentation, lipid dysregulation, and increased aggregation of Aβ and ubiquitin. These phenotypes were further exacerbated in xenograft models, concomitant with ubiquitin-positive inclusions resembling those found in patients' brains. Knockdown of SLC30A6 in control organoids recapitulated the neurodegenerative features, supporting a critical role of ZnT6 in maintaining neuronal homeostasis. Intervention with TPEN, a zinc-specific chelator, or a GRASP55-blocking antibody to prevent Golgi fragmentation significantly restored Golgi integrity and reduced Aβ levels. Notably, immunohistochemistry revealed heterogeneous ZnT6 expression in AD brains; however, both ZnT6-low and ZnT6-high cases consistently exhibited elevated p-GM130, a marker of Golgi fragmentation. Finally, we detected a SPAST-SLC30A6 chimeric transcript in brain tissue from a sporadic AD patient. Together, our findings identify a primate-specific cascade linking Alu-mediated genomic rearrangements to zinc dyshomeostasis and Golgi pathology and suggest that dysregulation of the ZnT6-Golgi axis may represent a vulnerability and therapeutic target in structural variant-driven neurodegeneration and possibly in a subset of sporadic cases.",
+      "journal": "Signal transduction and targeted therapy",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Nantes Université, CHU Nantes, Inserm, TENS, The Enteric Nervous System in Gut and Brain Diseases, IMAD, Nantes, France.",
-        "Nantes Université, CHU Nantes, CNRS, INSERM, l'institut du thorax, Nantes, France.",
-        "Nantes Université, CHU Nantes, CNRS, Inserm, BioCore, US16, SFR Bonamy, Nantes, France.",
-        "Center for Stem Cell and Organoid Medicine, Cincinnati Children's Hospital Medical Center, Cincinnati, OH, USA."
+        "Korea Research Institute of Bioscience and Biotechnology (KRIBB), Daejeon, Republic of Korea.",
+        "Center for Regulatory Toxicology Research, Laboratory of Developmental and Reproductive Toxicology, Korea Institute of Toxicology, Daejeon, Republic of Korea.",
+        "Korea University of Science and Technology (UST), Daejeon, Republic of Korea.",
+        "Korea Research Institute of Bioscience and Biotechnology (KRIBB), Daejeon, Republic of Korea. myson@kribb.re.kr.",
+        "Korea University of Science and Technology (UST), Daejeon, Republic of Korea. myson@kribb.re.kr.",
+        "School of Medicine, Sungkyunkwan University, Suwon, Republic of Korea. myson@kribb.re.kr.",
+        "Korea Research Institute of Bioscience and Biotechnology (KRIBB), Daejeon, Republic of Korea. molee@kribb.re.kr.",
+        "Korea University of Science and Technology (UST), Daejeon, Republic of Korea. molee@kribb.re.kr."
       ],
-      "doi": "10.21769/BioProtoc.5750",
-      "date": "2026-07-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42516584/"
-    },
-    {
-      "pmid": "42516565",
-      "title": "Protocol for Measuring Drug-Target Engagement in Mouse Colorectal Cancer Organoids Using NanoBRET Assay.",
-      "abstract": "Organoids as a drug discovery platform represent an emerging field that continues to refine its tools. NanoBRET (bioluminescence resonance energy transfer) has emerged as a proximity-based and highly sensitive assay to measure protein-protein and protein-ligand interactions. NanoBRET assays were developed and are currently used for 2D cell line experiments. Here, we present the development of the first organoid-compatible Nanoluciferase (Nluc) for 3D model systems. We utilise the Nluc for NanoBRET assays to test drug-target engagement. We describe steps for seeding, transfecting, and replating of mouse colorectal cancer organoids. In addition, we provide detailed procedures for the NanoBRET assay. Various lines of evidence have shown significant difference in drug response between 2D human cell lines and 3D model systems, including patient-derived organoids. Our protocol provides a template for measuring this difference in the context of drug-target engagement. Key features • Development of organoid-compatible Nluc vector. • Lentiviral delivery and antibiotic selection of MEK1-Nluc organoids. • NanoBRET assay for the real-time measurement of drug-target engagement in organoids. • Quantitative measurement of competitive drug binding in living 3D organoids. • Impact of drug combinations on drug-target engagement in organoids.",
-      "journal": "Bio-protocol",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Cancer Sciences, Wolfson Wohl Cancer Research Centre, University of Glasgow, Glasgow, UK."
-      ],
-      "doi": "10.21769/BioProtoc.5752",
-      "date": "2026-07-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42516565/"
+      "doi": "10.1038/s41392-026-02785-3",
+      "date": "2026-07-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42521669/"
     },
     {
       "pmid": "42498177",
@@ -371,6 +414,89 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42495264/"
     },
     {
+      "pmid": "42520866",
+      "title": "Evolutionary and resistance dynamics in oligometastatic and oligoprogressive cancer treated with stereotactic radiotherapy and systemic therapies: a systematic review and focused meta-analysis.",
+      "abstract": "Oligometastatic and oligoprogressive disease treated with stereotactic ablative radiotherapy (SABR) represents a clinically heterogeneous entity. Increasing evidence suggests that anatomical definitions alone may not adequately capture underlying biological diversity. This systematic review aimed to synthesize translational evidence exploring evolutionary dynamics, resistance mechanisms, and biomarker-driven stratification in patients treated with SABR. A systematic literature review was performed including prospective and retrospective studies evaluating translational biomarkers in oligometastatic or oligoprogressive settings treated with SABR. Studies assessing genomic, transcriptomic, circulating or immune-related biomarkers were included. Data were summarized qualitatively according to predefined translational domains: (i) evolutionary dynamics under systemic therapy pressure, (ii) baseline biological stratification, (iii) longitudinal circulating biomarkers, and (iv) systemic immune remodeling. Exploratory quantitative visual syntheses were performed using reported hazard ratios when conceptually comparable endpoints were available. 19 studies comprising 1,527 patients were included. Across tumor types and treatment contexts, translational analyses consistently indicated that anatomically defined oligometastatic states encompass biologically distinct subgroups with different risks of systemic progression. Studies evaluating oligoprogression under ongoing systemic therapy suggested a distinction between spatially constrained resistance and systemic molecular escape, supported by circulating tumor DNA and tissue- or plasma-based molecular profiling (including genomic and transcriptomic analyses). Baseline biological features, including adverse genomic signatures and circulating biomarkers, were associated with inferior progression outcomes despite metastasis-directed therapy. Longitudinal biomarkers provided early signals of treatment response and systemic control. Immune remodeling after SABR showed context-dependent effects, both systemic immune activation and treatment-related immunosuppression reported across studies.",
+      "journal": "Seminars in cancer biology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Research and Innovation Unit, Hospital Universitario Costa del Sol, Autovía A-7 km 187. 29603 Marbella, Spain; Group of Translational Research in Cancer and Other Prevalent Diseases (B-14), IBIMA Plataforma BIONAND, Malaga, Spain; Telecommunication Research Institute (TELMA), E.T.S. Ingeniería de Telecomunicación and Mobilenet, University of Malaga, Malaga, Spain.",
+        "Department of Radiation Oncology, Virgen de La Victoria University Hospital, Malaga, Spain; Group of Translational Research in Cancer Immunotherapy and Epigenetics (B-05). IBIMA Plataforma BIONAND, Malaga, Spain.",
+        "Group of Translational Research in Cancer Immunotherapy and Epigenetics (B-05). IBIMA Plataforma BIONAND, Malaga, Spain; Department of Medical Oncology, Virgen de La Victoria University Hospital, Malaga, Spain.",
+        "Group of Translational Research in Cancer Immunotherapy and Epigenetics (B-05). IBIMA Plataforma BIONAND, Malaga, Spain; Department of Medical Oncology, Virgen de La Victoria University Hospital, Malaga, Spain; Precision Cancer Medicine in Lung Cancer - Preclinical, Translational & Clinical Research - Simon Ekman's Research Group. Department of Oncology-Pathology, Karolinska Institutet, Stockholm, Sweden. Electronic address: isabel.barragan@ki.se."
+      ],
+      "doi": "10.1016/j.semcancer.2026.07.004",
+      "date": "2026-07-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42520866/"
+    },
+    {
+      "pmid": "42520639",
+      "title": "Urinary biomarkers in muscle-invasive bladder cancer: Current state and open opportunities for neoadjuvant chemotherapy response prediction and patient stratification.",
+      "abstract": "Bladder cancer (BC) is the eleventh most diagnosed malignancy worldwide for both sexes and the sixth in men, representing a significant public health concern. It is a heterogeneous disease classified according to tumor invasion into the bladder wall, currently requiring invasive procedures (such as transurethral resection and biopsy) for accurate tumor-node-metastasis (TNM) cancer staging. Muscle-invasive bladder cancer (MIBC), defined by tumor infiltration into the muscularis propria, represents the most aggressive non-metastatic form. The standard of care for MIBC includes neoadjuvant chemotherapy (NAC) followed by radical cystectomy (RC) and lymphadenectomy. However, the absence of reliable, non-invasive methods to assess treatment response results in all patients undergoing surgery, regardless of whether a pathological response (pR) has been achieved, heavily compromising their quality of life. Therefore, predictive biomarkers of NAC response are critically needed to guide clinical decisions and personalize therapy. Given the increasing relevance of liquid biopsies, particularly urine-based assays for BC, this review examines the current landscape of urinary biomarkers studied for MIBC stratification and NAC response prediction. Furthermore, we highlight the existing gaps in the field and emphasize the necessity of expanding research into non-invasive urinary biomarkers to enable their future translation into clinical practice.",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "REMAR-IGTP Group Germans Trias i Pujol Research Institute (IGTP) & Nephrology Department, University Hospital Germans Trias i Pujol (HUGTiP), Can Ruti Campus Badalona (Barcelona) Catalonia, Spain; Department of Biochemistry and Molecular Biology, Universitat Autònoma de Barcelona (UAB), Bellaterra, Spain.",
+        "GRET and Toxicology Unit, Department of Pharmacology, Toxicology and Therapeutic Chemistry, Faculty of Pharmacy and Food Sciences, University of Barcelona, Barcelona 08028, Spain.",
+        "REMAR-IGTP Group Germans Trias i Pujol Research Institute (IGTP) & Nephrology Department, University Hospital Germans Trias i Pujol (HUGTiP), Can Ruti Campus Badalona (Barcelona) Catalonia, Spain.",
+        "Badalona Applied Research Group in Oncology (B·ARGO), Catalan Institute of Oncology, Camí de les Escoles, s/n, Badalona 08916, Spain; CARE Program, Germans Trias i Pujol Research Institute (IGTP), Camí de les Escoles, s/n, Badalona 08916, Spain; Medical Oncology Department, Institut Català d'Oncologia, Hospital Germans Trias i Pujol, Badalona 08916, Spain.",
+        "REMAR-IGTP Group Germans Trias i Pujol Research Institute (IGTP) & Nephrology Department, University Hospital Germans Trias i Pujol (HUGTiP), Can Ruti Campus Badalona (Barcelona) Catalonia, Spain; Department of Cell Biology, Physiology and Immunology Universitat de Barcelona (UB) Barcelona, Spain. Electronic address: feborras@igtp.cat.",
+        "REMAR-IGTP Group Germans Trias i Pujol Research Institute (IGTP) & Nephrology Department, University Hospital Germans Trias i Pujol (HUGTiP), Can Ruti Campus Badalona (Barcelona) Catalonia, Spain. Electronic address: mclos@debiosdx.com."
+      ],
+      "doi": "10.1016/j.biopha.2026.119807",
+      "date": "2026-07-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42520639/"
+    },
+    {
+      "pmid": "42520471",
+      "title": "Time-varying hazard rates reveal patterns of progression in HR+/HER2- metastatic breast cancer: Towards risk-adapted monitoring.",
+      "abstract": "optimal imaging intervals for patients with hormone receptor-positive/HER2-negative metastatic breast cancer (MBC) remains undefined. Aim of this study was to analyze the temporal patterns of disease progression to identify high risk subgroups that may benefit from intensified monitoring. we analyzed 149 hormone receptor-positive/HER2-negative MBC patients prospectively enrolled in the MAGNETIC.1 trial (NCT05814224) and treated with first line endocrine therapy. Hazard rates (HR) for disease progression were determined according to clinico-pathological and liquid biopsy features. in the overall population, two distinct progression-risk peaks emerged at 2-3 months (32.9/1000 person-months) and at 24 months (28.0/1000). Higher risk of progression was observed in lobular carcinoma (61.1) [HR 61.12 per 1000 person month (pm)], progesterone receptor-negative status (HR 39.07), fulvestrant-based treatment (HR 46.88), liver metastases (HR 59.00), and presence of ≥ 3 metastatic sites (HR 40.10). Hazard distribution in hormone receptor-positive/HER2-negative MBC is biphasic and modulated by readily available clinical variables. High-risk subgroups may benefit from intensified radiologic and liquid-biopsy surveillance during the first three months and around two years after treatment start.",
+      "journal": "Translational oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Medical Oncology, CRO di Aviano, National Cancer Institute, IRCCS, 33081 Aviano, Italy.",
+        "Unit of Cancer Epidemiology, CRO Aviano National Cancer Institute, IRCCS, Aviano, Italy.",
+        "Department of Medical Oncology, CRO di Aviano, National Cancer Institute, IRCCS, 33081 Aviano, Italy; Department of Medicine, University of Udine, 33100 Udine, Italy.",
+        "Institute of Human Genetics, Santa Maria della Misericordia University Hospital, Azienda Sanitaria Universitaria Friuli Centrale (ASUFC), 33100 Udine, Italy.",
+        "Department of Medicine, University of Udine, 33100 Udine, Italy.",
+        "Department of Oncology, Santa Maria della Misericordia University Hospital, Azienda Sanitaria Universitaria Friuli Centrale (ASUFC), 33100 Udine, Italy.",
+        "Division of Molecular Oncology, CRO di Aviano, National Cancer Institute, IRCCS, 33081 Aviano, Italy.",
+        "Clinical Trial Office, CRO di Aviano, National Cancer Institute, IRCCS, 33081 Aviano, Italy.",
+        "Department of Medicine, University of Udine, 33100 Udine, Italy; Institute of Human Genetics, Santa Maria della Misericordia University Hospital, Azienda Sanitaria Universitaria Friuli Centrale (ASUFC), 33100 Udine, Italy.",
+        "Department of Medical Oncology, CRO di Aviano, National Cancer Institute, IRCCS, 33081 Aviano, Italy; Department of Medicine, University of Udine, 33100 Udine, Italy. Electronic address: lorenzo.gerratana@outlook.com."
+      ],
+      "doi": "10.1016/j.tranon.2026.102960",
+      "date": "2026-07-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42520471/"
+    },
+    {
+      "pmid": "42520476",
+      "title": "Lung cancer stem cells in the tumor microenvironment: translational biomarkers and therapeutic strategies for immune evasion and treatment resistance.",
+      "abstract": "Lung cancer remains the leading cause of cancer-related death worldwide. Although immune checkpoint inhibitors and targeted therapies have improved outcomes, durable benefit is restricted by primary resistance, acquired resistance, minimal residual disease, and relapse. Lung cancer stem cells (LCSCs) represent a plastic, therapy-resistant tumor subpopulation with self-renewal capacity, lineage adaptability, and marked interactions with the tumor immune microenvironment (TIME). In this review, we frame LCSCs and the TIME as a reciprocal regulatory network rather than as independent biological compartments. TIME components, including tumor-associated macrophages, myeloid-derived suppressor cells, regulatory T cells, cancer-associated fibroblasts, hypoxia, and extracellular matrix remodeling, sustain LCSC stemness through paracrine signaling, niche formation, metabolic adaptation, and epigenetic regulation. Conversely, LCSCs remodel the immune ecosystem through PD-L1, B7-H3, CD47, CXCL12/CXCR4, CCL2, IL-6/STAT3, TGF-β, extracellular vesicles, and impaired antigen presentation. This self-reinforcing network promotes immune evasion, suppressive immune-cell recruitment, treatment failure, and recurrence. We further classify LCSC-related markers according to translational use, including identification markers, prognostic markers, immunotherapy-response markers, monitoring biomarkers, and therapeutic targets, while indicating whether available evidence is mainly derived from non-small cell lung cancer (NSCLC), small cell lung cancer (SCLC), or both. Finally, we distinguish clinically established immunotherapeutic strategies from investigational LCSC-directed approaches and discuss how single-cell sequencing, spatial transcriptomics, organoids, patient-derived xenografts, and liquid biopsy may support biomarker validation and rational combination therapy.",
+      "journal": "Translational oncology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Oncology, Affiliated Tumor Hospital of Nantong University & Nantong Tumor Hospital, Nantong, China.",
+        "Department of Oncology, Affiliated Tumor Hospital of Nantong University & Nantong Tumor Hospital, Nantong, China. Electronic address: 17805050201@163.com.",
+        "Department of Cardiothoracic Surgery, Nantong Third People's Hospital, Affiliated Nantong Hospital 3 of Nantong University, Nantong, China. Electronic address: lurujian168@sina.com.",
+        "Department of Oncology, Affiliated Tumor Hospital of Nantong University & Nantong Tumor Hospital, Nantong, China. Electronic address: jsshcjl@ntu.edu.cn."
+      ],
+      "doi": "10.1016/j.tranon.2026.102932",
+      "date": "2026-07-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42520476/"
+    },
+    {
       "pmid": "42519900",
       "title": "The rejectome of acute t-cell mediated rejection in clinical liver transplantation.",
       "abstract": "Rejection remains a major cause of allograft injury and loss in liver transplantation (LT). Mechanisms mediating clinical liver allograft rejection remain elusive, limiting development of new immunosuppressive drugs and biomarker panels for monitoring rejection for decades. Herein, multi-omic data and systems immunology were combined to define the 'rejectome' of T-cell mediated rejection (TCMR) in 98 pediatric LT recipients. Spatial proteomics of liver biopsies revealed enrichment of HLADRhigh and PD1high T and B-cell subtypes in TCMR. Two peripheral PD1+ T-cell subsets shared expression profiles with T-cells within the alloimmune microenvironment. Plasma proteomics and predictive modeling identified a tissue correlative panel of 11 biomarkers linked to immune function and liver metabolism that differentiates TCMR from no rejection and proteomic profiles in other liver diseases. These data highlight multi-tissue proteomics features of the alloimmune microenvironment during clinical TCMR and suggest that a clinical plasma proteomic 'liquid biopsy' can be developed for management of TCMR in LT.",
@@ -409,85 +535,287 @@
       "doi": "10.3389/fimmu.2026.1809834",
       "date": "2026-07-06",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42519345/"
-    },
-    {
-      "pmid": "42519020",
-      "title": "Extracellular vesicles isolated from frozen whole blood show biomarker potential in small intestine neuroendocrine neoplasms.",
-      "abstract": "Despite widespread storage of frozen whole blood (FWB) in biobanks worldwide, its suitability for extracellular vesicle (EV) research remains largely unassessed. Here, we developed a robust and practical workflow for EV-based cancer biomarker analysis from FWB by comparing differential ultracentrifugation (dUC), size-exclusion chromatography, and their combination. All methods successfully recovered vesicles within the expected 50-150 nm range, enriched for canonical EV markers, while reducing blood-derived EV contaminants, and displayed vesicle-like morphology. Among tested methods, dUC emerged as the most cost-effective and labor-efficient approach. Applying this pipeline to biobanked FWB samples from patients with small intestinal neuroendocrine neoplasms yielded an average of ∼1,000 proteins detected per sample using mass spectrometry-based proteomics, including known neuroendocrine markers and enrichment in synapse organization signaling pathways. These findings demonstrate the feasibility of EV isolation from FWB and biomarker-relevant downstream analysis, highlighting the untapped potential of EV-based biomarker discovery across diseases from existing biobanks.",
-      "journal": "iScience",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden.",
-        "Department of Medicine (Solna), Karolinska Institutet, Stockholm, Sweden.",
-        "Crown Princess Victoria Children's Hospital, Region Östergötland, Linköping, Sweden.",
-        "Clinical Department of Surgery in Linköping, Region Östergötland, Linköping, Sweden.",
-        "Children's Cancer and Blood Foundation Laboratories, Departments of Pediatrics, and Cell and Developmental Biology, Drukier Institute for Children's Health, Meyer Cancer Center, Weill Cornell Medicine, New York, NY 10021, USA.",
-        "Science for Life Laboratory (SciLifeLab), Linköping University, Linköping, Sweden."
-      ],
-      "doi": "10.1016/j.isci.2026.116723",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42519020/"
-    },
-    {
-      "pmid": "42518683",
-      "title": "Extracellular Vesicles in Gestational Diabetes Mellitus: Pathogenesis, Diagnosis, and Therapy.",
-      "abstract": "Gestational diabetes mellitus (GDM) is the most common metabolic complication of pregnancy, with a continuously rising global prevalence. However, current diagnostic and therapeutic strategies are limited by delayed detection and insufficient targeting. Extracellular vesicles (EVs), as nanoscale messengers that mediate intercellular communication, have recently been implicated in GDM pathogenesis and exhibit dual potential as liquid biopsy biomarkers and drug delivery vehicles. This review systematically integrates research findings on EVs in GDM, constructs an EV-mediated multi-organ crosstalk network framework, and comparatively evaluates the diagnostic and therapeutic potential of EVs derived from the placenta, adipose tissue, blood, breast milk, and urine. And further discussed current challenges and future directions for clinical translation of EV-based strategies. It provides an integrative perspective on the pathogenesis, precision diagnosis, and treatment of GDM and offers critical guidance for advancing the clinical translation of EV-based strategies.",
-      "journal": "International journal of nanomedicine",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Pharmaceutics, College of Medicine, Jiaxing University, Jiaxing, People's Republic of China.",
-        "Department of Obstetrics, Jiaxing Maternity and Child Health Care Hospital, Affiliated Women and Children Hospital, Jiaxing University, Jiaxing, People's Republic of China.",
-        "Department of Clinical Laboratory, Jiaxing Maternity and Child Health Care Hospital, Affiliated Women and Children Hospital, Jiaxing University, Jiaxing, People's Republic of China.",
-        "Department of Central Laboratory, Jiaxing Maternity and Child Health Care Hospital, Affiliated Women and Children Hospital, Jiaxing University, Jiaxing, People's Republic of China."
-      ],
-      "doi": "10.2147/IJN.S615762",
-      "date": "2026-07-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42518683/"
-    },
-    {
-      "pmid": "42518680",
-      "title": "EV-Mediated Oncogenic Regulation in Lung Cancer and Clinical Translation: From Liquid Biopsy to Targeted Delivery Systems.",
-      "abstract": "Lung cancer (LC) remains the leading cause of cancer-associated mortality globally. Delayed diagnosis, therapeutic resistance and high postoperative recurrence are major hurdles that compromise its clinical outcomes. Extracellular vesicles (EVs) are cell-secreted nanoscale lipid vesicles that mediate intercellular crosstalk via the transfer of bioactive cargo, such as nucleic acids and proteins. In the lung cancer microenvironment, EVs remodel core signaling axes including PI3K/AKT and NF-κB, consequently driving hallmark malignant phenotypes: angiogenesis, distant metastasis, immune evasion and multidrug resistance. Boasting robust physicochemical stability, complete molecular cargo signatures and minimally invasive sampling feasibility, EVs represent ideal tumor biomarkers for liquid biopsy. Additionally, their intrinsic low immunogenicity renders EVs versatile nanovehicles capable of amplifying anti-tumor effects elicited by conventional radiotherapy, chemotherapy and immunotherapy. However, substantial inherent heterogeneity, a lack of unified standards for EVs isolation and characterization, obstacles to scalable production and inadequate tumor-targeting efficiency collectively impede their clinical translation. This review systematically dissects the molecular mechanisms through which EVs orchestrate lung cancer malignant progression, comprehensively outlines state-of-the-art progress of EVs applications in liquid biopsy-based early screening, prognostic stratification, targeted drug delivery and cellular immunotherapy, thoroughly discusses prevailing translational bottlenecks, and envisions future directions of EVs in precision oncology for lung cancer. The work offers theoretical guidance for developing next-generation EV-centric diagnostic and therapeutic platforms.",
-      "journal": "International journal of nanomedicine",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Medical Center of Hematology, Xinqiao Hospital, Army Medical University, Chongqing, 400037, People's Republic of China.",
-        "Chongqing Key Laboratory of Hematology and Microenvironment, Army Medical University, Chongqing, 400037, People's Republic of China.",
-        "State Key Laboratory of Trauma and Chemical Poisoning, Army Medical University, Chongqing, 400037, People's Republic of China."
-      ],
-      "doi": "10.2147/IJN.S596841",
-      "date": "2026-07-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42518680/"
-    },
-    {
-      "pmid": "42517029",
-      "title": "Editorial: Deciphering molecular mechanisms behind tumor heterogeneity features by using nucleic acid-based technologies.",
-      "abstract": "",
-      "journal": "Frontiers in genetics",
-      "publicationTypes": [
-        "Editorial"
-      ],
-      "affiliations": [
-        "Centro de Investigação Translacional em Oncologia (LIM24), Instituto do Câncer do Estado de São Paulo (ICESP), Faculdade de Medicina da Universidade de São Paulo (FMUSP), São Paulo, Brazil.",
-        "Comprehensive Center for Precision Oncology, Universidade de São Paulo (USP), São Paulo, Brazil.",
-        "Centro de Genética y Biología Molecular (CGBM), Instituto de Investigación, Facultad de Medicina Humana, Universidad de San Martín de Porres, Lima, Peru.",
-        "Department of Biology, University of Pisa, Pisa, Italy.",
-        "Laboratory of Molecular Oncology, Carlos Chagas Institute, Oswaldo Cruz Foundation (Fiocruz), Curitiba, Brazil."
-      ],
-      "doi": "10.3389/fgene.2026.1917362",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42517029/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42521490",
+      "date": "2026-07-29",
+      "title": "A Cerebral Organoid Model of Familial Alzheimer's Disease Using Amyloid Precursor Protein Mutation, Val669Leu (APPSeoul).",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42521490/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of stem cells，PMID 为 42521490。",
+      "report": "Various animal and cellular Alzheimer's disease (AD) models harboring familial AD (fAD) mutations have been developed and widely used for AD research. In this study, we established an AD cerebral organoid (CO) model using a novel Val669Leu (APPSeoul) mutation...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42522048",
+      "date": "2026-07-29",
+      "title": "Neuroinflammation in Alzheimer's and Parkinson's diseases: pathogenic mechanisms and therapeutic strategies.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42522048/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Translational neurodegeneration，PMID 为 42522048。",
+      "report": "Neuroinflammation is increasingly recognized as a key contributor and amplifier associated with the pathogenesis of Alzheimer's disease (AD) and Parkinson's disease (PD). Neuroinflammation occurs throughout various stages of these diseases with expanding compl...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42521669",
+      "date": "2026-07-29",
+      "title": "Alu-mediated SPAST deletion impairs golgi zinc transport and reveals a druggable vulnerability.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42521669/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Signal transduction and targeted therapy，PMID 为 42521669。",
+      "report": "Alu elements are primate-specific retrotransposons known to mediate structural genomic alterations associated with neurological disorders, yet their underlying disease mechanism remains incompletely understood. Here, we leveraged human pluripotent stem cell-de...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42521807",
+      "date": "2026-07-28",
+      "title": "Core2Edge: a human glioblastoma organoid-brain slice model capturing infiltration and transcriptional heterogeneity from core to single-cell dispersion.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42521807/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature protocols，PMID 为 42521807。",
+      "report": "Glioblastomas function as intricate cellular networks that extend into the surrounding brain tissue, facilitating long-distance communication. This malignant connectivity spans from the tumor core to remote infiltration zones, in support of the concept of glio...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42520549",
+      "date": "2026-07-28",
+      "title": "Low reporting quality limits the contribution of human organ models to COVID-19 research: a systematic review.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42520549/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 EBioMedicine，PMID 为 42520549。",
+      "report": "The COVID-19 pandemic created a unique situation in which researchers repurposed human models of varying complexity to investigate SARS-CoV-2, providing the opportunity to analyse their contribution across organs. We conducted a systematic review of 558 studie...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42520866",
+      "date": "2026-07-28",
+      "title": "Evolutionary and resistance dynamics in oligometastatic and oligoprogressive cancer treated with stereotactic radiotherapy and systemic therapies: a systematic review and focused meta-analysis.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42520866/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Seminars in cancer biology，PMID 为 42520866。",
+      "report": "Oligometastatic and oligoprogressive disease treated with stereotactic ablative radiotherapy (SABR) represents a clinically heterogeneous entity. Increasing evidence suggests that anatomical definitions alone may not adequately capture underlying biological di...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42520639",
+      "date": "2026-07-28",
+      "title": "Urinary biomarkers in muscle-invasive bladder cancer: Current state and open opportunities for neoadjuvant chemotherapy response prediction and patient stratification.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42520639/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie，PMID 为 42520639。",
+      "report": "Bladder cancer (BC) is the eleventh most diagnosed malignancy worldwide for both sexes and the sixth in men, representing a significant public health concern. It is a heterogeneous disease classified according to tumor invasion into the bladder wall, currently...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42520471",
+      "date": "2026-07-28",
+      "title": "Time-varying hazard rates reveal patterns of progression in HR+/HER2- metastatic breast cancer: Towards risk-adapted monitoring.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42520471/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Translational oncology，PMID 为 42520471。",
+      "report": "optimal imaging intervals for patients with hormone receptor-positive/HER2-negative metastatic breast cancer (MBC) remains undefined. Aim of this study was to analyze the temporal patterns of disease progression to identify high risk subgroups that may benefit...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42520476",
+      "date": "2026-07-28",
+      "title": "Lung cancer stem cells in the tumor microenvironment: translational biomarkers and therapeutic strategies for immune evasion and treatment resistance.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42520476/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Translational oncology，PMID 为 42520476。",
+      "report": "Lung cancer remains the leading cause of cancer-related death worldwide. Although immune checkpoint inhibitors and targeted therapies have improved outcomes, durable benefit is restricted by primary resistance, acquired resistance, minimal residual disease, an...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42519900",
       "date": "2026-07-27",
@@ -721,184 +1049,33 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42516584",
-      "date": "2026-07-20",
-      "title": "Histological Processing of Organoids for Immunostaining.",
+      "id": "pubmed-42520640",
+      "date": "2026-07-15",
+      "title": "Ultrasmall nanosonocatalyst induces PANoptosis to suppress ovarian cancer: From patient-derived organoids to in vivo models.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42516584/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bio-protocol，PMID 为 42516584。",
-      "report": "Organoids are three-dimensional cell structures derived from stem cells that recapitulate the architecture and function of native tissues. Histological analysis of organoids is essential for assessing their structure, cellular composition, and responses to exp...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42516565",
-      "date": "2026-07-20",
-      "title": "Protocol for Measuring Drug-Target Engagement in Mouse Colorectal Cancer Organoids Using NanoBRET Assay.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42516565/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42520640/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology",
-        "Drug Screening"
+        "Precision Oncology"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bio-protocol，PMID 为 42516565。",
-      "report": "Organoids as a drug discovery platform represent an emerging field that continues to refine its tools. NanoBRET (bioluminescence resonance energy transfer) has emerged as a proximity-based and highly sensitive assay to measure protein-protein and protein-ligan...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42518683",
-      "date": "2026-07-16",
-      "title": "Extracellular Vesicles in Gestational Diabetes Mellitus: Pathogenesis, Diagnosis, and Therapy.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42518683/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of nanomedicine，PMID 为 42518683。",
-      "report": "Gestational diabetes mellitus (GDM) is the most common metabolic complication of pregnancy, with a continuously rising global prevalence. However, current diagnostic and therapeutic strategies are limited by delayed detection and insufficient targeting. Extrac...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42518680",
-      "date": "2026-07-16",
-      "title": "EV-Mediated Oncogenic Regulation in Lung Cancer and Clinical Translation: From Liquid Biopsy to Targeted Delivery Systems.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42518680/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of nanomedicine，PMID 为 42518680。",
-      "report": "Lung cancer (LC) remains the leading cause of cancer-associated mortality globally. Delayed diagnosis, therapeutic resistance and high postoperative recurrence are major hurdles that compromise its clinical outcomes. Extracellular vesicles (EVs) are cell-secre...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42519020",
-      "date": "2026-07-14",
-      "title": "Extracellular vesicles isolated from frozen whole blood show biomarker potential in small intestine neuroendocrine neoplasms.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42519020/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42519020。",
-      "report": "Despite widespread storage of frozen whole blood (FWB) in biobanks worldwide, its suitability for extracellular vesicle (EV) research remains largely unassessed. Here, we developed a robust and practical workflow for EV-based cancer biomarker analysis from FWB...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42517029",
-      "date": "2026-07-14",
-      "title": "Editorial: Deciphering molecular mechanisms behind tumor heterogeneity features by using nucleic acid-based technologies.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42517029/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in genetics，PMID 为 42517029。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Biomaterials，PMID 为 42520640。",
+      "report": "Ovarian cancer represents one of the most lethal gynecological malignancies, marked by a high recurrence rate and dismal prognosis. Existing targeted treatments face challenges such as limited applicability, modest effectiveness, and considerable costs, unders...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -959,36 +1136,6 @@
       "fact": "PubMed 记录显示该文献收录于 International journal of molecular sciences，PMID 为 42511472。",
       "report": "Computer-aided de novo drug design has been widely explored for early-stage drug discovery, yet the multi-property optimization of novel molecules remains challenging. We aimed to develop a de novo drug design model to efficiently optimize multiple properties...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42519207",
-      "date": "2026-07-06",
-      "title": "From spatial patterning to coordinated execution: a cross-system framework for autism spectrum disorder.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42519207/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in psychiatry，PMID 为 42519207。",
-      "report": "Autism spectrum disorder (ASD) is characterized by differences in social communication and restricted or repetitive behaviors, yet converging evidence also points to altered neural timing, synchronization, and large-scale coordination despite largely preserved...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1058,69 +1205,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42519548",
-      "date": "2026-06-22",
-      "title": "Three Dimensional Biomimetic Liver Models to Reconstitute Metabolic Dysfunction-Associated Steatohepatitis (MASH) In Vitro: Hope and Reality.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42519548/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of clinical and experimental hepatology，PMID 为 42519548。",
-      "report": "This review article provides an in-depth exploration of recent advancements in in vitro liver models for studying metabolic dysfunction-associated steatohepatitis (MASH), a progressive liver disease linked to metabolic disorders. The article highlights the sig...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42517431",
-      "date": "2026-06-12",
-      "title": "An Optimized Method To Isolate Female Mouse Urethral Epithelium For Single-Cell And Immunofluorescence Analysis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42517431/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42517431。",
-      "report": "The urethra, lined by epithelial cells, serves as the conduit for urine outflow from the body. The epithelial lining of the urethra comprises distinct cell types with gene signatures indicative of roles in antimicrobial and immune defense. Resident macrophages...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42500723",
       "date": "2026-06-10",
       "title": "Smart molecular design of NIR-II organic fluorophores through self-driven iterative evolution, deep learning, and fragment-based assembly.",
@@ -1179,40 +1263,6 @@
       "fact": "PubMed 记录显示该文献收录于 Human molecular genetics，PMID 为 42447329。",
       "report": "Epigenetic inheritance links fetal chromatin organization and CpG methylation to lifelong tissue phenotypes. We tested the Fetal Chromatin-CpG Developmental Blueprint (FCCD-B) model, proposing that fetal chromatin states shaped by maternal nutrient and transcr...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42519667",
-      "date": "2026-05-28",
-      "title": "A chemo-free thermo-sensitive necroptosis-inducing perfusate to enable potent hyperthermic intraperitoneal immunotherapy.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42519667/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 National science review，PMID 为 42519667。",
-      "report": "Hyperthermic intraperitoneal chemotherapy (HIPEC) is widely performed for treating peritoneal malignancies, yet its clinical application remains limited by insufficient efficacies and risks in chemotherapy-associated side effects. This study demonstrates that...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
