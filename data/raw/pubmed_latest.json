@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-28T19:55:07.669275+00:00",
+  "capturedAt": "2026-07-29T03:44:21.894945+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-07-28",
-    "end": "2026-07-28"
+    "start": "2025-07-29",
+    "end": "2026-07-29"
   },
   "pmids": [
+    "42519667",
+    "42519548",
+    "42519207",
     "42517431",
     "42516584",
     "42516565",
-    "42516424",
-    "42516310",
-    "42515979",
     "42498177",
     "42497867",
     "42486102",
@@ -32,14 +32,68 @@
     "42500723",
     "42499170",
     "42495264",
-    "42517029",
-    "42515723",
-    "42514248",
-    "42514200",
-    "42514149",
-    "42513625"
+    "42519900",
+    "42519345",
+    "42519020",
+    "42518683",
+    "42518680",
+    "42517029"
   ],
   "records": [
+    {
+      "pmid": "42519667",
+      "title": "A chemo-free thermo-sensitive necroptosis-inducing perfusate to enable potent hyperthermic intraperitoneal immunotherapy.",
+      "abstract": "Hyperthermic intraperitoneal chemotherapy (HIPEC) is widely performed for treating peritoneal malignancies, yet its clinical application remains limited by insufficient efficacies and risks in chemotherapy-associated side effects. This study demonstrates that mild hyperthermia enhances cancer cell sensitivity to hydrogen peroxide (H2O2) and Ca2+ exposure while sparing normal cells at both elevated and physiological temperatures. Mechanistically, mild hyperthermia promotes H2O2 cellular entry, synergistically activating calcium channels in the plasma membrane and endoplasmic reticulum to induce Ca2+-overload-dependent cancer cell necroptosis. Using H2O2 and Ca2+ solution as a thermo-sensitive necroptosis-inducing perfusate (TNIP), peritoneal perfusion at 43°C demonstrates stronger suppressive effects on the growth of multiple peritoneal tumors in mice compared to conventional HIPEC using various chemotherapeutics. TNIP-mediated hyperthermic intraperitoneal treatment also elicits robust antitumor immunity in syngeneic murine models, with enhanced therapeutic efficacy when combined with postoperative immune checkpoint blockade therapy. The superior immune activation capacities of this strategy are further validated in patient-derived organoids. This work establishes a chemo-free, thermo-activated immunogenic perfusion strategy to selectively trigger cancer cell necroptosis, demonstrating a translatable hyperthermic intraperitoneal immunotherapy with improved therapeutic efficacy and safety.",
+      "journal": "National science review",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Institute of Functional Nano & Soft Materials (FUNSOM), Jiangsu Key Laboratory for Carbon-Based Functional Materials & Devices, Biomedical Basic Research Center (BBRC) of Jiangsu Province, Engineering Research Center of RNA Medicine and Cell Therapy Technology, Ministry of Education, Soochow University, Suzhou 215123, China.",
+        "Department of Obstetrics and Gynecology, The First Affiliated Hospital of Soochow University, Suzhou 215006, China.",
+        "Department of Radiation Oncology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences, Peking Union Medical College, Beijing 10021, China."
+      ],
+      "doi": "10.1093/nsr/nwag321",
+      "date": "2026-05-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42519667/"
+    },
+    {
+      "pmid": "42519548",
+      "title": "Three Dimensional Biomimetic Liver Models to Reconstitute Metabolic Dysfunction-Associated Steatohepatitis (MASH) In Vitro: Hope and Reality.",
+      "abstract": "This review article provides an in-depth exploration of recent advancements in in vitro liver models for studying metabolic dysfunction-associated steatohepatitis (MASH), a progressive liver disease linked to metabolic disorders. The article highlights the significance of these models in mimicking the liver's complex microarchitecture and physiological functions, offering an essential platform for understanding MASH pathogenesis and testing potential therapeutic agents. Key innovations discussed include biomimetic three-dimensional cultures, microfluidic liver-on-a-chip systems, liver organoids, and scaffold-based approaches. These modals partially recapitulate key features of MASH, such as lipid accumulation, inflammation, and fibrosis, while enabling the investigation of signaling pathways and molecular mechanisms underlying the disease. Additionally, the article examines the advantages and limitations of various models, with a focus on their application in drug discovery, toxicity assessment, and personalized medicine. By facilitating a deeper understanding of MASH's intricate biology, these models hold promise for the identification of new therapeutic targets and the development of more effective treatment strategies for a disease with no current Food and Drug Administration (FDA)-approved pharmacological therapies. This review underscores the transformative potential of bioengineered platforms in MASH research and their role in advancing the future of liver disease management.",
+      "journal": "Journal of clinical and experimental hepatology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Student Research Committee, Qom University of Medical Sciences, Qom, Iran.",
+        "Department of Tissue Engineering and Applied Cell Sciences, School of Medicine, Qom University of Medical Sciences, Qom, Iran.",
+        "Department of Hematology and Blood Banking, Faculty of Allied Medicine, Iran University of Medical Sciences, Tehran, Iran.",
+        "Cellular and Molecular Research Center, Qom University of Medical Sciences, Qom, Iran.",
+        "Department of Anatomy, Faculty of Medicine, Qom University of Medical Sciences, Qom, Iran."
+      ],
+      "doi": "10.1016/j.jceh.2026.103599",
+      "date": "2026-06-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42519548/"
+    },
+    {
+      "pmid": "42519207",
+      "title": "From spatial patterning to coordinated execution: a cross-system framework for autism spectrum disorder.",
+      "abstract": "Autism spectrum disorder (ASD) is characterized by differences in social communication and restricted or repetitive behaviors, yet converging evidence also points to altered neural timing, synchronization, and large-scale coordination despite largely preserved gross neuroanatomy. Parallel observations across non-neural systems, including functional gastrointestinal disturbances, minor anomalies in neural crest-derived tissues, and variation in epithelial patterning outcomes, raise the possibility of a broader vulnerability in coordination-dependent biological processes. Here, we propose a framework in which developmental systems distinguish between spatial patterning mechanisms that establish tissue geometry and a calcium-dependent execution layer that stabilizes coordinated behavior across time. Patterning systems, including planar cell polarity signaling, morphogen gradients, and neural crest guidance cues, specify directional organization and spatial relationships among cells. Their realization, however, requires intracellular processes capable of synchronizing cytoskeletal remodeling, adhesion dynamics, excitability, and metabolic coupling across cells and networks. Within this framework, intracellular Ca²+ signaling - and particularly endoplasmic reticulum Ca²+ release mediated by inositol 1,4,5-trisphosphate receptors (ITPRs) - represents a candidate mechanism for stabilizing coordinated execution across biological systems. Partial disruption of this coordination layer could degrade synchronization, propagation, and temporal integration without abolishing underlying structural organization. This perspective provides a potential basis for linking altered cortical synchronization with coordination-dependent processes in enteric function, neural crest development, and epithelial patterning outcomes observed in ASD. This framework is not proposed as a universal explanation for ASD, but as a testable organizing model for coordination-related phenotypes across systems. By distinguishing spatial developmental instruction from the mechanisms that stabilize coordinated execution, this perspective generates experimentally tractable predictions across cellular, organoid, and systems-level models and offers a unifying framework for investigating coordination-dependent biology in ASD.",
+      "journal": "Frontiers in psychiatry",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Departments of Pediatrics, Medical Genetics & Genomics, Physiology & Biophysics and Center for Autism Research & Translation, University of California Irvine, Irvine, CA, United States.",
+        "NeuroQure, Dana Point, CA, United States."
+      ],
+      "doi": "10.3389/fpsyt.2026.1883356",
+      "date": "2026-07-06",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42519207/"
+    },
     {
       "pmid": "42517431",
       "title": "An Optimized Method To Isolate Female Mouse Urethral Epithelium For Single-Cell And Immunofluorescence Analysis.",
@@ -90,57 +144,6 @@
       "doi": "10.21769/BioProtoc.5752",
       "date": "2026-07-20",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42516565/"
-    },
-    {
-      "pmid": "42516424",
-      "title": "Microbioreactor design for eukaryotic cell-based biomedical applications.",
-      "abstract": "The eukaryotic cell-based biomedicine landscape is undergoing a paradigm shift, driven by the transition from static culture to highly controlled microbioreactor environments. This mini-review assembles high-value applications, including autologous cell therapies, recombinant protein production, induced pluripotent stem cell expansion, and organoid engineering. Technologically, we highlight how the integration of microfluidics into Chimeric antigen receptor T-cell manufacturing achieves numerical optimization of cell count and phenotypic distribution through automated, closed-loop workflows. Regarding bioproduction, perfusion-based microbioreactors demonstrate a six-fold increase in productivity over traditional T-flasks, utilizing at-line monitoring and advanced cell-retention configurations to minimize shear-induced damage. Beyond production, these systems are active regulators of oxygenation and tissue morphogenesis in the context of human induced pluripotent stem cells while enabling controlled 3D tissue organization. In this connection, microfluidic platforms influence extracellular matrix remodeling and developmental signaling by modulating convective flow and mechanotransduction pathways. Furthermore, automation enhances reproducibility in feeding schedules and differentiation timing. Critical to this endeavor, the ability to generate precise spatiotemporal morphogen gradients enables reproducible lineage commitment and the maturation of complex tissues through synchronized mechanical and electrical stimuli for hosting organoid growth. The microbioreactor's superior mass transfer and low shear stress produced organoids 140% larger than static controls. While automation significantly reduces reagent consumption and inter-batch variability, challenges in scalability and material selection remain. Finally, parameters that push the microscale control boundaries are presented. Collectively, these advancements streamline therapeutic pipelines, support the replacement of animal-based testing, and align with Sustainable Development Goal 3 by accelerating the move toward personalized medicine and ethical drug screening.",
-      "journal": "Frontiers in bioengineering and biotechnology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Universidad UTE, Facultad de Ciencias de la Ingeniería e Industrias, Ingeniería Civil, Mecánica Computacional e Inteligencia Artificial Aplicada (MCIAA), Quito, Ecuador.",
-        "Centro de Investigación Biomédica (CENBIO), Universidad UTE, Facultad de Ciencias de La Salud Eugenio Espejo, Quito, Ecuador.",
-        "Facultad de Ingenierías Aplicadas y Desarrollo Industrial, Universidad Internacional Del Ecuador UIDE, Quito, Ecuador."
-      ],
-      "doi": "10.3389/fbioe.2026.1854988",
-      "date": "2026-07-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42516424/"
-    },
-    {
-      "pmid": "42516310",
-      "title": "Novel ALG13 Variants and an Expanded Neurodevelopmental Spectrum: Genotype-Phenotype Correlations.",
-      "abstract": "The ALG13 gene is implicated in congenital disorders of glycosylation (CDG) and developmental and epileptic encephalopathy (DEE), yet genotype-phenotype correlations remain incompletely understood. Whole-exome sequencing (WES) was performed in unrelated families, and we systematically reviewed existing patient data on ALG13 variants and investigated the expression patterns of ALG13 using organoid models. This study reports five patients with ALG13 variants, including two novel variants. Four patients presented with epilepsy accompanied by neurodevelopmental impairment, including infantile epileptic spasms syndrome (IESS) and drug-resistant epilepsy, whereas one patient showed developmental delay without seizures. Further analysis revealed that variants identified in patients with isolated developmental delay were primarily located outside the key glycosylation functional domain. Statistical analysis of patients with epileptic encephalopathy showed that infantile-onset seizures were the predominant feature, with most cases being refractory to treatment. Additionally, in organoids, the highest ALG13 expression was observed at 1 month in ectodermal-derived neurons (EN). At 5 months, peak expression shifted to deep-layer cortical neurons (EN-CTX-Deep). ALG13 variants are associated with a broad phenotypic spectrum ranging from DEE to neurodevelopmental impairment without seizures. Our findings support a possible domain-related genotype-phenotype association and provide additional developmental context for the role of ALG13 in neurodevelopmental disorders. Further functional studies are required to clarify the pathogenic mechanisms of different ALG13 variants.",
-      "journal": "Human mutation",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Neurology Department, Children's Hospital Affiliated to Shandong University, Jinan, Shandong, China.",
-        "Neurology Department, Jinan Children's Hospital, Jinan, Shandong, China."
-      ],
-      "doi": "10.1155/humu/6800099",
-      "date": "2026-07-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42516310/"
-    },
-    {
-      "pmid": "42515979",
-      "title": "Kinase Plasticity with Vandetanib Treatment Enhances Sensitivity to Tamoxifen in Estrogen Receptor Positive Breast Cancer.",
-      "abstract": "Resistance to endocrine therapy (ET) is common in estrogen receptor-positive (ER+) breast cancer. Multiple studies have demonstrated that upregulation of MAPK signaling pathways contributes to ET resistance. Herein we show that vandetanib treatment suppresses MAPK signaling and enhances sensitivity to ET across ET-sensitive and ET-resistant ER+ cell lines and patient derived organoids. Vandetanib treatment reprograms transcription toward a less proliferative, more estrogen responsive, Luminal-A like state by enriching ERα chromatin binding at canonical estrogen response elements. Multiplexed kinase inhibitor beads-mass spectrometry (MIB/MS) revealed kinase network reprogramming, including upregulation of PI3K and HER2 activity, as shared adaptive resistance mechanisms to vandetanib treatment. Co-treatment with the HER2 inhibitor lapatinib, further enhanced sensitivity to vandetanib. Using an operating room-to-laboratory short-term ex-vivo assay coupled to single-cell RNA sequencing, we demonstrate conserved gene expression changes in primary tumor cells, including increased HER2 activity signatures, following vandetanib treatment. Vandetanib sensitivity signatures were generated from cell line and primary human tumor cells which correlate with vandetanib sensitivity in ER+ patient-derived organoid and xenograft models. Future studies should evaluate if signatures predict responses in patients with ER+ breast tumors, and determine the role of co-targeting HER2 signaling with vandetanib therapy.",
-      "journal": "Molecular cancer therapeutics",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "University of North Carolina at Chapel Hill Chapel Hill United States.",
-        "University of North Carolina at Chapel Hill Chapel Hill, NC United States.",
-        "University of North Carolina at Chapel Hill Chapel Hill, North Carolina United States."
-      ],
-      "doi": "10.1158/1535-7163.MCT-26-0063",
-      "date": "2026-07-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42515979/"
     },
     {
       "pmid": "42498177",
@@ -368,6 +371,103 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42495264/"
     },
     {
+      "pmid": "42519900",
+      "title": "The rejectome of acute t-cell mediated rejection in clinical liver transplantation.",
+      "abstract": "Rejection remains a major cause of allograft injury and loss in liver transplantation (LT). Mechanisms mediating clinical liver allograft rejection remain elusive, limiting development of new immunosuppressive drugs and biomarker panels for monitoring rejection for decades. Herein, multi-omic data and systems immunology were combined to define the 'rejectome' of T-cell mediated rejection (TCMR) in 98 pediatric LT recipients. Spatial proteomics of liver biopsies revealed enrichment of HLADRhigh and PD1high T and B-cell subtypes in TCMR. Two peripheral PD1+ T-cell subsets shared expression profiles with T-cells within the alloimmune microenvironment. Plasma proteomics and predictive modeling identified a tissue correlative panel of 11 biomarkers linked to immune function and liver metabolism that differentiates TCMR from no rejection and proteomic profiles in other liver diseases. These data highlight multi-tissue proteomics features of the alloimmune microenvironment during clinical TCMR and suggest that a clinical plasma proteomic 'liquid biopsy' can be developed for management of TCMR in LT.",
+      "journal": "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Division of Abdominal Organ Transplantation, Children's Hospital Los Angeles, Los Angeles, CA, USA.",
+        "Division of Abdominal Organ Transplantation and Hepatobiliary Surgery, Department of Surgery, Keck School of Medicine, University of Southern California, Los Angeles, CA, USA.",
+        "Div. of Gastroenterology, Hepatology and Nutrition, Children's Hospital Los Angeles, Los Angeles, CA.",
+        "Keck School of Medicine of University of Southern California, Los Angeles, California, USA.",
+        "Transplant Institute, Department of Surgery, University of Rochester, Rochester, NY, USA.",
+        "Department of Pathology and Laboratory Medicine, Children's Hospital Los Angeles, Los Angeles, CA.",
+        "Division of Biostatistics, Department of Population and Public health, Keck School of Medicine, University of Southern California, Los Angeles, CA, USA.",
+        "Department of Molecular Microbiology and immunology, Keck School of Medicine, University of Southern California, Los Angeles, CA, USA."
+      ],
+      "doi": "10.1097/LVT.0000000000000968",
+      "date": "2026-07-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42519900/"
+    },
+    {
+      "pmid": "42519345",
+      "title": "Neoadjuvant therapy for hepatocellular carcinoma: emerging combinations and biomarker challenges.",
+      "abstract": "Hepatocellular carcinoma (HCC) remains a leading cause of cancer-related mortality globally, with high recurrence rates limiting the success of curative treatments. Neoadjuvant therapy has recently arisen as a promising strategy to enhance surgical outcomes and survival. This review focuses specifically on neoadjuvant therapy for resectable HCC. We summarize current neoadjuvant approaches in this defined setting, focusing on systemic therapies-including targeted agents, immune checkpoint inhibitors, and their combinations-as well as locoregional modalities such as transarterial chemoembolization (TACE), hepatic arterial infusion chemotherapy (HAIC), ablation, and radiotherapy. Systemic-locoregional combinations have demonstrated improved pathological response rates and event-free survival, with phase 2/3 trials such as CARES-009 providing the highest level of evidence to date. We further summarize progress in biomarkers for predicting treatment efficacy across molecular, cellular, histopathological, and imaging dimensions. Key advances include baseline immune activation signatures, dynamic serum biomarkers such as alpha-fetoprotein (AFP) kinetics and liquid biopsy indicators, and emerging radiomic signatures and spatial multi-omics approaches. We also highlight ongoing clinical trials that are evaluating novel combination regimens and biomarker-driven patient stratification. By identifying critical challenges in standardizing pathological response criteria, optimizing treatment duration and sequencing, and validating multimodal biomarkers, this review emphasizes the pivotal role of neoadjuvant therapy in reshaping curative-intent management for HCC and delineates actionable directions for future research.",
+      "journal": "Frontiers in immunology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Division of Abdominal Tumor Multimodality Treatment, Cancer Center, West China Hospital, Sichuan University, Sichuan, China.",
+        "Department of Radiation Oncology, Zhongshan Hospital, Fudan University, Shanghai, China.",
+        "Department of Radiology, Sichuan Clinical Research Center for Cancer, Sichuan Cancer Hospital & Institute, Sichuan Cancer Center, University of Electronic Science and Technology of China, Chengdu, China."
+      ],
+      "doi": "10.3389/fimmu.2026.1809834",
+      "date": "2026-07-06",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42519345/"
+    },
+    {
+      "pmid": "42519020",
+      "title": "Extracellular vesicles isolated from frozen whole blood show biomarker potential in small intestine neuroendocrine neoplasms.",
+      "abstract": "Despite widespread storage of frozen whole blood (FWB) in biobanks worldwide, its suitability for extracellular vesicle (EV) research remains largely unassessed. Here, we developed a robust and practical workflow for EV-based cancer biomarker analysis from FWB by comparing differential ultracentrifugation (dUC), size-exclusion chromatography, and their combination. All methods successfully recovered vesicles within the expected 50-150 nm range, enriched for canonical EV markers, while reducing blood-derived EV contaminants, and displayed vesicle-like morphology. Among tested methods, dUC emerged as the most cost-effective and labor-efficient approach. Applying this pipeline to biobanked FWB samples from patients with small intestinal neuroendocrine neoplasms yielded an average of ∼1,000 proteins detected per sample using mass spectrometry-based proteomics, including known neuroendocrine markers and enrichment in synapse organization signaling pathways. These findings demonstrate the feasibility of EV isolation from FWB and biomarker-relevant downstream analysis, highlighting the untapped potential of EV-based biomarker discovery across diseases from existing biobanks.",
+      "journal": "iScience",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden.",
+        "Department of Medicine (Solna), Karolinska Institutet, Stockholm, Sweden.",
+        "Crown Princess Victoria Children's Hospital, Region Östergötland, Linköping, Sweden.",
+        "Clinical Department of Surgery in Linköping, Region Östergötland, Linköping, Sweden.",
+        "Children's Cancer and Blood Foundation Laboratories, Departments of Pediatrics, and Cell and Developmental Biology, Drukier Institute for Children's Health, Meyer Cancer Center, Weill Cornell Medicine, New York, NY 10021, USA.",
+        "Science for Life Laboratory (SciLifeLab), Linköping University, Linköping, Sweden."
+      ],
+      "doi": "10.1016/j.isci.2026.116723",
+      "date": "2026-07-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42519020/"
+    },
+    {
+      "pmid": "42518683",
+      "title": "Extracellular Vesicles in Gestational Diabetes Mellitus: Pathogenesis, Diagnosis, and Therapy.",
+      "abstract": "Gestational diabetes mellitus (GDM) is the most common metabolic complication of pregnancy, with a continuously rising global prevalence. However, current diagnostic and therapeutic strategies are limited by delayed detection and insufficient targeting. Extracellular vesicles (EVs), as nanoscale messengers that mediate intercellular communication, have recently been implicated in GDM pathogenesis and exhibit dual potential as liquid biopsy biomarkers and drug delivery vehicles. This review systematically integrates research findings on EVs in GDM, constructs an EV-mediated multi-organ crosstalk network framework, and comparatively evaluates the diagnostic and therapeutic potential of EVs derived from the placenta, adipose tissue, blood, breast milk, and urine. And further discussed current challenges and future directions for clinical translation of EV-based strategies. It provides an integrative perspective on the pathogenesis, precision diagnosis, and treatment of GDM and offers critical guidance for advancing the clinical translation of EV-based strategies.",
+      "journal": "International journal of nanomedicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Pharmaceutics, College of Medicine, Jiaxing University, Jiaxing, People's Republic of China.",
+        "Department of Obstetrics, Jiaxing Maternity and Child Health Care Hospital, Affiliated Women and Children Hospital, Jiaxing University, Jiaxing, People's Republic of China.",
+        "Department of Clinical Laboratory, Jiaxing Maternity and Child Health Care Hospital, Affiliated Women and Children Hospital, Jiaxing University, Jiaxing, People's Republic of China.",
+        "Department of Central Laboratory, Jiaxing Maternity and Child Health Care Hospital, Affiliated Women and Children Hospital, Jiaxing University, Jiaxing, People's Republic of China."
+      ],
+      "doi": "10.2147/IJN.S615762",
+      "date": "2026-07-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42518683/"
+    },
+    {
+      "pmid": "42518680",
+      "title": "EV-Mediated Oncogenic Regulation in Lung Cancer and Clinical Translation: From Liquid Biopsy to Targeted Delivery Systems.",
+      "abstract": "Lung cancer (LC) remains the leading cause of cancer-associated mortality globally. Delayed diagnosis, therapeutic resistance and high postoperative recurrence are major hurdles that compromise its clinical outcomes. Extracellular vesicles (EVs) are cell-secreted nanoscale lipid vesicles that mediate intercellular crosstalk via the transfer of bioactive cargo, such as nucleic acids and proteins. In the lung cancer microenvironment, EVs remodel core signaling axes including PI3K/AKT and NF-κB, consequently driving hallmark malignant phenotypes: angiogenesis, distant metastasis, immune evasion and multidrug resistance. Boasting robust physicochemical stability, complete molecular cargo signatures and minimally invasive sampling feasibility, EVs represent ideal tumor biomarkers for liquid biopsy. Additionally, their intrinsic low immunogenicity renders EVs versatile nanovehicles capable of amplifying anti-tumor effects elicited by conventional radiotherapy, chemotherapy and immunotherapy. However, substantial inherent heterogeneity, a lack of unified standards for EVs isolation and characterization, obstacles to scalable production and inadequate tumor-targeting efficiency collectively impede their clinical translation. This review systematically dissects the molecular mechanisms through which EVs orchestrate lung cancer malignant progression, comprehensively outlines state-of-the-art progress of EVs applications in liquid biopsy-based early screening, prognostic stratification, targeted drug delivery and cellular immunotherapy, thoroughly discusses prevailing translational bottlenecks, and envisions future directions of EVs in precision oncology for lung cancer. The work offers theoretical guidance for developing next-generation EV-centric diagnostic and therapeutic platforms.",
+      "journal": "International journal of nanomedicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Medical Center of Hematology, Xinqiao Hospital, Army Medical University, Chongqing, 400037, People's Republic of China.",
+        "Chongqing Key Laboratory of Hematology and Microenvironment, Army Medical University, Chongqing, 400037, People's Republic of China.",
+        "State Key Laboratory of Trauma and Chemical Poisoning, Army Medical University, Chongqing, 400037, People's Republic of China."
+      ],
+      "doi": "10.2147/IJN.S596841",
+      "date": "2026-07-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42518680/"
+    },
+    {
       "pmid": "42517029",
       "title": "Editorial: Deciphering molecular mechanisms behind tumor heterogeneity features by using nucleic acid-based technologies.",
       "abstract": "",
@@ -385,161 +485,37 @@
       "doi": "10.3389/fgene.2026.1917362",
       "date": "2026-07-14",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42517029/"
-    },
-    {
-      "pmid": "42515723",
-      "title": "Overcoming Resistance to Anti-EGFR Therapies: Mechanisms of Cetuximab and Panitumumab Resistance and Emerging Combination Strategies.",
-      "abstract": "Cetuximab and panitumumab are anti-EGFR monoclonal antibodies widely used for the treatment of colorectal cancers. However, due to various mechanisms of resistance to these targeted therapies, the patients' responses vary. These resistances remain a major obstacle in treatment and overcoming them has become a key emphasis of current therapeutic strategies. Intrinsic and acquired resistance often lead to reactivation of downstream signaling pathways, mainly the RAS-RAF-MEK-ERK (MAPK pathway) and PI3K-AKT axes. Prior existing mutations in KRAS, NRAS, and BRAF result in primary resistance by constantly activating the signals, irrespective of EGFR inhibition. That said, acquired resistance manifests under therapeutic burden through the process of clonal evolution via KRAS and BRAF alterations, restoring MAPK pathway activity despite EGFR inhibition. In addition to those mutations, tumor cells exploit mechanisms independent of EGFR, such as the pathway bypass, which includes amplification of ERBB family receptors like HER2 (ERBB2) and activation of MET signaling. To overcome these resistances, novel strategies have emerged, which target multiple nodes within the oncogenic networks. Such methods include vertical pathway inhibition, multi-kinase inhibition, liquid-biopsy-guided therapy, and anti-EGFR rechallenge. Reactivation driven by secondary mutation can be prevented by targeting multiple nodes within the MAPK cascade simultaneously, which is referred to as the vertical pathway inhibition. Overall, this review underscores that overcoming therapeutic resistance requires a multidimensional approach that integrates molecular profiling, rational combination therapies, and adaptive treatment. Finally, these advances underscore the shift toward precision oncology, where therapy is tailored to tumor evolution, leading to improved response and patient outcome.",
-      "journal": "Pharmaceuticals (Basel, Switzerland)",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Epidemiology and Public Health, Faculty of Medicine, Medical University of Lodz, T. Kosciuszki 4, 90-419 Lodz, Poland.",
-        "Department of Biochemistry and General Chemistry, Faculty of Medicine, University of Rzeszów, 35-310 Rzeszów, Poland.",
-        "Medical Science Club, Faculty of Medicine, University of Rzeszów, 35-310 Rzeszów, Poland.",
-        "Department of Diagnostic Imaging and Nuclear Medicine, Faculty of Medicine, University of Rzeszów, 35-310 Rzeszów, Poland.",
-        "Department of Photomedicine and Physical Chemistry, Faculty of Medicine, University of Rzeszów, 35-959 Rzeszów, Poland."
-      ],
-      "doi": "10.3390/ph19071041",
-      "date": "2026-07-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42515723/"
-    },
-    {
-      "pmid": "42514248",
-      "title": "Proteome of CD9+ Plasma Small Extracellular Vesicles Differentiates Stages of HPV-Associated Cervical Neoplasia from Normal Epithelium to Invasive Cancer.",
-      "abstract": "Human papillomavirus (HPV)-associated cervical lesions remain a significant disease burden and minimally invasive blood-based biomarkers could complement cytology and HPV testing. This study aimed to characterize the proteomic composition of plasma-derived CD9+ small extracellular vesicles (sEVs) across the morphological spectrum of HPV-associated cervical disease, from histologically normal (NILM) through low-grade (LSIL) and high-grade (HSIL) lesions to invasive squamous cell carcinoma (SCC). Plasma samples from 34 women (NILM, LSIL, HSIL, SCC) were pooled per group, and CD9+ sEVs were isolated using an electrochemically controlled immunoaffinity capture method, followed by nanoparticle tracking analysis, transmission electron microscopy, Western blotting, and label-free LC-MS/MS proteomic profiling. The core sEV proteome comprised 258 shared proteins. LSIL showed the most pronounced changes with broad enrichment of complement and coagulation components and acute-phase reactants alongside depletion of immunoglobulin chains and complement C1r-like protein (C1RL). HSIL exhibited few differential proteins, dominated by neutrophil degranulation and retinoid metabolism pathways. SCC demonstrated extensive cargo depletion (22 downregulated proteins) and a nearly sevenfold upregulation of C1RL. Five proteins (including immunoglobulin chains and GPLD1) correlated positively with lesion severity. Pathway analysis consistently implicated platelet activation, lipoprotein remodeling, and insulin-like growth factor signaling. We conclude that plasma CD9+ sEVs carry stage-specific proteomic signatures distinguishing HPV-associated cervical lesions, with C1RL emerging as a candidate biphasic marker warranting further validation.",
-      "journal": "Life (Basel, Switzerland)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "V.I. Kulakov National Medical Research Center for Obstetrics Gynecology and Perinatology, Ministry of Healthcare of Russian Federation, 117997 Moscow, Russia.",
-        "Moscow Center for Advanced Studies, 123592 Moscow, Russia.",
-        "Emanuel Institute of Biochemical Physics, Russian Academy of Sciences, 119334 Moscow, Russia.",
-        "The Center for Bio- and Medical Technologies, 121205 Moscow, Russia.",
-        "A.N. Belozersky Research Institute of Physico-Chemical Biology, Lomonosov Moscow State University, 119234 Moscow, Russia.",
-        "Faculty of Biology, Lomonosov Moscow State University, 119234 Moscow, Russia.",
-        "Institute of Higher Nervous Activity and Neurophysiology, Russian Academy of Sciences, 117485 Moscow, Russia.",
-        "Department of Obstetrics, Gynecology, Perinatology and Reproductology, Institute of Professional Education, Federal State Autonomous Educational Institution of Higher Education I.M. Sechenov First Moscow State Medical University of the Ministry of Health of the Russian Federation, 119991 Moscow, Russia."
-      ],
-      "doi": "10.3390/life16071181",
-      "date": "2026-07-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42514248/"
-    },
-    {
-      "pmid": "42514200",
-      "title": "Diagnostic and Prognostic Roles of Blood-Based Immune Biomarkers in Non-Small Cell Lung Cancer: An Umbrella Review of Systematic Reviews and Meta-Analyses.",
-      "abstract": "Blood-based biomarkers have emerged as promising, minimally invasive tools for the diagnosis, prognostic stratification, and treatment monitoring of non-small cell lung cancer (NSCLC), including markers of tumor burden, tumor dissemination, immune signaling, and post-transcriptional regulation. However, evidence across biomarker classes remains fragmented. This study aimed to synthesize published evidence on major blood-based biomarkers relevant to diagnosis, prognosis, treatment stratification, and monitoring in NSCLC. PubMed was searched for systematic reviews and meta-analyses of blood-based biomarkers in NSCLC. Of 356 screened records, 82 underwent full-text review, and 57 systematic reviews/meta-analyses were included. Biomarkers were grouped into four categories: circulating tumor DNA (ctDNA), circulating tumor cells (CTCs), cytokines/soluble immune proteins, and non-coding RNAs (ncRNAs). Reported pooled effect estimates were extracted by biomarker class and evidence domain, and the methodological quality of included reviews was assessed using AMSTAR 2. Evidence was unevenly distributed across biomarker classes and evidence domains. Circulating ncRNAs were mainly represented in diagnostic and prognostic evidence; selected diagnostic ncRNAs, including miR-145, miR-25, and circRNAs, showed reported AUCs ranging from 0.83 to 0.85. ctDNA was represented across diagnostic, prognostic, treatment-stratification, and dynamic monitoring evidence, with ctDNA positivity associated with poorer survival or recurrence outcomes and ctDNA clearance or decline associated with improved outcomes. CTC evidence was primarily prognostic, with CTC positivity associated with worse overall survival and disease-free survival. Soluble immune biomarker evidence was also primarily prognostic, with elevated soluble PD-L1 and IL-6 associated with adverse survival outcomes and limited exploratory monitoring evidence for exosomal PD-L1. Overall, the evidence suggested distinct but complementary roles across biomarker classes, although direct head-to-head comparisons were lacking. Blood-based biomarkers show potential to support diagnosis, prognosis, and longitudinal monitoring in NSCLC, but their reported utility differs by biomarker class and clinical context. In the available review-level evidence, ncRNAs were mainly represented in diagnostic and prognostic evidence, while ctDNA was represented across diagnostic, prognostic, treatment-stratification, and dynamic monitoring evidence. CTCs were mainly represented in prognostic evidence, and soluble immune biomarkers were primarily represented in prognostic evidence, with limited exploratory evidence for dynamic monitoring. Further assay standardization, prospective validation, and direct comparative studies are needed before these biomarkers can be routinely integrated into clinical practice.",
-      "journal": "Life (Basel, Switzerland)",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Division of Natural and Applied Science, Duke Kunshan University, Suzhou 215316, China."
-      ],
-      "doi": "10.3390/life16071130",
-      "date": "2026-07-07",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42514200/"
-    },
-    {
-      "pmid": "42514149",
-      "title": "Exploring the Predictive Value of Circulating Cell-Free DNA Within a Multiparameter Panel for Hepatocellular Carcinoma Detection.",
-      "abstract": "Hepatocellular carcinoma (HCC) is one of the most common and deadliest cancers worldwide. Alpha-fetoprotein (AFP), a widely used and accessible tumoral marker, has limited performance in the early detection of HCC among high-risk populations. This study aims to evaluate the potential added value of ccfDNA (circulating cell-free DNA) fragment size, alone or in a multiparameter panel, using accessible, feasible ccfDNA analysis. A prospective cohort of 125 patients with chronic liver disease was analyzed. Patients with incomplete clinical or laboratory data and patients without cirrhosis were excluded from the final analysis. Nonparametric tests, logistic regression and ROC curve analysis were performed. ccfDNA fragment size was measured using on-chip electrophoresis. ccfDNA fragment size was significantly lower in the cirrhosis-HCC subgroup compared to the cirrhosis-only subgroup (p < 0.001). While AFP remains an independent predictor of HCC among cirrhosis patients, ccfDNA fragment size did not prove to be an independent predictor in this cohort. AUROC (area under the receiver operating characteristic curve) analysis revealed that a combined model of AFP, age, liver reserve, and ccfDNA fragment size did not perform better than the corresponding panel without ccfDNA. Moreover, after DeLong comparison, the difference between the two AUROCs proved statistically insignificant. Age and platelet count remain the strongest independent predictors in our exploratory cohort. Although ccfDNA fragment size proved to be lower in the HCC subgroup, its statistical significance fades when included into a multimarker panel. However, all panels should undergo further validation in a larger cohort, in order to better assess the individual contribution of each parameter and to discriminate between added diagnostic value and confounding effect of age and liver reserve parameters.",
-      "journal": "Life (Basel, Switzerland)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Carol Davila University of Medicine and Pharmacy, 020956 Bucharest, Romania.",
-        "Center of Excellence in Translational Medicine, Fundeni Clinical Institute, 022328 Bucharest, Romania.",
-        "Center for Digestive Diseases and Liver Transplant, Fundeni Clinical Institute, 022328 Bucharest, Romania."
-      ],
-      "doi": "10.3390/life16071079",
-      "date": "2026-06-27",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42514149/"
-    },
-    {
-      "pmid": "42513625",
-      "title": "Current Clinical Perspectives of Biomarkers in Respiratory Diseases: A Narrative Review.",
-      "abstract": "Respiratory medicine is transitioning from symptom-driven, standardized care to a more precise, patient-specific approach guided by molecular profiling. This evolution is being enabled by advances in liquid biopsy, multiomics, and artificial intelligence (AI) analytics. Fractional exhaled nitric oxide (FeNO) and blood eosinophils, the two commonly used markers in asthma, are now being joined by more precise airway markers such as galectin-10, which could aid clinicians in making more informed decisions for biological treatments. In chronic obstructive pulmonary disease (COPD) similar progress is underway, with treatment now emphasizing inflammation endotypes, especially eosinophilic patterns, to direct therapeutic choices. Alongside these developments, routine blood-based ratios (e.g., platelet-to-lymphocyte and neutrophil-to-lymphocyte) are being explored as predictors of exacerbation risk, and forced oscillation testing (FOT) is proving useful for picking up early disease shifts. In more severe conditions, biomarkers are linked to an early and better prognosis, enabling timely intervention. Markers like Matrix metalloproteinase-7 (MMP-7) and CC chemokine ligand 18 (CCL18) have proven to be reliable indicators of mortality and disease progression in idiopathic pulmonary fibrosis. Meanwhile, in lung cancer, liquid biopsies, especially those measuring circulating tumor DNA and micro-RNA (miRNA) panels, are enhancing screening accuracy while helping to cut down on the high false-positive rates seen with low-dose computerised tomography (CT). Other respiratory conditions such as bronchiectasis, pulmonary embolism, pneumonia, and acute respiratory distress syndrome (ARDS) are also benefiting from biomarker advances. At the same time there is a growing push to standardize how these biomarkers are measured. AI-based clinical decision support systems are also playing an increasingly important role in the translation of all these complicated data into actionable clinical insights. Together these developments pave the way for improved respiratory care that is precise and responsive to individual patient needs.",
-      "journal": "Journal of clinical medicine",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Respiratory Care, College of Applied Medical Sciences in Jubail, Imam Abdulrahman Bin Faisal University, Al Jubail 35816, Saudi Arabia.",
-        "Department of Respiratory Care, Imam Abdulrahman Bin Faisal University, Dammam 34212, Saudi Arabia.",
-        "Department of Family and Community Medicine, College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam 34212, Saudi Arabia.",
-        "Fundamentals of Nursing Department, College of Nursing, Imam Abdulrahman Bin Faisal University, Dammam 34212, Saudi Arabia."
-      ],
-      "doi": "10.3390/jcm15145708",
-      "date": "2026-07-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42513625/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42515979",
-      "date": "2026-07-28",
-      "title": "Kinase Plasticity with Vandetanib Treatment Enhances Sensitivity to Tamoxifen in Estrogen Receptor Positive Breast Cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "id": "pubmed-42519900",
+      "date": "2026-07-27",
+      "title": "The rejectome of acute t-cell mediated rejection in clinical liver transplantation.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42515979/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42519900/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
+        "Diagnostics",
+        "Precision Medicine",
         "Multi-omics"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
+        "诊断",
+        "精准医疗",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular cancer therapeutics，PMID 为 42515979。",
-      "report": "Resistance to endocrine therapy (ET) is common in estrogen receptor-positive (ER+) breast cancer. Multiple studies have demonstrated that upregulation of MAPK signaling pathways contributes to ET resistance. Herein we show that vandetanib treatment suppresses...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42516310",
-      "date": "2026-07-26",
-      "title": "Novel ALG13 Variants and an Expanded Neurodevelopmental Spectrum: Genotype-Phenotype Correlations.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42516310/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Human mutation，PMID 为 42516310。",
-      "report": "The ALG13 gene is implicated in congenital disorders of glycosylation (CDG) and developmental and epileptic encephalopathy (DEE), yet genotype-phenotype correlations remain incompletely understood. Whole-exome sequencing (WES) was performed in unrelated famili...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society，PMID 为 42519900。",
+      "report": "Rejection remains a major cause of allograft injury and loss in liver transplantation (LT). Mechanisms mediating clinical liver allograft rejection remain elusive, limiting development of new immunosuppressive drugs and biomarker panels for monitoring rejectio...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -745,42 +721,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42513625",
-      "date": "2026-07-21",
-      "title": "Current Clinical Perspectives of Biomarkers in Respiratory Diseases: A Narrative Review.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42513625/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Healthcare AI",
-        "Medical LLM",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "医疗 AI",
-        "临床决策支持",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of clinical medicine，PMID 为 42513625。",
-      "report": "Respiratory medicine is transitioning from symptom-driven, standardized care to a more precise, patient-specific approach guided by molecular profiling. This evolution is being enabled by advances in liquid biopsy, multiomics, and artificial intelligence (AI)...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42516584",
       "date": "2026-07-20",
       "title": "Histological Processing of Organoids for Immunostaining.",
@@ -846,16 +786,76 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42514248",
+      "id": "pubmed-42518683",
       "date": "2026-07-16",
-      "title": "Proteome of CD9+ Plasma Small Extracellular Vesicles Differentiates Stages of HPV-Associated Cervical Neoplasia from Normal Epithelium to Invasive Cancer.",
+      "title": "Extracellular Vesicles in Gestational Diabetes Mellitus: Pathogenesis, Diagnosis, and Therapy.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42518683/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of nanomedicine，PMID 为 42518683。",
+      "report": "Gestational diabetes mellitus (GDM) is the most common metabolic complication of pregnancy, with a continuously rising global prevalence. However, current diagnostic and therapeutic strategies are limited by delayed detection and insufficient targeting. Extrac...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42518680",
+      "date": "2026-07-16",
+      "title": "EV-Mediated Oncogenic Regulation in Lung Cancer and Clinical Translation: From Liquid Biopsy to Targeted Delivery Systems.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42518680/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of nanomedicine，PMID 为 42518680。",
+      "report": "Lung cancer (LC) remains the leading cause of cancer-associated mortality globally. Delayed diagnosis, therapeutic resistance and high postoperative recurrence are major hurdles that compromise its clinical outcomes. Extracellular vesicles (EVs) are cell-secre...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42519020",
+      "date": "2026-07-14",
+      "title": "Extracellular vesicles isolated from frozen whole blood show biomarker potential in small intestine neuroendocrine neoplasms.",
       "entity": "Biotech Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "General Biotech Research",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42514248/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42519020/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -868,8 +868,8 @@
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Life (Basel, Switzerland)，PMID 为 42514248。",
-      "report": "Human papillomavirus (HPV)-associated cervical lesions remain a significant disease burden and minimally invasive blood-based biomarkers could complement cytology and HPV testing. This study aimed to characterize the proteomic composition of plasma-derived CD9...",
+      "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42519020。",
+      "report": "Despite widespread storage of frozen whole blood (FWB) in biobanks worldwide, its suitability for extracellular vesicle (EV) research remains largely unassessed. Here, we developed a robust and practical workflow for EV-based cancer biomarker analysis from FWB...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -899,36 +899,6 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in genetics，PMID 为 42517029。",
       "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42516424",
-      "date": "2026-07-13",
-      "title": "Microbioreactor design for eukaryotic cell-based biomedical applications.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42516424/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42516424。",
-      "report": "The eukaryotic cell-based biomedicine landscape is undergoing a paradigm shift, driven by the transition from static culture to highly controlled microbioreactor environments. This mini-review assembles high-value applications, including autologous cell therap...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -992,33 +962,69 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42514200",
-      "date": "2026-07-07",
-      "title": "Diagnostic and Prognostic Roles of Blood-Based Immune Biomarkers in Non-Small Cell Lung Cancer: An Umbrella Review of Systematic Reviews and Meta-Analyses.",
-      "entity": "Biotech Research",
+      "id": "pubmed-42519207",
+      "date": "2026-07-06",
+      "title": "From spatial patterning to coordinated execution: a cross-system framework for autism spectrum disorder.",
+      "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
+      "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42514200/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42519207/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Biotech",
-        "Precision Oncology",
-        "Drug Screening"
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
       ],
       "tags": [
-        "biotech",
-        "肿瘤",
-        "药筛"
+        "类器官",
+        "疾病模型",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Life (Basel, Switzerland)，PMID 为 42514200。",
-      "report": "Blood-based biomarkers have emerged as promising, minimally invasive tools for the diagnosis, prognostic stratification, and treatment monitoring of non-small cell lung cancer (NSCLC), including markers of tumor burden, tumor dissemination, immune signaling, a...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in psychiatry，PMID 为 42519207。",
+      "report": "Autism spectrum disorder (ASD) is characterized by differences in social communication and restricted or repetitive behaviors, yet converging evidence also points to altered neural timing, synchronization, and large-scale coordination despite largely preserved...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42519345",
+      "date": "2026-07-06",
+      "title": "Neoadjuvant therapy for hepatocellular carcinoma: emerging combinations and biomarker challenges.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Clinical Study",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42519345/",
+      "reliability": "High",
+      "evidenceLevel": "High",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42519345。",
+      "report": "Hepatocellular carcinoma (HCC) remains a leading cause of cancer-related mortality globally, with high recurrence rates limiting the success of curative treatments. Neoadjuvant therapy has recently arisen as a promising strategy to enhance surgical outcomes an...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1052,59 +1058,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42515723",
-      "date": "2026-07-03",
-      "title": "Overcoming Resistance to Anti-EGFR Therapies: Mechanisms of Cetuximab and Panitumumab Resistance and Emerging Combination Strategies.",
-      "entity": "Biotech Research",
+      "id": "pubmed-42519548",
+      "date": "2026-06-22",
+      "title": "Three Dimensional Biomimetic Liver Models to Reconstitute Metabolic Dysfunction-Associated Steatohepatitis (MASH) In Vitro: Hope and Reality.",
+      "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
+      "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42515723/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42519548/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Biotech",
-        "Precision Oncology"
+        "Organoids",
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery"
       ],
       "tags": [
-        "biotech",
-        "肿瘤"
+        "类器官",
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Pharmaceuticals (Basel, Switzerland)，PMID 为 42515723。",
-      "report": "Cetuximab and panitumumab are anti-EGFR monoclonal antibodies widely used for the treatment of colorectal cancers. However, due to various mechanisms of resistance to these targeted therapies, the patients' responses vary. These resistances remain a major obst...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42514149",
-      "date": "2026-06-27",
-      "title": "Exploring the Predictive Value of Circulating Cell-Free DNA Within a Multiparameter Panel for Hepatocellular Carcinoma Detection.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42514149/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Life (Basel, Switzerland)，PMID 为 42514149。",
-      "report": "Hepatocellular carcinoma (HCC) is one of the most common and deadliest cancers worldwide. Alpha-fetoprotein (AFP), a widely used and accessible tumoral marker, has limited performance in the early detection of HCC among high-risk populations. This study aims t...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Journal of clinical and experimental hepatology，PMID 为 42519548。",
+      "report": "This review article provides an in-depth exploration of recent advancements in in vitro liver models for studying metabolic dysfunction-associated steatohepatitis (MASH), a progressive liver disease linked to metabolic disorders. The article highlights the sig...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1196,6 +1179,40 @@
       "fact": "PubMed 记录显示该文献收录于 Human molecular genetics，PMID 为 42447329。",
       "report": "Epigenetic inheritance links fetal chromatin organization and CpG methylation to lifelong tissue phenotypes. We tested the Fetal Chromatin-CpG Developmental Blueprint (FCCD-B) model, proposing that fetal chromatin states shaped by maternal nutrient and transcr...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42519667",
+      "date": "2026-05-28",
+      "title": "A chemo-free thermo-sensitive necroptosis-inducing perfusate to enable potent hyperthermic intraperitoneal immunotherapy.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42519667/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 National science review，PMID 为 42519667。",
+      "report": "Hyperthermic intraperitoneal chemotherapy (HIPEC) is widely performed for treating peritoneal malignancies, yet its clinical application remains limited by insufficient efficacies and risks in chemotherapy-associated side effects. This study demonstrates that...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
