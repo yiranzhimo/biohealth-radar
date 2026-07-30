@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-30T03:33:20.044588+00:00",
+  "capturedAt": "2026-07-30T09:05:48.588316+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,24 +14,24 @@
     "end": "2026-07-30"
   },
   "pmids": [
-    "42525890",
-    "42525775",
-    "42525468",
-    "42525161",
-    "42524630",
-    "42524535",
+    "42527678",
+    "42527199",
+    "42527030",
+    "42526765",
+    "42526715",
+    "42526442",
     "42498177",
     "42497867",
     "42486102",
     "42482180",
     "42476548",
     "42447329",
+    "42527603",
+    "42526208",
     "42525178",
     "42523295",
     "42522615",
     "42516427",
-    "42511472",
-    "42503659",
     "42525892",
     "42525763",
     "42524710",
@@ -41,113 +41,133 @@
   ],
   "records": [
     {
-      "pmid": "42525890",
-      "title": "Integrated Radioproteomic Modeling for Early Recurrence Prediction and Metabolic Characterization in Hepatocellular Carcinoma.",
-      "abstract": "Hepatocellular carcinoma (HCC) is a leading cause of cancer-related mortality, with high recurrence rates after surgical resection posing a significant challenge. While deep learning (DL) approaches show promise in predicting HCC recurrence, their clinical translation is limited by poor interpretability and unclear mechanisms. Our study aimed to develop an interpretable DL framework that predicts recurrence while elucidating underlying biology through integration of radiologic imaging and multiomics profiling. We developed a DL framework to predict early postoperative HCC recurrence using preoperative multiphase computed tomography imaging and generate an imaging-based early recurrence risk score (ERRS) for risk stratification. To decipher the biological basis of ERRS, we integrated DL features with proteomic data to identify key metabolic alterations, which were validated by metabolomics, immunohistochemistry, and enzymatic assays. Patient-derived organoids (PDOs) were used to assess the therapeutic potential of targeting these alterations. The Multi-model_NC&ART&PV DL model showed improved performance compared with conventional single-phase models in predicting early postoperative recurrence, with high-ERRS patients exhibiting worse survival and more aggressive features. Mechanistically, radioproteomic analyses linked model predictions to dysregulated pyruvate metabolism, characterized by reduced pyruvate dehydrogenase complex expression/activity and elevated lactate dehydrogenase (LDH) activity. PDOs from patients with HCC were sensitive to LDH inhibitor stiripentol, with high-ERRS tumors showing greater therapeutic vulnerability than low-ERRS tumors. This study bridges artificial intelligence-driven imaging and mechanism-guided therapy by developing a biologically interpretable DL model for HCC recurrence prediction. Radioproteomic integration identified dysregulated pyruvate metabolism as a hallmark of high-risk HCC, enabling the repurposing of stiripentol as a potential therapy. This framework suggests a potential strategy linking noninvasive risk stratification with pathway-guided treatment although further validation and prospective studies are needed to establish its clinical utility.",
-      "journal": "JCO precision oncology",
+      "pmid": "42527678",
+      "title": "Bioengineering strategies to interrogate and modulate the aging immune system.",
+      "abstract": "Age-related changes in the immune system result in pronounced vulnerability to acute infections and cancers, and in dysregulated inflammation and wound healing that fuel many chronic diseases. Although we understand much about some of these changes, gaps in mechanistic knowledge remain, in part hindered by a lack of well-validated in vitro models of immune aging. We propose that multidisciplinary approaches, nucleated at the interface of immunology, gerontology and engineering, have the potential to both bring substantial new knowledge, and to usher a new era of precision diagnostics and therapeutics to reprogram and rejuvenate immunity, potentially improving the length and quality of life in older adults. We outline areas to be addressed by this multidisciplinary approach, focusing on the initiation of immune responses. We discuss the potential for new approaches in drug delivery, extracellular matrix and related biomaterials, and in microphysiological and organoid systems, to advance the science of immune aging.",
+      "journal": "Nature aging",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "affiliations": [
-        "The United Innovation of Mengchao Hepatobiliary Technology Key Laboratory of Fujian Province, Mengchao Hepatobiliary Hospital of Fujian Medical University, Fuzhou, China.",
-        "Mengchao Med-X Center, Fuzhou University, Fuzhou, China.",
-        "Department of Hepatobiliary Surgery, The First Affiliated Hospital of Fujian Medical University, Fuzhou, China.",
-        "College of Electrical Engineering and Automation, Fuzhou University, Fuzhou, China."
+        "Department of Basic Medical Sciences, College of Medicine-Phoenix, University of Arizona, Phoenix, AZ, USA. nikolich@arizona.edu.",
+        "Aegis Center of Excellence in Immunity and Inflammation, College of Medicine-Phoenix, University of Arizona, Phoenix, AZ, USA. nikolich@arizona.edu.",
+        "Cancer Biomaterials Engineering Section, Cancer Innovation Laboratory, Center for Cancer Research, National Cancer Institute, Frederick, MD, USA.",
+        "Department of Chemistry and Biomedical Engineering, University of Virginia, Charlottesville, VA, USA.",
+        "Fischell Department of Bioengineering, Clark School of Engineering, University of Maryland, College Park, MD, USA. maiselka@umd.edu.",
+        "R.E. Fischell Institute of Biomedical Devices, Clark School of Engineering, University of Maryland, College Park, MD, USA. maiselka@umd.edu."
       ],
-      "doi": "10.1200/PO-25-00745",
+      "doi": "10.1038/s43587-026-01187-y",
       "date": "2026-07-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42525890/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527678/"
     },
     {
-      "pmid": "42525775",
-      "title": "CD36 is a receptor for human sapovirus.",
-      "abstract": "Human sapovirus (HuSaV) is a major cause of gastroenteritis but has long lacked a defined receptor. Here, we identify the scavenger receptor CD36 as essential for infection. Comparative transcriptomics identified CD36 as the key susceptibility factor. CRISPR knockout abolished replication, while ectopic expression restored permissiveness across diverse cells. Binding assays showed nanomolar affinity between CD36 and HuSaV particles. Infection also required the bile acid glycocholic acid, which promoted CD36 internalization and viral entry. In human intestinal organoids, CD36 knockout abrogated infection, confirming physiological relevance. Our findings establish CD36 as the long-sought HuSaV receptor, uncover a bile acid-assisted entry mechanism that confines infection to the intestine and point to opportunities for antiviral and vaccine development.",
-      "journal": "Science advances",
+      "pmid": "42527199",
+      "title": "Prenatal organoids for personalised medicine.",
+      "abstract": "Organoids are three-dimensional structures derived from a single stem cell. They self-organize in vitro and mature to recreate microarchitecture and characteristics of their tissues of origin. Since the first culture of mouse intestinal epithelial organoids and the translation to human, this technology has shown vast potential. Applications include developmental biology, disease modelling, drug testing and regenerative medicine making it increasingly relevant to clinical practice. Organoids can now be generated from tissues such as lung, intestine, kidney and brain using adult and fetal stem cells, pluripotent stem cells and cancer samples. Whether to study fetal development, disease physiopathology, regenerative medicine or to develop new therapies in a faster, more ethical and cost-effective way than animal models, organoids represent a powerful new tool. First described in 1999, personalised medicine aims to fine-tune diagnostic, prognosis and treatment to each patient. Nowadays, personalised medicine is spreading to most areas of clinical management, becoming the gold standard for the adoption of new interventions. More recently, these concepts have been applied to fetal medicine for prevention and therapy with initial reports appearing in literature in 2020. By recapitulating patient-specific disease mechanisms, prenatal organoids represent a unique bridge between in vitro-based approaches and personalised fetal medicine. This review presents fetal diseases for which organoids were explored, focusing on the implications of their derivation from prenatal sources such as the amniotic fluid, and discusses their advantages, challenges, and perspectives for prenatal counselling, prognosis or diagnosis, regenerative therapy, in utero surgery, disease modelling and prenatal drug testing.",
+      "journal": "Seminars in pediatric surgery",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Infection Control and Immunology, Ōmura Satoshi Memorial Institute & Graduate School of Infection Control Sciences, Kitasato University, Tokyo, Japan.",
-        "Department of Pediatrics, Sapporo Medical University School of Medicine, Sapporo, Japan."
+        "Stem Cells and Regenerative Medicine Section, Great Ormond Street Institute of Child Health, University College London, London, UK; Department of Development and Regeneration, Woman and Child and UZ Leuven Clinical Department of Obstetrics and Gynaecology, KU Leuven, Leuven, Belgium; Assistance Publique - Hôpitaux de Paris, Paris, France.",
+        "Stem Cells and Regenerative Medicine Section, Great Ormond Street Institute of Child Health, University College London, London, UK; Department of Paediatric Surgery, \"V. Buzzi\" Children's Hospital, Milan, Italy.",
+        "Stem Cells and Regenerative Medicine Section, Great Ormond Street Institute of Child Health, University College London, London, UK; Fetal and Neonatal Surgery Unit, Ospedale Pediatrico Bambino Gesù, Rome, Italy.",
+        "Stem Cells and Regenerative Medicine Section, Great Ormond Street Institute of Child Health, University College London, London, UK; Fetal and Neonatal Surgery Unit, Ospedale Pediatrico Bambino Gesù, Rome, Italy; Specialist Neonatal and Paediatric Surgery, Great Ormond Street Hospital for Children NHS Foundation Trust, London, UK.",
+        "Stem Cells and Regenerative Medicine Section, Great Ormond Street Institute of Child Health, University College London, London, UK; Division of Surgery and Interventional Science, University College London, London, UK. Electronic address: m.gerli@ucl.ac.uk."
       ],
-      "doi": "10.1126/sciadv.aed1300",
+      "doi": "10.1016/j.sempedsurg.2026.151676",
+      "date": "2026-07-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527199/"
+    },
+    {
+      "pmid": "42527030",
+      "title": "IL-27 shapes NK cell heterogeneity and function in colorectal cancer.",
+      "abstract": "Colorectal cancer (CRC) is a leading cause of cancer-related mortality worldwide and is characterized by an immunosuppressive tumor microenvironment (TME). While adaptive immunity contributes to tumor control, growing evidence underscores the role of innate lymphocytes, particularly natural killer (NK) cells, in early antitumor surveillance. However, tumor-infiltrating NK cells often exhibit defective maturation and impaired effector functions, whereas the signals regulating NK cell differentiation and activity in CRC remain poorly defined. Interleukin-27 (IL-27) has emerged as a regulator of antitumor immunity, yet its role in modulating NK cell responses in intestinal tumors is largely unexplored. We employed an orthotopic transplantation model of genetically engineered colorectal tumor organoids Apc-/-KrasG12D/+Trp53R172H/-Smad4-/- (AKPS) to investigate NK cell heterogeneity, maturation, and function during CRC progression. Tumor-infiltrating innate lymphocytes were analyzed using single-cell RNA sequencing, flow cytometry, immunofluorescence, and functional assays. In vitro co-culture systems and in vivo IL-27 blockade were used to assess the impact of tumor-derived IL-27 on NK cell transcriptional programs and effector activity. Single-cell transcriptomic profiling revealed marked heterogeneity among tumor-infiltrating NK cells, identifying subsets with different maturation states and functional capacities. Among innate lymphocytes, AKPS tumors were dominated by NK cells displaying reduced activating receptors and diminished cytotoxic and cytokine-producing potential. Phenotypic and adoptive transfer analyses demonstrated that the TME favors persistence of immature CD27+ NK cell subsets while limiting differentiated NK cells. Mechanistically, tumor-derived IL-27 emerged as a critical regulator sustaining NK cell infiltration and activation; IL-27 blockade reduced NK cell accumulation, interferon-γ production, and immature subset frequency. The clinical relevance of these findings was supported by analysis of human CRC single-cell datasets, which revealed elevated IL-27 signaling in intratumoral NK cells, as well as by the ability of patient-derived organoids to enhance NK-cell cytotoxicity, which was reduced by IL-27 blockade. Our study identifies IL-27 as a critical modulator of NK cell differentiation and function in CRC, highlighting its role in sustaining NK cell-mediated immune surveillance within the tumor microenvironment. These findings provide mechanistic insight into NK cell dysfunction in CRC and suggest IL-27 signaling as a promising therapeutic target to restore innate antitumor immunity.",
+      "journal": "Journal for immunotherapy of cancer",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Molecular Medicine, University of Rome \"La Sapienza\", Rome, Italy.",
+        "Bambino Gesù Children's Hospital, Rome, Italy.",
+        "Centre For Life Nano- & Neuro-Science, Istituto Italiano Di Tecnologia, Rome, Italy.",
+        "IRCCS Neuromed; 86077, Pozzilli (IS), Italy.",
+        "Katholieke Universiteit Leuven, Leuven, Belgium.",
+        "Istituto Pasteur Italia -Fondazione Cenci Bolognetti, Rome, Italy.",
+        "Department of Surgery, Umberto I Polyclinic, University of Rome \"La Sapienza\", Rome, Italy.",
+        "Department of Molecular Medicine, University of Rome \"La Sapienza\", Rome, Italy cinzia.fionda@uniroma1.it helena.stabile@uniroma1.it."
+      ],
+      "doi": "10.1136/jitc-2025-014667",
       "date": "2026-07-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42525775/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527030/"
     },
     {
-      "pmid": "42525468",
-      "title": "Targeting Tex10 Overcomes Oxaliplatin Resistance by Competitively Disrupting the Non-Canonical BAF Complex in Colorectal Cancer.",
-      "abstract": "Although a small subset of colorectal cancer (CRC) patients benefit from immunotherapy, oxaliplatin (OXA)-based chemotherapy remains the first-line treatment. However, the widespread development of OXA resistance poses a major clinical challenge, and the underlying molecular mechanisms remain incompletely understood. In this study, we found that Tex10 deficiency markedly enhances OXA sensitivity in CRC cells by inducing cytostatic autophagy in xenograft and patient-derived organoid models. Tex10 -/- mice exhibit markedly reduced tumor numbers and decreased p62 levels in inflammation-induced CRC. Mechanistically, we determined that Tex10 competitively binds BRD9, thereby disrupting the BRD9-BRG1 interaction within the non-canonical BAF (ncBAF) complex, which suppresses AMBRA1 transcription and ULK1 ubiquitination to inhibit autophagy. Furthermore, in silico screening identified gemcitabine (GEM) as a potent Tex10 inhibitor. GEM directly binds to the N268 residue of Tex10, reducing Tex10 abundance and unleashing autophagy. This, in turn facilitates further lysosomal degradation of Tex10, forming a potent positive-feedback loop to overcome OXA resistance. In addition, Tex10 deletion enhances the antitumor efficacy of immunotherapy by inhibiting lysosomal degradation of PD-L1. Collectively, this study uncovers a previously unrecognized antitumor mechanism of GEM and identifies Tex10 as a promising therapeutic target for overcoming OXA resistance and potentiating immunotherapy in CRC.",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "pmid": "42526765",
+      "title": "USP15 mutation associated with autism spectrum disorder alters progenitor fate and neuronal maturation in human brain organoids.",
+      "abstract": "De novo variants in the ubiquitin-proteasome pathway are linked to autism spectrum disorder (ASD), yet their functional impact on neurodevelopment remains poorly understood. We investigated USP15, a deubiquitinating enzyme with rare damaging variants identified in individuals with ASD, using isogenic human iPSC-derived brain organoids and single-cell transcriptomics. USP15-mutant organoids showed genotype-dependent, progenitor-centered alterations during corticogenesis. Heterozygous organoids modeling haploinsufficiency displayed a shift toward later pseudotime states together with altered maturation and synaptic organization of deep-layer neurons. In contrast, homozygous organoids showed broader phenotypes, including mitotic suppression, aberrant HOX gene expression, and stress-response activation. Regulon analysis showed reduced activity of progenitor-associated regulons, including SOX2, NR2F1, and NR2F2, in heterozygous organoids, whereas homozygous organoids exhibited broader changes in transcriptional regulatory networks. Furthermore, USP15 mutant-associated gene expression patterns were significantly enriched for established ASD risk genes. Comparison with the mouse brain perturbation atlas showed that the transcriptional signature of the USP15 mutant showed notable overlap with those of Fezf2 and Foxp1 mutants, key regulators of deep-layer projection neuron identity. These findings characterize genotype-dependent neurodevelopmental phenotypes associated with reduced USP15 dosage and provide a human neural framework for investigating ASD-relevant developmental mechanisms in the context of a rare ubiquitin-pathway variant.",
+      "journal": "Molecules and cells",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Institute of Hepatobiliary-Pancreatic-Intestinal Diseases, Affiliated Hospital of North Sichuan Medical College, North Sichuan Medical College, Nanchong, China.",
-        "Sichuan Clinical Research Center for Digestive Diseases, Affiliated Hospital of North Sichuan Medical College, Nanchong, China.",
-        "Department of Hepatobiliary Surgery, The Fourth People's Hospital of Zigong, Zigong, China.",
-        "Institute of Materia Medica, School of Pharmacy, North Sichuan Medical College, Nanchong, China.",
-        "Institute of Basic Medicine, School of Basic Medical Sciences and Forensic Medicine, North Sichuan Medical College, Nanchong, China."
+        "Department of Anatomy and Cell Biology, Seoul National University College of Medicine, Seoul, Republic of Korea; Department of Translational Medicine, Seoul National University College of Medicine, Seoul, Republic of Korea.",
+        "L-HOPE Program for Community-Based Total Learning Health Systems, Korea University, Seoul, Republic of Korea; Department of Integrated Biomedical and Life Science, Korea University, Seoul, Republic of Korea; National Research Laboratory for Convergence Degradation Biology, Korea University, Seoul, Republic of Korea.",
+        "Department of Life Science, Ewha Womans University, Seoul, Republic of Korea.",
+        "School of Biosystem and Biomedical Science, College of Health Science, Korea University, Seoul, Republic of Korea.",
+        "Department of Anatomy and Cell Biology, Seoul National University College of Medicine, Seoul, Republic of Korea; Department of Biochemistry & Molecular Biology, Faculty of Medicine, University of British Columbia, Vancouver, BC V6T 1Z4, Canada; Terry Fox Laboratory, British Columbia Cancer Research Institute, Vancouver, BC V5Z 1L3, Canada.",
+        "Department of Anatomy and Cell Biology, Seoul National University College of Medicine, Seoul, Republic of Korea.",
+        "Department of Psychiatry, Seoul National University Bundang Hospital, Seongnam, Republic of Korea; Department of Psychiatry, Seoul National University College of Medicine, Seoul, Republic of Korea.",
+        "Department of Psychiatry, Seoul National University Bundang Hospital, Seongnam, Republic of Korea.",
+        "Department of Life Science, Ewha Womans University, Seoul, Republic of Korea. Electronic address: jkim1964@ewha.ac.kr.",
+        "L-HOPE Program for Community-Based Total Learning Health Systems, Korea University, Seoul, Republic of Korea; Department of Integrated Biomedical and Life Science, Korea University, Seoul, Republic of Korea; National Research Laboratory for Convergence Degradation Biology, Korea University, Seoul, Republic of Korea; School of Biosystem and Biomedical Science, College of Health Science, Korea University, Seoul, Republic of Korea. Electronic address: joonan30@korea.ac.kr.",
+        "Department of Anatomy and Cell Biology, Seoul National University College of Medicine, Seoul, Republic of Korea; Department of Translational Medicine, Seoul National University College of Medicine, Seoul, Republic of Korea; Division of Pediatric Neurosurgery, Seoul National University Children's Hospital, Seoul, Republic of Korea. Electronic address: ddang1@snu.ac.kr."
       ],
-      "doi": "10.1002/advs.76895",
+      "doi": "10.1016/j.mocell.2026.100387",
       "date": "2026-07-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42525468/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526765/"
     },
     {
-      "pmid": "42525161",
-      "title": "Three-dimensional organoid culture enhances functional maturation of human pluripotent stem cell-derived hepatocytes.",
-      "abstract": "Human pluripotent stem cells (hPSCs) offer a promising source of hepatocytes for disease modeling and drug screening. However, hepatocytes derived in conventional two-dimensional (2D) cultures often exhibit incomplete maturation, limiting their physiological relevance. The molecular mechanisms underlying the improved differentiation observed in three-dimensional (3D) culture systems remain poorly understood. Induced PSCs (iPSCs) were differentiated into hepatic progenitors under 2D monolayer culture. At the hepatic progenitor stage, cells were either continued in 2D or re-aggregated into 3D organoids for hepatocyte maturation. Both conditions were cultured under identical experimental conditions throughout terminal differentiation for controlled comparison. At the end of differentiation, cultures were evaluated by immunostaining, gene and protein expression, functional assays, and RNA sequencing. Compared with 2D cultures, 3D hepatic organoids showed higher expression of mature hepatocyte markers (ALB, CPS1, AAT, and CYP3A4) and improved function, including increased albumin secretion, glycogen storage, and urea production. RNA sequencing identified 1,266 differentially expressed genes with upregulated genes enriched in hepatic metabolic pathways and downregulated genes associated with focal adhesion and extracellular (ECM)-receptor interaction. These findings demonstrate that 3D organoid culture enhances iPSC-derived hepatocyte maturation by activating liver-specific transcriptional programs, while suppressing progenitor-associated gene signatures, supporting its use for liver disease modelling and drug metabolism studies.",
-      "journal": "Molecular biology reports",
+      "pmid": "42526715",
+      "title": "Intranasal drug delivery to the brain for neurodegenerative diseases: Current efforts and challenges in delivery platforms and modeling.",
+      "abstract": "Neurodegenerative diseases, such as Parkinson's disease (PD) and Alzheimer's disease (AD), globally pose a significant challenge with an aging population. Despite the presence of various therapeutic agents, AD and PD treatments with small molecules currently only address the symptoms; certain biologic agents for AD have been approved for their disease-modifying effects, but the risk of intracerebral hemorrhage severely limits their use. Moreover, the bioavailability of orally administered agents in the brain is challenged by the blood-brain barrier, complicating brain-targeted drug development. Extensive efforts are currently underway to develop intranasal platforms with nanoparticles for direct nose-to-brain drug delivery. Additionally, various in vitro designs involving brain organoids, and in vivo models, such as rodents and zebrafish, have been explored to improve the efficiency and accuracy of preclinical models. Efforts to develop sophisticated computational modeling of intranasal drug delivery, including computational fluid dynamics (CFD) deposition and physiologically based pharmacokinetics (PBPK) modeling, also continue to advance the intranasal drug delivery research and potentially improve the feasibility of developing clinically relevant intranasal platforms for neurodegenerative disease.",
+      "journal": "Advanced drug delivery reviews",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "affiliations": [
-        "Pluripotent Stem Cell Disease Modelling Lab, Translational Medicine Department, Research Branch, Sidra Medicine, P.O. Box 26999, Doha, Qatar.",
-        "College of Health and Life Sciences, Hamad Bin Khalifa University (HBKU), Qatar Foundation (QF), P.O. Box 34110, Doha, Qatar.",
-        "Pluripotent Stem Cell Disease Modelling Lab, Translational Medicine Department, Research Branch, Sidra Medicine, P.O. Box 26999, Doha, Qatar. emohamed3@sidra.org.",
-        "College of Health and Life Sciences, Hamad Bin Khalifa University (HBKU), Qatar Foundation (QF), P.O. Box 34110, Doha, Qatar. emohamed3@sidra.org."
+        "Department of Bioengineering and Therapeutic Sciences, Schools of Pharmacy and Medicine, University of California, San Francisco, San Francisco, CA, USA. Electronic address: katherine.bang@ucsf.edu.",
+        "Division of Quantitative Methods and Modeling, Office of Research and Standards, Office of Generic Drugs, Center for Drug Evaluation and Research, U.S. Food and Drug Administration, Silver Spring, MD, USA. Electronic address: ross.walenga@fda.hhs.gov.",
+        "Division of Quantitative Methods and Modeling, Office of Research and Standards, Office of Generic Drugs, Center for Drug Evaluation and Research, U.S. Food and Drug Administration, Silver Spring, MD, USA.",
+        "Division of Therapeutic Performance I, Office of Research and Standards, Office of Generic Drugs, Center for Drug Evaluation and Research, U.S. Food and Drug Administration, Silver Spring, MD, USA.",
+        "Division of Applied Regulatory Science, Office of Clinical Pharmacology, Office of Translational Sciences, Center for Drug Evaluation and Research, U.S. Food and Drug Administration, Silver Spring, MD, USA.",
+        "Department of Bioengineering and Therapeutic Sciences, Schools of Pharmacy and Medicine, University of California, San Francisco, San Francisco, CA, USA. Electronic address: liang.zhao2@ucsf.edu.",
+        "Department of Bioengineering and Therapeutic Sciences, Schools of Pharmacy and Medicine, University of California, San Francisco, San Francisco, CA, USA. Electronic address: su.guo@ucsf.edu."
       ],
-      "doi": "10.1007/s11033-026-12480-9",
+      "doi": "10.1016/j.addr.2026.115938",
       "date": "2026-07-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42525161/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526715/"
     },
     {
-      "pmid": "42524630",
-      "title": "Loss of Alkbh5 enhances AT2 cell differentiation and alveolar repair across diverse injury models via m6A-dependent Areg signaling.",
-      "abstract": "Efficient regeneration of the alveolar epithelium is essential for restoring lung function after injury, yet the mechanisms that govern alveolar type II cell (AT2) behavior remain insufficiently defined. Here, we identify the m⁶A RNA demethylase Alkbh5 as a pivotal regulator of AT2 cell activation and lineage progression. Conditional deletion of Alkbh5 in AT2 cells markedly enhances their proliferation and differentiation across diverse lung injury contexts-including fibrotic (bleomycin), inflammatory (LPS), mechanical (pneumonectomy), and oxidative (BHT) insults. Loss of Alkbh5 increases m⁶A modification on Amphiregulin (Areg) transcripts, stabilizing its mRNA and elevating Areg expression specifically within transitional AT2 populations. The resulting amplification of EGFR signaling drives accelerated AT2-to-AT1 differentiation and epithelial repair. Supplementation of recombinant Areg phenocopies the regenerative effects of Alkbh5 deletion, whereas Areg neutralization abrogates these responses, establishing Areg as a key downstream effector of Alkbh5. Importantly, ALKBH5 ablation or pharmacologic inhibition in human ESC-derived alveolar organoids similarly promote proliferation, differentiation, and AREG upregulation, demonstrating evolutionary conservation of this regulatory axis. Together, our findings reveal an Alkbh5-Areg-EGFR circuit that orchestrates alveolar epithelial regeneration and suggest new therapeutic opportunities for enhancing lung repair following injury.",
-      "journal": "International journal of biological sciences",
+      "pmid": "42526442",
+      "title": "A xeno-free human iPSC-derived prostate organoid platform for multilineage differentiation and genetic manipulation.",
+      "abstract": "Current prostate organoid models rely on tissue-derived material or animal components and lack epithelial and stromal complexity. We defined a xeno-free system to generate human prostate organoids from induced pluripotent stem cells with consistent multilineage differentiation. Organoids formed as free-floating 3D aggregates self-organized into the epithelial and stromal domains with basal, luminal, neuroendocrine, fibroblast, and smooth muscle markers. In an alternative modular co-culture system, engineered epithelial progenitors aggregated with wild-type mesenchymal progenitors, enabling compartment-specific manipulation. Androgen receptor (AR)-overexpressing organoids showed increased epithelial AR and prostate-specific antigen (PSA) expression and proliferation. Single-cell transcriptomics, together with qPCR and immunostaining, confirmed prostate lineage specification and tissue organization. This xeno-free platform provides a reproducible, scalable, and genetically tractable model to study in vitro prostate lineage programs, epithelial and stromal interactions, and disease biology.",
+      "journal": "Cell reports methods",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Cancer Research Institute, School of Basic Medical Sciences, State Key Laboratory of Multi-organ Injury Prevention and Treatment, Guangdong Province Key Laboratory of Immune Regulation and Immunotherapy, Southern Medical University, Guangzhou 510515, China.",
-        "Huizhou Central People's Hospital Postdoctoral Innovation Practice Base, Southern Medical University, Huizhou 516008, China.",
-        "Department of Critical Care Medicine, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou 530021, China.",
-        "School of Biomedical Engineering, Guangzhou Medical University, Guangzhou, Guangdong, 511436, China.",
-        "Department of Detection and Diagnosis Technology Research, Guangzhou National Laboratory, Guangzhou, Guangdong, 510000, China.",
-        "Department of Respiratory and Critical Care Medicine, Institute of Respiratory and Critical Care Medicine, The Tenth Affiliated Hospital of Southern Medical University (Dongguan People's Hospital), Dongguan 523000, China.",
-        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou 510091, China."
+        "Newcastle University, Newcastle, UK.",
+        "University of Cambridge, Cambridge, UK.",
+        "Endeavor Health Research Institute, Evanston, IL, USA; Pritzker School of Medicine, University of Chicago, Chicago, IL, USA.",
+        "UT Southwestern Medical Center, Dallas, TX, USA.",
+        "Newcastle University, Newcastle, UK; Imperial College London, London, UK.",
+        "Newcastle University, Newcastle, UK. Electronic address: adriana.buskin@ncl.ac.uk."
       ],
-      "doi": "10.7150/ijbs.130452",
-      "date": "2026-06-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42524630/"
-    },
-    {
-      "pmid": "42524535",
-      "title": "The Role of Precision Medicine in Neuroblastoma: Targeted Therapies and Personalized Approaches-A Narrative Review.",
-      "abstract": "Neuroblastoma is the most common extracranial solid tumor and contributes the most to pediatric oncology deaths worldwide. Its clinical manifestations are heterogeneous, including relapses, and the prognosis remains poor, especially for high-risk patients. The principal interventions-surgery, chemotherapy, and radiotherapy-exacerbate the prognosis due to high morbidity and poor long-term remission rates. This study attempts to integrate available information on the genetic and molecular characteristics of neuroblastoma, focusing on how the potential of precision medicine is improving neuroblastoma diagnosis and treatment. This review aims to compile recent literature on the genomic, transcriptomic and epigenetic studies of neuroblastoma and its treatment. The review included the most recent molecular markers for the relevant pathway, the therapeutic targets that arise from them and precision medicine approaches that incorporate AI, CRISPR, and neoantigen vaccines at various stages of clinical trials. Targeted medicines such MYCN amplification, ALK mutations, and chromosomal deletions including 1p36 and 11q have revealed important genetic drivers of neuroblastoma. Early-phase studies have shown encouraging reductions in tumor progression with MYCN modulators, ALK inhibitors and immunotherapies (anti-GD2 antibodies, B7-H3 CAR-T cells). Integrating omics-based markers and AI-directed therapy prediction more precisely classifies risk and customizes therapy. Precision medicine has transformed neuroblastoma treatment by improving diagnostic specificity and therapeutic effectiveness while reducing toxicity. Among emerging strategies, ALK-targeted therapies and anti-GD2 immunotherapies show strong clinical potential, although further validation is still required to improve survival and quality of life in affected children.",
-      "journal": "Health science reports",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Biochemistry and Biotechnology University of Science & Technology Chittagong (USTC), Foy's Lake Chittagong Bangladesh.",
-        "Department of Public Health Daffodil International University Dhaka Bangladesh.",
-        "Department of Biochemistry and Biotechnology Khwaja Yunus Ali University, Enayetpur Chowhali Bangladesh."
-      ],
-      "doi": "10.1002/hsr2.72917",
-      "date": "2026-07-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42524535/"
+      "doi": "10.1016/j.crmeth.2026.101538",
+      "date": "2026-07-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526442/"
     },
     {
       "pmid": "42498177",
@@ -264,6 +284,43 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447329/"
     },
     {
+      "pmid": "42527603",
+      "title": "Miniaturizing and modifying natural proteins with Raygun.",
+      "abstract": "Proteins have evolved over billions of years through coordinated substitutions, insertions and deletions, yet computational protein design cannot fully replicate nature's ability to engineer new proteins from existing templates. Protein language models1-3 generate informative per-residue representations, but harnessing them for large-scale, function-preserving sequence modifications has remained beyond reach. Here we introduce Raygun, a generative artificial intelligence framework that enables miniaturization, modification and augmentation of proteins, using a probabilistic encoding of protein sequences constructed from language model embeddings. Our key conceptual advance is to encode each protein not as a sequence of variable length in high-dimensional space, but as a probability distribution in fixed dimensions, making proteins of any length directly commensurable. Controlled by just two parameters governing substitutions and length changes, Raygun can shrink proteins by 10-25% (sometimes more than 50%), expand them beyond their natural size, and introduce extensive sequence diversity, all while preserving predicted structural integrity and functional sites. In cell-based validation, Raygun miniaturized fluorescent proteins (2 shorter than 96% of fluorescent proteins in FPbase) and TurboID, a synthetic biotin ligase that has been widely adopted for proteomics. It also expanded epidermal growth factor (EGF), generating variants with higher EGFR-binding affinity than the wild type. These results show that protein function can be faithfully captured in a length-agnostic representation, enabling the kind of coordinated, large-scale sequence modifications that characterize natural protein evolution.",
+      "journal": "Nature",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Biostatistics and Bioinformatics, Duke University, Durham, NC, USA.",
+        "Department of Cell Biology, Duke University, Durham, NC, USA.",
+        "Department of Chemistry and Biochemistry, University of California San Diego, San Diego, CA, USA.",
+        "Department of Cell Biology, Duke University, Durham, NC, USA. scott.soderling@duke.edu.",
+        "Department of Biostatistics and Bioinformatics, Duke University, Durham, NC, USA. rohit.singh@duke.edu.",
+        "Department of Cell Biology, Duke University, Durham, NC, USA. rohit.singh@duke.edu."
+      ],
+      "doi": "10.1038/s41586-026-10842-8",
+      "date": "2026-07-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527603/"
+    },
+    {
+      "pmid": "42526208",
+      "title": "Generative artificial intelligence for enzyme design and biocatalysis.",
+      "abstract": "Sparked by innovations in generative artificial intelligence (AI), the field of protein design has undergone a paradigm shift with an explosion of new models for optimizing existing enzymes or creating them from scratch. After more than one decade of low success rates for computationally designed enzymes, generative AI models are now frequently used for designing proficient enzymes. Here, we provide a comprehensive overview and classification of generative AI models for enzyme design, highlighting models with experimental validation relevant to real-world settings and outlining their respective limitations. We argue that generative AI models now have the maturity to create and optimize enzymes for industrial applications. Wider adoption of generative AI models with experimental feedback loops can speed up the development of biocatalysts and serve as a community assessment to inform the next generation of models.",
+      "journal": "Current opinion in chemical biology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Centre For Genomic Regulation, The Barcelona Institute of Science and Technology, Dr Aiguader 88, Barcelona 08003, Spain; Universitat Pompeu Fabra, Barcelona, Spain.",
+        "Centre For Genomic Regulation, The Barcelona Institute of Science and Technology, Dr Aiguader 88, Barcelona 08003, Spain; Universitat Pompeu Fabra, Barcelona, Spain. Electronic address: noelia.ferruz@crg.eu."
+      ],
+      "doi": "10.1016/j.cbpa.2026.102728",
+      "date": "2026-07-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526208/"
+    },
+    {
       "pmid": "42525178",
       "title": "CCVAN Leverages Conditional Molecular Generation Through Conditional VAE and Wasserstein GAN.",
       "abstract": "Molecular generation plays a vital role in advancing drug discovery, materials science, and chemical exploration. In this study, we integrated the conditional variational autoencoder (CVAE) with the Wasserstein generative adversarial network (WGAN) and effectively applied this hybrid architecture to molecular generation tasks, introducing a molecular generation framework with conditional generation capabilities known as CCVAN. The model first encodes the data into a latent vector using CVAE, then shares a decoder with the generator of the WGAN to reconstruct molecular SMILES, and trains the discriminator with both the generated and real molecular SMILES to achieve the goal of conditionally generating molecules. Compared to existing methods, CCVAN can generate molecules with specific properties as needed and performs well in terms of validity and novelty. In a case study, we utilized CCVAN for ligand-based and structure-based drug design, enabling the generation of high-binding-affinity molecules for target binding. Overall, the flexibility and effectiveness of CCVAN make it a valuable tool for accelerating the compound discovery process. The source code of CCVAN is publicly available at https://github.com/mjcoo/CCVAN .",
@@ -342,41 +399,6 @@
       "doi": "10.3389/fbioe.2026.1858951",
       "date": "2026-07-13",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42516427/"
-    },
-    {
-      "pmid": "42511472",
-      "title": "Multi-Property De Novo Drug Design Using Deep Learning-Based Knowledge Distillation and Reinforcement Learning.",
-      "abstract": "Computer-aided de novo drug design has been widely explored for early-stage drug discovery, yet the multi-property optimization of novel molecules remains challenging. We aimed to develop a de novo drug design model to efficiently optimize multiple properties simultaneously. We developed a teacher-student-interaction deep learning model fine-tuned by reinforcement learning (TSItransRL) using bioactivity datasets (DRD2 and JNK3/GSK3β targets). A conditional transformer was pretrained as the teacher model to incorporate multi-property information. A vanilla transformer served as the student model and was subsequently optimized through interactive knowledge distillation and reinforcement learning. An evaluation was conducted using MOSES and conditional metrics on two tasks, specifically generating molecules with DRD2-targeting activity and generating molecules with dual JNK3/GSK3β-targeting activity, with the analyses including docking, the similarity ensemble approach (SEA), and scaffold novelty. TSItransRL achieved success rates of 98.36% and 98.90% for the DRD2 and JNK3/GSK3β tasks, respectively, with an internal diversity of 0.795, outperforming most baselines. The docking, SEA, scaffold, and ADMET analyses were used as exploratory in silico assessments to support the preliminary prioritization of selected generated molecules. TSItransRL provides an in silico framework for benchmark-level multi-property molecular generation and prioritization, combining interactive knowledge distillation with reinforcement learning to explore molecules that satisfy predefined predicted-activity, drug-likeness, and synthetic-accessibility criteria. The generated molecules should be regarded as computational candidates for a further medicinal-chemistry assessment, independent validation, and experimental testing rather than experimentally validated leads.",
-      "journal": "International journal of molecular sciences",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Health Management, Harbin Medical University, Harbin 150086, China.",
-        "Department of Biostatistics, School of Public Health, Harbin Medical University, Harbin 150086, China."
-      ],
-      "doi": "10.3390/ijms27146125",
-      "date": "2026-07-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42511472/"
-    },
-    {
-      "pmid": "42503659",
-      "title": "AI-Driven Discovery of a Hydrophobic-Tag Degrader Targeting NSD3 for Lung Squamous Carcinoma Therapy.",
-      "abstract": "Nuclear receptor-binding SET domain protein 3 (NSD3) is a histone H3K36 methyltransferase implicated in lung squamous cell carcinoma, yet chemical targeting is challenging due to the shallow PWWP reader pocket. Here, we report XSY12, a hydrophobic-tag degrader of the NSD3 PWWP domain that enables cellular NSD3 depletion (DC50 = 2.21 μM; Dmax = 80.2%). AI-guided discovery using a 3D fingerprinting platform (TF3P) identified a new NSD3-PWWP chemotype, which was optimized via deep learning-based molecular generation to the high-affinity ligand SYC2 (KD = 0.07 μM) and subsequently converted into XSY12. XSY12 promotes proteasome-dependent NSD3 depletion accompanied by HSP90-associated signatures, reduces H3K36 methylation, and induces apoptosis and G2/M arrest in NSD3-dependent models. In vivo, XSY12 achieved measurable exposure and significant tumor growth inhibition in an LUSC xenograft model at 100 mg/kg with acceptable tolerability. Collectively, these results provide a practical workflow linking AI-guided ligand discovery to functional degrader development.",
-      "journal": "Journal of medicinal chemistry",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Beijing Neurosurgical Institute, Capital Medical University, Beijing 100070, China.",
-        "State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical Sciences, Peking University, Beijing 100191, China.",
-        "Beijing StoneWise Technology Co., Ltd., Haidian Street #15, Beijing 100080, China.",
-        "College of Pharmacy, Xinjiang Medical University, Urumqi 830011, China.",
-        "Beijing Key Laboratory of AI-Driven Drug Discovery and Development, Beijing 100191, China."
-      ],
-      "doi": "10.1021/acs.jmedchem.6c00983",
-      "date": "2026-07-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42503659/"
     },
     {
       "pmid": "42525892",
@@ -486,16 +508,16 @@
   ],
   "signals": [
     {
-      "id": "pubmed-42525890",
+      "id": "pubmed-42527678",
       "date": "2026-07-29",
-      "title": "Integrated Radioproteomic Modeling for Early Recurrence Prediction and Metabolic Characterization in Hepatocellular Carcinoma.",
+      "title": "Bioengineering strategies to interrogate and modulate the aging immune system.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42525890/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527678/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -510,22 +532,116 @@
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 JCO precision oncology，PMID 为 42525890。",
-      "report": "Hepatocellular carcinoma (HCC) is a leading cause of cancer-related mortality, with high recurrence rates after surgical resection posing a significant challenge. While deep learning (DL) approaches show promise in predicting HCC recurrence, their clinical tra...",
+      "fact": "PubMed 记录显示该文献收录于 Nature aging，PMID 为 42527678。",
+      "report": "Age-related changes in the immune system result in pronounced vulnerability to acute infections and cancers, and in dysregulated inflammation and wound healing that fuel many chronic diseases. Although we understand much about some of these changes, gaps in me...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42525775",
+      "id": "pubmed-42527030",
       "date": "2026-07-29",
-      "title": "CD36 is a receptor for human sapovirus.",
+      "title": "IL-27 shapes NK cell heterogeneity and function in colorectal cancer.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42525775/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527030/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal for immunotherapy of cancer，PMID 为 42527030。",
+      "report": "Colorectal cancer (CRC) is a leading cause of cancer-related mortality worldwide and is characterized by an immunosuppressive tumor microenvironment (TME). While adaptive immunity contributes to tumor control, growing evidence underscores the role of innate ly...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42526765",
+      "date": "2026-07-29",
+      "title": "USP15 mutation associated with autism spectrum disorder alters progenitor fate and neuronal maturation in human brain organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526765/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecules and cells，PMID 为 42526765。",
+      "report": "De novo variants in the ubiquitin-proteasome pathway are linked to autism spectrum disorder (ASD), yet their functional impact on neurodevelopment remains poorly understood. We investigated USP15, a deubiquitinating enzyme with rare damaging variants identifie...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42526715",
+      "date": "2026-07-29",
+      "title": "Intranasal drug delivery to the brain for neurodegenerative diseases: Current efforts and challenges in delivery platforms and modeling.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526715/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced drug delivery reviews，PMID 为 42526715。",
+      "report": "Neurodegenerative diseases, such as Parkinson's disease (PD) and Alzheimer's disease (AD), globally pose a significant challenge with an aging population. Despite the presence of various therapeutic agents, AD and PD treatments with small molecules currently o...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42526442",
+      "date": "2026-07-29",
+      "title": "A xeno-free human iPSC-derived prostate organoid platform for multilineage differentiation and genetic manipulation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526442/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -540,71 +656,67 @@
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42525775。",
-      "report": "Human sapovirus (HuSaV) is a major cause of gastroenteritis but has long lacked a defined receptor. Here, we identify the scavenger receptor CD36 as essential for infection. Comparative transcriptomics identified CD36 as the key susceptibility factor. CRISPR k...",
+      "fact": "PubMed 记录显示该文献收录于 Cell reports methods，PMID 为 42526442。",
+      "report": "Current prostate organoid models rely on tissue-derived material or animal components and lack epithelial and stromal complexity. We defined a xeno-free system to generate human prostate organoids from induced pluripotent stem cells with consistent multilineag...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42525468",
+      "id": "pubmed-42527603",
       "date": "2026-07-29",
-      "title": "Targeting Tex10 Overcomes Oxaliplatin Resistance by Competitively Disrupting the Non-Canonical BAF Complex in Colorectal Cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "Miniaturizing and modifying natural proteins with Raygun.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42525468/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527603/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
+        "AI for Biology",
+        "Drug Discovery"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42525468。",
-      "report": "Although a small subset of colorectal cancer (CRC) patients benefit from immunotherapy, oxaliplatin (OXA)-based chemotherapy remains the first-line treatment. However, the widespread development of OXA resistance poses a major clinical challenge, and the under...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Nature，PMID 为 42527603。",
+      "report": "Proteins have evolved over billions of years through coordinated substitutions, insertions and deletions, yet computational protein design cannot fully replicate nature's ability to engineer new proteins from existing templates. Protein language models1-3 gene...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42525161",
+      "id": "pubmed-42526208",
       "date": "2026-07-29",
-      "title": "Three-dimensional organoid culture enhances functional maturation of human pluripotent stem cell-derived hepatocytes.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "title": "Generative artificial intelligence for enzyme design and biocatalysis.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42525161/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526208/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
+        "AI for Biology",
+        "Drug Discovery"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular biology reports，PMID 为 42525161。",
-      "report": "Human pluripotent stem cells (hPSCs) offer a promising source of hepatocytes for disease modeling and drug screening. However, hepatocytes derived in conventional two-dimensional (2D) cultures often exhibit incomplete maturation, limiting their physiological r...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Current opinion in chemical biology，PMID 为 42526208。",
+      "report": "Sparked by innovations in generative artificial intelligence (AI), the field of protein design has undergone a paradigm shift with an explosion of new models for optimizing existing enzymes or creating them from scratch. After more than one decade of low succe...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -728,73 +840,6 @@
       "fact": "PubMed 记录显示该文献收录于 Radiology. Artificial intelligence，PMID 为 42524710。",
       "report": "Purpose To characterize Predetermined Change Control Plan (PCCP) adoption and documentation transparency among U.S. Food and Drug Administration (FDA)-cleared radiology artificial intelligence/machine learning (AI/ML)-devices (2015-2025). Materials and Methods...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42524535",
-      "date": "2026-07-28",
-      "title": "The Role of Precision Medicine in Neuroblastoma: Targeted Therapies and Personalized Approaches-A Narrative Review.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42524535/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Health science reports，PMID 为 42524535。",
-      "report": "Neuroblastoma is the most common extracranial solid tumor and contributes the most to pediatric oncology deaths worldwide. Its clinical manifestations are heterogeneous, including relapses, and the prognosis remains poor, especially for high-risk patients. The...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42503659",
-      "date": "2026-07-26",
-      "title": "AI-Driven Discovery of a Hydrophobic-Tag Degrader Targeting NSD3 for Lung Squamous Carcinoma Therapy.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42503659/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of medicinal chemistry，PMID 为 42503659。",
-      "report": "Nuclear receptor-binding SET domain protein 3 (NSD3) is a histone H3K36 methyltransferase implicated in lung squamous cell carcinoma, yet chemical targeting is challenging due to the shallow PWWP reader pocket. Here, we report XSY12, a hydrophobic-tag degrader...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -969,6 +1014,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42527199",
+      "date": "2026-07-20",
+      "title": "Prenatal organoids for personalised medicine.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527199/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Seminars in pediatric surgery，PMID 为 42527199。",
+      "report": "Organoids are three-dimensional structures derived from a single stem cell. They self-organize in vitro and mature to recreate microarchitecture and characteristics of their tissues of origin. Since the first culture of mouse intestinal epithelial organoids an...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42523295",
       "date": "2026-07-17",
       "title": "A machine learning model predicts protein stability of annotated and alternate protein isoforms.",
@@ -1122,35 +1197,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42511472",
-      "date": "2026-07-08",
-      "title": "Multi-Property De Novo Drug Design Using Deep Learning-Based Knowledge Distillation and Reinforcement Learning.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42511472/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of molecular sciences，PMID 为 42511472。",
-      "report": "Computer-aided de novo drug design has been widely explored for early-stage drug discovery, yet the multi-property optimization of novel molecules remains challenging. We aimed to develop a de novo drug design model to efficiently optimize multiple properties...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42476548",
       "date": "2026-07-03",
       "title": "Annotation-free phenotype prediction using knowledge-augmented clustering from single-cell RNA sequencing data.",
@@ -1178,38 +1224,6 @@
       "fact": "PubMed 记录显示该文献收录于 Briefings in bioinformatics，PMID 为 42476548。",
       "report": "Single-cell RNA sequencing has emerged as a transformative tool, enabling precise phenotype prediction and the detailed identification of disease-associated cell subpopulations. However, many existing computational approaches still rely on predefined cell-type...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42524630",
-      "date": "2026-06-25",
-      "title": "Loss of Alkbh5 enhances AT2 cell differentiation and alveolar repair across diverse injury models via m6A-dependent Areg signaling.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42524630/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of biological sciences，PMID 为 42524630。",
-      "report": "Efficient regeneration of the alveolar epithelium is essential for restoring lung function after injury, yet the mechanisms that govern alveolar type II cell (AT2) behavior remain insufficiently defined. Here, we identify the m⁶A RNA demethylase Alkbh5 as a pi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
