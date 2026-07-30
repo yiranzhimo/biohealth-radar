@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-29T19:47:17.296369+00:00",
+  "capturedAt": "2026-07-30T03:33:20.044588+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-07-29",
-    "end": "2026-07-29"
+    "start": "2025-07-30",
+    "end": "2026-07-30"
   },
   "pmids": [
+    "42525890",
+    "42525775",
+    "42525468",
     "42525161",
     "42524630",
     "42524535",
-    "42523839",
-    "42523700",
-    "42523542",
     "42498177",
     "42497867",
     "42486102",
@@ -32,14 +32,67 @@
     "42516427",
     "42511472",
     "42503659",
+    "42525892",
+    "42525763",
     "42524710",
     "42524365",
     "42524278",
-    "42523586",
-    "42523038",
-    "42522799"
+    "42523586"
   ],
   "records": [
+    {
+      "pmid": "42525890",
+      "title": "Integrated Radioproteomic Modeling for Early Recurrence Prediction and Metabolic Characterization in Hepatocellular Carcinoma.",
+      "abstract": "Hepatocellular carcinoma (HCC) is a leading cause of cancer-related mortality, with high recurrence rates after surgical resection posing a significant challenge. While deep learning (DL) approaches show promise in predicting HCC recurrence, their clinical translation is limited by poor interpretability and unclear mechanisms. Our study aimed to develop an interpretable DL framework that predicts recurrence while elucidating underlying biology through integration of radiologic imaging and multiomics profiling. We developed a DL framework to predict early postoperative HCC recurrence using preoperative multiphase computed tomography imaging and generate an imaging-based early recurrence risk score (ERRS) for risk stratification. To decipher the biological basis of ERRS, we integrated DL features with proteomic data to identify key metabolic alterations, which were validated by metabolomics, immunohistochemistry, and enzymatic assays. Patient-derived organoids (PDOs) were used to assess the therapeutic potential of targeting these alterations. The Multi-model_NC&ART&PV DL model showed improved performance compared with conventional single-phase models in predicting early postoperative recurrence, with high-ERRS patients exhibiting worse survival and more aggressive features. Mechanistically, radioproteomic analyses linked model predictions to dysregulated pyruvate metabolism, characterized by reduced pyruvate dehydrogenase complex expression/activity and elevated lactate dehydrogenase (LDH) activity. PDOs from patients with HCC were sensitive to LDH inhibitor stiripentol, with high-ERRS tumors showing greater therapeutic vulnerability than low-ERRS tumors. This study bridges artificial intelligence-driven imaging and mechanism-guided therapy by developing a biologically interpretable DL model for HCC recurrence prediction. Radioproteomic integration identified dysregulated pyruvate metabolism as a hallmark of high-risk HCC, enabling the repurposing of stiripentol as a potential therapy. This framework suggests a potential strategy linking noninvasive risk stratification with pathway-guided treatment although further validation and prospective studies are needed to establish its clinical utility.",
+      "journal": "JCO precision oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "The United Innovation of Mengchao Hepatobiliary Technology Key Laboratory of Fujian Province, Mengchao Hepatobiliary Hospital of Fujian Medical University, Fuzhou, China.",
+        "Mengchao Med-X Center, Fuzhou University, Fuzhou, China.",
+        "Department of Hepatobiliary Surgery, The First Affiliated Hospital of Fujian Medical University, Fuzhou, China.",
+        "College of Electrical Engineering and Automation, Fuzhou University, Fuzhou, China."
+      ],
+      "doi": "10.1200/PO-25-00745",
+      "date": "2026-07-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42525890/"
+    },
+    {
+      "pmid": "42525775",
+      "title": "CD36 is a receptor for human sapovirus.",
+      "abstract": "Human sapovirus (HuSaV) is a major cause of gastroenteritis but has long lacked a defined receptor. Here, we identify the scavenger receptor CD36 as essential for infection. Comparative transcriptomics identified CD36 as the key susceptibility factor. CRISPR knockout abolished replication, while ectopic expression restored permissiveness across diverse cells. Binding assays showed nanomolar affinity between CD36 and HuSaV particles. Infection also required the bile acid glycocholic acid, which promoted CD36 internalization and viral entry. In human intestinal organoids, CD36 knockout abrogated infection, confirming physiological relevance. Our findings establish CD36 as the long-sought HuSaV receptor, uncover a bile acid-assisted entry mechanism that confines infection to the intestine and point to opportunities for antiviral and vaccine development.",
+      "journal": "Science advances",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Infection Control and Immunology, Ōmura Satoshi Memorial Institute & Graduate School of Infection Control Sciences, Kitasato University, Tokyo, Japan.",
+        "Department of Pediatrics, Sapporo Medical University School of Medicine, Sapporo, Japan."
+      ],
+      "doi": "10.1126/sciadv.aed1300",
+      "date": "2026-07-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42525775/"
+    },
+    {
+      "pmid": "42525468",
+      "title": "Targeting Tex10 Overcomes Oxaliplatin Resistance by Competitively Disrupting the Non-Canonical BAF Complex in Colorectal Cancer.",
+      "abstract": "Although a small subset of colorectal cancer (CRC) patients benefit from immunotherapy, oxaliplatin (OXA)-based chemotherapy remains the first-line treatment. However, the widespread development of OXA resistance poses a major clinical challenge, and the underlying molecular mechanisms remain incompletely understood. In this study, we found that Tex10 deficiency markedly enhances OXA sensitivity in CRC cells by inducing cytostatic autophagy in xenograft and patient-derived organoid models. Tex10 -/- mice exhibit markedly reduced tumor numbers and decreased p62 levels in inflammation-induced CRC. Mechanistically, we determined that Tex10 competitively binds BRD9, thereby disrupting the BRD9-BRG1 interaction within the non-canonical BAF (ncBAF) complex, which suppresses AMBRA1 transcription and ULK1 ubiquitination to inhibit autophagy. Furthermore, in silico screening identified gemcitabine (GEM) as a potent Tex10 inhibitor. GEM directly binds to the N268 residue of Tex10, reducing Tex10 abundance and unleashing autophagy. This, in turn facilitates further lysosomal degradation of Tex10, forming a potent positive-feedback loop to overcome OXA resistance. In addition, Tex10 deletion enhances the antitumor efficacy of immunotherapy by inhibiting lysosomal degradation of PD-L1. Collectively, this study uncovers a previously unrecognized antitumor mechanism of GEM and identifies Tex10 as a promising therapeutic target for overcoming OXA resistance and potentiating immunotherapy in CRC.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Institute of Hepatobiliary-Pancreatic-Intestinal Diseases, Affiliated Hospital of North Sichuan Medical College, North Sichuan Medical College, Nanchong, China.",
+        "Sichuan Clinical Research Center for Digestive Diseases, Affiliated Hospital of North Sichuan Medical College, Nanchong, China.",
+        "Department of Hepatobiliary Surgery, The Fourth People's Hospital of Zigong, Zigong, China.",
+        "Institute of Materia Medica, School of Pharmacy, North Sichuan Medical College, Nanchong, China.",
+        "Institute of Basic Medicine, School of Basic Medical Sciences and Forensic Medicine, North Sichuan Medical College, Nanchong, China."
+      ],
+      "doi": "10.1002/advs.76895",
+      "date": "2026-07-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42525468/"
+    },
     {
       "pmid": "42525161",
       "title": "Three-dimensional organoid culture enhances functional maturation of human pluripotent stem cell-derived hepatocytes.",
@@ -95,53 +148,6 @@
       "doi": "10.1002/hsr2.72917",
       "date": "2026-07-28",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42524535/"
-    },
-    {
-      "pmid": "42523839",
-      "title": "Modeling macrophage-T cell interactions in the breast cancer immune microenvironment: from spatial omics to functional validation.",
-      "abstract": "Breast cancer immunity depends on more than the number of immune cells in a tumor. It is also shaped by where those cells sit, which neighbors they contact, and what functional states they adopt locally. Tumor-associated macrophages (TAMs) and T cells are a key pairing in this setting. Depending on tissue context, their crosstalk may support cytotoxic immunity, reinforce immune exclusion, promote T-cell exhaustion, or weaken therapeutic response. Spatial technologies now allow these states to be examined in intact tumor sections rather than inferred from dissociated or bulk samples. Antibody-based imaging approaches, including imaging mass cytometry, MIBI, and CODEX, together with high-plex transcriptomic platforms such as MERFISH, Xenium, CosMx, Visium, GeoMx, and related methods, have revealed inflamed, excluded, myeloid-rich, stromal-barrier, and tertiary lymphoid structure-associated niches in breast cancer. However, spatial maps alone cannot establish mechanism. Cells that lie close together may not necessarily interact, and computational tools, including ligand-receptor scoring, graph-based neighborhood modeling, and spatial biomarker prediction, can only prioritize candidate macrophage-T cell programs. Functional validation remains essential. In this mini review, we discuss how spatial omics, computational modeling, organoid and explant cultures, microfluidic models, perturbation assays, and therapeutic testing can be linked to study macrophage-T cell crosstalk. We highlight a practical workflow in which spatial maps generate hypotheses, experimental systems test causality, and post-treatment profiling determines whether candidate interactions are remodeled by therapy.",
-      "journal": "Frontiers in immunology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Breast Surgery, The Affiliated Hospital of Beihua University, Jilin, Jilin, China.",
-        "Department of Ultrasound, The Second Affiliated Hospital of Army Medical University, Chongqing, China.",
-        "Department of Breast Surgery, Jilin People's Hospital, Jilin, Jilin, China."
-      ],
-      "doi": "10.3389/fimmu.2026.1870393",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42523839/"
-    },
-    {
-      "pmid": "42523700",
-      "title": "Toward a cell-type-specific lung HOX code.",
-      "abstract": "HOX genes encode transcription factors that are central regulators of cell fate during embryogenesis and of maintaining respective positional cell identity throughout life. Moreover, HOX factors shape the specification of regional properties of the respective tissues, but detailed information regarding the role of HOX genes in the adult human respiratory system is still lacking. We examined the HOX expression pattern in human lungs using global gene expression analyses of normal lung tissue specimens, followed by quantitative real-time reverse-transcriptase polymerase chain reaction (qRT-PCR). Cell-type specificity was investigated using published single-cell RNA sequencing (scRNAseq) datasets and by immunohistochemistry and immunofluorescence analyses. The expressed HOX candidates HOXA3-HOXA7, HOXB5, HOXB7, and HOXB8, HOXC6-HOXC9, and HOXD1-D8 were localized in healthy lung specimens. Early and central HOXA and HOXB genes were found to be more highly expressed in adult lung tissue, predominantly localizing in stromal cells. While HOXA3 and HOXA5 were primarily localized in sub-bronchial and vascular smooth muscle cells (SMCs), HOXA4, HOXB5, and HOXB7 were predominantly found in vascular mural cells, whereas expression in sub-bronchial regions was more associated with connective tissue cells. HOXA6 was exclusively detected in sub-bronchial and adventitial connective tissue; a similar pattern was observed for HOXA7. HOXA7, HOXB5, and HOXB7, along with HOXD1, were found in the endothelial cells of predominantly larger vessels. Bronchial epithelial cells showed immunoreactivity for almost all the HOX proteins examined, although in some cases, this was limited to single cells. In the alveolar compartment, only HOXA6 (presumably in connective tissue cells), as well as HOXB6, HOXC6, and HOXC8, could be localized. A temporal analysis of the HOX expression development during lung organoid differentiation from induced pluripotent stem cells confirmed respective findings. Since the deregulation of HOX genes is increasingly observed in numerous (malignant) lung diseases, it is a necessary prerequisite to specify individual HOX factors and their cellular origin. This could not only provide better insights into the function of HOX genes in lung diseases but also offer the possibility of improving the regenerative potential through targeted modulation of (cell-type-specific) HOX genes.",
-      "journal": "Frontiers in cell and developmental biology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Medical Faculty, Institute for Cell Biology (Cancer Research), University of Duisburg-Essen, Essen, Germany."
-      ],
-      "doi": "10.3389/fcell.2026.1839422",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42523700/"
-    },
-    {
-      "pmid": "42523542",
-      "title": "Three Thiol-Reactive Reagents drive Synergistic Lethality in Glioblastoma cells.",
-      "abstract": "Glioblastoma (GBM) is the most prevalent malignant primary brain tumor. Disruption of the redox state of the cell through cysteine (Cys) reactive residues has been suggested to play a role in the progression of GBM. Here, we demonstrate that the addition of acrylamide (ACR), a thiol-reactive molecule that covalently modifies redox-related proteins and disrupts critical redox signaling pathways, further amplifies the cytotoxic effects and the synergistic lethality induced by auranofin (Auf) and buthionine sulfoximine (DL-BSO). We established a minimal triple-thiol cocktail of ACR/Auf/BSO, which enhances suppression of cell growth in various cancer cell lines. This combination of ACR, BSO, and Auf, which causes a complete cell death in U87MGMG, U87MGDEGFR, A431, PC12 and SH-SY5Y cellsinduces significantly less toxicity in primary rat cortex neuronal cultures. The synergy observed is strongly associated with increased activation of ERK1/2 and p38MAPK phosphorylation, as well as the inhibition of the STAT3 signaling pathways, which are both critical for cell survival and proliferation. In contrast, primary neuronal cortical cells, which exhibit minimal toxicity with the minimal ACR/Auf/BSO combination, display no activation of these antioxidant/anti-inflammatory molecular pathways. The combination of the oxidizing reagents induces whole-cell and mitochondrial reactive oxygen species (ROS) production in patient-derived GBM cells and reduces proliferation of a human GBM organoid model. We suggest that combining multiple Cys-associated redox targets is a putative therapeutic strategy for GBM, which offers a promising approach for improving treatment outcomes in GBM and other malignancies.",
-      "journal": "Research square",
-      "publicationTypes": [
-        "Journal Article",
-        "Preprint"
-      ],
-      "affiliations": [],
-      "doi": "10.21203/rs.3.rs-9978519/v1",
-      "date": "2026-07-15",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42523542/"
     },
     {
       "pmid": "42498177",
@@ -373,6 +379,41 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42503659/"
     },
     {
+      "pmid": "42525892",
+      "title": "Rechallenge With Anti-Human Epidermal Growth Factor Receptor 2 Therapy Guided by Liquid Biopsy in HER2-Amplified Metastatic Colorectal Cancer.",
+      "abstract": "",
+      "journal": "JCO precision oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Medical Oncology Department, Vall d'Hebron University Hospital, Barcelona, Spain.",
+        "Vall d'Hebron Institute of Oncology (VHIO), Barcelona, Spain.",
+        "Medical Oncology Department, Niguarda Cancer Center, Grande Ospedale Metropolitano, Niguarda, Milan, Italy."
+      ],
+      "doi": "10.1200/PO-26-00515",
+      "date": "2026-07-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42525892/"
+    },
+    {
+      "pmid": "42525763",
+      "title": "Integrating structurally defined DNA-carbon nanotube sensors with machine learning for cancer detection.",
+      "abstract": "Liquid biopsy is a promising, noninvasive approach for cancer detection, but current methods often trade off accuracy, operability, and cost. To address these limitations, we introduce an artificial perception system (APS) for liquid biopsy that combines a structurally defined DNA-carbon nanotube sensor array with machine learning (ML) models. The array produces multichannel fluorescence fingerprints from serum, which are decoded by ML models to classify disease state. In a total of 253 serum samples spanning liver, lung, and ovarian cancers and noncancer controls, the APS achieved mean sensitivity of 89% and specificity of 96%. Notably, early-stage lung cancer was detected with 92% sensitivity and 95% specificity at an estimated cost of ∼$4 USD per test. Insights from SHAP analysis and Mantel test revealed the detection mechanisms of APS, supporting biological plausibility and clinical translation. These results highlight a path toward accurate, scalable, and affordable multicancer detection and early cancer screening.",
+      "journal": "Science advances",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "South China Advanced Institute for Soft Matter Science and Technology, State Key Laboratory of Luminescent Materials and Devices, School of Emergent Soft Matter, South China University of Technology, Guangzhou 510640, China.",
+        "Department of Clinical Laboratory Medicine, Sun Yat-Sen University Cancer Center, State Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine, Guangzhou 510060, China.",
+        "Department of Radiation Oncology, Sun Yat-Sen University Cancer Center, State Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine, Guangzhou 510060, China.",
+        "Guangdong Provincial Key Laboratory of Functional and Intelligent Hybrid Materials and Devices, Guangdong Basic Research Center of Excellence for Energy and Information Polymer Materials, South China University of Technology, Guangzhou 510640, China."
+      ],
+      "doi": "10.1126/sciadv.aef9530",
+      "date": "2026-07-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42525763/"
+    },
+    {
       "pmid": "42524710",
       "title": "Predetermined Change Control Plan Adoption and Documentation Transparency in FDA-cleared Radiology Artificial Intelligence/Machine Learning Devices.",
       "abstract": "Purpose To characterize Predetermined Change Control Plan (PCCP) adoption and documentation transparency among U.S. Food and Drug Administration (FDA)-cleared radiology artificial intelligence/machine learning (AI/ML)-devices (2015-2025). Materials and Methods A cross-sectional systematic scoping review was conducted with linked data from FDA AI/ML-enabled device databases through April 2026. PCCP documentation completeness was scored by two independent observers (intraclass correlation coefficient: 0.93) using an 8-point rubric (possible scores, 0-8) derived from FDA's final PCCP guidance (December 2024). Identified PCCP devices underwent manual verification against FDA regulatory summaries. Results Among FDA-listed AI/ML-device submissions, 1080/1394 (77.5%) were radiology submissions, and nearly all cleared via 510(k) review. Across all FDA panels, 170 devices were cleared with a PCCP. Radiology led AI/ML-specific PCCP adoption (34/37 radiology PCCP devices, 91.9%). Among the PCCP-cleared radiology AI devices, 22/34 (65%) were cleared in 2025 alone following the final FDA guidance. Discrepancies between FDA's public database and individual summaries required manual adjudication for 9/34 (27%) of devices. PCCP documentation scores ranged from 0 to 8 (mean, 5), with most modifications focused on data retraining, compatibility expansion, and algorithm optimization. Continuous monitoring of device performance and predefined drift triggers for retraining were absent from public summaries. Conclusion PCCP adoption increased in radiology after issuance of the final FDA guidance, yet public lifecycle controls, particularly monitoring performance metrics and trigger thresholds, were limited. Standardized PCCP reporting of lifecycle controls are suggested as a condition of PCCP authorization to enable systematic postmarket monitoring as this pathway scales. ©RSNA, 2026.",
@@ -441,48 +482,101 @@
       "doi": "10.3389/fsysb.2026.1855016",
       "date": "2026-07-14",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42523586/"
-    },
-    {
-      "pmid": "42523038",
-      "title": "SEPTIN9 Gene Methylation Ratio as Follow-Up Biomarker in Total Neoadjuvant Therapy for Locally Advanced Rectal Cancer.",
-      "abstract": "There are not reliable biomarkers for the assessment of tumor response to total neoadjuvant therapy (TNT) and the early detection of local regrowth or systemic relapse in patients with locally advanced rectal cancer (LARC). Our aim is to evaluate the utility of SEPTIN9 methylation ratio (SEPT9mr) for prediction and assessment of tumor response to TNT and for early diagnosis of local regrowth and systemic metastases in patients with LARC. Patients with LARC undergoing TNT were prospectively included. SEPTIN9 methylation status gene in plasmatic cfDNA was determined by ddPCR and expressed as SEPT9mr at 3 times: pre-treatment, evaluation of tumor response and follow-up. Association between pre-treatment SEPT9mr, tumor response to TNT and metastatic risk was explored. Association between SEPT9mr variation between samples and tumor response to TNT, local regrowth and systemic metastases was also explored. Sixty patients were included. Pre-treatment SEPT9mr (p = 0.004) significantly associated with tumor response to TNT, but not with metastatic risk during follow-up (p = 0.289). Variation of SEPT9mr during TNT did not significantly associate with tumor response to TNT (p = 0.130). Variation of SEPT9mr during follow-up did not associate with the development of local regrowth (p = 0.533) but significantly associated with the development of systemic metastases (p = 0.026). Pre-treatment SEPT9mr can predict tumor response to TNT, but not the metastatic risk during follow-up. Variation of SEPT9mr between samples seems to be useful for early detection of systemic metastases during follow-up but not for evaluation of tumor response to TNT or detection of local regrowth.",
-      "journal": "Journal of surgical oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Surgery Department, Fundación Jiménez Díaz University Hospital, Madrid, Spain.",
-        "Universidad Alfonso X el Sabio, Madrid, Spain.",
-        "New Therapies Laboratory, Health Research Institute, Fundación Jiménez Díaz University Hospital, Madrid, Spain.",
-        "Oncology Department, Fundación Jiménez Díaz University Hospital, Madrid, Spain.",
-        "Biostatistics and Epidemiology Department, Fundación Jiménez Díaz University Hospital, Madrid, Spain.",
-        "Universidad Autónoma de Madrid, Madrid, Spain."
-      ],
-      "doi": "10.1002/jso.70346",
-      "date": "2026-07-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42523038/"
-    },
-    {
-      "pmid": "42522799",
-      "title": "Oral Squamous Cell Carcinoma: A New Era in Molecular Mechanisms and Emerging Targeted Therapies.",
-      "abstract": "Oral squamous cell carcinoma (OSCC), the most common oral cancer, presents a clinical challenge due to its complex tumor microenvironment (TME), dysregulated pathways, and poor prognosis. Current methods of diagnosing OSCC use liquid biopsy technologies (ctDNA/microRNAs/exosomes) instead of relying solely on traditional methods such as open surgical biopsy. Liquid biopsy technologies provide non-invasive ways to detect and monitor OSCC in early stages, compared with traditional open surgical biopsy methods. Treatment of OSCC currently relies on chemotherapeutics (cisplatin/5-FU), radiotherapy, and targeted agents (cetuximab). However, resistance is acquired due to TME remodelling (tumor microenvironment) and/or due to epithelial-mesenchymal transition (EMT) through processes such as ABC transporter efflux. This review elucidates key molecular mechanisms, including PD-L1-mediated immune evasion, PI3K/AKT/mTOR hyperactivation, EGFR overexpression, and NF-κB-driven inflammation, which promote proliferation, metastasis, and therapy resistance. One area of study involves the use of nanotechnology to convert phytocompounds (medicinal plants) into therapeutic agents by embedding phytocompounds into nanoparticles created using green synthesis techniques. EPR (Enhanced Permeability and Retention), ligand functionalization for OSCC targeting, improved bioavailability, and reduced toxicity are all advantages that the aforementioned systems provide, offering an opportunity to synergistically develop new therapies with chemotherapeutics for overcoming resistance. While numerous preclinical studies demonstrate that these newly developed therapies show increased efficacy compared with current therapy options, further work is needed in areas such as standardization, scaling, and clinical translation. As such, the importance of developing pathway-informed diagnostic tests and developing therapies that exploit pathway-specific activity with phytocompounds is emphasized. In addition, large-scale studies should be considered to evaluate the effectiveness of a pathway-informed approach in assessing and differentiating OSCC and personalized therapy strategies, to improve OSCC survival outcomes.",
-      "journal": "Asian Pacific journal of cancer prevention : APJCP",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Microbiology, JSS Academy of Higher Education and Research, Mysuru, Karnataka, India.",
-        "Department of Biochemistry, JSS Medical College, Academy of Higher Education and Research, Mysuru, Karnataka, India.",
-        "Department of Biotechnology and Bioinformatics, JSS Academy of Higher Education and Research, Mysuru, Karnataka, India.",
-        "School of Physical Sciences, Amrita Vishwa Vidyapeetham, Mysuru, Karnataka, India.",
-        "Department of Clinical Sciences, College of Veterinary Medicine, Kansas State University, Manhattan, KS 66506, USA."
-      ],
-      "doi": "10.31557/APJCP.2026.27.7.2379",
-      "date": "2026-07-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42522799/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42525890",
+      "date": "2026-07-29",
+      "title": "Integrated Radioproteomic Modeling for Early Recurrence Prediction and Metabolic Characterization in Hepatocellular Carcinoma.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42525890/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 JCO precision oncology，PMID 为 42525890。",
+      "report": "Hepatocellular carcinoma (HCC) is a leading cause of cancer-related mortality, with high recurrence rates after surgical resection posing a significant challenge. While deep learning (DL) approaches show promise in predicting HCC recurrence, their clinical tra...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42525775",
+      "date": "2026-07-29",
+      "title": "CD36 is a receptor for human sapovirus.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42525775/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42525775。",
+      "report": "Human sapovirus (HuSaV) is a major cause of gastroenteritis but has long lacked a defined receptor. Here, we identify the scavenger receptor CD36 as essential for infection. Comparative transcriptomics identified CD36 as the key susceptibility factor. CRISPR k...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42525468",
+      "date": "2026-07-29",
+      "title": "Targeting Tex10 Overcomes Oxaliplatin Resistance by Competitively Disrupting the Non-Canonical BAF Complex in Colorectal Cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42525468/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42525468。",
+      "report": "Although a small subset of colorectal cancer (CRC) patients benefit from immunotherapy, oxaliplatin (OXA)-based chemotherapy remains the first-line treatment. However, the widespread development of OXA resistance poses a major clinical challenge, and the under...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42525161",
       "date": "2026-07-29",
@@ -543,6 +637,68 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42525892",
+      "date": "2026-07-29",
+      "title": "Rechallenge With Anti-Human Epidermal Growth Factor Receptor 2 Therapy Guided by Liquid Biopsy in HER2-Amplified Metastatic Colorectal Cancer.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42525892/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 JCO precision oncology，PMID 为 42525892。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42525763",
+      "date": "2026-07-29",
+      "title": "Integrating structurally defined DNA-carbon nanotube sensors with machine learning for cancer detection.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42525763/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42525763。",
+      "report": "Liquid biopsy is a promising, noninvasive approach for cancer detection, but current methods often trade off accuracy, operability, and cost. To address these limitations, we introduce an artificial perception system (APS) for liquid biopsy that combines a str...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42524710",
       "date": "2026-07-29",
       "title": "Predetermined Change Control Plan Adoption and Documentation Transparency in FDA-cleared Radiology Artificial Intelligence/Machine Learning Devices.",
@@ -572,34 +728,6 @@
       "fact": "PubMed 记录显示该文献收录于 Radiology. Artificial intelligence，PMID 为 42524710。",
       "report": "Purpose To characterize Predetermined Change Control Plan (PCCP) adoption and documentation transparency among U.S. Food and Drug Administration (FDA)-cleared radiology artificial intelligence/machine learning (AI/ML)-devices (2015-2025). Materials and Methods...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42523038",
-      "date": "2026-07-29",
-      "title": "SEPTIN9 Gene Methylation Ratio as Follow-Up Biomarker in Total Neoadjuvant Therapy for Locally Advanced Rectal Cancer.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42523038/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of surgical oncology，PMID 为 42523038。",
-      "report": "There are not reliable biomarkers for the assessment of tumor response to total neoadjuvant therapy (TNT) and the early detection of local regrowth or systemic relapse in patients with locally advanced rectal cancer (LARC). Our aim is to evaluate the utility o...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -870,98 +998,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42523542",
-      "date": "2026-07-15",
-      "title": "Three Thiol-Reactive Reagents drive Synergistic Lethality in Glioblastoma cells.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42523542/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Research square，PMID 为 42523542。",
-      "report": "Glioblastoma (GBM) is the most prevalent malignant primary brain tumor. Disruption of the redox state of the cell through cysteine (Cys) reactive residues has been suggested to play a role in the progression of GBM. Here, we demonstrate that the addition of ac...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42523839",
-      "date": "2026-07-14",
-      "title": "Modeling macrophage-T cell interactions in the breast cancer immune microenvironment: from spatial omics to functional validation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42523839/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42523839。",
-      "report": "Breast cancer immunity depends on more than the number of immune cells in a tumor. It is also shaped by where those cells sit, which neighbors they contact, and what functional states they adopt locally. Tumor-associated macrophages (TAMs) and T cells are a ke...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42523700",
-      "date": "2026-07-14",
-      "title": "Toward a cell-type-specific lung HOX code.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42523700/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42523700。",
-      "report": "HOX genes encode transcription factors that are central regulators of cell fate during embryogenesis and of maintaining respective positional cell identity throughout life. Moreover, HOX factors shape the specification of regional properties of the respective...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42524365",
       "date": "2026-07-14",
       "title": "Premature placental senescence in early-onset preeclampsia: syncytiotrophoblast SASP and the maternal syndrome.",
@@ -1142,36 +1178,6 @@
       "fact": "PubMed 记录显示该文献收录于 Briefings in bioinformatics，PMID 为 42476548。",
       "report": "Single-cell RNA sequencing has emerged as a transformative tool, enabling precise phenotype prediction and the detailed identification of disease-associated cell subpopulations. However, many existing computational approaches still rely on predefined cell-type...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42522799",
-      "date": "2026-07-01",
-      "title": "Oral Squamous Cell Carcinoma: A New Era in Molecular Mechanisms and Emerging Targeted Therapies.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42522799/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Asian Pacific journal of cancer prevention : APJCP，PMID 为 42522799。",
-      "report": "Oral squamous cell carcinoma (OSCC), the most common oral cancer, presents a clinical challenge due to its complex tumor microenvironment (TME), dysregulated pathways, and poor prognosis. Current methods of diagnosing OSCC use liquid biopsy technologies (ctDNA...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
