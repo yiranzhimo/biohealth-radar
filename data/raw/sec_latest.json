@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-30T09:05:55.748794+00:00",
+  "capturedAt": "2026-07-30T14:35:52.897183+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-07-16",
@@ -140,6 +140,56 @@
   ],
   "records": [
     {
+      "filingDate": "2026-07-30",
+      "reportDate": "2026-06-30",
+      "acceptanceDateTime": "2026-07-30T08:11:02.000Z",
+      "act": "34",
+      "form": "10-Q",
+      "fileNumber": "001-36407",
+      "filmNumber": "261220304",
+      "items": "",
+      "size": 11125755,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "alny-20260630.htm",
+      "primaryDocDescription": "10-Q",
+      "accessionNumber": "0001178670-26-000062",
+      "companyId": "alnylam",
+      "companyName": "Alnylam Pharmaceuticals",
+      "companyDirections": [
+        "RNA Therapeutics"
+      ],
+      "secTicker": "ALNY",
+      "cik": "0001178670",
+      "secName": "ALNYLAM PHARMACEUTICALS, INC.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000062/alny-20260630.htm"
+    },
+    {
+      "filingDate": "2026-07-30",
+      "reportDate": "2026-07-30",
+      "acceptanceDateTime": "2026-07-30T08:06:25.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-36407",
+      "filmNumber": "261220294",
+      "items": "2.02,9.01",
+      "size": 515639,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "alny-20260730.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001178670-26-000060",
+      "companyId": "alnylam",
+      "companyName": "Alnylam Pharmaceuticals",
+      "companyDirections": [
+        "RNA Therapeutics"
+      ],
+      "secTicker": "ALNY",
+      "cik": "0001178670",
+      "secName": "ALNYLAM PHARMACEUTICALS, INC.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000060/alny-20260730.htm"
+    },
+    {
       "filingDate": "2026-07-29",
       "reportDate": "2026-06-30",
       "acceptanceDateTime": "2026-07-29T21:05:57.000Z",
@@ -268,6 +318,68 @@
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001178670-000117867026000062",
+      "date": "2026-07-30",
+      "title": "Alnylam Pharmaceuticals filed Form 10-Q",
+      "entity": "Alnylam Pharmaceuticals",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000062/alny-20260630.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "RNA Therapeutics"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "ALNY"
+      ],
+      "companyIds": [
+        "alnylam"
+      ],
+      "fact": "SEC EDGAR lists accession 0001178670-26-000062 for Alnylam Pharmaceuticals, Form 10-Q, filed on 2026-07-30.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001178670-000117867026000060",
+      "date": "2026-07-30",
+      "title": "Alnylam Pharmaceuticals filed Form 8-K",
+      "entity": "Alnylam Pharmaceuticals",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000060/alny-20260730.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "RNA Therapeutics"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "ALNY"
+      ],
+      "companyIds": [
+        "alnylam"
+      ],
+      "fact": "SEC EDGAR lists accession 0001178670-26-000060 for Alnylam Pharmaceuticals, Form 8-K, filed on 2026-07-30.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0000874015-000087401526000251",
       "date": "2026-07-29",

@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-30T09:05:48.588316+00:00",
+  "capturedAt": "2026-07-30T14:35:44.215909+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,160 +14,175 @@
     "end": "2026-07-30"
   },
   "pmids": [
-    "42527678",
-    "42527199",
-    "42527030",
-    "42526765",
-    "42526715",
-    "42526442",
+    "42529882",
+    "42529105",
+    "42528983",
+    "42528660",
+    "42528276",
+    "42527762",
+    "42509463",
     "42498177",
     "42497867",
     "42486102",
     "42482180",
     "42476548",
-    "42447329",
     "42527603",
     "42526208",
     "42525178",
     "42523295",
     "42522615",
     "42516427",
+    "42529427",
+    "42529102",
+    "42528655",
     "42525892",
     "42525763",
-    "42524710",
-    "42524365",
-    "42524278",
-    "42523586"
+    "42524710"
   ],
   "records": [
     {
-      "pmid": "42527678",
-      "title": "Bioengineering strategies to interrogate and modulate the aging immune system.",
-      "abstract": "Age-related changes in the immune system result in pronounced vulnerability to acute infections and cancers, and in dysregulated inflammation and wound healing that fuel many chronic diseases. Although we understand much about some of these changes, gaps in mechanistic knowledge remain, in part hindered by a lack of well-validated in vitro models of immune aging. We propose that multidisciplinary approaches, nucleated at the interface of immunology, gerontology and engineering, have the potential to both bring substantial new knowledge, and to usher a new era of precision diagnostics and therapeutics to reprogram and rejuvenate immunity, potentially improving the length and quality of life in older adults. We outline areas to be addressed by this multidisciplinary approach, focusing on the initiation of immune responses. We discuss the potential for new approaches in drug delivery, extracellular matrix and related biomaterials, and in microphysiological and organoid systems, to advance the science of immune aging.",
-      "journal": "Nature aging",
+      "pmid": "42529882",
+      "title": "Blood‒brain barrier permeability assessment: from biomimetic models to multimodal imaging.",
+      "abstract": "The blood‒brain barrier (BBB) is a vital physiological structure that maintains the microenvironmental homeostasis in the central nervous system (CNS). Imbalances in its permeability play a key role in various neurological disorders, including stroke, neurodegenerative diseases, and brain tumors. The development of precise techniques for assessing BBB permeability is therefore paramount for elucidating the mechanisms of neurological diseases, overcoming drug development challenges, and achieving precise diagnosis and treatment of CNS disorders. This review systematically summarizes the latest advances in the assessment of BBB permeability. Regarding in vitro models, platforms have evolved from the traditional transwell system to microfluidic chips incorporating fluid shear forces and subsequently to highly biomimetic brain organoids, with continuous improvements in the ability to simulate the neurovascular unit (NVU) microenvironment. For in vivo assessment, we detail the principles and applications of imaging techniques, including dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI), positron emission tomography (PET), near-infrared II (NIR-II) fluorescence imaging (FI), and two-photon microscopy (TPM), highlighting their complementary strengths in macroscopic quantification, molecular targeting, and microscopic dynamic observation. The integration of multi-modal technologies and precise quantitative assessment is a prominent trend. Future investigations will focus on artificial intelligence (AI)-driven personalized permeability assessment, the development of novel intelligent probes, and the dynamic real-time monitoring of the BBB, thereby providing powerful methodological support for neurological disease research.",
+      "journal": "Journal of Zhejiang University. Science. B",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Department of Basic Medical Sciences, College of Medicine-Phoenix, University of Arizona, Phoenix, AZ, USA. nikolich@arizona.edu.",
-        "Aegis Center of Excellence in Immunity and Inflammation, College of Medicine-Phoenix, University of Arizona, Phoenix, AZ, USA. nikolich@arizona.edu.",
-        "Cancer Biomaterials Engineering Section, Cancer Innovation Laboratory, Center for Cancer Research, National Cancer Institute, Frederick, MD, USA.",
-        "Department of Chemistry and Biomedical Engineering, University of Virginia, Charlottesville, VA, USA.",
-        "Fischell Department of Bioengineering, Clark School of Engineering, University of Maryland, College Park, MD, USA. maiselka@umd.edu.",
-        "R.E. Fischell Institute of Biomedical Devices, Clark School of Engineering, University of Maryland, College Park, MD, USA. maiselka@umd.edu."
+        "Institute of Materiobiology, College of Sciences, Shanghai University, Shanghai 200444, China.",
+        "Shanghai Institute of Applied Physics, Chinese Academy of Sciences, Shanghai 201800, China.",
+        "University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "Department of Traumatology, Rui Jin Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai 200025, China. jqab@163.com.",
+        "Institute of Materiobiology, College of Sciences, Shanghai University, Shanghai 200444, China. sunyanhong@shu.edu.cn."
       ],
-      "doi": "10.1038/s43587-026-01187-y",
-      "date": "2026-07-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527678/"
+      "doi": "10.1631/jzus.B2500786",
+      "date": "2026-07-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42529882/"
     },
     {
-      "pmid": "42527199",
-      "title": "Prenatal organoids for personalised medicine.",
-      "abstract": "Organoids are three-dimensional structures derived from a single stem cell. They self-organize in vitro and mature to recreate microarchitecture and characteristics of their tissues of origin. Since the first culture of mouse intestinal epithelial organoids and the translation to human, this technology has shown vast potential. Applications include developmental biology, disease modelling, drug testing and regenerative medicine making it increasingly relevant to clinical practice. Organoids can now be generated from tissues such as lung, intestine, kidney and brain using adult and fetal stem cells, pluripotent stem cells and cancer samples. Whether to study fetal development, disease physiopathology, regenerative medicine or to develop new therapies in a faster, more ethical and cost-effective way than animal models, organoids represent a powerful new tool. First described in 1999, personalised medicine aims to fine-tune diagnostic, prognosis and treatment to each patient. Nowadays, personalised medicine is spreading to most areas of clinical management, becoming the gold standard for the adoption of new interventions. More recently, these concepts have been applied to fetal medicine for prevention and therapy with initial reports appearing in literature in 2020. By recapitulating patient-specific disease mechanisms, prenatal organoids represent a unique bridge between in vitro-based approaches and personalised fetal medicine. This review presents fetal diseases for which organoids were explored, focusing on the implications of their derivation from prenatal sources such as the amniotic fluid, and discusses their advantages, challenges, and perspectives for prenatal counselling, prognosis or diagnosis, regenerative therapy, in utero surgery, disease modelling and prenatal drug testing.",
-      "journal": "Seminars in pediatric surgery",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Stem Cells and Regenerative Medicine Section, Great Ormond Street Institute of Child Health, University College London, London, UK; Department of Development and Regeneration, Woman and Child and UZ Leuven Clinical Department of Obstetrics and Gynaecology, KU Leuven, Leuven, Belgium; Assistance Publique - Hôpitaux de Paris, Paris, France.",
-        "Stem Cells and Regenerative Medicine Section, Great Ormond Street Institute of Child Health, University College London, London, UK; Department of Paediatric Surgery, \"V. Buzzi\" Children's Hospital, Milan, Italy.",
-        "Stem Cells and Regenerative Medicine Section, Great Ormond Street Institute of Child Health, University College London, London, UK; Fetal and Neonatal Surgery Unit, Ospedale Pediatrico Bambino Gesù, Rome, Italy.",
-        "Stem Cells and Regenerative Medicine Section, Great Ormond Street Institute of Child Health, University College London, London, UK; Fetal and Neonatal Surgery Unit, Ospedale Pediatrico Bambino Gesù, Rome, Italy; Specialist Neonatal and Paediatric Surgery, Great Ormond Street Hospital for Children NHS Foundation Trust, London, UK.",
-        "Stem Cells and Regenerative Medicine Section, Great Ormond Street Institute of Child Health, University College London, London, UK; Division of Surgery and Interventional Science, University College London, London, UK. Electronic address: m.gerli@ucl.ac.uk."
-      ],
-      "doi": "10.1016/j.sempedsurg.2026.151676",
-      "date": "2026-07-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527199/"
-    },
-    {
-      "pmid": "42527030",
-      "title": "IL-27 shapes NK cell heterogeneity and function in colorectal cancer.",
-      "abstract": "Colorectal cancer (CRC) is a leading cause of cancer-related mortality worldwide and is characterized by an immunosuppressive tumor microenvironment (TME). While adaptive immunity contributes to tumor control, growing evidence underscores the role of innate lymphocytes, particularly natural killer (NK) cells, in early antitumor surveillance. However, tumor-infiltrating NK cells often exhibit defective maturation and impaired effector functions, whereas the signals regulating NK cell differentiation and activity in CRC remain poorly defined. Interleukin-27 (IL-27) has emerged as a regulator of antitumor immunity, yet its role in modulating NK cell responses in intestinal tumors is largely unexplored. We employed an orthotopic transplantation model of genetically engineered colorectal tumor organoids Apc-/-KrasG12D/+Trp53R172H/-Smad4-/- (AKPS) to investigate NK cell heterogeneity, maturation, and function during CRC progression. Tumor-infiltrating innate lymphocytes were analyzed using single-cell RNA sequencing, flow cytometry, immunofluorescence, and functional assays. In vitro co-culture systems and in vivo IL-27 blockade were used to assess the impact of tumor-derived IL-27 on NK cell transcriptional programs and effector activity. Single-cell transcriptomic profiling revealed marked heterogeneity among tumor-infiltrating NK cells, identifying subsets with different maturation states and functional capacities. Among innate lymphocytes, AKPS tumors were dominated by NK cells displaying reduced activating receptors and diminished cytotoxic and cytokine-producing potential. Phenotypic and adoptive transfer analyses demonstrated that the TME favors persistence of immature CD27+ NK cell subsets while limiting differentiated NK cells. Mechanistically, tumor-derived IL-27 emerged as a critical regulator sustaining NK cell infiltration and activation; IL-27 blockade reduced NK cell accumulation, interferon-γ production, and immature subset frequency. The clinical relevance of these findings was supported by analysis of human CRC single-cell datasets, which revealed elevated IL-27 signaling in intratumoral NK cells, as well as by the ability of patient-derived organoids to enhance NK-cell cytotoxicity, which was reduced by IL-27 blockade. Our study identifies IL-27 as a critical modulator of NK cell differentiation and function in CRC, highlighting its role in sustaining NK cell-mediated immune surveillance within the tumor microenvironment. These findings provide mechanistic insight into NK cell dysfunction in CRC and suggest IL-27 signaling as a promising therapeutic target to restore innate antitumor immunity.",
-      "journal": "Journal for immunotherapy of cancer",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Molecular Medicine, University of Rome \"La Sapienza\", Rome, Italy.",
-        "Bambino Gesù Children's Hospital, Rome, Italy.",
-        "Centre For Life Nano- & Neuro-Science, Istituto Italiano Di Tecnologia, Rome, Italy.",
-        "IRCCS Neuromed; 86077, Pozzilli (IS), Italy.",
-        "Katholieke Universiteit Leuven, Leuven, Belgium.",
-        "Istituto Pasteur Italia -Fondazione Cenci Bolognetti, Rome, Italy.",
-        "Department of Surgery, Umberto I Polyclinic, University of Rome \"La Sapienza\", Rome, Italy.",
-        "Department of Molecular Medicine, University of Rome \"La Sapienza\", Rome, Italy cinzia.fionda@uniroma1.it helena.stabile@uniroma1.it."
-      ],
-      "doi": "10.1136/jitc-2025-014667",
-      "date": "2026-07-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527030/"
-    },
-    {
-      "pmid": "42526765",
-      "title": "USP15 mutation associated with autism spectrum disorder alters progenitor fate and neuronal maturation in human brain organoids.",
-      "abstract": "De novo variants in the ubiquitin-proteasome pathway are linked to autism spectrum disorder (ASD), yet their functional impact on neurodevelopment remains poorly understood. We investigated USP15, a deubiquitinating enzyme with rare damaging variants identified in individuals with ASD, using isogenic human iPSC-derived brain organoids and single-cell transcriptomics. USP15-mutant organoids showed genotype-dependent, progenitor-centered alterations during corticogenesis. Heterozygous organoids modeling haploinsufficiency displayed a shift toward later pseudotime states together with altered maturation and synaptic organization of deep-layer neurons. In contrast, homozygous organoids showed broader phenotypes, including mitotic suppression, aberrant HOX gene expression, and stress-response activation. Regulon analysis showed reduced activity of progenitor-associated regulons, including SOX2, NR2F1, and NR2F2, in heterozygous organoids, whereas homozygous organoids exhibited broader changes in transcriptional regulatory networks. Furthermore, USP15 mutant-associated gene expression patterns were significantly enriched for established ASD risk genes. Comparison with the mouse brain perturbation atlas showed that the transcriptional signature of the USP15 mutant showed notable overlap with those of Fezf2 and Foxp1 mutants, key regulators of deep-layer projection neuron identity. These findings characterize genotype-dependent neurodevelopmental phenotypes associated with reduced USP15 dosage and provide a human neural framework for investigating ASD-relevant developmental mechanisms in the context of a rare ubiquitin-pathway variant.",
-      "journal": "Molecules and cells",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Anatomy and Cell Biology, Seoul National University College of Medicine, Seoul, Republic of Korea; Department of Translational Medicine, Seoul National University College of Medicine, Seoul, Republic of Korea.",
-        "L-HOPE Program for Community-Based Total Learning Health Systems, Korea University, Seoul, Republic of Korea; Department of Integrated Biomedical and Life Science, Korea University, Seoul, Republic of Korea; National Research Laboratory for Convergence Degradation Biology, Korea University, Seoul, Republic of Korea.",
-        "Department of Life Science, Ewha Womans University, Seoul, Republic of Korea.",
-        "School of Biosystem and Biomedical Science, College of Health Science, Korea University, Seoul, Republic of Korea.",
-        "Department of Anatomy and Cell Biology, Seoul National University College of Medicine, Seoul, Republic of Korea; Department of Biochemistry & Molecular Biology, Faculty of Medicine, University of British Columbia, Vancouver, BC V6T 1Z4, Canada; Terry Fox Laboratory, British Columbia Cancer Research Institute, Vancouver, BC V5Z 1L3, Canada.",
-        "Department of Anatomy and Cell Biology, Seoul National University College of Medicine, Seoul, Republic of Korea.",
-        "Department of Psychiatry, Seoul National University Bundang Hospital, Seongnam, Republic of Korea; Department of Psychiatry, Seoul National University College of Medicine, Seoul, Republic of Korea.",
-        "Department of Psychiatry, Seoul National University Bundang Hospital, Seongnam, Republic of Korea.",
-        "Department of Life Science, Ewha Womans University, Seoul, Republic of Korea. Electronic address: jkim1964@ewha.ac.kr.",
-        "L-HOPE Program for Community-Based Total Learning Health Systems, Korea University, Seoul, Republic of Korea; Department of Integrated Biomedical and Life Science, Korea University, Seoul, Republic of Korea; National Research Laboratory for Convergence Degradation Biology, Korea University, Seoul, Republic of Korea; School of Biosystem and Biomedical Science, College of Health Science, Korea University, Seoul, Republic of Korea. Electronic address: joonan30@korea.ac.kr.",
-        "Department of Anatomy and Cell Biology, Seoul National University College of Medicine, Seoul, Republic of Korea; Department of Translational Medicine, Seoul National University College of Medicine, Seoul, Republic of Korea; Division of Pediatric Neurosurgery, Seoul National University Children's Hospital, Seoul, Republic of Korea. Electronic address: ddang1@snu.ac.kr."
-      ],
-      "doi": "10.1016/j.mocell.2026.100387",
-      "date": "2026-07-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526765/"
-    },
-    {
-      "pmid": "42526715",
-      "title": "Intranasal drug delivery to the brain for neurodegenerative diseases: Current efforts and challenges in delivery platforms and modeling.",
-      "abstract": "Neurodegenerative diseases, such as Parkinson's disease (PD) and Alzheimer's disease (AD), globally pose a significant challenge with an aging population. Despite the presence of various therapeutic agents, AD and PD treatments with small molecules currently only address the symptoms; certain biologic agents for AD have been approved for their disease-modifying effects, but the risk of intracerebral hemorrhage severely limits their use. Moreover, the bioavailability of orally administered agents in the brain is challenged by the blood-brain barrier, complicating brain-targeted drug development. Extensive efforts are currently underway to develop intranasal platforms with nanoparticles for direct nose-to-brain drug delivery. Additionally, various in vitro designs involving brain organoids, and in vivo models, such as rodents and zebrafish, have been explored to improve the efficiency and accuracy of preclinical models. Efforts to develop sophisticated computational modeling of intranasal drug delivery, including computational fluid dynamics (CFD) deposition and physiologically based pharmacokinetics (PBPK) modeling, also continue to advance the intranasal drug delivery research and potentially improve the feasibility of developing clinically relevant intranasal platforms for neurodegenerative disease.",
-      "journal": "Advanced drug delivery reviews",
+      "pmid": "42529105",
+      "title": "Models of high-grade serous carcinoma of tubo-ovarian origin.",
+      "abstract": "Biological models aim to recapitulate the molecular and histologic characteristics, as well as the carcinogenesis of the disease of interest, to enable high-fidelity experimentation and impactful translational development. In high-grade serous carcinoma of ovarian, tubal, or peritoneal origin, there is a need to regularly re-evaluate the experimental models being employed to address research questions. This review aims to provide a resource for better understanding the applications, strengths, and limitations of the available models. This work discusses the origin and carcinogenesis of high-grade serous carcinoma and reviews normal cell-of-origin models, as understanding the cellular origin is critical to experimental efforts focused on pathogenesis, disease progression, and prevention. High-grade serous carcinoma cell lines are discussed, including essential and complementary molecular features, cell line management, and limitations. Next, the review examines advances in organoids, with a specific focus on patient-derived organoids from ascites and single-cell suspensions, organ-on-a-chip platforms, and tissue slice technologies. Finally, given the heterogeneity of epithelial ovarian cancer in general, and high-grade serous carcinoma in particular, and the evolving understanding of the importance of the tumor microenvironment, in vivo models capture organism-level complexity. In this review, we focused on high-grade serous carcinoma. In this context, we review patient-derived xenograft (PDX), syngeneic, and genetically engineered mouse models. Each has its own advantages and disadvantages, and guidance is provided on the optimal use of these in vivo approaches for the study of high-grade serous carcinoma.",
+      "journal": "Oncology reviews",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Department of Bioengineering and Therapeutic Sciences, Schools of Pharmacy and Medicine, University of California, San Francisco, San Francisco, CA, USA. Electronic address: katherine.bang@ucsf.edu.",
-        "Division of Quantitative Methods and Modeling, Office of Research and Standards, Office of Generic Drugs, Center for Drug Evaluation and Research, U.S. Food and Drug Administration, Silver Spring, MD, USA. Electronic address: ross.walenga@fda.hhs.gov.",
-        "Division of Quantitative Methods and Modeling, Office of Research and Standards, Office of Generic Drugs, Center for Drug Evaluation and Research, U.S. Food and Drug Administration, Silver Spring, MD, USA.",
-        "Division of Therapeutic Performance I, Office of Research and Standards, Office of Generic Drugs, Center for Drug Evaluation and Research, U.S. Food and Drug Administration, Silver Spring, MD, USA.",
-        "Division of Applied Regulatory Science, Office of Clinical Pharmacology, Office of Translational Sciences, Center for Drug Evaluation and Research, U.S. Food and Drug Administration, Silver Spring, MD, USA.",
-        "Department of Bioengineering and Therapeutic Sciences, Schools of Pharmacy and Medicine, University of California, San Francisco, San Francisco, CA, USA. Electronic address: liang.zhao2@ucsf.edu.",
-        "Department of Bioengineering and Therapeutic Sciences, Schools of Pharmacy and Medicine, University of California, San Francisco, San Francisco, CA, USA. Electronic address: su.guo@ucsf.edu."
+        "Department of Biological Sciences, University of Maryland Baltimore County, Baltimore, MD, United States.",
+        "University of Maryland Greenebaum Comprehensive Cancer Center, Baltimore, MD, United States.",
+        "Peggy and Charles Stephenson Cancer Center, The University of Oklahoma Health Sciences, Oklahoma City, OK, United States.",
+        "Department of Obstetrics and Gynecology, the University of Oklahoma Health Sciences, Oklahoma City, OK, United States.",
+        "The Daffodil Centre, The University of Sydney, and Cancer Council NSW, Sydney, NSW, Australia.",
+        "Faculty of Medicine and Health, The University of Sydney, Sydney, NSW, Australia.",
+        "Division of Oncology, Department of Medicine, Washington University in St. Louis, St. Louis, MO, United States.",
+        "University of Pittsburgh School of Medicine, Department of Medicine, and Department of Obstetrics, Gynecology and Reproductive Sciences, Pittsburgh, PA, United States.",
+        "Women's Cancer, Magee-Womens Research Institute, Pittsburgh, PA, United States.",
+        "Department of Pathology and Laboratory Medicine, University of Wisconsin-Madison, Madison, WI, United States.",
+        "Center for Precision Medicine, University of Wisconsin-Madison, Madison, WI, United States.",
+        "Department of Obstetrics and Gynecology, University of Colorado Anschutz Medical Campus, Aurora, CO, United States.",
+        "Melvin and Bren Simon Comprehensive Cancer Center, Indiana University School of Medicine, Indianapolis, IN, United States.",
+        "Medical Sciences Program and Department of Anatomy, Cell Biology and Physiology, Indiana University School of Medicine, Bloomington, IN, United States.",
+        "Penn Ovarian Cancer Research Center, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, United States.",
+        "Basser Center for BRCA, Abramson Cancer Center, University of Pennsylvania, Philadelphia, PA, United States.",
+        "Division of Gynecologic Oncology, Department of Obstetrics and Gynecology, University of Colorado Anschutz Medical Campus, Aurora, CO, United States.",
+        "Division of Reproductive Sciences, Department of Obstetrics and Gynecology, University of Colorado Anschutz Medical Campus, Aurora, CO, United States."
       ],
-      "doi": "10.1016/j.addr.2026.115938",
-      "date": "2026-07-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526715/"
+      "doi": "10.3389/or.2026.1849834",
+      "date": "2026-07-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42529105/"
     },
     {
-      "pmid": "42526442",
-      "title": "A xeno-free human iPSC-derived prostate organoid platform for multilineage differentiation and genetic manipulation.",
-      "abstract": "Current prostate organoid models rely on tissue-derived material or animal components and lack epithelial and stromal complexity. We defined a xeno-free system to generate human prostate organoids from induced pluripotent stem cells with consistent multilineage differentiation. Organoids formed as free-floating 3D aggregates self-organized into the epithelial and stromal domains with basal, luminal, neuroendocrine, fibroblast, and smooth muscle markers. In an alternative modular co-culture system, engineered epithelial progenitors aggregated with wild-type mesenchymal progenitors, enabling compartment-specific manipulation. Androgen receptor (AR)-overexpressing organoids showed increased epithelial AR and prostate-specific antigen (PSA) expression and proliferation. Single-cell transcriptomics, together with qPCR and immunostaining, confirmed prostate lineage specification and tissue organization. This xeno-free platform provides a reproducible, scalable, and genetically tractable model to study in vitro prostate lineage programs, epithelial and stromal interactions, and disease biology.",
-      "journal": "Cell reports methods",
+      "pmid": "42528983",
+      "title": "Modeling Epilepsies with Human Brain Organoids: Recent Advances and Ongoing Challenges.",
+      "abstract": "Epilepsy is a common and heterogeneous group of neurologic disorders characterized by recurrent unprovoked seizures. With a diverse array of genetic and acquired etiologies, the mechanisms linking insults to epileptogenesis and network hyperexcitability remain poorly understood. Although animal models have provided critical insights into seizure generation and disease mechanisms, differences in human cortical development and limitations in recapitulating spontaneous seizure phenotypes observed in patients highlight the need to develop complementary human-based models. Human pluripotent stem cell-derived brain organoids, including patient-derived and CRISPR-engineered models, offer an increasingly powerful human-specific platform to investigate epilepsy-associated disruptions in neuronal production and differentiation, interneuron migration, and network activity. In this review, we discuss recent advances and ongoing challenges of human cortical organoid models of genetic and acquired epilepsies. Together with established animal models, organoid-based approaches hold promise for advancing mechanistic understanding of epilepsy and enabling the development of more precise therapeutic strategies.",
+      "journal": "Epilepsy currents",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Neurology, University of Michigan Medical School, Ann Arbor, MI, USA.",
+        "Neuroscience Graduate Program, University of Michigan Medical School, Ann Arbor, MI, USA.",
+        "Michigan Neuroscience Institute, University of Michigan Medical School, Ann Arbor, MI, USA.",
+        "Neurology Service, VA Ann Arbor Healthcare System, Ann Arbor, MI, USA."
+      ],
+      "doi": "10.1177/15357597261469411",
+      "date": "2026-07-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42528983/"
+    },
+    {
+      "pmid": "42528660",
+      "title": "PDGF-BB inhibits SP1/Angptl7 mediated chondro-endothelial crosstalk via stress-sensitivity Piezo1 regulation in osteoarthritis.",
+      "abstract": "Osteoarthritis (OA) involves cartilage degradation and subchondral bone alterations, yet the mechanisms of chondro-endothelial crosstalk remain unclear. Stress-sensitive Piezo1 and SP1/Angptl7 signaling may play key roles in this process. This research aimed to investigate whether Platelet-derived growth factor (PDGF)-BB regulates chondro-endothelial crosstalk via Piezo1-mediated SP1/Angptl7 inhibition. Single- and multiple-cell-component organoids (chondrocytes SW1353 and endothelial HMEC-1) were constructed using high-throughput 3D culture. Organoids were treated with MIA to induce OA-like changes, followed by PDGF-BB with or without Yoda1 (Piezo1 activator) or Angptl7. In vivo, OA was induced in rats by intraarticular MIA injection, and PDGF-BB or sodium hyaluronate (SH)-PDGF was administered. Histology and immunofluorescence were used to assess F-actin formation, Piezo1 activation, SP1 phosphorylation, Angptl7 and VEGF/Notch/DLL4 expression. PDGF-BB inhibited F-actin formation and reduced Piezo1 activation in OA chondrocytes. It suppressed SP1 phosphorylation and Angptl7 expression, downregulating VEGF/Notch/DLL4 signaling and reducing endothelial invasion in organoids. These effects were partially reversed by Yoda1 and fully reversed by Angptl7. In vivo, PDGF-BB and SH-PDGF attenuated cartilage degeneration and reduced Piezo1 activation, SP1 phosphorylation, and Angptl7 expression. PDGF-BB alleviates OA by inhibiting SP1/Angptl7-mediated chondro-endothelial crosstalk, partially via stress-sensitive Piezo1 regulation through cytoskeletal remodeling. Multiple-cell-component organoids provide a valuable in vitro model for studying cartilage pathophysiology.",
+      "journal": "Frontiers in pharmacology",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Newcastle University, Newcastle, UK.",
-        "University of Cambridge, Cambridge, UK.",
-        "Endeavor Health Research Institute, Evanston, IL, USA; Pritzker School of Medicine, University of Chicago, Chicago, IL, USA.",
-        "UT Southwestern Medical Center, Dallas, TX, USA.",
-        "Newcastle University, Newcastle, UK; Imperial College London, London, UK.",
-        "Newcastle University, Newcastle, UK. Electronic address: adriana.buskin@ncl.ac.uk."
+        "Department of Sports Medicine, Wuhan Fourth Hospital, Wuhan, China.",
+        "Hubei Provincial Sports Medicine Center, Wuhan, China.",
+        "Hubei Key Laboratory of Sports Injury and Precision Treatment, Wuhan Fourth Hospital, Wuhan, China.",
+        "Hubei Provincial Clinical Research Center for Orthopaedics, Wuhan, China.",
+        "Department of Anesthesiology, Wuhan Fourth Hospital, Wuhan, China.",
+        "Zibo First Hospital, Zibo Prevention and Treatment Hospital for Occupation Diseases, Zibo, China.",
+        "Department of Cardiovascular, Wuhan Fourth Hospital, Wuhan, China.",
+        "Department of Rehabilitation, Wuhan Fourth Hospital, Wuhan, China."
       ],
-      "doi": "10.1016/j.crmeth.2026.101538",
+      "doi": "10.3389/fphar.2026.1853487",
+      "date": "2026-07-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42528660/"
+    },
+    {
+      "pmid": "42528276",
+      "title": "The Respiratory Epithelial Barrier as an Immunopharmacological Rheostat: From Homeostatic Sentinel to Therapeutic Target in Chronic Lung Disease.",
+      "abstract": "The respiratory epithelium is a dynamic immunopharmacological interface that transcends its traditional role as a passive barrier to become a central coordinator of pulmonary immunity. This review introduces and elaborates on the paradigm of the \"Epithelial Immunopharmacological Rheostat,\" a conceptual framework that posits the epithelium as a dynamic, multidimensional signal processor that continuously calibrates the threshold of immune activation. Distinct from static models of barrier dysfunction or isolated alarmin biology, this rheostat operates through four hierarchically interacting axes: barrier integrity, alarmin/type 2, senescence/repair, and tolerogenic programming. We critically dissect how dysregulation of specific axes-alone or in combination-initiates and perpetuates the pathology of chronic respiratory diseases, including asthma, COPD, and idiopathic pulmonary fibrosis. A rigorous, pharmacology-centric analysis deconstructs the molecular circuitry of epithelial-immune crosstalk, evaluating the druggability of targets from tight junction complexes and pattern recognition receptors to the alarmin (TSLP, IL-33, IL-25) signaling cascades and their downstream JAK-STAT, NF-κB, and MAPK effectors. Beyond cataloguing mechanisms, this review provides a comparative and critical appraisal of emerging therapeutic strategies, including alarmin-targeted biologics, barrier-restorative agents (e.g., postbiotics, short-chain fatty acids), kinase inhibitors, senotherapeutics, and frontier cell-based therapies. A dedicated synthesis addresses pivotal pharmacokinetic hurdles, biomarker-driven stratification, and the imperative of precision endotyping. Finally, we forecast how advanced human organoid models are catalyzing the shift toward personalized interventions designed to reset the defective rheostat. This comprehensive synthesis maps the intricate landscape of epithelial immunopharmacology and identifies critical barriers that must be overcome to translate these insights into transformative clinical outcomes.",
+      "journal": "European journal of immunology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Zhuhai Hospital of Integrated Traditional Chinese and Western Medicine, Zhuhai, Guangdong, China.",
+        "Zhuhai Hospital Affiliated to Faculty of Chinese Medicine, Macau University of Science and Technology, Zhuhai, Guangdong, China."
+      ],
+      "doi": "10.1002/eji.70249",
+      "date": "2026-07-00",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42528276/"
+    },
+    {
+      "pmid": "42527762",
+      "title": "Harnessing Endogenous Plasticity Rather than Reprogramming of Mature Cells Will Advance Regenerative Medicine, Cancer Treatment and Rejuvenation.",
+      "abstract": "The successful culture of human embryonic stem (hES) cells from inner cell mass cells of blastocyst stage 'spare' embryos in 1998, followed by induced pluripotent stem (iPS) cells in 2006, which allowed somatic cells to be reprogrammed to pluripotency using the Yamanaka factors, transformed regenerative biology and inspired extensive global efforts towards developing pluripotent stem cell-based applications. However, hES and iPS cells, as well as organoids generated from them, largely retain fetal-like characteristics, which limits their relevance for clinical translation. Concurrently, the prevailing assumption published in leading journals that adult tissues lack endogenous stem cells has led to the belief that mature cells dedifferentiate and reprogram during in vivo regeneration upon chronic injury, and that the appearance of embryonic/fetal markers in diabetes, heart failure, cancer, and many other chronic disease states reflects dedifferentiation of mature cells. We suggest that the prevailing concepts of dedifferentiation and reprogramming, both in vitro and in vivo, require careful re-evaluation. Adult somatic cells possibly do not truly dedifferentiate, neither in vitro nor in vivo. Instead, tissue-resident, pluripotent, very small embryonic-like stem cells (VSELs) in multiple organs account for the observed biology. In vitro \"reprogramming\" responses to Yamanaka factors likely reflect selective activation and expansion of VSELs/early progenitors rather than the dedifferentiation/ reprogramming of mature adult somatic cells. Likewise, the embryonic/fetal-like signatures reported in multiple disease states including cancer reflect expansion of immature tissue-specific progenitors that arise from VSELs but fail to differentiate normally due to a damaged microenvironment in vivo. Therapeutic strategies involving transplantation of MSCs, MUSE cells, or their secreted exosomes improve disease outcomes, possibly by restoring the damaged niche that supports functional tissue repair by VSELs. Although direct evidence to support this is lacking at present, recognising the central role of VSELs/progenitors and their niche in maintaining tissue homeostasis in vivo could resolve existing roadblocks and guide more effective endogenous regenerative therapies for diseased tissues and age-related dysfunctions.",
+      "journal": "Stem cell reviews and reports",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "TZAR Genomics India Pvt Ltd, Todi Mill Compound, Senapati Bapat Marg, Lower Parel, Mumbai, 400013, India. deepa.bhartiya@tzarlabs.com.",
+        "TZAR Genomics India Pvt Ltd, Todi Mill Compound, Senapati Bapat Marg, Lower Parel, Mumbai, 400013, India.",
+        "Epigeneres Biotech Pvt Ltd, Todi Mill Compound, Senapati Bapat Marg, Lower Parel, Mumbai, 400013, India.",
+        "23Ikigai Pte Ltd, 137 Telok Ayer Street, Singapore, #05-02, 068602, Singapore."
+      ],
+      "doi": "10.1007/s12015-026-11197-3",
       "date": "2026-07-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526442/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527762/"
+    },
+    {
+      "pmid": "42509463",
+      "title": "Inflammation-linked aging signals in frozen single-cell foundation models: donor-aware detection and robustness testing.",
+      "abstract": "Single-cell foundation models such as scGPT and Geneformer are large neural networks trained on human single-cell RNA-seq data. They were never shown chronological age during training. Do their internal representations nevertheless encode aging biology in a way that can be interpreted, and how should we test whether an apparent aging signal is real biology rather than an artifact of which donors and cell types happened to be sampled?. We applied a nine-step evaluation pipeline to two foundation models (frozen, no fine-tuning) and five PBMC datasets containing 4 to 5 million cells from ∼ 2,000 donors with chronological age. Each step is one specific test: can we read age out of the model's representation; does the representation place age along a clean axis; do sparse-feature decompositions surface aging-related programs; do the two models agree at the pathway level; do targeted perturbations of those features change predicted age in the expected direction; and finally, does the signal survive when we resample cells so that young and old donors have matched cell-type composition (removing the most obvious confound). (1) The foundation models encode age but do not predict it better than a 50-component PCA of gene expression: in all five cohorts the PCA baseline matches or exceeds the best foundation-model probe. What they add is a complementary interpretability mode-sparse-feature decomposition and activation-level intervention-rather than predictive power; a PCA of gene expression is itself interpretable through its loadings, so the contribution here is the evaluation framework that adjudicates such signals, not a claim that foundation models predict age better. Randomly reinitialising Geneformer's weights destroys most of its age signal ( - 0.107 balanced-accuracy points), while doing the same to scGPT's layer 9 changes essentially nothing-so the two models encode age asymmetrically. (2) Sparse autoencoders surface 132 robust aging-related features across the two models, of which 193 cross-model pairs match each other at pathway level, concentrated in inflammation. The shared inflammation signal resolves into specific submodules: TNF / NF- κ B classical and type-II IFN- γ (both models agree), complement (scGPT-specific). (3) The strongest aging signal is Geneformer's NF- κ B program in the AIDA phase 1 v2 cohort. Pushing those features in the \"older\" direction increases predicted age by 0.15 expected-age units; pushing them the opposite way decreases it; pushing along random unrelated directions does neither-a three-way directional check we call the \"strict gate\". When cells are resampled so that the age groups have matched cell-type composition (the strictest control), the directional effect shrinks ∼ 3 × but 7 of 8 resampling seeds still pass the strict gate. One in eight resamplings fully nullifies the effect. The directional aging signal therefore survives confounder removal on most realizations, at attenuated magnitude. An external check on the Yazar OneK1K cohort (981 donors, fully separate from AIDA) reproduces the workflow on a known-strong biological axis (sex), with results within 10% of the AIDA contrast-evidence that the test is calibrated and transfers off-cohort. The paper's primary contribution is an evaluation framework for deciding when an apparent aging signal in a single-cell foundation model is biology rather than sampling structure. Applied here, it shows that frozen foundation models carry a recoverable aging signal concentrated in NF- κ B and IFN- γ inflammation submodules-biology that is already established at the gene-expression level, recovered zero-shot from models never trained on age. Reporting both an unrestricted contrast and a composition-matched contrast as side-by-side specificity tests-not just the headline number-is the framework's central recommendation.",
+      "journal": "Biogerontology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Computer Science, University of Tübingen, Tübingen, Germany. kendiukhov@gmail.com."
+      ],
+      "doi": "10.1007/s10522-026-10471-8",
+      "date": "2026-07-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42509463/"
     },
     {
       "pmid": "42498177",
@@ -264,24 +279,6 @@
       "doi": "10.1093/bib/bbag395",
       "date": "2026-07-03",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42476548/"
-    },
-    {
-      "pmid": "42447329",
-      "title": "Fetal myogenesis chromatin state and CpG from the open alliance markers and their intersection with adult muscle and gastrointestinal genetics.",
-      "abstract": "Epigenetic inheritance links fetal chromatin organization and CpG methylation to lifelong tissue phenotypes. We tested the Fetal Chromatin-CpG Developmental Blueprint (FCCD-B) model, proposing that fetal chromatin states shaped by maternal nutrient and transcription factor networks establish regulatory programs preserved in adult traits. We integrated 21 970 fetal single-cell transcriptomes with chromatin accessibility data, including 130 myogenic cells. Adult GWAS datasets included 1614 appendicular lean mass (ALM) loci and 445 grip strength loci. Fine-mapping, colocalization, and gene regulatory networks were inferred using GRNBoost2, Enformer, and Basenji, alongside virtual-cell simulations of nutrient and stress perturbations. ALM and grip strength showed strong genetic correlation (rg = 0.49; Z = 26). Fine-mapping identified 1355 high-confidence ALM loci (median PIP = 0.91). A total of 2935 shared GWAS-eQTL variants overlapped fetal chromatin, with 70-88% accessibility preserved in endothelial and cardiomyocyte lineages. A SMAD3-centered TGF-β network (50 targets) was identified. Simulations showed that vitamin D, folate, and oxidative stress increased myofibril index (+0.141), epithelial regeneration (+0.035), and combined effects (+0.147). Persistent fetal chromatin and CpG architectures encode regulatory programs linking maternal environment to adult phenotypes, supporting the FCCD-B model as a predictive framework for developmental epigenetics.",
-      "journal": "Human molecular genetics",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Stomatology, Hangzhou Linping District Women & Children Hospital, 359 Renmin Avenue, Linping District, Hangzhou 31100, China.",
-        "Outpatient Medical Center, Linping Branch, Women's Hospital, School of Medicine, Zhejiang University, 359 Renmin Avenue, Linping District, Hangzhou 31100, China.",
-        "Center for Reproductive Medicine, the Fourth Affiliated Hospital of School of Medicine, Zhejiang University, N1 Shangcheng Avenue, Yiwu 32200, China.",
-        "Department of Obstetrics, the Fourth Affiliated Hospital of School of Medicine, Zhejiang University, N1 Shangcheng Avenue, Yiwu 32200, China."
-      ],
-      "doi": "10.1093/hmg/ddag062",
-      "date": "2026-06-06",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447329/"
     },
     {
       "pmid": "42527603",
@@ -401,6 +398,57 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42516427/"
     },
     {
+      "pmid": "42529427",
+      "title": "Specific PET Imaging for Precision Management of Lung Cancer: Advances, Clinical Translation and Future Directions.",
+      "abstract": "Lung cancer continues to be the leading cause of cancer-related deaths worldwide, primarily due to persistent challenges in early detection and the limited effectiveness of precision medicine. Although low-dose computed tomography (CT) has been widely implemented for lung cancer screening and has contributed to a measurable reduction in disease-specific mortality, its diagnostic accuracy is limited by its inability to reliably distinguish benign from malignant pulmonary nodules. Furthermore, the clinical standard for metabolic imaging18F-fluorodeoxyglucose (18F-FDG) positron emission tomography (PET)is significantly constrained by a high incidence of false-positive findings in patients with inflammatory conditions and frequent false-negative results in tumors exhibiting low glycolytic activity. To overcome these critical limitations, highly specific PET radiotracers have been developed to target immune checkpoints, cell surface receptors, and distinct features of the tumor microenvironment. These molecularly targeted probes offer improved biological specificity, enabling more precise visualization of tumor pathophysiology and supporting applications in early diagnosis, real-time treatment monitoring, and prognostic stratification. This review summarizes recent advances in targeted PET imaging and critically evaluates the potential of integrating these approaches with multimodal imaging, liquid biopsy, and artificial intelligence (AI)-driven radiomics to enhance diagnostic accuracy and inform therapeutic decision-making. By synthesizing key developments from both preclinical studies and clinical trials, we highlight the translational significance and future directions of target-specific PET tracers. Despite existing challenges related to tracer development, regulatory approval, and methodological standardization, the integration of next-generation whole-body PET systems with advanced artificial intelligence algorithms holds considerable promise for establishing molecular-targeted PET as a cornerstone of precision oncology in lung cancer management.",
+      "journal": "Chemical & biomedical imaging",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "National Health Commission Key Laboratory of Nuclear Medicine, Jiangsu Key Laboratory of Molecular Nuclear Medicine, Jiangsu Institute of Nuclear Medicine, Wuxi 214063, China."
+      ],
+      "doi": "10.1021/cbmi.5c00289",
+      "date": "2026-02-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42529427/"
+    },
+    {
+      "pmid": "42529102",
+      "title": "Mapping therapy-responsive immune ecotypes in clear cell renal cell carcinoma through integrative omics.",
+      "abstract": "Clear cell renal cell carcinoma (ccRCC) is a kidney cancer in which immune activity is closely intertwined with von Hippel-Lindau (VHL) loss, hypoxia-inducible factor (HIF) signaling, angiogenesis, hypoxia, and metabolic adaptation. Although immune checkpoint inhibitor (ICI)-based regimens have changed the treatment landscape of advanced ccRCC, only a subset of patients achieve durable benefit. Commonly used biomarkers, such as programmed death-ligand 1 (PD-L1) expression, tumor mutation burden (TMB), and broad inflammatory gene signatures, have not been sufficient to explain this variation or to guide routine treatment selection. One reason is that immune infiltration in ccRCC is not synonymous with effective antitumor immunity. A tumor rich in CD8+ T cells may still be resistant if these cells are exhausted, metabolically restricted, spatially separated from tumor nests, or surrounded by suppressive myeloid, stromal, and vascular programs. Therefore, the key issue is not simply whether a tumor is immunologically \"hot\" or \"cold,\" but which part of the antitumor response has failed. In this Mini Review, we discuss ccRCC immunotherapy response from an immune-ecological perspective. We focus on several treatment-relevant immune states, including T-cell-inflamed but dysfunctional tumors, myeloid-dominant suppressive tumors, angiogenesis- and hypoxia-skewed tumors, and immune-excluded tumors. We also consider how bulk transcriptomics, single-cell and spatial profiling, T-cell receptor sequencing, proteomics, metabolomics, and longitudinal liquid biopsy may help define these ecotypes and capture treatment-induced remodeling. This perspective may support more refined patient stratification and more mechanism-matched immunotherapy strategies in ccRCC.",
+      "journal": "Frontiers in immunology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Radiotherapy, Suzhou Ninth People's Hospital, Suzhou, China.",
+        "Department of Ultrasound, The Second Affiliated Hospital of Army Medical University, Chongqing, China."
+      ],
+      "doi": "10.3389/fimmu.2026.1893607",
+      "date": "2026-07-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42529102/"
+    },
+    {
+      "pmid": "42528655",
+      "title": "Preoperative evaluation of solitary pulmonary nodules and adenocarcinoma invasiveness using ultra-high-resolution computed tomography and multidimensional liquid biopsy: a prospective exploratory study.",
+      "abstract": "Accurate preoperative characterization of solitary pulmonary nodules (SPNs), particularly differentiation of benign from malignant lesions and assessment of adenocarcinoma invasiveness, remains challenging based on morphological features alone. We investigated whether integrating 1024-matrix ultra-high-resolution computed tomography (UHRCT) with two liquid-biopsy signals, urinary cellular energy metabolism (CEM) and a seven tumor-associated autoantibody (7-TAAb) panel, could improve diagnostic performance in surgically treated patients with SPNs. In this single-center prospective study, consecutive adults with SPNs (≤3 cm) scheduled for video-assisted thoracoscopic surgery between January 2022 and December 2024 were enrolled (n = 183). All patients underwent preoperative UHRCT (1024×1024), urinary CEM testing, and 7-TAAb testing. A paired subgroup (n = 85) additionally underwent conventional HRCT (512×512) within 1 month before surgery. Postoperative histopathology served as the reference standard. Diagnostic performance metrics were calculated for each modality, parallel-rule combined strategies, and probability-based logistic regression models. Among 183 patients, 164 (89.6%) had malignant nodules. UHRCT achieved the best single-modality discrimination (AUC, 0.831; sensitivity, 87.2%; specificity, 78.9%), outperforming CEM (AUC, 0.605) and 7-TAAbs (AUC, 0.558). Under the parallel-rule strategy, multimodal testing increased sensitivity but markedly reduced specificity (sensitivity 98.8%, specificity 9.5%). The probability-based fully integrated model achieved the highest AUC (0.946). At the Youden-index threshold of 0.816, this model yielded sensitivity of 92.7%, specificity of 84.2%, PPV of 98.1%, NPV of 57.1%, and accuracy of 91.8%. In the paired comparison (n = 85), UHRCT showed higher sensitivity (92.0% vs. 68.0%) and specificity (90.0% vs. 73.3%) than HRCT. For invasiveness assessment, positivity rates of both urinary CEM (57.6% vs. 31.6%) and 7-TAAbs (53.8% vs. 31.0%) were higher in invasive adenocarcinoma than in pre-invasive lesions. In surgically selected patients with SPNs, 1024-matrix UHRCT provided the strongest single-modality diagnostic information, while urinary CEM and 7-TAAbs offered complementary biological signals associated with invasive adenocarcinoma pathology. Probability-based integration provided a more balanced diagnostic framework than a simple parallel-rule strategy. Given the high prevalence of malignancy and the limited number of benign lesions, these findings should be considered exploratory and require external validation in broader outpatient and screening cohorts.",
+      "journal": "Frontiers in oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Thoracic Surgery, Shenyang Chest Hospital, Shenyang, China.",
+        "Department of Graduate Studies, Shenyang Medical College, Shenyang, Liaoning, China.",
+        "Department of Operating Room, Shenyang Tenth People's Hospital, Shenyang, Liaoning, China.",
+        "Detexin Biomedical (Dalian) Co., Ltd., Dalian, China."
+      ],
+      "doi": "10.3389/fonc.2026.1818928",
+      "date": "2026-07-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42528655/"
+    },
+    {
       "pmid": "42525892",
       "title": "Rechallenge With Anti-Human Epidermal Growth Factor Receptor 2 Therapy Guided by Liquid Biopsy in HER2-Amplified Metastatic Colorectal Cancer.",
       "abstract": "",
@@ -450,74 +498,20 @@
       "doi": "10.1148/ryai.260385",
       "date": "2026-07-29",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42524710/"
-    },
-    {
-      "pmid": "42524365",
-      "title": "Premature placental senescence in early-onset preeclampsia: syncytiotrophoblast SASP and the maternal syndrome.",
-      "abstract": "Early-onset preeclampsia (EOPE) remains a leading cause of maternal and perinatal morbidity worldwide. This review synthesizes evidence that premature placental senescence, centered on syncytiotrophoblast stress and the senescence-associated secretory phenotype (SASP), provides a mechanistic framework connecting placental injury to the maternal syndrome. In EOPE, defective spiral artery remodeling (45) and repeated ischemia-reperfusion can promote oxidative damage, persistent DNA-damage responses, impaired autophagy, and durable cell-cycle arrest in trophoblast lineages. Convergent data show elevated senescence markers (p16INK4a, p21, SA-β-galactosidase, γ-H2AX), transcriptomic signatures consistent with placental SASP programs, and senescent syncytiotrophoblast secretion-PAI-1 (~4-fold) and activin A (~2-fold). The SASP can transform the placenta into a source of cytokines, antiangiogenic factors, cell-free nucleic acids, and extracellular vesicles that may bias the maternal circulation toward endothelial dysfunction. We propose a stage-based model of EOPE progression and discuss differences from late-onset disease. Senescence-linked circulating signals may support multimarker risk stratification and liquid-biopsy strategies. We emphasize that human causal evidence remains associative and the senescence model is best regarded as a testable framework complementing established immune, complement, and angiogenic models.",
-      "journal": "Frontiers in public health",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Assisted Reproduction Unit, Department of Obstetrics and Gynecology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, China.",
-        "Zhejiang Provincial Clinical Research Center for Reproductive Health and Disease, Hangzhou, China.",
-        "Dalian Medical University, Dalian, China."
-      ],
-      "doi": "10.3389/fpubh.2026.1863387",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42524365/"
-    },
-    {
-      "pmid": "42524278",
-      "title": "Cell-Specific DNA Methylation Markers in Plasma cfDNA Reveal Diagnostic Potential for Head and Neck Cancer.",
-      "abstract": "Head and neck cancer ranks as the seventh most common type of cancer worldwide. For patients diagnosed at advanced stages, the five-year survival rate remains below 40%, underscoring the urgent need for early detection strategies. However, current diagnostic approaches face considerable limitations. Furthermore, tissue biopsy remains invasive and impractical for routine screening. In light of these challenges, this study aims to identify and validate plasma cell-free DNA (cfDNA) methylation markers capable of enabling auxiliary assessment and facilitating prognosis assessment in head and neck cancer. To achieve this goal, we first analyzed whole-genome bisulfite sequencing (WGBS) data from 205 samples covering 39 healthy tissue types. This comprehensive analysis was conducted to establish a baseline methylation landscape and identify methylation sites specifically associated with head and neck cells. Subsequently, differentially methylated CpG sites were screened by comparing head and neck tissues with other healthy tissues. To enhance the robustness and specificity of potential markers, more than 5 adjacent cell-specific methylated CpG sites located within 150 base pairs of each other were clustered into composite methylation markers, thereby reducing background noise and improving signal detection. These candidate markers then underwent a stringent specificity test to confirm their exclusive enrichment in head and neck tissues. Finally, one of the most promising markers was experimentally validated in plasma cfDNA samples collected from head and neck cancer patients compared with healthy controls, using targeted bisulfite sequencing to assess their detection performance in liquid biopsies. Through comprehensive analysis of WGBS data from healthy tissue samples, a total of 1,157 tissue-specific methylation sites were identified, including 146 hypermethylated and 1,011 hypomethylated sites exclusive to head and neck tissues. By clustering adjacent CpG sites within a 150-base-pair window, these were consolidated into 11 composite methylation markers, each representing a distinct genomic region with coordinated methylation patterns. Subsequent specificity testing confirmed that all composite markers exhibited strong cell-type specificity, with minimal background methylation signals detected across other tissue types. This high specificity underscores their potential for accurate tissue-of-origin inference. Validation experiments in plasma cfDNA samples further demonstrated that methylation fragments corresponding to these composite markers were consistently detectable in cancer patients but entirely absent in healthy individuals. This study systematically characterizes cell-specific methylation signatures of head and neck tissues and provides preliminary evidence for the feasibility of utilizing composite cfDNA methylation markers for non-invasive cancer detection. By integrating multiple adjacent CpG sites into composite markers, our approach achieves enhanced specificity and robustness compared to conventional single-site markers, providing a strategy to overcome limitations associated with tumor heterogeneity and low cfDNA abundance in early-stage disease. These findings not only provide a methodological framework for cfDNA-based auxiliary assessment but also offer promising candidate biomarkers for tracing the tissue of origin in head and neck cancer. This work is limited by a small sample size and pending further investigation in larger, prospective cohorts. However, this work illustrates the potential of cell-specific methylation analysis to contribute to improved disease monitoring and tissue-of-origin determination.",
-      "journal": "Journal of Cancer",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Biomedical Engineering, Bio-ID Center, Shanghai Jiao Tong University, Shanghai, 200240, China.",
-        "Shanxi Province Cancer Hospital/Shanxi Hospital Affiliated to Cancer Hospital, Chinese Academy of Medical Sciences/Cancer Hospital Affiliated to Shanxi Medical University, Taiyuan,030013, China.",
-        "Shanghai Starriver Bilingual School, Shanghai, 201108, China.",
-        "Cancer Center, Shanxi Bethune Hospital, Shanxi Academy of Medical Sciences, Tongji Shanxi Hospital, Third Hospital of Shanxi Medical University, Taiyuan, 030032, China.",
-        "Department of Oncology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430030, China."
-      ],
-      "doi": "10.7150/jca.133470",
-      "date": "2026-07-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42524278/"
-    },
-    {
-      "pmid": "42523586",
-      "title": "Beyond static biomarkers: systems biology and AI for decoding cancer dynamics.",
-      "abstract": "Precision oncology has been built largely on static biomarkers, including mutational profiles, receptor status, histopathologic classes, and single-time-point molecular signatures. These readouts have transformed diagnosis and treatment selection, but they remain mismatched to a disease whose most consequential behaviors-progression, metastasis, treatment adaptation, dormancy, and relapse-are dynamic, noisy, and multiscale. In this article, we argue that cancer is better understood as a stochastic, coupled biological system than as a fixed molecular identity. We bring together adjacent literatures spanning cancer cell states, spatial and ecological organization, metabolism and dormancy, mechanobiology, longitudinal biomarkers, quantitative oncology, and AI-enabled representation learning, and develop a mathematically grounded framework for reasoning about cancer dynamics. Our central claim is modest but consequential: future biomarkers should not only classify current disease state, but also estimate transition risk, system instability, and trajectory direction. To support that claim, we distinguish latent biological state from clinical observation, clarify why partial observability makes dynamic inference difficult, and introduce a mathematically explicit but deliberately constrained formal scaffold based on stochastic state-space models, local linearization, and layer-specific dynamical motifs. We then develop six internal biological layers of cancer dynamics-molecular regulatory dynamics, cellular state plasticity, spatial niche organization, tumor ecosystem co-evolution, metabolic-epigenetic coupling with dormancy, and mechanobiological feedback-and treat longitudinal clinical monitoring as a linked observation layer rather than a mechanistic subsystem. Particular attention is given to noise; transcriptional noise, ecological variability, treatment-induced perturbation, and measurement noise all shape how cancer states are occupied, destabilized, and detected. Finally, we review dynamic biomarker evidence from ctDNA-guided adjuvant therapy, circulating tumor cells, serial imaging, and adaptive therapy, discuss how AI can support inference under partial observability without replacing mechanism, examine regulatory and health-equity constraints, and outline the research agenda needed to turn dynamic oncology from a compelling idea into a reproducible clinical discipline.",
-      "journal": "Frontiers in systems biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Biochemistry and Molecular Cell Biology (IBMZ), Center for Experimental Medicine, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
-        "Department of Molecular and Cell Biology, University of California, Berkeley, CA, United States."
-      ],
-      "doi": "10.3389/fsysb.2026.1855016",
-      "date": "2026-07-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42523586/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42527678",
+      "id": "pubmed-42527762",
       "date": "2026-07-29",
-      "title": "Bioengineering strategies to interrogate and modulate the aging immune system.",
+      "title": "Harnessing Endogenous Plasticity Rather than Reprogramming of Mature Cells Will Advance Regenerative Medicine, Cancer Treatment and Rejuvenation.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527678/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527762/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -532,132 +526,8 @@
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature aging，PMID 为 42527678。",
-      "report": "Age-related changes in the immune system result in pronounced vulnerability to acute infections and cancers, and in dysregulated inflammation and wound healing that fuel many chronic diseases. Although we understand much about some of these changes, gaps in me...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42527030",
-      "date": "2026-07-29",
-      "title": "IL-27 shapes NK cell heterogeneity and function in colorectal cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527030/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal for immunotherapy of cancer，PMID 为 42527030。",
-      "report": "Colorectal cancer (CRC) is a leading cause of cancer-related mortality worldwide and is characterized by an immunosuppressive tumor microenvironment (TME). While adaptive immunity contributes to tumor control, growing evidence underscores the role of innate ly...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42526765",
-      "date": "2026-07-29",
-      "title": "USP15 mutation associated with autism spectrum disorder alters progenitor fate and neuronal maturation in human brain organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526765/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecules and cells，PMID 为 42526765。",
-      "report": "De novo variants in the ubiquitin-proteasome pathway are linked to autism spectrum disorder (ASD), yet their functional impact on neurodevelopment remains poorly understood. We investigated USP15, a deubiquitinating enzyme with rare damaging variants identifie...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42526715",
-      "date": "2026-07-29",
-      "title": "Intranasal drug delivery to the brain for neurodegenerative diseases: Current efforts and challenges in delivery platforms and modeling.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526715/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced drug delivery reviews，PMID 为 42526715。",
-      "report": "Neurodegenerative diseases, such as Parkinson's disease (PD) and Alzheimer's disease (AD), globally pose a significant challenge with an aging population. Despite the presence of various therapeutic agents, AD and PD treatments with small molecules currently o...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42526442",
-      "date": "2026-07-29",
-      "title": "A xeno-free human iPSC-derived prostate organoid platform for multilineage differentiation and genetic manipulation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526442/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell reports methods，PMID 为 42526442。",
-      "report": "Current prostate organoid models rely on tissue-derived material or animal components and lack epithelial and stromal complexity. We defined a xeno-free system to generate human prostate organoids from induced pluripotent stem cells with consistent multilineag...",
+      "fact": "PubMed 记录显示该文献收录于 Stem cell reviews and reports，PMID 为 42527762。",
+      "report": "The successful culture of human embryonic stem (hES) cells from inner cell mass cells of blastocyst stage 'spare' embryos in 1998, followed by induced pluripotent stem (iPS) cells in 2006, which allowed somatic cells to be reprogrammed to pluripotency using th...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -843,6 +713,68 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42528983",
+      "date": "2026-07-28",
+      "title": "Modeling Epilepsies with Human Brain Organoids: Recent Advances and Ongoing Challenges.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42528983/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Epilepsy currents，PMID 为 42528983。",
+      "report": "Epilepsy is a common and heterogeneous group of neurologic disorders characterized by recurrent unprovoked seizures. With a diverse array of genetic and acquired etiologies, the mechanisms linking insults to epileptogenesis and network hyperexcitability remain...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42509463",
+      "date": "2026-07-28",
+      "title": "Inflammation-linked aging signals in frozen single-cell foundation models: donor-aware detection and robustness testing.",
+      "entity": "Virtual Cell Model",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "Virtual Cell / Cell Foundation Models",
+      "eventType": "Clinical Study",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42509463/",
+      "reliability": "High",
+      "evidenceLevel": "High",
+      "needsReview": true,
+      "themes": [
+        "Virtual Cell",
+        "AI for Biology",
+        "Multi-omics",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "虚拟细胞",
+        "细胞基础模型",
+        "多组学",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biogerontology，PMID 为 42509463。",
+      "report": "Single-cell foundation models such as scGPT and Geneformer are large neural networks trained on human single-cell RNA-seq data. They were never shown chronological age during training. Do their internal representations nevertheless encode aging biology in a wa...",
+      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42522615",
       "date": "2026-07-25",
       "title": "[High-purity production of native-conformation sweet protein thaumatin via cell factory fermentation and specific enzymatic cleavage].",
@@ -1014,36 +946,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42527199",
-      "date": "2026-07-20",
-      "title": "Prenatal organoids for personalised medicine.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527199/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Seminars in pediatric surgery，PMID 为 42527199。",
-      "report": "Organoids are three-dimensional structures derived from a single stem cell. They self-organize in vitro and mature to recreate microarchitecture and characteristics of their tissues of origin. Since the first culture of mouse intestinal epithelial organoids an...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42523295",
       "date": "2026-07-17",
       "title": "A machine learning model predicts protein stability of annotated and alternate protein isoforms.",
@@ -1073,66 +975,157 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42524365",
-      "date": "2026-07-14",
-      "title": "Premature placental senescence in early-onset preeclampsia: syncytiotrophoblast SASP and the maternal syndrome.",
-      "entity": "Longevity Research",
-      "primaryCategory": "Longevity & Wellness",
-      "subCategory": "Aging Biology",
+      "id": "pubmed-42529882",
+      "date": "2026-07-15",
+      "title": "Blood‒brain barrier permeability assessment: from biomimetic models to multimodal imaging.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42524365/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42529882/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Longevity",
-        "Biomarkers",
-        "Multi-omics"
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
       ],
       "tags": [
-        "衰老",
-        "biomarker",
-        "longevity",
-        "多组学"
+        "类器官",
+        "疾病模型",
+        "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in public health，PMID 为 42524365。",
-      "report": "Early-onset preeclampsia (EOPE) remains a leading cause of maternal and perinatal morbidity worldwide. This review synthesizes evidence that premature placental senescence, centered on syncytiotrophoblast stress and the senescence-associated secretory phenotyp...",
-      "inference": "自动分类命中规则：Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Journal of Zhejiang University. Science. B，PMID 为 42529882。",
+      "report": "The blood‒brain barrier (BBB) is a vital physiological structure that maintains the microenvironmental homeostasis in the central nervous system (CNS). Imbalances in its permeability play a key role in various neurological disorders, including stroke, neurodeg...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42523586",
-      "date": "2026-07-14",
-      "title": "Beyond static biomarkers: systems biology and AI for decoding cancer dynamics.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
+      "id": "pubmed-42529105",
+      "date": "2026-07-15",
+      "title": "Models of high-grade serous carcinoma of tubo-ovarian origin.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42523586/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42529105/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
+        "Organoids",
+        "Advanced Disease Models",
         "Precision Oncology",
         "Multi-omics"
       ],
       "tags": [
-        "临床",
-        "监管",
+        "类器官",
+        "疾病模型",
         "肿瘤",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in systems biology，PMID 为 42523586。",
-      "report": "Precision oncology has been built largely on static biomarkers, including mutational profiles, receptor status, histopathologic classes, and single-time-point molecular signatures. These readouts have transformed diagnosis and treatment selection, but they rem...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Oncology reviews，PMID 为 42529105。",
+      "report": "Biological models aim to recapitulate the molecular and histologic characteristics, as well as the carcinogenesis of the disease of interest, to enable high-fidelity experimentation and impactful translational development. In high-grade serous carcinoma of ova...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42528660",
+      "date": "2026-07-15",
+      "title": "PDGF-BB inhibits SP1/Angptl7 mediated chondro-endothelial crosstalk via stress-sensitivity Piezo1 regulation in osteoarthritis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42528660/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in pharmacology，PMID 为 42528660。",
+      "report": "Osteoarthritis (OA) involves cartilage degradation and subchondral bone alterations, yet the mechanisms of chondro-endothelial crosstalk remain unclear. Stress-sensitive Piezo1 and SP1/Angptl7 signaling may play key roles in this process. This research aimed t...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42529102",
+      "date": "2026-07-15",
+      "title": "Mapping therapy-responsive immune ecotypes in clear cell renal cell carcinoma through integrative omics.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42529102/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42529102。",
+      "report": "Clear cell renal cell carcinoma (ccRCC) is a kidney cancer in which immune activity is closely intertwined with von Hippel-Lindau (VHL) loss, hypoxia-inducible factor (HIF) signaling, angiogenesis, hypoxia, and metabolic adaptation. Although immune checkpoint...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42528655",
+      "date": "2026-07-15",
+      "title": "Preoperative evaluation of solitary pulmonary nodules and adenocarcinoma invasiveness using ultra-high-resolution computed tomography and multidimensional liquid biopsy: a prospective exploratory study.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42528655/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42528655。",
+      "report": "Accurate preoperative characterization of solitary pulmonary nodules (SPNs), particularly differentiation of benign from malignant lesions and assessment of adenocarcinoma invasiveness, remains challenging based on morphological features alone. We investigated...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1167,36 +1160,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42524278",
-      "date": "2026-07-13",
-      "title": "Cell-Specific DNA Methylation Markers in Plasma cfDNA Reveal Diagnostic Potential for Head and Neck Cancer.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42524278/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of Cancer，PMID 为 42524278。",
-      "report": "Head and neck cancer ranks as the seventh most common type of cancer worldwide. For patients diagnosed at advanced stages, the five-year survival rate remains below 40%, underscoring the urgent need for early detection strategies. However, current diagnostic a...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42476548",
       "date": "2026-07-03",
       "title": "Annotation-free phenotype prediction using knowledge-augmented clustering from single-cell RNA sequencing data.",
@@ -1227,33 +1190,72 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42447329",
-      "date": "2026-06-06",
-      "title": "Fetal myogenesis chromatin state and CpG from the open alliance markers and their intersection with adult muscle and gastrointestinal genetics.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Research",
+      "id": "pubmed-42528276",
+      "date": "2026-07-00",
+      "title": "The Respiratory Epithelial Barrier as an Immunopharmacological Rheostat: From Homeostatic Sentinel to Therapeutic Target in Chronic Lung Disease.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447329/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42528276/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Multi-omics"
+        "Organoids",
+        "Advanced Disease Models",
+        "Longevity",
+        "Biomarkers"
       ],
       "tags": [
-        "临床",
-        "监管",
-        "多组学"
+        "类器官",
+        "疾病模型",
+        "衰老",
+        "biomarker",
+        "longevity"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Human molecular genetics，PMID 为 42447329。",
-      "report": "Epigenetic inheritance links fetal chromatin organization and CpG methylation to lifelong tissue phenotypes. We tested the Fetal Chromatin-CpG Developmental Blueprint (FCCD-B) model, proposing that fetal chromatin states shaped by maternal nutrient and transcr...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 European journal of immunology，PMID 为 42528276。",
+      "report": "The respiratory epithelium is a dynamic immunopharmacological interface that transcends its traditional role as a passive barrier to become a central coordinator of pulmonary immunity. This review introduces and elaborates on the paradigm of the \"Epithelial Im...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42529427",
+      "date": "2026-02-13",
+      "title": "Specific PET Imaging for Precision Management of Lung Cancer: Advances, Clinical Translation and Future Directions.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42529427/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Chemical & biomedical imaging，PMID 为 42529427。",
+      "report": "Lung cancer continues to be the leading cause of cancer-related deaths worldwide, primarily due to persistent challenges in early detection and the limited effectiveness of precision medicine. Although low-dose computed tomography (CT) has been widely implemen...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
