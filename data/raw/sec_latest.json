@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-31T03:54:02.139098+00:00",
+  "capturedAt": "2026-07-31T09:19:18.965732+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-07-17",
@@ -142,7 +142,7 @@
     {
       "filingDate": "2026-07-30",
       "reportDate": "2026-06-30",
-      "acceptanceDateTime": "2026-07-30T16:46:12.000Z",
+      "acceptanceDateTime": "2026-07-30T20:46:12.000Z",
       "act": "34",
       "form": "10-Q",
       "fileNumber": "001-38683",
@@ -167,7 +167,7 @@
     {
       "filingDate": "2026-07-30",
       "reportDate": "2026-07-30",
-      "acceptanceDateTime": "2026-07-30T16:08:09.000Z",
+      "acceptanceDateTime": "2026-07-30T20:08:09.000Z",
       "act": "34",
       "form": "8-K",
       "fileNumber": "001-38683",
@@ -192,7 +192,7 @@
     {
       "filingDate": "2026-07-30",
       "reportDate": "2026-07-30",
-      "acceptanceDateTime": "2026-07-30T16:07:16.000Z",
+      "acceptanceDateTime": "2026-07-30T20:07:16.000Z",
       "act": "34",
       "form": "8-K",
       "fileNumber": "001-35406",
@@ -217,7 +217,7 @@
     {
       "filingDate": "2026-07-30",
       "reportDate": "2026-06-30",
-      "acceptanceDateTime": "2026-07-30T16:03:49.000Z",
+      "acceptanceDateTime": "2026-07-30T20:03:49.000Z",
       "act": "34",
       "form": "10-Q",
       "fileNumber": "001-42130",
@@ -243,7 +243,7 @@
     {
       "filingDate": "2026-07-30",
       "reportDate": "2026-07-30",
-      "acceptanceDateTime": "2026-07-30T16:01:15.000Z",
+      "acceptanceDateTime": "2026-07-30T20:01:15.000Z",
       "act": "34",
       "form": "8-K",
       "fileNumber": "001-42130",
@@ -269,7 +269,7 @@
     {
       "filingDate": "2026-07-30",
       "reportDate": "2026-06-30",
-      "acceptanceDateTime": "2026-07-30T08:11:02.000Z",
+      "acceptanceDateTime": "2026-07-30T12:11:02.000Z",
       "act": "34",
       "form": "10-Q",
       "fileNumber": "001-36407",
@@ -294,7 +294,7 @@
     {
       "filingDate": "2026-07-30",
       "reportDate": "2026-07-30",
-      "acceptanceDateTime": "2026-07-30T08:06:25.000Z",
+      "acceptanceDateTime": "2026-07-30T12:06:25.000Z",
       "act": "34",
       "form": "8-K",
       "fileNumber": "001-36407",

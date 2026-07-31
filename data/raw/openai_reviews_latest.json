@@ -1,251 +1,431 @@
 {
-  "capturedAt": "2026-07-31T03:54:02.357946+00:00",
+  "capturedAt": "2026-07-31T09:19:19.188228+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42531048",
-      "responseId": "resp_0b039e3bf08b74a1006a6c1c5b18e881a2833a67642c1ca314",
+      "signalId": "pubmed-42532370",
+      "responseId": "resp_05905e58aeb88c0e006a6c6897cb5c819ba662a070c2412db4",
       "review": {
         "status": "pass",
         "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录信息清晰、准确，且未包含未验证的临床结论，适合发布。",
+        "reviewSummaryCn": "文献记录清晰，分类合理，未做出临床结论，符合发布标准。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": ""
+          "notesCn": "主要分类和子分类均符合文献主题。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": ""
+          "notesCn": "文献信息和主题分类清晰分开，证据水平合理。"
         },
         "riskFlags": [
-          "insufficient_source"
+          "clinical_claim",
+          "medical_advice_risk"
         ],
         "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
-          "evidenceLevel": "Medium",
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "High",
           "themes": [
-            "AI for Biology",
-            "Drug Discovery"
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Multi-omics"
           ],
           "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成"
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42531048。",
-          "report": "Deep learning has revolutionized computational protein design, enabling the generation of sequences that fold onto target backbones with unprecedented accuracy. However, state-of-the-art inverse folding tools largely rely on auto-regressive sampling. While pow...",
-          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42532370。",
+          "report": "Diffuse intrinsic pontine glioma (DIPG) is a highly lethal and therapeutically refractory pediatric brain tumor, and the effects of distinct disease backgrounds on treatment response and residual cell-state plasticity remain poorly understood. We evaluated abe...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "sec-0001576280-000157628026000037",
-      "responseId": "resp_0827d950a5080e9b006a6c1c671a4c81918471454ca7e97101",
+      "signalId": "pubmed-42532135",
+      "responseId": "resp_076962a6a3a246ad006a6c689fa718819bab2d4e981fb3ecb3",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献综述了缺血性脑小血管疾病的动物模型，信息来源清晰，未含有治疗建议或未支持的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主营分类与主题相关，仅用于情报分流，不表示研究的质量或临床效益。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "源信息清晰，分类合理，未包含强效、安全或商业主张。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Experimental neurology，PMID 为 42532135。",
+          "report": "Cerebral small vessel disease (CSVD) is a leading cause of vascular cognitive impairment and stroke, yet its pathophysiology remains incompletely understood and effective treatments are lacking. This narrative review focuses on animal models that recapitulate...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42531721",
+      "responseId": "resp_034a5a37f3f12373006a6c68a596988199befc058f5e32123c",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "文献记录准确，分类合理，无临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别和子类别与文献主题匹配。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献引用准确，报告与事实分离。"
+        },
+        "riskFlags": [
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 EBioMedicine，PMID 为 42531721。",
+          "report": "Oropouche virus (OROV) is an emerging arbovirus currently spreading across South America, with increasing reports of neurological manifestations, severe systemic disease, and congenital abnormalities. Although traditionally associated with mild febrile illness...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42532207",
+      "responseId": "resp_04a4e4712a8d6ca5006a6c68ac69b0819b8cd9b6de4872480c",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合发布要求，内容清晰且中立。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合原始来源内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断分离清晰，证据水平符合预期。"
+        },
+        "riskFlags": [
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 The Journal of molecular diagnostics : JMD，PMID 为 42532207。",
+          "report": "Cell-free total nucleic acid (cfTNA)-based liquid biopsy (LBx) offers a minimally invasive alternative to tissue-based next generation sequencing (NGS). Most NGS-based LBx assays require several days for results. This study validated a rapid NGS-based LBx assay.",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42532206",
+      "responseId": "resp_02c35d3aacabab2f006a6c68b1a554819abbbb484873b4742f",
+      "review": {
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录符合发布标准，信息清晰且无临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，与文献内容一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分别清晰，证据水平符合标准。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 The Journal of molecular diagnostics : JMD，PMID 为 42532206。",
+          "report": "Lung adenocarcinoma (LUAD) remains a leading cause of cancer-related mortality. While for Stage IA LUAD surgery is often curative, recurrence rates remain significant. Liquid biopsy enables monitoring residual disease and predicts recurrence, however utility i...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42532107",
+      "responseId": "resp_037e9d777861b395006a6c68b841cc81989041eec001ffab21",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录展示了测试icular germ cell tumors和penile cancer的分子诊断与治疗进展，信息准确且未包含未经支持的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主体分类合理，符合文献内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "来源可靠，证据等级适中。"
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Aktuelle Urologie，PMID 为 42532107。",
+          "report": "Molecular diagnostics and targeted therapies are increasingly evolving towards a personalized medicine approach. This review summarizes recent advances in testicular germ cell tumors (TGCTs) and penile cancer, with a focus on emerging biomarkers and targeted t...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42533201",
+      "responseId": "resp_0d1f1bae1d40b30d006a6c68bcb0b0819a977cd32ed5695821",
       "review": {
         "status": "needs_human",
-        "confidence": 0.8,
+        "confidence": 0.75,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人类审查，因证据水平中等且缺乏详细信息。",
+        "reviewSummaryCn": "需要人类审查以确保内容的准确性和没有临床建议。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "证据水平显示不足以支持全面分类。"
+          "notesCn": "证据水平中等的分类可能不符合数据源质量。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "证据水平中等，缺乏详细 filing 信息使得结论不完整。"
+          "notesCn": "文献报告的中等证据水平与实际来源的可靠性不符。"
         },
         "riskFlags": [
-          "commercial_claim",
+          "medical_advice_risk",
           "insufficient_source"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Periodic Filing",
+          "primaryCategory": "AI Drug Discovery",
+          "subCategory": "AI-enabled Discovery",
           "evidenceLevel": "Low",
           "themes": [
-            "Corporate Filings",
-            "Precision Diagnostics"
+            "AI for Biology",
+            "Drug Discovery",
+            "Diagnostics",
+            "Precision Medicine",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Healthcare AI",
+            "Medical LLM"
           ],
           "tags": [
-            "SEC",
-            "10-Q",
-            "GH"
+            "AI 制药",
+            "蛋白设计",
+            "分子生成",
+            "诊断",
+            "精准医疗",
+            "临床",
+            "监管",
+            "医疗 AI",
+            "临床决策支持"
           ],
-          "fact": "SEC EDGAR lists accession 0001576280-26-000037 for Guardant Health, Form 10-Q, filed on 2026-07-30.",
-          "report": "SEC metadata describes the primary document as: 10-Q.",
-          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+          "fact": "PubMed 记录显示该文献收录于 Journal of imaging informatics in medicine，PMID 为 42533201。",
+          "report": "Large language models (LLMs) are increasingly explored in radiology, yet concerns persist regarding hallucination and lack of factual grounding. Retrieval-augmented generation (RAG) seeks to address these limitations by coupling generative models with external...",
+          "inference": "自动分类命中规则：AI-enabled Discovery, Diagnostics & Precision Medicine, Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "sec-0001576280-000157628026000036",
-      "responseId": "resp_0f45be9e6672a937006a6c1c6bfd148191a15c15759a677f58",
+      "signalId": "pubmed-42531972",
+      "responseId": "resp_0c1cba368f3859d8006a6c68c34a44819b8fb64e00daa56b3b",
       "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "内容符合出版标准，没有临床建议或未支持的结论。",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人类审查以确认研究质量和商业化状态。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类别合理且与信号元数据一致。"
+          "isSupported": false,
+          "notesCn": "初步分类的质量不确定，需进一步验证。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论清晰分开，证据等级合理。"
+          "evidenceLevelReasonable": false,
+          "notesCn": "尽管信息源质量高，但证据水平中等与主题的整体重要性不匹配。"
         },
         "riskFlags": [
-          "commercial_claim",
-          "regulatory_claim"
+          "clinical_claim",
+          "insufficient_source"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
           "evidenceLevel": "Medium",
           "themes": [
-            "Corporate Filings",
-            "Precision Diagnostics"
+            "Biotech",
+            "Precision Oncology"
           ],
           "tags": [
-            "SEC",
-            "8-K",
-            "GH"
+            "biotech",
+            "肿瘤"
           ],
-          "fact": "SEC EDGAR lists accession 0001576280-26-000036 for Guardant Health, Form 8-K, filed on 2026-07-30.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+          "fact": "PubMed 记录显示该文献收录于 Talanta，PMID 为 42531972。",
+          "report": "Lung cancer is a highly prevalent and lethal malignant tumor worldwide, accounting for approximately 25% of all cancer deaths. Early symptoms are often subtle, leading to late-stage diagnosis in the majority of patients and a missed window for optimal treatment.",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "sec-0001110803-000111080326000155",
-      "responseId": "resp_0d3a602491645e08006a6c1c7028f4819dab546a34b6c2afee",
+      "signalId": "pubmed-42532746",
+      "responseId": "resp_07d9adb575266b8d006a6c68ca4a9c81999c5b121280b9eb6a",
       "review": {
         "status": "pass",
-        "confidence": 0.95,
+        "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号的信息来源于SEC的公司文件，内容符合中立发布的标准。",
+        "reviewSummaryCn": "该记录在元数据支持下是中立且一致的，未包含任何未经支持的临床结论或治疗建议。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "公司更新分类合理，符合事件类型。"
+          "notesCn": "分类与源信息一致。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断之间明确分开，所依据的证据水平适当。"
+          "notesCn": "事实、报告和推断清晰分开。"
         },
         "riskFlags": [
-          "commercial_claim"
+          "clinical_claim"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
           "evidenceLevel": "Medium",
           "themes": [
-            "Corporate Filings",
-            "Sequencing & Research Tools"
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
           ],
           "tags": [
-            "SEC",
-            "8-K",
-            "ILMN"
+            "类器官",
+            "疾病模型",
+            "肿瘤"
           ],
-          "fact": "SEC EDGAR lists accession 0001110803-26-000155 for Illumina, Form 8-K, filed on 2026-07-30.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+          "fact": "PubMed 记录显示该文献收录于 Pancreatology : official journal of the International Association of Pancreatology (IAP) ... [et al.]，PMID 为 42532746。",
+          "report": "Broader research and translational use of patient-derived organoids (PDOs) in pancreatic ductal adenocarcinoma (PDAC) remain constrained by complex and costly culture requirements. Here, we developed a conditional transgenic strategy to generate self-sustainin...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "sec-0001717115-000119312526326090",
-      "responseId": "resp_03c0d6dab9a78873006a6c1c768e94819ca44ee89b9078d21e",
+      "signalId": "pubmed-42531895",
+      "responseId": "resp_044df1ccb4f1045c006a6c68cfb3988198926f37b1ec831333",
       "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息完整且来源可靠，适合发布。",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "研究质量、样本量及潜在利益冲突未被评估。需人工审核以确保信息准确性。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类和证据水平符合提供的元数据。"
+          "isSupported": false,
+          "notesCn": "分类不支持，该研究需要更详细的质量评估。"
         },
         "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论清晰分隔。"
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "未明确区分事实、报告和推论，证据等级不合理，需人工审核。"
         },
         "riskFlags": [
-          "commercial_claim"
+          "insufficient_source",
+          "weak_classification"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Periodic Filing",
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
           "evidenceLevel": "Medium",
           "themes": [
-            "Corporate Filings",
-            "Precision Diagnostics",
-            "Healthcare AI"
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch"
           ],
           "tags": [
-            "SEC",
-            "10-Q",
-            "TEM"
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管"
           ],
-          "fact": "SEC EDGAR lists accession 0001193125-26-326090 for Tempus AI, Form 10-Q, filed on 2026-07-30.",
-          "report": "SEC metadata describes the primary document as: 10-Q.",
-          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "signalId": "sec-0001717115-000119312526326083",
-      "responseId": "resp_0a1068dbb416a1aa006a6c1c7a6838819fa8e02c40689b4b90",
-      "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息准确，适合发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类别和证据水平与元数据相符。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论已清晰分开。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Precision Diagnostics",
-            "Healthcare AI"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "TEM"
-          ],
-          "fact": "SEC EDGAR lists accession 0001193125-26-326083 for Tempus AI, Form 8-K, filed on 2026-07-30.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+          "fact": "PubMed 记录显示该文献收录于 Biomaterials，PMID 为 42531895。",
+          "report": "Complexes of paracrine signals and synthesized, sulfated oligosaccharides regulate expansion and/or differentiation of human epithelial-mesenchymal cell-cell partners with lineage-stage-specific distinctions exemplified in mature hepatocytes versus organoids.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     }
