@@ -1,9 +1,9 @@
 {
-  "capturedAt": "2026-07-30T19:55:20.123448+00:00",
+  "capturedAt": "2026-07-31T03:54:02.139098+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
-    "start": "2026-07-16",
-    "end": "2026-07-30"
+    "start": "2026-07-17",
+    "end": "2026-07-31"
   },
   "forms": [
     "10-K",
@@ -139,6 +139,133 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-07-30",
+      "reportDate": "2026-06-30",
+      "acceptanceDateTime": "2026-07-30T16:46:12.000Z",
+      "act": "34",
+      "form": "10-Q",
+      "fileNumber": "001-38683",
+      "filmNumber": "261224112",
+      "items": "",
+      "size": 9701661,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "gh-20260630.htm",
+      "primaryDocDescription": "10-Q",
+      "accessionNumber": "0001576280-26-000037",
+      "companyId": "guardant-health",
+      "companyName": "Guardant Health",
+      "companyDirections": [
+        "Precision Diagnostics"
+      ],
+      "secTicker": "GH",
+      "cik": "0001576280",
+      "secName": "Guardant Health, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000037/gh-20260630.htm"
+    },
+    {
+      "filingDate": "2026-07-30",
+      "reportDate": "2026-07-30",
+      "acceptanceDateTime": "2026-07-30T16:08:09.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-38683",
+      "filmNumber": "261223341",
+      "items": "2.02,9.01",
+      "size": 473031,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "gh-20260730.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001576280-26-000036",
+      "companyId": "guardant-health",
+      "companyName": "Guardant Health",
+      "companyDirections": [
+        "Precision Diagnostics"
+      ],
+      "secTicker": "GH",
+      "cik": "0001576280",
+      "secName": "Guardant Health, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000036/gh-20260730.htm"
+    },
+    {
+      "filingDate": "2026-07-30",
+      "reportDate": "2026-07-30",
+      "acceptanceDateTime": "2026-07-30T16:07:16.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-35406",
+      "filmNumber": "261223321",
+      "items": "2.02,9.01",
+      "size": 451541,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "ilmn-20260730.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001110803-26-000155",
+      "companyId": "illumina",
+      "companyName": "Illumina",
+      "companyDirections": [
+        "Sequencing & Research Tools"
+      ],
+      "secTicker": "ILMN",
+      "cik": "0001110803",
+      "secName": "ILLUMINA, INC.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000155/ilmn-20260730.htm"
+    },
+    {
+      "filingDate": "2026-07-30",
+      "reportDate": "2026-06-30",
+      "acceptanceDateTime": "2026-07-30T16:03:49.000Z",
+      "act": "34",
+      "form": "10-Q",
+      "fileNumber": "001-42130",
+      "filmNumber": "261223218",
+      "items": "",
+      "size": 15118376,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "tem-20260630.htm",
+      "primaryDocDescription": "10-Q",
+      "accessionNumber": "0001193125-26-326090",
+      "companyId": "tempus-ai",
+      "companyName": "Tempus AI",
+      "companyDirections": [
+        "Precision Diagnostics",
+        "Healthcare AI"
+      ],
+      "secTicker": "TEM",
+      "cik": "0001717115",
+      "secName": "Tempus AI, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526326090/tem-20260630.htm"
+    },
+    {
+      "filingDate": "2026-07-30",
+      "reportDate": "2026-07-30",
+      "acceptanceDateTime": "2026-07-30T16:01:15.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-42130",
+      "filmNumber": "261223162",
+      "items": "2.02,7.01,9.01",
+      "size": 1572748,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "tem-20260730.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001193125-26-326083",
+      "companyId": "tempus-ai",
+      "companyName": "Tempus AI",
+      "companyDirections": [
+        "Precision Diagnostics",
+        "Healthcare AI"
+      ],
+      "secTicker": "TEM",
+      "cik": "0001717115",
+      "secName": "Tempus AI, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526326083/tem-20260730.htm"
+    },
     {
       "filingDate": "2026-07-30",
       "reportDate": "2026-06-30",
@@ -318,6 +445,163 @@
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001576280-000157628026000037",
+      "date": "2026-07-30",
+      "title": "Guardant Health filed Form 10-Q",
+      "entity": "Guardant Health",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000037/gh-20260630.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Precision Diagnostics"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "GH"
+      ],
+      "companyIds": [
+        "guardant-health"
+      ],
+      "fact": "SEC EDGAR lists accession 0001576280-26-000037 for Guardant Health, Form 10-Q, filed on 2026-07-30.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001576280-000157628026000036",
+      "date": "2026-07-30",
+      "title": "Guardant Health filed Form 8-K",
+      "entity": "Guardant Health",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000036/gh-20260730.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Precision Diagnostics"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "GH"
+      ],
+      "companyIds": [
+        "guardant-health"
+      ],
+      "fact": "SEC EDGAR lists accession 0001576280-26-000036 for Guardant Health, Form 8-K, filed on 2026-07-30.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001110803-000111080326000155",
+      "date": "2026-07-30",
+      "title": "Illumina filed Form 8-K",
+      "entity": "Illumina",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000155/ilmn-20260730.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Sequencing & Research Tools"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "ILMN"
+      ],
+      "companyIds": [
+        "illumina"
+      ],
+      "fact": "SEC EDGAR lists accession 0001110803-26-000155 for Illumina, Form 8-K, filed on 2026-07-30.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001717115-000119312526326090",
+      "date": "2026-07-30",
+      "title": "Tempus AI filed Form 10-Q",
+      "entity": "Tempus AI",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526326090/tem-20260630.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Precision Diagnostics",
+        "Healthcare AI"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "TEM"
+      ],
+      "companyIds": [
+        "tempus-ai"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-326090 for Tempus AI, Form 10-Q, filed on 2026-07-30.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001717115-000119312526326083",
+      "date": "2026-07-30",
+      "title": "Tempus AI filed Form 8-K",
+      "entity": "Tempus AI",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526326083/tem-20260730.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Precision Diagnostics",
+        "Healthcare AI"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "TEM"
+      ],
+      "companyIds": [
+        "tempus-ai"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-326083 for Tempus AI, Form 8-K, filed on 2026-07-30.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001178670-000117867026000062",
       "date": "2026-07-30",

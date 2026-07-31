@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-30T19:55:11.506603+00:00",
+  "capturedAt": "2026-07-31T03:53:54.922226+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,8 +10,8 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-07-30",
-    "end": "2026-07-30"
+    "start": "2025-07-31",
+    "end": "2026-07-31"
   },
   "pmids": [
     "42530523",
@@ -26,12 +26,12 @@
     "42486102",
     "42482180",
     "42476548",
+    "42531048",
     "42527603",
     "42526208",
     "42525178",
     "42523295",
     "42522615",
-    "42516427",
     "42530947",
     "42530698",
     "42530522",
@@ -285,6 +285,23 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42476548/"
     },
     {
+      "pmid": "42531048",
+      "title": "A Generative Neuro-Symbolic AI for Protein Sequence Design.",
+      "abstract": "Deep learning has revolutionized computational protein design, enabling the generation of sequences that fold onto target backbones with unprecedented accuracy. However, state-of-the-art inverse folding tools largely rely on auto-regressive sampling. While powerful, this paradigm is increasingly recognized for its inability to \"think ahead\", a crucial capacity to reliably create the complex, long-range inter-residue dependencies essential for most biological functions. To overcome these fundamental limitations, we introduced EffieDes, a generative neuro-symbolic AI framework that synergizes the predictive capabilities of deep learning with the logical precision of automated reasoning. EffieDes leverages deep learning to encode the target backbone's fitness landscape into Effie-a fully decomposable probabilistic graphical model (Potts model). This landscape can then be rigorously explored by an automated reasoning prover to identify sequences that simultaneously satisfy complex design constraints and optimize backbone fitness. We validated this neuro-symbolic approach through the design of orthogonal sequence pairs that adopt identical folds but exhibit selective self-assembly, as well as the design of a de novo selective nanobody with nanomolar affinity for an immune-evasive SARS-CoV-2 variant. EffieDes provides a robust architecture for precisely dissecting learned fitness landscapes, offering a new path toward proteins with highly optimized performances and sophisticated functional objectives.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "TBI, Université de Toulouse, CNRS, INRAE, INSA, ANITI, Toulouse, France.",
+        "MIAT, Université de Toulouse, ANITI, INRAE, Toulouse, France.",
+        "LISM, CNRS, Université d'Aix-Marseille, Marseille, France."
+      ],
+      "doi": "10.1002/advs.76464",
+      "date": "2026-07-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42531048/"
+    },
+    {
       "pmid": "42527603",
       "title": "Miniaturizing and modifying natural proteins with Raygun.",
       "abstract": "Proteins have evolved over billions of years through coordinated substitutions, insertions and deletions, yet computational protein design cannot fully replicate nature's ability to engineer new proteins from existing templates. Protein language models1-3 generate informative per-residue representations, but harnessing them for large-scale, function-preserving sequence modifications has remained beyond reach. Here we introduce Raygun, a generative artificial intelligence framework that enables miniaturization, modification and augmentation of proteins, using a probabilistic encoding of protein sequences constructed from language model embeddings. Our key conceptual advance is to encode each protein not as a sequence of variable length in high-dimensional space, but as a probability distribution in fixed dimensions, making proteins of any length directly commensurable. Controlled by just two parameters governing substitutions and length changes, Raygun can shrink proteins by 10-25% (sometimes more than 50%), expand them beyond their natural size, and introduce extensive sequence diversity, all while preserving predicted structural integrity and functional sites. In cell-based validation, Raygun miniaturized fluorescent proteins (2 shorter than 96% of fluorescent proteins in FPbase) and TurboID, a synthetic biotin ligase that has been widely adopted for proteomics. It also expanded epidermal growth factor (EGF), generating variants with higher EGFR-binding affinity than the wild type. These results show that protein function can be faithfully captured in a length-agnostic representation, enabling the kind of coordinated, large-scale sequence modifications that characterize natural protein evolution.",
@@ -376,30 +393,6 @@
       "doi": "10.13345/j.cjb.260113",
       "date": "2026-07-25",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42522615/"
-    },
-    {
-      "pmid": "42516427",
-      "title": "The limits of sequence-based biosecurity screening tools in the age of AI-assisted protein design.",
-      "abstract": "Rapid advancements in AI have enabled significant progress in protein and nucleic acid design, but they also pose biosecurity challenges. We examine the vulnerabilities of biosecurity screening software (BSS) to AI-reformulated synthetic homologs of proteins of concern (POCs) that have been fragmented into smaller segments. We evaluate four BSS tools that were recently patched to enhance their AI resiliency. Without any further modification, we found that two of the four tools were capable of robustly detecting fragments as short as 50 nucleotides, demonstrating screening capabilities that exceed those requested in the United States Framework for Nucleic Acid Synthesis. Upgraded versions of the other two tools improved performance. Although our findings confirm the effectiveness of the tested BSS tools, at the same time, they emphasize the urgency of developing alternate BSS approaches to counter evolving AI-enabled biosecurity risks.",
-      "journal": "Frontiers in bioengineering and biotechnology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Office of the Chief Scientific Officer, Microsoft, Redmond, WA, United States.",
-        "International Gene Synthesis Consortium, San Diego, CA, United States.",
-        "Department of Microbes, Infections and Microbiomes, School of Infection, Inflammation and Immunology, College of Medicine and Health, Institute of Microbiology and Infection, University of Birmingham, Birmingham, United Kingdom.",
-        "RTX BBN Technologies, Cambridge, MA, United States.",
-        "University of Louisville, Louisville, KY, United States.",
-        "Battelle, Columbus, OH, United States.",
-        "Aclid, New York, NY, United States.",
-        "Twist Bioscience, South San Francisco, CA, United States.",
-        "Integrated DNA Technologies Inc., Coralville, IA, United States.",
-        "The International Biosecurity and Biosafety Initiative for Science (IBBIS), Geneva, Switzerland."
-      ],
-      "doi": "10.3389/fbioe.2026.1858951",
-      "date": "2026-07-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42516427/"
     },
     {
       "pmid": "42530947",
@@ -566,6 +559,35 @@
       "fact": "PubMed 记录显示该文献收录于 Epilepsia，PMID 为 42530523。",
       "report": "SCN2A pathogenic mutations, such as the recurrent heterozygous Nav1.2-L1342P, are monogenic causes of epilepsy. In this human-induced pluripotent stem cell-derived model system, we aim to investigate the molecular and cellular mechanisms underlying SCN2A-L1342...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42531048",
+      "date": "2026-07-30",
+      "title": "A Generative Neuro-Symbolic AI for Protein Sequence Design.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42531048/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42531048。",
+      "report": "Deep learning has revolutionized computational protein design, enabling the generation of sequences that fold onto target backbones with unprecedented accuracy. However, state-of-the-art inverse folding tools largely rely on auto-regressive sampling. While pow...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1164,37 +1186,6 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42529102。",
       "report": "Clear cell renal cell carcinoma (ccRCC) is a kidney cancer in which immune activity is closely intertwined with von Hippel-Lindau (VHL) loss, hypoxia-inducible factor (HIF) signaling, angiogenesis, hypoxia, and metabolic adaptation. Although immune checkpoint...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42516427",
-      "date": "2026-07-13",
-      "title": "The limits of sequence-based biosecurity screening tools in the age of AI-assisted protein design.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42516427/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42516427。",
-      "report": "Rapid advancements in AI have enabled significant progress in protein and nucleic acid design, but they also pose biosecurity challenges. We examine the vulnerabilities of biosecurity screening software (BSS) to AI-reformulated synthetic homologs of proteins o...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
