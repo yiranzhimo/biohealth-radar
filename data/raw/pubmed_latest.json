@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-31T14:39:23.463707+00:00",
+  "capturedAt": "2026-07-31T19:56:39.544837+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-07-31"
   },
   "pmids": [
+    "42536272",
+    "42536076",
     "42534747",
     "42534288",
     "42532746",
     "42532370",
-    "42532135",
-    "42531895",
     "42509463",
     "42498177",
     "42497867",
@@ -32,14 +32,54 @@
     "42525178",
     "42523295",
     "42522615",
+    "42536239",
+    "42535244",
+    "42534994",
+    "42534857",
     "42534589",
-    "42534503",
-    "42533201",
-    "42532207",
-    "42532206",
-    "42532107"
+    "42536370"
   ],
   "records": [
+    {
+      "pmid": "42536272",
+      "title": "Multimodal Management of Pain in Oral Squamous Cell Carcinoma: A Mechanism-Based Approach.",
+      "abstract": "Oral squamous cell carcinoma (OSCC) is frequently associated with severe nociceptive and neuropathic pain that adversely affects patient quality of life, functional capacity, psychological well-being, and prognosis. Pain in OSCC is increasingly recognized not only as a clinical symptom but also as a dynamic indicator of tumor progression and neuroinflammatory activity. This review summarizes the epidemiological, molecular, neurobiological, and clinical mechanisms underlying OSCC-associated pain and discusses current and emerging approaches for mechanism-based multimodal pain management. Recent evidence demonstrates that tumor-nerve interactions, perineural invasion, inflammatory cytokines, and peripheral and central sensitization play central roles in the pathogenesis of OSCC pain. Molecular alterations involving TP53 mutations, EGFR overexpression, and PI3K/AKT/mTOR pathway activation contribute to inflammatory signaling, neural remodeling, and nociceptive sensitization within the tumor microenvironment. Advances in salivary biomarkers, liquid biopsy approaches, artificial intelligence-assisted pain assessment, and organoid-based translational models are improving the understanding of cancer pain biology and supporting the development of precision analgesia and individualized therapeutic strategies. OSCC-associated pain is a complex and multidimensional phenomenon closely linked to tumor aggressiveness, neuroinflammation, and disease progression. Effective pain management requires mechanism-based multimodal approaches integrating pharmacological, rehabilitative, interventional, and tumor-directed therapies. Emerging precision medicine strategies, combined with equitable access to supportive care, have the potential to improve pain control, treatment outcomes, patient dignity, and overall quality of life in individuals with OSCC.",
+      "journal": "Current pain and headache reports",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Life Sciences, School of Biosciences and Technology, Galgotias University, Greater Noida, India.",
+        "Department of Biotechnology and Bioengineering, School of Biosciences and Technology, Galgotias University, Greater Noida, India. abhimanyujha630@gmail.com."
+      ],
+      "doi": "10.1007/s11916-026-01539-8",
+      "date": "2026-07-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536272/"
+    },
+    {
+      "pmid": "42536076",
+      "title": "An innovative organoid model to screen for bacteria and their metabolites that protect against inflammation-induced colonic barrier disruption.",
+      "abstract": "Organoids provide a useful model system to study interactions between gut microbes and the activity of host tissues, including gastrointestinal (GI) barrier function. However, most organoid models have limited capacity to mimic the physiological hypoxia experienced by the colonic epithelium in vivo. While oxygen is required to support respiration in the host cells, many gut microbes are anaerobes that require anoxic conditions to grow. Using an innovative anaerobe co-culture system that maintains constant oxygen concentrations on the basolateral side of colonic epithelial monolayers and anoxic conditions on the luminal side, we demonstrate that colonic monolayers derived from a primary human cell line behaved more like in vivo epithelia when cultivated in the co-culture system than when cultured under ambient oxygen concentrations. We then identified interactions between the colonic epithelium and a strain of Bifidobacterium adolescentis-an oxygen-sensitive species that is prevalent and abundant in the adult gut microbiome. Co-culturing colonic monolayers with Bifidobacterium adolescentis U269-1 in the anoxic apical chamber mitigated loss of the barrier function in monolayers exposed to inflammatory cytokines. We identified indole lactic acid (ILA) as one metabolite from B. adolescentis that provides dose-dependent protection against inflammatory cytokines. Oral administration of ILA was well tolerated in mice and provided protection against immunotherapy-induced (anti-CTLA4) colitis in female, but not male mice. Together, we demonstrated the utility of the co-culture system for screening microbes and their metabolites for interactions with the colonic epithelium, as well as advancing our understanding of interactions between bifidobacteria and host barrier function.IMPORTANCEThe present study yielded strong evidence for the beneficial effects of B. adolescentis on the maintenance of colonic barrier function in an asymmetric oxygen system that mimics the colonic environment. The bifidobacterial metabolite indole lactic acid was implicated in this protection both in vitro and in a mouse model. We also refined and scaled the co-culture system to a 96-well plate format to provide the capacity for higher-throughput screening of microbes and microbial metabolites under physiologically relevant conditions.",
+      "journal": "mSphere",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Microbiology and Immunology, University of Michigan, Ann Arbor, Michigan, USA.",
+        "Department of Medicinal Chemistry, University of Michigan, Ann Arbor, Michigan, USA.",
+        "Department of Internal Medicine, University of Michigan, Ann Arbor, Michigan, USA.",
+        "Department of Pathology, University of Michigan, Ann Arbor, Michigan, USA.",
+        "Rogel Cancer Center, University of Michigan, Ann Arbor, USA.",
+        "Department of Microbiome Research, University Hospital Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany.",
+        "Department of Medicine 1, University Hospital Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany.",
+        "Center for Infectious Disease Education and Research (CIDER), Osaka University, Suita, Japan.",
+        "Department of Ecology & Evolutionary Biology, University of Michigan, Ann Arbor, Michigan, USA."
+      ],
+      "doi": "10.1128/msphere.00926-25",
+      "date": "2026-07-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536076/"
+    },
     {
       "pmid": "42534747",
       "title": "Oxygen-enhanced assembloid-based vascularized intestinal-on-a-chip for radioprotective drug evaluation.",
@@ -128,45 +168,6 @@
       "doi": "10.1016/j.canlet.2026.218771",
       "date": "2026-07-30",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42532370/"
-    },
-    {
-      "pmid": "42532135",
-      "title": "Animal models of ischemic cerebral small vessel disease: A narrative review of pathological phenotypes, challenges, and future directions.",
-      "abstract": "Cerebral small vessel disease (CSVD) is a leading cause of vascular cognitive impairment and stroke, yet its pathophysiology remains incompletely understood and effective treatments are lacking. This narrative review focuses on animal models that recapitulate the ischemic phenotypes of CSVD, including white matter lesions, lacunar infarcts, and chronic cerebral hypoperfusion; hemorrhagic CSVD subtypes are not discussed. We systematically survey the principal model categories for CSVD, encompassing chronic hypoperfusion models (such as bilateral common carotid artery stenosis [BCAS]), hypertensive models (such as spontaneously hypertensive rats [SHR]), genetically engineered models (such as CADASIL and CARASIL models), and chemically induced models (such as local injection of L-NIO). The article elaborates on the principles underlying the establishment of each model type, the pathological phenotypes simulated (vascular injury, white matter lesions, microinfarcts, microhemorrhages, neurological deficits), and their respective advantages and disadvantages. Building on this foundation, we have focused on analyzing the common challenges and controversies faced by existing models, including clinical relevance (species differences), pathological complexity (multifactorial integration), and the simulation of chronic processes. Finally, this review summarizes universal criteria for model evaluation and outlines future directions, emphasizing the integration of multifactorial composite models and the use of novel technologies such as large animals and organoids. These insights provide systematic guidance for bridging the gap between basic science and translational medicine in CSVD.",
-      "journal": "Experimental neurology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Neurology, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China.",
-        "Department of Neurology, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China. Electronic address: dr.bowu@hotmail.com.",
-        "Department of Neurology, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China. Electronic address: shuai_jiang@scu.edu.cn."
-      ],
-      "doi": "10.1016/j.expneurol.2026.115947",
-      "date": "2026-07-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42532135/"
-    },
-    {
-      "pmid": "42531895",
-      "title": "Regulation of epithelial-mesenchymal cell-cell partners by complexes of paracrine signals and sulfated oligosaccharides.",
-      "abstract": "Complexes of paracrine signals and synthesized, sulfated oligosaccharides regulate expansion and/or differentiation of human epithelial-mesenchymal cell-cell partners with lineage-stage-specific distinctions exemplified in mature hepatocytes versus organoids of stem cells. Of a bank of 53 synthesized heparan sulfate-(HS)-oligosaccharides, 28 formed triggering complexes with selected paracrine signals. Of these, the 12-mer oligosaccharides proved representative for the biological effects of a specific chain chemistry. Optimized conditions for responses to complexes are:(1) A trigger consisting of a paracrine signal bound tightly to a sulfated oligosaccharide; (2) Biologically active sulfated oligosaccharides are of minimum size of 10-12-mers and with ones up to 18-mers giving similar but enhanced responses; (3) Full cell polarization. Responses are not observed at all or not observed fully in cells in two-dimensional formats even when on complex matrix substrata; (4) Epithelial-mesenchymal cell-cell signaling; (5) Serum-free, wholly defined medium tailored to the cells' maturational lineage stage; (6) Responses are predictable by a tell, the ability of a complex to trigger significant changes in sizes of cell nuclei within ∼18 hours. The complexes offer nuanced regulatory controls of growth and differentiation of organs and tissues. Representative triggering complexes [HS-oligosaccharide + paracrine signal] include ones regulating: Self-renewal: fibroblast growth factor-2 (FGF2) bound to an HS-oligosaccharide containing [NS2S] or WNT3A bound to [NS2S6S3S]. Hypertrophy: vascular epithelial growth factor-A (VEGF-A) bound to an HS-oligosaccharidecontaining [NS2S6S3S or NS2S6S]. Expansion in parallel with differentiation: various complexes with a paracrine signal and an oligosaccharide containing [NS2S6S3S]; representative paracrine signals include FGF2, hepatocyte growth factor (HGF), and others. Newly prepared, synthesized chondroitin sulfate-(CS)-oligosaccharides also form triggering complexes with biological responses requiring similar conditions as those for HS-oligosaccharides. Ongoing research efforts are surveying the specific biological responses to particular complexes of CS-oligosaccharides and paracrine signals.",
-      "journal": "Biomaterials",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Cell Biology and Physiology, Program in Molecular Biology and Biotechnology, UNC School of Medicine, Chapel Hill, NC, 27599, USA.",
-        "Division of Chemical Biology and Medicinal Chemistry, UNC Eshelman School of Pharmacy, Chapel Hill, NC, 27599, USA; Glycan Therapeutics Corporation, 617 Hutton Street, Raleigh, NC, 27606, USA.",
-        "UK Center for Biomechanics and Bioengineering, Cardiff University, Cardiff, Wales, UK.",
-        "Department of Cell Biology and Physiology, Program in Molecular Biology and Biotechnology, UNC School of Medicine, Chapel Hill, NC, 27599, USA; Department of Anatomy, Histology, Forensic Medicine and Orthopedic Sciences, Sapienza University, Rome, Italy.",
-        "Department of Anatomy, Histology, Forensic Medicine and Orthopedic Sciences, Sapienza University, Rome, Italy.",
-        "Division of Chemical Biology and Medicinal Chemistry, UNC Eshelman School of Pharmacy, Chapel Hill, NC, 27599, USA; Glycan Therapeutics Corporation, 617 Hutton Street, Raleigh, NC, 27606, USA. Electronic address: liuj@email.unc.edu.",
-        "Department of Cell Biology and Physiology, Program in Molecular Biology and Biotechnology, UNC School of Medicine, Chapel Hill, NC, 27599, USA. Electronic address: stemcell@med.unc.edu."
-      ],
-      "doi": "10.1016/j.biomaterials.2026.124461",
-      "date": "2026-07-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42531895/"
     },
     {
       "pmid": "42509463",
@@ -390,6 +391,75 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42522615/"
     },
     {
+      "pmid": "42536239",
+      "title": "Urine Cell-Free DNA in the Diagnosis of Intraductal Papillary Mucinous Neoplasms: A Prospective Observational Study.",
+      "abstract": "Intraductal papillary mucinous neoplasm (IPMN) is a typical precursor lesion of pancreatic cancer, but differential diagnosis and grading of IPMN is often difficult. Currently, grading of diagnosis is based mainly on imaging examinations, but these methods are invasive, and the accuracy is unsatisfactory. Therefore, the current study aimed to determine the usefulness of urine cell-free DNA (cfDNA) as a liquid biopsy, which the authors suggest has potential as a less invasive diagnostic tool for IPMN. Preoperative plasma and urine samples were collected from 33 patients with a preoperative diagnosis of IPMN. From their plasma and urine, cfDNA was extracted. Analysis of GNAS and KRAS mutations in the cfDNA was performed using droplet digital polymerase chain reaction. The final diagnosis was IPMN in 31 of the 33 cases according to the resected specimens. The positivity rate of GNAS mutations in these 31 patients was 10 % (3/31) in plasma cfDNA, and 32 % (10/31) in urine cfDNA. The positivity rate of KRAS mutations was 19 % (6/31) in plasma cfDNA and 58 % (18/31) in urine cfDNA. In the multivariate analysis of the malignancy diagnosis, the main pancreatic duct diameter was ≥10 mm, and the positivity of both GNAS and KRAS mutations in urine cfDNA were significantly associated with IPMN malignancy (odds ratio [OR], 12.70; P = 0.0200; OR, 8.10; P = 0.0269). Urine cfDNA involves a less invasive liquid biopsy and seems to be useful in the diagnosis of IPMN.",
+      "journal": "Annals of surgical oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Second Department of Surgery, School of Medicine, Wakayama Medical University, Wakayama, Japan.",
+        "Second Department of Surgery, School of Medicine, Wakayama Medical University, Wakayama, Japan. yu-kitahata@hyo-med.ac.jp.",
+        "Division of Hepato-Biliary-Pancreatic Surgery, Department of Gastroenterological Surgery, Hyogo Medical University, Nishinomiya, Japan. yu-kitahata@hyo-med.ac.jp."
+      ],
+      "doi": "10.1245/s10434-026-20286-z",
+      "date": "2026-07-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536239/"
+    },
+    {
+      "pmid": "42535244",
+      "title": "Advanced Imaging and Biomarker Discovery for Early Diagnosis in Skull Base Pathology.",
+      "abstract": "Early detection of skull base (SB) tumors and inflammatory lesions remains difficult because of deep location, complex anatomy, and subtle clinical prodromes. This study systematically evaluates contemporary advanced imaging techniques and emerging molecular biomarkers to define an evidence-based framework for earlier SB disease detection. A Preferred Reporting Items for Systematic Reviews and Meta-Analyses-conformant search of PubMed, Embase, Scopus, and Cochrane Library (January 2015-June 2025) identified original human studies that reported diagnostic performance of (1) advanced magnetic resonance imaging (MRI), (2) positron-emission tomography (PET) or optical imaging, (3) radiomics/radiogenomics, or (4) fluid-based biomarkers in SB pathology. Methodological quality was rated with QUADAS-2. Data were extracted on sensitivity, specificity, and incremental diagnostic yield versus conventional computed tomography/MRI; meta-analysis was precluded by heterogeneity, so results were synthesized descriptively. Seventy-four studies (4,934 patients) met inclusion criteria. Readout-segmented echo-planar diffusion-weighted imaging (DWI) increased lesion detection at the anterior cranial fossa by 17% over single-shot DWI. Diffusion tensor tractography improved cranial nerve visualization and altered operative corridors in 29% of cases. Susceptibility-, perfusion-, and spectroscopy-based MRI differentiated benign from malignant SB lesions with pooled sensitivity 85 to 92%. PET radiotracers outperformed 18F-FDG in low-contrast SB regions; 11C-methionine and 68Ga-FAPI achieved sensitivities of 88 to 93%, whereas 2-18F-tyrosine PET correctly mapped residual meningioma beyond Gd-MRI in 38% of postradiation cases. Stimulated Raman histology coupled with contrastive AI yielded 96.6% intraoperative accuracy for SB tumor classification. Radiomic signatures on multiparametric MRI distinguished chordoma from chondrosarcoma with area under the curve 0.93 and predicted postoperative progression in primary SB chordoma (C-index 0.80). Multiomics analyses identified recurrent genomic drivers (PBRM1 mutation, chromosome-1q gain) and metabolic markers (asparagine synthetase overexpression) associated with subclinical SB tumor presence. Circulating tumor DNA, H3K27M, and TBXT mutations, and exosomal miRNA panels were detectable in cerebrospinal fluid months before radiographic progression. Advanced MRI (particularly readout-segmented echo-planar diffusion-weighted imaging and tractography), amino acid and fibroblast-activation PET, AI-augmented optical imaging, and liquid biopsy assays collectively enhance early SB lesion detection well beyond conventional imaging. Integrating radiomics with fluid biomarkers and targeted PET could enable a risk-adapted surveillance algorithm and expedite minimally invasive intervention. Prospective multimodal studies with standardized reference standards are now warranted.",
+      "journal": "Asian journal of neurosurgery",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Neurosurgery, All India Institute of Medical Sciences, Vijaypur, Jammu and Kashmir, India.",
+        "Department of Neurosurgery, Fortis Hospital, Shalimar Bagh, New Delhi, India."
+      ],
+      "doi": "10.1055/s-0046-1819657",
+      "date": "2026-04-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42535244/"
+    },
+    {
+      "pmid": "42534994",
+      "title": "From plug-and-play to institution-calibrated radiology AI: a practical framework for operationalizing local validation, monitoring and governance.",
+      "abstract": "Radiology artificial intelligence (AI) is increasingly developed on large external datasets and deployed across institutions, but real-world model performance may vary substantially after implementation. Imaging AI interacts with a local ecosystem shaped by scanner hardware, acquisition protocols, reconstruction methods, technologist practices, disease prevalence, patient demographics, reporting conventions, and clinical workflow. These factors can produce domain shift, degrade calibration, alter false-positive and false-negative patterns, and affect clinical utility. In this article, we argue that radiology AI should move beyond a \"plug-and-play\" deployment paradigm toward institution-calibrated AI stewardship. We propose an institution-specific radiology AI performance profile, conceptually analogous to a local antibiogram, to summarize how AI tools perform within a specific clinical environment. Unlike prior MLOps and radiology AI governance frameworks, the proposed profile translates lifecycle management into a radiology-specific, locally maintainable artifact that captures technical context, clinical context, performance metrics, reference standards, equity checks, workflow effects, and governance triggers. The framework applies not only to diagnostic decision support, but also to research cohort generation and radiology education, where local reporting language, imaging protocols, and case mix may strongly influence model reliability. We emphasize that institution-specific calibration does not require every hospital to develop AI models de novo. Rather, externally developed, vendor-based, and foundation-model approaches should be paired with local validation, cautious threshold adjustment, calibration when applicable, surveillance for drift and protocol changes, and multidisciplinary governance. Responsible radiology AI deployment should therefore ask not only whether a model is accurate, but whether it remains accurate, relevant, equitable, and useful locally over time.",
+      "journal": "Frontiers in radiology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Radiology, Aga Khan University Hospital, Karachi, Sindh, Pakistan.",
+        "Department of Medicine, TidalHealth Peninsula Regional, Salisbury, MD, United States."
+      ],
+      "doi": "10.3389/fradi.2026.1902217",
+      "date": "2026-07-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534994/"
+    },
+    {
+      "pmid": "42534857",
+      "title": "High-throughput cancer cell isolation via dynamic anti-clogging microsieve filtration.",
+      "abstract": "Reliable and efficient isolation of tumor-associated cells from peripheral blood remains a significant challenge due to their low abundance and heterogeneity. Here, we present a physics-enabled and fully-automated approach based on microsieve technology for rapid separation and capture of these cells from whole blood. The approach integrates periodic backflush to dynamically disrupt pore blockage and an anti-fouling surface coating to suppress cell adhesion, thereby establishing a self-regulating filtration mechanism. Implemented in a fully automated microsieve system, this mechanism enables processing of 3 mL of whole blood within 25 min, with >90% recovery of viable cancer cells and >99.99% depletion of white blood cells. Compared with other membrane-based filtration methods, the proposed approach ensures more efficient and consistent isolation of cancer cells, demonstrating feasibility for future clinical translation.",
+      "journal": "Frontiers in bioengineering and biotechnology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Beijing Tsinghua Changgung Hospital, School of Clinical Medicine, Tsinghua University, Beijing, China.",
+        "Grabtaxi Holdings Pte. Ltd., Singapore, Singapore.",
+        "Keppel Ltd., Singapore, Singapore.",
+        "Cellbae Pte. Ltd, Singapore, Singapore.",
+        "Innovation and Research, King Faisal Specialist Hospital & Research Centre, Riyadh, Saudi Arabia.",
+        "Department of Bioengineering, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia."
+      ],
+      "doi": "10.3389/fbioe.2026.1867527",
+      "date": "2026-07-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534857/"
+    },
+    {
       "pmid": "42534589",
       "title": "Nanoporous gold electrode-assisted CRISPR/Cas12a electrochemical detection of synthetic methylated DNA models for breast cancer liquid-biopsy development.",
       "abstract": "Circulating tumor DNA (ctDNA) methylation is a promising liquid-biopsy signal for early breast cancer, but low target abundance, fragmented cell-free DNA (cfDNA), and matrix fouling remain major barriers to electrochemical implementation. Here, a nanoporous gold (NPG) electrode-assisted CRISPR/Cas12a electrochemical assay was developed for synthetic methylated DNA models that mimic breast-cancer-associated cfDNA promoter fragments. The assay integrates HpaII methylation-sensitive restriction-enzyme (MSRE) digestion, recombinase polymerase amplification (RPA), Cas12a trans-cleavage, and methylene-blue (MB)-labeled single-stranded DNA (ssDNA) reporters immobilized on NPG. A three-marker panel targeting RASSF1A, APC, and FOXA1 was selected from breast cancer cfDNA methylation literature. The nanoporous electrode exhibited a 9.4-fold electrochemically active surface-area (ECSA) enhancement, and the assay achieved linear responses from 10 fM to 10 nM with limits of detection (LODs) of 3.4, 5.2, and 4.6 fM for RASSF1A, APC, and FOXA1, respectively. The platform distinguished 1% methylated DNA in a high wild-type background, produced 92.4-106.8% recovery in an artificial plasma matrix, and retained 91.8% of response after 14 days of storage. Blinded validation in 60 methylation-positive and 45 methylation-negative contrived specimens yielded an area under the curve (AUC) of 0.966, positive-call sensitivity of 86.7%, specificity of 88.9%, and accuracy of 87.6% at a fixed panel-score threshold. The results support NPG-CRISPR electrochemistry as a compact strategy for nonclinical methylated-DNA model analysis and define experimental benchmarks for subsequent ethically approved translational studies.",
@@ -405,101 +475,166 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534589/"
     },
     {
-      "pmid": "42534503",
-      "title": "Multi-omics profiling of recurrence-associated extrachromosomal circular DNA characteristics and its prognostic potential in lung adenocarcinoma.",
-      "abstract": "Extrachromosomal circular DNA (eccDNA) contributes to tumorigenesis, but its role in tumor recurrence remains unclear. This study aimed to systematically characterize eccDNA profiles in recurrent and non-recurrent early-stage lung adenocarcinoma (LUAD) patients and evaluate their potential as prognostic biomarkers. Tumor tissues, matched adjacent non-tumor tissues, and plasma were collected from patients with early-stage LUAD. All patients underwent a 2-year postoperative follow-up to identify recurrence. Circle-seq and multi-omics analyses were applied to profile eccDNA landscapes in recurrent and non-recurrent patients. eccDNAs in recurrent LUAD patients exhibited significantly distinct features, including higher GC content, enhanced structural stability, increased expression levels, and enrichment in transcriptionally active regions. Recurrence-associated eccDNAs carry oncogenes and regulate pathways involved in tumor migration, invasion, and immune evasion via suppression of immune factor receptors. A recurrence risk model based on seven plasma eccDNA marker genes effectively stratified patients, with high-risk patients exhibiting significantly poorer disease-free survival. These findings highlight the characteristics of eccDNAs in LUAD recurrence and their potential as prognostic biomarkers, providing preliminary multi-omics evidence for understanding the role of eccDNA in LUAD recurrence and laying the groundwork for future mechanistic studies and clinical translation.",
-      "journal": "Precision clinical medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Life Sciences and Engineering, Southwest Jiaotong University, Chengdu 610031, China.",
-        "College of Health and Rehabilitation, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China.",
-        "Department of Thoracic Surgery, Affiliated Hospital of Southwest Jiaotong University, The Third People's Hospital of Chengdu, Chengdu 610031, China.",
-        "Medical Research Center, Affiliated Hospital of Southwest Jiaotong University, The Third People's Hospital of Chengdu, Chengdu 610031, China.",
-        "Department of Pathology, Deyang People's Hospital, Deyang 618000, China."
-      ],
-      "doi": "10.1093/pcmedi/pbag017",
-      "date": "2026-07-06",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534503/"
-    },
-    {
-      "pmid": "42533201",
-      "title": "Retrieval-Augmented Generation in Radiology: A Scoping Review of Architectures, Imaging Applications, and Directions for Equitable Deployment.",
-      "abstract": "Large language models (LLMs) are increasingly explored in radiology, yet concerns persist regarding hallucination and lack of factual grounding. Retrieval-augmented generation (RAG) seeks to address these limitations by coupling generative models with external knowledge retrieval. We conducted a scoping review to characterize how RAG systems have been applied in radiology and medical imaging. A systematic search of PubMed, Embase, Scopus, IEEE Xplore, and arXiv identified 45 studies implementing RAG-based approaches in radiology-related tasks. In terms of clinical tasks, RAG was most commonly applied to radiology report generation and question answering. Dense retrieval strategies predominated, while sparse, hybrid and proprietary retrieval approaches were less frequent. External knowledge sources most frequently comprised biomedical literature databases and clinical guidelines. Applications were heavily skewed toward chest radiography and X-ray-based tasks, with relatively few studies addressing CT, MRI, PET, ultrasound, or under-represented subspecialties such as pediatric radiology and neuroradiology. Most comparative studies reported task-specific performance gains with RAG over non-retrieval baselines, and a small subset reported performance comparable to trained radiologists or state-of-the-art models. However, hallucinations and errors persisted, and heterogeneity across studies limited the generalizability of these findings. Evaluation practices largely relied on automated accuracy or text-overlap metrics, with limited use of standardized expert evaluation and minimal assessment of safety, bias, computational efficiency, or clinical utility. Overall, while RAG shows promise for improving factual grounding in radiology AI, current evaluation paradigms likely overestimate real-world clinical readiness. Future work should prioritize retrieval quality, clinically grounded evaluation, safety-critical error analysis, bias assessment, and deployment-relevant efficiency metrics to enable responsible clinical translation.",
-      "journal": "Journal of imaging informatics in medicine",
+      "pmid": "42536370",
+      "title": "Diagnostic Stewardship of Respiratory Cultures Using Clinical Decision Support in the PICU.",
+      "abstract": "Endotracheal aspirate culture (EAC) practices for evaluation of ventilator-associated infections (VAI) vary widely across pediatric hospitals, and overuse can contribute to overdiagnosis and overtreatment for VAI. Diagnostic stewardship strategies to optimize EAC testing practices may reduce overtesting and unnecessary antibiotic treatment. To evaluate the association of diagnostic stewardship of EACs using clinical decision support with culture rates, antibiotic use, and patient outcomes across a multicenter collaborative of pediatric intensive care units (PICUs). This was a multicenter cohort study with a pre-post study design among the BrighT STAR (Testing Stewardship for Antibiotic Reduction) Quality Improvement (QI) Collaborative involving PICUs across the US between 2019 and 2023. Data were collected from the participating sites and from the Children's Hospital Association Pediatric Health Information System and were analyzed from August to December 2025. Participating PICUs conducted local QI programs focused on optimizing EAC practices, facilitated by the BrighT STAR collaborative. The primary outcome was the monthly rate of EACs per 100 ventilator-days. Secondary outcomes included rates of antibiotic initiations and antibiotic days of therapy, bronchoalveolar lavage cultures, readmissions, length of stay, ventilation duration, ventilation-free days, sepsis, and septic shock. Analysis included adjustment for seasonality. Across 15 sites (median [IQR] unit size, 30 [25-38] beds), the study captured 106 967 ventilator-days preimplementation and 92 167 ventilator-days postimplementation. Comparing 24 months in the preimplementation period with the 18 months in the postimplementation period, the mean monthly EAC rate declined by 16% from a preimplementation to postimplementation rate of 7.80 to 6.55 cultures per 100 ventilator-days (relative rate [RR], 0.84; 95% CI, 0.78-0.90). The rate of antibiotic initiations remained stable (RR, 0.98; 95% CI, 0.89-1.08), as well as the antibiotic days of therapy rate (RR, 1.03; 95% CI, 0.95-1.11). There were no significant changes in the rates of bronchoalveolar lavage cultures, PICU length of stay, PICU or hospital readmissions, sepsis, septic shock, ventilation duration, or ventilator-free days. In this multicenter cohort study, diagnostic stewardship of EACs using clinical decision support led by multidisciplinary teams was associated with reduced EAC use in the PICU without safety concerns. Future work will determine optimal implementation strategies, assess sustainability and the cost impact of EAC stewardship.",
+      "journal": "JAMA network open",
       "publicationTypes": [
         "Journal Article",
-        "Review"
+        "Multicenter Study"
       ],
       "affiliations": [
-        "School of Clinical Medicine, University of Cambridge, Cambridge, UK.",
-        "Department of Biomedical Informatics, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore.",
-        "AIMI Center, Stanford University, Palo Alto, CA, USA.",
-        "School of Computer Science, Shanghai Jiao Tong University, Shanghai, China. shengbin@cs.sjtu.edu.cn."
+        "Department of Pediatrics, Johns Hopkins School of Medicine, Baltimore, Maryland.",
+        "Department of Hospital Epidemiology and Infection Control, Johns Hopkins Hospital, Baltimore, Maryland.",
+        "Division of Critical Care Medicine, Children's Hospital of Philadelphia, University of Pennsylvania Perelman School of Medicine, Philadelphia.",
+        "The Leonard Davis Institute of Health Economics, University of Pennsylvania, Philadelphia.",
+        "Division of Medical Critical Care, Department of Pediatrics, Boston Children's Hospital, Boston, Massachusetts.",
+        "Department of Pediatrics, Harvard Medical School, Boston, Massachusetts.",
+        "Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland.",
+        "Armstrong Institute of Patient Safety and Quality, Johns Hopkins University School of Medicine, Baltimore, Maryland.",
+        "Children's Hospital Association, Lenexa, Kansas.",
+        "Department of Health Policy and Management, Johns Hopkins Bloomberg School of Public Health, Johns Hopkins University, Baltimore, Maryland.",
+        "Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Johns Hopkins University, Baltimore, Maryland.",
+        "Division of Pediatric Critical Care Medicine, Department of Critical Care Medicine, University of Pittsburgh School of Medicine, UPMC Children's Hospital of Pittsburgh, Pittsburgh, Pennsylvania.",
+        "Division of Pediatric Infectious Diseases, Department of Pediatrics, University of Pittsburgh School of Medicine, UPMC Children's Hospital of Pittsburgh, Pittsburgh, Pennsylvania.",
+        "Division of Pediatric Critical Care, Department of Pediatrics, Dell Medical School, Austin, Texas.",
+        "Division of Infectious Diseases, Department of Pediatrics, Vanderbilt University Medical Center, Nashville, Tennessee.",
+        "Division of Critical Care Medicine, Department of Anesthesiology, Critical Care and Pain Medicine, Boston Children's Hospital, Boston, Massachusetts.",
+        "Division of Infectious Diseases, Department of Pediatrics, Boston Children's Hospital, Boston, Massachusetts.",
+        "Division of Critical Care Medicine, Department of Pediatrics, Vanderbilt University Medical Center, Nashville, Tennessee.",
+        "Now with: Division of Critical Care Medicine, Department of Pediatrics, University of Maryland School of Medicine, Baltimore, Maryland.",
+        "Division of Critical Care, Ann & Robert H. Lurie Children's Hospital of Chicago, Chicago, Illinois.",
+        "Department of Pediatrics, Northwestern University Feinberg School of Medicine, Chicago, Illinois.",
+        "Now with: Department of Anesthesiology and Critical Care, Children's Hospital of Philadelphia, Philadelphia, Pennsylvania.",
+        "Division of Critical Care, Department of Pediatrics, University of Utah, Salt Lake City.",
+        "Section of Pediatric Infectious Diseases, Cleveland Clinic Children's Hospital, Cleveland, Ohio.",
+        "Department of Pediatric Critical Care Medicine, Cleveland Clinic Children's Hospital, Cleveland, Ohio.",
+        "Now with: Department of Pediatrics, Henry Ford St. John Children's Hospital, Detroit, Michigan.",
+        "Division of Pediatric Critical Care, Monroe Carell, Jr. Children's Hospital at Vanderbilt, Vanderbilt School of Nursing, Nashville, Tennessee.",
+        "Division of Pediatric Infectious Disease, Dell Medical School, University of Texas at Austin.",
+        "Division of Infectious Diseases, Department of Pediatrics, Children's Nebraska, University of Nebraska Medical Center, Omaha.",
+        "Division of Neurology, Ann & Robert H. Lurie Children's Hospital of Chicago, Chicago, Illinois.",
+        "Now with: Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland.",
+        "Department of Pediatrics, University of Tennessee Health Science Center, Le Bonheur Children's Hospital, Memphis, Tennessee.",
+        "Division of Critical Care Medicine, Department of Pediatrics, Children's Minnesota, Children's Respiratory and Critical Care Specialist's P.A., Minneapolis.",
+        "Division of Pediatric Critical Care, Doernbecher Children's Hospital, Oregon Health & Science University, Portland.",
+        "Department of Pharmacy, Antimicrobial Stewardship Program, Children's Minnesota, Minneapolis.",
+        "Now with: Allina Health Group Pharmacy Services, Allina Health, Minneapolis, Minnesota.",
+        "Division of Critical Care Medicine, Department of Pediatrics, Intermountain Primary Children's Hospital and University of Utah, Salt Lake City.",
+        "Division of Infectious Diseases, Lurie Children's Hospital of Chicago, Northwestern University Feinberg School of Medicine, Chicago, Illinois.",
+        "Division of Pediatric Critical Care Medicine, Washington University School of Medicine, St. Louis Children's Hospital, St. Louis, Missouri.",
+        "Division of Pediatric Critical Care, Rainbow Babies and Children's Hospital, Cleveland, Ohio.",
+        "Division of Pediatric Critical Care Medicine, Children's Nebraska, University of Nebraska College of Medicine, Omaha.",
+        "Now with: current affiliation Division of Cardiac Critical Care, Department of Cardiology, Arkansas Children's Hospital, University of Arkansas for Medical Sciences, Little Rock.",
+        "Department of Anesthesia, Harvard Medical School, Boston, Massachusetts.",
+        "Division of Infectious Diseases, Department of Pediatrics, Washington University School of Medicine, St. Louis Children's Hospital, St. Louis, Missouri.",
+        "Now with: Division of Infectious Diseases, Department of Pediatrics, Children's Hospital of Philadelphia, Perelman School of Medicine, University of Pennsylvania, Philadelphia.",
+        "Division of Infectious Diseases, Department of Pediatrics, Lucile Packard Children's Hospital, Stanford School of Medicine, Stanford, California.",
+        "Division of Pediatric Critical Care Medicine, Department of Pediatrics, Stanford University, Stanford, California.",
+        "Division of Pediatric Critical Care & Cardiology, Department of Pediatrics, Le Bonheur Children's Hospital, University of Tennessee Health Science Center, Memphis.",
+        "Now with: Division of Pediatric Intensive Care, Cook Children's Medical Center, Fort Worth, Texas.",
+        "Division of Infectious Diseases, Department of Pediatrics, Doernbecher Children's Hospital, Oregon Health and Sciences University, Portland."
       ],
-      "doi": "10.1007/s10278-026-02150-4",
-      "date": "2026-07-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42533201/"
-    },
-    {
-      "pmid": "42532207",
-      "title": "Analytical Validation of a Plasma-Based Rapid Liquid Biopsy Assay Using Next-Generation Sequencing.",
-      "abstract": "Cell-free total nucleic acid (cfTNA)-based liquid biopsy (LBx) offers a minimally invasive alternative to tissue-based next generation sequencing (NGS). Most NGS-based LBx assays require several days for results. This study validated a rapid NGS-based LBx assay with a two-day turnaround time (TAT). Patient plasma samples were used to validate the Oncomine Precision Assay for single nucleotide variants (SNVs), insertion deletions (indels) and fusions across 50 genes on the Genexus Sequencer. Manual extraction using the QIAamp cfTNA Kit was performed to optimize fusion detection. Analytical sensitivity in synthetic controls (N=20) using the automated workflow was 99.2% for SNVs and 95% for indels, with 100% specificity (allele frequency ≥0.5%). In clinical samples (N=107), sensitivity was 99.4% for SNVs and 100% for indels; specificity was 100% for both, compared with orthogonal assays. Manual extraction improved overall performance compared to the automated extraction and was used for the final clinical workflow. Analytical sensitivity of fusions in synthetic controls (N=22) was 98.9%, with 100% specificity (≥7 copies). In clinical samples (N=38) sensitivity and specificity for both SNVs and indels were 100% and 99.9%, respectively; sensitivity for fusions was 72.2%; specificity was 100%. Overall precision was >99% and average TAT was ≤2 days. This study reports the feasibility and validation of a two-day TAT NGS-based cfTNA assay that can potentially reduce time-to-treatment.",
-      "journal": "The Journal of molecular diagnostics : JMD",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Anatomical Pathology, The University of Texas MD Anderson Cancer Center, Houston, Texas; Molecular Diagnostic Laboratory, Division of Pathology and Laboratory Medicine, The University of Texas MD Anderson Cancer Center, Houston, Texas; Department of Translational Molecular Pathology, The University of Texas MD Anderson Cancer Center, Houston, Texas.",
-        "Molecular Diagnostic Laboratory, Division of Pathology and Laboratory Medicine, The University of Texas MD Anderson Cancer Center, Houston, Texas.",
-        "Department of Anatomical Pathology, The University of Texas MD Anderson Cancer Center, Houston, Texas; Molecular Diagnostic Laboratory, Division of Pathology and Laboratory Medicine, The University of Texas MD Anderson Cancer Center, Houston, Texas.",
-        "Department of Hematopathology, The University of Texas MD Anderson Cancer Center, Houston, Texas; Molecular Diagnostic Laboratory, Division of Pathology and Laboratory Medicine, The University of Texas MD Anderson Cancer Center, Houston, Texas.",
-        "Department of Translational Molecular Pathology, The University of Texas MD Anderson Cancer Center, Houston, Texas.",
-        "Department of Hematopathology, The University of Texas MD Anderson Cancer Center, Houston, Texas; Molecular Diagnostic Laboratory, Division of Pathology and Laboratory Medicine, The University of Texas MD Anderson Cancer Center, Houston, Texas; Department of Translational Molecular Pathology, The University of Texas MD Anderson Cancer Center, Houston, Texas. Electronic address: sroy2@mdanderson.org."
-      ],
-      "doi": "10.1016/j.jmoldx.2026.07.004",
-      "date": "2026-07-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42532207/"
-    },
-    {
-      "pmid": "42532206",
-      "title": "Predicting recurrence of Stage IA lung adenocarcinoma using ctDNA whole genome mutational signatures.",
-      "abstract": "Lung adenocarcinoma (LUAD) remains a leading cause of cancer-related mortality. While for Stage IA LUAD surgery is often curative, recurrence rates remain significant. Liquid biopsy enables monitoring residual disease and predicts recurrence, however utility in Stage IA LUAD is not well-established. Tumor-informed whole genome sequencing (WGS) represents a highly sensitive liquid biopsy method for the analysis of circulating-tumor cell-free DNA (ctDNA) without designing and maintaining patient-specific probes. We aimed to determine the prognostic value of genome-wide tumor-informed minimal residual disease (MRD) monitoring in Stage IA NSCLC using WGS of ctDNA. WGS was performed on 42 patients with Stage IA NSCLC. Tumor was sequenced at 40x and germline DNA and plasma derived ctDNA at 20x and patient specific mutational signatures were developed from the tumor-normal comparison and applied to ctDNA WGS at each time point using AI-supported pattern recognition algorithm. ctDNA results were compared with clinical recurrence. WGS ctDNA was able to predict recurrence with 0.75 sensitivity and 0.83 specificity, with median 16.7 months lead time compared to clinical or imaging recurrence. ctDNA WGS was able to distinguish between a second primary and recurrence in histologically or clinically challenging cases. Whole genome sequencing of ctDNA can predict recurrence in the earliest clinical stage of NSCLC, identifying patients who will recur, and providing information to help guide radiological follow-up and adjuvant therapy.",
-      "journal": "The Journal of molecular diagnostics : JMD",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Pathology, NYU Langone Health and Grossman School of Medicine, New York, New York,; Laura and Isaac Perlmutter Cancer Center, New York, New York. Electronic address: Matija.Snuderl@nyulangone.org.",
-        "C2i Genomics Inc., New York, New York.",
-        "Department of Pathology, NYU Langone Health and Grossman School of Medicine, New York, New York.",
-        "Department of Cardiothoracic Surgery, NYU Langone Health, New York, New York.",
-        "C2i Genomics Inc., Haifa, Israel.",
-        "Department of Cardiothoracic Surgery, NYU Langone Health, New York, New York,. Electronic address: Harvey.Pass@nyulangone.org."
-      ],
-      "doi": "10.1016/j.jmoldx.2026.07.003",
-      "date": "2026-07-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42532206/"
-    },
-    {
-      "pmid": "42532107",
-      "title": "[Testicular Germ Cell Tumors and Penile Cancer: Molecular-Based Diagnosis and Treatment].",
-      "abstract": "Molecular diagnostics and targeted therapies are increasingly evolving towards a personalized medicine approach. This review summarizes recent advances in testicular germ cell tumors (TGCTs) and penile cancer, with a focus on emerging biomarkers and targeted therapeutic strategies. Conventional serum tumor markers such as AFP, β-HCG, and LDH remain important but are limited by suboptimal sensitivity and specificity. Novel biomarkers, particularly microRNA miR-371a-3p, have demonstrated substantially higher diagnostic accuracy and may improve risk stratification, detection of disease recurrence, and treatment decision-making in TGCTs. In addition, the analysis of circulating tumor DNA (ctDNA) has emerged as a promising liquid biopsy procedure. In penile squamous cell carcinoma, molecular classification based on human papillomavirus (HPV) status and comprehensive genomic profiling are becoming increasingly relevant for prognosis and therapeutic selection. The identification of actionable molecular alterations has facilitated the development of immunotherapy, anti-EGFR strategies, and antibody-drug conjugates. Early clinical data also suggest that ctDNA may provide valuable information for treatment monitoring and early relapse detection. Despite these promising findings, further prospective studies and standardized methodologies are required before many of these approaches can be incorporated into routine clinical practice. Overall, these developments highlight the ongoing transition towards biomarker-driven precision oncology and the potential for more individualized management of patients with TGCTs and penile cancer.",
-      "journal": "Aktuelle Urologie",
-      "publicationTypes": [
-        "English Abstract",
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Universitätsklinikum Köln, Urologie, Germany, Köln."
-      ],
-      "doi": "10.1055/a-2915-1570",
-      "date": "2026-07-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42532107/"
+      "doi": "10.1001/jamanetworkopen.2026.26547",
+      "date": "2026-07-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536370/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42536272",
+      "date": "2026-07-31",
+      "title": "Multimodal Management of Pain in Oral Squamous Cell Carcinoma: A Mechanism-Based Approach.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536272/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Current pain and headache reports，PMID 为 42536272。",
+      "report": "Oral squamous cell carcinoma (OSCC) is frequently associated with severe nociceptive and neuropathic pain that adversely affects patient quality of life, functional capacity, psychological well-being, and prognosis. Pain in OSCC is increasingly recognized not...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42536076",
+      "date": "2026-07-31",
+      "title": "An innovative organoid model to screen for bacteria and their metabolites that protect against inflammation-induced colonic barrier disruption.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536076/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 mSphere，PMID 为 42536076。",
+      "report": "Organoids provide a useful model system to study interactions between gut microbes and the activity of host tissues, including gastrointestinal (GI) barrier function. However, most organoid models have limited capacity to mimic the physiological hypoxia experi...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42536239",
+      "date": "2026-07-31",
+      "title": "Urine Cell-Free DNA in the Diagnosis of Intraductal Papillary Mucinous Neoplasms: A Prospective Observational Study.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536239/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Annals of surgical oncology，PMID 为 42536239。",
+      "report": "Intraductal papillary mucinous neoplasm (IPMN) is a typical precursor lesion of pancreatic cancer, but differential diagnosis and grading of IPMN is often difficult. Currently, grading of diagnosis is based mainly on imaging examinations, but these methods are...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42532370",
       "date": "2026-07-30",
@@ -533,34 +668,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42532135",
-      "date": "2026-07-30",
-      "title": "Animal models of ischemic cerebral small vessel disease: A narrative review of pathological phenotypes, challenges, and future directions.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42532135/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Experimental neurology，PMID 为 42532135。",
-      "report": "Cerebral small vessel disease (CSVD) is a leading cause of vascular cognitive impairment and stroke, yet its pathophysiology remains incompletely understood and effective treatments are lacking. This narrative review focuses on animal models that recapitulate...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42531048",
       "date": "2026-07-30",
       "title": "A Generative Neuro-Symbolic AI for Protein Sequence Design.",
@@ -587,135 +694,6 @@
       "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42531048。",
       "report": "Deep learning has revolutionized computational protein design, enabling the generation of sequences that fold onto target backbones with unprecedented accuracy. However, state-of-the-art inverse folding tools largely rely on auto-regressive sampling. While pow...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42533201",
-      "date": "2026-07-30",
-      "title": "Retrieval-Augmented Generation in Radiology: A Scoping Review of Architectures, Imaging Applications, and Directions for Equitable Deployment.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42533201/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Healthcare AI",
-        "Medical LLM"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "医疗 AI",
-        "临床决策支持"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of imaging informatics in medicine，PMID 为 42533201。",
-      "report": "Large language models (LLMs) are increasingly explored in radiology, yet concerns persist regarding hallucination and lack of factual grounding. Retrieval-augmented generation (RAG) seeks to address these limitations by coupling generative models with external...",
-      "inference": "自动分类命中规则：AI-enabled Discovery, Diagnostics & Precision Medicine, Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42532207",
-      "date": "2026-07-30",
-      "title": "Analytical Validation of a Plasma-Based Rapid Liquid Biopsy Assay Using Next-Generation Sequencing.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42532207/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The Journal of molecular diagnostics : JMD，PMID 为 42532207。",
-      "report": "Cell-free total nucleic acid (cfTNA)-based liquid biopsy (LBx) offers a minimally invasive alternative to tissue-based next generation sequencing (NGS). Most NGS-based LBx assays require several days for results. This study validated a rapid NGS-based LBx assa...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42532206",
-      "date": "2026-07-30",
-      "title": "Predicting recurrence of Stage IA lung adenocarcinoma using ctDNA whole genome mutational signatures.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42532206/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The Journal of molecular diagnostics : JMD，PMID 为 42532206。",
-      "report": "Lung adenocarcinoma (LUAD) remains a leading cause of cancer-related mortality. While for Stage IA LUAD surgery is often curative, recurrence rates remain significant. Liquid biopsy enables monitoring residual disease and predicts recurrence, however utility i...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42532107",
-      "date": "2026-07-30",
-      "title": "[Testicular Germ Cell Tumors and Penile Cancer: Molecular-Based Diagnosis and Treatment].",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42532107/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Aktuelle Urologie，PMID 为 42532107。",
-      "report": "Molecular diagnostics and targeted therapies are increasingly evolving towards a personalized medicine approach. This review summarizes recent advances in testicular germ cell tumors (TGCTs) and penile cancer, with a focus on emerging biomarkers and targeted t...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1009,38 +987,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42531895",
-      "date": "2026-07-22",
-      "title": "Regulation of epithelial-mesenchymal cell-cell partners by complexes of paracrine signals and sulfated oligosaccharides.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42531895/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomaterials，PMID 为 42531895。",
-      "report": "Complexes of paracrine signals and synthesized, sulfated oligosaccharides regulate expansion and/or differentiation of human epithelial-mesenchymal cell-cell partners with lineage-stage-specific distinctions exemplified in mature hepatocytes versus organoids o...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42486102",
       "date": "2026-07-22",
       "title": "HIT-MAP: A scalable approach to multimodal mapping of subcellular organization.",
@@ -1196,32 +1142,58 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42534503",
-      "date": "2026-07-06",
-      "title": "Multi-omics profiling of recurrence-associated extrachromosomal circular DNA characteristics and its prognostic potential in lung adenocarcinoma.",
+      "id": "pubmed-42534994",
+      "date": "2026-07-16",
+      "title": "From plug-and-play to institution-calibrated radiology AI: a practical framework for operationalizing local validation, monitoring and governance.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534994/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in radiology，PMID 为 42534994。",
+      "report": "Radiology artificial intelligence (AI) is increasingly developed on large external datasets and deployed across institutions, but real-world model performance may vary substantially after implementation. Imaging AI interacts with a local ecosystem shaped by sc...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42534857",
+      "date": "2026-07-16",
+      "title": "High-throughput cancer cell isolation via dynamic anti-clogging microsieve filtration.",
       "entity": "Biotech Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "General Biotech Research",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534503/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534857/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Biotech",
-        "Precision Oncology",
-        "Multi-omics"
+        "Precision Oncology"
       ],
       "tags": [
         "biotech",
-        "肿瘤",
-        "多组学"
+        "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Precision clinical medicine，PMID 为 42534503。",
-      "report": "Extrachromosomal circular DNA (eccDNA) contributes to tumorigenesis, but its role in tumor recurrence remains unclear. This study aimed to systematically characterize eccDNA profiles in recurrent and non-recurrent early-stage lung adenocarcinoma (LUAD) patient...",
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42534857。",
+      "report": "Reliable and efficient isolation of tumor-associated cells from peripheral blood remains a significant challenge due to their low abundance and heterogeneity. Here, we present a physics-enabled and fully-automated approach based on microsieve technology for ra...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1253,6 +1225,68 @@
       "fact": "PubMed 记录显示该文献收录于 Briefings in bioinformatics，PMID 为 42476548。",
       "report": "Single-cell RNA sequencing has emerged as a transformative tool, enabling precise phenotype prediction and the detailed identification of disease-associated cell subpopulations. However, many existing computational approaches still rely on predefined cell-type...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42536370",
+      "date": "2026-07-01",
+      "title": "Diagnostic Stewardship of Respiratory Cultures Using Clinical Decision Support in the PICU.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536370/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Healthcare AI",
+        "Medical LLM"
+      ],
+      "tags": [
+        "临床",
+        "监管",
+        "医疗 AI",
+        "临床决策支持"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 JAMA network open，PMID 为 42536370。",
+      "report": "Endotracheal aspirate culture (EAC) practices for evaluation of ventilator-associated infections (VAI) vary widely across pediatric hospitals, and overuse can contribute to overdiagnosis and overtreatment for VAI. Diagnostic stewardship strategies to optimize...",
+      "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42535244",
+      "date": "2026-04-01",
+      "title": "Advanced Imaging and Biomarker Discovery for Early Diagnosis in Skull Base Pathology.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42535244/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Asian journal of neurosurgery，PMID 为 42535244。",
+      "report": "Early detection of skull base (SB) tumors and inflammatory lesions remains difficult because of deep location, complex anatomy, and subtle clinical prodromes. This study systematically evaluates contemporary advanced imaging techniques and emerging molecular b...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
