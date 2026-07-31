@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-31T09:19:09.844351+00:00",
+  "capturedAt": "2026-07-31T14:39:23.463707+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-07-31"
   },
   "pmids": [
+    "42534747",
+    "42534288",
     "42532746",
     "42532370",
     "42532135",
-    "42531721",
     "42531895",
-    "42530523",
     "42509463",
     "42498177",
     "42497867",
@@ -32,14 +32,51 @@
     "42525178",
     "42523295",
     "42522615",
+    "42534589",
+    "42534503",
+    "42533201",
     "42532207",
     "42532206",
-    "42532107",
-    "42531972",
-    "42533201",
-    "42530947"
+    "42532107"
   ],
   "records": [
+    {
+      "pmid": "42534747",
+      "title": "Oxygen-enhanced assembloid-based vascularized intestinal-on-a-chip for radioprotective drug evaluation.",
+      "abstract": "The intestine plays essential roles in digestion, immunity, and metabolism, but is highly sensitive to ionizing radiation during cancer treatment or environmental exposure. Although three-dimensional intestinal models more accurately replicate tissue architecture than conventional monolayers, they are frequently limited by insufficient oxygen delivery, leading to hypoxia-associated functional impairment. Incorporating physiologically relevant oxygenation strategies remains a key challenge in advanced in vitro systems. This study aimed to establish a physiologically relevant in vitro intestinal model by improving oxygen mass transfer within three-dimensional tissue constructs, thereby enhancing structural organization and functional maturation, and subsequently applying the system to investigate radiation-related mechanisms and evaluate potential protective agents. Based on a microengineered 3D cell-assembly platform, intestinal epithelial cells, endothelial cells, and fibroblasts were spatially organized to form a structured intestinal tissue model. The composition of the cells was optimised to improve tissue uniformity and the function of the epithelial barrier. To alleviate hypoxia in the three-dimensional construct, an oxygen-permeable microwell system was employed to enhance oxygen diffusion and promote epithelial differentiation, as evidenced by the upregulation of Isx, Cyp3a5, and Tff3. A vascularized chip that recapitulated the in vivo intestinal-stromal-vascular interface was created by incorporating microvascular networks self-assembled from endothelial cells within a hydrogel matrix. Following radiation exposure, the model exhibited characteristic symptoms of intestinal injury, such as decreased cell viability, impaired E-cadherin signaling, and compromised epithelial barrier integrity. Treatment with dimethyloxalylglycine (DMOG) mitigated these effects, confirming it's utility for assessing radioprotective drugs. This vascularized intestinal-on-a-chip model closely mimics the structure and function of the human intestinal microenvironment. It serves as a robust in vitro platform for studying radiation-induced intestinal injury and for screening candidate protective agents, offering valuable applications in radiation protection and regenerative medicine research.",
+      "journal": "Frontiers in toxicology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Biomanufacturing Center, Department of Mechanical Engineering, Tsinghua University, Beijing, China.",
+        "Key Laboratory for Advanced Materials Processing Technology, Ministry of Education, Beijing, China.",
+        "Beijing Key Laboratory of Intelligent Organ Biofabrication and Regenerative Repair, Tsinghua University, Beijing, China.",
+        "The State Key Laboratory of Membrane Biology, Tsinghua-Peking Center for Life Sciences, School of Life Sciences, Tsinghua University, Beijing, China."
+      ],
+      "doi": "10.3389/ftox.2026.1863392",
+      "date": "2026-07-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534747/"
+    },
+    {
+      "pmid": "42534288",
+      "title": "Establishment of extrahepatic bile duct cancer organoids using suspension culture and their application in clinical drug screening.",
+      "abstract": "The present study aims to explore the feasibility of establishing human extrahepatic cholangiocarcinoma (eCCA) organoids via suspension culture, to biologically characterize their biological features and to evaluate their drug sensitivity, thereby providing a preclinical model for personalized precision therapy. Surgically resected tumor tissues were obtained from patients with eCCA. Tumor cells were isolated by mechanical dissociation and enzymatic digestion, and were cultured in a matrix-free suspension system for three-dimensional organoid formation and continuous passaging. Histomorphological features of the organoids and the corresponding parental tumor tissues were compared by H&E staining. Immunohistochemistry was used to detect the expression of the cholangiocyte markers cytokeratin (CK)7 and CK19, as well as Ki-67, to confirm tissue origin and proliferative activity. In addition, the organoid model was used for in vitro sensitivity testing of conventional chemotherapy regimens. The organoids exhibited morphological features of moderately to poorly differentiated adenocarcinoma, consistent with those of the parental tumors, including tubular structures, solid nests and nuclear atypia. Immunohistochemical analysis showed high expression of CK7 and CK19, confirming cholangiocytic origin, along with high Ki-67 expression, indicating active proliferative capacity. Drug sensitivity testing revealed substantial heterogeneity in treatment responses among organoid lines derived from different patients, indicating variable sensitivity to chemotherapeutic agents. In conclusion, an eCCA organoid model was successfully established using a suspension culture method, and it largely preserved the histopathological and cellular phenotypic features of the parental tumor. This model functions as an in vitro 'patient surrogate' for drug-sensitivity testing, with potential for evaluating chemotherapy and targeted-drug efficacy. However, the observed clinical concordance in a single patient is preliminary and its definitive predictive value requires validation in larger prospective cohorts. Theoretically, this system offers advantages in scalability and standardization for clinical applications, although direct comparisons with traditional matrices remain to be conducted.",
+      "journal": "Oncology letters",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "General Surgery Department, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou, Gansu 730000, P.R. China.",
+        "Pathology Department, Dingxi People's Hospital, Dingxi, Gansu 743000, P.R. China.",
+        "Department of Hepatobiliary Surgery, The First Affiliated Hospital of Zhejiang Chinese Medical University, Zhejiang Provincial Hospital of Chinese Medicine, Hangzhou, Zhejiang 310006, P.R. China.",
+        "Hepatobiliary and Pancreatic Surgery Department, The First School of Clinical Medicine, Zhejiang Chinese Medical University, Hangzhou, Zhejiang 310006, P.R. China.",
+        "Department of General Surgery, Lanzhou University Second Hospital, Lanzhou, Gansu 730000, P.R. China."
+      ],
+      "doi": "10.3892/ol.2026.15770",
+      "date": "2026-07-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534288/"
+    },
     {
       "pmid": "42532746",
       "title": "Comparative evaluation of chemotherapy and CAR-T cell therapy in genetically engineered self-sustaining primary pancreatic cancer organoids.",
@@ -111,33 +148,6 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42532135/"
     },
     {
-      "pmid": "42531721",
-      "title": "Microcephaly-like phenotype triggered by novel reassortant and prototypic Oropouche virus strains in brain organoids.",
-      "abstract": "Oropouche virus (OROV) is an emerging arbovirus currently spreading across South America, with increasing reports of neurological manifestations, severe systemic disease, and congenital abnormalities. Although traditionally associated with mild febrile illness, the recent geographic expansion and surge in OROV outbreaks have prompted attention to its neurotropic potential. We investigated the effects of Oropouche virus (OROV) infection on neural stem cells (NSCs) and brain organoids derived from human induced pluripotent stem cells, using both an emergent reassortant isolate and a prototypical strain. OROV infected NSCs, leading to cell death, depletion of proliferative progenitors, and disruption of neuroepithelial organisation. Transcriptomic profiling revealed reduction of antiviral response genes and enrichment of signalling pathways related to viral replication, apoptosis, and inhibition of stem cell maintenance and neuronal differentiation. These molecular signatures aligned with phenotypic collapse of progenitor pools and cortical structure observed in organoids, in which OROV infected progenitors, neurons and astrocytes. Proteomic analysis of brain organoids infected with OROV showed regulation of neurodevelopment pathways, which have been previously associated with ZIKV infection, suggesting convergent pathway disruption associated with reduced growth of organoids infected by ZIKV and OROV and highlighting their potential to impair brain development. These results reveal evidence consistent with a previously unrecognised neurodevelopmental pathogenic potential of OROV strains and provide mechanistic insight into their contribution to microcephaly-like outcomes. D'Or Institute, ITpS, CNPq, FAPEMIG, FAPERJ.",
-      "journal": "EBioMedicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "D'Or Institute for Research and Education (IDOR), Rio de Janeiro, Brazil.",
-        "Department of Genetics, Institute of Biology, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil.",
-        "D'Or Institute for Research and Education (IDOR), Rio de Janeiro, Brazil; Department of Genetics, Institute of Biology, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil.",
-        "Department of Biochemistry and Immunology, Federal University of Minas Gerais (UFMG), Minas Gerais, Brazil; IDOR Pioneer Science Initiative, Brazil.",
-        "Department of Biochemistry and Immunology, Federal University of Minas Gerais (UFMG), Minas Gerais, Brazil.",
-        "Institute of Biomedical Sciences, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil; R&D Department, Promega Corporation, Madison, WI, United States of America.",
-        "R&D Department, Promega Corporation, Madison, WI, United States of America.",
-        "Proteomics Unit, Institute of Chemistry, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil; Laboratory of Proteomics (LabProt), LADETEC, Institute of Chemistry, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil; Precision Medicine Research Center, Institute of Biophysics Carlos Chagas Filho, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil.",
-        "Proteomics Unit, Institute of Chemistry, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil; Precision Medicine Research Center, Institute of Biophysics Carlos Chagas Filho, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil.",
-        "D'Or Institute for Research and Education (IDOR), Rio de Janeiro, Brazil; IDOR Pioneer Science Initiative, Brazil.",
-        "D'Or Institute for Research and Education (IDOR), Rio de Janeiro, Brazil; Department of Genetics, Institute of Biology, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil; Department of Genetics, Ecology and Evolution, Federal University of Minas Gerais (UFMG), Minas Gerais, Brazil; IDOR Pioneer Science Initiative, Brazil.",
-        "Department of Genetics, Institute of Biology, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil. Electronic address: carolvoloch@ufrj.br.",
-        "D'Or Institute for Research and Education (IDOR), Rio de Janeiro, Brazil; Department of Genetics, Institute of Biology, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil; R&D Department, Promega Corporation, Madison, WI, United States of America; IDOR Pioneer Science Initiative, Brazil. Electronic address: stevens.rehen@idor.org."
-      ],
-      "doi": "10.1016/j.ebiom.2026.106408",
-      "date": "2026-07-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42531721/"
-    },
-    {
       "pmid": "42531895",
       "title": "Regulation of epithelial-mesenchymal cell-cell partners by complexes of paracrine signals and sulfated oligosaccharides.",
       "abstract": "Complexes of paracrine signals and synthesized, sulfated oligosaccharides regulate expansion and/or differentiation of human epithelial-mesenchymal cell-cell partners with lineage-stage-specific distinctions exemplified in mature hepatocytes versus organoids of stem cells. Of a bank of 53 synthesized heparan sulfate-(HS)-oligosaccharides, 28 formed triggering complexes with selected paracrine signals. Of these, the 12-mer oligosaccharides proved representative for the biological effects of a specific chain chemistry. Optimized conditions for responses to complexes are:(1) A trigger consisting of a paracrine signal bound tightly to a sulfated oligosaccharide; (2) Biologically active sulfated oligosaccharides are of minimum size of 10-12-mers and with ones up to 18-mers giving similar but enhanced responses; (3) Full cell polarization. Responses are not observed at all or not observed fully in cells in two-dimensional formats even when on complex matrix substrata; (4) Epithelial-mesenchymal cell-cell signaling; (5) Serum-free, wholly defined medium tailored to the cells' maturational lineage stage; (6) Responses are predictable by a tell, the ability of a complex to trigger significant changes in sizes of cell nuclei within ∼18 hours. The complexes offer nuanced regulatory controls of growth and differentiation of organs and tissues. Representative triggering complexes [HS-oligosaccharide + paracrine signal] include ones regulating: Self-renewal: fibroblast growth factor-2 (FGF2) bound to an HS-oligosaccharide containing [NS2S] or WNT3A bound to [NS2S6S3S]. Hypertrophy: vascular epithelial growth factor-A (VEGF-A) bound to an HS-oligosaccharidecontaining [NS2S6S3S or NS2S6S]. Expansion in parallel with differentiation: various complexes with a paracrine signal and an oligosaccharide containing [NS2S6S3S]; representative paracrine signals include FGF2, hepatocyte growth factor (HGF), and others. Newly prepared, synthesized chondroitin sulfate-(CS)-oligosaccharides also form triggering complexes with biological responses requiring similar conditions as those for HS-oligosaccharides. Ongoing research efforts are surveying the specific biological responses to particular complexes of CS-oligosaccharides and paracrine signals.",
@@ -157,28 +167,6 @@
       "doi": "10.1016/j.biomaterials.2026.124461",
       "date": "2026-07-22",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42531895/"
-    },
-    {
-      "pmid": "42530523",
-      "title": "Epilepsy-associated SCN2A-L1342P mutation drives network hyperexcitability and widespread transcriptomic changes in human cortical organoids.",
-      "abstract": "SCN2A pathogenic mutations, such as the recurrent heterozygous Nav1.2-L1342P, are monogenic causes of epilepsy. In this human-induced pluripotent stem cell-derived model system, we aim to investigate the molecular and cellular mechanisms underlying SCN2A-L1342P-associated pathology. Using a human male induced pluripotent stem cell (iPSC) reference line (KOLF) carrying the Nav1.2-L1342P mutation, we generated three-dimensional (3D) cortical organoids for functional studies. Patch-clamp, multi-electrode array (MEA) recordings, immunocytochemistry, and RNA sequencing were used to characterize the disease phenotypes. Nav1.2-L1342P organoid neurons displayed increased intrinsic excitability and amplified excitatory post-synaptic currents, which are consistent with an increase in excitatory synapse formation revealed by SYN1/PSD95 immunostaining. Moreover, elevated network firing activity, as demonstrated by MEA, indicates a pronounced network hyperexcitability. Transcriptomic profiling of organoids carrying the Nav1.2-L1342P mutation further revealed significant alterations in synaptic, glutamatergic, developmental, and senescence/apoptotic pathways. Our findings demonstrate that the Nav1.2-L1342P mutation drives a multifaceted disease phenotype, including network hyperexcitability and disruption of pathways related to neuronal and synaptic functions. These results advance our understanding of SCN2A-related developmental and epileptic encephalopathy (DEE), laying a foundation for personalized interventions.",
-      "journal": "Epilepsia",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Borch Department of Medicinal Chemistry and Molecular Pharmacology, College of Pharmacy, Purdue University, West Lafayette, Indiana, USA.",
-        "Purdue Institute for Integrative Neuroscience (PIIN), Purdue University, West Lafayette, Indiana, USA.",
-        "Davidson School of Chemical Engineering, Purdue University, West Lafayette, Indiana, USA.",
-        "Purdue University Institute for Cancer Research, Purdue University, West Lafayette, Indiana, USA.",
-        "Department of Comparative Pathobiology, Purdue University, West Lafayette, Indiana, USA.",
-        "Cellular Engineering, The Jackson Laboratory for Genomic Medicine, Farmington, Connecticut, USA.",
-        "Department of Intelligent Systems Engineering, Indiana University, Bloomington, Indiana, USA.",
-        "Pediatric Neurology, University of Colorado School of Medicine, Aurora, Colorado, USA."
-      ],
-      "doi": "10.1002/epi.70392",
-      "date": "2026-07-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42530523/"
     },
     {
       "pmid": "42509463",
@@ -402,6 +390,59 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42522615/"
     },
     {
+      "pmid": "42534589",
+      "title": "Nanoporous gold electrode-assisted CRISPR/Cas12a electrochemical detection of synthetic methylated DNA models for breast cancer liquid-biopsy development.",
+      "abstract": "Circulating tumor DNA (ctDNA) methylation is a promising liquid-biopsy signal for early breast cancer, but low target abundance, fragmented cell-free DNA (cfDNA), and matrix fouling remain major barriers to electrochemical implementation. Here, a nanoporous gold (NPG) electrode-assisted CRISPR/Cas12a electrochemical assay was developed for synthetic methylated DNA models that mimic breast-cancer-associated cfDNA promoter fragments. The assay integrates HpaII methylation-sensitive restriction-enzyme (MSRE) digestion, recombinase polymerase amplification (RPA), Cas12a trans-cleavage, and methylene-blue (MB)-labeled single-stranded DNA (ssDNA) reporters immobilized on NPG. A three-marker panel targeting RASSF1A, APC, and FOXA1 was selected from breast cancer cfDNA methylation literature. The nanoporous electrode exhibited a 9.4-fold electrochemically active surface-area (ECSA) enhancement, and the assay achieved linear responses from 10 fM to 10 nM with limits of detection (LODs) of 3.4, 5.2, and 4.6 fM for RASSF1A, APC, and FOXA1, respectively. The platform distinguished 1% methylated DNA in a high wild-type background, produced 92.4-106.8% recovery in an artificial plasma matrix, and retained 91.8% of response after 14 days of storage. Blinded validation in 60 methylation-positive and 45 methylation-negative contrived specimens yielded an area under the curve (AUC) of 0.966, positive-call sensitivity of 86.7%, specificity of 88.9%, and accuracy of 87.6% at a fixed panel-score threshold. The results support NPG-CRISPR electrochemistry as a compact strategy for nonclinical methylated-DNA model analysis and define experimental benchmarks for subsequent ethically approved translational studies.",
+      "journal": "RSC advances",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of General Surgery, People's Hospital of Bayingol Mongolian Autonomous Prefecture Korla Xinjiang 841000 China ty_wxh@163.com."
+      ],
+      "doi": "10.1039/d6ra03752f",
+      "date": "2026-07-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534589/"
+    },
+    {
+      "pmid": "42534503",
+      "title": "Multi-omics profiling of recurrence-associated extrachromosomal circular DNA characteristics and its prognostic potential in lung adenocarcinoma.",
+      "abstract": "Extrachromosomal circular DNA (eccDNA) contributes to tumorigenesis, but its role in tumor recurrence remains unclear. This study aimed to systematically characterize eccDNA profiles in recurrent and non-recurrent early-stage lung adenocarcinoma (LUAD) patients and evaluate their potential as prognostic biomarkers. Tumor tissues, matched adjacent non-tumor tissues, and plasma were collected from patients with early-stage LUAD. All patients underwent a 2-year postoperative follow-up to identify recurrence. Circle-seq and multi-omics analyses were applied to profile eccDNA landscapes in recurrent and non-recurrent patients. eccDNAs in recurrent LUAD patients exhibited significantly distinct features, including higher GC content, enhanced structural stability, increased expression levels, and enrichment in transcriptionally active regions. Recurrence-associated eccDNAs carry oncogenes and regulate pathways involved in tumor migration, invasion, and immune evasion via suppression of immune factor receptors. A recurrence risk model based on seven plasma eccDNA marker genes effectively stratified patients, with high-risk patients exhibiting significantly poorer disease-free survival. These findings highlight the characteristics of eccDNAs in LUAD recurrence and their potential as prognostic biomarkers, providing preliminary multi-omics evidence for understanding the role of eccDNA in LUAD recurrence and laying the groundwork for future mechanistic studies and clinical translation.",
+      "journal": "Precision clinical medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Life Sciences and Engineering, Southwest Jiaotong University, Chengdu 610031, China.",
+        "College of Health and Rehabilitation, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China.",
+        "Department of Thoracic Surgery, Affiliated Hospital of Southwest Jiaotong University, The Third People's Hospital of Chengdu, Chengdu 610031, China.",
+        "Medical Research Center, Affiliated Hospital of Southwest Jiaotong University, The Third People's Hospital of Chengdu, Chengdu 610031, China.",
+        "Department of Pathology, Deyang People's Hospital, Deyang 618000, China."
+      ],
+      "doi": "10.1093/pcmedi/pbag017",
+      "date": "2026-07-06",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534503/"
+    },
+    {
+      "pmid": "42533201",
+      "title": "Retrieval-Augmented Generation in Radiology: A Scoping Review of Architectures, Imaging Applications, and Directions for Equitable Deployment.",
+      "abstract": "Large language models (LLMs) are increasingly explored in radiology, yet concerns persist regarding hallucination and lack of factual grounding. Retrieval-augmented generation (RAG) seeks to address these limitations by coupling generative models with external knowledge retrieval. We conducted a scoping review to characterize how RAG systems have been applied in radiology and medical imaging. A systematic search of PubMed, Embase, Scopus, IEEE Xplore, and arXiv identified 45 studies implementing RAG-based approaches in radiology-related tasks. In terms of clinical tasks, RAG was most commonly applied to radiology report generation and question answering. Dense retrieval strategies predominated, while sparse, hybrid and proprietary retrieval approaches were less frequent. External knowledge sources most frequently comprised biomedical literature databases and clinical guidelines. Applications were heavily skewed toward chest radiography and X-ray-based tasks, with relatively few studies addressing CT, MRI, PET, ultrasound, or under-represented subspecialties such as pediatric radiology and neuroradiology. Most comparative studies reported task-specific performance gains with RAG over non-retrieval baselines, and a small subset reported performance comparable to trained radiologists or state-of-the-art models. However, hallucinations and errors persisted, and heterogeneity across studies limited the generalizability of these findings. Evaluation practices largely relied on automated accuracy or text-overlap metrics, with limited use of standardized expert evaluation and minimal assessment of safety, bias, computational efficiency, or clinical utility. Overall, while RAG shows promise for improving factual grounding in radiology AI, current evaluation paradigms likely overestimate real-world clinical readiness. Future work should prioritize retrieval quality, clinically grounded evaluation, safety-critical error analysis, bias assessment, and deployment-relevant efficiency metrics to enable responsible clinical translation.",
+      "journal": "Journal of imaging informatics in medicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "School of Clinical Medicine, University of Cambridge, Cambridge, UK.",
+        "Department of Biomedical Informatics, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore.",
+        "AIMI Center, Stanford University, Palo Alto, CA, USA.",
+        "School of Computer Science, Shanghai Jiao Tong University, Shanghai, China. shengbin@cs.sjtu.edu.cn."
+      ],
+      "doi": "10.1007/s10278-026-02150-4",
+      "date": "2026-07-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42533201/"
+    },
+    {
       "pmid": "42532207",
       "title": "Analytical Validation of a Plasma-Based Rapid Liquid Biopsy Assay Using Next-Generation Sequencing.",
       "abstract": "Cell-free total nucleic acid (cfTNA)-based liquid biopsy (LBx) offers a minimally invasive alternative to tissue-based next generation sequencing (NGS). Most NGS-based LBx assays require several days for results. This study validated a rapid NGS-based LBx assay with a two-day turnaround time (TAT). Patient plasma samples were used to validate the Oncomine Precision Assay for single nucleotide variants (SNVs), insertion deletions (indels) and fusions across 50 genes on the Genexus Sequencer. Manual extraction using the QIAamp cfTNA Kit was performed to optimize fusion detection. Analytical sensitivity in synthetic controls (N=20) using the automated workflow was 99.2% for SNVs and 95% for indels, with 100% specificity (allele frequency ≥0.5%). In clinical samples (N=107), sensitivity was 99.4% for SNVs and 100% for indels; specificity was 100% for both, compared with orthogonal assays. Manual extraction improved overall performance compared to the automated extraction and was used for the final clinical workflow. Analytical sensitivity of fusions in synthetic controls (N=22) was 98.9%, with 100% specificity (≥7 copies). In clinical samples (N=38) sensitivity and specificity for both SNVs and indels were 100% and 99.9%, respectively; sensitivity for fusions was 72.2%; specificity was 100%. Overall precision was >99% and average TAT was ≤2 days. This study reports the feasibility and validation of a two-day TAT NGS-based cfTNA assay that can potentially reduce time-to-treatment.",
@@ -456,67 +497,6 @@
       "doi": "10.1055/a-2915-1570",
       "date": "2026-07-30",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42532107/"
-    },
-    {
-      "pmid": "42531972",
-      "title": "Aptasensors for lung cancer detection.",
-      "abstract": "Lung cancer is a highly prevalent and lethal malignant tumor worldwide, accounting for approximately 25% of all cancer deaths. Early symptoms are often subtle, leading to late-stage diagnosis in the majority of patients and a missed window for optimal treatment. Therefore, more sensitive diagnostic approaches are urgently required to improve survival rates and reduce the disease burden. Compared with traditional imaging and tissue biopsy, novel biosensors have become important tools for lung cancer diagnosis due to their high sensitivity, non-invasiveness and rapid detection abilities. Aptamers, a class of single-stranded DNA/RNA molecules capable of specific target recognition, are ideal for the development of efficient lung cancer biosensors owing to their low synthesis cost, high stability, minimal immunogenicity, and ease of modification. This review focuses on the application of aptamers in lung cancer detection, summarizes current developments in aptamer-based sensors (aptasensors), and critically compares the analytical performance, clinical limitations and translational obstacles of five mainstream aptasensor platforms, then discusses their challenges and future perspectives, aiming to promote more accurate and efficient early-diagnostic techniques for lung cancer.",
-      "journal": "Talanta",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Institute of Cytology and Genetics, MOE Key Lab of Rare Pediatric Diseases, School of Basic Medical Sciences, Hengyang Medical School, University of South China, Hengyang, 421001, China; Institute for Future Sciences, University of South China, Changsha, 410000, China.",
-        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 10096, China. Electronic address: nyhe1958@163.com.",
-        "Institute of Cytology and Genetics, MOE Key Lab of Rare Pediatric Diseases, School of Basic Medical Sciences, Hengyang Medical School, University of South China, Hengyang, 421001, China; State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing, 10096, China; Institute for Future Sciences, University of South China, Changsha, 410000, China; State Key Laboratory for Chemo/Biosensing and Chemometrics, College of Chemistry and Chemical Engineering, Hunan University, Changsha, 410082, China. Electronic address: yuan.liu@usc.edu.cn."
-      ],
-      "doi": "10.1016/j.talanta.2026.130378",
-      "date": "2026-07-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42531972/"
-    },
-    {
-      "pmid": "42533201",
-      "title": "Retrieval-Augmented Generation in Radiology: A Scoping Review of Architectures, Imaging Applications, and Directions for Equitable Deployment.",
-      "abstract": "Large language models (LLMs) are increasingly explored in radiology, yet concerns persist regarding hallucination and lack of factual grounding. Retrieval-augmented generation (RAG) seeks to address these limitations by coupling generative models with external knowledge retrieval. We conducted a scoping review to characterize how RAG systems have been applied in radiology and medical imaging. A systematic search of PubMed, Embase, Scopus, IEEE Xplore, and arXiv identified 45 studies implementing RAG-based approaches in radiology-related tasks. In terms of clinical tasks, RAG was most commonly applied to radiology report generation and question answering. Dense retrieval strategies predominated, while sparse, hybrid and proprietary retrieval approaches were less frequent. External knowledge sources most frequently comprised biomedical literature databases and clinical guidelines. Applications were heavily skewed toward chest radiography and X-ray-based tasks, with relatively few studies addressing CT, MRI, PET, ultrasound, or under-represented subspecialties such as pediatric radiology and neuroradiology. Most comparative studies reported task-specific performance gains with RAG over non-retrieval baselines, and a small subset reported performance comparable to trained radiologists or state-of-the-art models. However, hallucinations and errors persisted, and heterogeneity across studies limited the generalizability of these findings. Evaluation practices largely relied on automated accuracy or text-overlap metrics, with limited use of standardized expert evaluation and minimal assessment of safety, bias, computational efficiency, or clinical utility. Overall, while RAG shows promise for improving factual grounding in radiology AI, current evaluation paradigms likely overestimate real-world clinical readiness. Future work should prioritize retrieval quality, clinically grounded evaluation, safety-critical error analysis, bias assessment, and deployment-relevant efficiency metrics to enable responsible clinical translation.",
-      "journal": "Journal of imaging informatics in medicine",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "School of Clinical Medicine, University of Cambridge, Cambridge, UK.",
-        "Department of Biomedical Informatics, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore.",
-        "AIMI Center, Stanford University, Palo Alto, CA, USA.",
-        "School of Computer Science, Shanghai Jiao Tong University, Shanghai, China. shengbin@cs.sjtu.edu.cn."
-      ],
-      "doi": "10.1007/s10278-026-02150-4",
-      "date": "2026-07-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42533201/"
-    },
-    {
-      "pmid": "42530947",
-      "title": "Circulating Tumor DNA in Head and Neck Cancer: A Review From the American Head and Neck Society.",
-      "abstract": "Despite gains in understanding head and neck cancer over the past several decades, the discovery of reliable biomarkers remains elusive. With the advent of human papillomavirus-associated oropharynx cancer and Epstein-Barr virus-associated nasopharynx cancer, circulating tumor DNA (ctDNA) and oncogenic viral DNA have emerged as potentially promising biomarkers. A review was conducted by the American Head and Neck Society to address the current utility of ctDNA. Ongoing clinical trials were reviewed, with discussion of its utility in monitoring treatment response and measuring minimal residual disease (MRD). Although ctDNA holds promise in the push for precision oncology, several questions remain regarding its routine clinical use, including test variability and implications of inaccurate test results. Optimized clinical trial designs and further research are necessary to bring ctDNA to the forefront of head and neck cancer management. Liquid biopsy targeting viral ctDNA is a promising biomarker in the diagnostic and surveillance settings across head and neck cancer types. Ongoing clinical trials will help elucidate how ctDNA can be implemented to monitor treatment response, assess MRD, and frame treatment decisions to adapt treatment via a precision oncology approach.",
-      "journal": "JAMA otolaryngology-- head & neck surgery",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Otolaryngology-Head and Neck Surgery, Louisiana State University Health Sciences Center, New Orleans.",
-        "Department of Otolaryngology-Head and Neck Surgery, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania.",
-        "Department of Otolaryngology-Head and Neck Surgery, Mount Sinai School of Medicine, New York, New York.",
-        "Department of Otolaryngology-Head and Neck Surgery, University of Alabama, Birmingham.",
-        "Department of Otolaryngology-Head and Neck Surgery, Harvard Medical School, Boston, Massachusetts.",
-        "Section of Otolaryngology-Head and Neck Surgery, University of Chicago School of Medicine, Chicago, Illinois.",
-        "Department of Otolaryngology-Head and Neck Surgery, University of Illinois, Chicago.",
-        "Department of Otolaryngology-Head and Neck Surgery, Thomas Jefferson University School of Medicine, Philadelphia, Pennsylvania.",
-        "Massachusetts Eye and Ear, Mass General Hospital, Broad Institute, Cambridge.",
-        "Department of Otolaryngology-Head and Neck Surgery, Stanford University School of Medicine, Palo Alto, California."
-      ],
-      "doi": "10.1001/jamaoto.2026.2045",
-      "date": "2026-07-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42530947/"
     }
   ],
   "signals": [
@@ -581,71 +561,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42531721",
-      "date": "2026-07-30",
-      "title": "Microcephaly-like phenotype triggered by novel reassortant and prototypic Oropouche virus strains in brain organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42531721/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 EBioMedicine，PMID 为 42531721。",
-      "report": "Oropouche virus (OROV) is an emerging arbovirus currently spreading across South America, with increasing reports of neurological manifestations, severe systemic disease, and congenital abnormalities. Although traditionally associated with mild febrile illness...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42530523",
-      "date": "2026-07-30",
-      "title": "Epilepsy-associated SCN2A-L1342P mutation drives network hyperexcitability and widespread transcriptomic changes in human cortical organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42530523/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Longevity",
-        "Biomarkers",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "衰老",
-        "biomarker",
-        "longevity",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Epilepsia，PMID 为 42530523。",
-      "report": "SCN2A pathogenic mutations, such as the recurrent heterozygous Nav1.2-L1342P, are monogenic causes of epilepsy. In this human-induced pluripotent stem cell-derived model system, we aim to investigate the molecular and cellular mechanisms underlying SCN2A-L1342...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42531048",
       "date": "2026-07-30",
       "title": "A Generative Neuro-Symbolic AI for Protein Sequence Design.",
@@ -672,6 +587,47 @@
       "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42531048。",
       "report": "Deep learning has revolutionized computational protein design, enabling the generation of sequences that fold onto target backbones with unprecedented accuracy. However, state-of-the-art inverse folding tools largely rely on auto-regressive sampling. While pow...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42533201",
+      "date": "2026-07-30",
+      "title": "Retrieval-Augmented Generation in Radiology: A Scoping Review of Architectures, Imaging Applications, and Directions for Equitable Deployment.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42533201/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Healthcare AI",
+        "Medical LLM"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "医疗 AI",
+        "临床决策支持"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of imaging informatics in medicine，PMID 为 42533201。",
+      "report": "Large language models (LLMs) are increasingly explored in radiology, yet concerns persist regarding hallucination and lack of factual grounding. Retrieval-augmented generation (RAG) seeks to address these limitations by coupling generative models with external...",
+      "inference": "自动分类命中规则：AI-enabled Discovery, Diagnostics & Precision Medicine, Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -763,81 +719,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42533201",
-      "date": "2026-07-30",
-      "title": "Retrieval-Augmented Generation in Radiology: A Scoping Review of Architectures, Imaging Applications, and Directions for Equitable Deployment.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42533201/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Healthcare AI",
-        "Medical LLM"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "医疗 AI",
-        "临床决策支持"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of imaging informatics in medicine，PMID 为 42533201。",
-      "report": "Large language models (LLMs) are increasingly explored in radiology, yet concerns persist regarding hallucination and lack of factual grounding. Retrieval-augmented generation (RAG) seeks to address these limitations by coupling generative models with external...",
-      "inference": "自动分类命中规则：AI-enabled Discovery, Diagnostics & Precision Medicine, Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42530947",
-      "date": "2026-07-30",
-      "title": "Circulating Tumor DNA in Head and Neck Cancer: A Review From the American Head and Neck Society.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42530947/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 JAMA otolaryngology-- head & neck surgery，PMID 为 42530947。",
-      "report": "Despite gains in understanding head and neck cancer over the past several decades, the discovery of reliable biomarkers remains elusive. With the advent of human papillomavirus-associated oropharynx cancer and Epstein-Barr virus-associated nasopharynx cancer,...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42527603",
       "date": "2026-07-29",
       "title": "Miniaturizing and modifying natural proteins with Raygun.",
@@ -925,16 +806,16 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42531972",
+      "id": "pubmed-42534589",
       "date": "2026-07-29",
-      "title": "Aptasensors for lung cancer detection.",
+      "title": "Nanoporous gold electrode-assisted CRISPR/Cas12a electrochemical detection of synthetic methylated DNA models for breast cancer liquid-biopsy development.",
       "entity": "Biotech Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "General Biotech Research",
-      "eventType": "Review",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42531972/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534589/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -947,8 +828,8 @@
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Talanta，PMID 为 42531972。",
-      "report": "Lung cancer is a highly prevalent and lethal malignant tumor worldwide, accounting for approximately 25% of all cancer deaths. Early symptoms are often subtle, leading to late-stage diagnosis in the majority of patients and a missed window for optimal treatmen...",
+      "fact": "PubMed 记录显示该文献收录于 RSC advances，PMID 为 42534589。",
+      "report": "Circulating tumor DNA (ctDNA) methylation is a promising liquid-biopsy signal for early breast cancer, but low target abundance, fragmented cell-free DNA (cfDNA), and matrix fouling remain major barriers to electrochemical implementation. Here, a nanoporous go...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1220,6 +1101,38 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42534288",
+      "date": "2026-07-17",
+      "title": "Establishment of extrahepatic bile duct cancer organoids using suspension culture and their application in clinical drug screening.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534288/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Oncology letters，PMID 为 42534288。",
+      "report": "The present study aims to explore the feasibility of establishing human extrahepatic cholangiocarcinoma (eCCA) organoids via suspension culture, to biologically characterize their biological features and to evaluate their drug sensitivity, thereby providing a...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42523295",
       "date": "2026-07-17",
       "title": "A machine learning model predicts protein stability of annotated and alternate protein isoforms.",
@@ -1246,6 +1159,70 @@
       "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42523295。",
       "report": "The regulation of protein stability is essential for cellular homeostasis and is determined by a combination of intrinsic sequence motifs and extrinsic recognition enzymes. Despite growing knowledge of the protein degradation machinery, the ability to predict...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42534747",
+      "date": "2026-07-16",
+      "title": "Oxygen-enhanced assembloid-based vascularized intestinal-on-a-chip for radioprotective drug evaluation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534747/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in toxicology，PMID 为 42534747。",
+      "report": "The intestine plays essential roles in digestion, immunity, and metabolism, but is highly sensitive to ionizing radiation during cancer treatment or environmental exposure. Although three-dimensional intestinal models more accurately replicate tissue architect...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42534503",
+      "date": "2026-07-06",
+      "title": "Multi-omics profiling of recurrence-associated extrachromosomal circular DNA characteristics and its prognostic potential in lung adenocarcinoma.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534503/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Precision clinical medicine，PMID 为 42534503。",
+      "report": "Extrachromosomal circular DNA (eccDNA) contributes to tumorigenesis, but its role in tumor recurrence remains unclear. This study aimed to systematically characterize eccDNA profiles in recurrent and non-recurrent early-stage lung adenocarcinoma (LUAD) patient...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
