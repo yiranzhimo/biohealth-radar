@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -822,6 +822,83 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42536653",
+      "date": "2026-07-31",
+      "title": "Assessing tumor heterogeneity and FLOT/FOLFOX-induced alterations in cancer stem cells and cancer immune checkpoint molecules using patient-derived tumor organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536653/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of immunopathology and pharmacology，PMID 为 42536653。",
+      "report": "BackgroundGastric cancer is a deadly disease with poor prognosis and unfavorable therapeutic outcomes. It is known that a major cause of treatment failure for gastric cancer is related to tumor heterogeneity. However, it is difficult to assess heterogeneity, a...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0e8ab578fb250cee006a6d6ddb3f94819998b43a59bd65f030",
+        "reviewedAt": "2026-08-01T03:54:02.547185+00:00",
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人类审查以确认研究质量和相关性，当前文献的安全性和效能结论不足。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平被标记为中等，但需要进一步确认支持该分类的具体内容和数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "尽管事实、报告和推论已分开，但证据水平未得到充分支持，且没有关于临床质量的信息。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 International journal of immunopathology and pharmacology，PMID 为 42536653。",
+          "report": "BackgroundGastric cancer is a deadly disease with poor prognosis and unfavorable therapeutic outcomes. It is known that a major cause of treatment failure for gastric cancer is related to tumor heterogeneity. However, it is difficult to assess heterogeneity, a...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42536272",
       "date": "2026-07-31",
       "title": "Multimodal Management of Pain in Oral Squamous Cell Carcinoma: A Mechanism-Based Approach.",
@@ -1049,6 +1126,227 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "pubmed-42537209",
+      "date": "2026-07-31",
+      "title": "Mobile App Rating Scale for Health Care Professionals to Assess the Quality of mHealth Apps: Questionnaire Development and Psychometric Analysis.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
+      "eventType": "Clinical Study",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42537209/",
+      "reliability": "High",
+      "evidenceLevel": "High",
+      "needsReview": false,
+      "themes": [
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Healthcare AI",
+        "Medical LLM"
+      ],
+      "tags": [
+        "临床",
+        "监管",
+        "医疗 AI",
+        "临床决策支持"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 JMIR mHealth and uHealth，PMID 为 42537209。",
+      "report": "Many frameworks and tools are available to evaluate the quality of mobile health apps (MHAs), which are increasingly used by health care professionals (HCPs) for accessing medical information, clinical decision support, and communication. However, existing too...",
+      "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_02a9e0072f2db849006a6d6de0b9788198a457957bc12cb73b",
+        "reviewedAt": "2026-08-01T03:54:02.547185+00:00",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "文献记录和信息分类合理，未涉及临床建议或不支持的结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类与提供的元数据一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断分开明确，证据水平合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Evidence",
+          "evidenceLevel": "High",
+          "themes": [
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Healthcare AI",
+            "Medical LLM"
+          ],
+          "tags": [
+            "临床",
+            "监管",
+            "医疗 AI",
+            "临床决策支持"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 JMIR mHealth and uHealth，PMID 为 42537209。",
+          "report": "Many frameworks and tools are available to evaluate the quality of mobile health apps (MHAs), which are increasingly used by health care professionals (HCPs) for accessing medical information, clinical decision support, and communication. However, existing too...",
+          "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "sec-0001110803-000111080326000160",
+      "date": "2026-07-31",
+      "title": "Illumina filed Form 10-Q",
+      "entity": "Illumina",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000160/ilmn-20260628.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Corporate Filings",
+        "Sequencing & Research Tools"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "ILMN"
+      ],
+      "companyIds": [
+        "illumina"
+      ],
+      "fact": "SEC EDGAR lists accession 0001110803-26-000160 for Illumina, Form 10-Q, filed on 2026-07-31.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_05baf2104ad1f939006a6d6de59294819ba5424cd0f5de7182",
+        "reviewedAt": "2026-08-01T03:54:02.547185+00:00",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号符合发布标准，没有需要人工审查的地方。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类和证据水平合理符合所提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论都已清晰分离，证据水平合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Sequencing & Research Tools"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "ILMN"
+          ],
+          "fact": "SEC EDGAR lists accession 0001110803-26-000160 for Illumina, Form 10-Q, filed on 2026-07-31.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "sec-0001682852-000168285226000150",
+      "date": "2026-07-31",
+      "title": "Moderna filed Form 10-Q",
+      "entity": "Moderna",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000150/mrna-20260630.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "RNA Therapeutics"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "MRNA"
+      ],
+      "companyIds": [
+        "moderna"
+      ],
+      "fact": "SEC EDGAR lists accession 0001682852-26-000150 for Moderna, Form 10-Q, filed on 2026-07-31.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0009cc81eea1c78b006a6d6de94a4c8198bb26cb7d5ac8bcf9",
+        "reviewedAt": "2026-08-01T03:54:02.547185+00:00",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该记录需要人工审核以确认缺失的关键信息。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平被认为是中等，但缺少关键信息。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "虽然事实和报告分开，但是证据水平未得到明确支持。"
+        },
+        "riskFlags": [
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "RNA Therapeutics"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "MRNA"
+          ],
+          "fact": "SEC EDGAR lists accession 0001682852-26-000150 for Moderna, Form 10-Q, filed on 2026-07-31.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
       "id": "sec-0001682852-000168285226000147",
       "date": "2026-07-31",
       "title": "Moderna filed Form 8-K",
@@ -1117,83 +1415,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42532370",
-      "date": "2026-07-30",
-      "title": "Therapy-Associated Lineage Plasticity in DIPG Following Combined CDK4/6 Inhibitor, Temozolomide, and Radiation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Clinical Study",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42532370/",
-      "reliability": "High",
-      "evidenceLevel": "High",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42532370。",
-      "report": "Diffuse intrinsic pontine glioma (DIPG) is a highly lethal and therapeutically refractory pediatric brain tumor, and the effects of distinct disease backgrounds on treatment response and residual cell-state plasticity remain poorly understood. We evaluated abe...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_05905e58aeb88c0e006a6c6897cb5c819ba662a070c2412db4",
-        "reviewedAt": "2026-07-31T09:19:19.188228+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "文献记录清晰，分类合理，未做出临床结论，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要分类和子分类均符合文献主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "文献信息和主题分类清晰分开，证据水平合理。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "medical_advice_risk"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "High",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42532370。",
-          "report": "Diffuse intrinsic pontine glioma (DIPG) is a highly lethal and therapeutically refractory pediatric brain tumor, and the effects of distinct disease backgrounds on treatment response and residual cell-state plasticity remain poorly understood. We evaluated abe...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -4124,83 +4345,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Briefings in bioinformatics，PMID 为 42476548。",
           "report": "Single-cell RNA sequencing has emerged as a transformative tool, enabling precise phenotype prediction and the detailed identification of disease-associated cell subpopulations. However, many existing computational approaches still rely on predefined cell-type...",
           "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42536370",
-      "date": "2026-07-01",
-      "title": "Diagnostic Stewardship of Respiratory Cultures Using Clinical Decision Support in the PICU.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536370/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Healthcare AI",
-        "Medical LLM"
-      ],
-      "tags": [
-        "临床",
-        "监管",
-        "医疗 AI",
-        "临床决策支持"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 JAMA network open，PMID 为 42536370。",
-      "report": "Endotracheal aspirate culture (EAC) practices for evaluation of ventilator-associated infections (VAI) vary widely across pediatric hospitals, and overuse can contribute to overdiagnosis and overtreatment for VAI. Diagnostic stewardship strategies to optimize...",
-      "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0a90e7580106975e006a6cfe1f8cc08193b7ee89e9deb74659",
-        "reviewedAt": "2026-07-31T19:56:47.729992+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录符合发布标准，无需人工审核。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "medical_advice_risk"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Evidence",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Healthcare AI",
-            "Medical LLM"
-          ],
-          "tags": [
-            "临床",
-            "监管",
-            "医疗 AI",
-            "临床决策支持"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 JAMA network open，PMID 为 42536370。",
-          "report": "Endotracheal aspirate culture (EAC) practices for evaluation of ventilator-associated infections (VAI) vary widely across pediatric hospitals, and overuse can contribute to overdiagnosis and overtreatment for VAI. Diagnostic stewardship strategies to optimize...",
-          "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }

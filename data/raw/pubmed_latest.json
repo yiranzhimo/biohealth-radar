@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-31T19:56:39.544837+00:00",
+  "capturedAt": "2026-08-01T03:53:51.823823+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-07-31",
-    "end": "2026-07-31"
+    "start": "2025-08-01",
+    "end": "2026-08-01"
   },
   "pmids": [
+    "42536653",
     "42536272",
     "42536076",
     "42534747",
     "42534288",
     "42532746",
-    "42532370",
     "42509463",
     "42498177",
     "42497867",
@@ -37,9 +37,28 @@
     "42534994",
     "42534857",
     "42534589",
-    "42536370"
+    "42537209"
   ],
   "records": [
+    {
+      "pmid": "42536653",
+      "title": "Assessing tumor heterogeneity and FLOT/FOLFOX-induced alterations in cancer stem cells and cancer immune checkpoint molecules using patient-derived tumor organoids.",
+      "abstract": "BackgroundGastric cancer is a deadly disease with poor prognosis and unfavorable therapeutic outcomes. It is known that a major cause of treatment failure for gastric cancer is related to tumor heterogeneity. However, it is difficult to assess heterogeneity, as the composition of tumors is dynamic and cancer treatments reshape cell diversity and gene/protein expression profiles.ObjectiveWe utilized gastric cancer patient-derived tumor organoids to monitor tumor heterogeneity and the impacts of chemotherapy (FLOT and FOLFOX) on cancer stem cells (LGR5 and CD133) and cancer immune checkpoint molecules (MHC-I and PD-L1).MethodsSix tumor organoids were established from different patients or different regions of the same tumor. The tumor organoids were used to investigate the real-time profiles of cancer stem cell marker expression and cancer immune checkpoint molecule expression after chemotherapy treatment. Tumor suppression was monitored by the propidium iodide assay and measurements of tumor organoid diameter. Expression levels of cancer stem cell markers and immune checkpoint molecules were analyzed by flow cytometry.ResultsGrowth of all tumor organoids could be suppressed by chemotherapy. However, diverse impacts of FLOT and FOLFOX were observed in terms of the expression profiles of cancer stem cell markers and cancer immune checkpoint molecules. In particular, tumor organoids from different patients exhibited distinct expression profiles for cancer stem cell markers and immune checkpoint molecules after treatment with the same chemotherapeutic regimen. Similar observations were made with tumor organoids derived the same patient but different tumor regions.ConclusionOur findings demonstrated that spatial and temporal tumoral heterogeneity can be observed after treatment with chemotherapy, suggesting that repeated monitoring of tumor characteristics may be essential for clinical decision making. In addition, sampling of multiple sites at multiple time-points might be important when evaluating the impacts of chemotherapy on cancer stem cells markers and immune checkpoint molecules.",
+      "journal": "International journal of immunopathology and pharmacology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Division of General Surgery, Department of Surgery, Wan Fang Hospital, Taipei Medical University, Taipei, Taiwan.",
+        "Department of Anatomy and Cell Biology, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan.",
+        "Department of Pathology, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan.",
+        "Department of Pathology, Wan Fang Hospital, Taipei Medical University, Taipei, Taiwan.",
+        "Division of General Surgery, Department of Surgery, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan."
+      ],
+      "doi": "10.1177/03946320261474427",
+      "date": "2026-07-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536653/"
+    },
     {
       "pmid": "42536272",
       "title": "Multimodal Management of Pain in Oral Squamous Cell Carcinoma: A Mechanism-Based Approach.",
@@ -138,36 +157,6 @@
       "doi": "10.1016/j.pan.2026.07.013",
       "date": "2026-07-24",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42532746/"
-    },
-    {
-      "pmid": "42532370",
-      "title": "Therapy-Associated Lineage Plasticity in DIPG Following Combined CDK4/6 Inhibitor, Temozolomide, and Radiation.",
-      "abstract": "Diffuse intrinsic pontine glioma (DIPG) is a highly lethal and therapeutically refractory pediatric brain tumor, and the effects of distinct disease backgrounds on treatment response and residual cell-state plasticity remain poorly understood. We evaluated abemaciclib, an FDA-approved CDK4/6 inhibitor, combined with temozolomide (TMZ) and radiation (XRT) in two patient-derived orthotopic xenograft (PDOX) models established from a treatment-naïve biopsy (IBs-9119DIPG) and a previously treated autopsy tumor (IBs-A0317DIPG). Treatment activity was assessed in PDOX-derived 3D tumor organoids and in randomized DIPG PDOX studies, followed by survival analysis, immunohistochemistry, and endpoint single-cell RNA sequencing (scRNA-seq). The triple therapy generated synergistic antitumor effects in PDOX-derived organoids and significantly prolonged survival in both PDOX models (P < 0.05) despite their distinct baseline molecular and cell-state differences. Endpoint scRNA-seq revealed reduced oligodendrocyte-progenitor-like (OPC-like) cells in both models and decreased astrocyte-like cells in the IBs-A0317DIPG model as cell-state changes associated with treatment response. In contrast, neural progenitor-like (NPC-like) cells expanded in IBs-A0317DIPG, whereas mesenchymal-like and mitotic-like populations persisted in IBs-9119DIPG as candidate therapy-tolerant states. Pseudotime trajectory analysis uncovered a resistance-associated trajectory characterized by an exit from stemness toward differentiation in OPC-like cells in treatment-naïve IBs-9119DIPG, in contrast to the enrichment of stem-like OPC-like and NPC-like cells in therapy-resistant IBs-A0317DIPG. A transcriptionally defined radiation-resistance-associated subpopulation with candidate radiosensitization target genes (NPAS3, TBC1D15, and INPP4B) was also identified. Overall, the triple therapy improved survival in clinically distinct DIPG PDOX models and revealed therapy-associated residual cell-state changes that may inform future strategies to improve durable DIPG tumor control.",
-      "journal": "Cancer letters",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Radiation Oncology, State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-Sen University Cancer Center, Guangzhou, PR China; Center for Cancer & Blood Disorders, Ann & Robert H. Lurie Children's Hospital of Chicago, Chicago, IL, USA; The Robert H. Lurie Comprehensive Cancer Center, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA.",
-        "Center for Cancer & Blood Disorders, Ann & Robert H. Lurie Children's Hospital of Chicago, Chicago, IL, USA; The Robert H. Lurie Comprehensive Cancer Center, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA.",
-        "Chemistry of Life Processes Institute, Northwestern University, Evanston, IL, USA.",
-        "Center for Cancer & Blood Disorders, Ann & Robert H. Lurie Children's Hospital of Chicago, Chicago, IL, USA.",
-        "The Robert H. Lurie Comprehensive Cancer Center, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA; Chemistry of Life Processes Institute, Northwestern University, Evanston, IL, USA; Division of Reproductive Science in Medicine, Department of Obstetrics and Gynecology, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA.",
-        "The Ken & Ruth Davee Department of Neurology, The Robert H. Lurie Comprehensive Cancer Center, and Simpson Querrey Institute for Epigenetics, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA.",
-        "Department of Pathology, Ann & Robert H. Lurie Children's Hospital of Chicago, Chicago, IL, USA.",
-        "Department of Neurosurgery, Ann & Robert H. Lurie Children's Hospital of Chicago, Chicago, IL, USA.",
-        "NUSeq Core Facility, Center for Genetic Medicine, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA.",
-        "NUSeq Core Facility, Center for Genetic Medicine, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA; Department of Cell & Developmental Biology, Northwestern University, Chicago, IL, USA.",
-        "Texas Children's Cancer Center, Texas Children's Hospital, Baylor College of Medicine, Houston, TX, USA; Institute of Molecular and Cell Biology, A*STAR, Singapore, Singapore; Cancer and Stem Cell Biology Program, Duke-NUS Medical School, Singapore, Singapore.",
-        "Texas Children's Cancer Center, Texas Children's Hospital, Baylor College of Medicine, Houston, TX, USA.",
-        "Department of Pathology, Northwestern University Feinberg School of Medicine, Chicago, Illinois, USA.",
-        "Department of Radiation Oncology, State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-Sen University Cancer Center, Guangzhou, PR China. Electronic address: xiayf@sysucc.org.cn.",
-        "Center for Cancer & Blood Disorders, Ann & Robert H. Lurie Children's Hospital of Chicago, Chicago, IL, USA; The Robert H. Lurie Comprehensive Cancer Center, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA. Electronic address: xiaonan.li@northwestern.edu.",
-        "Department of Radiation Oncology, Northwestern University, Chicago, IL, USA. Electronic address: john.kalapurakal@nm.org."
-      ],
-      "doi": "10.1016/j.canlet.2026.218771",
-      "date": "2026-07-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42532370/"
     },
     {
       "pmid": "42509463",
@@ -475,72 +464,57 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534589/"
     },
     {
-      "pmid": "42536370",
-      "title": "Diagnostic Stewardship of Respiratory Cultures Using Clinical Decision Support in the PICU.",
-      "abstract": "Endotracheal aspirate culture (EAC) practices for evaluation of ventilator-associated infections (VAI) vary widely across pediatric hospitals, and overuse can contribute to overdiagnosis and overtreatment for VAI. Diagnostic stewardship strategies to optimize EAC testing practices may reduce overtesting and unnecessary antibiotic treatment. To evaluate the association of diagnostic stewardship of EACs using clinical decision support with culture rates, antibiotic use, and patient outcomes across a multicenter collaborative of pediatric intensive care units (PICUs). This was a multicenter cohort study with a pre-post study design among the BrighT STAR (Testing Stewardship for Antibiotic Reduction) Quality Improvement (QI) Collaborative involving PICUs across the US between 2019 and 2023. Data were collected from the participating sites and from the Children's Hospital Association Pediatric Health Information System and were analyzed from August to December 2025. Participating PICUs conducted local QI programs focused on optimizing EAC practices, facilitated by the BrighT STAR collaborative. The primary outcome was the monthly rate of EACs per 100 ventilator-days. Secondary outcomes included rates of antibiotic initiations and antibiotic days of therapy, bronchoalveolar lavage cultures, readmissions, length of stay, ventilation duration, ventilation-free days, sepsis, and septic shock. Analysis included adjustment for seasonality. Across 15 sites (median [IQR] unit size, 30 [25-38] beds), the study captured 106 967 ventilator-days preimplementation and 92 167 ventilator-days postimplementation. Comparing 24 months in the preimplementation period with the 18 months in the postimplementation period, the mean monthly EAC rate declined by 16% from a preimplementation to postimplementation rate of 7.80 to 6.55 cultures per 100 ventilator-days (relative rate [RR], 0.84; 95% CI, 0.78-0.90). The rate of antibiotic initiations remained stable (RR, 0.98; 95% CI, 0.89-1.08), as well as the antibiotic days of therapy rate (RR, 1.03; 95% CI, 0.95-1.11). There were no significant changes in the rates of bronchoalveolar lavage cultures, PICU length of stay, PICU or hospital readmissions, sepsis, septic shock, ventilation duration, or ventilator-free days. In this multicenter cohort study, diagnostic stewardship of EACs using clinical decision support led by multidisciplinary teams was associated with reduced EAC use in the PICU without safety concerns. Future work will determine optimal implementation strategies, assess sustainability and the cost impact of EAC stewardship.",
-      "journal": "JAMA network open",
+      "pmid": "42537209",
+      "title": "Mobile App Rating Scale for Health Care Professionals to Assess the Quality of mHealth Apps: Questionnaire Development and Psychometric Analysis.",
+      "abstract": "Many frameworks and tools are available to evaluate the quality of mobile health apps (MHAs), which are increasingly used by health care professionals (HCPs) for accessing medical information, clinical decision support, and communication. However, existing tools are not well equipped to assess the quality of apps designed for HCPs from their perspectives. We aimed to develop a new tool based on the Mobile App Rating Scale (MARS) to capture the unique perspectives of HCPs on MHAs. We then conducted a psychometric analysis of this new questionnaire to determine its effectiveness in assessing the quality of MHAs designed specifically for HCPs from their perspectives. This study was conducted in 2 phases. In phase 1, the original MARS tool was adapted for HCPs through expert panel review and subsequent qualitative interviews, resulting in the development of the pMARS (MARS for health care professionals) tool. This phase focused on establishing face and content validity. Qualitative interviews were conducted with HCPs from a tertiary hospital in Singapore to gather their perspectives on the tool's structure, clarity, applicability, and usability. In phase 2, we invited HCP participants to complete pMARS based on their experience with the LabMed app, an mHealth tool designed to provide medical laboratory-related information to HCPs. We established the construct validity of pMARS through multiple psychometric techniques. Internal consistency reliability was measured using the Cronbach α, while structural equation modeling was used to examine the interrelationships among latent constructs. Additionally, we used item response theory (IRT) to evaluate each item's impact on latent constructs of interest, that is, discriminative performance of individual items within each domain. Based on the results from phase 1, the pMARS comprised 26 items across 5 domains: engagement, functionality, aesthetics, information, and subjective quality, refined through interviews with 10 HCPs. In phase 2 (n=218), pMARS demonstrated good internal consistency reliability across all domains (Cronbach α=0.855-0.931). Structural equation modeling demonstrated that functionality had the strongest influence on end-user willingness to use, recommend, and purchase the MHA (P<.001). IRT identified that customization and interactivity of the engagement domain had a weak impact on latent constructs, whereas entertainment had a higher impact. Ease of use and gestural design had a weak impact on the functionality domain, whereas arrangement and size of content and quantity and quality had a strong impact on the aesthetics and information domains, respectively. This study reports the development and psychometric analysis of pMARS. Our findings demonstrate strong internal consistency reliability and construct validity, supporting its potential use in health care. Further research should validate pMARS across diverse MHAs and contexts and apply IRT to further refine its precision and efficiency.",
+      "journal": "JMIR mHealth and uHealth",
       "publicationTypes": [
-        "Journal Article",
-        "Multicenter Study"
+        "Journal Article"
       ],
       "affiliations": [
-        "Department of Pediatrics, Johns Hopkins School of Medicine, Baltimore, Maryland.",
-        "Department of Hospital Epidemiology and Infection Control, Johns Hopkins Hospital, Baltimore, Maryland.",
-        "Division of Critical Care Medicine, Children's Hospital of Philadelphia, University of Pennsylvania Perelman School of Medicine, Philadelphia.",
-        "The Leonard Davis Institute of Health Economics, University of Pennsylvania, Philadelphia.",
-        "Division of Medical Critical Care, Department of Pediatrics, Boston Children's Hospital, Boston, Massachusetts.",
-        "Department of Pediatrics, Harvard Medical School, Boston, Massachusetts.",
-        "Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland.",
-        "Armstrong Institute of Patient Safety and Quality, Johns Hopkins University School of Medicine, Baltimore, Maryland.",
-        "Children's Hospital Association, Lenexa, Kansas.",
-        "Department of Health Policy and Management, Johns Hopkins Bloomberg School of Public Health, Johns Hopkins University, Baltimore, Maryland.",
-        "Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Johns Hopkins University, Baltimore, Maryland.",
-        "Division of Pediatric Critical Care Medicine, Department of Critical Care Medicine, University of Pittsburgh School of Medicine, UPMC Children's Hospital of Pittsburgh, Pittsburgh, Pennsylvania.",
-        "Division of Pediatric Infectious Diseases, Department of Pediatrics, University of Pittsburgh School of Medicine, UPMC Children's Hospital of Pittsburgh, Pittsburgh, Pennsylvania.",
-        "Division of Pediatric Critical Care, Department of Pediatrics, Dell Medical School, Austin, Texas.",
-        "Division of Infectious Diseases, Department of Pediatrics, Vanderbilt University Medical Center, Nashville, Tennessee.",
-        "Division of Critical Care Medicine, Department of Anesthesiology, Critical Care and Pain Medicine, Boston Children's Hospital, Boston, Massachusetts.",
-        "Division of Infectious Diseases, Department of Pediatrics, Boston Children's Hospital, Boston, Massachusetts.",
-        "Division of Critical Care Medicine, Department of Pediatrics, Vanderbilt University Medical Center, Nashville, Tennessee.",
-        "Now with: Division of Critical Care Medicine, Department of Pediatrics, University of Maryland School of Medicine, Baltimore, Maryland.",
-        "Division of Critical Care, Ann & Robert H. Lurie Children's Hospital of Chicago, Chicago, Illinois.",
-        "Department of Pediatrics, Northwestern University Feinberg School of Medicine, Chicago, Illinois.",
-        "Now with: Department of Anesthesiology and Critical Care, Children's Hospital of Philadelphia, Philadelphia, Pennsylvania.",
-        "Division of Critical Care, Department of Pediatrics, University of Utah, Salt Lake City.",
-        "Section of Pediatric Infectious Diseases, Cleveland Clinic Children's Hospital, Cleveland, Ohio.",
-        "Department of Pediatric Critical Care Medicine, Cleveland Clinic Children's Hospital, Cleveland, Ohio.",
-        "Now with: Department of Pediatrics, Henry Ford St. John Children's Hospital, Detroit, Michigan.",
-        "Division of Pediatric Critical Care, Monroe Carell, Jr. Children's Hospital at Vanderbilt, Vanderbilt School of Nursing, Nashville, Tennessee.",
-        "Division of Pediatric Infectious Disease, Dell Medical School, University of Texas at Austin.",
-        "Division of Infectious Diseases, Department of Pediatrics, Children's Nebraska, University of Nebraska Medical Center, Omaha.",
-        "Division of Neurology, Ann & Robert H. Lurie Children's Hospital of Chicago, Chicago, Illinois.",
-        "Now with: Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland.",
-        "Department of Pediatrics, University of Tennessee Health Science Center, Le Bonheur Children's Hospital, Memphis, Tennessee.",
-        "Division of Critical Care Medicine, Department of Pediatrics, Children's Minnesota, Children's Respiratory and Critical Care Specialist's P.A., Minneapolis.",
-        "Division of Pediatric Critical Care, Doernbecher Children's Hospital, Oregon Health & Science University, Portland.",
-        "Department of Pharmacy, Antimicrobial Stewardship Program, Children's Minnesota, Minneapolis.",
-        "Now with: Allina Health Group Pharmacy Services, Allina Health, Minneapolis, Minnesota.",
-        "Division of Critical Care Medicine, Department of Pediatrics, Intermountain Primary Children's Hospital and University of Utah, Salt Lake City.",
-        "Division of Infectious Diseases, Lurie Children's Hospital of Chicago, Northwestern University Feinberg School of Medicine, Chicago, Illinois.",
-        "Division of Pediatric Critical Care Medicine, Washington University School of Medicine, St. Louis Children's Hospital, St. Louis, Missouri.",
-        "Division of Pediatric Critical Care, Rainbow Babies and Children's Hospital, Cleveland, Ohio.",
-        "Division of Pediatric Critical Care Medicine, Children's Nebraska, University of Nebraska College of Medicine, Omaha.",
-        "Now with: current affiliation Division of Cardiac Critical Care, Department of Cardiology, Arkansas Children's Hospital, University of Arkansas for Medical Sciences, Little Rock.",
-        "Department of Anesthesia, Harvard Medical School, Boston, Massachusetts.",
-        "Division of Infectious Diseases, Department of Pediatrics, Washington University School of Medicine, St. Louis Children's Hospital, St. Louis, Missouri.",
-        "Now with: Division of Infectious Diseases, Department of Pediatrics, Children's Hospital of Philadelphia, Perelman School of Medicine, University of Pennsylvania, Philadelphia.",
-        "Division of Infectious Diseases, Department of Pediatrics, Lucile Packard Children's Hospital, Stanford School of Medicine, Stanford, California.",
-        "Division of Pediatric Critical Care Medicine, Department of Pediatrics, Stanford University, Stanford, California.",
-        "Division of Pediatric Critical Care & Cardiology, Department of Pediatrics, Le Bonheur Children's Hospital, University of Tennessee Health Science Center, Memphis.",
-        "Now with: Division of Pediatric Intensive Care, Cook Children's Medical Center, Fort Worth, Texas.",
-        "Division of Infectious Diseases, Department of Pediatrics, Doernbecher Children's Hospital, Oregon Health and Sciences University, Portland."
+        "Discipline of Public Health, School of Human Performance, Rehabilitation and Population Health, University of Technology Sydney, Sydney, NSW, Australia.",
+        "Biostatistics Unit, Yong Loo Lin School of Medicine, National University of Singapore, Kent Ridge, Singapore, Singapore.",
+        "Department of International Health, Johns Hopkins Bloomberg School of Public Health, Johns Hopkins University, 615 N Wolfe St, Baltimore, MD, 21205, United States, 1 4109553543, 1 4105029809.",
+        "Department of Nutrition and Food Studies, College of Public Health, George Mason University, Fairfax, VA, United States."
       ],
-      "doi": "10.1001/jamanetworkopen.2026.26547",
-      "date": "2026-07-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536370/"
+      "doi": "10.2196/48828",
+      "date": "2026-07-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42537209/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42536653",
+      "date": "2026-07-31",
+      "title": "Assessing tumor heterogeneity and FLOT/FOLFOX-induced alterations in cancer stem cells and cancer immune checkpoint molecules using patient-derived tumor organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536653/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of immunopathology and pharmacology，PMID 为 42536653。",
+      "report": "BackgroundGastric cancer is a deadly disease with poor prognosis and unfavorable therapeutic outcomes. It is known that a major cause of treatment failure for gastric cancer is related to tumor heterogeneity. However, it is difficult to assess heterogeneity, a...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42536272",
       "date": "2026-07-31",
@@ -636,35 +610,35 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42532370",
-      "date": "2026-07-30",
-      "title": "Therapy-Associated Lineage Plasticity in DIPG Following Combined CDK4/6 Inhibitor, Temozolomide, and Radiation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "id": "pubmed-42537209",
+      "date": "2026-07-31",
+      "title": "Mobile App Rating Scale for Health Care Professionals to Assess the Quality of mHealth Apps: Questionnaire Development and Psychometric Analysis.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
       "eventType": "Clinical Study",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42532370/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42537209/",
       "reliability": "High",
       "evidenceLevel": "High",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Healthcare AI",
+        "Medical LLM"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
+        "临床",
+        "监管",
+        "医疗 AI",
+        "临床决策支持"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42532370。",
-      "report": "Diffuse intrinsic pontine glioma (DIPG) is a highly lethal and therapeutically refractory pediatric brain tumor, and the effects of distinct disease backgrounds on treatment response and residual cell-state plasticity remain poorly understood. We evaluated abe...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 JMIR mHealth and uHealth，PMID 为 42537209。",
+      "report": "Many frameworks and tools are available to evaluate the quality of mobile health apps (MHAs), which are increasingly used by health care professionals (HCPs) for accessing medical information, clinical decision support, and communication. However, existing too...",
+      "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1225,38 +1199,6 @@
       "fact": "PubMed 记录显示该文献收录于 Briefings in bioinformatics，PMID 为 42476548。",
       "report": "Single-cell RNA sequencing has emerged as a transformative tool, enabling precise phenotype prediction and the detailed identification of disease-associated cell subpopulations. However, many existing computational approaches still rely on predefined cell-type...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42536370",
-      "date": "2026-07-01",
-      "title": "Diagnostic Stewardship of Respiratory Cultures Using Clinical Decision Support in the PICU.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536370/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Healthcare AI",
-        "Medical LLM"
-      ],
-      "tags": [
-        "临床",
-        "监管",
-        "医疗 AI",
-        "临床决策支持"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 JAMA network open，PMID 为 42536370。",
-      "report": "Endotracheal aspirate culture (EAC) practices for evaluation of ventilator-associated infections (VAI) vary widely across pediatric hospitals, and overuse can contribute to overdiagnosis and overtreatment for VAI. Diagnostic stewardship strategies to optimize...",
-      "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

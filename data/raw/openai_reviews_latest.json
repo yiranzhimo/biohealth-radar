@@ -1,30 +1,30 @@
 {
-  "capturedAt": "2026-07-31T19:56:47.729992+00:00",
+  "capturedAt": "2026-08-01T03:54:02.547185+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42536272",
-      "responseId": "resp_02c7831e425b5d5a006a6cfe00b0348190866915bb7b54e513",
+      "signalId": "pubmed-42536653",
+      "responseId": "resp_0e8ab578fb250cee006a6d6ddb3f94819998b43a59bd65f030",
       "review": {
         "status": "needs_human",
-        "confidence": 0.7,
+        "confidence": 0.8,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献未提供有关研究质量和利益冲突的评估，且推断的分类不代表临床结论，因此需要人工审查。",
+        "reviewSummaryCn": "需要人类审查以确认研究质量和相关性，当前文献的安全性和效能结论不足。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "虽然主题和分类相关，但未能支持研究质量的评估。"
+          "notesCn": "证据水平被标记为中等，但需要进一步确认支持该分类的具体内容和数据。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "证据水平标记为中等，但没有足够的支持材料来确认。"
+          "notesCn": "尽管事实、报告和推论已分开，但证据水平未得到充分支持，且没有关于临床质量的信息。"
         },
         "riskFlags": [
-          "insufficient_source",
-          "weak_classification"
+          "weak_classification",
+          "clinical_claim"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -33,213 +33,47 @@
           "themes": [
             "Organoids",
             "Advanced Disease Models",
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
+            "Precision Oncology",
+            "Multi-omics"
           ],
           "tags": [
             "类器官",
             "疾病模型",
-            "诊断",
-            "精准医疗",
-            "肿瘤"
+            "肿瘤",
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Current pain and headache reports，PMID 为 42536272。",
-          "report": "Oral squamous cell carcinoma (OSCC) is frequently associated with severe nociceptive and neuropathic pain that adversely affects patient quality of life, functional capacity, psychological well-being, and prognosis. Pain in OSCC is increasingly recognized not...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42536076",
-      "responseId": "resp_07ff8d6c6848a9ae006a6cfe0abb688193a50c9cd88dceb43d",
-      "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号记录符合出版标准，未包含支持性疗效或安全性结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合源资料。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论已明确分开，证据水平适当。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "source_reliability_high"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 mSphere，PMID 为 42536076。",
-          "report": "Organoids provide a useful model system to study interactions between gut microbes and the activity of host tissues, including gastrointestinal (GI) barrier function. However, most organoid models have limited capacity to mimic the physiological hypoxia experi...",
+          "fact": "PubMed 记录显示该文献收录于 International journal of immunopathology and pharmacology，PMID 为 42536653。",
+          "report": "BackgroundGastric cancer is a deadly disease with poor prognosis and unfavorable therapeutic outcomes. It is known that a major cause of treatment failure for gastric cancer is related to tumor heterogeneity. However, it is difficult to assess heterogeneity, a...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42536239",
-      "responseId": "resp_0f5ce5d288e94cca006a6cfe107f7881969b8bb65e801fc669",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献涉及一个关于胰腺癌前驱病变的研究，虽然信息来源于高可靠性期刊，但具体的研究质量和临床结论尚需人类评估。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "虽然分类为Diagnostics & Precision Medicine，但具体的实证支持不足。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平为中等，但未能充分支持文献中提到的研究质量和结论，需进一步评估。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Annals of surgical oncology，PMID 为 42536239。",
-          "report": "Intraductal papillary mucinous neoplasm (IPMN) is a typical precursor lesion of pancreatic cancer, but differential diagnosis and grading of IPMN is often difficult. Currently, grading of diagnosis is based mainly on imaging examinations, but these methods are...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42534994",
-      "responseId": "resp_0b4214b92a3ae1f3006a6cfe15c4cc81968aca91204896b744",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献探讨了放射学AI 的本地验证及监测框架，但缺乏对研究质量和样本量的评估，需人工审核。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类与研究内容不完全匹配，需强化相关性。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "中等证据水平不足以支持文献的所有主张。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in radiology，PMID 为 42534994。",
-          "report": "Radiology artificial intelligence (AI) is increasingly developed on large external datasets and deployed across institutions, but real-world model performance may vary substantially after implementation. Imaging AI interacts with a local ecosystem shaped by sc...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42534857",
-      "responseId": "resp_08c74a68b439fa4b006a6cfe1af67c8190a3979d98dd9f7f12",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该信号涉及的研究虽符合基本标准，但在效能和临床应用方面缺乏必要的支持信息，需要进一步人工审核。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类合理性有待审查，对该技术的临床应用或效果未提供足够支持。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "尽管信息如实反映了研究内容，但缺少对临床效果和样本量的确认，导致证据等级不足。"
-        },
-        "riskFlags": [
-          "insufficient_source",
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Biotech",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "biotech",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42534857。",
-          "report": "Reliable and efficient isolation of tumor-associated cells from peripheral blood remains a significant challenge due to their low abundance and heterogeneity. Here, we present a physics-enabled and fully-automated approach based on microsieve technology for ra...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42536370",
-      "responseId": "resp_0a90e7580106975e006a6cfe1f8cc08193b7ee89e9deb74659",
+      "signalId": "pubmed-42537209",
+      "responseId": "resp_02a9e0072f2db849006a6d6de0b9788198a457957bc12cb73b",
       "review": {
         "status": "pass",
         "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录符合发布标准，无需人工审核。",
+        "reviewSummaryCn": "文献记录和信息分类合理，未涉及临床建议或不支持的结论。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": ""
+          "notesCn": "分类与提供的元数据一致。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": ""
+          "notesCn": "事实、报告和推断分开明确，证据水平合理。"
         },
         "riskFlags": [
           "clinical_claim",
-          "medical_advice_risk"
+          "regulatory_claim"
         ],
         "suggestedEdits": {
           "primaryCategory": "Clinical & Regulatory",
           "subCategory": "Clinical Evidence",
-          "evidenceLevel": "Medium",
+          "evidenceLevel": "High",
           "themes": [
             "Clinical Evidence",
             "Regulatory Watch",
@@ -252,52 +86,90 @@
             "医疗 AI",
             "临床决策支持"
           ],
-          "fact": "PubMed 记录显示该文献收录于 JAMA network open，PMID 为 42536370。",
-          "report": "Endotracheal aspirate culture (EAC) practices for evaluation of ventilator-associated infections (VAI) vary widely across pediatric hospitals, and overuse can contribute to overdiagnosis and overtreatment for VAI. Diagnostic stewardship strategies to optimize...",
+          "fact": "PubMed 记录显示该文献收录于 JMIR mHealth and uHealth，PMID 为 42537209。",
+          "report": "Many frameworks and tools are available to evaluate the quality of mobile health apps (MHAs), which are increasingly used by health care professionals (HCPs) for accessing medical information, clinical decision support, and communication. However, existing too...",
           "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42535244",
-      "responseId": "resp_0961d3b24e049cd8006a6cfe240ba4819797ae632c47a7e720",
+      "signalId": "sec-0001110803-000111080326000160",
+      "responseId": "resp_05baf2104ad1f939006a6d6de59294819ba5424cd0f5de7182",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号符合发布标准，没有需要人工审查的地方。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类和证据水平合理符合所提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论都已清晰分离，证据水平合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Sequencing & Research Tools"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "ILMN"
+          ],
+          "fact": "SEC EDGAR lists accession 0001110803-26-000160 for Illumina, Form 10-Q, filed on 2026-07-31.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001682852-000168285226000150",
+      "responseId": "resp_0009cc81eea1c78b006a6d6de94a4c8198bb26cb7d5ac8bcf9",
       "review": {
         "status": "needs_human",
         "confidence": 0.85,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "研究质量及样本量等因素未知，需人工审核。",
+        "reviewSummaryCn": "该记录需要人工审核以确认缺失的关键信息。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，与主题一致。"
+          "isSupported": false,
+          "notesCn": "证据水平被认为是中等，但缺少关键信息。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "证据水平仅为中等，与所述研究质量信息缺失不符。"
+          "notesCn": "虽然事实和报告分开，但是证据水平未得到明确支持。"
         },
         "riskFlags": [
-          "weak_classification",
           "insufficient_source"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
           "evidenceLevel": "Medium",
           "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
+            "Corporate Filings",
+            "RNA Therapeutics"
           ],
           "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
+            "SEC",
+            "10-Q",
+            "MRNA"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Asian journal of neurosurgery，PMID 为 42535244。",
-          "report": "Early detection of skull base (SB) tumors and inflammatory lesions remains difficult because of deep location, complex anatomy, and subtle clinical prodromes. This study systematically evaluates contemporary advanced imaging techniques and emerging molecular biomarkers.",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "研究质量、样本量、利益冲突、临床阶段或商业化状态未知。"
+          "fact": "SEC EDGAR lists accession 0001682852-26-000150 for Moderna, Form 10-Q, filed on 2026-07-31.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
         }
       }
     }
