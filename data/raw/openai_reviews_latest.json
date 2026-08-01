@@ -1,30 +1,75 @@
 {
-  "capturedAt": "2026-08-01T03:54:02.547185+00:00",
+  "capturedAt": "2026-08-01T08:35:41.070089+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42536653",
-      "responseId": "resp_0e8ab578fb250cee006a6d6ddb3f94819998b43a59bd65f030",
+      "signalId": "pubmed-42538409",
+      "responseId": "resp_08c53491d95e78b4006a6dafddbb44819ab7d198a943dcd679",
       "review": {
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人类审查以确认研究质量和相关性，当前文献的安全性和效能结论不足。",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号记录清晰分隔事实、报告、推论和未知，符合发布标准。",
         "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据水平被标记为中等，但需要进一步确认支持该分类的具体内容和数据。"
+          "isSupported": true,
+          "notesCn": "分类符合信号内容。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "尽管事实、报告和推论已分开，但证据水平未得到充分支持，且没有关于临床质量的信息。"
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平与信号一致。"
         },
         "riskFlags": [
-          "weak_classification",
-          "clinical_claim"
+          "clinical_claim",
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Drug Screening",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "药筛",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Oncogene，PMID 为 42538409。",
+          "report": "Genetic inactivation of SKP2 has been shown to effectively prevent cancer initiation and block tumorigenesis. However, direct in vivo evidence for SKP2 on cancer initiation and prostatic microenvironment is still lacking and a SKP2 humanized mouse model is cri...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42538270",
+      "responseId": "resp_0e5cf1e11dd41610006a6dafe3549c819a8804ca50d129182e",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "文献记录清晰且中立，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别和子类别合理，符合文献内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平标记为中等，符合文献支持内容。"
+        },
+        "riskFlags": [
+          "commercial_claim"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -42,134 +87,181 @@
             "肿瘤",
             "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 International journal of immunopathology and pharmacology，PMID 为 42536653。",
-          "report": "BackgroundGastric cancer is a deadly disease with poor prognosis and unfavorable therapeutic outcomes. It is known that a major cause of treatment failure for gastric cancer is related to tumor heterogeneity. However, it is difficult to assess heterogeneity, a...",
+          "fact": "PubMed 记录显示该文献收录于 EBioMedicine，PMID 为 42538270。",
+          "report": "d-amino acids (D-AAs), the enantiomers of proteinogenic l-amino acids, are detectable in mammals, yet their biological roles in cancer immunity remain largely unexplored. Whether specific D-AAs modulate tumour progression or influence responsiveness to immunot...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42537209",
-      "responseId": "resp_02a9e0072f2db849006a6d6de0b9788198a457957bc12cb73b",
+      "signalId": "pubmed-42537900",
+      "responseId": "resp_08de77d6342cef46006a6dafe7930c819ab286f11301b3010c",
       "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "文献记录和信息分类合理，未涉及临床建议或不支持的结论。",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号需要人工审查以确保分类和结论的准确性。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类与提供的元数据一致。"
+          "isSupported": false,
+          "notesCn": "分类与临床结果的关系不明确。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断分开明确，证据水平合理。"
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平不够，无法支持临床建议。"
         },
         "riskFlags": [
           "clinical_claim",
-          "regulatory_claim"
+          "weak_classification"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Evidence",
-          "evidenceLevel": "High",
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
           "themes": [
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Healthcare AI",
-            "Medical LLM"
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Multi-omics"
           ],
           "tags": [
-            "临床",
-            "监管",
-            "医疗 AI",
-            "临床决策支持"
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 JMIR mHealth and uHealth，PMID 为 42537209。",
-          "report": "Many frameworks and tools are available to evaluate the quality of mobile health apps (MHAs), which are increasingly used by health care professionals (HCPs) for accessing medical information, clinical decision support, and communication. However, existing too...",
-          "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42537900。",
+          "report": "Here, we examined the consequences of biologically relevant vitamin D deficiency, a known risk factor for aggressive prostate cancer, using ex vivo and in vivo models. Phenotypic and single-cell RNA sequencing of mouse prostate organoids showed that vitamin D...",
+          "inference": "该研究涉及的组织学和单细胞RNA测序解释可能不足以支持临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "sec-0001110803-000111080326000160",
-      "responseId": "resp_05baf2104ad1f939006a6d6de59294819ba5424cd0f5de7182",
-      "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号符合发布标准，没有需要人工审查的地方。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类和证据水平合理符合所提供的元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论都已清晰分离，证据水平合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Periodic Filing",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Sequencing & Research Tools"
-          ],
-          "tags": [
-            "SEC",
-            "10-Q",
-            "ILMN"
-          ],
-          "fact": "SEC EDGAR lists accession 0001110803-26-000160 for Illumina, Form 10-Q, filed on 2026-07-31.",
-          "report": "SEC metadata describes the primary document as: 10-Q.",
-          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "signalId": "sec-0001682852-000168285226000150",
-      "responseId": "resp_0009cc81eea1c78b006a6d6de94a4c8198bb26cb7d5ac8bcf9",
+      "signalId": "pubmed-42538361",
+      "responseId": "resp_004108dfe9bef0fa006a6dafebe3ac819bb666044768a826f6",
       "review": {
         "status": "needs_human",
-        "confidence": 0.85,
+        "confidence": 0.7,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "该记录需要人工审核以确认缺失的关键信息。",
+        "reviewSummaryCn": "文献质量及研究阶段未确认，需人工评估。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "证据水平被认为是中等，但缺少关键信息。"
+          "notesCn": "文献证据等级低，需核实研究质量和相关信息。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "虽然事实和报告分开，但是证据水平未得到明确支持。"
+          "notesCn": "现有文献不提供充分的临床或研究的支持证据。"
         },
         "riskFlags": [
-          "insufficient_source"
+          "insufficient_source",
+          "weak_classification"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Periodic Filing",
-          "evidenceLevel": "Medium",
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
           "themes": [
-            "Corporate Filings",
-            "RNA Therapeutics"
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Multi-omics"
           ],
           "tags": [
-            "SEC",
-            "10-Q",
-            "MRNA"
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "多组学"
           ],
-          "fact": "SEC EDGAR lists accession 0001682852-26-000150 for Moderna, Form 10-Q, filed on 2026-07-31.",
-          "report": "SEC metadata describes the primary document as: 10-Q.",
-          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+          "fact": "PubMed 记录显示该文献收录于 Nature cell biology，PMID 为 42538361。",
+          "report": "PubMed 记录未提供摘要。",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42537463",
+      "responseId": "resp_03cad0c79b9ba3b9006a6daff017dc81989869e524db29c55f",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号包含潜在的治疗效果与安全性暗示，需要人工审查以确保符合出版要求。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类未充分考虑文献的临床相关性和质量。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据级别标记为中等而与可靠性标记存在矛盾，未能清晰区分结果与临床影响。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Phytomedicine : international journal of phytotherapy and phytopharmacology，PMID 为 42537463。",
+          "report": "Gastric cancer remains a leading cause of cancer-related mortality worldwide, with limited sensitivity to 5-fluorouracil (5-FU) representing a major obstacle to effective chemotherapy. Licochalcones, bioactive chalcones derived from licorice, have demonstrated...",
+          "inference": "该文献的临床影响未被充分评估，分类需要谨慎。",
+          "unknown": "研究质量、样本量及利益冲突未确定。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42537468",
+      "responseId": "resp_017fbe4f49961f27006a6daff48d208199bb10c909c2cdd8ff",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录在所有方面保持一致，适合发布。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要和次要分类合理且与内容相关。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论之间的界限清晰，证据等级合理。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Phytomedicine : international journal of phytotherapy and phytopharmacology，PMID 为 42537468。",
+          "report": "Lung adenocarcinoma (LUAD) is the most prevalent subtype of lung cancer and a leading cause of cancer-related mortality worldwide. Current targeted therapies are limited by acquired resistance, highlighting the urgent need for novel therapeutic agents and targ...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     }

@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-01T03:53:51.823823+00:00",
+  "capturedAt": "2026-08-01T08:35:32.194532+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-01"
   },
   "pmids": [
-    "42536653",
-    "42536272",
-    "42536076",
-    "42534747",
-    "42534288",
-    "42532746",
+    "42538409",
+    "42538270",
+    "42537900",
+    "42537468",
+    "42537463",
+    "42538361",
     "42509463",
     "42498177",
     "42497867",
@@ -32,131 +32,148 @@
     "42525178",
     "42523295",
     "42522615",
+    "42536272",
     "42536239",
     "42535244",
     "42534994",
     "42534857",
-    "42534589",
-    "42537209"
+    "42534589"
   ],
   "records": [
     {
-      "pmid": "42536653",
-      "title": "Assessing tumor heterogeneity and FLOT/FOLFOX-induced alterations in cancer stem cells and cancer immune checkpoint molecules using patient-derived tumor organoids.",
-      "abstract": "BackgroundGastric cancer is a deadly disease with poor prognosis and unfavorable therapeutic outcomes. It is known that a major cause of treatment failure for gastric cancer is related to tumor heterogeneity. However, it is difficult to assess heterogeneity, as the composition of tumors is dynamic and cancer treatments reshape cell diversity and gene/protein expression profiles.ObjectiveWe utilized gastric cancer patient-derived tumor organoids to monitor tumor heterogeneity and the impacts of chemotherapy (FLOT and FOLFOX) on cancer stem cells (LGR5 and CD133) and cancer immune checkpoint molecules (MHC-I and PD-L1).MethodsSix tumor organoids were established from different patients or different regions of the same tumor. The tumor organoids were used to investigate the real-time profiles of cancer stem cell marker expression and cancer immune checkpoint molecule expression after chemotherapy treatment. Tumor suppression was monitored by the propidium iodide assay and measurements of tumor organoid diameter. Expression levels of cancer stem cell markers and immune checkpoint molecules were analyzed by flow cytometry.ResultsGrowth of all tumor organoids could be suppressed by chemotherapy. However, diverse impacts of FLOT and FOLFOX were observed in terms of the expression profiles of cancer stem cell markers and cancer immune checkpoint molecules. In particular, tumor organoids from different patients exhibited distinct expression profiles for cancer stem cell markers and immune checkpoint molecules after treatment with the same chemotherapeutic regimen. Similar observations were made with tumor organoids derived the same patient but different tumor regions.ConclusionOur findings demonstrated that spatial and temporal tumoral heterogeneity can be observed after treatment with chemotherapy, suggesting that repeated monitoring of tumor characteristics may be essential for clinical decision making. In addition, sampling of multiple sites at multiple time-points might be important when evaluating the impacts of chemotherapy on cancer stem cells markers and immune checkpoint molecules.",
-      "journal": "International journal of immunopathology and pharmacology",
+      "pmid": "42538409",
+      "title": "The establishment of prostate-specific, SKP2 humanized mice by CRISPR knock-in method reveals neoplastic initiation and microenvironmental reprogramming.",
+      "abstract": "Genetic inactivation of SKP2 has been shown to effectively prevent cancer initiation and block tumorigenesis. However, direct in vivo evidence for SKP2 on cancer initiation and prostatic microenvironment is still lacking and a SKP2 humanized mouse model is critical for developing prostate cancer immunoprevention approaches through targeting SKP2. We therefore have established a prostate-specific human SKP2 knock-in mouse model driven by an endogenous mouse probasin promoter. Overexpression of hSKP2 induces PIN and low-grade carcinoma. RNA-sequencing analysis revealed significant gene expression alterations in EMT, extracellular matrix, and interferon signaling. Single-cell deconvolution showed an increase of fibroblast population and a decrease of CD8+ T cell and B cell populations. Consistent with these results from the SKP2 humanized mouse, SKP2 protein is overexpressed in human prostatic hyperplasia, PIN and prostate adenocarcinoma compared to normal prostate tissues. Overexpression of SKP2 markedly increased cell migration and invasion and induced the gene expression of EMT and interferon pathways. Inhibition of SKP2 signaling by Flavokawain A and C1 reverses EMT and affects EMT and interferon-related gene expression. In addition, paired prostate organoids were derived from SKP2 humanized and wild-type mice for drug screening and validated by known SKP2 inhibitors, Flavokawain A and C1. Both of which selectively decreased viability and altered the morphologies of organoids of hSKP2 knock-in rather than wild-type mice. Our studies provide a well-characterized prostate-specific hSKP2 knock-in mouse model and offer new mechanistic insights for understanding the oncogenic role of SKP2 in shaping the prostatic microenvironment during early carcinogenesis.",
+      "journal": "Oncogene",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Division of General Surgery, Department of Surgery, Wan Fang Hospital, Taipei Medical University, Taipei, Taiwan.",
-        "Department of Anatomy and Cell Biology, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan.",
-        "Department of Pathology, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan.",
-        "Department of Pathology, Wan Fang Hospital, Taipei Medical University, Taipei, Taiwan.",
-        "Division of General Surgery, Department of Surgery, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan."
+        "Department of Urology, University of California, Irvine, Orange, CA, USA.",
+        "Vaccine, Immunity and Cancer Directorate, Frederick National Laboratory for Cancer Research, Frederick, MD, USA.",
+        "Division of Cancer Prevention, National Cancer Institute, Rockville, MD, USA.",
+        "Department of Orthopedic Surgery, Montefiore Medical Center, Albert Einstein College of Medicine, Bronx, NY, USA.",
+        "Chao Family Comprehensive Cancer Center, University of California, Irvine, Orange, CA, USA.",
+        "Department of Urology, University of California, Irvine, Orange, CA, USA. xzi@hs.uci.edu.",
+        "Chao Family Comprehensive Cancer Center, University of California, Irvine, Orange, CA, USA. xzi@hs.uci.edu.",
+        "Veterans Affairs Long Beach Healthcare System, Long Beach, CA, USA. xzi@hs.uci.edu."
       ],
-      "doi": "10.1177/03946320261474427",
+      "doi": "10.1038/s41388-026-03905-7",
+      "date": "2026-08-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42538409/"
+    },
+    {
+      "pmid": "42538270",
+      "title": "d-serine as a metabolic immune checkpoint in the tumour microenvironment.",
+      "abstract": "d-amino acids (D-AAs), the enantiomers of proteinogenic l-amino acids, are detectable in mammals, yet their biological roles in cancer immunity remain largely unexplored. Whether specific D-AAs modulate tumour progression or influence responsiveness to immunotherapy in gastrointestinal cancer is unknown. We aimed to determine how D-AAs, particularly d-serine (D-ser), shape the tumour immune microenvironment and affect clinical outcomes in gastrointestinal cancers. Mechanistic studies were conducted using murine MC38 tumours and orthotopic gastric cancer (GC) organoid allografts with or without D-AAs supplementation. Immune landscape alterations were assessed using single-cell RNA sequencing of tumour-infiltrating immune cells, flow cytometry, ex vivo macrophage-T cell co-culture assays, and microbiome manipulation experiments. D-AAs concentrations in plasma, urine, and stool were quantified in healthy controls (HCs; n = 87) and patients with GC across three cohorts (Cohort 1, n = 14; Cohort 2, n = 108; Cohort 3, n = 28). Associations between plasma D-ser levels, disease stage, immune cell infiltration, and clinical outcomes following anti-PD-1 antibody therapy were analysed. D-ser promoted tumour progression by suppressing CD8+ T cell immunity and enhancing SPP1-associated immunosuppressive macrophage signalling in murine model. Across all clinical cohorts, the plasma, urine, and stool levels of several D-AAs, most prominently D-ser, were significantly elevated in patients with GC compared to HCs. Plasma concentration of D-ser strongly correlated with disease stage (I-IV). Elevated plasma D-ser is associated with an immunosuppressive tumour microenvironment and poor response to anti-PD-1 monotherapy in patients with advanced gastric cancer. This study identifies D-ser as a previously unrecognised immunosuppressive metabolite that promotes tumour immune evasion by increased macrophages and reduced CD8+ T cell effector function, thereby shifting the tumour microenvironment toward an immunosuppressive phenotype. Clinically, D-ser is a potential metabolite to predict cancer progression and immunotherapy resistance. This work was supported by The Japan Science and Technology Agency (JST) Fusion Oriented Research for Disruptive Science and Technology (FOREST)[JPMJFR210P], Grants-in-Aid from the Japanese Society for the Promotion of Science (JSPS) (25K10430, 21K18272, 23H02899, 23K27590, 25K22627), KGRI challenge grant, Sakaguchi Memorial Foundation, Japan Agency for Medical Research and Development (CREST 21gm1510002h0001), and Miyarisan Pharmaceutical Grant.",
+      "journal": "EBioMedicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Division of Gastroenterology and Hepatology, Department of Internal Medicine, Keio University School of Medicine, Tokyo, 160-8582, Japan.",
+        "Division of Gastroenterology and Hepatology, Department of Internal Medicine, Keio University School of Medicine, Tokyo, 160-8582, Japan; Miyarisan Pharmaceutical Co., Ltd., Research Laboratory, Tokyo, 114-0016, Japan.",
+        "Division of Epithelial Stem Cell Biology, Cancer Research Institute, Kanazawa University, Kanazawa, Japan.",
+        "Laboratory of Electron Microscopy and Chiral Medical Biology, Keio University School of Medicine, Tokyo, 160-8582, Japan.",
+        "Kagami Inc., Osaka, Japan.",
+        "Institute of Molecular and Cell Biology (IMCB), Agency for Science, Technology and Research (A∗Star), 138673, Singapore; Department of Physiology, Yong Loo Lin School of Medicine, National University of Singapore (NUS), Singapore.",
+        "Department of Surgery, Keio University School of Medicine, Tokyo, 160-8582, Japan.",
+        "Center for Diagnostic and Therapeutic Endoscopy, Keio University School of Medicine, Tokyo, 160-8582, Japan.",
+        "Division of Research and Development for Minimally Invasive Treatment Cancer Center, Keio University School of Medicine, Tokyo, 160-8582, Japan.",
+        "Division of Tumour Immunology, Institute for Advanced Medical Research, Keio University School of Medicine, Tokyo, 160-8582, Japan.",
+        "Department of Pathology, Keio University School of Medicine, Tokyo, 160-8582, Japan.",
+        "Division of Gastroenterology and Hepatology, Department of Internal Medicine, Keio University School of Medicine, Tokyo, 160-8582, Japan; Department of Medical Oncology, Institute of Science Tokyo, Bunkyo-ku, Tokyo, 113-8519, Japan.",
+        "Division of Gastroenterology and Hepatology, Department of Internal Medicine, Keio University School of Medicine, Tokyo, 160-8582, Japan. Electronic address: takagast@keio.jp.",
+        "Department of Multidimensional Analysis of Gastrointestinal Biology, The Sakaguchi Laboratory, Keio University School of Medicine, Tokyo, 160-8582, Japan. Electronic address: tsujino1224@keio.jp."
+      ],
+      "doi": "10.1016/j.ebiom.2026.106402",
       "date": "2026-07-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536653/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42538270/"
     },
     {
-      "pmid": "42536272",
-      "title": "Multimodal Management of Pain in Oral Squamous Cell Carcinoma: A Mechanism-Based Approach.",
-      "abstract": "Oral squamous cell carcinoma (OSCC) is frequently associated with severe nociceptive and neuropathic pain that adversely affects patient quality of life, functional capacity, psychological well-being, and prognosis. Pain in OSCC is increasingly recognized not only as a clinical symptom but also as a dynamic indicator of tumor progression and neuroinflammatory activity. This review summarizes the epidemiological, molecular, neurobiological, and clinical mechanisms underlying OSCC-associated pain and discusses current and emerging approaches for mechanism-based multimodal pain management. Recent evidence demonstrates that tumor-nerve interactions, perineural invasion, inflammatory cytokines, and peripheral and central sensitization play central roles in the pathogenesis of OSCC pain. Molecular alterations involving TP53 mutations, EGFR overexpression, and PI3K/AKT/mTOR pathway activation contribute to inflammatory signaling, neural remodeling, and nociceptive sensitization within the tumor microenvironment. Advances in salivary biomarkers, liquid biopsy approaches, artificial intelligence-assisted pain assessment, and organoid-based translational models are improving the understanding of cancer pain biology and supporting the development of precision analgesia and individualized therapeutic strategies. OSCC-associated pain is a complex and multidimensional phenomenon closely linked to tumor aggressiveness, neuroinflammation, and disease progression. Effective pain management requires mechanism-based multimodal approaches integrating pharmacological, rehabilitative, interventional, and tumor-directed therapies. Emerging precision medicine strategies, combined with equitable access to supportive care, have the potential to improve pain control, treatment outcomes, patient dignity, and overall quality of life in individuals with OSCC.",
-      "journal": "Current pain and headache reports",
+      "pmid": "42537900",
+      "title": "Vitamin D deficiency alters prostate epithelial differentiation and increases prostate cancer aggressiveness in ex vivo and in vivo models.",
+      "abstract": "Here, we examined the consequences of biologically relevant vitamin D deficiency, a known risk factor for aggressive prostate cancer, using ex vivo and in vivo models. Phenotypic and single-cell RNA sequencing of mouse prostate organoids showed that vitamin D deficiency stunted luminal cell differentiation more than androgen deficiency, which is a known driver of prostate development. Mice fed a vitamin D-deficient diet showed significantly altered expression of androgen-responsive genes in their prostate luminal cells, as determined by single-cell RNA sequencing. MDA-PCa-2b and 22Rv1 human prostate cancer cells, when maintained for 6 months in 1,25-dihydroxyvitamin D, had very different responses compared to short-term treatments. Notably, the MDA-PCa-2b cells lost the ability to form xenografts, despite normal proliferation in vitro. RNA sequencing showed that these cells also had disruptions in androgen signaling and in multiple cancer-related pathways, which differed by treatment duration. This study offers new insights and validation of vitamin D's role in both benign and malignant prostate biology, underscoring its essential hormonal functions and supporting strategies for vitamin D supplementation to reduce prostate cancer risk in vulnerable populations.",
+      "journal": "Cancer letters",
       "publicationTypes": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ],
       "affiliations": [
-        "Department of Life Sciences, School of Biosciences and Technology, Galgotias University, Greater Noida, India.",
-        "Department of Biotechnology and Bioengineering, School of Biosciences and Technology, Galgotias University, Greater Noida, India. abhimanyujha630@gmail.com."
+        "University of Illinois Chicago, Department of Pathology.",
+        "University of Illinois Chicago, Department of Medicine, Endocrinology.",
+        "University of Illinois Chicago, Department of Medicine, Endocrinology; University of Illinois Cancer Center; Jesse Brown Veterans Affairs Medical Center.",
+        "University of Illinois Chicago, Department of Pathology; University of Illinois Cancer Center.",
+        "University of Illinois Chicago, Department of Pathology; University of Illinois Cancer Center. Electronic address: LNONN@UIC.EDU."
       ],
-      "doi": "10.1007/s11916-026-01539-8",
+      "doi": "10.1016/j.canlet.2026.218732",
       "date": "2026-07-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536272/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42537900/"
     },
     {
-      "pmid": "42536076",
-      "title": "An innovative organoid model to screen for bacteria and their metabolites that protect against inflammation-induced colonic barrier disruption.",
-      "abstract": "Organoids provide a useful model system to study interactions between gut microbes and the activity of host tissues, including gastrointestinal (GI) barrier function. However, most organoid models have limited capacity to mimic the physiological hypoxia experienced by the colonic epithelium in vivo. While oxygen is required to support respiration in the host cells, many gut microbes are anaerobes that require anoxic conditions to grow. Using an innovative anaerobe co-culture system that maintains constant oxygen concentrations on the basolateral side of colonic epithelial monolayers and anoxic conditions on the luminal side, we demonstrate that colonic monolayers derived from a primary human cell line behaved more like in vivo epithelia when cultivated in the co-culture system than when cultured under ambient oxygen concentrations. We then identified interactions between the colonic epithelium and a strain of Bifidobacterium adolescentis-an oxygen-sensitive species that is prevalent and abundant in the adult gut microbiome. Co-culturing colonic monolayers with Bifidobacterium adolescentis U269-1 in the anoxic apical chamber mitigated loss of the barrier function in monolayers exposed to inflammatory cytokines. We identified indole lactic acid (ILA) as one metabolite from B. adolescentis that provides dose-dependent protection against inflammatory cytokines. Oral administration of ILA was well tolerated in mice and provided protection against immunotherapy-induced (anti-CTLA4) colitis in female, but not male mice. Together, we demonstrated the utility of the co-culture system for screening microbes and their metabolites for interactions with the colonic epithelium, as well as advancing our understanding of interactions between bifidobacteria and host barrier function.IMPORTANCEThe present study yielded strong evidence for the beneficial effects of B. adolescentis on the maintenance of colonic barrier function in an asymmetric oxygen system that mimics the colonic environment. The bifidobacterial metabolite indole lactic acid was implicated in this protection both in vitro and in a mouse model. We also refined and scaled the co-culture system to a 96-well plate format to provide the capacity for higher-throughput screening of microbes and microbial metabolites under physiologically relevant conditions.",
-      "journal": "mSphere",
+      "pmid": "42537468",
+      "title": "Targeting KIF11 degradation: Oxypeucedanin inhibits lung adenocarcinoma progression by disrupting the MCM2-CDK1 signaling pathway.",
+      "abstract": "Lung adenocarcinoma (LUAD) is the most prevalent subtype of lung cancer and a leading cause of cancer-related mortality worldwide. Current targeted therapies are limited by acquired resistance, highlighting the urgent need for novel therapeutic agents and targets. The aim of this study is to investigate the anti-tumor efficacy of oxypeucedanin (OPD) against LUAD and elucidate its underlying molecular mechanism. In vitro functional assays, bioinformatics prediction, molecular docking, and binding validation experiments were employed to identify the direct target of OPD. Ubiquitination assays, co-immunoprecipitation coupled with mass spectrometry, and proteomic analysis were used to delineate the downstream pathway. Genetic knockdown/ overexpression rescue experiments were performed, and in vivo efficacy was evaluated using patient-derived organoids and mouse xenograft models. OPD potently suppressed LUAD cell proliferation and induced apoptosis both in vitro and in vivo. Mechanistically, OPD directly bound to the motor protein KIF11 and promoted its ubiquitin-proteasomal degradation via the E3 ligase TRIM21. KIF11 degradation led to destabilization of its interacting partner, MCM2, consequently downregulating the CDK1/ Cyclin B1 complex and ultimately triggering G2/M phase cell cycle arrest. OPD functions as a novel molecular degrader of KIF11, exerting its anti-LUAD effects by promoting KIF11 ubiquitination and subsequent proteasomal degradation. These results highlight OPD as a promising therapeutic strategy for LUAD.",
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Microbiology and Immunology, University of Michigan, Ann Arbor, Michigan, USA.",
-        "Department of Medicinal Chemistry, University of Michigan, Ann Arbor, Michigan, USA.",
-        "Department of Internal Medicine, University of Michigan, Ann Arbor, Michigan, USA.",
-        "Department of Pathology, University of Michigan, Ann Arbor, Michigan, USA.",
-        "Rogel Cancer Center, University of Michigan, Ann Arbor, USA.",
-        "Department of Microbiome Research, University Hospital Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany.",
-        "Department of Medicine 1, University Hospital Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany.",
-        "Center for Infectious Disease Education and Research (CIDER), Osaka University, Suita, Japan.",
-        "Department of Ecology & Evolutionary Biology, University of Michigan, Ann Arbor, Michigan, USA."
+        "Department of Pulmonary and Critical Care Medicine, the First Affiliated Hospital of Soochow University, Suzhou, 215000, China.",
+        "Department of Pharmacy, the First Affiliated Hospital of Soochow University, Suzhou 215000, China.",
+        "Department of Pulmonary and Critical Care Medicine, the First Affiliated Hospital of Soochow University, Suzhou, 215000, China; Department of Pharmacy, the First Affiliated Hospital of Soochow University, Suzhou 215000, China.",
+        "Department of Pulmonary and Critical Care Medicine, the First Affiliated Hospital of Soochow University, Suzhou, 215000, China; Institute of Respiratory Diseases, Soochow University, Suzhou, 215000, China.",
+        "Department of Pharmacy, the First Affiliated Hospital of Soochow University, Suzhou 215000, China; College of Pharmaceutical Sciences, Soochow University, Suzhou 215123, China. Electronic address: yanzwsuzhou@163.com.",
+        "Department of Pulmonary and Critical Care Medicine, the First Affiliated Hospital of Soochow University, Suzhou, 215000, China; Institute of Respiratory Diseases, Soochow University, Suzhou, 215000, China. Electronic address: shendan@suda.edu.cn.",
+        "Department of Pulmonary and Critical Care Medicine, the First Affiliated Hospital of Soochow University, Suzhou, 215000, China; Institute of Respiratory Diseases, Soochow University, Suzhou, 215000, China. Electronic address: zihupo1988@163.com."
       ],
-      "doi": "10.1128/msphere.00926-25",
+      "doi": "10.1016/j.phymed.2026.158611",
+      "date": "2026-07-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42537468/"
+    },
+    {
+      "pmid": "42537463",
+      "title": "Licochalcone C suppresses gastric cancer progression and enhances 5-FU chemosensitivity by targeting RAC3-mediated PI3K-AKT-mTOR signaling.",
+      "abstract": "Gastric cancer remains a leading cause of cancer-related mortality worldwide, with limited sensitivity to 5-fluorouracil (5-FU) representing a major obstacle to effective chemotherapy. Licochalcones, bioactive chalcones derived from licorice, have demonstrated broad-spectrum anticancer activities, yet the role of Licochalcone C in enhancing 5-FU sensitivity in gastric cancer remains unexplored. This study aimed to investigate the antitumor effects of Licochalcone C on gastric cancer and evaluate its potential to enhance 5-FU chemosensitivity, along with elucidating the underlying molecular mechanisms. The antitumor and chemosensitizing effects of Licochalcone C were systematically evaluated using human gastric cancer cell lines, patient-derived organoids, clinical specimens, and a mouse xenograft model. Cell proliferation, colony formation, migration, invasion, and cell cycle distribution were assessed by standard assays. Biotin-labeled Licochalcone C pull-down with mass spectrometry, molecular docking, cellular thermal shift assay, and co-immunoprecipitation were employed for target identification. Western blot and transcriptomic analyses defined the signaling mechanisms. Licochalcone C inhibited gastric cancer cell proliferation, migration, and invasion while inducing G1 arrest, and markedly enhanced 5-FU sensitivity in cell lines, organoids, and xenograft models. Mechanistically, Licochalcone C directly bound RAC3, suppressing the RAC3-mediated PI3K-AKT-mTOR pathway and downregulating P-glycoprotein. Clinically, RAC3 overexpression correlated with advanced stage, poor survival, and unfavorable chemotherapy response. Licochalcone C functions as a RAC3-targeting chemosensitizer that enhances 5-FU efficacy by inhibiting PI3K-AKT-mTOR signaling and P-glycoprotein expression, supporting its development as a therapeutic adjuvant for gastric cancer.",
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "The Affiliated People's Hospital of Fujian University of Traditional Chinese Medicine, College of Integrative Medicine, Fujian-Hong Kong-Macau-Taiwan Collaborative Laboratory for the Inheritance and Innovation of Traditional Chinese Medicine, Fujian University of Traditional Chinese Medicine, Fuzhou, Fujian, China.",
+        "College of life science, Fujian Normal University, Fuzhou, Fujian, China.",
+        "Ganzhou Key Laboratory of Molecular Medicine, The Affiliated Ganzhou Hospital of Nanchang University, Ganzhou, Jiangxi, China.",
+        "Department of Gastroenterology, the second people's Hospital affiliated to Fujian University of traditional Chinese Medicine, Fuzhou, Fujian, China. Electronic address: huangminghan2010@163.com.",
+        "Department of Gastrointestinal Surgery, Shengli Clinical Medical College of Fujian Medical University, Fujian Provincial Hospital, Fuzhou University Affiliated Provincial Hospital, Fuzhou, 350001, China.. Electronic address: xuefangqingsl@sina.com.",
+        "The Affiliated People's Hospital of Fujian University of Traditional Chinese Medicine, College of Integrative Medicine, Fujian-Hong Kong-Macau-Taiwan Collaborative Laboratory for the Inheritance and Innovation of Traditional Chinese Medicine, Fujian University of Traditional Chinese Medicine, Fuzhou, Fujian, China. Electronic address: yaolin@fjtcm.edu.cn."
+      ],
+      "doi": "10.1016/j.phymed.2026.158634",
+      "date": "2026-07-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42537463/"
+    },
+    {
+      "pmid": "42538361",
+      "title": "Author Correction: Quantifying single-cell ERK dynamics in colorectal cancer organoids reveals EGFR as an amplifier of oncogenic MAPK pathway signalling.",
+      "abstract": "",
+      "journal": "Nature cell biology",
+      "publicationTypes": [
+        "Published Erratum"
+      ],
+      "affiliations": [
+        "Molecular Cancer Research, Center for Molecular Medicine, University Medical Center Utrecht, Utrecht University, Utrecht, Netherlands.",
+        "Oncode Institute, Utrecht, Netherlands.",
+        "Laboratory of Translational Cancer Medicine, Candiolo Cancer Institute - FPO IRCCs, Candiolo, Torino, Italy.",
+        "Department of Oncology, University of Torino School of Medicine, Candiolo, Torino, Italy.",
+        "Molecular Signaling and Cell Death Unit, Department of Biomedical Molecular Biology, Ghent University, Ghent, Belgium.",
+        "Molecular Signaling and Cell Death Unit, Center for Inflammation Research (IRC), a VIB-UGent department, Ghent, Belgium.",
+        "Institut Jacques Monod, CNRS UMR 7592, Université Paris Diderot, Paris, France.",
+        "Foundation Hubrecht Organoid Technology (HUB), Utrecht, Netherlands.",
+        "University of Lille, Villeneuve d'Ascq, France.",
+        "Molecular Cancer Research, Center for Molecular Medicine, University Medical Center Utrecht, Utrecht University, Utrecht, Netherlands. h.j.g.snippert@umcutrecht.nl.",
+        "Oncode Institute, Utrecht, Netherlands. h.j.g.snippert@umcutrecht.nl."
+      ],
+      "doi": "10.1038/s41556-026-02050-3",
       "date": "2026-07-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536076/"
-    },
-    {
-      "pmid": "42534747",
-      "title": "Oxygen-enhanced assembloid-based vascularized intestinal-on-a-chip for radioprotective drug evaluation.",
-      "abstract": "The intestine plays essential roles in digestion, immunity, and metabolism, but is highly sensitive to ionizing radiation during cancer treatment or environmental exposure. Although three-dimensional intestinal models more accurately replicate tissue architecture than conventional monolayers, they are frequently limited by insufficient oxygen delivery, leading to hypoxia-associated functional impairment. Incorporating physiologically relevant oxygenation strategies remains a key challenge in advanced in vitro systems. This study aimed to establish a physiologically relevant in vitro intestinal model by improving oxygen mass transfer within three-dimensional tissue constructs, thereby enhancing structural organization and functional maturation, and subsequently applying the system to investigate radiation-related mechanisms and evaluate potential protective agents. Based on a microengineered 3D cell-assembly platform, intestinal epithelial cells, endothelial cells, and fibroblasts were spatially organized to form a structured intestinal tissue model. The composition of the cells was optimised to improve tissue uniformity and the function of the epithelial barrier. To alleviate hypoxia in the three-dimensional construct, an oxygen-permeable microwell system was employed to enhance oxygen diffusion and promote epithelial differentiation, as evidenced by the upregulation of Isx, Cyp3a5, and Tff3. A vascularized chip that recapitulated the in vivo intestinal-stromal-vascular interface was created by incorporating microvascular networks self-assembled from endothelial cells within a hydrogel matrix. Following radiation exposure, the model exhibited characteristic symptoms of intestinal injury, such as decreased cell viability, impaired E-cadherin signaling, and compromised epithelial barrier integrity. Treatment with dimethyloxalylglycine (DMOG) mitigated these effects, confirming it's utility for assessing radioprotective drugs. This vascularized intestinal-on-a-chip model closely mimics the structure and function of the human intestinal microenvironment. It serves as a robust in vitro platform for studying radiation-induced intestinal injury and for screening candidate protective agents, offering valuable applications in radiation protection and regenerative medicine research.",
-      "journal": "Frontiers in toxicology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Biomanufacturing Center, Department of Mechanical Engineering, Tsinghua University, Beijing, China.",
-        "Key Laboratory for Advanced Materials Processing Technology, Ministry of Education, Beijing, China.",
-        "Beijing Key Laboratory of Intelligent Organ Biofabrication and Regenerative Repair, Tsinghua University, Beijing, China.",
-        "The State Key Laboratory of Membrane Biology, Tsinghua-Peking Center for Life Sciences, School of Life Sciences, Tsinghua University, Beijing, China."
-      ],
-      "doi": "10.3389/ftox.2026.1863392",
-      "date": "2026-07-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534747/"
-    },
-    {
-      "pmid": "42534288",
-      "title": "Establishment of extrahepatic bile duct cancer organoids using suspension culture and their application in clinical drug screening.",
-      "abstract": "The present study aims to explore the feasibility of establishing human extrahepatic cholangiocarcinoma (eCCA) organoids via suspension culture, to biologically characterize their biological features and to evaluate their drug sensitivity, thereby providing a preclinical model for personalized precision therapy. Surgically resected tumor tissues were obtained from patients with eCCA. Tumor cells were isolated by mechanical dissociation and enzymatic digestion, and were cultured in a matrix-free suspension system for three-dimensional organoid formation and continuous passaging. Histomorphological features of the organoids and the corresponding parental tumor tissues were compared by H&E staining. Immunohistochemistry was used to detect the expression of the cholangiocyte markers cytokeratin (CK)7 and CK19, as well as Ki-67, to confirm tissue origin and proliferative activity. In addition, the organoid model was used for in vitro sensitivity testing of conventional chemotherapy regimens. The organoids exhibited morphological features of moderately to poorly differentiated adenocarcinoma, consistent with those of the parental tumors, including tubular structures, solid nests and nuclear atypia. Immunohistochemical analysis showed high expression of CK7 and CK19, confirming cholangiocytic origin, along with high Ki-67 expression, indicating active proliferative capacity. Drug sensitivity testing revealed substantial heterogeneity in treatment responses among organoid lines derived from different patients, indicating variable sensitivity to chemotherapeutic agents. In conclusion, an eCCA organoid model was successfully established using a suspension culture method, and it largely preserved the histopathological and cellular phenotypic features of the parental tumor. This model functions as an in vitro 'patient surrogate' for drug-sensitivity testing, with potential for evaluating chemotherapy and targeted-drug efficacy. However, the observed clinical concordance in a single patient is preliminary and its definitive predictive value requires validation in larger prospective cohorts. Theoretically, this system offers advantages in scalability and standardization for clinical applications, although direct comparisons with traditional matrices remain to be conducted.",
-      "journal": "Oncology letters",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "General Surgery Department, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou, Gansu 730000, P.R. China.",
-        "Pathology Department, Dingxi People's Hospital, Dingxi, Gansu 743000, P.R. China.",
-        "Department of Hepatobiliary Surgery, The First Affiliated Hospital of Zhejiang Chinese Medical University, Zhejiang Provincial Hospital of Chinese Medicine, Hangzhou, Zhejiang 310006, P.R. China.",
-        "Hepatobiliary and Pancreatic Surgery Department, The First School of Clinical Medicine, Zhejiang Chinese Medical University, Hangzhou, Zhejiang 310006, P.R. China.",
-        "Department of General Surgery, Lanzhou University Second Hospital, Lanzhou, Gansu 730000, P.R. China."
-      ],
-      "doi": "10.3892/ol.2026.15770",
-      "date": "2026-07-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534288/"
-    },
-    {
-      "pmid": "42532746",
-      "title": "Comparative evaluation of chemotherapy and CAR-T cell therapy in genetically engineered self-sustaining primary pancreatic cancer organoids.",
-      "abstract": "Broader research and translational use of patient-derived organoids (PDOs) in pancreatic ductal adenocarcinoma (PDAC) remain constrained by complex and costly culture requirements. Here, we developed a conditional transgenic strategy to generate self-sustaining primary PDAC organoids and explored its feasibility for therapeutic evaluation. We established a proof-of-concept PDAC organoid biobank (n = 10). Using a doxycycline-inducible lentiviral Tet-On system, we engineered organoids to express essential cytokines RSPO1 and WNT3A, enabling growth in supplement-depleted media. We then performed exploratory assessments of FOLFIRINOX-mimetic chemotherapy and EPHA2-targeted CAR-T cells in transgenic organoids, together with histopathological and clinicopathological co-analysis. Doxycycline-induced RSPO1/WNT3A expression rescued the impaired growth and passaging caused by exogenous cytokine depletion. In simplified media, transgenic organoids retained patient-specific histological and molecular features. Sensitivity to FOLFIRINOX-mimetic treatment and EPHA2 CAR-T cells varied among different patients, and the in vitro responses showed exploratory concordance with the corresponding clinical courses in a small subset. This conditional transgenic approach reduces culture complexity while preserving key phenotypic and functional characteristics of PDAC organoids, providing a feasible proof-of-concept platform for exploratory evaluation of chemotherapy and immunotherapy responses.",
-      "journal": "Pancreatology : official journal of the International Association of Pancreatology (IAP) ... [et al.]",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, No. 270 Dong an Road, Xu-Hui District, Shanghai, 200032, China; Department of Oncology, Shanghai Medical College, Fudan University, No.270 Dong an Road, Xu-Hui District, Shanghai, 200032, China; Shanghai Pancreatic Cancer Institute, No.270 Dong an Road, Xu-Hui District, Shanghai, 200032, China; Pancreatic Cancer Institute, Fudan University, No.270 Dong an Road, Xu-Hui District, Shanghai, 200032, China.",
-        "Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, No. 270 Dong an Road, Xu-Hui District, Shanghai, 200032, China; Department of Oncology, Shanghai Medical College, Fudan University, No.270 Dong an Road, Xu-Hui District, Shanghai, 200032, China; Shanghai Pancreatic Cancer Institute, No.270 Dong an Road, Xu-Hui District, Shanghai, 200032, China; Pancreatic Cancer Institute, Fudan University, No.270 Dong an Road, Xu-Hui District, Shanghai, 200032, China; Department of General Surgery, Xiamen Branch, Zhongshan Hospital Fudan University, Huli Street, Xiamen, 361000, China.",
-        "Department of Pathology Oncology, Fudan University, No.270 Dong an Road, Xu-Hui District, Shanghai, 200032, China.",
-        "Department of Hepatobiliary Surgery, Haikou Affiliated Hospital of Central South University Xiangya School of Medicine, No. 43 Renmin Avenue, Haikou, 570208, China.",
-        "Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, No. 270 Dong an Road, Xu-Hui District, Shanghai, 200032, China; Department of Oncology, Shanghai Medical College, Fudan University, No.270 Dong an Road, Xu-Hui District, Shanghai, 200032, China; Shanghai Pancreatic Cancer Institute, No.270 Dong an Road, Xu-Hui District, Shanghai, 200032, China; Pancreatic Cancer Institute, Fudan University, No.270 Dong an Road, Xu-Hui District, Shanghai, 200032, China. Electronic address: yuxianjun@fudanpci.org.",
-        "Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, No. 270 Dong an Road, Xu-Hui District, Shanghai, 200032, China; Department of Oncology, Shanghai Medical College, Fudan University, No.270 Dong an Road, Xu-Hui District, Shanghai, 200032, China; Shanghai Pancreatic Cancer Institute, No.270 Dong an Road, Xu-Hui District, Shanghai, 200032, China; Pancreatic Cancer Institute, Fudan University, No.270 Dong an Road, Xu-Hui District, Shanghai, 200032, China. Electronic address: liuchen@fudanpci.org.",
-        "Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, No. 270 Dong an Road, Xu-Hui District, Shanghai, 200032, China; Department of Oncology, Shanghai Medical College, Fudan University, No.270 Dong an Road, Xu-Hui District, Shanghai, 200032, China; Shanghai Pancreatic Cancer Institute, No.270 Dong an Road, Xu-Hui District, Shanghai, 200032, China; Pancreatic Cancer Institute, Fudan University, No.270 Dong an Road, Xu-Hui District, Shanghai, 200032, China; Cancer Research Institute, Fudan University Shanghai Cancer Center, Fudan University, No.270 Dong an Road, Xu-Hui District, Shanghai, 200032, China; Shanghai Key Laboratory of Radiation Oncology, No.270 Dong an Road, Xu-Hui District, Shanghai, 200032, China. Electronic address: wangxu2013@fudan.edu.cn.",
-        "Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, No. 270 Dong an Road, Xu-Hui District, Shanghai, 200032, China; Department of Oncology, Shanghai Medical College, Fudan University, No.270 Dong an Road, Xu-Hui District, Shanghai, 200032, China; Shanghai Pancreatic Cancer Institute, No.270 Dong an Road, Xu-Hui District, Shanghai, 200032, China; Pancreatic Cancer Institute, Fudan University, No.270 Dong an Road, Xu-Hui District, Shanghai, 200032, China. Electronic address: chenghe@fudanpci.org."
-      ],
-      "doi": "10.1016/j.pan.2026.07.013",
-      "date": "2026-07-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42532746/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42538361/"
     },
     {
       "pmid": "42509463",
@@ -380,6 +397,23 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42522615/"
     },
     {
+      "pmid": "42536272",
+      "title": "Multimodal Management of Pain in Oral Squamous Cell Carcinoma: A Mechanism-Based Approach.",
+      "abstract": "Oral squamous cell carcinoma (OSCC) is frequently associated with severe nociceptive and neuropathic pain that adversely affects patient quality of life, functional capacity, psychological well-being, and prognosis. Pain in OSCC is increasingly recognized not only as a clinical symptom but also as a dynamic indicator of tumor progression and neuroinflammatory activity. This review summarizes the epidemiological, molecular, neurobiological, and clinical mechanisms underlying OSCC-associated pain and discusses current and emerging approaches for mechanism-based multimodal pain management. Recent evidence demonstrates that tumor-nerve interactions, perineural invasion, inflammatory cytokines, and peripheral and central sensitization play central roles in the pathogenesis of OSCC pain. Molecular alterations involving TP53 mutations, EGFR overexpression, and PI3K/AKT/mTOR pathway activation contribute to inflammatory signaling, neural remodeling, and nociceptive sensitization within the tumor microenvironment. Advances in salivary biomarkers, liquid biopsy approaches, artificial intelligence-assisted pain assessment, and organoid-based translational models are improving the understanding of cancer pain biology and supporting the development of precision analgesia and individualized therapeutic strategies. OSCC-associated pain is a complex and multidimensional phenomenon closely linked to tumor aggressiveness, neuroinflammation, and disease progression. Effective pain management requires mechanism-based multimodal approaches integrating pharmacological, rehabilitative, interventional, and tumor-directed therapies. Emerging precision medicine strategies, combined with equitable access to supportive care, have the potential to improve pain control, treatment outcomes, patient dignity, and overall quality of life in individuals with OSCC.",
+      "journal": "Current pain and headache reports",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Life Sciences, School of Biosciences and Technology, Galgotias University, Greater Noida, India.",
+        "Department of Biotechnology and Bioengineering, School of Biosciences and Technology, Galgotias University, Greater Noida, India. abhimanyujha630@gmail.com."
+      ],
+      "doi": "10.1007/s11916-026-01539-8",
+      "date": "2026-07-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536272/"
+    },
+    {
       "pmid": "42536239",
       "title": "Urine Cell-Free DNA in the Diagnosis of Intraductal Papillary Mucinous Neoplasms: A Prospective Observational Study.",
       "abstract": "Intraductal papillary mucinous neoplasm (IPMN) is a typical precursor lesion of pancreatic cancer, but differential diagnosis and grading of IPMN is often difficult. Currently, grading of diagnosis is based mainly on imaging examinations, but these methods are invasive, and the accuracy is unsatisfactory. Therefore, the current study aimed to determine the usefulness of urine cell-free DNA (cfDNA) as a liquid biopsy, which the authors suggest has potential as a less invasive diagnostic tool for IPMN. Preoperative plasma and urine samples were collected from 33 patients with a preoperative diagnosis of IPMN. From their plasma and urine, cfDNA was extracted. Analysis of GNAS and KRAS mutations in the cfDNA was performed using droplet digital polymerase chain reaction. The final diagnosis was IPMN in 31 of the 33 cases according to the resected specimens. The positivity rate of GNAS mutations in these 31 patients was 10 % (3/31) in plasma cfDNA, and 32 % (10/31) in urine cfDNA. The positivity rate of KRAS mutations was 19 % (6/31) in plasma cfDNA and 58 % (18/31) in urine cfDNA. In the multivariate analysis of the malignancy diagnosis, the main pancreatic duct diameter was ≥10 mm, and the positivity of both GNAS and KRAS mutations in urine cfDNA were significantly associated with IPMN malignancy (odds ratio [OR], 12.70; P = 0.0200; OR, 8.10; P = 0.0269). Urine cfDNA involves a less invasive liquid biopsy and seems to be useful in the diagnosis of IPMN.",
@@ -462,38 +496,54 @@
       "doi": "10.1039/d6ra03752f",
       "date": "2026-07-29",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534589/"
-    },
-    {
-      "pmid": "42537209",
-      "title": "Mobile App Rating Scale for Health Care Professionals to Assess the Quality of mHealth Apps: Questionnaire Development and Psychometric Analysis.",
-      "abstract": "Many frameworks and tools are available to evaluate the quality of mobile health apps (MHAs), which are increasingly used by health care professionals (HCPs) for accessing medical information, clinical decision support, and communication. However, existing tools are not well equipped to assess the quality of apps designed for HCPs from their perspectives. We aimed to develop a new tool based on the Mobile App Rating Scale (MARS) to capture the unique perspectives of HCPs on MHAs. We then conducted a psychometric analysis of this new questionnaire to determine its effectiveness in assessing the quality of MHAs designed specifically for HCPs from their perspectives. This study was conducted in 2 phases. In phase 1, the original MARS tool was adapted for HCPs through expert panel review and subsequent qualitative interviews, resulting in the development of the pMARS (MARS for health care professionals) tool. This phase focused on establishing face and content validity. Qualitative interviews were conducted with HCPs from a tertiary hospital in Singapore to gather their perspectives on the tool's structure, clarity, applicability, and usability. In phase 2, we invited HCP participants to complete pMARS based on their experience with the LabMed app, an mHealth tool designed to provide medical laboratory-related information to HCPs. We established the construct validity of pMARS through multiple psychometric techniques. Internal consistency reliability was measured using the Cronbach α, while structural equation modeling was used to examine the interrelationships among latent constructs. Additionally, we used item response theory (IRT) to evaluate each item's impact on latent constructs of interest, that is, discriminative performance of individual items within each domain. Based on the results from phase 1, the pMARS comprised 26 items across 5 domains: engagement, functionality, aesthetics, information, and subjective quality, refined through interviews with 10 HCPs. In phase 2 (n=218), pMARS demonstrated good internal consistency reliability across all domains (Cronbach α=0.855-0.931). Structural equation modeling demonstrated that functionality had the strongest influence on end-user willingness to use, recommend, and purchase the MHA (P<.001). IRT identified that customization and interactivity of the engagement domain had a weak impact on latent constructs, whereas entertainment had a higher impact. Ease of use and gestural design had a weak impact on the functionality domain, whereas arrangement and size of content and quantity and quality had a strong impact on the aesthetics and information domains, respectively. This study reports the development and psychometric analysis of pMARS. Our findings demonstrate strong internal consistency reliability and construct validity, supporting its potential use in health care. Further research should validate pMARS across diverse MHAs and contexts and apply IRT to further refine its precision and efficiency.",
-      "journal": "JMIR mHealth and uHealth",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Discipline of Public Health, School of Human Performance, Rehabilitation and Population Health, University of Technology Sydney, Sydney, NSW, Australia.",
-        "Biostatistics Unit, Yong Loo Lin School of Medicine, National University of Singapore, Kent Ridge, Singapore, Singapore.",
-        "Department of International Health, Johns Hopkins Bloomberg School of Public Health, Johns Hopkins University, 615 N Wolfe St, Baltimore, MD, 21205, United States, 1 4109553543, 1 4105029809.",
-        "Department of Nutrition and Food Studies, College of Public Health, George Mason University, Fairfax, VA, United States."
-      ],
-      "doi": "10.2196/48828",
-      "date": "2026-07-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42537209/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42536653",
-      "date": "2026-07-31",
-      "title": "Assessing tumor heterogeneity and FLOT/FOLFOX-induced alterations in cancer stem cells and cancer immune checkpoint molecules using patient-derived tumor organoids.",
+      "id": "pubmed-42538409",
+      "date": "2026-08-01",
+      "title": "The establishment of prostate-specific, SKP2 humanized mice by CRISPR knock-in method reveals neoplastic initiation and microenvironmental reprogramming.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536653/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42538409/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Oncogene，PMID 为 42538409。",
+      "report": "Genetic inactivation of SKP2 has been shown to effectively prevent cancer initiation and block tumorigenesis. However, direct in vivo evidence for SKP2 on cancer initiation and prostatic microenvironment is still lacking and a SKP2 humanized mouse model is cri...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42538270",
+      "date": "2026-07-31",
+      "title": "d-serine as a metabolic immune checkpoint in the tumour microenvironment.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42538270/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -510,8 +560,72 @@
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of immunopathology and pharmacology，PMID 为 42536653。",
-      "report": "BackgroundGastric cancer is a deadly disease with poor prognosis and unfavorable therapeutic outcomes. It is known that a major cause of treatment failure for gastric cancer is related to tumor heterogeneity. However, it is difficult to assess heterogeneity, a...",
+      "fact": "PubMed 记录显示该文献收录于 EBioMedicine，PMID 为 42538270。",
+      "report": "d-amino acids (D-AAs), the enantiomers of proteinogenic l-amino acids, are detectable in mammals, yet their biological roles in cancer immunity remain largely unexplored. Whether specific D-AAs modulate tumour progression or influence responsiveness to immunot...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42537900",
+      "date": "2026-07-31",
+      "title": "Vitamin D deficiency alters prostate epithelial differentiation and increases prostate cancer aggressiveness in ex vivo and in vivo models.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42537900/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42537900。",
+      "report": "Here, we examined the consequences of biologically relevant vitamin D deficiency, a known risk factor for aggressive prostate cancer, using ex vivo and in vivo models. Phenotypic and single-cell RNA sequencing of mouse prostate organoids showed that vitamin D...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42538361",
+      "date": "2026-07-31",
+      "title": "Author Correction: Quantifying single-cell ERK dynamics in colorectal cancer organoids reveals EGFR as an amplifier of oncogenic MAPK pathway signalling.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42538361/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature cell biology，PMID 为 42538361。",
+      "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -550,36 +664,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42536076",
-      "date": "2026-07-31",
-      "title": "An innovative organoid model to screen for bacteria and their metabolites that protect against inflammation-induced colonic barrier disruption.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536076/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 mSphere，PMID 为 42536076。",
-      "report": "Organoids provide a useful model system to study interactions between gut microbes and the activity of host tissues, including gastrointestinal (GI) barrier function. However, most organoid models have limited capacity to mimic the physiological hypoxia experi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42536239",
       "date": "2026-07-31",
       "title": "Urine Cell-Free DNA in the Diagnosis of Intraductal Papillary Mucinous Neoplasms: A Prospective Observational Study.",
@@ -607,38 +691,6 @@
       "fact": "PubMed 记录显示该文献收录于 Annals of surgical oncology，PMID 为 42536239。",
       "report": "Intraductal papillary mucinous neoplasm (IPMN) is a typical precursor lesion of pancreatic cancer, but differential diagnosis and grading of IPMN is often difficult. Currently, grading of diagnosis is based mainly on imaging examinations, but these methods are...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42537209",
-      "date": "2026-07-31",
-      "title": "Mobile App Rating Scale for Health Care Professionals to Assess the Quality of mHealth Apps: Questionnaire Development and Psychometric Analysis.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Clinical Study",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42537209/",
-      "reliability": "High",
-      "evidenceLevel": "High",
-      "needsReview": true,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Healthcare AI",
-        "Medical LLM"
-      ],
-      "tags": [
-        "临床",
-        "监管",
-        "医疗 AI",
-        "临床决策支持"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 JMIR mHealth and uHealth，PMID 为 42537209。",
-      "report": "Many frameworks and tools are available to evaluate the quality of mobile health apps (MHAs), which are increasingly used by health care professionals (HCPs) for accessing medical information, clinical decision support, and communication. However, existing too...",
-      "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -820,6 +872,38 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42537463",
+      "date": "2026-07-25",
+      "title": "Licochalcone C suppresses gastric cancer progression and enhances 5-FU chemosensitivity by targeting RAC3-mediated PI3K-AKT-mTOR signaling.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42537463/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Phytomedicine : international journal of phytotherapy and phytopharmacology，PMID 为 42537463。",
+      "report": "Gastric cancer remains a leading cause of cancer-related mortality worldwide, with limited sensitivity to 5-fluorouracil (5-FU) representing a major obstacle to effective chemotherapy. Licochalcones, bioactive chalcones derived from licorice, have demonstrated...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42522615",
       "date": "2026-07-25",
       "title": "[High-purity production of native-conformation sweet protein thaumatin via cell factory fermentation and specific enzymatic cleavage].",
@@ -846,36 +930,6 @@
       "fact": "PubMed 记录显示该文献收录于 Sheng wu gong cheng xue bao = Chinese journal of biotechnology，PMID 为 42522615。",
       "report": "Thaumatin is a natural sweet-tasting protein derived from the plant Thaumatococcus daniellii, renowned for its high sweetness intensity, low caloric value, and favorable thermal and pH stability. As it can be degraded into natural amino acids, thaumatin repres...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42532746",
-      "date": "2026-07-24",
-      "title": "Comparative evaluation of chemotherapy and CAR-T cell therapy in genetically engineered self-sustaining primary pancreatic cancer organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42532746/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Pancreatology : official journal of the International Association of Pancreatology (IAP) ... [et al.]，PMID 为 42532746。",
-      "report": "Broader research and translational use of patient-derived organoids (PDOs) in pancreatic ductal adenocarcinoma (PDAC) remain constrained by complex and costly culture requirements. Here, we developed a conditional transgenic strategy to generate self-sustainin...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1021,34 +1075,32 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42534288",
-      "date": "2026-07-17",
-      "title": "Establishment of extrahepatic bile duct cancer organoids using suspension culture and their application in clinical drug screening.",
+      "id": "pubmed-42537468",
+      "date": "2026-07-20",
+      "title": "Targeting KIF11 degradation: Oxypeucedanin inhibits lung adenocarcinoma progression by disrupting the MCM2-CDK1 signaling pathway.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534288/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42537468/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
+        "Precision Oncology"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "肿瘤",
-        "药筛"
+        "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Oncology letters，PMID 为 42534288。",
-      "report": "The present study aims to explore the feasibility of establishing human extrahepatic cholangiocarcinoma (eCCA) organoids via suspension culture, to biologically characterize their biological features and to evaluate their drug sensitivity, thereby providing a...",
+      "fact": "PubMed 记录显示该文献收录于 Phytomedicine : international journal of phytotherapy and phytopharmacology，PMID 为 42537468。",
+      "report": "Lung adenocarcinoma (LUAD) is the most prevalent subtype of lung cancer and a leading cause of cancer-related mortality worldwide. Current targeted therapies are limited by acquired resistance, highlighting the urgent need for novel therapeutic agents and targ...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1079,40 +1131,6 @@
       "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42523295。",
       "report": "The regulation of protein stability is essential for cellular homeostasis and is determined by a combination of intrinsic sequence motifs and extrinsic recognition enzymes. Despite growing knowledge of the protein degradation machinery, the ability to predict...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42534747",
-      "date": "2026-07-16",
-      "title": "Oxygen-enhanced assembloid-based vascularized intestinal-on-a-chip for radioprotective drug evaluation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534747/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in toxicology，PMID 为 42534747。",
-      "report": "The intestine plays essential roles in digestion, immunity, and metabolism, but is highly sensitive to ionizing radiation during cancer treatment or environmental exposure. Although three-dimensional intestinal models more accurately replicate tissue architect...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
