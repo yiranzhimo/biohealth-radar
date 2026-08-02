@@ -822,6 +822,83 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42542988",
+      "date": "2026-08-02",
+      "title": "ATP6AP2 ameliorates inflammation and pyroptosis in heart failure by promoting lysosome-dependent STING degradation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42542988/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Apoptosis : an international journal on programmed cell death，PMID 为 42542988。",
+      "report": "Inflammatory activation is involved in the pathogenesis of heart failure (HF). ATPase H+-Transporting Accessory Protein 2 (ATP6AP2) is an auxiliary subunit of the V-ATPase, and its role in HF is not fully understood. To assess the role and regulatory mechanism...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_060759e7a16cd46b006a6f9c7b4c0c81998c4b1e12034e8acc",
+        "reviewedAt": "2026-08-02T19:37:30.604832+00:00",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "内容符合发布标准，无需人工审核。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理且与文献相关。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证明水平合适，信息来源明确。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Apoptosis : an international journal on programmed cell death，PMID 为 42542988。",
+          "report": "Inflammatory activation is involved in the pathogenesis of heart failure (HF). ATPase H+-Transporting Accessory Protein 2 (ATP6AP2) is an auxiliary subunit of the V-ATPase, and its role in HF is not fully understood. To assess the role and regulatory mechanism...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42542243",
       "date": "2026-08-01",
       "title": "Mouse models of aortic aneurysm and dissection: pathophysiological insights and translational perspectives.",
@@ -1181,74 +1258,6 @@ window.BHR_DATA = {
           ],
           "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42541720。",
           "report": "In this protocol, we present Epi-CyTOF, a cytometry by time of flight (CyTOF) approach for single-cell epigenome profiling in cortical organoids as a model system for human brain development.",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42540799",
-      "date": "2026-07-31",
-      "title": "A plug-and-play multi-organ-on-chip for studying interaction between central nervous system and peripheral monocytes following neuroinjury from radiation and Parkinson's disease.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42540799/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 RSC advances，PMID 为 42540799。",
-      "report": "Following neuroinjury (e.g., from radiation or Parkinson's disease), peripheral monocytes infiltrate the CNS, promoting neuroinflammation and cognitive decline. However, studying this is challenging due to a lack of suitable in vitro models. Multi-organ-on-a-c...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0b5b052b7be0629c006a6f02153af08191a22b3ff44a914b80",
-        "reviewedAt": "2026-08-02T08:38:31.112433+00:00",
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "内容准确且无不当临床结论，可发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "信息源可靠，报告内容与事实相符。"
-        },
-        "riskFlags": [
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 RSC advances，PMID 为 42540799。",
-          "report": "Following neuroinjury (e.g., from radiation or Parkinson's disease), peripheral monocytes infiltrate the CNS, promoting neuroinflammation and cognitive decline. However, studying this is challenging due to a lack of suitable in vitro models. Multi-organ-on-a-c...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
