@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-03T03:58:18.691623+00:00",
+  "capturedAt": "2026-08-03T15:19:57.978545+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-03"
   },
   "pmids": [
-    "42543025",
-    "42542988",
-    "42542243",
-    "42542043",
-    "42541905",
-    "42541860",
+    "42544182",
+    "42543780",
+    "42543762",
+    "42543528",
+    "42543399",
+    "42543381",
     "42509463",
     "42498177",
     "42497867",
@@ -32,138 +32,133 @@
     "42531048",
     "42527603",
     "42526208",
+    "42544420",
+    "42544030",
+    "42543673",
+    "42543635",
     "42542428",
-    "42539807",
-    "42539411",
-    "42538617",
-    "42538597",
-    "42536272"
+    "42539807"
   ],
   "records": [
     {
-      "pmid": "42543025",
-      "title": "Embryonic Mediators of Embryo-Uterus Communication, Implantation and Pregnancy.",
-      "abstract": "Successful reproduction in eutherian mammals requires intimate connections between the embryo and uterus, involving adhesion, attachment and placentation, with or without invasion of the endometrium. The complex dialogue between embryo and uterus involves numerous molecules and pathways. The study of the mechanisms driving early embryo-uterus interactions has historically been challenging, particularly discovering the embryo-expressed molecules. Some components of the interactions have been known for decades, but many have been revealed in recent years through innovative transcriptome studies, studies of the contents and functions of extracellular particles, use of in vitro three-dimensional organoids, genetic studies, approaches for dissecting the regulation of maternal immune system cells, and many other approaches. This review focuses on embryo-expressed molecules that support implantation and embryo attachment, implantation and pregnancy establishment. Both classical and recent discoveries are examined, encompassing results from human, murine, livestock and comparative studies. Opportunities for further mechanistic insights are considered. Additionally, the review considers the potential for agricultural and clinical applications of the more recently identified molecular players and mechanisms for enhancing reproductive success or for providing new approaches to contraception.",
-      "journal": "Molecular reproduction and development",
+      "pmid": "42544182",
+      "title": "Application and prospects of organoid-on-a-chip in research on the intestinal mucosal barrier.",
+      "abstract": "The integrity of the intestinal mucosal barrier is essential for maintaining normal gut physiology, and its disruption is associated with a wide range of conditions, including trauma- and burn-related intestinal injury, which remain difficult to manage clinically. Intestinal organoid-on-a-chip systems have emerged as advanced in vitro models that reproduce key features of the intestinal microenvironment and physiological function. These systems have shown promise for studying mucosal injury and repair, assessing therapeutic strategies, and supporting translational research. This review summarizes the basic principles of intestinal organoid-on-a-chip technology and examines its use in modeling intestinal barrier function, inflammatory responses, drug screening, regenerative approaches, and trauma-related barrier repair. It also reviews recent progress in preclinical studies, considers potential applications in gastrointestinal research, and discusses current technical challenges, particularly those related to scalability and reproducibility. Future directions for the development of next-generation systems are also outlined. With the continued integration of advances across disciplines, these platforms may provide useful tools for studying and treating disorders involving the intestinal mucosal barrier, especially in the context of trauma and burns.",
+      "journal": "Burns & trauma",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Department of Animal Science, Michigan State University, East Lansing, Michigan, USA."
+        "Department of Burn Surgery, the Affiliated Huaihai Hospital of Xuzhou Medical University, No. 226 Tongshan Road, Yunlong District, Xuzhou, Jiangsu Province 221004, China.",
+        "Department of Burn Surgery, The 71st Group Army Hospital of People's Liberation Army, No. 226 Tongshan Road, Xuzhou, Jiangsu Province 221004, China."
       ],
-      "doi": "10.1002/mrd.70137",
+      "doi": "10.1093/burnst/tkag029",
+      "date": "2026-04-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42544182/"
+    },
+    {
+      "pmid": "42543780",
+      "title": "Curcumin-Loaded GelMA Microspheres Alleviate Osteoarthritis: Transcriptomic Evidence for Immune Microenvironment Remodeling and ECM Homeostasis Restoration.",
+      "abstract": "Osteoarthritis (OA) progression is driven by inflammatory mediators and immune dysregulation within the joint. Curcumin (Cur) possesses multi-target therapeutic potential. However, its clinical application is limited by poor solubility and a short half-life. In this study, we developed injectable Cur-loaded GelMA microspheres (Cur-MS) and evaluated their effects in IL-1β stimulated chondrocytes, cartilage organoids, and a monosodium iodoacetate (MIA) induced rat OA model, complemented by public transcriptomic analysis (GSE114007). The Cur-MS demonstrated uniform size distribution, favorable biocompatibility, and sustained curcumin release. Treatment with Cur-MS significantly reduced chondrocyte apoptosis, reactive oxygen species levels, and hypertrophic markers; restored COL-II and ACAN synthesis; and downregulated MMP13 and inflammatory gene expression. In vivo, Cur-MS improved joint space, alleviated pain, decreased synovial CD68 positive macrophage infiltration and levels of IL-6 and TNF-α, and enhanced chondrogenic gene expression. Public transcriptomic data corroborated these findings, revealing upregulation of MMP13 and downregulation of SOX9 in OA cartilage, consistent with our experimental targets. Collectively, this study provides the first multi-model evidence combined with transcriptomic validation, demonstrating that Cur-MS not only directly protects chondrocytes and restores extracellular matrix homeostasis but also modulates the joint inflammatory immune microenvironment. These findings suggest that Cur-MS represents a promising locally sustained-release therapeutic strategy for OA.",
+      "journal": "Chemical biology & drug design",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Rehabilitation Department, Qilu Hospital of Shandong University (Qingdao), Qingdao, Shandong, China.",
+        "Sports Medicine Department, Qilu Hospital of Shandong University (Qingdao), Qingdao, Shandong, China."
+      ],
+      "doi": "10.1111/cbdd.70373",
       "date": "2026-08-00",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543025/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543780/"
     },
     {
-      "pmid": "42542988",
-      "title": "ATP6AP2 ameliorates inflammation and pyroptosis in heart failure by promoting lysosome-dependent STING degradation.",
-      "abstract": "Inflammatory activation is involved in the pathogenesis of heart failure (HF). ATPase H+-Transporting Accessory Protein 2 (ATP6AP2) is an auxiliary subunit of the V-ATPase, and its role in HF is not fully understood. To assess the role and regulatory mechanisms and therapeutic potential of ATP6AP2 in HF, we used a cardiac-specific ATP6AP2 conditional knockout (CKO) mouse model and observed spontaneous cardiac dysfunction, myocardial fibrosis and cardiomyocyte apoptosis in mice. Further studies showed that ATP6AP2 promoted stimulator of interferon genes (STING) degradation through the lysosome-dependent pathway. ATP6AP2 knockdown significantly upregulated STING protein levels, activated the STING-TBK1-IRF3 signaling axis, and promoted pro-inflammatory factor expression and cardiomyocyte apoptosis. In mice with myocardial infarction (MI), myocardial overexpression of ATP6AP2 or treatment with H-151 inhibited the activation of the STING signaling pathway, ameliorated cardiomyocyte apoptosis and inflammatory responses, thereby improving cardiac function. In addition, in macrophages treated with conditioned medium from hypoxia-exposed cardiomyocytes, the levels of pyroptosis-related proteins were markedly increased, whereas ATP6AP2 overexpression or STING inhibition reduced pyroptosis. ATP6AP2 likewise attenuates inflammation and pyroptosis caused by hypoxia in cardiac organoids. In conclusion, activating ATP6AP2 could serve as a promising therapeutic option in HF.",
-      "journal": "Apoptosis : an international journal on programmed cell death",
+      "pmid": "42543762",
+      "title": "Generation of bioengineered liver grafts densely recellularized using human liver organoids.",
+      "abstract": "Bioengineered livers using decellularized extracellular matrix (ECM) scaffolds hold promise for transplantation therapies. However, conventional recellularization methods involving cell injection via blood vessels encounter challenges in recapitulating the complexity of hepatic tissues, including high cellularity, differentiation hierarchy, and cellular heterogeneity. Here, we developed a methodology termed \"combined single-cell and organoid (CSO) injection.\" We injected human liver organoids (HLOs) and dispersed organoid cells via direct puncture and vascular injection into a decellularized porcine ECM scaffold, respectively. This process facilitated the construction of densely populated and self-organized liver-like tissues (CSO Livers) that formed cell-cell/cell-ECM interactions. The tissues displayed hepatic characteristics, including ALBUMIN secretion, robust expression of liver-associated genes, and cellular heterogeneity comprising hepatocytes, cholangiocytes, as well as stellate-like and endothelial cells. Furthermore, we demonstrated that CSO-Livers functioned as grafts in immunodeficient mice and in a microminipig model of liver fibrosis through transplantation via vascular anastomosis. These findings indicate the applicability of the combined single-cell and organoid (CSO) injection method for generating bioengineered liver grafts using HLOs.",
+      "journal": "Cell transplantation",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Institute of Cardiovascular Translational Medicine, Putuo Hospital, Shanghai University of Traditional Chinese Medicine, No. 164 Lanxi Road, Putuo District, Shanghai, 200062, China.",
-        "School of Clinical Medicine, Anhui Medical University, Anhui, 230032, China.",
-        "School of Medical and Life Sciences, Chengdu University of Traditional Chinese Medicine, Chengdu, 610500, China.",
-        "Neocellmed Co., Ltd, Shanghai, China. zhen.qi@neocellmed.com.",
-        "Department of GCP Office, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, 200023, China. pt1669@shutcm.edu.cn.",
-        "Institute of Cardiovascular Translational Medicine, Putuo Hospital, Shanghai University of Traditional Chinese Medicine, No. 164 Lanxi Road, Putuo District, Shanghai, 200062, China. liuzongjun1548@shutcm.edu.cn."
+        "Department of Surgery, Keio University School of Medicine, Tokyo, Japan.",
+        "Department of Proteomics, Fundamental Innovative Oncology Core, National Cancer Center Research Institute, Tokyo, Japan.",
+        "Division of Regenerative Medicine, Center for Stem Cell Biology and Regenerative Medicine, The Institute of Medical Science, The University of Tokyo, Tokyo, Japan."
       ],
-      "doi": "10.1007/s10495-026-02415-x",
+      "doi": "10.1177/09636897261474318",
       "date": "2026-08-02",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42542988/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543762/"
     },
     {
-      "pmid": "42542243",
-      "title": "Mouse models of aortic aneurysm and dissection: pathophysiological insights and translational perspectives.",
-      "abstract": "Aortic aneurysm (AA) and aortic dissection (AD) are catastrophic aortic disorders characterized by progressive structural weakening or acute medial tearing, often resulting in rupture and high mortality. Their complex and heterogeneous pathogenesis-spanning extracellular matrix degradation, vascular smooth muscle cell dysfunction, inflammation, and dysregulated signaling-necessitates robust experimental systems. Diverse animal and engineered models have been developed to capture key features of these diseases, yet each recapitulates only specific aspects of human pathology. This review aims to: (1) systematically summarize current experimental models of AA and AD, including chemical, genetic, and combined systems; (2) provide a decision tree for selecting mouse models of AA and AD for vascular research; (3) evaluate model-specific strengths, limitations, and translational relevance, while highlighting emerging technologies such as vascular organoids and engineered 3D platforms that may bridge gaps between preclinical research and human disease. This review presents an integrated framework linking aortic pathology to model-specific mechanisms, illustrating how extracellular matrix (ECM) failure, smooth muscle cell remodeling, inflammation, and biomechanical stress drive AA and AD. We further emphasize the translational hierarchy across mouse, large-animal, and organoid models, providing guidance for rational model selection in therapeutic discovery. By systematically summarizing classical and emerging mouse models of AA and AD, this review provides a structured framework to guide model selection and future mechanistic studies in the field.",
-      "journal": "Journal of advanced research",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Endocrinology, Centre for Leading Medicine and Advanced Technologies of IHM, The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei 230001, China.",
-        "Life Science Center for Survival Dynamics, Tsukuba Advanced Research Alliance (TARA), University of Tsukuba 1-1-1 Tennodai, Tsukuba, Ibaraki 305-8577, Japan.",
-        "University of California, Los Angeles, CA, USA.",
-        "Department of Endocrinology, Centre for Leading Medicine and Advanced Technologies of IHM, The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei 230001, China; Anhui Provincial Key Laboratory of Metabolic Health and Panvascular Diseases, Hefei 23001, China; Institute of Endocrine and Metabolic Diseases, University of Science and Technology of China, Hefei 230001, China. Electronic address: sxu1984@ustc.edu.cn."
-      ],
-      "doi": "10.1016/j.jare.2026.07.057",
-      "date": "2026-08-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42542243/"
-    },
-    {
-      "pmid": "42542043",
-      "title": "Integrated transcriptomic and functional analyses identify PRR7 as a therapeutic target that associated with Wnt/β-catenin signaling and docetaxel resistance in prostate cancer.",
-      "abstract": "Docetaxel resistance represents a major therapeutic challenge in advanced prostate cancer. Despite extensive studies on drug efflux, apoptosis, and metabolic adaptation, the specific cellular states and molecular determinants that sustain resistance remain poorly understood. To delineate the cellular basis of chemoresistance, we integrated bulk RNA sequencing of docetaxel-resistant prostate cancer models with single-cell transcriptomic data from patient tumors. Resistance-associated gene signatures were projected onto a single-cell atlas to identify docetaxel-resistant associated cancer cells (DRACs). Candidate regulators were screened through cross-dataset analysis and validated using molecular, cellular, and organoid-based assays, with functional and signaling consequences evaluated across in vitro and in vivo systems. Single-cell mapping revealed a distinct epithelial cluster characterized by enrichment of resistance-related transcriptional programs and extensive communication with stromal cells. Integrative analyses identified PRR7 as a consistently upregulated gene within DRACs and resistant cell lines. PRR7 amplification and co-alteration with PI3K-AKT and Wnt pathway components were observed in clinical datasets. Functional inhibition of PRR7 suppressed β-catenin signaling, reduced cell viability, and downregulated stemness markers in docetaxel-resistant cells and patient-derived organoids. These results support a functional association between PRR7 and Wnt/β-catenin-related maintenance of resistance. The study defines DRACs as a transcriptionally distinct subpopulation sustaining docetaxel tolerance and identifies PRR7 as a regulatory hub connecting genomic alterations, Wnt/β-catenin activation, and stem-like phenotypes. These findings provide a framework for understanding chemoresistance in prostate cancer and suggest PRR7-centered signaling as a potential target for therapeutic intervention.",
-      "journal": "Biochemical and biophysical research communications",
+      "pmid": "42543528",
+      "title": "Encapsulation and Controlled Release of Human Spinal Cord Organoid-Derived Extracellular Vesicles for Tissue Patterning in Viscoelastic Hyaluronic Acid Hydrogels.",
+      "abstract": "Human induced pluripotent stem cells (hiPSCs) can differentiate into various types of central nervous system organoids which are valuable for applications in tissue engineering and injury repair. The secreted extracellular vesicles (EVs) of organoids, in particular the small-sized EV subset referred as exosomes (30-200 nm), have emerged as novel therapeutics in regenerative medicine. This study investigated the encapsulation and controlled release of human spinal cord organoid (hSCO)-derived EVs in viscoelastic hyaluronic acid (HA) hydrogels and assessed their impact on organoid patterning. A series of pH-responsive hydrogels were fabricated, leading to sustained EV release regulated by viscoelastic properties. The pH of these hydrogels decreased from 9 to 7 during incubation, which altered hydrogel viscoelasticity, thereby modulating EV release kinetics. In addition, EV-loaded hydrogels regulated key hSCO patterning markers such as DBX1 and ISL1. Furthermore, these EVs in hydrogels can cross a modeled blood-spinal cord barrier and provide cross-barrier capability for delivery. Taken together, the organoid-secreted EVs in viscoelastic HA hydrogels can be released at a controlled rate and have potential to regulate spinal cord organoid patterning. This study advances our knowledge of regulating intercellular communication and developing EV-based therapies for treating neurological disorders such as spinal cord injury.",
+      "journal": "Advanced healthcare materials",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Urology, The Fourth Affiliated Hospital of Anhui Medical University, 64 Chaohu North Road, Hefei, Anhui Province, China; Department of Urology, The Second Affiliated Hospital of Anhui Medical University, 678 Furong Road, Hefei, Anhui Province, China. Electronic address: sunwei@stu.ahmu.edu.cn.",
-        "Department of Urology, The Fourth Affiliated Hospital of Anhui Medical University, 64 Chaohu North Road, Hefei, Anhui Province, China. Electronic address: siyuheng7564@163.com.",
-        "Department of Urology, The Second Affiliated Hospital of Anhui Medical University, 678 Furong Road, Hefei, Anhui Province, China. Electronic address: honglu406064350@163.com.",
-        "Department of Urology, The Fourth Affiliated Hospital of Anhui Medical University, 64 Chaohu North Road, Hefei, Anhui Province, China. Electronic address: gqx19970608@163.com.",
-        "Department of Urology, The Fourth Affiliated Hospital of Anhui Medical University, 64 Chaohu North Road, Hefei, Anhui Province, China. Electronic address: lzh000510@163.com.",
-        "Department of Urology, The Fourth Affiliated Hospital of Anhui Medical University, 64 Chaohu North Road, Hefei, Anhui Province, China; Department of Urology, The Fifth Affiliated Hospital of Anhui Medical University, 64 Chaohu North Road, Hefei, Fuyang, Anhui Province, China. Electronic address: dongantao@outlook.com.",
-        "Department of Urology, The Fourth Affiliated Hospital of Anhui Medical University, 64 Chaohu North Road, Hefei, Anhui Province, China. Electronic address: ethantang2025@163.com.",
-        "Department of Urology, The Fourth Affiliated Hospital of Anhui Medical University, 64 Chaohu North Road, Hefei, Anhui Province, China; Department of Urology, The Second Affiliated Hospital of Anhui Medical University, 678 Furong Road, Hefei, Anhui Province, China. Electronic address: lienlai@stu.ahmu.edu.cn.",
-        "Department of Urology, The Fourth Affiliated Hospital of Anhui Medical University, 64 Chaohu North Road, Hefei, Anhui Province, China. Electronic address: hw380000@sina.com.",
-        "Department of Urology, The Fourth Affiliated Hospital of Anhui Medical University, 64 Chaohu North Road, Hefei, Anhui Province, China. Electronic address: fengshiyao_cn@163.com.",
-        "Department of Urology, The Fourth Affiliated Hospital of Anhui Medical University, 64 Chaohu North Road, Hefei, Anhui Province, China. Electronic address: xiedongdong@ahmu.edu.cn."
+        "Department of Chemical and Biomedical Engineering, FAMU-FSU College of Engineering, Florida State University, Tallahassee, Florida, USA.",
+        "Department of Industrial and Manufacture Engineering, FAMU-FSU College of Engineering, Florida State University, Tallahassee, Florida, USA.",
+        "High Performance Materials Institute, Florida State University, Tallahassee, Florida, USA.",
+        "Department of pharmacology and Chemical Biology, School of Medicine, Emory University, Atlanta, USA."
       ],
-      "doi": "10.1016/j.bbrc.2026.154364",
-      "date": "2026-07-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42542043/"
+      "doi": "10.1002/adhm.71472",
+      "date": "2026-08-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543528/"
     },
     {
-      "pmid": "42541905",
-      "title": "Microfluidic chips in obesity research: A review on natural products and invertebrate models for obesity management.",
-      "abstract": "The annual economic burden of obesity has reached 190 billion dollars in the US and around 62 billion Egyptian pounds in Egypt. It is linked to many harmful diseases, including diabetes mellitus, cardiovascular, liver, reproductive, bone diseases, and many others. Modeling of obesity and obesity-associated comorbidities represents a fruitful area of research. Animal models of obesity have many limitations regarding reliability, translatability, and extrapolation to human obesity. Microfluidic \"organ on a chip\" has emerged in recent decades as a potent in vitro tool for studying human diseases, offering advantages over traditional in vitro models, thereby facilitating the development of a human on a chip model. This review will briefly discuss obesity-associated metabolic disturbances and the recent publications that tried to use microfluidic devices to answer obesity-related questions. This review covers the role of in vitro modeling using microfluidic devices in obesity research. The different species of invertebrates utilized in obesity research have also been investigated, including nematodes, with a highlight on Caenorhabditis elegans. Research on anti-obesity drugs, which could potentially aid in managing obesity, has been increasing daily. Natural anti-obesity phytoconstituents have shown considerable therapeutic potential in obesity, with many plant extracts and single components with promising effects. In conclusion, integrating microfluidics, invertebrate models, and phytochemical screening is promising for obesity research, yet it requires further standardisation and clinical validation to enable personalised therapies.",
-      "journal": "Tissue & cell",
+      "pmid": "42543399",
+      "title": "KiGEP: a quantitative algorithm for calculating human kidney similarity and nephrotoxicity in human kidney organoids.",
+      "abstract": "Kidney organoids (KOs) are being actively developed and used as models for evaluating nephrotoxicity, which is an important process during drug development. To evaluate human pluripotent stem cell-derived KOs, various lineage markers have been used to confirm KO differentiation via quantitative real-time-PCR and western blotting. However, as these are qualitative evaluations, there are currently limitations in evaluating how similar differentiated KOs are to actual human kidneys. Thus, in this study, we utilized RNA-sequencing (21 organs; n = 7361) derived from the GTEx database to create a transcriptome-based kidney-specific gene expression panel (KiGEP) and developed a quantitative calculation algorithm (the KiGEP algorithm) to assess the similarity between human pluripotent stem cell-derived KOs and human kidneys. Thus, the KiGEP algorithm allows quantitative quality assessments of KOs, providing important information for the development of high-quality KOs for drug development and regenerative medicine applications.",
+      "journal": "Experimental & molecular medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Korea Research Institute of Bioscience and Biotechnology, Daejeon, Republic of Korea.",
+        "Korea University of Science and Technology, Daejeon, Republic of Korea.",
+        "Korea Institute of Toxicology (KIT), Daejeon, Republic of Korea.",
+        "Korea Research Institute of Bioscience and Biotechnology, Daejeon, Republic of Korea. myson@kribb.re.kr.",
+        "Korea University of Science and Technology, Daejeon, Republic of Korea. myson@kribb.re.kr.",
+        "Graduate School of Basic Medical Science, Sungkyunkwan University, Suwon, Republic of Korea. myson@kribb.re.kr.",
+        "Korea Research Institute of Bioscience and Biotechnology, Daejeon, Republic of Korea. crjung@kribb.re.kr.",
+        "Korea University of Science and Technology, Daejeon, Republic of Korea. crjung@kribb.re.kr.",
+        "Korea Research Institute of Bioscience and Biotechnology, Daejeon, Republic of Korea. kds2465@kribb.re.kr.",
+        "Korea University of Science and Technology, Daejeon, Republic of Korea. kds2465@kribb.re.kr.",
+        "Korea Research Institute of Bioscience and Biotechnology, Daejeon, Republic of Korea. chohs@kribb.re.kr.",
+        "Korea University of Science and Technology, Daejeon, Republic of Korea. chohs@kribb.re.kr.",
+        "Graduate School of Basic Medical Science, Sungkyunkwan University, Suwon, Republic of Korea. chohs@kribb.re.kr.",
+        "Institute for Bio Technology Convergence, Kyungpook National University, Daegu, Republic of Korea. chohs@kribb.re.kr."
+      ],
+      "doi": "10.1038/s12276-026-01785-1",
+      "date": "2026-08-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543399/"
+    },
+    {
+      "pmid": "42543381",
+      "title": "Cancer drug response and resistance: molecular mechanisms and combating strategies.",
+      "abstract": "Despite remarkable advances in cancer drug treatment, including chemotherapy, targeted therapy, and immunotherapy, therapeutic resistance remains a formidable clinical barrier, limiting durable responses and long-term survival. Drug resistance can be broadly categorized as intrinsic, where tumors fail to respond to initial treatment, or acquired, which emerges during or after therapy due to adaptive or evolutionary processes. A comprehensive understanding of the multifactorial and dynamic nature of resistance is essential for improving treatment efficacy. In this review, we systematically examine the molecular and cellular determinants of drug response and resistance across 22 cancer types, highlighting key resistance mechanisms such as compensatory pathway activation, phenotypic plasticity, immune evasion, enhanced DNA damage repair, and the survival of drug-tolerant persister cells. These mechanisms are further contextualized across major therapeutic modalities, supported by clinical trials. We also present emerging strategies to overcome resistance, including rational drug combinations, novel agents, microbiome modulation, adaptive and intermittent therapies and advanced drug delivery systems, each illustrated with representative clinical studies. Moreover, we discuss cutting-edge tools that are revolutionizing resistance research, including single-cell and spatial multiomic profiling, patient-derived tumor organoid and xenograft (PDO/PDX) models, and artificial intelligence (AI)-powered predictive analytics. By integrating insights across molecular, cellular, and clinical dimensions, this review offers a strategic framework for understanding and tackling cancer drug resistance, with important translational implications for the future of precision oncology.",
+      "journal": "Signal transduction and targeted therapy",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Department of Pharmacognosy, Faculty of Pharmacy, Ain-Shams University, Cairo 11566, Egypt.",
-        "Department of Agricultural Zoology and Nematology, Faculty of Agriculture, Al-Azhar University, Assiut Branch, Assiut 71524, Egypt. Electronic address: heshamahmed.2149@azhar.edu.eg.",
-        "Oral Biology Department, Faculty of Dentistry, Galala University (15888), Galala Plateau, Attaka, Suez Governorate, Egypt.",
-        "Faculty of Pharmacy, Ain Shams University, Cairo 11566, Egypt.",
-        "Department of Animal Medicine (Infectious Diseases), College of Veterinary Medicine, Benha University, Toukh 13736, Egypt.",
-        "Department of Entomology, Faculty of Science, Benha University, Benha 13518, Egypt; Department of Biology, Faculty of Education and Arts, Sohar University, Sohar 311, Oman.",
-        "Department of Zoology and Entomology, Faculty of Science, Al-Azhar University, Nasr City, Cairo 11884, Egypt.",
-        "Botany Department, Faculty of Science, Tanta University, Tanta 31527, Egypt.",
-        "Department of Pesticide Chemistry and Technology, Faculty of Agriculture, Alexandria University, Aflaton St., El-Shatby, Alexandria 21545, Egypt.",
-        "Department of Pediatric nursing, College of Nursing, Zagazig University, Zagazig, Egypt; Department of Pediatric nursing, College of Nursing, ABHA, King Khalid University, Abha, Saudi Arabia."
+        "Department of Obstetrics and Gynecology, National Clinical Research Center for Obstetrics and Gynecology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+        "Key Laboratory of Cancer Invasion and Metastasis (Ministry of Education), Hubei Key Laboratory of Tumor Invasion and Metastasis, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+        "Department of Gynecological Oncology, Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University, Guangzhou, China.",
+        "Department of Obstetrics and Gynecology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+        "Department of Obstetrics and Gynecology, National Clinical Research Center for Obstetrics and Gynecology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China. wjcwjc999@126.com.",
+        "Key Laboratory of Cancer Invasion and Metastasis (Ministry of Education), Hubei Key Laboratory of Tumor Invasion and Metastasis, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China. wjcwjc999@126.com.",
+        "Shanxi Bethune Hospital, Shanxi Academy of Medical Sciences, Third Hospital of Shanxi Medical University, Tongji Shanxi Hospital, Taiyuan, China. wjcwjc999@126.com.",
+        "Department of Obstetrics and Gynecology, National Clinical Research Center for Obstetrics and Gynecology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China. canhuicao@foxmail.com.",
+        "Key Laboratory of Cancer Invasion and Metastasis (Ministry of Education), Hubei Key Laboratory of Tumor Invasion and Metastasis, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China. canhuicao@foxmail.com."
       ],
-      "doi": "10.1016/j.tice.2026.103832",
-      "date": "2026-07-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42541905/"
-    },
-    {
-      "pmid": "42541860",
-      "title": "Recent Bioengineering Strategies and Clinical Applications in Dentistry of Oral and Maxillofacial Organoids.",
-      "abstract": "The complex, interconnected nature of dental, oral, and craniofacial tissues poses significant challenges for conventional in vitro models. Oral and maxillofacial organoids have emerged as advanced three-dimensional technologies capable of reproducing selected microstructures and biological functions of native tissues. This review aimed to summarize recent advances in these technologies and evaluate their potential clinical applications in dentistry. A narrative literature review was conducted using PubMed, Web of Science, Scopus, and Google Scholar, with particular focus on studies published between 2020 and 2026. The search terms included 'organoids', 'oral and maxillofacial diseases', 'tissue engineering', 'regeneration', and 'precision medicine'. Relevant studies addressing organoid development, bioengineering strategies, and clinical applications in dentistry were analysed. Recent advances have enabled the development of various oral and maxillofacial organoids, including tooth-germ, salivary gland, taste bud, oral cancer, lingual epithelial, and maxillofacial cartilage organoids. Advances in patient-derived organoids through construction strategies, such as spontaneous self-assembly of stem cells, biomaterial-assisted fabrication, and precision engineering, enhance their physiological properties and support personalized medicine. Despite these advances, several challenges remain that restrict clinical translation, including limited vascularization, lack of immune system integration, structural variability, scalability, and standardization issues. Oral and maxillofacial organoids represent promising experimental platforms for regenerative dentistry, disease modelling, drug screening, and tissue regeneration. Combining organoids with microfluidic technologies to create organ-on-a-chip devices and linking multiple chips represents important advances towards the reliable, large-scale generation of physiologically relevant oral and maxillofacial organoids for both research and clinical applications. Oral organoid systems may provide clinical platforms for personalized therapy, regenerative applications, and translational research while reducing reliance on conventional animal models. Among current models, oral cancer and salivary gland organoids demonstrate promising translational potential, given their functional validation and scalability.",
-      "journal": "International dental journal",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "School of Dentistry, Mashhad University of Medical Sciences, Mashhad, Iran.",
-        "Department of Pediatric Dentistry, School of Dentistry, Shahid Beheshti University of Medical Sciences, Tehran, Iran.",
-        "Dental Research Center, Mashhad University of Medical Sciences, Mashhad, Iran.",
-        "Immunology Research Center, Inflammation and Inflammatory Diseases Division, Mashhad University of Medical Sciences, Mashhad, Iran.",
-        "Dental Research Center, Mashhad University of Medical Sciences, Mashhad, Iran. Electronic address: AhrariF@mums.ac.ir."
-      ],
-      "doi": "10.1016/j.identj.2026.109777",
-      "date": "2026-08-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42541860/"
+      "doi": "10.1038/s41392-026-02924-w",
+      "date": "2026-08-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543381/"
     },
     {
       "pmid": "42509463",
@@ -382,6 +377,74 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526208/"
     },
     {
+      "pmid": "42544420",
+      "title": "Present status of prostate cancer diagnosis, limitations, challenges, and future endeavors.",
+      "abstract": "Methods: In addition to traditional testing methods, the use of PSMA-directed imaging to guide biopsy procedures using Multiparametric Magnetic Resonance Imaging (mpMRI) allows for better localization and characterization of lesions. Researchers have begun to develop and continue to innovate Molecular & Imaging processes, called Liquid Biopsies, that are now being used to assess health risk factors associated with PC, by sampling macro-molecules from various biological liquids. Recently, the use of Artificial Intelligence (AI) and Machine Learning Models for improving the speed and accuracy of lesion detection and gland segmentation has significantly increased both precision and consistency in these areas. Results: However, there is still great concern regarding overdiagnosis and lack of standardization associated with all types of molecular and imaging techniques currently available. Conclusion: This review provides a comprehensive overview of the currently available diagnostic modalities for prostate cancer, including their weaknesses as well as gaps in clinical translation and standardization, which can assist with providing guidance for future development of diagnostic innovations..",
+      "journal": "Annals of medicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Centre for Nanoscience and Nanotechnology, Panjab University, Chandigarh, India.",
+        "Department of Biotechnology Engineering, UIET, Panjab University, Chandigarh, India.",
+        "Department of Urology, Postgraduate Institute of Medical Education and Research, Chandigarh, India.",
+        "Department of Computer Science and Engineering, UIET, Panjab University, Chandigarh, India."
+      ],
+      "doi": "10.1080/07853890.2026.2659984",
+      "date": "2026-08-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42544420/"
+    },
+    {
+      "pmid": "42544030",
+      "title": "Epstein-Barr Virus-Associated HMGB1-Extracellular Vesicles Facilitate Macrophage PD-L1 Expression and Tumor Metastasis.",
+      "abstract": "Nasopharyngeal carcinoma (NPC) is a malignancy closely linked to Epstein-Barr virus (EBV) infection, and its progression is intricately associated with remodeling of the tumor microenvironment (TME). However, the role of EBV-associated extracellular vesicles (EVs), particularly those containing high mobility group box 1 (HMGB1), in NPC development remains poorly understood. This study utilized multiomics approaches to investigate the role of HMGB1-containing EVs (HMGB1-EVs) derived from EBV-associated NPC cells. Serum EVs from NPC patients were analyzed for HMGB1 content, and their diagnostic performance was evaluated. Mechanistic studies were performed to elucidate the regulation of HMGB1-EV biogenesis and their functional effects on immune cells within the TME. HMGB1-EVs exhibited high sensitivity and specificity for NPC diagnosis (AUC = 0.83), with significantly elevated HMGB1 levels detected in serum EVs from NPC patients. These levels were strongly associated with tumor stage, EBV-DNA load, and metastasis risk (AUC = 0.9), suggesting their potential as liquid biopsy biomarkers. Mechanistically, EBV infection induced Rab26 expression, facilitating the release of EV-associated HMGB1. In the TME, HMGB1-EVs were associated with an immunosuppressive macrophage phenotype by upregulating PD-L1 expression on macrophages via PLGRKT. This study reveals the molecular mechanism by which EBV-associated HMGB1-EVs may contribute to NPC progression and potential immune evasion. HMGB1-EVs hold promise as both diagnostic biomarkers and therapeutic targets, offering novel insights into the precision management of NPC.",
+      "journal": "Head & neck",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine, Sun Yat-Sen University Cancer Center, Guangzhou, China."
+      ],
+      "doi": "10.1002/hed.70419",
+      "date": "2026-08-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42544030/"
+    },
+    {
+      "pmid": "42543673",
+      "title": "Comparison of current global guidelines and consensus on the management of patients with cholangiocarcinoma: A 2026 update.",
+      "abstract": "Cholangiocarcinoma (CCA) is a highly aggressive, molecularly heterogeneous biliary tract malignancy and the second most common primary liver cancer, and it has an increasing global incidence and persistently poor prognosis. Recent updates of international guidelines, including those from the NCCN, ESMO, EASL, CSCO, BSG, and Japanese societies, along with rapid advances in precision oncology, have substantially changed the clinical management of CCA. This review systematically compares current global guidelines, highlighting both areas of consensus and regional differences in epidemiology, risk factors, screening strategies, diagnostic approaches, pathological and molecular classification, staging systems, surgical indications, systemic therapy, and multidisciplinary management. This review also summarizes recent advances in molecular diagnostics, including next-generation sequencing, liquid biopsy, circulating tumor DNA, extracellular vesicles, artificial intelligence-assisted imaging, radiomics, and emerging prognostic biomarkers. The evolving roles of immune checkpoint inhibitors, molecularly targeted therapies against FGFR2, IDH1, HER2, BRAF, NTRK, and MSI-H/dMMR, liver transplantation, locoregional treatment, and conversion (translational) therapy are also discussed. Finally, this review addresses current challenges, including drug resistance, limited access to molecular testing, regional disparities in healthcare resources, and the lack of universally accepted screening strategies. By integrating updated guideline recommendations with the latest clinical evidence, this review provides a comprehensive reference for evidence-based clinical decision-making and future translational research in CCA.",
+      "journal": "Bioscience trends",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Bile Duct Surgery, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+        "Research Center for Biliary Diseases, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
+      ],
+      "doi": "10.5582/bst.2026.01104",
+      "date": "2026-07-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543673/"
+    },
+    {
+      "pmid": "42543635",
+      "title": "[Long-term remission with venetoclax plus azacitidine in acute myeloid leukemia with negative conversion of FLT3 companion diagnostic testing at relapse].",
+      "abstract": "An 80-year-old man was diagnosed with acute myeloid leukemia (AML), and molecular analysis identified FLT3-ITD, TKD mutations. Induction chemotherapy with daunorubicin plus cytarabine achieved hematological complete remission; however, extramedullary infiltration was detected in the skin and central nervous system. Due to this extramedullary disease, treatment with mitoxantrone plus high-dose cytarabine was administered, leading to systemic complete remission. Two cycles of the same regimen were then added. The patient relapsed 5 months later, at which time FLT3 mutations were no longer detectable by a companion diagnostic test. However, targeted sequencing analysis identified a novel FLT3-ITD positive minor clone. Treatment with venetoclax plus azacitidine was then started. The patient achieved complete remission and has remained relapse-free for more than 2 years. In this case, the FLT3 mutation companion diagnostic test result became spontaneously negative without FLT3-directed treatment, and the response to venetoclax plus azacitidine was favorable. This case highlights the importance of molecular testing not only at diagnosis but also at relapse for appropriate treatment selection.",
+      "journal": "[Rinsho ketsueki] The Japanese journal of clinical hematology",
+      "publicationTypes": [
+        "Journal Article",
+        "Case Reports",
+        "English Abstract"
+      ],
+      "affiliations": [
+        "Department of Hematology and Oncology, Dokkyo Medical University.",
+        "Department of Pathology and Tumor Biology, Graduate School of Medicine, Kyoto University."
+      ],
+      "doi": "10.11406/rinketsu.67.691",
+      "date": "2026-01-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543635/"
+    },
+    {
       "pmid": "42542428",
       "title": "Personalized circulating tumor DNA-based minimal residual disease assessment for optimizing interval debulking surgery timing in advanced ovarian cancer: toward precision surgical oncology.",
       "abstract": "",
@@ -415,93 +478,50 @@
       "doi": "10.3389/fphar.2026.1782130",
       "date": "2026-07-17",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42539807/"
-    },
-    {
-      "pmid": "42539411",
-      "title": "Molecular characteristics and advances in precision therapeutics for HR-positive and HER2-low breast cancer.",
-      "abstract": "HR-positive HER2-low-expressing breast cancer is a unique subtype that has been refined from the traditional HER2 binary classification system in recent years, accounting for nearly 60% of the overall incidence of breast cancer. It has significant value for precise diagnosis and treatment research. This review systematically elaborates on the epidemiological characteristics, biological basis, diagnostic technology progress, and treatment strategy evolution of this subtype. HR-positive HER2-low-expressing breast cancer is characterized by the dominance of the estrogen receptor pathway and the core molecular feature of the intersection of HER2 low-expression signals. Its diagnosis requires a balance between the fundamental role of endocrine therapy and the precise screening of anti-HER2 targeted therapy. In terms of diagnosis, the initial screening by immunohistochemistry combined with fluorescence in situ hybridization has formed a standardized process. The integration of digital pathology, next-generation sequencing, and circulating tumor DNA in liquid biopsy technologies has effectively improved diagnostic accuracy and dynamic monitoring capabilities. In terms of treatment, endocrine therapy is the cornerstone, and the CDK4/6 inhibitor combination regimen is the standard for advanced first-line treatment. Antibody-drug conjugates, especially deruxtecan, have significantly improved patient prognosis and reshaped the treatment landscape. In summary, HR-positive HER2-low-expressing breast cancer has entered the era of individualized precise treatment guided by molecular typing. In the future, further exploration of new biomarkers, optimization of combination therapy strategies, and high-quality clinical research are needed to continuously improve patient survival outcomes.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Breast Center, West China Second University Hospital, Sichuan University, Chengdu, China.",
-        "Key Laboratory of Birth Defects and Related Diseases of Women and Children, Sichuan University, Ministry of Education, Chengdu, China."
-      ],
-      "doi": "10.3389/fonc.2026.1857207",
-      "date": "2026-07-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42539411/"
-    },
-    {
-      "pmid": "42538617",
-      "title": "Future Trends in Cancer Prevention and Interception in Cancer Predisposition Syndromes: Leveraging Insights From High-Risk Populations.",
-      "abstract": "Cancer predisposition syndromes (CPS), arising from germline pathogenic variants in cancer predisposition genes (CPGs), are increasingly recognized as major contributors to pediatric and adult malignancies. Recent genomic advances have significantly enhanced the diagnosis, surveillance, and management of CPS, providing a unique framework for cancer prevention and interception of pre-malignant lesions. Increased utilization of comprehensive germline and tumor-normal sequencing has improved diagnostic precision, allowing early identification of at-risk individuals, including those with and without a family history of cancer. Integration of genome and long-read sequencing technologies further increases diagnostic yield by detecting structural and noncoding variants. Early diagnosis strategies, such as newborn screening, have demonstrated clinical utility and cost-effectiveness in population studies, such as the TP53 R337H variant newborn screening in Brazil. Evidence-based surveillance protocols, supported by outcome data, have led to earlier tumor detection and improved survival. Novel 'liquid biopsy' approaches offer minimally invasive tools for surveillance, with the potential to detect malignancies prior to radiologic findings. Beyond early detection, emerging strategies aim to intercept tumor development. Medical prevention strategies such as metformin in Li-Fraumeni syndrome and aspirin in Lynch syndrome show promise in modifying cancer risk. Immunoprevention, particularly neoantigen-targeted vaccines in mismatch repair-deficient tumors, is an evolving frontier with preliminary evidence of immunogenicity and safety. Together, these advances represent a paradigm shift in CPS management, offering a model for precision cancer prevention. Continued international collaboration, longitudinal studies, and health economic evaluations will be critical to translating these innovations into clinical and public health practice.",
-      "journal": "International journal of cancer",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Division of Clinical and Metabolic Genetics, The Hospital for Sick Children, Toronto, Ontario, Canada.",
-        "Genetics and Genome Biology Program, The Hospital for Sick Children, Toronto, Ontario, Canada.",
-        "Department of Pediatrics, Temerty Faculty of Medicine, University of Toronto, Toronto, Ontario, Canada.",
-        "Institute of Medical Science, Temerty Faculty of Medicine, University of Toronto, Toronto, Ontario, Canada.",
-        "Department of Medical Biophysics, Temerty Faculty of Medicine, University of Toronto, Toronto, Ontario, Canada.",
-        "Joan and Sanford I. Weill Department of Medicine, Weill Cornell Medical College, New York, New York, USA."
-      ],
-      "doi": "10.1002/ijc.70674",
-      "date": "2026-07-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42538617/"
-    },
-    {
-      "pmid": "42538597",
-      "title": "Circulating Mitochondrial DNA Measures Across Malignancies: Diagnostic Accuracy and Prognostic Associations.",
-      "abstract": "Circulating mitochondrial DNA is being investigated as a liquid-biopsy biomarker because of its high copy number and release during cellular stress. However, diagnostic estimates vary across tumor types and assays, and prognostic studies have measured both cell-free mtDNA and cellular blood-derived mtDNA, which are not analytically equivalent. Non-malignant tissue injury and inflammation may also increase circulating mtDNA, limiting disease specificity. Following PRISMA 2020 guidance, seven databases were searched through December 2025. Diagnostic analyses synthesized predominantly cell-free mtDNA assays, whereas prognostic analyses synthesized the circulating or blood-derived mtDNA measures reported by the original studies. Random-effects models were used to pool diagnostic indices and hazard ratios across 31 unique studies comprising 8334 patients with cancer and 1286 controls. The protocol was registered in PROSPERO (CRD420261301732). Predominantly cell-free mtDNA assays showed a pooled sensitivity of 0.73, specificity of 0.80, diagnostic odds ratio of 15.41, and area under the summary receiver operating characteristic curve of 0.845, with substantial between-study heterogeneity. The mtDNA-79 subgroup showed a sensitivity of 0.79, specificity of 0.93, and area under the curve of 0.909. Higher circulating or blood-derived mtDNA measures were associated with poorer overall survival (HR = 1.70, 95% CI: 1.42-2.03) and relapse-free survival (HR = 2.04, 95% CI: 1.71-2.44), but not with progression-free survival or mortality. MT-CYB-based measures showed a stronger adverse prognostic association than MT-ND1-based measures. Circulating mtDNA measures show diagnostic and prognostic associations across malignancies, but current evidence does not support stand-alone clinical use. Heterogeneity in specimen matrix, pre-analytical handling, assay definition, and disease-control selection requires standardized multicenter validation. mtDNA-79 and MT-CYB warrant further study, while total mtDNA abundance should be interpreted as a cancer-associated rather than cancer-specific signal unless combined with tumor-informed genomic or fragmentomic features.",
-      "journal": "Cancer medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Radiation Oncology, the Affiliated Cancer Hospital of Xiangya School of Medicine, Central South University/Hunan Cancer Hospital, Changsha, Hunan, China.",
-        "School of Basic Medicine, Hubei University of Chinese Medicine, Wuhan, Hubei, China.",
-        "Department of Radiology, State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-Sen University Cancer Center, Guangzhou, China.",
-        "Department of Diagnostic Radiology, the Affiliated Cancer Hospital of Xiangya School of Medicine, Central South University/Hunan Cancer Hospital, Changsha, Hunan, China."
-      ],
-      "doi": "10.1002/cam4.72134",
-      "date": "2026-08-00",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42538597/"
-    },
-    {
-      "pmid": "42536272",
-      "title": "Multimodal Management of Pain in Oral Squamous Cell Carcinoma: A Mechanism-Based Approach.",
-      "abstract": "Oral squamous cell carcinoma (OSCC) is frequently associated with severe nociceptive and neuropathic pain that adversely affects patient quality of life, functional capacity, psychological well-being, and prognosis. Pain in OSCC is increasingly recognized not only as a clinical symptom but also as a dynamic indicator of tumor progression and neuroinflammatory activity. This review summarizes the epidemiological, molecular, neurobiological, and clinical mechanisms underlying OSCC-associated pain and discusses current and emerging approaches for mechanism-based multimodal pain management. Recent evidence demonstrates that tumor-nerve interactions, perineural invasion, inflammatory cytokines, and peripheral and central sensitization play central roles in the pathogenesis of OSCC pain. Molecular alterations involving TP53 mutations, EGFR overexpression, and PI3K/AKT/mTOR pathway activation contribute to inflammatory signaling, neural remodeling, and nociceptive sensitization within the tumor microenvironment. Advances in salivary biomarkers, liquid biopsy approaches, artificial intelligence-assisted pain assessment, and organoid-based translational models are improving the understanding of cancer pain biology and supporting the development of precision analgesia and individualized therapeutic strategies. OSCC-associated pain is a complex and multidimensional phenomenon closely linked to tumor aggressiveness, neuroinflammation, and disease progression. Effective pain management requires mechanism-based multimodal approaches integrating pharmacological, rehabilitative, interventional, and tumor-directed therapies. Emerging precision medicine strategies, combined with equitable access to supportive care, have the potential to improve pain control, treatment outcomes, patient dignity, and overall quality of life in individuals with OSCC.",
-      "journal": "Current pain and headache reports",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Life Sciences, School of Biosciences and Technology, Galgotias University, Greater Noida, India.",
-        "Department of Biotechnology and Bioengineering, School of Biosciences and Technology, Galgotias University, Greater Noida, India. abhimanyujha630@gmail.com."
-      ],
-      "doi": "10.1007/s11916-026-01539-8",
-      "date": "2026-07-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536272/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42542988",
-      "date": "2026-08-02",
-      "title": "ATP6AP2 ameliorates inflammation and pyroptosis in heart failure by promoting lysosome-dependent STING degradation.",
+      "id": "pubmed-42543399",
+      "date": "2026-08-03",
+      "title": "KiGEP: a quantitative algorithm for calculating human kidney similarity and nephrotoxicity in human kidney organoids.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42542988/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543399/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Experimental & molecular medicine，PMID 为 42543399。",
+      "report": "Kidney organoids (KOs) are being actively developed and used as models for evaluating nephrotoxicity, which is an important process during drug development. To evaluate human pluripotent stem cell-derived KOs, various lineage markers have been used to confirm...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42543381",
+      "date": "2026-08-03",
+      "title": "Cancer drug response and resistance: molecular mechanisms and combating strategies.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543381/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -509,31 +529,95 @@
         "Organoids",
         "Advanced Disease Models",
         "Clinical Evidence",
-        "Regulatory Watch"
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
         "临床",
-        "监管"
+        "监管",
+        "肿瘤",
+        "药筛",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Apoptosis : an international journal on programmed cell death，PMID 为 42542988。",
-      "report": "Inflammatory activation is involved in the pathogenesis of heart failure (HF). ATPase H+-Transporting Accessory Protein 2 (ATP6AP2) is an auxiliary subunit of the V-ATPase, and its role in HF is not fully understood. To assess the role and regulatory mechanism...",
+      "fact": "PubMed 记录显示该文献收录于 Signal transduction and targeted therapy，PMID 为 42543381。",
+      "report": "Despite remarkable advances in cancer drug treatment, including chemotherapy, targeted therapy, and immunotherapy, therapeutic resistance remains a formidable clinical barrier, limiting durable responses and long-term survival. Drug resistance can be broadly c...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42542243",
-      "date": "2026-08-01",
-      "title": "Mouse models of aortic aneurysm and dissection: pathophysiological insights and translational perspectives.",
-      "entity": "Organoid Research",
+      "id": "pubmed-42544420",
+      "date": "2026-08-03",
+      "title": "Present status of prostate cancer diagnosis, limitations, challenges, and future endeavors.",
+      "entity": "Biotech Research",
       "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "subCategory": "General Biotech Research",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42542243/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42544420/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Annals of medicine，PMID 为 42544420。",
+      "report": "Methods: In addition to traditional testing methods, the use of PSMA-directed imaging to guide biopsy procedures using Multiparametric Magnetic Resonance Imaging (mpMRI) allows for better localization and characterization of lesions. Researchers have begun to...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42543762",
+      "date": "2026-08-02",
+      "title": "Generation of bioengineered liver grafts densely recellularized using human liver organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543762/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell transplantation，PMID 为 42543762。",
+      "report": "Bioengineered livers using decellularized extracellular matrix (ECM) scaffolds hold promise for transplantation therapies. However, conventional recellularization methods involving cell injection via blood vessels encounter challenges in recapitulating the com...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42543528",
+      "date": "2026-08-02",
+      "title": "Encapsulation and Controlled Release of Human Spinal Cord Organoid-Derived Extracellular Vesicles for Tissue Patterning in Viscoelastic Hyaluronic Acid Hydrogels.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543528/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -546,45 +630,39 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of advanced research，PMID 为 42542243。",
-      "report": "Aortic aneurysm (AA) and aortic dissection (AD) are catastrophic aortic disorders characterized by progressive structural weakening or acute medial tearing, often resulting in rupture and high mortality. Their complex and heterogeneous pathogenesis-spanning ex...",
+      "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42543528。",
+      "report": "Human induced pluripotent stem cells (hiPSCs) can differentiate into various types of central nervous system organoids which are valuable for applications in tissue engineering and injury repair. The secreted extracellular vesicles (EVs) of organoids, in parti...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42541860",
-      "date": "2026-08-01",
-      "title": "Recent Bioengineering Strategies and Clinical Applications in Dentistry of Oral and Maxillofacial Organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
+      "id": "pubmed-42544030",
+      "date": "2026-08-02",
+      "title": "Epstein-Barr Virus-Associated HMGB1-Extracellular Vesicles Facilitate Macrophage PD-L1 Expression and Tumor Metastasis.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42541860/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42544030/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
         "Diagnostics",
         "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
+        "Precision Oncology"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
         "诊断",
         "精准医疗",
-        "肿瘤",
-        "药筛"
+        "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International dental journal，PMID 为 42541860。",
-      "report": "The complex, interconnected nature of dental, oral, and craniofacial tissues poses significant challenges for conventional in vitro models. Oral and maxillofacial organoids have emerged as advanced three-dimensional technologies capable of reproducing selected...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Head & neck，PMID 为 42544030。",
+      "report": "Nasopharyngeal carcinoma (NPC) is a malignancy closely linked to Epstein-Barr virus (EBV) infection, and its progression is intricately associated with remodeling of the tumor microenvironment (TME). However, the role of EBV-associated extracellular vesicles (...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -616,16 +694,16 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42543025",
+      "id": "pubmed-42543780",
       "date": "2026-08-00",
-      "title": "Embryonic Mediators of Embryo-Uterus Communication, Implantation and Pregnancy.",
+      "title": "Curcumin-Loaded GelMA Microspheres Alleviate Osteoarthritis: Transcriptomic Evidence for Immune Microenvironment Remodeling and ECM Homeostasis Restoration.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543025/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543780/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -640,37 +718,9 @@
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular reproduction and development，PMID 为 42543025。",
-      "report": "Successful reproduction in eutherian mammals requires intimate connections between the embryo and uterus, involving adhesion, attachment and placentation, with or without invasion of the endometrium. The complex dialogue between embryo and uterus involves nume...",
+      "fact": "PubMed 记录显示该文献收录于 Chemical biology & drug design，PMID 为 42543780。",
+      "report": "Osteoarthritis (OA) progression is driven by inflammatory mediators and immune dysregulation within the joint. Curcumin (Cur) possesses multi-target therapeutic potential. However, its clinical application is limited by poor solubility and a short half-life. I...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42538597",
-      "date": "2026-08-00",
-      "title": "Circulating Mitochondrial DNA Measures Across Malignancies: Diagnostic Accuracy and Prognostic Associations.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42538597/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer medicine，PMID 为 42538597。",
-      "report": "Circulating mitochondrial DNA is being investigated as a liquid-biopsy biomarker because of its high copy number and release during cellular stress. However, diagnostic estimates vary across tumor types and assays, and prognostic studies have measured both cel...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -705,101 +755,35 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42538617",
+      "id": "pubmed-42543673",
       "date": "2026-07-31",
-      "title": "Future Trends in Cancer Prevention and Interception in Cancer Predisposition Syndromes: Leveraging Insights From High-Risk Populations.",
+      "title": "Comparison of current global guidelines and consensus on the management of patients with cholangiocarcinoma: A 2026 update.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42538617/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543673/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Diagnostics",
         "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
         "Precision Oncology",
         "Drug Screening"
       ],
       "tags": [
         "诊断",
         "精准医疗",
-        "临床",
-        "监管",
         "肿瘤",
         "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of cancer，PMID 为 42538617。",
-      "report": "Cancer predisposition syndromes (CPS), arising from germline pathogenic variants in cancer predisposition genes (CPGs), are increasingly recognized as major contributors to pediatric and adult malignancies. Recent genomic advances have significantly enhanced t...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42536272",
-      "date": "2026-07-31",
-      "title": "Multimodal Management of Pain in Oral Squamous Cell Carcinoma: A Mechanism-Based Approach.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536272/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Current pain and headache reports，PMID 为 42536272。",
-      "report": "Oral squamous cell carcinoma (OSCC) is frequently associated with severe nociceptive and neuropathic pain that adversely affects patient quality of life, functional capacity, psychological well-being, and prognosis. Pain in OSCC is increasingly recognized not...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42541905",
-      "date": "2026-07-30",
-      "title": "Microfluidic chips in obesity research: A review on natural products and invertebrate models for obesity management.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42541905/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Drug Screening"
-      ],
-      "tags": [
-        "biotech",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Tissue & cell，PMID 为 42541905。",
-      "report": "The annual economic burden of obesity has reached 190 billion dollars in the US and around 62 billion Egyptian pounds in Egypt. It is linked to many harmful diseases, including diabetes mellitus, cardiovascular, liver, reproductive, bone diseases, and many oth...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Bioscience trends，PMID 为 42543673。",
+      "report": "Cholangiocarcinoma (CCA) is a highly aggressive, molecularly heterogeneous biliary tract malignancy and the second most common primary liver cancer, and it has an increasing global incidence and persistently poor prognosis. Recent updates of international guid...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -829,44 +813,6 @@
       "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42531048。",
       "report": "Deep learning has revolutionized computational protein design, enabling the generation of sequences that fold onto target backbones with unprecedented accuracy. However, state-of-the-art inverse folding tools largely rely on auto-regressive sampling. While pow...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42542043",
-      "date": "2026-07-29",
-      "title": "Integrated transcriptomic and functional analyses identify PRR7 as a therapeutic target that associated with Wnt/β-catenin signaling and docetaxel resistance in prostate cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42542043/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biochemical and biophysical research communications，PMID 为 42542043。",
-      "report": "Docetaxel resistance represents a major therapeutic challenge in advanced prostate cancer. Despite extensive studies on drug efflux, apoptosis, and metabolic adaptation, the specific cellular states and molecular determinants that sustain resistance remain poo...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1172,38 +1118,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42539411",
-      "date": "2026-07-17",
-      "title": "Molecular characteristics and advances in precision therapeutics for HR-positive and HER2-low breast cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42539411/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42539411。",
-      "report": "HR-positive HER2-low-expressing breast cancer is a unique subtype that has been refined from the traditional HER2 binary classification system in recent years, accounting for nearly 60% of the overall incidence of breast cancer. It has significant value for pr...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42542428",
       "date": "2026-07-11",
       "title": "Personalized circulating tumor DNA-based minimal residual disease assessment for optimizing interval debulking surgery timing in advanced ovarian cancer: toward precision surgical oncology.",
@@ -1259,6 +1173,66 @@
       "fact": "PubMed 记录显示该文献收录于 Briefings in bioinformatics，PMID 为 42476548。",
       "report": "Single-cell RNA sequencing has emerged as a transformative tool, enabling precise phenotype prediction and the detailed identification of disease-associated cell subpopulations. However, many existing computational approaches still rely on predefined cell-type...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42544182",
+      "date": "2026-04-09",
+      "title": "Application and prospects of organoid-on-a-chip in research on the intestinal mucosal barrier.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42544182/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Burns & trauma，PMID 为 42544182。",
+      "report": "The integrity of the intestinal mucosal barrier is essential for maintaining normal gut physiology, and its disruption is associated with a wide range of conditions, including trauma- and burn-related intestinal injury, which remain difficult to manage clinica...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42543635",
+      "date": "2026-01-01",
+      "title": "[Long-term remission with venetoclax plus azacitidine in acute myeloid leukemia with negative conversion of FLT3 companion diagnostic testing at relapse].",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543635/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 [Rinsho ketsueki] The Japanese journal of clinical hematology，PMID 为 42543635。",
+      "report": "An 80-year-old man was diagnosed with acute myeloid leukemia (AML), and molecular analysis identified FLT3-ITD, TKD mutations. Induction chemotherapy with daunorubicin plus cytarabine achieved hematological complete remission; however, extramedullary infiltrat...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
