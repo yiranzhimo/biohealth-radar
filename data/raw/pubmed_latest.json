@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-02T19:37:21.321719+00:00",
+  "capturedAt": "2026-08-03T03:58:18.691623+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-08-02",
-    "end": "2026-08-02"
+    "start": "2025-08-03",
+    "end": "2026-08-03"
   },
   "pmids": [
+    "42543025",
     "42542988",
     "42542243",
     "42542043",
     "42541905",
     "42541860",
-    "42541720",
     "42509463",
     "42498177",
     "42497867",
@@ -40,6 +40,22 @@
     "42536272"
   ],
   "records": [
+    {
+      "pmid": "42543025",
+      "title": "Embryonic Mediators of Embryo-Uterus Communication, Implantation and Pregnancy.",
+      "abstract": "Successful reproduction in eutherian mammals requires intimate connections between the embryo and uterus, involving adhesion, attachment and placentation, with or without invasion of the endometrium. The complex dialogue between embryo and uterus involves numerous molecules and pathways. The study of the mechanisms driving early embryo-uterus interactions has historically been challenging, particularly discovering the embryo-expressed molecules. Some components of the interactions have been known for decades, but many have been revealed in recent years through innovative transcriptome studies, studies of the contents and functions of extracellular particles, use of in vitro three-dimensional organoids, genetic studies, approaches for dissecting the regulation of maternal immune system cells, and many other approaches. This review focuses on embryo-expressed molecules that support implantation and embryo attachment, implantation and pregnancy establishment. Both classical and recent discoveries are examined, encompassing results from human, murine, livestock and comparative studies. Opportunities for further mechanistic insights are considered. Additionally, the review considers the potential for agricultural and clinical applications of the more recently identified molecular players and mechanisms for enhancing reproductive success or for providing new approaches to contraception.",
+      "journal": "Molecular reproduction and development",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Animal Science, Michigan State University, East Lansing, Michigan, USA."
+      ],
+      "doi": "10.1002/mrd.70137",
+      "date": "2026-08-00",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543025/"
+    },
     {
       "pmid": "42542988",
       "title": "ATP6AP2 ameliorates inflammation and pyroptosis in heart failure by promoting lysosome-dependent STING degradation.",
@@ -148,26 +164,6 @@
       "doi": "10.1016/j.identj.2026.109777",
       "date": "2026-08-01",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42541860/"
-    },
-    {
-      "pmid": "42541720",
-      "title": "Protocol for single-cell epigenetic profiling in human organoids and tumoroids with Epi-CyTOF.",
-      "abstract": "In this protocol, we present Epi-CyTOF, a cytometry by time of flight (CyTOF) approach for single-cell epigenome profiling in cortical organoids as a model system for human brain development. We describe steps for in silico panel design, antibody conjugation and testing, sample preparation and staining, and high-dimensional data analysis. Additionally, we provide recommendations for applying Epi-CyTOF to other model systems based on our experience with gastroesophageal tumoroids. For complete details on the use and execution of this protocol, please refer to Ditzer et al .1.",
-      "journal": "STAR protocols",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Center for Regenerative Therapies Dresden (CRTD), TUD Dresden University of Technology, 01307 Dresden, Germany. Electronic address: ezgi.senoglu@tu-dresden.de.",
-        "Department of Visceral, Thoracic and Vascular Surgery, Medical Faculty and University Hospital Carl Gustav Carus, Dresden University of Technology, 01307 Dresden, Germany. Electronic address: vivian.mittne@ukdd.de.",
-        "Center for Regenerative Therapies Dresden (CRTD), TUD Dresden University of Technology, 01307 Dresden, Germany.",
-        "Department of Pediatrics, Faculty of Medicine and University Hospital Carl Gustav Carus, Technische Universität Dresden, 01307 Dresden, Germany.",
-        "Department of Visceral, Thoracic and Vascular Surgery, Medical Faculty and University Hospital Carl Gustav Carus, Dresden University of Technology, 01307 Dresden, Germany; National Center for Tumor Diseases (NCT/UCC), 01037 Dresden, a partnership between DKFZ, Faculty of Medicine and University Hospital Carl Gustav Carus, TUD Dresden University of Technology, and Helmholtz-Zentrum Dresden-Rossendorf (HZDR), 01328 Dresden, Germany; German Cancer Consortium (DKTK), Partner Site Dresden, 01307 Dresden, and German Cancer Research Center (DKFZ), 69120 Heidelberg, Germany.",
-        "Center for Regenerative Therapies Dresden (CRTD), TUD Dresden University of Technology, 01307 Dresden, Germany. Electronic address: claudia.peitzsch@tu-dresden.de."
-      ],
-      "doi": "10.1016/j.xpro.2026.104695",
-      "date": "2026-07-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42541720/"
     },
     {
       "pmid": "42509463",
@@ -620,6 +616,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42543025",
+      "date": "2026-08-00",
+      "title": "Embryonic Mediators of Embryo-Uterus Communication, Implantation and Pregnancy.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543025/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular reproduction and development，PMID 为 42543025。",
+      "report": "Successful reproduction in eutherian mammals requires intimate connections between the embryo and uterus, involving adhesion, attachment and placentation, with or without invasion of the endometrium. The complex dialogue between embryo and uterus involves nume...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42538597",
       "date": "2026-08-00",
       "title": "Circulating Mitochondrial DNA Measures Across Malignancies: Diagnostic Accuracy and Prognostic Associations.",
@@ -645,38 +671,6 @@
       "fact": "PubMed 记录显示该文献收录于 Cancer medicine，PMID 为 42538597。",
       "report": "Circulating mitochondrial DNA is being investigated as a liquid-biopsy biomarker because of its high copy number and release during cellular stress. However, diagnostic estimates vary across tumor types and assays, and prognostic studies have measured both cel...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42541720",
-      "date": "2026-07-31",
-      "title": "Protocol for single-cell epigenetic profiling in human organoids and tumoroids with Epi-CyTOF.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42541720/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42541720。",
-      "report": "In this protocol, we present Epi-CyTOF, a cytometry by time of flight (CyTOF) approach for single-cell epigenome profiling in cortical organoids as a model system for human brain development. We describe steps for in silico panel design, antibody conjugation a...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

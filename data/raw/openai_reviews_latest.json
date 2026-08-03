@@ -1,31 +1,28 @@
 {
-  "capturedAt": "2026-08-02T19:37:30.604832+00:00",
+  "capturedAt": "2026-08-03T03:58:28.556011+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42542988",
-      "responseId": "resp_060759e7a16cd46b006a6f9c7b4c0c81998c4b1e12034e8acc",
+      "signalId": "pubmed-42543025",
+      "responseId": "resp_061a565444081468006a7011e53a848193b2a958164119d378",
       "review": {
         "status": "pass",
-        "confidence": 0.85,
+        "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "内容符合发布标准，无需人工审核。",
+        "reviewSummaryCn": "该记录清晰，信息来源可靠，符合发布标准。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理且与文献相关。"
+          "notesCn": "主类别和子类别合理，符合原始文献内容。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "证明水平合适，信息来源明确。"
+          "notesCn": "文献来源可靠，信息清晰且有序。"
         },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
+        "riskFlags": [],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
           "subCategory": "Organoids & Advanced Disease Models",
@@ -33,18 +30,16 @@
           "themes": [
             "Organoids",
             "Advanced Disease Models",
-            "Clinical Evidence",
-            "Regulatory Watch"
+            "Multi-omics"
           ],
           "tags": [
             "类器官",
             "疾病模型",
-            "临床",
-            "监管"
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Apoptosis : an international journal on programmed cell death，PMID 为 42542988。",
-          "report": "Inflammatory activation is involved in the pathogenesis of heart failure (HF). ATPase H+-Transporting Accessory Protein 2 (ATP6AP2) is an auxiliary subunit of the V-ATPase, and its role in HF is not fully understood. To assess the role and regulatory mechanism...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Molecular reproduction and development，PMID 为 42543025。",
+          "report": "Successful reproduction in eutherian mammals requires intimate connections between the embryo and uterus, involving adhesion, attachment and placentation, with or without invasion of the endometrium. The complex dialogue between embryo and uterus involves nume...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }

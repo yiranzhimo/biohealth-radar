@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-08-02",
+  "updatedAt": "2026-08-03",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -1120,6 +1120,76 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "pubmed-42543025",
+      "date": "2026-08-00",
+      "title": "Embryonic Mediators of Embryo-Uterus Communication, Implantation and Pregnancy.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543025/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular reproduction and development，PMID 为 42543025。",
+      "report": "Successful reproduction in eutherian mammals requires intimate connections between the embryo and uterus, involving adhesion, attachment and placentation, with or without invasion of the endometrium. The complex dialogue between embryo and uterus involves nume...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_061a565444081468006a7011e53a848193b2a958164119d378",
+        "reviewedAt": "2026-08-03T03:58:28.556011+00:00",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录清晰，信息来源可靠，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主类别和子类别合理，符合原始文献内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献来源可靠，信息清晰且有序。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Molecular reproduction and development，PMID 为 42543025。",
+          "report": "Successful reproduction in eutherian mammals requires intimate connections between the embryo and uterus, involving adhesion, attachment and placentation, with or without invasion of the endometrium. The complex dialogue between embryo and uterus involves nume...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42538597",
       "date": "2026-08-00",
       "title": "Circulating Mitochondrial DNA Measures Across Malignancies: Diagnostic Accuracy and Prognostic Associations.",
@@ -1183,82 +1253,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Cancer medicine，PMID 为 42538597。",
           "report": "Circulating mitochondrial DNA is being investigated as a liquid-biopsy biomarker because of its high copy number and release during cellular stress. However, diagnostic estimates vary across tumor types and assays, and prognostic studies have measured both cel...",
           "inference": "该文献涉及的结论未能充分支持，可能存在偏差。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42541720",
-      "date": "2026-07-31",
-      "title": "Protocol for single-cell epigenetic profiling in human organoids and tumoroids with Epi-CyTOF.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42541720/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42541720。",
-      "report": "In this protocol, we present Epi-CyTOF, a cytometry by time of flight (CyTOF) approach for single-cell epigenome profiling in cortical organoids as a model system for human brain development. We describe steps for in silico panel design, antibody conjugation a...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_03377d42e4bbcd55006a6f4d7998a0819994fa572cbd67c7be",
-        "reviewedAt": "2026-08-02T14:00:24.702058+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "文章符合出版标准，信息明确，未包含对治疗的建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "来源可靠，证据等级符合预期。"
-        },
-        "riskFlags": [
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42541720。",
-          "report": "In this protocol, we present Epi-CyTOF, a cytometry by time of flight (CyTOF) approach for single-cell epigenome profiling in cortical organoids as a model system for human brain development.",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
