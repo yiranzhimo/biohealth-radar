@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-03T20:00:58.760509+00:00",
+  "capturedAt": "2026-08-04T03:41:46.422582+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,28 +10,28 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-08-03",
-    "end": "2026-08-03"
+    "start": "2025-08-04",
+    "end": "2026-08-04"
   },
   "pmids": [
+    "42546203",
+    "42545893",
     "42545667",
     "42545664",
     "42545256",
     "42545071",
-    "42544890",
-    "42544182",
     "42509463",
     "42498177",
     "42497867",
     "42486102",
     "42482180",
     "42476548",
+    "42546051",
     "42542137",
     "42540288",
     "42539229",
     "42531048",
     "42527603",
-    "42526208",
     "42545218",
     "42544420",
     "42544030",
@@ -40,6 +40,41 @@
     "42542428"
   ],
   "records": [
+    {
+      "pmid": "42546203",
+      "title": "Cell surface ADGRG1 and CD86 expression identifies antitumor CD4+ T cells in human cancer.",
+      "abstract": "Adoptive cell transfer of tumor infiltrating CD4+ T cells or T cells genetically modified to express antitumor CD4+ T cell receptors (TCRs) has shown clinical efficacy in patients with advanced solid tumors. We previously defined unique transcriptomic states of antitumor, neoantigen-specific CD8+ and CD4+ tumor infiltrating lymphocytes (TIL) in human cancer. However, optimal cell surface protein markers that identify and would enable viable cell isolation and selective enrichment of antitumor CD4+ T cells have yet to be identified. Here, we define transcriptomic and corresponding cell surface protein profiles of antitumor CD4+ TIL within metastatic colorectal tumors using high dimensional single cell transcriptomic and proteomic analysis. Comprehensive analysis of 45 antitumor CD4+ TCR clonotypes demonstrated uniquely high cell surface protein expression of ADGRG1, CD86, and CD57. In all samples containing tumor neoantigen-reactive CD4+ TIL clonotypes, ADGRG1- and CD86-based cell surface enrichment of known reactive TCR clonotypes were 11-fold and 9-fold higher than bulk CD4+ TIL, respectively. ADGRG1- and CD86-based cell surface enrichment identified >60 validated antitumor CD4+ TCR-clonotypes including tumor organoid-reactive TCRs, as well as neoantigen-specific TCRs targeting private tumor mutations and cancer driver mutations. While both ADGRG1 and CD86 enriched CD4+ TIL displayed an exhausted neoantigen-specific gene expression signature, CD86 also enriched for cytotoxic CD4+ TIL phenotypes. CD4+ TIL isolated based on ADGRG1 expression and expanded in vitro also demonstrated neoantigen reactivity in two samples. Thus, ADGRG1 and CD86 appear to be effective protein markers for isolating human tumor-specific CD4+ TCR clonotypes and studying antitumor CD4+ TIL.",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Surgery Branch, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892."
+      ],
+      "doi": "10.1073/pnas.2517883123",
+      "date": "2026-08-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546203/"
+    },
+    {
+      "pmid": "42545893",
+      "title": "CLRN1 Variants in Müller Cells Cause Mitochondrial Dysfunction in USH3A Retinal Organoids.",
+      "abstract": "Usher syndrome 3A (USH3A), caused by mutations in the CLRN1 gene, leads to retinitis pigmentosa and sensorineural hearing loss. While CLRN1's role in inner ear pathology is established, its contribution to retinal degeneration remains poorly understood. Retinal organoids derived from a USH3A patient were analyzed using single-cell RNA sequencing and multi-electrode array recording. CLRN1 expression was mapped in human fetal retina and organoids. We assessed the structural, transcriptional, and functional impact of CLRN1 variants on Müller cells and photoreceptors, and evaluated idebenone as a potential targeted therapy. CLRN1 was specifically expressed in Müller cells. CLRN1 variants induced severe retinal degeneration, characterized by outer nuclear layer thinning, impaired photoreceptor gene expression, activated apoptosis, and diminished electrophysiological function. Mechanistically, these variants caused mitochondrial dysfunction in Müller cells, which triggered secondary mitochondrial impairment, oxidative stress, and apoptosis in photoreceptors. Idebenone treatment partially rescued these deficits. CLRN1-related mitochondrial impairment in Müller cells contributes to the pathogenesis of retinitis pigmentosa in USH3A. These findings identify Müller cell mitochondrial dysfunction as a key disease mechanism and highlight potential therapeutic targets.",
+      "journal": "CNS neuroscience & therapeutics",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Ophthalmology, Qilu Hospital of Shandong University, Jinan, China.",
+        "Department of Neurology, Research Institute of Neuromuscular and Neurodegenerative Diseases, Qilu Hospital of Shandong University, Shandong Key Laboratory of Mitochondrial Medicine and Rare Diseases, Jinan, China.",
+        "Prenatal Diagnostic Center of Obstetrics and Department of Gynecology, Qilu Hospital of Shandong University, Jinan, China.",
+        "Beijing Institute of Ophthalmology, Beijing Tongren Eye Center, Beijing Tongren Hospital, Capital Medical University, Beijing Ophthalmology & Visual Sciences Key Laboratory, Beijing, China.",
+        "Qingdao Municipal Key Laboratory of Mitochondria Medicine, Qingdao, China.",
+        "Department of Pharmacology, Innovation Center for Brain Medical Sciences, Tongji Medical College, Huazhong University of Science and Technology, the Key Laboratory for Drug Target Researches and Pharmacodynamic Evaluation of Hubei Province, Wuhan, China."
+      ],
+      "doi": "10.1002/cns.71068",
+      "date": "2026-08-00",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42545893/"
+    },
     {
       "pmid": "42545667",
       "title": "Hydrogels: current biomedical applications and future directions.",
@@ -123,44 +158,6 @@
       "doi": "10.1167/iovs.67.10.1",
       "date": "2026-08-03",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42545071/"
-    },
-    {
-      "pmid": "42544890",
-      "title": "A Novel Pak1 Activator Ameliorates ER Stress for HFpEF Therapy.",
-      "abstract": "Heart failure with preserved ejection fraction (HFpEF) is a prevalent and complex syndrome, with metabolic dysfunction playing a pivotal role in its progression. Disrupted endoplasmic reticulum (ER) homeostasis is recognized as a central mechanism in its pathogenesis. Although the homologous kinases Pak1 and Pak2 regulate the ER stress response, the role of Pak1 in HFpEF remains unclear. This study demonstrates that Pak1 is a critical regulator of cardiac adaptation to metabolic stress. Using a murine HFpEF model combining high‑fat diet and nitric oxide synthase inhibition, Pak1 knockdown accelerates diastolic dysfunction and maladaptive remodeling, accompanied by disrupted ER ultrastructure and impaired PERK‑ATF4 signaling, whereas Pak1 overexpression preserves cardiac function and ER homeostasis. Mechanistically, Pak1 activates the ERK1/2-MNK1-eIF4E signaling axis and promotes adaptive integrated stress response (ISR) signaling through the PERK-ATF4 pathway. Pharmacological inhibition of MNK1 attenuated Pak1-mediated PERK activation and ATF4 induction, identifying a mechanistic link between Pak1 signaling and adaptive stress responses. Furthermore, we developed a novel small-molecule Pak1 activator, JB2019, which reversed metabolic stress-induced cardiac dysfunction in both HFpEF mice and cardiac organoids. Collectively, these findings identify Pak1 as a novel regulator of adaptive ISR signaling and establish Pak1 activation as a promising therapeutic strategy for HFpEF.",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Division of Cardiovascular Science, Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, UK.",
-        "Department of Internal Medicine III, University of Kiel, Kiel, Germany.",
-        "German Center for Cardiovascular Research (DZHK), Partner Site Hamburg/Kiel/Luebeck, Hamburg, Germany.",
-        "Division of Molecular and Cellular Function, School of Biological Sciences, The University of Manchester, Manchester, UK.",
-        "Department of Pharmacology, University of Oxford, Oxford, UK.",
-        "Department of Surgery, Baylor College of Medicine, Houston, USA.",
-        "Department of Clinical Pharmacy, School of Preclinical Medicine and Clinical Pharmacy, China Pharmaceutical University, Nanjing, China."
-      ],
-      "doi": "10.1002/advs.76964",
-      "date": "2026-08-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42544890/"
-    },
-    {
-      "pmid": "42544182",
-      "title": "Application and prospects of organoid-on-a-chip in research on the intestinal mucosal barrier.",
-      "abstract": "The integrity of the intestinal mucosal barrier is essential for maintaining normal gut physiology, and its disruption is associated with a wide range of conditions, including trauma- and burn-related intestinal injury, which remain difficult to manage clinically. Intestinal organoid-on-a-chip systems have emerged as advanced in vitro models that reproduce key features of the intestinal microenvironment and physiological function. These systems have shown promise for studying mucosal injury and repair, assessing therapeutic strategies, and supporting translational research. This review summarizes the basic principles of intestinal organoid-on-a-chip technology and examines its use in modeling intestinal barrier function, inflammatory responses, drug screening, regenerative approaches, and trauma-related barrier repair. It also reviews recent progress in preclinical studies, considers potential applications in gastrointestinal research, and discusses current technical challenges, particularly those related to scalability and reproducibility. Future directions for the development of next-generation systems are also outlined. With the continued integration of advances across disciplines, these platforms may provide useful tools for studying and treating disorders involving the intestinal mucosal barrier, especially in the context of trauma and burns.",
-      "journal": "Burns & trauma",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Burn Surgery, the Affiliated Huaihai Hospital of Xuzhou Medical University, No. 226 Tongshan Road, Yunlong District, Xuzhou, Jiangsu Province 221004, China.",
-        "Department of Burn Surgery, The 71st Group Army Hospital of People's Liberation Army, No. 226 Tongshan Road, Xuzhou, Jiangsu Province 221004, China."
-      ],
-      "doi": "10.1093/burnst/tkag029",
-      "date": "2026-04-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42544182/"
     },
     {
       "pmid": "42509463",
@@ -274,6 +271,24 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42476548/"
     },
     {
+      "pmid": "42546051",
+      "title": "Structure-aware artificial intelligence for next-generation drug discovery: from protein-ligand modeling to generative biomolecular design.",
+      "abstract": "Recent advances in protein structure determination and prediction, large-scale structural databases, and artificial intelligence have reshaped structure-based drug discovery. Structure-aware artificial intelligence models integrate molecular representation learning with three-dimensional protein information to model interactions, predict complex structures and binding poses, and generate novel molecules. In this review, we follow this paradigm along a continuum from protein-ligand modeling to the de novo design of biomolecular binders. We first outline the molecular and protein representations that render structures computable, together with the growing collection of structural data resources. We then survey state-of-the-art methods across drug-target interaction prediction, protein-ligand complex modeling and docking, de novo molecular generation, and biomolecule design, examining the convergence of docking, structure prediction, and molecular generation within co-folding and diffusion-based frameworks. Despite these advances, prospective experimental validation remains scarce, and persistent limitations such as biased structural coverage, limited and ambiguous negative supervision, fragmented benchmarking, and insufficient mechanistic interpretability continue to constrain real-world utility. Progress in data quality and supervision design, evaluation rigor, and design-relevant interpretability will be essential to translate methodological innovation into practical impact.",
+      "journal": "Briefings in bioinformatics",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Global Innovative Drug, The Graduate School of Chung-Ang University, 84 Heukseok-ro, Dongjak-gu, Seoul 06974, Republic of Korea.",
+        "College of Pharmacy, Kyung Hee University, 26 Kyungheedae-ro, Dongdaemun-gu, Seoul 02447, Republic of Korea.",
+        "College of Pharmacy, Chung-Ang University, 84 Heukseok-ro, Dongjak-gu, Seoul 06974, Republic of Korea."
+      ],
+      "doi": "10.1093/bib/bbag421",
+      "date": "2026-07-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546051/"
+    },
+    {
       "pmid": "42542137",
       "title": "Bacterial surface layer ⸻ Properties, role, applications and challenges ⸻ A review of the next-generation nanotechnological tool.",
       "abstract": "Surface-layer (S-layer) proteins, forming the outermost envelope of many bacteria and archaea, exhibit extraordinary structural precision and self-assemble into two-dimensional crystalline lattices with square, hexagonal, or oblique symmetry. These monomolecular arrays, typically 5 to 25 nm in periodicity (varying by species), offer defined porosity and serve as robust biological nanoplatforms. Their innate capacity for self-assembly and molecular ordering has attracted significant attention in nanobiotechnology, vaccine development, biosensing, drug delivery, and ultrafiltration. S-layers are especially valued for their ability to mimic viral capsids, enhance antigen presentation, stabilize lipid bilayers, and provide highly organized scaffolds for enzyme immobilization and nanopatterning. Recent experimental achievements include the use of S-layer fusion proteins for mucosal vaccine delivery and the development of recombinant S-layer-based electrochemical biosensors. However, transitioning these advances to commercial-scale applications remains challenging. Limitations include the scalability of high-purity protein production, cost-effective recombinant expression, stability under harsh industrial conditions, and unresolved regulatory pathways for biologically derived nanomaterials. Additionally, synthetic alternatives present practical and economic competition. Nonetheless, interdisciplinary efforts in synthetic biology, materials science, and computational modeling are addressing these bottlenecks. Innovations such as cross-linkable domains, fusion with polymers or lipids, and predictive structure-function modeling are improving the robustness and adaptability of S-layer systems. As current research advances from theoretical potential to functional prototypes, S-layer proteins offer transformative prospects across medical, industrial, and environmental domains. This review uniquely integrates mechanistic S-layer biology with engineering-for-manufacture, protein-design workflows, and commercialization roadmaps - offering actionable protocols and benchmarks not covered in prior syntheses.",
@@ -360,23 +375,6 @@
       "doi": "10.1038/s41586-026-10842-8",
       "date": "2026-07-29",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527603/"
-    },
-    {
-      "pmid": "42526208",
-      "title": "Generative artificial intelligence for enzyme design and biocatalysis.",
-      "abstract": "Sparked by innovations in generative artificial intelligence (AI), the field of protein design has undergone a paradigm shift with an explosion of new models for optimizing existing enzymes or creating them from scratch. After more than one decade of low success rates for computationally designed enzymes, generative AI models are now frequently used for designing proficient enzymes. Here, we provide a comprehensive overview and classification of generative AI models for enzyme design, highlighting models with experimental validation relevant to real-world settings and outlining their respective limitations. We argue that generative AI models now have the maturity to create and optimize enzymes for industrial applications. Wider adoption of generative AI models with experimental feedback loops can speed up the development of biocatalysts and serve as a community assessment to inform the next generation of models.",
-      "journal": "Current opinion in chemical biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Centre For Genomic Regulation, The Barcelona Institute of Science and Technology, Dr Aiguader 88, Barcelona 08003, Spain; Universitat Pompeu Fabra, Barcelona, Spain.",
-        "Centre For Genomic Regulation, The Barcelona Institute of Science and Technology, Dr Aiguader 88, Barcelona 08003, Spain; Universitat Pompeu Fabra, Barcelona, Spain. Electronic address: noelia.ferruz@crg.eu."
-      ],
-      "doi": "10.1016/j.cbpa.2026.102728",
-      "date": "2026-07-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526208/"
     },
     {
       "pmid": "42545218",
@@ -479,6 +477,38 @@
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42546203",
+      "date": "2026-08-03",
+      "title": "Cell surface ADGRG1 and CD86 expression identifies antitumor CD4+ T cells in human cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546203/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42546203。",
+      "report": "Adoptive cell transfer of tumor infiltrating CD4+ T cells or T cells genetically modified to express antitumor CD4+ T cell receptors (TCRs) has shown clinical efficacy in patients with advanced solid tumors. We previously defined unique transcriptomic states o...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42545667",
       "date": "2026-08-03",
@@ -600,34 +630,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42544890",
-      "date": "2026-08-03",
-      "title": "A Novel Pak1 Activator Ameliorates ER Stress for HFpEF Therapy.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42544890/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42544890。",
-      "report": "Heart failure with preserved ejection fraction (HFpEF) is a prevalent and complex syndrome, with metabolic dysfunction playing a pivotal role in its progression. Disrupted endoplasmic reticulum (ER) homeostasis is recognized as a central mechanism in its patho...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42545218",
       "date": "2026-08-03",
       "title": "Liquid Biopsy in Biliary Tract Cancer: When Tissue is Not Enough.",
@@ -741,6 +743,36 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of microbiological methods，PMID 为 42542137。",
       "report": "Surface-layer (S-layer) proteins, forming the outermost envelope of many bacteria and archaea, exhibit extraordinary structural precision and self-assemble into two-dimensional crystalline lattices with square, hexagonal, or oblique symmetry. These monomolecul...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42545893",
+      "date": "2026-08-00",
+      "title": "CLRN1 Variants in Müller Cells Cause Mitochondrial Dysfunction in USH3A Retinal Organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42545893/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 CNS neuroscience & therapeutics，PMID 为 42545893。",
+      "report": "Usher syndrome 3A (USH3A), caused by mutations in the CLRN1 gene, leads to retinitis pigmentosa and sensorineural hearing loss. While CLRN1's role in inner ear pathology is established, its contribution to retinal degeneration remains poorly understood. Retina...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -861,35 +893,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Nature，PMID 为 42527603。",
       "report": "Proteins have evolved over billions of years through coordinated substitutions, insertions and deletions, yet computational protein design cannot fully replicate nature's ability to engineer new proteins from existing templates. Protein language models1-3 gene...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42526208",
-      "date": "2026-07-29",
-      "title": "Generative artificial intelligence for enzyme design and biocatalysis.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526208/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Current opinion in chemical biology，PMID 为 42526208。",
-      "report": "Sparked by innovations in generative artificial intelligence (AI), the field of protein design has undergone a paradigm shift with an explosion of new models for optimizing existing enzymes or creating them from scratch. After more than one decade of low succe...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1159,33 +1162,32 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42544182",
-      "date": "2026-04-09",
-      "title": "Application and prospects of organoid-on-a-chip in research on the intestinal mucosal barrier.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "id": "pubmed-42546051",
+      "date": "2026-07-03",
+      "title": "Structure-aware artificial intelligence for next-generation drug discovery: from protein-ligand modeling to generative biomolecular design.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42544182/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546051/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
+        "AI for Biology",
+        "Drug Discovery"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Burns & trauma，PMID 为 42544182。",
-      "report": "The integrity of the intestinal mucosal barrier is essential for maintaining normal gut physiology, and its disruption is associated with a wide range of conditions, including trauma- and burn-related intestinal injury, which remain difficult to manage clinica...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Briefings in bioinformatics，PMID 为 42546051。",
+      "report": "Recent advances in protein structure determination and prediction, large-scale structural databases, and artificial intelligence have reshaped structure-based drug discovery. Structure-aware artificial intelligence models integrate molecular representation lea...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
