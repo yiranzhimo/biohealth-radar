@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-04T03:41:46.422582+00:00",
+  "capturedAt": "2026-08-04T09:12:14.959270+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,150 +14,157 @@
     "end": "2026-08-04"
   },
   "pmids": [
-    "42546203",
-    "42545893",
-    "42545667",
-    "42545664",
-    "42545256",
-    "42545071",
+    "42547580",
+    "42546938",
+    "42546910",
+    "42547063",
+    "42546925",
+    "42546769",
     "42509463",
     "42498177",
     "42497867",
     "42486102",
     "42482180",
     "42476548",
+    "42546624",
     "42546051",
     "42542137",
     "42540288",
     "42539229",
     "42531048",
-    "42527603",
+    "42546853",
     "42545218",
     "42544420",
     "42544030",
     "42543673",
-    "42543635",
-    "42542428"
+    "42543635"
   ],
   "records": [
     {
-      "pmid": "42546203",
-      "title": "Cell surface ADGRG1 and CD86 expression identifies antitumor CD4+ T cells in human cancer.",
-      "abstract": "Adoptive cell transfer of tumor infiltrating CD4+ T cells or T cells genetically modified to express antitumor CD4+ T cell receptors (TCRs) has shown clinical efficacy in patients with advanced solid tumors. We previously defined unique transcriptomic states of antitumor, neoantigen-specific CD8+ and CD4+ tumor infiltrating lymphocytes (TIL) in human cancer. However, optimal cell surface protein markers that identify and would enable viable cell isolation and selective enrichment of antitumor CD4+ T cells have yet to be identified. Here, we define transcriptomic and corresponding cell surface protein profiles of antitumor CD4+ TIL within metastatic colorectal tumors using high dimensional single cell transcriptomic and proteomic analysis. Comprehensive analysis of 45 antitumor CD4+ TCR clonotypes demonstrated uniquely high cell surface protein expression of ADGRG1, CD86, and CD57. In all samples containing tumor neoantigen-reactive CD4+ TIL clonotypes, ADGRG1- and CD86-based cell surface enrichment of known reactive TCR clonotypes were 11-fold and 9-fold higher than bulk CD4+ TIL, respectively. ADGRG1- and CD86-based cell surface enrichment identified >60 validated antitumor CD4+ TCR-clonotypes including tumor organoid-reactive TCRs, as well as neoantigen-specific TCRs targeting private tumor mutations and cancer driver mutations. While both ADGRG1 and CD86 enriched CD4+ TIL displayed an exhausted neoantigen-specific gene expression signature, CD86 also enriched for cytotoxic CD4+ TIL phenotypes. CD4+ TIL isolated based on ADGRG1 expression and expanded in vitro also demonstrated neoantigen reactivity in two samples. Thus, ADGRG1 and CD86 appear to be effective protein markers for isolating human tumor-specific CD4+ TCR clonotypes and studying antitumor CD4+ TIL.",
-      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "pmid": "42547580",
+      "title": "Cadherin 1 negatively regulates SARS-CoV-2 infection in the olfactory epithelium.",
+      "abstract": "Olfactory dysfunction is a major symptom of COVID-19 syndrome. The critical genes contributing to SARS-CoV-2 infection are not fully understood. Here, we identified Cadherin 1 (CDH1), a hub in the interaction network of viral entry-related genes in human and mouse olfactory epithelium (OE), is coexpressed with ACE2 in sustentacular cells. CDH1 overexpression attenuates pseudoviral and authentic SARS-CoV-2 infection in ACE2-expressing HEK293T cells and human OE organoids, whereas CDH1 downregulation promotes infection. Mechanistically, CDH1 interacts with ACE2 and competes with the Spike protein for ACE2 binding. Three residues in CDH1 (W59, N168, and Q197) are critical for CDH1-ACE2 binding, and mutations at these residues weaken the interaction and enhance pseudoviral infection. In the OE of deceased COVID-19 patients, cells with higher viral load exhibit lower CDH1 expression. This inverse correlation between CDH1 expression and SARS-CoV-2 load is validated in human bronchial epithelial cells, and in lung ciliated and secretory cells. Collectively, our findings establish CDH1 as a novel restriction factor for SARS-CoV-2 infection in the olfactory system, potentially offering a target for antiviral therapy.",
+      "journal": "EMBO reports",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Surgery Branch, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892."
+        "ENT Institute and Department of Otorhinolaryngology, Eye & ENT Hospital, Fudan University, Shanghai, China.",
+        "Olfactory Disorder Diagnosis and Treatment Center, Eye & ENT Hospital, Fudan University, Shanghai, China.",
+        "Guangzhou Medical University, Guangzhou, China.",
+        "Guangzhou National Laboratory, Guangzhou International Bio Island, Guangzhou, China.",
+        "School of Life Sciences, Shanghai University, Shanghai, China.",
+        "The First Affiliated Hospital of Guangzhou Medical University, Guangzhou Medical University, Guangzhou, China.",
+        "ENT Institute and Department of Otorhinolaryngology, Eye & ENT Hospital, Fudan University, Shanghai, China. yu_yiqun@fudan.edu.cn.",
+        "Olfactory Disorder Diagnosis and Treatment Center, Eye & ENT Hospital, Fudan University, Shanghai, China. yu_yiqun@fudan.edu.cn."
       ],
-      "doi": "10.1073/pnas.2517883123",
+      "doi": "10.1038/s44319-026-00880-8",
       "date": "2026-08-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546203/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42547580/"
     },
     {
-      "pmid": "42545893",
-      "title": "CLRN1 Variants in Müller Cells Cause Mitochondrial Dysfunction in USH3A Retinal Organoids.",
-      "abstract": "Usher syndrome 3A (USH3A), caused by mutations in the CLRN1 gene, leads to retinitis pigmentosa and sensorineural hearing loss. While CLRN1's role in inner ear pathology is established, its contribution to retinal degeneration remains poorly understood. Retinal organoids derived from a USH3A patient were analyzed using single-cell RNA sequencing and multi-electrode array recording. CLRN1 expression was mapped in human fetal retina and organoids. We assessed the structural, transcriptional, and functional impact of CLRN1 variants on Müller cells and photoreceptors, and evaluated idebenone as a potential targeted therapy. CLRN1 was specifically expressed in Müller cells. CLRN1 variants induced severe retinal degeneration, characterized by outer nuclear layer thinning, impaired photoreceptor gene expression, activated apoptosis, and diminished electrophysiological function. Mechanistically, these variants caused mitochondrial dysfunction in Müller cells, which triggered secondary mitochondrial impairment, oxidative stress, and apoptosis in photoreceptors. Idebenone treatment partially rescued these deficits. CLRN1-related mitochondrial impairment in Müller cells contributes to the pathogenesis of retinitis pigmentosa in USH3A. These findings identify Müller cell mitochondrial dysfunction as a key disease mechanism and highlight potential therapeutic targets.",
-      "journal": "CNS neuroscience & therapeutics",
+      "pmid": "42546938",
+      "title": "Digestive and fermentative characteristics of B-type maize starch associated with microbiota-metabolite remodeling and enhanced intestinal stem cell activity.",
+      "abstract": "Among different types of resistant starch (RS), high-amylose maize starch serves as a representative B-type starch (B-type) sample and exhibits strong digestive resistance. However, the relationships among its structure-derived digestive resistance, microbial metabolism, intestinal epithelial stem cell activity, and barrier-related phenotypes remain unclear. In this study, common maize starch and high-amylose maize starch were used as representative A-type starch (A-type) and B-type samples, respectively. Multiscale structural characterization, in vitro digestion, fecal fermentation, 16S rRNA gene sequencing, untargeted metabolomics, and a mouse colonic organoid model were integrated. Compared with A-type, B-type showed smaller and more heterogeneous granules, a distinct crystalline structure, altered short-range order, and higher thermal transition temperatures. The hydrolysis index decreased from 98.03% in A-type to 82.14% in B-type, whereas RS content increased from 15.71% to 24.57%, together with slower hydrolysis. During in vitro fermentation, B-type reshaped the bacterial community structure and increased the relative abundances of Bifidobacterium adolescentis and Bacteroides ovatus compared with A-type. These shifts were accompanied by differences in PICRUSt2-predicted microbial functional potential and fermentation metabolite profiles, mainly involving amino acid, central carbon, and coenzyme-related metabolism. B-type fermentation supernatant produced the strongest organoid budding response, with significantly more buds than the control and A-type groups. Lgr5 and ChgA signals were also higher than in the A-type group, consistent with stronger epithelial stem-cell activity and differentiation-related phenotypes. Integrated correlation analysis and structural equation modeling showed positive associations among starch resistance, microbiota remodeling, predicted microbial functional potential, metabolite shifts, and epithelial growth- and barrier-related phenotypes.",
+      "journal": "International journal of biological macromolecules",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Ophthalmology, Qilu Hospital of Shandong University, Jinan, China.",
-        "Department of Neurology, Research Institute of Neuromuscular and Neurodegenerative Diseases, Qilu Hospital of Shandong University, Shandong Key Laboratory of Mitochondrial Medicine and Rare Diseases, Jinan, China.",
-        "Prenatal Diagnostic Center of Obstetrics and Department of Gynecology, Qilu Hospital of Shandong University, Jinan, China.",
-        "Beijing Institute of Ophthalmology, Beijing Tongren Eye Center, Beijing Tongren Hospital, Capital Medical University, Beijing Ophthalmology & Visual Sciences Key Laboratory, Beijing, China.",
-        "Qingdao Municipal Key Laboratory of Mitochondria Medicine, Qingdao, China.",
-        "Department of Pharmacology, Innovation Center for Brain Medical Sciences, Tongji Medical College, Huazhong University of Science and Technology, the Key Laboratory for Drug Target Researches and Pharmacodynamic Evaluation of Hubei Province, Wuhan, China."
+        "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, 214122, China; School of Food Science and Technology, Jiangnan University, Wuxi, 214122, China.",
+        "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, 214122, China; School of Food Science and Technology, Jiangnan University, Wuxi, 214122, China; Instrumental Analysis and Laboratory Animal Center, Jiangnan University, Wuxi, 214122, China. Electronic address: yqtian@jiangnan.edu.cn."
       ],
-      "doi": "10.1002/cns.71068",
-      "date": "2026-08-00",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42545893/"
-    },
-    {
-      "pmid": "42545667",
-      "title": "Hydrogels: current biomedical applications and future directions.",
-      "abstract": "Hydrogels are highly hydrated three-dimensional polymeric network materials that have attracted considerable attention in medical and biomedical fields owing to their favorable chemical modifiability, physical tunability, biocompatibility, and capacity to mimic key features of native extracellular matrices. With advances in polymer chemistry, crosslinking strategies, stimuli-responsive design, and emerging fabrication technologies, hydrogels have evolved from simple soft materials into multifunctional biomedical systems capable of integrating controlled delivery, tissue support, microenvironmental regulation, biosensing, and disease modeling. These properties make hydrogels particularly relevant for addressing a broad spectrum of human diseases in which conventional therapeutic strategies are often limited by insufficient targeting efficiency, limited therapeutic windows, pronounced systemic side effects, and inadequate restoration of damaged tissue structure and function. In this review, we systematically summarize the design principles and material engineering strategies of hydrogels, including structural construction approaches and functional regulation concepts. We then provide a comprehensive overview of their current biomedical applications, encompassing drug delivery systems, tissue engineering and regenerative medicine, biosensing and diagnostic platforms, as well as cell culture and organoid systems. Building on this foundation, we place particular emphasis on recent progress in hydrogel-based therapeutic strategies across diverse human disease contexts, including wound healing, musculoskeletal system repair, cancer, neurological diseases, cardiovascular diseases, autoimmune disorders, and reproductive system diseases. Finally, we discuss the developmental potential of hydrogels in biomedicine and present an integrated perspective on their clinical translation prospects, with the aim of offering references and insights for the further application of hydrogel materials in future human disease treatment.",
-      "journal": "Molecular biomedicine",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "School of Preclinical Medicine of Chengdu University, Chengdu University, Chengdu, Sichuan, 610106, China.",
-        "Department of Orthopaedic Surgery, Chongqing Municipal Health Commission Key Laboratory of Musculoskeletal Regeneration and Translational Medicine/Orthopaedic, Chongqing, 400010, China.",
-        "Department of Endocrinology Children's Hospital of Chongqing Medical University, National Clinical Research Center for Child Health and Disorders, Ministry of Education Key Laboratory of Child Development and Disorders, China International Science and Technology Cooperation base of Child development and Critical Disorders, Chongqing Key Laboratory of Child Rare Diseases in Infection and Immunity, Chongqing, 400014, China.",
-        "Department of Traditional Chinese Medicine Children's Hospital of Chongqing Medical University, National Clinical Research Center for Child Health and Disorders, Ministry of Education Key Laboratory of Child Development and Disorders, China International Science and Technology Cooperation base of Child development and Critical Disorders, Chongqing Key Laboratory of Child Rare Diseases in Infection and Immunity, Chongqing, 400014, China.",
-        "Clinical Medical College and Affiliated Hospital of Chengdu University, Chengdu University, Chengdu, Sichuan, 610081, China.",
-        "Department of Endocrinology Children's Hospital of Chongqing Medical University, National Clinical Research Center for Child Health and Disorders, Ministry of Education Key Laboratory of Child Development and Disorders, China International Science and Technology Cooperation base of Child development and Critical Disorders, Chongqing Key Laboratory of Child Rare Diseases in Infection and Immunity, Chongqing, 400014, China. Gaohui_zhu_cqmu@163.com.",
-        "Department of Endocrinology Children's Hospital of Chongqing Medical University, National Clinical Research Center for Child Health and Disorders, Ministry of Education Key Laboratory of Child Development and Disorders, China International Science and Technology Cooperation base of Child development and Critical Disorders, Chongqing Key Laboratory of Child Rare Diseases in Infection and Immunity, Chongqing, 400014, China. Shuaitan_cqmu@163.com.",
-        "Clinical Medical College and Affiliated Hospital of Chengdu University, Chengdu University, Chengdu, Sichuan, 610081, China. huxulin1993@163.com.",
-        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, No.17, Section 3, Renmin South Road, Chengdu, Sichuan, 610041, China. huxulin1993@163.com."
-      ],
-      "doi": "10.1186/s43556-026-00525-1",
+      "doi": "10.1016/j.ijbiomac.2026.153910",
       "date": "2026-08-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42545667/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546938/"
     },
     {
-      "pmid": "42545664",
-      "title": "Neurons Die Not by One Hit, but by Signaling Convergence.",
-      "abstract": "There is an emerging understanding of neurodegenerative diseases as complex diseases with a combination of multiple interrelated signaling pathways as opposed to one causative factor. This review examines the idea that neurons do not die in a single event, but through convergence of signals, which outlines the different pathological events such as oxidative stress, mitochondrial dysfunction, excitotoxicity, calcium imbalance, impaired proteostasis and neuroinflammation that interact to determine the fate of neurons. The processes are closely connected by molecular nodes like ROS, NF-κB, and MAPK signaling pathways, Nrf2/Keap1 antioxidant axis, and dysregulated autophagy and endoplasmic reticulum stress responses. The review also discusses the contribution of neuron glia interactions and the impact of microglial activation, astrocyte malfunction and cytokine networks in enhancing neuronal damage in a feedback mechanism. Mechanisms that have been mentioned as the oxidative stress inflammation cycle, mitochondrial damage, ROS feedback, and protein aggregation cellular stress loop are cited to be the major contributors to disease progression. Also, the review mentions new biomarkers, multi-omics methods, and sophisticated research instruments, such as artificial intelligence and organoid models, which can contribute to our knowledge of disease pathogenesis and help diagnose it earlier. On the whole, this review presents a complete paradigm on how to perceive neurodegeneration as a systems-level phenomenon. It combines molecular, cellular, and clinical perspectives and offers the rationale for the need to consider the therapeutic approach to neurodegenerative diseases in a holistic and multi-dimensional manner.",
-      "journal": "Molecular neurobiology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Pharmaceutical Technology, Meerut Institute of Engineering and Technology (MIET), Meerut, India.",
-        "Department of Pharmaceutical Technology, Meerut Institute of Engineering and Technology (MIET), Meerut, India. falgunigoel2908@gmail.com.",
-        "Department of Pharmacology, School of Pharmacy and Technology Management, SVKM's Narsee Monjee Institute of Management Studies (NMIMS), Deemed-to-Be-University, Indore, 453112, Madhya Pradesh, India."
-      ],
-      "doi": "10.1007/s12035-026-06093-3",
-      "date": "2026-08-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42545664/"
-    },
-    {
-      "pmid": "42545256",
-      "title": "Organoid-based evaluation of SA55 and Pemivibart against evolving SARS-CoV-2 variants.",
-      "abstract": "Pemivibart, a class 1/4 monoclonal antibody (mAb), is currently the only FDA-authorized SARS-CoV-2 mAb under an Emergency Use Authorization (EUA) in clinical use. The emergence of subvariants, including KP.3.1.1 and XFG, raises concerns about antibody efficacy. SA55, a fully human class 1/4 mAb, is currently under clinical trial, including a nasal spray formulation. Using the well-validated organoid-based neutralization assays, we compared the potency and breadth of Pemivibart and SA55. Our results demonstrated a significant decrease in Pemivibart's activity against KP.3.1.1 and XFG, with an approximately 80-fold increase in IC50 relative to the ancestral strain. Given KP.3.1.1's strong reliance on the TMPRSS2 pathway for cell entry, we further demonstrated that combinational treatment with Pemivibart and the broad-spectrum S2 antibody results in potent neutralization. Notably, SA55 maintained potent neutralization (IC50 ≤ 40 ng/mL) across all tested variants. Topical administration, which models nasal spray, dramatically suppressed viral replication of BA.5.2 and XFG in organoid models. Our findings evidence the high potency of SA55, supporting its potential for clinical application against emerging SARS-CoV-2 variants.",
-      "journal": "Emerging microbes & infections",
+      "pmid": "42546910",
+      "title": "Nephrotoxicity and innovative risk assessment of cinnabar-containing An-Gong-NiuH-uang Wan based on bioavailability and speciation using on an IPBET/small intestinal organ-on-a-chip.",
+      "abstract": "An-Gong-Niu-Huang Wan (AGNHW) is a traditional Chinese medicine preparation containing cinnabar (HgS). However, its clinical use has been controversial due to concerns regarding mercury nephrotoxicity. To evaluate the renal toxicity, mice were administered AGNHW, cinnabar, methylmercury (MeHg), and mercuric chloride (HgCl₂) for 28 days. Blood biochemistry, histopathology, and the expression of nephrotoxicity-sensitive genes were assessed. To assess the health risks associated with AGNHW, we established an innovative Physiologically Based Extraction Test (IPBET) /small intestinal organ-on-a-chip model for the first time to simulate gastrointestinal digestion and absorption of mercury from AGNHW. This organ-on-a-chip model with HPLC-ICP-MS enabled the first determination of bioavailable mercury species in AGNHW. Urinary creatinine (UCr), total protein (TP), kidney injury molecule-1 (Kim-1), α1-microglobulin (a1-MG), N-cadherin levels, and histological findings in the MeHg and HgCl₂ groups showed significant differences compared to the control, cinnabar, and AGNHW groups. The expression of F4/80, CD11b, and MMP7 was markedly altered in the MeHg group. Our organ-on-a-chip model revealed that bioavailable MeHg in the MeHg group was 298-fold and 27-fold higher compared to the control and AGNHW groups. Our refined risk assessment indicated that, when adjusted by bioavailability and speciation, the health risks associated with mercury exposure from AGNHW consumption were acceptable. Collectively, considering bioavailability and mercury species, our IPBET/small intestinal organ-on-a-chip provides a novel approach for assessing cinnabar exposure risks in AGNHW. Our study provides a scientific basis that AGNHW and cinnabar are much less nephrotoxic than HgCl2 and MeHg, and does not pose a significant threat to human health clinically.",
+      "journal": "Pharmacological research",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Microbiology, School of Clinical Medicine, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong Special Administrative Region, China.",
-        "Centre for Virology, Vaccinology and Therapeutics, Hong Kong Science and Technology Park, Hong Kong Special Administrative Region, China.",
-        "Biomedical Pioneering Innovation Center, School of Life Sciences, Peking University, Beijing, China.",
-        "BiomOrgan Ltd, Hong Kong, China.",
-        "Laboratory of Advanced Biotechnology, Beijing Institute of Biotechnology, Beijing, China.",
-        "State Key Laboratory of Emerging Infectious Diseases, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong Special Administrative Region, China.",
-        "Pandemic Research Alliance Unit at The University of Hong Kong, Hong Kong Special Administrative Region, China."
+        "National Institutes for Food and Drug Control, State Key Laboratory of Drug Regulatory Science, Beijing 100050, China.",
+        "National Institutes for Food and Drug Control, State Key Laboratory of Drug Regulatory Science, Beijing 100050, China; Key Laboratory of Drug Quality Control and Pharmacovigilance (China Pharmaceutical University), Ministry of Education, Nanjing 210009, China.",
+        "State Key Laboratory of Bioactive Substance and Function of Natural Medicines, Institute of Materia Medica, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100050, China.",
+        "Key Laboratory of Drug Quality Control and Pharmacovigilance (China Pharmaceutical University), Ministry of Education, Nanjing 210009, China. Electronic address: fengguoxu@cpu.edu.cn.",
+        "State Key Laboratory of Bioactive Substance and Function of Natural Medicines, Institute of Materia Medica, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100050, China. Electronic address: hukuan@imm.ac.cn.",
+        "National Institutes for Food and Drug Control, State Key Laboratory of Drug Regulatory Science, Beijing 100050, China. Electronic address: 18611836172@163.com."
       ],
-      "doi": "10.1080/22221751.2026.2713323",
+      "doi": "10.1016/j.phrs.2026.108364",
       "date": "2026-08-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42545256/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546910/"
     },
     {
-      "pmid": "42545071",
-      "title": "Identification of a Duplication in the RP17 Locus in an Individual With Pathogenic CEP290 Variants: Implications for RP17 Variant Classification.",
-      "abstract": "To assess the pathogenicity of a novel duplication in the RP17 locus identified in a cone dystrophy proband with biallelic CEP290 variants. Structural variants (SVs) in this locus have previously been associated with dominant retinitis pigmentosa. Inheritance of the duplication was assessed by breakpoint polymerase chain reaction (PCR). Ophthalmic evaluation included fundus examination, multimodal retinal imaging, and full-field electroretinogram (ERG). A proband-derived pluripotent stem cell line was differentiated into photoreceptor precursor cells (PPCs) and retinal organoids (ROs). Variant-induced mis-splicing of CEP290 was assessed by reverse-transcription PCR (RT-PCR) and long-read cDNA sequencing, and immunohistochemistry was used to assess photoreceptor morphology. Expression of GDPD1 was quantified by quantitative RT-PCR. The proband and father carried the 324-kb duplication in the RP17 locus. The father was clinically unaffected, but the proband showed features of cone dystrophy, including reduced visual acuity, foveal abnormalities, diminished cone density, and preserved dark-adapted but absent light-adapted ERG responses. The compound heterozygous variants in CEP290 resulted in pseudoexon inclusion and exon 36 skipping in patient-derived retinal cells. Immunohistochemistry revealed altered ciliation and reduced trafficking of L/M opsin and rhodopsin in ROs. In silico modeling predicted that the novel RP17 duplication does not disrupt chromatin looping, and GDPD1 expression was not upregulated in patient ROs, in contrast to pathogenic RP17-SVs. The cone dystrophy phenotype of the proband can be attributed to the CEP290 variants, whereas the novel RP17 duplication can be classified as likely benign based on the integrated evidence. These findings emphasize the importance of modeling and functional studies for accurately classifying RP17-SVs and preventing misinterpretation in clinical diagnostics.",
-      "journal": "Investigative ophthalmology & visual science",
+      "pmid": "42547063",
+      "title": "New Approach Methodologies (NAMs) Complement but Cannot Replace Animal Models in Critical Care Medicine Research.",
+      "abstract": "Critical care research focuses on life-threatening conditions such as sepsis, trauma, hemorrhage, and burn injury, which account for millions of hospitalizations and hundreds of thousands of deaths annually in the United States alone. Recent policy initiatives by the U.S. Food and Drug Administration (FDA) and the National Institutes of Health (NIH) have promoted New Approach Methodologies (NAMs), including organoids, organ-on-chip platforms, and computational models, as alternatives to animal research. While NAMs offer valuable tools for mechanistic investigation and screening applications, this review examines whether current NAM technologies can adequately replace animal models in critical care research. Critical illness involves the whole organism, including dynamic organ-organ interactions, immune-microbiome crosstalk, and adaptive systemic feedback loops. By examining major domains in critical care research and targeted organ injuries, it becomes clear that while NAMs excel at interrogating isolated subsystems, they cannot currently replicate integrated physiological responses. Animal models remain essential for questions requiring assessment of multi-organ dysfunction, therapeutic safety evaluation, and clinically relevant disease trajectories. Premature policy shifts away from animal research will impede advances in critical care medicine. This review proposes a \"methodological pluralism\" approach that integrates NAMs with appropriately designed animal studies through harmonized endpoints and reverse-translation frameworks. Recommendations include continued refinement of animal models to better represent the heterogeneity of human populations, adoption of quality standards for preclinical research, and strategic deployment of both NAMs and animal models based on fit-for-purpose criteria. We believe this approach will satisfy ethical considerations, scientific rigor, and public health needs in critical care research.",
+      "journal": "Journal of leukocyte biology",
       "publicationTypes": [
-        "Journal Article",
-        "Case Reports"
+        "Journal Article"
       ],
       "affiliations": [
-        "Department of Human Genetics, Radboud University Medical Center, Nijmegen, the Netherlands.",
-        "Institute of Ophthalmology, University College London, London, United Kingdom.",
-        "The Rotterdam Eye Hospital, Rotterdam Ophthalmic Institute, Rotterdam, the Netherlands.",
-        "Centro de Investigación Biomédica en Red de Enfermedades Raras (CIBERER), Instituto de Salud Carlos III, Departament de Genètica, Microbiologia i Estadística, Universitat de Barcelona, Barcelona, Spain.",
-        "Department of Radiology & Nuclear Medicine, Erasmus MC, Rotterdam, the Netherlands.",
-        "Department of Ophthalmology, Erasmus MC, Rotterdam, the Netherlands."
+        "Departments of Surgery, and Pharmacology and Nutritional Sciences, University of Kentucky, Lexington, KY, United States.",
+        "Department of Pediatrics, Cohen Children's Medical Center, Northwell Health and the Zucker School of Medicine at Hofstra/Northwell, New Hyde Park, NY, United States.",
+        "The Feinstein Institutes for Medical Research, Northwell Health, Manhasset, NY, United States.",
+        "Department of Critical Care Medicine, State Key Laboratory of Complex Severe and Rare Diseases, Peking Union Medical College Hospital, Chinese Academy of Medical Science and Peking Union Medical College, Beijing, China.",
+        "Northwestern University, Feinberg School of Medicine, Chicago, IL, United States.",
+        "Brigham and Women's Hospital/Harvard Medical School, Boston, MA, United States.",
+        "Departments of Surgery and Molecular Medicine, Zucker School of Medicine at Hofstra/Northwell, Manhasset, NY, United States."
       ],
-      "doi": "10.1167/iovs.67.10.1",
+      "doi": "10.1093/jleuko/qiag108",
+      "date": "2026-08-04",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42547063/"
+    },
+    {
+      "pmid": "42546925",
+      "title": "Combined anti-PD-1 with irreversible electroporation relieves immunosuppression and reduces hepatocellular carcinoma regrowth.",
+      "abstract": "Local ablation triggers anti-tumor response and is regarded as an encouraging treatment combined with immunotherapy for hepatocellular carcinoma (HCC). Irreversible electroporation (IRE) is a novel ablative technique eliminating tumor cells by electroporation, however, the characteristics of IRE-induced immune microenvironment and underlying mechanism remain unclear. We developed an orthotopic immunocompetent HCC mouse model and performed incomplete IRE-ablation. The post-IRE immune microenvironment was characterized by RNA sequencing, single-cell RNA sequencing, flow cytometry, and multiplex immunofluorescence. Cytokine-chemokine array and organoid-immune cell co-culture were used to investigate the functions and underlying mechanism. The combination therapy of IRE and anti-PD-1 was examined for HCC treatment in mice. IRE initially inhibited HCC growth, but tumors rapidly regrew by day 14 after ablation, with increased Ly6G+ Polymorphonuclear (PMN) Myeloid-Derived Suppressor Cells (MDSCs) infiltration and CD8+ T cell exhaustion. In patient-derived HCC organoids, IRE-induced CD8+ T cell cytotoxicity was suppressed by MDSCs. Ly6G antibody-mediated PMN-MDSC depletion repressed HCC regrowth after IRE-ablation in vivo (1.29±0.12 vs 0.49±0.09 g, p<0.001). Mechanistically, HCC cells degraded CXCL10 mRNA via YTH N6-methyladenosine RNA binding protein F2 (YTHDF2), which activated MDSCs that led to CD8+ T cells exhaustion. Combined anti-PD-1 and IRE reduced tumor burden by 84.3% compared with IRE alone (0.22±0.08 vs 1.43±0.13 g, p<0.01), prolonged survival (day-60 survival: 93.33% vs 40%, p<0.001), and induced long-term anti-tumor immunity in mice. Four unresectable recurrent HCC patients treated with IRE plus anti-PD-1 therapy showed improved recurrence-free time than patients receiving IRE alone. PMN-MDSCs mediated immunosuppression that promoted HCC regrowth after incomplete IRE ablation. Combining anti-PD-1 therapy is a promising approach to eliminate post-ablation residual HCC, supporting evaluation in prospecitve clinical trials. Post-ablation recurrence remains a major challenge in HCC. Here, we show that although IRE initially activates CD8+ T cells but subsequently promotes PMN-MDSCs activation and CD8+ T-cell exhaustion through YTHDF2-mediated CXCL10 mRNA degradation, resulting in a suppressive tumor immune microenvironment (TIME). These findings identify a previously unrecognized mechanism of post-IRE tumor regrowth and provide a rationale for early combination with anti-PD-1 therapy. Although further prospective clinical validation is required, this work suggests that monitoring post-ablation immune changes and applying rational immunotherapy combinations may help optimize treatment strategies for patients with HCC undergoing local ablation.",
+      "journal": "JHEP reports : innovation in hepatology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Oncology, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China.",
+        "Institute of Precision Medicine, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China.",
+        "Department of Gastrointestinal Surgery, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China.",
+        "Department of Urology Surgery, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China.",
+        "Department of Rheumatology, The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China.",
+        "Department of Gastroenterology and Hepatology, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China.",
+        "Division of Interventional Ultrasound, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China.",
+        "Institute of Precision Medicine, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China; Department of Gastroenterology and Hepatology, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China; Clinical Trials Unit, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China.",
+        "Institute of Precision Medicine, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China; Center of Hepato-Pancreato-Biliary Surgery, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China; Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong Province, China.",
+        "Division of Interventional Ultrasound, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China. Electronic address: xiaoh69@mail.sysu.edu.cn.",
+        "Division of Interventional Ultrasound, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China. Electronic address: chenshling@mail.sysu.edu.cn.",
+        "Center of Hepato-Pancreato-Biliary Surgery, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China. Electronic address: daizh7@mail.sysu.edu.cn."
+      ],
+      "doi": "10.1016/j.jhepr.2026.101977",
       "date": "2026-08-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42545071/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546925/"
+    },
+    {
+      "pmid": "42546769",
+      "title": "Human gastric extracellular matrix hydrogels maintain organoid growth and reduce gene expression associated with stemness and inflammation.",
+      "abstract": "Human gastric organoids (HGOs) are 3-D cultures of primary gastric epithelial cells that serve as in vitro models for gastric epithelial physiology, development, and disease. The extracellular matrix material that organoids are maintained in provides crucial signals to the epithelial cells, regulating their function and growth. We here describe the application of human gastric ECM (hgECM) for HGO cultures, to provide a tissue- and species-specific growth matrix. &#xD;Methods: We prepared hgECM from human gastric tissue by decellularization and then compared HGO growth, differentiation, and function in hgECM and in the traditionally used Matrigel. The composition, structure, and rheological properties of the hgECM were determined using tandem mass spectrometry, scanning electron microscopy, and rheometry. Transcriptional profiles of HGOs grown in hgECM and Matrigel were compared using single cell RNA sequencing (scRNAseq). &#xD;Results: Proteome analysis showed that hgECM was rich in collagens, whereas Matrigel was predominantly composed of glycoproteins such as laminin. The structure of hgECM was fibrous, befitting its collagen composition, while Matrigel was porous. The viscosity and stiffness of hgECM were found to be lower than Matrigel. HgECM supported robust growth of HGOs. ScRNAseq showed that cell type composition of HGOs in each ECM was comparable. However, HGOs in hgECM had reduced expression of genes associated with stem cells, epithelial-mesenchymal transition, stress, and inflammation compared to HGO grown in Matrigel. Conversely, HGO culture in hgECM increased expression of gastric tissue-specific genes and of genes associated with growth and metabolism. &#xD;Conclusions: HgECM hydrogels were highly compatible with HGO culture, and improved homeostatic functions of HGOs, including growth, differentiation, and reduced inflammation. HgECM may serve as a tissue- and species-specific growth matrix for HGO culture to improve the physiological relevance of organoid models.&#xD.",
+      "journal": "Biomedical materials (Bristol, England)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Microbiology and Cell Biology, Montana State University, 2155 Analysis Drive, Bozeman, Montana, 59717-2000, United States.",
+        "Montana State University, 2155 Analysis Drive, Bozeman, Montana, 59717-2000, United States.",
+        "Department of Biomedical Engineering and Science, Florida Institute of Technology, 150 W University Blvd, Melbourne, Florida, 32901-8995, United States.",
+        "Burrell College of Osteopathic Medicine - Florida Campus, 3011 S Babcock St, Melbourne, Florida, 32901-6920, United States.",
+        "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, 4301 W. Markham St, Little Rock, Arkansas, 72205-7101, United States.",
+        "Nevada Genomics Center, University of Nevada Reno, 1664 N Virginia St, Reno, Nevada, 89557, United States.",
+        "Department of Microbiology and Cell Biology, Montana State University Bozeman, 2155 Analysis Drive, Bozeman, 59717-2000, United States."
+      ],
+      "doi": "10.1088/1748-605X/ae943e",
+      "date": "2026-08-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546769/"
     },
     {
       "pmid": "42509463",
@@ -271,6 +278,24 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42476548/"
     },
     {
+      "pmid": "42546624",
+      "title": "Protein modification: convergence of artificial intelligence, synthetic biology, and nano-assembly.",
+      "abstract": "The extensive application of biosynthetically produced proteins in advanced food systems remains limited because of functional deficiencies, including poor solubility, inadequate emulsifying activity, and low in vitro digestibility. To address this gap, this study aimed to critically examine recent advances in the functional enhancement of biosynthetically produced proteins. It highlights emerging strategies that integrate computational design, artificial intelligence-guided protein engineering, and genetic code expansion to enable precise molecular-level customization. Additionally, the study emphasizes the synergistic benefits of combining chemical, enzymatic, and physical field-assisted modification techniques with macro-scale approaches such as multicomponent self-assembly and nanofabrication. These integrated modification strategies have demonstrated substantial functional gains, including markedly improved thermal stability, substantially enhanced biosynthetic yields, and significantly strengthened antimicrobial activity under food-relevant conditions. In summary, this cross-disciplinary synthesis underscores a transformative pathway toward the development of sustainable, high-performance protein ingredients through closed-loop AI-guided protein design.",
+      "journal": "Food chemistry",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Institute of Edible Fungi, Shanghai Academy of Agricultural Sciences, National Engineering Research Center of Edible Fungi, Key Laboratory of Edible Fungi Resources and Utilization (South), Ministry of Agriculture, 201403, China.",
+        "Tongji University Cancer Center, Shanghai Tenth People's Hospital, Tongji University School of Medicine, Shanghai, China. Electronic address: 21310144@tongji.edu.cn.",
+        "Institute of Edible Fungi, Shanghai Academy of Agricultural Sciences, National Engineering Research Center of Edible Fungi, Key Laboratory of Edible Fungi Resources and Utilization (South), Ministry of Agriculture, 201403, China. Electronic address: yangyan@saas.sh.cn."
+      ],
+      "doi": "10.1016/j.foodchem.2026.150606",
+      "date": "2026-07-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546624/"
+    },
+    {
       "pmid": "42546051",
       "title": "Structure-aware artificial intelligence for next-generation drug discovery: from protein-ligand modeling to generative biomolecular design.",
       "abstract": "Recent advances in protein structure determination and prediction, large-scale structural databases, and artificial intelligence have reshaped structure-based drug discovery. Structure-aware artificial intelligence models integrate molecular representation learning with three-dimensional protein information to model interactions, predict complex structures and binding poses, and generate novel molecules. In this review, we follow this paradigm along a continuum from protein-ligand modeling to the de novo design of biomolecular binders. We first outline the molecular and protein representations that render structures computable, together with the growing collection of structural data resources. We then survey state-of-the-art methods across drug-target interaction prediction, protein-ligand complex modeling and docking, de novo molecular generation, and biomolecule design, examining the convergence of docking, structure prediction, and molecular generation within co-folding and diffusion-based frameworks. Despite these advances, prospective experimental validation remains scarce, and persistent limitations such as biased structural coverage, limited and ambiguous negative supervision, fragmented benchmarking, and insufficient mechanistic interpretability continue to constrain real-world utility. Progress in data quality and supervision design, evaluation rigor, and design-relevant interpretability will be essential to translate methodological innovation into practical impact.",
@@ -357,24 +382,22 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42531048/"
     },
     {
-      "pmid": "42527603",
-      "title": "Miniaturizing and modifying natural proteins with Raygun.",
-      "abstract": "Proteins have evolved over billions of years through coordinated substitutions, insertions and deletions, yet computational protein design cannot fully replicate nature's ability to engineer new proteins from existing templates. Protein language models1-3 generate informative per-residue representations, but harnessing them for large-scale, function-preserving sequence modifications has remained beyond reach. Here we introduce Raygun, a generative artificial intelligence framework that enables miniaturization, modification and augmentation of proteins, using a probabilistic encoding of protein sequences constructed from language model embeddings. Our key conceptual advance is to encode each protein not as a sequence of variable length in high-dimensional space, but as a probability distribution in fixed dimensions, making proteins of any length directly commensurable. Controlled by just two parameters governing substitutions and length changes, Raygun can shrink proteins by 10-25% (sometimes more than 50%), expand them beyond their natural size, and introduce extensive sequence diversity, all while preserving predicted structural integrity and functional sites. In cell-based validation, Raygun miniaturized fluorescent proteins (2 shorter than 96% of fluorescent proteins in FPbase) and TurboID, a synthetic biotin ligase that has been widely adopted for proteomics. It also expanded epidermal growth factor (EGF), generating variants with higher EGFR-binding affinity than the wild type. These results show that protein function can be faithfully captured in a length-agnostic representation, enabling the kind of coordinated, large-scale sequence modifications that characterize natural protein evolution.",
-      "journal": "Nature",
+      "pmid": "42546853",
+      "title": "Oncofetal chondroitin sulfate on tumor-derived extracellular vesicles: an emerging multivalent target for liquid biopsy.",
+      "abstract": "Circulating tumor-derived extracellular vesicles (tdEVs) offer a minimally invasive source of real-time molecular information from cancers. Detection of tdEVs, however, is hindered by their heterogeneity, scarcity, and lack of robust identification markers. Oncofetal chondroitin sulfate (ofCS), a placenta-associated glycosaminoglycan that is commonly re-expressed in cancer, has emerged as a promising, multivalent surface handle to recognize circulating tumor cells and proteoglycans in liquid biopsies. Recent work demonstrates that tdEVs released by diverse cancer cell lines and in plasma from patients with pancreatic cancer expose ofCS. This mini-review evaluates these findings and defines priorities for clinical translation.",
+      "journal": "Biochimica et biophysica acta. Reviews on cancer",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "affiliations": [
-        "Department of Biostatistics and Bioinformatics, Duke University, Durham, NC, USA.",
-        "Department of Cell Biology, Duke University, Durham, NC, USA.",
-        "Department of Chemistry and Biochemistry, University of California San Diego, San Diego, CA, USA.",
-        "Department of Cell Biology, Duke University, Durham, NC, USA. scott.soderling@duke.edu.",
-        "Department of Biostatistics and Bioinformatics, Duke University, Durham, NC, USA. rohit.singh@duke.edu.",
-        "Department of Cell Biology, Duke University, Durham, NC, USA. rohit.singh@duke.edu."
+        "Oncode Institute and Department of Cell and Chemical Biology, Leiden University Medical Center, Leiden, the Netherlands.",
+        "Amsterdam UMC, University of Amsterdam, Laboratory of Experimental Clinical Chemistry, Laboratory Specialized Diagnostics & Research, Department of Laboratory Medicine, Amsterdam, the Netherlands.",
+        "Oncode Institute and Department of Cell and Chemical Biology, Leiden University Medical Center, Leiden, the Netherlands; Amsterdam UMC, University of Amsterdam, Laboratory of Experimental Clinical Chemistry, Laboratory Specialized Diagnostics & Research, Department of Laboratory Medicine, Amsterdam, the Netherlands; Amsterdam UMC, University of Amsterdam, Biomedical Engineering & Physics, Amsterdam, the Netherlands. Electronic address: a.enciso_martinez@lumc.nl."
       ],
-      "doi": "10.1038/s41586-026-10842-8",
-      "date": "2026-07-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527603/"
+      "doi": "10.1016/j.bbcan.2026.189674",
+      "date": "2026-08-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546853/"
     },
     {
       "pmid": "42545218",
@@ -459,127 +482,20 @@
       "doi": "10.11406/rinketsu.67.691",
       "date": "2026-01-01",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543635/"
-    },
-    {
-      "pmid": "42542428",
-      "title": "Personalized circulating tumor DNA-based minimal residual disease assessment for optimizing interval debulking surgery timing in advanced ovarian cancer: toward precision surgical oncology.",
-      "abstract": "",
-      "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
-      "publicationTypes": [
-        "Editorial"
-      ],
-      "affiliations": [
-        "FMH College of Medicine and Dentistry, Lahore, Pakistan. Electronic address: sharjeelhaider468@gmail.com."
-      ],
-      "doi": "10.1016/j.ijgc.2026.104865",
-      "date": "2026-07-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42542428/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42546203",
-      "date": "2026-08-03",
-      "title": "Cell surface ADGRG1 and CD86 expression identifies antitumor CD4+ T cells in human cancer.",
+      "id": "pubmed-42547063",
+      "date": "2026-08-04",
+      "title": "New Approach Methodologies (NAMs) Complement but Cannot Replace Animal Models in Critical Care Medicine Research.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546203/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42546203。",
-      "report": "Adoptive cell transfer of tumor infiltrating CD4+ T cells or T cells genetically modified to express antitumor CD4+ T cell receptors (TCRs) has shown clinical efficacy in patients with advanced solid tumors. We previously defined unique transcriptomic states o...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42545667",
-      "date": "2026-08-03",
-      "title": "Hydrogels: current biomedical applications and future directions.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42545667/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular biomedicine，PMID 为 42545667。",
-      "report": "Hydrogels are highly hydrated three-dimensional polymeric network materials that have attracted considerable attention in medical and biomedical fields owing to their favorable chemical modifiability, physical tunability, biocompatibility, and capacity to mimi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42545664",
-      "date": "2026-08-03",
-      "title": "Neurons Die Not by One Hit, but by Signaling Convergence.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42545664/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular neurobiology，PMID 为 42545664。",
-      "report": "There is an emerging understanding of neurodegenerative diseases as complex diseases with a combination of multiple interrelated signaling pathways as opposed to one causative factor. This review examines the idea that neurons do not die in a single event, but...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42545256",
-      "date": "2026-08-03",
-      "title": "Organoid-based evaluation of SA55 and Pemivibart against evolving SARS-CoV-2 variants.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42545256/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42547063/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -587,31 +503,33 @@
         "Organoids",
         "Advanced Disease Models",
         "Clinical Evidence",
-        "Regulatory Watch"
+        "Regulatory Watch",
+        "Drug Screening"
       ],
       "tags": [
         "类器官",
         "疾病模型",
         "临床",
-        "监管"
+        "监管",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Emerging microbes & infections，PMID 为 42545256。",
-      "report": "Pemivibart, a class 1/4 monoclonal antibody (mAb), is currently the only FDA-authorized SARS-CoV-2 mAb under an Emergency Use Authorization (EUA) in clinical use. The emergence of subvariants, including KP.3.1.1 and XFG, raises concerns about antibody efficacy...",
+      "fact": "PubMed 记录显示该文献收录于 Journal of leukocyte biology，PMID 为 42547063。",
+      "report": "Critical care research focuses on life-threatening conditions such as sepsis, trauma, hemorrhage, and burn injury, which account for millions of hospitalizations and hundreds of thousands of deaths annually in the United States alone. Recent policy initiatives...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42545071",
+      "id": "pubmed-42547580",
       "date": "2026-08-03",
-      "title": "Identification of a Duplication in the RP17 Locus in an Individual With Pathogenic CEP290 Variants: Implications for RP17 Variant Classification.",
+      "title": "Cadherin 1 negatively regulates SARS-CoV-2 infection in the olfactory epithelium.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42545071/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42547580/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -624,9 +542,159 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Investigative ophthalmology & visual science，PMID 为 42545071。",
-      "report": "To assess the pathogenicity of a novel duplication in the RP17 locus identified in a cone dystrophy proband with biallelic CEP290 variants. Structural variants (SVs) in this locus have previously been associated with dominant retinitis pigmentosa. Inheritance...",
+      "fact": "PubMed 记录显示该文献收录于 EMBO reports，PMID 为 42547580。",
+      "report": "Olfactory dysfunction is a major symptom of COVID-19 syndrome. The critical genes contributing to SARS-CoV-2 infection are not fully understood. Here, we identified Cadherin 1 (CDH1), a hub in the interaction network of viral entry-related genes in human and m...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42546938",
+      "date": "2026-08-03",
+      "title": "Digestive and fermentative characteristics of B-type maize starch associated with microbiota-metabolite remodeling and enhanced intestinal stem cell activity.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546938/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of biological macromolecules，PMID 为 42546938。",
+      "report": "Among different types of resistant starch (RS), high-amylose maize starch serves as a representative B-type starch (B-type) sample and exhibits strong digestive resistance. However, the relationships among its structure-derived digestive resistance, microbial...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42546910",
+      "date": "2026-08-03",
+      "title": "Nephrotoxicity and innovative risk assessment of cinnabar-containing An-Gong-NiuH-uang Wan based on bioavailability and speciation using on an IPBET/small intestinal organ-on-a-chip.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546910/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Pharmacological research，PMID 为 42546910。",
+      "report": "An-Gong-Niu-Huang Wan (AGNHW) is a traditional Chinese medicine preparation containing cinnabar (HgS). However, its clinical use has been controversial due to concerns regarding mercury nephrotoxicity. To evaluate the renal toxicity, mice were administered AGN...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42546925",
+      "date": "2026-08-03",
+      "title": "Combined anti-PD-1 with irreversible electroporation relieves immunosuppression and reduces hepatocellular carcinoma regrowth.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546925/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 JHEP reports : innovation in hepatology，PMID 为 42546925。",
+      "report": "Local ablation triggers anti-tumor response and is regarded as an encouraging treatment combined with immunotherapy for hepatocellular carcinoma (HCC). Irreversible electroporation (IRE) is a novel ablative technique eliminating tumor cells by electroporation,...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42546769",
+      "date": "2026-08-03",
+      "title": "Human gastric extracellular matrix hydrogels maintain organoid growth and reduce gene expression associated with stemness and inflammation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546769/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biomedical materials (Bristol, England)，PMID 为 42546769。",
+      "report": "Human gastric organoids (HGOs) are 3-D cultures of primary gastric epithelial cells that serve as in vitro models for gastric epithelial physiology, development, and disease. The extracellular matrix material that organoids are maintained in provides crucial s...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42546853",
+      "date": "2026-08-03",
+      "title": "Oncofetal chondroitin sulfate on tumor-derived extracellular vesicles: an emerging multivalent target for liquid biopsy.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546853/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biochimica et biophysica acta. Reviews on cancer，PMID 为 42546853。",
+      "report": "Circulating tumor-derived extracellular vesicles (tdEVs) offer a minimally invasive source of real-time molecular information from cancers. Detection of tdEVs, however, is hindered by their heterogeneity, scarcity, and lack of robust identification markers. On...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -746,33 +814,32 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42545893",
-      "date": "2026-08-00",
-      "title": "CLRN1 Variants in Müller Cells Cause Mitochondrial Dysfunction in USH3A Retinal Organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "id": "pubmed-42546624",
+      "date": "2026-07-31",
+      "title": "Protein modification: convergence of artificial intelligence, synthetic biology, and nano-assembly.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42545893/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546624/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
+        "AI for Biology",
+        "Drug Discovery"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 CNS neuroscience & therapeutics，PMID 为 42545893。",
-      "report": "Usher syndrome 3A (USH3A), caused by mutations in the CLRN1 gene, leads to retinitis pigmentosa and sensorineural hearing loss. While CLRN1's role in inner ear pathology is established, its contribution to retinal degeneration remains poorly understood. Retina...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Food chemistry，PMID 为 42546624。",
+      "report": "The extensive application of biosynthetically produced proteins in advanced food systems remains limited because of functional deficiencies, including poor solubility, inadequate emulsifying activity, and low in vitro digestibility. To address this gap, this s...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -864,35 +931,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42531048。",
       "report": "Deep learning has revolutionized computational protein design, enabling the generation of sequences that fold onto target backbones with unprecedented accuracy. However, state-of-the-art inverse folding tools largely rely on auto-regressive sampling. While pow...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42527603",
-      "date": "2026-07-29",
-      "title": "Miniaturizing and modifying natural proteins with Raygun.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527603/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature，PMID 为 42527603。",
-      "report": "Proteins have evolved over billions of years through coordinated substitutions, insertions and deletions, yet computational protein design cannot fully replicate nature's ability to engineer new proteins from existing templates. Protein language models1-3 gene...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1101,34 +1139,6 @@
       "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42539229。",
       "report": "Generative artificial intelligence (AI) has emerged as a powerful framework for drug discovery, yet most current approaches follow one-drug-one-gene target-based paradigms that struggle to capture the complexity and heterogeneity of chronic and systemic diseas...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42542428",
-      "date": "2026-07-11",
-      "title": "Personalized circulating tumor DNA-based minimal residual disease assessment for optimizing interval debulking surgery timing in advanced ovarian cancer: toward precision surgical oncology.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42542428/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of gynecological cancer : official journal of the International Gynecological Cancer Society，PMID 为 42542428。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
