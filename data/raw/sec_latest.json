@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-04T09:12:22.878136+00:00",
+  "capturedAt": "2026-08-04T14:42:22.811799+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-07-21",
@@ -139,6 +139,81 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-08-04",
+      "reportDate": "2026-06-30",
+      "acceptanceDateTime": "2026-08-04T07:13:59.000Z",
+      "act": "34",
+      "form": "10-Q",
+      "fileNumber": "001-39208",
+      "filmNumber": "261235433",
+      "items": "",
+      "size": 12347478,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "beam-20260630.htm",
+      "primaryDocDescription": "10-Q",
+      "accessionNumber": "0001193125-26-331541",
+      "companyId": "beam-therapeutics",
+      "companyName": "Beam Therapeutics",
+      "companyDirections": [
+        "Gene Editing"
+      ],
+      "secTicker": "BEAM",
+      "cik": "0001745999",
+      "secName": "Beam Therapeutics Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331541/beam-20260630.htm"
+    },
+    {
+      "filingDate": "2026-08-04",
+      "reportDate": "2026-08-04",
+      "acceptanceDateTime": "2026-08-04T07:09:08.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-39208",
+      "filmNumber": "261235423",
+      "items": "2.02,9.01",
+      "size": 416906,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "beam-20260804.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001193125-26-331522",
+      "companyId": "beam-therapeutics",
+      "companyName": "Beam Therapeutics",
+      "companyDirections": [
+        "Gene Editing"
+      ],
+      "secTicker": "BEAM",
+      "cik": "0001745999",
+      "secName": "Beam Therapeutics Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331522/beam-20260804.htm"
+    },
+    {
+      "filingDate": "2026-08-04",
+      "reportDate": "2026-08-04",
+      "acceptanceDateTime": "2026-08-04T07:02:24.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-38672",
+      "filmNumber": "261235403",
+      "items": "2.02,9.01",
+      "size": 360125,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "arvn-20260804.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001628280-26-052139",
+      "companyId": "arvinas",
+      "companyName": "Arvinas",
+      "companyDirections": [
+        "Targeted Protein Degradation"
+      ],
+      "secTicker": "ARVN",
+      "cik": "0001655759",
+      "secName": "ARVINAS, INC.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1655759/000162828026052139/arvn-20260804.htm"
+    },
     {
       "filingDate": "2026-08-03",
       "reportDate": "2026-06-30",
@@ -568,6 +643,99 @@
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001745999-000119312526331541",
+      "date": "2026-08-04",
+      "title": "Beam Therapeutics filed Form 10-Q",
+      "entity": "Beam Therapeutics",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331541/beam-20260630.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Gene Editing"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "BEAM"
+      ],
+      "companyIds": [
+        "beam-therapeutics"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-331541 for Beam Therapeutics, Form 10-Q, filed on 2026-08-04.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001745999-000119312526331522",
+      "date": "2026-08-04",
+      "title": "Beam Therapeutics filed Form 8-K",
+      "entity": "Beam Therapeutics",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331522/beam-20260804.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Gene Editing"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "BEAM"
+      ],
+      "companyIds": [
+        "beam-therapeutics"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-331522 for Beam Therapeutics, Form 8-K, filed on 2026-08-04.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001655759-000162828026052139",
+      "date": "2026-08-04",
+      "title": "Arvinas filed Form 8-K",
+      "entity": "Arvinas",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1655759/000162828026052139/arvn-20260804.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Targeted Protein Degradation"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "ARVN"
+      ],
+      "companyIds": [
+        "arvinas"
+      ],
+      "fact": "SEC EDGAR lists accession 0001628280-26-052139 for Arvinas, Form 8-K, filed on 2026-08-04.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001674416-000119312526330672",
       "date": "2026-08-03",

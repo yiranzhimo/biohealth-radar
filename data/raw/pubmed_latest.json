@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-04T09:12:14.959270+00:00",
+  "capturedAt": "2026-08-04T14:42:15.309697+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-04"
   },
   "pmids": [
+    "42548623",
+    "42547978",
+    "42547828",
     "42547580",
-    "42546938",
-    "42546910",
     "42547063",
-    "42546925",
-    "42546769",
+    "42546938",
     "42509463",
     "42498177",
     "42497867",
@@ -32,14 +32,75 @@
     "42540288",
     "42539229",
     "42531048",
+    "42548867",
+    "42547899",
     "42546853",
     "42545218",
     "42544420",
-    "42544030",
-    "42543673",
-    "42543635"
+    "42548680"
   ],
   "records": [
+    {
+      "pmid": "42548623",
+      "title": "From patient-derived tumor organoids to personalized cancer therapy: advancing treatment for advanced solid tumors.",
+      "abstract": "Cancer remains a major global public health burden, with high morbidity and mortality. Despite advances in treatment strategies, many patients with advanced solid tumors face treatment resistance and limited therapeutic options. Patient-derived tumor organoids (PDTOs) have emerged as promising preclinical models for personalized medicine, but their clinical translational potential in guiding individualized treatment for advanced solid tumors requires further validation. The sample data of 164 solid tumors used for establishing organoids were retrospectively analyzed, and a clinical cohort involving 23 patients with advanced solid tumors was used to validate the feasibility of PDTOs in predicting the treatment response. The concordance between PDTO drug responses and clinical outcomes was evaluated using Cohen's Kappa test. The overall establishment success rate of organoids reached 91.5%, with the rates ranging from 90.6% to 92.6% across different cancer types. Histopathological analysis confirmed that PDTOs partially recapitulated the histopathological features and proliferative activity of matched original tumors. PDTO-based drug sensitivity testing showed good concordance with clinical treatment outcomes of patients with advanced solid tumors, yielding an overall accuracy of 85.0%, a sensitivity of 86.7%, a specificity of 80.0%. Clinical case studies further highlighted the unique value of PDTOs in overcoming multidrug resistance in advanced solid tumors. This study demonstrates that PDTOs exhibit favorable potential for predicting treatment responses in patients with advanced solid tumors, and may serve as a promising auxiliary companion diagnostic tool to inform personalized cancer therapy and assist in evaluating multidrug resistance for advanced solid tumors. Future large-scale, multicenter studies with stratified subgroup validations are warranted to further verify the clinical translational value of PDTOs in individualized tumor treatment.",
+      "journal": "Frontiers in oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Chemoradiation, North China University of Science and Technology Affiliated Hospital, Tangshan, Hebei, China.",
+        "Department of Pain, North China University of Science and Technology Affiliated Hospital, Tangshan, Hebei, China.",
+        "Central Laboratory, Shanxi Province Cancer Hospital/Shanxi Hospital Affiliated to Cancer Hospital, Chinese Academy of Medical Sciences/Cancer Hospital Affiliated to Shanxi Medical University, Taiyuan, China.",
+        "Department of Thoracic Surgery, Tangshan Workers' Hospital, Tangshan, Hebei, China."
+      ],
+      "doi": "10.3389/fonc.2026.1880986",
+      "date": "2026-07-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42548623/"
+    },
+    {
+      "pmid": "42547978",
+      "title": "Dual epithelial-mesenchymal induction of Sfrp1/Frzb constrains alveolar epithelial differentiation in neonatal hyperoxia-induced lung injury.",
+      "abstract": "Bronchopulmonary dysplasia (BPD) is a major complication of prematurity, characterized by impaired alveolar epithelium regeneration and long-term respiratory morbidity. The cellular basis of this defect and the underlying epithelial-mesenchymal signals remain unclear. To define alveolar type 2 (AT2) cell heterogeneity and regenerative capacity, we analyzed lineage-traced AT2 cells in neonatal mice exposed to hyperoxia (85% O2, postnatal days 1-14). We assessed cellular states and function by flow cytometry, transcriptomics, and organoid assays. During normal lung development, AT2 cells gradually segregated into two transcriptionally distinct subpopulations, TomHigh and TomLow. TomHigh cells exhibited canonical AT2 identity, lipid metabolism, and enhanced mitochondrial function, showing strong organoid-forming and differentiation potential. TomLow cells displayed metabolic restriction and limited regenerative capacity. Hyperoxia caused alveolar simplification, expanding TomLow cells at the expense of TomHigh cells. AT2 cells entered a proliferative state and became Krt8+ transitional cells, but RNA velocity and lineage analyses showed impaired maturation toward AT1 cells, leading to persistent AT1 deficiency. Hyperoxia induced Sfrp1 and Frzb expression in a rare but detectable Sftpc+Acta2+ AT2 subset, and more prominently in Pdgfra+ fibroblasts, which adopted a myofibroblast-like phenotype. Fibroblast-epithelial co-culture and fibroblast-specific Sfrp1/Frzb overexpression impaired organoid formation and reduced AT2-to-AT1 differentiation. These findings identify a fibroblast-dominated Sfrp1/Frzb-mediated niche that constrains AT2 differentiation into AT1 cells, providing a cellular basis for impaired alveolar regeneration in BPD and suggesting potential therapeutic targets.",
+      "journal": "American journal of respiratory cell and molecular biology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Pediatric Respiratory Medicine, The Second Affiliated Hospital and Yuying Children's Hospital of Wenzhou Medical University, Wenzhou, Zhejiang 325027, China.",
+        "Department of Respiratory and Critical Care Medicine, The Quzhou Affiliated Hospital of Wenzhou Medical University, Quzhou People's Hospital, Quzhou, Zhejiang 324000, China.",
+        "Zhejiang-German Joint Laboratory for Lung Injury Repair and Regeneration, The Quzhou Affiliated Hospital of Wenzhou Medical University (Quzhou People's Hospital), Quzhou, Zhejiang 324000, China.",
+        "Department of Pediatric Respiratory Medicine, National Key Clinical Specialty of Pediatric Respiratory Medicine, Institute of Pediatrics, The Second Affiliated Hospital and Yuying Children's Hospital of Wenzhou Medical University, Wenzhou 325027, China."
+      ],
+      "doi": "10.1093/ajrcmb/aanag152",
+      "date": "2026-08-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42547978/"
+    },
+    {
+      "pmid": "42547828",
+      "title": "Author Correction: Maturation and circuit integration of transplanted human cortical organoids.",
+      "abstract": "",
+      "journal": "Nature",
+      "publicationTypes": [
+        "Published Erratum"
+      ],
+      "affiliations": [
+        "Department of Psychiatry and Behavioral Sciences, Stanford University, Stanford, CA, USA.",
+        "Stanford Brain Organogenesis, Wu Tsai Neurosciences Institute and Bio-X, Stanford University, Stanford, CA, USA.",
+        "Department of Bioengineering, Stanford University, Stanford, CA, USA.",
+        "Department of Chemistry, Stanford University, Stanford, CA, USA.",
+        "Stanford Behavioral and Functional Neuroscience Laboratory, Wu Tsai Neurosciences Institute, Stanford University, Stanford, CA, USA.",
+        "Department of Comparative Medicine, Stanford University, Stanford, CA, USA.",
+        "Department of Neurosurgery, Stanford University, Stanford, CA, USA.",
+        "Department of Neurology and Neurological Sciences, Stanford, CA, USA.",
+        "Howard Hughes Medical Institute, Stanford University, Stanford, CA, USA.",
+        "Department of Psychiatry and Behavioral Sciences, Stanford University, Stanford, CA, USA. spasca@stanford.edu.",
+        "Stanford Brain Organogenesis, Wu Tsai Neurosciences Institute and Bio-X, Stanford University, Stanford, CA, USA. spasca@stanford.edu."
+      ],
+      "doi": "10.1038/s41586-026-10943-4",
+      "date": "2026-08-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42547828/"
+    },
     {
       "pmid": "42547580",
       "title": "Cadherin 1 negatively regulates SARS-CoV-2 infection in the olfactory epithelium.",
@@ -63,42 +124,6 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42547580/"
     },
     {
-      "pmid": "42546938",
-      "title": "Digestive and fermentative characteristics of B-type maize starch associated with microbiota-metabolite remodeling and enhanced intestinal stem cell activity.",
-      "abstract": "Among different types of resistant starch (RS), high-amylose maize starch serves as a representative B-type starch (B-type) sample and exhibits strong digestive resistance. However, the relationships among its structure-derived digestive resistance, microbial metabolism, intestinal epithelial stem cell activity, and barrier-related phenotypes remain unclear. In this study, common maize starch and high-amylose maize starch were used as representative A-type starch (A-type) and B-type samples, respectively. Multiscale structural characterization, in vitro digestion, fecal fermentation, 16S rRNA gene sequencing, untargeted metabolomics, and a mouse colonic organoid model were integrated. Compared with A-type, B-type showed smaller and more heterogeneous granules, a distinct crystalline structure, altered short-range order, and higher thermal transition temperatures. The hydrolysis index decreased from 98.03% in A-type to 82.14% in B-type, whereas RS content increased from 15.71% to 24.57%, together with slower hydrolysis. During in vitro fermentation, B-type reshaped the bacterial community structure and increased the relative abundances of Bifidobacterium adolescentis and Bacteroides ovatus compared with A-type. These shifts were accompanied by differences in PICRUSt2-predicted microbial functional potential and fermentation metabolite profiles, mainly involving amino acid, central carbon, and coenzyme-related metabolism. B-type fermentation supernatant produced the strongest organoid budding response, with significantly more buds than the control and A-type groups. Lgr5 and ChgA signals were also higher than in the A-type group, consistent with stronger epithelial stem-cell activity and differentiation-related phenotypes. Integrated correlation analysis and structural equation modeling showed positive associations among starch resistance, microbiota remodeling, predicted microbial functional potential, metabolite shifts, and epithelial growth- and barrier-related phenotypes.",
-      "journal": "International journal of biological macromolecules",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, 214122, China; School of Food Science and Technology, Jiangnan University, Wuxi, 214122, China.",
-        "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, 214122, China; School of Food Science and Technology, Jiangnan University, Wuxi, 214122, China; Instrumental Analysis and Laboratory Animal Center, Jiangnan University, Wuxi, 214122, China. Electronic address: yqtian@jiangnan.edu.cn."
-      ],
-      "doi": "10.1016/j.ijbiomac.2026.153910",
-      "date": "2026-08-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546938/"
-    },
-    {
-      "pmid": "42546910",
-      "title": "Nephrotoxicity and innovative risk assessment of cinnabar-containing An-Gong-NiuH-uang Wan based on bioavailability and speciation using on an IPBET/small intestinal organ-on-a-chip.",
-      "abstract": "An-Gong-Niu-Huang Wan (AGNHW) is a traditional Chinese medicine preparation containing cinnabar (HgS). However, its clinical use has been controversial due to concerns regarding mercury nephrotoxicity. To evaluate the renal toxicity, mice were administered AGNHW, cinnabar, methylmercury (MeHg), and mercuric chloride (HgCl₂) for 28 days. Blood biochemistry, histopathology, and the expression of nephrotoxicity-sensitive genes were assessed. To assess the health risks associated with AGNHW, we established an innovative Physiologically Based Extraction Test (IPBET) /small intestinal organ-on-a-chip model for the first time to simulate gastrointestinal digestion and absorption of mercury from AGNHW. This organ-on-a-chip model with HPLC-ICP-MS enabled the first determination of bioavailable mercury species in AGNHW. Urinary creatinine (UCr), total protein (TP), kidney injury molecule-1 (Kim-1), α1-microglobulin (a1-MG), N-cadherin levels, and histological findings in the MeHg and HgCl₂ groups showed significant differences compared to the control, cinnabar, and AGNHW groups. The expression of F4/80, CD11b, and MMP7 was markedly altered in the MeHg group. Our organ-on-a-chip model revealed that bioavailable MeHg in the MeHg group was 298-fold and 27-fold higher compared to the control and AGNHW groups. Our refined risk assessment indicated that, when adjusted by bioavailability and speciation, the health risks associated with mercury exposure from AGNHW consumption were acceptable. Collectively, considering bioavailability and mercury species, our IPBET/small intestinal organ-on-a-chip provides a novel approach for assessing cinnabar exposure risks in AGNHW. Our study provides a scientific basis that AGNHW and cinnabar are much less nephrotoxic than HgCl2 and MeHg, and does not pose a significant threat to human health clinically.",
-      "journal": "Pharmacological research",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "National Institutes for Food and Drug Control, State Key Laboratory of Drug Regulatory Science, Beijing 100050, China.",
-        "National Institutes for Food and Drug Control, State Key Laboratory of Drug Regulatory Science, Beijing 100050, China; Key Laboratory of Drug Quality Control and Pharmacovigilance (China Pharmaceutical University), Ministry of Education, Nanjing 210009, China.",
-        "State Key Laboratory of Bioactive Substance and Function of Natural Medicines, Institute of Materia Medica, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100050, China.",
-        "Key Laboratory of Drug Quality Control and Pharmacovigilance (China Pharmaceutical University), Ministry of Education, Nanjing 210009, China. Electronic address: fengguoxu@cpu.edu.cn.",
-        "State Key Laboratory of Bioactive Substance and Function of Natural Medicines, Institute of Materia Medica, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100050, China. Electronic address: hukuan@imm.ac.cn.",
-        "National Institutes for Food and Drug Control, State Key Laboratory of Drug Regulatory Science, Beijing 100050, China. Electronic address: 18611836172@163.com."
-      ],
-      "doi": "10.1016/j.phrs.2026.108364",
-      "date": "2026-08-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546910/"
-    },
-    {
       "pmid": "42547063",
       "title": "New Approach Methodologies (NAMs) Complement but Cannot Replace Animal Models in Critical Care Medicine Research.",
       "abstract": "Critical care research focuses on life-threatening conditions such as sepsis, trauma, hemorrhage, and burn injury, which account for millions of hospitalizations and hundreds of thousands of deaths annually in the United States alone. Recent policy initiatives by the U.S. Food and Drug Administration (FDA) and the National Institutes of Health (NIH) have promoted New Approach Methodologies (NAMs), including organoids, organ-on-chip platforms, and computational models, as alternatives to animal research. While NAMs offer valuable tools for mechanistic investigation and screening applications, this review examines whether current NAM technologies can adequately replace animal models in critical care research. Critical illness involves the whole organism, including dynamic organ-organ interactions, immune-microbiome crosstalk, and adaptive systemic feedback loops. By examining major domains in critical care research and targeted organ injuries, it becomes clear that while NAMs excel at interrogating isolated subsystems, they cannot currently replicate integrated physiological responses. Animal models remain essential for questions requiring assessment of multi-organ dysfunction, therapeutic safety evaluation, and clinically relevant disease trajectories. Premature policy shifts away from animal research will impede advances in critical care medicine. This review proposes a \"methodological pluralism\" approach that integrates NAMs with appropriately designed animal studies through harmonized endpoints and reverse-translation frameworks. Recommendations include continued refinement of animal models to better represent the heterogeneity of human populations, adoption of quality standards for preclinical research, and strategic deployment of both NAMs and animal models based on fit-for-purpose criteria. We believe this approach will satisfy ethical considerations, scientific rigor, and public health needs in critical care research.",
@@ -120,51 +145,20 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42547063/"
     },
     {
-      "pmid": "42546925",
-      "title": "Combined anti-PD-1 with irreversible electroporation relieves immunosuppression and reduces hepatocellular carcinoma regrowth.",
-      "abstract": "Local ablation triggers anti-tumor response and is regarded as an encouraging treatment combined with immunotherapy for hepatocellular carcinoma (HCC). Irreversible electroporation (IRE) is a novel ablative technique eliminating tumor cells by electroporation, however, the characteristics of IRE-induced immune microenvironment and underlying mechanism remain unclear. We developed an orthotopic immunocompetent HCC mouse model and performed incomplete IRE-ablation. The post-IRE immune microenvironment was characterized by RNA sequencing, single-cell RNA sequencing, flow cytometry, and multiplex immunofluorescence. Cytokine-chemokine array and organoid-immune cell co-culture were used to investigate the functions and underlying mechanism. The combination therapy of IRE and anti-PD-1 was examined for HCC treatment in mice. IRE initially inhibited HCC growth, but tumors rapidly regrew by day 14 after ablation, with increased Ly6G+ Polymorphonuclear (PMN) Myeloid-Derived Suppressor Cells (MDSCs) infiltration and CD8+ T cell exhaustion. In patient-derived HCC organoids, IRE-induced CD8+ T cell cytotoxicity was suppressed by MDSCs. Ly6G antibody-mediated PMN-MDSC depletion repressed HCC regrowth after IRE-ablation in vivo (1.29±0.12 vs 0.49±0.09 g, p<0.001). Mechanistically, HCC cells degraded CXCL10 mRNA via YTH N6-methyladenosine RNA binding protein F2 (YTHDF2), which activated MDSCs that led to CD8+ T cells exhaustion. Combined anti-PD-1 and IRE reduced tumor burden by 84.3% compared with IRE alone (0.22±0.08 vs 1.43±0.13 g, p<0.01), prolonged survival (day-60 survival: 93.33% vs 40%, p<0.001), and induced long-term anti-tumor immunity in mice. Four unresectable recurrent HCC patients treated with IRE plus anti-PD-1 therapy showed improved recurrence-free time than patients receiving IRE alone. PMN-MDSCs mediated immunosuppression that promoted HCC regrowth after incomplete IRE ablation. Combining anti-PD-1 therapy is a promising approach to eliminate post-ablation residual HCC, supporting evaluation in prospecitve clinical trials. Post-ablation recurrence remains a major challenge in HCC. Here, we show that although IRE initially activates CD8+ T cells but subsequently promotes PMN-MDSCs activation and CD8+ T-cell exhaustion through YTHDF2-mediated CXCL10 mRNA degradation, resulting in a suppressive tumor immune microenvironment (TIME). These findings identify a previously unrecognized mechanism of post-IRE tumor regrowth and provide a rationale for early combination with anti-PD-1 therapy. Although further prospective clinical validation is required, this work suggests that monitoring post-ablation immune changes and applying rational immunotherapy combinations may help optimize treatment strategies for patients with HCC undergoing local ablation.",
-      "journal": "JHEP reports : innovation in hepatology",
+      "pmid": "42546938",
+      "title": "Digestive and fermentative characteristics of B-type maize starch associated with microbiota-metabolite remodeling and enhanced intestinal stem cell activity.",
+      "abstract": "Among different types of resistant starch (RS), high-amylose maize starch serves as a representative B-type starch (B-type) sample and exhibits strong digestive resistance. However, the relationships among its structure-derived digestive resistance, microbial metabolism, intestinal epithelial stem cell activity, and barrier-related phenotypes remain unclear. In this study, common maize starch and high-amylose maize starch were used as representative A-type starch (A-type) and B-type samples, respectively. Multiscale structural characterization, in vitro digestion, fecal fermentation, 16S rRNA gene sequencing, untargeted metabolomics, and a mouse colonic organoid model were integrated. Compared with A-type, B-type showed smaller and more heterogeneous granules, a distinct crystalline structure, altered short-range order, and higher thermal transition temperatures. The hydrolysis index decreased from 98.03% in A-type to 82.14% in B-type, whereas RS content increased from 15.71% to 24.57%, together with slower hydrolysis. During in vitro fermentation, B-type reshaped the bacterial community structure and increased the relative abundances of Bifidobacterium adolescentis and Bacteroides ovatus compared with A-type. These shifts were accompanied by differences in PICRUSt2-predicted microbial functional potential and fermentation metabolite profiles, mainly involving amino acid, central carbon, and coenzyme-related metabolism. B-type fermentation supernatant produced the strongest organoid budding response, with significantly more buds than the control and A-type groups. Lgr5 and ChgA signals were also higher than in the A-type group, consistent with stronger epithelial stem-cell activity and differentiation-related phenotypes. Integrated correlation analysis and structural equation modeling showed positive associations among starch resistance, microbiota remodeling, predicted microbial functional potential, metabolite shifts, and epithelial growth- and barrier-related phenotypes.",
+      "journal": "International journal of biological macromolecules",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Oncology, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China.",
-        "Institute of Precision Medicine, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China.",
-        "Department of Gastrointestinal Surgery, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China.",
-        "Department of Urology Surgery, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China.",
-        "Department of Rheumatology, The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China.",
-        "Department of Gastroenterology and Hepatology, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China.",
-        "Division of Interventional Ultrasound, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China.",
-        "Institute of Precision Medicine, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China; Department of Gastroenterology and Hepatology, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China; Clinical Trials Unit, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China.",
-        "Institute of Precision Medicine, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China; Center of Hepato-Pancreato-Biliary Surgery, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China; Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong Province, China.",
-        "Division of Interventional Ultrasound, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China. Electronic address: xiaoh69@mail.sysu.edu.cn.",
-        "Division of Interventional Ultrasound, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China. Electronic address: chenshling@mail.sysu.edu.cn.",
-        "Center of Hepato-Pancreato-Biliary Surgery, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong Province, China. Electronic address: daizh7@mail.sysu.edu.cn."
+        "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, 214122, China; School of Food Science and Technology, Jiangnan University, Wuxi, 214122, China.",
+        "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, 214122, China; School of Food Science and Technology, Jiangnan University, Wuxi, 214122, China; Instrumental Analysis and Laboratory Animal Center, Jiangnan University, Wuxi, 214122, China. Electronic address: yqtian@jiangnan.edu.cn."
       ],
-      "doi": "10.1016/j.jhepr.2026.101977",
+      "doi": "10.1016/j.ijbiomac.2026.153910",
       "date": "2026-08-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546925/"
-    },
-    {
-      "pmid": "42546769",
-      "title": "Human gastric extracellular matrix hydrogels maintain organoid growth and reduce gene expression associated with stemness and inflammation.",
-      "abstract": "Human gastric organoids (HGOs) are 3-D cultures of primary gastric epithelial cells that serve as in vitro models for gastric epithelial physiology, development, and disease. The extracellular matrix material that organoids are maintained in provides crucial signals to the epithelial cells, regulating their function and growth. We here describe the application of human gastric ECM (hgECM) for HGO cultures, to provide a tissue- and species-specific growth matrix. &#xD;Methods: We prepared hgECM from human gastric tissue by decellularization and then compared HGO growth, differentiation, and function in hgECM and in the traditionally used Matrigel. The composition, structure, and rheological properties of the hgECM were determined using tandem mass spectrometry, scanning electron microscopy, and rheometry. Transcriptional profiles of HGOs grown in hgECM and Matrigel were compared using single cell RNA sequencing (scRNAseq). &#xD;Results: Proteome analysis showed that hgECM was rich in collagens, whereas Matrigel was predominantly composed of glycoproteins such as laminin. The structure of hgECM was fibrous, befitting its collagen composition, while Matrigel was porous. The viscosity and stiffness of hgECM were found to be lower than Matrigel. HgECM supported robust growth of HGOs. ScRNAseq showed that cell type composition of HGOs in each ECM was comparable. However, HGOs in hgECM had reduced expression of genes associated with stem cells, epithelial-mesenchymal transition, stress, and inflammation compared to HGO grown in Matrigel. Conversely, HGO culture in hgECM increased expression of gastric tissue-specific genes and of genes associated with growth and metabolism. &#xD;Conclusions: HgECM hydrogels were highly compatible with HGO culture, and improved homeostatic functions of HGOs, including growth, differentiation, and reduced inflammation. HgECM may serve as a tissue- and species-specific growth matrix for HGO culture to improve the physiological relevance of organoid models.&#xD.",
-      "journal": "Biomedical materials (Bristol, England)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Microbiology and Cell Biology, Montana State University, 2155 Analysis Drive, Bozeman, Montana, 59717-2000, United States.",
-        "Montana State University, 2155 Analysis Drive, Bozeman, Montana, 59717-2000, United States.",
-        "Department of Biomedical Engineering and Science, Florida Institute of Technology, 150 W University Blvd, Melbourne, Florida, 32901-8995, United States.",
-        "Burrell College of Osteopathic Medicine - Florida Campus, 3011 S Babcock St, Melbourne, Florida, 32901-6920, United States.",
-        "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, 4301 W. Markham St, Little Rock, Arkansas, 72205-7101, United States.",
-        "Nevada Genomics Center, University of Nevada Reno, 1664 N Virginia St, Reno, Nevada, 89557, United States.",
-        "Department of Microbiology and Cell Biology, Montana State University Bozeman, 2155 Analysis Drive, Bozeman, 59717-2000, United States."
-      ],
-      "doi": "10.1088/1748-605X/ae943e",
-      "date": "2026-08-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546769/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546938/"
     },
     {
       "pmid": "42509463",
@@ -382,6 +376,48 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42531048/"
     },
     {
+      "pmid": "42548867",
+      "title": "Liquid biopsy biomarkers for cancer detection, treatment monitoring, and clinical outcome prediction.",
+      "abstract": "Liquid biopsy now provides minimally invasive access to tumor-derived genomic and epigenetic information across the lung cancer continuum, and its clinical role continues to expand. This review examines that role across cancer detection (screening and diagnosis), treatment monitoring (advanced-disease genotyping, minimal residual disease (MRD) assessment, and resistance profiling at progression), and clinical outcome prediction. Plasma-based genotyping is now well established in advanced non-small cell lung cancer (NSCLC), while circulating tumor DNA (ctDNA)-based MRD detection in the curative-intent setting has accumulated a substantial evidence base over the past 5 years. Cell-free DNA (cfDNA) methylation, fragmentomics, and circulating tumor RNA (ctRNA) are emerging as complementary modalities, particularly when tumor shedding is low. We also consider concordance between liquid and tissue biopsies, the use of cerebrospinal fluid (CSF) ctDNA in central nervous system (CNS)-involved disease, and the practical issues of cost, reimbursement, and access that shape clinical adoption. The current state of the field can be framed across three tiers of evidence, with established applications, applications under prospective evaluation, and applications not yet ready for routine clinical use. No multi-cancer early detection (MCED) test has shown a mortality benefit to date, and ctDNA-guided treatment changes in metastatic disease still lack randomized overall-survival data.",
+      "journal": "Frontiers in cell and developmental biology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Medical Oncology, Sylvester Comprehensive Cancer Center, University of Miami, Miami, FL, United States.",
+        "Department of Medicine, Mount Auburn Hospital, Beth Israel Lahey Health, Cambridge, MA, United States.",
+        "Department of Medicine, Harvard Medical School, Boston, MA, United States."
+      ],
+      "doi": "10.3389/fcell.2026.1874565",
+      "date": "2026-07-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42548867/"
+    },
+    {
+      "pmid": "42547899",
+      "title": "Multifeature sequencing-based liquid biopsy for cancer diagnosis and monitoring.",
+      "abstract": "Liquid biopsy has emerged as a transformative development in oncology, enabling the minimally invasive detection and monitoring of cancer through the analysis of tumor-derived material in blood. Moving beyond single-variable analysis, multifeature sequencing-based liquid biopsy (MSLB) integrates diverse classes of data from a single blood sample to provide deep multifactorial insight into tumor biology. In this review, MSLB is defined as the extraction of multiple biological signals from a single sequencing dataset and is put in the context of other layers of multimodal diagnostics. We focus on how recent advances in patient-, and potentially microbe-derived, cell-free nucleic acid analysis expand the biological information that can be extracted from a single blood sample. MSLB enables this by allowing the concurrent assessment of, for example, DNA methylation, copy number, fragmentation, and, in exploratory workflows, microbe-associated signals. This provides a broader view of tumor, immune, and microenvironment states. When combined with emerging bioinformatic and machine-learning frameworks, these complementary signals may improve early detection, disease monitoring, and treatment selection. Addressing challenges in standardization, validation, and regulatory alignment will be essential to determine how MSLB can be integrated into routine oncologic practice.",
+      "journal": "Genome medicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Laboratory Medicine, Karolinska Institutet, ANA Futura, Huddinge, Sweden. mariano.molina.beitia@ki.se.",
+        "Department of Cellular Therapy and Allogeneic Stem Cell Transplantation (CAST), Karolinska University Hospital, Huddinge, Sweden. mariano.molina.beitia@ki.se.",
+        "Department of Pathology, Vrije Universiteit Amsterdam, Amsterdam UMC Location VUmc, Amsterdam, the Netherlands. mariano.molina.beitia@ki.se.",
+        "Department of Pathology, Vrije Universiteit Amsterdam, Amsterdam UMC Location VUmc, Amsterdam, the Netherlands.",
+        "Faculty of Medicine, VU University Amsterdam, Amsterdam, The Netherlands.",
+        "Department of Medical Oncology, Erasmus MC, Rotterdam, The Netherlands.",
+        "Cancer Research UK National Biomarker Centre, University of Manchester, Manchester, UK.",
+        "Department of Laboratory Medicine, Karolinska Institutet, ANA Futura, Huddinge, Sweden. daniel.hagey@ki.se.",
+        "Department of Cellular Therapy and Allogeneic Stem Cell Transplantation (CAST), Karolinska University Hospital, Huddinge, Sweden. daniel.hagey@ki.se."
+      ],
+      "doi": "10.1186/s13073-026-01739-2",
+      "date": "2026-08-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42547899/"
+    },
+    {
       "pmid": "42546853",
       "title": "Oncofetal chondroitin sulfate on tumor-derived extracellular vesicles: an emerging multivalent target for liquid biopsy.",
       "abstract": "Circulating tumor-derived extracellular vesicles (tdEVs) offer a minimally invasive source of real-time molecular information from cancers. Detection of tdEVs, however, is hindered by their heterogeneity, scarcity, and lack of robust identification markers. Oncofetal chondroitin sulfate (ofCS), a placenta-associated glycosaminoglycan that is commonly re-expressed in cancer, has emerged as a promising, multivalent surface handle to recognize circulating tumor cells and proteoglycans in liquid biopsies. Recent work demonstrates that tdEVs released by diverse cancer cell lines and in plasma from patients with pancreatic cancer expose ofCS. This mini-review evaluates these findings and defines priorities for clinical translation.",
@@ -435,53 +471,19 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42544420/"
     },
     {
-      "pmid": "42544030",
-      "title": "Epstein-Barr Virus-Associated HMGB1-Extracellular Vesicles Facilitate Macrophage PD-L1 Expression and Tumor Metastasis.",
-      "abstract": "Nasopharyngeal carcinoma (NPC) is a malignancy closely linked to Epstein-Barr virus (EBV) infection, and its progression is intricately associated with remodeling of the tumor microenvironment (TME). However, the role of EBV-associated extracellular vesicles (EVs), particularly those containing high mobility group box 1 (HMGB1), in NPC development remains poorly understood. This study utilized multiomics approaches to investigate the role of HMGB1-containing EVs (HMGB1-EVs) derived from EBV-associated NPC cells. Serum EVs from NPC patients were analyzed for HMGB1 content, and their diagnostic performance was evaluated. Mechanistic studies were performed to elucidate the regulation of HMGB1-EV biogenesis and their functional effects on immune cells within the TME. HMGB1-EVs exhibited high sensitivity and specificity for NPC diagnosis (AUC = 0.83), with significantly elevated HMGB1 levels detected in serum EVs from NPC patients. These levels were strongly associated with tumor stage, EBV-DNA load, and metastasis risk (AUC = 0.9), suggesting their potential as liquid biopsy biomarkers. Mechanistically, EBV infection induced Rab26 expression, facilitating the release of EV-associated HMGB1. In the TME, HMGB1-EVs were associated with an immunosuppressive macrophage phenotype by upregulating PD-L1 expression on macrophages via PLGRKT. This study reveals the molecular mechanism by which EBV-associated HMGB1-EVs may contribute to NPC progression and potential immune evasion. HMGB1-EVs hold promise as both diagnostic biomarkers and therapeutic targets, offering novel insights into the precision management of NPC.",
-      "journal": "Head & neck",
+      "pmid": "42548680",
+      "title": "A lightweight hybrid deep learning framework for multi-pill detection, multi-attribute recognition, OCR-based imprint analysis, and metadata retrieval.",
+      "abstract": "Adverse drug events (ADEs) remain a major cause of preventable healthcare complications due to incorrect pill identification, dosage errors, and confusion between visually identical pills, particularly among older adults, visually impaired individuals, and people with limited health literacy. Recent advances in artificial intelligence and computer vision have enabled automated pill recognition systems. However, many existing methods address detection, classification, and imprint recognition as isolated tasks without providing a lightweight unified framework suitable for real-time healthcare deployment. This study presents a lightweight hybrid framework for multi-pill and multi-attribute recognition to support pharmacovigilance and artificial intelligence-driven clinical decision support. The proposed framework integrates pill detection using YOLOv26n, MobileNetV4-ConvSmall-based classification, EasyOCR-based imprint recognition, and metadata retrieval into a unified prediction pipeline. A customized benchmark dataset containing 400 pill classes, each with 50 images, for a total of 20,000 images, was used for classification. Each image has two pills, comprising 40,000 manually labeled pill instances used for detection. Comparative experiments, functional comparisons with existing pill recognition systems, and cross-device qualitative evaluations were conducted to assess framework performance, robustness, and deployment feasibility. YOLOv26n achieved a precision of 0.963, a recall of 0.982, mAP@50 of 0.989, and mAP@50-95 of 0.981, while MobileNetV4-ConvSmall achieved a class accuracy of 99.60% with higher performance in pill shape and color accuracy. Comparative optical character recognition (OCR) analysis shows that EasyOCR achieved more reliable imprint recognition performance than TesseractOCR and TrOCR. Comparative framework evaluation demonstrated that the YOLOv26n with MobileNetV4-ConvSmall combination achieved the high overall recognition performance, obtaining a Top-1 accuracy of 89.83% and a Top-5 accuracy of 99.49%. Cross-device qualitative evaluation using smartphone cameras and direct laptop uploads demonstrated robust performance under varying image noise conditions. The proposed framework demonstrates the potential of lightweight deep learning architectures for scalable medication identification and AI-assisted pharmacovigilance applications. By integrating detection, classification, imprint recognition, and metadata retrieval into a unified framework, the proposed system has the potential to support medication identification and improve assistive healthcare workflows. The final clinical judgment and medication verification should remain under the supervision of a healthcare professional.",
+      "journal": "Frontiers in artificial intelligence",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "State Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine, Sun Yat-Sen University Cancer Center, Guangzhou, China."
+        "School of Computer Science Engineering and Information Systems, Vellore Institute of Technology, Vellore, Tamil Nadu, India."
       ],
-      "doi": "10.1002/hed.70419",
-      "date": "2026-08-02",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42544030/"
-    },
-    {
-      "pmid": "42543673",
-      "title": "Comparison of current global guidelines and consensus on the management of patients with cholangiocarcinoma: A 2026 update.",
-      "abstract": "Cholangiocarcinoma (CCA) is a highly aggressive, molecularly heterogeneous biliary tract malignancy and the second most common primary liver cancer, and it has an increasing global incidence and persistently poor prognosis. Recent updates of international guidelines, including those from the NCCN, ESMO, EASL, CSCO, BSG, and Japanese societies, along with rapid advances in precision oncology, have substantially changed the clinical management of CCA. This review systematically compares current global guidelines, highlighting both areas of consensus and regional differences in epidemiology, risk factors, screening strategies, diagnostic approaches, pathological and molecular classification, staging systems, surgical indications, systemic therapy, and multidisciplinary management. This review also summarizes recent advances in molecular diagnostics, including next-generation sequencing, liquid biopsy, circulating tumor DNA, extracellular vesicles, artificial intelligence-assisted imaging, radiomics, and emerging prognostic biomarkers. The evolving roles of immune checkpoint inhibitors, molecularly targeted therapies against FGFR2, IDH1, HER2, BRAF, NTRK, and MSI-H/dMMR, liver transplantation, locoregional treatment, and conversion (translational) therapy are also discussed. Finally, this review addresses current challenges, including drug resistance, limited access to molecular testing, regional disparities in healthcare resources, and the lack of universally accepted screening strategies. By integrating updated guideline recommendations with the latest clinical evidence, this review provides a comprehensive reference for evidence-based clinical decision-making and future translational research in CCA.",
-      "journal": "Bioscience trends",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Bile Duct Surgery, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
-        "Research Center for Biliary Diseases, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
-      ],
-      "doi": "10.5582/bst.2026.01104",
-      "date": "2026-07-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543673/"
-    },
-    {
-      "pmid": "42543635",
-      "title": "[Long-term remission with venetoclax plus azacitidine in acute myeloid leukemia with negative conversion of FLT3 companion diagnostic testing at relapse].",
-      "abstract": "An 80-year-old man was diagnosed with acute myeloid leukemia (AML), and molecular analysis identified FLT3-ITD, TKD mutations. Induction chemotherapy with daunorubicin plus cytarabine achieved hematological complete remission; however, extramedullary infiltration was detected in the skin and central nervous system. Due to this extramedullary disease, treatment with mitoxantrone plus high-dose cytarabine was administered, leading to systemic complete remission. Two cycles of the same regimen were then added. The patient relapsed 5 months later, at which time FLT3 mutations were no longer detectable by a companion diagnostic test. However, targeted sequencing analysis identified a novel FLT3-ITD positive minor clone. Treatment with venetoclax plus azacitidine was then started. The patient achieved complete remission and has remained relapse-free for more than 2 years. In this case, the FLT3 mutation companion diagnostic test result became spontaneously negative without FLT3-directed treatment, and the response to venetoclax plus azacitidine was favorable. This case highlights the importance of molecular testing not only at diagnosis but also at relapse for appropriate treatment selection.",
-      "journal": "[Rinsho ketsueki] The Japanese journal of clinical hematology",
-      "publicationTypes": [
-        "Journal Article",
-        "Case Reports",
-        "English Abstract"
-      ],
-      "affiliations": [
-        "Department of Hematology and Oncology, Dokkyo Medical University.",
-        "Department of Pathology and Tumor Biology, Graduate School of Medicine, Kyoto University."
-      ],
-      "doi": "10.11406/rinketsu.67.691",
-      "date": "2026-01-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543635/"
+      "doi": "10.3389/frai.2026.1890296",
+      "date": "2026-07-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42548680/"
     }
   ],
   "signals": [
@@ -517,6 +519,64 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of leukocyte biology，PMID 为 42547063。",
       "report": "Critical care research focuses on life-threatening conditions such as sepsis, trauma, hemorrhage, and burn injury, which account for millions of hospitalizations and hundreds of thousands of deaths annually in the United States alone. Recent policy initiatives...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42547978",
+      "date": "2026-08-03",
+      "title": "Dual epithelial-mesenchymal induction of Sfrp1/Frzb constrains alveolar epithelial differentiation in neonatal hyperoxia-induced lung injury.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42547978/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 American journal of respiratory cell and molecular biology，PMID 为 42547978。",
+      "report": "Bronchopulmonary dysplasia (BPD) is a major complication of prematurity, characterized by impaired alveolar epithelium regeneration and long-term respiratory morbidity. The cellular basis of this defect and the underlying epithelial-mesenchymal signals remain...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42547828",
+      "date": "2026-08-03",
+      "title": "Author Correction: Maturation and circuit integration of transplanted human cortical organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42547828/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature，PMID 为 42547828。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -572,98 +632,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 International journal of biological macromolecules，PMID 为 42546938。",
       "report": "Among different types of resistant starch (RS), high-amylose maize starch serves as a representative B-type starch (B-type) sample and exhibits strong digestive resistance. However, the relationships among its structure-derived digestive resistance, microbial...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42546910",
-      "date": "2026-08-03",
-      "title": "Nephrotoxicity and innovative risk assessment of cinnabar-containing An-Gong-NiuH-uang Wan based on bioavailability and speciation using on an IPBET/small intestinal organ-on-a-chip.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546910/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Pharmacological research，PMID 为 42546910。",
-      "report": "An-Gong-Niu-Huang Wan (AGNHW) is a traditional Chinese medicine preparation containing cinnabar (HgS). However, its clinical use has been controversial due to concerns regarding mercury nephrotoxicity. To evaluate the renal toxicity, mice were administered AGN...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42546925",
-      "date": "2026-08-03",
-      "title": "Combined anti-PD-1 with irreversible electroporation relieves immunosuppression and reduces hepatocellular carcinoma regrowth.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546925/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 JHEP reports : innovation in hepatology，PMID 为 42546925。",
-      "report": "Local ablation triggers anti-tumor response and is regarded as an encouraging treatment combined with immunotherapy for hepatocellular carcinoma (HCC). Irreversible electroporation (IRE) is a novel ablative technique eliminating tumor cells by electroporation,...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42546769",
-      "date": "2026-08-03",
-      "title": "Human gastric extracellular matrix hydrogels maintain organoid growth and reduce gene expression associated with stemness and inflammation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546769/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomedical materials (Bristol, England)，PMID 为 42546769。",
-      "report": "Human gastric organoids (HGOs) are 3-D cultures of primary gastric epithelial cells that serve as in vitro models for gastric epithelial physiology, development, and disease. The extracellular matrix material that organoids are maintained in provides crucial s...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -756,36 +724,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42544030",
-      "date": "2026-08-02",
-      "title": "Epstein-Barr Virus-Associated HMGB1-Extracellular Vesicles Facilitate Macrophage PD-L1 Expression and Tumor Metastasis.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42544030/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Head & neck，PMID 为 42544030。",
-      "report": "Nasopharyngeal carcinoma (NPC) is a malignancy closely linked to Epstein-Barr virus (EBV) infection, and its progression is intricately associated with remodeling of the tumor microenvironment (TME). However, the role of EBV-associated extracellular vesicles (...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42542137",
       "date": "2026-08-01",
       "title": "Bacterial surface layer ⸻ Properties, role, applications and challenges ⸻ A review of the next-generation nanotechnological tool.",
@@ -811,6 +749,40 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of microbiological methods，PMID 为 42542137。",
       "report": "Surface-layer (S-layer) proteins, forming the outermost envelope of many bacteria and archaea, exhibit extraordinary structural precision and self-assemble into two-dimensional crystalline lattices with square, hexagonal, or oblique symmetry. These monomolecul...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42547899",
+      "date": "2026-08-01",
+      "title": "Multifeature sequencing-based liquid biopsy for cancer diagnosis and monitoring.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42547899/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Genome medicine，PMID 为 42547899。",
+      "report": "Liquid biopsy has emerged as a transformative development in oncology, enabling the minimally invasive detection and monitoring of cancer through the analysis of tumor-derived material in blood. Moving beyond single-variable analysis, multifeature sequencing-b...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -871,38 +843,6 @@
       "fact": "PubMed 记录显示该文献收录于 RSC advances，PMID 为 42540288。",
       "report": "1,2,4-Triazoles have been interesting in the field of heterocyclic chemistry and their utility has been expanded to biological areas including cancer therapy, drug research and development. Thus, this review focuses on the synthetic aspects and biological role...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42543673",
-      "date": "2026-07-31",
-      "title": "Comparison of current global guidelines and consensus on the management of patients with cholangiocarcinoma: A 2026 update.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543673/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bioscience trends，PMID 为 42543673。",
-      "report": "Cholangiocarcinoma (CCA) is a highly aggressive, molecularly heterogeneous biliary tract malignancy and the second most common primary liver cancer, and it has an increasing global incidence and persistently poor prognosis. Recent updates of international guid...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1142,6 +1082,102 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42548623",
+      "date": "2026-07-20",
+      "title": "From patient-derived tumor organoids to personalized cancer therapy: advancing treatment for advanced solid tumors.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42548623/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42548623。",
+      "report": "Cancer remains a major global public health burden, with high morbidity and mortality. Despite advances in treatment strategies, many patients with advanced solid tumors face treatment resistance and limited therapeutic options. Patient-derived tumor organoids...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42548867",
+      "date": "2026-07-20",
+      "title": "Liquid biopsy biomarkers for cancer detection, treatment monitoring, and clinical outcome prediction.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Clinical Study",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42548867/",
+      "reliability": "High",
+      "evidenceLevel": "High",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42548867。",
+      "report": "Liquid biopsy now provides minimally invasive access to tumor-derived genomic and epigenetic information across the lung cancer continuum, and its clinical role continues to expand. This review examines that role across cancer detection (screening and diagnosi...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42548680",
+      "date": "2026-07-20",
+      "title": "A lightweight hybrid deep learning framework for multi-pill detection, multi-attribute recognition, OCR-based imprint analysis, and metadata retrieval.",
+      "entity": "Healthcare AI Research",
+      "primaryCategory": "Healthcare AI",
+      "subCategory": "Medical AI",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42548680/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Healthcare AI",
+        "Medical LLM"
+      ],
+      "tags": [
+        "医疗 AI",
+        "临床决策支持"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in artificial intelligence，PMID 为 42548680。",
+      "report": "Adverse drug events (ADEs) remain a major cause of preventable healthcare complications due to incorrect pill identification, dosage errors, and confusion between visually identical pills, particularly among older adults, visually impaired individuals, and peo...",
+      "inference": "自动分类命中规则：Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42476548",
       "date": "2026-07-03",
       "title": "Annotation-free phenotype prediction using knowledge-augmented clustering from single-cell RNA sequencing data.",
@@ -1198,36 +1234,6 @@
       "fact": "PubMed 记录显示该文献收录于 Briefings in bioinformatics，PMID 为 42546051。",
       "report": "Recent advances in protein structure determination and prediction, large-scale structural databases, and artificial intelligence have reshaped structure-based drug discovery. Structure-aware artificial intelligence models integrate molecular representation lea...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42543635",
-      "date": "2026-01-01",
-      "title": "[Long-term remission with venetoclax plus azacitidine in acute myeloid leukemia with negative conversion of FLT3 companion diagnostic testing at relapse].",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42543635/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 [Rinsho ketsueki] The Japanese journal of clinical hematology，PMID 为 42543635。",
-      "report": "An 80-year-old man was diagnosed with acute myeloid leukemia (AML), and molecular analysis identified FLT3-ITD, TKD mutations. Induction chemotherapy with daunorubicin plus cytarabine achieved hematological complete remission; however, extramedullary infiltrat...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
