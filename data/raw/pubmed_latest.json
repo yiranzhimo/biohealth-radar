@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-05T14:36:21.646614+00:00",
+  "capturedAt": "2026-08-05T19:57:25.207029+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-05"
   },
   "pmids": [
+    "42554434",
     "42553915",
     "42553490",
     "42553398",
     "42553284",
     "42552539",
-    "42552449",
     "42509463",
     "42498177",
     "42497867",
@@ -40,6 +40,22 @@
     "42551126"
   ],
   "records": [
+    {
+      "pmid": "42554434",
+      "title": "Histone Lactylation in Cancer-Associated Fibroblasts Induces Extracellular Matrix Remodeling and Immunosuppression to Promote Colorectal Cancer Progression.",
+      "abstract": "Cancer-associated fibroblasts (CAFs) drive key aspects of tumor malignancy. However, the profound heterogeneity in cytokine secretion and cell-cell communication orchestrated by CAFs renders therapeutic strategies targeting these molecules largely ineffective against cancer. In contrast, exploring the metabolic reprogramming mechanisms of CAFs could be conducive to therapeutic intervention in colorectal cancer (CRC). Here, we conducted metabolomic and single-cell RNA-sequencing analyses that uncovered increased glycolysis, intracellular lactate, and histone lactylation in CAFs compared to normal fibroblasts (NFs). Elevated histone 3 lysine 18 lactylation (H3K18la) in CAFs promoted the transition of CAFs to myofibroblastic CAFs (myCAFs), increased collagen deposition, and enhanced organoid growth. Furthermore, fibroblast-specific conditional lactic dehydrogenase A (Ldha) knockout in a mouse model mitigated CRC tumorigenesis and progression in vivo. Cancer cell-derived TGF-β accelerated metabolic reprogramming and histone lactylation in CAFs. NPM1, a histone chaperone functioning as a cofactor of P300, enhanced the H3K18la level of the ROCK1 promoter and activated ROCK1 transcription. The RhoA/ROCK1/MLC2/MRTF-A pathway and extracellular matrix (ECM) remodeling were indispensable for the tumor-promoting effect of CAF histone lactylation in CRC. Furthermore, CAF histone lactylation limited CD8+ T cell infiltration and aggravated CD8+ T cell exhaustion via ECM remodeling. Stiripentol, a clinical drug that targets lactylation, potentiated the efficacy of immunotherapy in CRC models. Together, this study demonstrates that elevated lactate levels in CAFs reprogram the epigenetic landscape to promote tumor progression and immunosuppression, highlighting the potential of targeting CAF histone lactylation as a therapeutic strategy for CRC.",
+      "journal": "Cancer research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Jiangsu Province Hospital Nanjing China.",
+        "Jiangsu Province Hospital Nanjing, Jiangsu Province China."
+      ],
+      "doi": "10.1158/0008-5472.CAN-25-5248",
+      "date": "2026-08-05",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42554434/"
+    },
     {
       "pmid": "42553915",
       "title": "Therapeutic Applications of Induced Pluripotent Stem Cell Technology in Kidney Disease: A Systematic Review and Meta-Analysis.",
@@ -131,24 +147,6 @@
       "doi": "10.1186/s12967-026-08706-w",
       "date": "2026-07-31",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42552539/"
-    },
-    {
-      "pmid": "42552449",
-      "title": "Tumor microenvironment-simulated organoids for personalized therapy prediction in head and neck squamous cell carcinoma.",
-      "abstract": "Patient-derived organoids (PDOs) have emerged as promising models for predicting personalized drug responses in cancer therapy. However, the absence of essential immune and stromal components limits their ability to recapitulate the tumor microenvironment. Here, we established a total of 30 patient-derived organoids (PDOs) from 79 patients with locally advanced (LA) and recurrent/metastatic (R/M) head and neck squamous cell carcinoma (HNSCC). These PDOs maintained sustained expansion capacity and preserved the histopathological characteristics and genomic heterogeneity of their parental tumors. By integrating autologous immune cells and cancer-associated fibroblasts (CAFs) into PDOs, respectively, microenvironment-simulated PDOs (MS-PDOs) were established using a feasible co-culture condition. Compared with conventional PDOs, MS-PDOs-PBMC exhibited specific cytotoxicity and responses to PD-1/PD-L1 inhibitors, while MS-PDOs-CAFs showed enhanced tolerance to chemotherapy drugs, indicating that microenvironment components modulate therapeutic responses in HNSCC. The drug response profiles of MS-PDOs exhibited diverse sensitivity to PD-1/PD-L1 inhibitors, chemotherapy drugs, and combination regimens. Notably, the therapeutic predictions of MS-PDOs were consistent with clinical treatment outcomes, supporting their translational relevance. Collectively, MS-PDOs serve as a robust platform for modeling the tumor microenvironment and predicting therapeutic responses, supporting precision medicine-guided clinical decision-making and offering personalized treatment strategies for HNSCC patients.",
-      "journal": "Oncogene",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, Department of Head and Neck Oncology, West China Hospital of Stomatology, Sichuan University, Chengdu, China.",
-        "Department of Clinical Laboratory, Sichuan Clinical Research Center for Cancer, Sichuan Cancer Hospital & Institute, Sichuan Cancer Center, Affiliated Cancer Hospital of University of Electronic Science and Technology of China, Chengdu, China.",
-        "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, Chinese Academy of Medical Sciences Research Unit of Oral Carcinogenesis and Management, West China Hospital of Stomatology, Sichuan University, Chengdu, China. fengxiaodong84@126.com.",
-        "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, Department of Head and Neck Oncology, West China Hospital of Stomatology, Sichuan University, Chengdu, China. zhugq@scu.edu.cn."
-      ],
-      "doi": "10.1038/s41388-026-03932-4",
-      "date": "2026-08-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42552449/"
     },
     {
       "pmid": "42509463",
@@ -496,6 +494,38 @@
   ],
   "signals": [
     {
+      "id": "pubmed-42554434",
+      "date": "2026-08-05",
+      "title": "Histone Lactylation in Cancer-Associated Fibroblasts Induces Extracellular Matrix Remodeling and Immunosuppression to Promote Colorectal Cancer Progression.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42554434/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer research，PMID 为 42554434。",
+      "report": "Cancer-associated fibroblasts (CAFs) drive key aspects of tumor malignancy. However, the profound heterogeneity in cytokine secretion and cell-cell communication orchestrated by CAFs renders therapeutic strategies targeting these molecules largely ineffective...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42554082",
       "date": "2026-08-05",
       "title": "Liquid Biopsy in Head and Neck Squamous Cell Carcinoma: A Systematic Review of the Scientific Literature.",
@@ -583,42 +613,6 @@
       "fact": "PubMed 记录显示该文献收录于 Research (Washington, D.C.)，PMID 为 42553490。",
       "report": "Emerging and re-emerging infectious diseases ranging from the 1918 H1N1 influenza pandemic to the recent SARS-CoV-2 and monkeypox virus outbreaks continue to pose profound threats to global public health. These crises underscore the critical need for high-fide...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42552449",
-      "date": "2026-08-04",
-      "title": "Tumor microenvironment-simulated organoids for personalized therapy prediction in head and neck squamous cell carcinoma.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42552449/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Oncogene，PMID 为 42552449。",
-      "report": "Patient-derived organoids (PDOs) have emerged as promising models for predicting personalized drug responses in cancer therapy. However, the absence of essential immune and stromal components limits their ability to recapitulate the tumor microenvironment. Her...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
