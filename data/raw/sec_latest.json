@@ -1,9 +1,9 @@
 {
-  "capturedAt": "2026-08-04T19:59:41.833215+00:00",
+  "capturedAt": "2026-08-05T03:37:26.499382+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
-    "start": "2026-07-21",
-    "end": "2026-08-04"
+    "start": "2026-07-22",
+    "end": "2026-08-05"
   },
   "forms": [
     "10-K",
@@ -139,6 +139,31 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-08-04",
+      "reportDate": "2026-06-30",
+      "acceptanceDateTime": "2026-08-04T16:08:23.000Z",
+      "act": "34",
+      "form": "10-Q",
+      "fileNumber": "001-38672",
+      "filmNumber": "261238639",
+      "items": "",
+      "size": 33042705,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "arvn-20260630.htm",
+      "primaryDocDescription": "10-Q",
+      "accessionNumber": "0001628280-26-052554",
+      "companyId": "arvinas",
+      "companyName": "Arvinas",
+      "companyDirections": [
+        "Targeted Protein Degradation"
+      ],
+      "secTicker": "ARVN",
+      "cik": "0001655759",
+      "secName": "ARVINAS, INC.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1655759/000162828026052554/arvn-20260630.htm"
+    },
     {
       "filingDate": "2026-08-04",
       "reportDate": "2026-06-30",
@@ -643,6 +668,37 @@
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001655759-000162828026052554",
+      "date": "2026-08-04",
+      "title": "Arvinas filed Form 10-Q",
+      "entity": "Arvinas",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1655759/000162828026052554/arvn-20260630.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Targeted Protein Degradation"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "ARVN"
+      ],
+      "companyIds": [
+        "arvinas"
+      ],
+      "fact": "SEC EDGAR lists accession 0001628280-26-052554 for Arvinas, Form 10-Q, filed on 2026-08-04.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001745999-000119312526331541",
       "date": "2026-08-04",

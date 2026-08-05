@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-04T19:59:33.937778+00:00",
+  "capturedAt": "2026-08-05T03:37:17.315693+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-08-04",
-    "end": "2026-08-04"
+    "start": "2025-08-05",
+    "end": "2026-08-05"
   },
   "pmids": [
+    "42551035",
+    "42550683",
+    "42550614",
+    "42550603",
     "42549663",
     "42549638",
-    "42549590",
-    "42548623",
-    "42547978",
-    "42547828",
     "42509463",
     "42498177",
     "42497867",
@@ -32,14 +32,97 @@
     "42540288",
     "42539229",
     "42531048",
+    "42550899",
     "42550354",
     "42550336",
     "42549704",
     "42549258",
-    "42548867",
-    "42550470"
+    "42548867"
   ],
   "records": [
+    {
+      "pmid": "42551035",
+      "title": "Tumor-Mimetic Microenvironment Primes Cancer Stemness and Drug Resistance through Nucleoskeleton-Mediated Chromatin Remodeling.",
+      "abstract": "The tumor microenvironment (TME) critically regulates cancer progression by providing biochemical and biophysical cues that shape cellular behavior. However, how defined physical microenvironments govern cancer stemness and chemoresistance through mechanotransduction remains poorly understood. Here, we systematically engineered eight tumor-mimetic microenvironments by integrating serum, oxygen, and 3D compacted culture to investigate their effects on A549 non-small cell lung cancer cells. Among all conditions, cells cultured under 3D culture (PM4C) exhibited reduced cellular stiffness, enhanced expression of cancer stemness markers (EpCAM and CD44), and significantly increased resistance to cisplatin in both in vitro and nude mouse xenograft models. Transcriptomic analysis revealed that differentially expressed genes in the PM4C group were predominantly enriched in cell adhesion, mechanotransduction, stemness, and cisplatin resistance pathways. Metabolomic profiling further revealed a substantial accumulation of anaerobic metabolites associated with the maintenance of stemness. Mechanistically, the PM4C microenvironment remodeled matrix production, cell-ECM interactions, and cytoskeletal organization while inducing epigenetic reprogramming (reduced H3K9 acetylation), collectively promoting a stem-like and chemoresistant phenotype. These findings establish a direct mechanistic link between TME and cancer cell stemness, demonstrating that TME can reprogram stemness and drug responsiveness through mechano-epigenetic regulation. This work provides a mechanobiological framework for engineering physiologically relevant tumor organoids and offers new strategies for developing TME-targeted drugs and therapies.",
+      "journal": "ACS applied materials & interfaces",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Oujiang Laboratory; Key Laboratory of Alzheimer's Disease of Zhejiang Province, Institute of Aging, Wenzhou Medical University, Wenzhou, Zhejiang325024, China.",
+        "Shenzhen Key Laboratory of Biomimetic Materials and Cellular Immunomodulation, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen, Guangdong518055, China."
+      ],
+      "doi": "10.1021/acsami.6c06355",
+      "date": "2026-07-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42551035/"
+    },
+    {
+      "pmid": "42550683",
+      "title": "Protocol for a primary human 2D intestinal epithelium-dendritic cell co-culture organoid model to study mucosal immunity and viral infections.",
+      "abstract": "The intestinal mucosa is a major HIV-1 infection site, making immune-augmented intestinal models essential for mechanistic and therapeutic studies. We present a protocol that converts human intestinal organoids into polarized 2D epithelial monolayers and incorporates basolateral dendritic cells to create a biomimetic intestinal mucosal model. We describe steps for monolayer formation, integrity assessment, immune cell co-culture, virus inoculation, and analyses by flow cytometry and confocal microscopy. This immuno-organoid platform enables controlled HIV-1 exposure with immunological and virological readouts. For complete details on the use and execution of this protocol, please refer to Rader et al.1.",
+      "journal": "STAR protocols",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Amsterdam UMC location University of Amsterdam, Center for Infection and Molecular Medicine, Amsterdam, the Netherlands; Amsterdam institute for Immunology & Infectious Diseases, Amsterdam, the Netherlands; Amsterdam Gastroenterology Endocrinology and Metabolism, Amsterdam, the Netherlands.",
+        "Amsterdam UMC location University of Amsterdam, Center for Infection and Molecular Medicine, Amsterdam, the Netherlands; Amsterdam institute for Immunology & Infectious Diseases, Amsterdam, the Netherlands; Amsterdam Gastroenterology Endocrinology and Metabolism, Amsterdam, the Netherlands. Electronic address: c.m.ribeiro@amsterdamumc.nl."
+      ],
+      "doi": "10.1016/j.xpro.2026.104740",
+      "date": "2026-08-04",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42550683/"
+    },
+    {
+      "pmid": "42550614",
+      "title": "Pegtarazimod limits acute graft-versus-host disease mortality and severity in mice and is tolerated in patients.",
+      "abstract": "The success of allogeneic hematopoietic cell transplantation (allo-HCT) is limited by acute graft-versus-host disease (aGVHD). We have previously reported that neutrophils can exacerbate tissue damage caused by conditioning regimens. Pegtarazimod is a synthetic peptide, derived from the capsid protein of human astrovirus serotype 1, that was shown to reduce neutrophil effector functions. Therefore, we evaluated the therapeutic activity of pegtarazimod against aGVHD. Pegtarazimod significantly reduced aGVHD-related mortality, histological aGVHD severity, and pro-inflammatory cytokines in multiple in vivo mouse models, while maintaining the anti-leukemia effect. Mechanistically, pegtarazimod reduced inflammation by decreasing ROS production as investigated using allo-HCT recipient mice with genetic inactivation of NADPH oxidase (NOX2) in the bone marrow. In addition to the anti-inflammatory effect, pegtarazimod protected intestinal organoids against TNF-induced toxicity and oxidative DNA damage. In the phase-2 clinical trial AURORA, pegtarazimod treatment was well-tolerated in patients with corticosteroid-refractory (SR) aGVHD (NCT06343792) with an overall response rate (ORR) of 4/7 patients at day 28. In summary, pegtarazimod reduced aGVHD in mice by suppressing pro inflammatory neutrophil effector functions and preserving enterocyte integrity. The clinical trial data support tolerability of pegtarazimod in aGVHD patients and further studies are needed to determine efficacy.",
+      "journal": "The Journal of clinical investigation",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Internal Medicine I, Medical Center - University of Freiburg, Faculty of Medicine, University of Freiburg, Freiburg, Germany.",
+        "ReAlta Life Sciences, Norfolk, United States of America.",
+        "UT Partners, New York, United States of America.",
+        "Icahn School of Medicine at Mount Sinai, New York, United States of America.",
+        "City of Hope National Medical Center, Duarte, United States of America.",
+        "Division of Hematology, James Cancer Hospital and Solove Research Institute at The Ohio State University, Columbus, United States of America.",
+        "Hospital Universitario Virgen del Rocío, Seville, Spain.",
+        "University of Freiburg, Freiburg, Germany.",
+        "Max Planck Institute of Immunobiology and Epigenetics, Freiburg, Germany.",
+        "Institute for Infection Control and Prevention, Medical Center - University of Freiburg, Faculty of Medicine, University of Freiburg, Freiburg, Germany.",
+        "CIBSS - Centre for Integrative Biological Signalling Studies, University of Freiburg, Freiburg, Germany.",
+        "Institute of Medical Bioinformatics and Systems Medicine, Medical Center - University of Freiburg, Faculty of Medicine, University of Freiburg, Freiburg, Germany.",
+        "German Cancer Consortium (DKTK), Partner Site Freiburg, a partnership between DKFZ and Medical Center - University of Freiburg, Freiburg, Germany.",
+        "Department of Internal Medicine I, Medical Center, University of Freiburg, Faculty of Medicine, University of Freiburg, Freiburg, Germany."
+      ],
+      "doi": "10.1172/JCI205864",
+      "date": "2026-08-04",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42550614/"
+    },
+    {
+      "pmid": "42550603",
+      "title": "Proteasome mutations associated with CANDLE syndrome cause altered neuronal development by dysregulating polyamine synthesis.",
+      "abstract": "Loss-of-function mutations in PSMB8/beta5i and other components of the 20S proteasome result in multi-organ diseases, such as Chronic atypical neutrophilic dermatosis with lipodystrophy and elevated temperature (CANDLE) syndrome. Neurocognitive dysfunction associated with CANDLE suggests that proteasomal mutations may impact neuronal function and development early in life. We generated cerebral organoids (COs) from induced pluripotent stem cells (iPSCs) made from CANDLE patients. The COs from CANDLE iPSCs exhibited impaired neuronal development when compared to COs from healthy control iPSCs. Impaired neuronal maturation in CANDLE COs was correlated with increased polyamines, which were also elevated in CANDLE patient CSF. The proteasome-regulated Ornithine decarboxylase (ODC), the rate limiting enzyme in polyamine biosynthesis, was elevated in CANDLE neurons. Inhibition of ODC reversed polyamine overproduction and repaired neuronal maturation in CANDLE COs, suggesting a potential therapeutic avenue for intervention. These findings demonstrate that dysfunction of the proteasome affects neuronal development through overproduction of polyamines via dysregulation of ODC and offer insight into potential therapeutic strategies for CNS-related proteasomal dysfunction.",
+      "journal": "The Journal of clinical investigation",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Neuroimmunology Section, Laboratory of Neurological Infections and Immunity, Rocky Mountain Laboratories, National Institute of Allergy and Infectious Diseases, NIH, Hamilton, United States of America.",
+        "Research and Technologies Branch, Rocky Mountain Laboratories, National Institute of Allergy and Infectious Diseases, NIH, Hamilton, United States of America.",
+        "Prion Cell Biology Unit, Laboratory of Neurological Infections and Immunity, Rocky Mountain Laboratories, National Institute of Allergy and Infectious Diseases, NIH, Hamilton, United States of America.",
+        "Translational Autoinflammatory Diseases Section, Laboratory of Clinical Imm, National Institute of Allergy and Infectious Diseases, NIH, Bethesda, United States of America.",
+        "Neuropsychology Consult Service, Intramural Research Program, National Institute of Mental Health, NIH, Bethesda, United States of America.",
+        "Neurodevelopmental and Behavioral Phenotyping Service, Intramural Research , National Institute of Mental Health, NIH, Bethesda, United States of America.",
+        "Laboratory of Clinical Investigation, Biomedical Research Center, National Institute on Aging, NIH, Baltimore, United States of America.",
+        "Laboratory of Cardiovascular Regenerative Medicine, Translational Vascular , National Heart, Lung, and Blood Institute, NIH, Bethesda, United States of America.",
+        "Neuroimmunological Diseases Section, Laboratory of Clinical Immunology & Mi, National Institute of Allergy and Infectious Diseases, NIH, Bethesda, United States of America."
+      ],
+      "doi": "10.1172/JCI199140",
+      "date": "2026-08-04",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42550603/"
+    },
     {
       "pmid": "42549663",
       "title": "Lung organoids as emerging models in idiopathic pulmonary fibrosis research: Current applications, challenges, and future directions.",
@@ -82,83 +165,6 @@
       "doi": "10.1002/path.70101",
       "date": "2026-08-04",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42549638/"
-    },
-    {
-      "pmid": "42549590",
-      "title": "CRISPR/Cas9-edited organoids as a platform for tailored research of colorectal cancer.",
-      "abstract": "Colorectal cancer is one of the most commonly diagnosed cancers worldwide. Mortality rates and limited therapeutic options justify the development of reliable preclinical research models, as their translational value remains limited. Simple in vitro models do not recapitulate tumor heterogeneity, while in vivo research faces ethical concerns and interspecies differences. Patient-derived organoids offer a physiologically more relevant platform that retains the genetic, epigenetic, and phenotypic characteristics of the original tumor. Tumor-derived organoids enable precise investigation of novel treatments, functional genomics, and modeling of cancer development. Integration with CRISPR/Cas9 gene editing further enables accurate manipulation of specific genes to study carcinogenesis and therapeutic resistance. This review highlights recent advances in the use of organoids for colorectal cancer research and explores the potential of gene-edited organoids to discover the genetic and molecular mechanisms underlying colorectal cancer development, progression, and treatment resistance.",
-      "journal": "Neoplasma",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Cancer Research Institute, Biomedical Research Center of the Slovak Academy of Sciences, Bratislava, Slovakia.",
-        "Department of Genetics, Faculty of Natural Sciences, Comenius University, Bratislava, Slovakia."
-      ],
-      "doi": "10.4149/neo_2026_260529N175",
-      "date": "2026-08-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42549590/"
-    },
-    {
-      "pmid": "42548623",
-      "title": "From patient-derived tumor organoids to personalized cancer therapy: advancing treatment for advanced solid tumors.",
-      "abstract": "Cancer remains a major global public health burden, with high morbidity and mortality. Despite advances in treatment strategies, many patients with advanced solid tumors face treatment resistance and limited therapeutic options. Patient-derived tumor organoids (PDTOs) have emerged as promising preclinical models for personalized medicine, but their clinical translational potential in guiding individualized treatment for advanced solid tumors requires further validation. The sample data of 164 solid tumors used for establishing organoids were retrospectively analyzed, and a clinical cohort involving 23 patients with advanced solid tumors was used to validate the feasibility of PDTOs in predicting the treatment response. The concordance between PDTO drug responses and clinical outcomes was evaluated using Cohen's Kappa test. The overall establishment success rate of organoids reached 91.5%, with the rates ranging from 90.6% to 92.6% across different cancer types. Histopathological analysis confirmed that PDTOs partially recapitulated the histopathological features and proliferative activity of matched original tumors. PDTO-based drug sensitivity testing showed good concordance with clinical treatment outcomes of patients with advanced solid tumors, yielding an overall accuracy of 85.0%, a sensitivity of 86.7%, a specificity of 80.0%. Clinical case studies further highlighted the unique value of PDTOs in overcoming multidrug resistance in advanced solid tumors. This study demonstrates that PDTOs exhibit favorable potential for predicting treatment responses in patients with advanced solid tumors, and may serve as a promising auxiliary companion diagnostic tool to inform personalized cancer therapy and assist in evaluating multidrug resistance for advanced solid tumors. Future large-scale, multicenter studies with stratified subgroup validations are warranted to further verify the clinical translational value of PDTOs in individualized tumor treatment.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Chemoradiation, North China University of Science and Technology Affiliated Hospital, Tangshan, Hebei, China.",
-        "Department of Pain, North China University of Science and Technology Affiliated Hospital, Tangshan, Hebei, China.",
-        "Central Laboratory, Shanxi Province Cancer Hospital/Shanxi Hospital Affiliated to Cancer Hospital, Chinese Academy of Medical Sciences/Cancer Hospital Affiliated to Shanxi Medical University, Taiyuan, China.",
-        "Department of Thoracic Surgery, Tangshan Workers' Hospital, Tangshan, Hebei, China."
-      ],
-      "doi": "10.3389/fonc.2026.1880986",
-      "date": "2026-07-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42548623/"
-    },
-    {
-      "pmid": "42547978",
-      "title": "Dual epithelial-mesenchymal induction of Sfrp1/Frzb constrains alveolar epithelial differentiation in neonatal hyperoxia-induced lung injury.",
-      "abstract": "Bronchopulmonary dysplasia (BPD) is a major complication of prematurity, characterized by impaired alveolar epithelium regeneration and long-term respiratory morbidity. The cellular basis of this defect and the underlying epithelial-mesenchymal signals remain unclear. To define alveolar type 2 (AT2) cell heterogeneity and regenerative capacity, we analyzed lineage-traced AT2 cells in neonatal mice exposed to hyperoxia (85% O2, postnatal days 1-14). We assessed cellular states and function by flow cytometry, transcriptomics, and organoid assays. During normal lung development, AT2 cells gradually segregated into two transcriptionally distinct subpopulations, TomHigh and TomLow. TomHigh cells exhibited canonical AT2 identity, lipid metabolism, and enhanced mitochondrial function, showing strong organoid-forming and differentiation potential. TomLow cells displayed metabolic restriction and limited regenerative capacity. Hyperoxia caused alveolar simplification, expanding TomLow cells at the expense of TomHigh cells. AT2 cells entered a proliferative state and became Krt8+ transitional cells, but RNA velocity and lineage analyses showed impaired maturation toward AT1 cells, leading to persistent AT1 deficiency. Hyperoxia induced Sfrp1 and Frzb expression in a rare but detectable Sftpc+Acta2+ AT2 subset, and more prominently in Pdgfra+ fibroblasts, which adopted a myofibroblast-like phenotype. Fibroblast-epithelial co-culture and fibroblast-specific Sfrp1/Frzb overexpression impaired organoid formation and reduced AT2-to-AT1 differentiation. These findings identify a fibroblast-dominated Sfrp1/Frzb-mediated niche that constrains AT2 differentiation into AT1 cells, providing a cellular basis for impaired alveolar regeneration in BPD and suggesting potential therapeutic targets.",
-      "journal": "American journal of respiratory cell and molecular biology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Pediatric Respiratory Medicine, The Second Affiliated Hospital and Yuying Children's Hospital of Wenzhou Medical University, Wenzhou, Zhejiang 325027, China.",
-        "Department of Respiratory and Critical Care Medicine, The Quzhou Affiliated Hospital of Wenzhou Medical University, Quzhou People's Hospital, Quzhou, Zhejiang 324000, China.",
-        "Zhejiang-German Joint Laboratory for Lung Injury Repair and Regeneration, The Quzhou Affiliated Hospital of Wenzhou Medical University (Quzhou People's Hospital), Quzhou, Zhejiang 324000, China.",
-        "Department of Pediatric Respiratory Medicine, National Key Clinical Specialty of Pediatric Respiratory Medicine, Institute of Pediatrics, The Second Affiliated Hospital and Yuying Children's Hospital of Wenzhou Medical University, Wenzhou 325027, China."
-      ],
-      "doi": "10.1093/ajrcmb/aanag152",
-      "date": "2026-08-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42547978/"
-    },
-    {
-      "pmid": "42547828",
-      "title": "Author Correction: Maturation and circuit integration of transplanted human cortical organoids.",
-      "abstract": "",
-      "journal": "Nature",
-      "publicationTypes": [
-        "Published Erratum"
-      ],
-      "affiliations": [
-        "Department of Psychiatry and Behavioral Sciences, Stanford University, Stanford, CA, USA.",
-        "Stanford Brain Organogenesis, Wu Tsai Neurosciences Institute and Bio-X, Stanford University, Stanford, CA, USA.",
-        "Department of Bioengineering, Stanford University, Stanford, CA, USA.",
-        "Department of Chemistry, Stanford University, Stanford, CA, USA.",
-        "Stanford Behavioral and Functional Neuroscience Laboratory, Wu Tsai Neurosciences Institute, Stanford University, Stanford, CA, USA.",
-        "Department of Comparative Medicine, Stanford University, Stanford, CA, USA.",
-        "Department of Neurosurgery, Stanford University, Stanford, CA, USA.",
-        "Department of Neurology and Neurological Sciences, Stanford, CA, USA.",
-        "Howard Hughes Medical Institute, Stanford University, Stanford, CA, USA.",
-        "Department of Psychiatry and Behavioral Sciences, Stanford University, Stanford, CA, USA. spasca@stanford.edu.",
-        "Stanford Brain Organogenesis, Wu Tsai Neurosciences Institute and Bio-X, Stanford University, Stanford, CA, USA. spasca@stanford.edu."
-      ],
-      "doi": "10.1038/s41586-026-10943-4",
-      "date": "2026-08-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42547828/"
     },
     {
       "pmid": "42509463",
@@ -376,6 +382,26 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42531048/"
     },
     {
+      "pmid": "42550899",
+      "title": "High-throughput deformability-based microfluidic sorting reveals metastatic cancer subpopulations.",
+      "abstract": "The deformability of cancer cells is a critical indicator of their malignancy, as this mechanical property of cancer cells can reflect various biostructural and biochemical changes such as the cytoskeletons and protein expressions. However, selectively isolating and analyzing cell subpopulations with differing deformability and their associated biological properties remains challenging, especially at high throughput. Here, we introduce a microstructure-assisted spiral microfluidic platform that sorts cancer cells based on their deformability at ultrahigh throughput (>2,000,000 cells min-1) and couples the workflow to real-time, image-based phenotyping of cell parameters. We profile the sorted fractions and investigate a tripartite correlation between the deformability of cancer cells, the expression of proteins in different subpopulations, and the metastatic ability of cancer cells. This tripartite correlation has been confirmed in human breast cancer cell lines with metastatic potential (including MDA-MB-231 cells and BT-549 cells), where these cells are classified into subpopulations based on their deformability. The more deformable subpopulation exhibits increased invasiveness and distinct cytoskeletal remodeling and epithelial-to-mesenchymal transition (EMT)-associated protein signatures. Leveraging these deformability differences, our label-free platform enables high-throughput enrichment of aggressive cancer subpopulations and provides a scalable front end for liquid biopsy workflows. More broadly, deformability-based sorting may support improved analysis of rare metastasis-prone cells and accelerate high-throughput screening for mechano-targeted therapeutic strategies, offering a practical route to integrate cell deformability into precision oncology and therapy.",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Institute for Health Innovation and Technology, National University of Singapore, Singapore 117599, Singapore.",
+        "Department of Biomedical Engineering, National University of Singapore, Singapore 117583, Singapore.",
+        "School of Mechanical and Aerospace Engineering, Nanyang Technological University, Singapore 639798, Singapore.",
+        "College of Life Science, Shanxi Agricultural University, Taigu 030801, Shanxi, China.",
+        "Department of Biomedical Engineering, Southern University of Science and Technology, Shenzhen 518055, Guangdong, China.",
+        "Mechanobiology Institute, National University of Singapore, Singapore 117411, Singapore."
+      ],
+      "doi": "10.1073/pnas.2604094123",
+      "date": "2026-08-04",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42550899/"
+    },
+    {
       "pmid": "42550354",
       "title": "Downregulation of circulating miR-22 and elevation of serum ATP-citrate lyase in colorectal cancer: a proof-of-concept study.",
       "abstract": "Colorectal cancer (CRC) involves metabolic reprogramming alongside genetic alteration. ATP-citrate lyase (ACLY), the rate-limiting enzyme of de novo lipogenesis, is a validated target of microRNA-22 (miR-22) in tumor tissue. We asked whether both are dysregulated in the circulation of patients with CRC and whether they carry diagnostic value. Serum ACLY (ELISA) and circulating miR-22 (RT-qPCR, normalized to U6) were measured in 32 patients with histopathologically confirmed CRC and 31 healthy controls; metabolic activity was assessed by PET/CT SUVmax. Analyses used SPSS and REST 2009. miR-22 was downregulated in patients (relative expression 0.175; p < 0.001) and serum ACLY was elevated (p = 0.009). Across the whole cohort the two markers were inversely correlated (ρ = -0.362; p = 0.004), but not within the patient group (ρ = -0.128; p = 0.485) or within controls (ρ = -0.180; p = 0.333), indicating that it reflects their opposite direction of change between groups. Serum ACLY was higher in patients with radiologically active tumor involvement on PET/CT (p = 0.047). The ACLY/miR-22 ratio separated patients from controls with an AUC of 0.984 (p < 0.001), exceeding serum ACLY alone (AUC = 0.691). In this single-center, proof-of-concept study, circulating miR-22 and serum ACLY were dysregulated in opposite directions in colorectal cancer, and their ratio discriminated patients from controls (AUC > 0.98). These estimates were obtained in a single-center discovery cohort without an independent validation set and require external validation before any diagnostic use. The data do not demonstrate a direct regulatory interaction between the two markers in the circulation, and require validation in larger, prospective cohorts.",
@@ -462,27 +488,99 @@
       "doi": "10.3389/fcell.2026.1874565",
       "date": "2026-07-20",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42548867/"
-    },
-    {
-      "pmid": "42550470",
-      "title": "Generative artificial intelligence in clinical decision support: navigating uncharted ethical, legal, and clinical terrain.",
-      "abstract": "",
-      "journal": "Family practice",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Independent Lawyer, Juris Doctorate (2007), Windsor, ON, Canada.",
-        "Department of Family Medicine, Ankara University School of Medicine, Ankara, Türkiye.",
-        "Department of Family Medicine, Schulich School of Medicine & Dentistry, Western University, London, ON, Canada.",
-        "Lead Investigator, Excellence in Aging: Research, Rehabilitation, Resources Inc., London, ON, Canada."
-      ],
-      "doi": "10.1093/fampra/cmag063",
-      "date": "2026-07-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42550470/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42550683",
+      "date": "2026-08-04",
+      "title": "Protocol for a primary human 2D intestinal epithelium-dendritic cell co-culture organoid model to study mucosal immunity and viral infections.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42550683/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42550683。",
+      "report": "The intestinal mucosa is a major HIV-1 infection site, making immune-augmented intestinal models essential for mechanistic and therapeutic studies. We present a protocol that converts human intestinal organoids into polarized 2D epithelial monolayers and incor...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42550614",
+      "date": "2026-08-04",
+      "title": "Pegtarazimod limits acute graft-versus-host disease mortality and severity in mice and is tolerated in patients.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42550614/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 The Journal of clinical investigation，PMID 为 42550614。",
+      "report": "The success of allogeneic hematopoietic cell transplantation (allo-HCT) is limited by acute graft-versus-host disease (aGVHD). We have previously reported that neutrophils can exacerbate tissue damage caused by conditioning regimens. Pegtarazimod is a syntheti...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42550603",
+      "date": "2026-08-04",
+      "title": "Proteasome mutations associated with CANDLE syndrome cause altered neuronal development by dysregulating polyamine synthesis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42550603/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 The Journal of clinical investigation，PMID 为 42550603。",
+      "report": "Loss-of-function mutations in PSMB8/beta5i and other components of the 20S proteasome result in multi-organ diseases, such as Chronic atypical neutrophilic dermatosis with lipodystrophy and elevated temperature (CANDLE) syndrome. Neurocognitive dysfunction ass...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42549663",
       "date": "2026-08-04",
@@ -540,33 +638,35 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42549590",
+      "id": "pubmed-42550899",
       "date": "2026-08-04",
-      "title": "CRISPR/Cas9-edited organoids as a platform for tailored research of colorectal cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "High-throughput deformability-based microfluidic sorting reveals metastatic cancer subpopulations.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42549590/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42550899/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neoplasma，PMID 为 42549590。",
-      "report": "Colorectal cancer is one of the most commonly diagnosed cancers worldwide. Mortality rates and limited therapeutic options justify the development of reliable preclinical research models, as their translational value remains limited. Simple in vitro models do...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42550899。",
+      "report": "The deformability of cancer cells is a critical indicator of their malignancy, as this mechanical property of cancer cells can reflect various biostructural and biochemical changes such as the cytoskeletons and protein expressions. However, selectively isolati...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -662,64 +762,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42547978",
-      "date": "2026-08-03",
-      "title": "Dual epithelial-mesenchymal induction of Sfrp1/Frzb constrains alveolar epithelial differentiation in neonatal hyperoxia-induced lung injury.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42547978/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 American journal of respiratory cell and molecular biology，PMID 为 42547978。",
-      "report": "Bronchopulmonary dysplasia (BPD) is a major complication of prematurity, characterized by impaired alveolar epithelium regeneration and long-term respiratory morbidity. The cellular basis of this defect and the underlying epithelial-mesenchymal signals remain...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42547828",
-      "date": "2026-08-03",
-      "title": "Author Correction: Maturation and circuit integration of transplanted human cortical organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42547828/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature，PMID 为 42547828。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42542137",
       "date": "2026-08-01",
       "title": "Bacterial surface layer ⸻ Properties, role, applications and challenges ⸻ A review of the next-generation nanotechnological tool.",
@@ -808,31 +850,35 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42550470",
-      "date": "2026-07-31",
-      "title": "Generative artificial intelligence in clinical decision support: navigating uncharted ethical, legal, and clinical terrain.",
-      "entity": "Healthcare AI Research",
-      "primaryCategory": "Healthcare AI",
-      "subCategory": "Medical AI",
+      "id": "pubmed-42551035",
+      "date": "2026-07-30",
+      "title": "Tumor-Mimetic Microenvironment Primes Cancer Stemness and Drug Resistance through Nucleoskeleton-Mediated Chromatin Remodeling.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42550470/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42551035/",
       "reliability": "High",
-      "evidenceLevel": "Low",
+      "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Healthcare AI",
-        "Medical LLM"
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
       ],
       "tags": [
-        "医疗 AI",
-        "临床决策支持"
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Family practice，PMID 为 42550470。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 ACS applied materials & interfaces，PMID 为 42551035。",
+      "report": "The tumor microenvironment (TME) critically regulates cancer progression by providing biochemical and biophysical cues that shape cellular behavior. However, how defined physical microenvironments govern cancer stemness and chemoresistance through mechanotrans...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1099,42 +1145,6 @@
       "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42539229。",
       "report": "Generative artificial intelligence (AI) has emerged as a powerful framework for drug discovery, yet most current approaches follow one-drug-one-gene target-based paradigms that struggle to capture the complexity and heterogeneity of chronic and systemic diseas...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42548623",
-      "date": "2026-07-20",
-      "title": "From patient-derived tumor organoids to personalized cancer therapy: advancing treatment for advanced solid tumors.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42548623/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42548623。",
-      "report": "Cancer remains a major global public health burden, with high morbidity and mortality. Despite advances in treatment strategies, many patients with advanced solid tumors face treatment resistance and limited therapeutic options. Patient-derived tumor organoids...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
