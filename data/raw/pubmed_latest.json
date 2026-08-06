@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-06T09:09:10.755268+00:00",
+  "capturedAt": "2026-08-06T14:37:50.766458+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -339,7 +339,12 @@
         "Journal Article",
         "Preprint"
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Department of Computer Science, Hunter College, The City University of New York, New York City, NY, 10065, U.S.A.",
+        "Ph.D. Programs in Computer Science, The Graduate Center, The City University of New York, New York City, NY, 10016, U.S.A.",
+        "Ph.D. Programs in Biochemistry, The Graduate Center, The City University of New York, New York City, NY, 10016, U.S.A.",
+        "School of Pharmacy and Pharmaceutical Sciences & Center for Drug Discovery, Northeastern University, Boston, MA, 02115, U.S.A."
+      ],
       "doi": "10.64898/2026.07.17.739269",
       "date": "2026-07-22",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42539229/"

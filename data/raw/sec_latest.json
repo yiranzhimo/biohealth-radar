@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-06T09:09:20.543131+00:00",
+  "capturedAt": "2026-08-06T14:38:00.262808+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-07-23",
@@ -139,6 +139,31 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-08-06",
+      "reportDate": "2026-08-06",
+      "acceptanceDateTime": "2026-08-06T07:45:16.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-37766",
+      "filmNumber": "261246064",
+      "items": "2.02,9.01",
+      "size": 407114,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "ntla-20260806.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001193125-26-336772",
+      "companyId": "intellia",
+      "companyName": "Intellia Therapeutics",
+      "companyDirections": [
+        "Gene Editing"
+      ],
+      "secTicker": "NTLA",
+      "cik": "0001652130",
+      "secName": "Intellia Therapeutics, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526336772/ntla-20260806.htm"
+    },
     {
       "filingDate": "2026-08-05",
       "reportDate": "2026-06-30",
@@ -770,6 +795,37 @@
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001652130-000119312526336772",
+      "date": "2026-08-06",
+      "title": "Intellia Therapeutics filed Form 8-K",
+      "entity": "Intellia Therapeutics",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526336772/ntla-20260806.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Gene Editing"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "NTLA"
+      ],
+      "companyIds": [
+        "intellia"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-336772 for Intellia Therapeutics, Form 8-K, filed on 2026-08-06.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001601830-000160183026000098",
       "date": "2026-08-05",
