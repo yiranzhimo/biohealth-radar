@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-05T19:57:25.207029+00:00",
+  "capturedAt": "2026-08-06T03:42:51.365448+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-08-05",
-    "end": "2026-08-05"
+    "start": "2025-08-06",
+    "end": "2026-08-06"
   },
   "pmids": [
+    "42555733",
+    "42555528",
+    "42554628",
     "42554434",
     "42553915",
     "42553490",
-    "42553398",
-    "42553284",
-    "42552539",
     "42509463",
     "42498177",
     "42497867",
@@ -32,14 +32,66 @@
     "42540288",
     "42539229",
     "42538903",
+    "42554704",
     "42554082",
     "42553790",
     "42552286",
     "42551938",
-    "42551245",
-    "42551126"
+    "42551245"
   ],
   "records": [
+    {
+      "pmid": "42555733",
+      "title": "Leveraging IGF signaling to improve the spatial organization and regenerative potential of iPSC-derived vascularized liver organoids.",
+      "abstract": "Liver tissue engineering offers a promising alternative for end-stage liver disease, yet the recreation of functional vasculature remains a major bottleneck to clinical translation. Here, we developed vascularized liver organoids by integrating human induced pluripotent stem cell (iPSC)-derived hepatoblasts and endothelial cells into decellularized scaffolds functionalized with an anti-CD31 aptamer-based vascular coating agent (VCA). This facilitated spatially coordinated organization of vasculature and parenchyma. Spatial transcriptomic profiling and subsequent functional perturbation demonstrated IGF2-IGF1R-AKT/MAPK signaling as a key axis governing spatial organization and functional maturation of the liver organoids. Furthermore, exogenous IGF2 synergized with the VCA to augment the structural and functional refinement of liver organoids, which translated into markedly improved therapeutic outcomes following transplantation into a chronic liver failure mouse model. Collectively, these findings establish a comprehensive framework for generating physiologically relevant liver tissues from iPSCs and demonstrate the utility of spatial transcriptomics for uncovering regenerative mechanisms. This approach advances the feasibility of autologous, transplantable liver grafts for personalized regenerative therapy.",
+      "journal": "Science advances",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Adult Stem Cell Research Center and Research Institute for Veterinary Medicine, College of Veterinary Medicine, Seoul National University, Seoul 08826, Republic of Korea.",
+        "Department of Biotechnology, Sungshin Women's University, Seoul 01133, Republic of Korea.",
+        "Department of Electrical and Computer Engineering, Seoul National University, Seoul 08826, Republic of Korea.",
+        "Meteor Biotech, Seoul 08826, Republic of Korea."
+      ],
+      "doi": "10.1126/sciadv.aea3814",
+      "date": "2026-08-05",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42555733/"
+    },
+    {
+      "pmid": "42555528",
+      "title": "Calycosin targets the MAPK-EGR1 signaling axis to inhibit enterovirus 71 replication in cells and human colonic organoids.",
+      "abstract": "The downstream effectors that mediate the pro‑viral function of the MAPK pathway during enterovirus 71 (EV71) infection remain poorly defined. Here we show that early growth response 1 (EGR1) is independently regulated by each of the three classical MAPK branches including extracellular signal-regulated kinase (ERK), p38 and c-Jun N-terminal kinase (JNK), and serves as a common downstream target of these pathways to promote EV71 replication and virus-induced cell death. Furthermore, we found that the natural isoflavone calycosin (CA) from Astragalus membranaceus acts as a regulatory probe of the MAPK-EGR1 axis. CA suppresses EV71-induced expression and phosphorylation of ERK, p38, and JNK, as well as the subsequent upregulation of EGR1, thereby inhibiting both viral replication and virus-induced cell death in conventional cell lines and human colonic organoid infection models. This pro-viral axis is conserved among several enteroviruses, including coxsackievirus B3 and enterovirus D68, and CA exhibits broad-spectrum activity against multiple enteroviruses by targeting this axis. Collectively, our findings establish the MAPK‑EGR1 axis as a key host‑dependency node for EV71 and other enteroviruses, and identify CA as a valuable chemical probe for interrogating this axis. This work not only deepens our understanding of the interplay between enteroviruses such as EV71 and their host, but also provides a mechanistic basis for host‑directed antiviral strategies.",
+      "journal": "Virulence",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Shaanxi Engineering and Technological Research Center for Conversation and Utilization of Regional Biological Resources, College of Life Sciences, Yan'an University, Yan'an, Shaanxi, China.",
+        "Department of Pathogenic Biology, School of Basic Medical Sciences, Gannan Medical University, Ganzhou, Jiangxi, China.",
+        "School of Medical Technology and Information Engineering, Zhejiang Chinese Medical University, Hangzhou, Zhejiang, China.",
+        "Engineering Research Center of Microbial Resources Development and Green Recycling, University of Shaanxi Province, Yan'an University, Yan'an, Shaanxi, China."
+      ],
+      "doi": "10.1080/21505594.2026.2711500",
+      "date": "2026-08-05",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42555528/"
+    },
+    {
+      "pmid": "42554628",
+      "title": "Histone Lactylation Mediated by circRNA-Facilitated FXR1 Phase Separation Promotes Colorectal Cancer Progression.",
+      "abstract": "Histone lactylation is an epigenetic modification triggered by lactate produced during glycolysis. In cancer, histone lactylation can coordinate metabolic and epigenetic states to promote tumor development and progression. Here, we identified circ2891 as a driver of metabolic reprogramming and histone lactylation in colorectal cancer (CRC). In patients, circ2891 was aberrantly upregulated in tumors and correlated with poor outcomes. Elevated circ2891 potentiated aerobic glycolysis and lactate production in CRC cells, supporting enhanced cell proliferation and tumor growth. Mechanistically, circ2891 specifically interacted with the m6A reader FXR1 and facilitated its phase separation, which stabilized PGK1 and ENO1 mRNAs by enhancing the recognition of their m6A modification sites. Consequently, elevated PGK1 and ENO1 led to increased aerobic glycolysis and drove histone lactylation, thereby transcriptionally activating the RNA helicase DDX21 to promote CRC progression. Simultaneously targeting circ2891 and histone lactylation suppressed patient-derived organoid and xenograft tumor growth. Together, these findings show that circ2891 promotes CRC by stabilizing PGK1/ENO1 via phase separation of FXR1, boosting glycolysis and histone lactylation to activate expression of DDX21. Targeting circ2891 offers a promising therapeutic strategy enhancing clinical outcomes.",
+      "journal": "Cancer research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Affiliated Hospital of Xuzhou Medical College Xuzhou, Jiangsu China.",
+        "Xuzhou Medical College Xuzhou, Jiangsu China."
+      ],
+      "doi": "10.1158/0008-5472.CAN-25-3151",
+      "date": "2026-08-05",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42554628/"
+    },
     {
       "pmid": "42554434",
       "title": "Histone Lactylation in Cancer-Associated Fibroblasts Induces Extracellular Matrix Remodeling and Immunosuppression to Promote Colorectal Cancer Progression.",
@@ -93,60 +145,6 @@
       "doi": "10.34133/research.1346",
       "date": "2026-08-04",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42553490/"
-    },
-    {
-      "pmid": "42553398",
-      "title": "Targeting stroma-mediated T-cell exclusion and functional exhaustion in pancreatic ductal adenocarcinoma through CXCR4 and PD-1 blockade.",
-      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is one of the deadliest malignancies to date and characterized by a unique immunosuppressive and highly desmoplastic tumor microenvironment (TME). These features drive profound T-cell dysfunction and maintain high resistance to current immunotherapy. By recapitulating the complex 3D architecture of human PDAC, we demonstrate the key immunosuppressive mechanisms that drive T-cell dysfunction within the tumor microenvironment. 3D PDAC spheroids-generated from PANC-1 cells alone or together with primary pancreatic stellate cells (PSC)-were infiltrated with primary human T-cells from healthy donors, allowing controlled analysis of T-cell infiltration, activation, and checkpoint regulation. Furthermore, patient-derived spheroids (PDS) composed of primary tumor cells and cancer-associated fibroblasts were infiltrated with autologous T-cells. Infiltrated T-cells exhibited a pronounced exhaustion signature, including strong upregulation of PD-1, LAG-3, and CTLA-4, closely mirroring the phenotype of tumor-infiltrating lymphocytes (TIL) isolated from PDAC patient samples. Incorporation of pancreatic stellate cells (PSC) generated a fibrotic barrier around the tumor cells that markedly restricted T-cell infiltration, modeling the desmoplastic TME characteristic of PDAC. From a mechanistic perspective, stromal CXCL12-CXCR4 enhanced T-cell exclusion: pharmacological CXCR4 blockade with AMD3100 significantly enhanced T-cell infiltration into PSC-containing spheroids. Furthermore, treatment with the anti-PD-1 monoclonal antibody pembrolizumab partially restored the effector cell function of T-cells within the 3D system. These results demonstrate that this minimalistic platform is capable of capturing complex, cytokine- and stroma-driven immunomodulation typically observed only in advanced organoid or in vivo systems. Crucially, key immunological features-including T-cell exhaustion, stromal exclusion, and therapeutic responsiveness-were fully reproduced in PDS. PDS reproduced patient-specific T-cell suppression patterns and therapeutic responses, underscoring the translational relevance of the platform. Together, our findings identify critical determinants of T-cell dysfunction in PDAC and introduce a versatile, animal-free 3D model that powerfully captures hallmark immune-evasion mechanisms in PDAC. This system provides a scalable and mechanistically faithful tool for dissecting TME-driven immune suppression and for accelerating the functional evaluation of immunotherapeutic strategies, including patient-tailored approaches.",
-      "journal": "Frontiers in immunology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Heinrich-Heine-Universität Düsseldorf, Institute of Pharmaceutical Biology and Biotechnology, Düsseldorf, North Rhine-Westphalia, Germany.",
-        "Carl von Ossietzky Universität Oldenburg, University Hospital for Visceral Surgery, Pius-Hospital Oldenburg, Oldenburg, Lower Saxony, Germany.",
-        "University Hospital Düsseldorf, Institute of Pathology, Düsseldorf, North Rhine-Westphalia, Germany.",
-        "Heinrich-Heine-Universität Düsseldorf, Center for Digital Medicine, Group Machine Learning for Medical Data, Düsseldorf, North Rhine-Westphalia, Germany."
-      ],
-      "doi": "10.3389/fimmu.2026.1844781",
-      "date": "2026-07-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42553398/"
-    },
-    {
-      "pmid": "42553284",
-      "title": "Biosensor applications in organ-on-a-chip platforms and disease modeling.",
-      "abstract": "Research efforts are advancing with the use of microphysiological systems (MPS) and organ-on-a-chip systems (OoCs) integrated with biosensors for in vitro modeling of cell and tissue function for a better understanding of dynamic cellular microenvironments and disease mechanisms. OoC systems coupled with biosensors enable more accurate modeling of human physiology and disease. These platforms provide non-invasive, enhanced real-time monitoring of cellular behaviors and responses with high sensitivity and selectivity and allow for more physiologically and pharmacologically relevant models for high-throughput drug screening, systemic disease modeling, pharmacokinetic modeling, and personalized medicine. The integration of biosensors allows for precise detection of biomarkers, physiological changes, and drug effects, providing valuable insights into disease mechanisms, drug toxicity, and therapeutic efficacy. This review provides an overview of biosensor types and recent advancements with particular focus on applications to in vitro modeling of cell and tissue function. Specific examples of organ-on-a-chip systems integrated with biosensors are then highlighted, including applications in disease modeling.",
-      "journal": "Frontiers in bioengineering and biotechnology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Hesperos, Inc., Orlando, FL, United States.",
-        "Nanoscience Technology Center, University of Central Florida, Orlando, FL, United States."
-      ],
-      "doi": "10.3389/fbioe.2026.1824674",
-      "date": "2026-07-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42553284/"
-    },
-    {
-      "pmid": "42552539",
-      "title": "Impaired NADH-linked mitochondrial respiration disrupts ventral midbrain neuronal programs in POLG disease.",
-      "abstract": "POLG (DNA polymerase γ catalytic subunit)-related mitochondrial diseases are among the most severe primary mitochondrial disorders and are characterized by progressive neurodegeneration with prominent dopaminergic involvement. However, the cell type-specific mechanisms linking mitochondrial DNA instability to neuronal vulnerability remain incompletely defined. Using patient-derived midbrain organoids and single-cell RNA sequencing, we investigated how POLG mutations alter mitochondrial and neuronal programs at subtype resolution. We analyzed dopaminergic neuronal populations and ventral midbrain neurons to define disease-associated transcriptional changes. To evaluate therapeutic improvement, POLG organoids were treated chronically with nicotinamide riboside (NR), followed by single-cell transcriptomic profiling and pathway enrichment analysis. POLG mutations induced a coordinated downregulation of genes associated with oxidative phosphorylation and synaptic signaling, particularly in terminally differentiated dopaminergic neurons. This transcriptional alteration involved genes encoding respiratory chain complexes I-V, mitochondrial translation machinery, and ATP synthase components, suggesting disruption of mitochondrial bioenergetic programs at the transcriptomic level. Among dopaminergic subtypes, DA2 neurons and ventral midbrain neurons showed the most pronounced transcriptional alterations, indicating maturation-dependent vulnerability. NR treatment was associated with altered expression of genes involved in oxidative phosphorylation, NADH dehydrogenase activity, respiratory chain assembly, and synaptic pathways. Following NR exposure, dopaminergic subpopulations exhibited changes in cell-type proportions and partial normalization of mitochondrial- and synaptic-related transcriptional programs. These findings identify transcriptional alterations in pathways related to mitochondrial respiration. The data further suggests that modulation of NAD⁺ metabolism is associated with transcriptional changes in mitochondrial and neuronal pathways in this disease context.",
-      "journal": "Journal of translational medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Neurosurgery, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, 200092, China.",
-        "Department of Biomedicine (IBM), Faculty of Medicine, University of Bergen, Bergen, 5020, Norway.",
-        "Department of Pediatric Research, Oslo University Hospital, Oslo, 0372, Norway.",
-        "School of Medicine, Medical & Biological Sciences, University of St Andrews, North Haugh, St Andrews, KY16 9TF, UK.",
-        "Department of Biomedicine (IBM), Faculty of Medicine, University of Bergen, Bergen, 5020, Norway. xiao.liang@uib.no."
-      ],
-      "doi": "10.1186/s12967-026-08706-w",
-      "date": "2026-07-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42552539/"
     },
     {
       "pmid": "42509463",
@@ -372,6 +370,30 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42538903/"
     },
     {
+      "pmid": "42554704",
+      "title": "Biomarkers of metastatic disease in pheochromocytoma and paraganglioma.",
+      "abstract": "Pheochromocytomas and paragangliomas (PPGLs) are rare neuroendocrine tumors with variable metastatic potential. While metastatic disease occurs in approximately 10-20% of cases, its prediction remains a major clinical challenge, as no histological system has been universally validated to reliably identify aggressive tumors at diagnosis. This review aims to provide a comprehensive and updated overview of current and emerging biomarkers of metastatic risk in PPGL, encompassing histopathological scoring systems, genetic and molecular markers, biochemical phenotyping, liquid biopsy approaches, and imaging-based biomarkers. Among established markers, germline SDHB mutation status, loss of SDHB expression by immunohistochemistry, elevated plasma 3-methoxytyramine, and histopathological scoring systems such as GAPP and COPPS represent the most clinically validated tools for risk stratification. Emerging biomarkers - including somatic alterations in ATRX and TERT, genomic instability indices, tumor immune microenvironment characterization, circulating tumor DNA, and oncometabolite quantification - show promise in refining prognostic assessment but require prospective validation before routine clinical implementation. Accurate risk stratification in PPGL demands a multiparametric and dynamic approach, integrating clinical, genetic, biochemical, and molecular parameters. Future progress will depend on large prospective international cohorts, standardized biomarker platforms, and biomarker-driven clinical trial designs to translate emerging molecular knowledge into improved patient outcomes.",
+      "journal": "Endocrine connections",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Endocrinology Department, Instituto Português de Oncologia de Lisboa Francisco Gentil , Lisbon, Portugal.",
+        "Facultad de Medicina de la Universidad de Alcalá , Alcalá de Henares, Spain.",
+        "Endocrinology Department, Hospital da Luz de Lisboa , Lisbon, Portugal.",
+        "Endocrinology & Nutrition Department. Hospital Universitario Reina Sofía . Córdoba. Spain.",
+        "Maimonides Institute for Biomedical Research of Córdoba . Córdoba, Spain.",
+        "Pathology Department, Hospital Universitario Ramón y Cajal, IRYCIS , Madrid, Spain.",
+        "CIBERONC , Madrid, Spain.",
+        "Vall d'Hebron Institute of Oncology (VHIO), Vall d'Hebron Barcelona Hospital Campus , Barcelona, Spain.",
+        "Endocrinology & Nutrition Department. Hospital Universitario Ramón y Cajal . Madrid, Spain.",
+        "Instituto de Investigación Biomédica Ramón y Cajal (IRYCIS) , Madrid, Spain."
+      ],
+      "doi": "10.1530/EC-26-0501",
+      "date": "2026-08-05",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42554704/"
+    },
+    {
       "pmid": "42554082",
       "title": "Liquid Biopsy in Head and Neck Squamous Cell Carcinoma: A Systematic Review of the Scientific Literature.",
       "abstract": "Head and neck squamous cell carcinoma (HNSCC) presents a significant global health challenge, characterized by late-stage diagnosis and high rates of locoregional recurrence. Traditional tissue biopsy, while considered the gold standard, is invasive and often fails to capture the spatial and temporal heterogeneity of the tumor. Liquid biopsy has emerged as a transformative, noninvasive paradigm for molecular diagnostics, leveraging circulating biomarkers found in blood and saliva. This systematic review critically evaluates current evidence regarding the diagnostic accuracy, prognostic value, and molecular validity of circulating tumor cells, circulating tumor DNA (ctDNA), and the transcriptomic landscape of coding and noncoding RNAs (miRNAs, lncRNAs, and circRNAs) in HNSCC. Our review highlights the specificity of ctDNA for monitoring minimal residual disease, particularly in human papillomavirus- and Epstein-Barr virus-driven malignancies, where viral kinetics serve as sensitive biomarkers for recurrence. Furthermore, we explore the utility of \"Saliva-Exosomics,\" suggesting that salivary exosomes may offer high sensitivity for early-stage oral cavity lesions due to anatomical proximity. The review also synthesizes data on novel RNA species, such as tumor-educated platelets and circular RNAs, which act as stable systemic biosensors. Despite promising results, significant heterogeneity in isolation protocols and detection platforms (e.g., next-generation sequencing vs. digital PCR) remains a barrier to widespread clinical implementation. We conclude that integrating multianalyte liquid biopsies into clinical practice holds the potential to personalize therapeutic strategies, improve survival outcomes, and redefine the standard of care in head and neck oncology.",
@@ -467,32 +489,101 @@
       "doi": "10.1016/j.esmoop.2026.108331",
       "date": "2026-08-04",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42551245/"
-    },
-    {
-      "pmid": "42551126",
-      "title": "Size-exclusion chromatography as a clinically applicable method for extracellular vesicles collection as liquid biopsies shows potential diagnostic relevance and correlation with poorer outcome in common cancer types.",
-      "abstract": "Increasing evidence suggests extracellular vesicles (EVs) are key components of liquid biopsies to aid cancer diagnosis and treatment selection, if their collection can be translated to clinical settings. Size exclusion chromatography (SEC) is relatively simple, fast, and cost-effective, but its potential for \"real-world\" EVs collection for cancer diagnoses is unknown. Here we aimed to critically evaluate SEC using clinically-relevant plasma volumes and across a range of common cancer types that are frequently diagnosed too late. EVs were collected, using qEV70 or qEV35 SEC columns, from duplicate aliquots of n = 43 plasma samples procured at diagnosis with lung, ovarian, or gastric cancers and characterised on multiple parameters, seeking correlations with patients clinicopathological information. To investigate potential diagnostic relevance, EVs were collected in the same way from n = 10 plasma samples from healthy donors. We found that SEC has many attributes indicating that it is translatable to real-world clinical utility. With both SEC types, relatively large quantities of EVs were successfully collected from small plasma volumes for all three cancer types. No significant differences existed between qEV70 and qEV35 particle sizes, structure, and EVs markers. EVs in qEV35 isolates versus qEV70 isolates had reduced purity and/or increased protein corona, but both isolates revealed clinical correlations. Importantly, depending on the cancer type(s), results suggested that the EVs isolates at the time of cancer diagnosis may inform on lymph node-positivity and advanced stage, and may be prognostic for shorter time to disease progression. Furthermore, analysis of plasma CD63+ EVs and CD81+ EVs appears to have diagnostic relevance, due to their typically significantly greater quantities in cancer types compared to healthy controls. Altogether, SEC shows promise as a potential approach for clinical EVs collection as liquid biopsies and correlations between plasma EVs quantities with a range of clinicopathological characteristics suggests this would be worthwhile.",
-      "journal": "Translational oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Pharmacy and Pharmaceutical Sciences, Trinity College Dublin, Dublin, Ireland; Trinity Biomedical Sciences Institute, Trinity College Dublin, Dublin, Ireland; Trinity St. James's Cancer Institute, Trinity College Dublin, Dublin, Ireland.",
-        "Trinity St. James's Cancer Institute, Trinity College Dublin, Dublin, Ireland; Department of Obstetrics and Gynaecology, School of Medicine, Trinity College Dublin, Ireland; Department of Histopathology, School of Medicine, Trinity College Dublin, Dublin, Ireland; Trinity Translational Medicine Institute, St James's Hospital, Dublin, Ireland.",
-        "Trinity St. James's Cancer Institute, Trinity College Dublin, Dublin, Ireland; Trinity Translational Medicine Institute, St James's Hospital, Dublin, Ireland; Department of Clinical Medicine, School of Medicine, Trinity College Dublin, Ireland.",
-        "Trinity St. James's Cancer Institute, Trinity College Dublin, Dublin, Ireland; Trinity Translational Medicine Institute, St James's Hospital, Dublin, Ireland.",
-        "Trinity St. James's Cancer Institute, Trinity College Dublin, Dublin, Ireland; Department of Obstetrics and Gynaecology, School of Medicine, Trinity College Dublin, Ireland; Department of Histopathology, School of Medicine, Trinity College Dublin, Dublin, Ireland.",
-        "Department of Clinical Medicine, School of Medicine, Trinity College Dublin, Ireland.",
-        "Trinity St. James's Cancer Institute, Trinity College Dublin, Dublin, Ireland; Department of Oncology, St James's Hospital, Dublin, Ireland.",
-        "Trinity St. James's Cancer Institute, Trinity College Dublin, Dublin, Ireland; Department of Histopathology, School of Medicine, Trinity College Dublin, Dublin, Ireland.",
-        "School of Pharmacy and Pharmaceutical Sciences, Trinity College Dublin, Dublin, Ireland; Trinity Biomedical Sciences Institute, Trinity College Dublin, Dublin, Ireland; Trinity St. James's Cancer Institute, Trinity College Dublin, Dublin, Ireland. Electronic address: lodrisc@tcd.ie."
-      ],
-      "doi": "10.1016/j.tranon.2026.102964",
-      "date": "2026-08-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42551126/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42555733",
+      "date": "2026-08-05",
+      "title": "Leveraging IGF signaling to improve the spatial organization and regenerative potential of iPSC-derived vascularized liver organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42555733/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42555733。",
+      "report": "Liver tissue engineering offers a promising alternative for end-stage liver disease, yet the recreation of functional vasculature remains a major bottleneck to clinical translation. Here, we developed vascularized liver organoids by integrating human induced p...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42555528",
+      "date": "2026-08-05",
+      "title": "Calycosin targets the MAPK-EGR1 signaling axis to inhibit enterovirus 71 replication in cells and human colonic organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42555528/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Virulence，PMID 为 42555528。",
+      "report": "The downstream effectors that mediate the pro‑viral function of the MAPK pathway during enterovirus 71 (EV71) infection remain poorly defined. Here we show that early growth response 1 (EGR1) is independently regulated by each of the three classical MAPK branc...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42554628",
+      "date": "2026-08-05",
+      "title": "Histone Lactylation Mediated by circRNA-Facilitated FXR1 Phase Separation Promotes Colorectal Cancer Progression.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42554628/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer research，PMID 为 42554628。",
+      "report": "Histone lactylation is an epigenetic modification triggered by lactate produced during glycolysis. In cancer, histone lactylation can coordinate metabolic and epigenetic states to promote tumor development and progression. Here, we identified circ2891 as a dri...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42554434",
       "date": "2026-08-05",
@@ -523,6 +614,40 @@
       "fact": "PubMed 记录显示该文献收录于 Cancer research，PMID 为 42554434。",
       "report": "Cancer-associated fibroblasts (CAFs) drive key aspects of tumor malignancy. However, the profound heterogeneity in cytokine secretion and cell-cell communication orchestrated by CAFs renders therapeutic strategies targeting these molecules largely ineffective...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42554704",
+      "date": "2026-08-05",
+      "title": "Biomarkers of metastatic disease in pheochromocytoma and paraganglioma.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42554704/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Endocrine connections，PMID 为 42554704。",
+      "report": "Pheochromocytomas and paragangliomas (PPGLs) are rare neuroendocrine tumors with variable metastatic potential. While metastatic disease occurs in approximately 10-20% of cases, its prediction remains a major clinical challenge, as no histological system has b...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -646,34 +771,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42551126",
-      "date": "2026-08-04",
-      "title": "Size-exclusion chromatography as a clinically applicable method for extracellular vesicles collection as liquid biopsies shows potential diagnostic relevance and correlation with poorer outcome in common cancer types.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42551126/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Translational oncology，PMID 为 42551126。",
-      "report": "Increasing evidence suggests extracellular vesicles (EVs) are key components of liquid biopsies to aid cancer diagnosis and treatment selection, if their collection can be translated to clinical settings. Size exclusion chromatography (SEC) is relatively simpl...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42542137",
       "date": "2026-08-01",
       "title": "Bacterial surface layer ⸻ Properties, role, applications and challenges ⸻ A review of the next-generation nanotechnological tool.",
@@ -699,36 +796,6 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of microbiological methods，PMID 为 42542137。",
       "report": "Surface-layer (S-layer) proteins, forming the outermost envelope of many bacteria and archaea, exhibit extraordinary structural precision and self-assemble into two-dimensional crystalline lattices with square, hexagonal, or oblique symmetry. These monomolecul...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42552539",
-      "date": "2026-07-31",
-      "title": "Impaired NADH-linked mitochondrial respiration disrupts ventral midbrain neuronal programs in POLG disease.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42552539/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42552539。",
-      "report": "POLG (DNA polymerase γ catalytic subunit)-related mitochondrial diseases are among the most severe primary mitochondrial disorders and are characterized by progressive neurodegeneration with prominent dopaminergic involvement. However, the cell type-specific m...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1052,66 +1119,6 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in genetics，PMID 为 42553790。",
       "report": "To investigate the predictive value of peripheral blood cfDNA breast cancer gene mutation profiling for postoperative pathological malignancy in BI-RADS 4 breast nodules. Clinical data from 212 patients with BI-RADS 4 breast nodules at our hospital from Januar...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42553398",
-      "date": "2026-07-21",
-      "title": "Targeting stroma-mediated T-cell exclusion and functional exhaustion in pancreatic ductal adenocarcinoma through CXCR4 and PD-1 blockade.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42553398/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42553398。",
-      "report": "Pancreatic ductal adenocarcinoma (PDAC) is one of the deadliest malignancies to date and characterized by a unique immunosuppressive and highly desmoplastic tumor microenvironment (TME). These features drive profound T-cell dysfunction and maintain high resist...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42553284",
-      "date": "2026-07-21",
-      "title": "Biosensor applications in organ-on-a-chip platforms and disease modeling.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42553284/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42553284。",
-      "report": "Research efforts are advancing with the use of microphysiological systems (MPS) and organ-on-a-chip systems (OoCs) integrated with biosensors for in vitro modeling of cell and tissue function for a better understanding of dynamic cellular microenvironments and...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

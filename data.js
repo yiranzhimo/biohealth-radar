@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-08-05",
+  "updatedAt": "2026-08-06",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -822,6 +822,228 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42555733",
+      "date": "2026-08-05",
+      "title": "Leveraging IGF signaling to improve the spatial organization and regenerative potential of iPSC-derived vascularized liver organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42555733/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42555733。",
+      "report": "Liver tissue engineering offers a promising alternative for end-stage liver disease, yet the recreation of functional vasculature remains a major bottleneck to clinical translation. Here, we developed vascularized liver organoids by integrating human induced p...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_013fe6155a19a480006a7402c43cbc81a09e66db1fa3bbf2cc",
+        "reviewedAt": "2026-08-06T03:42:59.310590+00:00",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合中立情报要求，未做出不当临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，与研究主题相关。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断分离清晰，证据等级合适。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42555733。",
+          "report": "Liver tissue engineering offers a promising alternative for end-stage liver disease, yet the recreation of functional vasculature remains a major bottleneck to clinical translation. Here, we developed vascularized liver organoids by integrating human induced p...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42555528",
+      "date": "2026-08-05",
+      "title": "Calycosin targets the MAPK-EGR1 signaling axis to inhibit enterovirus 71 replication in cells and human colonic organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42555528/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Virulence，PMID 为 42555528。",
+      "report": "The downstream effectors that mediate the pro‑viral function of the MAPK pathway during enterovirus 71 (EV71) infection remain poorly defined. Here we show that early growth response 1 (EGR1) is independently regulated by each of the three classical MAPK branc...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0f363863f42cb5e8006a7402c8c57c81a1859b57343ea232c2",
+        "reviewedAt": "2026-08-06T03:42:59.310590+00:00",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录基于权威文献，信息清晰，无临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类与文献主题一致，合理。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献来源清晰，支持的证据水平适中。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Virulence，PMID 为 42555528。",
+          "report": "The downstream effectors that mediate the pro‑viral function of the MAPK pathway during enterovirus 71 (EV71) infection remain poorly defined. Here we show that early growth response 1 (EGR1) is independently regulated by each of the three classical MAPK branc...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42554628",
+      "date": "2026-08-05",
+      "title": "Histone Lactylation Mediated by circRNA-Facilitated FXR1 Phase Separation Promotes Colorectal Cancer Progression.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42554628/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer research，PMID 为 42554628。",
+      "report": "Histone lactylation is an epigenetic modification triggered by lactate produced during glycolysis. In cancer, histone lactylation can coordinate metabolic and epigenetic states to promote tumor development and progression. Here, we identified circ2891 as a dri...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0ba6750e566a25db006a7402ceca5c81a0a40a5025eb4f0ff6",
+        "reviewedAt": "2026-08-06T03:42:59.310590+00:00",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查以确认研究质量和相关性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类未合理反映研究质量。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平标识为中等，但研究质量不明。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cancer research，PMID 为 42554628。",
+          "report": "Histone lactylation is an epigenetic modification triggered by lactate produced during glycolysis. In cancer, histone lactylation can coordinate metabolic and epigenetic states to promote tumor development and progression. Here, we identified circ2891 as a dri...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42554434",
       "date": "2026-08-05",
       "title": "Histone Lactylation in Cancer-Associated Fibroblasts Induces Extracellular Matrix Remodeling and Immunosuppression to Promote Colorectal Cancer Progression.",
@@ -894,6 +1116,87 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Cancer research，PMID 为 42554434。",
           "report": "Cancer-associated fibroblasts (CAFs) drive key aspects of tumor malignancy. However, the profound heterogeneity in cytokine secretion and cell-cell communication orchestrated by CAFs renders therapeutic strategies targeting these molecules largely ineffective...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42554704",
+      "date": "2026-08-05",
+      "title": "Biomarkers of metastatic disease in pheochromocytoma and paraganglioma.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42554704/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Endocrine connections，PMID 为 42554704。",
+      "report": "Pheochromocytomas and paragangliomas (PPGLs) are rare neuroendocrine tumors with variable metastatic potential. While metastatic disease occurs in approximately 10-20% of cases, its prediction remains a major clinical challenge, as no histological system has b...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0ba83127bcd0c588006a7402da5650819dbe8cba52ac10a405",
+        "reviewedAt": "2026-08-06T03:42:59.310590+00:00",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录内部一致，符合中立出版要求。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平和分类合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "临床",
+            "监管",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Endocrine connections，PMID 为 42554704。",
+          "report": "Pheochromocytomas and paragangliomas (PPGLs) are rare neuroendocrine tumors with variable metastatic potential. While metastatic disease occurs in approximately 10-20% of cases, its prediction remains a major clinical challenge, as no histological system has b...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1476,75 +1779,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 ESMO open，PMID 为 42551245。",
           "report": "Treatment strategies for patients with metastatic breast cancer (MBC) are becoming increasingly complex, underscoring the need for reliable biomarkers to inform clinical decision making. Circulating tumor cells (CTCs) are well-established prognostic biomarkers...",
           "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42551126",
-      "date": "2026-08-04",
-      "title": "Size-exclusion chromatography as a clinically applicable method for extracellular vesicles collection as liquid biopsies shows potential diagnostic relevance and correlation with poorer outcome in common cancer types.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42551126/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Translational oncology，PMID 为 42551126。",
-      "report": "Increasing evidence suggests extracellular vesicles (EVs) are key components of liquid biopsies to aid cancer diagnosis and treatment selection, if their collection can be translated to clinical settings. Size exclusion chromatography (SEC) is relatively simpl...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0ce34d1a64005718006a72fdeb95048198b5808bdaf480ba84",
-        "reviewedAt": "2026-08-05T09:09:16.104915+00:00",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审查，存在文献分类及临床结论的潜在不一致。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据水平与说明不符，存在分类支持不足的情况。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
-          "evidenceLevelReasonable": false,
-          "notesCn": "文献和推论存在不清晰分隔，应尝试明确各项不同的内容。"
-        },
-        "riskFlags": [
-          "commercial_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Biotech",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "biotech",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Translational oncology，PMID 为 42551126。",
-          "report": "Increasing evidence suggests extracellular vesicles (EVs) are key components of liquid biopsies to aid cancer diagnosis and treatment selection, if their collection can be translated to clinical settings. Size exclusion chromatography (SEC) is relatively simpl...",
-          "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -2191,78 +2425,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Journal of microbiological methods，PMID 为 42542137。",
           "report": "Surface-layer (S-layer) proteins, forming the outermost envelope of many bacteria and archaea, exhibit extraordinary structural precision and self-assemble into two-dimensional crystalline lattices with square, hexagonal, or oblique symmetry.",
           "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42552539",
-      "date": "2026-07-31",
-      "title": "Impaired NADH-linked mitochondrial respiration disrupts ventral midbrain neuronal programs in POLG disease.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42552539/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42552539。",
-      "report": "POLG (DNA polymerase γ catalytic subunit)-related mitochondrial diseases are among the most severe primary mitochondrial disorders and are characterized by progressive neurodegeneration with prominent dopaminergic involvement. However, the cell type-specific m...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0a74ebe8515466bd006a734a9ae53881a2a7784f715b8fd4d5",
-        "reviewedAt": "2026-08-05T14:36:29.651087+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号符合发布条件，信息准确且合理。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论分离清晰，证据水平也合适。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42552539。",
-          "report": "POLG (DNA polymerase γ catalytic subunit)-related mitochondrial diseases are among the most severe primary mitochondrial disorders and are characterized by progressive neurodegeneration with prominent dopaminergic involvement. However, the cell type-specific m...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -4040,150 +4202,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Frontiers in genetics，PMID 为 42553790。",
           "report": "To investigate the predictive value of peripheral blood cfDNA breast cancer gene mutation profiling for postoperative pathological malignancy in BI-RADS 4 breast nodules. Clinical data from 212 patients with BI-RADS 4 breast nodules at our hospital from Januar...",
           "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42553398",
-      "date": "2026-07-21",
-      "title": "Targeting stroma-mediated T-cell exclusion and functional exhaustion in pancreatic ductal adenocarcinoma through CXCR4 and PD-1 blockade.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42553398/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42553398。",
-      "report": "Pancreatic ductal adenocarcinoma (PDAC) is one of the deadliest malignancies to date and characterized by a unique immunosuppressive and highly desmoplastic tumor microenvironment (TME). These features drive profound T-cell dysfunction and maintain high resist...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_080e28e281a933ff006a734aafaa94819f8d2da5d37d9ce3fd",
-        "reviewedAt": "2026-08-05T14:36:29.651087+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "文献资料稳定，信息分类合理，适合发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类与元数据一致，支持的技术平台与子类别有效。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "文献支持的信息与参考来源之间无冲突，证据水平合理。"
-        },
-        "riskFlags": [
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42553398。",
-          "report": "Pancreatic ductal adenocarcinoma (PDAC) is one of the deadliest malignancies to date and characterized by a unique immunosuppressive and highly desmoplastic tumor microenvironment (TME). These features drive profound T-cell dysfunction and maintain high resist...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42553284",
-      "date": "2026-07-21",
-      "title": "Biosensor applications in organ-on-a-chip platforms and disease modeling.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42553284/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42553284。",
-      "report": "Research efforts are advancing with the use of microphysiological systems (MPS) and organ-on-a-chip systems (OoCs) integrated with biosensors for in vitro modeling of cell and tissue function for a better understanding of dynamic cellular microenvironments and...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_02660f1db98da371006a734ab7019081a2ba539d6d8d229bb8",
-        "reviewedAt": "2026-08-05T14:36:29.651087+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献在生物工程和生物技术领域有较高的可靠性，未包含未经支持的临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论区分清晰，证据水平适中"
-        },
-        "riskFlags": [
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42553284。",
-          "report": "Research efforts are advancing with the use of microphysiological systems (MPS) and organ-on-a-chip systems (OoCs) integrated with biosensors for in vitro modeling of cell and tissue function for a better understanding of dynamic cellular microenvironments and...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }

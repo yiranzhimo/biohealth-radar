@@ -1,30 +1,115 @@
 {
-  "capturedAt": "2026-08-05T19:57:33.308557+00:00",
+  "capturedAt": "2026-08-06T03:42:59.310590+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42554434",
-      "responseId": "resp_0dc2707f469905c6006a7395ae33a881a1b82999a19c2b73f5",
+      "signalId": "pubmed-42555733",
+      "responseId": "resp_013fe6155a19a480006a7402c43cbc81a09e66db1fa3bbf2cc",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合中立情报要求，未做出不当临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，与研究主题相关。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断分离清晰，证据等级合适。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42555733。",
+          "report": "Liver tissue engineering offers a promising alternative for end-stage liver disease, yet the recreation of functional vasculature remains a major bottleneck to clinical translation. Here, we developed vascularized liver organoids by integrating human induced p...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42555528",
+      "responseId": "resp_0f363863f42cb5e8006a7402c8c57c81a1859b57343ea232c2",
+      "review": {
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录基于权威文献，信息清晰，无临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类与文献主题一致，合理。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献来源清晰，支持的证据水平适中。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Virulence，PMID 为 42555528。",
+          "report": "The downstream effectors that mediate the pro‑viral function of the MAPK pathway during enterovirus 71 (EV71) infection remain poorly defined. Here we show that early growth response 1 (EGR1) is independently regulated by each of the three classical MAPK branc...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42554628",
+      "responseId": "resp_0ba6750e566a25db006a7402ceca5c81a0a40a5025eb4f0ff6",
       "review": {
         "status": "needs_human",
-        "confidence": 0.85,
+        "confidence": 0.75,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献报告了癌相关成纤维细胞在结直肠癌进展中的作用，但未对研究质量做出判断，存在不确定性。",
+        "reviewSummaryCn": "需要人工审查以确认研究质量和相关性。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "分类不支持，因为未提供充分的研究质量评估和样本量信息。"
+          "notesCn": "分类未合理反映研究质量。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "证据水平被认为中等，但缺乏对研究质量的评估显著降低了证据水平的合理性。"
+          "notesCn": "证据水平标识为中等，但研究质量不明。"
         },
         "riskFlags": [
-          "insufficient_source",
-          "weak_classification"
+          "weak_classification",
+          "insufficient_source"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -33,18 +118,62 @@
           "themes": [
             "Organoids",
             "Advanced Disease Models",
-            "Precision Oncology",
-            "Multi-omics"
+            "Precision Oncology"
           ],
           "tags": [
             "类器官",
             "疾病模型",
-            "肿瘤",
-            "多组学"
+            "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Cancer research，PMID 为 42554434。",
-          "report": "Cancer-associated fibroblasts (CAFs) drive key aspects of tumor malignancy. However, the profound heterogeneity in cytokine secretion and cell-cell communication orchestrated by CAFs renders therapeutic strategies targeting these molecules largely ineffective...",
+          "fact": "PubMed 记录显示该文献收录于 Cancer research，PMID 为 42554628。",
+          "report": "Histone lactylation is an epigenetic modification triggered by lactate produced during glycolysis. In cancer, histone lactylation can coordinate metabolic and epigenetic states to promote tumor development and progression. Here, we identified circ2891 as a dri...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42554704",
+      "responseId": "resp_0ba83127bcd0c588006a7402da5650819dbe8cba52ac10a405",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录内部一致，符合中立出版要求。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平和分类合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "临床",
+            "监管",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Endocrine connections，PMID 为 42554704。",
+          "report": "Pheochromocytomas and paragangliomas (PPGLs) are rare neuroendocrine tumors with variable metastatic potential. While metastatic disease occurs in approximately 10-20% of cases, its prediction remains a major clinical challenge, as no histological system has b...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
