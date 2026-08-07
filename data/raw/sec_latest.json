@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-07T07:45:11.261113+00:00",
+  "capturedAt": "2026-08-07T19:18:38.314901+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-07-24",
@@ -139,6 +139,56 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-08-07",
+      "reportDate": "2026-06-30",
+      "acceptanceDateTime": "2026-08-06T20:00:23.000Z",
+      "act": "34",
+      "form": "10-Q",
+      "fileNumber": "001-37478",
+      "filmNumber": "261251004",
+      "items": "",
+      "size": 15732977,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "ntra-20260630.htm",
+      "primaryDocDescription": "10-Q",
+      "accessionNumber": "0001628280-26-054525",
+      "companyId": "natera",
+      "companyName": "Natera",
+      "companyDirections": [
+        "Precision Diagnostics"
+      ],
+      "secTicker": "NTRA",
+      "cik": "0001604821",
+      "secName": "Natera, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1604821/000162828026054525/ntra-20260630.htm"
+    },
+    {
+      "filingDate": "2026-08-07",
+      "reportDate": "2026-06-30",
+      "acceptanceDateTime": "2026-08-06T17:31:55.000Z",
+      "act": "34",
+      "form": "10-Q",
+      "fileNumber": "001-39035",
+      "filmNumber": "261250579",
+      "items": "",
+      "size": 6843972,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "txg-20260630.htm",
+      "primaryDocDescription": "10-Q",
+      "accessionNumber": "0001628280-26-054491",
+      "companyId": "10x-genomics",
+      "companyName": "10x Genomics",
+      "companyDirections": [
+        "Sequencing & Research Tools"
+      ],
+      "secTicker": "TXG",
+      "cik": "0001770787",
+      "secName": "10x Genomics, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1770787/000162828026054491/txg-20260630.htm"
+    },
     {
       "filingDate": "2026-08-06",
       "reportDate": "2026-06-30",
@@ -920,6 +970,68 @@
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001604821-000162828026054525",
+      "date": "2026-08-07",
+      "title": "Natera filed Form 10-Q",
+      "entity": "Natera",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1604821/000162828026054525/ntra-20260630.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Precision Diagnostics"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "NTRA"
+      ],
+      "companyIds": [
+        "natera"
+      ],
+      "fact": "SEC EDGAR lists accession 0001628280-26-054525 for Natera, Form 10-Q, filed on 2026-08-07.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001770787-000162828026054491",
+      "date": "2026-08-07",
+      "title": "10x Genomics filed Form 10-Q",
+      "entity": "10x Genomics",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1770787/000162828026054491/txg-20260630.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Sequencing & Research Tools"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "TXG"
+      ],
+      "companyIds": [
+        "10x-genomics"
+      ],
+      "fact": "SEC EDGAR lists accession 0001628280-26-054491 for 10x Genomics, Form 10-Q, filed on 2026-08-07.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001652130-000119312526337952",
       "date": "2026-08-06",
