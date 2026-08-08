@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-07T19:18:30.782527+00:00",
+  "capturedAt": "2026-08-08T02:23:42.631307+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,8 +10,8 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-08-07",
-    "end": "2026-08-07"
+    "start": "2025-08-08",
+    "end": "2026-08-08"
   },
   "pmids": [
     "42565532",
@@ -32,12 +32,12 @@
     "42560034",
     "42546624",
     "42546051",
+    "42566729",
     "42565327",
     "42565148",
     "42564384",
     "42564319",
-    "42564290",
-    "42564141"
+    "42564290"
   ],
   "records": [
     {
@@ -351,6 +351,26 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546051/"
     },
     {
+      "pmid": "42566729",
+      "title": "Using Disease-Agnostic Genomic Liquid Biopsy in Complex Diagnoses: Real-Life Example of cfChIP-Seq in a Fever of Unknown Origin.",
+      "abstract": "",
+      "journal": "JCO precision oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Endocrinology and Metabolism, Hadassah Medical Center, Faculty of Medicine, Hebrew University of Jerusalem, Jerusalem, Israel.",
+        "Senseera, Jerusalem, Israel.",
+        "Department of Medicine, Hadassah Medical Center, Faculty of Medicine, Hebrew University of Jerusalem, Jerusalem, Israel.",
+        "Department of Pathology, Hadassah Medical Center, Faculty of Medicine, Hebrew University of Jerusalem, Jerusalem, Israel.",
+        "The Lautenberg Center for Immunology and Cancer Research, Faculty of Medicine, and the Rachel and Selim Benin School of Computer Science and Engineering, The Hebrew University of Jerusalem, Jerusalem, Israel.",
+        "The Hebrew University Center for Computational Medicine, The Hebrew University of Jerusalem, Jerusalem, Israel."
+      ],
+      "doi": "10.1200/PO-25-01235",
+      "date": "2026-08-07",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42566729/"
+    },
+    {
       "pmid": "42565327",
       "title": "Folate Receptor Alpha (FRα/FOLR1) Immunohistochemical Expression Across Molecularly Classified Endometrial Carcinomas.",
       "abstract": "The approval of Mirvetuximab soravtansine, a folate receptor alpha (FOLR1)-targeting antibody-drug conjugate, for platinum-resistant ovarian cancer, has prompted interest in FOLR1 as a target in endometrial carcinoma (EC). Characterization of FOLR1 expression across EC histotypes, TCGA molecular subtypes, and clinically relevant biomarkers using the FDA-approved companion diagnostic assay has not been performed. FOLR1 immunohistochemistry was performed on tissue microarrays from 169 molecularly classified ECs using the VENTANA FOLR1-2.1 assay and scored by proportion score PS2 and PS1 criteria at the ovarian cancer eligibility cutoff (PS2 ≥75) as well as exploratory thresholds. Associations with histotype, molecular subtype, biomarker (ER, PR, HER2) status, survival outcomes, intratumoral heterogeneity, and matched primary-recurrence expression were assessed. Only 3% (5/169) of ECs met the PS2 ≥75 threshold; all 5 were p53-abnormal (p53abn). In all, 9% (15/169) showed PS2 ≥25, predominantly in p53abn and no specific molecular profile (NSMP) subgroups. Uterine serous carcinoma had the highest expression; FOLR1 was absent in 3/3 clear cell carcinomas. Higher FOLR1 expression was associated with inferior survival, though this largely reflected molecular subtype and grade. FOLR1 was homogeneous across cores but variable between primary and recurrent tumors. FOLR1 testing in EC may be most relevant in p53abn and NSMP tumors and may not be useful in clear cell carcinomas. FOLR1 may have prognostic value in low-grade endometrioid and ER/PR-positive EC. Retesting at tumor recurrence is recommended. Given the frequency of lower-level FOLR1 expression, trials with treatment-response data are needed to test eligibility criteria below the current ovarian cancer threshold.",
@@ -449,23 +469,6 @@
       "doi": "10.3389/fimmu.2026.1866011",
       "date": "2026-07-23",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42564290/"
-    },
-    {
-      "pmid": "42564141",
-      "title": "Editorial: Liquid biopsy in non-small cell lung cancer for diagnosis, treatment selection and monitoring.",
-      "abstract": "",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Editorial"
-      ],
-      "affiliations": [
-        "Department of Biological Chemistry, Medical School, National and Kapodistrian University of Athens, Athens, Greece.",
-        "Thoracic Oncology Unit, Department of Respiratory Diseases, University of Montpellier, Montpellier University Hospital, Montpellier, France.",
-        "Department of Oncology, Karmanos Cancer Institute, Wayne State University, Detroit, MI, United States."
-      ],
-      "doi": "10.3389/fonc.2026.1929637",
-      "date": "2026-07-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42564141/"
     }
   ],
   "signals": [
@@ -497,6 +500,34 @@
       "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42565532。",
       "report": "Ulcerative colitis (UC) is a chronic inflammatory bowel disorder with limited therapeutic options, particularly those capable of selectively reinforcing intestinal epithelial barrier integrity while preserving immune homeostasis. Here, Rhoifolin (3, 10 mg/kg)...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42566729",
+      "date": "2026-08-07",
+      "title": "Using Disease-Agnostic Genomic Liquid Biopsy in Complex Diagnoses: Real-Life Example of cfChIP-Seq in a Fever of Unknown Origin.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42566729/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 JCO precision oncology，PMID 为 42566729。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1017,36 +1048,6 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42564290。",
       "report": "Primary liver cancer is a major global cause of cancer death, and hepatocellular carcinoma (HCC) is the predominant histological subtype. This literature review synthesizes current evidence on the exposome, multi-omics landscape, and artificial intelligence (A...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42564141",
-      "date": "2026-07-23",
-      "title": "Editorial: Liquid biopsy in non-small cell lung cancer for diagnosis, treatment selection and monitoring.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42564141/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42564141。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

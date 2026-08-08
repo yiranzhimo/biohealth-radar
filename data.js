@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-08-07",
+  "updatedAt": "2026-08-08",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -895,6 +895,75 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "pubmed-42566729",
+      "date": "2026-08-07",
+      "title": "Using Disease-Agnostic Genomic Liquid Biopsy in Complex Diagnoses: Real-Life Example of cfChIP-Seq in a Fever of Unknown Origin.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42566729/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 JCO precision oncology，PMID 为 42566729。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0205807e24dac13b006a769338eea081908953ba5910490ca2",
+        "reviewedAt": "2026-08-08T02:23:51.947730+00:00",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "分类和证据水平存在不一致，需进一步审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平为低，但已分类为高可靠性，存在不一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平与分类不符，研究质量未知。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 JCO precision oncology，PMID 为 42566729。",
+          "report": "PubMed 记录未提供摘要。",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42565327",
       "date": "2026-08-07",
       "title": "Folate Receptor Alpha (FRα/FOLR1) Immunohistochemical Expression Across Molecularly Classified Endometrial Carcinomas.",
@@ -973,6 +1042,78 @@ window.BHR_DATA = {
           "report": "The approval of Mirvetuximab soravtansine, a folate receptor alpha (FOLR1)-targeting antibody-drug conjugate, for platinum-resistant ovarian cancer, has prompted interest in FOLR1 as a target in endometrial carcinoma (EC). Characterization of FOLR1 expression...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "sec-0001110803-000111080326000168",
+      "date": "2026-08-07",
+      "title": "Illumina filed Form 8-K",
+      "entity": "Illumina",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000168/ilmn-20260807.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Corporate Filings",
+        "Sequencing & Research Tools"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "ILMN"
+      ],
+      "companyIds": [
+        "illumina"
+      ],
+      "fact": "SEC EDGAR lists accession 0001110803-26-000168 for Illumina, Form 8-K, filed on 2026-08-07.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_048789b7b87468db006a769341a37881938120a5349ef9bc92",
+        "reviewedAt": "2026-08-08T02:23:51.947730+00:00",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号符合发布标准，信息清晰且无临床建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别和子类别合适，符合资料来源。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分离明确，证据等级合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Sequencing & Research Tools"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "ILMN"
+          ],
+          "fact": "SEC EDGAR lists accession 0001110803-26-000168 for Illumina, Form 8-K, filed on 2026-08-07.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
         }
       }
     },
@@ -4596,79 +4737,6 @@ window.BHR_DATA = {
           "report": "Primary liver cancer is a major global cause of cancer death, and hepatocellular carcinoma (HCC) is the predominant histological subtype. This literature review synthesizes current evidence on the exposome, multi-omics landscape, and artificial intelligence (A...",
           "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "研究质量、样本量、利益冲突、临床阶段或商业化状态的相关信息未被判断。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42564141",
-      "date": "2026-07-23",
-      "title": "Editorial: Liquid biopsy in non-small cell lung cancer for diagnosis, treatment selection and monitoring.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42564141/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42564141。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0429e9ea603fd442006a762fd944a081a3a03784043a656f34",
-        "reviewedAt": "2026-08-07T19:18:38.544441+00:00",
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该信息缺乏足够的临床研究质量信息，证据水平过低。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "主分类和证据水平不一致，证据水平过低。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平低，不适合用于临床结论。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42564141。",
-          "report": "PubMed 记录未提供摘要。",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
