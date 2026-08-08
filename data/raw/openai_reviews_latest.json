@@ -1,29 +1,407 @@
 {
-  "capturedAt": "2026-08-08T02:23:51.947730+00:00",
+  "capturedAt": "2026-08-08T07:18:09.937735+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42566729",
-      "responseId": "resp_0205807e24dac13b006a769338eea081908953ba5910490ca2",
+      "signalId": "pubmed-42568046",
+      "responseId": "resp_055d7cd0ae84e48e006a76d832b88c819da8227ba27f880154",
+      "review": {
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号符合发布标准，无需人工审核。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类适当，符合文献内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断分离清晰，证据水平合理。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42568046。",
+          "report": "Organoids are powerful models for developmental biology, disease modelling, and personalized medicine. However, their broader application is limited by the inability of extracellular matrix (ECM) hydrogels to mimic the biomechanical and biochemical properties...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42567931",
+      "responseId": "resp_0cbb80b82fcadade006a76d8384d10819db1532d8f8b58ddb7",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录准确，信息清晰且符合出版标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理且与主题相关。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平适中，但具价值的信息并未包含研判。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Nature biotechnology，PMID 为 42567931。",
+          "report": "Although human pluripotent stem cells (hPSCs) can generate all tissues of the body, hPSCs in vitro frequently exhibit differentiation biases or failure that pose substantial challenges for disease modeling and regenerative medicine. The origins of these biases...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42567917",
+      "responseId": "resp_0b7580eeb82edbd2006a76d83bfb8081a182c1a0788e849a17",
       "review": {
         "status": "needs_human",
         "confidence": 0.75,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "分类和证据水平存在不一致，需进一步审查。",
+        "reviewSummaryCn": "文献证据水平被标记为低，且缺乏足够的支持信息进行质量评估，需人工审查。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "证据水平为低，但已分类为高可靠性，存在不一致。"
+          "notesCn": "证据水平较低，与推荐的分类不符。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "证据水平与分类不符，研究质量未知。"
+          "notesCn": "凑合记录未提供足够的临床和研究质量信息。"
         },
         "riskFlags": [
           "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Experimental & molecular medicine，PMID 为 42567917。",
+          "report": "PubMed 记录未提供摘要。",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42567885",
+      "responseId": "resp_0aabe21d27af0333006a76d8409630819ea4789affbabfec52",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信息一致且中立，适合发布。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献来源可靠且证据水平合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Oncogene，PMID 为 42567885。",
+          "report": "The incidence of pancreatic ductal adenocarcinoma (PDAC) is increasing but clinical outcomes remain poor and new treatments are required. IGF2BP3 is an oncofetal m6A-reading RNA regulatory protein whose expression is commonly observed in PDAC and which may rep...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42567459",
+      "responseId": "resp_07db5a95274cf7ff006a76d84551b4819c87df22b13316a9e8",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号符合中立情报发布标准，未包含不支持的临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合文献主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告与推断明确分开，证据水平合适。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Pharmacological research，PMID 为 42567459。",
+          "report": "Arrhythmia is one of the leading causes of mortality and lacks diagnostic and therapeutic options. Electrical activity at the cellular level is difficult to use as a basis for evaluating drug effects on cardiac rhythm. Cardiac organoids, as organized and funct...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42567392",
+      "responseId": "resp_07fb4733460697b5006a76d84b346481a1af39389e1a2417e2",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献分类和研究的质量、样本量、临床阶段等信息不足，需人工审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "所使用的证据水平与文献分类不匹配，需进一步验证。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "evidenceLevel为中等，而所报告内容未充分支持此证据水平。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Biotech"
+          ],
+          "tags": [
+            "biotech"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Biochimica et biophysica acta. Proteins and proteomics，PMID 为 42567392。",
+          "report": "Proteins operate under competing demands imposed by stability, dynamics, and function, all of which are shaped by evolution. Local energetic frustration provides a quantitative framework to describe how these competing requirements are distributed within the n...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42567346",
+      "responseId": "resp_0026cf6e5b6b46c6006a76d851545481a2889ab4c3be909fca",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "出版需要人为判断或修正，存在潜在的临床结论支持不足。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类未充分反映研究的质量或临床意义。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平标识为中等，但具体的研究质量和样本量尚不明朗。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Evidence",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology",
+            "Drug Screening"
+          ],
+          "tags": [
+            "临床",
+            "监管",
+            "肿瘤",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of advanced research，PMID 为 42567346。",
+          "report": "Gastric cancer (GC) remains a leading cause of cancer-related mortality worldwide, highlighting the need for improved non-invasive biomarkers for early detection and prognostic evaluation. tRNA-derived fragments (tRFs) have emerged as regulatory non-coding RNA...",
+          "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42566906",
+      "responseId": "resp_0c351a8a6b12066e006a76d856e948819fb88be82c6f19cc78",
+      "review": {
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号符合发布标准，信息清晰，无临床建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合文献主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "依据可靠，证明等级合适。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42566906。",
+          "report": "Liquid biopsy based on extracellular vesicle (EV) surface protein provides a non-invasive strategy for lung cancer detection and clinical stratification, yet its translation to point-of-care testing (POCT) is hindered by labor-intensive preprocessing and nonsp...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42567577",
+      "responseId": "resp_0d25dbf2798beb37006a76d85afc6481a39d519b1b7397b568",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号符合发布要求，信息来源可靠，未推测疗效或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合文献主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平合理，信息来源清晰。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology",
+            "Drug Screening"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Analytica chimica acta，PMID 为 42567577。",
+          "report": "Exosome-based liquid biopsy has shown great promise in cancer diagnosis. Electrochemical biosensors, owing to their high efficiency, sensitivity, and operational simplicity, have become powerful tools for biological sample analysis. In this study, we developed...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42567772",
+      "responseId": "resp_0757320776e33a43006a76d85f2f94819d82cdcadc07b1f931",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信息记录符合出版要求，信息清晰，未包含未证明的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合研究主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "信息来源可靠，文献摘要清楚。"
+        },
+        "riskFlags": [
+          "clinical_claim",
           "insufficient_source"
         ],
         "suggestedEdits": {
@@ -32,56 +410,18 @@
           "evidenceLevel": "Medium",
           "themes": [
             "Diagnostics",
-            "Precision Medicine"
+            "Precision Medicine",
+            "Precision Oncology"
           ],
           "tags": [
             "诊断",
-            "精准医疗"
+            "精准医疗",
+            "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 JCO precision oncology，PMID 为 42566729。",
-          "report": "PubMed 记录未提供摘要。",
+          "fact": "PubMed 记录显示该文献收录于 The British journal of oral & maxillofacial surgery，PMID 为 42567772。",
+          "report": "Head and neck sarcomas (HNS) are rare, heterogeneous malignancies representing less than 1% of head and neck cancers. Their complex anatomy and overlapping morphologies pose significant challenges for traditional diagnosis. We aimed to evaluate the clinical ut...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "sec-0001110803-000111080326000168",
-      "responseId": "resp_048789b7b87468db006a769341a37881938120a5349ef9bc92",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号符合发布标准，信息清晰且无临床建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别合适，符合资料来源。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论分离明确，证据等级合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Sequencing & Research Tools"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "ILMN"
-          ],
-          "fact": "SEC EDGAR lists accession 0001110803-26-000168 for Illumina, Form 8-K, filed on 2026-08-07.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
         }
       }
     }

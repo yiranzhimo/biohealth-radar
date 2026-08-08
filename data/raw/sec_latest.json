@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-08T02:23:51.724222+00:00",
+  "capturedAt": "2026-08-08T07:18:09.711015+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-07-25",
@@ -142,7 +142,7 @@
     {
       "filingDate": "2026-08-07",
       "reportDate": "2026-08-07",
-      "acceptanceDateTime": "2026-08-07T16:25:57.000Z",
+      "acceptanceDateTime": "2026-08-07T20:25:57.000Z",
       "act": "34",
       "form": "8-K",
       "fileNumber": "001-35406",
@@ -167,7 +167,7 @@
     {
       "filingDate": "2026-08-07",
       "reportDate": "2026-06-30",
-      "acceptanceDateTime": "2026-08-06T20:00:23.000Z",
+      "acceptanceDateTime": "2026-08-07T00:00:23.000Z",
       "act": "34",
       "form": "10-Q",
       "fileNumber": "001-37478",
@@ -192,7 +192,7 @@
     {
       "filingDate": "2026-08-07",
       "reportDate": "2026-06-30",
-      "acceptanceDateTime": "2026-08-06T17:31:55.000Z",
+      "acceptanceDateTime": "2026-08-06T21:31:55.000Z",
       "act": "34",
       "form": "10-Q",
       "fileNumber": "001-39035",
