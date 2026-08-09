@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-09T07:20:04.377235+00:00",
+  "capturedAt": "2026-08-09T13:18:13.723296+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-09"
   },
   "pmids": [
+    "42571089",
     "42570487",
     "42569825",
     "42568577",
     "42568370",
     "42568319",
-    "42568046",
     "42559559",
     "42509463",
     "42498177",
@@ -32,14 +32,31 @@
     "42560913",
     "42560034",
     "42546624",
+    "42571422",
     "42570628",
     "42570519",
     "42569449",
     "42569325",
-    "42569280",
-    "42567772"
+    "42569280"
   ],
   "records": [
+    {
+      "pmid": "42571089",
+      "title": "Stem Cell Models for Elucidating Cellular Mechanisms of Substance Use Disorders and Advancing Addiction Pharmacology.",
+      "abstract": "Substance use disorders (SUDs) impose major global morbidity and mortality, yet the cellular mechanisms linking genetic risk to neural vulnerability, disrupted neurodevelopment, and drug-induced neuroadaptations remain poorly understood. Human pluripotent stem cell (hPSC) technologies, including embryonic and induced pluripotent stem cell (ESC/iPSC)-derived neurons, three-dimensional (3D) brain organoids, and organoid-on-a-chip platforms, provide scalable, human-relevant models to address this gap. ESC/iPSC-derived neuronal cultures enable interrogation of genetic and epigenetic determinants of drug susceptibility and response; cerebral organoids recapitulate tissue architecture and emergent network dynamics; and microfluidic organoid-on-a-chip systems facilitate maturation, enhance reproducibility, and enable controlled exposure paradigms. In this review, we synthesize recent stem cell-based studies of alcohol, opioid, and stimulant exposure, highlighting insights into neurodevelopmental disruption, synaptic and signaling alterations, neuroinflammation, and network-level dysfunction. We critically evaluate limitations of stem cell-based studies, including ethical concerns, inter- and intra-line variability, incomplete cellular maturation, and difficulties in modeling complex circuitry and comorbid conditions. We propose strategies to enhance translational relevance, including standardized differentiation protocols, addition of patient-derived cells and vascular and immune components, and integration of multi-omics approaches (transcriptomics, epigenomics, and proteomics) with functional readouts to map molecular pathways underlying drug vulnerability and resilience. Finally, we outline the therapeutic and precision-medicine potential of stem cell platforms for target discovery, predictive toxicology, and individualized treatment modeling. Despite remaining challenges, stem cell-based approaches offer a powerful and increasingly tractable path from genetic association to mechanistic insight and therapeutic innovation in addiction research.",
+      "journal": "Stem cells international",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Psychiatry, Boston University Chobanian & Avedisian School of Medicine, Boston, Massachusetts, USA.",
+        "Department of Medicine (Biomedical Genetics), Boston University Chobanian & Avedisian School of Medicine, Boston, Massachusetts, USA."
+      ],
+      "doi": "10.1155/sci/1717710",
+      "date": "2026-08-07",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42571089/"
+    },
     {
       "pmid": "42570487",
       "title": "Chemical induction enhances patient-derived organoid fidelity to primary colorectal cancer at the single-cell level: A re-analysis of public scRNA-seq dataset GSE261012.",
@@ -134,22 +151,6 @@
       "doi": "10.1111/all.70473",
       "date": "2026-08-08",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42568319/"
-    },
-    {
-      "pmid": "42568046",
-      "title": "A Fully Defined GelMA-Based Matrix Allows Fine Tuning of Tissue-Relevant Biomechanical and Biochemical Cues for Organoid Culture.",
-      "abstract": "Organoids are powerful models for developmental biology, disease modelling, and personalized medicine. However, their broader application is limited by the inability of extracellular matrix (ECM) hydrogels to mimic the biomechanical and biochemical properties of native tissues. Dependence on poorly-defined basement membrane matrices such as Matrigel-a xenogenic, tumor-derived, nontunable material-introduces organoid growth variability and constrains reproducibility across organoid systems. In this study, we report a fully defined ECM platform that integrates key biomechanical and biochemical features of native tissue to support organoid growth. Using gelatin methacryloyl (GelMA) as a tunable hydrogel backbone, supplemented with laminin-entactin complex, we established a matrix with physiologically relevant stiffness and biochemical composition for mouse small intestinal organoids (mSIOs). The optimized matrix (2% w/v DS95 GelMA with 2 mg mL- 1 laminin-entactin) supported robust mSIO proliferation, morphology, and differentiation comparable to or exceeding that achieved with Matrigel. Importantly, continuous passaging was achieved without affecting organoid quality, suggesting feasibility of long-term mSIO expansion. These findings demonstrate that coordinated control of matrix mechanics and biochemical cues is critical for organoid development. The simplicity, stability, and tunability of this GelMA-based system provides a scalable and reproducible alternative to Matrigel, with broad potential for organoid culture, mechanistic studies, and translational applications.",
-      "journal": "Advanced healthcare materials",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Cancer Discovery and Regenerative Medicine, Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore.",
-        "School of Materials Science & Engineering, Nanyang Technological University, Singapore."
-      ],
-      "doi": "10.1002/adhm.71498",
-      "date": "2026-08-07",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42568046/"
     },
     {
       "pmid": "42559559",
@@ -359,6 +360,23 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546624/"
     },
     {
+      "pmid": "42571422",
+      "title": "Circulating tumor DNA in gastrointestinal cancers: promise, pitfalls, and the path forward.",
+      "abstract": "Circulating tumor DNA (ctDNA) has emerged as a powerful prognostic biomarker in gastrointestinal (GI) oncology, with the strongest evidence in colorectal cancer. Postoperative ctDNA positivity identifies patients at high risk of recurrence, and serial clearance patterns further refine risk. However, prognostic validity has not consistently translated into treatment-selection utility. In stage II colon cancer, DYNAMIC supported chemotherapy de-escalation without compromising recurrence-free survival, whereas DYNAMIC-III showed that escalation in ctDNA-positive stage III disease did not improve outcomes. More recent randomized data from CIRCULATE suggest that ctDNA-positive patients with proficient mismatch repair and microsatellite-stable stage II colon cancer may benefit from adjuvant chemotherapy, although the intention-to-treat primary endpoint was not statistically significant. COBRA further highlights the vulnerability of low-risk populations to assay-dependent interpretation and unvalidated clearance endpoints. Outside colorectal cancer, ctDNA is strongly prognostic in gastro-esophageal, pancreatic, and biliary tract cancers, but evidence supporting ctDNA-directed treatment remains limited. Assay heterogeneity, variable tumor shedding, postoperative sampling timing, false-positive and false-negative results, and uncertain benefit from treating molecular recurrence before radiographic disease remain major barriers. Prospective trials must show that biomarker-guided interventions improve patient-important outcomes before ctDNA can serve as a stand-alone treatment mandate across GI cancers.",
+      "journal": "EClinicalMedicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Medical Oncology, Miami Cancer Institute, Baptist Health South Florida, Miami, FL, USA.",
+        "Translational Medicine, Herbert Wertheim College of Medicine, Florida International University, Miami, FL, USA."
+      ],
+      "doi": "10.1016/j.eclinm.2026.104122",
+      "date": "2026-07-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42571422/"
+    },
+    {
       "pmid": "42570628",
       "title": "Self-assembled DNA nanosphere-powered confined-free self-circulating amplifier for high-fidelity microRNA imaging and clinical liquid biopsy.",
       "abstract": "The development of predictable and thermodynamically stable DNA nanomachines remains challenging for the monitoring of intracellular microRNAs (miRNAs) in complex biological matrices. In this study, a fluorescent biosensor utilizing a confined-free synergistic configuration is presented for the precise detection of miR-21. To mitigate the thermodynamic limitations of homogeneous catalytic hairpin assembly (CHA), a process in which unconstrained molecular diffusion induces background leakage, the amplification components were spatially partitioned. The sensing platform incorporates a rigid DNA nanosphere (NP), assembled via the annealing of three palindromic sequences, which serves as a sterically hindered scaffold to strictly confine hairpin probe 1 (HP1). Target miR-21 initiates the opening of the anchored HP1, subsequently recruiting freely diffusible auxiliary probes (HP2 and HP3) to form a localized Y-shaped complex. This reaction generates a surrogate miR-21 sequence that detaches and unlocks adjacent HP1 probes, establishing an inter-particle chemical communication network. By integrating nanoscale spatial confinement with this propagated catalytic cascade, the proposed confined-free self-circulating amplifier (CF-SCA) suppresses background leakage while maintaining rapid mass transfer, yielding a limit of detection of 100 pM. Additionally, the dense 3D nanoscaffold provides nuclease resistance. Following liposome-mediated cellular delivery, the confined-free mechanism counteracts macromolecular crowding, facilitating in situ dynamic imaging of miR-21 in living cancer cells. Evaluated through the stratification of clinical serum samples from multiple cancer cohorts, the CF-SCA nanoplatform offers an enzyme-free tool for clinical diagnostics and liquid biopsy applications.",
@@ -450,24 +468,6 @@
       "doi": "10.21037/hbsn-2025-1-947",
       "date": "2026-04-26",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42569280/"
-    },
-    {
-      "pmid": "42567772",
-      "title": "Next-generation sequencing in head and neck sarcoma: a single-centre institutional experience and review of the literature.",
-      "abstract": "Head and neck sarcomas (HNS) are rare, heterogeneous malignancies representing less than 1% of head and neck cancers. Their complex anatomy and overlapping morphologies pose significant challenges for traditional diagnosis. We aimed to evaluate the clinical utility of next-generation sequencing (NGS) within a tertiary referral centre and synthesise these findings with current global molecular standards. We conducted a retrospective review of an original, previously unpublished, cohort of 12 patients with histologically verified HNS treated at University College London Hospital (UCLH) between 2023 and 2024. Molecular profiling included targeted DNA (RMH200) and RNA-fusion panels. This was supplemented by a qualitative synthesis of 16 key studies (2010-2026) identified through a systematic search strategy. In the institutional cohort, NGS provided definitive diagnostic or therapeutic clarification in 66% of cases (8/12). Key findings included the identification of pathognomonic fusions (such as EWSR1::FLI1, PAX3::MAML3), a novel MAMLD1::VGLL3 fusion, and actionable variants such as BRAF V600E and MYOD1. Furthermore, the formal exclusion of Neurotrophic tropomyosin receptor kinase (NTRK) fusions in some cases allowed for therapeutic streamlining. Literature synthesis aligned these results and emphasised the need for NGS for more accurate diagnosis and adequate treatment. NGS is a clinical necessity in the management of ultra-rare HNS. By transitioning from traditional morphology to high-resolution molecular interrogation, clinicians can resolve diagnostic ambiguity and identify targeted therapeutic pathways. Integration with emerging 2026 standards, including epigenetic classification and liquid biopsy monitoring, represents the future of precision surgery in head and neck sarcoma.",
-      "journal": "The British journal of oral & maxillofacial surgery",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Oral and Maxillofacial Surgery, Baruch Padeh Medical Centre Poriya, Israel; The Azrieli Faculty of Medicine, Bar Illan University, Israel. Electronic address: Yasmen.ghantous@gmail.com.",
-        "London Sarcoma Service, University College London Hospitals NHS Foundation Trust, London, UK.",
-        "Head and Neck Academic Centre, Department of Head and Neck Surgery, University College London Hospital, London, UK.",
-        "FRCS (OMFS), FFDRCSI, MD Head of Department at University College London Hospitals NHS Foundation Trust, London, UK."
-      ],
-      "doi": "10.1016/j.bjoms.2026.05.004",
-      "date": "2026-06-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42567772/"
     }
   ],
   "signals": [
@@ -506,6 +506,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42571089",
+      "date": "2026-08-07",
+      "title": "Stem Cell Models for Elucidating Cellular Mechanisms of Substance Use Disorders and Advancing Addiction Pharmacology.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42571089/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Stem cells international，PMID 为 42571089。",
+      "report": "Substance use disorders (SUDs) impose major global morbidity and mortality, yet the cellular mechanisms linking genetic risk to neural vulnerability, disrupted neurodevelopment, and drug-induced neuroadaptations remain poorly understood. Human pluripotent stem...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42570487",
       "date": "2026-08-07",
       "title": "Chemical induction enhances patient-derived organoid fidelity to primary colorectal cancer at the single-cell level: A re-analysis of public scRNA-seq dataset GSE261012.",
@@ -534,36 +564,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Biochemical and biophysical research communications，PMID 为 42570487。",
       "report": "Patient-derived organoids (PDOs) are widely used preclinical models for colorectal cancer (CRC). However, conventional PDO cultures frequently lose tumor microenvironment (TME) components and undergo culture-induced transcriptional drift. A chemically defined...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42568046",
-      "date": "2026-08-07",
-      "title": "A Fully Defined GelMA-Based Matrix Allows Fine Tuning of Tissue-Relevant Biomechanical and Biochemical Cues for Organoid Culture.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42568046/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42568046。",
-      "report": "Organoids are powerful models for developmental biology, disease modelling, and personalized medicine. However, their broader application is limited by the inability of extracellular matrix (ECM) hydrogels to mimic the biomechanical and biochemical properties...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -862,6 +862,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42571422",
+      "date": "2026-07-31",
+      "title": "Circulating tumor DNA in gastrointestinal cancers: promise, pitfalls, and the path forward.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Clinical Study",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42571422/",
+      "reliability": "High",
+      "evidenceLevel": "High",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 EClinicalMedicine，PMID 为 42571422。",
+      "report": "Circulating tumor DNA (ctDNA) has emerged as a powerful prognostic biomarker in gastrointestinal (GI) oncology, with the strongest evidence in colorectal cancer. Postoperative ctDNA positivity identifies patients at high risk of recurrence, and serial clearanc...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42509463",
       "date": "2026-07-28",
       "title": "Inflammation-linked aging signals in frozen single-cell foundation models: donor-aware detection and robustness testing.",
@@ -1131,36 +1159,6 @@
       "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42569325。",
       "report": "Immune checkpoint inhibitors (ICIs), alone or combined with chemotherapy, constitute the standard first-line treatment for advanced non-small cell lung cancer (NSCLC) without actionable oncogenic drivers. However, radiologic response assessment has limitations...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42567772",
-      "date": "2026-06-12",
-      "title": "Next-generation sequencing in head and neck sarcoma: a single-centre institutional experience and review of the literature.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42567772/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The British journal of oral & maxillofacial surgery，PMID 为 42567772。",
-      "report": "Head and neck sarcomas (HNS) are rare, heterogeneous malignancies representing less than 1% of head and neck cancers. Their complex anatomy and overlapping morphologies pose significant challenges for traditional diagnosis. We aimed to evaluate the clinical ut...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

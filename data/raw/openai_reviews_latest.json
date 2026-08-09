@@ -1,30 +1,29 @@
 {
-  "capturedAt": "2026-08-09T07:20:14.308094+00:00",
+  "capturedAt": "2026-08-09T13:18:23.531343+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42570487",
-      "responseId": "resp_019f2447fba117fe006a782a2f157481968855d71250dfe941",
+      "signalId": "pubmed-42571089",
+      "responseId": "resp_0e0fc07a54cd594b006a787e206824819a9f89a00acc541e5c",
       "review": {
         "status": "pass",
-        "confidence": 0.95,
+        "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献的概念清晰，报告内容适度，分类合理，无临床结论或治疗建议，因此可以发布。",
+        "reviewSummaryCn": "该文献提及物质使用障碍和类器官模型，信息明确分离，无临床建议。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类符合文献主题。"
+          "notesCn": ""
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论明确分开，证据水平合理。"
+          "notesCn": ""
         },
         "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
+          "clinical_claim"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -33,259 +32,55 @@
           "themes": [
             "Organoids",
             "Advanced Disease Models",
-            "Precision Oncology",
             "Multi-omics"
           ],
           "tags": [
             "类器官",
             "疾病模型",
-            "肿瘤",
             "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Biochemical and biophysical research communications，PMID 为 42570487。",
-          "report": "Patient-derived organoids (PDOs) are widely used preclinical models for colorectal cancer (CRC). However, conventional PDO cultures frequently lose tumor microenvironment (TME) components and undergo culture-induced transcriptional drift. A chemically defined...",
+          "fact": "PubMed 记录显示该文献收录于 Stem cells international，PMID 为 42571089。",
+          "report": "Substance use disorders (SUDs) impose major global morbidity and mortality, yet the cellular mechanisms linking genetic risk to neural vulnerability, disrupted neurodevelopment, and drug-induced neuroadaptations remain poorly understood.",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42570628",
-      "responseId": "resp_05d45b3e97963c54006a782a345b9081909dc91fc08b577420",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "文献提供了有关DNA纳米机器的研究，但缺乏关于研究质量和临床实用性的详细信息。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，但文献的临床应用未得到验证。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "虽然证据水平标记为中等，但缺乏具体细节可能影响其可靠性。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Talanta，PMID 为 42570628。",
-          "report": "The development of predictable and thermodynamically stable DNA nanomachines remains challenging for the monitoring of intracellular microRNAs (miRNAs) in complex biological matrices. In this study, a fluorescent biosensor utilizing a confined-free synergistic...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42570519",
-      "responseId": "resp_0e4fa0ef0b87ed48006a782a3961088190ac33be00ea542e09",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录详细列出了文献来源和研究主题，未包含不当临床结论，适合发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类符合文献主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "信息分离清晰，证据水平合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42570519。",
-          "report": "Liquid biopsy of pancreatic cancer via circulating tumor DNA (ctDNA) is challenged by the extreme rarity of targets, a limitation that conventional passive biosensors cannot overcome. Here, we engineered an intelligent micromotor that actively captured, transp...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42569449",
-      "responseId": "resp_0b80176b624b9b83006a782a3e24308193a873875917d8dfbf",
+      "signalId": "pubmed-42571422",
+      "responseId": "resp_05aac1a5e387116c006a787e25a9388198a9d2d57168bfd9b2",
       "review": {
         "status": "needs_human",
         "confidence": 0.7,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "需进行人工审核，因涉及研究质量和临床结论问题。",
+        "reviewSummaryCn": "存在临床结论支持不足的风险。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "分类支持不足，需核实研究质量和临床影响。"
+          "notesCn": "分类未能充分反映研究的具体内容和结果。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "证据等级偏低，未明确支持研究质量和相关性。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 International journal of nanomedicine，PMID 为 42569449。",
-          "report": "Biliary tract cancer (BTC) remains a formidable clinical challenge owing to its asymptomatic early stages, anatomical complexity, and lack of reliable and noninvasive diagnostic tools.",
-          "inference": "此报告的分类有效，分类仅用于情报分流。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42569825",
-      "responseId": "resp_02972a0e40cfa7c3006a782a41c49c81979147acf084f6791e",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录符合发布标准，分类合理，内容明确且没有未支持的结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主类别和子类别与事件类型相符。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断清晰分开，证据等级合理。"
-        },
-        "riskFlags": [],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Alzheimer's & dementia : the journal of the Alzheimer's Association，PMID 为 42569825。",
-          "report": "Dysfunctional microRNAs and GABAergic interneurons are features of Alzheimer's disease (AD). The role of neuronal microRNA155 (miR155), elevated in both AD and Down syndrome (DS), remains unknown. We utilized in silico analyses of published databases, MIR155-d...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42569325",
-      "responseId": "resp_08e8623625bcadce006a782a46a07c81938bc814b4262fd22a",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该信号包括对免疫检查点抑制剂的标准治疗效果的描述，可能暗示了临床结论，需进一步的审查与修正。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类未能充分反映研究内容和证据水平。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "尽管有高可靠性来源，但证据水平不合理，可能存在夸大效果的风险。"
+          "notesCn": "报告中提到的ctDNA在特定癌症类型中的应用未明确提供充分证据支持。"
         },
         "riskFlags": [
           "clinical_claim",
           "weak_classification"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Clinical Research",
-          "subCategory": "Oncology",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Oncology",
-            "Clinical Trials"
-          ],
-          "tags": [
-            "NSCLC",
-            "免疫疗法"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42569325。",
-          "report": "Immune checkpoint inhibitors (ICIs), alone or combined with chemotherapy, constitute the standard first-line treatment for advanced non-small cell lung cancer (NSCLC) without actionable oncogenic drivers. However, radiologic response assessment has limitations...",
-          "inference": "当前信息未能充分支持对临床效果的推断。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42569280",
-      "responseId": "resp_0698f73bbbae4ad1006a782a4c553c81958c68d1530920bff6",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "文献的证据级别和分类不匹配，需进行人工审核。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "主要类别和证据级别之间存在不一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "文献质量未被评估，可能影响其效力。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
           "subCategory": "General Biotech Research",
-          "evidenceLevel": "Low",
+          "evidenceLevel": "Medium",
           "themes": [
-            "Biotech"
+            "Biotech",
+            "Precision Oncology"
           ],
           "tags": [
-            "biotech"
+            "biotech",
+            "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Hepatobiliary surgery and nutrition，PMID 为 42569280。",
-          "report": "PubMed 记录未提供摘要。",
+          "fact": "PubMed 记录显示该文献收录于 EClinicalMedicine，PMID 为 42571422。",
+          "report": "Circulating tumor DNA (ctDNA) has emerged as a powerful prognostic biomarker in gastrointestinal (GI) oncology, with the strongest evidence in colorectal cancer. Postoperative ctDNA positivity identifies patients at high risk of recurrence, and serial clearance...",
           "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
