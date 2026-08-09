@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-09T02:31:36.248171+00:00",
+  "capturedAt": "2026-08-09T07:20:04.377235+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-09"
   },
   "pmids": [
+    "42570487",
+    "42569825",
     "42568577",
     "42568370",
     "42568319",
     "42568046",
-    "42567931",
-    "42567917",
     "42559559",
     "42509463",
     "42498177",
@@ -32,14 +32,53 @@
     "42560913",
     "42560034",
     "42546624",
-    "42567772",
-    "42567577",
-    "42567346",
-    "42566906",
-    "42566729",
-    "42565327"
+    "42570628",
+    "42570519",
+    "42569449",
+    "42569325",
+    "42569280",
+    "42567772"
   ],
   "records": [
+    {
+      "pmid": "42570487",
+      "title": "Chemical induction enhances patient-derived organoid fidelity to primary colorectal cancer at the single-cell level: A re-analysis of public scRNA-seq dataset GSE261012.",
+      "abstract": "Patient-derived organoids (PDOs) are widely used preclinical models for colorectal cancer (CRC). However, conventional PDO cultures frequently lose tumor microenvironment (TME) components and undergo culture-induced transcriptional drift. A chemically defined induction system (CiPDO) has been proposed to preserve fetal-like plasticity states, yet a direct single-cell comparison of CiPDO versus conventional PDO against the matched primary tumor is lacking. To evaluate and compare the single-cell transcriptional fidelity of chemically induced PDO (CiPDO) and conventional PDO (current_PDO) relative to the matched primary colorectal tumor, using a publicly available scRNA-seq dataset. We re-analyzed the public scRNA-seq dataset GSE261012, which profiled cells from the primary tumor, conventional PDO (current_PDO), and chemically induced PDO (CiPDO) of the same CRC patient. Using Scanpy, we performed quality control, clustering, cell type annotation, and module scoring for oncofetal-like state (OnFS), proliferation, stress/hypoxia, epithelial-mesenchymal transition (EMT), and differentiation signatures. All possible pairwise comparisons among the three conditions were performed using two-sided Mann-Whitney U tests. For each module score, we provided biological interpretation of the score magnitude, reference ranges from established CRC single-cell atlases, and contextualization of the observed values. After quality control, 16,249 cells were retained across 19 clusters. Both PDOs completely lost TME components (fibroblasts, myeloid, T cells) compared with the primary tumor. At the epithelial-cell level, CiPDO showed significantly higher OnFS scores than current_PDO (0.189 vs. 0.102, p < 0.001) and both PDOs exhibited significantly higher OnFS than the primary tumor (-0.232; both p < 0.001). Proliferation scores were highest in the primary tumor (1.461), intermediate in current_PDO (0.983), and lowest in CiPDO (-0.314); all pairwise differences were significant (p < 0.001) except primary tumor vs. current_PDO (p = 0.082). Stress/hypoxia scores were significantly elevated in current_PDO (0.286) compared with both CiPDO (0.052, p < 0.001) and the primary tumor (0.195, p = 0.041). Differentiation scores did not differ significantly between the two PDO conditions (p = 0.171), whereas both PDOs showed significantly higher differentiation than the primary tumor (both p < 0.001). EMT scores showed a small but statistically significant difference between CiPDO (-0.078) and current_PDO (-0.098, p < 0.001), and both were significantly higher than the primary tumor (-0.128; both p < 0.001). Within the constraints of a single-patient design, CiPDO better preserves the oncofetal-like plasticity state of primary CRC epithelial cells while exhibiting fewer culture-induced proliferation and stress signatures than conventional PDO. Differentiation states were comparable between the two PDO conditions. These findings support the use of chemically defined induction to improve PDO fidelity for studying tumor cell plasticity, although validation in larger cohorts is required.",
+      "journal": "Biochemical and biophysical research communications",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Gastrointestinal Surgery, The Affiliated Hospital of Southwest Medical University, Luzhou, Sichuan, China.",
+        "Department of Gastrointestinal Surgery, The Affiliated Hospital of Southwest Medical University, Luzhou, Sichuan, China; Clinical Medical College, Southwest Medical University, Luzhou, Sichuan, China.",
+        "Department of Physical Diagnosis, The Affiliated Hospital of Southwest Medical University, Luzhou, Sichuan, China. Electronic address: flbly88@163.com."
+      ],
+      "doi": "10.1016/j.bbrc.2026.154396",
+      "date": "2026-08-07",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42570487/"
+    },
+    {
+      "pmid": "42569825",
+      "title": "miR155, triplicated in Down syndrome, regulates the development of neural stem cells and GABAergic interneurons in Alzheimer's disease mouse and human iPSC models.",
+      "abstract": "Dysfunctional microRNAs and GABAergic interneurons are features of Alzheimer's disease (AD). The role of neuronal microRNA155 (miR155), elevated in both AD and Down syndrome (DS), remains unknown. We utilized in silico analyses of published databases, MIR155-deleted and -overexpressing human induced pluripotent stem cell (hiPSC)-derived cells, cortical organoids, and amyloid beta precursor protein (APP)/PS1-miR155 knockout mouse. MIR155HG (miR155 host gene) colocalizes with APP in a neuron-specific, topologically associated domain (TAD) in chromosome 21. In human neural stem cells (NSCs), neurons, and cortical organoids, MIR155 deletion enhanced NSC proliferation and GABAergic interneuron generation. MIR155 overexpression inhibited NSC marker expression and GABAergic interneuron generation. In APP/PS1 mice, miR155 deletion induced the expansion of hippocampal NSCs and increased hippocampal GABAergic interneurons. Our findings, alongside the extensive studies of the role of microglial miR155 in neuroinflammation, reveal previously unrecognized miR155 roles in hippocampal NSC dynamics and GABAergic interneuron development, highlighting miR155 as a therapeutic target.",
+      "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, New York, USA.",
+        "Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, New York, USA.",
+        "The Jackson Laboratory-New York Stem Cell Foundation, New York, New York, USA.",
+        "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, New York, USA.",
+        "The New York Stem Cell Foundation Research Institute, New York, New York, USA.",
+        "Alzheimer's Disease Research Center, Icahn School of Medicine at Mount Sinai, New York, New York, USA.",
+        "James J Peters Veterans Administration Medical Center, Bronx, New York, USA.",
+        "Department of Pediatrics, Icahn School of Medicine at Mount Sinai, New York, New York, USA."
+      ],
+      "doi": "10.1002/alz.71684",
+      "date": "2026-08-00",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42569825/"
+    },
     {
       "pmid": "42568577",
       "title": "The airway epithelial-immune axis: mechanisms and therapeutic implications.",
@@ -111,50 +150,6 @@
       "doi": "10.1002/adhm.71498",
       "date": "2026-08-07",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42568046/"
-    },
-    {
-      "pmid": "42567931",
-      "title": "Reversible epiblast regionalization determines differentiation potential of human pluripotent stem cells.",
-      "abstract": "Although human pluripotent stem cells (hPSCs) can generate all tissues of the body, hPSCs in vitro frequently exhibit differentiation biases or failure that pose substantial challenges for disease modeling and regenerative medicine. The origins of these biases remain incompletely understood and extend beyond reprogramming artifacts. Here we show that loss of default neural differentiation capacity and failure to form brain organoids are linked to erosion of bivalent chromatin marks at developmental gene loci, independent of DNA methylation, driving acquisition of a posterior epiblast-like state and premature developmental gene expression. We develop a chemical chromatin restoration (CHR) approach that rescues this differentiation bias by reinstating transcriptional programs and chromatin landscapes characteristic of the competent anterior epiblast-like state, restoring broad differentiation potential. These findings establish locus-specific patterns of repressive and activating histone post-translational modifications as a tractable and experimentally targetable determinant of hPSC fate competency, and offer an effective route to rescue differentiation-compromised hPSC lines for applications in disease modeling and regenerative medicine.",
-      "journal": "Nature biotechnology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "MRC Laboratory of Molecular Biology, Cambridge Biomedical Campus, Francis Crick Avenue, Cambridge, UK. magda.sutcliffe@mrclmb.ac.uk.",
-        "Epigenetics Programme, Babraham Institute, Babraham Research Campus, Cambridge, UK.",
-        "MRC Laboratory of Molecular Biology, Cambridge Biomedical Campus, Francis Crick Avenue, Cambridge, UK.",
-        "Core Unit Pluripotent Stem Cells and Organoids, Berlin Institute of Health at Charité - Universitätsmedizin, Berlin, Germany.",
-        "Epigenetics Programme, Babraham Institute, Babraham Research Campus, Cambridge, UK. stefan.schoenfelder@babraham.ac.uk.",
-        "MRC Laboratory of Molecular Biology, Cambridge Biomedical Campus, Francis Crick Avenue, Cambridge, UK. madeline.lancaster@mrclmb.ac.uk.",
-        "Cambridge Stem Cell Institute, University of Cambridge, Cambridge, UK. madeline.lancaster@mrclmb.ac.uk."
-      ],
-      "doi": "10.1038/s41587-026-03254-6",
-      "date": "2026-08-07",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42567931/"
-    },
-    {
-      "pmid": "42567917",
-      "title": "Publisher Correction: A chronic whole cigarette smoke extract model reveals redox-mitochondrial adaptation in human lung epithelial and organoid models.",
-      "abstract": "",
-      "journal": "Experimental & molecular medicine",
-      "publicationTypes": [
-        "Published Erratum"
-      ],
-      "affiliations": [
-        "Division of Pulmonology and Critical Care Medicine, Department of Internal Medicine, College of Medicine, Chungnam National University, Daejeon, Republic of Korea.",
-        "Biomedical Convergence Research Institute, Chungnam National University Hospital, Daejeon, Republic of Korea.",
-        "Division of Thoracic and Cardiovascular Surgery, College of Medicine, Chungnam National University, Daejeon, Republic of Korea.",
-        "Division of Climate Change and Health Hazard, Department of Health Hazard Response, Korea Disease Control and Prevention Agency, Cheongju, Republic of Korea.",
-        "Genomics Department, Keyomics Co. Ltd., Yuseong-gu, Republic of Korea.",
-        "Biometrology Group, Korea Research Institute of Standards and Science (KRISS), Daejeon, Republic of Korea.",
-        "Department of Precision Measurement, University of Science and Technology (UST), Daejeon, Republic of Korea.",
-        "Division of Pulmonology and Critical Care Medicine, Department of Internal Medicine, College of Medicine, Chungnam National University, Daejeon, Republic of Korea. rahm3s@gmail.com.",
-        "Division of Pulmonology and Critical Care Medicine, Department of Internal Medicine, College of Medicine, Chungnam National University, Daejeon, Republic of Korea. universe7903@gmail.com."
-      ],
-      "doi": "10.1038/s12276-026-01829-6",
-      "date": "2026-08-07",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42567917/"
     },
     {
       "pmid": "42559559",
@@ -364,6 +359,99 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42546624/"
     },
     {
+      "pmid": "42570628",
+      "title": "Self-assembled DNA nanosphere-powered confined-free self-circulating amplifier for high-fidelity microRNA imaging and clinical liquid biopsy.",
+      "abstract": "The development of predictable and thermodynamically stable DNA nanomachines remains challenging for the monitoring of intracellular microRNAs (miRNAs) in complex biological matrices. In this study, a fluorescent biosensor utilizing a confined-free synergistic configuration is presented for the precise detection of miR-21. To mitigate the thermodynamic limitations of homogeneous catalytic hairpin assembly (CHA), a process in which unconstrained molecular diffusion induces background leakage, the amplification components were spatially partitioned. The sensing platform incorporates a rigid DNA nanosphere (NP), assembled via the annealing of three palindromic sequences, which serves as a sterically hindered scaffold to strictly confine hairpin probe 1 (HP1). Target miR-21 initiates the opening of the anchored HP1, subsequently recruiting freely diffusible auxiliary probes (HP2 and HP3) to form a localized Y-shaped complex. This reaction generates a surrogate miR-21 sequence that detaches and unlocks adjacent HP1 probes, establishing an inter-particle chemical communication network. By integrating nanoscale spatial confinement with this propagated catalytic cascade, the proposed confined-free self-circulating amplifier (CF-SCA) suppresses background leakage while maintaining rapid mass transfer, yielding a limit of detection of 100 pM. Additionally, the dense 3D nanoscaffold provides nuclease resistance. Following liposome-mediated cellular delivery, the confined-free mechanism counteracts macromolecular crowding, facilitating in situ dynamic imaging of miR-21 in living cancer cells. Evaluated through the stratification of clinical serum samples from multiple cancer cohorts, the CF-SCA nanoplatform offers an enzyme-free tool for clinical diagnostics and liquid biopsy applications.",
+      "journal": "Talanta",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "College of Biological Science and Engineering, Fuzhou University, Fuzhou, Fujian, 350108, China; Fujian Key Laboratory of Functional Marine Sensing Materials, College of Materials and Chemical Engineering, Minjiang University, Fuzhou, Fujian, 350108, China.",
+        "Fujian Key Laboratory of Functional Marine Sensing Materials, College of Materials and Chemical Engineering, Minjiang University, Fuzhou, Fujian, 350108, China.",
+        "College of Biological Science and Engineering, Fuzhou University, Fuzhou, Fujian, 350108, China. Electronic address: lqchen@fzu.edu.cn.",
+        "Fujian Key Laboratory of Functional Marine Sensing Materials, College of Materials and Chemical Engineering, Minjiang University, Fuzhou, Fujian, 350108, China. Electronic address: chemicalxuhuo@163.com."
+      ],
+      "doi": "10.1016/j.talanta.2026.130416",
+      "date": "2026-08-07",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42570628/"
+    },
+    {
+      "pmid": "42570519",
+      "title": "Active enrichment of circulating tumor DNA by supramolecular-functionalized micromotors for ultrasensitive quantification.",
+      "abstract": "Liquid biopsy of pancreatic cancer via circulating tumor DNA (ctDNA) is challenged by the extreme rarity of targets, a limitation that conventional passive biosensors cannot overcome. Here, we engineered an intelligent micromotor that actively captured, transported, and electrochemically reported ctDNA. The asymmetric flask-shaped micromotor (HPCMF) was constructed from carbonaceous micro-flasks (CMF) decorated with platinum nanoparticles (PtNPs) and supramolecular (HP5) stabilized PtNPs. The HP5 moieties served as docking sites for methylene blue-labeled assist-DNA (MB-aDNA) via host-guest interactions, creating a mobile capture interface. Propelled by PtNP-catalyzed bubble generation from H2O2, the micromotor reached an average speed of 56.16 μm s-1 (5% H2O2). Upon recognizing target DNA (tDNA) in serum, it autonomously navigated to a probe DNA-modified (pDNA) glassy carbon electrode, where a ternary complex (MB-aDNA/tDNA/pDNA) assembled and anchored, positioning MB for efficient electron transfer. This active enrichment strategy achieved a linear range of 1 pM - 10 μM, a detection limit of 0.18 pM, accurate quantification in simulated pancreatic juice and mouse serum (recoveries 76.5-106.2%), and a 52.4% reduction in assay time relative to digital PCR (dPCR). This work establishes a generic \"mobile sensing\" framework for next-generation autonomous diagnostic devices.",
+      "journal": "Biosensors & bioelectronics",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "College of Electronic and Information Engineering, Changchun University, Changchun, China.",
+        "State Key Laboratory of Robotics and Systems, School of Medicine and Health, Harbin Institute of Technology, Harbin, 150001, China.",
+        "State Key Laboratory of Urban Water Resource and Environment, School of Chemistry and Chemical Engineering, Harbin Institute of Technology, Harbin, 150001, China. Electronic address: yl_wang@hit.edu.cn.",
+        "School of Materials Science and Engineering and Laboratory of Materials Design and Quantum Simulation, Changchun University, Changchun, 130022, China. Electronic address: huxy@ccu.edu.cn.",
+        "College of Electronic and Information Engineering, Changchun University, Changchun, China. Electronic address: qinhongwu@ccu.edu.cn."
+      ],
+      "doi": "10.1016/j.bios.2026.119094",
+      "date": "2026-08-05",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42570519/"
+    },
+    {
+      "pmid": "42569449",
+      "title": "Exosome-Based Liquid Biopsy in Biliary Tract Cancer: Nanotechnology-Enabled Strategies and Future Perspectives.",
+      "abstract": "Biliary tract cancer (BTC) remains a formidable clinical challenge owing to its asymptomatic early stages, anatomical complexity, and lack of reliable and noninvasive diagnostic tools. Although traditional tissue biopsy is often limited by invasiveness and sampling bias, liquid biopsy, particularly the analysis of tumor-derived exosomes, has emerged as a promising and clinically relevant alternative for early detection and longitudinal monitoring. Exosomes are specialized extracellular vesicles that sequester diverse molecular cargo including proteins, lipids, and nucleic acids, thereby reflecting the physiological state of their parental tumor cells. However, the clinical translation of exosomal biomarkers is often hindered by technical challenges in achieving high-purity isolation and ultrasensitive detection in complex biological matrices, such as blood and bile. To address these limitations, this review provides a comprehensive overview of recent advancements in nanotechnology-enabled platforms designed to overcome these challenges. First, we examined sophisticated nanostructured systems, such as immuno-magnetic nanoparticles and microfluidic nanoVelcro chips, for high-yield exosome enrichment. Subsequently, we investigated next-generation biosensing modalities with a focus on surface-enhanced Raman scattering for label-free molecular fingerprinting and CRISPR-Cas-integrated nanosensors for amplification-free nucleic acid detection. Significant emphasis has now been placed on the integration of artificial intelligence and deep learning algorithms, which have become indispensable for deciphering complex exosomal signatures to differentiate BTC from benign conditions such as cholangitis. Finally, we discuss the emerging clinical significance of bile-derived exosomes and remaining challenges in standardizing nanomedicine-based liquid biopsies for precision oncology. These integrated platforms could potentially redefine the BTC management paradigm by bridging the gap between advanced nanomaterials and clinical diagnostics.",
+      "journal": "International journal of nanomedicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "School of Integrative Engineering, Chung-Ang University, Seoul, Republic of Korea.",
+        "Feynman Institute of Technology, Nanomedicine Corporation, Seoul, Republic of Korea.",
+        "School of Chemical and Biomolecular Engineering, Georgia Institute of Technology, Atlanta, GA, USA.",
+        "Department of Chemical Engineering, Kumoh National Institute of Technology, Gumi, Republic of Korea.",
+        "Molecular Science and Software Engineering (MSSE) Program, College of Chemistry, University of California, Berkeley, CA, USA."
+      ],
+      "doi": "10.2147/IJN.S613686",
+      "date": "2026-08-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42569449/"
+    },
+    {
+      "pmid": "42569325",
+      "title": "Early tumor-informed circulating tumor DNA (ctDNA) dynamics correlate with response to first-line advanced NSCLC treated with pembrolizumab ± chemotherapy.",
+      "abstract": "Immune checkpoint inhibitors (ICIs), alone or combined with chemotherapy, constitute the standard first-line treatment for advanced non-small cell lung cancer (NSCLC) without actionable oncogenic drivers. However, radiologic response assessment has limitations in capturing early biological treatment effects. Tumor-informed circulating tumor DNA (ctDNA) monitoring has emerged as a promising biomarker for early evaluation of treatment efficacy during immunotherapy. We conducted a prospective, single-center, longitudinal observational study including patients with stage IV NSCLC treated with first-line pembrolizumab with or without platinum-based chemotherapy between December 2021 and December 2024. Personalized, tumor-informed ctDNA assays (Signatera™, Natera, Inc.) were designed from tumor tissue and matched normal blood samples and applied to serial plasma samples collected at baseline (prior to ICI initiation) and every six weeks on-treatment. Early ctDNA dynamics were assessed from baseline to the first on-treatment assessment (six weeks post-treatment initiation) and were correlated with radiologic response assessed by RECIST v1.1, objective response rate (ORR), and progression-free survival (PFS). Fifteen patients were enrolled; baseline ctDNA positivity was observed in 13 (87%) patients. Among patients with ctDNA positivity, 11 (85%) experienced a molecular response characterized by ctDNA decrease (n = 1) or clearance (n = 10), while 2 (15%) showed an increase. Early molecular response was strongly associated with radiologic response, with a significantly higher ORR among patients with ctDNA clearance or decrease compared with those with ctDNA increase (91% vs 0%, p = 0.038). Early ctDNA change correlated with percentage change in target lesion size (Spearman R = 0.81, p < 0.001). Longitudinal monitoring demonstrated sustained ctDNA clearance or decrease in patients with durable disease control, while ctDNA positivity preceded radiologic progression. Patient-level survival analysis showed longer progression-free survival intervals predominantly among patients with early ctDNA clearance or decrease. Early clearance or decrease in ctDNA levels strongly predicted radiographic response in advanced NSCLC treated with first-line pembrolizumab with or without chemotherapy. ctDNA dynamics may complement radiological assessment and support more personalized, timely, and biologically informed treatment decisions in advanced NSCLC.",
+      "journal": "The journal of liquid biopsy",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Medical Oncology, Alexander Fleming Cancer Institute, Buenos Aires, Argentina.",
+        "Clinical Research Unit, Department of Medical Oncology, Alexander Fleming Cancer Institute, Buenos Aires, Argentina.",
+        "Department of Radiology, Alexander Fleming Cancer Institute, Buenos Aires, Argentina.",
+        "Department of Internal Medicine, Division of Medical Oncology, The Arthur G. James Comprehensive Cancer Center, Columbus, OH, USA."
+      ],
+      "doi": "10.1016/j.jlb.2026.100484",
+      "date": "2026-07-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42569325/"
+    },
+    {
+      "pmid": "42569280",
+      "title": "Are we ready for a molecular diagnostics-driven era in hepatobiliary surgery?",
+      "abstract": "",
+      "journal": "Hepatobiliary surgery and nutrition",
+      "publicationTypes": [
+        "Editorial",
+        "Comment"
+      ],
+      "affiliations": [
+        "Department of General Surgery, The First Affiliated Hospital, Henan University, Kaifeng, China.",
+        "Department of Hepatobiliary Surgery, Eastern Hepatobiliary Surgery Hospital, Naval Medical University, Shanghai, China.",
+        "Department of Hepatobiliary Surgery, Affiliated Hospital of Nantong University, Nantong, China."
+      ],
+      "doi": "10.21037/hbsn-2025-1-947",
+      "date": "2026-04-26",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42569280/"
+    },
+    {
       "pmid": "42567772",
       "title": "Next-generation sequencing in head and neck sarcoma: a single-centre institutional experience and review of the literature.",
       "abstract": "Head and neck sarcomas (HNS) are rare, heterogeneous malignancies representing less than 1% of head and neck cancers. Their complex anatomy and overlapping morphologies pose significant challenges for traditional diagnosis. We aimed to evaluate the clinical utility of next-generation sequencing (NGS) within a tertiary referral centre and synthesise these findings with current global molecular standards. We conducted a retrospective review of an original, previously unpublished, cohort of 12 patients with histologically verified HNS treated at University College London Hospital (UCLH) between 2023 and 2024. Molecular profiling included targeted DNA (RMH200) and RNA-fusion panels. This was supplemented by a qualitative synthesis of 16 key studies (2010-2026) identified through a systematic search strategy. In the institutional cohort, NGS provided definitive diagnostic or therapeutic clarification in 66% of cases (8/12). Key findings included the identification of pathognomonic fusions (such as EWSR1::FLI1, PAX3::MAML3), a novel MAMLD1::VGLL3 fusion, and actionable variants such as BRAF V600E and MYOD1. Furthermore, the formal exclusion of Neurotrophic tropomyosin receptor kinase (NTRK) fusions in some cases allowed for therapeutic streamlining. Literature synthesis aligned these results and emphasised the need for NGS for more accurate diagnosis and adequate treatment. NGS is a clinical necessity in the management of ultra-rare HNS. By transitioning from traditional morphology to high-resolution molecular interrogation, clinicians can resolve diagnostic ambiguity and identify targeted therapeutic pathways. Integration with emerging 2026 standards, including epigenetic classification and liquid biopsy monitoring, represents the future of precision surgery in head and neck sarcoma.",
@@ -380,102 +468,6 @@
       "doi": "10.1016/j.bjoms.2026.05.004",
       "date": "2026-06-12",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42567772/"
-    },
-    {
-      "pmid": "42567577",
-      "title": "Interface-enhanced label-free FeOOH-mesoporous TiO2 nanocomposite biosensor for highly sensitive quantitative exosome detection to assist cancer screening.",
-      "abstract": "Exosome-based liquid biopsy has shown great promise in cancer diagnosis. Electrochemical biosensors, owing to their high efficiency, sensitivity, and operational simplicity, have become powerful tools for biological sample analysis. In this study, we developed a novel electrochemical biosensor based on FeOOH-mesoporous TiO2 (FeOOH-mTiO2) for label-free detection of exosomes in serum. Through a rationally engineered interface design, the biosensor addresses the critical challenge of simultaneously achieving high capture efficiency and high detection sensitivity. The composite material consists of a catalytic FeOOH core and a mesoporous TiO2 shell. The high surface area of the mesoporous structure provides abundant active sites and enhances the selective interaction between TiO2 and the phosphate groups on exosome membranes. Moreover, the formation of Ti-O-Fe interfacial bonds facilitates electron transfer and significantly improves the electrochemical response. The sensor achieves a detection limit of 2.04 particles/μL with a broad linear range of 102-108 particles/μL, without the need for antibody-based capture or complex surface modifications. Clinical testing revealed that exosome levels in patients with hepatocellular carcinoma and colorectal cancer were 2.9 to 3.1-fold higher than those in healthy controls. This work advances exosome liquid biopsy technology through innovative material design and demonstrates strong potential for clinical cancer diagnosis and monitoring.",
-      "journal": "Analytica chimica acta",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Chemistry, Yanbian University, Yanji, Jilin, 133002, China.",
-        "Department of Clinical Laboratory, The 1st Medical Center, Chinese PLA General Hospital, Beijing, 100853, China.",
-        "Beijing National Laboratory for Molecular Sciences, Key Laboratory of Bioorganic Chemistry and Molecular Engineering of Ministry of Education, College of Chemistry and Molecular Engineering, Peking University, Beijing, 100871, China.",
-        "Department of Chemistry, Sungkyunkwan University, Suwon, 16419, Republic of Korea.",
-        "Key Laboratory of Pathobiology (Yanbian University), State Ethnic Affairs Commission, Yanji, China. Electronic address: piaojunjie@ybu.edu.cn.",
-        "Beijing National Laboratory for Molecular Sciences, Key Laboratory of Bioorganic Chemistry and Molecular Engineering of Ministry of Education, College of Chemistry and Molecular Engineering, Peking University, Beijing, 100871, China. Electronic address: yu.bai@pku.edu.cn.",
-        "Department of Chemistry, Yanbian University, Yanji, Jilin, 133002, China. Electronic address: msjin1231@ybu.edu.cn."
-      ],
-      "doi": "10.1016/j.aca.2026.345839",
-      "date": "2026-06-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42567577/"
-    },
-    {
-      "pmid": "42567346",
-      "title": "tRF-28-ZJ47D112Z4DZ suppresses gastric cancer progression via Ago2-mediated regulation of the CCND1-associated cell cycle pathway and serves as a complementary plasma biomarker.",
-      "abstract": "Gastric cancer (GC) remains a leading cause of cancer-related mortality worldwide, highlighting the need for improved non-invasive biomarkers for early detection and prognostic evaluation. tRNA-derived fragments (tRFs) have emerged as regulatory non-coding RNAs in cancer, but their biological and clinical significance in GC remains unclear. To evaluate the diagnostic, prognostic, and biological significance of tRF-28-ZJ47D112Z4DZ (tRF-28) in GC and investigate its underlying molecular mechanism. tRF-28 was identified using a stepwise screening strategy, and an absolute quantification assay was established for plasma detection. Receiver operating characteristic (ROC) analysis, survival analysis, and Cox regression models were used to evaluate its clinical significance. Gain- and loss-of-function studies in GC cells, together with xenograft overexpression models, were performed to investigate its biological functions. RNA immunoprecipitation, dual-luciferase reporter assays, rescue experiments, and immunohistochemistry were used to explore the underlying mechanism. Plasma tRF-28 levels progressively decreased from healthy controls to precancerous lesions and GC patients. tRF-28 demonstrated diagnostic value for precancerous lesions (AUC = 0.713) and showed moderate but reproducible diagnostic performance for GC in both the training and validation cohorts (AUC = 0.762 in the training cohort). Reduced plasma tRF-28 levels were associated with poor differentiation, deeper invasion, and unfavorable overall survival, and multivariate Cox analysis identified tRF-28 as an independent protective prognostic factor. Functionally, tRF-28 inhibited GC cell proliferation, colony formation, invasion, migration, and cell cycle progression while promoting apoptosis. Mechanistically, tRF-28 associated with Argonaute 2 (Ago2) and directly targeted the 3' untranslated region of CCND1, thereby suppressing the Cyclin D1/CDK4/p-Rb signaling pathway. Xenograft studies further confirmed its tumor-suppressive effect in vivo. tRF-28 suppresses GC progression through regulation of the CCND1-associated cell cycle pathway and may serve as a complementary plasma biomarker for GC diagnosis and prognostic assessment.",
-      "journal": "Journal of advanced research",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Ningbo University, Ningbo 315010, China; Department of Gastroenterology, The First Affiliated Hospital of Ningbo University, Ningbo 315020, China; Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Health Science Center, Ningbo University, Ningbo 315211, China. Electronic address: fyyyuxiuchong@nbu.edu.cn.",
-        "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Health Science Center, Ningbo University, Ningbo 315211, China.",
-        "Department of Gastroenterology, The First Affiliated Hospital of Ningbo University, Ningbo 315020, China.",
-        "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Ningbo University, Ningbo 315010, China.",
-        "Department of Gastroenterology, The First Affiliated Hospital of Ningbo University, Ningbo 315020, China; Ningbo Key Laboratory of Translational Medicine Research on Gastroenterology and Hepatology, Institute of Digestive Diseases of Ningbo University, Ningbo 315020, China. Electronic address: fygejiaxin@nbu.edu.cn.",
-        "Department of Gastroenterology, The First Affiliated Hospital of Ningbo University, Ningbo 315020, China; Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Health Science Center, Ningbo University, Ningbo 315211, China; Ningbo Key Laboratory of Translational Medicine Research on Gastroenterology and Hepatology, Institute of Digestive Diseases of Ningbo University, Ningbo 315020, China. Electronic address: guojunming@nbu.edu.cn."
-      ],
-      "doi": "10.1016/j.jare.2026.08.022",
-      "date": "2026-08-07",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42567346/"
-    },
-    {
-      "pmid": "42566906",
-      "title": "An acoustofluidic dynamic sieve enables sample-to-answer extracellular vesicle analysis for point-of-care liquid biopsy.",
-      "abstract": "Liquid biopsy based on extracellular vesicle (EV) surface protein provides a non-invasive strategy for lung cancer detection and clinical stratification, yet its translation to point-of-care testing (POCT) is hindered by labor-intensive preprocessing and nonspecific background from contaminating proteins. Here, we report an acoustofluidic chip that works as an \"acoustofluidic dynamic sieve,\" integrating on-chip staining, separation, enrichment, and detection into a sample-to-answer EV assay. Acoustic and flow fields synergistically generate localized vortices that selectively retain and concentrate EVs (>30 nm) while laminar flow removes smaller proteins. This on-chip purification ensures that fluorescence signals originate predominantly from captured EVs, achieving 125-fold signal amplification with high specificity. The platform completes multi-target surface protein analysis using less than 1.5 μL of plasma without off-chip purification, simplifying the workflow and reducing sample consumption. In clinical testing, 5-fold cross-validation distinguished lung cancer patients from healthy controls with 94.12% sensitivity, 93.33% specificity, and 93.75% accuracy. This acoustofluidic dynamic sieve strategy overcomes the specificity challenge in EV-based diagnostics and shows significant potential for clinical translation.",
-      "journal": "Biosensors & bioelectronics",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "State Key Laboratory of Precision Measuring Technology and Instruments, College of Precision Instrument and Optoelectronics Engineering, Tianjin University, Tianjin, 300072, China.",
-        "Department of Respiratory Medicine, Tianjin Hospital, Tianjin, 300202, China.",
-        "State Key Laboratory of Precision Measuring Technology and Instruments, College of Precision Instrument and Optoelectronics Engineering, Tianjin University, Tianjin, 300072, China. Electronic address: yanyanwang@tju.edu.cn.",
-        "Department of Respiratory Medicine, Tianjin Hospital, Tianjin, 300202, China. Electronic address: 1796135865@qq.com.",
-        "State Key Laboratory of Precision Measuring Technology and Instruments, College of Precision Instrument and Optoelectronics Engineering, Tianjin University, Tianjin, 300072, China. Electronic address: xduan@tju.edu.cn."
-      ],
-      "doi": "10.1016/j.bios.2026.119085",
-      "date": "2026-08-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42566906/"
-    },
-    {
-      "pmid": "42566729",
-      "title": "Using Disease-Agnostic Genomic Liquid Biopsy in Complex Diagnoses: Real-Life Example of cfChIP-Seq in a Fever of Unknown Origin.",
-      "abstract": "",
-      "journal": "JCO precision oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Endocrinology and Metabolism, Hadassah Medical Center, Faculty of Medicine, Hebrew University of Jerusalem, Jerusalem, Israel.",
-        "Senseera, Jerusalem, Israel.",
-        "Department of Medicine, Hadassah Medical Center, Faculty of Medicine, Hebrew University of Jerusalem, Jerusalem, Israel.",
-        "Department of Pathology, Hadassah Medical Center, Faculty of Medicine, Hebrew University of Jerusalem, Jerusalem, Israel.",
-        "The Lautenberg Center for Immunology and Cancer Research, Faculty of Medicine, and the Rachel and Selim Benin School of Computer Science and Engineering, The Hebrew University of Jerusalem, Jerusalem, Israel.",
-        "The Hebrew University Center for Computational Medicine, The Hebrew University of Jerusalem, Jerusalem, Israel."
-      ],
-      "doi": "10.1200/PO-25-01235",
-      "date": "2026-08-07",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42566729/"
-    },
-    {
-      "pmid": "42565327",
-      "title": "Folate Receptor Alpha (FRα/FOLR1) Immunohistochemical Expression Across Molecularly Classified Endometrial Carcinomas.",
-      "abstract": "The approval of Mirvetuximab soravtansine, a folate receptor alpha (FOLR1)-targeting antibody-drug conjugate, for platinum-resistant ovarian cancer, has prompted interest in FOLR1 as a target in endometrial carcinoma (EC). Characterization of FOLR1 expression across EC histotypes, TCGA molecular subtypes, and clinically relevant biomarkers using the FDA-approved companion diagnostic assay has not been performed. FOLR1 immunohistochemistry was performed on tissue microarrays from 169 molecularly classified ECs using the VENTANA FOLR1-2.1 assay and scored by proportion score PS2 and PS1 criteria at the ovarian cancer eligibility cutoff (PS2 ≥75) as well as exploratory thresholds. Associations with histotype, molecular subtype, biomarker (ER, PR, HER2) status, survival outcomes, intratumoral heterogeneity, and matched primary-recurrence expression were assessed. Only 3% (5/169) of ECs met the PS2 ≥75 threshold; all 5 were p53-abnormal (p53abn). In all, 9% (15/169) showed PS2 ≥25, predominantly in p53abn and no specific molecular profile (NSMP) subgroups. Uterine serous carcinoma had the highest expression; FOLR1 was absent in 3/3 clear cell carcinomas. Higher FOLR1 expression was associated with inferior survival, though this largely reflected molecular subtype and grade. FOLR1 was homogeneous across cores but variable between primary and recurrent tumors. FOLR1 testing in EC may be most relevant in p53abn and NSMP tumors and may not be useful in clear cell carcinomas. FOLR1 may have prognostic value in low-grade endometrioid and ER/PR-positive EC. Retesting at tumor recurrence is recommended. Given the frequency of lower-level FOLR1 expression, trials with treatment-response data are needed to test eligibility criteria below the current ovarian cancer threshold.",
-      "journal": "International journal of gynecological pathology : official journal of the International Society of Gynecological Pathologists",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Pathology, Stanford University School of Medicine, Stanford, California.",
-        "Department of Radiation Oncology, Stanford University School of Medicine, Stanford, California."
-      ],
-      "doi": "10.1097/PGP.0000000000001208",
-      "date": "2026-08-07",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42565327/"
     }
   ],
   "signals": [
@@ -514,6 +506,38 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42570487",
+      "date": "2026-08-07",
+      "title": "Chemical induction enhances patient-derived organoid fidelity to primary colorectal cancer at the single-cell level: A re-analysis of public scRNA-seq dataset GSE261012.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42570487/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biochemical and biophysical research communications，PMID 为 42570487。",
+      "report": "Patient-derived organoids (PDOs) are widely used preclinical models for colorectal cancer (CRC). However, conventional PDO cultures frequently lose tumor microenvironment (TME) components and undergo culture-induced transcriptional drift. A chemically defined...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42568046",
       "date": "2026-08-07",
       "title": "A Fully Defined GelMA-Based Matrix Allows Fine Tuning of Tissue-Relevant Biomechanical and Biochemical Cues for Organoid Culture.",
@@ -544,62 +568,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42567931",
-      "date": "2026-08-07",
-      "title": "Reversible epiblast regionalization determines differentiation potential of human pluripotent stem cells.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42567931/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature biotechnology，PMID 为 42567931。",
-      "report": "Although human pluripotent stem cells (hPSCs) can generate all tissues of the body, hPSCs in vitro frequently exhibit differentiation biases or failure that pose substantial challenges for disease modeling and regenerative medicine. The origins of these biases...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42567917",
-      "date": "2026-08-07",
-      "title": "Publisher Correction: A chronic whole cigarette smoke extract model reveals redox-mitochondrial adaptation in human lung epithelial and organoid models.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42567917/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Experimental & molecular medicine，PMID 为 42567917。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42567392",
       "date": "2026-08-07",
       "title": "Local energetic frustration: Protein evolution, conformational dynamics and design in the age of AI.",
@@ -626,97 +594,35 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42567346",
+      "id": "pubmed-42570628",
       "date": "2026-08-07",
-      "title": "tRF-28-ZJ47D112Z4DZ suppresses gastric cancer progression via Ago2-mediated regulation of the CCND1-associated cell cycle pathway and serves as a complementary plasma biomarker.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42567346/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "临床",
-        "监管",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of advanced research，PMID 为 42567346。",
-      "report": "Gastric cancer (GC) remains a leading cause of cancer-related mortality worldwide, highlighting the need for improved non-invasive biomarkers for early detection and prognostic evaluation. tRNA-derived fragments (tRFs) have emerged as regulatory non-coding RNA...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42566729",
-      "date": "2026-08-07",
-      "title": "Using Disease-Agnostic Genomic Liquid Biopsy in Complex Diagnoses: Real-Life Example of cfChIP-Seq in a Fever of Unknown Origin.",
+      "title": "Self-assembled DNA nanosphere-powered confined-free self-circulating amplifier for high-fidelity microRNA imaging and clinical liquid biopsy.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42566729/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 JCO precision oncology，PMID 为 42566729。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42565327",
-      "date": "2026-08-07",
-      "title": "Folate Receptor Alpha (FRα/FOLR1) Immunohistochemical Expression Across Molecularly Classified Endometrial Carcinomas.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42565327/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42570628/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Diagnostics",
         "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
+        "Precision Oncology",
+        "Multi-omics"
       ],
       "tags": [
         "诊断",
         "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤"
+        "肿瘤",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of gynecological pathology : official journal of the International Society of Gynecological Pathologists，PMID 为 42565327。",
-      "report": "The approval of Mirvetuximab soravtansine, a folate receptor alpha (FOLR1)-targeting antibody-drug conjugate, for platinum-resistant ovarian cancer, has prompted interest in FOLR1 as a target in endometrial carcinoma (EC). Characterization of FOLR1 expression...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Talanta，PMID 为 42570628。",
+      "report": "The development of predictable and thermodynamically stable DNA nanomachines remains challenging for the monitoring of intracellular microRNAs (miRNAs) in complex biological matrices. In this study, a fluorescent biosensor utilizing a confined-free synergistic...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -839,16 +745,16 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42566906",
+      "id": "pubmed-42570519",
       "date": "2026-08-05",
-      "title": "An acoustofluidic dynamic sieve enables sample-to-answer extracellular vesicle analysis for point-of-care liquid biopsy.",
+      "title": "Active enrichment of circulating tumor DNA by supramolecular-functionalized micromotors for ultrasensitive quantification.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42566906/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42570519/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -863,9 +769,67 @@
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42566906。",
-      "report": "Liquid biopsy based on extracellular vesicle (EV) surface protein provides a non-invasive strategy for lung cancer detection and clinical stratification, yet its translation to point-of-care testing (POCT) is hindered by labor-intensive preprocessing and nonsp...",
+      "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42570519。",
+      "report": "Liquid biopsy of pancreatic cancer via circulating tumor DNA (ctDNA) is challenged by the extreme rarity of targets, a limitation that conventional passive biosensors cannot overcome. Here, we engineered an intelligent micromotor that actively captured, transp...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42569449",
+      "date": "2026-08-03",
+      "title": "Exosome-Based Liquid Biopsy in Biliary Tract Cancer: Nanotechnology-Enabled Strategies and Future Perspectives.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42569449/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of nanomedicine，PMID 为 42569449。",
+      "report": "Biliary tract cancer (BTC) remains a formidable clinical challenge owing to its asymptomatic early stages, anatomical complexity, and lack of reliable and noninvasive diagnostic tools. Although traditional tissue biopsy is often limited by invasiveness and sam...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42569825",
+      "date": "2026-08-00",
+      "title": "miR155, triplicated in Down syndrome, regulates the development of neural stem cells and GABAergic interneurons in Alzheimer's disease mouse and human iPSC models.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42569825/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Alzheimer's & dementia : the journal of the Alzheimer's Association，PMID 为 42569825。",
+      "report": "Dysfunctional microRNAs and GABAergic interneurons are features of Alzheimer's disease (AD). The role of neuronal microRNA155 (miR155), elevated in both AD and Down syndrome (DS), remains unknown. We utilized in silico analyses of published databases, MIR155-d...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1140,35 +1104,33 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42567577",
-      "date": "2026-06-13",
-      "title": "Interface-enhanced label-free FeOOH-mesoporous TiO2 nanocomposite biosensor for highly sensitive quantitative exosome detection to assist cancer screening.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
+      "id": "pubmed-42569325",
+      "date": "2026-07-21",
+      "title": "Early tumor-informed circulating tumor DNA (ctDNA) dynamics correlate with response to first-line advanced NSCLC treated with pembrolizumab ± chemotherapy.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42567577/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42569325/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
+        "Biotech",
+        "Precision Oncology"
       ],
       "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
+        "biotech",
+        "肿瘤"
       ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Analytica chimica acta，PMID 为 42567577。",
-      "report": "Exosome-based liquid biopsy has shown great promise in cancer diagnosis. Electrochemical biosensors, owing to their high efficiency, sensitivity, and operational simplicity, have become powerful tools for biological sample analysis. In this study, we developed...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "companyIds": [
+        "natera"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42569325。",
+      "report": "Immune checkpoint inhibitors (ICIs), alone or combined with chemotherapy, constitute the standard first-line treatment for advanced non-small cell lung cancer (NSCLC) without actionable oncogenic drivers. However, radiologic response assessment has limitations...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1199,6 +1161,32 @@
       "fact": "PubMed 记录显示该文献收录于 The British journal of oral & maxillofacial surgery，PMID 为 42567772。",
       "report": "Head and neck sarcomas (HNS) are rare, heterogeneous malignancies representing less than 1% of head and neck cancers. Their complex anatomy and overlapping morphologies pose significant challenges for traditional diagnosis. We aimed to evaluate the clinical ut...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42569280",
+      "date": "2026-04-26",
+      "title": "Are we ready for a molecular diagnostics-driven era in hepatobiliary surgery?",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42569280/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Hepatobiliary surgery and nutrition，PMID 为 42569280。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
