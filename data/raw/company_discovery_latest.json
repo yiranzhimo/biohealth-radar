@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-08-10T13:47:51.653203+00:00",
+  "capturedAt": "2026-08-10T19:19:34.299753+00:00",
   "summary": {
-    "mentionCount": 664,
-    "candidateCount": 592,
+    "mentionCount": 668,
+    "candidateCount": 596,
     "corroboratedCount": 2,
     "identifiedCount": 586,
-    "needsReviewCount": 4,
+    "needsReviewCount": 8,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 1,
+      "ClinicalTrials": 5,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 60,
@@ -20,24 +20,105 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-4d746fb9110cf13b",
-      "observedName": "Shanghai Juncell Therapeutics",
-      "normalizedName": "shanghai juncell therapeutics",
+      "id": "mention-clinicaltrials-46a3c9aa4f5d3770",
+      "observedName": "BioCaptiva Ltd.",
+      "normalizedName": "biocaptiva",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06828328",
-      "sourceDate": "2026-08-05",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06828328",
+      "sourceRecordId": "NCT05813041",
+      "sourceDate": "2023-07-27",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05813041",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Diagnostics",
+        "Precision Medicine",
+        "临床试验",
+        "精准医疗",
+        "诊断"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "A First-in-human Trial to Assess the Safety and Performance of the BioCaptis in Healthy Volunteers"
+    },
+    {
+      "id": "mention-clinicaltrials-48e748bb30d9762e",
+      "observedName": "Reponex Pharmaceuticals A/S",
+      "normalizedName": "reponex pharmaceuticals a s",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT04312360",
+      "sourceDate": "2023-09-07",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04312360",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
         "Oncology",
         "Precision Oncology",
-        "Recruiting",
-        "中国",
         "临床试验",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Preoperative Endoscopic Treatment With Fosfomycin and Metronidazole in Patients With Right-sided Colon Cancer and Colon Adenoma (MEFO-trial)"
+    },
+    {
+      "id": "mention-clinicaltrials-7952e027fa41d8ff",
+      "observedName": "AI Labs Group S.L",
+      "normalizedName": "ai labs group s l",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT07428954",
+      "sourceDate": "2026-02-24",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07428954",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Healthcare AI",
+        "Medical AI",
+        "Oncology",
+        "Precision Oncology",
+        "临床决策支持",
+        "临床试验",
+        "医疗 AI",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Using Artificial Intelligence to Help Doctors Identify Different Skin Conditions and Improve Patient Care"
+    },
+    {
+      "id": "mention-clinicaltrials-90e10d8e90444a17",
+      "observedName": "TechnoGenesys, Inc.",
+      "normalizedName": "technogenesys",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT06705686",
+      "sourceDate": "2026-03-20",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06705686",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Advanced Disease Models",
+        "Clinical Trials",
+        "Oncology",
+        "Organoids",
+        "Precision Oncology",
+        "Recruiting",
+        "临床试验",
+        "疾病模型",
+        "类器官",
         "肿瘤"
       ],
       "activitySignals": [
@@ -45,7 +126,32 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Study of GC203 TIL in PDCA (RJ)"
+      "contextTitle": "Novel ACK1 Inhibitor (R)-9b in Patients With Prostate Cancer"
+    },
+    {
+      "id": "mention-clinicaltrials-b2544d0275880d35",
+      "observedName": "Posit Science Corporation",
+      "normalizedName": "posit science",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT05599490",
+      "sourceDate": "2026-02-19",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05599490",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Longevity",
+        "biomarker",
+        "临床试验",
+        "衰老"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Brain Enhancement Training Towards Elders Resilience to Aging, Phase IIB"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -44226,36 +44332,40 @@
       ]
     },
     {
-      "id": "candidate-shanghai-juncell-therapeutics",
-      "name": "Shanghai Juncell Therapeutics",
+      "id": "candidate-ai-labs-group-s-l",
+      "name": "AI Labs Group S.L",
       "aliases": [
-        "Shanghai Juncell Therapeutics"
+        "AI Labs Group S.L"
       ],
-      "normalizedName": "shanghai juncell therapeutics",
+      "normalizedName": "ai labs group s l",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-08-05",
-      "lastSeenAt": "2026-08-05",
+      "firstSeenAt": "2026-02-24",
+      "lastSeenAt": "2026-02-24",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
+          "Healthcare AI",
+          "Medical AI",
           "Oncology",
           "Precision Oncology",
-          "Recruiting",
-          "中国",
+          "临床决策支持",
           "临床试验",
+          "医疗 AI",
           "肿瘤"
         ],
         "themes": [
           "Clinical Trials",
+          "Healthcare AI",
+          "Medical AI",
           "Oncology",
           "Precision Oncology",
-          "Recruiting",
-          "中国",
+          "临床决策支持",
           "临床试验",
+          "医疗 AI",
           "肿瘤"
         ],
         "tags": []
@@ -44269,17 +44379,193 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-4d746fb9110cf13b"
+        "mention-clinicaltrials-7952e027fa41d8ff"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2026-08-05",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06828328",
-          "externalId": "NCT06828328",
-          "contextTitle": "A Study of GC203 TIL in PDCA (RJ)"
+          "sourceDate": "2026-02-24",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07428954",
+          "externalId": "NCT07428954",
+          "contextTitle": "Using Artificial Intelligence to Help Doctors Identify Different Skin Conditions and Improve Patient Care"
+        }
+      ]
+    },
+    {
+      "id": "candidate-biocaptiva",
+      "name": "BioCaptiva Ltd.",
+      "aliases": [
+        "BioCaptiva Ltd."
+      ],
+      "normalizedName": "biocaptiva",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.86,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2023-07-27",
+      "lastSeenAt": "2023-07-27",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Diagnostics",
+          "Precision Medicine",
+          "临床试验",
+          "精准医疗",
+          "诊断"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Diagnostics",
+          "Precision Medicine",
+          "临床试验",
+          "精准医疗",
+          "诊断"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-46a3c9aa4f5d3770"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "lead_sponsor",
+          "sourceDate": "2023-07-27",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT05813041",
+          "externalId": "NCT05813041",
+          "contextTitle": "A First-in-human Trial to Assess the Safety and Performance of the BioCaptis in Healthy Volunteers"
+        }
+      ]
+    },
+    {
+      "id": "candidate-posit-science",
+      "name": "Posit Science Corporation",
+      "aliases": [
+        "Posit Science Corporation"
+      ],
+      "normalizedName": "posit science",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.86,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-02-19",
+      "lastSeenAt": "2026-02-19",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Longevity",
+          "biomarker",
+          "临床试验",
+          "衰老"
+        ],
+        "themes": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Longevity",
+          "biomarker",
+          "临床试验",
+          "衰老"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-b2544d0275880d35"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "lead_sponsor",
+          "sourceDate": "2026-02-19",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT05599490",
+          "externalId": "NCT05599490",
+          "contextTitle": "Brain Enhancement Training Towards Elders Resilience to Aging, Phase IIB"
+        }
+      ]
+    },
+    {
+      "id": "candidate-technogenesys",
+      "name": "TechnoGenesys, Inc.",
+      "aliases": [
+        "TechnoGenesys, Inc."
+      ],
+      "normalizedName": "technogenesys",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.86,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-03-20",
+      "lastSeenAt": "2026-03-20",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Advanced Disease Models",
+          "Clinical Trials",
+          "Oncology",
+          "Organoids",
+          "Precision Oncology",
+          "Recruiting",
+          "临床试验",
+          "疾病模型",
+          "类器官",
+          "肿瘤"
+        ],
+        "themes": [
+          "Advanced Disease Models",
+          "Clinical Trials",
+          "Oncology",
+          "Organoids",
+          "Precision Oncology",
+          "Recruiting",
+          "临床试验",
+          "疾病模型",
+          "类器官",
+          "肿瘤"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-90e10d8e90444a17"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "lead_sponsor",
+          "sourceDate": "2026-03-20",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06705686",
+          "externalId": "NCT06705686",
+          "contextTitle": "Novel ACK1 Inhibitor (R)-9b in Patients With Prostate Cancer"
         }
       ]
     },
@@ -47420,6 +47706,60 @@
           "sourceUrl": "https://reporter.nih.gov/project-details/11316567",
           "externalId": "11316567",
           "contextTitle": "Integrated High-Throughput Microfluidic-Mass Spectrometry for Enhanced Biomedical Data Generation and AI Model Training"
+        }
+      ]
+    },
+    {
+      "id": "candidate-reponex-pharmaceuticals-a-s",
+      "name": "Reponex Pharmaceuticals A/S",
+      "aliases": [
+        "Reponex Pharmaceuticals A/S"
+      ],
+      "normalizedName": "reponex pharmaceuticals a s",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2023-09-07",
+      "lastSeenAt": "2023-09-07",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-48e748bb30d9762e"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2023-09-07",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT04312360",
+          "externalId": "NCT04312360",
+          "contextTitle": "Preoperative Endoscopic Treatment With Fosfomycin and Metronidazole in Patients With Right-sided Colon Cancer and Colon Adenoma (MEFO-trial)"
         }
       ]
     }

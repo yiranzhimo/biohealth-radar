@@ -152,7 +152,7 @@
             "eventType": "Periodic Report",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001770787-000162828026054491",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1770787/000162828026054491/txg-20260630.htm"
           },
@@ -163,7 +163,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001770787-000162828026054273",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1770787/000162828026054273/txg-20260806.htm"
           }
@@ -228,7 +228,7 @@
           "eventType": "Periodic Report",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001770787-000162828026054491",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1770787/000162828026054491/txg-20260630.htm"
         },
@@ -239,7 +239,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001770787-000162828026054273",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1770787/000162828026054273/txg-20260806.htm"
         }
@@ -5233,7 +5233,7 @@
             "eventType": "Periodic Report",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001178670-000117867026000062",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000062/alny-20260630.htm"
           },
@@ -5244,7 +5244,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001178670-000117867026000060",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000060/alny-20260730.htm"
           }
@@ -5309,7 +5309,7 @@
           "eventType": "Periodic Report",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001178670-000117867026000062",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000062/alny-20260630.htm"
         },
@@ -5320,7 +5320,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001178670-000117867026000060",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000060/alny-20260730.htm"
         }
@@ -9214,7 +9214,7 @@
             "eventType": "Periodic Report",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001655759-000162828026052554",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1655759/000162828026052554/arvn-20260630.htm"
           },
@@ -9225,7 +9225,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001655759-000162828026052139",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1655759/000162828026052139/arvn-20260804.htm"
           }
@@ -9290,7 +9290,7 @@
           "eventType": "Periodic Report",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001655759-000162828026052554",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1655759/000162828026052554/arvn-20260630.htm"
         },
@@ -9301,7 +9301,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001655759-000162828026052139",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1655759/000162828026052139/arvn-20260804.htm"
         }
@@ -10975,7 +10975,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001730463-000173046326000112",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000173046326000112/autl-20260803.htm"
           },
@@ -10986,7 +10986,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001730463-000119312526329526",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000119312526329526/d156965d8k.htm"
           }
@@ -11021,7 +11021,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001730463-000173046326000112",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000173046326000112/autl-20260803.htm"
         },
@@ -11032,7 +11032,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001730463-000119312526329526",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000119312526329526/d156965d8k.htm"
         }
@@ -12397,7 +12397,7 @@
             "eventType": "Periodic Report",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001745999-000119312526331541",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331541/beam-20260630.htm"
           },
@@ -12408,7 +12408,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001745999-000119312526331522",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331522/beam-20260804.htm"
           }
@@ -12473,7 +12473,7 @@
           "eventType": "Periodic Report",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001745999-000119312526331541",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331541/beam-20260630.htm"
         },
@@ -12484,7 +12484,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001745999-000119312526331522",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331522/beam-20260804.htm"
         }
@@ -12781,7 +12781,7 @@
             "eventType": "Periodic Report",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001651308-000162828026052878",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1651308/000162828026052878/bgne-20260630.htm"
           },
@@ -12792,7 +12792,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001651308-000162828026052877",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1651308/000162828026052877/bgne-20260805.htm"
           }
@@ -12857,7 +12857,7 @@
           "eventType": "Periodic Report",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001651308-000162828026052878",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1651308/000162828026052878/bgne-20260630.htm"
         },
@@ -12868,7 +12868,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001651308-000162828026052877",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1651308/000162828026052877/bgne-20260805.htm"
         }
@@ -22415,7 +22415,7 @@
             "eventType": "Periodic Report",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001674416-000119312526330672",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526330672/crsp-20260630.htm"
           },
@@ -22426,7 +22426,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001674416-000119312526330644",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526330644/crsp-20260803.htm"
           }
@@ -22491,7 +22491,7 @@
           "eventType": "Periodic Report",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001674416-000119312526330672",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526330672/crsp-20260630.htm"
         },
@@ -22502,7 +22502,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001674416-000119312526330644",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526330644/crsp-20260803.htm"
         }
@@ -25916,7 +25916,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001434265-000143426526000108",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000108/gmab-20260630.htm"
           },
@@ -25927,7 +25927,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001434265-000143426526000102",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000102/gmab_20260715x6k.htm"
           }
@@ -25970,7 +25970,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001434265-000143426526000108",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000108/gmab-20260630.htm"
         },
@@ -25981,7 +25981,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001434265-000143426526000102",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000102/gmab_20260715x6k.htm"
         }
@@ -26984,7 +26984,7 @@
             "eventType": "Periodic Report",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001576280-000157628026000037",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000037/gh-20260630.htm"
           },
@@ -26995,7 +26995,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001576280-000157628026000036",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000036/gh-20260730.htm"
           }
@@ -27060,7 +27060,7 @@
           "eventType": "Periodic Report",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001576280-000157628026000037",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000037/gh-20260630.htm"
         },
@@ -27071,7 +27071,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001576280-000157628026000036",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000036/gh-20260730.htm"
         }
@@ -28951,8 +28951,8 @@
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "SEC metadata describes the primary document as: 424B2.；公司官方页面表述：Explore the Illumina portfolio of lab instruments offering proven, innovative technology for a wide range of throughput and application needs.",
-        "summaryOriginal": "Explore the Illumina portfolio of lab instruments offering proven, innovative technology for a wide range of throughput and application needs.",
+        "summary": "公司官方页面表述：Explore the Illumina portfolio of lab instruments offering proven, innovative technology for a wide range of throughput and application needs.；公司官方页面表述：Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
+        "summaryOriginal": "Explore the Illumina portfolio of lab instruments offering proven, innovative technology for a wide range of throughput and application needs. Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
         "translationStatus": "partial",
         "businessModel": [],
         "commercialProducts": [
@@ -29023,7 +29023,7 @@
             "date": "2026-08-10",
             "title": "Illumina filed Form 424B2",
             "eventType": "Offering",
-            "sourceType": "Company",
+            "sourceType": "Filing",
             "evidenceLevel": "Medium",
             "needsReview": false,
             "evidenceId": "evidence-sec-0001110803-000119312526341332",
@@ -29058,7 +29058,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001110803-000111080326000168",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000168/ilmn-20260807.htm"
           },
@@ -29069,7 +29069,7 @@
             "eventType": "Periodic Report",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001110803-000111080326000160",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000160/ilmn-20260628.htm"
           }
@@ -29083,8 +29083,8 @@
       "coverage": {
         "evidenceCount": 6,
         "evidenceBySourceType": {
-          "Company": 3,
-          "Filing": 3
+          "Company": 2,
+          "Filing": 4
         },
         "lastEvidenceDate": "2026-08-10",
         "programCandidateCount": 0,
@@ -29099,7 +29099,7 @@
           "date": "2026-08-10",
           "title": "Illumina filed Form 424B2",
           "eventType": "Offering",
-          "sourceType": "Company",
+          "sourceType": "Filing",
           "evidenceLevel": "Medium",
           "needsReview": false,
           "evidenceId": "evidence-sec-0001110803-000119312526341332",
@@ -29134,7 +29134,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001110803-000111080326000168",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000168/ilmn-20260807.htm"
         },
@@ -29145,7 +29145,7 @@
           "eventType": "Periodic Report",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001110803-000111080326000160",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000160/ilmn-20260628.htm"
         },
@@ -29156,7 +29156,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001110803-000111080326000155",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000155/ilmn-20260730.htm"
         }
@@ -31441,7 +31441,7 @@
             "eventType": "Periodic Report",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001652130-000119312526337952",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526337952/ntla-20260630.htm"
           },
@@ -31452,7 +31452,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001652130-000119312526336772",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526336772/ntla-20260806.htm"
           }
@@ -31517,7 +31517,7 @@
           "eventType": "Periodic Report",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001652130-000119312526337952",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526337952/ntla-20260630.htm"
         },
@@ -31528,7 +31528,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001652130-000119312526336772",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526336772/ntla-20260806.htm"
         }
@@ -31812,7 +31812,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0000874015-000114036126029960",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126029960/ef20078953_8k.htm"
           },
@@ -31823,7 +31823,7 @@
             "eventType": "Periodic Report",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0000874015-000087401526000251",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000087401526000251/form10q.htm"
           },
@@ -31834,7 +31834,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0000874015-000114036126028154",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126028154/ef20077783_8k.htm"
           }
@@ -31888,7 +31888,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0000874015-000114036126029960",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126029960/ef20078953_8k.htm"
         },
@@ -31899,7 +31899,7 @@
           "eventType": "Periodic Report",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0000874015-000087401526000251",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000087401526000251/form10q.htm"
         },
@@ -31910,7 +31910,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0000874015-000114036126028154",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126028154/ef20077783_8k.htm"
         },
@@ -31921,7 +31921,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0000874015-000114036126028092",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126028092/ef20077664_8k.htm"
         }
@@ -34237,7 +34237,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001801198-000119312526316760",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000119312526316760/d56062d6k.htm"
           }
@@ -34315,7 +34315,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001801198-000119312526316760",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000119312526316760/d56062d6k.htm"
         },
@@ -34326,7 +34326,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001801198-000117184326004649",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326004649/f6k_071426.htm"
         }
@@ -37041,7 +37041,7 @@
             "eventType": "Periodic Report",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001682852-000168285226000150",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000150/mrna-20260630.htm"
           },
@@ -37052,7 +37052,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001682852-000168285226000147",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000147/mrna-20260731.htm"
           }
@@ -37117,7 +37117,7 @@
           "eventType": "Periodic Report",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001682852-000168285226000150",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000150/mrna-20260630.htm"
         },
@@ -37128,7 +37128,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001682852-000168285226000147",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000147/mrna-20260731.htm"
         },
@@ -37139,7 +37139,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001682852-000168285226000134",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000134/mrna-20260706.htm"
         }
@@ -37933,7 +37933,7 @@
             "eventType": "Periodic Report",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001604821-000162828026054525",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1604821/000162828026054525/ntra-20260630.htm"
           },
@@ -37944,7 +37944,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001604821-000160482126000015",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1604821/000160482126000015/ntra-20260806.htm"
           }
@@ -38009,7 +38009,7 @@
           "eventType": "Periodic Report",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001604821-000162828026054525",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1604821/000162828026054525/ntra-20260630.htm"
         },
@@ -38020,7 +38020,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001604821-000160482126000015",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1604821/000160482126000015/ntra-20260806.htm"
         },
@@ -38031,7 +38031,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001604821-000160482126000005",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1604821/000160482126000005/ntra-20260701.htm"
         }
@@ -38808,7 +38808,7 @@
             "eventType": "Periodic Report",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001549595-000154959526000040",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000040/nrix-20260531.htm"
           },
@@ -38819,7 +38819,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001549595-000154959526000038",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000038/nrix-20260709.htm"
           }
@@ -38873,7 +38873,7 @@
           "eventType": "Periodic Report",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001549595-000154959526000040",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000040/nrix-20260531.htm"
         },
@@ -38884,7 +38884,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001549595-000154959526000038",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000038/nrix-20260709.htm"
         }
@@ -42494,7 +42494,7 @@
             "eventType": "Periodic Report",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001601830-000160183026000098",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000098/rxrx-20260630.htm"
           },
@@ -42505,7 +42505,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001601830-000160183026000097",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000097/rxrx-20260805.htm"
           }
@@ -42570,7 +42570,7 @@
           "eventType": "Periodic Report",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001601830-000160183026000098",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000098/rxrx-20260630.htm"
         },
@@ -42581,7 +42581,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001601830-000160183026000097",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000097/rxrx-20260805.htm"
         }
@@ -44428,99 +44428,6 @@
         ]
       },
       "recentEvents": []
-    },
-    {
-      "companyId": "candidate-shanghai-juncell-therapeutics",
-      "name": "Shanghai Juncell Therapeutics",
-      "asOfDate": "2026-08-10",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://clinicaltrials.gov/study/NCT06828328",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {},
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "Recruiting",
-          "中国",
-          "临床试验",
-          "肿瘤"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：ClinicalTrials.gov",
-        "summaryOriginal": "ClinicalTrials.gov",
-        "translationStatus": "partial",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-shanghai-juncell-therapeutics-official-46105bf48674"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-shanghai-juncell-therapeutics-official-46105bf48674",
-            "date": "2026-08-10",
-            "title": "ClinicalTrials.gov",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-shanghai-juncell-therapeutics-official-46105bf48674",
-            "sourceUrl": "https://clinicaltrials.gov/study/NCT06828328"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-08-10",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-shanghai-juncell-therapeutics-official-46105bf48674",
-          "date": "2026-08-10",
-          "title": "ClinicalTrials.gov",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-shanghai-juncell-therapeutics-official-46105bf48674",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06828328"
-        }
-      ]
     },
     {
       "companyId": "candidate-silexion-therapeutics",
@@ -46581,7 +46488,7 @@
             "eventType": "Periodic Report",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001717115-000119312526326090",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526326090/tem-20260630.htm"
           },
@@ -46592,7 +46499,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001717115-000119312526326083",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526326083/tem-20260730.htm"
           },
@@ -46603,7 +46510,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001717115-000119312526309073",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526309073/d128960d8k.htm"
           },
@@ -46614,7 +46521,7 @@
             "eventType": "Corporate Update",
             "sourceType": "Filing",
             "evidenceLevel": "Medium",
-            "needsReview": true,
+            "needsReview": false,
             "evidenceId": "evidence-sec-0001717115-000119312526308469",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526308469/d124162d8k.htm"
           }
@@ -46649,7 +46556,7 @@
           "eventType": "Periodic Report",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001717115-000119312526326090",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526326090/tem-20260630.htm"
         },
@@ -46660,7 +46567,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001717115-000119312526326083",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526326083/tem-20260730.htm"
         },
@@ -46671,7 +46578,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001717115-000119312526309073",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526309073/d128960d8k.htm"
         },
@@ -46682,7 +46589,7 @@
           "eventType": "Corporate Update",
           "sourceType": "Filing",
           "evidenceLevel": "Medium",
-          "needsReview": true,
+          "needsReview": false,
           "evidenceId": "evidence-sec-0001717115-000119312526308469",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526308469/d124162d8k.htm"
         }

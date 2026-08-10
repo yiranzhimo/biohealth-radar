@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-10T13:47:58.665334+00:00",
+  "capturedAt": "2026-08-10T19:19:39.827673+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-07-27",
@@ -1028,7 +1028,7 @@
       "primaryCategory": "Company & Market",
       "subCategory": "Prospectus",
       "eventType": "Offering",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526341332/d173650d424b2.htm",
       "reliability": "High",

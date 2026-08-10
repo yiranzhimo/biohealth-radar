@@ -1,79 +1,35 @@
 {
-  "capturedAt": "2026-08-10T13:47:58.851048+00:00",
+  "capturedAt": "2026-08-10T19:19:40.051207+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42572869",
-      "responseId": "resp_041009e75d6aaccc006a79d69017cc819586e440e61f56e157",
+      "signalId": "pubmed-42574050",
+      "responseId": "resp_07a8f5ea03496a46006a7a244ce2c4819a96bdf0851d8afc74",
       "review": {
         "status": "needs_human",
-        "confidence": 0.85,
+        "confidence": 0.75,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审查以验证研究质量和样本量。",
+        "reviewSummaryCn": "该记录需要判断或修正，包括对研究质量和样本量的缺乏信息。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "分类与研究内容不完全吻合，需要更清晰的支持依据。"
+          "notesCn": "虽然分类主题与研究内容相符，但缺乏足够的信息来支持其合理性。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "证据水平标记为中等，但未充分支持具体分类和结论。"
+          "notesCn": "证据水平标记为中等，但未提供足够的信息进行有效评估。"
         },
         "riskFlags": [
           "clinical_claim",
-          "regulatory_claim",
           "insufficient_source"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
           "subCategory": "Organoids & Advanced Disease Models",
           "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Clinical Evidence"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "临床",
-            "监管"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Lab on a chip，PMID 为 42572869。",
-          "report": "This manuscript combined two studies that assessed the effects of cannabidiol (CBD) exposure in distinct organ-on-a-chip models.",
-          "inference": "该分类反映了主题但未评估研究的具体质量和影响。",
-          "unknown": "研究质量、样本量、利益冲突、临床阶段或商业化状态未被评估。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42572505",
-      "responseId": "resp_0d9766dfa466053d006a79d69761708190b33b87e854f50c60",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "文献中关于免疫疗法的效率和安全性陈述未经明确归属，需进一步评审。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，通过组织研究与肿瘤免疫反应的主题一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "尽管存在PubMed支持的记录，但证据水平不应为中等，因为研究质量和未报道的关键信息未被评估。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
           "themes": [
             "Organoids",
             "Advanced Disease Models",
@@ -84,69 +40,279 @@
             "疾病模型",
             "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Immunology，PMID 为 42572505。",
-          "report": "Tumour immune evasion frequently involves PD-L1-mediated inhibition of T cell activity, limiting the efficacy of PD1/PD-L1 blockade, particularly in PD-L1-low or immunologically 'cold' tumours. To overcome this limitation, we developed a dual targeting human P...",
+          "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42574050。",
+          "report": "Rhabdoid tumors (RTs) are highly aggressive pediatric cancers driven by the biallelic inactivation of the SMARCB1 tumor suppressor gene, the sole recurrent genetic alteration. SMARCB1 encodes a core subunit of the SWI/SNF chromatin remodeling complex; its loss...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42572503",
-      "responseId": "resp_0cc5dffd3377e8aa006a79d69e64d481938fea19a046b0449d",
+      "signalId": "pubmed-42574049",
+      "responseId": "resp_042e36b9e634eda7006a7a24569584819a8d1528bd22ab202f",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献质量、样本量等信息缺失，需人为审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "所提供的证据水平为低，但文献属于高级科学期刊，需评估文献质量。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "虽然事实和报告分明确，但证据水平不合适。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Advanced Science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42574049。",
+          "report": "PubMed 记录未提供摘要。",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42573967",
+      "responseId": "resp_0f158301516c302c006a7a245e48008199aff861d8db6ab885",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审核，因为文献中包含关于临床效果的推断，尚需确认研究质量等信息。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类 'Organoids & Advanced Disease Models' 可能不准确，因文献的临床应用未明确。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平被评为中等，但未提供足够的证据支持结论。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Inflammopharmacology，PMID 为 42573967。",
+          "report": "Helicobacter pylori is a bacterium that has been identified as a causative agent in the development of chronic gastritis, peptic ulcers, and gastric cancer. Current eradication therapies, based on antibiotic combination, are suffering from lack of patient compliance.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42573494",
+      "responseId": "resp_00ed91a884292f06006a7a24717c5c819aa7097d2ef858b9c2",
       "review": {
         "status": "pass",
-        "confidence": 0.9,
+        "confidence": 0.85,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号在内部一致性和中立性上达标，适合发表。",
+        "reviewSummaryCn": "文献符合中立智能记录发布标准，信息清晰分离。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "主要类别和子类别合理，符合源的元数据。"
+          "notesCn": "文献的主要分类和证据水平合理，符合已知信息。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推理清晰分开，证据水平合理。"
+          "notesCn": "事实、报告和推论明确分离。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 ACS biomaterials science & engineering，PMID 为 42573494。",
+          "report": "Current 3D culture platforms often face challenges such as high costs, single-use, and inconsistent size uniformity and hence are unsuitable for high-throughput applications. Considering these issues, a commercially available silicone face scrubber (SFS) was r...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42573242",
+      "responseId": "resp_08e6ea9ab4fd1156006a7a24789a40819ab931107b628339a9",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "文献记录清晰，分类合理，未包含治疗建议或临床结论，信息安全可发布。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别和子类别与研究主题一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献可靠性高，证据水平适中。"
+        },
+        "riskFlags": [
+          "insufficient_source",
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 International journal of radiation biology，PMID 为 42573242。",
+          "report": "The lens of the eye has been recognized as one of the most radiosensitive tissues in the human body. Radiation-induced cataractogenesis is believed to arise through a complex interplay of molecular processes, including crystallin protein oxidation and aggregat...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42573888",
+      "responseId": "resp_099b8c1982c66bfc006a7a247e2af4819890765a1390ba21e4",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审核，研究质量、样本量及临床结论缺乏支持。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类支持不足。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平未得到合理支持。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Biotech",
+            "Precision Oncology",
+            "Drug Screening"
+          ],
+          "tags": [
+            "biotech",
+            "肿瘤",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of the Egyptian National Cancer Institute，PMID 为 42573888。",
+          "report": "The chances of oral squamous cell carcinoma (OSCC) being diagnosed at an early stage are very low, and this leads to a poor prognosis. The presence of circulating miRNAs (miRNAs) in blood or saliva is now a potential non-invasive diagnostic biomarker, although...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42573798",
+      "responseId": "resp_028bba52a78f0267006a7a24848ea8819aa697d4c849912f7e",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该卡片符合发布标准，信息分隔明确，无需人工审查。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类依据使用合理。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断之间的分隔清晰，证据水平合适。"
         },
         "riskFlags": [
           "insufficient_source"
         ],
         "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
           "evidenceLevel": "Medium",
           "themes": [
-            "AI for Biology",
-            "Drug Discovery"
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
           ],
           "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成"
+            "诊断",
+            "精准医疗",
+            "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 42572503。",
-          "report": "This Perspective explores recent methods and prospective ideas for developing hybrid AI-physics-based pipelines for protein and antibody de novo design. We argue that the highest-confidence candidates emerge where deep learning and first-principles models agree.",
-          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Acta neuropathologica，PMID 为 42573798。",
+          "report": "Pediatric central nervous system tumors remain a leading cause of cancer-related mortality in children, while their diagnosis, risk stratification, and therapeutic management increasingly depend on integrated molecular characterization. However, representative...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
       "signalId": "sec-0001110803-000119312526341332",
-      "responseId": "resp_03e7bc693d454567006a79d6a4efb481959b96cb676306177c",
+      "responseId": "resp_06e9ffd6879bd4be006a7a248a00dc819ba5a06f6a1e130e51",
       "review": {
         "status": "pass",
         "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "信息记录清晰，分离明确，符合发布标准。",
+        "reviewSummaryCn": "该条目符合中立的情报记录发布标准。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，符合所提供的元数据。"
+          "notesCn": "类别和证据水平合理，符合来源元数据。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告、推断分离清晰，证据水平合理。"
+          "notesCn": "事实、报告和推论清晰分开，支持性信息充足。"
         },
         "riskFlags": [
           "commercial_claim"
@@ -172,66 +338,866 @@
       }
     },
     {
-      "signalId": "pubmed-42572161",
-      "responseId": "resp_093fcfb0969cea1f006a79d6ab620481978c48b0653e16c365",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录清晰，未涉及未支持的临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断分开清晰。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Stem cells (Dayton, Ohio)，PMID 为 42572161。",
-          "report": "Organoid technology has emerged as a powerful platform for modeling human development, disease, and drug responses. Advances in stem cell biology and bioengineering have enabled the generation of increasingly sophisticated organoid systems that recapitulate key aspects of human biology.",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42572185",
-      "responseId": "resp_01e7615470a410c6006a79d6b4863881909f0b60ab2fbcb47d",
+      "signalId": "sec-0001110803-000111080326000168",
+      "responseId": "resp_04734920aa5db576006a7a248efca081998ca7d6ceb7a23759",
       "review": {
         "status": "pass",
         "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "文献条目基于高可靠性源，信息分类合理，存在的未知因素已被明确标识。",
+        "reviewSummaryCn": "该信号信息清晰且符合出版标准。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类及证据水平合理，符合提供的元数据。"
+          "notesCn": "分类合适且信息完整。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告、推断和未知因素均已合理分离。"
+          "notesCn": "来源信息与结论分开明确。"
+        },
+        "riskFlags": [
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Sequencing & Research Tools"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "ILMN"
+          ],
+          "fact": "SEC EDGAR lists accession 0001110803-26-000168 for Illumina, Form 8-K, filed on 2026-08-07.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001604821-000162828026054525",
+      "responseId": "resp_088df00ee2535db7006a7a249546c8819992a5ae50696cab7b",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "此记录符合中立发布标准。信息明确且真实。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论已清晰区分。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Precision Diagnostics"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "NTRA"
+          ],
+          "fact": "SEC EDGAR lists accession 0001628280-26-054525 for Natera, Form 10-Q, filed on 2026-08-07.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001770787-000162828026054491",
+      "responseId": "resp_0ffdcf93c5dda8bf006a7a249a26f8819aa2261b5db04cc21e",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信号符合发布标准，信息分离清晰。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合信息源的属性。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断之间的分隔清晰，证据水平合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Sequencing & Research Tools"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "TXG"
+          ],
+          "fact": "SEC EDGAR lists accession 0001628280-26-054491 for 10x Genomics, Form 10-Q, filed on 2026-08-07.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001652130-000119312526337952",
+      "responseId": "resp_0e40f0d15f6aa013006a7a24a95ec0819ab49ec13b89d91d60",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信息符合发布标准，内容清晰、准确。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合事实与报告的内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论明确分开，证据等级合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Gene Editing"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "NTLA"
+          ],
+          "fact": "SEC EDGAR lists accession 0001193125-26-337952 for Intellia Therapeutics, Form 10-Q, filed on 2026-08-06.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001801198-000117184326005318",
+      "responseId": "resp_0fb4e0e274fc4698006a7a24aea874819b87c4e6d5cfcf8bb5",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人力审核，尽管信息来源可靠，但证据水平判断不够高。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平评估为中等，但需要进一步验证以支持分类。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平不合理，需要校正。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Corporate Filings",
+            "Cell Therapy"
+          ],
+          "tags": [
+            "SEC",
+            "6-K",
+            "LEGN"
+          ],
+          "fact": "SEC EDGAR lists accession 0001171843-26-005318 for Legend Biotech, Form 6-K, filed on 2026-08-06.",
+          "report": "SEC metadata describes the primary document as: FORM 6-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001604821-000160482126000015",
+      "responseId": "resp_0957b8f1460e1d5c006a7a24b42bb8819bb8b5ee2c3fb871c6",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文件符合发布要求，无需人工审查。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论清晰分离，证据等级合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Precision Diagnostics"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "NTRA"
+          ],
+          "fact": "SEC EDGAR lists accession 0001604821-26-000015 for Natera, Form 8-K, filed on 2026-08-06.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001770787-000162828026054273",
+      "responseId": "resp_00ec0c5b39a1907c006a7a24b8f6e4819bb07d4748fe6906bb",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合出版标准，无需人工审查。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类及证据水平合理。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论已明确分离。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Sequencing & Research Tools"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "TXG"
+          ],
+          "fact": "SEC EDGAR lists accession 0001628280-26-054273 for 10x Genomics, Form 8-K, filed on 2026-08-06.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001434265-000143426526000108",
+      "responseId": "resp_04c20bda0827243f006a7a24bf5a9c819aae33983c1291b127",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信息符合发布标准，来源可靠，分类合理。无临床建议或未经验证的结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要分类和证据水平与所提供的元数据一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论明确分离，且证据水平合逻辑。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Antibody / ADC"
+          ],
+          "tags": [
+            "SEC",
+            "6-K",
+            "GMAB"
+          ],
+          "fact": "SEC EDGAR lists accession 0001434265-26-000108 for Genmab, Form 6-K, filed on 2026-08-06.",
+          "report": "SEC metadata describes the primary document as: 6-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001652130-000119312526336772",
+      "responseId": "resp_0dfc100a57aed2af006a7a24c4a1c8819ab88826ad99a859aa",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信息一致，适合发布。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分离清晰，证据等级合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Gene Editing"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "NTLA"
+          ],
+          "fact": "SEC EDGAR lists accession 0001193125-26-336772 for Intellia Therapeutics, Form 8-K, filed on 2026-08-06.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001601830-000160183026000098",
+      "responseId": "resp_01c084a0a6af3cf1006a7a24cb4d14819ba1b54ee0200026df",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "内容清晰并且信息来源可靠。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类和证据水平合理。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断清晰分开，可靠性高。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "AI Drug Discovery"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "RXRX"
+          ],
+          "fact": "SEC EDGAR lists accession 0001601830-26-000098 for Recursion Pharmaceuticals, Form 10-Q, filed on 2026-08-05.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001601830-000160183026000097",
+      "responseId": "resp_0fda97a928ded3d4006a7a24d04ea4819b88b6cc2b9c7d15ff",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "记录符合发表要求。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合源的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告及推论被清晰分开，证据水平合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "AI Drug Discovery"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "RXRX"
+          ],
+          "fact": "SEC EDGAR lists accession 0001601830-26-000097 for Recursion Pharmaceuticals, Form 8-K, filed on 2026-08-05.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001651308-000162828026052878",
+      "responseId": "resp_09cd0ab183242e93006a7a24d44ca8819a888f809896efc399",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号符合发布标准，信息分离明确，未包含医疗建议或结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合源数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分离明确，证据等级合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Antibody / ADC",
+            "Oncology"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "ONC"
+          ],
+          "fact": "SEC EDGAR lists accession 0001628280-26-052878 for BeOne Medicines, Form 10-Q, filed on 2026-08-05.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001651308-000162828026052877",
+      "responseId": "resp_00b7639f5a040d9d006a7a24d8b80c8199ab7559572848a698",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该条信号符合发布标准，信息来源可靠，内容中没有未支持的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合内容主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断已明确分开，证据级别合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Antibody / ADC",
+            "Oncology"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "ONC"
+          ],
+          "fact": "SEC EDGAR lists accession 0001628280-26-052877 for BeOne Medicines, Form 8-K, filed on 2026-08-05.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001655759-000162828026052554",
+      "responseId": "resp_0aa9f905e5098d6f006a7a24ddd0e481998170ba77846ece08",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "报告基于可靠的SEC文件，信息清晰且没有临床推论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平适中，信息分离明确"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Targeted Protein Degradation"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "ARVN"
+          ],
+          "fact": "SEC EDGAR lists accession 0001628280-26-052554 for Arvinas, Form 10-Q, filed on 2026-08-04.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001745999-000119312526331541",
+      "responseId": "resp_095e9ae432089ddc006a7a24e220688199bf84611b4cab0629",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "无需人工审核，信息准确且中立。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类与文件内容一致，合理。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断分隔清晰，证据水平适中。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Gene Editing"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "BEAM"
+          ],
+          "fact": "SEC EDGAR lists accession 0001193125-26-331541 for Beam Therapeutics, Form 10-Q, filed on 2026-08-04.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001745999-000119312526331522",
+      "responseId": "resp_0303dc8d804794f2006a7a24e7123081999c683d41396db8fd",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "报告符合出版要求，信息准确且无临床建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Gene Editing"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "BEAM"
+          ],
+          "fact": "SEC EDGAR lists accession 0001193125-26-331522 for Beam Therapeutics, Form 8-K, filed on 2026-08-04.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001655759-000162828026052139",
+      "responseId": "resp_0b0149204db908c3006a7a24ed8268819bb15b1d085b3bcf0c",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合出版标准，无需人类审查。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合来源和证据水平。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断都清晰区分。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Targeted Protein Degradation"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "ARVN"
+          ],
+          "fact": "SEC EDGAR lists accession 0001628280-26-052139 for Arvinas, Form 8-K, filed on 2026-08-04.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001674416-000119312526330672",
+      "responseId": "resp_0c592a4cdc592905006a7a24f2c5b8819aa0e74389b23ff22c",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "提交的信息符合中立的情报记录要求。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
         },
         "riskFlags": [
           "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Gene Editing"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "CRSP"
+          ],
+          "fact": "SEC EDGAR lists accession 0001193125-26-330672 for CRISPR Therapeutics, Form 10-Q, filed on 2026-08-03.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001674416-000119312526330644",
+      "responseId": "resp_029b9a8c19351999006a7a24f7dd00819984b0c9f0c8e7d0a3",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "此条目符合出版标准，无需人工审查。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理且支持的证据水平中等。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断已经清晰分隔。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Gene Editing"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "CRSP"
+          ],
+          "fact": "SEC EDGAR lists accession 0001193125-26-330644 for CRISPR Therapeutics, Form 8-K, filed on 2026-08-03.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001730463-000173046326000112",
+      "responseId": "resp_0036eb54ae93f209006a7a250027e08198910b1af84ddf29fd",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "内容合理，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Cell Therapy"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "AUTL"
+          ],
+          "fact": "SEC EDGAR lists accession 0001730463-26-000112 for Autolus Therapeutics, Form 8-K, filed on 2026-08-03.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001730463-000119312526329526",
+      "responseId": "resp_0119b9bb3fbb1477006a7a25064a10819898c4977aa0f5b887",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信息符合发布标准，无需人工审查。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类和证据水平合理。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分离明确，符合要求。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Cell Therapy"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "AUTL"
+          ],
+          "fact": "SEC EDGAR lists accession 0001193125-26-329526 for Autolus Therapeutics, Form 8-K, filed on 2026-08-03.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42571955",
+      "responseId": "resp_091079e60894a378006a7a250ac138819893368549c5db4f3d",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号符合发布标准，信息清晰且源可靠。没有涉及时效性、疗效或安全性的未经支持的声明。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，支持相关主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "信息来源可靠，文献引用适当，推断合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
         ],
         "suggestedEdits": {
           "primaryCategory": "Diagnostics & Precision Medicine",
@@ -240,40 +1206,164 @@
           "themes": [
             "Diagnostics",
             "Precision Medicine",
-            "Precision Oncology"
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology",
+            "Multi-omics"
           ],
           "tags": [
             "诊断",
             "精准医疗",
-            "肿瘤"
+            "临床",
+            "监管",
+            "肿瘤",
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Cancer medicine，PMID 为 42572185。",
-          "report": "Ovarian cancer (OC) remains a lethal gynecological malignancy with challenges in early diagnosis, treatment monitoring, and overcoming drug resistance. Liquid biopsy, a noninvasive approach analyzing tumor-derived components in bodily fluids, has emerged as a...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Cancer reports (Hoboken, N.J.)，PMID 为 42571955。",
+          "report": "miRNAs are short RNA transcripts that modulate gene expression after transcription and have emerged as pivotal regulators of cancer biology. A subset, termed oncomiRNAs, functions as oncogenes or tumor suppressors, influencing key cellular events such as cell...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42572603",
-      "responseId": "resp_0ad9528ed2df47b2006a79d6ba41e0819390439b585202d88b",
+      "signalId": "sec-0001110803-000111080326000160",
+      "responseId": "resp_07e183b8a39cd7d1006a7a2519285c81998fe6db529cf40ab0",
       "review": {
         "status": "pass",
-        "confidence": 0.9,
+        "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献符合中立的情报记录标准。所有信息都合理分离，无临床建议或未经支持的结论。",
+        "reviewSummaryCn": "该记录符合发布标准，没有不当结论。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合适，符合文献信息。"
+          "notesCn": ""
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论分离良好，证据水平合理。"
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Sequencing & Research Tools"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "ILMN"
+          ],
+          "fact": "SEC EDGAR lists accession 0001110803-26-000160 for Illumina, Form 10-Q, filed on 2026-07-31.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001682852-000168285226000150",
+      "responseId": "resp_010a108b65f7f5be006a7a251dabb881998dddc1ab560b0168",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "本次信号符合中立发布标准，信息分离清晰。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合信息内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断分明，证据水平合理。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "RNA Therapeutics"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "MRNA"
+          ],
+          "fact": "SEC EDGAR lists accession 0001682852-26-000150 for Moderna, Form 10-Q, filed on 2026-07-31.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001682852-000168285226000147",
+      "responseId": "resp_099c1ded0eea916b006a7a2521b6508199a8748c1ab6314c63",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合发布标准，信息清晰且中立。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "类别和证据水平合理，符合输出的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断之间区分明确，来源信息合理。"
+        },
+        "riskFlags": [
+          "corporate_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "RNA Therapeutics"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "MRNA"
+          ],
+          "fact": "SEC EDGAR lists accession 0001682852-26-000147 for Moderna, Form 8-K, filed on 2026-07-31.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42573925",
+      "responseId": "resp_037df7aef0ee474f006a7a25265980819992f65c73030f327c",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该研究记录清晰且中立，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类与文献内容相符。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断清晰区分，证据级别合理。"
         },
         "riskFlags": [
           "clinical_claim",
-          "regulatory_claim"
+          "research_report"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -281,16 +1371,1831 @@
           "evidenceLevel": "Medium",
           "themes": [
             "Organoids",
-            "Advanced Disease Models"
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Drug Screening"
           ],
           "tags": [
             "类器官",
-            "疾病模型"
+            "疾病模型",
+            "肿瘤",
+            "药筛"
           ],
-          "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42572603。",
-          "report": "Liver regeneration after hepatectomy is a challenge in patients with metabolic dysfunction-associated steatohepatitis (MASH), as well as small-for-size syndrome and ex vivo organogenesis. Endogenous lipid metabolites promoting liver regeneration are poorly understood.",
+          "fact": "PubMed 记录显示该文献收录于 Cellular oncology (Dordrecht, Netherlands)，PMID 为 42573925。",
+          "report": "Radioresistance remains a major obstacle in the treatment of non-small cell lung cancer (NSCLC). Transcription factor AP-2α (TFAP2A) has been implicated in tumor progression, but its role in NSCLC radioresistance and translational therapeutic relevance remain...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001576280-000157628026000037",
+      "responseId": "resp_030a0ef716266c59006a7a252bf32c819b949c8f46f2b68909",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信号符合发布标准，信息清晰且中立。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "类别和证据水平合理。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分开清晰。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Precision Diagnostics"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "GH"
+          ],
+          "fact": "SEC EDGAR lists accession 0001576280-26-000037 for Guardant Health, Form 10-Q, filed on 2026-07-30.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001576280-000157628026000036",
+      "responseId": "resp_0d975616df14c595006a7a2530fbf481989f2c793dab3122e6",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信号信息内部一致且中立，可以发布。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类与提供的元数据一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论已清晰分离，证明水平合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Precision Diagnostics"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "GH"
+          ],
+          "fact": "SEC EDGAR lists accession 0001576280-26-000036 for Guardant Health, Form 8-K, filed on 2026-07-30.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001110803-000111080326000155",
+      "responseId": "resp_020c43d1b509b0fa006a7a25378cb8819bb03b1990cc606d0d",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号记录合理且用语中立，符合发布要求。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类及证据水平合理，符合来源元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断明确分开，没有不当结论。"
+        },
+        "riskFlags": [
+          "commercial_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Sequencing & Research Tools"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "ILMN"
+          ],
+          "fact": "SEC EDGAR lists accession 0001110803-26-000155 for Illumina, Form 8-K, filed on 2026-07-30.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001717115-000119312526326090",
+      "responseId": "resp_06f76a6d4bf0ab62006a7a253c70d8819999b5abce7c428ea7",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号记录符合发布标准，信息清晰且分类合理。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Precision Diagnostics",
+            "Healthcare AI"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "TEM"
+          ],
+          "fact": "SEC EDGAR lists accession 0001193125-26-326090 for Tempus AI, Form 10-Q, filed on 2026-07-30.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001717115-000119312526326083",
+      "responseId": "resp_0e88caa7817ba5a5006a7a254153ac819b9db658bc371227f5",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "内容一致，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "类别和证据水平合理，符合已提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论清晰分离，没有安全性或有效性声明。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Precision Diagnostics",
+            "Healthcare AI"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "TEM"
+          ],
+          "fact": "SEC EDGAR lists accession 0001193125-26-326083 for Tempus AI, Form 8-K, filed on 2026-07-30.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001178670-000117867026000062",
+      "responseId": "resp_07a31e4a2861d2b8006a7a254636848198a53bb916546d9abe",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "此卡符合发布标准，无需人工审核。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合源元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论清晰分隔，证据水平合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "RNA Therapeutics"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "ALNY"
+          ],
+          "fact": "SEC EDGAR lists accession 0001178670-26-000062 for Alnylam Pharmaceuticals, Form 10-Q, filed on 2026-07-30.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001178670-000117867026000060",
+      "responseId": "resp_003c44c58909ac9e006a7a254c7e288198b24625f18645adcc",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "卡片内容一致，适合发布。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "RNA Therapeutics"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "ALNY"
+          ],
+          "fact": "SEC EDGAR lists accession 0001178670-26-000060 for Alnylam Pharmaceuticals, Form 8-K, filed on 2026-07-30.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0000874015-000087401526000251",
+      "responseId": "resp_04c26ffe772691ab006a7a2551effc819aad6859169344a3ec",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "此记录符合发布标准，内容严谨，没有临床建议。 ",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "类别和证据级别合理，支持材料充足。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分开明确，证据水平合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "RNA Therapeutics"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "IONS"
+          ],
+          "fact": "SEC EDGAR lists accession 0000874015-26-000251 for Ionis Pharmaceuticals, Form 10-Q, filed on 2026-07-29.",
+          "report": "SEC metadata describes the primary document as: IONIS PHARMACEUTICALS, INC. 10-Q 06-30-2026.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0000874015-000114036126029960",
+      "responseId": "resp_0cfd77ae68df8c2d006a7a255db7508198ad9960ff25b39ca8",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "此字段适合发布，没有临床建议或不支持的结论。 ",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合发布标准。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论清晰分开，证据水平适中。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "RNA Therapeutics"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "IONS"
+          ],
+          "fact": "SEC EDGAR lists accession 0001140361-26-029960 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-07-29.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001801198-000119312526316760",
+      "responseId": "resp_0727a77a2155fcdd006a7a25647ecc819882d34352df22a072",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号内容清晰，分类合理，可以发布。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类和证据水平合理。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告与推论区分明确。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Cell Therapy"
+          ],
+          "tags": [
+            "SEC",
+            "6-K",
+            "LEGN"
+          ],
+          "fact": "SEC EDGAR lists accession 0001193125-26-316760 for Legend Biotech, Form 6-K, filed on 2026-07-27.",
+          "report": "SEC metadata describes the primary document as: 6-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001717115-000119312526309073",
+      "responseId": "resp_0c420cb17b24aaf9006a7a256a062c8199996fd2a05d4d0155",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号清晰地展示了Tempus AI的Form 8-K文件的基本信息，没有不当临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，与源信息一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推理分开清晰，且证据级别合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Precision Diagnostics",
+            "Healthcare AI"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "TEM"
+          ],
+          "fact": "SEC EDGAR lists accession 0001193125-26-309073 for Tempus AI, Form 8-K, filed on 2026-07-20.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001717115-000119312526308469",
+      "responseId": "resp_02effdad1a2acad4006a7a256f01fc81998e404f6618d92093",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号符合发布标准，所有声明清晰分离。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Corporate Update",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Precision Diagnostics",
+            "Healthcare AI"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "TEM"
+          ],
+          "fact": "SEC EDGAR lists accession 0001193125-26-308469 for Tempus AI, Form 8-K, filed on 2026-07-20.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001801198-000117184326004649",
+      "responseId": "resp_07248f1d761618e6006a7a2575c4108199b8ee44d451e5af23",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "这条信号记录关于Legend Biotech提交的6-K表格，信息可信且没有不当临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主类别和子类别合理，符合提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论已经清晰分开，并且证据水平合适。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Cell Therapy"
+          ],
+          "tags": [
+            "SEC",
+            "6-K",
+            "LEGN"
+          ],
+          "fact": "SEC EDGAR lists accession 0001171843-26-004649 for Legend Biotech, Form 6-K, filed on 2026-07-15.",
+          "report": "SEC metadata describes the primary document as: FORM 6-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001434265-000143426526000102",
+      "responseId": "resp_04d16cf455d52f12006a7a257a7b5c81989f2e2ec411902476",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "本记录符合出版标准，内容清晰明了，未包含不当临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合信号内容"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断已清晰分离，证据水平合理"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Antibody / ADC"
+          ],
+          "tags": [
+            "SEC",
+            "6-K",
+            "GMAB"
+          ],
+          "fact": "SEC EDGAR lists accession 0001434265-26-000102 for Genmab, Form 6-K, filed on 2026-07-15.",
+          "report": "SEC metadata describes the primary document as: 6-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0000874015-000114036126028154",
+      "responseId": "resp_0ed686145d91a938006a7a2580d0848198827d96e3946df649",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号符合出版标准，内容内部一致且中立。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "RNA Therapeutics"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "IONS"
+          ],
+          "fact": "SEC EDGAR lists accession 0001140361-26-028154 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-07-10.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001549595-000154959526000040",
+      "responseId": "resp_01c5d07403c7e945006a7a258b9b3c819abe339650ca4b3bec",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信息符合发布标准，未涉及临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理且符合来源元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断已清晰分开。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Targeted Protein Degradation"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "NRIX"
+          ],
+          "fact": "SEC EDGAR lists accession 0001549595-26-000040 for Nurix Therapeutics, Form 10-Q, filed on 2026-07-09.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001549595-000154959526000038",
+      "responseId": "resp_0b08fe52632c7991006a7a2591e824819882f1f11ac9cdba02",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "根据SEC EDGAR的文件，Nurix Therapeutics提交了Form 8-K，没有提供有效性或安全性结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理并与源数据一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断之间的分离清晰，证据水平合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Targeted Protein Degradation"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "NRIX"
+          ],
+          "fact": "SEC EDGAR lists accession 0001549595-26-000038 for Nurix Therapeutics, Form 8-K, filed on 2026-07-09.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0000874015-000114036126028092",
+      "responseId": "resp_04e189f2525b294c006a7a25990f088198b47ccaf509b475b3",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信息已审核，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，基于提交的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断明确分离，证据水平合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "RNA Therapeutics"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "IONS"
+          ],
+          "fact": "SEC EDGAR lists accession 0001140361-26-028092 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-07-09.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001682852-000168285226000134",
+      "responseId": "resp_0d4dc6c16257059d006a7a259d752481999ec63fabe05f8ef8",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号符合出版标准，信息清晰且中立。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合文件内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断已明确分开，证据水平合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "RNA Therapeutics"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "MRNA"
+          ],
+          "fact": "SEC EDGAR lists accession 0001682852-26-000134 for Moderna, Form 8-K, filed on 2026-07-08.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "sec-0001604821-000160482126000005",
+      "responseId": "resp_066af79a65bbddc2006a7a25a1b8c88198a97adff6bfcc0b5f",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "内容准确且符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "类别和证据水平合理。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断清晰分隔。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Precision Diagnostics"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "NTRA"
+          ],
+          "fact": "SEC EDGAR lists accession 0001604821-26-000005 for Natera, Form 8-K, filed on 2026-07-06.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT05822362",
+      "responseId": "resp_0df92f83e29974ed006a7a25a5cd08819b8beee5f4eb573c1a",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "报告未充分支持临床疗效和安全性，需进一步审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类与证据级别之间不一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据级别为中等，但仍需更多支持性信息。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Clinical Trials",
+            "Longevity",
+            "Biomarkers",
+            "Recruiting"
+          ],
+          "tags": [
+            "临床试验",
+            "衰老",
+            "biomarker"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT05822362 with status RECRUITING, phase PHASE2, enrollment 236, lead sponsor University of Colorado, Denver, countries United States.",
+          "report": "This is a double-blind, randomized controlled trial designed to test the effects of cannabidiol (CBD) on validated biomarkers of Alzheimer's disease (AD) progression, and behavioral, neurocognitive, and clinical measures, with putative mechanisms of action.",
+          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
+          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT07611279",
+      "responseId": "resp_039b373725ee94fc006a7a25acf9d0819ba6f8c3fe2c18ccbc",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "登记记录存在不足，需人工审核以验证细节。 ",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类支持不足，证据水平与数据不符。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平被判断为中等，缺乏强有力的支持。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Clinical Trials",
+            "Healthcare AI",
+            "Medical AI",
+            "Recruiting"
+          ],
+          "tags": [
+            "临床试验",
+            "医疗 AI",
+            "临床决策支持"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT07611279 with status NOT_YET_RECRUITING, phase NA, enrollment 123, lead sponsor Cairo University, countries N/A.",
+          "report": "The aim of this study is to develop and evaluate an artificial intelligence-based model capable of analyzing periapical radiographs of maxillary and mandibular molars to predict the difficulty level of non-surgical root canal retreatment. By integrating deep learn...",
+          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Healthcare AI, Medical AI。登记状态和设计字段不能直接证明疗效或安全性。",
+          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT04820179",
+      "responseId": "resp_0970b00f69cc0c48006a7a25b29d188198b7ddb91c47323fb7",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查以评估安全性和疗效的声明。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "类别和证据水平合理。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论已经分开。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Clinical Trials",
+            "Organoids",
+            "Advanced Disease Models",
+            "Oncology",
+            "Precision Oncology",
+            "Recruiting"
+          ],
+          "tags": [
+            "临床试验",
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT04820179 with status ACTIVE_NOT_RECRUITING, phase PHASE2, enrollment 30, lead sponsor University of Arizona, countries United States.",
+          "report": "Pancreatic cancer is one of the leading causes of cancer deaths in the United States with limited treatment options, especially for those patients with metastatic disease. Combination treatment with cabozantinib and atezolizumab, has demonstrated safety for th...",
+          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Organoids, Advanced Disease Models。登记状态和设计字段不能直接证明疗效或安全性。",
+          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT06227780",
+      "responseId": "resp_017b914882ee55e0006a7a25ba2360819baa57eb1caebcc06e",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审核，登记记录未覆盖所有关键质量因素。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平过低且类别设定不够强。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "登记记录的证据水平为中等，但未能支持足够的结论。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Clinical Trials",
+            "Recruiting"
+          ],
+          "tags": [
+            "临床试验"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT06227780 with status RECRUITING, phase NA, enrollment 180, lead sponsor Children's Hospital Medical Center, Cincinnati, countries United States.",
+          "report": "Fragile X Syndrome (FXS) is a complex neurodevelopmental disorder caused by a mutation on the X chromosome. Scientists have investigated FXS extensively in both humans and animals. Thus far, phenotypic rescue in animal models has not resulted in treatment breakthroughs in human subjects.",
+          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
+          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量十分不足。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT06705686",
+      "responseId": "resp_05b8ee7ac8f75e6d006a7a25c03b08819b9a0be0d69b69b83e",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查以纠正有效性和安全性结论的支持不足。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据级别不足以支持有效性和安全性的推断。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据级别与所报告的内容不一致。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Clinical Trials",
+            "Organoids",
+            "Advanced Disease Models",
+            "Oncology",
+            "Precision Oncology",
+            "Recruiting"
+          ],
+          "tags": [
+            "临床试验",
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT06705686 with status RECRUITING, phase PHASE1, enrollment 40, lead sponsor TechnoGenesys, Inc., countries United States.",
+          "report": "TITLE: Phase 1 First in Human Trial to Assess Safety and Tolerability of the Novel ACK1 Inhibitor (R)-9bMS in Patients with Prostate Cancer (PHAROS) STUDY DESCRIPTION: Prostate cancer (PC) patients receive androgen deprivation therapy (ADT), but recalcitrant d...",
+          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Organoids, Advanced Disease Models。登记状态和设计字段不能直接证明疗效或安全性。",
+          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT07428954",
+      "responseId": "resp_01142d23eb7982f8006a7a25c994d08198a7c6d82dffbec00d",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该临床试验记录在报道效能和安全性方面不明确，缺乏结果和监管影响的详细信息。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类和证据水平需要重新审查以确保合理性。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "信息的分离不够清晰，可能导致误解。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Clinical Trials",
+            "Healthcare AI",
+            "Medical AI",
+            "Oncology",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "临床试验",
+            "医疗 AI",
+            "临床决策支持",
+            "肿瘤"
+          ],
+          "fact": "NCT07428954 in ClinicalTrials.gov is marked as COMPLETED with 16 enrollments.",
+          "report": "This study aims to assess AI's ability to enhance skin condition identification.",
+          "inference": "当前的推断未能明确区分各项信息。",
+          "unknown": "缺乏足够的结果验证和监管影响分析。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT04469556",
+      "responseId": "resp_0e53c15918c775d2006a7a25ceab48819aa4d1ebff961c02d9",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该临床试验记录存在不足，需人工审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类存在不一致性，证据水平过低。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "虽然事实和报告清晰分离，但证据水平不够高，需补充信息。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Clinical Trials",
+            "Organoids",
+            "Oncology"
+          ],
+          "tags": [
+            "Clinical Trials",
+            "Organoids"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT04469556 with status COMPLETED, phase PHASE2, enrollment 150, lead sponsor University Health Network, Toronto, countries United States, Canada.",
+          "report": "This is a randomized multicentre phase II trial with a large translational component.",
+          "inference": "试验设计字段的潜在问题需进一步审查。",
+          "unknown": "需确认样本量和结果质量等相关信息。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT05599490",
+      "responseId": "resp_0c0284bac6d37dbc006a7a25d4aff0819a94d39e9f6c5cc707",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该临床试验记录存在潜在的安全性或疗效推断问题，需进一步审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类支持不足，需要进一步评估。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平标记为中等，但临床效果和安全性的直接证据需要进一步澄清。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Clinical Trials",
+            "Longevity",
+            "Biomarkers"
+          ],
+          "tags": [
+            "临床试验",
+            "衰老",
+            "biomarker"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT05599490 with status COMPLETED, phase NA, enrollment 135, lead sponsor Posit Science Corporation, countries United States.",
+          "report": "This study aims to examine the longer-term benefits of a novel, neuroplasticity-based, computerized and web-deliverable training program (PACR-CT) five years from the initial 10 weeks of training from our Phase II study - Protocol #: PSC-0605-17 (Aim 1) and te...",
+          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
+          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT01472094",
+      "responseId": "resp_03c32cbe75352cd6006a7a25dbb1a8819ab4c83089bf9e595f",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该研究的目标陈述中存在潜在的临床结论，需人工审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "主类别和证据水平需进一步验证以匹配供给的信号。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "当前证据水平不足以支持研究的目标和结论。"
+        },
+        "riskFlags": [
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Clinical Trials",
+            "Oncology",
+            "Precision Oncology",
+            "Recruiting"
+          ],
+          "tags": [
+            "临床试验",
+            "肿瘤",
+            "乳腺癌"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT01472094 with status ACTIVE_NOT_RECRUITING, phase N/A, enrollment 700, lead sponsor City of Hope Medical Center, countries United States.",
+          "report": "The goal of this study is to develop a \"bedside to bench\" model of clinical and biological predictors for toxicity to adjuvant and neoadjuvant chemotherapy in older adults with breast cancer.",
+          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
+          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT06429059",
+      "responseId": "resp_05f16f7d615f0c7d006a7a25e87bf481989c5c475107b918ed",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "临床试验信息缺乏足够的支持以验证结论，需要人类评审。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平为中等，但临床试验的详情不足以支持分类的有效性。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "尽管事实、报告和推断已分离，但证据水平不足以支持所作的推断，特别是在结论方面。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "tags": [
+            "临床试验"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT06429059 with status COMPLETED, phase PHASE2, enrollment 50, lead sponsor Duke University, countries United States.",
+          "report": "GenieUs developed an analysis platform that will be tested to separate study participants with ALS into four categories based on blood work. These general categories are neuroinflammation, oxidative stress, impaired autophagy & axonal transport, and mitochond...",
+          "inference": "The study's conclusions about efficacy or safety are not substantiated by the available data.",
+          "unknown": "Evidence regarding protocol changes, result quality, sample size sufficiency, endpoint quality, or regulatory impact is not covered."
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT07164586",
+      "responseId": "resp_0da56c4e659288a4006a7a25f2bcd8819b96198d1de097a51f",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查，内容包含未证实的疗效或安全性结论。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "主要类别和子类别不够明确，证据等级应更高。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平被标记为中等，但未能支持实体声称的相关性。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Clinical Trials",
+            "Diagnostics",
+            "Healthcare AI"
+          ],
+          "tags": [
+            "临床试验",
+            "诊断",
+            "医疗 AI"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT07164586 with status ACTIVE_NOT_RECRUITING, phase N/A, enrollment 300, lead sponsor University of Pernambuco, countries Brazil.",
+          "report": "Introduction: The monitoring of respiratory patterns is crucial in the management of respiratory diseases, but in many cases, it still relies on subjective and visual assessment. The use of healthcare technologies based on artificial intelligence (AI) can, in...",
+          "inference": "临床试验描述未能清晰区分临床数据与推论。",
+          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT07053488",
+      "responseId": "resp_05969e4b380ee1c5006a7a25f8866881998c5a719cc4d6f64a",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "此临床试验卡片需要人类评审，因涉及到疗效和安全性的判断以及监管影响未充分说明。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平中等，但缺乏足够细节以支持有效性和安全性结论。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "虽然登记的事实、报告和推论相对清晰，但证据水平的支撑不足。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Clinical Trials",
+            "Gene Therapy",
+            "Genetic Medicine",
+            "Oncology",
+            "Precision Oncology",
+            "Recruiting"
+          ],
+          "tags": [
+            "临床试验",
+            "基因治疗",
+            "基因编辑",
+            "肿瘤",
+            "中国"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT07053488 with status RECRUITING, phase PHASE1, PHASE2, enrollment 90, lead sponsor AMERICAN ORGAN TRANSPLANT AND CANCER RESEARCH INSTITUTE LLC, countries China.",
+          "report": "This early-phase clinical trial will assess the use of ex vivo CRISPR-Cas9 genome editing on donor liver grafts to reduce immunogenicity before transplantation.",
+          "inference": "注册状态和设计字段不能直接证明疗效或安全性。",
+          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT04981366",
+      "responseId": "resp_072e837493e21709006a7a2601b8e4819ba7b1d9008f2359a4",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要审查，报告可能包含不支持的临床结论。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "类别与证据水平不一致，可能引发误解。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "虽然事实和报告已分开，但证据水平未得到支持。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Clinical Trials",
+            "Longevity",
+            "Biomarkers"
+          ],
+          "tags": [
+            "临床试验",
+            "衰老",
+            "biomarker"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT04981366 with status COMPLETED, phase NA, enrollment 105, lead sponsor University of Sao Paulo General Hospital, countries Brazil.",
+          "report": "This study aims to investigate if protein supplementation increases the benefits of exercise training in the elderly with sarcopenic obesity undergoing caloric restriction.",
+          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，但需避免推断疗效或安全性。",
+          "unknown": "缺少对结果质量的详细核查和监管影响的具体分析。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT06795880",
+      "responseId": "resp_0c8e17d00709f381006a7a260824f4819a8b5a9f2d242f5654",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人类审查以确认结果质量和样本量的充分性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平和类别的合理性存在疑问。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "临床试验的设计未能提供足够的证据支持其临床结论。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Clinical Trials",
+            "Healthcare AI",
+            "Medical AI",
+            "Recruiting"
+          ],
+          "tags": [
+            "临床试验",
+            "医疗 AI",
+            "临床决策支持"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT06795880 with status ACTIVE_NOT_RECRUITING, phase N/A, enrollment 400, lead sponsor Kocaeli City Hospital, countries Turkey (Türkiye).",
+          "report": "An artificial intelligence-based analysis will be performed using retrospective data of patients treated in adult intensive care units due to COVID-19. The dataset will include various parameters such as demographic information, laboratory results, vital signs...",
+          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Healthcare AI, Medical AI。登记状态和设计字段不能直接证明疗效或安全性。",
+          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT06508242",
+      "responseId": "resp_000fe453b36b4dc9006a7a260d56d48198b6741f7028074dfa",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审核，因不确定的报告和缺乏关键结果信息。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类支持不足，缺乏充分的研究结果信息。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平不足，未覆盖关键研究质量指标。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "tags": [
+            "临床试验"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT06508242 with status UNKNOWN, phase PHASE4, enrollment 80, lead sponsor Fondazione Policlinico Universitario Campus Bio-Medico, countries Italy.",
+          "report": "Obesity has emerged as a risk factor in the onset of bone, muscle and adipose tissue impairments that are further aggravated by vitamin D deficiency. A link of an active bone-muscle-adipose axis is represented by Wnt pathway. This study will test the hypothesi...",
+          "inference": "当前登记状态和报告内容未提供足够的分数支持，总体证据水平被认为低。",
+          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT04312360",
+      "responseId": "resp_0a95707795d6a0ab006a7a26138d6481999a93554435c7e2bd",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "登记记录未覆盖结果质量判断和终点质量，需人工审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "类别和证据水平不合理，需评估结果质量和终点质量。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "事实、报告和推断没有明确分离，证据水平不合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Clinical Trials",
+            "Oncology",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "临床试验",
+            "肿瘤"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT04312360 with status COMPLETED, phase PHASE2, enrollment 28, lead sponsor Zealand University Hospital, countries Denmark.",
+          "report": "Clinical studies have shown that patients with right-sided colon cancer have reduced progression-free and overall survival compared to patients with left-sided colon cancer. At the same time, patients with right-sided colon adenomas have a higher risk of development.",
+          "inference": "需要进一步的结果和终点质量检查，以支持结论的有效性。",
+          "unknown": "缺乏方案变化核验、结果质量判断、样本量充分性及监管影响的明确说明。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT05813041",
+      "responseId": "resp_09ce0c33cc18cdcd006a7a2618c0f881998e117d12d9c89986",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "临床试验注册信息存在一定不足，需要人为审核。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类和证据水平存在不一致性。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平仅为中等，不足以支持相关结论。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Clinical Trials",
+            "Diagnostics",
+            "Precision Medicine"
+          ],
+          "tags": [
+            "临床试验",
+            "诊断",
+            "精准医疗"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT05813041 with status UNKNOWN, phase NA, enrollment 18, lead sponsor BioCaptiva Ltd., countries N/A.",
+          "report": "Liquid biopsy is a new field in medicine where doctors can look at small molecules in our blood, called DNA, that carry the genetic material that makes us who we are. In some illnesses this DNA starts behaving abnormally, meaning that these illnesses can be id...",
+          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Diagnostics, Precision Medicine。登记状态和设计字段不能直接证明疗效或安全性。",
+          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT00062010",
+      "responseId": "resp_09194a45f3111e40006a7a261fc17c81998248f00deeb42b28",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "登记记录有限，缺乏结果质量和样本量的验证。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "类别与证据水平支持度不足。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "虽然报告了登记信息，但未充分支持疗效或安全声称。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Clinical Trials",
+            "Oncology",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "临床试验",
+            "肿瘤"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT00062010 with status COMPLETED, phase PHASE2, enrollment 37, lead sponsor Eastern Cooperative Oncology Group, countries United States.",
+          "report": "RATIONALE: Drugs used in chemotherapy, such as paclitaxel, work in different ways to stop tumor cells from dividing so they stop growing or die. Some tumors become resistant to chemotherapy drugs. Giving interferon alfa and isotretinoin together with paclitaxe...",
+          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
+          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT05832398",
+      "responseId": "resp_08674d1c7f517118006a7a262618ac8198837b2c213074f766",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号涉及对化疗的疗效假设，但缺乏对相关试验和结果的充分说明。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类合理性存疑，需提供更多具体数据以支持结论。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "虽然事实与报告区分清晰，但缺乏足够证据支持疗效声称。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Clinical Trials",
+            "Organoids",
+            "Advanced Disease Models",
+            "Oncology",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "临床试验",
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "中国"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT05832398 with status UNKNOWN, phase NA, enrollment 186, lead sponsor Nanfang Hospital, Southern Medical University, countries China.",
+          "report": "The purpose of this study is to investigate whether chemotherapy guided by patient-derived tumor organoid drug test can improve the outcomes of stage IV colorectal cancer.",
+          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Organoids, Advanced Disease Models。登记状态和设计字段不能直接证明疗效或安全性。",
+          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT00199797",
+      "responseId": "resp_0188d2237df3e12d006a7a262bf460819896bddfdc6fbe9796",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查以确认结论的适当性和源信息的完整性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "类别与提供的元数据不完全匹配，可能误导读者。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "报告和推断之间的界限不明确，缺乏对效力和安全性的支持性说明。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "High",
+          "themes": [
+            "Clinical Trials",
+            "Oncology",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "临床试验",
+            "肿瘤"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT00199797 with status COMPLETED, phase PHASE1, enrollment 20, lead sponsor Ludwig Institute for Cancer Research, countries Germany, Switzerland.",
+          "report": "Although treatment for metastatic colorectal cancer has improved significantly over the recent years, it still remains a significant health problem representing the leading cancer by incidence in the United States of America.",
+          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
+          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT00928018",
+      "responseId": "resp_0b039a034e14e293006a7a2631bb5c819a82d140e1fa24ac45",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "注册记录中的报告暗示了疗效，但没有充分的证据支持。需人工审核。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类与证据等级合理。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "报告暗示疗效，需要更明确的信息分隔。"
+        },
+        "riskFlags": [
+          "medical_advice_risk",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "High",
+          "themes": [
+            "Clinical Trials",
+            "Cell Therapy",
+            "Oncology",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "临床试验",
+            "细胞治疗",
+            "肿瘤"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT00928018 with status COMPLETED, phase PHASE3, enrollment 139, lead sponsor Dana-Farber Cancer Institute, countries United States.",
+          "report": "This trial compares sirolimus for GVHD prevention against standard regimens but should clarify that outcomes are not yet verified.",
+          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，需清晰分离不同信息。",
+          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT01053741",
+      "responseId": "resp_0e80f12b96a888cc006a7a2637b8e48199bb9f31e079d41b81",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需人工审查以判断是否有误导性结论。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "主要类别合适，但需要检视内容的可靠性和支持水平。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "尽管事实、报告和推论分开，证据级别支持性不足。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "tags": [
+            "临床试验"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT01053741 with status COMPLETED, phase NA, enrollment 11, lead sponsor Johns Hopkins University, countries United States.",
+          "report": "This research is being done to learn how seminal fluid affects the lining of the colon, and whether this might make it easier for HIV to get into the body and cause infection.",
+          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
+          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT00063960",
+      "responseId": "resp_07a6d9c6c3891356006a7a263df0b0819bb2426479926a97e5",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "登记信息不包含足够的结果质量和监管影响的验证，需人类判断。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平和分类存在不确定性，需要进一步验证。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "登记数据未充分支持疗效或安全性声明，且未能清晰分离事实、报告和推论。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Clinical Trials",
+            "Oncology",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "临床试验",
+            "肿瘤"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT00063960 with status COMPLETED, phase PHASE2, enrollment 94, lead sponsor Alliance for Clinical Trials in Oncology, countries United States.",
+          "report": "RATIONALE: Drugs used in chemotherapy such as floxuridine and irinotecan use different ways to stop tumor cells from dividing so they stop growing or die. Hepatic arterial infusion uses a catheter to deliver chemotherapy directly to the liver. Combining more t...",
+          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
+          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "signalId": "clinicaltrials-NCT01500746",
+      "responseId": "resp_06ad6fa8b6beecc9006a7a2648dca4819885ec2f3a5985ed03",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人类审核以确认无效或安全性声明。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类支持不足，缺乏对疗效或安全性的直接说明。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "尽管证据水平合理，但报告缺乏关于疗效的支持性数据。"
+        },
+        "riskFlags": [
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Trials",
+          "evidenceLevel": "High",
+          "themes": [
+            "Clinical Trials"
+          ],
+          "tags": [
+            "临床试验"
+          ],
+          "fact": "ClinicalTrials.gov lists NCT01500746 with status COMPLETED, phase NA, enrollment 8, lead sponsor Northwestern University, countries United States.",
+          "report": "This study evaluates the effectiveness of pulse lavage therapy in decreasing bacterial counts in chronic wounds.",
+          "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
+          "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
         }
       }
     }

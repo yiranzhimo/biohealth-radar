@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-10T13:47:47.448880+00:00",
+  "capturedAt": "2026-08-10T19:19:30.405051+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-10"
   },
   "pmids": [
-    "42572869",
-    "42572603",
-    "42572505",
-    "42572161",
-    "42571947",
-    "42571847",
+    "42574050",
+    "42574049",
+    "42573967",
+    "42573925",
+    "42573494",
+    "42573242",
     "42559559",
     "42509463",
     "42498177",
@@ -32,122 +32,117 @@
     "42561121",
     "42560913",
     "42560034",
+    "42573888",
+    "42573798",
     "42572185",
     "42571955",
     "42571422",
-    "42570628",
-    "42570519",
-    "42551938"
+    "42570628"
   ],
   "records": [
     {
-      "pmid": "42572869",
-      "title": "Investigating cannabidiol rescue of stress-induced cognitive impairment and metabolism-driven safety in Human-on-a-Chip® models.",
-      "abstract": "This manuscript combined two studies that assessed the effects of cannabidiol (CBD) exposure in distinct organ-on-a-chip models. Hesperos, Inc.'s Human-on-a-Chip® (HoaC) technology utilizes custom-designed human-based, serum-free, and pumpless microphysiological systems (MPS). The first study, study 1, assessed the level of off-target toxicity for CBD and its associated metabolites, 7-carboxy cannabidiol and 7-hydroxy cannabidiol, using a multi-organ heart-liver system. In study 1, CBD was delivered to systems with and without the inclusion of a liver organ module to evaluate metabolic contributions to corresponding cardiac toxicity. The results suggested that metabolism of the parent compound into its metabolites resulted in significant effects when compared to exposure to the parent compound only. Interestingly, significant distinctions in cardiac function, such as beat frequency and contractile force, were detected even though no significant cytotoxic effects were noted. The second study, study 2, utilized the same HoaC technology and employed a central nervous system (CNS) model using human induced-pluripotent stem cell derived cortical neurons. This model assessed CBD efficacy in alleviating stress-induced neural dysfunction in a single-organ model of the CNS, mimicking neuromodulation through a CBD administration route that does not involve first-pass metabolism. The results indicated a concentration-dependent rescue of CBD on cortisol-induced deficits in long-term potentiation (LTP) in this model, which was mirrored by associated changes in anandamide levels. Overall, these studies highlight the potential of human-based in vitro systems to evaluate drug toxicity and efficacy profiles specific to target mechanisms for toxicity and efficacy.",
-      "journal": "Lab on a chip",
+      "pmid": "42574050",
+      "title": "DNMT3B plays antagonistic roles with SMARCB1 and is a targetable vulnerability in rhabdoid tumors.",
+      "abstract": "Rhabdoid tumors (RTs) are highly aggressive pediatric cancers driven by the biallelic inactivation of the SMARCB1 tumor suppressor gene, the sole recurrent genetic alteration. SMARCB1 encodes a core subunit of the SWI/SNF chromatin remodeling complex; its loss disrupts epigenetic gene regulation, supporting the classification of RTs as prototypical epigenetically driven cancers and highlighting the therapeutic potential of targeting epigenetic modifiers. Notably, previous studies have reported the overexpression of DNMT3A and DNMT3B, enzymes responsible for de novo DNA methylation, in RTs. Using patient samples, cell lines, and an ex vivo brain organoid system, combined with immunohistochemistry and bioinformatics, we investigated the role of DNMT3 enzymes in RT progression. In a composite tumor case, SMARCB1-deficient and -proficient regions displayed distinct methylation profiles. SMARCB1 loss correlated with increased DNA methylation and DNMT3A/B overexpression. To assess their respective roles in RTs, we used CRISPR-Cas9 to knock out DNMT3A/B in a SMARCB1-inducible RT cell line. DNMT3B loss impaired viability more strongly than DNMT3A. DNMT3B knock-out and SMARCB1 re-expression regulated overlapping gene programs related to development and cell adhesion at methylation and transcriptional levels. We next demonstrated that the cytotoxicity of the DNMT inhibitor decitabine, which impairs RT cell growth in human iPS-derived cerebral organoids, is primarily mediated by DNMT3B. These results show that DNMT3B plays a key role in the cascade of epigenetic effects following SMARCB1 loss and is pivotal in the RT sensitivity to decitabine; our study therefore supports the development of DNMT3B-specific inhibitors for RT.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "BAT, Regents Park Road, Millbrook, Southampton, SO15 8TL, UK.",
-        "Hesperos, Inc., 12501 Research Parkway, Suite 100, Orlando, FL 32826, USA. jhickman@hesperosinc.com."
+        "Institut Curie Paris France.",
+        "Institut Curie France.",
+        "Institut Curie Paris, France France.",
+        "Hôpital Necker-Enfants Malades Paris France.",
+        "Sorbonne Université Paris France.",
+        "Centre Hospitalier Sainte-Anne France."
       ],
-      "doi": "10.1039/d6lc00226a",
+      "doi": "10.1158/1078-0432.CCR-25-3915",
       "date": "2026-08-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42572869/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42574050/"
     },
     {
-      "pmid": "42572603",
-      "title": "Endogenous phosphatidylcholine 16:0/20:4 increases to promote liver regeneration in hepatectomy.",
-      "abstract": "Liver regeneration after hepatectomy is a challenge in patients with metabolic dysfunction-associated steatohepatitis (MASH), as well as small-for-size syndrome and ex vivo organogenesis. Endogenous lipid metabolites promoting liver regeneration are poorly understood. A 70% partial hepatectomy (PHx) was performed in mice with healthy and MASH liver. Biomarkers promoting liver regeneration were explored using hepatic lipidomics followed by structural identification. The functional validation was performed in in vivo and in vitro models. Liver regeneration post-PHx peaked earlier in the MASH liver than that in the healthy liver. Phosphatidylcholine (PC) (16:0/20:4) increased in both MASH liver and non-MASH liver, and it promoted the proliferation of Hepa 1-6, Huh-7, human liver organoids, and mouse PHx models. In patients with metabolic dysfunction-associated steatotic liver disease (MASLD) and those undergoing hepatectomy, the serum PC (16:0/20:4) also increased, supporting the findings in this work. PC (16:0/20:4) is an endogenous lipid biomarker promoting liver regeneration which increased during hepatectomy in healthy and MASH liver.",
-      "journal": "iScience",
+      "pmid": "42574049",
+      "title": "Correction to \"4D Biofabrication of Magnetically Augmented Callus Assembloid Implants Enables Rapid Endochondral Ossification via Activation of Mechanosensitive Pathways\".",
+      "abstract": "",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
       "publicationTypes": [
-        "Journal Article"
+        "Published Erratum"
       ],
-      "affiliations": [
-        "Department of Hepatopancreatobiliary Surgery, the Affiliated Lihuili Hospital of Ningbo University, Ningbo 315040, China.",
-        "School of Pharmacy, Health Science Centre, Ningbo University, Ningbo 315211, China.",
-        "Department of Hepatobiliary and Pancreatic Surgery, First Hospital of Jiaxing, Affiliated Hospital of Jiaxing University, Jiaxing 314000, China.",
-        "Institute of Drug Discovery Technology, Ningbo University, Ningbo 315211, China.",
-        "School of Public Health, Ningbo University Health Science Center, Ningbo 315211, China.",
-        "Department of Pharmacology and Toxicology, Rutgers University, Piscataway 08854 NJ, USA."
-      ],
-      "doi": "10.1016/j.isci.2026.116962",
-      "date": "2026-07-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42572603/"
-    },
-    {
-      "pmid": "42572505",
-      "title": "A PD1-CD137L Fusion Protein More Potently Enhances Anti-Tumour Immune Responses Than Targeting PD-L1 and CD137 Separately.",
-      "abstract": "Tumour immune evasion frequently involves PD-L1-mediated inhibition of T cell activity, limiting the efficacy of PD1/PD-L1 blockade, particularly in PD-L1-low or immunologically 'cold' tumours. To overcome this limitation, we developed a dual targeting human PD1-CD137L (hPD1-CD137L) fusion protein that blocks PD-L1-PD1 inhibitory signalling and simultaneously delivers CD137-mediated T cell costimulation. The fusion protein was produced with high purity and demonstrated specific binding to PD-L1-expressing tumour cells and CD137-positive T cells. The hPD1-CD137L retained a stable multimeric structure under acidic conditions and during prolonged storage, supporting its suitability for systemic administration and activity within the tumour microenvironment. Functionally, hPD1-CD137L enhanced T cell activation, as evidenced by increased NF-κB signalling and activation marker expression, and promoted robust tumour cell cytolysis in both 2D and 3D co-culture systems. Anti-tumour activity was observed across multiple tumour models with varying PD-L1 expression, including nasopharyngeal carcinoma (NPC), rhabdomyosarcoma, lung carcinoma and patient-derived colorectal cancer organoids. Notably, hPD1-CD137L enhanced cytolysis of C666 NPC cells by patient-derived tumour-infiltrating lymphocytes at low effector-to-target ratios, and was more potent than a combination of an anti-PD-1 antibody and a CD137 agonist. In vivo, PBMC-humanised NSG mice tolerated hPD1-CD137L without significant weight loss, systemic inflammation or survival impact. Subsequent efficacy study in PBMC-humanised, Rd18 rhabdomyosarcoma-engrafted or C666 nasopharyngeal carcinoma-engrafted NSG mice showed tumour growth suppression without overt toxicity. This study validates a human PD1-CD137L fusion protein as a potent drug candidate for cancer immunotherapy.",
-      "journal": "Immunology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Physiology, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore.",
-        "NUS Immunology Programme, Life Sciences Institute, National University of Singapore, Singapore, Singapore.",
-        "NUSMED Immunology Translational Research Programme, National University of Singapore, Singapore, Singapore.",
-        "Integrative Sciences and Engineering Programme, National University of Singapore, Singapore, Singapore.",
-        "Department of Microbiology and Immunology, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore.",
-        "Department of Pharmacy, Faculty of Science, National University of Singapore, Singapore, Singapore.",
-        "Department of Otorhinolaryngology-Head and Neck Surgery, Singapore General Hospital, Singapore, Singapore."
-      ],
-      "doi": "10.1111/imm.70189",
+      "affiliations": [],
+      "doi": "10.1002/advs.77066",
       "date": "2026-08-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42572505/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42574049/"
     },
     {
-      "pmid": "42572161",
-      "title": "Function-First Organoid Engineering for Regenerative Medicine: Current Challenges and Future Perspectives.",
-      "abstract": "Organoid technology has emerged as a powerful platform for modeling human development, disease, and drug responses. Advances in stem cell biology and bioengineering have enabled the generation of increasingly sophisticated organoid systems that recapitulate key structural and cellular features of native tissues. However, despite substantial progress, the translational impact of organoids in regenerative medicine remains limited. Greater structural complexity and anatomical resemblance have not consistently translated into sustained therapeutic function or clinical applicability. Major barriers include incomplete maturation, inadequate vascular and immune integration, limited long-term functional stability, and challenges in reproducibility and scalability. These limitations reflect a conceptual mismatch between structure-driven organoid development and the functional requirements of regenerative medicine. Here, we propose a function-first framework in which regenerative organoids are engineered and evaluated according to measurable therapeutic outcomes, including tissue-specific function, vascular integration, immune compatibility, reproducibility, scalability, and long-term stability. We further discuss emerging bioengineering strategies, including vascularization, immune incorporation, organ-on-a-chip platforms, advanced biomaterials, and automated manufacturing, that may accelerate clinical translation. Reframing organoids as functionally engineered therapeutic platforms rather than increasingly complex anatomical models provides a conceptual foundation for advancing regenerative organoid therapies.",
-      "journal": "Stem cells (Dayton, Ohio)",
+      "pmid": "42573967",
+      "title": "Chestnut (Castanea sativa Mill.) leaf extract and pure castalagin reduce bacterial colonisation and the associated inflammation in gastric organoids and a mouse model of H. pylori infection.",
+      "abstract": "Helicobacter pylori is a bacterium that has been identified as a causative agent in the development of chronic gastritis, peptic ulcers, and gastric cancer. Current eradication therapies, based on antibiotic combination, are suffering from lack of patient compliance and primary antibiotic resistance. The traditional use and the scientific literature both report the gastroprotective role of natural extracts containing ellagitannins, suggesting an intriguing hypothesis about the potential impact on H. pylori-related gastritis. Anti-inflammatory and antibacterial effects of Castanea sativa Mill. extract standardized to contain castalagin have been previously demonstrated in human gastric epithelial cells. This experimental work aimed at investigating the role of a food grade chestnut leaf extract in complex models of H. pylori infection. The biological properties of chestnut leaf extract and castalagin have been validated, firstly in a novel murine gastric organoid cell model of H. pylori infection, and, secondly, in an in vivo infection model. Some NF-κB pathway genes, including ligands for CXCR2 and CXCR3 receptors, were found to be suppressed by both the extract and the pure compound. Furthermore, both strongly suppressed H. pylori colonisation and gastric inflammatory mediators in mice. The infiltration of immune cells, mainly neutrophils and monocytes, was also reduced. The results of this work demonstrate the significant potential for the translation of innovative food supplements as co-adjuvants in the prevention and/or treatment of H. pylori-induced gastritis.",
+      "journal": "Inflammopharmacology",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Medical Technology and Clinical Engineering, Faculty of Medical Technology and Clinical Engineering, Gunma University of Health and Welfare, Maebashi, Gunma, Japan."
+        "Department of Pharmacological and Biomolecular Sciences (DiSFeB), \"Rodolfo Paoletti\", University of Milan, Via Balzaretti 9, 20133, 02 50318403, Milan, Italy. giulia.martinelli@unimi.it.",
+        "Institute of Molecular Cancer Research (IMCR), University of Zurich UZH, Strickhofstrasse 40a, CH-8057, Zurich, Switzerland.",
+        "Department of Pharmacological and Biomolecular Sciences (DiSFeB), \"Rodolfo Paoletti\", University of Milan, Via Balzaretti 9, 20133, 02 50318403, Milan, Italy.",
+        "Estratti Piante Officinali (EPO) S.R.L., Via Stadera 19, 20141, Milan, Italy.",
+        "Department of Pharmacological and Biomolecular Sciences (DiSFeB), \"Rodolfo Paoletti\", University of Milan, Via Balzaretti 9, 20133, 02 50318403, Milan, Italy. stefano.piazza@unimi.it."
       ],
-      "doi": "10.1093/stmcls/sxag044",
-      "date": "2026-08-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42572161/"
+      "doi": "10.1007/s10787-026-02359-3",
+      "date": "2026-08-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573967/"
     },
     {
-      "pmid": "42571947",
-      "title": "Bowel Regeneration: Bench to Bedside.",
-      "abstract": "Pediatric intestinal failure resulting from short bowel syndrome remains a significant source of morbidity and mortality despite advances in parenteral nutrition and multidisciplinary intestinal rehabilitation. While native intestinal adaptation provides a foundation for recovery in many patients, those with the most severe forms of short bowel syndrome face limited therapeutic options, including lifelong parenteral nutrition dependence, surgical lengthening procedures, and intestinal transplantation-each associated with substantial complications. The field of bowel regeneration has expanded dramatically over the past two decades, drawing on advances in stem cell biology, biomaterials science, mechanotransduction, and bioengineering. This review examines the current landscape of bowel regeneration strategies through a conceptual framework that progresses from native adaptation, through cellular and biological therapies, to structural and mechanical approaches, and ultimately to tissue engineering as the integration of cellular and structural strategies. Emerging technologies including gene editing for regional reprogramming of intestinal identity, three-dimensional bioprinting, and advanced organoid-scaffold systems are discussed as they relate to the future of clinical translation. Although significant hurdles remain-particularly in vascularization, innervation, and scaling of engineered constructs-the trajectory of the field suggests that regenerative approaches may fundamentally alter the management of pediatric intestinal failure within the coming decades.",
-      "journal": "Seminars in pediatric surgery",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Division of General Pediatric Surgery and Department of Surgery, Johns Hopkins University and Johns Hopkins Children's Center, Baltimore, MD, USA.",
-        "Division of General Pediatric Surgery and Department of Surgery, Johns Hopkins University and Johns Hopkins Children's Center, Baltimore, MD, USA. Electronic address: dhackam1@jhmi.edu."
-      ],
-      "doi": "10.1016/j.sempedsurg.2026.151688",
-      "date": "2026-08-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42571947/"
-    },
-    {
-      "pmid": "42571847",
-      "title": "Screening cross-injury responses in skin organoids identifies a THBS2-enriched pro-repair fibroblast state during regeneration.",
-      "abstract": "Skin injuries impose a substantial global health burden. Conventional wound healing models fail to distinguish evolutionarily conserved regenerative mechanisms from injury specific responses because they cannot capture microenvironmental complexity. This study established a high-fidelity mouse skin organoid platform to simulate clinically relevant stressors and identify the core regulatory components of the regenerative program. Mature skin organoids were individually exposed to hypoxia, hyperthermia, or hyperinflammation. Transcriptomic analysis identified both divergent and convergent responses across diverse injury types. Single-cell RNA sequencing (scRNA-seq) was utilized to characterize fibroblast states in physiological and diabetic wounds. A conserved 85-gene injury-responsive module was identified across all stressors, with thrombospondin 2 (Thbs2) emerging as a highly connected candidate hub within the extracellular matrix (ECM)-remodeling network. Integration with scRNA-seq datasets further showed that Thbs2 expression was enriched in an independently defined pro-repair fibroblast state characterized by ECM remodeling and repair-associated transcriptional features. In the diabetic wound microenvironment, this Thbs2-associated repair signature was attenuated, accompanied by accumulation of intermediate-state fibroblasts. These findings highlight that the acquisition of a specific functional cellular state is closely linked to regeneration. This multi stress platform facilitates the development of universal pro-healing strategies by shifting the focus from molecular targeting to restoring functional cellular states.",
-      "journal": "Journal of advanced research",
+      "pmid": "42573925",
+      "title": "TFAP2A enhances radioresistance of non-small cell lung cancer by transcriptionally activating BRCA1 : TFAP2A promotes NSCLC radioresistance.",
+      "abstract": "Radioresistance remains a major obstacle in the treatment of non-small cell lung cancer (NSCLC). Transcription factor AP-2α (TFAP2A) has been implicated in tumor progression, but its role in NSCLC radioresistance and translational therapeutic relevance remain unclear. Bioinformatics analyses of TCGA and GEO datasets were used to identify transcription factors associated with NSCLC radioresponse. TFAP2A expression was evaluated in NSCLC tissues by immunohistochemistry. The functional role of TFAP2A was investigated using gain- and loss-of-function experiments in NSCLC cells, xenograft models, and patient-derived NSCLC organoids. Mechanistic studies included RNA sequencing, DNA damage repair assays, dual-luciferase reporter assays, chromatin immunoprecipitation, BRCA1 rescue experiments, and extended DNA damage response pathway validation. Structure-based virtual screening, surface plasmon resonance analysis, clonogenic survival assays, and xenograft experiments were performed to assess TFAP2A-targeted radiosensitization. TFAP2A was overexpressed in NSCLC tissues and was associated with poor prognosis and reduced radiotherapy response. TFAP2A knockdown enhanced radiosensitivity by reducing post-irradiation proliferative recovery, increasing apoptosis, inducing G2/M accumulation, and impairing DNA damage repair, whereas TFAP2A overexpression promoted radioresistance. TFAP2A directly bound to the BRCA1 promoter and transcriptionally activated BRCA1. BRCA1 restoration partially rescued the radiosensitizing effects and G2/M accumulation induced by TFAP2A knockdown. Extended validation of representative DNA damage response pathways and additional RNA-seq-derived repair candidates further supported BRCA1 as a principal downstream effector in this model. Patient-derived NSCLC organoids confirmed that TFAP2A knockdown enhanced radiosensitivity in a clinically derived ex vivo model. Pharmacological validation identified Dephospho-CoA as a candidate TFAP2A-binding compound that enhanced radiotherapy response in clonogenic assays and xenograft models. TFAP2A promotes NSCLC radioresistance by transcriptionally activating BRCA1 and enhancing DNA damage repair. The TFAP2A/BRCA1 axis may serve as a predictive biomarker and therapeutic target for overcoming radioresistance, and TFAP2A-targeted radiosensitization warrants further preclinical development.",
+      "journal": "Cellular oncology (Dordrecht, Netherlands)",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Research Center for Tissue Repair and Regeneration Affiliated to the Medical Innovation Research Department, PLA General Hospital and PLA Medical School, Beijing 100853, China; School of Medicine, Nankai University, Tianjin 300071, China.",
-        "Research Center for Tissue Repair and Regeneration Affiliated to the Medical Innovation Research Department, PLA General Hospital and PLA Medical School, Beijing 100853, China.",
-        "Research Center for Tissue Repair and Regeneration Affiliated to the Medical Innovation Research Department, PLA General Hospital and PLA Medical School, Beijing 100853, China; Department of Human Anatomy, School of Basic Medical Sciences, Inner Mongolia Medical University, Hohhot 010010, China.",
-        "Research Center for Tissue Repair and Regeneration Affiliated to the Medical Innovation Research Department, PLA General Hospital and PLA Medical School, Beijing 100853, China; Department of General Surgery, First Medical Center of PLA General Hospital, Beijing 100853, China.",
-        "Research Center for Tissue Repair and Regeneration Affiliated to the Medical Innovation Research Department, PLA General Hospital and PLA Medical School, Beijing 100853, China; School of Medicine, Nankai University, Tianjin 300071, China. Electronic address: fuxiaobing@vip.sina.com.",
-        "Research Center for Tissue Repair and Regeneration Affiliated to the Medical Innovation Research Department, PLA General Hospital and PLA Medical School, Beijing 100853, China. Electronic address: stellarahuang@sina.com."
+        "Department of Radiation Oncology, Shandong Provincial Key Laboratory of Radiation Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University, Shandong Academy of Medical Sciences, Jinan, Shandong, 250000, People's Republic of China.",
+        "Department of Radiation Oncology, Shandong Provincial Key Laboratory of Radiation Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University, Shandong Academy of Medical Sciences, Jinan, Shandong, 250000, People's Republic of China. sdyujinming@163.com.",
+        "Department of Radiation Oncology, Shandong Provincial Key Laboratory of Radiation Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University, Shandong Academy of Medical Sciences, Jinan, Shandong, 250000, People's Republic of China. zhangxiao1816@163.com.",
+        "Department of Radiation Oncology, Shandong Provincial Key Laboratory of Radiation Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University, Shandong Academy of Medical Sciences, Jinan, Shandong, 250000, People's Republic of China. dave0505@yeah.net."
       ],
-      "doi": "10.1016/j.jare.2026.08.029",
-      "date": "2026-08-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42571847/"
+      "doi": "10.1007/s13402-026-01267-6",
+      "date": "2026-07-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573925/"
+    },
+    {
+      "pmid": "42573494",
+      "title": "Face Scrubber-Fabricated Affordable and User-Friendly Microwell Devices for Scalable 3D Cell Culture.",
+      "abstract": "Current 3D culture platforms often face challenges such as high costs, single-use, and inconsistent size uniformity and hence are unsuitable for high-throughput applications. Considering these issues, a commercially available silicone face scrubber (SFS) was repurposed as a device or mold to fabricate microwell arrays in agarose for scalable 3D cell cultures, i.e., spheroids and organoids. The presented approach is simple, rapid, and affordable and does not require any expert personnel or instruments for the fabrication of microwell arrays. The efficacy of the method was determined by the performance of microwells toward 3D culture of L6 myoblast spheroids. Microwells facilitated the uniform culture of spheroid arrays without any considerable variation in shape and size. The reported approach is highly flexible and was used to create agarose microwells in 35 mm, 60 mm, and 06-well plates. Furthermore, the SFS-fabricated microwells exhibited 03 rounds of reusability for spheroid generation without significant changes in spheroid morphology and size. The developed strategy significantly reduces experimental costs while preserving spheroid quality, making it ideal for 3D culture applications such as drug screening, disease modelling, tissue engineering, and biomaterials and organoid technology.",
+      "journal": "ACS biomaterials science & engineering",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "BRIC-National Institute of Animal Biotechnology (NIAB) , Hyderabad, Telangana500032, India.",
+        "Regional Centre for Biotechnology (RCB), Faridabad, Haryana, 121001, India."
+      ],
+      "doi": "10.1021/acsbiomaterials.6c00550",
+      "date": "2026-08-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573494/"
+    },
+    {
+      "pmid": "42573242",
+      "title": "Transcriptomic profiling of lentoid bodies highlights potential mechanisms of radiation-induced cataracts.",
+      "abstract": "The lens of the eye has been recognized as one of the most radiosensitive tissues in the human body. Radiation-induced cataractogenesis is believed to arise through a complex interplay of molecular processes, including crystallin protein oxidation and aggregation, impaired antioxidant defenses, apoptosis of lens epithelial cells, and epithelial-mesenchymal transition. Nonetheless, the precise mechanisms responsible for these changes remain to be fully elucidated. Organoid model systems are an emerging tool that provide a novel approach for investigating disease processes. In this study, we examined transcriptional changes in lentoid bodies, an organoid-like model of the ocular lens, following exposure to ionizing radiation. Lentoid bodies were generated from human pluripotent stem cells through a three-step differentiation protocol. Mature lentoid bodies were then subjected to an x-ray dose of 0.25 or 2 Gy and RNA was isolated 12, 24, and 48 hours post exposure for whole transcriptome RNA-sequencing. Genes were considered differentially expressed if they exhibited a fold change < -2.0 or >2.0, false discovery rate-corrected p-value <0.05, and a minimum average read count of 30 transcripts per million. Significant changes in gene expression profiles were observed post-irradiation with both dose and time post-exposure playing critical roles in the extent and nature of gene dysregulation. Differentially expressed genes were identified within key biological pathways implicated in cataract formation, including cell survival and proliferation, differentiation, migration, and epithelial-mesenchymal transition. These results advance our understanding of the molecular mechanisms underlying radiation-induced cataracts and demonstrate the value of lens organoid models as a physiologically relevant platform, offering insights beyond those achievable with conventional lens cell lines.",
+      "journal": "International journal of radiation biology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Biomolecular Sciences Program, Laurentian University, Sudbury, Ontario, Canada.",
+        "School of Natural Sciences, Laurentian University, Sudbury, Ontario, Canada.",
+        "Medical Sciences Division, NOSM University, Sudbury, Ontario, Canada.",
+        "Health Sciences North Research Institute, Sudbury, Ontario, Canada."
+      ],
+      "doi": "10.1080/09553002.2026.2708814",
+      "date": "2026-08-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573242/"
     },
     {
       "pmid": "42559559",
@@ -363,6 +358,49 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42560034/"
     },
     {
+      "pmid": "42573888",
+      "title": "Circulating microRNAs: a new era in early detection of oral squamous cell carcinoma (OSCC) - a systematic review and meta-analysis.",
+      "abstract": "The chances of oral squamous cell carcinoma (OSCC) being diagnosed at an early stage are very low, and this leads to a poor prognosis. The presence of circulating miRNAs (miRNAs) in blood or saliva is now a potential non-invasive diagnostic biomarker, although the diagnostic accuracy of the studies reported remains vastly different due to differences in biofluids, miRNA panels, disease spectrum, and platforms. We did a meta-analysis of diagnostic accuracy and a systematic review in accordance with PRISMA-DTA 2020 guidelines (PROSPERO: CRD420251274288). Articles that evaluated circulating miRNAs in any biofluid in diagnosing OSCC were taken into consideration. A Bayesian bivariate random-effects model was used to pool together the sensitivity, specificity, likelihood ratios, diagnostic odds ratios and the summary receiver operating characteristic (sROC) curves. Heterogeneity sources were analyzed using pre-constructed subgroup analysis and meta-regression. The number of studies that were evaluated in totality was seventeen and seven were incorporated in the meta-analysis. The pooled sensitivity of the circulating miRNAs towards the detection of OSCC was 0.89 (95% CI: 0.77-0.95) and the pooled specificity was 0.88 (95% CI: 0.75-0.95). It had a pooled positive likelihood ratio (PLR) of 7.25 (95% CI: 3.42-16.08), a negative likelihood ratio (NLR) of 0.13(95% CI: 0.05-0.27), and a diagnostic odds ratio (DOR) of 59.69(95%CI:14.33-209.95). Good performance in discriminating was also noted in the sROC curve with an area under the curve value of approximately 0.90. However, substantial between-study heterogeneity was observed (τ ≈ 0.93 for sensitivity; τ ≈ 0.83 for specificity), and the 95% credible intervals around the DOR were wide (14.33-209.95). Individual studies of multi-miRNA panels reported AUCs up to 0.98, though pooled subgroup estimates were limited by small study numbers and wide uncertainty. Circulating miRNAs and in particular multi-miRNA saliva-based profiles provide promising but heterogenous diagnostic accuracy for OSCC. While individual panel studies have reported high AUCs, the current pooled evidence-derived from only seven small, mostly case-control studies of advanced-stage disease-does not yet establish utility for true early detection or population screening.",
+      "journal": "Journal of the Egyptian National Cancer Institute",
+      "publicationTypes": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "affiliations": [
+        "Siddhartha Medical College, Vijayawada, India. roshansmc921k@gmail.com.",
+        "Centre for Research Impact and Outcome (CRiO), Chitkara University, Rajpura, Punjab, India.",
+        "Saveetha Dental College and Hospitals, Saveetha University, Chennai, India.",
+        "Verde Valley Medical Centre, Arizona, United States.",
+        "Dr. P.S.I Medical College, Gannavaram, India.",
+        "Rangaraya Medical College, Kākināda, India.",
+        "Government Medical College, Ongole, India.",
+        "Konaseema Institute of Medical Sciences and Research Foundation, Amalapuram, India."
+      ],
+      "doi": "10.1186/s43046-026-00393-4",
+      "date": "2026-08-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573888/"
+    },
+    {
+      "pmid": "42573798",
+      "title": "Cerebrospinal fluid cell-free DNA sequencing in pediatric CNS tumors: towards liquid molecular neuropathology.",
+      "abstract": "Pediatric central nervous system tumors remain a leading cause of cancer-related mortality in children, while their diagnosis, risk stratification, and therapeutic management increasingly depend on integrated molecular characterization. However, representative tumor tissue is often difficult to obtain because of tumor location, surgical risk, limited biopsy material, and the impracticality of repeated sampling during disease evolution. Cerebrospinal fluid (CSF) has therefore emerged as a particularly informative liquid biopsy compartment for many CNS malignancies, enriched in tumor-derived cell-free DNA and, for tumors in contact with the CSF spaces, more directly reflective of intracranial tumor biology than plasma; its yield nonetheless varies with tumor biology and anatomical proximity to CSF pathways. Here, we review the evidence supporting CSF cell-free DNA sequencing as an emerging extension of molecular neuropathology in pediatric CNS tumors. Targeted next-generation sequencing, low-pass whole-genome sequencing, methylation-based classifiers, and nanopore sequencing now enable complementary assessment of somatic mutations, copy number alterations, epigenetic tumor class, and longitudinal tumor burden from low-input pediatric CSF samples. Recent studies have moved the field beyond analytical proof of concept towards defined clinical scenarios, including molecular diagnosis when biopsy is infeasible, molecular staging of high-CSF-shedding tumors, minimal residual disease monitoring in medulloblastoma and other embryonal tumors, and clarification of ambiguous radiological progression. CSF-based sequencing does not replace tissue neuropathology, but provides a liquid molecular layer that can complement, extend, or in selected situations partially substitute tissue-based diagnosis. Its broader adoption now depends on workflow standardization, assay-specific reporting standards, external quality assurance, and prospective evidence that CSF-guided decisions improve patient outcomes.",
+      "journal": "Acta neuropathologica",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Radiotherapy, Institut de Cancérologie de Lorraine, Vandœuvre-Lès-Nancy, France. w.gehin@nancy.unicancer.fr.",
+        "Innovative Therapeutics and Early Trials Unit, Institut de Cancérologie de Lorraine, Vandœuvre-Lès-Nancy, France. w.gehin@nancy.unicancer.fr.",
+        "Pediatric Oncohematology, Hôpital d'Enfants, CHRU Nancy, Vandoeuvre-Lès-Nancy, France.",
+        "Biopathology, Institut de Cancérologie de Lorraine, CNRS, UMR 7039 CRAN - Université de Lorraine, Vandœuvre-Lès-Nancy, France."
+      ],
+      "doi": "10.1007/s00401-026-03067-6",
+      "date": "2026-08-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573798/"
+    },
+    {
       "pmid": "42572185",
       "title": "Current Advances of Molecular Biomarkers and Liquid Biopsies Techniques in Ovarian Cancer.",
       "abstract": "Ovarian cancer (OC) remains a lethal gynecological malignancy with challenges in early diagnosis, treatment monitoring, and overcoming drug resistance. Liquid biopsy, a noninvasive approach analyzing tumor-derived components in bodily fluids, has emerged as a promising tool in OC management. This review summarizes advances in liquid biopsy technologies, focusing on circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs). ctDNA enables minimally invasive assessment for diagnosis, prognosis, treatment guidance (e.g., BRCA1/2-targeted therapy), minimal residual disease (MRD) detection, and monitoring of tumor evolution. CTCs, particularly clusters, provide insights into metastasis and therapeutic response. Emerging modalities such as tumor-educated platelets (TEPs), circular RNAs (circRNAs), and exosomes and protease activity-based liquid biopsy also show diagnostic and prognostic potential. Despite technical challenges like standardization and sensitivity, liquid biopsy holds significant promise for personalized OC care, with ongoing efforts to translate these technologies into clinical practice.",
@@ -430,87 +468,20 @@
       "doi": "10.1016/j.talanta.2026.130416",
       "date": "2026-08-07",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42570628/"
-    },
-    {
-      "pmid": "42570519",
-      "title": "Active enrichment of circulating tumor DNA by supramolecular-functionalized micromotors for ultrasensitive quantification.",
-      "abstract": "Liquid biopsy of pancreatic cancer via circulating tumor DNA (ctDNA) is challenged by the extreme rarity of targets, a limitation that conventional passive biosensors cannot overcome. Here, we engineered an intelligent micromotor that actively captured, transported, and electrochemically reported ctDNA. The asymmetric flask-shaped micromotor (HPCMF) was constructed from carbonaceous micro-flasks (CMF) decorated with platinum nanoparticles (PtNPs) and supramolecular (HP5) stabilized PtNPs. The HP5 moieties served as docking sites for methylene blue-labeled assist-DNA (MB-aDNA) via host-guest interactions, creating a mobile capture interface. Propelled by PtNP-catalyzed bubble generation from H2O2, the micromotor reached an average speed of 56.16 μm s-1 (5% H2O2). Upon recognizing target DNA (tDNA) in serum, it autonomously navigated to a probe DNA-modified (pDNA) glassy carbon electrode, where a ternary complex (MB-aDNA/tDNA/pDNA) assembled and anchored, positioning MB for efficient electron transfer. This active enrichment strategy achieved a linear range of 1 pM - 10 μM, a detection limit of 0.18 pM, accurate quantification in simulated pancreatic juice and mouse serum (recoveries 76.5-106.2%), and a 52.4% reduction in assay time relative to digital PCR (dPCR). This work establishes a generic \"mobile sensing\" framework for next-generation autonomous diagnostic devices.",
-      "journal": "Biosensors & bioelectronics",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "College of Electronic and Information Engineering, Changchun University, Changchun, China.",
-        "State Key Laboratory of Robotics and Systems, School of Medicine and Health, Harbin Institute of Technology, Harbin, 150001, China.",
-        "State Key Laboratory of Urban Water Resource and Environment, School of Chemistry and Chemical Engineering, Harbin Institute of Technology, Harbin, 150001, China. Electronic address: yl_wang@hit.edu.cn.",
-        "School of Materials Science and Engineering and Laboratory of Materials Design and Quantum Simulation, Changchun University, Changchun, 130022, China. Electronic address: huxy@ccu.edu.cn.",
-        "College of Electronic and Information Engineering, Changchun University, Changchun, China. Electronic address: qinhongwu@ccu.edu.cn."
-      ],
-      "doi": "10.1016/j.bios.2026.119094",
-      "date": "2026-08-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42570519/"
-    },
-    {
-      "pmid": "42551938",
-      "title": "[Therapeutic Targets by Pathology AI and Spatial Transcriptomics in Breast Cancer].",
-      "abstract": "Recent advances in pathology foundation models have markedly improved the accuracy and generalizability of histopathological image analysis in breast cancer. However, the mechanisms of resistance to CDK4/6 inhibitors in hormone receptor-positive, HER2-negative advanced breast cancer remain incompletely understood. This article outlines a strategy to identify therapeutic targets by integrating pathology AI with spatial transcriptomics. We developed AI-directed spatial transcriptomics (AID-ST), a framework that compares gene expression profiles between drug-sensitive and drug-resistant regions identified by pathology AI. In a preliminary analysis of clinical breast cancer specimens, this approach suggested that KRAS pathway activation is a major driver of resistance, accompanied in part by Polycomb dysregulation, RB loss, PI3K pathway alteration, and acquisition of stem-like features. Additional spatial analyses of paired pre- and post-treatment specimens supported these findings and further suggested a role for the tumor microenvironment, including EMT- and IL6/JAK/STAT3-related changes, in promoting resistant phenotypes. These results indicate that integrating pathology AI with spatial transcriptomics may enable systematic classification of resistance subtypes and prioritization of actionable therapeutic targets in breast cancer.",
-      "journal": "Gan to kagaku ryoho. Cancer & chemotherapy",
-      "publicationTypes": [
-        "English Abstract",
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Clinical Oncology Center, Okayama University Hospital."
-      ],
-      "doi": "",
-      "date": "2026-06-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42551938/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42572869",
+      "id": "pubmed-42574050",
       "date": "2026-08-10",
-      "title": "Investigating cannabidiol rescue of stress-induced cognitive impairment and metabolism-driven safety in Human-on-a-Chip® models.",
+      "title": "DNMT3B plays antagonistic roles with SMARCB1 and is a targetable vulnerability in rhabdoid tumors.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42572869/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Lab on a chip，PMID 为 42572869。",
-      "report": "This manuscript combined two studies that assessed the effects of cannabidiol (CBD) exposure in distinct organ-on-a-chip models. Hesperos, Inc.'s Human-on-a-Chip® (HoaC) technology utilizes custom-designed human-based, serum-free, and pumpless microphysiologic...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42572505",
-      "date": "2026-08-10",
-      "title": "A PD1-CD137L Fusion Protein More Potently Enhances Anti-Tumour Immune Responses Than Targeting PD-L1 and CD137 Separately.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42572505/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42574050/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -525,8 +496,126 @@
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Immunology，PMID 为 42572505。",
-      "report": "Tumour immune evasion frequently involves PD-L1-mediated inhibition of T cell activity, limiting the efficacy of PD1/PD-L1 blockade, particularly in PD-L1-low or immunologically 'cold' tumours. To overcome this limitation, we developed a dual targeting human P...",
+      "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42574050。",
+      "report": "Rhabdoid tumors (RTs) are highly aggressive pediatric cancers driven by the biallelic inactivation of the SMARCB1 tumor suppressor gene, the sole recurrent genetic alteration. SMARCB1 encodes a core subunit of the SWI/SNF chromatin remodeling complex; its loss...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42574049",
+      "date": "2026-08-10",
+      "title": "Correction to \"4D Biofabrication of Magnetically Augmented Callus Assembloid Implants Enables Rapid Endochondral Ossification via Activation of Mechanosensitive Pathways\".",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42574049/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42574049。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42573967",
+      "date": "2026-08-10",
+      "title": "Chestnut (Castanea sativa Mill.) leaf extract and pure castalagin reduce bacterial colonisation and the associated inflammation in gastric organoids and a mouse model of H. pylori infection.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573967/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Inflammopharmacology，PMID 为 42573967。",
+      "report": "Helicobacter pylori is a bacterium that has been identified as a causative agent in the development of chronic gastritis, peptic ulcers, and gastric cancer. Current eradication therapies, based on antibiotic combination, are suffering from lack of patient comp...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42573494",
+      "date": "2026-08-10",
+      "title": "Face Scrubber-Fabricated Affordable and User-Friendly Microwell Devices for Scalable 3D Cell Culture.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573494/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 ACS biomaterials science & engineering，PMID 为 42573494。",
+      "report": "Current 3D culture platforms often face challenges such as high costs, single-use, and inconsistent size uniformity and hence are unsuitable for high-throughput applications. Considering these issues, a commercially available silicone face scrubber (SFS) was r...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42573242",
+      "date": "2026-08-10",
+      "title": "Transcriptomic profiling of lentoid bodies highlights potential mechanisms of radiation-induced cataracts.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573242/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of radiation biology，PMID 为 42573242。",
+      "report": "The lens of the eye has been recognized as one of the most radiosensitive tissues in the human body. Radiation-induced cataractogenesis is believed to arise through a complex interplay of molecular processes, including crystallin protein oxidation and aggregat...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -560,69 +649,63 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42571847",
-      "date": "2026-08-09",
-      "title": "Screening cross-injury responses in skin organoids identifies a THBS2-enriched pro-repair fibroblast state during regeneration.",
-      "entity": "Organoid Research",
+      "id": "pubmed-42573888",
+      "date": "2026-08-10",
+      "title": "Circulating microRNAs: a new era in early detection of oral squamous cell carcinoma (OSCC) - a systematic review and meta-analysis.",
+      "entity": "Biotech Research",
       "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42571847/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573888/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of advanced research，PMID 为 42571847。",
-      "report": "Skin injuries impose a substantial global health burden. Conventional wound healing models fail to distinguish evolutionarily conserved regenerative mechanisms from injury specific responses because they cannot capture microenvironmental complexity. This study...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42572161",
-      "date": "2026-08-08",
-      "title": "Function-First Organoid Engineering for Regenerative Medicine: Current Challenges and Future Perspectives.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42572161/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
+        "Biotech",
+        "Precision Oncology",
         "Drug Screening"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
+        "biotech",
+        "肿瘤",
         "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cells (Dayton, Ohio)，PMID 为 42572161。",
-      "report": "Organoid technology has emerged as a powerful platform for modeling human development, disease, and drug responses. Advances in stem cell biology and bioengineering have enabled the generation of increasingly sophisticated organoid systems that recapitulate ke...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Journal of the Egyptian National Cancer Institute，PMID 为 42573888。",
+      "report": "The chances of oral squamous cell carcinoma (OSCC) being diagnosed at an early stage are very low, and this leads to a poor prognosis. The presence of circulating miRNAs (miRNAs) in blood or saliva is now a potential non-invasive diagnostic biomarker, although...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42573798",
+      "date": "2026-08-10",
+      "title": "Cerebrospinal fluid cell-free DNA sequencing in pediatric CNS tumors: towards liquid molecular neuropathology.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573798/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Acta neuropathologica，PMID 为 42573798。",
+      "report": "Pediatric central nervous system tumors remain a leading cause of cancer-related mortality in children, while their diagnosis, risk stratification, and therapeutic management increasingly depend on integrated molecular characterization. However, representative...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -803,64 +886,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42570519",
-      "date": "2026-08-05",
-      "title": "Active enrichment of circulating tumor DNA by supramolecular-functionalized micromotors for ultrasensitive quantification.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42570519/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42570519。",
-      "report": "Liquid biopsy of pancreatic cancer via circulating tumor DNA (ctDNA) is challenged by the extreme rarity of targets, a limitation that conventional passive biosensors cannot overcome. Here, we engineered an intelligent micromotor that actively captured, transp...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42571947",
-      "date": "2026-08-04",
-      "title": "Bowel Regeneration: Bench to Bedside.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42571947/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Seminars in pediatric surgery，PMID 为 42571947。",
-      "report": "Pediatric intestinal failure resulting from short bowel syndrome remains a significant source of morbidity and mortality despite advances in parenteral nutrition and multidisciplinary intestinal rehabilitation. While native intestinal adaptation provides a fou...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42572185",
       "date": "2026-08-01",
       "title": "Current Advances of Molecular Biomarkers and Liquid Biopsies Techniques in Ovarian Cancer.",
@@ -927,34 +952,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42572603",
-      "date": "2026-07-31",
-      "title": "Endogenous phosphatidylcholine 16:0/20:4 increases to promote liver regeneration in hepatectomy.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42572603/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42572603。",
-      "report": "Liver regeneration after hepatectomy is a challenge in patients with metabolic dysfunction-associated steatohepatitis (MASH), as well as small-for-size syndrome and ex vivo organogenesis. Endogenous lipid metabolites promoting liver regeneration are poorly und...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42571422",
       "date": "2026-07-31",
       "title": "Circulating tumor DNA in gastrointestinal cancers: promise, pitfalls, and the path forward.",
@@ -980,6 +977,38 @@
       "fact": "PubMed 记录显示该文献收录于 EClinicalMedicine，PMID 为 42571422。",
       "report": "Circulating tumor DNA (ctDNA) has emerged as a powerful prognostic biomarker in gastrointestinal (GI) oncology, with the strongest evidence in colorectal cancer. Postoperative ctDNA positivity identifies patients at high risk of recurrence, and serial clearanc...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42573925",
+      "date": "2026-07-30",
+      "title": "TFAP2A enhances radioresistance of non-small cell lung cancer by transcriptionally activating BRCA1 : TFAP2A promotes NSCLC radioresistance.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573925/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cellular oncology (Dordrecht, Netherlands)，PMID 为 42573925。",
+      "report": "Radioresistance remains a major obstacle in the treatment of non-small cell lung cancer (NSCLC). Transcription factor AP-2α (TFAP2A) has been implicated in tumor progression, but its role in NSCLC radioresistance and translational therapeutic relevance remain...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1156,38 +1185,6 @@
       "fact": "PubMed 记录显示该文献收录于 BMC genomics，PMID 为 42482180。",
       "report": "Single-cell foundation models such as scGPT and Geneformer are increasingly used for gene regulatory network (GRN) inference, with attention-derived edge scores routinely interpreted as regulatory proxies. Prior benchmarks have evaluated curated-reference reco...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42551938",
-      "date": "2026-06-01",
-      "title": "[Therapeutic Targets by Pathology AI and Spatial Transcriptomics in Breast Cancer].",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42551938/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Gan to kagaku ryoho. Cancer & chemotherapy，PMID 为 42551938。",
-      "report": "Recent advances in pathology foundation models have markedly improved the accuracy and generalizability of histopathological image analysis in breast cancer. However, the mechanisms of resistance to CDK4/6 inhibitors in hormone receptor-positive, HER2-negative...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
