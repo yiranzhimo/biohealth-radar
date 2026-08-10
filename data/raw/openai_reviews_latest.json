@@ -1,18 +1,66 @@
 {
-  "capturedAt": "2026-08-09T13:18:23.531343+00:00",
+  "capturedAt": "2026-08-10T08:07:23.320501+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42571089",
-      "responseId": "resp_0e0fc07a54cd594b006a787e206824819a9f89a00acc541e5c",
+      "signalId": "pubmed-42571847",
+      "responseId": "resp_06d66549015e011c006a7986bc3e6081948cac7857c5d77073",
       "review": {
         "status": "pass",
         "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献提及物质使用障碍和类器官模型，信息明确分离，无临床建议。",
+        "reviewSummaryCn": "该信号符合发布标准，所有分类和证据水平合理，信息清晰分离，无临床建议或不支持的结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "初步分类与研究内容一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断清晰分离，证据水平合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Drug Screening",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管",
+            "药筛",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of advanced research，PMID 为 42571847。",
+          "report": "Skin injuries impose a substantial global health burden. Conventional wound healing models fail to distinguish evolutionarily conserved regenerative mechanisms from injury specific responses because they cannot capture microenvironmental complexity. This study...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42571846",
+      "responseId": "resp_0b3142692f3185e2006a7986c6ba448194ac456d31a328c4aa",
+      "review": {
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "报告中情报分类合理，信息分隔清晰，没有支持性临床结论。",
         "classificationAssessment": {
           "isSupported": true,
           "notesCn": ""
@@ -23,7 +71,7 @@
           "notesCn": ""
         },
         "riskFlags": [
-          "clinical_claim"
+          "commercial_claim"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -31,57 +79,267 @@
           "evidenceLevel": "Medium",
           "themes": [
             "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
+            "Advanced Disease Models"
           ],
           "tags": [
             "类器官",
-            "疾病模型",
-            "多组学"
+            "疾病模型"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Stem cells international，PMID 为 42571089。",
-          "report": "Substance use disorders (SUDs) impose major global morbidity and mortality, yet the cellular mechanisms linking genetic risk to neural vulnerability, disrupted neurodevelopment, and drug-induced neuroadaptations remain poorly understood.",
+          "fact": "PubMed 记录显示该文献收录于 Journal of advanced research，PMID 为 42571846。",
+          "report": "Gut dysbiosis contributes to irritable bowel syndrome (IBS) pathogenesis and fungi exert independent effects on IBS patients, independent of bacterial influence. IBS patients exhibit elevated fecal Candida levels but the specific role of Candida in IBS remains...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42571422",
-      "responseId": "resp_05aac1a5e387116c006a787e25a9388198a9d2d57168bfd9b2",
+      "signalId": "pubmed-42571840",
+      "responseId": "resp_053f74254ac8a153006a7986d315508193993421ae8cc6ab14",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献关注DNA双链断裂的研究，信息来源可靠，分类适当，未涉及临床结论。整体一致性良好。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，与文献主题相符。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "信息来源清晰，事实、报告和推论分开，证据水平合理。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Methods (San Diego, Calif.)，PMID 为 42571840。",
+          "report": "DNA double-strand break (DSB) is one of the most genotoxic lesions, and unrepaired DSBs can lead to chromosomal aberrations and eventually cause carcinogenesis, ageing and dysfunctions of organs. Therefore, studies of DNA repairs and DNA damage responses (DDRs...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42571827",
+      "responseId": "resp_0fdfd7151dbace6f006a7986daaee08196b0d1912c85a1e4a8",
+      "review": {
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "文献记录已分离确认和报告内容，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要分类和证据水平合理，符合文献内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论内容已清晰分离。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cellular signalling，PMID 为 42571827。",
+          "report": "A-kinase anchoring protein 12 (AKAP12; Gravin/SSeCKS) is a multidomain scaffold that coordinates spatially restricted signaling rather than acting as a single linear effector. By organizing protein kinase A (PKA), protein kinase C (PKC), phosphodiesterases (PD...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42571947",
+      "responseId": "resp_03d743fc81867bb3006a7986e4e038819390ea5397ec2efb68",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录保持了一致性，没有支持临床结论，符合出版标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合文献内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推理清晰分离，证据水平合适。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Seminars in pediatric surgery，PMID 为 42571947。",
+          "report": "Pediatric intestinal failure resulting from short bowel syndrome remains a significant source of morbidity and mortality despite advances in parenteral nutrition and multidisciplinary intestinal rehabilitation.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42551245",
+      "responseId": "resp_0862759f4601bc4b006a7986ea9a0081969ccfe92cc95880bb",
+      "review": {
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "文献记录清晰，信息分类合理，无临床结论推测。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类与文献主题一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献提供了合理的证据水平评估。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Evidence",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "临床",
+            "监管",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 ESMO open，PMID 为 42551245。",
+          "report": "Treatment strategies for patients with metastatic breast cancer (MBC) are becoming increasingly complex, underscoring the need for reliable biomarkers to inform clinical decision making. Circulating tumor cells (CTCs) are well-established prognostic biomarkers...",
+          "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42571955",
+      "responseId": "resp_074f6c2bcd5f930b006a7986f127208190a4ba78e96afe4e77",
+      "review": {
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该卡片内容符合出版要求，信息分离明确。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "临床",
+            "监管",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cancer reports (Hoboken, N.J.)，PMID 为 42571955。",
+          "report": "miRNAs are short RNA transcripts that modulate gene expression after transcription and have emerged as pivotal regulators of cancer biology. A subset, termed oncomiRNAs, functions as oncogenes or tumor suppressors, influencing key cellular events such as cell...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42551938",
+      "responseId": "resp_074e64709139e807006a7986f812ec819389f3606266bd66a9",
       "review": {
         "status": "needs_human",
-        "confidence": 0.7,
+        "confidence": 0.75,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "存在临床结论支持不足的风险。",
+        "reviewSummaryCn": "研究质量、样本量和利益冲突等信息缺失，可能影响结论。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "分类未能充分反映研究的具体内容和结果。"
+          "notesCn": "该研究分类可能不完全符合文献内容。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "报告中提到的ctDNA在特定癌症类型中的应用未明确提供充分证据支持。"
+          "notesCn": "证据水平为中等，但缺少关键质量指标的支持。"
         },
         "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
+          "weak_classification",
+          "insufficient_source"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Medium",
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Low",
           "themes": [
-            "Biotech",
-            "Precision Oncology"
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology",
+            "Multi-omics"
           ],
           "tags": [
-            "biotech",
-            "肿瘤"
+            "诊断",
+            "精准医疗",
+            "肿瘤",
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 EClinicalMedicine，PMID 为 42571422。",
-          "report": "Circulating tumor DNA (ctDNA) has emerged as a powerful prognostic biomarker in gastrointestinal (GI) oncology, with the strongest evidence in colorectal cancer. Postoperative ctDNA positivity identifies patients at high risk of recurrence, and serial clearance...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Gan to kagaku ryoho. Cancer & chemotherapy，PMID 为 42551938。",
+          "report": "Recent advances in pathology foundation models have markedly improved the accuracy and generalizability of histopathological image analysis in breast cancer. However, the mechanisms of resistance to CDK4/6 inhibitors in hormone receptor-positive, HER2-negative...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
