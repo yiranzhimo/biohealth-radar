@@ -24,6 +24,24 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Validate repository
+        run: |
+          python3 -m compileall -q scripts tests
+          python3 -m unittest discover -s tests
+          python3 scripts/validate_data.py
+          python3 scripts/translate_company_sources.py --check
+          python3 scripts/discover_companies.py --check
+          python3 scripts/review_company_candidates.py --check
+          python3 scripts/build_company_intelligence.py --check
+          node --check app.js
+          node --check data.js
+          node --check company-intelligence.js
+
       - name: Configure Pages
         uses: actions/configure-pages@v6
 

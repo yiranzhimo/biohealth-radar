@@ -21,8 +21,10 @@ from typing import Any
 
 try:
     from .company_registry import load_companies, match_company_ids
+    from .http_utils import urlopen_with_retry
 except ImportError:
     from company_registry import load_companies, match_company_ids
+    from http_utils import urlopen_with_retry
 
 
 EUTILS_BASE = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
@@ -78,7 +80,6 @@ SOURCE_WATCHLIST = [
         "type": "Company",
         "cadence": "1h",
         "reliability": "Medium",
-        "url": "https://www.sec.gov/edgar/search/",
     },
     {
         "name": "SEC EDGAR",
@@ -229,13 +230,13 @@ def parse_args() -> argparse.Namespace:
 
 def request_json(endpoint: str, params: dict[str, str | int]) -> dict[str, Any]:
     url = build_url(endpoint, params | {"retmode": "json"})
-    with urllib.request.urlopen(url, timeout=30) as response:
+    with urlopen_with_retry(url, timeout=30) as response:
         return json.loads(response.read().decode("utf-8"))
 
 
 def request_xml(endpoint: str, params: dict[str, str | int]) -> ET.Element:
     url = build_url(endpoint, params | {"retmode": "xml"})
-    with urllib.request.urlopen(url, timeout=45) as response:
+    with urlopen_with_retry(url, timeout=45) as response:
         return ET.fromstring(response.read())
 
 
@@ -348,13 +349,17 @@ def parse_date_node(node: ET.Element | None) -> str:
         return ""
     year = text(node.find("Year"))
     month = normalize_month(text(node.find("Month")))
-    day = text(node.find("Day")).zfill(2)
-    if year and month and day:
-        return f"{year}-{month}-{day}"
-    if year and month:
-        return f"{year}-{month}-01"
-    if year:
-        return f"{year}-01-01"
+    day_text = text(node.find("Day"))
+    valid_year = year if year.isdigit() and 1 <= int(year) <= 9999 else ""
+    if valid_year and month and day_text.isdigit() and int(day_text) > 0:
+        try:
+            return dt.date(int(valid_year), int(month), int(day_text)).isoformat()
+        except ValueError:
+            pass
+    if valid_year and month:
+        return dt.date(int(valid_year), int(month), 1).isoformat()
+    if valid_year:
+        return dt.date(int(valid_year), 1, 1).isoformat()
     medline_date = text(node.find("MedlineDate"))
     match = re.search(r"(19|20)\d{2}", medline_date)
     return f"{match.group(0)}-01-01" if match else ""
@@ -365,7 +370,8 @@ def normalize_month(value: str) -> str:
         return ""
     value = value.strip()
     if value.isdigit():
-        return value.zfill(2)
+        month = int(value)
+        return f"{month:02d}" if 1 <= month <= 12 else ""
     return MONTHS.get(value[:3].lower(), "")
 
 

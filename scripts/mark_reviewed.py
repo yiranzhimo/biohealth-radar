@@ -10,6 +10,11 @@ import sys
 from pathlib import Path
 from typing import Any
 
+try:
+    from .review_fingerprint import review_input_hash
+except ImportError:
+    from review_fingerprint import review_input_hash
+
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Mark one or more BioHealth Radar signals as manually reviewed.")
@@ -52,6 +57,7 @@ def main() -> int:
             "status": args.status,
             "reviewer": args.reviewer,
             "reviewedAt": reviewed_at,
+            "inputHash": review_input_hash(signal),
             "note": args.note,
         }
 

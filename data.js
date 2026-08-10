@@ -40,8 +40,7 @@ window.BHR_DATA = {
       "name": "Company IR / Press",
       "type": "Company",
       "cadence": "1h",
-      "reliability": "Medium",
-      "url": "https://www.sec.gov/edgar/search/"
+      "reliability": "Medium"
     },
     {
       "name": "Selected Industry Media",
@@ -511,7 +510,7 @@ window.BHR_DATA = {
       "watchTier": "A",
       "officialUrl": "https://guardanthealth.com/",
       "irUrl": "https://investors.guardanthealth.com/",
-      "pipelineUrl": "https://guardanthealth.com/products/"
+      "pipelineUrl": "https://guardanthealth.com/products/tests-for-patients-with-early-and-advanced-stage-cancer/"
     },
     {
       "id": "natera",
@@ -1421,12 +1420,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000168/ilmn-20260807.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Sequencing & Research Tools"
@@ -1442,48 +1441,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001110803-26-000168 for Illumina, Form 8-K, filed on 2026-08-07.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_048789b7b87468db006a769341a37881938120a5349ef9bc92",
-        "reviewedAt": "2026-08-08T02:23:51.947730+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号符合发布标准，信息清晰且无临床建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别合适，符合资料来源。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论分离明确，证据等级合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Sequencing & Research Tools"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "ILMN"
-          ],
-          "fact": "SEC EDGAR lists accession 0001110803-26-000168 for Illumina, Form 8-K, filed on 2026-08-07.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001604821-000162828026054525",
@@ -1493,7 +1451,7 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Periodic Filing",
       "eventType": "Periodic Report",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1604821/000162828026054525/ntra-20260630.htm",
       "reliability": "High",
@@ -1514,49 +1472,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001628280-26-054525 for Natera, Form 10-Q, filed on 2026-08-07.",
       "report": "SEC metadata describes the primary document as: 10-Q.",
       "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_06ea72dcb2e6d0dd006a762f9ce67c819d8308bdcbe02786c9",
-        "reviewedAt": "2026-08-07T19:18:38.544441+00:00",
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审查，可能缺乏关键的财务或临床信息。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据等级为中等，但缺少特定财务和临床数据的细节。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "缺少充分的证据支持结论，证据等级评估不足。"
-        },
-        "riskFlags": [
-          "insufficient_source",
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Periodic Filing",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Precision Diagnostics"
-          ],
-          "tags": [
-            "SEC",
-            "10-Q",
-            "NTRA"
-          ],
-          "fact": "SEC EDGAR lists accession 0001628280-26-054525 for Natera, Form 10-Q, filed on 2026-08-07.",
-          "report": "SEC metadata describes the primary document as: 10-Q.",
-          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001770787-000162828026054491",
@@ -1566,12 +1482,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Periodic Filing",
       "eventType": "Periodic Report",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1770787/000162828026054491/txg-20260630.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Sequencing & Research Tools"
@@ -1587,48 +1503,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001628280-26-054491 for 10x Genomics, Form 10-Q, filed on 2026-08-07.",
       "report": "SEC metadata describes the primary document as: 10-Q.",
       "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0a206879908d171f006a762fa21f40819d87ef8ab02d9f42d3",
-        "reviewedAt": "2026-08-07T19:18:38.544441+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "提交的信息符合出版要求，内容清晰且准确。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类别和证据水平合理，支持该信号，符合事实记录标准。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论之间清晰分隔，符合来源的高可靠性。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Periodic Filing",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Sequencing & Research Tools"
-          ],
-          "tags": [
-            "SEC",
-            "10-Q",
-            "TXG"
-          ],
-          "fact": "SEC EDGAR lists accession 0001628280-26-054491 for 10x Genomics, Form 10-Q, filed on 2026-08-07.",
-          "report": "SEC metadata describes the primary document as: 10-Q.",
-          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "pubmed-42564489",
@@ -1925,12 +1800,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Periodic Filing",
       "eventType": "Periodic Report",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526337952/ntla-20260630.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Gene Editing"
@@ -1946,48 +1821,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001193125-26-337952 for Intellia Therapeutics, Form 10-Q, filed on 2026-08-06.",
       "report": "SEC metadata describes the primary document as: 10-Q.",
       "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_03fec2e3f2955f93006a75246c94a8819b93438ecd8d2c90d6",
-        "reviewedAt": "2026-08-07T00:18:09.830113+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信号审核通过，内容符合出版标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理和一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论分离明确，证据水平合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Periodic Filing",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Gene Editing"
-          ],
-          "tags": [
-            "SEC",
-            "10-Q",
-            "NTLA"
-          ],
-          "fact": "SEC EDGAR lists accession 0001193125-26-337952 for Intellia Therapeutics, Form 10-Q, filed on 2026-08-06.",
-          "report": "SEC metadata describes the primary document as: 10-Q.",
-          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001801198-000117184326005318",
@@ -1997,12 +1831,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326005318/f6k_080526.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Cell Therapy"
@@ -2018,48 +1852,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001171843-26-005318 for Legend Biotech, Form 6-K, filed on 2026-08-06.",
       "report": "SEC metadata describes the primary document as: FORM 6-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_071d4a3f7d2a3025006a7524719558819bad9559496b0e9953",
-        "reviewedAt": "2026-08-07T00:18:09.830113+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "文件信息准确，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合证据水平。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论已明确分开，证据水平中等合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Cell Therapy"
-          ],
-          "tags": [
-            "SEC",
-            "6-K",
-            "LEGN"
-          ],
-          "fact": "SEC EDGAR lists accession 0001171843-26-005318 for Legend Biotech, Form 6-K, filed on 2026-08-06.",
-          "report": "SEC metadata describes the primary document as: FORM 6-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001604821-000160482126000015",
@@ -2069,12 +1862,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1604821/000160482126000015/ntra-20260806.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Precision Diagnostics"
@@ -2090,48 +1883,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001604821-26-000015 for Natera, Form 8-K, filed on 2026-08-06.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0ff5637383581831006a7524777d7c8199ab106ef37c59f6b3",
-        "reviewedAt": "2026-08-07T00:18:09.830113+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "元数据和文件内容已清晰分离，符合出版标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类别和证据水平合理。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论均已分离，并且证据水平合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Precision Diagnostics"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "NTRA"
-          ],
-          "fact": "SEC EDGAR lists accession 0001604821-26-000015 for Natera, Form 8-K, filed on 2026-08-06.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001770787-000162828026054273",
@@ -2141,7 +1893,7 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1770787/000162828026054273/txg-20260806.htm",
       "reliability": "High",
@@ -2162,48 +1914,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001628280-26-054273 for 10x Genomics, Form 8-K, filed on 2026-08-06.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0e6f28aa2104352f006a75247d0fb88198bbe7dcbd6d129cc0",
-        "reviewedAt": "2026-08-07T00:18:09.830113+00:00",
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审核，因证据水平中等且缺少具体内容。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据水平中等，不支持发布。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "缺少具体文件内容，导致证据水平不合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Corporate Filings",
-            "Sequencing & Research Tools"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "TXG"
-          ],
-          "fact": "SEC EDGAR lists accession 0001628280-26-054273 for 10x Genomics, Form 8-K, filed on 2026-08-06.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001434265-000143426526000108",
@@ -2213,12 +1924,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000108/gmab-20260630.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Antibody / ADC"
@@ -2234,48 +1945,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001434265-26-000108 for Genmab, Form 6-K, filed on 2026-08-06.",
       "report": "SEC metadata describes the primary document as: 6-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0287f917506c728c006a75248277f08199b4d3be6ad6027f4a",
-        "reviewedAt": "2026-08-07T00:18:09.830113+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录满足发布标准，信息明确且无支持的临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合信息来源。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论之间的分离清晰。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Antibody / ADC"
-          ],
-          "tags": [
-            "SEC",
-            "6-K",
-            "GMAB"
-          ],
-          "fact": "SEC EDGAR lists accession 0001434265-26-000108 for Genmab, Form 6-K, filed on 2026-08-06.",
-          "report": "SEC metadata describes the primary document as: 6-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001652130-000119312526336772",
@@ -2285,12 +1955,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526336772/ntla-20260806.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Gene Editing"
@@ -2306,46 +1976,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001193125-26-336772 for Intellia Therapeutics, Form 8-K, filed on 2026-08-06.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_07315a1f233d841f006a749c49b46c8190b1f0b60cb8dcf4d8",
-        "reviewedAt": "2026-08-06T14:38:00.496463+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信息符合发布标准，内容清晰且无支持的效能或安全性声明。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主分类和子分类合理，与提供的元数据一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平被标记为中等，但这不影响发布。"
-        },
-        "riskFlags": [],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Gene Editing"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "NTLA"
-          ],
-          "fact": "SEC EDGAR lists accession 0001193125-26-336772 for Intellia Therapeutics, Form 8-K, filed on 2026-08-06.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "pubmed-42570519",
@@ -2502,12 +2133,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Periodic Filing",
       "eventType": "Periodic Report",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000098/rxrx-20260630.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "AI Drug Discovery"
@@ -2523,48 +2154,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001601830-26-000098 for Recursion Pharmaceuticals, Form 10-Q, filed on 2026-08-05.",
       "report": "SEC metadata describes the primary document as: 10-Q.",
       "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_029864bf0c1b82f9006a734a78bdf88191acadd86d3af996c0",
-        "reviewedAt": "2026-08-05T14:36:29.651087+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息符合发布标准，无需人工审查。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Periodic Filing",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "AI Drug Discovery"
-          ],
-          "tags": [
-            "SEC",
-            "10-Q",
-            "RXRX"
-          ],
-          "fact": "SEC EDGAR lists accession 0001601830-26-000098 for Recursion Pharmaceuticals, Form 10-Q, filed on 2026-08-05.",
-          "report": "SEC metadata describes the primary document as: 10-Q.",
-          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001601830-000160183026000097",
@@ -2574,12 +2164,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000097/rxrx-20260805.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "AI Drug Discovery"
@@ -2595,48 +2185,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001601830-26-000097 for Recursion Pharmaceuticals, Form 8-K, filed on 2026-08-05.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_046156bfb492e083006a734a7e37d4819caa766a61dfd1a50f",
-        "reviewedAt": "2026-08-05T14:36:29.651087+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "卡片符合出版标准，信息清晰且中立。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类别和证据水平合理"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断之间明确分开"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "AI Drug Discovery"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "RXRX"
-          ],
-          "fact": "SEC EDGAR lists accession 0001601830-26-000097 for Recursion Pharmaceuticals, Form 8-K, filed on 2026-08-05.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001651308-000162828026052878",
@@ -2646,12 +2195,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Periodic Filing",
       "eventType": "Periodic Report",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1651308/000162828026052878/bgne-20260630.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Antibody / ADC",
@@ -2668,49 +2217,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001628280-26-052878 for BeOne Medicines, Form 10-Q, filed on 2026-08-05.",
       "report": "SEC metadata describes the primary document as: 10-Q.",
       "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0ae3e87bea0d3c7f006a734a83dc1c819cafacc489b9799de1",
-        "reviewedAt": "2026-08-05T14:36:29.651087+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号信息符合出版标准，可公开发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合源元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断均已清晰分开，证据水平合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Periodic Filing",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Antibody / ADC",
-            "Oncology"
-          ],
-          "tags": [
-            "SEC",
-            "10-Q",
-            "ONC"
-          ],
-          "fact": "SEC EDGAR lists accession 0001628280-26-052878 for BeOne Medicines, Form 10-Q, filed on 2026-08-05.",
-          "report": "SEC metadata describes the primary document as: 10-Q.",
-          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001651308-000162828026052877",
@@ -2720,12 +2227,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1651308/000162828026052877/bgne-20260805.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Antibody / ADC",
@@ -2742,49 +2249,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001628280-26-052877 for BeOne Medicines, Form 8-K, filed on 2026-08-05.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0a09e45781a6be91006a734a8953e8819ebe1e7267b32343c1",
-        "reviewedAt": "2026-08-05T14:36:29.651087+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "符合发布标准，无需人工审查。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合公司和市场主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "信息来源可靠且证据水平合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Antibody / ADC",
-            "Oncology"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "ONC"
-          ],
-          "fact": "SEC EDGAR lists accession 0001628280-26-052877 for BeOne Medicines, Form 8-K, filed on 2026-08-05.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "pubmed-42571947",
@@ -2863,12 +2328,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Periodic Filing",
       "eventType": "Periodic Report",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1655759/000162828026052554/arvn-20260630.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Targeted Protein Degradation"
@@ -2884,48 +2349,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001628280-26-052554 for Arvinas, Form 10-Q, filed on 2026-08-04.",
       "report": "SEC metadata describes the primary document as: 10-Q.",
       "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0c358834908a717e006a72b01075748198a77be51ae4662f8a",
-        "reviewedAt": "2026-08-05T03:37:26.720759+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息准确，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类别和证据水平合理，符合要求。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告与推论分开，证据水平合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Periodic Filing",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Targeted Protein Degradation"
-          ],
-          "tags": [
-            "SEC",
-            "10-Q",
-            "ARVN"
-          ],
-          "fact": "SEC EDGAR lists accession 0001628280-26-052554 for Arvinas, Form 10-Q, filed on 2026-08-04.",
-          "report": "SEC metadata describes the primary document as: 10-Q.",
-          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001745999-000119312526331541",
@@ -2935,12 +2359,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Periodic Filing",
       "eventType": "Periodic Report",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331541/beam-20260630.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Gene Editing"
@@ -2956,49 +2380,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001193125-26-331541 for Beam Therapeutics, Form 10-Q, filed on 2026-08-04.",
       "report": "SEC metadata describes the primary document as: 10-Q.",
       "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_04aa55b69fa70a5b006a71fa4fb3f4819e9b9d14503f93d9db",
-        "reviewedAt": "2026-08-04T14:42:23.014170+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该报告合规且信息明确，适合发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文件类型。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断分开明确，证据水平合适。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Periodic Filing",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Gene Editing"
-          ],
-          "tags": [
-            "SEC",
-            "10-Q",
-            "BEAM"
-          ],
-          "fact": "SEC EDGAR lists accession 0001193125-26-331541 for Beam Therapeutics, Form 10-Q, filed on 2026-08-04.",
-          "report": "SEC metadata describes the primary document as: 10-Q.",
-          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001745999-000119312526331522",
@@ -3008,12 +2390,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331522/beam-20260804.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Gene Editing"
@@ -3029,48 +2411,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001193125-26-331522 for Beam Therapeutics, Form 8-K, filed on 2026-08-04.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_055a999b6be19406006a71fa576f94819c904195f077389b4c",
-        "reviewedAt": "2026-08-04T14:42:23.014170+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录符合发表标准，没有需要人类审查的内容。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类别和证据水平合理"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断已清晰分开"
-        },
-        "riskFlags": [
-          "corporate_update"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Gene Editing"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "BEAM"
-          ],
-          "fact": "SEC EDGAR lists accession 0001193125-26-331522 for Beam Therapeutics, Form 8-K, filed on 2026-08-04.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001655759-000162828026052139",
@@ -3080,12 +2421,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1655759/000162828026052139/arvn-20260804.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Targeted Protein Degradation"
@@ -3101,48 +2442,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001628280-26-052139 for Arvinas, Form 8-K, filed on 2026-08-04.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0c91e6bd8f0a4e3f006a71fa5e8b5c81a39bb520b2be47788f",
-        "reviewedAt": "2026-08-04T14:42:23.014170+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息清晰且根据来源准确，可发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合提供的元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论分离清晰，证据水平合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Targeted Protein Degradation"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "ARVN"
-          ],
-          "fact": "SEC EDGAR lists accession 0001628280-26-052139 for Arvinas, Form 8-K, filed on 2026-08-04.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001674416-000119312526330672",
@@ -3152,12 +2452,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Periodic Filing",
       "eventType": "Periodic Report",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526330672/crsp-20260630.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Gene Editing"
@@ -3173,48 +2473,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001193125-26-330672 for CRISPR Therapeutics, Form 10-Q, filed on 2026-08-03.",
       "report": "SEC metadata describes the primary document as: 10-Q.",
       "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0006a44875ad3951006a715f8a797881a0939e2e537e00889b",
-        "reviewedAt": "2026-08-04T03:41:54.296231+00:00",
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "报告内容来源可靠且分类合理，未见支持性临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合信息来源。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论分开清晰，证据层级合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Periodic Filing",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Gene Editing"
-          ],
-          "tags": [
-            "SEC",
-            "10-Q",
-            "CRSP"
-          ],
-          "fact": "SEC EDGAR lists accession 0001193125-26-330672 for CRISPR Therapeutics, Form 10-Q, filed on 2026-08-03.",
-          "report": "SEC metadata describes the primary document as: 10-Q.",
-          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001674416-000119312526330644",
@@ -3224,12 +2483,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526330644/crsp-20260803.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Gene Editing"
@@ -3245,48 +2504,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001193125-26-330644 for CRISPR Therapeutics, Form 8-K, filed on 2026-08-03.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0ff98abd768cc0bf006a715f8f1b80819fb1d4f02f51ef89fa",
-        "reviewedAt": "2026-08-04T03:41:54.296231+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号成功地分离了事实、报告和推论，符合出版要求。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "信息来源可靠，提供的证据等级合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Gene Editing"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "CRSP"
-          ],
-          "fact": "SEC EDGAR lists accession 0001193125-26-330644 for CRISPR Therapeutics, Form 8-K, filed on 2026-08-03.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001730463-000173046326000112",
@@ -3296,12 +2514,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000173046326000112/autl-20260803.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Cell Therapy"
@@ -3317,48 +2535,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001730463-26-000112 for Autolus Therapeutics, Form 8-K, filed on 2026-08-03.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_072f5bf53f05c4fb006a70b1bd95348199a23780adbf810498",
-        "reviewedAt": "2026-08-03T15:20:07.476910+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "当前报告符合出版标准，信息清晰且未做不当推论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合信息内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论区分清晰，证据水平合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Cell Therapy"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "AUTL"
-          ],
-          "fact": "SEC EDGAR lists accession 0001730463-26-000112 for Autolus Therapeutics, Form 8-K, filed on 2026-08-03.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001730463-000119312526329526",
@@ -3368,12 +2545,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000119312526329526/d156965d8k.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Cell Therapy"
@@ -3389,52 +2566,11 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001193125-26-329526 for Autolus Therapeutics, Form 8-K, filed on 2026-08-03.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_00d60f850e2b80f8006a70b1c2e1e0819ab9d686e77b31f20c",
-        "reviewedAt": "2026-08-03T15:20:07.476910+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "卡片符合发布标准，无需人类审核。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Cell Therapy"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "AUTL"
-          ],
-          "fact": "SEC EDGAR lists accession 0001193125-26-329526 for Autolus Therapeutics, Form 8-K, filed on 2026-08-03.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "pubmed-42572185",
-      "date": "2026-08-00",
+      "date": "2026-08-01",
       "title": "Current Advances of Molecular Biomarkers and Liquid Biopsies Techniques in Ovarian Cancer.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
@@ -3506,7 +2642,7 @@ window.BHR_DATA = {
     },
     {
       "id": "pubmed-42571955",
-      "date": "2026-08-00",
+      "date": "2026-08-01",
       "title": "Targeting Spatiotemporal Heterogeneity of oncomiRNAs: A New Frontier in Cancer Therapy.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
@@ -3517,7 +2653,7 @@ window.BHR_DATA = {
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42571955/",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Diagnostics",
         "Precision Medicine",
@@ -3538,56 +2674,7 @@ window.BHR_DATA = {
       "fact": "PubMed 记录显示该文献收录于 Cancer reports (Hoboken, N.J.)，PMID 为 42571955。",
       "report": "miRNAs are short RNA transcripts that modulate gene expression after transcription and have emerged as pivotal regulators of cancer biology. A subset, termed oncomiRNAs, functions as oncogenes or tumor suppressors, influencing key cellular events such as cell...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_074f6c2bcd5f930b006a7986f127208190a4ba78e96afe4e77",
-        "reviewedAt": "2026-08-10T08:07:23.320501+00:00",
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该卡片内容符合出版要求，信息分离明确。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "临床",
-            "监管",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Cancer reports (Hoboken, N.J.)，PMID 为 42571955。",
-          "report": "miRNAs are short RNA transcripts that modulate gene expression after transcription and have emerged as pivotal regulators of cancer biology. A subset, termed oncomiRNAs, functions as oncogenes or tumor suppressors, influencing key cellular events such as cell...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
       "id": "pubmed-42572603",
@@ -3735,12 +2822,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Periodic Filing",
       "eventType": "Periodic Report",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000160/ilmn-20260628.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Sequencing & Research Tools"
@@ -3756,48 +2843,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001110803-26-000160 for Illumina, Form 10-Q, filed on 2026-07-31.",
       "report": "SEC metadata describes the primary document as: 10-Q.",
       "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_05baf2104ad1f939006a6d6de59294819ba5424cd0f5de7182",
-        "reviewedAt": "2026-08-01T03:54:02.547185+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号符合发布标准，没有需要人工审查的地方。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类和证据水平合理符合所提供的元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论都已清晰分离，证据水平合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Periodic Filing",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Sequencing & Research Tools"
-          ],
-          "tags": [
-            "SEC",
-            "10-Q",
-            "ILMN"
-          ],
-          "fact": "SEC EDGAR lists accession 0001110803-26-000160 for Illumina, Form 10-Q, filed on 2026-07-31.",
-          "report": "SEC metadata describes the primary document as: 10-Q.",
-          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001682852-000168285226000150",
@@ -3807,7 +2853,7 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Periodic Filing",
       "eventType": "Periodic Report",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000150/mrna-20260630.htm",
       "reliability": "High",
@@ -3828,48 +2874,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001682852-26-000150 for Moderna, Form 10-Q, filed on 2026-07-31.",
       "report": "SEC metadata describes the primary document as: 10-Q.",
       "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0009cc81eea1c78b006a6d6de94a4c8198bb26cb7d5ac8bcf9",
-        "reviewedAt": "2026-08-01T03:54:02.547185+00:00",
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该记录需要人工审核以确认缺失的关键信息。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据水平被认为是中等，但缺少关键信息。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "虽然事实和报告分开，但是证据水平未得到明确支持。"
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Periodic Filing",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "RNA Therapeutics"
-          ],
-          "tags": [
-            "SEC",
-            "10-Q",
-            "MRNA"
-          ],
-          "fact": "SEC EDGAR lists accession 0001682852-26-000150 for Moderna, Form 10-Q, filed on 2026-07-31.",
-          "report": "SEC metadata describes the primary document as: 10-Q.",
-          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001682852-000168285226000147",
@@ -3879,12 +2884,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000147/mrna-20260731.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "RNA Therapeutics"
@@ -3900,48 +2905,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001682852-26-000147 for Moderna, Form 8-K, filed on 2026-07-31.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0bf676e272fbd000006a6cb3a52ff0819880c90346db5cad8e",
-        "reviewedAt": "2026-07-31T14:39:32.437851+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "记录符合出版标准，无需人工审查。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "RNA Therapeutics"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "MRNA"
-          ],
-          "fact": "SEC EDGAR lists accession 0001682852-26-000147 for Moderna, Form 8-K, filed on 2026-07-31.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001576280-000157628026000037",
@@ -3951,7 +2915,7 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Periodic Filing",
       "eventType": "Periodic Report",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000037/gh-20260630.htm",
       "reliability": "High",
@@ -3972,49 +2936,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001576280-26-000037 for Guardant Health, Form 10-Q, filed on 2026-07-30.",
       "report": "SEC metadata describes the primary document as: 10-Q.",
       "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0827d950a5080e9b006a6c1c671a4c81918471454ca7e97101",
-        "reviewedAt": "2026-07-31T03:54:02.357946+00:00",
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人类审查，因证据水平中等且缺乏详细信息。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据水平显示不足以支持全面分类。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平中等，缺乏详细 filing 信息使得结论不完整。"
-        },
-        "riskFlags": [
-          "commercial_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Periodic Filing",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Corporate Filings",
-            "Precision Diagnostics"
-          ],
-          "tags": [
-            "SEC",
-            "10-Q",
-            "GH"
-          ],
-          "fact": "SEC EDGAR lists accession 0001576280-26-000037 for Guardant Health, Form 10-Q, filed on 2026-07-30.",
-          "report": "SEC metadata describes the primary document as: 10-Q.",
-          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001576280-000157628026000036",
@@ -4024,12 +2946,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000036/gh-20260730.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Precision Diagnostics"
@@ -4045,49 +2967,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001576280-26-000036 for Guardant Health, Form 8-K, filed on 2026-07-30.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0f45be9e6672a937006a6c1c6bfd148191a15c15759a677f58",
-        "reviewedAt": "2026-07-31T03:54:02.357946+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "内容符合出版标准，没有临床建议或未支持的结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类别合理且与信号元数据一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论清晰分开，证据等级合理。"
-        },
-        "riskFlags": [
-          "commercial_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Precision Diagnostics"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "GH"
-          ],
-          "fact": "SEC EDGAR lists accession 0001576280-26-000036 for Guardant Health, Form 8-K, filed on 2026-07-30.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001110803-000111080326000155",
@@ -4097,12 +2977,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000155/ilmn-20260730.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Sequencing & Research Tools"
@@ -4118,48 +2998,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001110803-26-000155 for Illumina, Form 8-K, filed on 2026-07-30.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0d3a602491645e08006a6c1c7028f4819dab546a34b6c2afee",
-        "reviewedAt": "2026-07-31T03:54:02.357946+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号的信息来源于SEC的公司文件，内容符合中立发布的标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "公司更新分类合理，符合事件类型。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断之间明确分开，所依据的证据水平适当。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Sequencing & Research Tools"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "ILMN"
-          ],
-          "fact": "SEC EDGAR lists accession 0001110803-26-000155 for Illumina, Form 8-K, filed on 2026-07-30.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001717115-000119312526326090",
@@ -4169,12 +3008,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Periodic Filing",
       "eventType": "Periodic Report",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526326090/tem-20260630.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Precision Diagnostics",
@@ -4191,49 +3030,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001193125-26-326090 for Tempus AI, Form 10-Q, filed on 2026-07-30.",
       "report": "SEC metadata describes the primary document as: 10-Q.",
       "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_03c0d6dab9a78873006a6c1c768e94819ca44ee89b9078d21e",
-        "reviewedAt": "2026-07-31T03:54:02.357946+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息完整且来源可靠，适合发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类和证据水平符合提供的元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论清晰分隔。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Periodic Filing",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Precision Diagnostics",
-            "Healthcare AI"
-          ],
-          "tags": [
-            "SEC",
-            "10-Q",
-            "TEM"
-          ],
-          "fact": "SEC EDGAR lists accession 0001193125-26-326090 for Tempus AI, Form 10-Q, filed on 2026-07-30.",
-          "report": "SEC metadata describes the primary document as: 10-Q.",
-          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001717115-000119312526326083",
@@ -4243,12 +3040,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526326083/tem-20260730.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Precision Diagnostics",
@@ -4265,49 +3062,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001193125-26-326083 for Tempus AI, Form 8-K, filed on 2026-07-30.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0a1068dbb416a1aa006a6c1c7a6838819fa8e02c40689b4b90",
-        "reviewedAt": "2026-07-31T03:54:02.357946+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息准确，适合发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类别和证据水平与元数据相符。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论已清晰分开。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Precision Diagnostics",
-            "Healthcare AI"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "TEM"
-          ],
-          "fact": "SEC EDGAR lists accession 0001193125-26-326083 for Tempus AI, Form 8-K, filed on 2026-07-30.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001178670-000117867026000062",
@@ -4317,12 +3072,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Periodic Filing",
       "eventType": "Periodic Report",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000062/alny-20260630.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "RNA Therapeutics"
@@ -4338,48 +3093,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001178670-26-000062 for Alnylam Pharmaceuticals, Form 10-Q, filed on 2026-07-30.",
       "report": "SEC metadata describes the primary document as: 10-Q.",
       "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_03ed4aa3f25d8372006a6b6149ea7c8198b92ee931ddc5fd24",
-        "reviewedAt": "2026-07-30T14:35:53.111112+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "报告根据SEC文件的元数据，内容明确且无临床结论或建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平适中，信息分离明确。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Periodic Filing",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "RNA Therapeutics"
-          ],
-          "tags": [
-            "SEC",
-            "10-Q",
-            "ALNY"
-          ],
-          "fact": "SEC EDGAR lists accession 0001178670-26-000062 for Alnylam Pharmaceuticals, Form 10-Q, filed on 2026-07-30.",
-          "report": "SEC metadata describes the primary document as: 10-Q.",
-          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001178670-000117867026000060",
@@ -4389,12 +3103,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000060/alny-20260730.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "RNA Therapeutics"
@@ -4410,48 +3124,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001178670-26-000060 for Alnylam Pharmaceuticals, Form 8-K, filed on 2026-07-30.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0d554472e559b796006a6b614f3d34819ba76d55dc01cede53",
-        "reviewedAt": "2026-07-30T14:35:53.111112+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录符合发布标准，无需人工审查。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "公司和市场类别适合于提供的元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断明确分开，证据水平合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "RNA Therapeutics"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "ALNY"
-          ],
-          "fact": "SEC EDGAR lists accession 0001178670-26-000060 for Alnylam Pharmaceuticals, Form 8-K, filed on 2026-07-30.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0000874015-000087401526000251",
@@ -4461,12 +3134,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Periodic Filing",
       "eventType": "Periodic Report",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000087401526000251/form10q.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "RNA Therapeutics"
@@ -4482,48 +3155,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0000874015-26-000251 for Ionis Pharmaceuticals, Form 10-Q, filed on 2026-07-29.",
       "report": "SEC metadata describes the primary document as: IONIS PHARMACEUTICALS, INC. 10-Q 06-30-2026.",
       "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0ef1b108505d5499006a6ac626ed4c8191b39839e103bde454",
-        "reviewedAt": "2026-07-30T03:33:27.503364+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该卡片符合发布标准，信息分隔明确。无临床结论或推荐。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Periodic Filing",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "RNA Therapeutics"
-          ],
-          "tags": [
-            "SEC",
-            "10-Q",
-            "IONS"
-          ],
-          "fact": "SEC EDGAR lists accession 0000874015-26-000251 for Ionis Pharmaceuticals, Form 10-Q, filed on 2026-07-29.",
-          "report": "SEC metadata describes the primary document as: IONIS PHARMACEUTICALS, INC. 10-Q 06-30-2026.",
-          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0000874015-000114036126029960",
@@ -4533,12 +3165,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126029960/ef20078953_8k.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "RNA Therapeutics"
@@ -4554,48 +3186,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001140361-26-029960 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-07-29.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_095e5be4e6860304006a6a0f7bd0548197920994b20ac55615",
-        "reviewedAt": "2026-07-29T14:34:06.992204+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "记录符合发布标准，所有信息清晰分隔。无治疗建议或未经支持的临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理且符合元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据等级适中，信息分隔清晰。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "RNA Therapeutics"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "IONS"
-          ],
-          "fact": "SEC EDGAR lists accession 0001140361-26-029960 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-07-29.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "pubmed-42509463",
@@ -4685,12 +3276,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000119312526316760/d56062d6k.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Cell Therapy"
@@ -4706,48 +3297,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001193125-26-316760 for Legend Biotech, Form 6-K, filed on 2026-07-27.",
       "report": "SEC metadata describes the primary document as: 6-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0dbefd4631261c9e006a672ede31688199a8453d0365de8233",
-        "reviewedAt": "2026-07-27T10:11:41.522137+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信号已通过，不需要人工审核。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理并符合元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断明确分开，证据水平合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Cell Therapy"
-          ],
-          "tags": [
-            "SEC",
-            "6-K",
-            "LEGN"
-          ],
-          "fact": "SEC EDGAR lists accession 0001193125-26-316760 for Legend Biotech, Form 6-K, filed on 2026-07-27.",
-          "report": "SEC metadata describes the primary document as: 6-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "pubmed-42497867",
@@ -5084,12 +3634,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526309073/d128960d8k.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Precision Diagnostics",
@@ -5106,47 +3656,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001193125-26-309073 for Tempus AI, Form 8-K, filed on 2026-07-20.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_09e160574464b220006a5eec848d8c819abb6a081ab52f2896",
-        "reviewedAt": "2026-07-21T03:50:15.621115+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号记录符合出版标准，信息清晰且来源可靠。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Precision Diagnostics",
-            "Healthcare AI"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "TEM"
-          ],
-          "fact": "SEC EDGAR lists accession 0001193125-26-309073 for Tempus AI, Form 8-K, filed on 2026-07-20.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001717115-000119312526308469",
@@ -5156,12 +3666,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526308469/d124162d8k.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Precision Diagnostics",
@@ -5178,49 +3688,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001193125-26-308469 for Tempus AI, Form 8-K, filed on 2026-07-20.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0917f4b6250e119e006a5e323d13e081918d458cfe55b394b2",
-        "reviewedAt": "2026-07-20T14:35:23.797178+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "此卡片提供了清晰的事实、报告和推论分离，适合发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类别与元数据合理."
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "虽然证据水平为中等，但当前情况下是合适的."
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Precision Diagnostics",
-            "Healthcare AI"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "TEM"
-          ],
-          "fact": "SEC EDGAR lists accession 0001193125-26-308469 for Tempus AI, Form 8-K, filed on 2026-07-20.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "clinicaltrials-NCT05797233",
@@ -5311,12 +3779,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326004649/f6k_071426.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Cell Therapy"
@@ -5332,48 +3800,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001171843-26-004649 for Legend Biotech, Form 6-K, filed on 2026-07-15.",
       "report": "SEC metadata describes the primary document as: FORM 6-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_00a5f11d4d38cdc9006a57e1fa24ec81a3b6d800b686181f3b",
-        "reviewedAt": "2026-07-15T19:38:48.888968+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该卡片符合发布标准，信息准确且中立。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类及证据水平合理。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论清晰分离，证据水平合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Cell Therapy"
-          ],
-          "tags": [
-            "SEC",
-            "6-K",
-            "LEGN"
-          ],
-          "fact": "SEC EDGAR lists accession 0001171843-26-004649 for Legend Biotech, Form 6-K, filed on 2026-07-15.",
-          "report": "SEC metadata describes the primary document as: FORM 6-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001434265-000143426526000102",
@@ -5383,12 +3810,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000102/gmab_20260715x6k.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Antibody / ADC"
@@ -5404,46 +3831,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001434265-26-000102 for Genmab, Form 6-K, filed on 2026-07-15.",
       "report": "SEC metadata describes the primary document as: 6-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0aa6df03aca5ab87006a57e200257481a2a74a5623f070c055",
-        "reviewedAt": "2026-07-15T19:38:48.888968+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息一致，适合发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类和证据水平合理。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断清晰分隔。"
-        },
-        "riskFlags": [],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Antibody / ADC"
-          ],
-          "tags": [
-            "SEC",
-            "6-K",
-            "GMAB"
-          ],
-          "fact": "SEC EDGAR lists accession 0001434265-26-000102 for Genmab, Form 6-K, filed on 2026-07-15.",
-          "report": "SEC metadata describes the primary document as: 6-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0000874015-000114036126028154",
@@ -5453,12 +3841,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126028154/ef20077783_8k.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "RNA Therapeutics"
@@ -5474,48 +3862,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001140361-26-028154 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-07-10.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_02f552f2edc1a03a006a57159038a081a297d5ce4469b7358c",
-        "reviewedAt": "2026-07-15T05:06:33.748868+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该卡片信息内部一致，适合发表。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "RNA Therapeutics"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "IONS"
-          ],
-          "fact": "SEC EDGAR lists accession 0001140361-26-028154 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-07-10.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001549595-000154959526000040",
@@ -5525,12 +3872,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Periodic Filing",
       "eventType": "Periodic Report",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000040/nrix-20260531.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Targeted Protein Degradation"
@@ -5546,48 +3893,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001549595-26-000040 for Nurix Therapeutics, Form 10-Q, filed on 2026-07-09.",
       "report": "SEC metadata describes the primary document as: 10-Q.",
       "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0d9ce25f4f1739fb006a57159439e881a1a3d3b9558a393da3",
-        "reviewedAt": "2026-07-15T05:06:33.748868+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号为Nurix Therapeutics的10-Q表格定期报告，源于SEC EDGAR，信息分离清晰，符合出版标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类和证据水平符合提供的元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论清晰分离，证据水平合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Periodic Filing",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Targeted Protein Degradation"
-          ],
-          "tags": [
-            "SEC",
-            "10-Q",
-            "NRIX"
-          ],
-          "fact": "SEC EDGAR lists accession 0001549595-26-000040 for Nurix Therapeutics, Form 10-Q, filed on 2026-07-09.",
-          "report": "SEC metadata describes the primary document as: 10-Q.",
-          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001549595-000154959526000038",
@@ -5597,12 +3903,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000038/nrix-20260709.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Targeted Protein Degradation"
@@ -5618,48 +3924,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001549595-26-000038 for Nurix Therapeutics, Form 8-K, filed on 2026-07-09.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_08bd15057d6378a1006a5715988a64819daae60eadc9dfa0a0",
-        "reviewedAt": "2026-07-15T05:06:33.748868+00:00",
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "此记录符合发布标准，信息准确且无临床建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合证据水平要求。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断明确分开，支持证据水平。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Targeted Protein Degradation"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "NRIX"
-          ],
-          "fact": "SEC EDGAR lists accession 0001549595-26-000038 for Nurix Therapeutics, Form 8-K, filed on 2026-07-09.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0000874015-000114036126028092",
@@ -5669,12 +3934,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126028092/ef20077664_8k.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "RNA Therapeutics"
@@ -5690,48 +3955,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001140361-26-028092 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-07-09.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_07e8c14af83b671d006a57159ca67c819c899ccad5930366b7",
-        "reviewedAt": "2026-07-15T05:06:33.748868+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息准确，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "RNA Therapeutics"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "IONS"
-          ],
-          "fact": "SEC EDGAR lists accession 0001140361-26-028092 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-07-09.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001682852-000168285226000134",
@@ -5741,12 +3965,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000134/mrna-20260706.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "RNA Therapeutics"
@@ -5762,48 +3986,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001682852-26-000134 for Moderna, Form 8-K, filed on 2026-07-08.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0a834b01776d2c9b006a5715a05d48819ea9f3c17eb5902272",
-        "reviewedAt": "2026-07-15T05:06:33.748868+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录符合出版标准，无需人类审查。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "RNA Therapeutics"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "MRNA"
-          ],
-          "fact": "SEC EDGAR lists accession 0001682852-26-000134 for Moderna, Form 8-K, filed on 2026-07-08.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "sec-0001604821-000160482126000005",
@@ -5813,12 +3996,12 @@ window.BHR_DATA = {
       "primaryCategory": "Company & Market",
       "subCategory": "Current Report",
       "eventType": "Corporate Update",
-      "sourceType": "Company",
+      "sourceType": "Filing",
       "sourceName": "SEC EDGAR",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1604821/000160482126000005/ntra-20260701.htm",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Corporate Filings",
         "Precision Diagnostics"
@@ -5834,48 +4017,7 @@ window.BHR_DATA = {
       "fact": "SEC EDGAR lists accession 0001604821-26-000005 for Natera, Form 8-K, filed on 2026-07-06.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_070d7f17dc8c0a35006a5715b5aee0819eabc733a4cc994347",
-        "reviewedAt": "2026-07-15T05:06:33.748868+00:00",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息源自SEC，内容清晰且中立，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类别合理，有效性中等。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断之间分隔明确，符合发布要求。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Precision Diagnostics"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "NTRA"
-          ],
-          "fact": "SEC EDGAR lists accession 0001604821-26-000005 for Natera, Form 8-K, filed on 2026-07-06.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
       "id": "clinicaltrials-NCT07629765",
@@ -5955,7 +4097,7 @@ window.BHR_DATA = {
     },
     {
       "id": "pubmed-42551938",
-      "date": "2026-06-00",
+      "date": "2026-06-01",
       "title": "[Therapeutic Targets by Pathology AI and Spatial Transcriptomics in Breast Cancer].",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
@@ -5983,52 +4125,7 @@ window.BHR_DATA = {
       "fact": "PubMed 记录显示该文献收录于 Gan to kagaku ryoho. Cancer & chemotherapy，PMID 为 42551938。",
       "report": "Recent advances in pathology foundation models have markedly improved the accuracy and generalizability of histopathological image analysis in breast cancer. However, the mechanisms of resistance to CDK4/6 inhibitors in hormone receptor-positive, HER2-negative...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_074e64709139e807006a7986f812ec819389f3606266bd66a9",
-        "reviewedAt": "2026-08-10T08:07:23.320501+00:00",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "研究质量、样本量和利益冲突等信息缺失，可能影响结论。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "该研究分类可能不完全符合文献内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平为中等，但缺少关键质量指标的支持。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Gan to kagaku ryoho. Cancer & chemotherapy，PMID 为 42551938。",
-          "report": "Recent advances in pathology foundation models have markedly improved the accuracy and generalizability of histopathological image analysis in breast cancer. However, the mechanisms of resistance to CDK4/6 inhibitors in hormone receptor-positive, HER2-negative...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
       "id": "clinicaltrials-NCT07107880",

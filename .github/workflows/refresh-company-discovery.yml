@@ -1,0 +1,98 @@
+name: Refresh Company Discovery
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "refresh-data"
+  cancel-in-progress: false
+
+jobs:
+  discover-companies:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      SEC_USER_AGENT: ${{ vars.SEC_USER_AGENT }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Install company discovery dependencies
+        run: |
+          python3 -m pip install -r requirements-company-discovery.txt
+
+      - name: Collect NIH for-profit project organizations
+        run: |
+          python3 scripts/collect_nih_reporter.py --page-size 20 --max-total 60
+
+      - name: Collect China and Hong Kong biotech issuer seeds
+        run: |
+          python3 scripts/collect_china_hk_company_universe.py
+
+      - name: Collect active SEC biotech filers
+        if: env.SEC_USER_AGENT != ''
+        run: |
+          python3 scripts/collect_sec_company_universe.py --count 100 --max-per-sic 500
+
+      - name: Report disabled SEC discovery
+        if: env.SEC_USER_AGENT == ''
+        run: |
+          echo "SEC company discovery is disabled. Set SEC_USER_AGENT with a real contact email to enable it."
+
+      - name: Build company discovery and intelligence
+        run: |
+          python3 scripts/discover_companies.py
+          python3 scripts/review_company_candidates.py
+          python3 scripts/build_company_intelligence.py
+          python3 scripts/collect_china_hk_filings.py --profiles data/company_profiles.json --timeout 5
+          python3 scripts/build_company_intelligence.py
+          python3 scripts/build_company_website_queue.py
+
+      - name: Validate
+        run: |
+          python3 -m compileall -q scripts tests
+          python3 -m unittest discover -s tests
+          python3 scripts/validate_data.py
+          python3 scripts/translate_company_sources.py --check
+          python3 scripts/discover_companies.py --check
+          python3 scripts/review_company_candidates.py --check
+          python3 scripts/build_company_intelligence.py --check
+          node --check app.js
+          node --check company-intelligence.js
+
+      - name: Commit discovery changes
+        run: |
+          if git diff --quiet -- data/raw/nih_reporter_latest.json data/raw/sec_company_universe_latest.json data/raw/china_hk_company_universe_latest.json data/raw/china_hk_filings_latest.json data/raw/company_discovery_latest.json data/raw/company_candidate_reviews_latest.json data/raw/company_website_resolution_queue.json data/company_mentions.json data/company_candidates.json data/company_candidate_reviews.json data/company_universe.json data/company_identity_links.json data/company_profiles.json company-intelligence.js; then
+            echo "No company discovery changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/raw/nih_reporter_latest.json data/raw/company_discovery_latest.json data/raw/company_candidate_reviews_latest.json data/company_mentions.json data/company_candidates.json data/company_candidate_reviews.json data/company_universe.json data/company_identity_links.json data/company_profiles.json data/raw/china_hk_filings_latest.json company-intelligence.js
+          git add data/raw/china_hk_company_universe_latest.json data/raw/company_website_resolution_queue.json data/company_web_overrides.json
+          if [ -f data/raw/sec_company_universe_latest.json ]; then
+            git add data/raw/sec_company_universe_latest.json
+          fi
+          git commit -m "Refresh company discovery"
+          git push origin HEAD:main
+
+      - name: Send failure notification
+        if: ${{ failure() }}
+        env:
+          SMTP_HOST: ${{ vars.SMTP_HOST }}
+          SMTP_PORT: ${{ vars.SMTP_PORT }}
+          SMTP_USERNAME: ${{ vars.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          ALERT_EMAIL: ${{ vars.ALERT_EMAIL }}
+        run: python3 scripts/send_workflow_failure_email.py

@@ -3,156 +3,127 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>BioHealth Radar</title>
+    <title>BioHealth Radar · 生物技术公司雷达</title>
     <meta
       name="description"
-      content="Biotech and healthcare intelligence dashboard focused on source-tagged events, evidence levels, and timelines."
+      content="自动发现、整理和追踪生物技术公司的主营业务、未来动向与来源证据。"
     />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <div class="shell">
-      <aside class="sidebar">
-        <div class="brand">
-          <div class="brand-mark" aria-hidden="true"></div>
-          <div>
-            <h1>BioHealth Radar</h1>
-            <p>Biotech & Healthcare Intelligence</p>
+    <header class="site-header">
+      <a class="brand" href="#" aria-label="BioHealth Radar 首页">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span>
+          <strong>BioHealth Radar</strong>
+          <small>生物技术公司情报</small>
+        </span>
+      </a>
+      <div class="updated">
+        <span>数据日期</span>
+        <strong id="updated-at">—</strong>
+      </div>
+    </header>
+
+    <main class="page">
+      <section class="hero">
+        <p class="eyebrow">公司雷达</p>
+        <h1>发现公司，理解业务，持续追踪变化</h1>
+        <p class="hero-copy">
+          从官方页面、公司披露、临床注册与论文建立可追溯的生物技术公司画像。
+          公司自述、已观察事件和未知信息分别呈现。
+        </p>
+      </section>
+
+      <section class="metrics" aria-label="覆盖概览">
+        <article>
+          <span>公司池</span>
+          <strong id="metric-companies">0</strong>
+        </article>
+        <article>
+          <span>官网画像</span>
+          <strong id="metric-supported">0</strong>
+        </article>
+        <article>
+          <span>自动审核通过</span>
+          <strong id="metric-auto-reviewed">0</strong>
+        </article>
+        <article>
+          <span>待人工处理</span>
+          <strong id="metric-candidates">0</strong>
+        </article>
+        <article>
+          <span>主营业务已提取</span>
+          <strong id="metric-business-covered">0</strong>
+        </article>
+        <article>
+          <span>来源抓取失败</span>
+          <strong id="metric-source-failures">0</strong>
+        </article>
+      </section>
+
+      <section class="controls" aria-label="公司筛选">
+        <label class="search-box" for="company-search">
+          <span aria-hidden="true">⌕</span>
+          <input id="company-search" type="search" placeholder="搜索公司、方向、技术或股票代码" />
+        </label>
+        <select id="direction-filter" aria-label="按领域筛选">
+          <option value="All">全部领域</option>
+        </select>
+        <select id="region-filter" aria-label="按国家或地区筛选">
+          <option value="All">全部国家/地区</option>
+          <option value="United States">美国</option>
+          <option value="China">中国</option>
+          <option value="Hong Kong">香港</option>
+        </select>
+        <select id="coverage-filter" aria-label="按覆盖状态筛选">
+          <option value="All">全部覆盖状态</option>
+          <option value="company_reported">已有官网画像</option>
+          <option value="evidence">已有其他证据</option>
+          <option value="seed_only">仅种子信息</option>
+        </select>
+      </section>
+
+      <section class="radar-layout">
+        <aside class="directory panel" aria-labelledby="directory-heading">
+          <div class="panel-heading">
+            <div>
+              <p>公司名录</p>
+              <h2 id="directory-heading">公司目录</h2>
+            </div>
+            <span id="directory-count">0</span>
           </div>
+          <div id="company-list" class="company-list"></div>
+        </aside>
+
+        <section id="company-detail" class="company-detail panel" aria-live="polite"></section>
+      </section>
+
+      <section class="discovery panel" aria-labelledby="discovery-heading">
+        <div class="panel-heading">
+          <div>
+            <p>自动发现</p>
+            <h2 id="discovery-heading">需要人工处理的新公司</h2>
+          </div>
+          <span id="candidate-count">0</span>
         </div>
+        <p id="candidate-summary" class="section-intro">
+          自动审核会处理具有稳定官方标识符的绝大多数候选；这里只显示存在身份歧义或证据不足的异常项。
+        </p>
+        <div id="candidate-list" class="candidate-list"></div>
+      </section>
 
-        <nav class="nav" aria-label="Primary categories">
-          <button class="nav-item active" data-category="All" type="button">全部</button>
-          <button class="nav-item" data-category="Biotech 技术平台" type="button">Biotech 技术平台</button>
-          <button class="nav-item" data-category="AI Drug Discovery" type="button">AI Drug Discovery</button>
-          <button class="nav-item" data-category="Diagnostics & Precision Medicine" type="button">Diagnostics</button>
-          <button class="nav-item" data-category="Clinical & Regulatory" type="button">Clinical & Regulatory</button>
-          <button class="nav-item" data-category="Healthcare AI" type="button">Healthcare AI</button>
-          <button class="nav-item" data-category="Longevity & Wellness" type="button">Longevity & Wellness</button>
-          <button class="nav-item" data-category="Company & Market" type="button">Company & Market</button>
-        </nav>
-
-        <section class="panel source-panel" aria-labelledby="source-heading">
-          <div class="section-heading">
-            <h2 id="source-heading">Source Watchlist</h2>
-            <span id="source-count">0</span>
-          </div>
-          <div id="source-list" class="source-list"></div>
-        </section>
-      </aside>
-
-      <main class="main">
-        <section class="topbar" aria-label="Dashboard summary">
-          <div>
-            <p class="eyebrow">测试原型</p>
-            <h2>Biotech / 大健康情报雷达</h2>
-          </div>
-          <div class="updated">
-            <span>Updated</span>
-            <strong id="updated-at">-</strong>
-          </div>
-        </section>
-
-        <section class="overview-grid" aria-label="Key metrics">
-          <article class="metric">
-            <span>Total Signals</span>
-            <strong id="metric-total">0</strong>
-          </article>
-          <article class="metric">
-            <span>Primary Sources</span>
-            <strong id="metric-primary">0</strong>
-          </article>
-          <button class="metric metric-button" id="review-inbox-button" type="button">
-            <span>Needs Review</span>
-            <strong id="metric-review">0</strong>
-          </button>
-          <article class="metric">
-            <span>Evidence High</span>
-            <strong id="metric-high">0</strong>
-          </article>
-          <article class="metric">
-            <span>Companies Tracked</span>
-            <strong id="metric-companies">0</strong>
-          </article>
-        </section>
-
-        <section class="workspace">
-          <section class="feed-area">
-            <div class="toolbar">
-              <label class="search-box" for="search-input">
-                <span aria-hidden="true">⌕</span>
-                <input id="search-input" type="search" placeholder="搜索公司、疾病、靶点、技术、来源" />
-              </label>
-              <select id="company-filter" aria-label="Company filter">
-                <option value="All">全部公司</option>
-              </select>
-              <select id="source-filter" aria-label="Source type filter">
-                <option value="All">全部来源</option>
-                <option value="Regulator">Regulator</option>
-                <option value="Registry">Registry</option>
-                <option value="Paper">Paper</option>
-                <option value="Company">Company</option>
-                <option value="Media">Media</option>
-              </select>
-              <select id="evidence-filter" aria-label="Evidence filter">
-                <option value="All">全部证据</option>
-                <option value="High">High</option>
-                <option value="Medium">Medium</option>
-                <option value="Low">Low</option>
-              </select>
-              <select id="review-filter" aria-label="Review status filter">
-                <option value="All">全部状态</option>
-                <option value="NeedsReview">待复核</option>
-                <option value="Reviewed">已复核</option>
-              </select>
-            </div>
-
-            <div class="feed-heading">
-              <div>
-                <h2>Signal Feed</h2>
-                <p id="feed-count">0 signals</p>
-              </div>
-              <div class="view-toggle" role="tablist" aria-label="View mode">
-                <button class="active" id="view-cards" type="button">Cards</button>
-                <button id="view-table" type="button">Table</button>
-              </div>
-            </div>
-
-            <div id="card-feed" class="card-feed"></div>
-            <div id="table-feed" class="table-feed hidden"></div>
-          </section>
-
-          <aside class="insight-rail">
-            <section class="panel company-panel" aria-labelledby="company-heading">
-              <div class="section-heading">
-                <h2 id="company-heading">Company Watchlist</h2>
-                <span id="company-count">0</span>
-              </div>
-              <div id="company-list" class="company-list"></div>
-            </section>
-
-            <section class="panel visual-panel" aria-labelledby="map-heading">
-              <div class="section-heading">
-                <h2 id="map-heading">Theme Map</h2>
-                <span id="theme-total">0</span>
-              </div>
-              <canvas id="theme-map" width="360" height="220" aria-label="Theme signal map"></canvas>
-              <div id="theme-list" class="theme-list"></div>
-            </section>
-
-            <section class="panel" aria-labelledby="review-heading">
-              <div class="section-heading">
-                <h2 id="review-heading">Review Queue</h2>
-                <span id="review-count">0</span>
-              </div>
-              <div id="review-list" class="review-list"></div>
-            </section>
-          </aside>
-        </section>
-      </main>
-    </div>
+      <section class="method-note">
+        <strong>阅读边界</strong>
+        <span><b>事实</b> 可直接核验的记录</span>
+        <span><b>来源自述</b> 来源方的表述</span>
+        <span><b>推断</b> 有依据但仍需验证的判断</span>
+        <span><b>未知</b> 当前证据无法回答</span>
+      </section>
+    </main>
 
     <script src="./data.js"></script>
+    <script src="./company-intelligence.js"></script>
     <script src="./app.js"></script>
   </body>
 </html>

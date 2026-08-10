@@ -11,7 +11,6 @@ import argparse
 import datetime as dt
 import gzip
 import json
-import os
 import sys
 import time
 import urllib.error
@@ -22,8 +21,12 @@ from typing import Any, Iterable
 
 try:
     from .company_registry import load_companies
+    from .http_utils import urlopen_with_retry
+    from .local_config import local_setting
 except ImportError:
     from company_registry import load_companies
+    from http_utils import urlopen_with_retry
+    from local_config import local_setting
 
 
 TICKERS_URL = "https://www.sec.gov/files/company_tickers.json"
@@ -53,7 +56,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--raw-output", default="data/raw/sec_latest.json", help="Raw filing metadata JSON.")
     parser.add_argument(
         "--user-agent",
-        default=os.environ.get("SEC_USER_AGENT", ""),
+        default=local_setting("SEC_USER_AGENT"),
         help="Declared SEC User-Agent. Prefer 'Project Name contact@example.com'.",
     )
     parser.add_argument("--dry-run", action="store_true", help="Fetch and classify without writing files.")
@@ -70,7 +73,7 @@ def request_json(url: str, user_agent: str) -> dict[str, Any]:
         },
     )
     try:
-        with urllib.request.urlopen(request, timeout=30) as response:
+        with urlopen_with_retry(request, timeout=30) as response:
             body = response.read()
             encoding = response.headers.get("Content-Encoding", "").lower()
             if encoding == "gzip":
@@ -243,7 +246,7 @@ def make_signal(record: dict[str, Any]) -> dict[str, Any]:
         "primaryCategory": "Company & Market",
         "subCategory": sub_category,
         "eventType": event_type,
-        "sourceType": "Company",
+        "sourceType": "Filing",
         "sourceName": "SEC EDGAR",
         "sourceUrl": record.get("sourceUrl", "https://www.sec.gov/edgar/search/"),
         "reliability": "High",

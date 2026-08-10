@@ -100,17 +100,29 @@ jobs:
 
           python3 scripts/review_with_openai.py "${REVIEW_ARGS[@]}"
 
+      - name: Build company discovery and intelligence
+        run: |
+          python3 scripts/discover_companies.py
+          python3 scripts/review_company_candidates.py
+          python3 scripts/build_company_intelligence.py
+
       - name: Validate generated files
         run: |
-          python3 -m py_compile scripts/company_registry.py scripts/sync_companies.py scripts/collect_pubmed.py scripts/collect_clinicaltrials.py scripts/collect_sec_edgar.py scripts/preserve_source_signals.py scripts/preserve_ai_reviews.py scripts/review_with_openai.py
+          python3 -m compileall -q scripts tests
           python3 -m unittest discover -s tests
+          python3 scripts/validate_data.py
+          python3 scripts/translate_company_sources.py --check
+          python3 scripts/discover_companies.py --check
+          python3 scripts/review_company_candidates.py --check
+          python3 scripts/build_company_intelligence.py --check
           node --check app.js
           node --check data.js
+          node --check company-intelligence.js
 
       - name: Commit refreshed data
         id: commit
         run: |
-          if git diff --quiet -- data.js data/raw; then
+          if git diff --quiet -- data.js data/raw data/evidence.json data/programs.json data/company_mentions.json data/company_candidates.json data/company_candidate_reviews.json data/company_universe.json data/company_identity_links.json data/company_profiles.json company-intelligence.js; then
             echo "No data changes to commit."
             echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
@@ -118,7 +130,7 @@ jobs:
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data.js data/raw
+          git add data.js data/raw data/evidence.json data/programs.json data/company_mentions.json data/company_candidates.json data/company_candidate_reviews.json data/company_universe.json data/company_identity_links.json data/company_profiles.json company-intelligence.js
           git commit -m "Refresh BioHealth Radar data"
 
           for attempt in 1 2 3; do
@@ -135,7 +147,10 @@ jobs:
             git fetch origin main
             git show origin/main:data.js > /tmp/biohealth-radar-data-remote.js
             python3 scripts/preserve_ai_reviews.py --previous /tmp/biohealth-radar-data-remote.js --current data.js
-            git add data.js
+            python3 scripts/discover_companies.py
+            python3 scripts/review_company_candidates.py
+            python3 scripts/build_company_intelligence.py
+            git add data.js data/raw/company_discovery_latest.json data/raw/company_candidate_reviews_latest.json data/evidence.json data/programs.json data/company_mentions.json data/company_candidates.json data/company_candidate_reviews.json data/company_universe.json data/company_profiles.json company-intelligence.js
             git commit --amend --no-edit
             git rebase -X theirs origin/main
           done
@@ -156,3 +171,13 @@ jobs:
         if: steps.commit.outputs.changed == 'true'
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Send failure notification
+        if: ${{ failure() }}
+        env:
+          SMTP_HOST: ${{ vars.SMTP_HOST }}
+          SMTP_PORT: ${{ vars.SMTP_PORT }}
+          SMTP_USERNAME: ${{ vars.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          ALERT_EMAIL: ${{ vars.ALERT_EMAIL }}
+        run: python3 scripts/send_workflow_failure_email.py

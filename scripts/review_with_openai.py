@@ -18,6 +18,13 @@ import urllib.request
 from pathlib import Path
 from typing import Any
 
+try:
+    from .http_utils import urlopen_with_retry
+    from .review_fingerprint import review_input_hash, review_input_payload
+except ImportError:
+    from http_utils import urlopen_with_retry
+    from review_fingerprint import review_input_hash, review_input_payload
+
 
 RESPONSES_URL = "https://api.openai.com/v1/responses"
 DEFAULT_MODEL = "gpt-4o-mini"
@@ -190,9 +197,13 @@ def select_candidates(signals: list[dict[str, Any]], limit: int | None, force: b
     candidates = []
     for signal in signals:
         ai_review = signal.get("aiReview") or {}
-        if not force and ai_review.get("policyVersion") == REVIEW_POLICY_VERSION:
+        current_review_is_valid = (
+            ai_review.get("policyVersion") == REVIEW_POLICY_VERSION
+            and ai_review.get("inputHash") == review_input_hash(signal)
+        )
+        if not force and current_review_is_valid:
             continue
-        if not signal.get("needsReview") and not force:
+        if not signal.get("needsReview") and not force and not ai_review:
             continue
         candidates.append(signal)
         if limit is not None and len(candidates) >= limit:
@@ -201,27 +212,7 @@ def select_candidates(signals: list[dict[str, Any]], limit: int | None, force: b
 
 
 def build_user_payload(signal: dict[str, Any]) -> str:
-    review_input = {
-        "id": signal.get("id"),
-        "date": signal.get("date"),
-        "title": signal.get("title"),
-        "entity": signal.get("entity"),
-        "primaryCategory": signal.get("primaryCategory"),
-        "subCategory": signal.get("subCategory"),
-        "eventType": signal.get("eventType"),
-        "sourceType": signal.get("sourceType"),
-        "sourceName": signal.get("sourceName"),
-        "sourceUrl": signal.get("sourceUrl"),
-        "reliability": signal.get("reliability"),
-        "evidenceLevel": signal.get("evidenceLevel"),
-        "themes": signal.get("themes", []),
-        "tags": signal.get("tags", []),
-        "fact": signal.get("fact"),
-        "report": signal.get("report"),
-        "inference": signal.get("inference"),
-        "unknown": signal.get("unknown"),
-    }
-    return json.dumps(review_input, ensure_ascii=False, indent=2)
+    return json.dumps(review_input_payload(signal), ensure_ascii=False, indent=2)
 
 
 def call_openai(signal: dict[str, Any], model: str, api_key: str) -> dict[str, Any]:
@@ -257,7 +248,7 @@ def call_openai(signal: dict[str, Any], model: str, api_key: str) -> dict[str, A
         method="POST",
     )
     try:
-        with urllib.request.urlopen(request, timeout=90) as response:
+        with urlopen_with_retry(request, timeout=90) as response:
             response_payload = json.loads(response.read().decode("utf-8"))
     except urllib.error.HTTPError as exc:
         detail = exc.read().decode("utf-8", errors="replace")
@@ -308,6 +299,7 @@ def apply_review(
         "policyVersion": REVIEW_POLICY_VERSION,
         "responseId": response_id,
         "reviewedAt": reviewed_at,
+        "inputHash": review_input_hash(signal),
         **review,
     }
     if apply_needs_review:

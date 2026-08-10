@@ -23,6 +23,31 @@ Data file:
 
 - ./data.js
 - ./data/companies.json
+- ./data/evidence.json
+- ./data/programs.json
+- ./data/company_candidates.json
+- ./data/company_candidate_reviews.json
+- ./data/company_candidate_overrides.json
+- ./data/company_universe.json
+- ./data/company_mentions.json
+- ./data/company_profiles.json
+- ./data/raw/company_translations_latest.json
+
+Company intelligence rules:
+
+- Source records become evidence before they affect a company profile.
+- Newly discovered company names remain candidates until entity review.
+- Company discovery begins with source-level mentions and preserves official identifiers and source URLs.
+- Exact normalized names and stable identifiers may cluster mentions; name similarity alone does not auto-promote a company.
+- Candidate intake is automatic when deterministic official-identifier and biotech-relevance gates pass; only conflicts and insufficient identity evidence require human review.
+- Automatic intake confirms company-universe eligibility, not a completed official business profile.
+- ClinicalTrials.gov sponsors/collaborators, NIH RePORTER for-profit awardees, and configured SEC biotech SIC filers are discovery inputs.
+- Trial interventions are program candidates and do not prove company ownership.
+- Current-business summaries remain provisional until supported by official business or pipeline sources.
+- Official company pages are attributed reports, not independently verified facts.
+- Chinese company-business text is a cached translation layer; the official source text and translation provenance are preserved.
+- Explicit future-plan wording may enter reportedPlans, but remains needsReview and unverified.
+- Reported plans, observed moves, inference, and unknown information remain separate.
 
 Homepage:
 

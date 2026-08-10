@@ -21,8 +21,10 @@ from typing import Any
 
 try:
     from .company_registry import load_companies, match_company_ids
+    from .http_utils import urlopen_with_retry
 except ImportError:
     from company_registry import load_companies, match_company_ids
+    from http_utils import urlopen_with_retry
 
 
 API_BASE = "https://clinicaltrials.gov/api/v2/studies"
@@ -78,7 +80,6 @@ SOURCE_WATCHLIST = [
         "type": "Company",
         "cadence": "1h",
         "reliability": "Medium",
-        "url": "https://www.sec.gov/edgar/search/",
     },
     {
         "name": "SEC EDGAR",
@@ -172,7 +173,7 @@ def request_studies(term: str, page_size: int) -> list[dict[str, Any]]:
         "format": "json",
     }
     url = f"{API_BASE}?{urllib.parse.urlencode(params)}"
-    with urllib.request.urlopen(url, timeout=30) as response:
+    with urlopen_with_retry(url, timeout=30) as response:
         payload = json.loads(response.read().decode("utf-8"))
     return payload.get("studies", [])
 
@@ -204,6 +205,7 @@ def parse_study(study: dict[str, Any], matched_term: str) -> dict[str, Any]:
         "officialTitle": identification.get("officialTitle", ""),
         "organization": nested_get(identification, ["organization", "fullName"]),
         "leadSponsor": nested_get(sponsor, ["leadSponsor", "name"]),
+        "collaborators": unique([item.get("name", "") for item in sponsor.get("collaborators", [])]),
         "overallStatus": status.get("overallStatus", ""),
         "hasResults": bool(study.get("hasResults", False)),
         "studyType": design.get("studyType", ""),
@@ -312,6 +314,7 @@ def make_signal(
     company_ids = match_company_ids(
         [
             record.get("leadSponsor", ""),
+            record.get("collaborators", []),
             record.get("organization", ""),
             record.get("briefTitle", ""),
             record.get("officialTitle", ""),

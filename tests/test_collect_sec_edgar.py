@@ -78,6 +78,7 @@ class SecCollectorTests(unittest.TestCase):
 
         self.assertEqual(signal["companyIds"], ["example"])
         self.assertEqual(signal["primaryCategory"], "Company & Market")
+        self.assertEqual(signal["sourceType"], "Filing")
         self.assertIn("No conclusion was drawn", signal["inference"])
         self.assertTrue(signal["needsReview"])
 

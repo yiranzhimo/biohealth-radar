@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "1.0",
+  "kind": "company_candidate_review_overrides",
+  "overrides": [
+    {
+      "candidateId": "candidate-shanghai-juncell-therapeutics",
+      "candidateInputHash": "9805b1016fd604ff4a3e216939597732dcaa02d6a3ac1e404b753811b2d15e20",
+      "decision": "accepted",
+      "reviewer": "liqian",
+      "reviewedAt": "2026-08-10",
+      "reason": "已核对官方来源，确认该实体属于生物技术公司并纳入公司池。",
+      "targetCompanyId": null,
+      "evidenceUrls": [
+        "https://clinicaltrials.gov/study/NCT06828328"
+      ]
+    }
+  ]
+}

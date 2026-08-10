@@ -1,0 +1,87 @@
+name: Refresh Official Company Sources
+
+on:
+  schedule:
+    - cron: "41 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "refresh-data"
+  cancel-in-progress: false
+
+jobs:
+  refresh-company-sources:
+    environment:
+      name: github-pages
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      BHR_USER_AGENT: ${{ vars.SEC_USER_AGENT || vars.BHR_USER_AGENT || 'BioHealthRadar/0.1 (official-source monitor)' }}
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_TRANSLATION_MODEL: ${{ vars.OPENAI_TRANSLATION_MODEL || vars.OPENAI_REVIEW_MODEL || 'gpt-4o-mini' }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Collect all generated company profile sources
+        run: |
+          python3 scripts/collect_company_sources.py \
+            --profiles data/company_profiles.json \
+            --web-overrides data/company_web_overrides.json \
+            --timeout 15 \
+            --attempts 2 \
+            --workers 6 \
+            --due-only
+
+      - name: Translate new or changed company source text
+        run: |
+          python3 scripts/translate_company_sources.py --batch-size 20
+
+      - name: Check source coverage health
+        run: |
+          python3 scripts/check_company_source_health.py --max-failure-rate 0.9
+          python3 scripts/translate_company_sources.py --check --strict-check
+
+      - name: Rebuild and validate company intelligence
+        run: |
+          python3 scripts/build_company_intelligence.py
+          python3 -m compileall -q scripts tests
+          python3 -m unittest discover -s tests
+          python3 scripts/validate_data.py
+          python3 scripts/translate_company_sources.py --check
+          python3 scripts/discover_companies.py --check
+          python3 scripts/review_company_candidates.py --check
+          python3 scripts/build_company_intelligence.py --check
+          node --check app.js
+          node --check company-intelligence.js
+
+      - name: Commit source changes
+        run: |
+          if git diff --quiet -- data/raw/company_sources_latest.json data/raw/company_translations_latest.json data/evidence.json data/company_profiles.json data/company_identity_links.json company-intelligence.js; then
+            echo "No official source changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/raw/company_sources_latest.json data/raw/company_translations_latest.json data/evidence.json data/company_profiles.json data/company_identity_links.json company-intelligence.js
+          git commit -m "Refresh official company sources"
+          git push origin HEAD:main
+
+      - name: Send failure notification
+        if: ${{ failure() }}
+        env:
+          SMTP_HOST: ${{ vars.SMTP_HOST }}
+          SMTP_PORT: ${{ vars.SMTP_PORT }}
+          SMTP_USERNAME: ${{ vars.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          ALERT_EMAIL: ${{ vars.ALERT_EMAIL }}
+        run: python3 scripts/send_workflow_failure_email.py

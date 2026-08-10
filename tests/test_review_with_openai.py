@@ -5,12 +5,16 @@ from scripts import review_with_openai as review
 
 class ReviewPolicyTests(unittest.TestCase):
     def test_old_policy_reviews_are_selected_again(self):
+        current_signal = {"id": "current", "needsReview": True}
+        current_hash = review.review_input_hash(current_signal)
         signals = [
             {"id": "old", "needsReview": True, "aiReview": {"status": "needs_human"}},
             {
-                "id": "current",
-                "needsReview": True,
-                "aiReview": {"policyVersion": review.REVIEW_POLICY_VERSION},
+                **current_signal,
+                "aiReview": {
+                    "policyVersion": review.REVIEW_POLICY_VERSION,
+                    "inputHash": current_hash,
+                },
             },
             {"id": "new", "needsReview": True},
         ]
@@ -18,6 +22,17 @@ class ReviewPolicyTests(unittest.TestCase):
         selected = review.select_candidates(signals, limit=10, force=False)
 
         self.assertEqual([signal["id"] for signal in selected], ["old", "new"])
+
+    def test_changed_signal_with_current_policy_is_selected_again(self):
+        signal = {"id": "changed", "title": "New title", "needsReview": False}
+        signal["aiReview"] = {
+            "policyVersion": review.REVIEW_POLICY_VERSION,
+            "inputHash": review.review_input_hash({**signal, "title": "Old title", "aiReview": {}}),
+        }
+
+        selected = review.select_candidates([signal], limit=10, force=False)
+
+        self.assertEqual([item["id"] for item in selected], ["changed"])
 
     def test_all_pending_has_no_numeric_limit(self):
         signals = [{"id": str(index), "needsReview": True} for index in range(60)]
@@ -104,6 +119,7 @@ class ReviewPolicyTests(unittest.TestCase):
 
         self.assertFalse(signal["needsReview"])
         self.assertEqual(signal["aiReview"]["policyVersion"], review.REVIEW_POLICY_VERSION)
+        self.assertEqual(signal["aiReview"]["inputHash"], review.review_input_hash(signal))
 
 
 if __name__ == "__main__":

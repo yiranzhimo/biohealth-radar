@@ -377,7 +377,7 @@
         "Department of Gynecology, Affiliated Hangzhou First People's Hospital, School of Medicine, Westlake University, Zhejiang, Hangzhou, China."
       ],
       "doi": "10.1002/cam4.72057",
-      "date": "2026-08-00",
+      "date": "2026-08-01",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42572185/"
     },
     {
@@ -393,7 +393,7 @@
         "Department of Health Sciences Research, Amrita Institute of Medical Sciences, Amrita Vishwa Vidyapeetham, Kochi, Kerala, India."
       ],
       "doi": "10.1002/cnr2.70639",
-      "date": "2026-08-00",
+      "date": "2026-08-01",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42571955/"
     },
     {
@@ -463,7 +463,7 @@
         "Clinical Oncology Center, Okayama University Hospital."
       ],
       "doi": "",
-      "date": "2026-06-00",
+      "date": "2026-06-01",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42551938/"
     }
   ],
@@ -862,7 +862,7 @@
     },
     {
       "id": "pubmed-42572185",
-      "date": "2026-08-00",
+      "date": "2026-08-01",
       "title": "Current Advances of Molecular Biomarkers and Liquid Biopsies Techniques in Ovarian Cancer.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
@@ -892,7 +892,7 @@
     },
     {
       "id": "pubmed-42571955",
-      "date": "2026-08-00",
+      "date": "2026-08-01",
       "title": "Targeting Spatiotemporal Heterogeneity of oncomiRNAs: A New Frontier in Cancer Therapy.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
@@ -1160,7 +1160,7 @@
     },
     {
       "id": "pubmed-42551938",
-      "date": "2026-06-00",
+      "date": "2026-06-01",
       "title": "[Therapeutic Targets by Pathology AI and Spatial Transcriptomics in Breast Cancer].",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",

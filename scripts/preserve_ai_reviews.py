@@ -8,6 +8,11 @@ import json
 from pathlib import Path
 from typing import Any
 
+try:
+    from .review_fingerprint import review_input_hash
+except ImportError:
+    from review_fingerprint import review_input_hash
+
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Copy aiReview fields from an old data.js into a new data.js.")
@@ -35,6 +40,45 @@ def write_data_js(path: Path, payload: dict[str, Any]) -> None:
     path.write_text(f"window.BHR_DATA = {serialized};\n", encoding="utf-8")
 
 
+def preserve_reviews(
+    previous: dict[str, Any],
+    current: dict[str, Any],
+    preserve_reviewed_status: bool = True,
+) -> tuple[int, int, int, int]:
+    previous_by_id = {
+        signal.get("id"): signal
+        for signal in previous.get("signals", [])
+        if signal.get("id")
+    }
+
+    preserved_ai_reviews = 0
+    preserved_manual_reviews = 0
+    preserved_reviewed_status = 0
+    changed_signals = 0
+    for signal in current.get("signals", []):
+        prior = previous_by_id.get(signal.get("id"))
+        if not prior:
+            continue
+        current_hash = review_input_hash(signal)
+        if review_input_hash(prior) != current_hash:
+            signal.pop("aiReview", None)
+            signal.pop("manualReview", None)
+            signal["needsReview"] = True
+            changed_signals += 1
+            continue
+        if prior.get("aiReview") and not signal.get("aiReview"):
+            signal["aiReview"] = {**prior["aiReview"], "inputHash": current_hash}
+            preserved_ai_reviews += 1
+        if prior.get("manualReview") and not signal.get("manualReview"):
+            signal["manualReview"] = {**prior["manualReview"], "inputHash": current_hash}
+            preserved_manual_reviews += 1
+        if preserve_reviewed_status and prior.get("needsReview") is False:
+            signal["needsReview"] = False
+            preserved_reviewed_status += 1
+
+    return preserved_ai_reviews, preserved_manual_reviews, preserved_reviewed_status, changed_signals
+
+
 def main() -> int:
     args = parse_args()
     previous_path = Path(args.previous)
@@ -45,34 +89,18 @@ def main() -> int:
 
     previous = read_data_js(previous_path)
     current = read_data_js(current_path)
-    previous_by_id = {
-        signal.get("id"): signal
-        for signal in previous.get("signals", [])
-        if signal.get("id")
-    }
-
-    preserved_ai_reviews = 0
-    preserved_manual_reviews = 0
-    preserved_reviewed_status = 0
-    for signal in current.get("signals", []):
-        prior = previous_by_id.get(signal.get("id"))
-        if not prior:
-            continue
-        if prior.get("aiReview") and not signal.get("aiReview"):
-            signal["aiReview"] = prior["aiReview"]
-            preserved_ai_reviews += 1
-        if prior.get("manualReview") and not signal.get("manualReview"):
-            signal["manualReview"] = prior["manualReview"]
-            preserved_manual_reviews += 1
-        if args.preserve_reviewed_status and prior.get("needsReview") is False:
-            signal["needsReview"] = False
-            preserved_reviewed_status += 1
+    preserved_ai_reviews, preserved_manual_reviews, preserved_reviewed_status, changed_signals = preserve_reviews(
+        previous,
+        current,
+        preserve_reviewed_status=args.preserve_reviewed_status,
+    )
 
     write_data_js(current_path, current)
     print(
         f"Preserved {preserved_ai_reviews} aiReview field(s), "
         f"{preserved_manual_reviews} manualReview field(s), and "
-        f"{preserved_reviewed_status} reviewed status flag(s)."
+        f"{preserved_reviewed_status} reviewed status flag(s); "
+        f"reset {changed_signals} changed signal(s) for review."
     )
     return 0
 
