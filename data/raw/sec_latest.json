@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-10T08:07:23.106027+00:00",
+  "capturedAt": "2026-08-10T13:47:58.665334+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-07-27",
@@ -139,6 +139,31 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-08-10",
+      "reportDate": "",
+      "acceptanceDateTime": "2026-08-10T08:13:14.000Z",
+      "act": "33",
+      "form": "424B2",
+      "fileNumber": "333-281921",
+      "filmNumber": "261256333",
+      "items": "",
+      "size": 506299,
+      "isXBRL": 0,
+      "isInlineXBRL": 0,
+      "primaryDocument": "d173650d424b2.htm",
+      "primaryDocDescription": "424B2",
+      "accessionNumber": "0001193125-26-341332",
+      "companyId": "illumina",
+      "companyName": "Illumina",
+      "companyDirections": [
+        "Sequencing & Research Tools"
+      ],
+      "secTicker": "ILMN",
+      "cik": "0001110803",
+      "secName": "ILLUMINA, INC.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526341332/d173650d424b2.htm"
+    },
     {
       "filingDate": "2026-08-07",
       "reportDate": "2026-08-07",
@@ -995,6 +1020,37 @@
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001110803-000119312526341332",
+      "date": "2026-08-10",
+      "title": "Illumina filed Form 424B2",
+      "entity": "Illumina",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Prospectus",
+      "eventType": "Offering",
+      "sourceType": "Company",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526341332/d173650d424b2.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Sequencing & Research Tools"
+      ],
+      "tags": [
+        "SEC",
+        "424B2",
+        "ILMN"
+      ],
+      "companyIds": [
+        "illumina"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-341332 for Illumina, Form 424B2, filed on 2026-08-10.",
+      "report": "SEC metadata describes the primary document as: 424B2.",
+      "inference": "The event was automatically routed as Offering from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001110803-000111080326000168",
       "date": "2026-08-07",
