@@ -2916,11 +2916,15 @@
         "Investor Relations Page"
       ],
       "fact": "The official page was captured with normalized-content hash 4acde96b3042e606a14cabe300fd4517b850624182ba9eda1b1d1eac2cd20af4.",
-      "report": "公司官方页面表述：We are a life science technology company building products to interrogate, understand and master biology.",
+      "report": "公司官方页面表述：我们是一家生命科学技术公司，开发产品以探究、理解和掌握生物学。",
       "reportOriginal": "We are a life science technology company building products to interrogate, understand and master biology.",
-      "reportCn": null,
+      "reportCn": "我们是一家生命科学技术公司，开发产品以探究、理解和掌握生物学。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "ffa5163841f7e0d43e4e0789a628790317b6f93246f4263f32a22861acb00d22"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -2965,11 +2969,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 39cc8ea1066d5756ecc75294769674c01874859ee1235582411c4281a16d0962.",
-      "report": "公司官方页面表述：We deliver powerful, reliable tools that fuel scientific discoveries and drive exponential progress to master biology to advance human health.",
+      "report": "公司官方页面表述：我们提供强大、可靠的工具，促进科学发现，推动指数级进展，以掌握生物学来改善人类健康。",
       "reportOriginal": "We deliver powerful, reliable tools that fuel scientific discoveries and drive exponential progress to master biology to advance human health.",
-      "reportCn": null,
+      "reportCn": "我们提供强大、可靠的工具，促进科学发现，推动指数级进展，以掌握生物学来改善人类健康。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "c15a8a65f57cbb2c6a5480d3f608fd0ac7e1af6f535311d4a01af401087a04e6"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -3019,11 +3027,15 @@
         "Pipeline Page"
       ],
       "fact": "The official page was captured with normalized-content hash 489854eb7ec1e1ca1b0723117bdb2cbda2f2b5cf30c1b01dea6194d65ae0a93d.",
-      "report": "公司官方页面表述：Compare 10x Genomics products and find the one that's right for your needs.",
+      "report": "公司官方页面表述：比较 10x Genomics 的产品，找到最适合您需求的产品。",
       "reportOriginal": "Compare 10x Genomics products and find the one that's right for your needs.",
-      "reportCn": null,
+      "reportCn": "比较 10x Genomics 的产品，找到最适合您需求的产品。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "117efe859b4fdbc739e92b7f9a5948940355205627c17872ac6a85236466912b"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -3072,11 +3084,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash be59a6245ab1332cc5a8efe96260dab4c599bfd2f62fe535fc47463ba9b2a235.",
-      "report": "公司官方页面表述：Akeso Advances IO2.0 + ADC2.0 Strategy: First Patient Dosed in Phase II Study of TROP2/Nectin-4 Bispecific ADC (AK146D1) Combined with Ivonescimab in Breast Cancer",
+      "report": "公司官方页面表述：Akeso 推进 IO2.0 + ADC2.0 战略：第一位患者已在 TROP2/Nectin-4 双特异性 ADC（AK146D1）与 Ivonescimab 联合治疗乳腺癌的 II 期研究中接受用药。",
       "reportOriginal": "Akeso Advances IO2.0 + ADC2.0 Strategy: First Patient Dosed in Phase II Study of TROP2/Nectin-4 Bispecific ADC (AK146D1) Combined with Ivonescimab in Breast Cancer",
-      "reportCn": null,
+      "reportCn": "Akeso 推进 IO2.0 + ADC2.0 战略：第一位患者已在 TROP2/Nectin-4 双特异性 ADC（AK146D1）与 Ivonescimab 联合治疗乳腺癌的 II 期研究中接受用药。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "8fdf9af4d356515ed99e2b99f0cfc0b01cd4d96baebd568eff41105d419aacb8"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -3128,11 +3144,15 @@
         "Investor Relations Page"
       ],
       "fact": "The official page was captured with normalized-content hash eb7582919668f292267743d326d6392b09933c6127c2ce8db03593a51f14aafa.",
-      "report": "公司官方页面表述：The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
+      "report": "公司官方页面表述：投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。",
       "reportOriginal": "The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
-      "reportCn": null,
+      "reportCn": "投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "55480c1cbf9dce69e7a7745450bbe3ce4169e8e95bb1b5b6359d29119a602a08"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -3178,11 +3198,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash e8c13028abe27174615261cba7bd43dca47f199a5e8c9add930ef51ea976e310.",
-      "report": "公司官方页面表述：Alnylam has pioneered RNAi therapeutics, an innovative approach to gene silencing. We are driven by science and committed to developing transformational medicines for patients.",
+      "report": "公司官方页面表述：Alnylam 开创了 RNA 干扰治疗，一种创新的基因沉默方法。我们致力于科学，致力于为患者开发变革性药物。",
       "reportOriginal": "Alnylam has pioneered RNAi therapeutics, an innovative approach to gene silencing. We are driven by science and committed to developing transformational medicines for patients.",
-      "reportCn": null,
+      "reportCn": "Alnylam 开创了 RNA 干扰治疗，一种创新的基因沉默方法。我们致力于科学，致力于为患者开发变革性药物。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "7ab8ae5ed5351a3c018e817543a3f19951a6829a9672427abf67eb56d650d399"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -3232,11 +3256,15 @@
         "Pipeline Page"
       ],
       "fact": "The official page was captured with normalized-content hash 77914bacd5b215b02cbcf551be05a45a59ed23a4925274e87a0d4a7e7fe7adaf.",
-      "report": "公司官方页面表述：Alnylam’s pipeline of investigation RNAi therapeutics is focused on TTR Amyloidosis, cardiovascular, metabolic, neuroscience, hematology, rare and other diseases.",
+      "report": "公司官方页面表述：Alnylam 的研究 RNA 干扰治疗管线专注于 TTR 淀粉样变性、心血管、代谢、神经科学、血液学、罕见病及其他疾病。",
       "reportOriginal": "Alnylam’s pipeline of investigation RNAi therapeutics is focused on TTR Amyloidosis, cardiovascular, metabolic, neuroscience, hematology, rare and other diseases.",
-      "reportCn": null,
+      "reportCn": "Alnylam 的研究 RNA 干扰治疗管线专注于 TTR 淀粉样变性、心血管、代谢、神经科学、血液学、罕见病及其他疾病。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "01f9f61a1dd726c57fb381a7f289bcb400c26779ce6fda03824e083abf5afa5c"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -3288,11 +3316,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash a615e12671b4a4594e47dad62aa4be058fd406f2c6d33e0144f8ff8a80acff5d.",
-      "report": "公司官方页面表述：Altos Labs is a biotechnology company focused on restoring cell health and resilience through cell rejuvenation to reverse disease, injury, and the disabilities that occur throughout life. Learn more about Altos.",
+      "report": "公司官方页面表述：Altos Labs 是一家生物技术公司，专注于通过细胞再生恢复细胞健康和弹性，以逆转疾病、损伤和终生的残疾。了解更多关于 Altos 的信息。",
       "reportOriginal": "Altos Labs is a biotechnology company focused on restoring cell health and resilience through cell rejuvenation to reverse disease, injury, and the disabilities that occur throughout life. Learn more about Altos.",
-      "reportCn": null,
+      "reportCn": "Altos Labs 是一家生物技术公司，专注于通过细胞再生恢复细胞健康和弹性，以逆转疾病、损伤和终生的残疾。了解更多关于 Altos 的信息。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "adc5ecb377ca4ddcf431cac2a9c07c0f77ecf2f4ed78df1f552ea5cace565a82"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -3342,11 +3374,15 @@
         "Pipeline Page"
       ],
       "fact": "The official page was captured with normalized-content hash a615e12671b4a4594e47dad62aa4be058fd406f2c6d33e0144f8ff8a80acff5d.",
-      "report": "公司官方页面表述：Altos Labs is a biotechnology company focused on restoring cell health and resilience through cell rejuvenation to reverse disease, injury, and the disabilities that occur throughout life. Learn more about Altos.",
+      "report": "公司官方页面表述：Altos Labs 是一家生物技术公司，专注于通过细胞再生恢复细胞健康和弹性，以逆转疾病、损伤和终生的残疾。了解更多关于 Altos 的信息。",
       "reportOriginal": "Altos Labs is a biotechnology company focused on restoring cell health and resilience through cell rejuvenation to reverse disease, injury, and the disabilities that occur throughout life. Learn more about Altos.",
-      "reportCn": null,
+      "reportCn": "Altos Labs 是一家生物技术公司，专注于通过细胞再生恢复细胞健康和弹性，以逆转疾病、损伤和终生的残疾。了解更多关于 Altos 的信息。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "adc5ecb377ca4ddcf431cac2a9c07c0f77ecf2f4ed78df1f552ea5cace565a82"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -3396,11 +3432,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash bfa890ca12205d4cbcc0c33acdb5fac443195795e1617527695a1d86beeb7782.",
-      "report": "公司官方页面表述：Kite is dedicated to curing cancer. Learn about the science of cell therapy, our cancer research, and our cancer treatments in the pipeline.",
+      "report": "公司官方页面表述：Kite专注于治愈癌症。了解细胞疗法的科学、我们的癌症研究以及我们的癌症治疗方案。",
       "reportOriginal": "Kite is dedicated to curing cancer. Learn about the science of cell therapy, our cancer research, and our cancer treatments in the pipeline.",
-      "reportCn": null,
+      "reportCn": "Kite专注于治愈癌症。了解细胞疗法的科学、我们的癌症研究以及我们的癌症治疗方案。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "7272f3e7a86a9d1c4d795bd957a711669f886fc21776cac075d75b225c6339ce"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -3453,11 +3493,15 @@
         "Pipeline Page"
       ],
       "fact": "The official page was captured with normalized-content hash bfa890ca12205d4cbcc0c33acdb5fac443195795e1617527695a1d86beeb7782.",
-      "report": "公司官方页面表述：Kite is dedicated to curing cancer. Learn about the science of cell therapy, our cancer research, and our cancer treatments in the pipeline.",
+      "report": "公司官方页面表述：Kite专注于治愈癌症。了解细胞疗法的科学、我们的癌症研究以及我们的癌症治疗方案。",
       "reportOriginal": "Kite is dedicated to curing cancer. Learn about the science of cell therapy, our cancer research, and our cancer treatments in the pipeline.",
-      "reportCn": null,
+      "reportCn": "Kite专注于治愈癌症。了解细胞疗法的科学、我们的癌症研究以及我们的癌症治疗方案。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "7272f3e7a86a9d1c4d795bd957a711669f886fc21776cac075d75b225c6339ce"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -3510,11 +3554,15 @@
         "Investor Relations Page"
       ],
       "fact": "The official page was captured with normalized-content hash f6268a29f01657717f6c15b1e0c0f478eb2650e4070ae37012a85230a5c6e8f5.",
-      "report": "公司官方页面表述：The Investor Relations website contains information about Arvinas's business for stockholders, potential investors, and financial analysts.",
+      "report": "公司官方页面表述：投资者关系网站包含有关Arvinas业务的信息，供股东、潜在投资者和金融分析师使用。",
       "reportOriginal": "The Investor Relations website contains information about Arvinas's business for stockholders, potential investors, and financial analysts.",
-      "reportCn": null,
+      "reportCn": "投资者关系网站包含有关Arvinas业务的信息，供股东、潜在投资者和金融分析师使用。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "a6ae4a5f613d5a3c908477b33db68867108e2bf3b1289889ece694daae1069dd"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -3565,11 +3613,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash fcd4bdca5dedd8a1cf6f7d89dbf8d8d335e3bf7701c0d119910d665ff5b18217.",
-      "report": "公司官方页面表述：Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
+      "report": "公司官方页面表述：Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
       "reportOriginal": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
-      "reportCn": null,
+      "reportCn": "Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "cfa793d2af55f4a10e07626a59d4e74f01515edb7ab7f716440c40f20d74a508"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -3622,11 +3674,15 @@
         "Pipeline Page"
       ],
       "fact": "The official page was captured with normalized-content hash 061710113116554d36333dd33feb4d844932054c2daea9c9471ef4eb8b1857b7.",
-      "report": "公司官方页面表述：Arvinas' pipeline of PROTAC degraders are designed to harness the body’s own natural protein disposal system.",
+      "report": "公司官方页面表述：Arvinas 的 PROTAC 降解剂管线旨在利用身体自身的蛋白质处置系统。",
       "reportOriginal": "Arvinas' pipeline of PROTAC degraders are designed to harness the body’s own natural protein disposal system.",
-      "reportCn": null,
+      "reportCn": "Arvinas 的 PROTAC 降解剂管线旨在利用身体自身的蛋白质处置系统。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "ae58b522f5b3427e9deb82fd0bc3821bdb737b85d3e4bbe7e56e79c41fffcac1"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -3678,11 +3734,15 @@
         "Investor Relations Page"
       ],
       "fact": "The official page was captured with normalized-content hash 160dbada0caa819b6fed37743c96fa08e9c7f6cc1958edca5805b472d11b7c2c.",
-      "report": "公司官方页面表述：The Investor Relations website contains information about Beam Therapeutics's business for stockholders, potential investors, and financial analysts.",
+      "report": "公司官方页面表述：投资者关系网站包含有关Beam Therapeutics业务的信息，供股东、潜在投资者和金融分析师使用。",
       "reportOriginal": "The Investor Relations website contains information about Beam Therapeutics's business for stockholders, potential investors, and financial analysts.",
-      "reportCn": null,
+      "reportCn": "投资者关系网站包含有关Beam Therapeutics业务的信息，供股东、潜在投资者和金融分析师使用。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "0f1de227460b90bc760d69ea87b04d91b33d4ee443338d63d50e80388526e6df"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -3733,11 +3793,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash daa041bcc1cde08dd36dd71296dc6d00559679ee7355e5c7190d0a5023029ab7.",
-      "report": "公司官方页面表述：Base editing is an emerging class of investigational precision genetic medicines designed to overcome the limitations of existing approaches and expand the potential of genetic medicine.",
+      "report": "公司官方页面表述：碱基编辑是一种新兴的研究性精准基因药物，旨在克服现有方法的局限，扩展基因医学的潜力。",
       "reportOriginal": "Base editing is an emerging class of investigational precision genetic medicines designed to overcome the limitations of existing approaches and expand the potential of genetic medicine.",
-      "reportCn": null,
+      "reportCn": "碱基编辑是一种新兴的研究性精准基因药物，旨在克服现有方法的局限，扩展基因医学的潜力。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "d67239a1a19fc47393a29c3166929d0519a126433b299c7de7cd60cf9c1377bd"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -3782,11 +3846,15 @@
         "Pipeline Page"
       ],
       "fact": "The official page was captured with normalized-content hash 853ab17780d856818317f6380988047df5624dddd93341242e7da6e34e8e7912.",
-      "report": "公司官方页面表述：Beam is exploring the potential for in vivo base editing programs for the treatment of sickle cell disease and beta-thalassemia.",
+      "report": "公司官方页面表述：Beam 正在探索体内碱基编辑程序在镰刀型细胞病和 β-地中海贫血治疗中的潜力。",
       "reportOriginal": "Beam is exploring the potential for in vivo base editing programs for the treatment of sickle cell disease and beta-thalassemia.",
-      "reportCn": null,
+      "reportCn": "Beam 正在探索体内碱基编辑程序在镰刀型细胞病和 β-地中海贫血治疗中的潜力。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "a2e65bc20539c43c3fadecbf4acb917810ceefdc5951d6ce17ce2300da8c1221"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -3878,11 +3946,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 1b361706d8e1221c16882e4be2d6c41650798aabcda96d89ecc77e8e29166ccd.",
-      "report": "公司官方页面表述：Explore how BeOne Medicines advances global cancer care through an integrated model of discovery, development, and delivery, bringing transformative therapies to patients worldwide.",
+      "report": "公司官方页面表述：探索BeOne Medicines如何通过综合的发现、开发和交付模型推动全球癌症护理，为全球患者带来变革性疗法。",
       "reportOriginal": "Explore how BeOne Medicines advances global cancer care through an integrated model of discovery, development, and delivery, bringing transformative therapies to patients worldwide.",
-      "reportCn": null,
+      "reportCn": "探索BeOne Medicines如何通过综合的发现、开发和交付模型推动全球癌症护理，为全球患者带来变革性疗法。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "b9665ee59f11992f72179d26236248b516d443d1f8337e37fbbbd750b6dd6f70"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -3934,11 +4006,15 @@
         "Pipeline Page"
       ],
       "fact": "The official page was captured with normalized-content hash cad9773572ea11b7f698057e7827f79b0e87d64a688eb2287619e943f7169984.",
-      "report": "公司官方页面表述：Explore BeOne Medicines’ clinical pipeline advancing innovative therapies across development stages to address unmet medical needs.",
+      "report": "公司官方页面表述：探索 BeOne Medicines 的临床管线，推进各开发阶段的创新疗法，以解决未满足的医疗需求。",
       "reportOriginal": "Explore BeOne Medicines’ clinical pipeline advancing innovative therapies across development stages to address unmet medical needs.",
-      "reportCn": null,
+      "reportCn": "探索 BeOne Medicines 的临床管线，推进各开发阶段的创新疗法，以解决未满足的医疗需求。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "1918c4f1008335dfa39217321ae8e68a24b0a34d0b3f4b5eb03ec30bee60c5df"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -3988,11 +4064,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 5236596879c09f30125adbfb6b69ef674bd8c956b93d0c2fa9228b1627a0ad7c.",
-      "report": "公司官方页面表述：Learn About Targeted Protein Degradation",
+      "report": "公司官方页面表述：了解靶向蛋白降解。",
       "reportOriginal": "Learn About Targeted Protein Degradation",
-      "reportCn": null,
+      "reportCn": "了解靶向蛋白降解。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "79370760bc3aef733cfc2a8d4475d37e407ff493736fbcf87ff0663a2c416ec8"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -4036,11 +4116,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 1f156f50e9c6e3b03cea93638e9a8e427a21431e595124bae5a3d7daaeb05292.",
-      "report": "公司官方页面表述：Nature Reviews Speaks with Head of Drug Discovery, Philip Kym, Ph.D., About Calico’s Translational Research and Clinical Pipeline",
+      "report": "公司官方页面表述：《自然评论》与药物发现负责人Philip Kym博士讨论Calico的转化研究和临床管道。",
       "reportOriginal": "Nature Reviews Speaks with Head of Drug Discovery, Philip Kym, Ph.D., About Calico’s Translational Research and Clinical Pipeline",
-      "reportCn": null,
+      "reportCn": "《自然评论》与药物发现负责人Philip Kym博士讨论Calico的转化研究和临床管道。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "542ca3081ce0dd6f760a802b1f2bb8e43bbdf3dfb8705c053e8334f2f446d496"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -4093,11 +4177,15 @@
         "Pipeline Page"
       ],
       "fact": "The official page was captured with normalized-content hash 1f156f50e9c6e3b03cea93638e9a8e427a21431e595124bae5a3d7daaeb05292.",
-      "report": "公司官方页面表述：Nature Reviews Speaks with Head of Drug Discovery, Philip Kym, Ph.D., About Calico’s Translational Research and Clinical Pipeline",
+      "report": "公司官方页面表述：《自然评论》与药物发现负责人Philip Kym博士讨论Calico的转化研究和临床管道。",
       "reportOriginal": "Nature Reviews Speaks with Head of Drug Discovery, Philip Kym, Ph.D., About Calico’s Translational Research and Clinical Pipeline",
-      "reportCn": null,
+      "reportCn": "《自然评论》与药物发现负责人Philip Kym博士讨论Calico的转化研究和临床管道。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "542ca3081ce0dd6f760a802b1f2bb8e43bbdf3dfb8705c053e8334f2f446d496"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -4696,11 +4784,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -5759,11 +5851,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -5814,11 +5910,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -5911,11 +6011,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -5966,11 +6070,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -6021,11 +6129,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -6076,11 +6188,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 0db6a562c6649ee7b194b0478df12de4e668659dce786529223d85d5bc7fce53.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -6131,11 +6247,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -6186,11 +6306,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -6241,11 +6365,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -6296,11 +6424,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -6351,11 +6483,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -6406,11 +6542,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -6461,11 +6601,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -6516,11 +6660,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -6571,11 +6719,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -6626,11 +6778,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -6681,11 +6837,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -6736,11 +6896,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -6791,11 +6955,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -6888,11 +7056,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -6943,11 +7115,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -7040,11 +7216,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -7095,11 +7275,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -7150,11 +7334,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -7205,11 +7393,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -7260,11 +7452,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -7315,11 +7511,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -7370,11 +7570,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -7425,11 +7629,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -7648,11 +7856,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -7703,11 +7915,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash d75b9e207fdabfe1f2e9bfe53b3cfbc65c6bbc811dad995a38c68bf057c0153c.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -7842,11 +8058,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -8023,11 +8243,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -8078,11 +8302,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -8133,11 +8361,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -8188,11 +8420,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -8243,11 +8479,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -8298,11 +8538,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -8353,11 +8597,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -8408,11 +8656,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -8463,11 +8715,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -8518,11 +8774,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -8573,11 +8833,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -8628,11 +8892,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -8683,11 +8951,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -8738,11 +9010,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -8793,11 +9069,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -8848,11 +9128,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -8903,11 +9187,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -8958,11 +9246,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -9013,11 +9305,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -9068,11 +9364,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -9123,11 +9423,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -9178,11 +9482,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -9233,11 +9541,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -9288,11 +9600,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -9343,11 +9659,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -9398,11 +9718,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -9453,11 +9777,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -9508,11 +9836,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -9563,11 +9895,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -9618,11 +9954,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -9673,11 +10013,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash d75b9e207fdabfe1f2e9bfe53b3cfbc65c6bbc811dad995a38c68bf057c0153c.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -9728,11 +10072,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -9783,11 +10131,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -9838,11 +10190,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 156d6c7291a53f370dbfb69fbf8a1dd006123abf91480d383d2910c6a1fe113e.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -9893,11 +10249,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -9948,11 +10308,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -10003,11 +10367,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -10058,11 +10426,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -10113,11 +10485,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -10168,11 +10544,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -10223,11 +10603,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -10278,11 +10662,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -10333,11 +10721,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -10390,9 +10782,13 @@
       "fact": "The official page was captured with normalized-content hash 46105bf48674e543ac43fe1a6f661a45963f982baf12c23200c7ef02f94dd311.",
       "report": "公司官方页面表述：ClinicalTrials.gov",
       "reportOriginal": "ClinicalTrials.gov",
-      "reportCn": null,
+      "reportCn": "ClinicalTrials.gov",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "46105bf48674e543ac43fe1a6f661a45963f982baf12c23200c7ef02f94dd311"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -10430,11 +10826,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -10485,11 +10885,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -10540,11 +10944,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -10595,11 +11003,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -10650,11 +11062,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -10705,11 +11121,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -10760,11 +11180,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -10815,11 +11239,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -10870,11 +11298,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -10925,11 +11357,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -10980,11 +11416,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -11035,11 +11475,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -11090,11 +11534,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -11145,11 +11593,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -11200,11 +11652,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -11255,11 +11711,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -11310,11 +11770,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -11365,11 +11829,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -11420,11 +11888,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -11475,11 +11947,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -11530,11 +12006,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -11585,11 +12065,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -11640,11 +12124,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
-      "report": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-      "reportCn": null,
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -11848,11 +12336,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 98bcebd0575ea3dc9001a83679e5109e6218a903b72cb9cc1c3f3fd2c6c90dba.",
-      "report": "公司官方页面表述：Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response. Get started today.",
+      "report": "公司官方页面表述：下一代器官芯片技术使研究人员能够模拟生物学并预测人类反应。立即开始。",
       "reportOriginal": "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response. Get started today.",
-      "reportCn": null,
+      "reportCn": "下一代器官芯片技术使研究人员能够模拟生物学并预测人类反应。立即开始。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "3dad2b3c0cbbea75376bfe167f3e50349ae24fc90f0a904a984976c40311fc90"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -11900,11 +12392,15 @@
         "Pipeline Page"
       ],
       "fact": "The official page was captured with normalized-content hash c40a3b65d6e417bb2ce58d6f60fe5aaf3d00641673a90daa16dc1730c3ecc097.",
-      "report": "公司官方页面表述：Learn more about Emulate Organ-Chips, the Human Emulation System, ready-to-culture BioKits, and more.",
+      "report": "公司官方页面表述：了解Emulate的器官芯片、人类模拟系统、即用型培养生物套件等。",
       "reportOriginal": "Learn more about Emulate Organ-Chips, the Human Emulation System, ready-to-culture BioKits, and more.",
-      "reportCn": null,
+      "reportCn": "了解Emulate的器官芯片、人类模拟系统、即用型培养生物套件等。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "790eae1dc87dec535c5d7ea41b933eacb9b86f17db2ab05d1579171ea322cd78"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -11953,11 +12449,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 36144661ef9d414a2c865838a62d8a5ae8b18de987d6dc4c384f8b453c32f767.",
-      "report": "公司官方页面表述：Welcome to Genmab",
+      "report": "公司官方页面表述：欢迎来到Genmab。",
       "reportOriginal": "Welcome to Genmab",
-      "reportCn": null,
+      "reportCn": "欢迎来到Genmab。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "36144661ef9d414a2c865838a62d8a5ae8b18de987d6dc4c384f8b453c32f767"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -12148,11 +12648,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash a1de5108f02c3b42aec3a0ddf48156425fb2d2671614a7da528817c208e25750.",
-      "report": "公司官方页面表述：A PATIENT IN THE LAB® HUB Organoids predict patient response to treatment. Our patented technology allows the development of patient-derived “mini-organs in a dish” from both healthy and diseased tissues to close the gap between the lab and the clinic.",
+      "report": "公司官方页面表述：实验室中的患者®中心类器官预测患者对治疗的反应。我们的专利技术允许从健康和疾病组织中开发出患者来源的“盘中迷你器官”，以缩小实验室与临床之间的差距。",
       "reportOriginal": "A PATIENT IN THE LAB® HUB Organoids predict patient response to treatment. Our patented technology allows the development of patient-derived “mini-organs in a dish” from both healthy and diseased tissues to close the gap between the lab and the clinic.",
-      "reportCn": null,
+      "reportCn": "实验室中的患者®中心类器官预测患者对治疗的反应。我们的专利技术允许从健康和疾病组织中开发出患者来源的“盘中迷你器官”，以缩小实验室与临床之间的差距。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "16ad8feb58c41f73f206d0102e9d06c730c633615352c9724344f3ad5918f8aa"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -12203,11 +12707,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash bb85914b110809ef05796c22be368c55473cad1c646b7fec5453c809f6fa86f0.",
-      "report": "公司官方页面表述：Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
+      "report": "公司官方页面表述：Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
       "reportOriginal": "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
-      "reportCn": null,
+      "reportCn": "Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "e33a7d54419b7f1fffea71ca52762ee2c53c4cb29d713afc4b5021e4b9a7597a"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -12260,11 +12768,15 @@
         "Pipeline Page"
       ],
       "fact": "The official page was captured with normalized-content hash dda577433e9a8e8bc684b9ffeeb19900720a07ef20c8e7896b325f511a07199e.",
-      "report": "公司官方页面表述：Explore the Illumina portfolio of lab instruments offering proven, innovative technology for a wide range of throughput and application needs.",
+      "report": "公司官方页面表述：探索Illumina实验室仪器的产品组合，提供经过验证的创新技术，以满足广泛的通量和应用需求。",
       "reportOriginal": "Explore the Illumina portfolio of lab instruments offering proven, innovative technology for a wide range of throughput and application needs.",
-      "reportCn": null,
+      "reportCn": "探索Illumina实验室仪器的产品组合，提供经过验证的创新技术，以满足广泛的通量和应用需求。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "d291dd06fa8ed38540d6e394da2385d4a810540f8074788486c145ae8a0b09ca"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -12317,11 +12829,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 8b95032895a942b72f25654ab2294ff7f89dfc4369230fe3fcab2a291b025ebe.",
-      "report": "公司官方页面表述：Generative AI and Automation for Longevity and Sustainability",
+      "report": "公司官方页面表述：生成性人工智能和自动化用于健康和可持续性。",
       "reportOriginal": "Generative AI and Automation for Longevity and Sustainability",
-      "reportCn": null,
+      "reportCn": "生成性人工智能和自动化用于健康和可持续性。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "3cff827f06d74551243003036d6f1da58c309f54d570ae268ee18487a8abd1c4"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -12373,11 +12889,15 @@
         "Pipeline Page"
       ],
       "fact": "The official page was captured with normalized-content hash 4c3398340303741834c0ebc4c3c057cf6c5b6033f396cccc3d95ba5e80b0a5ac.",
-      "report": "公司官方页面表述：The rapid progress of internal pipeline demonstrates the generative-AI driven drug discovery capabilities of our Pharma.AI platform consisting of Biology42, Chemistry42, and Medicine42.",
+      "report": "公司官方页面表述：内部产品线的快速进展展示了我们Pharma.AI平台在药物发现方面的生成式AI驱动能力，该平台由Biology42、Chemistry42和Medicine42组成。",
       "reportOriginal": "The rapid progress of internal pipeline demonstrates the generative-AI driven drug discovery capabilities of our Pharma.AI platform consisting of Biology42, Chemistry42, and Medicine42.",
-      "reportCn": null,
+      "reportCn": "内部产品线的快速进展展示了我们Pharma.AI平台在药物发现方面的生成式AI驱动能力，该平台由Biology42、Chemistry42和Medicine42组成。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "1dcb1fc717f4d5dbc963f8d8e897665aa5681294cbdc7f5d1ac5fcac21e99b6d"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -12424,11 +12944,15 @@
         "Investor Relations Page"
       ],
       "fact": "The official page was captured with normalized-content hash 7de05bb26624706e6450a6368f8e8ed3e77baf74ef871ca02656d0c37241bc2a.",
-      "report": "公司官方页面表述：The Investor Relations website contains information about Intellia Therapeutics's business for stockholders, potential investors, and financial analysts.",
+      "report": "公司官方页面表述：投资者关系网站包含有关Intellia Therapeutics业务的信息，供股东、潜在投资者和金融分析师使用。",
       "reportOriginal": "The Investor Relations website contains information about Intellia Therapeutics's business for stockholders, potential investors, and financial analysts.",
-      "reportCn": null,
+      "reportCn": "投资者关系网站包含有关Intellia Therapeutics业务的信息，供股东、潜在投资者和金融分析师使用。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "c565a6a5c9a12b86541f6f3aaf13d5540b90321667181bb7e9047adf88c797a9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -12475,11 +12999,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 1cca8fbc302f5f0f8b3d9ee5483f8efbb8a2151b6fdf6bf6e9f280566c4ae971.",
-      "report": "公司官方页面表述：Intellia Therapeutics, a leading clinical-stage genome editing company, is developing novel, potentially curative therapeutics leveraging CRISPR-based technologies.",
+      "report": "公司官方页面表述：Intellia Therapeutics是一家领先的临床阶段基因编辑公司，正在利用基于CRISPR的技术开发新的潜在治愈疗法。",
       "reportOriginal": "Intellia Therapeutics, a leading clinical-stage genome editing company, is developing novel, potentially curative therapeutics leveraging CRISPR-based technologies.",
-      "reportCn": null,
+      "reportCn": "Intellia Therapeutics是一家领先的临床阶段基因编辑公司，正在利用基于CRISPR的技术开发新的潜在治愈疗法。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "70b5c2b949754bab4933431d555b2766a0b390dec89582d3b0fe988e84a339a1"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -12525,11 +13053,15 @@
         "Pipeline Page"
       ],
       "fact": "The official page was captured with normalized-content hash bbcfc2db2053f88e06e5f37bb04299199f4d882298fc785c39c30a4442cb50c9.",
-      "report": "公司官方页面表述：Intellia is building a pipeline of in vivo and ex vivo therapies, as well as continuing to develop innovative modular platform capabilities.",
+      "report": "公司官方页面表述：Intellia正在建立一个体内和体外疗法的管道，并继续开发创新的模块化平台能力。",
       "reportOriginal": "Intellia is building a pipeline of in vivo and ex vivo therapies, as well as continuing to develop innovative modular platform capabilities.",
-      "reportCn": null,
+      "reportCn": "Intellia正在建立一个体内和体外疗法的管道，并继续开发创新的模块化平台能力。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "0a83ec90886165db1b9b7b4fdf4ff85b86cccd9dabb3dcdc31b77bae1815f7be"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -12579,11 +13111,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash cb5635964df4ebee1c2c2927df05ce2609b431fa94c0153e5e0ef585985d17a2.",
-      "report": "公司官方页面表述：Discover how we are enabling better futures for people living with serious disease through groundbreaking innovations. Learn about our mission here.",
+      "report": "公司官方页面表述：探索我们如何通过突破性创新为生活在严重疾病中的人们开启更美好的未来。了解我们的使命。",
       "reportOriginal": "Discover how we are enabling better futures for people living with serious disease through groundbreaking innovations. Learn about our mission here.",
-      "reportCn": null,
+      "reportCn": "探索我们如何通过突破性创新为生活在严重疾病中的人们开启更美好的未来。了解我们的使命。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "82be47ce041bab633aff5e3a187b2431718255e9e09c4c46c5ca02ecd5df42fe"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -12632,11 +13168,15 @@
         "Pipeline Page"
       ],
       "fact": "The official page was captured with normalized-content hash 3987692c42b2cd94b70f1fb2eeb6ab1588653255494edd2e6eee59a749abb7c1.",
-      "report": "公司官方页面表述：Click here to explore our extensive pipeline of RNA-targeted medicines, including groundbreaking treatments in neurology, cardiology and rare diseases.",
+      "report": "公司官方页面表述：点击这里探索我们广泛的 RNA 靶向药物管线，包括神经系统、心脏病和罕见疾病领域的突破性治疗。",
       "reportOriginal": "Click here to explore our extensive pipeline of RNA-targeted medicines, including groundbreaking treatments in neurology, cardiology and rare diseases.",
-      "reportCn": null,
+      "reportCn": "点击这里探索我们广泛的 RNA 靶向药物管线，包括神经系统、心脏病和罕见疾病领域的突破性治疗。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "d64a7690b7d61eb85036fa447332859be7d003b15339712a33b75deabda938ed"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -12838,11 +13378,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 506a5dd20420b3e86d6224fb080738e2e03577cecfc0b3b0455280a5684c1a0c.",
-      "report": "公司官方页面表述：Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
+      "report": "公司官方页面表述：探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。",
       "reportOriginal": "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
-      "reportCn": null,
+      "reportCn": "探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "4d1610fdfcd6b9f4955e9053b0a727221decd0c8e61d495a325af24858e415f0"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -12892,11 +13436,15 @@
         "Pipeline Page"
       ],
       "fact": "The official page was captured with normalized-content hash eb331a18de27eae5467e32705481457a225ed6f4ff6d634a81221aadb700f0af.",
-      "report": "公司官方页面表述：Explore MIMETAS’ OrganoPlate® technology for scalable, high-throughput organ-on-a-chip models that enable predictive, human-relevant research.",
+      "report": "公司官方页面表述：探索MIMETAS的OrganoPlate®技术，该技术提供可扩展的高通量器官芯片模型，能够进行可预测的人类相关研究。",
       "reportOriginal": "Explore MIMETAS’ OrganoPlate® technology for scalable, high-throughput organ-on-a-chip models that enable predictive, human-relevant research.",
-      "reportCn": null,
+      "reportCn": "探索MIMETAS的OrganoPlate®技术，该技术提供可扩展的高通量器官芯片模型，能够进行可预测的人类相关研究。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "cd3633c2f9116156935b74a25769d8621304335b97564e71bdae5bde7faf1239"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -13097,11 +13645,15 @@
         "Investor Relations Page"
       ],
       "fact": "The official page was captured with normalized-content hash 57a971bfd0f7d03e00336752c98909bd7b2bfbc2837dcd18fbd7a27cd6c28e57.",
-      "report": "公司官方页面表述：Natera™ is a global leader in cell-free DNA (cfDNA) testing with a focus on women’s health, oncology, and organ health.",
+      "report": "公司官方页面表述：Natera™是全球无细胞DNA（cfDNA）检测的领导者，专注于女性健康、肿瘤学和器官健康。",
       "reportOriginal": "Natera™ is a global leader in cell-free DNA (cfDNA) testing with a focus on women’s health, oncology, and organ health.",
-      "reportCn": null,
+      "reportCn": "Natera™是全球无细胞DNA（cfDNA）检测的领导者，专注于女性健康、肿瘤学和器官健康。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "e83f47abba34873c8cdb79b3b3d0d9701cf36e3ad07af279a2e4217770667e89"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -13149,11 +13701,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash c955b66d02e81f361386fc36bad0f445fe080d03706bf4d104e8e63b194209eb.",
-      "report": "公司官方页面表述：Dedicated to oncology, women’s health, and organ health. Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
+      "report": "公司官方页面表述：致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
       "reportOriginal": "Dedicated to oncology, women’s health, and organ health. Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
-      "reportCn": null,
+      "reportCn": "致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "c09d6733e7a517ecd06bf6e2b62ad4f67e73ecdcf0322ae1426e674ff2e03cf7"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -13200,11 +13756,15 @@
         "Pipeline Page"
       ],
       "fact": "The official page was captured with normalized-content hash d6265767b3d9bd63fa001a155ee0aa5a58d43c6079a2f345b48f8a021b9a6ffa.",
-      "report": "公司官方页面表述：Watch now to learn more about Natera’s oncology suite of products.",
+      "report": "公司官方页面表述：立即观看以了解更多关于Natera的肿瘤学产品系列的信息。",
       "reportOriginal": "Watch now to learn more about Natera’s oncology suite of products.",
-      "reportCn": null,
+      "reportCn": "立即观看以了解更多关于Natera的肿瘤学产品系列的信息。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "34d317efd85aa08c84ceb413c093a9a1a0c1013dc30604d0320b847fc28036fa"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -13251,11 +13811,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash a825c3bbd479e11b2ed6162e44c0156df4d29eb916df139d0cb594f410e66970.",
-      "report": "公司官方页面表述：Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
+      "report": "公司官方页面表述：探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。",
       "reportOriginal": "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
-      "reportCn": null,
+      "reportCn": "探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "cf090f86f08e765000b8932356bc21ee5f570cf5d60e2d3230016d5541a27eaa"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -13305,11 +13869,15 @@
         "Pipeline Page"
       ],
       "fact": "The official page was captured with normalized-content hash 7b77631d8ff4419fcdfcd3e74ad7ded94a3eb1f549d8f19640050ec73bcd2ae9.",
-      "report": "公司官方页面表述：Nurix is translating the science of targeted protein degradation into candidates with the potential to become breakthrough therapies. View our pipeline.",
+      "report": "公司官方页面表述：Nurix正在将靶向蛋白降解的科学转化为有潜力成为突破性疗法的候选药物。查看我们的管道。",
       "reportOriginal": "Nurix is translating the science of targeted protein degradation into candidates with the potential to become breakthrough therapies. View our pipeline.",
-      "reportCn": null,
+      "reportCn": "Nurix正在将靶向蛋白降解的科学转化为有潜力成为突破性疗法的候选药物。查看我们的管道。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "6a16a98614d8e2b1fd4d1f3b9a9ae789f84f5afa9589b610c48e45da85063f05"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -13360,11 +13928,15 @@
         "Investor Relations Page"
       ],
       "fact": "The official page was captured with normalized-content hash d8d12c464eb42b743df144024d7c5deaa92052f990f9724e62398deba34dd174.",
-      "report": "公司官方页面表述：We are very happy to talk to anyone who is interested in our company and our work.",
+      "report": "公司官方页面表述：我们很高兴与任何对我们公司及我们的工作感兴趣的人交谈。",
       "reportOriginal": "We are very happy to talk to anyone who is interested in our company and our work.",
-      "reportCn": null,
+      "reportCn": "我们很高兴与任何对我们公司及我们的工作感兴趣的人交谈。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "b9911f1d826ee2528ec418af20968fd211c5ec0e807972636131b9d4b09bb241"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -13412,11 +13984,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 44ac0c389f480e700fbecbf590be26e172dacbb02666c96aa36d5659a5473db3.",
-      "report": "公司官方页面表述：The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
+      "report": "公司官方页面表述：Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
       "reportOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
-      "reportCn": null,
+      "reportCn": "Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "58600a4b43b8dbb981dd3a081d69da7a4044794ff7dd1ed8a31268a1f336eeb9"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -13464,11 +14040,15 @@
         "Pipeline Page"
       ],
       "fact": "The official page was captured with normalized-content hash bea89cca2c0b6f96dea8668f25d9c53e15d289c385f2b1ce666752c70332b25a.",
-      "report": "公司官方页面表述：We are proud to have multiple product candidates developed by Nykode in our pipeline.See what's going on!",
+      "report": "公司官方页面表述：我们很自豪地在我们的产品线中拥有多个由Nykode开发的候选产品。查看最近的进展！",
       "reportOriginal": "We are proud to have multiple product candidates developed by Nykode in our pipeline.See what's going on!",
-      "reportCn": null,
+      "reportCn": "我们很自豪地在我们的产品线中拥有多个由Nykode开发的候选产品。查看最近的进展！",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "ea611adb97ab14bd2c91a7e67cd88613738cc46692163488c46119020aab0bf6"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -13519,11 +14099,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 3d12a40b93c055956ceb8c58839791bd59c8e24f6ca41320af2ac42ca05cdf1d.",
-      "report": "公司官方页面表述：Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
+      "report": "公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
       "reportOriginal": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
-      "reportCn": null,
+      "reportCn": "发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "7d97a5834e9aa953b2f17664f4541e4c3fd2291ed69bc39c9a6b12219956936c"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -13571,11 +14155,15 @@
         "Pipeline Page"
       ],
       "fact": "The official page was captured with normalized-content hash c8855d60963bac73aa8763dd0ca2aa1bac50469a0f2670f391d0f6b4012334e6.",
-      "report": "公司官方页面表述：Discover the benefits of nanopore sequencing and find out which sequencing device is right for your output requirements.",
+      "report": "公司官方页面表述：发现纳米孔测序的优势，并找出哪种测序设备适合您的输出需求。",
       "reportOriginal": "Discover the benefits of nanopore sequencing and find out which sequencing device is right for your output requirements.",
-      "reportCn": null,
+      "reportCn": "发现纳米孔测序的优势，并找出哪种测序设备适合您的输出需求。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "f2aafdee3e54f9620f5776fc3983617d8293bb71eca6d11acc17b0227e872fe2"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -13775,11 +14363,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 7bd18632322012adbac1757ca2fff38dcbf597718c8dcabe8c4c1ea30fccd083.",
-      "report": "公司官方页面表述：Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
+      "report": "公司官方页面表述：Retro Biosciences开发针对衰老生物学的疗法，旨在延长健康的人类寿命10年。",
       "reportOriginal": "Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
-      "reportCn": null,
+      "reportCn": "Retro Biosciences开发针对衰老生物学的疗法，旨在延长健康的人类寿命10年。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "ff97754444c35401d3f3231b56a71e1aa07db091b64773d9760bf2fbede1e0c6"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -13825,11 +14417,15 @@
         "Pipeline Page"
       ],
       "fact": "The official page was captured with normalized-content hash 7bd18632322012adbac1757ca2fff38dcbf597718c8dcabe8c4c1ea30fccd083.",
-      "report": "公司官方页面表述：Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
+      "report": "公司官方页面表述：Retro Biosciences开发针对衰老生物学的疗法，旨在延长健康的人类寿命10年。",
       "reportOriginal": "Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
-      "reportCn": null,
+      "reportCn": "Retro Biosciences开发针对衰老生物学的疗法，旨在延长健康的人类寿命10年。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "ff97754444c35401d3f3231b56a71e1aa07db091b64773d9760bf2fbede1e0c6"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -13875,11 +14471,15 @@
         "Investor Relations Page"
       ],
       "fact": "The official page was captured with normalized-content hash 0d644ea7a60728256c39a8de012d77f39236c4084e28c20762199cd907b1a7cb.",
-      "report": "公司官方页面表述：Information for Sumitomo Pharma's shareholders and investors, such as the Message from the President, IR Library, and information regarding shares and shareholders.",
+      "report": "公司官方页面表述：为住友制药的股东和投资者提供信息，如董事长致辞、投资者关系资料库，以及关于股份和股东的信息。",
       "reportOriginal": "Information for Sumitomo Pharma's shareholders and investors, such as the Message from the President, IR Library, and information regarding shares and shareholders.",
-      "reportCn": null,
+      "reportCn": "为住友制药的股东和投资者提供信息，如董事长致辞、投资者关系资料库，以及关于股份和股东的信息。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "c25264aad55b2ff9a4613a23e1f34bd84c9919cecda11ad6c52a97ff216ad40a"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -13926,11 +14526,15 @@
         "Official Website"
       ],
       "fact": "The official page was captured with normalized-content hash 2a5bd106b7c5f1d7c1366dd329c119061ba64ce07cc66084845952b8ada698c5.",
-      "report": "公司官方页面表述：For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd.",
+      "report": "公司官方页面表述：为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
       "reportOriginal": "For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd.",
-      "reportCn": null,
+      "reportCn": "为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "4643d7e42baaac3ed441546110f551afb37e5e50fc259ea433d95ebeddb4b177"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
@@ -13981,11 +14585,15 @@
         "Investor Relations Page"
       ],
       "fact": "The official page was captured with normalized-content hash b61641c41fadc9e80be5d16bd23f4f44462ab40c339fd96ac2619a651e36a89b.",
-      "report": "公司官方页面表述：An innovative research and development platform based on quantum physics, powered by artificial intelligence, and driven by robotics",
+      "report": "公司官方页面表述：基于量子物理的创新研发平台，由人工智能驱动，并通过机器人技术实现。",
       "reportOriginal": "An innovative research and development platform based on quantum physics, powered by artificial intelligence, and driven by robotics",
-      "reportCn": null,
+      "reportCn": "基于量子物理的创新研发平台，由人工智能驱动，并通过机器人技术实现。",
       "translation": {
-        "status": "missing"
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "5863fd0cfb33d1c2fb15fd2aca2ffcb52bce5533e0cf23e9b3a0b861b6f4de60"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",

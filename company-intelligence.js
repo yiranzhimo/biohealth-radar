@@ -88,9 +88,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Compare 10x Genomics products and find the one that's right for your needs.；公司官方页面表述：We deliver powerful, reliable tools that fuel scientific discoveries and drive exponential progress to master biology to advance human health.",
+        "summary": "公司官方页面表述：比较 10x Genomics 的产品，找到最适合您需求的产品。；公司官方页面表述：我们提供强大、可靠的工具，促进科学发现，推动指数级进展，以掌握生物学来改善人类健康。",
         "summaryOriginal": "Compare 10x Genomics products and find the one that's right for your needs. We deliver powerful, reliable tools that fuel scientific discoveries and drive exponential progress to master biology to advance human health.",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -103,7 +103,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Compare 10x Genomics products and find the one that's right for your needs.",
-            "text": "Compare 10x Genomics products and find the one that's right for your needs.",
+            "text": "比较 10x Genomics 的产品，找到最适合您需求的产品。",
             "evidenceId": "evidence-company-10x-genomics-pipeline-489854eb7ec1",
             "sourceUrl": "https://www.10xgenomics.com/products",
             "needsReview": true,
@@ -330,9 +330,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -361,7 +361,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-3sbio-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1530&sc_lang=en",
             "needsReview": true,
@@ -681,9 +681,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -822,9 +822,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -1803,9 +1803,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -3768,9 +3768,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -4116,9 +4116,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Akeso Advances IO2.0 + ADC2.0 Strategy: First Patient Dosed in Phase II Study of TROP2/Nectin-4 Bispecific ADC (AK146D1) Combined with Ivonescimab in Breast Cancer",
+        "summary": "公司官方页面表述：Akeso 推进 IO2.0 + ADC2.0 战略：第一位患者已在 TROP2/Nectin-4 双特异性 ADC（AK146D1）与 Ivonescimab 联合治疗乳腺癌的 II 期研究中接受用药。",
         "summaryOriginal": "Akeso Advances IO2.0 + ADC2.0 Strategy: First Patient Dosed in Phase II Study of TROP2/Nectin-4 Bispecific ADC (AK146D1) Combined with Ivonescimab in Breast Cancer",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -4155,7 +4155,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Akeso Advances IO2.0 + ADC2.0 Strategy: First Patient Dosed in Phase II Study of TROP2/Nectin-4 Bispecific ADC (AK146D1) Combined with Ivonescimab in Breast Cancer",
-            "text": "Akeso Advances IO2.0 + ADC2.0 Strategy: First Patient Dosed in Phase II Study of TROP2/Nectin-4 Bispecific ADC (AK146D1) Combined with Ivonescimab in Breast Cancer",
+            "text": "Akeso 推进 IO2.0 + ADC2.0 战略：第一位患者已在 TROP2/Nectin-4 双特异性 ADC（AK146D1）与 Ivonescimab 联合治疗乳腺癌的 II 期研究中接受用药。",
             "evidenceId": "evidence-company-akeso-official-be59a6245ab1",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
@@ -4546,9 +4546,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -4757,9 +4757,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -5169,14 +5169,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Alnylam’s pipeline of investigation RNAi therapeutics is focused on TTR Amyloidosis, cardiovascular, metabolic, neuroscience, hematology, rare and other diseases.；公司官方页面表述：Alnylam has pioneered RNAi therapeutics, an innovative approach to gene silencing. We are driven by science and committed to developing transformational medicines for patients.",
+        "summary": "公司官方页面表述：Alnylam 的研究 RNA 干扰治疗管线专注于 TTR 淀粉样变性、心血管、代谢、神经科学、血液学、罕见病及其他疾病。；公司官方页面表述：Alnylam 开创了 RNA 干扰治疗，一种创新的基因沉默方法。我们致力于科学，致力于为患者开发变革性药物。",
         "summaryOriginal": "Alnylam’s pipeline of investigation RNAi therapeutics is focused on TTR Amyloidosis, cardiovascular, metabolic, neuroscience, hematology, rare and other diseases. Alnylam has pioneered RNAi therapeutics, an innovative approach to gene silencing. We are driven by science and committed to developing transformational medicines for patients.",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
             "textOriginal": "Alnylam’s pipeline of investigation RNAi therapeutics is focused on TTR Amyloidosis, cardiovascular, metabolic, neuroscience, hematology, rare and other diseases.",
-            "text": "Alnylam’s pipeline of investigation RNAi therapeutics is focused on TTR Amyloidosis, cardiovascular, metabolic, neuroscience, hematology, rare and other diseases.",
+            "text": "Alnylam 的研究 RNA 干扰治疗管线专注于 TTR 淀粉样变性、心血管、代谢、神经科学、血液学、罕见病及其他疾病。",
             "evidenceId": "evidence-company-alnylam-pipeline-77914bacd5b2",
             "sourceUrl": "https://www.alnylam.com/alnylam-rnai-pipeline",
             "needsReview": true,
@@ -5551,9 +5551,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -5962,9 +5962,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Altos Labs is a biotechnology company focused on restoring cell health and resilience through cell rejuvenation to reverse disease, injury, and the disabilities that occur throughout life. Learn more about Altos.；公司官方页面表述：Altos Labs is a biotechnology company focused on restoring cell health and resilience through cell rejuvenation to reverse disease, injury, and the disabilities that occur throughout life. Learn more about Altos.",
+        "summary": "公司官方页面表述：Altos Labs 是一家生物技术公司，专注于通过细胞再生恢复细胞健康和弹性，以逆转疾病、损伤和终生的残疾。了解更多关于 Altos 的信息。；公司官方页面表述：Altos Labs 是一家生物技术公司，专注于通过细胞再生恢复细胞健康和弹性，以逆转疾病、损伤和终生的残疾。了解更多关于 Altos 的信息。",
         "summaryOriginal": "Altos Labs is a biotechnology company focused on restoring cell health and resilience through cell rejuvenation to reverse disease, injury, and the disabilities that occur throughout life. Learn more about Altos. Altos Labs is a biotechnology company focused on restoring cell health and resilience through cell rejuvenation to reverse disease, injury, and the disabilities that occur throughout life. Learn more about Altos.",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -7378,9 +7378,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -8139,9 +8139,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Kite is dedicated to curing cancer. Learn about the science of cell therapy, our cancer research, and our cancer treatments in the pipeline.；公司官方页面表述：Kite is dedicated to curing cancer. Learn about the science of cell therapy, our cancer research, and our cancer treatments in the pipeline.",
+        "summary": "公司官方页面表述：Kite专注于治愈癌症。了解细胞疗法的科学、我们的癌症研究以及我们的癌症治疗方案。；公司官方页面表述：Kite专注于治愈癌症。了解细胞疗法的科学、我们的癌症研究以及我们的癌症治疗方案。",
         "summaryOriginal": "Kite is dedicated to curing cancer. Learn about the science of cell therapy, our cancer research, and our cancer treatments in the pipeline. Kite is dedicated to curing cancer. Learn about the science of cell therapy, our cancer research, and our cancer treatments in the pipeline.",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -9138,14 +9138,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Arvinas' pipeline of PROTAC degraders are designed to harness the body’s own natural protein disposal system.；公司官方页面表述：Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
+        "summary": "公司官方页面表述：Arvinas 的 PROTAC 降解剂管线旨在利用身体自身的蛋白质处置系统。；公司官方页面表述：Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
         "summaryOriginal": "Arvinas' pipeline of PROTAC degraders are designed to harness the body’s own natural protein disposal system. Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
             "textOriginal": "Arvinas' pipeline of PROTAC degraders are designed to harness the body’s own natural protein disposal system.",
-            "text": "Arvinas' pipeline of PROTAC degraders are designed to harness the body’s own natural protein disposal system.",
+            "text": "Arvinas 的 PROTAC 降解剂管线旨在利用身体自身的蛋白质处置系统。",
             "evidenceId": "evidence-company-arvinas-pipeline-061710113116",
             "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
             "needsReview": true,
@@ -9532,9 +9532,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -9563,7 +9563,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-ascentage-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6855&sc_lang=en",
             "needsReview": true,
@@ -9743,9 +9743,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -11829,9 +11829,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -12040,9 +12040,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -12321,9 +12321,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Beam is exploring the potential for in vivo base editing programs for the treatment of sickle cell disease and beta-thalassemia.；公司官方页面表述：Base editing is an emerging class of investigational precision genetic medicines designed to overcome the limitations of existing approaches and expand the potential of genetic medicine.",
+        "summary": "公司官方页面表述：Beam 正在探索体内碱基编辑程序在镰刀型细胞病和 β-地中海贫血治疗中的潜力。；公司官方页面表述：碱基编辑是一种新兴的研究性精准基因药物，旨在克服现有方法的局限，扩展基因医学的潜力。",
         "summaryOriginal": "Beam is exploring the potential for in vivo base editing programs for the treatment of sickle cell disease and beta-thalassemia. Base editing is an emerging class of investigational precision genetic medicines designed to overcome the limitations of existing approaches and expand the potential of genetic medicine.",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -12360,7 +12360,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Beam is exploring the potential for in vivo base editing programs for the treatment of sickle cell disease and beta-thalassemia.",
-            "text": "Beam is exploring the potential for in vivo base editing programs for the treatment of sickle cell disease and beta-thalassemia.",
+            "text": "Beam 正在探索体内碱基编辑程序在镰刀型细胞病和 β-地中海贫血治疗中的潜力。",
             "evidenceId": "evidence-company-beam-therapeutics-pipeline-853ab17780d8",
             "sourceUrl": "https://beamtx.com/pipeline/",
             "needsReview": true,
@@ -12387,10 +12387,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "futureDirection": {
         "reportedPlans": [
           {
-            "text": "Initial clinical development will focus on base editors addressing the two most prevalent variants found in nearly half of patients with PKU in the U.S., with ongoing research effort to address additional pathogenic mutations.",
+            "text": "初步临床开发将重点关注基础编辑，解决美国近一半PKU患者中最常见的两种变异，同时持续研究以应对其他致病突变。",
             "textOriginal": "Initial clinical development will focus on base editors addressing the two most prevalent variants found in nearly half of patients with PKU in the U.S., with ongoing research effort to address additional pathogenic mutations.",
-            "translationStatus": "missing",
-            "translation": null,
+            "translationStatus": "translated",
+            "translation": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "translatedAt": "2026-08-11T05:38:11+00:00",
+              "sourceTextHash": "d51f43f6454c79cf291b3fa9561d6916523c4fe3a0c84a30dbf7b29067732018"
+            },
             "claimType": "Report",
             "attribution": "Beam Therapeutics — Pipeline Page",
             "evidenceId": "evidence-company-beam-therapeutics-pipeline-853ab17780d8",
@@ -12717,14 +12722,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Explore BeOne Medicines’ clinical pipeline advancing innovative therapies across development stages to address unmet medical needs.；公司官方页面表述：Explore how BeOne Medicines advances global cancer care through an integrated model of discovery, development, and delivery, bringing transformative therapies to patients worldwide.",
+        "summary": "公司官方页面表述：探索 BeOne Medicines 的临床管线，推进各开发阶段的创新疗法，以解决未满足的医疗需求。；公司官方页面表述：探索BeOne Medicines如何通过综合的发现、开发和交付模型推动全球癌症护理，为全球患者带来变革性疗法。",
         "summaryOriginal": "Explore BeOne Medicines’ clinical pipeline advancing innovative therapies across development stages to address unmet medical needs. Explore how BeOne Medicines advances global cancer care through an integrated model of discovery, development, and delivery, bringing transformative therapies to patients worldwide.",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
             "textOriginal": "Explore BeOne Medicines’ clinical pipeline advancing innovative therapies across development stages to address unmet medical needs.",
-            "text": "Explore BeOne Medicines’ clinical pipeline advancing innovative therapies across development stages to address unmet medical needs.",
+            "text": "探索 BeOne Medicines 的临床管线，推进各开发阶段的创新疗法，以解决未满足的医疗需求。",
             "evidenceId": "evidence-company-beone-medicines-pipeline-cad9773572ea",
             "sourceUrl": "https://beonemedicines.com/science/pipeline/",
             "needsReview": true,
@@ -14009,9 +14014,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -14220,9 +14225,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -14641,9 +14646,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -15417,9 +15422,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -16328,9 +16333,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -16961,9 +16966,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -17172,9 +17177,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -17514,14 +17519,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Learn About Targeted Protein Degradation",
+        "summary": "公司官方页面表述：了解靶向蛋白降解。",
         "summaryOriginal": "Learn About Targeted Protein Degradation",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
             "textOriginal": "Learn About Targeted Protein Degradation",
-            "text": "Learn About Targeted Protein Degradation",
+            "text": "了解靶向蛋白降解。",
             "evidenceId": "evidence-company-c4-therapeutics-official-5236596879c0",
             "sourceUrl": "https://c4therapeutics.com/",
             "needsReview": true,
@@ -17839,14 +17844,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Nature Reviews Speaks with Head of Drug Discovery, Philip Kym, Ph.D., About Calico’s Translational Research and Clinical Pipeline；公司官方页面表述：Nature Reviews Speaks with Head of Drug Discovery, Philip Kym, Ph.D., About Calico’s Translational Research and Clinical Pipeline",
+        "summary": "公司官方页面表述：《自然评论》与药物发现负责人Philip Kym博士讨论Calico的转化研究和临床管道。；公司官方页面表述：《自然评论》与药物发现负责人Philip Kym博士讨论Calico的转化研究和临床管道。",
         "summaryOriginal": "Nature Reviews Speaks with Head of Drug Discovery, Philip Kym, Ph.D., About Calico’s Translational Research and Clinical Pipeline Nature Reviews Speaks with Head of Drug Discovery, Philip Kym, Ph.D., About Calico’s Translational Research and Clinical Pipeline",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
             "textOriginal": "Nature Reviews Speaks with Head of Drug Discovery, Philip Kym, Ph.D., About Calico’s Translational Research and Clinical Pipeline",
-            "text": "Nature Reviews Speaks with Head of Drug Discovery, Philip Kym, Ph.D., About Calico’s Translational Research and Clinical Pipeline",
+            "text": "《自然评论》与药物发现负责人Philip Kym博士讨论Calico的转化研究和临床管道。",
             "evidenceId": "evidence-company-calico-pipeline-1f156f50e9c6",
             "sourceUrl": "https://www.calicolabs.com/",
             "needsReview": true,
@@ -18213,9 +18218,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -18984,9 +18989,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -20596,9 +20601,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -20627,7 +20632,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-chinares-pharma-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3320&sc_lang=en",
             "needsReview": true,
@@ -21228,9 +21233,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -21369,9 +21374,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -21510,9 +21515,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -21541,7 +21546,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-cms-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=867&sc_lang=en",
             "needsReview": true,
@@ -22663,9 +22668,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -22804,9 +22809,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -22835,7 +22840,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-cspc-pharma-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1093&sc_lang=en",
             "needsReview": true,
@@ -22945,9 +22950,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -23366,9 +23371,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -24000,9 +24005,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -24142,9 +24147,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -24353,9 +24358,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -24764,9 +24769,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Learn more about Emulate Organ-Chips, the Human Emulation System, ready-to-culture BioKits, and more.；公司官方页面表述：Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response. Get started today.",
+        "summary": "公司官方页面表述：了解Emulate的器官芯片、人类模拟系统、即用型培养生物套件等。；公司官方页面表述：下一代器官芯片技术使研究人员能够模拟生物学并预测人类反应。立即开始。",
         "summaryOriginal": "Learn more about Emulate Organ-Chips, the Human Emulation System, ready-to-culture BioKits, and more. Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response. Get started today.",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -24795,7 +24800,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Learn more about Emulate Organ-Chips, the Human Emulation System, ready-to-culture BioKits, and more.",
-            "text": "Learn more about Emulate Organ-Chips, the Human Emulation System, ready-to-culture BioKits, and more.",
+            "text": "了解Emulate的器官芯片、人类模拟系统、即用型培养生物套件等。",
             "evidenceId": "evidence-company-emulate-pipeline-c40a3b65d6e4",
             "sourceUrl": "https://emulatebio.com/products/",
             "needsReview": true,
@@ -25776,9 +25781,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -25925,9 +25930,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Welcome to Genmab",
+        "summary": "公司官方页面表述：欢迎来到Genmab。",
         "summaryOriginal": "Welcome to Genmab",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
@@ -26072,9 +26077,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -26103,7 +26108,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-genscript-bio-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1548&sc_lang=en",
             "needsReview": true,
@@ -26565,9 +26570,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -26596,7 +26601,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-grand-pharma-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=512&sc_lang=en",
             "needsReview": true,
@@ -27232,9 +27237,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -27263,7 +27268,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-hansoh-pharma-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3692&sc_lang=en",
             "needsReview": true,
@@ -27373,9 +27378,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -27585,9 +27590,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -27796,9 +27801,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -28151,9 +28156,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -28292,9 +28297,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -28433,9 +28438,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -28564,9 +28569,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：A PATIENT IN THE LAB® HUB Organoids predict patient response to treatment. Our patented technology allows the development of patient-derived “mini-organs in a dish” from both healthy and diseased tissues to close the gap between the lab and the clinic.",
+        "summary": "公司官方页面表述：实验室中的患者®中心类器官预测患者对治疗的反应。我们的专利技术允许从健康和疾病组织中开发出患者来源的“盘中迷你器官”，以缩小实验室与临床之间的差距。",
         "summaryOriginal": "A PATIENT IN THE LAB® HUB Organoids predict patient response to treatment. Our patented technology allows the development of patient-derived “mini-organs in a dish” from both healthy and diseased tissues to close the gap between the lab and the clinic.",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -28783,9 +28788,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -28814,7 +28819,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-hutchmed-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=13&sc_lang=en",
             "needsReview": true,
@@ -28993,9 +28998,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Explore the Illumina portfolio of lab instruments offering proven, innovative technology for a wide range of throughput and application needs.；公司官方页面表述：Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
+        "summary": "公司官方页面表述：探索Illumina实验室仪器的产品组合，提供经过验证的创新技术，以满足广泛的通量和应用需求。；公司官方页面表述：Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
         "summaryOriginal": "Explore the Illumina portfolio of lab instruments offering proven, innovative technology for a wide range of throughput and application needs. Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -29527,9 +29532,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -29808,9 +29813,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -30019,9 +30024,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -30510,9 +30515,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -30541,7 +30546,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-innocare-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9969&sc_lang=en",
             "needsReview": true,
@@ -30651,9 +30656,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -30792,9 +30797,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -30823,7 +30828,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-innovent-bio-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1801&sc_lang=en",
             "needsReview": true,
@@ -31003,9 +31008,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -31034,7 +31039,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-insilico-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3696&sc_lang=en",
             "needsReview": true,
@@ -31135,14 +31140,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：The rapid progress of internal pipeline demonstrates the generative-AI driven drug discovery capabilities of our Pharma.AI platform consisting of Biology42, Chemistry42, and Medicine42.；公司官方页面表述：Generative AI and Automation for Longevity and Sustainability",
+        "summary": "公司官方页面表述：内部产品线的快速进展展示了我们Pharma.AI平台在药物发现方面的生成式AI驱动能力，该平台由Biology42、Chemistry42和Medicine42组成。；公司官方页面表述：生成性人工智能和自动化用于健康和可持续性。",
         "summaryOriginal": "The rapid progress of internal pipeline demonstrates the generative-AI driven drug discovery capabilities of our Pharma.AI platform consisting of Biology42, Chemistry42, and Medicine42. Generative AI and Automation for Longevity and Sustainability",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
             "textOriginal": "The rapid progress of internal pipeline demonstrates the generative-AI driven drug discovery capabilities of our Pharma.AI platform consisting of Biology42, Chemistry42, and Medicine42.",
-            "text": "The rapid progress of internal pipeline demonstrates the generative-AI driven drug discovery capabilities of our Pharma.AI platform consisting of Biology42, Chemistry42, and Medicine42.",
+            "text": "内部产品线的快速进展展示了我们Pharma.AI平台在药物发现方面的生成式AI驱动能力，该平台由Biology42、Chemistry42和Medicine42组成。",
             "evidenceId": "evidence-company-insilico-medicine-pipeline-4c3398340303",
             "sourceUrl": "https://insilico.com/pipeline",
             "needsReview": true,
@@ -31377,14 +31382,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Intellia is building a pipeline of in vivo and ex vivo therapies, as well as continuing to develop innovative modular platform capabilities.；公司官方页面表述：Intellia Therapeutics, a leading clinical-stage genome editing company, is developing novel, potentially curative therapeutics leveraging CRISPR-based technologies.",
+        "summary": "公司官方页面表述：Intellia正在建立一个体内和体外疗法的管道，并继续开发创新的模块化平台能力。；公司官方页面表述：Intellia Therapeutics是一家领先的临床阶段基因编辑公司，正在利用基于CRISPR的技术开发新的潜在治愈疗法。",
         "summaryOriginal": "Intellia is building a pipeline of in vivo and ex vivo therapies, as well as continuing to develop innovative modular platform capabilities. Intellia Therapeutics, a leading clinical-stage genome editing company, is developing novel, potentially curative therapeutics leveraging CRISPR-based technologies.",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
             "textOriginal": "Intellia is building a pipeline of in vivo and ex vivo therapies, as well as continuing to develop innovative modular platform capabilities.",
-            "text": "Intellia is building a pipeline of in vivo and ex vivo therapies, as well as continuing to develop innovative modular platform capabilities.",
+            "text": "Intellia正在建立一个体内和体外疗法的管道，并继续开发创新的模块化平台能力。",
             "evidenceId": "evidence-company-intellia-pipeline-bbcfc2db2053",
             "sourceUrl": "https://www.intelliatx.com/pipeline/",
             "needsReview": true,
@@ -31424,7 +31429,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Intellia Therapeutics, a leading clinical-stage genome editing company, is developing novel, potentially curative therapeutics leveraging CRISPR-based technologies.",
-            "text": "Intellia Therapeutics, a leading clinical-stage genome editing company, is developing novel, potentially curative therapeutics leveraging CRISPR-based technologies.",
+            "text": "Intellia Therapeutics是一家领先的临床阶段基因编辑公司，正在利用基于CRISPR的技术开发新的潜在治愈疗法。",
             "evidenceId": "evidence-company-intellia-official-1cca8fbc302f",
             "sourceUrl": "https://www.intelliatx.com/",
             "needsReview": true,
@@ -31758,14 +31763,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Click here to explore our extensive pipeline of RNA-targeted medicines, including groundbreaking treatments in neurology, cardiology and rare diseases.；公司官方页面表述：Discover how we are enabling better futures for people living with serious disease through groundbreaking innovations. Learn about our mission here.",
+        "summary": "公司官方页面表述：点击这里探索我们广泛的 RNA 靶向药物管线，包括神经系统、心脏病和罕见疾病领域的突破性治疗。；公司官方页面表述：探索我们如何通过突破性创新为生活在严重疾病中的人们开启更美好的未来。了解我们的使命。",
         "summaryOriginal": "Click here to explore our extensive pipeline of RNA-targeted medicines, including groundbreaking treatments in neurology, cardiology and rare diseases. Discover how we are enabling better futures for people living with serious disease through groundbreaking innovations. Learn about our mission here.",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
             "textOriginal": "Click here to explore our extensive pipeline of RNA-targeted medicines, including groundbreaking treatments in neurology, cardiology and rare diseases.",
-            "text": "Click here to explore our extensive pipeline of RNA-targeted medicines, including groundbreaking treatments in neurology, cardiology and rare diseases.",
+            "text": "点击这里探索我们广泛的 RNA 靶向药物管线，包括神经系统、心脏病和罕见疾病领域的突破性治疗。",
             "evidenceId": "evidence-company-ionis-pipeline-3987692c42b2",
             "sourceUrl": "https://ionis.com/science-and-innovation/pipeline",
             "needsReview": true,
@@ -32155,9 +32160,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -32440,9 +32445,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -32471,7 +32476,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-jd-health-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6618&sc_lang=en",
             "needsReview": true,
@@ -32581,9 +32586,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -32792,9 +32797,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -33074,9 +33079,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -33215,9 +33220,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -33706,9 +33711,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -33917,9 +33922,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -34912,9 +34917,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -35053,9 +35058,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -35194,9 +35199,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -35335,9 +35340,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -35687,9 +35692,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -36108,9 +36113,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -36320,9 +36325,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -36351,7 +36356,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-microport-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=853&sc_lang=en",
             "needsReview": true,
@@ -36461,9 +36466,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -36593,9 +36598,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Explore MIMETAS’ OrganoPlate® technology for scalable, high-throughput organ-on-a-chip models that enable predictive, human-relevant research.；公司官方页面表述：Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
+        "summary": "公司官方页面表述：探索MIMETAS的OrganoPlate®技术，该技术提供可扩展的高通量器官芯片模型，能够进行可预测的人类相关研究。；公司官方页面表述：探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。",
         "summaryOriginal": "Explore MIMETAS’ OrganoPlate® technology for scalable, high-throughput organ-on-a-chip models that enable predictive, human-relevant research. Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -36632,7 +36637,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Explore MIMETAS’ OrganoPlate® technology for scalable, high-throughput organ-on-a-chip models that enable predictive, human-relevant research.",
-            "text": "Explore MIMETAS’ OrganoPlate® technology for scalable, high-throughput organ-on-a-chip models that enable predictive, human-relevant research.",
+            "text": "探索MIMETAS的OrganoPlate®技术，该技术提供可扩展的高通量器官芯片模型，能够进行可预测的人类相关研究。",
             "evidenceId": "evidence-company-mimetas-pipeline-eb331a18de27",
             "sourceUrl": "https://www.mimetas.com/technology",
             "needsReview": true,
@@ -36835,9 +36840,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -37514,9 +37519,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -37868,9 +37873,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Watch now to learn more about Natera’s oncology suite of products.；公司官方页面表述：Dedicated to oncology, women’s health, and organ health. Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
+        "summary": "公司官方页面表述：立即观看以了解更多关于Natera的肿瘤学产品系列的信息。；公司官方页面表述：致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
         "summaryOriginal": "Watch now to learn more about Natera’s oncology suite of products. Dedicated to oncology, women’s health, and organ health. Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -37883,7 +37888,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Watch now to learn more about Natera’s oncology suite of products.",
-            "text": "Watch now to learn more about Natera’s oncology suite of products.",
+            "text": "立即观看以了解更多关于Natera的肿瘤学产品系列的信息。",
             "evidenceId": "evidence-company-natera-pipeline-d6265767b3d9",
             "sourceUrl": "https://www.natera.com/oncology/",
             "needsReview": true,
@@ -38756,9 +38761,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Nurix is translating the science of targeted protein degradation into candidates with the potential to become breakthrough therapies. View our pipeline.；公司官方页面表述：Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
+        "summary": "公司官方页面表述：Nurix正在将靶向蛋白降解的科学转化为有潜力成为突破性疗法的候选药物。查看我们的管道。；公司官方页面表述：探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。",
         "summaryOriginal": "Nurix is translating the science of targeted protein degradation into candidates with the potential to become breakthrough therapies. View our pipeline. Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -39176,9 +39181,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：We are proud to have multiple product candidates developed by Nykode in our pipeline.See what's going on!；公司官方页面表述：The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
+        "summary": "公司官方页面表述：我们很自豪地在我们的产品线中拥有多个由Nykode开发的候选产品。查看最近的进展！；公司官方页面表述：Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
         "summaryOriginal": "We are proud to have multiple product candidates developed by Nykode in our pipeline.See what's going on! The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -39207,7 +39212,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "We are proud to have multiple product candidates developed by Nykode in our pipeline.See what's going on!",
-            "text": "We are proud to have multiple product candidates developed by Nykode in our pipeline.See what's going on!",
+            "text": "我们很自豪地在我们的产品线中拥有多个由Nykode开发的候选产品。查看最近的进展！",
             "evidenceId": "evidence-company-nykode-therapeutics-pipeline-bea89cca2c0b",
             "sourceUrl": "https://nykode.com/pipeline/",
             "needsReview": true,
@@ -39215,7 +39220,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
-            "text": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
+            "text": "Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
             "evidenceId": "evidence-company-nykode-therapeutics-official-44ac0c389f48",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
@@ -39725,9 +39730,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -40136,9 +40141,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Discover the benefits of nanopore sequencing and find out which sequencing device is right for your output requirements.；公司官方页面表述：Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
+        "summary": "公司官方页面表述：发现纳米孔测序的优势，并找出哪种测序设备适合您的输出需求。；公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
         "summaryOriginal": "Discover the benefits of nanopore sequencing and find out which sequencing device is right for your output requirements. Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -40592,9 +40597,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -40733,9 +40738,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -42005,9 +42010,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -42289,9 +42294,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -43231,9 +43236,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.；公司官方页面表述：Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
+        "summary": "公司官方页面表述：Retro Biosciences开发针对衰老生物学的疗法，旨在延长健康的人类寿命10年。；公司官方页面表述：Retro Biosciences开发针对衰老生物学的疗法，旨在延长健康的人类寿命10年。",
         "summaryOriginal": "Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years. Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -43254,7 +43259,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
-            "text": "Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
+            "text": "Retro Biosciences开发针对衰老生物学的疗法，旨在延长健康的人类寿命10年。",
             "evidenceId": "evidence-company-retro-biosciences-pipeline-7bd186323220",
             "sourceUrl": "https://www.retro.bio/",
             "needsReview": true,
@@ -43457,9 +43462,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -44023,9 +44028,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -44054,7 +44059,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-sbp-group-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1177&sc_lang=en",
             "needsReview": true,
@@ -44584,9 +44589,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -44615,7 +44620,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-simcere-pharma-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2096&sc_lang=en",
             "needsReview": true,
@@ -44725,9 +44730,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -44866,9 +44871,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -44897,7 +44902,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-sinopharm-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1099&sc_lang=en",
             "needsReview": true,
@@ -45007,9 +45012,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -45148,9 +45153,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -45179,7 +45184,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-skb-bio-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6990&sc_lang=en",
             "needsReview": true,
@@ -45490,9 +45495,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd.；公司官方页面表述：Information for Sumitomo Pharma's shareholders and investors, such as the Message from the President, IR Library, and information regarding shares and shareholders.",
+        "summary": "公司官方页面表述：为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。；公司官方页面表述：为住友制药的股东和投资者提供信息，如董事长致辞、投资者关系资料库，以及关于股份和股东的信息。",
         "summaryOriginal": "For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd. Information for Sumitomo Pharma's shareholders and investors, such as the Message from the President, IR Library, and information regarding shares and shareholders.",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -45662,9 +45667,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -46844,9 +46849,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -47125,9 +47130,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -47408,9 +47413,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -47549,9 +47554,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -48042,9 +48047,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -48183,9 +48188,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -48222,7 +48227,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-united-lab-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3933&sc_lang=en",
             "needsReview": true,
@@ -48675,9 +48680,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -48886,9 +48891,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -49167,9 +49172,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -49807,9 +49812,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -49838,7 +49843,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-weigao-group-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1066&sc_lang=en",
             "needsReview": true,
@@ -50018,9 +50023,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -50049,7 +50054,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-wuxi-apptec-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2359&sc_lang=en",
             "needsReview": true,
@@ -50159,9 +50164,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -50190,7 +50195,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-wuxi-bio-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2269&sc_lang=en",
             "needsReview": true,
@@ -50300,9 +50305,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -50331,7 +50336,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-wuxi-xdc-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2268&sc_lang=en",
             "needsReview": true,
@@ -50579,9 +50584,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：以人工智能和机器人技术为驱动力，晶泰致力于用量子物理、AI、云计算、机器人实验等前沿技术领域打造了面向未来产业的创新型研发平台。该平台凭借共性技术集成优势，满足微观分子世界探索的需求。广泛赋能生物医药行业、新材料、石油化工、新能源等领域，为未来产业发展注入澎湃新动力。；公司官方页面表述：An innovative research and development platform based on quantum physics, powered by artificial intelligence, and driven by robotics",
+        "summary": "公司官方页面表述：以人工智能和机器人技术为驱动力，晶泰致力于用量子物理、AI、云计算、机器人实验等前沿技术领域打造了面向未来产业的创新型研发平台。该平台凭借共性技术集成优势，满足微观分子世界探索的需求。广泛赋能生物医药行业、新材料、石油化工、新能源等领域，为未来产业发展注入澎湃新动力。；公司官方页面表述：基于量子物理的创新研发平台，由人工智能驱动，并通过机器人技术实现。",
         "summaryOriginal": "以人工智能和机器人技术为驱动力，晶泰致力于用量子物理、AI、云计算、机器人实验等前沿技术领域打造了面向未来产业的创新型研发平台。该平台凭借共性技术集成优势，满足微观分子世界探索的需求。广泛赋能生物医药行业、新材料、石油化工、新能源等领域，为未来产业发展注入澎湃新动力。 An innovative research and development platform based on quantum physics, powered by artificial intelligence, and driven by robotics",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -50618,7 +50623,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "An innovative research and development platform based on quantum physics, powered by artificial intelligence, and driven by robotics",
-            "text": "An innovative research and development platform based on quantum physics, powered by artificial intelligence, and driven by robotics",
+            "text": "基于量子物理的创新研发平台，由人工智能驱动，并通过机器人技术实现。",
             "evidenceId": "evidence-company-xtalpi-investor_relations-b61641c41fad",
             "sourceUrl": "https://ir.xtalpi.com/",
             "needsReview": true,
@@ -50751,9 +50756,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -50892,9 +50897,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -51033,9 +51038,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
@@ -51072,7 +51077,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           },
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
             "evidenceId": "evidence-company-candidate-zai-lab-official-f8d781aee7ac",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9688&sc_lang=en",
             "needsReview": true,
@@ -51244,9 +51249,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
         "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "partial",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
