@@ -1,0 +1,1072 @@
+{
+  "schemaVersion": "1.0",
+  "capturedAt": "2026-08-11T04:42:58.878687+00:00",
+  "source": "HKEXnews/CNINFO",
+  "records": [
+    {
+      "companyId": "candidate-3sbio",
+      "companyName": "3Sbio",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-ab-and-b-bio-tech",
+      "companyName": "Ab&B Bio-Tech",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-abbisko",
+      "companyName": "Abbisko",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-acotec",
+      "companyName": "Acotec",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-airdoc",
+      "companyName": "Airdoc",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "akeso",
+      "companyName": "Akeso",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-alebund",
+      "companyName": "Alebund",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-ali-health",
+      "companyName": "Ali Health",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-alphamab",
+      "companyName": "Alphamab",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-antengene",
+      "companyName": "Antengene",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-ascentage",
+      "companyName": "Ascentage",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-ascletis",
+      "companyName": "Ascletis",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-b-and-k",
+      "companyName": "B&K Corp",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-bao-pharma",
+      "companyName": "Bao Pharma",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-basecare",
+      "companyName": "Basecare",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-biocytogen",
+      "companyName": "Biocytogen",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-biodlink",
+      "companyName": "Biodlink",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-bioheart",
+      "companyName": "Bioheart",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-biostar-pharm",
+      "companyName": "Biostar Pharm",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-brainaurora",
+      "companyName": "Brainaurora",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-brii",
+      "companyName": "Brii",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-broncus",
+      "companyName": "Broncus",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-canbridge",
+      "companyName": "Canbridge",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-carsgen",
+      "companyName": "Carsgen",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-chinares-pharma",
+      "companyName": "Chinares Pharma",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-cloudbreak",
+      "companyName": "Cloudbreak",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-clover-bio",
+      "companyName": "Clover Bio",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-cms",
+      "companyName": "Cms",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-cryofocus",
+      "companyName": "Cryofocus",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-cspc-pharma",
+      "companyName": "Cspc Pharma",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-cstone-pharma",
+      "companyName": "Cstone Pharma",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-cutia",
+      "companyName": "Cutia",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-diagens",
+      "companyName": "Diagens",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-dualitybio",
+      "companyName": "Dualitybio",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-edge-medical",
+      "companyName": "Edge Medical",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-genfleet",
+      "companyName": "Genfleet",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-genscript-bio",
+      "companyName": "Genscript Bio",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-grand-pharma",
+      "companyName": "Grand Pharma",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-hansoh-pharma",
+      "companyName": "Hansoh Pharma",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-hanxbio",
+      "companyName": "Hanxbio",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-hbm-holdings",
+      "companyName": "Hbm Holdings",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-heartcare",
+      "companyName": "Heartcare",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-hightide",
+      "companyName": "Hightide",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-hj-science",
+      "companyName": "Hj Science",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-hua-medicine",
+      "companyName": "Hua Medicine",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-hutchmed",
+      "companyName": "Hutchmed",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-immuneonco",
+      "companyName": "Immuneonco",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-immunotech",
+      "companyName": "Immunotech",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-impact-therap",
+      "companyName": "Impact Therap",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-innocare",
+      "companyName": "Innocare",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-innogen",
+      "companyName": "Innogen",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-innovent-bio",
+      "companyName": "Innovent Bio",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-insilico",
+      "companyName": "Insilico",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-jacobio",
+      "companyName": "Jacobio",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-jd-health",
+      "companyName": "Jd Health",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-jenscare",
+      "companyName": "Jenscare",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-jw-therap",
+      "companyName": "Jw Therap",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-keymed-bio",
+      "companyName": "Keymed Bio",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-kintor-pharma",
+      "companyName": "Kintor Pharma",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-laekna",
+      "companyName": "Laekna",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-leads-biolabs",
+      "companyName": "Leads Biolabs",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-longbio",
+      "companyName": "Longbio",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-luzhu-biotech",
+      "companyName": "Luzhu Biotech",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-mabpharm",
+      "companyName": "Mabpharm",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-mabwell",
+      "companyName": "Mabwell",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-medbot",
+      "companyName": "Medbot",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-micot-pharma",
+      "companyName": "Micot Pharma",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-microport",
+      "companyName": "Microport",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-microtech-med",
+      "companyName": "Microtech Med",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-mirxes",
+      "companyName": "Mirxes",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-mp-cardioflow",
+      "companyName": "Mp Cardioflow",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-ocumension",
+      "companyName": "Ocumension",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-pegbio",
+      "companyName": "Pegbio Co",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-peijia",
+      "companyName": "Peijia",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-qyuns",
+      "companyName": "Qyuns",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-rainmed",
+      "companyName": "Rainmed",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-recbio",
+      "companyName": "Recbio",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-ribolife",
+      "companyName": "Ribolife",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-sbp-group",
+      "companyName": "Sbp Group",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-simcere-pharma",
+      "companyName": "Simcere Pharma",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-sinomab-bio",
+      "companyName": "Sinomab Bio",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-sinopharm",
+      "companyName": "Sinopharm",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-sirnaomics",
+      "companyName": "Sirnaomics",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-skb-bio",
+      "companyName": "Skb Bio",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-sunho-bio",
+      "companyName": "Sunho Bio",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-tennor-therap",
+      "companyName": "Tennor Therap",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-th-medical",
+      "companyName": "Th Medical",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-transcenta",
+      "companyName": "Transcenta",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-transthera",
+      "companyName": "Transthera",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-tyk-medicines",
+      "companyName": "Tyk Medicines",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-united-lab",
+      "companyName": "United Lab",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-venus-medtech",
+      "companyName": "Venus Medtech",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-vigonvita",
+      "companyName": "Vigonvita",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-visen-pharma",
+      "companyName": "Visen Pharma",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-weigao-group",
+      "companyName": "Weigao Group",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-wuxi-apptec",
+      "companyName": "Wuxi Apptec",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-wuxi-bio",
+      "companyName": "Wuxi Bio",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-wuxi-xdc",
+      "companyName": "Wuxi Xdc",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "xtalpi",
+      "companyName": "XtalPi",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-xuanzhubio",
+      "companyName": "Xuanzhubio",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-yzybio",
+      "companyName": "Yzybio",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-zai-lab",
+      "companyName": "Zai Lab",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-zhaoke-ophth",
+      "companyName": "Zhaoke Ophth",
+      "source": "HKEXnews",
+      "portalUrl": "https://www1.hkexnews.hk/index.htm",
+      "status": "portal_only"
+    },
+    {
+      "companyId": "candidate-abf14cfdd734",
+      "companyName": "三生国健",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688336",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-ffc870755755",
+      "companyName": "上海谊众",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688091",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-23395bd4136e",
+      "companyName": "亚辉龙",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688575",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-445f23b51274",
+      "companyName": "佰仁医疗",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688198",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-d9ba58a62bfd",
+      "companyName": "华大智造",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688114",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-8737023e7840",
+      "companyName": "华恒生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688639",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-958dca202897",
+      "companyName": "华熙生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688363",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-dab769becc09",
+      "companyName": "南微医学",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688029",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-2237daacb53b",
+      "companyName": "博瑞医药",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688166",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-04217823c4ab",
+      "companyName": "君实生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688180",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-56e3097c1baa",
+      "companyName": "圣湘生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688289",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-29af81224424",
+      "companyName": "天智航",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688277",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-669d3a3a69c7",
+      "companyName": "奕瑞科技",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688301",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-5dd7a8e31714",
+      "companyName": "威高骨科",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688161",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-6e4fa81780a1",
+      "companyName": "康希诺",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688185",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-819bfbc1d0f2",
+      "companyName": "微电生理",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688351",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-5ea2006c4a5f",
+      "companyName": "微芯生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688321",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-9a455318ea07",
+      "companyName": "心脉医疗",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688016",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-97d3efdd3446",
+      "companyName": "必贝特",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688759",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-ddcce1f0d702",
+      "companyName": "悦康药业",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688658",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-46bf883ce905",
+      "companyName": "惠泰医疗",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688617",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-3c92f1178f55",
+      "companyName": "成大生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688739",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-98af7e3aff90",
+      "companyName": "成都先导",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688222",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-2e954f991f1e",
+      "companyName": "智翔金泰",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688443",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-26e62943e01a",
+      "companyName": "欧林生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688319",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-817afffebd32",
+      "companyName": "汇宇制药",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688553",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-5a89d199d059",
+      "companyName": "泽璟制药",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688266",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-28a9294d8677",
+      "companyName": "浩欧博",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688656",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-cd80b661fe40",
+      "companyName": "海尔生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688139",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-38dcb219a359",
+      "companyName": "热景生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688068",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-5dd44c475880",
+      "companyName": "爱博医疗",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688050",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-2ecb4514d497",
+      "companyName": "特宝生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688278",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-c868ae2672ff",
+      "companyName": "百克生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688276",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-37878f99d02b",
+      "companyName": "百利天恒",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688506",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-8f5ffb670e2a",
+      "companyName": "百奥泰",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688177",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-d50ece0e7d8e",
+      "companyName": "皓元医药",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688131",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-1338e6c1b759",
+      "companyName": "益方生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688382",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-fec21b7f896b",
+      "companyName": "神州细胞",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688520",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-ef758b23173e",
+      "companyName": "禾元生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688765",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-06f3336fa2e3",
+      "companyName": "美迪西",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688202",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-563ae6bb4ac0",
+      "companyName": "翔宇医疗",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688626",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-9fc8ecbf25c5",
+      "companyName": "联影医疗",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688271",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-512e83582c00",
+      "companyName": "艾力斯",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688578",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-868d4e3c4dbe",
+      "companyName": "苑东生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688513",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-51ebce2d9596",
+      "companyName": "荣昌生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688331",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-e0840e21be78",
+      "companyName": "诺唯赞",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688105",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-9f07e257c157",
+      "companyName": "赛诺医疗",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688108",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-69a5934eccae",
+      "companyName": "迈威生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688062",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-e1183778e53f",
+      "companyName": "迪哲医药",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688192",
+      "status": "portal_reachable_no_report_links"
+    }
+  ],
+  "failures": []
+}

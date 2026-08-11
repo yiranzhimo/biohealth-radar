@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-08-10T14:33:29+00:00",
-  "count": 592,
+  "capturedAt": "2026-08-11T04:42:59+00:00",
+  "count": 591,
   "items": [
     {
       "companyId": "candidate-3sbio",
@@ -8133,22 +8133,6 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-shanghai-juncell-therapeutics",
-      "name": "Shanghai Juncell Therapeutics",
-      "marketPageUrl": "https://clinicaltrials.gov/study/NCT06828328",
-      "identifiers": {},
-      "sourceTypes": [
-        "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "Recruiting",
-        "中国",
-        "临床试验",
-        "肿瘤"
       ],
       "status": "needs_official_domain"
     },
