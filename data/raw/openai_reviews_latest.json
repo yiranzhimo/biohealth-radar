@@ -1,28 +1,70 @@
 {
-  "capturedAt": "2026-08-11T02:30:12.773478+00:00",
+  "capturedAt": "2026-08-11T07:40:24.927044+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42574483",
-      "responseId": "resp_0ccc2a01be6ac113006a7a8935946081a3888a7aab33008f36",
+      "signalId": "pubmed-42575864",
+      "responseId": "resp_026e45eb68c1155f006a7ad1e98c308191bd02f036050ea8c6",
       "review": {
         "status": "pass",
-        "confidence": 0.85,
+        "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录来源清晰，信息分离合理，未做不当临床推断。",
+        "reviewSummaryCn": "该记录基于可靠来源，信息呈现清晰，符合发布要求。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理"
+          "notesCn": "分类合理，与文献主题一致。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "证据水平合理，事实与报告分离清晰"
+          "notesCn": "文献来源为PubMed，具有高可靠性。"
         },
         "riskFlags": [
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Human reproduction (Oxford, England)，PMID 为 42575864。",
+          "report": "Does the endometrium of oligo-ovulatory women with polyendocrine metabolic ovarian syndrome (PMOS) exhibit menstrual cycle phase-specific transcriptomic alterations compared to women without PMOS? Compared to healthy controls, women with PMOS exhibit endometri...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42575853",
+      "responseId": "resp_0cc8bf77b14bc17d006a7ad1eebd788192a9a9555c51b33bb3",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信号符合出版标准，信息分离明确，无需人工审核。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别和子类别与文献主题一致，合理分类。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分离明确，证据级别合理。"
+        },
+        "riskFlags": [
+          "regulatory_claim",
           "clinical_claim"
         ],
         "suggestedEdits": {
@@ -32,41 +74,90 @@
           "themes": [
             "Organoids",
             "Advanced Disease Models",
-            "Precision Oncology",
-            "Drug Screening"
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Drug Screening",
+            "Multi-omics"
           ],
           "tags": [
             "类器官",
             "疾病模型",
-            "肿瘤",
-            "药筛"
+            "临床",
+            "监管",
+            "药筛",
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Cancer research communications，PMID 为 42574483。",
-          "report": "Biliary tract cancers (BTCs) pose clinical challenges due to poor chemotherapy response and aggressive disease course. We evaluated patient derived tumor organoid (PDTO) based drug sensitivity testing as a tool to guide therapy. In this multicenter study, 26 t...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Journal of applied toxicology : JAT，PMID 为 42575853。",
+          "report": "The accelerating global diversification of food chemicals-encompassing mycotoxins, heavy metals, organophosphate pesticide residues and the increasingly prevalent burden of microplastics and nanoplastics (MNPs)-creates an urgent demand for rapid, human-relevant response strategies.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42574534",
-      "responseId": "resp_08fadf3f2b59b126006a7a893d611481a3a0a51faa251957e8",
+      "signalId": "pubmed-42575445",
+      "responseId": "resp_0f190397cf5f119f006a7ad1f5d9a481a3a6bcd0293a6cff92",
       "review": {
         "status": "needs_human",
         "confidence": 0.75,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审核，由于研究质量和结果的具体信息不足。",
+        "reviewSummaryCn": "需要人工审核，包含未支持的结论及未知信息。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "分类与证据水平未能清晰体现研究质量。"
+          "notesCn": "分类不够明确，文献中未提供充分的研究质量评估。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "报告和推论间缺乏必要的区分，且证据水平评估可能过于乐观。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 The Journal of Biological Chemistry，PMID 为 42575445。",
+          "report": "该文献讨论了胰腺导管腺癌的致命性因素及 KRas 的作用。",
+          "inference": "该研究的分类及推论仅为情报分流目的，不应被视为临床结论。",
+          "unknown": "缺乏关于研究质量、样本量、利益冲突、临床阶段或商业化状态的信息。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42575350",
+      "responseId": "resp_0c2dea3f3b5e81ff006a7ad1fb5b8481a39d6e1276f62c19e3",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献涉及微塑料对人类胎盘的影响，但未提供足够的研究质量与背景信息，可能误导读者。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类与文献主题不完全匹配，缺乏足够的支持信息。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "证据水平未反映研究的深入程度。"
+          "notesCn": "虽然文献主题相关，但其证据水平评估较低。"
         },
         "riskFlags": [
-          "clinical_claim"
+          "weak_classification",
+          "insufficient_source"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -80,31 +171,74 @@
             "类器官",
             "疾病模型"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42574534。",
-          "report": "Cadmium (Cd) is classified as a Group 1 carcinogen and constitutes a serious global environmental problem. This study aimed to establish a human colorectal organoid model and to evaluate the feasibility and sensitivity of a luciferase-based ATP bioluminescence...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Environmental toxicology and pharmacology, PMID 为 42575350。",
+          "report": "Detection of micro- and nanoplastics (MNPs) in human placental tissue, fetal cord blood, and neonatal meconium marks a paradigm shift in prenatal exposure research...",
+          "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42574504",
-      "responseId": "resp_02097c4f0e176638006a7a89435754819fbb69e2a046666b1a",
+      "signalId": "pubmed-42575299",
+      "responseId": "resp_0814b4d35fd0f4a6006a7ad2020578819d9525bcf83904c57d",
       "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号内部一致且中立，适合发布。",
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审核，可能存在有关研究质量和临床应用的未验证推断。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
+          "isSupported": false,
+          "notesCn": "分类未能正确反映研究结果的适用性和质量。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平为中等，但足够支持所提供的相关信息。"
+          "evidenceLevelReasonable": false,
+          "notesCn": "尽管来源可靠，但提供的证据水平不足以支持临床结论。"
         },
         "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Experimental eye research，PMID 为 42575299。",
+          "report": "Müller glial cells (MGCs), non-neuronal retinal cells, have a role in supporting retinal ganglion cells (RGCs) and are a potential therapeutic target for retinal nerve diseases such as glaucoma. Here we analyzed the characteristics of induced MGCs (iMGCs) diff...",
+          "inference": "该研究可能无法直接支持临床应用或疗效推断。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42575201",
+      "responseId": "resp_057ae1260a94f2e4006a7ad20bc0bc819e83eedd12aa0cb5a5",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该卡片需要人工审阅以评估潜在的效力或安全性结论。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "根据当前证据水平，分类尚无足够支持，且研究质量不明确。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平为中等，但未充分支持分类决策。"
+        },
+        "riskFlags": [
+          "weak_classification",
           "insufficient_source"
         ],
         "suggestedEdits": {
@@ -123,9 +257,212 @@
             "肿瘤",
             "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42574504。",
-          "report": "Numerous studies have shown that the morphological phenotype of a cell or organoid correlates with its susceptibility to anti-cancer agents. However, traditional methods of measuring phenotype rely on spatial metrics such as area, volume, perimeter, and signal...",
+          "fact": "PubMed 记录显示该文献收录于 Cellular and molecular gastroenterology and hepatology，PMID 为 42575201。",
+          "report": "Tumor necrosis factor receptor 1 (TNFR1) regulates intestinal epithelial survival and repair, yet its role in the colonic mesenchyme remains unclear. We investigated how mesenchymal TNFR1 signaling controls stromal cell identity, stem cell niche function, and...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42575164",
+      "responseId": "resp_0367265e0a20bacd006a7ad2117aec819fb7fcca7817afc6ea",
+      "review": {
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号满足出版标准，包含合理的分类和证据水平，事实、报告和推论明确分开。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类符合文献主题和内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "来源信息和论点合理并互相支持。"
+        },
+        "riskFlags": [
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "AI Drug Discovery",
+          "subCategory": "AI-enabled Discovery",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "AI for Biology",
+            "Drug Discovery"
+          ],
+          "tags": [
+            "AI 制药",
+            "蛋白设计",
+            "分子生成"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of molecular biology，PMID 为 42575164。",
+          "report": "Accurate calculation of energy changes upon mutation is a key requirement for the effective use of computational methods in protein design. In this study, we applied free energy perturbation (FEP) calculations to predict the effects of mutations on the binding...",
+          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42576031",
+      "responseId": "resp_068436d19c2cd8ee006a7ad216c1f481a39c094b99f9dbdd1f",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献提供高质量的基础信息，未存在不当临床结论或建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合来源内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据层级中等，支持实际引用来源。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Diabetologia，PMID 为 42576031。",
+          "report": "Leukocyte cell-derived chemotaxin 2 (LECT2), a newly discovered hepatokine involved in immunomodulation and inflammatory processes, has recently been implicated in diabetic retinopathy pathogenesis. However, the specific role and mechanism of LECT2 in diabetic...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42575403",
+      "responseId": "resp_099e823bcfcf8dc4006a7ad21dae108192a935542947162d1c",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号缺乏研究质量判定及样本量信息，需要人工审查以提供更准确的背景。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据等级较低，分类支持度不足。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "文献缺少关键的评估指标，无法支持低证据等级的分类。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of the American College of Radiology : JACR，PMID 为 42575403。",
+          "report": "PubMed 记录未提供摘要。",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42575727",
+      "responseId": "resp_0eeadbeb4ac6349a006a7ad22343e8819db4bfd9a6ee426880",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合发表标准，内容中立，不含无支持的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，与源信息一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论已明确区分，证据等级合理。"
+        },
+        "riskFlags": [
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cancer reports (Hoboken, N.J.)，PMID 为 42575727。",
+          "report": "An increasing number of octogenarian patients are being diagnosed with lung cancer, but they are less likely to receive surgery because of fragility. As a result, the optimal management of lung cancer in octogenarians remains unclear. Here we report a case of...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42575837",
+      "responseId": "resp_08ce4a979963e7c6006a7ad228e56881a0ac8f22356e2d78ba",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献报告了一项针对BRCA1/BRCA2变异检测的研究，缺乏关于研究质量和临床影响的具体信息。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类基于提供的信息，但缺乏足够的背景信息来支持研究质量和临床相关性。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "研究质量和样本量问题未得到验证，信息粒度不足。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 International journal of gynecological cancer : official journal of the International Gynecological Cancer Society，PMID 为 42575837。",
+          "report": "To assess concordance of tumor BRCA1/BRCA2 variant detection across four sequencing workflows benchmarked against the Myriad myChoice companion diagnostic in newly diagnosed ovarian cancer. Within the MITO16A/MaNGO-OV2 trial, 100 formalin-fixed paraffin-embedd...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
