@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-11T07:40:17.024495+00:00",
+  "capturedAt": "2026-08-11T13:45:37.666336+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-11"
   },
   "pmids": [
+    "42577093",
+    "42576547",
+    "42576449",
+    "42576310",
+    "42576222",
     "42575864",
-    "42575853",
-    "42575445",
-    "42575350",
-    "42575299",
-    "42575201",
     "42559559",
     "42509463",
     "42498177",
@@ -32,14 +32,120 @@
     "42564489",
     "42561121",
     "42560913",
+    "42577177",
+    "42577044",
     "42576031",
     "42575837",
     "42575727",
-    "42575403",
-    "42573888",
-    "42573798"
+    "42575403"
   ],
   "records": [
+    {
+      "pmid": "42577093",
+      "title": "Bone organoids and mitochondrial reprogramming.",
+      "abstract": "Bone organoids have evolved from simple osteogenic spheroids to increasingly sophisticated systems incorporating vascular networks, bone marrow niches, and multicellular interactions, yet achieving functional maturation remains limited by long-term viability, tissue organization, and metabolic homeostasis. Mitochondrial metabolic homeostasis represents a promising strategy in this regard. Mitochondria serve as both the core of energy metabolism and a vital signaling hub governing bone development, remodeling, and homeostasis. The metabolic switch from glycolysis to oxidative phosphorylation in osteogenic lineage cells, regulated by mitochondrial programming, directly determines bone matrix synthesis and mineralization. This review systematically summarizes the fundamental mechanisms of mitochondria in osteogenic differentiation, calcium signaling, and bone quality control, and highlights how mechanical cues, electromagnetic stimulation, and biomaterial microenvironments drive functional maturation of bone organoids by targeting mitochondria. Bone organoid construction should integrate mitochondrial metabolic requirements across developmental stages, ensuring energy-redox adaptation, organelle quality control, and intercellular metabolic coupling among heterogeneous cell populations. Accordingly, we propose a novel strategy for next-generation bone organoid engineering focused on mitochondrial metabolic microenvironment modulation. Active intervention in cellular energy metabolism can significantly enhance organoid maturity and physiological fidelity, providing a new theoretical framework and technical route for developing high-fidelity bone organoid models. This review delineates mitochondrial reprogramming as the core driver of bone organoid maturation. We highlight strategies targeting mitochondrial bioenergetics via physical cues, ions, and bioactive factors. Bridging molecular mechanisms with biomaterial design, this framework establishes standardized organoids with homeostatic resilience, advancing clinically translatable in vitro bone models.",
+      "journal": "Journal of orthopaedic translation",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Orthopedic Trauma, Beijing Jishuitan Hospital, Capital Medical University, Beijing, 100035, China.",
+        "Human Organ Physiopathology Emulation System, State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, 100101, China.",
+        "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, 100101, China.",
+        "University of Chinese Academy of Sciences, Beijing, 100049, China.",
+        "Key Laboratory of Animal Cellular and Genetic Engineering of Heilongjiang Province, College of Life Science, Northeast Agricultural University, Harbin, 150038, China.",
+        "Beijing Research Institute of Traumatology and Orthopaedics, Beijing, 100035, China."
+      ],
+      "doi": "10.1016/j.jot.2026.101190",
+      "date": "2026-08-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42577093/"
+    },
+    {
+      "pmid": "42576547",
+      "title": "Vascularization of Human iPSC-Derived Kidney Organoids Using Perfusion Culture, Pre-Vascularized Collagen Scaffolds, and Decellularized Extracellular Matrix.",
+      "abstract": "Human induced pluripotent stem cell-derived kidney organoids represent promising in vitro models for studying kidney development and drug-induced toxicity, yet their lack of vasculature limits maturation and translational use. Here, we present a proof-of-concept co-culture platform to promote vascularization of kidney organoids by integrating stromal vascular fraction cells, collagen sponge scaffolds, porcine kidney decellularized extracellular matrix (dECM), and dynamic culture in a perfusion-based U-CUP bioreactor. We systematically evaluated the effects of serum supplementation, scaffold pre-vascularization, dECM encapsulation, and flow conditions on organoid-vascular integration. Low-level serum supplementation (1.5% FBS) sustained vascular networks without compromising organoid morphology. Perfusion supported vascular expansion; however, while a low flow rate comparable to interstitial tissue flow (0.01 mL/min) preserved organoid morphology and glomerular-like structures, a higher flow rate optimized for vascularization (0.47 mL/min) disrupted overall organoid architecture. Encapsulation within dECM preserved glomerular morphology and supported vascular infiltration, whereas co-culture with stromal vascular fraction cells enabled putative podocyte-endothelial interactions. Finally, exposure to the calcineurin inhibitor tacrolimus revealed dose-dependent cytotoxicity and characteristic nephron and vascular injury, demonstrating the model's utility for nephrotoxicity screening. The established modular platform enables the engineering of vascularized kidney organoids, establishing foundations for physiologically relevant models for disease modeling and pre-clinical drug testing.",
+      "journal": "Advanced healthcare materials",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "MERLN Institute for Technology-Inspired Regenerative Medicine, Maastricht University, Maastricht, the Netherlands.",
+        "Department of Biomedical Engineering, University of Basel, Basel, Switzerland.",
+        "Tissue Engineering, Department of Biomedicine, University of Basel and University Hospital of Basel, Basel, Switzerland."
+      ],
+      "doi": "10.1002/adhm.71526",
+      "date": "2026-08-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42576547/"
+    },
+    {
+      "pmid": "42576449",
+      "title": "Engineering Pluripotent Stem Cells-Derived Inner Ear Organoids With Enhanced Maturation and Reproducibility by Micro-Topographical Cues.",
+      "abstract": "Inner ear organoids (IEOs) derived from pluripotent stem cells (PSCs) provide a promising platform for modeling neurosensory disorders and hearing loss; however, conventional systems often exhibit substantial structural variability, incomplete maturation, and limited reproducibility due to insufficient control of early organoid morphogenesis. Here, we demonstrate that micro-topographical cues applied during initial IEO formation enhance the development and functional maturation of PSC-derived IEOs. This microengineering strategy introduces temporally defined microscale geometric confinement to regulate early cell-cell and cell-extracellular matrix (ECM) interactions, thereby promoting epithelial organization and developmental fidelity. Microengineered IEOs (M-IEOs) exhibit improved reproducibility and neurosensory maturation, including increased hair cell-like populations, stereocilia-like structures and kinocilium-like features exhibiting a characteristic (9 × 2) + 2 microtubule organization. Functionally, M-IEOs exhibit enhanced electrophysiological responsiveness, supported by complementary transcriptomic and in situ analyses indicating activation of inner ear lineage maturation pathways. Furthermore, we demonstrate the versatility of M-IEOs by integrating them with a microfluidic vascular system to model vascular-epithelial interactions and inflammatory responses, highlighting its potential for disease modeling and pharmacological screening. Together, these findings establish transient micro-topographical guidance as an instructive regulator of inner ear organoid development and provide a robust, vascular-compatible platform for neurosensory research, disease modeling, and translational screening applications.",
+      "journal": "Advanced materials (Deerfield Beach, Fla.)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Convergence Biosystems Engineering, Chonnam National University, Gwangju, Republic of Korea.",
+        "Department of Rural and Biosystems Engineering, Chonnam National University, Gwangju, Republic of Korea.",
+        "Interdisciplinary Program in IT-Bio Convergence System, Chonnam National University, Gwangju, Republic of Korea.",
+        "Department of Mechanical Engineering, Seoul National University, Seoul, Republic of Korea.",
+        "Department of Neurology, Yonsei University College of Medicine, Seoul, Republic of Korea.",
+        "Department of Otolaryngology, Ajou University School of Medicine, Suwon, Republic of Korea.",
+        "Department of Oral Biochemistry, School of Dentistry, Chonnam National University, Gwangju, Republic of Korea.",
+        "School of Mechanical Engineering, Sungkyunkwan University, Suwon, Republic of Korea.",
+        "Department of Bio-Industrial Machinery Engineering, Pusan National University, Miryang-si, Republic of Korea.",
+        "Institute of Nano-Stem Cells Therapeutics, NANOBIOSYSTEM Co., Ltd, Gwangju, Republic of Korea."
+      ],
+      "doi": "10.1002/adma.74560",
+      "date": "2026-08-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42576449/"
+    },
+    {
+      "pmid": "42576310",
+      "title": "Targeting the S100A2-RAGE Pathway Restores AT2 Cell Identity and Mitigates Lung Fibrosis.",
+      "abstract": "Lung fibrosis, including idiopathic pulmonary fibrosis (IPF), represents a spectrum of progressive interstitial lung diseases characterized by disrupted epithelial repair, fibroblast activation, and excess extracellular matrix accumulation. A central feature of fibrotic progression is the loss of alveolar type 2 epithelial (AT2) cell identity and the emergence of aberrant transitional states that fail to support normal regeneration. Based on our re-analysis of multiple publicly available scRNA-seq datasets from the IPF Cell Atlas, S100A2 expression is tightly associated with basal-like reprogramming of AT2 cells and is a top upregulated gene at both mRNA and protein levels in IPF lungs. Furthermore, scRNA-seq data from human lung organoid models reveal that AT2 cells co-cultured with fibroblasts acquire a basal-like phenotype and express high levels of S100A2. Functionally, overexpression of S100A2 in human iPSC-derived lung alveolar epithelial type 2 (iAT2) cells leads to loss of AT2 cellular identity, increased generation of reactive oxygen species, and activation of RAGE signaling pathway. We demonstrate that pharmacologic inhibition of RAGE using Azeliragon preserves AT2 cell populations, associated with reduced oxidative stress in iAT2 cells, and significantly attenuates collagen deposition in bleomycin-induced lung fibrosis models. Collectively, our results indicate that S100A2 is a key driver of epithelial dysfunction in lung fibrosis, promoting loss of AT2 identity, aberrant basal fate acquisition, and persistent epithelial injury. Targeting the unrecognized S100A2-RAGE pathway may offer a new therapeutic strategy to restore epithelial homeostasis in lung fibrosis.",
+      "journal": "American journal of respiratory cell and molecular biology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "The Hormel Institute, University of Minnesota, Austin, MN, United States.",
+        "Department of Physiology and Biomedical Engineering, Mayo Clinic, Rochester, MN, United States."
+      ],
+      "doi": "10.1093/ajrcmb/aanag133",
+      "date": "2026-08-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42576310/"
+    },
+    {
+      "pmid": "42576222",
+      "title": "Smyca-FOXM1 ribonucleoprotein complex promotes homologous recombination and tumor immune evasion to define a therapeutic target of triple-negative breast cancer.",
+      "abstract": "Triple-negative breast cancer (TNBC) is the most aggressive subtype of breast cancer with limited treatment options. Although PARP inhibitor (PARPi) offers great promise in treating TNBC with deficiency in homologous recombination (HR), most TNBC patients are HR-proficient. Furthermore, acquired resistance to PARPi remains as a challenge. Thus, there is an unmet need to identify new therapeutic target for developing advanced TNBC treatment strategy. I-SceI reporter assay and alkaline comet assay were used to analyze the role of Smyca in HR repair. Ingenuity pathway analysis was used to identify upstream regulators of Smyca-regulated transcriptome. RNA immunoprecipitation and RNA pull down were used to examine Smyca-FOXM1 interaction. Chromatin immunoprecipitation followed by sequencing was performed to identify FOXM1 target genes that are regulated by Smyca. Chromatin isolation by RNA purification was used to determine Smyca loading onto the promoters of FOXM1 target genes. Patient-derived organoid and xenograft mouse models were performed to evaluate the effect of Smyca on chemoresistance. Nanoparticle-assisted gapmer antisense oligonucleotides delivery was used to target Smyca in vivo. Co-culture of CD3 + T cells with TNBC cells and syngeneic mouse model were used to examine the effect of Smyca-FOXM1 targeting on anti-tumor immunity. The long non-coding RNA Smyca is highly expressed in TNBC. We show that Smyca is induced by genotoxic agents to enhance HR repair. Mechanistically, Smyca binds FOXM1 and promotes the recruitment of FOXM1 to the promoters of a set of HR and nucleotide metabolism genes, thereby promoting their expression. Smyca ablation induces BRCAness in HR-proficient TNBC, thereby sensitizing these tumors to platinum or PARPi. Furthermore, targeting Smyca-FOXM1 complex in combination with platinum or PARPi activates cGAS/STING pathway and tumor immunogenicity to enhance anti-tumor immune surveillance. Clinically, Smyca expression in breast cancer patients correlates positively with therapy resistance and negatively with HR deficiency, interferon signature, and infiltration of anti-tumor immune cells. Our study identifies an unprecedented role of Smyca in HR repair to promote TNBC survival and immune evasion in response to therapy and suggests Smyca as a potential target for sensitizing TNBC to chemotherapy, PARPi, or immunotherapy.",
+      "journal": "Journal of biomedical science",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Institute of Biological Chemistry, Academia Sinica, Taipei, 115, Taiwan.",
+        "Institute of Biochemical Sciences, College of Life Science, National Taiwan University, Taipei, 106, Taiwan.",
+        "Institue of Molecular Medicine, College of Medicine, National Taiwan University, Taipei, 100, Taiwan.",
+        "Institute of Biomedical Sciences, Academia Sinica, Taipei, 115, Taiwan.",
+        "School of Life Sciences, Department of Bioinformatics, Indonesia International Institute for Life Sciences, Jakarta, 13210, Indonesia.",
+        "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, 110, Taiwan.",
+        "Division of General and Breast Surgery, Department of Surgery, Chang Gung Memorial Hospital, Linkou, 244, Taoyuan, Taiwan.",
+        "Institute of Molecular and Cellular Biology, National Tsing Hua University, Hsinchu, 300, Taiwan.",
+        "School of Medicine, National Tsing Hua University, Hsinchu, 300, Taiwan.",
+        "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, 110, Taiwan. hyichen@tmu.edu.tw.",
+        "Ph.D. Program for Cancer Molecular Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, 110, Taiwan. hyichen@tmu.edu.tw.",
+        "Institute of Biological Chemistry, Academia Sinica, Taipei, 115, Taiwan. rhchen@gate.sinica.edu.tw.",
+        "Institute of Biochemical Sciences, College of Life Science, National Taiwan University, Taipei, 106, Taiwan. rhchen@gate.sinica.edu.tw.",
+        "Institue of Molecular Medicine, College of Medicine, National Taiwan University, Taipei, 100, Taiwan. rhchen@gate.sinica.edu.tw."
+      ],
+      "doi": "10.1186/s12929-026-01279-2",
+      "date": "2026-08-11",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42576222/"
+    },
     {
       "pmid": "42575864",
       "title": "The impact of menstrual cycle phase and BMI on mitochondrial dysfunction in PMOS endometrium.",
@@ -62,98 +168,6 @@
       "doi": "10.1093/humrep/deag127",
       "date": "2026-08-11",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42575864/"
-    },
-    {
-      "pmid": "42575853",
-      "title": "In Vitro New Approach Methodologies for Toxicity Assessment of Emerging Food Contaminants in Indonesia: A Proposed Strategy for BPOM Regulatory Integration.",
-      "abstract": "The accelerating global diversification of food chemicals-encompassing mycotoxins, heavy metals, organophosphate pesticide residues and the increasingly prevalent burden of microplastics and nanoplastics (MNPs)-creates an urgent demand for rapid, human-relevant and ethically acceptable toxicity testing platforms. Conventional animal-based bioassays are insufficient to characterise the thousands of substances awaiting safety evaluation, a deficit particularly acute in tropical food-producing regions including Indonesia where environmental contamination profiles and regulatory infrastructure differ markedly from high-income countries. New approach methodologies (NAMs), comprising validated in vitro cell and organoid systems, high-throughput screening (HTS), multiomics toxicogenomics, in silico modelling and adverse outcome pathway (AOP) frameworks, represent a paradigm shift in food safety toxicology. This review critically appraises current evidence on in vitro NAMs for emerging food contaminants, with emphasis on (i) 2D cell line and 3D organoid/organ-on-chip models for hepatotoxicity, enterotoxicity and nephrotoxicity; (ii) mechanistic pathways-oxidative stress, mitochondrial dysfunction, genotoxicity and intestinal barrier disruption-as interrogated through standardised in vitro endpoints; (iii) AOP frameworks as regulatory bridges between molecular initiating events and adverse outcomes; (iv) high-throughput transcriptomics (HTTr) and Cell Painting integration for mechanism-informed hazard prioritisation; and (v) in vitro-to-in vivo extrapolation (IVIVE) via physiologically based toxicokinetic (PBTK) modelling. Critical gaps in chronic-exposure data, mixture toxicity assessment and BPOM regulatory acceptance are discussed. A novel evidence-based NAM validation roadmap tailored to the Southeast Asian regulatory context is proposed.",
-      "journal": "Journal of applied toxicology : JAT",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Biochemistry, Faculty of Medicine, Hasanuddin University, Makassar, South Sulawesi, Indonesia.",
-        "Food and Drug Investigation Laboratory, Indonesian Food and Drug Authority (BPOM), Jakarta Pusat, Indonesia."
-      ],
-      "doi": "10.1002/jat.70394",
-      "date": "2026-08-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42575853/"
-    },
-    {
-      "pmid": "42575445",
-      "title": "A ternary association of KRas, EphA2 and integrins controls PDAC cell behaviour.",
-      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is one of the most lethal cancers, primarily because late detection, a lack of effective therapies and an abundant desmoplastic reaction result in elevated proliferation, invasion and immune evasion. KRas is the most frequently mutated driver gene in PDAC and, while drugs are now available that target this GTPase, there remains a need for further pharmacological options to treat the disease. As a first step to identify potential targets, this study aimed to define the molecular environment of KRas using proximity proteomics. A KRasG12V-biotin ligase chimera was stably expressed in several PDAC cell lines and organoids, and associating proteins identified following biotin addition, streptavidin affinity isolation and mass spectrometry (MS). Among the 126 proteins that were specifically associated in all cell lines, five integrin subunits and the receptor tyrosine kinase ephrin type-A receptor 2 (EphA2) were consistently enriched. Both classes of receptor have been previously implicated in both Ras signalling and desmoplastic responses. A range of protein biochemical and microscopic analyses confirmed the spatial association of integrin β1 and EphA2 with KRas. Cellular KRas levels were reduced following depletion of both integrin β1 and EphA2, and depletion of EphA2 inhibited KRas-dependent migration. Taken together, these findings highlight a ternary crosstalk between receptor tyrosine kinase, integrin and KRas signalling, which provides insight into PDAC progression and signposts potential therapeutic vulnerabilities.",
-      "journal": "The Journal of biological chemistry",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Manchester Cell-Matrix Centre, Faculty of Biology, Medicine and Health, Manchester Academic Health Science Centre, The University of Manchester, M13 9PT, Manchester, UK.",
-        "Cancer Research UK Manchester Institute, The University of Manchester, M20 4BX, Manchester, UK.",
-        "Biological Mass Spectrometry Core Facility, Faculty of Biology, Medicine and Health, The University of Manchester, M13 9PT, Manchester, UK.",
-        "Department of Hepatobiliary and Pancreatic Surgery, Manchester Royal Infirmary, Oxford Road, Manchester M13 9WL, UK.",
-        "Biochemistry, Cell and Systems Biology, Institute of Systems, Molecular and Integrative Biology, University of Liverpool, Liverpool, L69 7ZB, UK.",
-        "Manchester Cell-Matrix Centre, Faculty of Biology, Medicine and Health, Manchester Academic Health Science Centre, The University of Manchester, M13 9PT, Manchester, UK. Electronic address: martin.humphries@manchester.ac.uk."
-      ],
-      "doi": "10.1016/j.jbc.2026.113421",
-      "date": "2026-08-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42575445/"
-    },
-    {
-      "pmid": "42575350",
-      "title": "Intracellular Fate of Micro- and Nanoplastics in Human Placenta: Organelle-Specific Toxicity and Mechanistic Convergence.",
-      "abstract": "Detection of micro- and nanoplastics (MNPs) in human placental tissue, fetal cord blood, and neonatal meconium marks a paradigm shift in prenatal exposure research. Yet the field lacks a mechanistic framework integrating the intracellular stress responses MNPs provoke subcellularly. This narrative review proposes an organelle-resolved model of MNP-induced cellular toxicity wherein internalized MNPs traffic through the endosomal-lysosomal system, initiating lysosomal overload and autophagic flux blockade, mitochondrial cristae disorganization consistent with ΔΨm collapse, and endoplasmic reticulum cisternal dilation with pro-apoptotic UPR switching. These converge into a unified framework - the chronic 'Plasticenta' cell danger response (cPCDR) - wherein MNP persistence is hypothesized to generate a perpetually re-triggered, incompletely resolved danger state. The Pi-GAC-glutaminolysis axis is proposed as a secondary metabolic convergence downstream of ΔΨm collapse. Contextualized within the DoHaD framework, the fetoplacental unit is positioned as a critical transgenerational MNP biosensor. Priority directions include scRNA-seq-based cPCDR validation, trophoblast organoid models, and prospective placental biobanking.",
-      "journal": "Environmental toxicology and pharmacology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Cellular Dyshomeostasis Laboratory (CDHL), School of Chemical and Biotechnology, SASTRA Deemed University, Thanjavur, Tamil Nadu, India. Electronic address: dipita2001@gmail.com.",
-        "Cellular Dyshomeostasis Laboratory (CDHL), School of Chemical and Biotechnology, SASTRA Deemed University, Thanjavur, Tamil Nadu, India. Electronic address: gunjanguha@scbt.sastra.edu."
-      ],
-      "doi": "10.1016/j.etap.2026.105129",
-      "date": "2026-08-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42575350/"
-    },
-    {
-      "pmid": "42575299",
-      "title": "Chemerin and NPC2 produced from iPSC-derived Müller glial cells promote retinal ganglion cell regeneration.",
-      "abstract": "Müller glial cells (MGCs), non-neuronal retinal cells, have a role in supporting retinal ganglion cells (RGCs) and are a potential therapeutic target for retinal nerve diseases such as glaucoma. Here we analyzed the characteristics of induced MGCs (iMGCs) differentiated from human induced pluripotent stem cells (hiPSCs) and investigated the therapeutic potential of proteins secreted by iMGCs. Early developmental iMGCs were generated from hiPSCs. RNA-sequencing was performed on iMGCs, and the gene expressions were compared with those of human primary MGCs (pMGCs). Chemerin and NPC2, proteins identified from the conditioned medium of iPSC-derived retinal organoid, were added to iPSC-derived optic vesicles to evaluate their effects on RGC axon elongation. Chemerin and NPC2 produced from iMGCs were quantified using ELISA. Each protein was added to rat RGC transplantation to retinal explants, and the number of RGC with neurite was counted. Finally, chemerin and NPC2 were added to rat primary retinal cells under hypoxia/reoxygenation conditions, and the number of survived RGCs was counted. Transcriptome analysis of early-stage iMGCs showed common characteristics with pMGCs. Chemerin and NPC2 were found to promote RGC axon elongation and confirmed to be secreted from iMGCs. Futhermore, the addition of these proteins increased the number of RGCs with neurites in ex vivo transplantation and inhibited RGC death under hypoxia/reoxygenation conditions. This study demonstrated that chemerin and NPC2 were secreted from iMGCs and promoted RGC survival and axon elongation. These proteins may be future drug candidates for retinal regeneration.",
-      "journal": "Experimental eye research",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Senju Pharmaceutical Co., Ltd, 6-4-3, Minatojima-Minamimachi, Chuo-ku, Kobe, Hyogo 650-0047 Japan.",
-        "Department of Ophthalmology and Laboratory for Visual Science, National Center for Child Health and Development, 2-10-1, O-kura, Setagaya-ku, Tokyo 1578535 Japan; CoMIT Omics Center, Graduate School of Medicine, Osaka University, 2-2, Yamadagaoka, Suita, Osaka 565-0871 Japan.",
-        "Department of Ophthalmology and Laboratory for Visual Science, National Center for Child Health and Development, 2-10-1, O-kura, Setagaya-ku, Tokyo 1578535 Japan; Department of Developmental and Regenerative Biology, Medical Research Institute, Institute of Science Tokyo, 1-5-45, Yushima, Bunkyo-ku, Tokyo 113-8510 Japan.",
-        "Senju Pharmaceutical Co., Ltd, 6-4-3, Minatojima-Minamimachi, Chuo-ku, Kobe, Hyogo 650-0047 Japan. Electronic address: chiho-fukiage@senju.co.jp."
-      ],
-      "doi": "10.1016/j.exer.2026.111196",
-      "date": "2026-08-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42575299/"
-    },
-    {
-      "pmid": "42575201",
-      "title": "TNF Receptor 1 regulates colonic mesenchymal cell diversity and the epithelial stem cell niche.",
-      "abstract": "Tumor necrosis factor receptor 1 (TNFR1) regulates intestinal epithelial survival and repair, yet its role in the colonic mesenchyme remains unclear. We investigated how mesenchymal TNFR1 signaling controls stromal cell identity, stem cell niche function, and epithelial homeostasis. Colonic mesenchymal populations from germline TNFR1-deficient (TNFR1-/-) and mesenchymal-specific Pdgfra-Cre;TNFR1fl/fl mice were analyzed using immunostaining, western blotting, bulk and single-cell RNA sequencing, and organoid-mesenchymal co-culture systems. Functional studies included wound healing assays, recombinant RSPO3 rescue, and ITGA6 blockade. TNFR1 deletion altered mesenchymal composition, reducing PDGFRα expression while increasing αSMA expression in vivo and in vitro. Single-cell RNA sequencing demonstrated loss of mesenchymal heterogeneity following TNFR1 deletion, including depletion of a distinct TNF and interferon responsive mesenchymal subpopulation enriched for Mmp9, Cd200, Traf1, and Tnfrsf9. Transcriptomic profiling revealed downregulation of stem cell niche factors including Rspo3, Wnt2b, and Fgf2, alongside increased extracellular matrix and proliferative signaling pathways, particularly Itga6, PI3K, MAPK, and RAP1 signaling. Mesenchymal TNFR1 deletion impaired epithelial proliferation and reduced Lgr5+ and Ephb3+ intestinal stem cell expression in vivo. In organoid co-culture systems, TNFR1-deficient mesenchymal cells suppressed epithelial stem cell marker expression and altered colonoid morphology, effects which were rescued by recombinant RSPO3. ITGA6 blockade restored PDGFRα and RSPO3 expression and normalized proliferative signaling and migration in TNFR1-deficient myofibroblasts. Similarly, TNFR1-dependent regulation of ITGA6, PDGFRA, and RSPO3 was observed in human colonic myofibroblasts. Mesenchymal TNFR1 preserves colonic mesenchymal diversity, sustains RSPO3-dependent stem cell niche signaling, and maintains intestinal stem cell homeostasis.",
-      "journal": "Cellular and molecular gastroenterology and hepatology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Division of Pediatric Gastroenterology, Hepatology, and Nutrition, and The Saban Research Institute, Children's Hospital Los Angeles, Los Angeles, CA, 90027, USA; Department of Pediatrics, University of California San Diego School of Medicine, La Jolla, CA, 92093, USA.",
-        "Division of Pediatric Gastroenterology, Hepatology, and Nutrition, and The Saban Research Institute, Children's Hospital Los Angeles, Los Angeles, CA, 90027, USA; Department of Medicine, The University of Chicago, Chicago, IL, 60637, USA.",
-        "Division of Pediatric Gastroenterology, Hepatology, and Nutrition, and The Saban Research Institute, Children's Hospital Los Angeles, Los Angeles, CA, 90027, USA.",
-        "Department of Pediatrics, University of California San Diego School of Medicine, La Jolla, CA, 92093, USA.",
-        "Department of Surgery, Keck School of Medicine, University of Southern California, Los Angeles, CA, 90089, USA.",
-        "Division of Pediatric Gastroenterology, Hepatology, and Nutrition, and The Saban Research Institute, Children's Hospital Los Angeles, Los Angeles, CA, 90027, USA; Department of Pediatrics, University of California San Diego School of Medicine, La Jolla, CA, 92093, USA; Department of Surgery, Keck School of Medicine, University of Southern California, Los Angeles, CA, 90089, USA; Department of Biochemistry & Molecular Medicine, Keck School of Medicine, University of Southern California, Los Angeles, CA, 90089, USA; Department of Pediatrics, Division of Gastroenterology, Hepatology & Nutrition, Rady Children's Hospital, San Diego, San Diego, CA, 92123, USA. Electronic address: dpolk@ucsd.edu."
-      ],
-      "doi": "10.1016/j.jcmgh.2026.101856",
-      "date": "2026-08-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42575201/"
     },
     {
       "pmid": "42559559",
@@ -376,6 +390,39 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42560913/"
     },
     {
+      "pmid": "42577177",
+      "title": "Multimodal AI fusion: integrating MRI with PET/CT, histopathology, and liquid biopsy for bone tumor diagnosis.",
+      "abstract": "The diagnosis of bone tumors, though a low-incidence occurrence, presents a formidable challenge due to the morphological heterogeneity and variable biological behavior of these lesions. No single diagnostic modality whether imaging or biopsy is sufficient to provide the comprehensive information necessary for definitive diagnosis, accurate staging, and effective treatment planning. This report argues that a fragmented, sequential approach to diagnosis is inherently limited and that the future of orthopedic oncology lies in the integration of diverse data streams. Multimodal artificial intelligence (AI) offers a promising supportive approach by creating an AI-enabled integrative decision-support environment where computational systems can synthesize and contextualize information from magnetic resonance imaging (MRI), positron emission tomography computed tomography (PET/CT), histopathology, and liquid biopsy. This report details the specific capabilities and limitations of each of these foundational modalities, outlines the technical architectures required for their fusion, and illustrates how an integrated AI system can augment clinical workflows. It also addresses the critical challenges that must be overcome for clinical adoption, including data standardization, algorithmic interpretability, and economic viability, ultimately positioning this approach as an important emerging direction for future precision oncology.",
+      "journal": "Frontiers in oncology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Imaging, Yantaishan Hospital, Yantai, Shangdong, China.",
+        "Department of Ultrasonography, Yantaishan Hospital, Yantai, Shangdong, China."
+      ],
+      "doi": "10.3389/fonc.2026.1724332",
+      "date": "2026-07-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42577177/"
+    },
+    {
+      "pmid": "42577044",
+      "title": "Molecular Characterization of Ovarian Metastases from Colorectal Cancer Using Circulating Tumor DNA Analysis.",
+      "abstract": "Ovarian metastases from colorectal cancer (CRC) are uncommon but are associated with poor prognosis and therapeutic challenges. These lesions may exhibit discordant responses to systemic therapy, suggesting site-specific biological heterogeneity. However, the molecular characteristics of CRC-associated ovarian metastases remain insufficiently defined. We aimed to characterize the circulating tumor deoxyribonucleic acid (ctDNA) landscape of ovarian metastatic CRC using a plasma-based deep sequencing approach. Plasma samples from patients with CRC and ovarian metastases were analyzed using cancer personalized profiling by deep sequencing. Pathogenic mutations and copy-number alterations were identified to delineate the genomic features of this metastatic subset. Pathogenic genomic alterations were detected in the majority of patients. Canonical CRC driver mutations, including TP53, KRAS, and APC, were observed at frequencies comparable to those reported in large-scale genomic datasets such as The Cancer Genome Atlas. In addition, recurrent amplification of growth factor receptor genes, including EGFR, MET, and ERBB2, was identified. Detectable tumor-derived alterations in plasma indicate active ctDNA shedding from ovarian lesions, supporting the feasibility of noninvasive genomic profiling in this setting. CRC-associated ovarian metastases retain the core genomic architecture of colorectal tumorigenesis while demonstrating recurrent receptor tyrosine kinase amplifications that may reflect adaptive clonal evolution within the ovarian microenvironment. Plasma-based ctDNA profiling provides a feasible approach for molecular characterization of this rare metastatic phenotype and may contribute to improved understanding of site-specific tumor biology.",
+      "journal": "JMA journal",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Obstetrics and Gynecology, Wakayama Medical University, Wakayama, Japan.",
+        "Department of Genome Biology, Kindai University Faculty of Medicine, Osaka, Japan."
+      ],
+      "doi": "10.31662/jmaj.2026-0123",
+      "date": "2026-05-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42577044/"
+    },
+    {
       "pmid": "42576031",
       "title": "LECT2-RPS27A interaction involving Lys48 attenuates neuroinflammation in diabetic retinopathy.",
       "abstract": "Leukocyte cell-derived chemotaxin 2 (LECT2), a newly discovered hepatokine involved in immunomodulation and inflammatory processes, has recently been implicated in diabetic retinopathy pathogenesis. However, the specific role and mechanism of LECT2 in diabetic retinopathy remain largely unclear. A publicly available liquid biopsy proteomics dataset was reanalysed and validated using retinal samples from individuals with diabetic retinopathy. A LECT2-knockdown (Lect2+/-) mouse model of diabetic retinopathy was established to evaluate the role of LECT2 in vivo. Retinal pathology was assessed by Periodic Acid-Schiff staining and H&E staining, and LECT2 expression was assessed by western blotting. In parallel, a high glucose (HG)-induced human Müller cell model was used to investigate the subcellular localisation and functional effects of LECT2. LECT2 expression and inflammatory signalling were analysed following LECT2 knockdown or overexpression, and its nucleus-cytoplasm distribution was examined by fractionation assays. The interaction between LECT2 and ribosomal protein S27a (RPS27A) was characterised by immunoprecipitation-MS, co-immunoprecipitation, molecular docking and split-GFP assays, followed by RPS27A silencing to assess its effects on inflammatory protein expression. Proteomic reanalysis of proliferative diabetic retinopathy liquid biopsy data identified 1479 upregulated proteins, with chemotaxis among the most significantly enriched Gene Ontology terms (false discovery rate <0.001). Among 17 chemotaxis-related candidate proteins, LECT2 emerged as a potential regulator of diabetes-associated inflammation, a finding further supported by its elevated expression in the retinas of individuals with diabetic retinopathy. In diabetic Lect2+/- mice, LECT2 deficiency aggravated retinal microvascular injury and inflammatory responses. LECT2 was predominantly expressed in retinal Müller cells, implicating it in glia-associated retinal inflammation. In HG-treated human retinal Müller cells, RPS27A was identified as a downstream target of LECT2 and was upregulated under hyperglycaemic conditions. Mechanistically, HG stimulation increased the expression and nuclear accumulation of both LECT2 and RPS27A. LECT2 interacted with RPS27A at the Lys48 site, promoting its nuclear retention and limiting its cytoplasmic translocation. This, in turn, inhibited IκBα ubiquitination and degradation, thereby suppressing NF-κB-driven inflammatory signalling. Taken together, our studies indicated the protective role of LECT2 in diabetes-induced dysfunction of retinal Müller cells, supporting the feasibility of targeting LECT2 in the management of diabetic inflammation and microvasculopathy.",
@@ -471,52 +518,41 @@
       "doi": "10.1016/j.jacr.2026.08.005",
       "date": "2026-08-10",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42575403/"
-    },
-    {
-      "pmid": "42573888",
-      "title": "Circulating microRNAs: a new era in early detection of oral squamous cell carcinoma (OSCC) - a systematic review and meta-analysis.",
-      "abstract": "The chances of oral squamous cell carcinoma (OSCC) being diagnosed at an early stage are very low, and this leads to a poor prognosis. The presence of circulating miRNAs (miRNAs) in blood or saliva is now a potential non-invasive diagnostic biomarker, although the diagnostic accuracy of the studies reported remains vastly different due to differences in biofluids, miRNA panels, disease spectrum, and platforms. We did a meta-analysis of diagnostic accuracy and a systematic review in accordance with PRISMA-DTA 2020 guidelines (PROSPERO: CRD420251274288). Articles that evaluated circulating miRNAs in any biofluid in diagnosing OSCC were taken into consideration. A Bayesian bivariate random-effects model was used to pool together the sensitivity, specificity, likelihood ratios, diagnostic odds ratios and the summary receiver operating characteristic (sROC) curves. Heterogeneity sources were analyzed using pre-constructed subgroup analysis and meta-regression. The number of studies that were evaluated in totality was seventeen and seven were incorporated in the meta-analysis. The pooled sensitivity of the circulating miRNAs towards the detection of OSCC was 0.89 (95% CI: 0.77-0.95) and the pooled specificity was 0.88 (95% CI: 0.75-0.95). It had a pooled positive likelihood ratio (PLR) of 7.25 (95% CI: 3.42-16.08), a negative likelihood ratio (NLR) of 0.13(95% CI: 0.05-0.27), and a diagnostic odds ratio (DOR) of 59.69(95%CI:14.33-209.95). Good performance in discriminating was also noted in the sROC curve with an area under the curve value of approximately 0.90. However, substantial between-study heterogeneity was observed (τ ≈ 0.93 for sensitivity; τ ≈ 0.83 for specificity), and the 95% credible intervals around the DOR were wide (14.33-209.95). Individual studies of multi-miRNA panels reported AUCs up to 0.98, though pooled subgroup estimates were limited by small study numbers and wide uncertainty. Circulating miRNAs and in particular multi-miRNA saliva-based profiles provide promising but heterogenous diagnostic accuracy for OSCC. While individual panel studies have reported high AUCs, the current pooled evidence-derived from only seven small, mostly case-control studies of advanced-stage disease-does not yet establish utility for true early detection or population screening.",
-      "journal": "Journal of the Egyptian National Cancer Institute",
-      "publicationTypes": [
-        "Journal Article",
-        "Systematic Review",
-        "Meta-Analysis"
-      ],
-      "affiliations": [
-        "Siddhartha Medical College, Vijayawada, India. roshansmc921k@gmail.com.",
-        "Centre for Research Impact and Outcome (CRiO), Chitkara University, Rajpura, Punjab, India.",
-        "Saveetha Dental College and Hospitals, Saveetha University, Chennai, India.",
-        "Verde Valley Medical Centre, Arizona, United States.",
-        "Dr. P.S.I Medical College, Gannavaram, India.",
-        "Rangaraya Medical College, Kākināda, India.",
-        "Government Medical College, Ongole, India.",
-        "Konaseema Institute of Medical Sciences and Research Foundation, Amalapuram, India."
-      ],
-      "doi": "10.1186/s43046-026-00393-4",
-      "date": "2026-08-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573888/"
-    },
-    {
-      "pmid": "42573798",
-      "title": "Cerebrospinal fluid cell-free DNA sequencing in pediatric CNS tumors: towards liquid molecular neuropathology.",
-      "abstract": "Pediatric central nervous system tumors remain a leading cause of cancer-related mortality in children, while their diagnosis, risk stratification, and therapeutic management increasingly depend on integrated molecular characterization. However, representative tumor tissue is often difficult to obtain because of tumor location, surgical risk, limited biopsy material, and the impracticality of repeated sampling during disease evolution. Cerebrospinal fluid (CSF) has therefore emerged as a particularly informative liquid biopsy compartment for many CNS malignancies, enriched in tumor-derived cell-free DNA and, for tumors in contact with the CSF spaces, more directly reflective of intracranial tumor biology than plasma; its yield nonetheless varies with tumor biology and anatomical proximity to CSF pathways. Here, we review the evidence supporting CSF cell-free DNA sequencing as an emerging extension of molecular neuropathology in pediatric CNS tumors. Targeted next-generation sequencing, low-pass whole-genome sequencing, methylation-based classifiers, and nanopore sequencing now enable complementary assessment of somatic mutations, copy number alterations, epigenetic tumor class, and longitudinal tumor burden from low-input pediatric CSF samples. Recent studies have moved the field beyond analytical proof of concept towards defined clinical scenarios, including molecular diagnosis when biopsy is infeasible, molecular staging of high-CSF-shedding tumors, minimal residual disease monitoring in medulloblastoma and other embryonal tumors, and clarification of ambiguous radiological progression. CSF-based sequencing does not replace tissue neuropathology, but provides a liquid molecular layer that can complement, extend, or in selected situations partially substitute tissue-based diagnosis. Its broader adoption now depends on workflow standardization, assay-specific reporting standards, external quality assurance, and prospective evidence that CSF-guided decisions improve patient outcomes.",
-      "journal": "Acta neuropathologica",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Radiotherapy, Institut de Cancérologie de Lorraine, Vandœuvre-Lès-Nancy, France. w.gehin@nancy.unicancer.fr.",
-        "Innovative Therapeutics and Early Trials Unit, Institut de Cancérologie de Lorraine, Vandœuvre-Lès-Nancy, France. w.gehin@nancy.unicancer.fr.",
-        "Pediatric Oncohematology, Hôpital d'Enfants, CHRU Nancy, Vandoeuvre-Lès-Nancy, France.",
-        "Biopathology, Institut de Cancérologie de Lorraine, CNRS, UMR 7039 CRAN - Université de Lorraine, Vandœuvre-Lès-Nancy, France."
-      ],
-      "doi": "10.1007/s00401-026-03067-6",
-      "date": "2026-08-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573798/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42576222",
+      "date": "2026-08-11",
+      "title": "Smyca-FOXM1 ribonucleoprotein complex promotes homologous recombination and tumor immune evasion to define a therapeutic target of triple-negative breast cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42576222/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of biomedical science，PMID 为 42576222。",
+      "report": "Triple-negative breast cancer (TNBC) is the most aggressive subtype of breast cancer with limited treatment options. Although PARP inhibitor (PARPi) offers great promise in treating TNBC with deficiency in homologous recombination (HR), most TNBC patients are...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42575864",
       "date": "2026-08-11",
@@ -548,84 +584,78 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42575853",
+      "id": "pubmed-42576547",
       "date": "2026-08-10",
-      "title": "In Vitro New Approach Methodologies for Toxicity Assessment of Emerging Food Contaminants in Indonesia: A Proposed Strategy for BPOM Regulatory Integration.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42575853/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of applied toxicology : JAT，PMID 为 42575853。",
-      "report": "The accelerating global diversification of food chemicals-encompassing mycotoxins, heavy metals, organophosphate pesticide residues and the increasingly prevalent burden of microplastics and nanoplastics (MNPs)-creates an urgent demand for rapid, human-relevan...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42575445",
-      "date": "2026-08-10",
-      "title": "A ternary association of KRas, EphA2 and integrins controls PDAC cell behaviour.",
+      "title": "Vascularization of Human iPSC-Derived Kidney Organoids Using Perfusion Culture, Pre-Vascularized Collagen Scaffolds, and Decellularized Extracellular Matrix.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42575445/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42576547/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42576547。",
+      "report": "Human induced pluripotent stem cell-derived kidney organoids represent promising in vitro models for studying kidney development and drug-induced toxicity, yet their lack of vasculature limits maturation and translational use. Here, we present a proof-of-conce...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42576449",
+      "date": "2026-08-10",
+      "title": "Engineering Pluripotent Stem Cells-Derived Inner Ear Organoids With Enhanced Maturation and Reproducibility by Micro-Topographical Cues.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42576449/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening",
         "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "肿瘤",
+        "药筛",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The Journal of biological chemistry，PMID 为 42575445。",
-      "report": "Pancreatic ductal adenocarcinoma (PDAC) is one of the most lethal cancers, primarily because late detection, a lack of effective therapies and an abundant desmoplastic reaction result in elevated proliferation, invasion and immune evasion. KRas is the most fre...",
+      "fact": "PubMed 记录显示该文献收录于 Advanced materials (Deerfield Beach, Fla.)，PMID 为 42576449。",
+      "report": "Inner ear organoids (IEOs) derived from pluripotent stem cells (PSCs) provide a promising platform for modeling neurosensory disorders and hearing loss; however, conventional systems often exhibit substantial structural variability, incomplete maturation, and...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42575350",
+      "id": "pubmed-42576310",
       "date": "2026-08-10",
-      "title": "Intracellular Fate of Micro- and Nanoplastics in Human Placenta: Organelle-Specific Toxicity and Mechanistic Convergence.",
+      "title": "Targeting the S100A2-RAGE Pathway Restores AT2 Cell Identity and Mitigates Lung Fibrosis.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42575350/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42576310/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -638,70 +668,8 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Environmental toxicology and pharmacology，PMID 为 42575350。",
-      "report": "Detection of micro- and nanoplastics (MNPs) in human placental tissue, fetal cord blood, and neonatal meconium marks a paradigm shift in prenatal exposure research. Yet the field lacks a mechanistic framework integrating the intracellular stress responses MNPs...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42575299",
-      "date": "2026-08-10",
-      "title": "Chemerin and NPC2 produced from iPSC-derived Müller glial cells promote retinal ganglion cell regeneration.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42575299/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Experimental eye research，PMID 为 42575299。",
-      "report": "Müller glial cells (MGCs), non-neuronal retinal cells, have a role in supporting retinal ganglion cells (RGCs) and are a potential therapeutic target for retinal nerve diseases such as glaucoma. Here we analyzed the characteristics of induced MGCs (iMGCs) diff...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42575201",
-      "date": "2026-08-10",
-      "title": "TNF Receptor 1 regulates colonic mesenchymal cell diversity and the epithelial stem cell niche.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42575201/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cellular and molecular gastroenterology and hepatology，PMID 为 42575201。",
-      "report": "Tumor necrosis factor receptor 1 (TNFR1) regulates intestinal epithelial survival and repair, yet its role in the colonic mesenchyme remains unclear. We investigated how mesenchymal TNFR1 signaling controls stromal cell identity, stem cell niche function, and...",
+      "fact": "PubMed 记录显示该文献收录于 American journal of respiratory cell and molecular biology，PMID 为 42576310。",
+      "report": "Lung fibrosis, including idiopathic pulmonary fibrosis (IPF), represents a spectrum of progressive interstitial lung diseases characterized by disrupted epithelial repair, fibroblast activation, and excess extracellular matrix accumulation. A central feature o...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -820,66 +788,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42573888",
-      "date": "2026-08-10",
-      "title": "Circulating microRNAs: a new era in early detection of oral squamous cell carcinoma (OSCC) - a systematic review and meta-analysis.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573888/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of the Egyptian National Cancer Institute，PMID 为 42573888。",
-      "report": "The chances of oral squamous cell carcinoma (OSCC) being diagnosed at an early stage are very low, and this leads to a poor prognosis. The presence of circulating miRNAs (miRNAs) in blood or saliva is now a potential non-invasive diagnostic biomarker, although...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42573798",
-      "date": "2026-08-10",
-      "title": "Cerebrospinal fluid cell-free DNA sequencing in pediatric CNS tumors: towards liquid molecular neuropathology.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573798/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Acta neuropathologica，PMID 为 42573798。",
-      "report": "Pediatric central nervous system tumors remain a leading cause of cancer-related mortality in children, while their diagnosis, risk stratification, and therapeutic management increasingly depend on integrated molecular characterization. However, representative...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42567392",
       "date": "2026-08-07",
       "title": "Local energetic frustration: Protein evolution, conformational dynamics and design in the age of AI.",
@@ -992,6 +900,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42577093",
+      "date": "2026-08-01",
+      "title": "Bone organoids and mitochondrial reprogramming.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42577093/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of orthopaedic translation，PMID 为 42577093。",
+      "report": "Bone organoids have evolved from simple osteogenic spheroids to increasingly sophisticated systems incorporating vascular networks, bone marrow niches, and multicellular interactions, yet achieving functional maturation remains limited by long-term viability,...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42575727",
       "date": "2026-08-01",
       "title": "Too Old for Surgery? A Case Report of an Octogenarian Patient With Locally Advanced Lung Cancer Achieving Long-Term Survival via Bilobectomy Followed by Adjuvant Targeted Therapy.",
@@ -1053,6 +989,36 @@
       "fact": "PubMed 记录显示该文献收录于 Biogerontology，PMID 为 42509463。",
       "report": "Single-cell foundation models such as scGPT and Geneformer are large neural networks trained on human single-cell RNA-seq data. They were never shown chronological age during training. Do their internal representations nevertheless encode aging biology in a wa...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42577177",
+      "date": "2026-07-27",
+      "title": "Multimodal AI fusion: integrating MRI with PET/CT, histopathology, and liquid biopsy for bone tumor diagnosis.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42577177/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42577177。",
+      "report": "The diagnosis of bone tumors, though a low-incidence occurrence, presents a formidable challenge due to the morphological heterogeneity and variable biological behavior of these lesions. No single diagnostic modality whether imaging or biopsy is sufficient to...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1225,6 +1191,34 @@
       "fact": "PubMed 记录显示该文献收录于 International journal of gynecological cancer : official journal of the International Gynecological Cancer Society，PMID 为 42575837。",
       "report": "To assess concordance of tumor BRCA1/BRCA2 variant detection across four sequencing workflows benchmarked against the Myriad myChoice companion diagnostic in newly diagnosed ovarian cancer. Within the MITO16A/MaNGO-OV2 trial, 100 formalin-fixed paraffin-embedd...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42577044",
+      "date": "2026-05-22",
+      "title": "Molecular Characterization of Ovarian Metastases from Colorectal Cancer Using Circulating Tumor DNA Analysis.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42577044/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 JMA journal，PMID 为 42577044。",
+      "report": "Ovarian metastases from colorectal cancer (CRC) are uncommon but are associated with poor prognosis and therapeutic challenges. These lesions may exhibit discordant responses to systemic therapy, suggesting site-specific biological heterogeneity. However, the...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
