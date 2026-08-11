@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-08-10",
+  "updatedAt": "2026-08-11",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -821,6 +821,85 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42574483",
+      "date": "2026-08-10",
+      "title": "Ex vivo tumor derived organoid pharmacotyping identifies personalized therapeutic options for biliary tract cancer patients.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42574483/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [
+        "tempus-ai"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Cancer research communications，PMID 为 42574483。",
+      "report": "Biliary tract cancers (BTCs) pose clinical challenges due to poor chemotherapy response and aggressive disease course. We evaluated patient derived tumor organoid (PDTO) based drug sensitivity testing as a tool to guide therapy. In this multicenter study, 26 t...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0ccc2a01be6ac113006a7a8935946081a3888a7aab33008f36",
+        "reviewedAt": "2026-08-11T02:30:12.773478+00:00",
+        "inputHash": "6ef4de172e6b10cb4377ab23d6c120473b5d13079febc219f7750b383d8b5df2",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录来源清晰，信息分离合理，未做不当临床推断。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平合理，事实与报告分离清晰"
+        },
+        "riskFlags": [
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cancer research communications，PMID 为 42574483。",
+          "report": "Biliary tract cancers (BTCs) pose clinical challenges due to poor chemotherapy response and aggressive disease course. We evaluated patient derived tumor organoid (PDTO) based drug sensitivity testing as a tool to guide therapy. In this multicenter study, 26 t...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42574050",
       "date": "2026-08-10",
       "title": "DNMT3B plays antagonistic roles with SMARCB1 and is a targetable vulnerability in rhabdoid tumors.",
@@ -1033,154 +1112,6 @@ window.BHR_DATA = {
           ],
           "fact": "PubMed 记录显示该文献收录于 Inflammopharmacology，PMID 为 42573967。",
           "report": "Helicobacter pylori is a bacterium that has been identified as a causative agent in the development of chronic gastritis, peptic ulcers, and gastric cancer. Current eradication therapies, based on antibiotic combination, are suffering from lack of patient compliance.",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42573494",
-      "date": "2026-08-10",
-      "title": "Face Scrubber-Fabricated Affordable and User-Friendly Microwell Devices for Scalable 3D Cell Culture.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573494/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 ACS biomaterials science & engineering，PMID 为 42573494。",
-      "report": "Current 3D culture platforms often face challenges such as high costs, single-use, and inconsistent size uniformity and hence are unsuitable for high-throughput applications. Considering these issues, a commercially available silicone face scrubber (SFS) was r...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_00ed91a884292f06006a7a24717c5c819aa7097d2ef858b9c2",
-        "reviewedAt": "2026-08-10T19:19:40.051207+00:00",
-        "inputHash": "4a7a47cef5a03042040b80fa0d885532a7ca0f9cba0f091d94f7c6c0a9e8207a",
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "文献符合中立智能记录发布标准，信息清晰分离。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "文献的主要分类和证据水平合理，符合已知信息。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论明确分离。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 ACS biomaterials science & engineering，PMID 为 42573494。",
-          "report": "Current 3D culture platforms often face challenges such as high costs, single-use, and inconsistent size uniformity and hence are unsuitable for high-throughput applications. Considering these issues, a commercially available silicone face scrubber (SFS) was r...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42573242",
-      "date": "2026-08-10",
-      "title": "Transcriptomic profiling of lentoid bodies highlights potential mechanisms of radiation-induced cataracts.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573242/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of radiation biology，PMID 为 42573242。",
-      "report": "The lens of the eye has been recognized as one of the most radiosensitive tissues in the human body. Radiation-induced cataractogenesis is believed to arise through a complex interplay of molecular processes, including crystallin protein oxidation and aggregat...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_08e6ea9ab4fd1156006a7a24789a40819ab931107b628339a9",
-        "reviewedAt": "2026-08-10T19:19:40.051207+00:00",
-        "inputHash": "21b14ff9d349eb2d0afec66925fac8a2561766f2731c52fa83aae6b236d34f1a",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "文献记录清晰，分类合理，未包含治疗建议或临床结论，信息安全可发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别与研究主题一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "文献可靠性高，证据水平适中。"
-        },
-        "riskFlags": [
-          "insufficient_source",
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 International journal of radiation biology，PMID 为 42573242。",
-          "report": "The lens of the eye has been recognized as one of the most radiosensitive tissues in the human body. Radiation-induced cataractogenesis is believed to arise through a complex interplay of molecular processes, including crystallin protein oxidation and aggregat...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
@@ -3896,84 +3827,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42573925",
-      "date": "2026-07-30",
-      "title": "TFAP2A enhances radioresistance of non-small cell lung cancer by transcriptionally activating BRCA1 : TFAP2A promotes NSCLC radioresistance.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573925/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cellular oncology (Dordrecht, Netherlands)，PMID 为 42573925。",
-      "report": "Radioresistance remains a major obstacle in the treatment of non-small cell lung cancer (NSCLC). Transcription factor AP-2α (TFAP2A) has been implicated in tumor progression, but its role in NSCLC radioresistance and translational therapeutic relevance remain...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_037df7aef0ee474f006a7a25265980819992f65c73030f327c",
-        "reviewedAt": "2026-08-10T19:19:40.051207+00:00",
-        "inputHash": "1b5e4814f4fea0f9c5ba52232c5858f098e055f4cd18a3f8710414b48cbd989a",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该研究记录清晰且中立，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类与文献内容相符。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断清晰区分，证据级别合理。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "research_report"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Cellular oncology (Dordrecht, Netherlands)，PMID 为 42573925。",
-          "report": "Radioresistance remains a major obstacle in the treatment of non-small cell lung cancer (NSCLC). Transcription factor AP-2α (TFAP2A) has been implicated in tumor progression, but its role in NSCLC radioresistance and translational therapeutic relevance remain...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "sec-0001576280-000157628026000037",
       "date": "2026-07-30",
       "title": "Guardant Health filed Form 10-Q",
@@ -5116,6 +4969,152 @@ window.BHR_DATA = {
           "unknown": "研究质量、样本量、利益冲突等未提供足够信息。"
         },
         "inputHash": "2cc96a50d232204847157fed8a75fd17b3c488a8754c9b80fef810f015656b1c"
+      }
+    },
+    {
+      "id": "pubmed-42574534",
+      "date": "2026-07-21",
+      "title": "A Standardized Protocol for Evaluating Cadmium Toxicity in Human Colorectal Organoids via Luciferase-Based Viability Assay.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42574534/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42574534。",
+      "report": "Cadmium (Cd) is classified as a Group 1 carcinogen and constitutes a serious global environmental problem. This study aimed to establish a human colorectal organoid model and to evaluate the feasibility and sensitivity of a luciferase-based ATP bioluminescence...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_08fadf3f2b59b126006a7a893d611481a3a0a51faa251957e8",
+        "reviewedAt": "2026-08-11T02:30:12.773478+00:00",
+        "inputHash": "9db586bfbbbde740f6289f1bafaef672e06dad2defb3ff0c40dc7ce2709d5273",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审核，由于研究质量和结果的具体信息不足。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类与证据水平未能清晰体现研究质量。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平未反映研究的深入程度。"
+        },
+        "riskFlags": [
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42574534。",
+          "report": "Cadmium (Cd) is classified as a Group 1 carcinogen and constitutes a serious global environmental problem. This study aimed to establish a human colorectal organoid model and to evaluate the feasibility and sensitivity of a luciferase-based ATP bioluminescence...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42574504",
+      "date": "2026-07-21",
+      "title": "A Shape Analysis Algorithm Quantifies Spatial Morphology and Context of 2D to 3D Cell Culture for Novel Quantitation of Phenotypes.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42574504/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42574504。",
+      "report": "Numerous studies have shown that the morphological phenotype of a cell or organoid correlates with its susceptibility to anti-cancer agents. However, traditional methods of measuring phenotype rely on spatial metrics such as area, volume, perimeter, and signal...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_02097c4f0e176638006a7a89435754819fbb69e2a046666b1a",
+        "reviewedAt": "2026-08-11T02:30:12.773478+00:00",
+        "inputHash": "290681f78cfa1cda14b2bce9e77a9d2532d9e8599ab6a852582c07c88edbcad3",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号内部一致且中立，适合发布。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平为中等，但足够支持所提供的相关信息。"
+        },
+        "riskFlags": [
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42574504。",
+          "report": "Numerous studies have shown that the morphological phenotype of a cell or organoid correlates with its susceptibility to anti-cancer agents. However, traditional methods of measuring phenotype rely on spatial metrics such as area, volume, perimeter, and signal...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
       }
     },
     {

@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-10T19:19:30.405051+00:00",
+  "capturedAt": "2026-08-11T02:30:05.477450+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-08-10",
-    "end": "2026-08-10"
+    "start": "2025-08-11",
+    "end": "2026-08-11"
   },
   "pmids": [
+    "42574534",
+    "42574504",
+    "42574483",
     "42574050",
     "42574049",
     "42573967",
-    "42573925",
-    "42573494",
-    "42573242",
     "42559559",
     "42509463",
     "42498177",
@@ -40,6 +40,64 @@
     "42570628"
   ],
   "records": [
+    {
+      "pmid": "42574534",
+      "title": "A Standardized Protocol for Evaluating Cadmium Toxicity in Human Colorectal Organoids via Luciferase-Based Viability Assay.",
+      "abstract": "Cadmium (Cd) is classified as a Group 1 carcinogen and constitutes a serious global environmental problem. This study aimed to establish a human colorectal organoid model and to evaluate the feasibility and sensitivity of a luciferase-based ATP bioluminescence assay for detecting toxic responses of colorectal organoids (COs) to Cd exposure. Stem cells were isolated from human colorectal tissue and cultured in a three-dimensional the basement membrane matrix to generate COs. Organoids were treated with a graded series of Cd concentrations for different exposure durations. A luminescent viability reagent was added at an equal volume ratio, gently mixed by rocking at room temperature to promote lysis and reagent penetration, and then incubated to allow the bioluminescent reaction to proceed. Luminescence was recorded in luminescence mode on a multi-mode microplate reader. Dose-response curve fitting was used to calculate the half-maximal inhibitory concentration and to evaluate changes in viability or relative viability. Primary stem cells were successfully isolated from human colorectal tissue and used to generate COs. Cd exposure produced dose-dependent and time-dependent decreases in organoid metabolic activity; dose-response analysis yielded survival curves and IC50 values for the organoids. This study provides methodological guidance and practical insights for utilizing human COs in environmental heavy-metal toxicology studies.",
+      "journal": "Journal of visualized experiments : JoVE",
+      "publicationTypes": [
+        "Journal Article",
+        "Video-Audio Media"
+      ],
+      "affiliations": [
+        "Jiangsu Province Engineering Research Center of Molecular Target Therapy and Companion Diagnostics in Oncology, Suzhou Vocational Health College.",
+        "College of Life Science, North China University of Science and Technology.",
+        "Department of General Surgery, The First Affiliated Hospital of Soochow University; ljl2049@163.com.",
+        "Jiangsu Province Engineering Research Center of Molecular Target Therapy and Companion Diagnostics in Oncology, Suzhou Vocational Health College; College of Life Science, North China University of Science and Technology; liusongbai@126.com."
+      ],
+      "doi": "10.3791/70531",
+      "date": "2026-07-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42574534/"
+    },
+    {
+      "pmid": "42574504",
+      "title": "A Shape Analysis Algorithm Quantifies Spatial Morphology and Context of 2D to 3D Cell Culture for Novel Quantitation of Phenotypes.",
+      "abstract": "Numerous studies have shown that the morphological phenotype of a cell or organoid correlates with its susceptibility to anti-cancer agents. However, traditional methods of measuring phenotype rely on spatial metrics such as area, volume, perimeter, and signal intensity, which work but are limited. These approaches cannot measure many crucial features of spatial context, such as chirality, a property of left- and right-handedness. Volume cannot be used to register chirality because the left and right shoes have the same volume. Though spatial context in the form of chirality, gravity direction, and polarity axis is intuitive to humans, the traditional metrics used by cell biologists, pathologists, radiologists, and machine learning practitioners to date cannot capture these fundamental notions. The linearized compressed polar coordinates (LCPC) transform is a novel algorithm that can capture spatial context unlike any other metric. The LCPC transform translates a two-dimensional (2D) contour into a discrete sinusoidal wave by overlaying a grid system that tracks the points of intersection between the contour and the grid lines. It turns the contour into a sequence of pairs of discrete coordinates, with the independent coordinate (x-coordinate) corresponding to consecutive positions in 2D space. Each dependent coordinate (y-coordinate) consists of the distance between an intersection of the contour and gridline to the origin or baseline of the grid system. In the form of a discrete sinusoid wave, the Fast Fourier Transform is then applied to the data. In this way, the shapes of cells in 2D and 3D cell culture are systematically and multidimensionally represented, enabling robust quantitative stratification that will reveal insights into treatment resistance.",
+      "journal": "Journal of visualized experiments : JoVE",
+      "publicationTypes": [
+        "Journal Article",
+        "Video-Audio Media"
+      ],
+      "affiliations": [
+        "Tissue Spatial Geometrics Lab; dave@tsg-lab.org.",
+        "Department of Medicine, University of California, San Francisco.",
+        "Department of Medicine, University of California, San Francisco; Chan Zuckerberg Biohub - San Francisco."
+      ],
+      "doi": "10.3791/71066",
+      "date": "2026-07-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42574504/"
+    },
+    {
+      "pmid": "42574483",
+      "title": "Ex vivo tumor derived organoid pharmacotyping identifies personalized therapeutic options for biliary tract cancer patients.",
+      "abstract": "Biliary tract cancers (BTCs) pose clinical challenges due to poor chemotherapy response and aggressive disease course. We evaluated patient derived tumor organoid (PDTO) based drug sensitivity testing as a tool to guide therapy. In this multicenter study, 26 tumor organoids were successfully derived from 43 BTC patients and tested with an average of 50 cancer-directed therapies using the CLIA certified PARIS® assay. Despite most organoids being from late-stage disease, 24/26 (92.3%) exhibited strong sensitivity to one or more targeted agents. Active drugs included inhibitors of EGFR/HER2, MEK, ERK, BCR-ABL and SRC family, mTOR, PI3K, MDM2, BCL2, and BET. Drug sensitivities aligned with known genetic biomarkers, but were also observed in cultures lacking them, indicating ex vivo testing can expand actionability beyond genomics. In five cases, results guided therapy; one patient with an FGFR-BICC1 fusion refractory to FGFR inhibitors responded to dasatinib, achieving symptomatic improvement, stable disease, and >8 month survival.",
+      "journal": "Cancer research communications",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Cure First Bothell, WA United States.",
+        "Tempus AI Bothell, WA United States.",
+        "Providence Cancer Institute Portland, OR United States.",
+        "The University of Texas MD Anderson Cancer Center Houston, TX United States.",
+        "University of Washington Seattle, WA United States.",
+        "The Ohio State University Columbus, OH United States.",
+        "Fred Hutch Cancer Center DC, WA United States."
+      ],
+      "doi": "10.1158/2767-9764.CRC-25-0792",
+      "date": "2026-08-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42574483/"
+    },
     {
       "pmid": "42574050",
       "title": "DNMT3B plays antagonistic roles with SMARCB1 and is a targetable vulnerability in rhabdoid tumors.",
@@ -91,58 +149,6 @@
       "doi": "10.1007/s10787-026-02359-3",
       "date": "2026-08-10",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573967/"
-    },
-    {
-      "pmid": "42573925",
-      "title": "TFAP2A enhances radioresistance of non-small cell lung cancer by transcriptionally activating BRCA1 : TFAP2A promotes NSCLC radioresistance.",
-      "abstract": "Radioresistance remains a major obstacle in the treatment of non-small cell lung cancer (NSCLC). Transcription factor AP-2α (TFAP2A) has been implicated in tumor progression, but its role in NSCLC radioresistance and translational therapeutic relevance remain unclear. Bioinformatics analyses of TCGA and GEO datasets were used to identify transcription factors associated with NSCLC radioresponse. TFAP2A expression was evaluated in NSCLC tissues by immunohistochemistry. The functional role of TFAP2A was investigated using gain- and loss-of-function experiments in NSCLC cells, xenograft models, and patient-derived NSCLC organoids. Mechanistic studies included RNA sequencing, DNA damage repair assays, dual-luciferase reporter assays, chromatin immunoprecipitation, BRCA1 rescue experiments, and extended DNA damage response pathway validation. Structure-based virtual screening, surface plasmon resonance analysis, clonogenic survival assays, and xenograft experiments were performed to assess TFAP2A-targeted radiosensitization. TFAP2A was overexpressed in NSCLC tissues and was associated with poor prognosis and reduced radiotherapy response. TFAP2A knockdown enhanced radiosensitivity by reducing post-irradiation proliferative recovery, increasing apoptosis, inducing G2/M accumulation, and impairing DNA damage repair, whereas TFAP2A overexpression promoted radioresistance. TFAP2A directly bound to the BRCA1 promoter and transcriptionally activated BRCA1. BRCA1 restoration partially rescued the radiosensitizing effects and G2/M accumulation induced by TFAP2A knockdown. Extended validation of representative DNA damage response pathways and additional RNA-seq-derived repair candidates further supported BRCA1 as a principal downstream effector in this model. Patient-derived NSCLC organoids confirmed that TFAP2A knockdown enhanced radiosensitivity in a clinically derived ex vivo model. Pharmacological validation identified Dephospho-CoA as a candidate TFAP2A-binding compound that enhanced radiotherapy response in clonogenic assays and xenograft models. TFAP2A promotes NSCLC radioresistance by transcriptionally activating BRCA1 and enhancing DNA damage repair. The TFAP2A/BRCA1 axis may serve as a predictive biomarker and therapeutic target for overcoming radioresistance, and TFAP2A-targeted radiosensitization warrants further preclinical development.",
-      "journal": "Cellular oncology (Dordrecht, Netherlands)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Radiation Oncology, Shandong Provincial Key Laboratory of Radiation Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University, Shandong Academy of Medical Sciences, Jinan, Shandong, 250000, People's Republic of China.",
-        "Department of Radiation Oncology, Shandong Provincial Key Laboratory of Radiation Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University, Shandong Academy of Medical Sciences, Jinan, Shandong, 250000, People's Republic of China. sdyujinming@163.com.",
-        "Department of Radiation Oncology, Shandong Provincial Key Laboratory of Radiation Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University, Shandong Academy of Medical Sciences, Jinan, Shandong, 250000, People's Republic of China. zhangxiao1816@163.com.",
-        "Department of Radiation Oncology, Shandong Provincial Key Laboratory of Radiation Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University, Shandong Academy of Medical Sciences, Jinan, Shandong, 250000, People's Republic of China. dave0505@yeah.net."
-      ],
-      "doi": "10.1007/s13402-026-01267-6",
-      "date": "2026-07-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573925/"
-    },
-    {
-      "pmid": "42573494",
-      "title": "Face Scrubber-Fabricated Affordable and User-Friendly Microwell Devices for Scalable 3D Cell Culture.",
-      "abstract": "Current 3D culture platforms often face challenges such as high costs, single-use, and inconsistent size uniformity and hence are unsuitable for high-throughput applications. Considering these issues, a commercially available silicone face scrubber (SFS) was repurposed as a device or mold to fabricate microwell arrays in agarose for scalable 3D cell cultures, i.e., spheroids and organoids. The presented approach is simple, rapid, and affordable and does not require any expert personnel or instruments for the fabrication of microwell arrays. The efficacy of the method was determined by the performance of microwells toward 3D culture of L6 myoblast spheroids. Microwells facilitated the uniform culture of spheroid arrays without any considerable variation in shape and size. The reported approach is highly flexible and was used to create agarose microwells in 35 mm, 60 mm, and 06-well plates. Furthermore, the SFS-fabricated microwells exhibited 03 rounds of reusability for spheroid generation without significant changes in spheroid morphology and size. The developed strategy significantly reduces experimental costs while preserving spheroid quality, making it ideal for 3D culture applications such as drug screening, disease modelling, tissue engineering, and biomaterials and organoid technology.",
-      "journal": "ACS biomaterials science & engineering",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "BRIC-National Institute of Animal Biotechnology (NIAB) , Hyderabad, Telangana500032, India.",
-        "Regional Centre for Biotechnology (RCB), Faridabad, Haryana, 121001, India."
-      ],
-      "doi": "10.1021/acsbiomaterials.6c00550",
-      "date": "2026-08-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573494/"
-    },
-    {
-      "pmid": "42573242",
-      "title": "Transcriptomic profiling of lentoid bodies highlights potential mechanisms of radiation-induced cataracts.",
-      "abstract": "The lens of the eye has been recognized as one of the most radiosensitive tissues in the human body. Radiation-induced cataractogenesis is believed to arise through a complex interplay of molecular processes, including crystallin protein oxidation and aggregation, impaired antioxidant defenses, apoptosis of lens epithelial cells, and epithelial-mesenchymal transition. Nonetheless, the precise mechanisms responsible for these changes remain to be fully elucidated. Organoid model systems are an emerging tool that provide a novel approach for investigating disease processes. In this study, we examined transcriptional changes in lentoid bodies, an organoid-like model of the ocular lens, following exposure to ionizing radiation. Lentoid bodies were generated from human pluripotent stem cells through a three-step differentiation protocol. Mature lentoid bodies were then subjected to an x-ray dose of 0.25 or 2 Gy and RNA was isolated 12, 24, and 48 hours post exposure for whole transcriptome RNA-sequencing. Genes were considered differentially expressed if they exhibited a fold change < -2.0 or >2.0, false discovery rate-corrected p-value <0.05, and a minimum average read count of 30 transcripts per million. Significant changes in gene expression profiles were observed post-irradiation with both dose and time post-exposure playing critical roles in the extent and nature of gene dysregulation. Differentially expressed genes were identified within key biological pathways implicated in cataract formation, including cell survival and proliferation, differentiation, migration, and epithelial-mesenchymal transition. These results advance our understanding of the molecular mechanisms underlying radiation-induced cataracts and demonstrate the value of lens organoid models as a physiologically relevant platform, offering insights beyond those achievable with conventional lens cell lines.",
-      "journal": "International journal of radiation biology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Biomolecular Sciences Program, Laurentian University, Sudbury, Ontario, Canada.",
-        "School of Natural Sciences, Laurentian University, Sudbury, Ontario, Canada.",
-        "Medical Sciences Division, NOSM University, Sudbury, Ontario, Canada.",
-        "Health Sciences North Research Institute, Sudbury, Ontario, Canada."
-      ],
-      "doi": "10.1080/09553002.2026.2708814",
-      "date": "2026-08-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573242/"
     },
     {
       "pmid": "42559559",
@@ -472,6 +478,40 @@
   ],
   "signals": [
     {
+      "id": "pubmed-42574483",
+      "date": "2026-08-10",
+      "title": "Ex vivo tumor derived organoid pharmacotyping identifies personalized therapeutic options for biliary tract cancer patients.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42574483/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [
+        "tempus-ai"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Cancer research communications，PMID 为 42574483。",
+      "report": "Biliary tract cancers (BTCs) pose clinical challenges due to poor chemotherapy response and aggressive disease course. We evaluated patient derived tumor organoid (PDTO) based drug sensitivity testing as a tool to guide therapy. In this multicenter study, 26 t...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42574050",
       "date": "2026-08-10",
       "title": "DNMT3B plays antagonistic roles with SMARCB1 and is a targetable vulnerability in rhabdoid tumors.",
@@ -556,66 +596,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Inflammopharmacology，PMID 为 42573967。",
       "report": "Helicobacter pylori is a bacterium that has been identified as a causative agent in the development of chronic gastritis, peptic ulcers, and gastric cancer. Current eradication therapies, based on antibiotic combination, are suffering from lack of patient comp...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42573494",
-      "date": "2026-08-10",
-      "title": "Face Scrubber-Fabricated Affordable and User-Friendly Microwell Devices for Scalable 3D Cell Culture.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573494/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 ACS biomaterials science & engineering，PMID 为 42573494。",
-      "report": "Current 3D culture platforms often face challenges such as high costs, single-use, and inconsistent size uniformity and hence are unsuitable for high-throughput applications. Considering these issues, a commercially available silicone face scrubber (SFS) was r...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42573242",
-      "date": "2026-08-10",
-      "title": "Transcriptomic profiling of lentoid bodies highlights potential mechanisms of radiation-induced cataracts.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573242/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of radiation biology，PMID 为 42573242。",
-      "report": "The lens of the eye has been recognized as one of the most radiosensitive tissues in the human body. Radiation-induced cataractogenesis is believed to arise through a complex interplay of molecular processes, including crystallin protein oxidation and aggregat...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -980,38 +960,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42573925",
-      "date": "2026-07-30",
-      "title": "TFAP2A enhances radioresistance of non-small cell lung cancer by transcriptionally activating BRCA1 : TFAP2A promotes NSCLC radioresistance.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573925/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cellular oncology (Dordrecht, Netherlands)，PMID 为 42573925。",
-      "report": "Radioresistance remains a major obstacle in the treatment of non-small cell lung cancer (NSCLC). Transcription factor AP-2α (TFAP2A) has been implicated in tumor progression, but its role in NSCLC radioresistance and translational therapeutic relevance remain...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42509463",
       "date": "2026-07-28",
       "title": "Inflammation-linked aging signals in frozen single-cell foundation models: donor-aware detection and robustness testing.",
@@ -1185,6 +1133,66 @@
       "fact": "PubMed 记录显示该文献收录于 BMC genomics，PMID 为 42482180。",
       "report": "Single-cell foundation models such as scGPT and Geneformer are increasingly used for gene regulatory network (GRN) inference, with attention-derived edge scores routinely interpreted as regulatory proxies. Prior benchmarks have evaluated curated-reference reco...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42574534",
+      "date": "2026-07-21",
+      "title": "A Standardized Protocol for Evaluating Cadmium Toxicity in Human Colorectal Organoids via Luciferase-Based Viability Assay.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42574534/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42574534。",
+      "report": "Cadmium (Cd) is classified as a Group 1 carcinogen and constitutes a serious global environmental problem. This study aimed to establish a human colorectal organoid model and to evaluate the feasibility and sensitivity of a luciferase-based ATP bioluminescence...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42574504",
+      "date": "2026-07-21",
+      "title": "A Shape Analysis Algorithm Quantifies Spatial Morphology and Context of 2D to 3D Cell Culture for Novel Quantitation of Phenotypes.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42574504/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42574504。",
+      "report": "Numerous studies have shown that the morphological phenotype of a cell or organoid correlates with its susceptibility to anti-cancer agents. However, traditional methods of measuring phenotype rely on spatial metrics such as area, volume, perimeter, and signal...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
