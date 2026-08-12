@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-11T19:28:22.989466+00:00",
+  "capturedAt": "2026-08-12T02:47:23.902241+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-08-11",
-    "end": "2026-08-11"
+    "start": "2025-08-12",
+    "end": "2026-08-12"
   },
   "pmids": [
+    "42579812",
+    "42579611",
+    "42579558",
+    "42579365",
     "42579325",
     "42578977",
-    "42578927",
-    "42578753",
-    "42578676",
-    "42578616",
     "42559559",
     "42509463",
     "42498177",
@@ -40,6 +40,89 @@
     "42577044"
   ],
   "records": [
+    {
+      "pmid": "42579812",
+      "title": "Aberrant O-glycosylation Induces IL-34-Mediated Immune Remodeling and Promotes Pancreatic Cancer Progression.",
+      "abstract": "The Tn antigen, a truncated O-glycan, is frequently elevated in pancreatic ductal adenocarcinoma (PDAC). Multiple therapeutic approaches targeting Tn have been developed, but they have not demonstrated clear efficacy signals in early phase clinical studies. Improving Tn-targeted strategies in PDAC will require both overcoming the immunosuppressive tumor microenvironment and defining pathways by which truncated O-glycans promote growth and immune evasion. Here, we showed that Tn reshapes the tumor immune landscape of PDAC. Expression of Tn antigen on PDAC cells enhanced proliferation in vitro and tumor growth in vivo. Tn expression remodeled the immune microenvironment, skewing tumor-associated macrophages toward M2-like phenotypes, reducing cross-presenting dendritic cells, and expanding myeloid-derived suppressor cells (MDSCs). Single-cell RNA sequencing confirmed expansion of MDSCs and downregulation of antigen processing and presentation in the immune cell infiltrate of Tn+ tumors. Tumor-intrinsic transcriptomic analyses revealed activation of TNF-α/NF-κB signaling and induction of IL-34, a cytokine linked to monocyte survival and differentiation in Tn antigen expressing tumors. Additionally, high Tn expression in both organoids derived from pancreatic cancer patients and in PDAC mouse models was associated with increased IL-34 expression. Genetic deletion of Il34 in PDAC cells attenuated Tn-driven tumorigenesis and reduced MDSC infiltration, while recombinant IL-34 promoted myeloid cell differentiation and proliferation in vitro. Together, these findings establish a glyco-immune-cytokine axis in which truncated O-glycans contribute to IL-34-mediated immunosuppression, providing mechanistic insight and potential therapeutic targets in PDAC.",
+      "journal": "Cancer research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "University of Pennsylvania United States.",
+        "University of Pennsylvania Philadelphia, PA United States.",
+        "University of South Carolina United States.",
+        "University of Pennsylvania Philadelphia, Pennsylvania United States.",
+        "University of South Carolina Columbia, SC United States.",
+        "University of South Carolina Columbia United States."
+      ],
+      "doi": "10.1158/0008-5472.CAN-25-4782",
+      "date": "2026-08-11",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42579812/"
+    },
+    {
+      "pmid": "42579611",
+      "title": "Deciphering Anti-Cancer Drug Efficacy Through Nanomechanical Vibrations in Living Gastric Cancer Organoids.",
+      "abstract": "Cancer poses a severe threat to human health. The limited sensitivity and efficiency of conventional drug screening methods create a pressing need for novel anti-cancer drug screening platforms. This study developed a drug efficacy assessment platform that integrates patient-derived gastric cancer organoids, atomic force microscopy (AFM)-based nanomechanical vibration detection, deep learning analysis and an organoid mechanical model. The platform enables non-destructive detection of intrinsic nano-vibrations of organoids, revealing that their amplitude and spectral characteristics are sensitive to the cytoskeleton, cell-cell junctions, and cellular metabolism. Through the optimization of a deep learning model, we achieved high-precision classification of organoids under pharmacological perturbation. The classification requires only 0.1 s of vibration data and achieves an overall accuracy of 97%. Applied to gastric cancer organoids, our platform detected the effects of picomolar (pM) concentrations of paclitaxel, notably preceding any observable morphological changes or apoptosis signals. Furthermore, the organoid mechanical model accurately predicted drug-induced alterations in both the nanomechanical vibration amplitude and spectrum. These findings validate the platform's advantage for the highly sensitive, non-destructive, and efficient screening of anti-cancer drugs. Collectively, this work establishes a paradigm for organoid-based drug evaluation through dynamic biophysical profiling and holds promise for advancing personalized cancer treatment strategies.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Modern Mechanics, CAS Key Laboratory of Mechanical Behavior and Design of Material, University of Science and Technology of China, Hefei, China.",
+        "Department of Gastric Surgery, Division of Life Sciences and Medicine, The First Affiliated Hospital of USTC, University of Science and Technology of China, Hefei, China.",
+        "MOE Key Laboratory of Cellular Dynamics, CAS Center for Excellence in Molecular Cell Science, University of Science and Technology of China, Hefei, China.",
+        "Beijing University of Chinese Medicine Third Affiliated Hospital, Beijing, China.",
+        "School of Biomedical Engineering, Anhui Medical University, Hefei, China."
+      ],
+      "doi": "10.1002/advs.76878",
+      "date": "2026-08-11",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42579611/"
+    },
+    {
+      "pmid": "42579558",
+      "title": "Stearoyl-CoA desaturases regulate intestinal stem and progenitor cell metabolism and function in response to nutrient abundance.",
+      "abstract": "Diet composition and nutrient availability play critical roles in intestinal stem and progenitor cell function and proliferation. Here, we show that stearoyl-CoA desaturases (SCDs) are regulated by nutrient abundance and link intracellular lipid metabolism to intestinal homeostasis. Pharmacological inhibition or genetic deletion of Scd1 and Scd2 in intestinal mouse organoids disrupted lipid desaturation, induced endoplasmic reticulum (ER) stress, and impaired stem and progenitor cell proliferation, effects largely mitigated by oleic acid supplementation. Intestine-specific deletion of Scd1 and Scd2 reduced the number of LGR5+ stem cells in vivo and was accompanied by metabolic rewiring and expansion of transient amplifying cells. Loss of Scd1 and Scd2 also reduced epithelial regeneration capacity following irradiation and exacerbated tissue damage and inflammation in a DSS-induced colitis model. Together, these findings reveal important SCD dependencies and metabolic adaptations in intestinal stem and progenitor cells that are necessary for epithelial regeneration and repair following injury.",
+      "journal": "Cell reports",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Biological Chemistry and Pharmacology, The Ohio State University, Columbus, OH 43210, USA; The Ohio State University Comprehensive Cancer Center, Columbus, OH 43210, USA.",
+        "Department of Biological Chemistry and Pharmacology, The Ohio State University, Columbus, OH 43210, USA; Biology and Chemistry Department, Shaw School of Sciences, Asbury University, Wilmore, KY 40390, USA; The Ohio State University Comprehensive Cancer Center, Columbus, OH 43210, USA.",
+        "Department of Biomedical Informatics, The Ohio State University, Columbus, OH 43210, USA; The Ohio State University Comprehensive Cancer Center, Columbus, OH 43210, USA.",
+        "Department of Veterinary Biosciences, The Ohio State University, Columbus, OH 43210, USA.",
+        "Department of Biochemistry, University of Wisconsin-Madison, Madison, WI 53706, USA.",
+        "Department of Biochemistry, University of Wisconsin-Madison, Madison, WI 53706, USA; Howard Hughes Medical Institute, Department of Biochemistry, University of Wisconsin-Madison, Madison, WI 53706, USA.",
+        "Department of Radiation Oncology, The Ohio State University, Columbus, OH 43210, USA; The Ohio State University Comprehensive Cancer Center, Columbus, OH 43210, USA.",
+        "Department of Biochemistry, University of Wisconsin-Madison, Madison, WI 53706, USA; Howard Hughes Medical Institute, Department of Biochemistry, University of Wisconsin-Madison, Madison, WI 53706, USA; Wisconsin Nathan Shock Center of Excellence in the Basic Biology of Aging, Madison, WI 53705, USA.",
+        "Department of Biochemistry, University of Wisconsin-Madison, Madison, WI 53706, USA; Department of Nutritional Sciences, University of Wisconsin-Madison, Madison, WI 53706, USA.",
+        "Department of Internal Medicine, Division of Medical Oncology, The Ohio State University, Columbus, OH 43210, USA; The Ohio State University Comprehensive Cancer Center, Columbus, OH 43210, USA.",
+        "Department of Biological Chemistry and Pharmacology, The Ohio State University, Columbus, OH 43210, USA; The Ohio State University Comprehensive Cancer Center, Columbus, OH 43210, USA. Electronic address: mihaylova.1@osu.edu."
+      ],
+      "doi": "10.1016/j.celrep.2026.117731",
+      "date": "2026-08-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42579558/"
+    },
+    {
+      "pmid": "42579365",
+      "title": "Inhibiting menin attenuates high-fat diet-induced weight gain by limiting intestinal lipid absorption in mice.",
+      "abstract": "Intestinal lipid metabolism is essential for systemic energy homeostasis, and its modulation is emerging as a therapeutic strategy for obesity. Menin, a scaffold protein that regulates chromatin remodeling and gene expression, is abundantly expressed in intestinal epithelial cells (IECs), but its metabolic role remains underexplored. Here, we generated IEC-specific Men1 knockout mouse and found that Men1 deficiency protected against high-fat diet-induced obesity, accompanied by elevated carboxylesterase 1 (CES1) expression in IECs. Increased CES1 promoted triglyceride (TG) hydrolysis and reduced intracellular TG storage, thereby limiting the lipid substrate pool required for ApoB48-dependent chylomicron assembly. Although lipid hydrolysis was enhanced, steady-state free fatty acid levels were not increased; instead, Men1 deficiency activated fatty acid β-oxidation programs and increased etomoxir-sensitive fatty acid-dependent mitochondrial respiration, supporting enhanced fatty acid catabolism. Mechanistically, menin recruited histone deacetylase 1 and interacted with the nuclear receptor LXRβ to suppress Ces1g transcription, thereby sustaining efficient intestinal lipid absorption. Pharmacological inhibition of menin with MI-463 recapitulated the metabolic effects of inducible Men1 deletion. In a human gut organoid-on-chip system, MI-463 dose-dependently increased CES1 expression and markedly reduced lipid accumulation. Collectively, our findings identify menin as a regulator of intestinal lipid metabolism and suggest menin inhibition as a potential therapeutic strategy for obesity-related metabolic disorders.",
+      "journal": "The Journal of clinical investigation",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Immunology, Harbin Medical University, Harbin, China.",
+        "Department of Endocrinology, First Affiliated Hospital of Harbin Medical University, Harbin, China.",
+        "Department of Immunology, Harbin Medical Universtiy, Harbin, China.",
+        "NHC Key Laboratory of Molecular Probes and Targeted Diagnosis and Therapy, The Fourth Affiliated Hospital Harbin Medical University, Harbin, China.",
+        "Department of Gastrointestinal Medical Oncology, Harbin Medical University Cancer Hospital, Harbin, China."
+      ],
+      "doi": "10.1172/JCI202709",
+      "date": "2026-08-11",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42579365/"
+    },
     {
       "pmid": "42579325",
       "title": "Generation of Nasal Cell-Derived Human Alveolar Organoids and Organoid-Macrophage Assembloids for in Vitro Lung Modeling.",
@@ -74,84 +157,6 @@
       "doi": "10.1021/acssensors.5c04570",
       "date": "2026-08-11",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42578977/"
-    },
-    {
-      "pmid": "42578927",
-      "title": "RUNX1-driven endothelial-to-mesenchymal transition contributes to remodelling in LMNA cardiomyopathy.",
-      "abstract": "LMNA-related dilated cardiomyopathy (LMNA-DCM) is a progressive genetic disorder characterized by conduction disease, malignant arrhythmias, myocardial fibrosis, and heart failure. Although LMNA mutations have traditionally been associated with cardiomyocyte-intrinsic defects, the mechanisms driving fibrotic remodelling remain incompletely understood. Spatial transcriptomics and integrated single-nuclei multiomics were performed on explanted human LMNA-DCM hearts to define endothelial transcriptional and epigenomic states associated with fibrosis. Patient-specific induced pluripotent stem cell-derived endothelial cells, engineered cardiac organoids, and the LMNAH222P/H222P mouse model were used to investigate RUNX1-mediated endothelial-to-mesenchymal transition (EndoMT). Genetic and pharmacological RUNX1 inhibition strategies were evaluated in vitro and in vivo. Endothelial populations exhibiting EndoMT-associated transcriptional and epigenomic signatures were identified in human LMNA-DCM hearts. LMNA induced pluripotent stem cell-derived endothelial cells demonstrated endothelial dysfunction, mesenchymal gene activation, and epigenetic activation of RUNX1 following loss of LMNA-mediated repression. Genetic RUNX1 deletion restored endothelial identity, reversed EndoMT-associated transcriptional programmes, and normalized chromatin accessibility at endothelial regulatory loci. In multicellular cardiac organoids, endothelial RUNX1 activation impaired endothelial-cardiomyocyte signalling and cardiomyocyte contractile function, whereas endothelial-specific RUNX1 deletion restored endothelial and myocardial function. Pharmacological RUNX1 inhibition with Ro24-7429 similarly improved endothelial and cardiomyocyte function in vitro and reduced myocardial fibrosis while preserving cardiac function in LMNAH222P/H222P mice, including after disease onset. RUNX1-driven EndoMT represents a central mechanism linking LMNA mutations to fibrotic remodelling in LMNA cardiomyopathy. These findings support endothelial transcriptional reprogramming and RUNX1 signalling as potential therapeutic targets in fibrotic cardiomyopathy.",
-      "journal": "European heart journal",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Stanford Cardiovascular Institute, Stanford University School of Medicine, Stanford, CA 94305, USA.",
-        "Division of Vascular Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA 94305, USA.",
-        "Baszucki Family Vascular Surgery Biobank, Stanford University School of Medicine, Stanford, CA 94305, USA.",
-        "Division of Cardiology, Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA.",
-        "Baxter Laboratory for Stem Cell Biology, Stanford University School of Medicine, Stanford, CA 94305, USA.",
-        "Department of Microbiology and Immunology, Stanford University School of Medicine, Stanford, CA 94305, USA.",
-        "Department of Cardiothoracic Surgery, Stanford University School of Medicine, Stanford, CA 94305, USA.",
-        "Department of Genetics, Stanford University School of Medicine, Stanford, CA 94305, USA.",
-        "Division of Cardiovascular Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA.",
-        "Department of Radiology, Stanford University School of Medicine, Stanford, CA 94305, USA.",
-        "Department of Cell Biology and Molecular Medicine, Rutgers New Jersey Medical School, Newark, NJ, USA.",
-        "Greenstone Biosciences, Palo Alto, CA, USA."
-      ],
-      "doi": "10.1093/eurheartj/ehag619",
-      "date": "2026-08-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42578927/"
-    },
-    {
-      "pmid": "42578753",
-      "title": "Drug Discovery's Blind Spot: Why Organoid-Artificial Intelligence Convergence Demands Integrated Governance.",
-      "abstract": "Organoid-artificial intelligence (AI) platforms are increasingly central to drug discovery, yet they sit between two governance regimes. AI frameworks presume stable, well-characterized inputs, while organoid ethics focuses on donor consent, moral status, and tissue use, leaving downstream computational uses of organoid-derived data underregulated. This article argues that the convergence of living biological variability with algorithmic decision-making creates a governance vacuum in high-stakes preclinical contexts. The organoid-AI case is distinctive because two mature governance traditions, built on incompatible assumptions, intersect at a decision-critical point, and because organoid-derived biological states are transient and often irrecoverable. The article maps the structural causes of this gap, illustrates its practical consequences through three failure scenarios assessing likely probability and impact, and proposes an integrated two-pillar framework: graduated AI validation indexed to organoid functional complexity and tamper-resistant audit trails linking biological and algorithmic metadata. It concludes that proactive governance is morally preferable to delayed, crisis-driven regulation.",
-      "journal": "The American journal of bioethics : AJOB",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Prince Sultan University."
-      ],
-      "doi": "10.1080/15265161.2026.2710282",
-      "date": "2026-08-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42578753/"
-    },
-    {
-      "pmid": "42578676",
-      "title": "Individual host variation in single-cell responses to enteroaggregative Escherichia coli infection modeled with human colon organoids.",
-      "abstract": "Enteroaggregative Escherichia coli (EAEC) is a leading cause of diarrhea worldwide. Interestingly, EAEC disease outcomes vary dramatically among infected individuals, ranging from asymptomatic colonization to acute and chronic diarrhea. While previous research has focused on EAEC virulence factors, emerging evidence suggests that host genetic and cellular background may be equally important in determining disease susceptibility. To understand host-driven disease heterogeneity, we performed single-cell RNA sequencing on human colon organoids (HCOs) derived from three healthy adult donors following EAEC 042 infection. Surprisingly, despite comparable EAEC adherence across donors, we observed striking donor-specific responses to infection at multiple levels. A total of seven distinct colonic epithelial cell clusters were identified, with striking donor-specific baseline compositions. Following infection, the HCO donors exhibited three distinct response phenotypes evident in both cell type remodeling and gene regulation: hyperresponsive, intermediate, and non-responsive. We further observed extensive donor-specific cell-cell communication networks at baseline and after EAEC infection. This study suggests that the heterogeneity in host epithelial response to EAEC infection extends to the single-cell level. While the colonic regions from which the HCOs were derived represent a potential confounding factor, the magnitude of organoid-to-organoid variation exceeded previously reported regional differences, suggesting intrinsic host factors as a crucial part of response heterogeneity. These findings establish a paradigm for understanding infectious disease susceptibility through the human organoid model system.IMPORTANCEUnderstanding why similar pathogen exposures produce vastly different clinical outcomes is critical for combating infectious diseases. By conducting single-cell RNA sequencing on human colon organoids derived from three different donors, we show that each donor possesses unique intrinsic cellular compositions and distinct transcriptomic responses to enteroaggregative Escherichia coli (EAEC) infection. These findings challenge the traditional pathogen-focused paradigm and highlight the critical role of host factors in infectious disease outcomes. This study also validates human organoids as a powerful platform for studying host heterogeneity, which may help predict disease susceptibility and optimize treatment for diverse patient populations in the future.",
-      "journal": "mSphere",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Molecular Virology and Microbiology, Baylor College of Medicine, Houston, Texas, USA.",
-        "Pediatric Oncology, Baylor College of Medicine, Houston, Texas, USA.",
-        "Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, Texas, USA.",
-        "Dan L Duncan Comprehensive Cancer Center, Baylor College of Medicine, Houston, Texas, USA.",
-        "Center for Precision Environmental Health, Baylor College of Medicine, Houston, Texas, USA.",
-        "TAILФR Labs, Baylor College of Medicine, Houston, Texas, USA."
-      ],
-      "doi": "10.1128/msphere.00758-25",
-      "date": "2026-08-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42578676/"
-    },
-    {
-      "pmid": "42578616",
-      "title": "Sequential stenciling to reconstitute 2D microtissues for multicellular and synthetic signaling architectures.",
-      "abstract": "In mammalian organisms, native tissue function depends on precise spatial organization down to the cellular level. Reconstituting tissue architectures in 2Din vitroplatforms can provide a means to study direct and indirect cell-cell interactions in a variety of tissue contexts while remaining compatible with high-throughput assays and high-resolution live imaging. We combine cost-effective stereolithography leveraging 3D printing with replica molding to stencil spatially defined, multicellular culture systems with sub-millimeter resolution onto planar substrates. The system is designed for ease of use, requires no complex fabrication setups and scales readily to 96-well plates. Sequential stencil application and removal under a biosafety cabinet enables controlled positioning of multiple cell types and supports the maturation of tissue assemblies. We demonstrate the utility of this stencil-based patterning strategy in three applications. First, we employ a combination of two circular stencils to recreate a structural feature characteristic of the tumor microenvironment of solid tumors: the encapsulation of colorectal cancer cells by cancer-associated fibroblast cells. Resulting cell patternings recapitulate key aspects of native tissue dynamics of the densely packed tumor tissues, in which cancer-associated fibroblast cells actively compress the cancer cells and confer targeted therapy resistance. Second, we probe an engineered synNotch-based signaling system in patterned cell patches that mimics morphogen gradient formation, where GFP-secreting sender cells generate a ligand-dependent gradient. Third, we recapitulate the characteristic crypt-villus architecture of the mammalian intestine by patterning intestinal organoids within a stencil-restricted crypt region and allowing differentiating cells to collectively migrate along a designed villus axis. The presented strategy allows for rebuilding multicellular tissue architecturesin vitrowith biologically relevant spatial precision for high-throughput drug screenings and dissection of tissue-specific cellular interactions.",
-      "journal": "Biofabrication",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Institute of Biomaterials and Biomolecular Systems, University of Stuttgart, Stuttgart, Stuttgart, 70174, Germany.",
-        "Institute of Cell Biology and Immunology, University of Stuttgart, Stuttgart, Stuttgart, 70174, Germany.",
-        "Institute for Protein Research, The University of Osaka, Osaka, Suita, 565-0871, Japan."
-      ],
-      "doi": "10.1088/1758-5090/ae9807",
-      "date": "2026-08-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42578616/"
     },
     {
       "pmid": "42559559",
@@ -490,6 +495,98 @@
   ],
   "signals": [
     {
+      "id": "pubmed-42579812",
+      "date": "2026-08-11",
+      "title": "Aberrant O-glycosylation Induces IL-34-Mediated Immune Remodeling and Promotes Pancreatic Cancer Progression.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42579812/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer research，PMID 为 42579812。",
+      "report": "The Tn antigen, a truncated O-glycan, is frequently elevated in pancreatic ductal adenocarcinoma (PDAC). Multiple therapeutic approaches targeting Tn have been developed, but they have not demonstrated clear efficacy signals in early phase clinical studies. Im...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42579611",
+      "date": "2026-08-11",
+      "title": "Deciphering Anti-Cancer Drug Efficacy Through Nanomechanical Vibrations in Living Gastric Cancer Organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42579611/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42579611。",
+      "report": "Cancer poses a severe threat to human health. The limited sensitivity and efficiency of conventional drug screening methods create a pressing need for novel anti-cancer drug screening platforms. This study developed a drug efficacy assessment platform that int...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42579365",
+      "date": "2026-08-11",
+      "title": "Inhibiting menin attenuates high-fat diet-induced weight gain by limiting intestinal lipid absorption in mice.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42579365/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 The Journal of clinical investigation，PMID 为 42579365。",
+      "report": "Intestinal lipid metabolism is essential for systemic energy homeostasis, and its modulation is emerging as a therapeutic strategy for obesity. Menin, a scaffold protein that regulates chromatin remodeling and gene expression, is abundantly expressed in intest...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42579325",
       "date": "2026-08-11",
       "title": "Generation of Nasal Cell-Derived Human Alveolar Organoids and Organoid-Macrophage Assembloids for in Vitro Lung Modeling.",
@@ -557,141 +654,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42578927",
-      "date": "2026-08-11",
-      "title": "RUNX1-driven endothelial-to-mesenchymal transition contributes to remodelling in LMNA cardiomyopathy.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42578927/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 European heart journal，PMID 为 42578927。",
-      "report": "LMNA-related dilated cardiomyopathy (LMNA-DCM) is a progressive genetic disorder characterized by conduction disease, malignant arrhythmias, myocardial fibrosis, and heart failure. Although LMNA mutations have traditionally been associated with cardiomyocyte-i...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42578753",
-      "date": "2026-08-11",
-      "title": "Drug Discovery's Blind Spot: Why Organoid-Artificial Intelligence Convergence Demands Integrated Governance.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42578753/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The American journal of bioethics : AJOB，PMID 为 42578753。",
-      "report": "Organoid-artificial intelligence (AI) platforms are increasingly central to drug discovery, yet they sit between two governance regimes. AI frameworks presume stable, well-characterized inputs, while organoid ethics focuses on donor consent, moral status, and...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42578676",
-      "date": "2026-08-11",
-      "title": "Individual host variation in single-cell responses to enteroaggregative Escherichia coli infection modeled with human colon organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42578676/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 mSphere，PMID 为 42578676。",
-      "report": "Enteroaggregative Escherichia coli (EAEC) is a leading cause of diarrhea worldwide. Interestingly, EAEC disease outcomes vary dramatically among infected individuals, ranging from asymptomatic colonization to acute and chronic diarrhea. While previous research...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42578616",
-      "date": "2026-08-11",
-      "title": "Sequential stenciling to reconstitute 2D microtissues for multicellular and synthetic signaling architectures.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42578616/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biofabrication，PMID 为 42578616。",
-      "report": "In mammalian organisms, native tissue function depends on precise spatial organization down to the cellular level. Reconstituting tissue architectures in 2Din vitroplatforms can provide a means to study direct and indirect cell-cell interactions in a variety o...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42578461",
       "date": "2026-08-11",
       "title": "The molecular mechanisms of platelets in tumor invasion and metastasis: a controversial role.",
@@ -719,6 +681,34 @@
       "fact": "PubMed 记录显示该文献收录于 Cancer biology & therapy，PMID 为 42578461。",
       "report": "Platelets, traditionally recognized for their role in hemostasis, are now understood to actively contribute to tumor progression, angiogenesis, and metastasis. Through dynamic bidirectional interactions with cancer cells, platelets undergo measurable alteratio...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42579558",
+      "date": "2026-08-10",
+      "title": "Stearoyl-CoA desaturases regulate intestinal stem and progenitor cell metabolism and function in response to nutrient abundance.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42579558/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell reports，PMID 为 42579558。",
+      "report": "Diet composition and nutrient availability play critical roles in intestinal stem and progenitor cell function and proliferation. Here, we show that stearoyl-CoA desaturases (SCDs) are regulated by nutrient abundance and link intracellular lipid metabolism to...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
