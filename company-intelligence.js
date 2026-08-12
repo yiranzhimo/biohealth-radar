@@ -41,7 +41,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     "withEvidenceCount": 180,
     "withProductClaimsCount": 128,
     "withFuturePlansCount": 3,
-    "failedSourceCount": 464,
+    "failedSourceCount": 465,
     "identityLinkCount": 0
   },
   "profiles": [
@@ -17591,15 +17591,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Learn About Targeted Protein Degradation",
             "text": "了解靶向蛋白降解。",
-            "evidenceId": "evidence-company-c4-therapeutics-official-5236596879c0",
+            "evidenceId": "evidence-company-c4-therapeutics-official-021448976d88",
             "sourceUrl": "https://c4therapeutics.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Recent News C4 Therapeutics Presents Phase 1 Data at European Hematology Association (EHA) 2026 Congress Highlighting Cemsidomide as a Potential Best-in-Class IKZF1/3 Degrader for Multiple Myeloma in Heavily Pretreated Relapsed/Refractory Population",
-            "text": "Recent News C4 Therapeutics Presents Phase 1 Data at European Hematology Association (EHA) 2026 Congress Highlighting Cemsidomide as a Potential Best-in-Class IKZF1/3 Degrader for Multiple Myeloma in Heavily Pretreated Relapsed/Refractory Population",
-            "evidenceId": "evidence-company-c4-therapeutics-official-5236596879c0",
+            "textOriginal": "Recent News C4 Therapeutics Reports Second Quarter 2026 Financial Results and Recent Business Highlights",
+            "text": "Recent News C4 Therapeutics Reports Second Quarter 2026 Financial Results and Recent Business Highlights",
+            "evidenceId": "evidence-company-c4-therapeutics-official-021448976d88",
             "sourceUrl": "https://c4therapeutics.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -17607,7 +17607,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "490 Arsenal Way, Suite 120 Watertown, MA 02472 © 2026 C4 Therapeutics, Inc.",
             "text": "490 Arsenal Way, Suite 120 Watertown, MA 02472 © 2026 C4 Therapeutics, Inc.",
-            "evidenceId": "evidence-company-c4-therapeutics-official-5236596879c0",
+            "evidenceId": "evidence-company-c4-therapeutics-official-021448976d88",
             "sourceUrl": "https://c4therapeutics.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -17615,14 +17615,25 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-c4-therapeutics-official-021448976d88",
           "evidence-sec-0001662579-000162828026055494",
-          "evidence-sec-0001662579-000162828026055490",
-          "evidence-company-c4-therapeutics-official-5236596879c0"
+          "evidence-sec-0001662579-000162828026055490"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-c4-therapeutics-official-021448976d88",
+            "date": "2026-08-12",
+            "title": "Home - C4 Therapeutics",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-c4-therapeutics-official-021448976d88",
+            "sourceUrl": "https://c4therapeutics.com/"
+          },
           {
             "id": "event-sec-0001662579-000162828026055494",
             "date": "2026-08-11",
@@ -17644,17 +17655,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": false,
             "evidenceId": "evidence-sec-0001662579-000162828026055490",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1662579/000162828026055490/cccc-20260811.htm"
-          },
-          {
-            "id": "event-evidence-company-c4-therapeutics-official-5236596879c0",
-            "date": "2026-08-10",
-            "title": "Home - C4 Therapeutics",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-c4-therapeutics-official-5236596879c0",
-            "sourceUrl": "https://c4therapeutics.com/"
           }
         ],
         "inferences": [],
@@ -17669,7 +17669,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 1,
           "Filing": 2
         },
-        "lastEvidenceDate": "2026-08-11",
+        "lastEvidenceDate": "2026-08-12",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -17677,6 +17677,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-c4-therapeutics-official-021448976d88",
+          "date": "2026-08-12",
+          "title": "Home - C4 Therapeutics",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-c4-therapeutics-official-021448976d88",
+          "sourceUrl": "https://c4therapeutics.com/"
+        },
         {
           "id": "event-sec-0001662579-000162828026055494",
           "date": "2026-08-11",
@@ -17698,17 +17709,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": false,
           "evidenceId": "evidence-sec-0001662579-000162828026055490",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1662579/000162828026055490/cccc-20260811.htm"
-        },
-        {
-          "id": "event-evidence-company-c4-therapeutics-official-5236596879c0",
-          "date": "2026-08-10",
-          "title": "Home - C4 Therapeutics",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-c4-therapeutics-official-5236596879c0",
-          "sourceUrl": "https://c4therapeutics.com/"
         }
       ]
     },
@@ -34300,39 +34300,39 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：公司的细胞治疗管线由个性化医疗领域的创新药物和创新技术组成。；公司官方页面表述：Legend Biotech 是一家处于商业化阶段的全球生物技术公司，开发和生产创新疗法。公司探索并应用创新技术，为全球患者提供前沿治疗选择。",
-        "summaryOriginal": "Our pipeline of cell therapies is made up of novel agents and innovative technologies in personalized medicine. Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies. We explore and apply innovative technologies to deliver cutting-edge options for patients around the world.",
+        "summary": "公司官方页面表述：Legend Biotech 是一家处于商业化阶段的全球生物技术公司，开发和生产创新疗法。公司探索并应用创新技术，为全球患者提供前沿治疗选择。；公司官方页面表述：公司的细胞治疗管线由个性化医疗领域的创新药物和创新技术组成。",
+        "summaryOriginal": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies. We explore and apply innovative technologies to deliver cutting-edge options for patients around the world. Our pipeline of cell therapies is made up of novel agents and innovative technologies in personalized medicine.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "Our pipeline of cell therapies is made up of novel agents and innovative technologies in personalized medicine.",
-            "text": "公司的细胞治疗管线由个性化医疗领域的创新药物和创新技术组成。",
-            "evidenceId": "evidence-company-legend-biotech-pipeline-ff06a79c40a1",
-            "sourceUrl": "https://legendbiotech.com/research-development/pipeline/",
+            "textOriginal": "We are an end-to-end cell therapy company.",
+            "text": "We are an end-to-end cell therapy company.",
+            "evidenceId": "evidence-company-legend-biotech-official-c50498fdf046",
+            "sourceUrl": "https://legendbiotech.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "We are devoted to exploring the potential of cell therapies to treat diseases that are considered intractable and incurable, such as hematological malignancies and solid tumors.",
-            "text": "We are devoted to exploring the potential of cell therapies to treat diseases that are considered intractable and incurable, such as hematological malignancies and solid tumors.",
-            "evidenceId": "evidence-company-legend-biotech-pipeline-ff06a79c40a1",
-            "sourceUrl": "https://legendbiotech.com/research-development/pipeline/",
+            "textOriginal": "Our pipeline of cell therapies includes agents across hematologic and solid tumors.",
+            "text": "Our pipeline of cell therapies includes agents across hematologic and solid tumors.",
+            "evidenceId": "evidence-company-legend-biotech-official-c50498fdf046",
+            "sourceUrl": "https://legendbiotech.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Our pipeline is made up of investigative therapies and innovative technologies in personalized medicine.",
-            "text": "Our pipeline is made up of investigative therapies and innovative technologies in personalized medicine.",
-            "evidenceId": "evidence-company-legend-biotech-pipeline-ff06a79c40a1",
-            "sourceUrl": "https://legendbiotech.com/research-development/pipeline/",
+            "textOriginal": "Our pipeline is comprised of investigational agents and innovative technologies in personalized medicine.",
+            "text": "Our pipeline is comprised of investigational agents and innovative technologies in personalized medicine.",
+            "evidenceId": "evidence-company-legend-biotech-official-c50498fdf046",
+            "sourceUrl": "https://legendbiotech.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "Legend Biotech Establishes Clinical Proof-of-Concept for LB2501, a Potential First-in-Class In Vivo CD19/CD20 Dual-Targeting CAR-T, in Relapsed/Refractory B-Cell Non-Hodgkin Lymphoma",
             "text": "Legend Biotech Establishes Clinical Proof-of-Concept for LB2501, a Potential First-in-Class In Vivo CD19/CD20 Dual-Targeting CAR-T, in Relapsed/Refractory B-Cell Non-Hodgkin Lymphoma",
-            "evidenceId": "evidence-company-legend-biotech-official-f3bad804c3df",
+            "evidenceId": "evidence-company-legend-biotech-official-c50498fdf046",
             "sourceUrl": "https://legendbiotech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -34340,15 +34340,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
             "text": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
-            "evidenceId": "evidence-company-legend-biotech-official-f3bad804c3df",
+            "evidenceId": "evidence-company-legend-biotech-official-c50498fdf046",
             "sourceUrl": "https://legendbiotech.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Legend Biotech Announces Late-Breaking Oral Presentation at EHA 2026 Showcasing Initial Phase 1 In Vivo CAR-T Data with LB2501 in Non-Hodgkin Lymphoma (NHL)",
-            "text": "Legend Biotech Announces Late-Breaking Oral Presentation at EHA 2026 Showcasing Initial Phase 1 In Vivo CAR-T Data with LB2501 in Non-Hodgkin Lymphoma (NHL)",
-            "evidenceId": "evidence-company-legend-biotech-official-f3bad804c3df",
+            "textOriginal": "Legend Biotech to Host Investor Conference Call on Second Quarter 2026 Results",
+            "text": "Legend Biotech to Host Investor Conference Call on Second Quarter 2026 Results",
+            "evidenceId": "evidence-company-legend-biotech-official-c50498fdf046",
             "sourceUrl": "https://legendbiotech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -34356,9 +34356,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-legend-biotech-official-c50498fdf046",
           "evidence-sec-0001801198-000180119826000022",
           "evidence-company-legend-biotech-pipeline-ff06a79c40a1",
-          "evidence-company-legend-biotech-official-f3bad804c3df",
           "evidence-company-legend-biotech-investor_relations-d012c3bec9f7",
           "evidence-sec-0001801198-000117184326005318",
           "evidence-sec-0001801198-000119312526316760",
@@ -34386,6 +34386,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "observedMoves": [
           {
+            "id": "event-evidence-company-legend-biotech-official-c50498fdf046",
+            "date": "2026-08-12",
+            "title": "HOME - Legend Biotech",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-legend-biotech-official-c50498fdf046",
+            "sourceUrl": "https://legendbiotech.com/"
+          },
+          {
             "id": "event-sec-0001801198-000180119826000022",
             "date": "2026-08-11",
             "title": "Legend Biotech filed Form 6-K",
@@ -34406,17 +34417,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-legend-biotech-pipeline-ff06a79c40a1",
             "sourceUrl": "https://legendbiotech.com/research-development/pipeline/"
-          },
-          {
-            "id": "event-evidence-company-legend-biotech-official-f3bad804c3df",
-            "date": "2026-08-10",
-            "title": "HOME - Legend Biotech",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-legend-biotech-official-f3bad804c3df",
-            "sourceUrl": "https://legendbiotech.com/"
           },
           {
             "id": "event-evidence-company-legend-biotech-investor_relations-d012c3bec9f7",
@@ -34454,7 +34454,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 4
         },
-        "lastEvidenceDate": "2026-08-11",
+        "lastEvidenceDate": "2026-08-12",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -34463,6 +34463,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-legend-biotech-official-c50498fdf046",
+          "date": "2026-08-12",
+          "title": "HOME - Legend Biotech",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-legend-biotech-official-c50498fdf046",
+          "sourceUrl": "https://legendbiotech.com/"
+        },
         {
           "id": "event-sec-0001801198-000180119826000022",
           "date": "2026-08-11",
@@ -34484,17 +34495,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-legend-biotech-pipeline-ff06a79c40a1",
           "sourceUrl": "https://legendbiotech.com/research-development/pipeline/"
-        },
-        {
-          "id": "event-evidence-company-legend-biotech-official-f3bad804c3df",
-          "date": "2026-08-10",
-          "title": "HOME - Legend Biotech",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-legend-biotech-official-f3bad804c3df",
-          "sourceUrl": "https://legendbiotech.com/"
         },
         {
           "id": "event-evidence-company-legend-biotech-investor_relations-d012c3bec9f7",
@@ -37144,11 +37144,43 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：追踪 Moderna 的 mRNA 药物从临床前开发到商业化阶段的进展。；公司官方页面表述：了解 Moderna 如何改变医学世界。查看职业机会、产品管线和媒体资料，并进一步认识 Moderna。",
-        "summaryOriginal": "Track the development of Moderna’s mRNA medicines. From preclinical development to commercial phase. Learn how we’re changing the world of medicine. Discover career opportunities, our product pipeline, and browse media resources. Meet Moderna.",
+        "summary": "公司官方页面表述：了解 Moderna 如何改变医学世界。查看职业机会、产品管线和媒体资料，并进一步认识 Moderna。；公司官方页面表述：追踪 Moderna 的 mRNA 药物从临床前开发到商业化阶段的进展。",
+        "summaryOriginal": "Learn how we’re changing the world of medicine. Discover career opportunities, our product pipeline, and browse media resources. Meet Moderna. Track the development of Moderna’s mRNA medicines. From preclinical development to commercial phase.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
+          {
+            "textOriginal": "Our platform enables rapid design, research and testing of multiple mRNAs, within days.",
+            "text": "Our platform enables rapid design, research and testing of multiple mRNAs, within days.",
+            "evidenceId": "evidence-company-moderna-official-f829bd8c561c",
+            "sourceUrl": "https://www.modernatx.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Discover career opportunities, our product pipeline, and browse media resources.",
+            "text": "Discover career opportunities, our product pipeline, and browse media resources.",
+            "evidenceId": "evidence-company-moderna-official-f829bd8c561c",
+            "sourceUrl": "https://www.modernatx.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Moderna's mission is to deliver the greatest possible impact to people through mRNA medicines.",
+            "text": "Moderna's mission is to deliver the greatest possible impact to people through mRNA medicines.",
+            "evidenceId": "evidence-company-moderna-official-f829bd8c561c",
+            "sourceUrl": "https://www.modernatx.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "mRNA medicine contains no animal products or preservatives, making medicine accessible for as many people as possible.",
+            "text": "mRNA medicine contains no animal products or preservatives, making medicine accessible for as many people as possible.",
+            "evidenceId": "evidence-company-moderna-official-f829bd8c561c",
+            "sourceUrl": "https://www.modernatx.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
           {
             "textOriginal": "Our mRNA pipeline shows the progress we’re making on clinical programs currently in development to create mRNA medicines for a wide range of diseases and conditions.",
             "text": "Our mRNA pipeline shows the progress we’re making on clinical programs currently in development to create mRNA medicines for a wide range of diseases and conditions.",
@@ -37164,44 +37196,12 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://www.modernatx.com/research/product-pipeline",
             "needsReview": true,
             "claimType": "Report"
-          },
-          {
-            "textOriginal": "From preclinical development to commercial phase.",
-            "text": "From preclinical development to commercial phase.",
-            "evidenceId": "evidence-company-moderna-pipeline-5e6bfed43fe5",
-            "sourceUrl": "https://www.modernatx.com/research/product-pipeline",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Filter : All Categories Respiratory Vaccines Latent & Other Vaccines Precision Immunotherapies Rare Disease Therapeutics",
-            "text": "Filter : All Categories Respiratory Vaccines Latent & Other Vaccines Precision Immunotherapies Rare Disease Therapeutics",
-            "evidenceId": "evidence-company-moderna-pipeline-5e6bfed43fe5",
-            "sourceUrl": "https://www.modernatx.com/research/product-pipeline",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Moderna's mission is to deliver the greatest possible impact to people through mRNA medicines.",
-            "text": "Moderna's mission is to deliver the greatest possible impact to people through mRNA medicines.",
-            "evidenceId": "evidence-company-moderna-official-097691ccfb1f",
-            "sourceUrl": "https://www.modernatx.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Our platform enables rapid design, research and testing of multiple mRNAs, within days.",
-            "text": "Our platform enables rapid design, research and testing of multiple mRNAs, within days.",
-            "evidenceId": "evidence-company-moderna-official-097691ccfb1f",
-            "sourceUrl": "https://www.modernatx.com/",
-            "needsReview": true,
-            "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-moderna-official-f829bd8c561c",
           "evidence-company-moderna-pipeline-5e6bfed43fe5",
-          "evidence-company-moderna-official-097691ccfb1f",
           "evidence-company-moderna-investor_relations-7a5ab762d10c",
           "evidence-sec-0001682852-000168285226000150",
           "evidence-sec-0001682852-000168285226000147",
@@ -37212,6 +37212,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
+            "id": "event-evidence-company-moderna-official-f829bd8c561c",
+            "date": "2026-08-12",
+            "title": "Pioneering mRNA technology - Moderna",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-moderna-official-f829bd8c561c",
+            "sourceUrl": "https://www.modernatx.com/"
+          },
+          {
             "id": "event-evidence-company-moderna-pipeline-5e6bfed43fe5",
             "date": "2026-08-10",
             "title": "mRNA medicines we are currently developing",
@@ -37221,17 +37232,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-moderna-pipeline-5e6bfed43fe5",
             "sourceUrl": "https://www.modernatx.com/research/product-pipeline"
-          },
-          {
-            "id": "event-evidence-company-moderna-official-097691ccfb1f",
-            "date": "2026-08-10",
-            "title": "Pioneering mRNA technology - Moderna",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-moderna-official-097691ccfb1f",
-            "sourceUrl": "https://www.modernatx.com/"
           },
           {
             "id": "event-evidence-company-moderna-investor_relations-7a5ab762d10c",
@@ -37279,7 +37279,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 3
         },
-        "lastEvidenceDate": "2026-08-10",
+        "lastEvidenceDate": "2026-08-12",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -37287,6 +37287,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-moderna-official-f829bd8c561c",
+          "date": "2026-08-12",
+          "title": "Pioneering mRNA technology - Moderna",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-moderna-official-f829bd8c561c",
+          "sourceUrl": "https://www.modernatx.com/"
+        },
         {
           "id": "event-evidence-company-moderna-pipeline-5e6bfed43fe5",
           "date": "2026-08-10",
@@ -37297,17 +37308,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-moderna-pipeline-5e6bfed43fe5",
           "sourceUrl": "https://www.modernatx.com/research/product-pipeline"
-        },
-        {
-          "id": "event-evidence-company-moderna-official-097691ccfb1f",
-          "date": "2026-08-10",
-          "title": "Pioneering mRNA technology - Moderna",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-moderna-official-097691ccfb1f",
-          "sourceUrl": "https://www.modernatx.com/"
         },
         {
           "id": "event-evidence-company-moderna-investor_relations-7a5ab762d10c",
@@ -39445,6 +39445,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -39457,6 +39458,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -40304,55 +40306,55 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：发现纳米孔测序的优势，并找出哪种测序设备适合您的输出需求。；公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
-        "summaryOriginal": "Discover the benefits of nanopore sequencing and find out which sequencing device is right for your output requirements. Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
+        "summary": "公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。；公司官方页面表述：发现纳米孔测序的优势，并找出哪种测序设备适合您的输出需求。",
+        "summaryOriginal": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads. Discover the benefits of nanopore sequencing and find out which sequencing device is right for your output requirements.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
             "textOriginal": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
             "text": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-c8855d60963b",
-            "sourceUrl": "https://nanoporetech.com/platform",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Oxford Nanopore Technologies products are RUO.",
-            "text": "Oxford Nanopore Technologies products are RUO.",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-c8855d60963b",
-            "sourceUrl": "https://nanoporetech.com/platform",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-            "text": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-c8855d60963b",
-            "sourceUrl": "https://nanoporetech.com/platform",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Choose from pocket-sized to benchtop devices with plug-and-play setup, intuitive workflows, and simple analysis tools that keep the focus on your research.",
-            "text": "Choose from pocket-sized to benchtop devices with plug-and-play setup, intuitive workflows, and simple analysis tools that keep the focus on your research.",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-c8855d60963b",
-            "sourceUrl": "https://nanoporetech.com/platform",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Flow cells are the heart of Oxford Nanopore sequencing.",
-            "text": "Flow cells are the heart of Oxford Nanopore sequencing.",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-c8855d60963b",
-            "sourceUrl": "https://nanoporetech.com/platform",
+            "evidenceId": "evidence-company-oxford-nanopore-official-48fb9d54db09",
+            "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "Read the new updates from London Calling 2026, shaped by customer needs and longer-term innovation to extend platform capabilities.",
             "text": "Read the new updates from London Calling 2026, shaped by customer needs and longer-term innovation to extend platform capabilities.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-3d12a40b93c0",
+            "evidenceId": "evidence-company-oxford-nanopore-official-48fb9d54db09",
+            "sourceUrl": "https://nanoporetech.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Oxford Nanopore Technologies products are RUO.",
+            "text": "Oxford Nanopore Technologies products are RUO.",
+            "evidenceId": "evidence-company-oxford-nanopore-official-48fb9d54db09",
+            "sourceUrl": "https://nanoporetech.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
+            "text": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
+            "evidenceId": "evidence-company-oxford-nanopore-official-48fb9d54db09",
+            "sourceUrl": "https://nanoporetech.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Only Oxford Nanopore sequencing delivers short to ultra-long native DNA and RNA reads, offering ...",
+            "text": "Only Oxford Nanopore sequencing delivers short to ultra-long native DNA and RNA reads, offering ...",
+            "evidenceId": "evidence-company-oxford-nanopore-official-48fb9d54db09",
+            "sourceUrl": "https://nanoporetech.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Whether you are studying the human genome, investigating the microbiome, or exploring the diversity of life on earth, Oxford Nanopore library preparation solutions offer a flexible, cost-effective, and streamlined way to generate high-quality sequencing data.",
+            "text": "Whether you are studying the human genome, investigating the microbiome, or exploring the diversity of life on earth, Oxford Nanopore library preparation solutions offer a flexible, cost-effective, and streamlined way to generate high-quality sequencing data.",
+            "evidenceId": "evidence-company-oxford-nanopore-official-48fb9d54db09",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -40360,13 +40362,24 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-oxford-nanopore-pipeline-c8855d60963b",
-          "evidence-company-oxford-nanopore-official-3d12a40b93c0"
+          "evidence-company-oxford-nanopore-official-48fb9d54db09",
+          "evidence-company-oxford-nanopore-pipeline-c8855d60963b"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-oxford-nanopore-official-48fb9d54db09",
+            "date": "2026-08-12",
+            "title": "Welcome to Oxford Nanopore Technologies",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-oxford-nanopore-official-48fb9d54db09",
+            "sourceUrl": "https://nanoporetech.com/"
+          },
           {
             "id": "event-evidence-company-oxford-nanopore-pipeline-c8855d60963b",
             "date": "2026-08-10",
@@ -40377,17 +40390,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-oxford-nanopore-pipeline-c8855d60963b",
             "sourceUrl": "https://nanoporetech.com/platform"
-          },
-          {
-            "id": "event-evidence-company-oxford-nanopore-official-3d12a40b93c0",
-            "date": "2026-08-10",
-            "title": "Welcome to Oxford Nanopore Technologies",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-oxford-nanopore-official-3d12a40b93c0",
-            "sourceUrl": "https://nanoporetech.com/"
           }
         ],
         "inferences": [],
@@ -40401,7 +40403,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-08-10",
+        "lastEvidenceDate": "2026-08-12",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -40409,6 +40411,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-oxford-nanopore-official-48fb9d54db09",
+          "date": "2026-08-12",
+          "title": "Welcome to Oxford Nanopore Technologies",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-oxford-nanopore-official-48fb9d54db09",
+          "sourceUrl": "https://nanoporetech.com/"
+        },
         {
           "id": "event-evidence-company-oxford-nanopore-pipeline-c8855d60963b",
           "date": "2026-08-10",
@@ -40419,17 +40432,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-oxford-nanopore-pipeline-c8855d60963b",
           "sourceUrl": "https://nanoporetech.com/platform"
-        },
-        {
-          "id": "event-evidence-company-oxford-nanopore-official-3d12a40b93c0",
-          "date": "2026-08-10",
-          "title": "Welcome to Oxford Nanopore Technologies",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-oxford-nanopore-official-3d12a40b93c0",
-          "sourceUrl": "https://nanoporetech.com/"
         }
       ]
     },
@@ -45665,7 +45667,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
             "text": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-2a5bd106b7c5",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-309d9c63cfc6",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -45673,7 +45675,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "iPS Cell-Derived Product Transportation Project",
             "text": "iPS Cell-Derived Product Transportation Project",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-2a5bd106b7c5",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-309d9c63cfc6",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -45681,7 +45683,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
             "text": "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-2a5bd106b7c5",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-309d9c63cfc6",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -45689,7 +45691,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "To this end , Sumitomo Pharma is pursuing Sustainability Management through a variety of initiatives, including the development of innovative products and healthcare solutions, and contribution to the development of science.",
             "text": "To this end , Sumitomo Pharma is pursuing Sustainability Management through a variety of initiatives, including the development of innovative products and healthcare solutions, and contribution to the development of science.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-2a5bd106b7c5",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-309d9c63cfc6",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -45697,7 +45699,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Here you can search for the strengths of Sumitomo Pharma’s business, Sumitomo Pharma’s initiatives, and other information that interests you by selecting tags.",
             "text": "Here you can search for the strengths of Sumitomo Pharma’s business, Sumitomo Pharma’s initiatives, and other information that interests you by selecting tags.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-2a5bd106b7c5",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-309d9c63cfc6",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -45713,7 +45715,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-sumitomo-pharma-official-2a5bd106b7c5",
+          "evidence-company-sumitomo-pharma-official-309d9c63cfc6",
           "evidence-company-sumitomo-pharma-investor_relations-0d644ea7a607"
         ]
       },
@@ -45721,14 +45723,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-sumitomo-pharma-official-2a5bd106b7c5",
-            "date": "2026-08-10",
+            "id": "event-evidence-company-sumitomo-pharma-official-309d9c63cfc6",
+            "date": "2026-08-12",
             "title": "Sumitomo Pharma Co., Ltd.",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-sumitomo-pharma-official-2a5bd106b7c5",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-309d9c63cfc6",
             "sourceUrl": "https://www.sumitomo-pharma.com/"
           },
           {
@@ -45754,7 +45756,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-08-10",
+        "lastEvidenceDate": "2026-08-12",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -45763,14 +45765,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-sumitomo-pharma-official-2a5bd106b7c5",
-          "date": "2026-08-10",
+          "id": "event-evidence-company-sumitomo-pharma-official-309d9c63cfc6",
+          "date": "2026-08-12",
           "title": "Sumitomo Pharma Co., Ltd.",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-sumitomo-pharma-official-2a5bd106b7c5",
+          "evidenceId": "evidence-company-sumitomo-pharma-official-309d9c63cfc6",
           "sourceUrl": "https://www.sumitomo-pharma.com/"
         },
         {

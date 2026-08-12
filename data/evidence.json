@@ -3205,7 +3205,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "39cc8ea1066d5756ecc75294769674c01874859ee1235582411c4281a16d0962",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Our products power breakthroughs across diverse fields, from cancer research and immunology to neuroscience and developmental biology, enabling scientists to see biology at unprecedented resolution.",
@@ -3320,7 +3320,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "be59a6245ab1332cc5a8efe96260dab4c599bfd2f62fe535fc47463ba9b2a235",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Akeso Advances IO2.0 + ADC2.0 Strategy: First Patient Dosed in Phase II Study of TROP2/Nectin-4 Bispecific ADC (AK146D1) Combined with Ivonescimab in Breast Cancer",
@@ -3434,7 +3434,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "e8c13028abe27174615261cba7bd43dca47f199a5e8c9add930ef51ea976e310",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Our robust pipeline of investigational RNAi therapeutics is focused on both rare and prevalent diseases in several therapeutic areas.",
@@ -3552,7 +3552,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "a615e12671b4a4594e47dad62aa4be058fd406f2c6d33e0144f8ff8a80acff5d",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Altos Labs launches with the goal to transform medicine through cellular rejuvenation programming",
@@ -3668,7 +3668,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "bfa890ca12205d4cbcc0c33acdb5fac443195795e1617527695a1d86beeb7782",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Learn about the science of cell therapy, our cancer research, and our cancer treatments in the pipeline.",
@@ -3849,7 +3849,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "fcd4bdca5dedd8a1cf6f7d89dbf8d8d335e3bf7701c0d119910d665ff5b18217",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
@@ -4029,7 +4029,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "daa041bcc1cde08dd36dd71296dc6d00559679ee7355e5c7190d0a5023029ab7",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Base editing is an emerging class of investigational precision genetic medicines designed to overcome the limitations of existing approaches and expand the potential of genetic medicine.",
@@ -4182,7 +4182,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "1b361706d8e1221c16882e4be2d6c41650798aabcda96d89ecc77e8e29166ccd",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "BeOne Medicines and Revolution Medicines Announce Clinical Development and Regional Commercialization Collaboration",
@@ -4262,15 +4262,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-c4-therapeutics-official-5236596879c0",
+      "id": "evidence-company-c4-therapeutics-official-021448976d88",
       "signalId": null,
       "companyIds": [
         "c4-therapeutics"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-08-12",
+      "snapshotDate": "2026-08-12",
       "title": "Home - C4 Therapeutics",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "C4 Therapeutics — Official Website",
@@ -4286,7 +4286,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 5236596879c09f30125adbfb6b69ef674bd8c956b93d0c2fa9228b1627a0ad7c.",
+      "fact": "The official page was captured with normalized-content hash 021448976d882fad2560802f0e68e9e64a11b113b72659d2505bc2d8609067ce.",
       "report": "公司官方页面表述：了解靶向蛋白降解。",
       "reportOriginal": "Learn About Targeted Protein Degradation",
       "reportCn": "了解靶向蛋白降解。",
@@ -4299,16 +4299,17 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "5236596879c09f30125adbfb6b69ef674bd8c956b93d0c2fa9228b1627a0ad7c",
-      "changeType": "new",
+      "contentHash": "021448976d882fad2560802f0e68e9e64a11b113b72659d2505bc2d8609067ce",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Learn About Targeted Protein Degradation",
-        "Recent News C4 Therapeutics Presents Phase 1 Data at European Hematology Association (EHA) 2026 Congress Highlighting Cemsidomide as a Potential Best-in-Class IKZF1/3 Degrader for Multiple Myeloma in Heavily Pretreated Relapsed/Refractory Population",
+        "Recent News C4 Therapeutics Reports Second Quarter 2026 Financial Results and Recent Business Highlights",
         "490 Arsenal Way, Suite 120 Watertown, MA 02472 © 2026 C4 Therapeutics, Inc."
       ],
       "businessExcerpts": [
-        "Learn About Targeted Protein Degradation"
+        "Learn About Targeted Protein Degradation",
+        "Recent News C4 Therapeutics Reports Second Quarter 2026 Financial Results and Recent Business Highlights"
       ],
       "productExcerpts": [],
       "planExcerpts": []
@@ -4352,7 +4353,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "1f156f50e9c6e3b03cea93638e9a8e427a21431e595124bae5a3d7daaeb05292",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Nature Reviews Speaks with Head of Drug Discovery, Philip Kym, Ph.D., About Calico’s Translational Research and Clinical Pipeline",
@@ -12572,7 +12573,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "98bcebd0575ea3dc9001a83679e5109e6218a903b72cb9cc1c3f3fd2c6c90dba",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response.",
@@ -12685,7 +12686,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "36144661ef9d414a2c865838a62d8a5ae8b18de987d6dc4c384f8b453c32f767",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -12884,7 +12885,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "a1de5108f02c3b42aec3a0ddf48156425fb2d2671614a7da528817c208e25750",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Unless otherwise stated in our catalog or other company documentation accompanying the product(s), our products are intended for research use only and are not to be used for any other purpose, which includes but is not limited to, unauthorized commercial uses, in vitro…",
@@ -12943,7 +12944,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "bb85914b110809ef05796c22be368c55473cad1c646b7fec5453c809f6fa86f0",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
@@ -13065,7 +13066,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "8b95032895a942b72f25654ab2294ff7f89dfc4369230fe3fcab2a291b025ebe",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Levitt, Insilico Medicine is using AI to create an entirely new AI-driven drug discovery pipeline from A to Z.",
@@ -13235,7 +13236,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "1cca8fbc302f5f0f8b3d9ee5483f8efbb8a2151b6fdf6bf6e9f280566c4ae971",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Intellia Therapeutics, a leading clinical-stage genome editing company, is developing novel, potentially curative therapeutics leveraging CRISPR-based technologies.",
@@ -13347,7 +13348,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "cb5635964df4ebee1c2c2927df05ce2609b431fa94c0153e5e0ef585985d17a2",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Ionis is unlocking the rapidly expanding potential of RNA- and DNA-targeted medicines to enable better futures for people living with serious diseases.",
@@ -13475,15 +13476,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-legend-biotech-official-f3bad804c3df",
+      "id": "evidence-company-legend-biotech-official-c50498fdf046",
       "signalId": null,
       "companyIds": [
         "legend-biotech"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-08-12",
+      "snapshotDate": "2026-08-12",
       "title": "HOME - Legend Biotech",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Legend Biotech — Official Website",
@@ -13499,7 +13500,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash f3bad804c3dfeb6e242fa54026d5708cefc56d3ebb372672e4344987331ef887.",
+      "fact": "The official page was captured with normalized-content hash c50498fdf046d92519de5da6e42d281247ddc576d3bce27a2bcd70861a6ed713.",
       "report": "公司官方页面表述：Legend Biotech 是一家处于商业化阶段的全球生物技术公司，开发和生产创新疗法。公司探索并应用创新技术，为全球患者提供前沿治疗选择。",
       "reportOriginal": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies. We explore and apply innovative technologies to deliver cutting-edge options for patients around the world.",
       "reportCn": "Legend Biotech 是一家处于商业化阶段的全球生物技术公司，开发和生产创新疗法。公司探索并应用创新技术，为全球患者提供前沿治疗选择。",
@@ -13512,17 +13513,26 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "f3bad804c3dfeb6e242fa54026d5708cefc56d3ebb372672e4344987331ef887",
-      "changeType": "unchanged",
+      "contentHash": "c50498fdf046d92519de5da6e42d281247ddc576d3bce27a2bcd70861a6ed713",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Legend Biotech Establishes Clinical Proof-of-Concept for LB2501, a Potential First-in-Class In Vivo CD19/CD20 Dual-Targeting CAR-T, in Relapsed/Refractory B-Cell Non-Hodgkin Lymphoma",
         "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
-        "Legend Biotech Announces Late-Breaking Oral Presentation at EHA 2026 Showcasing Initial Phase 1 In Vivo CAR-T Data with LB2501 in Non-Hodgkin Lymphoma (NHL)",
-        "Our news Legend Biotech to Host Investor Conference Call on Second Quarter 2026 Results"
+        "Legend Biotech to Host Investor Conference Call on Second Quarter 2026 Results",
+        "We are an end-to-end cell therapy company."
       ],
-      "businessExcerpts": [],
-      "productExcerpts": [],
+      "businessExcerpts": [
+        "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
+        "We are an end-to-end cell therapy company.",
+        "Dedicated to quality and driven by excellence, we are committed to improving the lives of patients worldwide.",
+        "We focus on diseases that are considered intractable and incurable."
+      ],
+      "productExcerpts": [
+        "We are an end-to-end cell therapy company.",
+        "Our pipeline of cell therapies includes agents across hematologic and solid tumors.",
+        "Our pipeline is comprised of investigational agents and innovative technologies in personalized medicine."
+      ],
       "planExcerpts": []
     },
     {
@@ -13614,7 +13624,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "506a5dd20420b3e86d6224fb080738e2e03577cecfc0b3b0455280a5684c1a0c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
@@ -13741,15 +13751,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-moderna-official-097691ccfb1f",
+      "id": "evidence-company-moderna-official-f829bd8c561c",
       "signalId": null,
       "companyIds": [
         "moderna"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-08-12",
+      "snapshotDate": "2026-08-12",
       "title": "Pioneering mRNA technology - Moderna",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Moderna — Official Website",
@@ -13765,7 +13775,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 097691ccfb1f390883ca6f1ba7eccb9b98568f0974c3a5250952277a7e39e754.",
+      "fact": "The official page was captured with normalized-content hash f829bd8c561cef8428742bc8b0f5915d02f2a8af02f56b99a4f7ad891e2fa56c.",
       "report": "公司官方页面表述：了解 Moderna 如何改变医学世界。查看职业机会、产品管线和媒体资料，并进一步认识 Moderna。",
       "reportOriginal": "Learn how we’re changing the world of medicine. Discover career opportunities, our product pipeline, and browse media resources. Meet Moderna.",
       "reportCn": "了解 Moderna 如何改变医学世界。查看职业机会、产品管线和媒体资料，并进一步认识 Moderna。",
@@ -13778,8 +13788,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "097691ccfb1f390883ca6f1ba7eccb9b98568f0974c3a5250952277a7e39e754",
-      "changeType": "unchanged",
+      "contentHash": "f829bd8c561cef8428742bc8b0f5915d02f2a8af02f56b99a4f7ad891e2fa56c",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Moderna's mission is to deliver the greatest possible impact to people through mRNA medicines.",
@@ -13787,8 +13797,14 @@
         "mRNA medicine contains no animal products or preservatives, making medicine accessible for as many people as possible.",
         "Discover career opportunities, our product pipeline, and browse media resources."
       ],
-      "businessExcerpts": [],
-      "productExcerpts": [],
+      "businessExcerpts": [
+        "Moderna's mission is to deliver the greatest possible impact to people through mRNA medicines.",
+        "It's about seeing each person as more than just a number.\""
+      ],
+      "productExcerpts": [
+        "Our platform enables rapid design, research and testing of multiple mRNAs, within days.",
+        "Discover career opportunities, our product pipeline, and browse media resources."
+      ],
       "planExcerpts": []
     },
     {
@@ -13937,7 +13953,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c955b66d02e81f361386fc36bad0f445fe080d03706bf4d104e8e63b194209eb",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
@@ -14047,7 +14063,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "a825c3bbd479e11b2ed6162e44c0156df4d29eb916df139d0cb594f410e66970",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
@@ -14221,7 +14237,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "44ac0c389f480e700fbecbf590be26e172dacbb02666c96aa36d5659a5473db3",
       "changeType": "new",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
         "Nykode Therapeutics Presents Comprehensive Preclinical Data, Optimized Manufacturing, and ...",
@@ -14297,15 +14313,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-oxford-nanopore-official-3d12a40b93c0",
+      "id": "evidence-company-oxford-nanopore-official-48fb9d54db09",
       "signalId": null,
       "companyIds": [
         "oxford-nanopore"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-08-12",
+      "snapshotDate": "2026-08-12",
       "title": "Welcome to Oxford Nanopore Technologies",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Oxford Nanopore Technologies — Official Website",
@@ -14321,7 +14337,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 3d12a40b93c055956ceb8c58839791bd59c8e24f6ca41320af2ac42ca05cdf1d.",
+      "fact": "The official page was captured with normalized-content hash 48fb9d54db090465e6cd0a25b2294ca488b9186c8416be41653dc2cc9da71ecd.",
       "report": "公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
       "reportOriginal": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
       "reportCn": "发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
@@ -14334,14 +14350,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "3d12a40b93c055956ceb8c58839791bd59c8e24f6ca41320af2ac42ca05cdf1d",
-      "changeType": "new",
+      "contentHash": "48fb9d54db090465e6cd0a25b2294ca488b9186c8416be41653dc2cc9da71ecd",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
         "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
         "Only Oxford Nanopore sequencing delivers short to ultra-long native DNA and RNA reads, offering ...",
-        "Search Oxford Nanopore Technologies Which site do you wish to search in?"
+        "Whether you are studying the human genome, investigating the microbiome, or exploring the diversity of life on earth, Oxford Nanopore library preparation solutions offer a flexible, cost-effective, and streamlined way to generate high-quality sequencing data."
       ],
       "businessExcerpts": [
         "Learn more about the real-world implications of Oxford Nanopore technology."
@@ -14599,7 +14615,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "7bd18632322012adbac1757ca2fff38dcbf597718c8dcabe8c4c1ea30fccd083",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "We focus on cellular drivers of aging to design therapeutics that will eventually prevent & reverse age-related diseases.",
@@ -14724,15 +14740,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-sumitomo-pharma-official-2a5bd106b7c5",
+      "id": "evidence-company-sumitomo-pharma-official-309d9c63cfc6",
       "signalId": null,
       "companyIds": [
         "sumitomo-pharma"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-08-12",
+      "snapshotDate": "2026-08-12",
       "title": "Sumitomo Pharma Co., Ltd.",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Sumitomo Pharma — Official Website",
@@ -14748,7 +14764,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 2a5bd106b7c5f1d7c1366dd329c119061ba64ce07cc66084845952b8ada698c5.",
+      "fact": "The official page was captured with normalized-content hash 309d9c63cfc67db3045aa183616afa3ce1cdc2375cd14b245a8e42ba1ff2c614.",
       "report": "公司官方页面表述：为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
       "reportOriginal": "For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd.",
       "reportCn": "为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
@@ -14761,8 +14777,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "2a5bd106b7c5f1d7c1366dd329c119061ba64ce07cc66084845952b8ada698c5",
-      "changeType": "new",
+      "contentHash": "309d9c63cfc67db3045aa183616afa3ce1cdc2375cd14b245a8e42ba1ff2c614",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
@@ -14870,7 +14886,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "d5c99cb6eb2f67ed18f2bc585fda91f2aca6046e35f6c2e98f06217c3f244472",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "XtalPi Science Agentic AI Genius Agents 智能中枢",
