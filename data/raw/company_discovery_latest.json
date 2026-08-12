@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-08-12T07:55:18.985894+00:00",
+  "capturedAt": "2026-08-12T13:51:05.052461+00:00",
   "summary": {
-    "mentionCount": 666,
-    "candidateCount": 594,
+    "mentionCount": 667,
+    "candidateCount": 595,
     "corroboratedCount": 2,
     "identifiedCount": 586,
-    "needsReviewCount": 6,
+    "needsReviewCount": 7,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 3,
+      "ClinicalTrials": 4,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 60,
@@ -20,74 +20,110 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-aa60bad61947135a",
-      "observedName": "Genomind, LLC",
-      "normalizedName": "genomind",
+      "id": "mention-clinicaltrials-097f0987d97db67a",
+      "observedName": "CellTrans Inc.",
+      "normalizedName": "celltrans",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT01438242",
-      "sourceDate": "2015-03-23",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01438242",
+      "sourceRecordId": "NCT00679042",
+      "sourceDate": "2026-04-06",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00679042",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
+        "Recruiting",
         "临床试验"
       ],
       "activitySignals": [
+        "active_trial",
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "An Open Label Study of the Genecept™ Assay in Treatment Resistant Depression"
+      "contextTitle": "Islet Transplantation in Type 1 Diabetic Patients Using the University of Illinois at Chicago (UIC) Protocol"
     },
     {
-      "id": "mention-clinicaltrials-c0f7e9134b4ef38a",
-      "observedName": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
-      "normalizedName": "johnson and johnson pharmaceutical research and development l l c",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT00304603",
-      "sourceDate": "2012-11-28",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT00304603",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "Mode of Action of Topiramate in the Treatment of Obese Patients With and Without Type 2 Diabetes Mellitus"
-    },
-    {
-      "id": "mention-clinicaltrials-e379598e2f98da6c",
-      "observedName": "Juventas Cell Therapy Ltd.",
-      "normalizedName": "juventas cell therapy",
+      "id": "mention-clinicaltrials-72bd4de20c562d7f",
+      "observedName": "Accurate International Biotechnology (Guangzhou) Co., Ltd.",
+      "normalizedName": "accurate international biotechnology guangzhou",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT04034446",
-      "sourceDate": "2025-06-03",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04034446",
+      "sourceRecordId": "NCT07054086",
+      "sourceDate": "2025-07-08",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07054086",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Cell Therapy",
+        "Advanced Disease Models",
+        "Clinical Trials",
+        "Oncology",
+        "Organoids",
+        "Precision Oncology",
+        "Recruiting",
+        "中国",
+        "临床试验",
+        "疾病模型",
+        "类器官",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Patient Derived Organoids (PDOs) to Observe the Clinical Consistency of Personalized Neoadjuvant Therapy for Resectable Esophageal Squamous Cell Carcinoma"
+    },
+    {
+      "id": "mention-clinicaltrials-7895aca22af0568a",
+      "observedName": "Janssen Research & Development, LLC",
+      "normalizedName": "janssen research and development",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT02703272",
+      "sourceDate": "2022-12-02",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT02703272",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
         "Clinical Trials",
         "Oncology",
         "Precision Oncology",
-        "中国",
         "临床试验",
-        "细胞治疗",
         "肿瘤"
       ],
       "activitySignals": [
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "CD19-CD22 Chimeric Antigen Receptor T (CAR-T) Cell for Treatment of B Cell Acute Lymphoblastic Leukemia (B-ALL)"
+      "contextTitle": "A Safety and Efficacy Study of Ibrutinib in Pediatric and Young Adult Participants With Relapsed or Refractory Mature B-cell Non-Hodgkin Lymphoma"
+    },
+    {
+      "id": "mention-clinicaltrials-cc105fb582ca3c1f",
+      "observedName": "Phoenix Neurological Associates, LTD",
+      "normalizedName": "phoenix neurological associates",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT03401073",
+      "sourceDate": "2023-09-13",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03401073",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Diagnostics",
+        "Precision Medicine",
+        "临床试验",
+        "精准医疗",
+        "诊断"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "IVIg for Small Fiber Neuropathy With Autoantibodies TS-HDS and FGFR3"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -44268,26 +44304,28 @@
       ]
     },
     {
-      "id": "candidate-genomind",
-      "name": "Genomind, LLC",
+      "id": "candidate-celltrans",
+      "name": "CellTrans Inc.",
       "aliases": [
-        "Genomind, LLC"
+        "CellTrans Inc."
       ],
-      "normalizedName": "genomind",
+      "normalizedName": "celltrans",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2015-03-23",
-      "lastSeenAt": "2015-03-23",
+      "firstSeenAt": "2026-04-06",
+      "lastSeenAt": "2026-04-06",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
+          "Recruiting",
           "临床试验"
         ],
         "themes": [
           "Clinical Trials",
+          "Recruiting",
           "临床试验"
         ],
         "tags": []
@@ -44301,42 +44339,48 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-aa60bad61947135a"
+        "mention-clinicaltrials-097f0987d97db67a"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2015-03-23",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT01438242",
-          "externalId": "NCT01438242",
-          "contextTitle": "An Open Label Study of the Genecept™ Assay in Treatment Resistant Depression"
+          "sourceDate": "2026-04-06",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT00679042",
+          "externalId": "NCT00679042",
+          "contextTitle": "Islet Transplantation in Type 1 Diabetic Patients Using the University of Illinois at Chicago (UIC) Protocol"
         }
       ]
     },
     {
-      "id": "candidate-johnson-and-johnson-pharmaceutical-research-and-development-l-l-c",
-      "name": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "id": "candidate-janssen-research-and-development",
+      "name": "Janssen Research & Development, LLC",
       "aliases": [
-        "Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+        "Janssen Research & Development, LLC"
       ],
-      "normalizedName": "johnson and johnson pharmaceutical research and development l l c",
+      "normalizedName": "janssen research and development",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2012-11-28",
-      "lastSeenAt": "2012-11-28",
+      "firstSeenAt": "2022-12-02",
+      "lastSeenAt": "2022-12-02",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
-          "临床试验"
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
         ],
         "themes": [
           "Clinical Trials",
-          "临床试验"
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
         ],
         "tags": []
       },
@@ -44349,17 +44393,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-c0f7e9134b4ef38a"
+        "mention-clinicaltrials-7895aca22af0568a"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2012-11-28",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT00304603",
-          "externalId": "NCT00304603",
-          "contextTitle": "Mode of Action of Topiramate in the Treatment of Obese Patients With and Without Type 2 Diabetes Mellitus"
+          "sourceDate": "2022-12-02",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT02703272",
+          "externalId": "NCT02703272",
+          "contextTitle": "A Safety and Efficacy Study of Ibrutinib in Pediatric and Young Adult Participants With Relapsed or Refractory Mature B-cell Non-Hodgkin Lymphoma"
         }
       ]
     },
@@ -47504,38 +47548,44 @@
       ]
     },
     {
-      "id": "candidate-juventas-cell-therapy",
-      "name": "Juventas Cell Therapy Ltd.",
+      "id": "candidate-accurate-international-biotechnology-guangzhou",
+      "name": "Accurate International Biotechnology (Guangzhou) Co., Ltd.",
       "aliases": [
-        "Juventas Cell Therapy Ltd."
+        "Accurate International Biotechnology (Guangzhou) Co., Ltd."
       ],
-      "normalizedName": "juventas cell therapy",
+      "normalizedName": "accurate international biotechnology guangzhou",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2025-06-03",
-      "lastSeenAt": "2025-06-03",
+      "firstSeenAt": "2025-07-08",
+      "lastSeenAt": "2025-07-08",
       "identifiers": {},
       "classificationHints": {
         "directions": [
-          "Cell Therapy",
+          "Advanced Disease Models",
           "Clinical Trials",
           "Oncology",
+          "Organoids",
           "Precision Oncology",
+          "Recruiting",
           "中国",
           "临床试验",
-          "细胞治疗",
+          "疾病模型",
+          "类器官",
           "肿瘤"
         ],
         "themes": [
-          "Cell Therapy",
+          "Advanced Disease Models",
           "Clinical Trials",
           "Oncology",
+          "Organoids",
           "Precision Oncology",
+          "Recruiting",
           "中国",
           "临床试验",
-          "细胞治疗",
+          "疾病模型",
+          "类器官",
           "肿瘤"
         ],
         "tags": []
@@ -47549,17 +47599,73 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-e379598e2f98da6c"
+        "mention-clinicaltrials-72bd4de20c562d7f"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2025-06-03",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT04034446",
-          "externalId": "NCT04034446",
-          "contextTitle": "CD19-CD22 Chimeric Antigen Receptor T (CAR-T) Cell for Treatment of B Cell Acute Lymphoblastic Leukemia (B-ALL)"
+          "sourceDate": "2025-07-08",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07054086",
+          "externalId": "NCT07054086",
+          "contextTitle": "Patient Derived Organoids (PDOs) to Observe the Clinical Consistency of Personalized Neoadjuvant Therapy for Resectable Esophageal Squamous Cell Carcinoma"
+        }
+      ]
+    },
+    {
+      "id": "candidate-phoenix-neurological-associates",
+      "name": "Phoenix Neurological Associates, LTD",
+      "aliases": [
+        "Phoenix Neurological Associates, LTD"
+      ],
+      "normalizedName": "phoenix neurological associates",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2023-09-13",
+      "lastSeenAt": "2023-09-13",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Diagnostics",
+          "Precision Medicine",
+          "临床试验",
+          "精准医疗",
+          "诊断"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Diagnostics",
+          "Precision Medicine",
+          "临床试验",
+          "精准医疗",
+          "诊断"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-cc105fb582ca3c1f"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2023-09-13",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT03401073",
+          "externalId": "NCT03401073",
+          "contextTitle": "IVIg for Small Fiber Neuropathy With Autoantibodies TS-HDS and FGFR3"
         }
       ]
     }

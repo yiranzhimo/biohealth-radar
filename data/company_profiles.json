@@ -25968,6 +25968,14 @@
           {
             "form": "6-K",
             "label": "半年报/临时报告",
+            "date": "2026-08-12",
+            "title": "Genmab filed Form 6-K",
+            "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000113/gmab_20260812x6k.htm",
+            "source": "SEC EDGAR"
+          },
+          {
+            "form": "6-K",
+            "label": "半年报/临时报告",
             "date": "2026-08-11",
             "title": "Genmab filed Form 6-K",
             "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000111/gmab_20260811x6k.htm",
@@ -26014,6 +26022,7 @@
         "commercialProducts": [],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001434265-000143426526000113",
           "evidence-sec-0001434265-000143426526000111",
           "evidence-company-genmab-official-36144661ef9d",
           "evidence-sec-0001434265-000143426526000108",
@@ -26023,6 +26032,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001434265-000143426526000113",
+            "date": "2026-08-12",
+            "title": "Genmab filed Form 6-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001434265-000143426526000113",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000113/gmab_20260812x6k.htm"
+          },
           {
             "id": "event-sec-0001434265-000143426526000111",
             "date": "2026-08-11",
@@ -26075,12 +26095,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 4,
+        "evidenceCount": 5,
         "evidenceBySourceType": {
           "Company": 1,
-          "Filing": 3
+          "Filing": 4
         },
-        "lastEvidenceDate": "2026-08-11",
+        "lastEvidenceDate": "2026-08-12",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -26088,6 +26108,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001434265-000143426526000113",
+          "date": "2026-08-12",
+          "title": "Genmab filed Form 6-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001434265-000143426526000113",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000113/gmab_20260812x6k.htm"
+        },
         {
           "id": "event-sec-0001434265-000143426526000111",
           "date": "2026-08-11",
@@ -29155,6 +29186,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001110803-000119312526345802",
           "evidence-sec-0001110803-000119312526341332",
           "evidence-company-illumina-pipeline-dda577433e9a",
           "evidence-company-illumina-official-bb85914b1108",
@@ -29166,6 +29198,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001110803-000119312526345802",
+            "date": "2026-08-12",
+            "title": "Illumina filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001110803-000119312526345802",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526345802/d141344d8k.htm"
+          },
           {
             "id": "event-sec-0001110803-000119312526341332",
             "date": "2026-08-10",
@@ -29209,17 +29252,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001110803-000111080326000168",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000168/ilmn-20260807.htm"
-          },
-          {
-            "id": "event-sec-0001110803-000111080326000160",
-            "date": "2026-07-31",
-            "title": "Illumina filed Form 10-Q",
-            "eventType": "Periodic Report",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001110803-000111080326000160",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000160/ilmn-20260628.htm"
           }
         ],
         "inferences": [],
@@ -29229,12 +29261,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 6,
+        "evidenceCount": 7,
         "evidenceBySourceType": {
           "Company": 2,
-          "Filing": 4
+          "Filing": 5
         },
-        "lastEvidenceDate": "2026-08-10",
+        "lastEvidenceDate": "2026-08-12",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -29242,6 +29274,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001110803-000119312526345802",
+          "date": "2026-08-12",
+          "title": "Illumina filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001110803-000119312526345802",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526345802/d141344d8k.htm"
+        },
         {
           "id": "event-sec-0001110803-000119312526341332",
           "date": "2026-08-10",

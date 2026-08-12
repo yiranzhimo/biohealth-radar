@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-12T07:55:15.149121+00:00",
+  "capturedAt": "2026-08-12T13:51:02.069754+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,13 @@
     "end": "2026-08-12"
   },
   "pmids": [
-    "42580939",
+    "42581771",
+    "42581602",
+    "42581588",
+    "42581445",
+    "42581103",
+    "42581138",
     "42580899",
-    "42580613",
-    "42580482",
-    "42580348",
-    "42580346",
     "42559559",
     "42509463",
     "42498177",
@@ -36,24 +37,134 @@
     "42577958",
     "42577912",
     "42577627",
-    "42577177",
-    "42581000"
+    "42577177"
   ],
   "records": [
     {
-      "pmid": "42580939",
-      "title": "Organoids cannot replace physiology in cancer drug development.",
-      "abstract": "Regulators are accelerating new approach methodologies in cancer drug development. Their capacity to replace animal studies should depend on the context of use. Organoids, chips, and computational models can answer local, measurable questions, whereas whole-body biodistribution, immune handling, organ clearance, chronic toxicity, and therapeutic index still require integrated physiological evidence.",
-      "journal": "Trends in biotechnology",
+      "pmid": "42581771",
+      "title": "A microscale 3D printing glomerular spheroid-on-a-chip for modeling the pathophysiology of diabetic nephropathy.",
+      "abstract": "Diabetic nephropathy (DN) is driven by progressive dysfunction of the glomerular filtration barrier (GFB), yet current in vitro models inadequately capture its multicellular architecture and dynamic microenvironment. Herein, we present a glomerular spheroid-on-a-chip that integrates organoid-like cellular organization with microfluidic perfusion to mimic the pathophysiology of DN. The strategic integration of human mesangial cells (HMCs), a critical component often neglected in existing platforms, into triculture spheroids alongside conditionally immortalized human podocytes and human umbilical vein endothelial cells (HUVECs) significantly augments the structural integrity and functional recapitulation of the engineered GFB. A streamlined, cost-effective micro-3D printing strategy generates bowl-shaped PDMS microdevices that anchor spheroids for controlled lateral expansion under dynamic perfusion, establishing a biomimetic GFB with distinct vascular and urinary compartments. Under diabetic conditions, the platform faithfully recapitulates key pathological features of DN, including HMC expansion, podocyte injury and increased barrier permeability, while directly revealing the critical contribution of HMCs to filtration barrier dysfunction. Moreover, the system supports small-molecule therapeutic evaluation, underscoring its potential for mechanistic studies and preclinical drug screening. This work establishes a versatile and manufacturable platform that bridges static glomerulus spheroid cultures and dynamic, disease-relevant modeling of DN.",
+      "journal": "Lab on a chip",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "NOVA Medical School, Faculdade de Ciências Médicas, NMS|FCM, Universidade NOVA de Lisboa, 1169, Lisbon, Portugal; Comprehensive Health Research Centre (CHRC), NOVA Medical School|Faculdade de Ciências Médicas, NMS|FCM, Universidade NOVA de Lisboa, 1169, Lisbon, Portugal. Electronic address: joao.conde@nms.unl.pt."
+        "School of Basic Medicine, Harbin Medical University, Harbin 150081, China. feiyun@hrbmu.edu.cn.",
+        "Heilongjiang Provincial Key Laboratory of Human Microphysiological Systems and Organoids-on-a-Chip, Harbin Medical University, Harbin 150081, China."
       ],
-      "doi": "10.1016/j.tibtech.2026.07.029",
+      "doi": "10.1039/d6lc00380j",
+      "date": "2026-08-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42581771/"
+    },
+    {
+      "pmid": "42581602",
+      "title": "Loss of ABCA4 from photoreceptor discs is associated with glial transcriptomic changes in retinal organoids.",
+      "abstract": "Loss-of-function mutations in the ABCA4 gene cause Stargardt disease (STGD1), the most common inherited macular dystrophy leading to progressive central vision loss. Here, we generated hiPSC-derived retinal organoids harboring a premature stop codon in exon-24 of ABCA4 to evaluate the impact of this mutation on mRNA and protein levels in a human model. Immunofluorescence analysis revealed the absence of ABCA4 protein in the mutant photoreceptor outer segment discs, while single-cell RNA sequencing detected no major transcriptional alterations in rods and cones. Unexpectedly, differential gene expression and pathway enrichment analyses of Müller glial cells (MGCs) and astrocytes highlighted disruption of neuronal development, microenvironment of glial cells, intercellular communication, and programmed cell death pathways. These findings suggest that ABCA4 deficiency in photoreceptor discs may trigger early stress-associated transcriptomic responses in retinal glial cells prior to overt photoreceptor degeneration, potentially contributing to Stargardt disease pathogenesis. Human induced pluripotent stem cells (hiPSCs) were engineered to generate ABCA4-mutant cell lines, later differentiated into retinal organoids as a model of Stargardt disease. The organoids showed loss of ABCA4 from the outer segment discs of rod and cone photoreceptors, while the mutant Müller glial cells and astrocytes exhibited transcriptional changes in pathways involved in neuronal development, microenvironment, and programmed cell death. Created in https://BioRender.com.",
+      "journal": "Stem cells (Dayton, Ohio)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Ophthalmology, Leiden University Medical Center, Albinusdreef 2, 2333 ZA Leiden, The Netherlands(C.A.A.).",
+        "Department of Biomedical Data Sciences, Sequencing Analysis Support Core, Leiden University Medical Center, Albinusdreef 2, 2333 ZA Leiden, The Netherlands(H.M.).",
+        "Department of Cell and Chemical Biology, Electron Microscopy Facility, Leiden University Medical Center, Albinusdreef 2, 2333 ZA Leiden, The Netherlands(R.I.K.).",
+        "Department of Cell and Chemical Biology, Leiden University Medical Center, Albinusdreef 2, 2333 ZA Leiden, The Netherlands(H.M.M.M.)."
+      ],
+      "doi": "10.1093/stmcls/sxag045",
       "date": "2026-08-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42580939/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42581602/"
+    },
+    {
+      "pmid": "42581588",
+      "title": "Glutaminase regulates alveolar regeneration through autophagy-YAP/TAZ in pulmonary fibrosis.",
+      "abstract": "Impaired alveolar regeneration is a central feature of chronic lung diseases. Type 2 alveolar epithelial cells (AT2) serve as lung stem/progenitor cells that differentiate into type 1 cells (AT1) to restore gas exchange following injury. However, the metabolic determinants governing this regenerative process remain poorly understood. This study aimed to determine the role of glutamine metabolism via glutaminase 1 (GLS1) in regulating AT2-to-AT1 differentiation and alveolar regeneration after lung injury. We used primary murine AT2 cells, alveolar organoids, and lineage-tracing mouse models of bleomycin-induced lung injury. The effects of AT2-specific GLS1 deletion on epithelial differentiation were assessed in vitro and in vivo. Chloroquine and bafilomycin A1, two autophagy inhibitors with distinct molecular mechanisms of action, were used for mechanistic rescue experiments. GLS1 expression increased during AT2-to-AT1 differentiation and was accompanied by metabolic reprogramming characterized by enhanced glycolysis and increased glutamine entry into the TCA cycle. AT2-specific GLS1 deletion impaired differentiation in vitro and in vivo, resulting in defective alveolar repair and exacerbated pulmonary fibrosis. Mechanistically, GLS1 deficiency induced excessive autophagy and promoted degradation of the Hippo pathway effectors YAP and TAZ, key regulators of epithelial cell fate decisions. Inhibition of autophagy with either chloroquine or bafilomycin A1 restored YAP/TAZ levels, rescued AT2-to-AT1 differentiation, reduced fibrosis, and improved lung function. GLS1-mediated glutaminolysis is essential for alveolar stem/progenitor cell differentiation through regulation of autophagy and YAP/TAZ stability. Modulation of autophagy may represent a therapeutic strategy to enhance lung regeneration in fibrotic lung diseases.",
+      "journal": "American journal of respiratory cell and molecular biology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Cardiovascular Sciences, Aging+Cardiovascular Discovery Center, Lewis Katz School of Medicine at Temple University, Philadelphia, 19140, PA, United States.",
+        "Fox Chase Cancer Center, Lewis Katz School of Medicine at Temple University, Philadelphia, 19140, PA, United States.",
+        "Fels Cancer Institute of Personalized Medicine, Lewis Katz School of Medicine at Temple University, Philadelphia, 19140, PA, United States.",
+        "Department of Surgery, Division of Cardiovascular and Thoracic Surgery, Duke Cardiovascular Research Center, Duke University School of Medicine, Durham, 27710, NC, United States.",
+        "Department of Microbiology, Immunology and Inflammation, Center for Inflammation and Lung Research, Lewis Katz School of Medicine at Temple University, Philadelphia, 19140, PA, United States."
+      ],
+      "doi": "10.1093/ajrcmb/aanag145",
+      "date": "2026-08-11",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42581588/"
+    },
+    {
+      "pmid": "42581445",
+      "title": "Animal Research in Pulp Biology: A Missing Link in the Translation of Regenerative Endodontics Innovations.",
+      "abstract": "Major advances in pulp biology, biomaterials, and tissue engineering have fuelled the development of regenerative strategies aimed at preserving or restoring pulp vitality. Despite this progress, the clinical translation of these discoveries remains limited or absent. Although there is a global agenda to reduce and replace animal use in medical research, we believe that a critical missing link in the translational pipeline of regenerative endodontics innovations is the lack of rigorously validated, clinically relevant preclinical models to use in advancing promising in vitro findings through regulatory processes to human application. While novel alternative methodologies (NAMs), including microfluidics, organoids, and organ-on-chip systems, offer human-relevant in vitro models and are rapidly transforming early-stage screening and mechanistic studies, they are currently insufficient to replicate the complex systemic elements provided by animal models, which are essential for demonstrating in vivo efficacy of regenerative therapies. Regulatory approval of devices, drugs, and biologics continues to require robust preclinical evidence generated in whole-organism systems, particularly when complex interactions involving immunity, vascularisation, innervation, and aging are central to therapeutic success. In this perspective article, we discuss key scientific, methodological, and logistical considerations for the systematic development and validation of orthotopic animal models in regenerative endodontics research. We place particular emphasis on vital pulp treatment as a biologically and clinically relevant framework for studying pulp repair and in demonstrating the efficacy of novel therapies. We highlight the challenges that have hindered consensus in model selection and standardisation, and emphasise the need for coordinated transdisciplinary efforts to overcome these barriers. We argue that prioritising standardised orthotopic vital pulp treatment models, in combination with evolving NAMs, represents a critical step to bridge the gap between mechanistic discoveries and clinical translation in regenerative endodontics.",
+      "journal": "International endodontic journal",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Endodontics and Periodontics, School of Dental Medicine, University at Buffalo, Buffalo, USA.",
+        "Department of Restorative Dentistry, School of Dental Medicine, University at Buffalo, Buffalo, USA.",
+        "Department of Biochemistry, Jacobs School of Medicine, University at Buffalo, Buffalo, USA.",
+        "Division of Restorative Dentistry, Dublin Dental University Hospital, Trinity College Dublin, Dublin, Ireland."
+      ],
+      "doi": "10.1111/iej.70238",
+      "date": "2026-08-11",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42581445/"
+    },
+    {
+      "pmid": "42581103",
+      "title": "TNFR1 signaling connects inflammation to impaired fatty acid oxidation to drive intestinal stem cell aging.",
+      "abstract": "Aging is characterized by a decline in function of intestinal stem cells (ISCs), but the extent to which this is shaped by systemic factors is unclear. Here we show that the ISC aging phenotype can be propagated from old to young mice utilizing heterochronic parabiosis, and implicate a role for inflammation in these effects, as anti-inflammatory drugs, including TNF antibodies, restored function. Parabiotic rescue experiments demonstrate that TNFR1 knockout protected young ISCs from the old environment. In young organoids, TNF downregulated crypt budding, while impairing mitochondrial pathways and fatty acid oxidation (FAO). However, aged ISC function was enhanced by boosting mitochondrial fusion, whereas FAO in aged crypts was improved by countering inflammation with salicylate treatment. Thus, these data identify the old environment through the progeronic factor TNF, as a driver of ISC aging phenotypes through intestinal epithelial cell TNF receptor 1 signaling to downregulate FAO, proliferation and regenerative capacity in these cells.",
+      "journal": "Nature aging",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Molecular Pharmacology, Albert Einstein College of Medicine, Bronx, NY, USA.",
+        "Institute for Geroscience, Albert Einstein College of Medicine, Bronx, NY, USA.",
+        "Department of Medicine, Albert Einstein College of Medicine, Bronx, NY, USA.",
+        "Department of Radiation Oncology, Albert Einstein College of Medicine, Bronx, NY, USA.",
+        "Department of Computational Genomics Core Facility, Albert Einstein College of Medicine, Bronx, NY, USA.",
+        "Department of Radiology, Albert Einstein College of Medicine, Bronx, NY, USA.",
+        "New York University College of Dentistry, New York, NY, USA.",
+        "Montefiore-Einstein Cancer Center, Albert Einstein College of Medicine, Bronx, NY, USA.",
+        "Department of Cell Biology, Albert Einstein College of Medicine, Bronx, NY, USA.",
+        "Department of Oncology, Albert Einstein College of Medicine, Bronx, NY, USA.",
+        "Department of Veterinary Pathobiology, University of Missouri Metagenomics Research Center, University of Missouri, Columbia, MO, USA.",
+        "Department of Biochemistry, Albert Einstein College of Medicine, Bronx, NY, USA.",
+        "Department of Pathology, Albert Einstein College of Medicine, Bronx, NY, USA.",
+        "Department of Urology, Albert Einstein College of Medicine, Bronx, NY, USA.",
+        "Department of Molecular Pharmacology, Albert Einstein College of Medicine, Bronx, NY, USA. derek.huffman@einsteinmed.edu.",
+        "Institute for Geroscience, Albert Einstein College of Medicine, Bronx, NY, USA. derek.huffman@einsteinmed.edu.",
+        "Department of Medicine, Albert Einstein College of Medicine, Bronx, NY, USA. derek.huffman@einsteinmed.edu.",
+        "Montefiore-Einstein Cancer Center, Albert Einstein College of Medicine, Bronx, NY, USA. derek.huffman@einsteinmed.edu.",
+        "Cancer Dormancy Institute (CDI), Albert Einstein College of Medicine, Bronx, NY, USA. derek.huffman@einsteinmed.edu."
+      ],
+      "doi": "10.1038/s43587-026-01170-7",
+      "date": "2026-08-11",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42581103/"
+    },
+    {
+      "pmid": "42581138",
+      "title": "Absence of EGFR signalling in granulocytic cells relieves immunosuppression sensitising CRC metastases to immune checkpoint therapy.",
+      "abstract": "Metastatic colorectal cancer (mCRC) is one of the deadliest cancers with very poor response to immune checkpoint blockade (ICB). Standard therapies employ chemotherapy combined with epidermal growth factor receptor (EGFR) blocking antibodies, which are only effective in a fraction of patients with RAS/RAF wild-type tumours. We have previously shown that EGFR deletion in myeloid cells of CRC, rather than in the cancer cells themselves, reduces tumour growth. Here, we investigate to which extent EGFR blockade in myeloid cells increases anti-tumour immunity, thus sensitising CRC to ICB. Using a syngeneic preclinical CRC liver metastasis model based on the transplantation of murine RAS mutant CRC organoids into mice lacking EGFR in myeloid cells, we observe a reduction in metastasis development accompanied by increased intratumoural T-cell infiltration. Importantly, we demonstrate that EGFR deletion reduces the capacity of granulocytic myeloid-derived suppressor cells (G-MDSCs) to suppress CD4+ T-cell proliferation. RNA-seq analysis of sorted MDSCs and T-cells uncovered an EGFR-dependent signature involved in immunosuppression, which in proficient-mismatch-repair (pMMR) CRC patients is associated with worse overall survival. Therapeutically, lifting immunosuppression by EGFR deletion in myeloid cells sensitised tumours to anti-PD-L1 treatment, thus preventing liver metastasis development. These results imply that anti-EGFR therapies combined with ICB might be successful in preventing metastasis of RAS mutated CRC with high infiltration of suppressive EGFR+ myeloid cells.",
+      "journal": "Cell death and differentiation",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Center for Cancer Research, Medical University of Vienna, Vienna, Austria.",
+        "Comprehensive Cancer Center, Medical University of Vienna & General Hospital AKH Vienna, Vienna, Austria.",
+        "Institute for Research in Biomedicine (IRB Barcelona), Barcelona Institute of Science and Technology, Barcelona, Spain.",
+        "Centro de Investigación Biomédica en Red de Cancer (CIBERONC), Barcelona, Spain.",
+        "Department of Medical Oncology and Department of Surgical Oncology and Gastrointestinal Surgery, Erasmus MC Cancer Institute, University Medical Center Rotterdam, Rotterdam, The Netherlands.",
+        "Institució Catalana de Recerca i Estudis Avançats (ICREA), Barcelona, Spain.",
+        "Center for Cancer Research, Medical University of Vienna, Vienna, Austria. maria.sibilia@meduniwien.ac.at.",
+        "Comprehensive Cancer Center, Medical University of Vienna & General Hospital AKH Vienna, Vienna, Austria. maria.sibilia@meduniwien.ac.at."
+      ],
+      "doi": "10.1038/s41418-026-01828-0",
+      "date": "2026-08-11",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42581138/"
     },
     {
       "pmid": "42580899",
@@ -73,88 +184,6 @@
       "doi": "10.1016/j.scib.2026.07.080",
       "date": "2026-07-30",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42580899/"
-    },
-    {
-      "pmid": "42580613",
-      "title": "Nerve Injury-on-a-Chip Uncovers Extracellular Matrix and Mitochondrial Roles in Axonal Regeneration.",
-      "abstract": "Peripheral nerve regeneration depends on interactions among extracellular matrix cues, neuronal bioenergetics, and therapeutic signal presentation, yet progress is limited by the lack of physiologically relevant quantitative in vitro models to evaluate biomaterials and mitochondria-targeted therapies. Here, we present a nerve injury-on-a-chip (NI-Chip) that integrates dorsal root ganglion explants, aligned nanofibers, compartmentalized microfluidics, and precisely controlled axotomy to enable real-time, quantitative analysis of axonal regeneration dynamics. Extracellular matrix composition significantly influences axonal regeneration velocity, with laminin-coated nanofibers supporting faster growth than fibronectin-coated ones. Pharmacological promotion of mitochondrial transport using the small-molecule compound M1 enhances axonal regeneration in a dose-dependent manner, revealing that M1 increases mitochondrial motility within regenerating axons, with a selective enhancement of retrograde transport. Furthermore, M1 treatment remains effective in older sensory neurons, highlighting mitochondrial dynamics as an age-independent target for regeneration. Leveraging the compartmentalized design of the NI-Chip, we demonstrate that localized axonal delivery of M1 enhances regeneration, and sustained delivery via M1-loaded nanofibers further promotes axonal regrowth. This work establishes the NI-Chip as a versatile platform for dissecting the interplay between biomaterials, mitochondrial dynamics, and axonal regeneration, and provides a foundation for accelerating the development of clinically translatable therapies for peripheral nerve repair. STATEMENT OF SIGNIFICANCE: Peripheral nerve repair remains challenging due to limited functional recovery and a lack of reliable in vitro models to evaluate biomaterials and therapies. This study introduces a nerve injury-on-a-chip (NI-Chip) that combines aligned nanofibers, controlled injury, and real-time imaging to quantitatively measure axonal regeneration. Using this platform, we show that extracellular matrix coatings and mitochondrial fusion modulation distinctly regulate regeneration dynamics, and that sustained drug delivery from nanofibers further enhances repair. Unlike conventional assays that measure static neurite growth, this system enables dynamic and mechanistic evaluation of regeneration. This work provides a versatile tool for designing and optimizing biomaterials and therapeutic strategies for peripheral nerve repair.",
-      "journal": "Acta biomaterialia",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Surgery-Transplant and Mary & Dick Holland Regenerative Medicine Program, University of Nebraska Medical Center, Omaha, NE 68198, USA.",
-        "Department of Genetics, Cell Biology, and Anatomy & Dick Holland Regenerative Medicine Program, University of Nebraska Medical Center, Omaha, NE 68198, USA.",
-        "Department of Surgery-Plastic Surgery, University of Nebraska Medical Center, Omaha, NE 68198, USA.",
-        "Department of Surgery-Transplant and Mary & Dick Holland Regenerative Medicine Program, University of Nebraska Medical Center, Omaha, NE 68198, USA; Department of Mechanical and Materials Engineering, College of Engineering, University of Nebraska-Lincoln, Lincoln, NE 68588, United States. Electronic address: jingwei.xie@unmc.edu."
-      ],
-      "doi": "10.1016/j.actbio.2026.08.018",
-      "date": "2026-08-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42580613/"
-    },
-    {
-      "pmid": "42580482",
-      "title": "Material-centric design of organ-on-a-chip systems: Towards industrial translation and mass manufacturing.",
-      "abstract": "Organs-on-chips (OoCs) are miniaturized devices for culturing and stimulating living cells within microscopic fluidic environments to create minimal organ surrogates. For the last decade, a diverse range of organ models were reconstructed at the micron scale to support the investigation of fundamental biological processes. By more accurately replicating the pathophysiology of human health, OoCs can serve as alternatives to conventional 2D cell culture and animal models for drug testing. However, moving from a research prototype to a commercially viable model system requires consideration of materials and manufacturing methods to simultaneously sustain high biological fidelity of organ mimicries, while enabling fabrication at scale. This review synthesizes recent advancements in that regard: We provide an overview of materials exhibiting relevant functional properties, their associated manufacturing methods, considerations of metrology and biocompatibility, and showcase representative examples of disruptive OoCs technologies currently integrated in the drug development pipeline to accelerate the discovery of safer and more effective therapeutics.",
-      "journal": "Advanced drug delivery reviews",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Medical Devices Research Centre, National Research Council of Canada, 75 de Mortagne Boulevard, Boucherville, QC J4B 6Y4, Canada.",
-        "Medical Devices Research Centre, National Research Council of Canada, 75 de Mortagne Boulevard, Boucherville, QC J4B 6Y4, Canada; Centre for Research and Applications in Fluidic Technologies, Department of Mechanical and Industrial Engineering, 5 King's College Road, Toronto, ON M5S 3G8, Canada; Department of Biomedical Engineering, McGill University, 3775 Rue University, Suite 316, Montreal, QC H3A 2B4, Canada. Electronic address: lidija.malic@cnrc-nrc.gc.ca.",
-        "Medical Devices Research Centre, National Research Council of Canada, 75 de Mortagne Boulevard, Boucherville, QC J4B 6Y4, Canada; Centre for Research and Applications in Fluidic Technologies, Department of Mechanical and Industrial Engineering, 5 King's College Road, Toronto, ON M5S 3G8, Canada.",
-        "Centre for Research and Applications in Fluidic Technologies, Department of Mechanical and Industrial Engineering, 5 King's College Road, Toronto, ON M5S 3G8, Canada.",
-        "Medical Devices Research Centre, National Research Council of Canada, 75 de Mortagne Boulevard, Boucherville, QC J4B 6Y4, Canada; Centre for Research and Applications in Fluidic Technologies, Department of Mechanical and Industrial Engineering, 5 King's College Road, Toronto, ON M5S 3G8, Canada; Department of Biomedical Engineering, McGill University, 3775 Rue University, Suite 316, Montreal, QC H3A 2B4, Canada; Department of Mechanical and Industrial Engineering, University of Toronto, 5 King's College Road, Toronto, ON M5S 3G8, Canada."
-      ],
-      "doi": "10.1016/j.addr.2026.115945",
-      "date": "2026-08-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42580482/"
-    },
-    {
-      "pmid": "42580348",
-      "title": "Human iPSC-derived heart valve-like assembloids model valve development and disease pathology.",
-      "abstract": "Heart valves maintain unidirectional blood flow, yet most understanding of their development and disease comes from animal models that do not fully capture human valve behavior. We present a human induced pluripotent stem cell (iPSC)-derived valve-like assembloid platform that models key aspects of in vivo valve features at the cellular and molecular levels. We found that mechanical forces, endothelial culture conditions, and fluidic shear stress respectively promote valve induction, maintenance, and extracellular matrix stratification. We further used this system to model human valve defects, including genetic mutations, injury, and hyperglycemia-related abnormalities. This assembloid platform enables the in vitro study of human valve development and disease mechanisms.",
-      "journal": "Cell stem cell",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Cell Biology, University of Pittsburgh School of Medicine, Pittsburgh, PA 15201, USA; Tsinghua Medicine, Tsinghua University, Beijing 100084, China.",
-        "Department of Biomedical Engineering, Carnegie Mellon University, Pittsburgh, PA 15213, USA.",
-        "Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA 15260, USA.",
-        "Department of Cell Biology, University of Pittsburgh School of Medicine, Pittsburgh, PA 15201, USA.",
-        "Department of Mechanical Engineering, Carnegie Mellon University, Pittsburgh, PA 15213, USA; Department of Biomedical Engineering, Carnegie Mellon University, Pittsburgh, PA 15213, USA.",
-        "Department of Mechanical Engineering and Materials Science, University of Pittsburgh, Pittsburgh, PA 15260, USA.",
-        "Department of Biomedical Engineering, Carnegie Mellon University, Pittsburgh, PA 15213, USA; Department of Electrical Engineering, Carnegie Mellon University, Pittsburgh, PA 15213, USA.",
-        "Department of Cell Biology, University of Pittsburgh School of Medicine, Pittsburgh, PA 15201, USA; Department of Cardiothoracic Surgery, University of Pittsburgh School of Medicine, Pittsburgh, PA 15201, USA; Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA 15260, USA. Electronic address: guangli@pitt.edu."
-      ],
-      "doi": "10.1016/j.stem.2026.07.011",
-      "date": "2026-08-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42580348/"
-    },
-    {
-      "pmid": "42580346",
-      "title": "Elongating human heart organoids recapitulate early cardiac morphogenesis and axial organization.",
-      "abstract": "Early heart development involves heart tube elongation, looping, and axial patterning, yet these processes remain difficult to study experimentally. While pluripotent stem cell-derived heart organoids model cardiomyocyte differentiation, they do not recapitulate early morphogenetic events. Here, we generate elongating heart organoids (EHOs) from human induced pluripotent stem cells that undergo coordinated elongation and looping-like curvature, resembling early cardiac morphogenesis. EHOs establish a venous-to-arterial axis with spatially organized sinus venosus-like, atrial, and ventricular cardiomyocytes, and exhibit sequential propagation of contractile activity along this axis. Single-cell transcriptomics and trajectory analyses, together with pulse-labeling, support a model in which progressive incorporation of cardiac cells from proliferative splanchnic mesodermal cells at the venous pole drives elongation of the cardiac structure. Consistent with in vivo phenotypes, TBX5 deletion results in shortened EHOs with reduced looping-like curvature and irregular contractions. Together, EHOs provide a human in vitro system that enables investigation of early cardiac morphogenesis.",
-      "journal": "Developmental cell",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Research Institute of Aging Related Disease, AniMusCure Inc., Suwon, Republic of Korea; Department of Molecular Cell Biology, Sungkyunkwan University, Suwon, Republic of Korea.",
-        "Department of Molecular Cell Biology, Sungkyunkwan University, Suwon, Republic of Korea.",
-        "Research Institute of Aging Related Disease, AniMusCure Inc., Suwon, Republic of Korea.",
-        "Drug Information Research Institute, Muscle Physiome Research Center, College of Pharmacy, Sookmyung Women's University, Seoul, Republic of Korea.",
-        "Department of Precision Medicine, Sungkyunkwan University, Suwon, Republic of Korea.",
-        "School of Pharmacy, Sungkyunkwan University, Suwon, Republic of Korea.",
-        "Research Institute of Aging Related Disease, AniMusCure Inc., Suwon, Republic of Korea; Drug Information Research Institute, Muscle Physiome Research Center, College of Pharmacy, Sookmyung Women's University, Seoul, Republic of Korea. Electronic address: gbae@sookmyung.ac.kr.",
-        "Research Institute of Aging Related Disease, AniMusCure Inc., Suwon, Republic of Korea; Department of Molecular Cell Biology, Sungkyunkwan University, Suwon, Republic of Korea. Electronic address: kangj01@skku.edu."
-      ],
-      "doi": "10.1016/j.devcel.2026.07.015",
-      "date": "2026-08-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42580346/"
     },
     {
       "pmid": "42559559",
@@ -476,150 +505,50 @@
       "doi": "10.3389/fonc.2026.1724332",
       "date": "2026-07-27",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42577177/"
-    },
-    {
-      "pmid": "42581000",
-      "title": "Bridging the gap between model performance and clinical practice: A scoping review of artificial intelligence models for drug-drug interaction prediction.",
-      "abstract": "Drug-drug interactions (DDIs) are an important source of preventable adverse drug events and remain challenging to address in clinical practice. Conventional rule-based clinical decision support systems are frequently associated with high false-positive rates and alert override exceeding 90%, contributing to alert fatigue. Artificial intelligence (AI) approaches are increasingly applied to DDI prediction; however, their methodological robustness and clinical readiness remain unclear. This scoping review mapped AI-based DDI prediction studies, examining input features, training strategies, validation approaches, performance metrics, and clinical applicability. Of 963 records screened across five databases, 131 studies met the inclusion criteria. Deep learning models predominated (82, 62%), with supervised learning (118, 90%) and internal validation (108, 82%) most common. Most studies relied on chemical structure-based features and curated knowledge bases (notably DrugBank), whereas only 18 (13.7%) studies incorporated patient-level variables. Although 25 (19%) studies reported AUROC, AUPR, and F1-score ≥ 0.90, these findings were largely derived from internally validated datasets, with limited external or clinical validation. AI-based DDI prediction research demonstrates substantial methodological sophistication but remains constrained by limited patient contextualization, interpretability challenges, and insufficient external validation, highlighting a translational gap between algorithmic performance and clinical applicability.",
-      "journal": "Research in social & administrative pharmacy : RSAP",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "School of Pharmacy, Faculty of Medicine and Health Sciences, University of Auckland, 85 Park Road, Grafton, Auckland, 1023, New Zealand; Department of Pharmacy, College of Medicine and Health Sciences, Debre Markos University, Debre Markos, Ethiopia. Electronic address: desalegn.yibeltal.reta@auckland.ac.nz.",
-        "School of Pharmacy, Faculty of Medicine and Health Sciences, University of Auckland, 85 Park Road, Grafton, Auckland, 1023, New Zealand. Electronic address: mohammed.mohammed@auckland.ac.nz.",
-        "School of Pharmacy, Faculty of Medicine and Health Sciences, University of Auckland, 85 Park Road, Grafton, Auckland, 1023, New Zealand. Electronic address: n.martini@auckland.ac.nz."
-      ],
-      "doi": "10.1016/j.sapharm.2026.08.002",
-      "date": "2026-08-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42581000/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42580939",
-      "date": "2026-08-11",
-      "title": "Organoids cannot replace physiology in cancer drug development.",
+      "id": "pubmed-42581771",
+      "date": "2026-08-12",
+      "title": "A microscale 3D printing glomerular spheroid-on-a-chip for modeling the pathophysiology of diabetic nephropathy.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42580939/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42581771/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Precision Oncology"
+        "Drug Screening"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "肿瘤"
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Trends in biotechnology，PMID 为 42580939。",
-      "report": "Regulators are accelerating new approach methodologies in cancer drug development. Their capacity to replace animal studies should depend on the context of use. Organoids, chips, and computational models can answer local, measurable questions, whereas whole-bo...",
+      "fact": "PubMed 记录显示该文献收录于 Lab on a chip，PMID 为 42581771。",
+      "report": "Diabetic nephropathy (DN) is driven by progressive dysfunction of the glomerular filtration barrier (GFB), yet current in vitro models inadequately capture its multicellular architecture and dynamic microenvironment. Herein, we present a glomerular spheroid-on...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42580613",
+      "id": "pubmed-42581602",
       "date": "2026-08-11",
-      "title": "Nerve Injury-on-a-Chip Uncovers Extracellular Matrix and Mitochondrial Roles in Axonal Regeneration.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42580613/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Acta biomaterialia，PMID 为 42580613。",
-      "report": "Peripheral nerve regeneration depends on interactions among extracellular matrix cues, neuronal bioenergetics, and therapeutic signal presentation, yet progress is limited by the lack of physiologically relevant quantitative in vitro models to evaluate biomate...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42580482",
-      "date": "2026-08-11",
-      "title": "Material-centric design of organ-on-a-chip systems: Towards industrial translation and mass manufacturing.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42580482/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced drug delivery reviews，PMID 为 42580482。",
-      "report": "Organs-on-chips (OoCs) are miniaturized devices for culturing and stimulating living cells within microscopic fluidic environments to create minimal organ surrogates. For the last decade, a diverse range of organ models were reconstructed at the micron scale t...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42580348",
-      "date": "2026-08-11",
-      "title": "Human iPSC-derived heart valve-like assembloids model valve development and disease pathology.",
+      "title": "Loss of ABCA4 from photoreceptor discs is associated with glial transcriptomic changes in retinal organoids.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42580348/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell stem cell，PMID 为 42580348。",
-      "report": "Heart valves maintain unidirectional blood flow, yet most understanding of their development and disease comes from animal models that do not fully capture human valve behavior. We present a human induced pluripotent stem cell (iPSC)-derived valve-like assembl...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42580346",
-      "date": "2026-08-11",
-      "title": "Elongating human heart organoids recapitulate early cardiac morphogenesis and axial organization.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42580346/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42581602/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -634,8 +563,128 @@
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Developmental cell，PMID 为 42580346。",
-      "report": "Early heart development involves heart tube elongation, looping, and axial patterning, yet these processes remain difficult to study experimentally. While pluripotent stem cell-derived heart organoids model cardiomyocyte differentiation, they do not recapitula...",
+      "fact": "PubMed 记录显示该文献收录于 Stem cells (Dayton, Ohio)，PMID 为 42581602。",
+      "report": "Loss-of-function mutations in the ABCA4 gene cause Stargardt disease (STGD1), the most common inherited macular dystrophy leading to progressive central vision loss. Here, we generated hiPSC-derived retinal organoids harboring a premature stop codon in exon-24...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42581588",
+      "date": "2026-08-11",
+      "title": "Glutaminase regulates alveolar regeneration through autophagy-YAP/TAZ in pulmonary fibrosis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42581588/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 American journal of respiratory cell and molecular biology，PMID 为 42581588。",
+      "report": "Impaired alveolar regeneration is a central feature of chronic lung diseases. Type 2 alveolar epithelial cells (AT2) serve as lung stem/progenitor cells that differentiate into type 1 cells (AT1) to restore gas exchange following injury. However, the metabolic...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42581445",
+      "date": "2026-08-11",
+      "title": "Animal Research in Pulp Biology: A Missing Link in the Translation of Regenerative Endodontics Innovations.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42581445/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International endodontic journal，PMID 为 42581445。",
+      "report": "Major advances in pulp biology, biomaterials, and tissue engineering have fuelled the development of regenerative strategies aimed at preserving or restoring pulp vitality. Despite this progress, the clinical translation of these discoveries remains limited or...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42581103",
+      "date": "2026-08-11",
+      "title": "TNFR1 signaling connects inflammation to impaired fatty acid oxidation to drive intestinal stem cell aging.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42581103/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature aging，PMID 为 42581103。",
+      "report": "Aging is characterized by a decline in function of intestinal stem cells (ISCs), but the extent to which this is shaped by systemic factors is unclear. Here we show that the ISC aging phenotype can be propagated from old to young mice utilizing heterochronic p...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42581138",
+      "date": "2026-08-11",
+      "title": "Absence of EGFR signalling in granulocytic cells relieves immunosuppression sensitising CRC metastases to immune checkpoint therapy.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42581138/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell death and differentiation，PMID 为 42581138。",
+      "report": "Metastatic colorectal cancer (mCRC) is one of the deadliest cancers with very poor response to immune checkpoint blockade (ICB). Standard therapies employ chemotherapy combined with epidermal growth factor receptor (EGFR) blocking antibodies, which are only ef...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -725,36 +774,6 @@
       "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 42572503。",
       "report": "This Perspective explores recent methods and prospective ideas for developing hybrid AI-physics-based pipelines for protein and antibody de novo design. We argue that the highest-confidence candidates emerge where deep learning and first-principles models agre...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42581000",
-      "date": "2026-08-08",
-      "title": "Bridging the gap between model performance and clinical practice: A scoping review of artificial intelligence models for drug-drug interaction prediction.",
-      "entity": "Healthcare AI Research",
-      "primaryCategory": "Healthcare AI",
-      "subCategory": "Medical AI",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42581000/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Healthcare AI",
-        "Medical LLM",
-        "Drug Screening"
-      ],
-      "tags": [
-        "医疗 AI",
-        "临床决策支持",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Research in social & administrative pharmacy : RSAP，PMID 为 42581000。",
-      "report": "Drug-drug interactions (DDIs) are an important source of preventable adverse drug events and remain challenging to address in clinical practice. Conventional rule-based clinical decision support systems are frequently associated with high false-positive rates...",
-      "inference": "自动分类命中规则：Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
