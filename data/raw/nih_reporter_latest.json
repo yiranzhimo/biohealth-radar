@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "capturedAt": "2026-08-11T04:41:09+00:00",
+  "capturedAt": "2026-08-12T05:04:28+00:00",
   "source": {
     "name": "NIH RePORTER",
     "type": "Government Funding",
@@ -855,12 +855,11 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "drug discovery",
-        "gene therapy"
+        "drug discovery"
       ],
       "topicHints": [
-        "AI Drug Discovery",
-        "Precision Diagnostics"
+        "Precision Diagnostics",
+        "AI Drug Discovery"
       ],
       "projectSummaryExcerpt": "PROJECT SUMMARY/ABSTRACT Single-cell sequencing (SC-seq) has revolutionized our understanding of cellular heterogeneity, gene expression, and disease mechanisms. However, its adoption in clinical and translational research remains limited due to throughput constraints, complex…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11389440"
@@ -963,13 +962,14 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "drug discovery"
+        "drug discovery",
+        "gene therapy"
       ],
       "topicHints": [
-        "Cell Therapy",
-        "Precision Diagnostics",
         "AI Drug Discovery",
-        "Organoids & Disease Models"
+        "Cell Therapy",
+        "Organoids & Disease Models",
+        "Precision Diagnostics"
       ],
       "projectSummaryExcerpt": "Duchenne muscular dystrophy (DMD) is a rare X-linked genetic disorder affecting 1 in 3,500 male births worldwide. In DMD, cardiomyopathies are highly prevalent and the leading cause of death in the disease. DMDassociated cardiomyopathies include myocardial fibrosis and dilated…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11282472"

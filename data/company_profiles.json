@@ -26941,7 +26941,8 @@
           "Cell Therapy",
           "Organoids & Disease Models",
           "Precision Diagnostics",
-          "drug discovery"
+          "drug discovery",
+          "gene therapy"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -26949,7 +26950,7 @@
       "currentBusiness": {
         "status": "provisional",
         "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Cell Therapy, Organoids & Disease Models, Precision Diagnostics, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Cell Therapy, Organoids & Disease Models, Precision Diagnostics, drug discovery, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
         "summaryOriginal": null,
         "translationStatus": "not_applicable",
         "businessModel": [],
@@ -44063,8 +44064,7 @@
         "directions": [
           "AI Drug Discovery",
           "Precision Diagnostics",
-          "drug discovery",
-          "gene therapy"
+          "drug discovery"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -44072,7 +44072,7 @@
       "currentBusiness": {
         "status": "provisional",
         "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Precision Diagnostics, drug discovery, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Precision Diagnostics, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
         "summaryOriginal": null,
         "translationStatus": "not_applicable",
         "businessModel": [],
