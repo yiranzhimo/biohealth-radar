@@ -41,7 +41,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     "withEvidenceCount": 180,
     "withProductClaimsCount": 128,
     "withFuturePlansCount": 3,
-    "failedSourceCount": 465,
+    "failedSourceCount": 464,
     "identityLinkCount": 0
   },
   "profiles": [
@@ -17627,7 +17627,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-c4-therapeutics-official-021448976d88",
             "date": "2026-08-12",
             "title": "Home - C4 Therapeutics",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -17681,7 +17681,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-c4-therapeutics-official-021448976d88",
           "date": "2026-08-12",
           "title": "Home - C4 Therapeutics",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -29172,67 +29172,67 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：探索Illumina实验室仪器的产品组合，提供经过验证的创新技术，以满足广泛的通量和应用需求。；公司官方页面表述：Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
-        "summaryOriginal": "Explore the Illumina portfolio of lab instruments offering proven, innovative technology for a wide range of throughput and application needs. Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
+        "summary": "公司官方页面表述：Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。；公司官方页面表述：探索Illumina实验室仪器的产品组合，提供经过验证的创新技术，以满足广泛的通量和应用需求。",
+        "summaryOriginal": "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics. Explore the Illumina portfolio of lab instruments offering proven, innovative technology for a wide range of throughput and application needs.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
             "textOriginal": "Doing Business With Us MyIllumina Platform",
             "text": "Doing Business With Us MyIllumina Platform",
-            "evidenceId": "evidence-company-illumina-pipeline-dda577433e9a",
-            "sourceUrl": "https://www.illumina.com/systems.html",
+            "evidenceId": "evidence-company-illumina-official-67a50a453152",
+            "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "Software & Analysis Illumina BioInsight Platform",
             "text": "Software & Analysis Illumina BioInsight Platform",
-            "evidenceId": "evidence-company-illumina-pipeline-dda577433e9a",
-            "sourceUrl": "https://www.illumina.com/systems.html",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Contact a sales representative to learn more and qualify for the Demo Program",
-            "text": "Contact a sales representative to learn more and qualify for the Demo Program",
-            "evidenceId": "evidence-company-illumina-pipeline-dda577433e9a",
-            "sourceUrl": "https://www.illumina.com/systems.html",
+            "evidenceId": "evidence-company-illumina-official-67a50a453152",
+            "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "One platform for complete biological insights",
             "text": "One platform for complete biological insights",
-            "evidenceId": "evidence-company-illumina-pipeline-dda577433e9a",
-            "sourceUrl": "https://www.illumina.com/systems.html",
+            "evidenceId": "evidence-company-illumina-official-67a50a453152",
+            "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Featured in over 369,000 publications, Illumina instruments are trusted by research and clinical labs.",
-            "text": "Featured in over 369,000 publications, Illumina instruments are trusted by research and clinical labs.",
-            "evidenceId": "evidence-company-illumina-pipeline-dda577433e9a",
-            "sourceUrl": "https://www.illumina.com/systems.html",
+            "textOriginal": "Data Analysis & Informatics Infrastructure & Pipeline Setup",
+            "text": "Data Analysis & Informatics Infrastructure & Pipeline Setup",
+            "evidenceId": "evidence-company-illumina-official-67a50a453152",
+            "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Our innovative next-generation sequencing platforms deliver exceptional data quality and accuracy for a range of research needs and scales.",
-            "text": "Our innovative next-generation sequencing platforms deliver exceptional data quality and accuracy for a range of research needs and scales.",
-            "evidenceId": "evidence-company-illumina-pipeline-dda577433e9a",
-            "sourceUrl": "https://www.illumina.com/systems.html",
+            "textOriginal": "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
+            "text": "Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
+            "evidenceId": "evidence-company-illumina-official-67a50a453152",
+            "sourceUrl": "https://www.illumina.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Illumina innovative sequencing and array technologies are fueling groundbreaking advancements in life science research, translational and consumer genomics, and molecular diagnostics.",
+            "text": "Illumina innovative sequencing and array technologies are fueling groundbreaking advancements in life science research, translational and consumer genomics, and molecular diagnostics.",
+            "evidenceId": "evidence-company-illumina-official-67a50a453152",
+            "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-illumina-official-67a50a453152",
           "evidence-sec-0001110803-000119312526346923",
           "evidence-sec-0001110803-000119312526345802",
           "evidence-sec-0001110803-000119312526341332",
           "evidence-company-illumina-pipeline-dda577433e9a",
-          "evidence-company-illumina-official-bb85914b1108",
           "evidence-sec-0001110803-000111080326000168",
           "evidence-sec-0001110803-000111080326000160",
           "evidence-sec-0001110803-000111080326000155"
@@ -29241,6 +29241,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-illumina-official-67a50a453152",
+            "date": "2026-08-13",
+            "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-illumina-official-67a50a453152",
+            "sourceUrl": "https://www.illumina.com/"
+          },
           {
             "id": "event-sec-0001110803-000119312526346923",
             "date": "2026-08-12",
@@ -29284,17 +29295,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-illumina-pipeline-dda577433e9a",
             "sourceUrl": "https://www.illumina.com/systems.html"
-          },
-          {
-            "id": "event-evidence-company-illumina-official-bb85914b1108",
-            "date": "2026-08-10",
-            "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-illumina-official-bb85914b1108",
-            "sourceUrl": "https://www.illumina.com/"
           }
         ],
         "inferences": [],
@@ -29309,7 +29309,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 2,
           "Filing": 6
         },
-        "lastEvidenceDate": "2026-08-12",
+        "lastEvidenceDate": "2026-08-13",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -29317,6 +29317,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-illumina-official-67a50a453152",
+          "date": "2026-08-13",
+          "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-illumina-official-67a50a453152",
+          "sourceUrl": "https://www.illumina.com/"
+        },
         {
           "id": "event-sec-0001110803-000119312526346923",
           "date": "2026-08-12",
@@ -29360,17 +29371,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-illumina-pipeline-dda577433e9a",
           "sourceUrl": "https://www.illumina.com/systems.html"
-        },
-        {
-          "id": "event-evidence-company-illumina-official-bb85914b1108",
-          "date": "2026-08-10",
-          "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-illumina-official-bb85914b1108",
-          "sourceUrl": "https://www.illumina.com/"
         },
         {
           "id": "event-sec-0001110803-000111080326000168",
@@ -34444,7 +34444,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-legend-biotech-official-c50498fdf046",
             "date": "2026-08-12",
             "title": "HOME - Legend Biotech",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -34522,7 +34522,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-legend-biotech-official-c50498fdf046",
           "date": "2026-08-12",
           "title": "HOME - Legend Biotech",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -37270,7 +37270,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-moderna-official-f829bd8c561c",
             "date": "2026-08-12",
             "title": "Pioneering mRNA technology - Moderna",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -37346,7 +37346,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-moderna-official-f829bd8c561c",
           "date": "2026-08-12",
           "title": "Pioneering mRNA technology - Moderna",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -38091,11 +38091,51 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：立即观看以了解更多关于Natera的肿瘤学产品系列的信息。；公司官方页面表述：致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
-        "summaryOriginal": "Watch now to learn more about Natera’s oncology suite of products. Dedicated to oncology, women’s health, and organ health. Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
+        "summary": "公司官方页面表述：致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。；公司官方页面表述：立即观看以了解更多关于Natera的肿瘤学产品系列的信息。",
+        "summaryOriginal": "Dedicated to oncology, women’s health, and organ health. Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care. Watch now to learn more about Natera’s oncology suite of products.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
+          {
+            "textOriginal": "Natera Submits Signatera™ to Japan’s PMDA for Approval as a Companion Diagnostic in Muscle-Invasive Bladder Cancer",
+            "text": "Natera Submits Signatera™ to Japan’s PMDA for Approval as a Companion Diagnostic in Muscle-Invasive Bladder Cancer",
+            "evidenceId": "evidence-company-natera-official-d1334c7d255b",
+            "sourceUrl": "https://www.natera.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
+            "text": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
+            "evidenceId": "evidence-company-natera-official-d1334c7d255b",
+            "sourceUrl": "https://www.natera.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Natera to Support New Clinical Trial Assessing ctDNA Dynamics with Latitude™ in Advanced Skin Cancers",
+            "text": "Natera to Support New Clinical Trial Assessing ctDNA Dynamics with Latitude™ in Advanced Skin Cancers",
+            "evidenceId": "evidence-company-natera-official-d1334c7d255b",
+            "sourceUrl": "https://www.natera.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
+            "text": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
+            "evidenceId": "evidence-company-natera-official-d1334c7d255b",
+            "sourceUrl": "https://www.natera.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Clinical Resources Oncology CLINICAL RESOURCES Signatera™",
+            "text": "Clinical Resources Oncology CLINICAL RESOURCES Signatera™",
+            "evidenceId": "evidence-company-natera-official-d1334c7d255b",
+            "sourceUrl": "https://www.natera.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
           {
             "textOriginal": "Natera is committed to oncology patients by optimizing therapy decisions from diagnosis to survivorship with actionable answers:",
             "text": "Natera is committed to oncology patients by optimizing therapy decisions from diagnosis to survivorship with actionable answers:",
@@ -38103,52 +38143,12 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://www.natera.com/oncology/",
             "needsReview": true,
             "claimType": "Report"
-          },
-          {
-            "textOriginal": "Watch now to learn more about Natera’s oncology suite of products.",
-            "text": "立即观看以了解更多关于Natera的肿瘤学产品系列的信息。",
-            "evidenceId": "evidence-company-natera-pipeline-d6265767b3d9",
-            "sourceUrl": "https://www.natera.com/oncology/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Signatera™ Genome: the only genome-designed MRD assay with Medicare Coverage",
-            "text": "Signatera™ Genome: the only genome-designed MRD assay with Medicare Coverage",
-            "evidenceId": "evidence-company-natera-pipeline-d6265767b3d9",
-            "sourceUrl": "https://www.natera.com/oncology/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Signatera™ Genome: the only genome-designed MRD assay with Medicare Coverage Learn More",
-            "text": "Signatera™ Genome: the only genome-designed MRD assay with Medicare Coverage Learn More",
-            "evidenceId": "evidence-company-natera-pipeline-d6265767b3d9",
-            "sourceUrl": "https://www.natera.com/oncology/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
-            "text": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
-            "evidenceId": "evidence-company-natera-pipeline-d6265767b3d9",
-            "sourceUrl": "https://www.natera.com/oncology/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Natera Submits Signatera™ to Japan’s PMDA for Approval as a Companion Diagnostic in Muscle-Invasive Bladder Cancer",
-            "text": "Natera Submits Signatera™ to Japan’s PMDA for Approval as a Companion Diagnostic in Muscle-Invasive Bladder Cancer",
-            "evidenceId": "evidence-company-natera-official-c955b66d02e8",
-            "sourceUrl": "https://www.natera.com/",
-            "needsReview": true,
-            "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-natera-official-d1334c7d255b",
           "evidence-company-natera-pipeline-d6265767b3d9",
-          "evidence-company-natera-official-c955b66d02e8",
           "evidence-company-natera-investor_relations-57a971bfd0f7",
           "evidence-sec-0001604821-000162828026054525",
           "evidence-sec-0001604821-000160482126000015",
@@ -38159,6 +38159,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
+            "id": "event-evidence-company-natera-official-d1334c7d255b",
+            "date": "2026-08-13",
+            "title": "Natera: A global leader in cell-free DNA testing",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-natera-official-d1334c7d255b",
+            "sourceUrl": "https://www.natera.com/"
+          },
+          {
             "id": "event-evidence-company-natera-pipeline-d6265767b3d9",
             "date": "2026-08-10",
             "title": "Oncology | Natera",
@@ -38168,17 +38179,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-natera-pipeline-d6265767b3d9",
             "sourceUrl": "https://www.natera.com/oncology/"
-          },
-          {
-            "id": "event-evidence-company-natera-official-c955b66d02e8",
-            "date": "2026-08-10",
-            "title": "Natera: A global leader in cell-free DNA testing",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-natera-official-c955b66d02e8",
-            "sourceUrl": "https://www.natera.com/"
           },
           {
             "id": "event-evidence-company-natera-investor_relations-57a971bfd0f7",
@@ -38226,7 +38226,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 3
         },
-        "lastEvidenceDate": "2026-08-10",
+        "lastEvidenceDate": "2026-08-13",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -38234,6 +38234,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-natera-official-d1334c7d255b",
+          "date": "2026-08-13",
+          "title": "Natera: A global leader in cell-free DNA testing",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-natera-official-d1334c7d255b",
+          "sourceUrl": "https://www.natera.com/"
+        },
         {
           "id": "event-evidence-company-natera-pipeline-d6265767b3d9",
           "date": "2026-08-10",
@@ -38244,17 +38255,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-natera-pipeline-d6265767b3d9",
           "sourceUrl": "https://www.natera.com/oncology/"
-        },
-        {
-          "id": "event-evidence-company-natera-official-c955b66d02e8",
-          "date": "2026-08-10",
-          "title": "Natera: A global leader in cell-free DNA testing",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-natera-official-c955b66d02e8",
-          "sourceUrl": "https://www.natera.com/"
         },
         {
           "id": "event-evidence-company-natera-investor_relations-57a971bfd0f7",
@@ -39500,7 +39500,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -39513,7 +39512,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -40369,7 +40367,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
             "text": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-48fb9d54db09",
+            "evidenceId": "evidence-company-oxford-nanopore-official-3d12a40b93c0",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -40377,7 +40375,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Read the new updates from London Calling 2026, shaped by customer needs and longer-term innovation to extend platform capabilities.",
             "text": "Read the new updates from London Calling 2026, shaped by customer needs and longer-term innovation to extend platform capabilities.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-48fb9d54db09",
+            "evidenceId": "evidence-company-oxford-nanopore-official-3d12a40b93c0",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -40385,7 +40383,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Oxford Nanopore Technologies products are RUO.",
             "text": "Oxford Nanopore Technologies products are RUO.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-48fb9d54db09",
+            "evidenceId": "evidence-company-oxford-nanopore-official-3d12a40b93c0",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -40393,7 +40391,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
             "text": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-48fb9d54db09",
+            "evidenceId": "evidence-company-oxford-nanopore-official-3d12a40b93c0",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -40401,15 +40399,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Only Oxford Nanopore sequencing delivers short to ultra-long native DNA and RNA reads, offering ...",
             "text": "Only Oxford Nanopore sequencing delivers short to ultra-long native DNA and RNA reads, offering ...",
-            "evidenceId": "evidence-company-oxford-nanopore-official-48fb9d54db09",
+            "evidenceId": "evidence-company-oxford-nanopore-official-3d12a40b93c0",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Whether you are studying the human genome, investigating the microbiome, or exploring the diversity of life on earth, Oxford Nanopore library preparation solutions offer a flexible, cost-effective, and streamlined way to generate high-quality sequencing data.",
-            "text": "Whether you are studying the human genome, investigating the microbiome, or exploring the diversity of life on earth, Oxford Nanopore library preparation solutions offer a flexible, cost-effective, and streamlined way to generate high-quality sequencing data.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-48fb9d54db09",
+            "textOriginal": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
+            "text": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
+            "evidenceId": "evidence-company-oxford-nanopore-official-3d12a40b93c0",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -40417,7 +40415,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-oxford-nanopore-official-48fb9d54db09",
+          "evidence-company-oxford-nanopore-official-3d12a40b93c0",
           "evidence-company-oxford-nanopore-pipeline-c8855d60963b"
         ]
       },
@@ -40425,14 +40423,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-oxford-nanopore-official-48fb9d54db09",
-            "date": "2026-08-12",
+            "id": "event-evidence-company-oxford-nanopore-official-3d12a40b93c0",
+            "date": "2026-08-13",
             "title": "Welcome to Oxford Nanopore Technologies",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-oxford-nanopore-official-48fb9d54db09",
+            "evidenceId": "evidence-company-oxford-nanopore-official-3d12a40b93c0",
             "sourceUrl": "https://nanoporetech.com/"
           },
           {
@@ -40458,7 +40456,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-08-12",
+        "lastEvidenceDate": "2026-08-13",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -40467,14 +40465,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-oxford-nanopore-official-48fb9d54db09",
-          "date": "2026-08-12",
+          "id": "event-evidence-company-oxford-nanopore-official-3d12a40b93c0",
+          "date": "2026-08-13",
           "title": "Welcome to Oxford Nanopore Technologies",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-oxford-nanopore-official-48fb9d54db09",
+          "evidenceId": "evidence-company-oxford-nanopore-official-3d12a40b93c0",
           "sourceUrl": "https://nanoporetech.com/"
         },
         {
@@ -45722,7 +45720,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
             "text": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-309d9c63cfc6",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-05b9c9332255",
+            "sourceUrl": "https://www.sumitomo-pharma.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "13, 2026 Sumitomo Pharma America Announces First Patient Receives Treatment in Phase 1/2a Study for its Investigational Therapy DSP-3077 for Retinitis Pigmentosa（PDF/137KB） R&D",
+            "text": "13, 2026 Sumitomo Pharma America Announces First Patient Receives Treatment in Phase 1/2a Study for its Investigational Therapy DSP-3077 for Retinitis Pigmentosa（PDF/137KB） R&D",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-05b9c9332255",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -45730,7 +45736,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "iPS Cell-Derived Product Transportation Project",
             "text": "iPS Cell-Derived Product Transportation Project",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-309d9c63cfc6",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-05b9c9332255",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -45738,7 +45744,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
             "text": "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-309d9c63cfc6",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-05b9c9332255",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -45746,7 +45752,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "To this end , Sumitomo Pharma is pursuing Sustainability Management through a variety of initiatives, including the development of innovative products and healthcare solutions, and contribution to the development of science.",
             "text": "To this end , Sumitomo Pharma is pursuing Sustainability Management through a variety of initiatives, including the development of innovative products and healthcare solutions, and contribution to the development of science.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-309d9c63cfc6",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-05b9c9332255",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -45754,23 +45760,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Here you can search for the strengths of Sumitomo Pharma’s business, Sumitomo Pharma’s initiatives, and other information that interests you by selecting tags.",
             "text": "Here you can search for the strengths of Sumitomo Pharma’s business, Sumitomo Pharma’s initiatives, and other information that interests you by selecting tags.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-309d9c63cfc6",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-05b9c9332255",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "External Evaluation of Our Sustainability Program",
-            "text": "External Evaluation of Our Sustainability Program",
-            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-0d644ea7a607",
-            "sourceUrl": "https://www.sumitomo-pharma.com/ir/",
             "needsReview": true,
             "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-sumitomo-pharma-official-309d9c63cfc6",
+          "evidence-company-sumitomo-pharma-official-05b9c9332255",
           "evidence-company-sumitomo-pharma-investor_relations-0d644ea7a607"
         ]
       },
@@ -45778,14 +45776,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-sumitomo-pharma-official-309d9c63cfc6",
-            "date": "2026-08-12",
+            "id": "event-evidence-company-sumitomo-pharma-official-05b9c9332255",
+            "date": "2026-08-13",
             "title": "Sumitomo Pharma Co., Ltd.",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-sumitomo-pharma-official-309d9c63cfc6",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-05b9c9332255",
             "sourceUrl": "https://www.sumitomo-pharma.com/"
           },
           {
@@ -45811,7 +45809,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-08-12",
+        "lastEvidenceDate": "2026-08-13",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -45820,14 +45818,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-sumitomo-pharma-official-309d9c63cfc6",
-          "date": "2026-08-12",
+          "id": "event-evidence-company-sumitomo-pharma-official-05b9c9332255",
+          "date": "2026-08-13",
           "title": "Sumitomo Pharma Co., Ltd.",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-sumitomo-pharma-official-309d9c63cfc6",
+          "evidenceId": "evidence-company-sumitomo-pharma-official-05b9c9332255",
           "sourceUrl": "https://www.sumitomo-pharma.com/"
         },
         {

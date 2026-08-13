@@ -4357,7 +4357,7 @@
       "publishedAt": "2026-08-12",
       "snapshotDate": "2026-08-12",
       "title": "Home - C4 Therapeutics",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "C4 Therapeutics — Official Website",
@@ -4387,7 +4387,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "021448976d882fad2560802f0e68e9e64a11b113b72659d2505bc2d8609067ce",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Learn About Targeted Protein Degradation",
@@ -12993,15 +12993,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-illumina-official-bb85914b1108",
+      "id": "evidence-company-illumina-official-67a50a453152",
       "signalId": null,
       "companyIds": [
         "illumina"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-08-13",
+      "snapshotDate": "2026-08-13",
       "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Illumina — Official Website",
@@ -13017,7 +13017,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash bb85914b110809ef05796c22be368c55473cad1c646b7fec5453c809f6fa86f0.",
+      "fact": "The official page was captured with normalized-content hash 67a50a45315240a82fa41883fdb75c9a1cd0d138d54831139bf57d864b64dbcd.",
       "report": "公司官方页面表述：Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
       "reportOriginal": "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
       "reportCn": "Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
@@ -13030,8 +13030,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "bb85914b110809ef05796c22be368c55473cad1c646b7fec5453c809f6fa86f0",
-      "changeType": "unchanged",
+      "contentHash": "67a50a45315240a82fa41883fdb75c9a1cd0d138d54831139bf57d864b64dbcd",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
@@ -13571,7 +13571,7 @@
       "publishedAt": "2026-08-12",
       "snapshotDate": "2026-08-12",
       "title": "HOME - Legend Biotech",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Legend Biotech — Official Website",
@@ -13601,7 +13601,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c50498fdf046d92519de5da6e42d281247ddc576d3bce27a2bcd70861a6ed713",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Legend Biotech Establishes Clinical Proof-of-Concept for LB2501, a Potential First-in-Class In Vivo CD19/CD20 Dual-Targeting CAR-T, in Relapsed/Refractory B-Cell Non-Hodgkin Lymphoma",
@@ -13846,7 +13846,7 @@
       "publishedAt": "2026-08-12",
       "snapshotDate": "2026-08-12",
       "title": "Pioneering mRNA technology - Moderna",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Moderna — Official Website",
@@ -13876,7 +13876,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "f829bd8c561cef8428742bc8b0f5915d02f2a8af02f56b99a4f7ad891e2fa56c",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Moderna's mission is to deliver the greatest possible impact to people through mRNA medicines.",
@@ -14002,15 +14002,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-natera-official-c955b66d02e8",
+      "id": "evidence-company-natera-official-d1334c7d255b",
       "signalId": null,
       "companyIds": [
         "natera"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-08-13",
+      "snapshotDate": "2026-08-13",
       "title": "Natera: A global leader in cell-free DNA testing",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Natera — Official Website",
@@ -14026,7 +14026,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash c955b66d02e81f361386fc36bad0f445fe080d03706bf4d104e8e63b194209eb.",
+      "fact": "The official page was captured with normalized-content hash d1334c7d255b8a38a891927f7ce30ae78269a0ab30819298eb56b759bc8a2bb9.",
       "report": "公司官方页面表述：致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
       "reportOriginal": "Dedicated to oncology, women’s health, and organ health. Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
       "reportCn": "致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
@@ -14039,14 +14039,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "c955b66d02e81f361386fc36bad0f445fe080d03706bf4d104e8e63b194209eb",
-      "changeType": "unchanged",
+      "contentHash": "d1334c7d255b8a38a891927f7ce30ae78269a0ab30819298eb56b759bc8a2bb9",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
+        "Natera to Support New Clinical Trial Assessing ctDNA Dynamics with Latitude™ in Advanced Skin Cancers",
         "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
-        "Clinical Resources Oncology CLINICAL RESOURCES Signatera™",
-        "CLINICAL DEVELOPMENT Biopharma Partnerships"
+        "Clinical Resources Oncology CLINICAL RESOURCES Signatera™"
       ],
       "businessExcerpts": [
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care."
@@ -14323,8 +14323,8 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "44ac0c389f480e700fbecbf590be26e172dacbb02666c96aa36d5659a5473db3",
-      "changeType": "new",
-      "lastCheckStatus": "failed",
+      "changeType": "unchanged",
+      "lastCheckStatus": "success",
       "excerpts": [
         "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
         "Nykode Therapeutics Presents Comprehensive Preclinical Data, Optimized Manufacturing, and ...",
@@ -14400,13 +14400,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-oxford-nanopore-official-48fb9d54db09",
+      "id": "evidence-company-oxford-nanopore-official-3d12a40b93c0",
       "signalId": null,
       "companyIds": [
         "oxford-nanopore"
       ],
-      "publishedAt": "2026-08-12",
-      "snapshotDate": "2026-08-12",
+      "publishedAt": "2026-08-13",
+      "snapshotDate": "2026-08-13",
       "title": "Welcome to Oxford Nanopore Technologies",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -14424,7 +14424,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 48fb9d54db090465e6cd0a25b2294ca488b9186c8416be41653dc2cc9da71ecd.",
+      "fact": "The official page was captured with normalized-content hash 3d12a40b93c055956ceb8c58839791bd59c8e24f6ca41320af2ac42ca05cdf1d.",
       "report": "公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
       "reportOriginal": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
       "reportCn": "发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
@@ -14437,14 +14437,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "48fb9d54db090465e6cd0a25b2294ca488b9186c8416be41653dc2cc9da71ecd",
+      "contentHash": "3d12a40b93c055956ceb8c58839791bd59c8e24f6ca41320af2ac42ca05cdf1d",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
         "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
         "Only Oxford Nanopore sequencing delivers short to ultra-long native DNA and RNA reads, offering ...",
-        "Whether you are studying the human genome, investigating the microbiome, or exploring the diversity of life on earth, Oxford Nanopore library preparation solutions offer a flexible, cost-effective, and streamlined way to generate high-quality sequencing data."
+        "Search Oxford Nanopore Technologies Which site do you wish to search in?"
       ],
       "businessExcerpts": [
         "Learn more about the real-world implications of Oxford Nanopore technology."
@@ -14827,13 +14827,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-sumitomo-pharma-official-309d9c63cfc6",
+      "id": "evidence-company-sumitomo-pharma-official-05b9c9332255",
       "signalId": null,
       "companyIds": [
         "sumitomo-pharma"
       ],
-      "publishedAt": "2026-08-12",
-      "snapshotDate": "2026-08-12",
+      "publishedAt": "2026-08-13",
+      "snapshotDate": "2026-08-13",
       "title": "Sumitomo Pharma Co., Ltd.",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -14851,7 +14851,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 309d9c63cfc67db3045aa183616afa3ce1cdc2375cd14b245a8e42ba1ff2c614.",
+      "fact": "The official page was captured with normalized-content hash 05b9c9332255a8d772564c33bc3f74a4e2b54353f5ff0add48ea706a4f685377.",
       "report": "公司官方页面表述：为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
       "reportOriginal": "For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd.",
       "reportCn": "为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
@@ -14864,7 +14864,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "309d9c63cfc67db3045aa183616afa3ce1cdc2375cd14b245a8e42ba1ff2c614",
+      "contentHash": "05b9c9332255a8d772564c33bc3f74a4e2b54353f5ff0add48ea706a4f685377",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -14881,6 +14881,7 @@
       ],
       "productExcerpts": [
         "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
+        "13, 2026 Sumitomo Pharma America Announces First Patient Receives Treatment in Phase 1/2a Study for its Investigational Therapy DSP-3077 for Retinitis Pigmentosa（PDF/137KB） R&D",
         "iPS Cell-Derived Product Transportation Project"
       ],
       "planExcerpts": []
