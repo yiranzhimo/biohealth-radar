@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-08-13T07:56:22.472464+00:00",
+  "capturedAt": "2026-08-13T13:51:19.911522+00:00",
   "summary": {
-    "mentionCount": 667,
-    "candidateCount": 595,
+    "mentionCount": 666,
+    "candidateCount": 594,
     "corroboratedCount": 2,
     "identifiedCount": 586,
-    "needsReviewCount": 7,
+    "needsReviewCount": 6,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 4,
+      "ClinicalTrials": 3,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 60,
@@ -20,39 +20,40 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-097f0987d97db67a",
-      "observedName": "CellTrans Inc.",
-      "normalizedName": "celltrans",
+      "id": "mention-clinicaltrials-6aedd4d95afa0ff4",
+      "observedName": "Cellnovo Limited",
+      "normalizedName": "cellnovo",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT00679042",
-      "sourceDate": "2026-04-06",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT00679042",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT03849755",
+      "sourceDate": "2020-08-04",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03849755",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Recruiting",
-        "临床试验"
+        "Healthcare AI",
+        "Medical AI",
+        "临床决策支持",
+        "临床试验",
+        "医疗 AI"
       ],
       "activitySignals": [
-        "active_trial",
-        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Islet Transplantation in Type 1 Diabetic Patients Using the University of Illinois at Chicago (UIC) Protocol"
+      "contextTitle": "Patient Empowerment Through Predictive Personalised Decision Support(PEPPER)-Validation Study."
     },
     {
-      "id": "mention-clinicaltrials-72bd4de20c562d7f",
-      "observedName": "Accurate International Biotechnology (Guangzhou) Co., Ltd.",
-      "normalizedName": "accurate international biotechnology guangzhou",
+      "id": "mention-clinicaltrials-90e10d8e90444a17",
+      "observedName": "TechnoGenesys, Inc.",
+      "normalizedName": "technogenesys",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT07054086",
-      "sourceDate": "2025-07-08",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07054086",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT06705686",
+      "sourceDate": "2026-03-20",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06705686",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -62,7 +63,6 @@
         "Organoids",
         "Precision Oncology",
         "Recruiting",
-        "中国",
         "临床试验",
         "疾病模型",
         "类器官",
@@ -70,20 +70,21 @@
       ],
       "activitySignals": [
         "active_trial",
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Patient Derived Organoids (PDOs) to Observe the Clinical Consistency of Personalized Neoadjuvant Therapy for Resectable Esophageal Squamous Cell Carcinoma"
+      "contextTitle": "Novel ACK1 Inhibitor (R)-9b in Patients With Prostate Cancer"
     },
     {
-      "id": "mention-clinicaltrials-7895aca22af0568a",
-      "observedName": "Janssen Research & Development, LLC",
-      "normalizedName": "janssen research and development",
+      "id": "mention-clinicaltrials-ec8e1c87d6bfd31c",
+      "observedName": "Seagen Inc.",
+      "normalizedName": "seagen",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT02703272",
-      "sourceDate": "2022-12-02",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT02703272",
+      "sourceRecordId": "NCT03947255",
+      "sourceDate": "2023-10-13",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03947255",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -97,33 +98,7 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Safety and Efficacy Study of Ibrutinib in Pediatric and Young Adult Participants With Relapsed or Refractory Mature B-cell Non-Hodgkin Lymphoma"
-    },
-    {
-      "id": "mention-clinicaltrials-cc105fb582ca3c1f",
-      "observedName": "Phoenix Neurological Associates, LTD",
-      "normalizedName": "phoenix neurological associates",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT03401073",
-      "sourceDate": "2023-09-13",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03401073",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Diagnostics",
-        "Precision Medicine",
-        "临床试验",
-        "精准医疗",
-        "诊断"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "IVIg for Small Fiber Neuropathy With Autoantibodies TS-HDS and FGFR3"
+      "contextTitle": "A Study of Retreatment With Brentuximab Vedotin in Subjects With Classic Hodgkin Lymphoma or CD30-expressing Peripheral T Cell Lymphoma"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -44304,29 +44279,33 @@
       ]
     },
     {
-      "id": "candidate-celltrans",
-      "name": "CellTrans Inc.",
+      "id": "candidate-seagen",
+      "name": "Seagen Inc.",
       "aliases": [
-        "CellTrans Inc."
+        "Seagen Inc."
       ],
-      "normalizedName": "celltrans",
+      "normalizedName": "seagen",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-04-06",
-      "lastSeenAt": "2026-04-06",
+      "firstSeenAt": "2023-10-13",
+      "lastSeenAt": "2023-10-13",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
-          "Recruiting",
-          "临床试验"
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
         ],
         "themes": [
           "Clinical Trials",
-          "Recruiting",
-          "临床试验"
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
         ],
         "tags": []
       },
@@ -44339,47 +44318,57 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-097f0987d97db67a"
+        "mention-clinicaltrials-ec8e1c87d6bfd31c"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2026-04-06",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT00679042",
-          "externalId": "NCT00679042",
-          "contextTitle": "Islet Transplantation in Type 1 Diabetic Patients Using the University of Illinois at Chicago (UIC) Protocol"
+          "sourceDate": "2023-10-13",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT03947255",
+          "externalId": "NCT03947255",
+          "contextTitle": "A Study of Retreatment With Brentuximab Vedotin in Subjects With Classic Hodgkin Lymphoma or CD30-expressing Peripheral T Cell Lymphoma"
         }
       ]
     },
     {
-      "id": "candidate-janssen-research-and-development",
-      "name": "Janssen Research & Development, LLC",
+      "id": "candidate-technogenesys",
+      "name": "TechnoGenesys, Inc.",
       "aliases": [
-        "Janssen Research & Development, LLC"
+        "TechnoGenesys, Inc."
       ],
-      "normalizedName": "janssen research and development",
+      "normalizedName": "technogenesys",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2022-12-02",
-      "lastSeenAt": "2022-12-02",
+      "firstSeenAt": "2026-03-20",
+      "lastSeenAt": "2026-03-20",
       "identifiers": {},
       "classificationHints": {
         "directions": [
+          "Advanced Disease Models",
           "Clinical Trials",
           "Oncology",
+          "Organoids",
           "Precision Oncology",
+          "Recruiting",
           "临床试验",
+          "疾病模型",
+          "类器官",
           "肿瘤"
         ],
         "themes": [
+          "Advanced Disease Models",
           "Clinical Trials",
           "Oncology",
+          "Organoids",
           "Precision Oncology",
+          "Recruiting",
           "临床试验",
+          "疾病模型",
+          "类器官",
           "肿瘤"
         ],
         "tags": []
@@ -44393,17 +44382,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-7895aca22af0568a"
+        "mention-clinicaltrials-90e10d8e90444a17"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2022-12-02",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT02703272",
-          "externalId": "NCT02703272",
-          "contextTitle": "A Safety and Efficacy Study of Ibrutinib in Pediatric and Young Adult Participants With Relapsed or Refractory Mature B-cell Non-Hodgkin Lymphoma"
+          "sourceDate": "2026-03-20",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06705686",
+          "externalId": "NCT06705686",
+          "contextTitle": "Novel ACK1 Inhibitor (R)-9b in Patients With Prostate Cancer"
         }
       ]
     },
@@ -47548,45 +47537,35 @@
       ]
     },
     {
-      "id": "candidate-accurate-international-biotechnology-guangzhou",
-      "name": "Accurate International Biotechnology (Guangzhou) Co., Ltd.",
+      "id": "candidate-cellnovo",
+      "name": "Cellnovo Limited",
       "aliases": [
-        "Accurate International Biotechnology (Guangzhou) Co., Ltd."
+        "Cellnovo Limited"
       ],
-      "normalizedName": "accurate international biotechnology guangzhou",
+      "normalizedName": "cellnovo",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2025-07-08",
-      "lastSeenAt": "2025-07-08",
+      "firstSeenAt": "2020-08-04",
+      "lastSeenAt": "2020-08-04",
       "identifiers": {},
       "classificationHints": {
         "directions": [
-          "Advanced Disease Models",
           "Clinical Trials",
-          "Oncology",
-          "Organoids",
-          "Precision Oncology",
-          "Recruiting",
-          "中国",
+          "Healthcare AI",
+          "Medical AI",
+          "临床决策支持",
           "临床试验",
-          "疾病模型",
-          "类器官",
-          "肿瘤"
+          "医疗 AI"
         ],
         "themes": [
-          "Advanced Disease Models",
           "Clinical Trials",
-          "Oncology",
-          "Organoids",
-          "Precision Oncology",
-          "Recruiting",
-          "中国",
+          "Healthcare AI",
+          "Medical AI",
+          "临床决策支持",
           "临床试验",
-          "疾病模型",
-          "类器官",
-          "肿瘤"
+          "医疗 AI"
         ],
         "tags": []
       },
@@ -47599,73 +47578,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-72bd4de20c562d7f"
+        "mention-clinicaltrials-6aedd4d95afa0ff4"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2025-07-08",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT07054086",
-          "externalId": "NCT07054086",
-          "contextTitle": "Patient Derived Organoids (PDOs) to Observe the Clinical Consistency of Personalized Neoadjuvant Therapy for Resectable Esophageal Squamous Cell Carcinoma"
-        }
-      ]
-    },
-    {
-      "id": "candidate-phoenix-neurological-associates",
-      "name": "Phoenix Neurological Associates, LTD",
-      "aliases": [
-        "Phoenix Neurological Associates, LTD"
-      ],
-      "normalizedName": "phoenix neurological associates",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.66,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2023-09-13",
-      "lastSeenAt": "2023-09-13",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Diagnostics",
-          "Precision Medicine",
-          "临床试验",
-          "精准医疗",
-          "诊断"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Diagnostics",
-          "Precision Medicine",
-          "临床试验",
-          "精准医疗",
-          "诊断"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-cc105fb582ca3c1f"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "collaborator",
-          "sourceDate": "2023-09-13",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT03401073",
-          "externalId": "NCT03401073",
-          "contextTitle": "IVIg for Small Fiber Neuropathy With Autoantibodies TS-HDS and FGFR3"
+          "sourceDate": "2020-08-04",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT03849755",
+          "externalId": "NCT03849755",
+          "contextTitle": "Patient Empowerment Through Predictive Personalised Decision Support(PEPPER)-Validation Study."
         }
       ]
     }

@@ -4,39 +4,40 @@
   "asOfDate": "2026-08-13",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-097f0987d97db67a",
-      "observedName": "CellTrans Inc.",
-      "normalizedName": "celltrans",
+      "id": "mention-clinicaltrials-6aedd4d95afa0ff4",
+      "observedName": "Cellnovo Limited",
+      "normalizedName": "cellnovo",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT00679042",
-      "sourceDate": "2026-04-06",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT00679042",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT03849755",
+      "sourceDate": "2020-08-04",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03849755",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Recruiting",
-        "临床试验"
+        "Healthcare AI",
+        "Medical AI",
+        "临床决策支持",
+        "临床试验",
+        "医疗 AI"
       ],
       "activitySignals": [
-        "active_trial",
-        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Islet Transplantation in Type 1 Diabetic Patients Using the University of Illinois at Chicago (UIC) Protocol"
+      "contextTitle": "Patient Empowerment Through Predictive Personalised Decision Support(PEPPER)-Validation Study."
     },
     {
-      "id": "mention-clinicaltrials-72bd4de20c562d7f",
-      "observedName": "Accurate International Biotechnology (Guangzhou) Co., Ltd.",
-      "normalizedName": "accurate international biotechnology guangzhou",
+      "id": "mention-clinicaltrials-90e10d8e90444a17",
+      "observedName": "TechnoGenesys, Inc.",
+      "normalizedName": "technogenesys",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT07054086",
-      "sourceDate": "2025-07-08",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07054086",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT06705686",
+      "sourceDate": "2026-03-20",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06705686",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -46,7 +47,6 @@
         "Organoids",
         "Precision Oncology",
         "Recruiting",
-        "中国",
         "临床试验",
         "疾病模型",
         "类器官",
@@ -54,20 +54,21 @@
       ],
       "activitySignals": [
         "active_trial",
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Patient Derived Organoids (PDOs) to Observe the Clinical Consistency of Personalized Neoadjuvant Therapy for Resectable Esophageal Squamous Cell Carcinoma"
+      "contextTitle": "Novel ACK1 Inhibitor (R)-9b in Patients With Prostate Cancer"
     },
     {
-      "id": "mention-clinicaltrials-7895aca22af0568a",
-      "observedName": "Janssen Research & Development, LLC",
-      "normalizedName": "janssen research and development",
+      "id": "mention-clinicaltrials-ec8e1c87d6bfd31c",
+      "observedName": "Seagen Inc.",
+      "normalizedName": "seagen",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT02703272",
-      "sourceDate": "2022-12-02",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT02703272",
+      "sourceRecordId": "NCT03947255",
+      "sourceDate": "2023-10-13",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03947255",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -81,33 +82,7 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Safety and Efficacy Study of Ibrutinib in Pediatric and Young Adult Participants With Relapsed or Refractory Mature B-cell Non-Hodgkin Lymphoma"
-    },
-    {
-      "id": "mention-clinicaltrials-cc105fb582ca3c1f",
-      "observedName": "Phoenix Neurological Associates, LTD",
-      "normalizedName": "phoenix neurological associates",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT03401073",
-      "sourceDate": "2023-09-13",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03401073",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Diagnostics",
-        "Precision Medicine",
-        "临床试验",
-        "精准医疗",
-        "诊断"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "IVIg for Small Fiber Neuropathy With Autoantibodies TS-HDS and FGFR3"
+      "contextTitle": "A Study of Retreatment With Brentuximab Vedotin in Subjects With Classic Hodgkin Lymphoma or CD30-expressing Peripheral T Cell Lymphoma"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
