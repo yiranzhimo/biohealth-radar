@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-12T19:29:37.334111+00:00",
+  "capturedAt": "2026-08-13T03:01:56.373453+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-08-12",
-    "end": "2026-08-12"
+    "start": "2025-08-13",
+    "end": "2026-08-13"
   },
   "pmids": [
+    "42585326",
+    "42584809",
     "42584462",
     "42583380",
     "42583072",
     "42582913",
-    "42582900",
-    "42582891",
     "42580899",
     "42559559",
     "42509463",
@@ -32,14 +32,50 @@
     "42564489",
     "42561121",
     "42560913",
+    "42585565",
     "42584173",
     "42583538",
     "42583349",
     "42582172",
-    "42581900",
-    "42583529"
+    "42584829"
   ],
   "records": [
+    {
+      "pmid": "42585326",
+      "title": "Label-free biochemical imaging and time point analysis of neural organoids via deep learning-enhanced Raman microspectroscopy.",
+      "abstract": "Three-dimensional (3D) organoids have emerged as powerful models for studying human development, disease, and drug response in vitro. Yet, their analysis remains constrained by standard imaging and characterization techniques, which are invasive, require exogenous labeling, and offer limited multiplexing. Here, we present a noninvasive, label-free imaging platform that integrates Raman microspectroscopy with deep learning-based hyperspectral unmixing for unsupervised, spatially resolved biochemical analysis of neural organoids. Our approach enables 2D and 3D mapping of cellular and subcellular structures in both cryosectioned and intact organoids, achieving improved imaging accuracy and robustness compared to conventional methods for hyperspectral analysis. Using our platform, we demonstrate volumetric imaging of a neural rosette within a neural organoid and interrogate changes in biochemical composition during early developmental stages in intact neural organoids, revealing spatiotemporal variations in lipids, proteins, and nucleic acids. This work establishes a versatile framework for high-content, label-free (bio)chemical phenotyping with broad applications in organoid research and beyond.",
+      "journal": "Science advances",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Computing, and UKRI Centre for Doctoral Training in AI for Healthcare, Imperial College London, London, UK SW7 2AZ.",
+        "Department of Materials, Department of Bioengineering, and Institute of Biomedical Engineering, Imperial College London, London, UK SW7 2AZ.",
+        "Department of Physiology, Anatomy and Genetics, Department of Engineering Science, and Kavli Institute for Nanoscience Discovery, University of Oxford, Oxford, UK OX1 3QU.",
+        "Department of Engineering Science, University of Oxford, Oxford, UK OX1 3PJ.",
+        "Department of Mathematics, Imperial College London, London, UK SW7 2AZ."
+      ],
+      "doi": "10.1126/sciadv.aec5080",
+      "date": "2026-08-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42585326/"
+    },
+    {
+      "pmid": "42584809",
+      "title": "BEST4⁺ cells: a potential hub of intestinal ion transport and diarrhea manipulation.",
+      "abstract": "BEST4⁺ cells are a recently identified, functionally specialized intestinal epithelial cell population characterized through single-cell and spatial transcriptomic analyses in humans, pigs, rats, and other vertebrates. These cells characteristically express BEST4, OTOP2, CA7, and GUCY2C, and exhibit particularly high CFTR expression in the small intestine, supporting their roles in luminal pH sensing, fluid-electrolyte homeostasis, and mucus hydration. Emerging evidence from organoid and cross-species studies supports a predominant role for the NOTCH-SPIB signaling axis in driving BEST4⁺ cell differentiation, but their lineage identity and regulatory mechanisms remain incompletely resolved. This review focuses on intestinal epithelial BEST4⁺ cells as a critical cellular hub that connects ion transport physiology with the pathophysiology of secretory diarrhea. We summarize the molecular identity, regional distribution, and cross-species conservation of BEST4⁺ cells. We then evaluate their roles in luminal pH regulation, electrogenic fluid secretion, and mucus barrier integrity. We detail how bacterial enterotoxins activate the GC-C/cGMP/CFTR and cAMP/PKA/CFTR pathways in BEST4⁺ cells to drive pathological fluid hypersecretion, and discuss how viral infections may indirectly engage or amplify BEST4⁺ cell-associated ion-transport pathways. We also outline their relevance to viral diarrhea, inflammatory bowel disease, and cystic fibrosis-associated intestinal dysfunction. Finally, we assess established antidiarrheal approaches and investigational strategies that modulate BEST4⁺ cell-associated pathways, and emphasize the need for cell-type-specific validation in physiologically relevant in vivo models.",
+      "journal": "Advanced biotechnology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Agri-Animal Organoid Institute/State Key Laboratory of Swine and Poultry Breeding Industry/Guangdong Provincial Key Laboratory of Animal Nutrition Control/College of Animal Science, South China Agricultural University, Guangzhou, 510642, China.",
+        "Agri-Animal Organoid Institute/State Key Laboratory of Swine and Poultry Breeding Industry/Guangdong Provincial Key Laboratory of Animal Nutrition Control/College of Animal Science, South China Agricultural University, Guangzhou, 510642, China. fzyylab@163.com."
+      ],
+      "doi": "10.1007/s44307-026-00126-7",
+      "date": "2026-08-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42584809/"
+    },
     {
       "pmid": "42584462",
       "title": "The precautionary principle and the ethical governance of human brain organoid research.",
@@ -107,43 +143,6 @@
       "doi": "10.3389/fmolb.2026.1807358",
       "date": "2026-07-28",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42582913/"
-    },
-    {
-      "pmid": "42582900",
-      "title": "LINC01607 promotes hepatocellular carcinoma progression and ferroptosis-associated therapy resistance with functional involvement of the p62-Keap1-Nrf2 pathway.",
-      "abstract": "Aim: Hepatocellular carcinoma (HCC) remains a formidable worldwide health challenge, characterized by inadequate treatment efficacy and unsatisfactory clinical prognosis. Our previous study implicated LINC01607 in lenvatinib resistance, but its role in HCC progression and ferroptosis-associated vulnerability remains unclear. Methods: LINC01607 expression was examined in HCC patient samples and The Cancer Genome Atlas datasets. Cellular, animal, and patient-derived organoid (PDO) models were used to evaluate its biological function. RNA sequencing, ferroptosis-related assays, rescue experiments, and drug-sensitivity analyses were performed to explore associated downstream pathways. Results: LINC01607 was upregulated in HCC tissues and associated with aggressive clinicopathological features and poor survival. Functional assays showed that LINC01607 promoted HCC cell proliferation, migration, invasion, tumor growth, and metastasis. LINC01607 depletion induced ferroptosis-associated changes, including increased lipid peroxidation, glutathione depletion, and Fe2+ accumulation under ferroptotic stress, which were partially reversed by ferroptosis inhibitors. LINC01607 knockdown also enhanced sensitivity to RSL3 and sorafenib, while ferrostatin-1 partially rescued the increased sorafenib sensitivity. RNA sequencing and rescue experiments suggested involvement of the p62-Keap1-Nrf2 pathway. LINC01607 depletion was associated with reduced SQSTM1/p62, Nrf2, and ferroptosis-resistance proteins, whereas p62 overexpression partially reversed these effects and Nrf2 knockdown abrogated the rescue. In xenograft and PDO models, LINC01607 depletion improved the response to sorafenib. Conclusion: LINC01607 contributes to HCC progression and ferroptosis-associated therapy resistance, at least in part through the p62-Keap1-Nrf2 pathway, supporting further investigation of LINC01607 as a potential therapeutic target.",
-      "journal": "Cancer drug resistance (Alhambra, Calif.)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Hepatic Surgery Center, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan 430030, Hubei, China.",
-        "Department of Obstetrics and Gynecology, National Clinical Research Center for Obstetrics and Gynecology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan 430030, Hubei, China.",
-        "Authors contributed equally to this work.",
-        "Department of General Surgery, The First Affiliated Hospital of Nanchang University, Nanchang 330000, Jiangxi, China.",
-        "Department of Oncology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan 430030, Hubei, China.",
-        "Department of Hepatobiliary and Pancreatic Surgery, First Affiliated Hospital, College of Medicine, Shihezi University, Shihezi 832008, Xinjiang, China."
-      ],
-      "doi": "10.20517/cdr.2026.02",
-      "date": "2026-07-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42582900/"
-    },
-    {
-      "pmid": "42582891",
-      "title": "Advances and challenges in experimental models for Epstein-Barr virus research.",
-      "abstract": "Epstein-Barr virus (EBV), the first identified human oncovirus, is a ubiquitous γ-herpesvirus etiologically linked to diverse malignancies, lymphoproliferative disorders, and autoimmune diseases. Experimental models are pivotal for unraveling the infection and pathogenesis mechanisms, life cycle regulation, as well as development and evaluation of antiviral vaccines and therapeutics. Traditional two-dimensional (2D) cell lines (e.g., lymphoblastoid cell lines [LCLs] and NPC43) have provided foundational insights into viral latency and oncogenesis, but lack physiological complexity. Emerging three-dimensional (3D) models, such as air-liquid interface (ALI) cultures, spheroids, and patient-derived organoids (PDOs), better mimic tissue architecture and tumor microenvironments and yet face challenges in scalability, dynamic microenvironments, and immune component integration. Animal models, such as humanized mice, rabbits, and tree shrews, have been developed that overcome in vitro limitations by recapitulating systemic interactions, immune responses, and disease progression. Despite these advances, persistent challenges remain, including species-specific constraints, incomplete modeling of the tumor microenvironment, partial immune system representation, and limited disease heterogeneity. This review systematically summarizes the technical features, applicability, and limitations of current models, provides guidance for selecting experimental models in further studies, and emphasizes the need for innovative, patient-tailored platforms to unravel EBV's lifelong pathogenesis and facilitate the translation of EBV vaccines and therapeutics.",
-      "journal": "mLife",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Department of Laboratory Medicine, School of Public Health Xiamen University Xiamen China.",
-        "National Institute of Diagnostics and Vaccine Development in Infectious Diseases, Collaborative Innovation Center of Biologic Products, National Innovation Platform for Industry-Education Integration in Vaccine Research, NMPA Key Laboratory for Research and Evaluation of Infectious Disease Diagnostic Technology Xiamen University Xiamen China."
-      ],
-      "doi": "10.1002/mlf2.70081",
-      "date": "2026-08-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42582891/"
     },
     {
       "pmid": "42580899",
@@ -370,6 +369,21 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42560913/"
     },
     {
+      "pmid": "42585565",
+      "title": "Evaluation of plasma kynurenine 3-monooxygenase and Ki-67 as screening biomarkers for neoplasia in dogs.",
+      "abstract": "Early detection of tumors might prolong the survival of dogs. Kynurenine 3-monooxygenase (KMO) and Ki-67 are tumor biomarkers, but few studies have described the clinical value of KMO and Ki-67 in veterinary medicine. This study aims to compare the activity of KMO and the concentration of Ki-67 between healthy dogs and dogs with neoplasms. A total of 162 dogs with different types of tumors were included. Forty-six tumor-free individuals were included as the control group. This is a case-control study. Dogs with neoplasms, confirmed through medical record review, were recruited. The primary outcomes were the plasma concentrations of KMO and Ki-67, along with their diagnostic efficacy. Expression levels of KMO were significantly higher in dogs with neoplasms (median, 2.02 ng/mL; IQR, 1.03-3.65) than in tumor-free individuals (median, 0.69 ng/mL; IQR, 0.23-1.18; P < .0001). The values of Ki-67 were higher in dogs with neoplasms (median, 4.28 ng/mL; IQR, 3.75-4.84) than in the control group (median, 3.80 ng/mL; IQR, 3.31-4.43; P < .05). No significant correlation was found between KMO and Ki-67 concentrations (R2 = 0.003, P = .48) in the tested samples and 50.6% (82/162) of dogs exhibited inconsistent results. The area under the ROC curve for KMO and Ki-67 were 0.837 and 0.644. This study presents that KMO is an effective biomarker and Ki-67 is an adjunctive marker. While lacking standalone diagnostic utility, Ki-67 reflects systemic tumor biology and complements biomarkers such as KMO.",
+      "journal": "Journal of veterinary internal medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Veterinary Medicine, School of Veterinary Medicine, National Taiwan University, Taipei 10617, Taiwan."
+      ],
+      "doi": "10.1093/jvimsj/aalag145",
+      "date": "2026-07-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42585565/"
+    },
+    {
       "pmid": "42584173",
       "title": "FDA Approval Summary: Erdafitinib for FGFR3-Altered Locally Advanced or Metastatic Urothelial Carcinoma.",
       "abstract": "On January 19, 2024, the FDA granted traditional approval to erdafitinib for patients with locally advanced or metastatic urothelial carcinoma (la/mUC) with susceptible FGFR3 genetic alterations, as determined by an FDA-approved companion diagnostic test, whose disease has progressed on or after at least one line of prior systemic therapy. Substantial evidence of effectiveness was obtained from BLC3001 (THOR, NCT03390504) Cohort 1, which was an open-label trial in which 266 patients with FGFR3-altered la/mUC were randomized 1:1 to receive erdafitinib (8 mg once daily with potential up-titration to 9 mg) versus chemotherapy (docetaxel 75 mg/m2 every 3 weeks or vinflunine 320 mg/m2 every 3 weeks) until disease progression or unacceptable toxicity. The primary endpoint was overall survival (OS). Statistically significant improvements in OS, progression-free survival, and objective response rate were demonstrated for erdafitinib compared with chemotherapy. Median OS was 12.1 months (95% CI: 10.3, 16.4) in the erdafitinib arm and 7.8 months (95% CI: 6.5, 11.1) in the chemotherapy arm (HR: 0.64, 95% CI: 0.47, 0.88; p=0.0050). Based on BLC3001 Cohort 2 results showing no OS benefit of erdafitinib versus pembrolizumab (HR 1.18, 95% CI: 0.92, 1.51), the approval includes a limitation of use: erdafitinib is not recommended for the treatment of patients who are eligible for and have not received prior PD-(L)1 inhibitor therapy. This article summarizes the data and the FDA thought process supporting traditional approval of erdafitinib, including the rationale for not requiring specific types of prior systemic therapy in the indication statement.",
@@ -455,43 +469,88 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42582172/"
     },
     {
-      "pmid": "42581900",
-      "title": "Precision oncology in the treatment of patients with bone sarcomas: an up-to-date narrative review.",
-      "abstract": "Primary bone sarcomas are rare and biologically heterogeneous malignancies for which therapeutic progress remains limited, particularly in metastatic and recurrent disease. Advances in genomic and molecular profiling have revealed substantial inter- and intratumoral heterogeneity across the major subtypes, including osteosarcoma, Ewing sarcoma and chondrosarcoma, challenging conventional histology-driven treatment strategies. Precision medicine approaches are being increasingly explored to better capture this biological complexity and guide individualized therapeutic decision-making. This review examines emerging precision oncology strategies in bone sarcomas, including molecular diagnostics, targeted therapeutic approaches, three-dimensional functional modeling systems, and liquid biopsy technologies for dynamic disease monitoring. Together, these platforms provide biologically informed frameworks for patient-specific treatment and longitudinal assessment of tumor evolution. However, clinical implementation remains limited by genomic complexity, small patient cohorts, and methodological variability across experimental platforms. The integration of multi-layered precision models combining genomic stratification, functional drug sensitivity testing and circulating biomarker monitoring may enable more adaptive and individualized management strategies. Such approaches have the potential to improve therapeutic selection and ultimately advance outcomes for patients with primary bone sarcomas.",
-      "journal": "Exploration of targeted anti-tumor therapy",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Istanbul Faculty of Medicine, Istanbul University, Istanbul 34452, Turkey.",
-        "Department of Molecular Medicine and Surgery, Karolinska Institutet, 171 76 Stockholm, Sweden.",
-        "Karolinska University Hospital, 171 64 Solna, Sweden."
-      ],
-      "doi": "10.37349/etat.2026.1002396",
-      "date": "2026-08-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42581900/"
-    },
-    {
-      "pmid": "42583529",
-      "title": "Agentic AI in oncology: autonomous workflows for clinical decision support and evidence synthesis.",
-      "abstract": "",
-      "journal": "Annals of medicine and surgery (2012)",
+      "pmid": "42584829",
+      "title": "Healing Without Certainty: The Ethical Significance of Uncertainty in Israeli Medicine in the Age of Artificial Intelligence.",
+      "abstract": "The growing integration of artificial intelligence into healthcare is frequently associated with efforts to reduce uncertainty through prediction, data analysis, and computational decision support. Recent work on generative and foundation models has intensified this aspiration while also documenting new uncertainties involving model error, variable performance, opacity, bias, and the conditions of meaningful human oversight. This conceptual and normative article argues that uncertainty in medicine is a multidimensional feature of practice rather than a single informational deficit that technology can progressively eliminate. Drawing on philosophy of medicine, medical ethics, sociology of medicine, and recent AI ethics literature, the article distinguishes epistemic, ontological, moral, communicative, and systemic uncertainty. Predictive technologies may reduce selected epistemic uncertainties, but they can also redistribute uncertainty to questions of model validity, workflow integration, and responsibility. Other uncertainties arise from value conflict, human variability, communication, and the application of population-level evidence to particular patients. The analysis examines predictive analytics, clinical decision support, and generative AI, and argues that predictive performance does not by itself settle clinical or ethical judgment. Israel is used as a bounded illustrative context, not as an empirical case study or as representative of all Israeli practice. Its digital infrastructure, current AI governance initiatives, and experience of prolonged emergency conditions make visible both the utility and the limits of prediction. The article proposes five principles for responsible integration: complementarity, proportionality, accountability, fairness, and human-centred care. Its claim is not that uncertainty is intrinsically valuable or should be preserved when it can safely be reduced. Rather, ethically responsible practice requires epistemic humility, honest communication, contestability, and deliberation where uncertainty persists. The framework is offered as a philosophical proposal requiring empirical testing with clinicians, patients, and institutions.",
+      "journal": "HEC forum : an interdisciplinary journal on hospitals' ethical and legal issues",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Bioinformatics, University of North Bengal, Darjeeling, West Bengal, India.",
-        "Department of Biological Sciences, Biochemistry, Bioinformatics, and Bioactive Compounds for Health Promotion, Research Unit, Faculty of Science, University of Maroua, Maroua, Cameroon.",
-        "Department of Chemistry, COMSATS University, Islamabad, Pakistan.",
-        "Department of Basic Science Education, National Advanced School of Engineering, University of Maroua, Maroua, Cameroon."
+        "Levinsky-Wingate Academic College, Tel Aviv, Israel. rotemwa@l-w.ac.il."
       ],
-      "doi": "10.1097/MS9.0000000000005336",
-      "date": "2026-07-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42583529/"
+      "doi": "10.1007/s10730-026-09610-y",
+      "date": "2026-08-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42584829/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42585326",
+      "date": "2026-08-12",
+      "title": "Label-free biochemical imaging and time point analysis of neural organoids via deep learning-enhanced Raman microspectroscopy.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42585326/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42585326。",
+      "report": "Three-dimensional (3D) organoids have emerged as powerful models for studying human development, disease, and drug response in vitro. Yet, their analysis remains constrained by standard imaging and characterization techniques, which are invasive, require exoge...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42584809",
+      "date": "2026-08-12",
+      "title": "BEST4⁺ cells: a potential hub of intestinal ion transport and diarrhea manipulation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42584809/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced biotechnology，PMID 为 42584809。",
+      "report": "BEST4⁺ cells are a recently identified, functionally specialized intestinal epithelial cell population characterized through single-cell and spatial transcriptomic analyses in humans, pigs, rats, and other vertebrates. These cells characteristically express BE...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42584462",
       "date": "2026-08-12",
@@ -555,33 +614,31 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42582891",
-      "date": "2026-08-11",
-      "title": "Advances and challenges in experimental models for Epstein-Barr virus research.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
+      "id": "pubmed-42584829",
+      "date": "2026-08-12",
+      "title": "Healing Without Certainty: The Ethical Significance of Uncertainty in Israeli Medicine in the Age of Artificial Intelligence.",
+      "entity": "Healthcare AI Research",
+      "primaryCategory": "Healthcare AI",
+      "subCategory": "Medical AI",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42582891/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42584829/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
+        "Healthcare AI",
+        "Medical LLM"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
+        "医疗 AI",
+        "临床决策支持"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 mLife，PMID 为 42582891。",
-      "report": "Epstein-Barr virus (EBV), the first identified human oncovirus, is a ubiquitous γ-herpesvirus etiologically linked to diverse malignancies, lymphoproliferative disorders, and autoimmune diseases. Experimental models are pivotal for unraveling the infection and...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 HEC forum : an interdisciplinary journal on hospitals' ethical and legal issues，PMID 为 42584829。",
+      "report": "The growing integration of artificial intelligence into healthcare is frequently associated with efforts to reduce uncertainty through prediction, data analysis, and computational decision support. Recent work on generative and foundation models has intensifie...",
+      "inference": "自动分类命中规则：Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -640,38 +697,6 @@
       "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 42572503。",
       "report": "This Perspective explores recent methods and prospective ideas for developing hybrid AI-physics-based pipelines for protein and antibody de novo design. We argue that the highest-confidence candidates emerge where deep learning and first-principles models agre...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42581900",
-      "date": "2026-08-09",
-      "title": "Precision oncology in the treatment of patients with bone sarcomas: an up-to-date narrative review.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42581900/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Exploration of targeted anti-tumor therapy，PMID 为 42581900。",
-      "report": "Primary bone sarcomas are rare and biologically heterogeneous malignancies for which therapeutic progress remains limited, particularly in metastatic and recurrent disease. Advances in genomic and molecular profiling have revealed substantial inter- and intrat...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1099,36 +1124,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42582900",
-      "date": "2026-07-17",
-      "title": "LINC01607 promotes hepatocellular carcinoma progression and ferroptosis-associated therapy resistance with functional involvement of the p62-Keap1-Nrf2 pathway.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42582900/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer drug resistance (Alhambra, Calif.)，PMID 为 42582900。",
-      "report": "Aim: Hepatocellular carcinoma (HCC) remains a formidable worldwide health challenge, characterized by inadequate treatment efficacy and unsatisfactory clinical prognosis. Our previous study implicated LINC01607 in lenvatinib resistance, but its role in HCC pro...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42583349",
       "date": "2026-07-15",
       "title": "Podoplanin-positive extracellular vesicles in ovarian cancer: linking thrombosis, platelet crosstalk, and cancer stemness - a narrative review.",
@@ -1159,33 +1154,33 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42583529",
-      "date": "2026-07-10",
-      "title": "Agentic AI in oncology: autonomous workflows for clinical decision support and evidence synthesis.",
-      "entity": "Healthcare AI Research",
-      "primaryCategory": "Healthcare AI",
-      "subCategory": "Medical AI",
+      "id": "pubmed-42585565",
+      "date": "2026-07-01",
+      "title": "Evaluation of plasma kynurenine 3-monooxygenase and Ki-67 as screening biomarkers for neoplasia in dogs.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42583529/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42585565/",
       "reliability": "High",
-      "evidenceLevel": "Low",
+      "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Healthcare AI",
-        "Medical LLM",
-        "Precision Oncology"
+        "Biotech",
+        "Precision Oncology",
+        "Drug Screening"
       ],
       "tags": [
-        "医疗 AI",
-        "临床决策支持",
-        "肿瘤"
+        "biotech",
+        "肿瘤",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Annals of medicine and surgery (2012)，PMID 为 42583529。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Journal of veterinary internal medicine，PMID 为 42585565。",
+      "report": "Early detection of tumors might prolong the survival of dogs. Kynurenine 3-monooxygenase (KMO) and Ki-67 are tumor biomarkers, but few studies have described the clinical value of KMO and Ki-67 in veterinary medicine. This study aims to compare the activity of...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

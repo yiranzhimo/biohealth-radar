@@ -1,294 +1,29 @@
 {
-  "capturedAt": "2026-08-12T19:29:45.635612+00:00",
+  "capturedAt": "2026-08-13T03:02:06.025603+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42584462",
-      "responseId": "resp_08cc517c50e20119006a7cc9aa9c7881a188e1f7d7340699e5",
+      "signalId": "pubmed-42585326",
+      "responseId": "resp_0bddd9b170dd4eb3006a7d33aee6b0819ba4f31811a3b9b8db",
       "review": {
         "status": "pass",
-        "confidence": 0.95,
+        "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录符合出版标准，内容中立并无临床建议。",
+        "reviewSummaryCn": "该文献条目符合发布标准，信息清晰且中立，未涉及治疗建议或不当临床结论。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "主要类别和子类别与文献内容一致，且合理。"
+          "notesCn": "主要类别和次类别适当，符合提交内容。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "引用的事实、报告和推论清晰分离，证据水平合理。"
+          "notesCn": "信息源可靠，证据水平设定合理。"
         },
         "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Accountability in research，PMID 为 42584462。",
-          "report": "Human brain organoids have attracted increasing attention for their potential to model human brain development and neurological disorders. However, concerns about their possible consciousness have generated ongoing ethical debate. In situations where scientifi...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42584173",
-      "responseId": "resp_05b51e7cf7cbd049006a7cc9aef13c819e868cdbf3c3238cc9",
-      "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录提供了关于厄达替尼在FGFR3改变的膀胱癌中的批准信息，分类合理，内容清晰，没有不当的临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理且与源材料一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断分开清晰。"
-        },
-        "riskFlags": [
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "High",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "临床",
-            "监管",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42584173。",
-          "report": "On January 19, 2024, the FDA granted traditional approval to erdafitinib for patients with locally advanced or metastatic urothelial carcinoma (la/mUC) with susceptible FGFR3 genetic alterations, as determined by an FDA-approved companion diagnostic test.",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42582891",
-      "responseId": "resp_02016c4ee5fb935e006a7cc9b4d71881a3aa951a678f55be63",
-      "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录清晰且内部一致，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要分类和子分类合理，反映了文献主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "文献的证据水平标记为中等，与源信息一致。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 mLife，PMID 为 42582891。",
-          "report": "Epstein-Barr virus (EBV), the first identified human oncovirus, is a ubiquitous γ-herpesvirus etiologically linked to diverse malignancies, lymphoproliferative disorders, and autoimmune diseases. Experimental models are pivotal for unraveling the infection and...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42581900",
-      "responseId": "resp_0fd1e091b6a6d350006a7cc9b9bffc819c960409d7f7049929",
-      "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录关于骨肉瘤治疗的现状与精准医学的相关性明确，符合发表标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报道与推论已明确区分，提供的证据水平适中。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Exploration of targeted anti-tumor therapy，PMID 为 42581900。",
-          "report": "Primary bone sarcomas are rare and biologically heterogeneous malignancies for which therapeutic progress remains limited, particularly in metastatic and recurrent disease. Advances in genomic and molecular profiling have revealed substantial inter- and intrat...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42583380",
-      "responseId": "resp_0636cf081fd6d4f9006a7cc9bfe9f4819da3dbba86b1e40b4b",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该信号包含对临床结论的暗示，需要人类审查以确保准确性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类未能反映文献的复杂性及相关临床影响，应作进一步审查。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "尽管文本分隔良好，但证据级别未能合理支持声称的临床影响。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "临床",
-            "监管",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in genetics，PMID 为 42583380。",
-          "report": "Human papillomavirus (HPV)-positive oropharyngeal squamous cell carcinoma (OPSCC) exhibits exceptional sensitivity to chemoradiotherapy, with 5-year overall survival exceeding 80%, thereby providing a compelling rationale for treatment de-escalation. However,...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42583072",
-      "responseId": "resp_0d35bbdb1430d623006a7cc9c7991c81a19a7abcd6f0212d0e",
-      "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该卡片信息清晰，分类合理，无不当临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别均符合文献主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论之间界限清晰，证据水平适中。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Diagnostics",
-            "Precision Medicine",
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "诊断",
-            "精准医疗",
-            "临床",
-            "监管",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42583072。",
-          "report": "Extracellular vesicles (EVs)-lipid bilayer-enclosed nanoparticles secreted by virtually all cell types-have shifted from being viewed as passive cellular byproducts to active signaling nodes orchestrating inter-cellular and inter-organ communication. Yet the f...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42582913",
-      "responseId": "resp_00a860ec155ffec1006a7cc9cdeb70819eb96225232229629c",
-      "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号符合发布标准，信息分离明确，且没有不支持的临床结论或建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "commercial_claim"
+          "clinical_claim"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -306,69 +41,29 @@
             "药筛",
             "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in molecular biosciences，PMID 为 42582913。",
-          "report": "Parkinson's disease (PD) research traditionally relies on animal models and two-dimensional (2D) culture models. These models fail to recapitulate the complex cellular architecture and network interactions that are possible with three-dimensional (3D) organoid...",
+          "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42585326。",
+          "report": "Three-dimensional (3D) organoids have emerged as powerful models for studying human development, disease, and drug response in vitro. Yet, their analysis remains constrained by standard imaging and characterization techniques, which are invasive, require exoge...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42582172",
-      "responseId": "resp_08070468036c06c6006a7cc9d20b0881a1a0ae946eeffbf045",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人类审核以纠正潜在的效率或安全性结论。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类可能不完全符合研究内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平被标记为中等，但实际支持的信息较少。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Biomarkers Research",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Biomarkers",
-            "Oncology"
-          ],
-          "tags": [
-            "生物标志物",
-            "肺癌"
-          ],
-          "fact": "文献涉及NSCLC免疫治疗的生物标志物研究。",
-          "report": "文章提到免疫检查点抑制剂及生物标志物的异质性，但未提供具体结论。",
-          "inference": "文献的分类为情报分流，不代表任何临床有效性。",
-          "unknown": "未提供关于研究质量、样本量或利益冲突的信息。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42582900",
-      "responseId": "resp_0384974efac4720f006a7cc9d79a1c819e9ef680b55b38dced",
+      "signalId": "pubmed-42584809",
+      "responseId": "resp_083e1a304d5f2d06006a7d33b5eb90819aaef32b54f8c33e2b",
       "review": {
         "status": "pass",
         "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录信息完整，无治疗建议或不支持的临床结论。",
+        "reviewSummaryCn": "该卡片内部一致，符合出版标准。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类符合文献主题和内容。"
+          "notesCn": ""
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "证据水平与所提供的信息一致。"
+          "notesCn": "证据水平中等，符合数据来源。"
         },
         "riskFlags": [
           "clinical_claim",
@@ -381,142 +76,141 @@
           "themes": [
             "Organoids",
             "Advanced Disease Models",
-            "Precision Oncology"
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Multi-omics"
           ],
           "tags": [
             "类器官",
             "疾病模型",
-            "肿瘤"
+            "临床",
+            "监管",
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Cancer drug resistance (Alhambra, Calif.)，PMID 为 42582900。",
-          "report": "Aim: Hepatocellular carcinoma (HCC) remains a formidable worldwide health challenge, characterized by inadequate treatment efficacy and unsatisfactory clinical prognosis. Our previous study implicated LINC01607 in lenvatinib resistance, but its role in HCC pro...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Advanced biotechnology，PMID 为 42584809。",
+          "report": "BEST4⁺ cells are a recently identified, functionally specialized intestinal epithelial cell population characterized through single-cell and spatial transcriptomic analyses in humans, pigs, rats, and other vertebrates. These cells characteristically express BE...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42583349",
-      "responseId": "resp_006dde5726da9c33006a7cc9dd4b54819cae56ef651332e518",
+      "signalId": "pubmed-42584829",
+      "responseId": "resp_0938685064b734c8006a7d33bf7c30819a9fca9a9ef4d52b7a",
       "review": {
-        "status": "needs_human",
+        "status": "pass",
         "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献的标题和话题与癌症相关，但未中立地阐述其效果或安全性，需要人工审查以避免误解。",
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该卡片在数据质量和分类上合理，未涉及未支持的临床结论。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，基于研究内容和主题。"
+          "notesCn": "主类别和子类别准确反映了源内容。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平评审不足，未明确指出研究的质量和临床相关性。"
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断明确分开，且证据水平合理。"
         },
         "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Annals of medicine and surgery (2012)，PMID 为 42583349。",
-          "report": "Ovarian cancer remains a leading cause of gynecologic cancer death worldwide, largely due to late diagnosis, frequent recurrence, and metastatic tendencies. Thrombosis is a common and life-threatening complication in these patients, contributing to poor progno...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42583529",
-      "responseId": "resp_06bd84da3574453c006a7cc9e2c628819fa389526d23e0b980",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "文献质量和内容缺乏足够评估，建议人工审核。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据级别为低，与研究质量预期不符。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "缺乏有效的研究质量证明，不能确保结论的可靠性。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
+          "commercial_claim"
         ],
         "suggestedEdits": {
           "primaryCategory": "Healthcare AI",
           "subCategory": "Medical AI",
-          "evidenceLevel": "Low",
+          "evidenceLevel": "Medium",
           "themes": [
             "Healthcare AI",
-            "Medical LLM",
-            "Precision Oncology"
+            "Medical LLM"
           ],
           "tags": [
             "医疗 AI",
-            "临床决策支持",
-            "肿瘤"
+            "临床决策支持"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Annals of medicine and surgery (2012)，PMID 为 42583529。",
-          "report": "PubMed 记录未提供摘要。",
+          "fact": "PubMed 记录显示该文献收录于 HEC forum : an interdisciplinary journal on hospitals' ethical and legal issues，PMID 为 42584829。",
+          "report": "The growing integration of artificial intelligence into healthcare is frequently associated with efforts to reduce uncertainty through prediction, data analysis, and computational decision support. Recent work on generative and foundation models has intensifie...",
           "inference": "自动分类命中规则：Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42583538",
-      "responseId": "resp_0410e325adc8f390006a7cc9e74fd481a18b6867c3bcde3360",
+      "signalId": "sec-0001110803-000119312526346923",
+      "responseId": "resp_081c8e28a45ebafe006a7d33c96acc8198beb69fd624c73153",
       "review": {
         "status": "pass",
         "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录合理分类，信息清晰分离，符合发表标准。",
+        "reviewSummaryCn": "该信号符合出版标准，无需人类审查。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类与主题一致，符合文献内容。"
+          "notesCn": "类别和证据水平合理，符合文献元数据。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "报告的内容与事实相符，推测合理。"
+          "notesCn": "事实、报告、推断和未知信息区分明确。"
         },
         "riskFlags": [
-          "clinical_claim",
           "commercial_claim"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
+          "primaryCategory": "Company & Market",
+          "subCategory": "Prospectus",
           "evidenceLevel": "Medium",
           "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
+            "Corporate Filings",
+            "Sequencing & Research Tools"
           ],
           "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
+            "SEC",
+            "424B2",
+            "ILMN"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Ocular oncology and pathology，PMID 为 42583538。",
-          "report": "Uveal melanoma (UM) is a rare malignancy in Latin America (LA), where coordinated clinical and translational research initiatives remain limited. We evaluated the implementation of a national referral and biobanking program for UM in Chile and assessed the feasibility of liquid biopsy.",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "SEC EDGAR lists accession 0001193125-26-346923 for Illumina, Form 424B2, filed on 2026-08-12.",
+          "report": "SEC metadata describes the primary document as: 424B2.",
+          "inference": "The event was automatically routed as Offering from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42585565",
+      "responseId": "resp_0a01aa78338078dc006a7d33d02a9c8198988e74efad4f1147",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审核以确认研究质量和结论的临床有效性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平分类不明确，可能导致错误解读。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "虽然事实、报告和推理相互分离，但证据水平分类为中等，需进一步核实。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Biotech",
+            "Precision Oncology",
+            "Drug Screening"
+          ],
+          "tags": [
+            "biotech",
+            "肿瘤",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of veterinary internal medicine，PMID 为 42585565。",
+          "report": "Early detection of tumors might prolong the survival of dogs. Kynurenine 3-monooxygenase (KMO) and Ki-67 are tumor biomarkers, but few studies have described the clinical value of KMO and Ki-67 in veterinary medicine. This study aims to compare the activity of...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }

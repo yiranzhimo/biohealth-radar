@@ -1,9 +1,9 @@
 {
-  "capturedAt": "2026-08-12T19:29:45.099071+00:00",
+  "capturedAt": "2026-08-13T03:02:05.788667+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
-    "start": "2026-07-29",
-    "end": "2026-08-12"
+    "start": "2026-07-30",
+    "end": "2026-08-13"
   },
   "forms": [
     "10-K",
@@ -139,6 +139,31 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-08-12",
+      "reportDate": "",
+      "acceptanceDateTime": "2026-08-12T16:22:10.000Z",
+      "act": "33",
+      "form": "424B2",
+      "fileNumber": "333-281921",
+      "filmNumber": "261267830",
+      "items": "",
+      "size": 652404,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "d173650d424b2.htm",
+      "primaryDocDescription": "424B2",
+      "accessionNumber": "0001193125-26-346923",
+      "companyId": "illumina",
+      "companyName": "Illumina",
+      "companyDirections": [
+        "Sequencing & Research Tools"
+      ],
+      "secTicker": "ILMN",
+      "cik": "0001110803",
+      "secName": "ILLUMINA, INC.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526346923/d173650d424b2.htm"
+    },
     {
       "filingDate": "2026-08-12",
       "reportDate": "2026-08-12",
@@ -1142,59 +1167,40 @@
       "cik": "0001178670",
       "secName": "ALNYLAM PHARMACEUTICALS, INC.",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000060/alny-20260730.htm"
-    },
-    {
-      "filingDate": "2026-07-29",
-      "reportDate": "2026-06-30",
-      "acceptanceDateTime": "2026-07-29T21:05:57.000Z",
-      "act": "34",
-      "form": "10-Q",
-      "fileNumber": "000-19125",
-      "filmNumber": "261218803",
-      "items": "",
-      "size": 7913959,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "form10q.htm",
-      "primaryDocDescription": "IONIS PHARMACEUTICALS, INC. 10-Q 06-30-2026",
-      "accessionNumber": "0000874015-26-000251",
-      "companyId": "ionis",
-      "companyName": "Ionis Pharmaceuticals",
-      "companyDirections": [
-        "RNA Therapeutics"
-      ],
-      "secTicker": "IONS",
-      "cik": "0000874015",
-      "secName": "IONIS PHARMACEUTICALS INC",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000087401526000251/form10q.htm"
-    },
-    {
-      "filingDate": "2026-07-29",
-      "reportDate": "2026-07-29",
-      "acceptanceDateTime": "2026-07-29T11:31:02.000Z",
-      "act": "34",
-      "form": "8-K",
-      "fileNumber": "000-19125",
-      "filmNumber": "261213974",
-      "items": "2.02,9.01",
-      "size": 638149,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "ef20078953_8k.htm",
-      "primaryDocDescription": "8-K",
-      "accessionNumber": "0001140361-26-029960",
-      "companyId": "ionis",
-      "companyName": "Ionis Pharmaceuticals",
-      "companyDirections": [
-        "RNA Therapeutics"
-      ],
-      "secTicker": "IONS",
-      "cik": "0000874015",
-      "secName": "IONIS PHARMACEUTICALS INC",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126029960/ef20078953_8k.htm"
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001110803-000119312526346923",
+      "date": "2026-08-12",
+      "title": "Illumina filed Form 424B2",
+      "entity": "Illumina",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Prospectus",
+      "eventType": "Offering",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526346923/d173650d424b2.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Sequencing & Research Tools"
+      ],
+      "tags": [
+        "SEC",
+        "424B2",
+        "ILMN"
+      ],
+      "companyIds": [
+        "illumina"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-346923 for Illumina, Form 424B2, filed on 2026-08-12.",
+      "report": "SEC metadata describes the primary document as: 424B2.",
+      "inference": "The event was automatically routed as Offering from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001434265-000143426526000113",
       "date": "2026-08-12",
@@ -2435,68 +2441,6 @@
         "alnylam"
       ],
       "fact": "SEC EDGAR lists accession 0001178670-26-000060 for Alnylam Pharmaceuticals, Form 8-K, filed on 2026-07-30.",
-      "report": "SEC metadata describes the primary document as: 8-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0000874015-000087401526000251",
-      "date": "2026-07-29",
-      "title": "Ionis Pharmaceuticals filed Form 10-Q",
-      "entity": "Ionis Pharmaceuticals",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Periodic Filing",
-      "eventType": "Periodic Report",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000087401526000251/form10q.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "RNA Therapeutics"
-      ],
-      "tags": [
-        "SEC",
-        "10-Q",
-        "IONS"
-      ],
-      "companyIds": [
-        "ionis"
-      ],
-      "fact": "SEC EDGAR lists accession 0000874015-26-000251 for Ionis Pharmaceuticals, Form 10-Q, filed on 2026-07-29.",
-      "report": "SEC metadata describes the primary document as: IONIS PHARMACEUTICALS, INC. 10-Q 06-30-2026.",
-      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0000874015-000114036126029960",
-      "date": "2026-07-29",
-      "title": "Ionis Pharmaceuticals filed Form 8-K",
-      "entity": "Ionis Pharmaceuticals",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126029960/ef20078953_8k.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "RNA Therapeutics"
-      ],
-      "tags": [
-        "SEC",
-        "8-K",
-        "IONS"
-      ],
-      "companyIds": [
-        "ionis"
-      ],
-      "fact": "SEC EDGAR lists accession 0001140361-26-029960 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-07-29.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
