@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-13T03:01:56.373453+00:00",
+  "capturedAt": "2026-08-13T07:56:19.273575+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-13"
   },
   "pmids": [
-    "42585326",
-    "42584809",
-    "42584462",
-    "42583380",
-    "42583072",
-    "42582913",
+    "42586327",
+    "42586225",
+    "42586207",
+    "42586205",
+    "42586203",
+    "42585814",
     "42580899",
     "42559559",
     "42509463",
@@ -32,117 +32,137 @@
     "42564489",
     "42561121",
     "42560913",
+    "42586250",
+    "42585941",
     "42585565",
     "42584173",
     "42583538",
-    "42583349",
-    "42582172",
-    "42584829"
+    "42583349"
   ],
   "records": [
     {
-      "pmid": "42585326",
-      "title": "Label-free biochemical imaging and time point analysis of neural organoids via deep learning-enhanced Raman microspectroscopy.",
-      "abstract": "Three-dimensional (3D) organoids have emerged as powerful models for studying human development, disease, and drug response in vitro. Yet, their analysis remains constrained by standard imaging and characterization techniques, which are invasive, require exogenous labeling, and offer limited multiplexing. Here, we present a noninvasive, label-free imaging platform that integrates Raman microspectroscopy with deep learning-based hyperspectral unmixing for unsupervised, spatially resolved biochemical analysis of neural organoids. Our approach enables 2D and 3D mapping of cellular and subcellular structures in both cryosectioned and intact organoids, achieving improved imaging accuracy and robustness compared to conventional methods for hyperspectral analysis. Using our platform, we demonstrate volumetric imaging of a neural rosette within a neural organoid and interrogate changes in biochemical composition during early developmental stages in intact neural organoids, revealing spatiotemporal variations in lipids, proteins, and nucleic acids. This work establishes a versatile framework for high-content, label-free (bio)chemical phenotyping with broad applications in organoid research and beyond.",
-      "journal": "Science advances",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Computing, and UKRI Centre for Doctoral Training in AI for Healthcare, Imperial College London, London, UK SW7 2AZ.",
-        "Department of Materials, Department of Bioengineering, and Institute of Biomedical Engineering, Imperial College London, London, UK SW7 2AZ.",
-        "Department of Physiology, Anatomy and Genetics, Department of Engineering Science, and Kavli Institute for Nanoscience Discovery, University of Oxford, Oxford, UK OX1 3QU.",
-        "Department of Engineering Science, University of Oxford, Oxford, UK OX1 3PJ.",
-        "Department of Mathematics, Imperial College London, London, UK SW7 2AZ."
-      ],
-      "doi": "10.1126/sciadv.aec5080",
-      "date": "2026-08-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42585326/"
-    },
-    {
-      "pmid": "42584809",
-      "title": "BEST4⁺ cells: a potential hub of intestinal ion transport and diarrhea manipulation.",
-      "abstract": "BEST4⁺ cells are a recently identified, functionally specialized intestinal epithelial cell population characterized through single-cell and spatial transcriptomic analyses in humans, pigs, rats, and other vertebrates. These cells characteristically express BEST4, OTOP2, CA7, and GUCY2C, and exhibit particularly high CFTR expression in the small intestine, supporting their roles in luminal pH sensing, fluid-electrolyte homeostasis, and mucus hydration. Emerging evidence from organoid and cross-species studies supports a predominant role for the NOTCH-SPIB signaling axis in driving BEST4⁺ cell differentiation, but their lineage identity and regulatory mechanisms remain incompletely resolved. This review focuses on intestinal epithelial BEST4⁺ cells as a critical cellular hub that connects ion transport physiology with the pathophysiology of secretory diarrhea. We summarize the molecular identity, regional distribution, and cross-species conservation of BEST4⁺ cells. We then evaluate their roles in luminal pH regulation, electrogenic fluid secretion, and mucus barrier integrity. We detail how bacterial enterotoxins activate the GC-C/cGMP/CFTR and cAMP/PKA/CFTR pathways in BEST4⁺ cells to drive pathological fluid hypersecretion, and discuss how viral infections may indirectly engage or amplify BEST4⁺ cell-associated ion-transport pathways. We also outline their relevance to viral diarrhea, inflammatory bowel disease, and cystic fibrosis-associated intestinal dysfunction. Finally, we assess established antidiarrheal approaches and investigational strategies that modulate BEST4⁺ cell-associated pathways, and emphasize the need for cell-type-specific validation in physiologically relevant in vivo models.",
-      "journal": "Advanced biotechnology",
+      "pmid": "42586327",
+      "title": "From cell culture to cellular biology in animal-parasitic nematodes: Biotechnological advances.",
+      "abstract": "Animal-parasitic nematodes are pathogens of medical and veterinary importance, yet their cellular biology remains poorly resolved because complex life cycles, host-dependent development and limited access to particular stages constrain investigation. This conceptual review traces nematode cellular biotechnology from efforts to isolate and maintain nematode-derived cells to the definition of cellular identity and its integration with biological function. Early culture studies showed that cells from free-living and parasitic nematodes could be isolated, maintained and sometimes propagated, but their identity was inferred indirectly from morphology, biochemical activity and immunological characteristics. Single-cell and single-nucleus transcriptomics transformed this landscape, with Caenorhabditis elegans providing foundational methods and atlases for resolving cellular diversity, developmental trajectories and tissue organisation. Advances in plant-parasitic nematodes and parasitic trematodes provide methodological insights. In animal-parasitic nematodes, these approaches now include whole-parasite dissociation, nuclei isolation, tissue-specific profiling and spatial transcriptomics. Organoid and co-culture systems provide access to host-parasite interfaces, while functional-genetic platforms enable experimental perturbation. The emerging landscape is heterogeneous: some systems provide cellular or spatial maps, whereas others offer greater tractability through culture, host-derived models or genetic manipulation. No single system yet provides life-cycle-wide cellular coverage, spatially resolved tissue organisation, sustained culture of parasite-derived cells or tissues and reliable functional perturbation. We identify priorities for linking cellular identity to developmental dynamics, anatomical context, culture authentication and experimentally testable function. Collectively, these advances are moving the field from maintaining cells and defining their identity towards understanding and manipulating cellular function, thereby supporting approaches to the treatment and control of animal-parasitic nematode infections.",
+      "journal": "Biotechnology advances",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Agri-Animal Organoid Institute/State Key Laboratory of Swine and Poultry Breeding Industry/Guangdong Provincial Key Laboratory of Animal Nutrition Control/College of Animal Science, South China Agricultural University, Guangzhou, 510642, China.",
-        "Agri-Animal Organoid Institute/State Key Laboratory of Swine and Poultry Breeding Industry/Guangdong Provincial Key Laboratory of Animal Nutrition Control/College of Animal Science, South China Agricultural University, Guangzhou, 510642, China. fzyylab@163.com."
+        "Department of Veterinary Biosciences, Melbourne Veterinary School, Faculty of Science, The University of Melbourne, Parkville, VIC 3010, Australia. Electronic address: tao.wang1@unimelb.edu.au.",
+        "Department of Veterinary Biosciences, Melbourne Veterinary School, Faculty of Science, The University of Melbourne, Parkville, VIC 3010, Australia. Electronic address: robinbg@unimelb.edu.au."
       ],
-      "doi": "10.1007/s44307-026-00126-7",
+      "doi": "10.1016/j.biotechadv.2026.109007",
       "date": "2026-08-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42584809/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42586327/"
     },
     {
-      "pmid": "42584462",
-      "title": "The precautionary principle and the ethical governance of human brain organoid research.",
-      "abstract": "Human brain organoids have attracted increasing attention for their potential to model human brain development and neurological disorders. However, concerns about their possible consciousness have generated ongoing ethical debate. In situations where scientific evidence remains uncertain but the possibility of serious moral harm cannot be excluded, the precautionary principle has been proposed as a framework for ethical governance. This article critically examines the applicability of the precautionary principle to human brain organoid research through normative analysis. It clarifies core normative elements of precautionary principle and evaluates its relevance to emerging ethical challenges in brain organoid research. The analysis identifies several major governance challenges, including the epistemic limitations of similarity-based inference, tensions between evidentiary standards and precautionary obligations, and the risks of ethics dumping. These problems reveal broader governance gaps rather than theoretical disagreements, underscoring the need for institutional adaptation in advance of definitive scientific evidence. The article argues that precautionary governance in human brain organoid research should avoid both excessive restriction and ethical complacency. It proposes strategies including dynamic and graded regulation, proportionality-based safeguards, and stronger international coordination. These approaches aim to balance ethical vigilance with responsible scientific innovation in a rapidly evolving field.",
-      "journal": "Accountability in research",
+      "pmid": "42586225",
+      "title": "Desaminotyrosine Alleviates Hepatic Ischemia-Reperfusion Injury via the MAPK/Ferroptosis Axis and Bifidobacterium pseudolongum Modulation.",
+      "abstract": "Ischemia-reperfusion (I/R) is a common and unavoidable phenomenon during surgeries such as hepatectomy and liver transplantation, severely affecting patient prognosis. However, clinically intervention and treatment measures remain very limited. Using human hepatocyte organoid hypoxia-reoxygenation (H/R) and murine hepatic ischemia-reperfusion (I/R) models, we demonstrate that the microbiota-derived flavonoid desaminotyrosine (DAT) attenuates I/R-induced hepatic injury by suppressing inflammation and apoptosis while promoting the abundance of probiotic Bifidobacterium in the gut. Through integrated spatial transcriptomics and metabolomics, we identified that DAT specifically alters the MAPK signaling pathway/ ferroptosis gene transcriptome in the portal vein (PV) zones, promotes the production of antioxidants (taurine) in the central vein (CV) zones, reduces the level of pro-ferritinosis substrates (arachidonic acid), thereby enhancing the expression of GPX4 and Nrf2, inhibiting ferroptosis, then ameliorate hepatic I/R injury. Meanwhile, the pseudo-germ-free mouse model confirmed that DAT alleviated hepatic I/R injury in a gut microbiota dependent manner. DAT reduces hepatic I/R injury by increasing the abundance of gut Bifidobacterium pseudolongum (Bif). Our research results reveal a novel microbial metabolite that improves hepatic I/R injury, clarify the inhibitory effect of DAT on ferroptosis, discover new therapeutic uses of DAT, and identify Bif as a potential novel probiotic for preventing liver I/R injury, providing new options for the preventive treatment of liver I/R injury.",
+      "journal": "Pharmacological research",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Center for Bioethics, School of Medicine, Xiamen University, Xiamen, China.",
-        "School of Marxism, Henan Medical University, Xinxiang, China.",
-        "Centre for Biomedical Ethics, National University Singapore, Singapore."
+        "Department of Laboratory, Xiangyang Central Hospital, Affiliated Hospital of Hubei University of Arts and Science, Xiangyang 441000, Hubei, China.",
+        "Hubei Key Laboratory of Embryonic Stem Cell Research, Hubei Provincial Clinical Research Center for Umbilical Cord Blood Hematopoietic Stem Cells, Taihe Hospital, Hubei University of Medicine, Shiyan 442000, Hubei, China; Department of Pulmonary and Critical Care Medicine, Taihe Hospital, Hubei University of Medicine, Shiyan, Hubei, 442000, China; Shiyan Key Laboratory of Major Chronic Respiratory Disease, Taihe Hospital, Hubei University of Medicine, Shiyan, Hubei, 442000, China.",
+        "Hubei Key Laboratory of Embryonic Stem Cell Research, Hubei Provincial Clinical Research Center for Umbilical Cord Blood Hematopoietic Stem Cells, Taihe Hospital, Hubei University of Medicine, Shiyan 442000, Hubei, China.",
+        "Outpatient Department, Taihe Hospital, Hubei University of Medicine, Shiyan 442000, Hubei, China.",
+        "Department of Laboratory, Xiangyang Central Hospital, Affiliated Hospital of Hubei University of Arts and Science, Xiangyang 441000, Hubei, China. Electronic address: 477944096@qq.com.",
+        "Hubei Key Laboratory of Embryonic Stem Cell Research, Hubei Provincial Clinical Research Center for Umbilical Cord Blood Hematopoietic Stem Cells, Taihe Hospital, Hubei University of Medicine, Shiyan 442000, Hubei, China; Department of Pulmonary and Critical Care Medicine, Taihe Hospital, Hubei University of Medicine, Shiyan, Hubei, 442000, China; Shiyan Key Laboratory of Major Chronic Respiratory Disease, Taihe Hospital, Hubei University of Medicine, Shiyan, Hubei, 442000, China. Electronic address: tangyijun_799@163.com.",
+        "Hubei Key Laboratory of Embryonic Stem Cell Research, Hubei Provincial Clinical Research Center for Umbilical Cord Blood Hematopoietic Stem Cells, Taihe Hospital, Hubei University of Medicine, Shiyan 442000, Hubei, China. Electronic address: 20090990@hbmu.edu.cn."
       ],
-      "doi": "10.1080/08989621.2026.2717416",
+      "doi": "10.1016/j.phrs.2026.108389",
       "date": "2026-08-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42584462/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42586225/"
     },
     {
-      "pmid": "42583380",
-      "title": "Therapeutic resistance in HPV-positive oropharyngeal squamous cell carcinoma: molecular mechanisms, clinical challenges, and precision strategies.",
-      "abstract": "Human papillomavirus (HPV)-positive oropharyngeal squamous cell carcinoma (OPSCC) exhibits exceptional sensitivity to chemoradiotherapy, with 5-year overall survival exceeding 80%, thereby providing a compelling rationale for treatment de-escalation. However, 15%-20% of patients develop therapeutic resistance and locoregional recurrence, resulting in markedly inferior outcomes. This Review systematically dissects the molecular architecture of treatment resistance in HPV-positive OPSCC, with particular emphasis on mechanisms conferring resistance to radiotherapy, platinum-based chemotherapy, and EGFR-targeted therapy (cetuximab). We delineate core drivers - aberrant DNA damage response (DDR) signaling, epigenetic reprogramming, cancer stem cell (CSC) plasticity, and non-coding RNA networks-and pinpoint actionable vulnerabilities. The contributions and limitations of patient-derived organoids, genetically engineered mouse models, and pivotal clinical trials (notably RTOG 1016) are critically appraised. We address persistent controversies, including the complex relationship between de-escalation and resistance, and highlight the lack of integrative resistance biomarkers. Finally, we propose a roadmap to bridge translational gaps and accelerate the development of precision strategies that circumvent resistance.",
-      "journal": "Frontiers in genetics",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Central Laboratory, Liaoning Cancer Hospital & Institute, Cancer Hospital of Dalian University of Technology, Shenyang, Liaoning, China.",
-        "Department of Biobank, Liaoning Cancer Hospital & Institute, Cancer Hospital of Dalian University of Technology, Shenyang, Liaoning, China."
-      ],
-      "doi": "10.3389/fgene.2026.1871025",
-      "date": "2026-07-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42583380/"
-    },
-    {
-      "pmid": "42583072",
-      "title": "Extracellular vesicle-mediated immune-metabolic crosstalk: research advances in inflammatory regulation and the pathogenesis of metabolic diseases.",
-      "abstract": "Extracellular vesicles (EVs)-lipid bilayer-enclosed nanoparticles secreted by virtually all cell types-have shifted from being viewed as passive cellular byproducts to active signaling nodes orchestrating inter-cellular and inter-organ communication. Yet the field has accumulated faster than it has integrated: hundreds of EV-cargo-phenotype associations exist as isolated edges of a network whose system-level architecture remains poorly defined. Here we propose the vesiculome as an operational framework for that network, resting on three falsifiable axioms: (i) the EV complement of an organism constitutes a network addressable by donor cell × target tissue × cargo class; (ii) cargo composition tracks donor-cell metabolic state in a quantitatively predictable way; and (iii) the integrated balance between pro-inflammatory and pro-resolving vesicle outputs - rather than any single edge - determines the organismal metabolic phenotype. Organized along the chain of EV generation, immune-metabolic interaction, disease mechanism, and translational application, the review synthesizes how this network sustains metabolic homeostasis and how its dysregulation drives metaflammation, the chronic low-grade inflammation underlying obesity, type 2 diabetes mellitus, metabolic dysfunction-associated steatotic liver disease, and atherosclerosis. We dissect two reciprocal arcs of this vesiculome. Polarization-specific EVs from M1/M2 macrophages, Th17 and regulatory T cells, dendritic cells, NK cells, and neutrophils deliver inflammatory or protective cargo to adipose tissue, liver, and pancreas. EVs from adipocytes, hepatocytes, skeletal myocytes, pancreatic β-cells, and intestinal epithelial cells reciprocally reshape the immune microenvironment. Disease arises as a network-level configuration of these arcs rather than as isolated edge failures. We apply a four-tier causality framework to every claim, distinguishing correlational evidence from cargo-depletion and physiological-dose validation. Only miR-155, miR-122, miR-690, and miR-33 currently satisfy the highest tier; most cargoes require systematic experimental escalation before therapeutic translation. We further separate preclinical from clinically validated evidence, and downgrade plant-derived nanovesicles to a methodological cautionary note given non-reproducible cross-kingdom claims. The translational arm evaluates EV-based liquid biopsy biomarkers, native and engineered therapeutic EVs, and mesenchymal stem cell-derived EVs against this framework. We close with a structured catalogue of foundational, causal, and translational knowledge gaps and a priority research agenda built on single-EV multi-omics, in vivo tracking, multi-organ organoid-on-chip platforms, and longitudinal human cohorts.",
-      "journal": "Frontiers in immunology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Liaoning University of Traditional Chinese Medicine, Shenyang, China.",
-        "The Fourth Affiliated Hospital of China Medical University, Shenyang, China."
-      ],
-      "doi": "10.3389/fimmu.2026.1884606",
-      "date": "2026-07-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42583072/"
-    },
-    {
-      "pmid": "42582913",
-      "title": "LUHMES-derived 3D organoids as an enhanced platform for modelling dopaminergic neurodegeneration in Parkinson's disease.",
-      "abstract": "Parkinson's disease (PD) research traditionally relies on animal models and two-dimensional (2D) culture models. These models fail to recapitulate the complex cellular architecture and network interactions that are possible with three-dimensional (3D) organoid models. While 3D models allow improved cell-cell interactions, spatial organization, and metabolic microenvironments, however, their utility for modelling dopaminergic neurodegeneration remains underexplored. We developed and characterized 3D organoids from LUHMES cells which are human embryonic neuronal precursor cells and a well-established human dopaminergic neuronal cell line. We directly compare their responses to the mitochondrial toxin MPP+ against conventional 2D cultures. Functional readouts included cell viability, ATP production, dopaminergic marker expression (tyrosine hydroxylase, MAP2, β-III tubulin), reactive oxygen species (ROS) generation, electrophysiological activity via multi-electrode arrays (MEA), and calcium signalling dynamics. 3D LUHMES organoids had 9-fold higher synapsin expression compared to 2D cultures, indicating enhanced synaptic maturity and network complexity. Following acute MPP+ exposure (0.25 mM, 24 h), 3D organoids were significantly more sensitive than 2D cultures, with greater reductions in cell viability (35% vs. 31%), ATP production (36% vs. 31%), and dopaminergic marker expression (TH: 60% reduction in both; MAP2: 70% vs. 54%; TUJ1: 62% vs. 20%). ROS production increased uniformly in 3D organoids (85% positive cells) compared to heterogeneous accumulation in 2D cultures (78% positive cells). Functional assessments revealed that 3D organoids displayed higher baseline electrophysiological activity that was sensitive to impairment following MPP+ treatment, spike amplitude, and calcium signalling responses to various stimuli (ATP, glutamate, GABA). LUHMES-derived 3D organoids demonstrate greater physiological relevance for modelling PD-related dopaminergic neurodegeneration than 2D cultures. The enhanced sensitivity to mitochondrial toxins, combined with more sophisticated network architecture and functional properties, suggests this model is a valuable platform for mechanistic studies of neurodegeneration and preclinical drug screening. These findings also support the broader adoption of 3D culture systems in neurodegenerative disease research.",
-      "journal": "Frontiers in molecular biosciences",
+      "pmid": "42586207",
+      "title": "Lactate promotes liver regeneration by increasing fatty acid oxidation through GCN5-mediated H3K9 lactylation.",
+      "abstract": "Lactylation has been implicated in the repair and regeneration of multiple organs including skin and heart. The liver serves as a vital organ for lactate metabolism, while the roles of lactate and lactylation during liver regeneration remain unclear. Mice were subjected to 70% partial hepatectomy (PHx), and liver-to-body weight (LW/BW) ratio and proliferative markers were measured. Protein-protein interactions were detected by Co-IP. The pivotal site of GCN5 for catalysis was predicted by theoretical modelling. CUT&Tag and bulk RNA-seq assays were used to identify downstream genes regulated by H3K9 lactylation (H3K9la). Murine hepatocyte organoids and human liver tissues were used to validate the effects of H3K9la. Lactate supplementation notably improved LW/BW ratio and upregulated hepatic levels of Ki-67, PCNA and EdU incorporation at 48 h after PHx, while hepatocyte-specific Ldha knockout mice showed impaired liver regenerative capacity. In vitro experiments indicated that increased intracellular lactate upregulated H3 lactylation and promoted hepatocyte proliferation. Mechanistically, GCN5, rather than P300 or MOF, was identified as the pivotal enzyme catalyzing H3K9la. Furthermore, lactate treatment promoted the interaction between GCN5 and H3K9 during liver regeneration. Glu639 was identified as the critical amino acid residue in GCN5 for catalyzing H3K9la. CUT&Tag and bulk RNA-seq results further revealed that H3K9la upregulated the expression of Lipin1 and its mediated transcription of fatty acid oxidation (FAO)-related genes. The pro-regenerative effects of lactate and H3K9la were validated using murine hepatocyte organoids and human liver tissues. Lactate facilitates liver regeneration through promoting GCN5-mediated H3K9la, which upregulates Lipin1 transcription and subsequent Lipin1-mediated FAO in hepatocytes.",
+      "journal": "Cellular and molecular gastroenterology and hepatology",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Discipline of Physiology, Cellular Physiology Research Lab, School of Pharmacy and Medical Sciences, University of Galway, Galway, Ireland.",
-        "Developmental Neurosciences, Zayed Centre for Research, UCL Great Ormond Street Institute of Child Health, University College London, London, United Kingdom.",
-        "CÚRAM SFI Research Centre for Medical Devices, University of Galway, Galway, Ireland."
+        "Organ Transplant Center, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, 510080, China; Zhejiang University School of Medicine, Hangzhou 310058, China.",
+        "Zhejiang University School of Medicine, Hangzhou 310058, China.",
+        "Laboratory of Integrated Oncology and Intelligent Medicine of Zhejiang Province, Affiliated Hangzhou First People's Hospital, School of Medicine, Westlake University, Hangzhou 310006, China.",
+        "General Surgery, Cancer Center, Department of Hepatobiliary & Pancreatic Surgery and Minimally Invasive Surgery, Zhejiang Provincial People's Hospital (Affiliated People's Hospital), Hangzhou Medical College, Hangzhou 310024, China.",
+        "Hepatobiliary Center and Transplantation Center, The First Affiliated Hospital with Nanjing Medical University, Nanjing 210029, China.",
+        "Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou 310000, China.",
+        "The Fourth School of Clinical Medicine, Zhejiang Chinese Medical University, Hangzhou 310053, China.",
+        "Institute of Quantitative Biology, and College of Life Sciences, Zhejiang University, Hangzhou 310027, China. Electronic address: hzhou@zju.edu.cn.",
+        "General Surgery, Cancer Center, Department of Hepatobiliary & Pancreatic Surgery and Minimally Invasive Surgery, Zhejiang Provincial People's Hospital (Affiliated People's Hospital), Hangzhou Medical College, Hangzhou 310024, China. Electronic address: hzhou@zju.edu.cn.",
+        "Hepatobiliary Center and Transplantation Center, The First Affiliated Hospital with Nanjing Medical University, Nanjing 210029, China. Electronic address: hzhou@zju.edu.cn."
       ],
-      "doi": "10.3389/fmolb.2026.1807358",
-      "date": "2026-07-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42582913/"
+      "doi": "10.1016/j.jcmgh.2026.101859",
+      "date": "2026-08-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42586207/"
+    },
+    {
+      "pmid": "42586205",
+      "title": "Single-cell and spatial transcriptomics across populations with perianal fistulizing Crohn's disease shows pro-inflammatory CD4+ macrophage involvement in disease progression.",
+      "abstract": "Perianal fistulizing Crohn's disease is a severe morbidity with rectal involvement and a higher prevalence in African Americans (AA) compared to Europeans Americans (EA). In this study, we sought to define distinguishing cellular and molecular features between inflamed rectal Crohn's disease (CD) with and without perianal fistula across populations that give new insight into disease severity or progression. Rectal mucosal biopsies were obtained for single cell sequencing from 50 individuals (262k cells); 18 CD rectum with fistula, 25 with CD rectum without fistula and any other perianal complications, and 7 from individuals with no past/present mucosal disease (controls). Spatial transcriptomics were conducted and analyzed by Sopa and Squidpy, while immunofluorescence was processed with QuPath. Patient derived rectal organoids were used to test inflammatory signaling. A major distinction between inflamed CD rectum with and without fistula was the decreased phagocytic signature, antigen processing profile, and unique morphological structures of pro-inflammatory CD4+CD68+ macrophages. In fistulizing CD, these macrophages formed large aggregates in the lamina propria near epithelial crypts and appeared to disrupt cellular networks by engaging in signaling with other cell subtypes. At the population level, the most significant differences in cellular pathways were detected between AA and EA with inflamed CD rectum and fistula, and between with and without fistulizing disease amongst AA. During inflamed CD rectum with fistula, CD4+ macrophages alter cellular networks in the lamina propria while forming large cell aggregates, likely mediating complex interactions with T cells and possibly microbial antigens that are involved in the more severe pathological conditions associated with fistula tract formation and progression.",
+      "journal": "Cellular and molecular gastroenterology and hepatology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Pediatrics, Division of Gastroenterology, Hepatology, and Nutrition, Emory University School of Medicine, Atlanta, GA.",
+        "Department of Pathology, Molecular, and Cell-Based Medicine, Icahn School of Medicine at Mount Sinai, New York, NY.",
+        "Pathology, Children's Healthcare of Atlanta, Atlanta, GA.",
+        "Department of Human Genetics, Emory University School of Medicine, Atlanta, GA.",
+        "Department of Pediatrics, Division of Gastroenterology, Hepatology, and Nutrition, Emory University School of Medicine, Atlanta, GA; Department of Human Genetics, Emory University School of Medicine, Atlanta, GA; Pediatric Gastroenterology, Children's Healthcare of Atlanta and Pediatric Research Institute, Atlanta, GA.",
+        "Department of Pediatrics, Division of Gastroenterology, Hepatology, and Nutrition, Emory University School of Medicine, Atlanta, GA. Electronic address: jdmatt2@emory.edu."
+      ],
+      "doi": "10.1016/j.jcmgh.2026.101862",
+      "date": "2026-08-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42586205/"
+    },
+    {
+      "pmid": "42586203",
+      "title": "Genome-scale CRISPR screening uncovers SRSF6 as a target to sensitize hepatocellular carcinoma to radiotherapy.",
+      "abstract": "Radiotherapy confers clinical benefits to hepatocellular carcinoma (HCC) patients across all stages, yet its clinical efficacy is limited by radioresistance. This study aimed to identify key regulators of HCC radiosensitivity through genome-wide functional screening. A genome-wide CRISPR-Cas9 screen in Huh7 cells identified radiosensitivity regulators, with SRSF6 validated by siRNA knockdown and γ-H2AX assessment. Stable shRNA-mediated SRSF6 knockdown was established in Huh7 and HepG2 cells, followed by clonogenic, EdU incorporation, apoptosis, micronucleus, and comet assays. Mechanistically, RNA-seq, western blotting, mRNA stability assays, RIP-qPCR, and RAD51 overexpression rescue assays were performed. The therapeutic potential of the SRSF6 inhibitor indacaterol was evaluated using MTS assays, HCC xenograft mouse models (BALB/c-nu/nu, N=28), and HCC patient-derived organoids (PDOs) (N=3). In addition, SRSF6 expression and its correlation with patient survival were analyzed using data from The Cancer Genome Atlas and a tissue microarray (N=14 HCC and 14 paired adjacent non-tumorous liver samples). We identified the RNA-binding protein SRSF6 as a driver of HCC radioresistance. SRSF6 depletion enhanced the radiosensitivity of HCC cells (p<0.05-0.0001) by post-transcriptionally destabilizing the mRNAs of critical DNA repair genes (p<0.05-0.0001), thereby impairing radiation-induced DNA damage repair. The radiosensitizing effect of SRSF6 depletion was partially abrogated by ectopic overexpression of the core DNA repair protein RAD51 (p<0.05-0.001). Indacaterol exhibited cytotoxic effects on HCC cells (p<0.05-0.0001) and enhanced the antitumor efficacy of radiation in vivo (p<0.05-0.0001), as further validated across multiple HCC patient-derived organoids (p<0.05-0.0001). SRSF6 is a key regulator of HCC radioresistance through its post-transcriptional control of DNA repair capacity, and represents a novel therapeutic target to sensitize HCC to radiotherapy. In this study, we performed a genome-wide CRISPR-Cas9 knockout library screen to dissect the molecular determinants governing HCC radiosensitivity, and identified RNA-binding protein SRSF6 as a driver of HCC radioresistance. We demonstrate that SRSF6 depletion disrupts the post-transcriptional stability of key DNA repair gene mRNAs and enhances HCC radiosensitivity. These findings are important for radiation oncologists and translational researchers, as they identify SRSF6-dependent RNA regulation as a critical determinant of radiotherapy response in HCC. Practically, we show that the clinically approved bronchodilator indacaterol suppresses SRSF6 function and enhances the antitumor efficacy of radiotherapy, offering a readily repurposable pharmacological strategy to overcome radioresistance. These implications are based on preclinical evidence across multiple models; however, future clinical trials are needed to validate the safety and efficacy of indacaterol-based radiosensitization in patients with HCC.",
+      "journal": "JHEP reports : innovation in hepatology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education), Department of Radiation Oncology, Peking University Cancer Hospital & Institute, Beijing 100142, China.",
+        "Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education), Department of Radiation Oncology, Peking University Cancer Hospital & Institute, Beijing 100142, China. Electronic address: hjteng@bjmu.edu.cn.",
+        "Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education), Department of Radiation Oncology, Peking University Cancer Hospital & Institute, Beijing 100142, China. Electronic address: wangweihu88@163.com."
+      ],
+      "doi": "10.1016/j.jhepr.2026.101978",
+      "date": "2026-08-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42586203/"
+    },
+    {
+      "pmid": "42585814",
+      "title": "Proof-of-concept study in patient-derived organoids from malignant pleural effusion for functional testing in thoracic tumors.",
+      "abstract": "Thoracic malignancies, including lung adenocarcinoma and malignant pleural mesothelioma, remain associated with poor prognosis and limited durable responses in advanced stages. Although targeted therapies and immunotherapy have improved outcomes in selected patients, chemotherapy remains central for those without actionable mutations. Their treatment response is heterogeneous, presents limited benefit, and reliable predictive biomarkers of chemotherapy sensitivity are still lacking, representing a setting with a high clinical need and an opportunity for novel research strategies. These tumors frequently involve the pleural cavity and are commonly associated with malignant pleural effusion, contributing to respiratory symptoms and often requiring therapeutic drainage. Notably, malignant pleural effusion represents a clinically accessible source of viable tumor cells accessible through minimally invasive procedures. In this proof-of-concept study, we explored the feasibility of generating patient-derived organoids from malignant pleural effusion for functional drug testing in thoracic tumors. Organoids were established from five patients with advanced lung adenocarcinoma lacking targetable mutations and, as an illustrative case, from a patient with malignant pleural mesothelioma. The organoids recapitulated the tumor-specific phenotypic features as characterized by mutational profiling and immunohistochemistry, and were subjected to systematic chemotherapy drug screening with FDA-approved antitumor compounds to explore for alternative therapies. Candidate hits like Idarubicin, Tazemetostat or Vemurafenib were further examined through dose-response assays. These findings demonstrate the feasibility of generating patient-derived organoids from malignant pleural effusions and support their use as exploratory platforms for functional drug testing in thoracic malignancies. Further studies with larger cohorts and integrated molecular analyses are required to validate their potential clinical utility.",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Nasasbiotech, S.L., Rua da Carreira do Conde, Santiago de Compostela 15702, Spain.",
+        "Translational Medical Oncology Group (Oncomet), Health Research Institute of Santiago de Compostela (IDIS), University Hospital of Santiago de Compostela (SERGAS), Trav. Choupana s/n, Santiago de Compostela 15706, Spain.",
+        "Pulmonary Medicine Department, University Hospital of Santiago de Compostela (SERGAS), Spain.",
+        "Pulmonary Medicine Department, University Hospital of Santiago de Compostela (SERGAS), Spain; Interdisciplinary Research Group in Pulmonology, Health Research Institute of Santiago de Compostela (IDIS), Santiago de Compostela, Spain; Department of Medicine, Faculty of Medicine, University of Santiago de Compostela, Spain.",
+        "Translational Medical Oncology Group (Oncomet), Health Research Institute of Santiago de Compostela (IDIS), University Hospital of Santiago de Compostela (SERGAS), Trav. Choupana s/n, Santiago de Compostela 15706, Spain; Department of Medical Oncology, University Hospital of Santiago de Compostela (SERGAS), Spain; Centro de Investigacion Biomedica en Red de Cancer (CIBERONC), Monforte de Lemos 3-5, Madrid 28029, Spain.",
+        "Santiago de Compostela Health Research Institute (IDIS), University Hospital Complex Santiago de Compostela, Santiago de Compostela 15706, Spain.",
+        "Pathology Department, University Hospital of Santiago de Compostela (SERGAS), Spain.",
+        "Department of Medicine, Faculty of Medicine, University of Santiago de Compostela, Spain; Pharmacy Department, University Hospital of Santiago de Compostela (SERGAS), Spain; Oncology Pharmacy Unit, Pharmacy Service, Clinical University Hospital of Santiago de Compostela, Santiago, Spain.",
+        "Genetics Group, Health Research Institute of Santiago de Compostela (IDIS), Center for Research in Molecular Medicine and Chronic Diseases (CiMUS), Santiago de Compostela 15706, Spain.",
+        "Translational Medical Oncology Group (Oncomet), Health Research Institute of Santiago de Compostela (IDIS), University Hospital of Santiago de Compostela (SERGAS), Trav. Choupana s/n, Santiago de Compostela 15706, Spain; Centro de Investigacion Biomedica en Red de Cancer (CIBERONC), Monforte de Lemos 3-5, Madrid 28029, Spain.",
+        "Translational Medical Oncology Group (Oncomet), Health Research Institute of Santiago de Compostela (IDIS), University Hospital of Santiago de Compostela (SERGAS), Trav. Choupana s/n, Santiago de Compostela 15706, Spain; Department of Medical Oncology, University Hospital of Santiago de Compostela (SERGAS), Spain; Centro de Investigacion Biomedica en Red de Cancer (CIBERONC), Monforte de Lemos 3-5, Madrid 28029, Spain. Electronic address: Luis.Angel.Leon.Mateos@sergas.es."
+      ],
+      "doi": "10.1016/j.biopha.2026.119816",
+      "date": "2026-08-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42585814/"
     },
     {
       "pmid": "42580899",
@@ -369,6 +389,42 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42560913/"
     },
     {
+      "pmid": "42586250",
+      "title": "PCR and molecular diagnostics: Biotechnologic integration in clinical laboratories.",
+      "abstract": "A new generation of molecular tests has revolutionized laboratory medicine through allowing for quick, sensitive, and precise identification of the pathogen; genetic mutation or alteration; and disease-related bio-markers. Of all the molecular techniques that exist today, PCR is still the most versatile, and clinically applicable technique available. This paper reviews the development of PCR technology from traditional amplification to advanced platforms including qPCR, dPCR, RT-PCR, and multiplex PCR. Each of the advanced platforms reviewed will be examined for their contributions to both the accurate detection, and quantification of nucleic acids along with the ability to perform high throughput analyses. Additionally, this paper also discusses how PCR technology can be integrated with additional technologies such as NGS, CRISPR-based diagnostic systems, microarrays, and epigenetic profiling to provide a larger view of disease states than was previously possible. Specifically, the focus of this paper will include many clinically relevant biomarkers and molecular targets used in cancer research including EGFR, KRAS, BRAF, BCR-ABL1, circulating tumor DNA (ctDNA), and methylated SEPT9. These biomarkers and molecular targets have greatly enhanced early diagnosis, prognostication, treatment monitoring and precision medicine in cancer research and other areas. The use of PCR-based technologies in diagnosing infectious diseases, tracking AMR, detecting heritable disorders, studying microbial communities, and MRD monitoring were also discussed. Further discussion included current trends in integrating multiple omics data types into a single platform using AI assisted data analysis tools. Liquid biopsy technologies and point-of-care molecular test platforms were also discussed. Although there are continuing challenges related to costs associated with developing these technologies, establishing standardized protocols for each technology type developed, having skilled technicians develop and validate these technologies, and managing large amounts of data generated when using these technologies; continued advances are providing greater access to these technologies to clinicians and ultimately patients.",
+      "journal": "Clinica chimica acta; international journal of clinical chemistry",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Bioinformatics and Biotechnology, Government College University Faisalabad, 38000 Faisalabad, Pakistan.",
+        "Department of Botany, Government College University Faisalabad, 38000 Faisalabad, Pakistan.",
+        "Department of Bioinformatics and Biotechnology, Government College University Faisalabad, 38000 Faisalabad, Pakistan. Electronic address: muhammad.zubair1751@gmail.com."
+      ],
+      "doi": "10.1016/j.cca.2026.121261",
+      "date": "2026-08-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42586250/"
+    },
+    {
+      "pmid": "42585941",
+      "title": "Evolution of CRISPR-cas detection systems: From nucleic acid recognition to omnidirectional point-of-care diagnostic applications.",
+      "abstract": "Molecular diagnostic technologies play an indispensable role in modern medicine and public health. However, traditional diagnostic platforms frequently face an inherent trade-off between laboratory-grade analytical precision and the speed and operational simplicity required for point-of-care testing. In recent years, the emergence of the Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR) and CRISPR-associated (Cas) protein system has precipitated disruptive technological changes to this field. CRISPR-Cas system possesses high-fidelity target recognition capability and exhibits a distinctive trans-cleavage activity upon activation, which functions as signal amplification. This technology alleviates the inherent trade-off between sensitivity and portability. This review systematically summarizes the core molecular mechanisms of CRISPR-Cas detection platforms, addressing the differences in substrate preference and cleavage behavior among mainstream effector proteins (e.g., Cas9, Cas12, Cas13, and Cas14) and prokaryotic Argonaute (pAgo) proteins. Furthermore,this review sorts out the technological iteration path of detection platforms and presents the applications of this technology in fields such as infectious disease surveillance, cancer liquid biopsy, preliminary screening of genetic diseases, food and environmental safety, and veterinary port quarantine. Despite the challenges in quantitative accuracy and anti-interference ability, CRISPR biosensors are powerfully driving precision medicine towards decentralized, on-site, and accessible Point-of-Care Testing (POCT).",
+      "journal": "Diagnostic microbiology and infectious disease",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Clinical laboratory, Characteristic Medical Center of Chinese People's Armed Police Force, Tianjin, 300162, China; Department of Prevention and Therapy of Cardiovascular Diseases in Alpine Environment of Plateau, Characteristic Medical Center of Chinese People's Armed Police Force, Tianjin, 300162, China.",
+        "Department of Clinical laboratory, Characteristic Medical Center of Chinese People's Armed Police Force, Tianjin, 300162, China.",
+        "Department of Clinical laboratory, Characteristic Medical Center of Chinese People's Armed Police Force, Tianjin, 300162, China; Department of Prevention and Therapy of Cardiovascular Diseases in Alpine Environment of Plateau, Characteristic Medical Center of Chinese People's Armed Police Force, Tianjin, 300162, China. Electronic address: renjie19870727@163.com."
+      ],
+      "doi": "10.1016/j.diagmicrobio.2026.117589",
+      "date": "2026-08-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42585941/"
+    },
+    {
       "pmid": "42585565",
       "title": "Evaluation of plasma kynurenine 3-monooxygenase and Ki-67 as screening biomarkers for neoplasia in dogs.",
       "abstract": "Early detection of tumors might prolong the survival of dogs. Kynurenine 3-monooxygenase (KMO) and Ki-67 are tumor biomarkers, but few studies have described the clinical value of KMO and Ki-67 in veterinary medicine. This study aims to compare the activity of KMO and the concentration of Ki-67 between healthy dogs and dogs with neoplasms. A total of 162 dogs with different types of tumors were included. Forty-six tumor-free individuals were included as the control group. This is a case-control study. Dogs with neoplasms, confirmed through medical record review, were recruited. The primary outcomes were the plasma concentrations of KMO and Ki-67, along with their diagnostic efficacy. Expression levels of KMO were significantly higher in dogs with neoplasms (median, 2.02 ng/mL; IQR, 1.03-3.65) than in tumor-free individuals (median, 0.69 ng/mL; IQR, 0.23-1.18; P < .0001). The values of Ki-67 were higher in dogs with neoplasms (median, 4.28 ng/mL; IQR, 3.75-4.84) than in the control group (median, 3.80 ng/mL; IQR, 3.31-4.43; P < .05). No significant correlation was found between KMO and Ki-67 concentrations (R2 = 0.003, P = .48) in the tested samples and 50.6% (82/162) of dogs exhibited inconsistent results. The area under the ROC curve for KMO and Ki-67 were 0.837 and 0.644. This study presents that KMO is an effective biomarker and Ki-67 is an adjunctive marker. While lacking standalone diagnostic utility, Ki-67 reflects systemic tumor biology and complements biomarkers such as KMO.",
@@ -451,117 +507,80 @@
       "doi": "10.1097/MS9.0000000000005293",
       "date": "2026-07-15",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42583349/"
-    },
-    {
-      "pmid": "42582172",
-      "title": "Evolving non-invasive biomarkers in NSCLC immunotherapy: integrating liquid biopsy and multi-omics profiling for precision oncology.",
-      "abstract": "The therapeutic landscape for advanced non-small cell lung cancer (NSCLC) has been transformed by immune checkpoint inhibitors (ICIs), yet significant response heterogeneity necessitates robust, dynamic predictive biomarkers. Conventional tissue-based markers, such as PD-L1 expression and tumor mutational burden (TMB), are hindered by their invasive nature and inability to capture the dynamic tumor-host immune interplay. This review synthesizes the paradigm shift toward a dynamic, multi-parametric framework for precision immuno-oncology. We highlight the clinical utility of the liquid biopsy toolbox-including circulating tumor DNA (ctDNA) for molecular residual disease (MRD) monitoring, circulating tumor cells (CTCs), and extracellular vesicles (EVs) in reflecting systemic immune status. Furthermore, we explore biological insights from multi-omics profiling, covering genomic drivers of resistance (e.g., STK11/KEAP1), immunometabolic crosstalk, and systemic inflammatory indicators like the NLR/PLR ratio. The potential of radiomics and pathomics to extract spatial signatures via artificial intelligence (AI) is discussed to address whole-tumor heterogeneity. Finally, we emphasize the integration of these disparate data streams through multimodal AI and Explainable AI (XAI) to construct high-fidelity predictive models. This integrated approach aims to overcome standardization hurdles and enable personalized, adaptive management in NSCLC immunotherapy.",
-      "journal": "Frontiers in immunology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Thoracic Surgery, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China."
-      ],
-      "doi": "10.3389/fimmu.2026.1900900",
-      "date": "2026-07-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42582172/"
-    },
-    {
-      "pmid": "42584829",
-      "title": "Healing Without Certainty: The Ethical Significance of Uncertainty in Israeli Medicine in the Age of Artificial Intelligence.",
-      "abstract": "The growing integration of artificial intelligence into healthcare is frequently associated with efforts to reduce uncertainty through prediction, data analysis, and computational decision support. Recent work on generative and foundation models has intensified this aspiration while also documenting new uncertainties involving model error, variable performance, opacity, bias, and the conditions of meaningful human oversight. This conceptual and normative article argues that uncertainty in medicine is a multidimensional feature of practice rather than a single informational deficit that technology can progressively eliminate. Drawing on philosophy of medicine, medical ethics, sociology of medicine, and recent AI ethics literature, the article distinguishes epistemic, ontological, moral, communicative, and systemic uncertainty. Predictive technologies may reduce selected epistemic uncertainties, but they can also redistribute uncertainty to questions of model validity, workflow integration, and responsibility. Other uncertainties arise from value conflict, human variability, communication, and the application of population-level evidence to particular patients. The analysis examines predictive analytics, clinical decision support, and generative AI, and argues that predictive performance does not by itself settle clinical or ethical judgment. Israel is used as a bounded illustrative context, not as an empirical case study or as representative of all Israeli practice. Its digital infrastructure, current AI governance initiatives, and experience of prolonged emergency conditions make visible both the utility and the limits of prediction. The article proposes five principles for responsible integration: complementarity, proportionality, accountability, fairness, and human-centred care. Its claim is not that uncertainty is intrinsically valuable or should be preserved when it can safely be reduced. Rather, ethically responsible practice requires epistemic humility, honest communication, contestability, and deliberation where uncertainty persists. The framework is offered as a philosophical proposal requiring empirical testing with clinicians, patients, and institutions.",
-      "journal": "HEC forum : an interdisciplinary journal on hospitals' ethical and legal issues",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Levinsky-Wingate Academic College, Tel Aviv, Israel. rotemwa@l-w.ac.il."
-      ],
-      "doi": "10.1007/s10730-026-09610-y",
-      "date": "2026-08-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42584829/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42585326",
+      "id": "pubmed-42586327",
       "date": "2026-08-12",
-      "title": "Label-free biochemical imaging and time point analysis of neural organoids via deep learning-enhanced Raman microspectroscopy.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42585326/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42585326。",
-      "report": "Three-dimensional (3D) organoids have emerged as powerful models for studying human development, disease, and drug response in vitro. Yet, their analysis remains constrained by standard imaging and characterization techniques, which are invasive, require exoge...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42584809",
-      "date": "2026-08-12",
-      "title": "BEST4⁺ cells: a potential hub of intestinal ion transport and diarrhea manipulation.",
+      "title": "From cell culture to cellular biology in animal-parasitic nematodes: Biotechnological advances.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42584809/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42586327/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
         "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "临床",
-        "监管",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced biotechnology，PMID 为 42584809。",
-      "report": "BEST4⁺ cells are a recently identified, functionally specialized intestinal epithelial cell population characterized through single-cell and spatial transcriptomic analyses in humans, pigs, rats, and other vertebrates. These cells characteristically express BE...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Biotechnology advances，PMID 为 42586327。",
+      "report": "Animal-parasitic nematodes are pathogens of medical and veterinary importance, yet their cellular biology remains poorly resolved because complex life cycles, host-dependent development and limited access to particular stages constrain investigation. This conc...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42584462",
+      "id": "pubmed-42586225",
       "date": "2026-08-12",
-      "title": "The precautionary principle and the ethical governance of human brain organoid research.",
+      "title": "Desaminotyrosine Alleviates Hepatic Ischemia-Reperfusion Injury via the MAPK/Ferroptosis Axis and Bifidobacterium pseudolongum Modulation.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42584462/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42586225/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Pharmacological research，PMID 为 42586225。",
+      "report": "Ischemia-reperfusion (I/R) is a common and unavoidable phenomenon during surgeries such as hepatectomy and liver transplantation, severely affecting patient prognosis. However, clinically intervention and treatment measures remain very limited. Using human hep...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42586207",
+      "date": "2026-08-12",
+      "title": "Lactate promotes liver regeneration by increasing fatty acid oxidation through GCN5-mediated H3K9 lactylation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42586207/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -574,9 +593,137 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Accountability in research，PMID 为 42584462。",
-      "report": "Human brain organoids have attracted increasing attention for their potential to model human brain development and neurological disorders. However, concerns about their possible consciousness have generated ongoing ethical debate. In situations where scientifi...",
+      "fact": "PubMed 记录显示该文献收录于 Cellular and molecular gastroenterology and hepatology，PMID 为 42586207。",
+      "report": "Lactylation has been implicated in the repair and regeneration of multiple organs including skin and heart. The liver serves as a vital organ for lactate metabolism, while the roles of lactate and lactylation during liver regeneration remain unclear. Mice were...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42586205",
+      "date": "2026-08-12",
+      "title": "Single-cell and spatial transcriptomics across populations with perianal fistulizing Crohn's disease shows pro-inflammatory CD4+ macrophage involvement in disease progression.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42586205/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cellular and molecular gastroenterology and hepatology，PMID 为 42586205。",
+      "report": "Perianal fistulizing Crohn's disease is a severe morbidity with rectal involvement and a higher prevalence in African Americans (AA) compared to Europeans Americans (EA). In this study, we sought to define distinguishing cellular and molecular features between...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42586203",
+      "date": "2026-08-12",
+      "title": "Genome-scale CRISPR screening uncovers SRSF6 as a target to sensitize hepatocellular carcinoma to radiotherapy.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42586203/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 JHEP reports : innovation in hepatology，PMID 为 42586203。",
+      "report": "Radiotherapy confers clinical benefits to hepatocellular carcinoma (HCC) patients across all stages, yet its clinical efficacy is limited by radioresistance. This study aimed to identify key regulators of HCC radiosensitivity through genome-wide functional scr...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42585814",
+      "date": "2026-08-12",
+      "title": "Proof-of-concept study in patient-derived organoids from malignant pleural effusion for functional testing in thoracic tumors.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42585814/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie，PMID 为 42585814。",
+      "report": "Thoracic malignancies, including lung adenocarcinoma and malignant pleural mesothelioma, remain associated with poor prognosis and limited durable responses in advanced stages. Although targeted therapies and immunotherapy have improved outcomes in selected pa...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42586250",
+      "date": "2026-08-12",
+      "title": "PCR and molecular diagnostics: Biotechnologic integration in clinical laboratories.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42586250/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Clinica chimica acta; international journal of clinical chemistry，PMID 为 42586250。",
+      "report": "A new generation of molecular tests has revolutionized laboratory medicine through allowing for quick, sensitive, and precise identification of the pathogen; genetic mutation or alteration; and disease-related bio-markers. Of all the molecular techniques that...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -611,34 +758,6 @@
       "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42584173。",
       "report": "On January 19, 2024, the FDA granted traditional approval to erdafitinib for patients with locally advanced or metastatic urothelial carcinoma (la/mUC) with susceptible FGFR3 genetic alterations, as determined by an FDA-approved companion diagnostic test, whos...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42584829",
-      "date": "2026-08-12",
-      "title": "Healing Without Certainty: The Ethical Significance of Uncertainty in Israeli Medicine in the Age of Artificial Intelligence.",
-      "entity": "Healthcare AI Research",
-      "primaryCategory": "Healthcare AI",
-      "subCategory": "Medical AI",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42584829/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Healthcare AI",
-        "Medical LLM"
-      ],
-      "tags": [
-        "医疗 AI",
-        "临床决策支持"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 HEC forum : an interdisciplinary journal on hospitals' ethical and legal issues，PMID 为 42584829。",
-      "report": "The growing integration of artificial intelligence into healthcare is frequently associated with efforts to reduce uncertainty through prediction, data analysis, and computational decision support. Recent work on generative and foundation models has intensifie...",
-      "inference": "自动分类命中规则：Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -812,6 +931,42 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42585941",
+      "date": "2026-08-01",
+      "title": "Evolution of CRISPR-cas detection systems: From nucleic acid recognition to omnidirectional point-of-care diagnostic applications.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42585941/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Diagnostic microbiology and infectious disease，PMID 为 42585941。",
+      "report": "Molecular diagnostic technologies play an indispensable role in modern medicine and public health. However, traditional diagnostic platforms frequently face an inherent trade-off between laboratory-grade analytical precision and the speed and operational simpl...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42580899",
       "date": "2026-07-30",
       "title": "The organ-on-a-chip-AI virtual cell loop: a path toward next‑generation biomedicine.",
@@ -846,110 +1001,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42583380",
-      "date": "2026-07-29",
-      "title": "Therapeutic resistance in HPV-positive oropharyngeal squamous cell carcinoma: molecular mechanisms, clinical challenges, and precision strategies.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42583380/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in genetics，PMID 为 42583380。",
-      "report": "Human papillomavirus (HPV)-positive oropharyngeal squamous cell carcinoma (OPSCC) exhibits exceptional sensitivity to chemoradiotherapy, with 5-year overall survival exceeding 80%, thereby providing a compelling rationale for treatment de-escalation. However,...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42583072",
-      "date": "2026-07-28",
-      "title": "Extracellular vesicle-mediated immune-metabolic crosstalk: research advances in inflammatory regulation and the pathogenesis of metabolic diseases.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42583072/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42583072。",
-      "report": "Extracellular vesicles (EVs)-lipid bilayer-enclosed nanoparticles secreted by virtually all cell types-have shifted from being viewed as passive cellular byproducts to active signaling nodes orchestrating inter-cellular and inter-organ communication. Yet the f...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42582913",
-      "date": "2026-07-28",
-      "title": "LUHMES-derived 3D organoids as an enhanced platform for modelling dopaminergic neurodegeneration in Parkinson's disease.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42582913/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in molecular biosciences，PMID 为 42582913。",
-      "report": "Parkinson's disease (PD) research traditionally relies on animal models and two-dimensional (2D) culture models. These models fail to recapitulate the complex cellular architecture and network interactions that are possible with three-dimensional (3D) organoid...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42509463",
       "date": "2026-07-28",
       "title": "Inflammation-linked aging signals in frozen single-cell foundation models: donor-aware detection and robustness testing.",
@@ -981,38 +1032,6 @@
       "fact": "PubMed 记录显示该文献收录于 Biogerontology，PMID 为 42509463。",
       "report": "Single-cell foundation models such as scGPT and Geneformer are large neural networks trained on human single-cell RNA-seq data. They were never shown chronological age during training. Do their internal representations nevertheless encode aging biology in a wa...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42582172",
-      "date": "2026-07-28",
-      "title": "Evolving non-invasive biomarkers in NSCLC immunotherapy: integrating liquid biopsy and multi-omics profiling for precision oncology.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42582172/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42582172。",
-      "report": "The therapeutic landscape for advanced non-small cell lung cancer (NSCLC) has been transformed by immune checkpoint inhibitors (ICIs), yet significant response heterogeneity necessitates robust, dynamic predictive biomarkers. Conventional tissue-based markers,...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
