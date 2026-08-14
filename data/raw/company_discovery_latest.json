@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-08-14T07:53:09.844523+00:00",
+  "capturedAt": "2026-08-14T13:47:00.310080+00:00",
   "summary": {
-    "mentionCount": 666,
-    "candidateCount": 594,
+    "mentionCount": 667,
+    "candidateCount": 595,
     "corroboratedCount": 2,
     "identifiedCount": 586,
-    "needsReviewCount": 6,
+    "needsReviewCount": 7,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 3,
+      "ClinicalTrials": 4,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 60,
@@ -20,71 +20,95 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-6aedd4d95afa0ff4",
-      "observedName": "Cellnovo Limited",
-      "normalizedName": "cellnovo",
+      "id": "mention-clinicaltrials-306058f119b3762b",
+      "observedName": "CTI BioPharma",
+      "normalizedName": "cti biopharma",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT03849755",
-      "sourceDate": "2020-08-04",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03849755",
+      "sourceRecordId": "NCT02323607",
+      "sourceDate": "2019-01-25",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT02323607",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Longevity",
+        "Oncology",
+        "Precision Oncology",
+        "biomarker",
+        "临床试验",
+        "肿瘤",
+        "衰老"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Pacritinib and Chemotherapy in Treating Patients With Acute Myeloid Leukemia and FLT3 Mutations"
+    },
+    {
+      "id": "mention-clinicaltrials-37a7c67bb7c9fd11",
+      "observedName": "Ozmosis Research Inc.",
+      "normalizedName": "ozmosis research",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT06370832",
+      "sourceDate": "2026-03-30",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06370832",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Recruiting",
+        "临床试验"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Inspiratory Muscle Training in Lung Transplant Candidates"
+    },
+    {
+      "id": "mention-clinicaltrials-844bd220a360c8d1",
+      "observedName": "Shanghai United Imaging Intelligence Ltd.",
+      "normalizedName": "shanghai united imaging intelligence",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT07634861",
+      "sourceDate": "2026-06-09",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07634861",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
         "Healthcare AI",
         "Medical AI",
+        "Recruiting",
+        "中国",
         "临床决策支持",
         "临床试验",
         "医疗 AI"
       ],
       "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "Patient Empowerment Through Predictive Personalised Decision Support(PEPPER)-Validation Study."
-    },
-    {
-      "id": "mention-clinicaltrials-90e10d8e90444a17",
-      "observedName": "TechnoGenesys, Inc.",
-      "normalizedName": "technogenesys",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06705686",
-      "sourceDate": "2026-03-20",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06705686",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Advanced Disease Models",
-        "Clinical Trials",
-        "Oncology",
-        "Organoids",
-        "Precision Oncology",
-        "Recruiting",
-        "临床试验",
-        "疾病模型",
-        "类器官",
-        "肿瘤"
-      ],
-      "activitySignals": [
         "active_trial",
-        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Novel ACK1 Inhibitor (R)-9b in Patients With Prostate Cancer"
+      "contextTitle": "Evaluating a Text-Prompt AI Assistant for Chest CT Scans (AI-REPORT Study)"
     },
     {
-      "id": "mention-clinicaltrials-ec8e1c87d6bfd31c",
-      "observedName": "Seagen Inc.",
-      "normalizedName": "seagen",
+      "id": "mention-clinicaltrials-defde993fb7fb350",
+      "observedName": "Novartis Pharmaceuticals",
+      "normalizedName": "novartis pharmaceuticals",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT03947255",
-      "sourceDate": "2023-10-13",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03947255",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT01911507",
+      "sourceDate": "2021-10-13",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01911507",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -98,7 +122,7 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Study of Retreatment With Brentuximab Vedotin in Subjects With Classic Hodgkin Lymphoma or CD30-expressing Peripheral T Cell Lymphoma"
+      "contextTitle": "INC280 and Erlotinib Hydrochloride in Treating Patients With Non-small Cell Lung Cancer"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -44279,124 +44303,6 @@
       ]
     },
     {
-      "id": "candidate-seagen",
-      "name": "Seagen Inc.",
-      "aliases": [
-        "Seagen Inc."
-      ],
-      "normalizedName": "seagen",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2023-10-13",
-      "lastSeenAt": "2023-10-13",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "临床试验",
-          "肿瘤"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "临床试验",
-          "肿瘤"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-ec8e1c87d6bfd31c"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2023-10-13",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT03947255",
-          "externalId": "NCT03947255",
-          "contextTitle": "A Study of Retreatment With Brentuximab Vedotin in Subjects With Classic Hodgkin Lymphoma or CD30-expressing Peripheral T Cell Lymphoma"
-        }
-      ]
-    },
-    {
-      "id": "candidate-technogenesys",
-      "name": "TechnoGenesys, Inc.",
-      "aliases": [
-        "TechnoGenesys, Inc."
-      ],
-      "normalizedName": "technogenesys",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-03-20",
-      "lastSeenAt": "2026-03-20",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Advanced Disease Models",
-          "Clinical Trials",
-          "Oncology",
-          "Organoids",
-          "Precision Oncology",
-          "Recruiting",
-          "临床试验",
-          "疾病模型",
-          "类器官",
-          "肿瘤"
-        ],
-        "themes": [
-          "Advanced Disease Models",
-          "Clinical Trials",
-          "Oncology",
-          "Organoids",
-          "Precision Oncology",
-          "Recruiting",
-          "临床试验",
-          "疾病模型",
-          "类器官",
-          "肿瘤"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-90e10d8e90444a17"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2026-03-20",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06705686",
-          "externalId": "NCT06705686",
-          "contextTitle": "Novel ACK1 Inhibitor (R)-9b in Patients With Prostate Cancer"
-        }
-      ]
-    },
-    {
       "id": "candidate-agnos-therapeutics",
       "name": "Agnos Therapeutics Inc.",
       "aliases": [
@@ -47537,24 +47443,192 @@
       ]
     },
     {
-      "id": "candidate-cellnovo",
-      "name": "Cellnovo Limited",
+      "id": "candidate-cti-biopharma",
+      "name": "CTI BioPharma",
       "aliases": [
-        "Cellnovo Limited"
+        "CTI BioPharma"
       ],
-      "normalizedName": "cellnovo",
+      "normalizedName": "cti biopharma",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2020-08-04",
-      "lastSeenAt": "2020-08-04",
+      "firstSeenAt": "2019-01-25",
+      "lastSeenAt": "2019-01-25",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Longevity",
+          "Oncology",
+          "Precision Oncology",
+          "biomarker",
+          "临床试验",
+          "肿瘤",
+          "衰老"
+        ],
+        "themes": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Longevity",
+          "Oncology",
+          "Precision Oncology",
+          "biomarker",
+          "临床试验",
+          "肿瘤",
+          "衰老"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-306058f119b3762b"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2019-01-25",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT02323607",
+          "externalId": "NCT02323607",
+          "contextTitle": "Pacritinib and Chemotherapy in Treating Patients With Acute Myeloid Leukemia and FLT3 Mutations"
+        }
+      ]
+    },
+    {
+      "id": "candidate-novartis-pharmaceuticals",
+      "name": "Novartis Pharmaceuticals",
+      "aliases": [
+        "Novartis Pharmaceuticals"
+      ],
+      "normalizedName": "novartis pharmaceuticals",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2021-10-13",
+      "lastSeenAt": "2021-10-13",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-defde993fb7fb350"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2021-10-13",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT01911507",
+          "externalId": "NCT01911507",
+          "contextTitle": "INC280 and Erlotinib Hydrochloride in Treating Patients With Non-small Cell Lung Cancer"
+        }
+      ]
+    },
+    {
+      "id": "candidate-ozmosis-research",
+      "name": "Ozmosis Research Inc.",
+      "aliases": [
+        "Ozmosis Research Inc."
+      ],
+      "normalizedName": "ozmosis research",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-03-30",
+      "lastSeenAt": "2026-03-30",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Recruiting",
+          "临床试验"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Recruiting",
+          "临床试验"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-37a7c67bb7c9fd11"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2026-03-30",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06370832",
+          "externalId": "NCT06370832",
+          "contextTitle": "Inspiratory Muscle Training in Lung Transplant Candidates"
+        }
+      ]
+    },
+    {
+      "id": "candidate-shanghai-united-imaging-intelligence",
+      "name": "Shanghai United Imaging Intelligence Ltd.",
+      "aliases": [
+        "Shanghai United Imaging Intelligence Ltd."
+      ],
+      "normalizedName": "shanghai united imaging intelligence",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-06-09",
+      "lastSeenAt": "2026-06-09",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
           "Healthcare AI",
           "Medical AI",
+          "Recruiting",
+          "中国",
           "临床决策支持",
           "临床试验",
           "医疗 AI"
@@ -47563,6 +47637,8 @@
           "Clinical Trials",
           "Healthcare AI",
           "Medical AI",
+          "Recruiting",
+          "中国",
           "临床决策支持",
           "临床试验",
           "医疗 AI"
@@ -47578,17 +47654,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-6aedd4d95afa0ff4"
+        "mention-clinicaltrials-844bd220a360c8d1"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2020-08-04",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT03849755",
-          "externalId": "NCT03849755",
-          "contextTitle": "Patient Empowerment Through Predictive Personalised Decision Support(PEPPER)-Validation Study."
+          "sourceDate": "2026-06-09",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07634861",
+          "externalId": "NCT07634861",
+          "contextTitle": "Evaluating a Text-Prompt AI Assistant for Chest CT Scans (AI-REPORT Study)"
         }
       ]
     }

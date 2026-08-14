@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-14T07:53:05.798696+00:00",
+  "capturedAt": "2026-08-14T13:46:56.513763+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-14"
   },
   "pmids": [
+    "42596847",
     "42595681",
     "42595219",
     "42595111",
     "42594953",
     "42594869",
-    "42594775",
     "42580899",
     "42559559",
     "42509463",
@@ -40,6 +40,22 @@
     "42591669"
   ],
   "records": [
+    {
+      "pmid": "42596847",
+      "title": "Integrated analyses of in vivo mouse models and liver organoids reveal MFG-E8-mediated protection against hepatocyte injury.",
+      "abstract": "Milk Fat Globule-EGF Factor 8 (MFG-E8) is a multifunctional glycoprotein implicated in tissue homeostasis and repair. While its roles in intestinal and pancreatic injury are well established, its function in hepatic regeneration remains poorly defined. In this study, we investigated MFG-E8 expression and activity using a hepatocyte-specific apoptosis model (3xTg-iHAP) and liver organoid cultures from wild-type (B6WT) and Mfge8 knockout (Mfge8⁻/⁻) mice. In doxycycline (Dox)-treated 3xTg-iHAP mice, Mfge8 mRNA and MFG-E8 protein were markedly upregulated, peaking at 48 h after hepatocyte injury. RNAScope-Immunostain Integrated Codetection workflow (ICW) demonstrated that under basal conditions, Mfge8 expression was localized to cholangiocytes, but following injury, hepatocytes exhibited robust transcriptional induction. In vitro, three-dimensional (3D) organoids showed no overt genotype-specific differences between B6WT and Mfge8⁻/⁻ mice; however, two-dimensional (2D) monolayers derived from Mfge8⁻/⁻ mice exhibited cytopathic disintegration by day 5. This phenotype was partially rescued by recombinant MFG-E8 (rMFG-E8). Transcriptomic analysis by RNA-seq confirmed loss of Mfge8 expression in knockout cultures, accompanied by an ~8-fold increase in Hddc3, a ferroptosis-associated gene, suggesting a potential mechanism underlying structural instability ex vivo. These findings demonstrate that MFG-E8 is indispensable for maintaining hepatic epithelial integrity. Loss of MFG-E8 sensitizes hepatocytes to ferroptosis stress, providing mechanistic insight into impaired liver repair and highlighting MFG-E8 as a potential therapeutic target to enhance hepatic regeneration.",
+      "journal": "American journal of physiology. Gastrointestinal and liver physiology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Pediatric Mucosal Inflammation and Regeneration Research Program, Center for Pediatric Translational Research and Education, Department of Pediatrics, College of Medicine, University of Illinois at Chicago, Illinois 60612, USA.",
+        "Department of Research & Development, Jesse Brown Veterans Affairs Medical Center, Chicago, Illinois 60612, USA."
+      ],
+      "doi": "10.1152/ajpgi.00079.2026",
+      "date": "2026-08-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42596847/"
+    },
     {
       "pmid": "42595681",
       "title": "Liver regenerative medicine approaches: Translational strategies for pediatric surgery.",
@@ -136,27 +152,6 @@
       "doi": "10.1016/j.crmeth.2026.101546",
       "date": "2026-08-13",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594869/"
-    },
-    {
-      "pmid": "42594775",
-      "title": "Establishment of human nasolacrimal duct epithelial organoid model.",
-      "abstract": "The nasolacrimal duct (NLD) holds significant clinical importance in diseases represented by primary acquired NLD obstruction (PANDO). This study aims to culture human NLD epithelial cells using organoid culture systems, with the goal of establishing cell models that recapitulate the in vivo characteristics of the NLD in an in vitro setting. Human NLD epithelial specimens were surgically obtained from PANDO patients during endoscopic dacryocystorhinostomy. Human NLD epithelial cells were isolated via enzymatic digestion and expanded using Expansion Medium. Air-liquid interface culture was performed to induce differentiation, evidenced by active ciliary beating within 28 days. Both apical-in and apical-out NLD organoids were successfully generated using Matrigel-based 3D culture systems and AggreWell™ 400 24-well plate. Histological analysis confirmed that the human NLD epithelium comprised a stratified columnar architecture with ciliated, goblet, and basal cells. Using an air-liquid interface system, primary epithelial cells were successfully differentiated into a polarized layer exhibiting native tissue characteristics. Furthermore, both apical-in and apical-out organoids were established, recapitulating key structural and cellular features of the native NLD epithelium. This NLD epithelial organoid system provides a versatile platform for studying NLD physiology, pathology, drug screening, and naso-ocular interactions, with potential for further expansion into broader research applications.",
-      "journal": "European journal of cell biology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Otorhinolaryngology-Head and Neck Surgery, Department of Allergy, Naso-Orbital-Maxilla and Skull Base Center, The Third Affiliated Hospital, Sun Yat-sen University, No. 600 Tian He Road, Guangzhou 510060, China; Key Laboratory of Airway Inflammatory Disease Research and Innovative Technology Translation, Guangzhou 510630, China.",
-        "State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun Yat-sen University, Guangdong Provincial Key Laboratory of Ophthalmology and Visual Science, Guangzhou 510060, China.",
-        "Department of Otorhinolaryngology-Head and Neck Surgery, Department of Allergy, Naso-Orbital-Maxilla and Skull Base Center, The Third Affiliated Hospital, Sun Yat-sen University, No. 600 Tian He Road, Guangzhou 510060, China.",
-        "Department of Pathology, The Third Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong 510060, China.",
-        "Department of Otorhinolaryngology-Head and Neck Surgery, Department of Allergy, Naso-Orbital-Maxilla and Skull Base Center, The Third Affiliated Hospital, Sun Yat-sen University, No. 600 Tian He Road, Guangzhou 510060, China; Key Laboratory of Airway Inflammatory Disease Research and Innovative Technology Translation, Guangzhou 510630, China. Electronic address: yangqint@mail.sysu.edu.cn.",
-        "State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun Yat-sen University, Guangdong Provincial Key Laboratory of Ophthalmology and Visual Science, Guangzhou 510060, China. Electronic address: liangxuanwei@163.com.",
-        "Department of Otorhinolaryngology-Head and Neck Surgery, Department of Allergy, Naso-Orbital-Maxilla and Skull Base Center, The Third Affiliated Hospital, Sun Yat-sen University, No. 600 Tian He Road, Guangzhou 510060, China; Key Laboratory of Airway Inflammatory Disease Research and Innovative Technology Translation, Guangzhou 510630, China. Electronic address: qiuhj7@mail.sysu.edu.cn."
-      ],
-      "doi": "10.1016/j.ejcb.2026.151562",
-      "date": "2026-08-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594775/"
     },
     {
       "pmid": "42580899",
@@ -495,6 +490,36 @@
   ],
   "signals": [
     {
+      "id": "pubmed-42596847",
+      "date": "2026-08-14",
+      "title": "Integrated analyses of in vivo mouse models and liver organoids reveal MFG-E8-mediated protection against hepatocyte injury.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42596847/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 American journal of physiology. Gastrointestinal and liver physiology，PMID 为 42596847。",
+      "report": "Milk Fat Globule-EGF Factor 8 (MFG-E8) is a multifunctional glycoprotein implicated in tissue homeostasis and repair. While its roles in intestinal and pancreatic injury are well established, its function in hepatic regeneration remains poorly defined. In this...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42595219",
       "date": "2026-08-13",
       "title": "Efferent ductule epithelium orchestrates reproductive immune homeostasis under inflammatory stress.",
@@ -796,36 +821,6 @@
       "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 42572503。",
       "report": "This Perspective explores recent methods and prospective ideas for developing hybrid AI-physics-based pipelines for protein and antibody de novo design. We argue that the highest-confidence candidates emerge where deep learning and first-principles models agre...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42594775",
-      "date": "2026-08-09",
-      "title": "Establishment of human nasolacrimal duct epithelial organoid model.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594775/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 European journal of cell biology，PMID 为 42594775。",
-      "report": "The nasolacrimal duct (NLD) holds significant clinical importance in diseases represented by primary acquired NLD obstruction (PANDO). This study aims to culture human NLD epithelial cells using organoid culture systems, with the goal of establishing cell mode...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
