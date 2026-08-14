@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-14T13:46:56.513763+00:00",
+  "capturedAt": "2026-08-14T19:16:44.033607+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-14"
   },
   "pmids": [
+    "42599088",
+    "42598348",
+    "42597929",
+    "42597451",
     "42596847",
     "42595681",
-    "42595219",
-    "42595111",
-    "42594953",
-    "42594869",
     "42580899",
     "42559559",
     "42509463",
@@ -32,14 +32,80 @@
     "42567392",
     "42564489",
     "42561121",
+    "42598790",
+    "42598003",
+    "42597984",
     "42594670",
     "42594169",
-    "42593704",
-    "42592866",
-    "42592195",
-    "42591669"
+    "42593704"
   ],
   "records": [
+    {
+      "pmid": "42599088",
+      "title": "Liver Organoids: From Disease Modelling to Regenerative Medicine.",
+      "abstract": "Liver organoids are three-dimensional miniature liver models that recapitulate the complex architecture and key functions of the human liver in vitro, offering powerful platforms for both fundamental research and translational applications. This review systematically summarises current fabrication strategies, disease-modelling utilities and regenerative potentials of liver organoids, alongside the major challenges and future directions. In recent years, the field has witnessed several breakthroughs. Through endothelial co-culture approaches, vascularised and metabolically zonated liver organoids have been successfully generated, achieving endothelial coverage exceeding 85%. Prime editing enables precise correction of pathogenic mutations in patient-derived organoids, with no off-target effects detected at the genome-wide level. In disease modelling, iPSC-derived liver organoids faithfully recapitulate the pathological progression of metabolic dysfunction-associated steatotic liver disease (MASLD) and verify the lipid-lowering efficacy of semaglutide. Macrophage-integrated organoid models support the full life cycles of HEV, SARS-CoV-2 and dengue virus, providing new tools for antiviral drug screening. Large-scale patient-derived tumour organoid biobanks successfully preserve the heterogeneity and clinical drug-resistance signatures of liver cancers. In regenerative medicine, encapsulated hepatocyte organoids and the UTOpiA bioartificial liver system have effectively rescued acute liver failure in animal models, while gene-edited autologous organoids offer potential curative strategies for genetic disorders such as Wilson disease. Nevertheless, insufficient hepatocyte functional maturity, difficulties in constructing vascular networks, and the lack of standardised culture protocols remain major obstacles to clinical translation. By bridging fundamental liver biology and clinical practice, liver organoid technology lays a solid foundation for precision hepatology and regenerative therapies. Continued interdisciplinary efforts are still required to overcome current limitations and facilitate its clinical adoption.",
+      "journal": "Cell proliferation",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Xinjiang Second Medical College, Karamay, Xinjiang, China.",
+        "Carver College of Medicine, the University of Iowa, Iowa City, Iowa, USA.",
+        "School of Medicine, Shihezi University, Shihezi, Xinjiang, China."
+      ],
+      "doi": "10.1111/cpr.70268",
+      "date": "2026-08-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42599088/"
+    },
+    {
+      "pmid": "42598348",
+      "title": "From sebocytes to skin engineering human sebaceous organoids within a reconstructed dermal matrix.",
+      "abstract": "Sebaceous gland biology depends on the integration of lipid metabolism, tissue architecture, and stromal interactions, yet most available in vitro systems fail to capture these features simultaneously. This work reports the generation of a functional three-dimensional (3D) sebaceous gland organoid embedded within a matrix and designed to reproduce the structural and functional properties of native sebaceous tissue. Using SZ95 sebocytes, we first established baseline responses in monolayer conditions using linoleic acid (LA) stimulation and pharmacological inhibition with retinol (RTN) and capsaicin (CPS). We then reconstructed a 3D organoid model in which a sebocyte-rich lipidogenic compartment was spatially organized within a matrix-supported microenvironment and associated with an outer stromal-like component. The model was evaluated using morphological, ultrastructural, and immunofluorescence analyses. To further define the mode of action of sebogenic activation in 3D, we analyzed genes related to extracellular matrix remodeling and tissue adaptation. In both monolayer and 3D models, LA successfully induced a sebogenic program, characterized by increased lipid accumulation and upregulation of PPARγ and FABP4, which was effectively attenuated by RTN and CPS. The 3D model successfully maintained essential compartmentalization, epithelial identity, and stromal organization. Furthermore, transcriptional analysis revealed that LA stimulation in 3D induced coordinated changes in extracellular matrix and basement membrane genes (including MMP13, MMP16, and THBS2), indicating that sebogenesis is directly coupled with structural remodeling and microenvironmental adaptation. Altogether, these results demonstrate that we successfully reconstructed a functional in vitro model of a sebaceous gland organoid and established this platform as a relevant tool for mechanistic studies and for cosmetic screening of compounds targeting sebum regulation and sebaceous gland dysfunction.",
+      "journal": "Frontiers in toxicology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Medical Sciences, University of Ferrara, Ferrara, Italy.",
+        "Symrise Srl, Padova, Italy."
+      ],
+      "doi": "10.3389/ftox.2026.1874806",
+      "date": "2026-07-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42598348/"
+    },
+    {
+      "pmid": "42597929",
+      "title": "Maternal-fetal interface abnormalities in unexplained recurrent pregnancy loss: mechanisms, models, and a framework for subtype identification.",
+      "abstract": "Recurrent pregnancy loss (RPL) is a heterogeneous reproductive condition, and unexplained recurrent pregnancy loss (URPL) denotes repeated pregnancy losses for which no established cause is identified after standard evaluation. Recurrent miscarriage (RM) and recurrent spontaneous abortion (RSA) are overlapping terms used in the literature, whereas recurrent implantation failure (RIF) is a related but distinct infertility context. In this Mini Review, URPL is treated as an exclusion-based clinical category rather than a single disease entity. This review examines the hypothesis that a subset of URPL reflects abnormalities in specific cellular and molecular components of the maternal-fetal interface. We focus on maternal compartments, including endometrial epithelial lineage states, decidual stromal dysfunction, and stromal-immune interactions, as well as fetal/trophoblast compartments such as trophoblast lineage defects and broader maternal-fetal interactions, incorporating insights from recent advances in molecular and cellular technologies and human model systems. Particular attention is given to single-cell, spatial, organoid, assembloid, implantation model, trophoblast stem cell, and placental explant studies published from 2024 to 2026. Current data do not establish clinical subtypes for URPL or support treatment selection in routine practice. However, recent molecular and cellular technologies now make it possible to define interface phenotypes with higher resolution and to test whether patient-derived abnormalities are reproducible and perturbable in experimental systems. An interface-centered framework may therefore help move URPL research from broad exclusion-based labels toward experimentally testable subtype identification based on epithelial, decidual, trophoblast, immune, and embryo-endometrial phenotypes.",
+      "journal": "Frontiers in endocrinology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Obstetrics and Gynecology, Keio University School of Medicine, Tokyo, Japan.",
+        "Department of Molecular Biology, Keio University School of Medicine, Tokyo, Japan."
+      ],
+      "doi": "10.3389/fendo.2026.1900874",
+      "date": "2026-07-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42597929/"
+    },
+    {
+      "pmid": "42597451",
+      "title": "Testicular organoid models in male reproductive toxicology: advances, applications, and future perspectives.",
+      "abstract": "Male reproductive health has declined markedly over the past decades, with environmental chemicals, pharmaceuticals, and lifestyle factors implicated in this trend. Conventional toxicological approaches-rodent bioassays and two-dimensional cell cultures-suffer from species-specific biases, limited physiological relevance, and inadequate throughput for screening the expanding universe of suspect compounds. Testicular organoid technology has emerged as a promising alternative, reconstituting three-dimensional cellular architecture, paracrine crosstalk, and partial spermatogenic progression in vitro. This narrative review was assembled from English-language studies retrieved from PubMed, Web of Science, and Scopus (2010-2024) using combinations of the terms testicular organoid, organ-on-chip, spermatogenesis, and reproductive toxicology, prioritizing original research and methodological reports on three-dimensional testicular models and excluding abstract-only records. On this basis the review maps current construction strategies, spanning primary cell isolation, pluripotent stem cell differentiation, and spermatogonial stem cell expansion, alongside matrix choices and microfluidic culture platforms. It then examines how testicular organoids have been deployed to assess endocrine-disrupting chemicals, chemotherapeutics, and other pharmacological agents, where several studies report the detection of effects at concentrations appreciably below those required in monolayer systems, particularly under chronic low-dose exposure. Integration with single-cell multi-omics and machine learning has advanced mechanistic dissection and candidate biomarker discovery across oxidative, mitochondrial, and epigenetic axes, although these computational applications remain exploratory given the absence of standardized organoid protocols. Morphological, functional, molecular, and epigenetic indicators are consolidated into a unified evaluation framework, and persistent bottlenecks are addressed, including incomplete blood-testis barrier reconstitution, long-term culture instability, inter-donor variability, and inefficient elongated spermatozoa formation. Overall, testicular organoids offer clear mechanistic and human-relevance advantages, yet they are not yet sufficiently mature or validated to broadly replace in vivo models in regulatory assessment. Future priorities center on protocol standardization, automated high-throughput adaptation, multi-organ-on-chip integration, and formal regulatory validation to enable transformative applications in drug safety evaluation, environmental risk management, and male reproductive health protection.",
+      "journal": "Frontiers in physiology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Life Science and Technology, Shandong Second Medical University, Weifang, Shandong, China."
+      ],
+      "doi": "10.3389/fphys.2026.1874148",
+      "date": "2026-07-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42597451/"
+    },
     {
       "pmid": "42596847",
       "title": "Integrated analyses of in vivo mouse models and liver organoids reveal MFG-E8-mediated protection against hepatocyte injury.",
@@ -74,84 +140,6 @@
       "doi": "10.1016/j.sempedsurg.2026.151681",
       "date": "2026-08-04",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42595681/"
-    },
-    {
-      "pmid": "42595219",
-      "title": "Efferent ductule epithelium orchestrates reproductive immune homeostasis under inflammatory stress.",
-      "abstract": "Immune dysregulation is increasingly recognized as a key contributor to male infertility, yet the role of the efferent ductules in reproductive immune homeostasis remains unexplored. Located between the immune-privileged testis and the epididymis, efferent ductules are essential for male fertility by reabsorbing over 90% of testicular fluid and maintaining sperm in suspension through the coordinated activity of reabsorptive primary ciliated cells (RPCCs) and multiciliated cells (MCCs). Using complementary in vivo and in vitro approaches, we investigated the contribution of efferent ductule epithelial cells to innate immunity. In a mouse model of lipopolysaccharide (LPS)-induced epididymitis, efferent ductules displayed significant interstitial neutrophil infiltration and abnormal sperm accumulation, indicating disrupted local homeostasis. Both mouse and human epithelial cells expressed Toll-like receptor 4, supporting a role in pathogen sensing. Transcriptomic analyses showed MCCs enriched in cilia-related genes, while RPCCs preferentially expressed genes involved in signaling and inflammation. To further explore epithelial immune function, we developed 3D organoid models recapitulating key features of efferent ductules. Upon LPS stimulation, these organoids mounted a robust innate immune response, secreting cytokines, chemokines, and growth factors, consistent with in vivo observations. Together, these findings identify efferent ductule epithelial cells as an upstream immunological checkpoint and establish organoids as a valuable model to study efferent ductule epithelial cells function in male reproductive health.",
-      "journal": "Mucosal immunology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Obstetrics, Gynecology and Reproduction, Faculty of Medecine, Université Laval, Quebec City, QC, Canada; CHU de Québec-Université Laval Research center, Quebec City, QC, Canada; Research Center in Reproduction, Development, and Intergenerational Health, Université Laval, Quebec City, QC, Canada.",
-        "CHU de Québec-Université Laval Research center, Quebec City, QC, Canada; Research Center in Reproduction, Development, and Intergenerational Health, Université Laval, Quebec City, QC, Canada.",
-        "Department of Biophysics and Pharmacology, Institute of Biosciences of Botucatu, São Paulo State University, Brazil.",
-        "CHU de Québec-Université Laval Research center, Quebec City, QC, Canada.",
-        "Department of Life Sciences, University of Siena, Siena, Italy.",
-        "CHU de Québec-Université Laval Research center, Quebec City, QC, Canada; Department of Molecular Medicine, Université Laval, Quebec City, QC, Canada.",
-        "CHU de Québec-Université Laval Research center, Quebec City, QC, Canada; Department of Microbiology, Infectious Diseases, and Immunology, Faculty of Medecine, Université Laval, Quebec City, QC, Canada.",
-        "Department of Obstetrics, Gynecology and Reproduction, Faculty of Medecine, Université Laval, Quebec City, QC, Canada; CHU de Québec-Université Laval Research center, Quebec City, QC, Canada; Research Center in Reproduction, Development, and Intergenerational Health, Université Laval, Quebec City, QC, Canada. Electronic address: Clemence.Belleannee@crchudequebec.ulaval.ca."
-      ],
-      "doi": "10.1016/j.mucimm.2026.100400",
-      "date": "2026-08-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42595219/"
-    },
-    {
-      "pmid": "42595111",
-      "title": "OTUD5 Maintains STAT1/2 Stability and Promotes IFNγ-driven Intestinal Inflammation.",
-      "abstract": "Inflammatory bowel disease (IBD) is characterized by unresolved mucosal inflammation driven mainly by TNFα and/or IFNγ. While anti-TNFα biologics are a clinical mainstay, therapeutic resistance remains a significant hurdle. The molecular mechanisms that sustain inflammation in anti-TNFα non-responders are not fully understood. In human colon biopsies, we identified significant upregulation of the deubiquitinase OTUD5 in non-responders compared to responders, suggesting its involvement in therapy resistance. Using an intestinal epithelial cell (IEC)-specific Otud5 knockout mouse model, we show that Otud5 deficiency significantly alleviated the IFNγ-dependent colitis induced by dextran sulfate sodium (DSS), as evidenced by reduced weight loss and diminished infiltration of Ly6C+ inflammatory monocytes. Mechanistically, IFNγ induces OTUD5 expression through a non-transcriptional mechanism; in turn, OTUD5 stabilizes STAT1 and STAT2 by preventing their ubiquitination and subsequent degradation. This sustains IFNγ-ISGF3 signaling, which directly drives the expression of CCL8, a critical chemokine for monocyte recruitment. Targeting this pathway with a newly identified small-molecule inhibitor, CT1170, which exhibits potent activity against OTUD5, blocked the IFNγ-ISGF3-CCL8 axis, halted colitis progression, and suppressed colitis-elicited tumorigenesis. These findings were validated in human IBD organoids, where CT1170 effectively disrupted IFNγ-driven inflammatory signaling.",
-      "journal": "The Journal of biological chemistry",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Zhejiang Provincial Key Laboratory of Pancreatic Disease, The First Affiliated Hospital of Zhejiang University School of Medicine, Hangzhou, Zhejiang 310003, China; Institute of Translational Medicine, Zhejiang University Medical School, Hangzhou, Zhejiang 310058, China.",
-        "Department of Gastroenterology, The First Affiliated Hospital of Zhejiang University School of Medicine, Hangzhou, Zhejiang 310003, China.",
-        "Zhejiang Provincial Key Laboratory of Pancreatic Disease, The First Affiliated Hospital of Zhejiang University School of Medicine, Hangzhou, Zhejiang 310003, China.",
-        "Chaser Therapeutics Inc., Hangzhou, Zhejiang 310018, China.",
-        "Zhejiang Provincial Key Laboratory of Pancreatic Disease, The First Affiliated Hospital of Zhejiang University School of Medicine, Hangzhou, Zhejiang 310003, China; Institute of Translational Medicine, Zhejiang University Medical School, Hangzhou, Zhejiang 310058, China; Cancer Center, Zhejiang University, Hangzhou, Zhejiang 310058 China. Electronic address: pzhangbcm@zju.edu.cn.",
-        "Department of Gastroenterology, The First Affiliated Hospital of Zhejiang University School of Medicine, Hangzhou, Zhejiang 310003, China. Electronic address: shenzdr@zju.edu.cn."
-      ],
-      "doi": "10.1016/j.jbc.2026.113420",
-      "date": "2026-08-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42595111/"
-    },
-    {
-      "pmid": "42594953",
-      "title": "Advances in 3D-printed and biofabricated scaffolds for bone tissue engineering: materials, fabrication and biological integration.",
-      "abstract": "The worldwide incidence of bone disorders is increasing at an alarming rate, especially among the elderly and those with increased obesity and poor physical activity. Therefore, bone tissue engineering, the process of regenerating diseased or damaged bone, is gaining increasing attention from the scientific community. One of the critical components for tissue engineering is the scaffold, an artificial extracellular matrix that promotes bone formation and regeneration activities. Due to the increasing demands for bone repair, bone tissue scaffolds have been extensively studied in state-of-the-art literature. Nevertheless, many areas related to scaffold manufacturing still offer huge scope for scientific research and development. One such area is the bioprinting of scaffolds, which combines the advantages of three-dimensional printing and biomaterials to create an ideal tissue growth support environment for bone tissue regeneration. This review highlights recent advances in the bioprinting of scaffolds for bone tissue engineering. Taking different biomaterial-based scaffolds as a starting point, the latest research progress and breakthrough points for enhancing the mechanical properties and bioactivities of scaffolds are summarized. Recent scientific breakthroughs related to the tailoring and creative design of scaffolds have been highlighted. New strategies and schemes for subsequent bone scaffold angiogenesis and osteogenesis promotion for new bone tissue regeneration are also discussed. This comprehensive review identifies the shift of research direction, where the biological requirements such as immune response and vascularization is prioritized over fabrication methods. Research gaps on vascularization bottlenecks, methodological and evaluation gaps, fabrication challenges and regulatory hurdles have been identified as well. Future direction of research includes AI assisted design, 4D printing, smart implants, organoid integration and benchmarking standardization of bone tissue implants.",
-      "journal": "Biomedical materials (Bristol, England)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Mechanical and Production Engineering, Islamic University of Technology, Gazipur 1704, Gazipur, 1704, Bangladesh.",
-        "Department of Health Sciences and Technology, ETH Zürich, Swizerland, Zürich, 8092, Switzerland.",
-        "Department of Mechanical and Production Engineering, Islamic University of Technology, Gazipur, Gazipur, 1704, Bangladesh.",
-        "Department of Mechanical and Production Engineering, Islamic University of Technology, Dhaka gazipur, Gazipur, 1704, Bangladesh.",
-        "Islamic University of Technology, Board Bazar, Gazipur 1704, Dhaka, Bangladesh, Gazipur, Dhaka, 1704, Bangladesh.",
-        "Department of Civil and Mechanical Engineering, Technical University of Denmark, Produktionstorvet, Building 427A, Lyngby, 2800, Denmark."
-      ],
-      "doi": "10.1088/1748-605X/ae99be",
-      "date": "2026-08-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594953/"
-    },
-    {
-      "pmid": "42594869",
-      "title": "AAV-DJ enables efficient, function-preserving neuronal transduction for circuit interrogation in human cortical and thalamic organoids.",
-      "abstract": "Neural organoids provide tractable models of human brain development, function, and disease, but adeno-associated viral vector (AAV)-based gene delivery is limited by inefficient transduction and insufficient comparative evaluation of the natural and engineered capsids. Here, we evaluated seven AAV capsids (AAV-2, -6, -9, -DJ, -2-retro, -PHP.eB, and -Cap-Mac) for transduction efficiency, cell type tropism, cytotoxicity, and functional integrity in human cortical and thalamic organoids. AAV-Cap-Mac demonstrated the highest transduction efficiency, with broad cellular tropism, but caused cytotoxicity and decreased neuronal activity. By contrast, AAV-DJ yielded efficient neuronal transduction, with preserved calcium dynamics and minimal cytotoxicity, which enabled rabies virus-based circuit tracing and all-optical physiology. Our findings reveal a capsid-dependent trade-off between transduction efficiency and functional integrity and identify AAV-DJ as an optimal serotype for robust gene delivery and physiological interrogation in organoid-based neuroscience. Combining AAV-DJ with emerging molecular and circuit-level technologies in organoids should facilitate mechanistic and translational studies of the human brain.",
-      "journal": "Cell reports methods",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Laboratory of Cellular Pharmacology, Graduate School of Pharmaceutical Sciences, Nagoya University, Nagoya, Japan.",
-        "Laboratory of Cellular Pharmacology, Graduate School of Pharmaceutical Sciences, Nagoya University, Nagoya, Japan; Laboratory of Neural Information Processing, Institute for Advanced Research, Nagoya University, Nagoya, Japan; Research Institute for Quantum and Chemical Innovation, Institutes of Innovation for Future Society, Nagoya University, Nagoya, Japan; iGCORE, Nagoya University, Nagoya, Japan; PRESTO/CREST, Japan Science and Technology Agency, Saitama, Japan. Electronic address: osakada.fumitaka.x3@f.mail.nagoya-u.ac.jp."
-      ],
-      "doi": "10.1016/j.crmeth.2026.101546",
-      "date": "2026-08-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594869/"
     },
     {
       "pmid": "42580899",
@@ -383,6 +371,63 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42561121/"
     },
     {
+      "pmid": "42598790",
+      "title": "Beyond Morphology: Reframing Lymph-Node Metastasis Prediction Through Clonal Ecology-Decades-Long Genomic Instability and Polyclonal-to-Monoclonal Transitions as the Missing Dimension in Cancer.",
+      "abstract": "Recent whole-genome, lineage-tracing, single-cell, and spatial studies have reshaped our understanding of tumor evolution, revealing that cancers can arise from polyclonal populations, undergo decades-long genomic instability before clinical detection, and progress through dynamic changes in subclonal composition, cellular state, and ecological organization. These findings challenge the assumption underlying morphology-based prediction models that metastatic risk can be inferred from static histological features alone. Here, we revisit lymph-node metastasis prediction in colorectal cancer through clonal ecology, integrating computational pathology with evolutionary oncology. Drawing on the subclonal switchboard model proposed in 2012 and subsequent artificial intelligence (AI)-enabled approaches for tracking dominant and dormant subclones, we synthesize evidence that metastatic potential reflects clonal ancestry, evolutionary timing, spatial niche architecture, cellular plasticity, intercellular interactions, dormancy, and treatment-driven shifts in subclonal fitness. We define five complementary methodological pillars for operationalizing clonal ecology: single-cell transcriptomics for resolving rare subclones, evolutionary trajectories, and adaptive cell states; lineage tracing and phylogenetics for reconstructing clonal ancestry and divergence; spatial transcriptomics and genomics for mapping subclonal geography and tumor-stromal-immune interactions; longitudinal liquid biopsy surveillance for monitoring residual disease, clonal turnover, and emerging resistance; and AI-enabled multimodal integration for connecting histopathology, genomics, spatial biology, and longitudinal data into predictive ecological-state models. Multiple-instance learning and pathology foundation models provide scalable computational foundations for evolution-aware prediction. Translationally, dormant subclones represent actionable reservoirs of recurrence. A longitudinal clinical and experimental study of KMT2A-rearranged acute myeloid leukemia further supports central predictions of the subclonal switchboard framework by demonstrating treatment-associated shifts in subclonal dominance, persistence of cryptic adaptive programs, and ecological rewiring during resistance and relapse. We propose clonal ecology as a measurable dimension for extending morphology-driven prediction toward integrative models that anticipate evolutionary transitions, identify therapeutic windows, and proactively constrain adaptive tumor ecosystems before resistant or metastatic subclones achieve clinical dominance.",
+      "journal": "Stem cells and development",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "USC Norris Comprehensive Cancer Center, University of Southern California, Los Angeles, California, USA.",
+        "Cornell University, Irvine, California, USA.",
+        "IIA, Irvine, California, USA.",
+        "Department of Neurology, Irvine School of Medicine, University of California, Orange, California, USA.",
+        "CHOC Children's Research Institute, Children's Hospital of Orange County (CHOC®), Rady Children's Health Orange County (RCHOC®), Orange, California, USA."
+      ],
+      "doi": "10.1177/15473287261475554",
+      "date": "2026-08-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42598790/"
+    },
+    {
+      "pmid": "42598003",
+      "title": "Emergence of KRAS mosaicism with multiple variants during treatment with alectinib in ALK-positive metastatic non-small cell lung cancer: A case report.",
+      "abstract": "ALK fusions occur in 3-6% of lung cancers and confer sensitivity to ALK-tyrosine kinase inhibitors. However, acquired resistance inevitably develops through multiple mechanisms, limiting the durability of the treatment response. The present report describes the case of a 36-year-old man with ALK-rearranged lung adenocarcinoma treated with the second-generation ALK-tyrosine kinase inhibitor alectinib. At the time of disease progression, molecular analysis revealed the emergence of a KRAS mosaicism. The present report details the molecular evolution of the tumor, from the initial diagnosis to treatment failure. The current report illustrates a compelling mechanism of resistance to ALK inhibition driven by the synchronous emergence of multiple KRAS variants. While previous case reports have documented an isolated KRAS mutation as a potential resistance mechanism to ALK-tyrosine kinase inhibitor therapy, to the best of our knowledge, this is the first report describing such extensive KRAS mosaicism upon failure of alectinib treatment. The present report highlights the importance of reevaluating the molecular profile of the cancer at the time of progression to accurately define the resistance pathway and develop rational therapeutic strategies capable of overcoming this resistance.",
+      "journal": "Oncology letters",
+      "publicationTypes": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "affiliations": [
+        "University of Lille, Inserm (French National Institute of Health and Medical Research), Lille Regional University Hospital Center, French National Centre for Scientific Research, Oscar Lambret Center, Joint Research Unit 9020-CANTHER-Cancer Heterogeneity, Plasticity and Resistance to Therapies, 59000 Lille, France.",
+        "Department of Biopathology, Lorraine Institute of Cancerology/Nancy Regional University Hospital, 54519 Vandœuvre-lès-Nancy, France.",
+        "Department of Pulmonary Medicine, Nancy Regional University Hospital, 54511 Vandœuvre-lès-Nancy, France.",
+        "Department of Cancer Biology, Lorraine Institute of Cancerology, Centre National de la Recherche Scientifique, Joint Research Unit 7039, Nancy Research Center for Automatic Control, University of Lorraine, 54519 Vandoeuvre-lès-Nancy, France."
+      ],
+      "doi": "10.3892/ol.2026.15803",
+      "date": "2026-08-05",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42598003/"
+    },
+    {
+      "pmid": "42597984",
+      "title": "The CD73-adenosine axis in melanoma: from multidimensional regulation to precision immunotherapy.",
+      "abstract": "The therapeutic landscape of advanced melanoma has been transformed by immune checkpoint inhibitors (ICIs); however, primary and acquired resistance remain formidable challenges for a substantial subset of patients. Emerging evidence identifies the CD73-adenosine axis as a critical \"metabolic immune checkpoint\" that orchestrates an immunosuppressive tumor microenvironment (TME). This review systematically explores the biochemical cascade in which extracellular ATP is converted into immunosuppressive adenosine by the sequential action of ectonucleotidases CD39 and CD73. We detail the multidimensional regulation of CD73 expression, driven by a convergence of environmental stressors such as hypoxia-stabilized HIF-1α, oncogenic MAPK signaling, and pro-inflammatory cytokines including TGF-β and TNF-α. Furthermore, we evaluate the clinical utility of CD73 as a prognostic and predictive biomarker, highlighting the dichotomous significance of its expression on tumor versus immune cells and the potential of liquid biopsy-based monitoring via soluble CD73 activity and melanoma-derived exosomes (MTEX). Finally, we discuss therapeutic strategies to dismantle this metabolic barrier, ranging from monoclonal antibodies and small-molecule inhibitors to synergistic combinations with ICIs, targeted therapies, and next-generation cellular engineering utilizing CRISPR/Cas9-mediated gene editing. Integrating adenosinergic blockade into the framework of precision immuno-oncology represents a pivotal dimension in overcoming treatment resistance and improving clinical outcomes for patients with melanoma.",
+      "journal": "Frontiers in immunology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Huzhou Central Hospital, Fifth School of Clinical Medicine of Zhejiang Chinese Medical University, Huzhou, China.",
+        "Huzhou Central Hospital, Affiliated Central Hospital of Huzhou University, Huzhou, China.",
+        "Soochow University, Suzhou, China.",
+        "Department of Dermatology, First Affiliated Hospital of Huzhou University, Huzhou, China."
+      ],
+      "doi": "10.3389/fimmu.2026.1839832",
+      "date": "2026-07-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42597984/"
+    },
+    {
       "pmid": "42594670",
       "title": "Liquid biopsy miRNA risk score in bladder cancer: Translational insights from patient-derived xenografts to prognostic stratification.",
       "abstract": "Bladder cancer (BlCa) surveillance requires lifelong invasive monitoring, imposing substantial patient burden and healthcare costs. This underscores the need for minimally-invasive precision medicine approaches. Herein, we investigated the circulating miRNome of BlCa patients to assess its clinical and translational utility. miRNA-seq was performed on tumors and matched plasma samples from 15 patient-derived xenograft (PDX) mouse models. The screening cohort of the study consisted of 216 patients, and circulating miRNAs were quantified by RT-qPCR following 3'-end poly(A)-tailing. Cox regression models were used to develop liquid biopsy-based miRNA risk-scores (miRisk-scores), for non-muscle invasive (NMIBC) and muscle invasive BlCa (MIBC). miRNA-seq identified six miRNAs (miR-100, miR-1246, miR-1290, miR-193b, miR-375, miR-4488) that were concurrently upregulated in tumors and plasma, and correlated with advanced stage/grade and early progression in PDX mouse models. In our screening cohort, elevated miR-375 and miR-4488 were associated with poorer NMIBC prognosis, whereas miR-1290 and miR-193b with worse survival in MIBC. Higher miRisk-scores were associated with short-term relapse and progression in NMIBC, while miRisk score-fitted multivariate models improved TaT1 risk-stratification. Moreover, higher miRisk-scores correlated with worse clinical outcomes in MIBC, and enhanced the prognostic performance of clinical markers. Overall, liquid biopsy miRNA signatures offer a minimally-invasive tool to complement biopsy-based assessments and refine BlCa risk-stratification and prognosis.",
@@ -435,60 +480,41 @@
       "doi": "10.1007/s11060-026-05756-4",
       "date": "2026-08-13",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42593704/"
-    },
-    {
-      "pmid": "42592866",
-      "title": "Using cell-free RNA to identify B- and T-cell clonality for diagnosis and monitoring of B- and T-cell neoplasms.",
-      "abstract": "Cell-free RNA (cfRNA) is emerging as a supplemental approach for liquid biopsy (LBx). Given that lymphoid cells and plasma cells express substantial quantities of immunoglobulin (Ig) and T-cell receptor (TCR) RNA, we investigated the utility of using cfRNA for detecting B-cell and T-cell clonality in LBxs. Using next-generation sequencing (NGS) of cfRNA, we clonotyped Igs and TCRs in LBx samples from patients with B-cell neoplasm, T-cell neoplasm, myeloid neoplasm and solid tumors alongside cancer-free individuals. To establish a clonality cutoff, we clonotyped tissue RNA from patients with confirmed clonal B- or T-cell and from polyclonal. Clonotype-naïve testing of LBx samples demonstrated B-cell clonality in 36% of B-cell neoplasms, 7% of normal, 8% of T-cell lymphomas, 13% of myeloid neoplasms, and 14% of solid tumors. T-cell clonality using TCR beta or gamma demonstrated T-cell clonality in 22% of T-cell neoplasms, 3% of normal, 5% of myeloid neoplasms, 7% of solid tumors and 3% of B-cell neoplasms. This confirms that Clonotype-naïve cfRNA testing in LBx is a reliable approach for detecting B- and T-cell clonality.",
-      "journal": "FEBS open bio",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Genomic Testing Cooperative, Lake Forest, CA, USA.",
-        "John Theurer Cancer Center, Hackensack University Medical Center, NJ, USA."
-      ],
-      "doi": "10.1002/2211-5463.70323",
-      "date": "2026-08-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42592866/"
-    },
-    {
-      "pmid": "42592195",
-      "title": "Three Decades of Food and Drug Administration Authorizations of Artificial Intelligence/Machine Learning-Enabled Medical Devices: Persistent Specialty Concentration and the Care-Delivery Gap (1995-2025).",
-      "abstract": "Background The US Food and Drug Administration (FDA) maintains a public list of artificial intelligence (AI) and machine learning (ML)-enabled medical devices that have received marketing authorization. Prior published analyses examined this list at earlier time points and reported a marked dominance of radiology applications. Methodology We performed a longitudinal descriptive analysis of all 1,430 AI/ML-enabled medical device authorizations recorded by the FDA between September 1995 and December 2025 to characterize the cumulative growth, specialty distribution, and manufacturer concentration of authorized devices. Results The annual authorization volume increased from a mean of 1.8 per year between 1995 and 2014 to 264 per year between 2023 and 2025, with 331 authorizations recorded in 2025 alone. Devices reviewed by the FDA's Radiology panel accounted for 1,094 of 1,430 authorizations (76.5%), and the three most represented panels (Radiology, Cardiovascular, and Neurology) accounted for 90.6% of all authorizations. Several large clinical specialties were represented by very small numbers of authorized devices, including Pathology (n = 9, 0.6%), Microbiology (n = 6, 0.4%), and Obstetrics and Gynecology (n = 4, 0.3%). No authorizations were recorded under a psychiatry or behavioral health review panel. Of 740 unique companies, 502 (67.8%) had a single authorized device, while 13 (1.8%) companies accounted for 247 (17.3%) devices. Conclusions The cumulative regulatory record demonstrates rapid growth that has been concentrated in image-rich diagnostic specialties, with limited representation across many specialties that account for substantial clinical activity in the United States. These findings may inform policy discussions about where regulatory, infrastructure, and dataset investments are most needed to broaden the clinical scope of medical AI.",
-      "journal": "Cureus",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Interventional Radiology, Kaiser Permanente Los Angeles Medical Center, Los Angeles, USA.",
-        "Radiology, University of California, Riverside, Riverside, USA."
-      ],
-      "doi": "10.7759/cureus.112583",
-      "date": "2026-07-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42592195/"
-    },
-    {
-      "pmid": "42591669",
-      "title": "Molecular Mechanisms and Biomarkers Driving the Transition From Chronic Atrophic Gastritis to Gastric Cancer.",
-      "abstract": "Gastric cancer continues to be a major contributor to global cancer morbidity and mortality. Although the Correa cascade is widely used as a model for gastric carcinogenesis, the molecular mechanisms driving the transition from chronic atrophic gastritis to invasive cancer have not been comprehensively integrated into a unified molecular framework. This review aims to synthesize current knowledge of the molecular events associated with each stage of the Correa cascade and to evaluate the clinical relevance of established and emerging biomarkers for risk stratification, early diagnosis, and personalized surveillance. This review summarizes the principal molecular mechanisms involved in the progression from chronic gastritis through chronic atrophic gastritis, intestinal metaplasia, dysplasia, and ultimately gastric cancer. These mechanisms include inflammatory cytokine networks, epigenetic modifications, genomic instability, disruption of signaling pathways, clonal evolution, and remodeling of the tumor microenvironment. Particular emphasis is placed on contemporary tissue and circulating biomarkers, their diagnostic and prognostic significance, and the application of advanced technologies including multi-omics analysis, spatial transcriptomics, single-cell sequencing, and liquid biopsy. The available evidence supports a conceptual model of gastric carcinogenesis as a continuous molecular evolutionary process in which chronic inflammation initiates progressive epigenetic and genetic alterations that promote clonal selection and malignant transformation. Integrating molecular biomarkers with conventional morphological assessment may improve risk stratification, facilitate earlier detection of disease progression, and support the implementation of personalized strategies for gastric cancer prevention, surveillance, and treatment.",
-      "journal": "Clinical Medicine Insights. Oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "CDL OLYMP LLP, QazGene LLP, Astana, Kazakhstan.",
-        "QazGene LLP, Astana Medical University, Astana, Kazakhstan.",
-        "CDL OLYMP LLP, Astana, Kazakhstan.",
-        "Department of Medical Genetics and Molecular Biology, Astana Medical University, Astana, Kazakhstan."
-      ],
-      "doi": "10.1177/11795549261478177",
-      "date": "2026-08-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42591669/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42599088",
+      "date": "2026-08-14",
+      "title": "Liver Organoids: From Disease Modelling to Regenerative Medicine.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42599088/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell proliferation，PMID 为 42599088。",
+      "report": "Liver organoids are three-dimensional miniature liver models that recapitulate the complex architecture and key functions of the human liver in vitro, offering powerful platforms for both fundamental research and translational applications. This review systema...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42596847",
       "date": "2026-08-14",
@@ -520,123 +546,35 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42595219",
-      "date": "2026-08-13",
-      "title": "Efferent ductule epithelium orchestrates reproductive immune homeostasis under inflammatory stress.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "id": "pubmed-42598790",
+      "date": "2026-08-14",
+      "title": "Beyond Morphology: Reframing Lymph-Node Metastasis Prediction Through Clonal Ecology-Decades-Long Genomic Instability and Polyclonal-to-Monoclonal Transitions as the Missing Dimension in Cancer.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42595219/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42598790/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
         "Multi-omics"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "肿瘤",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Mucosal immunology，PMID 为 42595219。",
-      "report": "Immune dysregulation is increasingly recognized as a key contributor to male infertility, yet the role of the efferent ductules in reproductive immune homeostasis remains unexplored. Located between the immune-privileged testis and the epididymis, efferent duc...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42595111",
-      "date": "2026-08-13",
-      "title": "OTUD5 Maintains STAT1/2 Stability and Promotes IFNγ-driven Intestinal Inflammation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42595111/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The Journal of biological chemistry，PMID 为 42595111。",
-      "report": "Inflammatory bowel disease (IBD) is characterized by unresolved mucosal inflammation driven mainly by TNFα and/or IFNγ. While anti-TNFα biologics are a clinical mainstay, therapeutic resistance remains a significant hurdle. The molecular mechanisms that sustai...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42594953",
-      "date": "2026-08-13",
-      "title": "Advances in 3D-printed and biofabricated scaffolds for bone tissue engineering: materials, fabrication and biological integration.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594953/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomedical materials (Bristol, England)，PMID 为 42594953。",
-      "report": "The worldwide incidence of bone disorders is increasing at an alarming rate, especially among the elderly and those with increased obesity and poor physical activity. Therefore, bone tissue engineering, the process of regenerating diseased or damaged bone, is...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42594869",
-      "date": "2026-08-13",
-      "title": "AAV-DJ enables efficient, function-preserving neuronal transduction for circuit interrogation in human cortical and thalamic organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594869/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell reports methods，PMID 为 42594869。",
-      "report": "Neural organoids provide tractable models of human brain development, function, and disease, but adeno-associated viral vector (AAV)-based gene delivery is limited by inefficient transduction and insufficient comparative evaluation of the natural and engineere...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Stem cells and development，PMID 为 42598790。",
+      "report": "Recent whole-genome, lineage-tracing, single-cell, and spatial studies have reshaped our understanding of tumor evolution, revealing that cancers can arise from polyclonal populations, undergo decades-long genomic instability before clinical detection, and pro...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -700,68 +638,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Journal of neuro-oncology，PMID 为 42593704。",
       "report": "Since its introduction in 1963, the Ommaya reservoir has expanded beyond its original role as a ventricular access device to support intrathecal therapeutics, cerebrospinal fluid diagnostics, and emerging applications in precision neuro-oncology. To our knowle...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42592866",
-      "date": "2026-08-13",
-      "title": "Using cell-free RNA to identify B- and T-cell clonality for diagnosis and monitoring of B- and T-cell neoplasms.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42592866/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 FEBS open bio，PMID 为 42592866。",
-      "report": "Cell-free RNA (cfRNA) is emerging as a supplemental approach for liquid biopsy (LBx). Given that lymphoid cells and plasma cells express substantial quantities of immunoglobulin (Ig) and T-cell receptor (TCR) RNA, we investigated the utility of using cfRNA for...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42591669",
-      "date": "2026-08-11",
-      "title": "Molecular Mechanisms and Biomarkers Driving the Transition From Chronic Atrophic Gastritis to Gastric Cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42591669/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Clinical Medicine Insights. Oncology，PMID 为 42591669。",
-      "report": "Gastric cancer continues to be a major contributor to global cancer morbidity and mortality. Although the Correa cascade is widely used as a model for gastric carcinogenesis, the molecular mechanisms driving the transition from chronic atrophic gastritis to in...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -939,6 +815,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42598003",
+      "date": "2026-08-05",
+      "title": "Emergence of KRAS mosaicism with multiple variants during treatment with alectinib in ALK-positive metastatic non-small cell lung cancer: A case report.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42598003/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Oncology letters，PMID 为 42598003。",
+      "report": "ALK fusions occur in 3-6% of lung cancers and confer sensitivity to ALK-tyrosine kinase inhibitors. However, acquired resistance inevitably develops through multiple mechanisms, limiting the durability of the treatment response. The present report describes th...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42595681",
       "date": "2026-08-04",
       "title": "Liver regenerative medicine approaches: Translational strategies for pediatric surgery.",
@@ -966,6 +870,104 @@
       "fact": "PubMed 记录显示该文献收录于 Seminars in pediatric surgery，PMID 为 42595681。",
       "report": "Pediatric hepatobiliary diseases can progress to liver failure and transplantation, yet donor scarcity, lifelong immunosuppression, and cumulative graft-related morbidity remain major limitations. Regenerative medicine offers complementary strategies for disea...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42598348",
+      "date": "2026-07-31",
+      "title": "From sebocytes to skin engineering human sebaceous organoids within a reconstructed dermal matrix.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42598348/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in toxicology，PMID 为 42598348。",
+      "report": "Sebaceous gland biology depends on the integration of lipid metabolism, tissue architecture, and stromal interactions, yet most available in vitro systems fail to capture these features simultaneously. This work reports the generation of a functional three-dim...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42597929",
+      "date": "2026-07-30",
+      "title": "Maternal-fetal interface abnormalities in unexplained recurrent pregnancy loss: mechanisms, models, and a framework for subtype identification.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42597929/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in endocrinology，PMID 为 42597929。",
+      "report": "Recurrent pregnancy loss (RPL) is a heterogeneous reproductive condition, and unexplained recurrent pregnancy loss (URPL) denotes repeated pregnancy losses for which no established cause is identified after standard evaluation. Recurrent miscarriage (RM) and r...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42597451",
+      "date": "2026-07-30",
+      "title": "Testicular organoid models in male reproductive toxicology: advances, applications, and future perspectives.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42597451/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in physiology，PMID 为 42597451。",
+      "report": "Male reproductive health has declined markedly over the past decades, with environmental chemicals, pharmaceuticals, and lifestyle factors implicated in this trend. Conventional toxicological approaches-rodent bioassays and two-dimensional cell cultures-suffer...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1000,6 +1002,36 @@
       "fact": "PubMed 记录显示该文献收录于 Science bulletin，PMID 为 42580899。",
       "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42597984",
+      "date": "2026-07-30",
+      "title": "The CD73-adenosine axis in melanoma: from multidimensional regulation to precision immunotherapy.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42597984/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42597984。",
+      "report": "The therapeutic landscape of advanced melanoma has been transformed by immune checkpoint inhibitors (ICIs); however, primary and acquired resistance remain formidable challenges for a substantial subset of patients. Emerging evidence identifies the CD73-adenos...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1172,34 +1204,6 @@
       "fact": "PubMed 记录显示该文献收录于 Cell reports methods，PMID 为 42486102。",
       "report": "Multimodal mapping of subcellular protein organization through imaging and interaction proteomics has been mostly confined to large consortia, owing to high per-target costs, reliance on target-specific antibodies or libraries of epitope-tagged cDNAs, and the...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42592195",
-      "date": "2026-07-13",
-      "title": "Three Decades of Food and Drug Administration Authorizations of Artificial Intelligence/Machine Learning-Enabled Medical Devices: Persistent Specialty Concentration and the Care-Delivery Gap (1995-2025).",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42592195/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cureus，PMID 为 42592195。",
-      "report": "Background The US Food and Drug Administration (FDA) maintains a public list of artificial intelligence (AI) and machine learning (ML)-enabled medical devices that have received marketing authorization. Prior published analyses examined this list at earlier ti...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
