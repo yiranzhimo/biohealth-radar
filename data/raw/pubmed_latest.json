@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-14T02:48:48.742756+00:00",
+  "capturedAt": "2026-08-14T07:53:05.798696+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-14"
   },
   "pmids": [
-    "42594281",
-    "42593965",
-    "42593962",
-    "42593928",
-    "42592425",
-    "42592327",
+    "42595681",
+    "42595219",
+    "42595111",
+    "42594953",
+    "42594869",
+    "42594775",
     "42580899",
     "42559559",
     "42509463",
@@ -32,132 +32,131 @@
     "42567392",
     "42564489",
     "42561121",
+    "42594670",
     "42594169",
     "42593704",
     "42592866",
     "42592195",
-    "42591669",
-    "42591303"
+    "42591669"
   ],
   "records": [
     {
-      "pmid": "42594281",
-      "title": "A tonsil organoid model reveals Epstein-Barr virus-infected germinal center B cell states during primary infection.",
-      "abstract": "Epstein-Barr virus (EBV) colonizes secondary lymphoid tissues to establish persistent infection and is strongly associated with malignancy and autoimmunity. Our understanding of EBV infection biology is hindered by a lack of models that capture infected B cell activity in the lymphoid tissue microenvironment. We therefore developed an EBV human tonsil organoid model to evaluate key B cell states and antiviral responses, including after primary infection. EBV promoted B cell differentiation into germinal center-like phenotypes and transcriptomic analyses highlighted numerous B cell transcriptional programs unique to EBV-infected cells. B cell receptor repertoire analysis revealed that most EBV+ B cells underwent class switching but only rarely participated in somatic hypermutation. CD4 T cells, highly activated by organoid infection, limited EBV+ B cell outgrowth in both primary and secondary EBV infection. Our findings demonstrate human tonsil organoids as a physiologically relevant model to investigate key aspects of EBV immunity and pathogenesis.",
-      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "pmid": "42595681",
+      "title": "Liver regenerative medicine approaches: Translational strategies for pediatric surgery.",
+      "abstract": "Pediatric hepatobiliary diseases can progress to liver failure and transplantation, yet donor scarcity, lifelong immunosuppression, and cumulative graft-related morbidity remain major limitations. Regenerative medicine offers complementary strategies for disease modelling, therapeutic discovery, tissue repair, and clinical decision-making. Patient-derived organoids and microphysiological systems can reproduce disease-specific epithelial phenotypes, support drug screening, and provide mechanistic or prognostic information in conditions such as biliary atresia and inherited cholestatic disorders. Cell-based therapies may provide temporary metabolic support but remain constrained by limited engraftment and dilution during liver growth. Repeatable mRNA delivery may accommodate rapid hepatic expansion, whereas a successfully installed genomic edit may remain durable even during active hepatic proliferation. Surgical strategies, including portal vein embolization and selected partial ALPPS, exploit endogenous regeneration to increase the future liver remnant when major resection is required. In pediatric acute liver failure, extracorporeal support can provide temporary metabolic and physiological stabilization while native-liver recovery and transplant candidacy are assessed. We propose a developmental and disease-specific framework integrating structural integrity, clinical urgency and trajectory, and developmental stage. This framework is intended to guide multidisciplinary assessment of when regenerative or supportive strategies remain appropriate and when transplant evaluation should be escalated, rather than to define universal treatment thresholds.",
+      "journal": "Seminars in pediatric surgery",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Physiology and Biophysics, Institute for Immunology, and Center for Virus Research, University of California Irvine, Irvine, CA 92697.",
-        "Division of Infectious Diseases, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA 02115.",
-        "Department of Neurology, Washington University School of Medicine in St. Louis, St. Louis, MO 63110.",
-        "Division of Pediatric Otolaryngology, Children's Hospital of Orange County, Orange, CA 92868.",
-        "Department of Otolaryngology-Head and Neck Surgery, University of California, Irvine, Orange, CA 92868.",
-        "Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229."
+        "Faculty of Medicine, Macau University of Science and Technology, Avenida Wai Long, Taipa, 999078, Macau Special Administrative Region, People's Republic of China; Department of Pediatric Surgery, Capital Center for Children's Health, Capital Medical University, Capital Institute of Pediatrics, Beijing, 100020, China; Department of Pediatric Surgery, Capital Institute of Pediatrics-Peking University Teaching Hospital, Beijing, 100020, China.",
+        "Department of Pediatric Surgery, Capital Center for Children's Health, Capital Medical University, Capital Institute of Pediatrics, Beijing, 100020, China.",
+        "Faculty of Medicine, Macau University of Science and Technology, Avenida Wai Long, Taipa, 999078, Macau Special Administrative Region, People's Republic of China.",
+        "Faculty of Medicine, Macau University of Science and Technology, Avenida Wai Long, Taipa, 999078, Macau Special Administrative Region, People's Republic of China. Electronic address: chenyan@must.edu.mo.",
+        "Faculty of Medicine, Macau University of Science and Technology, Avenida Wai Long, Taipa, 999078, Macau Special Administrative Region, People's Republic of China. Electronic address: pkhtam@must.edu.mo."
       ],
-      "doi": "10.1073/pnas.2603586123",
+      "doi": "10.1016/j.sempedsurg.2026.151681",
+      "date": "2026-08-04",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42595681/"
+    },
+    {
+      "pmid": "42595219",
+      "title": "Efferent ductule epithelium orchestrates reproductive immune homeostasis under inflammatory stress.",
+      "abstract": "Immune dysregulation is increasingly recognized as a key contributor to male infertility, yet the role of the efferent ductules in reproductive immune homeostasis remains unexplored. Located between the immune-privileged testis and the epididymis, efferent ductules are essential for male fertility by reabsorbing over 90% of testicular fluid and maintaining sperm in suspension through the coordinated activity of reabsorptive primary ciliated cells (RPCCs) and multiciliated cells (MCCs). Using complementary in vivo and in vitro approaches, we investigated the contribution of efferent ductule epithelial cells to innate immunity. In a mouse model of lipopolysaccharide (LPS)-induced epididymitis, efferent ductules displayed significant interstitial neutrophil infiltration and abnormal sperm accumulation, indicating disrupted local homeostasis. Both mouse and human epithelial cells expressed Toll-like receptor 4, supporting a role in pathogen sensing. Transcriptomic analyses showed MCCs enriched in cilia-related genes, while RPCCs preferentially expressed genes involved in signaling and inflammation. To further explore epithelial immune function, we developed 3D organoid models recapitulating key features of efferent ductules. Upon LPS stimulation, these organoids mounted a robust innate immune response, secreting cytokines, chemokines, and growth factors, consistent with in vivo observations. Together, these findings identify efferent ductule epithelial cells as an upstream immunological checkpoint and establish organoids as a valuable model to study efferent ductule epithelial cells function in male reproductive health.",
+      "journal": "Mucosal immunology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Obstetrics, Gynecology and Reproduction, Faculty of Medecine, Université Laval, Quebec City, QC, Canada; CHU de Québec-Université Laval Research center, Quebec City, QC, Canada; Research Center in Reproduction, Development, and Intergenerational Health, Université Laval, Quebec City, QC, Canada.",
+        "CHU de Québec-Université Laval Research center, Quebec City, QC, Canada; Research Center in Reproduction, Development, and Intergenerational Health, Université Laval, Quebec City, QC, Canada.",
+        "Department of Biophysics and Pharmacology, Institute of Biosciences of Botucatu, São Paulo State University, Brazil.",
+        "CHU de Québec-Université Laval Research center, Quebec City, QC, Canada.",
+        "Department of Life Sciences, University of Siena, Siena, Italy.",
+        "CHU de Québec-Université Laval Research center, Quebec City, QC, Canada; Department of Molecular Medicine, Université Laval, Quebec City, QC, Canada.",
+        "CHU de Québec-Université Laval Research center, Quebec City, QC, Canada; Department of Microbiology, Infectious Diseases, and Immunology, Faculty of Medecine, Université Laval, Quebec City, QC, Canada.",
+        "Department of Obstetrics, Gynecology and Reproduction, Faculty of Medecine, Université Laval, Quebec City, QC, Canada; CHU de Québec-Université Laval Research center, Quebec City, QC, Canada; Research Center in Reproduction, Development, and Intergenerational Health, Université Laval, Quebec City, QC, Canada. Electronic address: Clemence.Belleannee@crchudequebec.ulaval.ca."
+      ],
+      "doi": "10.1016/j.mucimm.2026.100400",
       "date": "2026-08-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594281/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42595219/"
     },
     {
-      "pmid": "42593965",
-      "title": "Dietary vitamin A restricts intestinal tuft cell differentiation.",
-      "abstract": "Despite evidence highlighting immunoregulatory roles of tuft cells, it is not known whether vitamin A or retinoic acid affects tuft cell homeostasis. Here, we find that epithelial-intrinsic retinoic acid receptor regulates tuft cell numbers in mice. However, loss of retinoic acid signaling in tuft cells does not replicate this effect, suggesting altered differentiation. Consistent with this, retinoic acid administration to stem cell-derived organoids reduces tuft cell numbers, and epithelial-intrinsic retinoic acid is sufficient to alter tuft cell responses. In addition, dietary vitamin A dynamically alters tuft cells in vivo and regulates anti-helminth immunity in a tuft cell-dependent manner. Mechanistically, epithelial retinoic acid signaling promotes expression of Sprouty2, a negative regulator of tuft cell differentiation. Furthermore, stem cell-specific Sprouty2 disruption abrogates vitamin A regulation of tuft cells. Collectively, these data indicate that retinoic acid restricts tuft cell differentiation and carries important implications for how vitamin A affects intestinal health and immunity.",
-      "journal": "Cell reports",
+      "pmid": "42595111",
+      "title": "OTUD5 Maintains STAT1/2 Stability and Promotes IFNγ-driven Intestinal Inflammation.",
+      "abstract": "Inflammatory bowel disease (IBD) is characterized by unresolved mucosal inflammation driven mainly by TNFα and/or IFNγ. While anti-TNFα biologics are a clinical mainstay, therapeutic resistance remains a significant hurdle. The molecular mechanisms that sustain inflammation in anti-TNFα non-responders are not fully understood. In human colon biopsies, we identified significant upregulation of the deubiquitinase OTUD5 in non-responders compared to responders, suggesting its involvement in therapy resistance. Using an intestinal epithelial cell (IEC)-specific Otud5 knockout mouse model, we show that Otud5 deficiency significantly alleviated the IFNγ-dependent colitis induced by dextran sulfate sodium (DSS), as evidenced by reduced weight loss and diminished infiltration of Ly6C+ inflammatory monocytes. Mechanistically, IFNγ induces OTUD5 expression through a non-transcriptional mechanism; in turn, OTUD5 stabilizes STAT1 and STAT2 by preventing their ubiquitination and subsequent degradation. This sustains IFNγ-ISGF3 signaling, which directly drives the expression of CCL8, a critical chemokine for monocyte recruitment. Targeting this pathway with a newly identified small-molecule inhibitor, CT1170, which exhibits potent activity against OTUD5, blocked the IFNγ-ISGF3-CCL8 axis, halted colitis progression, and suppressed colitis-elicited tumorigenesis. These findings were validated in human IBD organoids, where CT1170 effectively disrupted IFNγ-driven inflammatory signaling.",
+      "journal": "The Journal of biological chemistry",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Division of Immunobiology, Cincinnati Children's Hospital Medical Center and Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH, USA; Center for Inflammation and Tolerance, Cincinnati Children's Hospital Medical Center, Cincinnati, OH, USA; Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH, USA.",
-        "Division of Immunobiology, Cincinnati Children's Hospital Medical Center and Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH, USA; Center for Inflammation and Tolerance, Cincinnati Children's Hospital Medical Center, Cincinnati, OH, USA. Electronic address: emily.eshleman@cchmc.org.",
-        "Division of Immunobiology, Cincinnati Children's Hospital Medical Center and Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH, USA; Center for Inflammation and Tolerance, Cincinnati Children's Hospital Medical Center, Cincinnati, OH, USA.",
-        "Division of Gastroenterology, Hepatology, and Nutrition, Cincinnati Children's Hospital Medical Center and Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH, USA.",
-        "The Saban Research Institute, Children's Hospital Los Angeles, Los Angeles, CA, USA; Department of Pediatrics and Department of Biochemistry and Molecular Biology, University of Southern California Keck School of Medicine, Los Angeles, CA, USA.",
-        "Division of Immunobiology, Cincinnati Children's Hospital Medical Center and Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH, USA; Center for Inflammation and Tolerance, Cincinnati Children's Hospital Medical Center, Cincinnati, OH, USA. Electronic address: theresa.alenghat@cchmc.org."
+        "Zhejiang Provincial Key Laboratory of Pancreatic Disease, The First Affiliated Hospital of Zhejiang University School of Medicine, Hangzhou, Zhejiang 310003, China; Institute of Translational Medicine, Zhejiang University Medical School, Hangzhou, Zhejiang 310058, China.",
+        "Department of Gastroenterology, The First Affiliated Hospital of Zhejiang University School of Medicine, Hangzhou, Zhejiang 310003, China.",
+        "Zhejiang Provincial Key Laboratory of Pancreatic Disease, The First Affiliated Hospital of Zhejiang University School of Medicine, Hangzhou, Zhejiang 310003, China.",
+        "Chaser Therapeutics Inc., Hangzhou, Zhejiang 310018, China.",
+        "Zhejiang Provincial Key Laboratory of Pancreatic Disease, The First Affiliated Hospital of Zhejiang University School of Medicine, Hangzhou, Zhejiang 310003, China; Institute of Translational Medicine, Zhejiang University Medical School, Hangzhou, Zhejiang 310058, China; Cancer Center, Zhejiang University, Hangzhou, Zhejiang 310058 China. Electronic address: pzhangbcm@zju.edu.cn.",
+        "Department of Gastroenterology, The First Affiliated Hospital of Zhejiang University School of Medicine, Hangzhou, Zhejiang 310003, China. Electronic address: shenzdr@zju.edu.cn."
       ],
-      "doi": "10.1016/j.celrep.2026.117802",
-      "date": "2026-08-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42593965/"
-    },
-    {
-      "pmid": "42593962",
-      "title": "Protocol for extrusion 3D bioprinting of human-scale cardiac patches using cardiac spheroid-laden bioinks.",
-      "abstract": "Extrusion-based bioprinting is a promising approach for developing novel clinical therapies for heart failure patients. Here, we present a protocol for bioprinting personalized human-scale cardiac patches incorporating human cardiac spheroids in a 1% silk fibroin/4% alginate/8% gelatin hydrogel. We describe steps for extrusion 3D bioprinting using a temperature-controlled hydrogel bioink. We also detail adjusting print parameters for optimal results. Although prepared for a specific experimental setup, the techniques described can be applied to other temperature-controlled biomaterials or extrusion 3D bioprinters. For complete details on the use and execution of this protocol, please refer to Roche et al.,1,2 Sharma et al.,3 and Vettori et al.4.",
-      "journal": "STAR protocols",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "University of Technology Sydney, School of Electrical, Mechanical and Biomedical Engineering, Ultimo, NSW 2007, Australia. Electronic address: niina.matthews@student.uts.edu.au.",
-        "University of Technology Sydney, School of Electrical, Mechanical and Biomedical Engineering, Ultimo, NSW 2007, Australia; Heart Research Institute, Newtown, NSW 2042, Australia. Electronic address: carmine.gentile@uts.edu.au."
-      ],
-      "doi": "10.1016/j.xpro.2026.104780",
+      "doi": "10.1016/j.jbc.2026.113420",
       "date": "2026-08-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42593962/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42595111/"
     },
     {
-      "pmid": "42593928",
-      "title": "From 2D to 3D Colorectal Cancer Patient-Derived Organoids (PDOs) and In Vivo Models: Copper(II) Complexes as Promising New Antitumor Agents.",
-      "abstract": "Two copper(II) complexes, (1) [CuCl2(tmp-terpy)] and (2) {[CuCl(tmp-terpy)]·PF6}n, (tmp-terpy-4'-(3,4,5-trimethoxy-phenyl)-2,2':6',2″-terpyridine) were designed, characterized, and evaluated for cytotoxicity in 2D human cell models (HCT116, HCT116-DoxR, and in normal primary fibroblasts), and 3D colorectal cancer (CRC) spheroids and patient-derived organoids (PDOs). Both complexes demonstrated potent antiproliferative effects, alone and in combination with the FOLFOX (FF), across all 3D models. Importantly, the cytotoxic effects of complex 1 were significantly more pronounced in tumor-derived PDOs than in normal tissue-derived PDOs. Complex 1 induced reactive oxygen species (ROS) production, triggering intrinsic apoptosis and autophagy, consistent with a multimodal anticancer mechanism. It also exerted a cytostatic effect, as shown by delayed cell-cycle progression, and antiangiogenic activity in vivo without systemic toxicity. Notably, cotreatment of complex 1 with FF significantly potentiated cytotoxicity in 3D tumor spheroids and PDOs tumor-derived-PDOs. [CuCl2(tmp-terpy)] alone or in combination with the FF regimen warrants further evaluation in advanced preclinical models.",
-      "journal": "Journal of medicinal chemistry",
+      "pmid": "42594953",
+      "title": "Advances in 3D-printed and biofabricated scaffolds for bone tissue engineering: materials, fabrication and biological integration.",
+      "abstract": "The worldwide incidence of bone disorders is increasing at an alarming rate, especially among the elderly and those with increased obesity and poor physical activity. Therefore, bone tissue engineering, the process of regenerating diseased or damaged bone, is gaining increasing attention from the scientific community. One of the critical components for tissue engineering is the scaffold, an artificial extracellular matrix that promotes bone formation and regeneration activities. Due to the increasing demands for bone repair, bone tissue scaffolds have been extensively studied in state-of-the-art literature. Nevertheless, many areas related to scaffold manufacturing still offer huge scope for scientific research and development. One such area is the bioprinting of scaffolds, which combines the advantages of three-dimensional printing and biomaterials to create an ideal tissue growth support environment for bone tissue regeneration. This review highlights recent advances in the bioprinting of scaffolds for bone tissue engineering. Taking different biomaterial-based scaffolds as a starting point, the latest research progress and breakthrough points for enhancing the mechanical properties and bioactivities of scaffolds are summarized. Recent scientific breakthroughs related to the tailoring and creative design of scaffolds have been highlighted. New strategies and schemes for subsequent bone scaffold angiogenesis and osteogenesis promotion for new bone tissue regeneration are also discussed. This comprehensive review identifies the shift of research direction, where the biological requirements such as immune response and vascularization is prioritized over fabrication methods. Research gaps on vascularization bottlenecks, methodological and evaluation gaps, fabrication challenges and regulatory hurdles have been identified as well. Future direction of research includes AI assisted design, 4D printing, smart implants, organoid integration and benchmarking standardization of bone tissue implants.",
+      "journal": "Biomedical materials (Bristol, England)",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Institute of Chemistry, University of Silesia, Szkolna 9, 40-006Katowice, Poland.",
-        "Associate Laboratory i4HB - Institute for Health and Bioeconomy, NOVA School of Science and Technology, NOVA University Lisbon, 2819-516Caparica, Portugal.",
-        "UCIBIO, Departamento de Ciências da Vida, NOVA School of Science and Technology, Campus de Caparica, 2829-516Caparica, Portugal.",
-        "Department of Chemical Organic Technology and Petrochemistry, Silesian University of Technology, Krzywoustego 4, 44-100Gliwice, Poland.",
-        "Hospital Beatriz Ângelo, Avenida Carlos Teixeira 3, 2674-514Loures, Portugal.",
-        "Hospital da Luz Learning Health, Luz Saúde, Avenida Lusíada 100, 1500-650Lisboa, Portugal.",
-        "Hospital da Luz , Avenida Lusíada 100, 1500-650Lisboa, Portugal.",
-        "NOVA Medical School, Campo Mártires da Pátria 130, 1169-056Lisboa, Portugal.",
-        "Catolica Medical School, Palma de Cima, 1649-023Lisboa, Portugal.",
-        "Lisbon School of Medicine, Universidade de Lisboa, Avenida Professor Egas Moniz, 1649-028Lisboa, Portugal."
+        "Department of Mechanical and Production Engineering, Islamic University of Technology, Gazipur 1704, Gazipur, 1704, Bangladesh.",
+        "Department of Health Sciences and Technology, ETH Zürich, Swizerland, Zürich, 8092, Switzerland.",
+        "Department of Mechanical and Production Engineering, Islamic University of Technology, Gazipur, Gazipur, 1704, Bangladesh.",
+        "Department of Mechanical and Production Engineering, Islamic University of Technology, Dhaka gazipur, Gazipur, 1704, Bangladesh.",
+        "Islamic University of Technology, Board Bazar, Gazipur 1704, Dhaka, Bangladesh, Gazipur, Dhaka, 1704, Bangladesh.",
+        "Department of Civil and Mechanical Engineering, Technical University of Denmark, Produktionstorvet, Building 427A, Lyngby, 2800, Denmark."
       ],
-      "doi": "10.1021/acs.jmedchem.6c00941",
+      "doi": "10.1088/1748-605X/ae99be",
       "date": "2026-08-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42593928/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594953/"
     },
     {
-      "pmid": "42592425",
-      "title": "A novel small molecule inhibitor targeting KHSRP methylation suppresses colon cancer progression.",
-      "abstract": "RNA-binding proteins (RBPs) are emerging as crucial regulators in cancer, but the development of therapeutic strategies targeting RBPs remains limited. Here, through chemical proteomics approaches, we identify DIQ01 as a novel small-molecule inhibitor of KH-type splicing regulatory protein (KHSRP), an RBP that is aberrantly hyper-expressed in human tumors and plays an essential role in proliferation, metastasis, and tumor progression. DIQ01 specifically binds to the KH3 and KH4 domains (Phe358 as the key residue) of KHSRP, inhibiting its interaction with mRNAs. Furthermore, the binding of DIQ01 diminishes the PRMT5-mediated arginine methylation of KHSRP, a post-translational modification required for its oncogenic activity. Mechanistically, transcriptomic and proteomic profiling suggested that DIQ01 functionally inactivates KHSRP, triggering destabilization and downregulation of its target PLK1 mRNA. This leads to S-phase arrest, DNA damage, and apoptosis in HCT116 cells. Both in vitro and in vivo studies, including CRC xenograft and patient-derived organoid models, demonstrate that DIQ01 exhibits potent antitumor efficacy with minimal systemic toxicity. Our findings underscore the innovative approach of concurrently targeting the RNA-binding function of an RBP and its post-translational modification, highlighting DIQ01's unique mechanism and significant translational potential as a targeted cancer therapy.",
-      "journal": "Acta pharmaceutica Sinica. B",
+      "pmid": "42594869",
+      "title": "AAV-DJ enables efficient, function-preserving neuronal transduction for circuit interrogation in human cortical and thalamic organoids.",
+      "abstract": "Neural organoids provide tractable models of human brain development, function, and disease, but adeno-associated viral vector (AAV)-based gene delivery is limited by inefficient transduction and insufficient comparative evaluation of the natural and engineered capsids. Here, we evaluated seven AAV capsids (AAV-2, -6, -9, -DJ, -2-retro, -PHP.eB, and -Cap-Mac) for transduction efficiency, cell type tropism, cytotoxicity, and functional integrity in human cortical and thalamic organoids. AAV-Cap-Mac demonstrated the highest transduction efficiency, with broad cellular tropism, but caused cytotoxicity and decreased neuronal activity. By contrast, AAV-DJ yielded efficient neuronal transduction, with preserved calcium dynamics and minimal cytotoxicity, which enabled rabies virus-based circuit tracing and all-optical physiology. Our findings reveal a capsid-dependent trade-off between transduction efficiency and functional integrity and identify AAV-DJ as an optimal serotype for robust gene delivery and physiological interrogation in organoid-based neuroscience. Combining AAV-DJ with emerging molecular and circuit-level technologies in organoids should facilitate mechanistic and translational studies of the human brain.",
+      "journal": "Cell reports methods",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Hainan Institute, Zhejiang University, Sanya 572025, China.",
-        "Institute of Marine Biology and Pharmacology, Ocean College, Zhejiang University, Zhoushan 316021, China.",
-        "School of Life Sciences, Westlake University, Hangzhou 310000, China.",
-        "Center of Synthetic Biology and Integrated Bioengineering, Westlake University, Hangzhou 310000, China."
+        "Laboratory of Cellular Pharmacology, Graduate School of Pharmaceutical Sciences, Nagoya University, Nagoya, Japan.",
+        "Laboratory of Cellular Pharmacology, Graduate School of Pharmaceutical Sciences, Nagoya University, Nagoya, Japan; Laboratory of Neural Information Processing, Institute for Advanced Research, Nagoya University, Nagoya, Japan; Research Institute for Quantum and Chemical Innovation, Institutes of Innovation for Future Society, Nagoya University, Nagoya, Japan; iGCORE, Nagoya University, Nagoya, Japan; PRESTO/CREST, Japan Science and Technology Agency, Saitama, Japan. Electronic address: osakada.fumitaka.x3@f.mail.nagoya-u.ac.jp."
       ],
-      "doi": "10.1016/j.apsb.2026.06.031",
-      "date": "2026-06-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42592425/"
+      "doi": "10.1016/j.crmeth.2026.101546",
+      "date": "2026-08-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594869/"
     },
     {
-      "pmid": "42592327",
-      "title": "H2AC19 promotes lung adenocarcinoma progression via p300/EGR1/MMP-1-mediated angiogenesis.",
-      "abstract": "Angiogenesis is a hallmark of lung adenocarcinoma (LUAD) and a leading cause of mortality. Identifying potential therapeutic targets that modulate this process is of critical clinical importance. Here, we established a 12-gene risk-scoring model through bioinformatics screening and systematically delineated the molecular function of H2AC19, a previously poorly understood histone variant within this signature. Analysis of human LUAD specimens revealed elevated H2AC19 expression, which correlated positively with angiogenesis markers and advanced clinical stage and negatively with patient prognosis. Functional validation using CRISPR/Cas9 in patient-derived organoids (PDOs), in vitro cell models and in vivo xenografts demonstrated that H2AC19 promotes angiogenesis and tumor growth. Mechanistically, H2AC19 recruits p300 through its amino acid residues 24-88 to specifically augment H3K27 acetylation at the EGR1 promoter region, thereby triggering EGR1 transcriptional activation and subsequently promoting MMP-1-driven angiogenesis and progression of LUAD. Furthermore, we evaluated the therapeutic potential of lipid nanoparticles (LNP)-encapsulated siRNA targeting H2AC19, which significantly suppressed angiogenesis and LUAD progression. Collectively, our findings establish a critical role for H2AC19 in governing angiogenesis and highlight its potential as a promising therapeutic target for LUAD.",
-      "journal": "Acta pharmaceutica Sinica. B",
+      "pmid": "42594775",
+      "title": "Establishment of human nasolacrimal duct epithelial organoid model.",
+      "abstract": "The nasolacrimal duct (NLD) holds significant clinical importance in diseases represented by primary acquired NLD obstruction (PANDO). This study aims to culture human NLD epithelial cells using organoid culture systems, with the goal of establishing cell models that recapitulate the in vivo characteristics of the NLD in an in vitro setting. Human NLD epithelial specimens were surgically obtained from PANDO patients during endoscopic dacryocystorhinostomy. Human NLD epithelial cells were isolated via enzymatic digestion and expanded using Expansion Medium. Air-liquid interface culture was performed to induce differentiation, evidenced by active ciliary beating within 28 days. Both apical-in and apical-out NLD organoids were successfully generated using Matrigel-based 3D culture systems and AggreWell™ 400 24-well plate. Histological analysis confirmed that the human NLD epithelium comprised a stratified columnar architecture with ciliated, goblet, and basal cells. Using an air-liquid interface system, primary epithelial cells were successfully differentiated into a polarized layer exhibiting native tissue characteristics. Furthermore, both apical-in and apical-out organoids were established, recapitulating key structural and cellular features of the native NLD epithelium. This NLD epithelial organoid system provides a versatile platform for studying NLD physiology, pathology, drug screening, and naso-ocular interactions, with potential for further expansion into broader research applications.",
+      "journal": "European journal of cell biology",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Clinical Laboratory, National Key Laboratory for Innovation and Transformation of Luobing Theory, Key Laboratory of Cardiovascular Remodeling and Function Research, Chinese Ministry of Education and Chinese Ministry of Health, Qilu Hospital of Shandong University, Jinan 250012, China.",
-        "Department of Pharmacology, School of Basic Medical Sciences, Shandong University, Jinan 250012, China.",
-        "Department of Clinical Pharmacology, The Second Hospital of Shandong University, Jinan 250033, China.",
-        "Advanced Medical Research Institute, Cheeloo College of Medicine, Shandong University, Jinan 250012, China.",
-        "Department of Obstetrics and Gynecology, Qilu Hospital of Shandong University, Jinan 250012, China.",
-        "School of Chinese Language and Literature, Shandong Normal University, Jinan 250014, China.",
-        "Shandong Center for Food and Drug Evaruation and Inspection, Jinan 250014, China."
+        "Department of Otorhinolaryngology-Head and Neck Surgery, Department of Allergy, Naso-Orbital-Maxilla and Skull Base Center, The Third Affiliated Hospital, Sun Yat-sen University, No. 600 Tian He Road, Guangzhou 510060, China; Key Laboratory of Airway Inflammatory Disease Research and Innovative Technology Translation, Guangzhou 510630, China.",
+        "State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun Yat-sen University, Guangdong Provincial Key Laboratory of Ophthalmology and Visual Science, Guangzhou 510060, China.",
+        "Department of Otorhinolaryngology-Head and Neck Surgery, Department of Allergy, Naso-Orbital-Maxilla and Skull Base Center, The Third Affiliated Hospital, Sun Yat-sen University, No. 600 Tian He Road, Guangzhou 510060, China.",
+        "Department of Pathology, The Third Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Guangdong 510060, China.",
+        "Department of Otorhinolaryngology-Head and Neck Surgery, Department of Allergy, Naso-Orbital-Maxilla and Skull Base Center, The Third Affiliated Hospital, Sun Yat-sen University, No. 600 Tian He Road, Guangzhou 510060, China; Key Laboratory of Airway Inflammatory Disease Research and Innovative Technology Translation, Guangzhou 510630, China. Electronic address: yangqint@mail.sysu.edu.cn.",
+        "State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun Yat-sen University, Guangdong Provincial Key Laboratory of Ophthalmology and Visual Science, Guangzhou 510060, China. Electronic address: liangxuanwei@163.com.",
+        "Department of Otorhinolaryngology-Head and Neck Surgery, Department of Allergy, Naso-Orbital-Maxilla and Skull Base Center, The Third Affiliated Hospital, Sun Yat-sen University, No. 600 Tian He Road, Guangzhou 510060, China; Key Laboratory of Airway Inflammatory Disease Research and Innovative Technology Translation, Guangzhou 510630, China. Electronic address: qiuhj7@mail.sysu.edu.cn."
       ],
-      "doi": "10.1016/j.apsb.2026.07.010",
-      "date": "2026-07-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42592327/"
+      "doi": "10.1016/j.ejcb.2026.151562",
+      "date": "2026-08-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594775/"
     },
     {
       "pmid": "42580899",
@@ -389,6 +388,26 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42561121/"
     },
     {
+      "pmid": "42594670",
+      "title": "Liquid biopsy miRNA risk score in bladder cancer: Translational insights from patient-derived xenografts to prognostic stratification.",
+      "abstract": "Bladder cancer (BlCa) surveillance requires lifelong invasive monitoring, imposing substantial patient burden and healthcare costs. This underscores the need for minimally-invasive precision medicine approaches. Herein, we investigated the circulating miRNome of BlCa patients to assess its clinical and translational utility. miRNA-seq was performed on tumors and matched plasma samples from 15 patient-derived xenograft (PDX) mouse models. The screening cohort of the study consisted of 216 patients, and circulating miRNAs were quantified by RT-qPCR following 3'-end poly(A)-tailing. Cox regression models were used to develop liquid biopsy-based miRNA risk-scores (miRisk-scores), for non-muscle invasive (NMIBC) and muscle invasive BlCa (MIBC). miRNA-seq identified six miRNAs (miR-100, miR-1246, miR-1290, miR-193b, miR-375, miR-4488) that were concurrently upregulated in tumors and plasma, and correlated with advanced stage/grade and early progression in PDX mouse models. In our screening cohort, elevated miR-375 and miR-4488 were associated with poorer NMIBC prognosis, whereas miR-1290 and miR-193b with worse survival in MIBC. Higher miRisk-scores were associated with short-term relapse and progression in NMIBC, while miRisk score-fitted multivariate models improved TaT1 risk-stratification. Moreover, higher miRisk-scores correlated with worse clinical outcomes in MIBC, and enhanced the prognostic performance of clinical markers. Overall, liquid biopsy miRNA signatures offer a minimally-invasive tool to complement biopsy-based assessments and refine BlCa risk-stratification and prognosis.",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Biochemistry and Molecular Biology, Faculty of Biology, National and Kapodistrian University of Athens, Athens, Greece.",
+        "Department of Biochemistry and Molecular Biology, Faculty of Biology, National and Kapodistrian University of Athens, Athens, Greece; Laboratory of Clinical Biochemistry - Molecular Diagnostics, Second Department of Pediatrics, School of Medicine, National and Kapodistrian University of Athens, \"P. & A. Kyriakou\" Children's Hospital, Athens, Greece.",
+        "First Department of Urology, \"Laiko\" General Hospital, School of Medicine, National and Kapodistrian University of Athens, Athens, Greece.",
+        "Biomedical Research Foundation Academy of Athens, Athens, Greece.",
+        "CeMIA SA, Larissa, Greece.",
+        "Department of Biochemistry and Molecular Biology, Faculty of Biology, National and Kapodistrian University of Athens, Athens, Greece; Laboratory of Clinical Biochemistry - Molecular Diagnostics, Second Department of Pediatrics, School of Medicine, National and Kapodistrian University of Athens, \"P. & A. Kyriakou\" Children's Hospital, Athens, Greece. Electronic address: mavgeris@med.uoa.gr."
+      ],
+      "doi": "10.1016/j.ejca.2026.116987",
+      "date": "2026-08-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594670/"
+    },
+    {
       "pmid": "42594169",
       "title": "Extracellular Vesicles in Cardiovascular Disease: Intercellular Signaling, Liquid Biopsy Biomarkers, and Therapeutic Translation.",
       "abstract": "Cardiovascular diseases remain the leading global cause of mortality, highlighting the need for improved early detection and targeted interventions. Extracellular vesicles (EVs) are nano-sized, bilipid-layered particles released by all cell types that carry RNAs, proteins, lipids, and metabolites reflective of their parent cells. They mediate intercellular communication by transferring cargo that alters recipient cell transcriptomic and proteomic states, and this property may be leveraged for therapeutic delivery. This review provides a comprehensive, cardiovascular disease-focused synthesis of EV biology with emphasis on what is clinically actionable and mechanistically novel. The review describes EV biogenesis and their multiomic cargo composition, followed by tissue-resolved and cell type-resolved EV signaling across cell types relevant to cardiovascular disease. A dedicated section addresses EV-mediated interorgan crosstalk across the heart-kidney, heart-liver, brain-heart, and adipose-heart axes as a systems-level framework for cardiometabolic disease. We next turn to translational applications, describing EV cargo composition under pathological conditions with implications for disease-related signaling and the potential for biomarker development. For liquid biopsy applications, the review introduces a 3-tier evidence framework classifying circulating EV biomarkers by clinical validation status, supported by a practical preanalytical checklist for cardiovascular plasma studies. Engineered, stem cell-derived, and RNA-loaded EV therapeutic modalities are evaluated, and active clinical trials are catalogued along with key challenges in cargo loading, biodistribution, immunogenicity, and regulatory standardization. We conclude with a structured future directions and perspectives section identifying the most tractable open questions required to advance EVs from discovery to cardiovascular clinical practice.",
@@ -472,37 +491,20 @@
       "doi": "10.1177/11795549261478177",
       "date": "2026-08-11",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42591669/"
-    },
-    {
-      "pmid": "42591303",
-      "title": "Circulating tumor cells as biomarkers in melanoma: techniques, challenges, and clinical applications.",
-      "abstract": "Cutaneous melanoma is a malignant tumor and remains a clinical challenge due to unmet needs in risk stratification, real-time treatment monitoring, and early detection of progression or resistance. Early detection is crucial, as prognosis significantly worsens once metastasis occurs. Liquid biopsy has emerged as a powerful, minimally invasive tool for early diagnosis, real-time disease monitoring, and therapeutic guidance. Among its components, circulating tumor cells (CTCs) are rare yet clinically informative, providing insights into tumor heterogeneity, metastatic potential, and prognosis. Given its high heterogeneity, melanoma could particularly benefit from CTC analysis to inform personalized treatment strategies and improve clinical outcomes. Quantification of melanoma CTCs remains limited by low abundance and heterogeneity, as well as the lack of standardized isolation methods across laboratories. This review summarizes current methods for melanoma CTC detection and isolation. It also explores the clinical significance of melanoma CTCs, addressing the challenges and future opportunities for their implementation in clinical practice.",
-      "journal": "Frontiers in cell and developmental biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "IRCCS Azienda Ospedaliero-Universitaria di Bologna, Bologna, Italy.",
-        "Department of Medical and Surgical Sciences (DIMEC), University of Bologna, Bologna, Italy."
-      ],
-      "doi": "10.3389/fcell.2026.1857720",
-      "date": "2026-07-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42591303/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42594281",
+      "id": "pubmed-42595219",
       "date": "2026-08-13",
-      "title": "A tonsil organoid model reveals Epstein-Barr virus-infected germinal center B cell states during primary infection.",
+      "title": "Efferent ductule epithelium orchestrates reproductive immune homeostasis under inflammatory stress.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594281/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42595219/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -517,48 +519,22 @@
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42594281。",
-      "report": "Epstein-Barr virus (EBV) colonizes secondary lymphoid tissues to establish persistent infection and is strongly associated with malignancy and autoimmunity. Our understanding of EBV infection biology is hindered by a lack of models that capture infected B cell...",
+      "fact": "PubMed 记录显示该文献收录于 Mucosal immunology，PMID 为 42595219。",
+      "report": "Immune dysregulation is increasingly recognized as a key contributor to male infertility, yet the role of the efferent ductules in reproductive immune homeostasis remains unexplored. Located between the immune-privileged testis and the epididymis, efferent duc...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42593962",
+      "id": "pubmed-42595111",
       "date": "2026-08-13",
-      "title": "Protocol for extrusion 3D bioprinting of human-scale cardiac patches using cardiac spheroid-laden bioinks.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42593962/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42593962。",
-      "report": "Extrusion-based bioprinting is a promising approach for developing novel clinical therapies for heart failure patients. Here, we present a protocol for bioprinting personalized human-scale cardiac patches incorporating human cardiac spheroids in a 1% silk fibr...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42593928",
-      "date": "2026-08-13",
-      "title": "From 2D to 3D Colorectal Cancer Patient-Derived Organoids (PDOs) and In Vivo Models: Copper(II) Complexes as Promising New Antitumor Agents.",
+      "title": "OTUD5 Maintains STAT1/2 Stability and Promotes IFNγ-driven Intestinal Inflammation.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42593928/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42595111/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -573,8 +549,68 @@
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of medicinal chemistry，PMID 为 42593928。",
-      "report": "Two copper(II) complexes, (1) [CuCl2(tmp-terpy)] and (2) {[CuCl(tmp-terpy)]·PF6}n, (tmp-terpy-4'-(3,4,5-trimethoxy-phenyl)-2,2':6',2″-terpyridine) were designed, characterized, and evaluated for cytotoxicity in 2D human cell models (HCT116, HCT116-DoxR, and in...",
+      "fact": "PubMed 记录显示该文献收录于 The Journal of biological chemistry，PMID 为 42595111。",
+      "report": "Inflammatory bowel disease (IBD) is characterized by unresolved mucosal inflammation driven mainly by TNFα and/or IFNγ. While anti-TNFα biologics are a clinical mainstay, therapeutic resistance remains a significant hurdle. The molecular mechanisms that sustai...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42594953",
+      "date": "2026-08-13",
+      "title": "Advances in 3D-printed and biofabricated scaffolds for bone tissue engineering: materials, fabrication and biological integration.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594953/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biomedical materials (Bristol, England)，PMID 为 42594953。",
+      "report": "The worldwide incidence of bone disorders is increasing at an alarming rate, especially among the elderly and those with increased obesity and poor physical activity. Therefore, bone tissue engineering, the process of regenerating diseased or damaged bone, is...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42594869",
+      "date": "2026-08-13",
+      "title": "AAV-DJ enables efficient, function-preserving neuronal transduction for circuit interrogation in human cortical and thalamic organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594869/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell reports methods，PMID 为 42594869。",
+      "report": "Neural organoids provide tractable models of human brain development, function, and disease, but adeno-associated viral vector (AAV)-based gene delivery is limited by inefficient transduction and insufficient comparative evaluation of the natural and engineere...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -673,38 +709,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42593965",
-      "date": "2026-08-12",
-      "title": "Dietary vitamin A restricts intestinal tuft cell differentiation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42593965/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell reports，PMID 为 42593965。",
-      "report": "Despite evidence highlighting immunoregulatory roles of tuft cells, it is not known whether vitamin A or retinoic acid affects tuft cell homeostasis. Here, we find that epithelial-intrinsic retinoic acid receptor regulates tuft cell numbers in mice. However, l...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42591669",
       "date": "2026-08-11",
       "title": "Molecular Mechanisms and Biomarkers Driving the Transition From Chronic Atrophic Gastritis to Gastric Cancer.",
@@ -795,6 +799,68 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42594775",
+      "date": "2026-08-09",
+      "title": "Establishment of human nasolacrimal duct epithelial organoid model.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594775/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 European journal of cell biology，PMID 为 42594775。",
+      "report": "The nasolacrimal duct (NLD) holds significant clinical importance in diseases represented by primary acquired NLD obstruction (PANDO). This study aims to culture human NLD epithelial cells using organoid culture systems, with the goal of establishing cell mode...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42594670",
+      "date": "2026-08-09",
+      "title": "Liquid biopsy miRNA risk score in bladder cancer: Translational insights from patient-derived xenografts to prognostic stratification.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594670/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 European journal of cancer (Oxford, England : 1990)，PMID 为 42594670。",
+      "report": "Bladder cancer (BlCa) surveillance requires lifelong invasive monitoring, imposing substantial patient burden and healthcare costs. This underscores the need for minimally-invasive precision medicine approaches. Herein, we investigated the circulating miRNome...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42567392",
       "date": "2026-08-07",
       "title": "Local energetic frustration: Protein evolution, conformational dynamics and design in the age of AI.",
@@ -878,6 +944,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42595681",
+      "date": "2026-08-04",
+      "title": "Liver regenerative medicine approaches: Translational strategies for pediatric surgery.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42595681/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Seminars in pediatric surgery，PMID 为 42595681。",
+      "report": "Pediatric hepatobiliary diseases can progress to liver failure and transplantation, yet donor scarcity, lifelong immunosuppression, and cumulative graft-related morbidity remain major limitations. Regenerative medicine offers complementary strategies for disea...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42580899",
       "date": "2026-07-30",
       "title": "The organ-on-a-chip-AI virtual cell loop: a path toward next‑generation biomedicine.",
@@ -939,36 +1035,6 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42591814。",
       "report": "Incorporating minimal antibody regions into engineered proteins is an effective strategy for creating targeted therapeutics and diagnostics. However, a major barrier to clinical translation is the lack of efficient methods to track their performance in vivo. B...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42591303",
-      "date": "2026-07-29",
-      "title": "Circulating tumor cells as biomarkers in melanoma: techniques, challenges, and clinical applications.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42591303/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42591303。",
-      "report": "Cutaneous melanoma is a malignant tumor and remains a clinical challenge due to unmet needs in risk stratification, real-time treatment monitoring, and early detection of progression or resistance. Early detection is crucial, as prognosis significantly worsens...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1139,74 +1205,6 @@
       "fact": "PubMed 记录显示该文献收录于 Cureus，PMID 为 42592195。",
       "report": "Background The US Food and Drug Administration (FDA) maintains a public list of artificial intelligence (AI) and machine learning (ML)-enabled medical devices that have received marketing authorization. Prior published analyses examined this list at earlier ti...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42592327",
-      "date": "2026-07-08",
-      "title": "H2AC19 promotes lung adenocarcinoma progression via p300/EGR1/MMP-1-mediated angiogenesis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42592327/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Acta pharmaceutica Sinica. B，PMID 为 42592327。",
-      "report": "Angiogenesis is a hallmark of lung adenocarcinoma (LUAD) and a leading cause of mortality. Identifying potential therapeutic targets that modulate this process is of critical clinical importance. Here, we established a 12-gene risk-scoring model through bioinf...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42592425",
-      "date": "2026-06-18",
-      "title": "A novel small molecule inhibitor targeting KHSRP methylation suppresses colon cancer progression.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42592425/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Acta pharmaceutica Sinica. B，PMID 为 42592425。",
-      "report": "RNA-binding proteins (RBPs) are emerging as crucial regulators in cancer, but the development of therapeutic strategies targeting RBPs remains limited. Here, through chemical proteomics approaches, we identify DIQ01 as a novel small-molecule inhibitor of KH-ty...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
