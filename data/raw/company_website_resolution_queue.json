@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-08-13T05:09:00+00:00",
+  "capturedAt": "2026-08-14T05:07:10+00:00",
   "count": 591,
   "items": [
     {
@@ -5283,8 +5283,7 @@
         "Cell Therapy",
         "Organoids & Disease Models",
         "Precision Diagnostics",
-        "drug discovery",
-        "gene therapy"
+        "drug discovery"
       ],
       "status": "needs_official_domain"
     },
@@ -8030,7 +8029,8 @@
       "sourceTypes": [
         "AI Drug Discovery",
         "Precision Diagnostics",
-        "drug discovery"
+        "drug discovery",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
