@@ -1,9 +1,9 @@
 {
-  "capturedAt": "2026-08-13T19:28:29.928507+00:00",
+  "capturedAt": "2026-08-14T02:48:58.337954+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
-    "start": "2026-07-30",
-    "end": "2026-08-13"
+    "start": "2026-07-31",
+    "end": "2026-08-14"
   },
   "forms": [
     "10-K",
@@ -139,6 +139,31 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-08-13",
+      "reportDate": "2026-08-13",
+      "acceptanceDateTime": "2026-08-13T16:18:46.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-35406",
+      "filmNumber": "261273738",
+      "items": "1.01,1.02,2.03,9.01",
+      "size": 1152487,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "form8-k.htm",
+      "primaryDocDescription": "CURRENT REPORT",
+      "accessionNumber": "0000950157-26-000888",
+      "companyId": "illumina",
+      "companyName": "Illumina",
+      "companyDirections": [
+        "Sequencing & Research Tools"
+      ],
+      "secTicker": "ILMN",
+      "cik": "0001110803",
+      "secName": "ILLUMINA, INC.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000095015726000888/form8-k.htm"
+    },
     {
       "filingDate": "2026-08-12",
       "reportDate": "",
@@ -990,186 +1015,40 @@
       "cik": "0001682852",
       "secName": "Moderna, Inc.",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000147/mrna-20260731.htm"
-    },
-    {
-      "filingDate": "2026-07-30",
-      "reportDate": "2026-06-30",
-      "acceptanceDateTime": "2026-07-30T20:46:12.000Z",
-      "act": "34",
-      "form": "10-Q",
-      "fileNumber": "001-38683",
-      "filmNumber": "261224112",
-      "items": "",
-      "size": 9701661,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "gh-20260630.htm",
-      "primaryDocDescription": "10-Q",
-      "accessionNumber": "0001576280-26-000037",
-      "companyId": "guardant-health",
-      "companyName": "Guardant Health",
-      "companyDirections": [
-        "Precision Diagnostics"
-      ],
-      "secTicker": "GH",
-      "cik": "0001576280",
-      "secName": "Guardant Health, Inc.",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000037/gh-20260630.htm"
-    },
-    {
-      "filingDate": "2026-07-30",
-      "reportDate": "2026-07-30",
-      "acceptanceDateTime": "2026-07-30T20:08:09.000Z",
-      "act": "34",
-      "form": "8-K",
-      "fileNumber": "001-38683",
-      "filmNumber": "261223341",
-      "items": "2.02,9.01",
-      "size": 473031,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "gh-20260730.htm",
-      "primaryDocDescription": "8-K",
-      "accessionNumber": "0001576280-26-000036",
-      "companyId": "guardant-health",
-      "companyName": "Guardant Health",
-      "companyDirections": [
-        "Precision Diagnostics"
-      ],
-      "secTicker": "GH",
-      "cik": "0001576280",
-      "secName": "Guardant Health, Inc.",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000036/gh-20260730.htm"
-    },
-    {
-      "filingDate": "2026-07-30",
-      "reportDate": "2026-07-30",
-      "acceptanceDateTime": "2026-07-30T20:07:16.000Z",
-      "act": "34",
-      "form": "8-K",
-      "fileNumber": "001-35406",
-      "filmNumber": "261223321",
-      "items": "2.02,9.01",
-      "size": 451541,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "ilmn-20260730.htm",
-      "primaryDocDescription": "8-K",
-      "accessionNumber": "0001110803-26-000155",
-      "companyId": "illumina",
-      "companyName": "Illumina",
-      "companyDirections": [
-        "Sequencing & Research Tools"
-      ],
-      "secTicker": "ILMN",
-      "cik": "0001110803",
-      "secName": "ILLUMINA, INC.",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000155/ilmn-20260730.htm"
-    },
-    {
-      "filingDate": "2026-07-30",
-      "reportDate": "2026-06-30",
-      "acceptanceDateTime": "2026-07-30T20:03:49.000Z",
-      "act": "34",
-      "form": "10-Q",
-      "fileNumber": "001-42130",
-      "filmNumber": "261223218",
-      "items": "",
-      "size": 15118376,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "tem-20260630.htm",
-      "primaryDocDescription": "10-Q",
-      "accessionNumber": "0001193125-26-326090",
-      "companyId": "tempus-ai",
-      "companyName": "Tempus AI",
-      "companyDirections": [
-        "Precision Diagnostics",
-        "Healthcare AI"
-      ],
-      "secTicker": "TEM",
-      "cik": "0001717115",
-      "secName": "Tempus AI, Inc.",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526326090/tem-20260630.htm"
-    },
-    {
-      "filingDate": "2026-07-30",
-      "reportDate": "2026-07-30",
-      "acceptanceDateTime": "2026-07-30T20:01:15.000Z",
-      "act": "34",
-      "form": "8-K",
-      "fileNumber": "001-42130",
-      "filmNumber": "261223162",
-      "items": "2.02,7.01,9.01",
-      "size": 1572748,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "tem-20260730.htm",
-      "primaryDocDescription": "8-K",
-      "accessionNumber": "0001193125-26-326083",
-      "companyId": "tempus-ai",
-      "companyName": "Tempus AI",
-      "companyDirections": [
-        "Precision Diagnostics",
-        "Healthcare AI"
-      ],
-      "secTicker": "TEM",
-      "cik": "0001717115",
-      "secName": "Tempus AI, Inc.",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526326083/tem-20260730.htm"
-    },
-    {
-      "filingDate": "2026-07-30",
-      "reportDate": "2026-06-30",
-      "acceptanceDateTime": "2026-07-30T12:11:02.000Z",
-      "act": "34",
-      "form": "10-Q",
-      "fileNumber": "001-36407",
-      "filmNumber": "261220304",
-      "items": "",
-      "size": 11125755,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "alny-20260630.htm",
-      "primaryDocDescription": "10-Q",
-      "accessionNumber": "0001178670-26-000062",
-      "companyId": "alnylam",
-      "companyName": "Alnylam Pharmaceuticals",
-      "companyDirections": [
-        "RNA Therapeutics"
-      ],
-      "secTicker": "ALNY",
-      "cik": "0001178670",
-      "secName": "ALNYLAM PHARMACEUTICALS, INC.",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000062/alny-20260630.htm"
-    },
-    {
-      "filingDate": "2026-07-30",
-      "reportDate": "2026-07-30",
-      "acceptanceDateTime": "2026-07-30T12:06:25.000Z",
-      "act": "34",
-      "form": "8-K",
-      "fileNumber": "001-36407",
-      "filmNumber": "261220294",
-      "items": "2.02,9.01",
-      "size": 515639,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "alny-20260730.htm",
-      "primaryDocDescription": "8-K",
-      "accessionNumber": "0001178670-26-000060",
-      "companyId": "alnylam",
-      "companyName": "Alnylam Pharmaceuticals",
-      "companyDirections": [
-        "RNA Therapeutics"
-      ],
-      "secTicker": "ALNY",
-      "cik": "0001178670",
-      "secName": "ALNYLAM PHARMACEUTICALS, INC.",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000060/alny-20260730.htm"
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001110803-000095015726000888",
+      "date": "2026-08-13",
+      "title": "Illumina filed Form 8-K",
+      "entity": "Illumina",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000095015726000888/form8-k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Sequencing & Research Tools"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "ILMN"
+      ],
+      "companyIds": [
+        "illumina"
+      ],
+      "fact": "SEC EDGAR lists accession 0000950157-26-000888 for Illumina, Form 8-K, filed on 2026-08-13.",
+      "report": "SEC metadata describes the primary document as: CURRENT REPORT.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001110803-000119312526346923",
       "date": "2026-08-12",
@@ -2222,225 +2101,6 @@
         "moderna"
       ],
       "fact": "SEC EDGAR lists accession 0001682852-26-000147 for Moderna, Form 8-K, filed on 2026-07-31.",
-      "report": "SEC metadata describes the primary document as: 8-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001576280-000157628026000037",
-      "date": "2026-07-30",
-      "title": "Guardant Health filed Form 10-Q",
-      "entity": "Guardant Health",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Periodic Filing",
-      "eventType": "Periodic Report",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000037/gh-20260630.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "Precision Diagnostics"
-      ],
-      "tags": [
-        "SEC",
-        "10-Q",
-        "GH"
-      ],
-      "companyIds": [
-        "guardant-health"
-      ],
-      "fact": "SEC EDGAR lists accession 0001576280-26-000037 for Guardant Health, Form 10-Q, filed on 2026-07-30.",
-      "report": "SEC metadata describes the primary document as: 10-Q.",
-      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001576280-000157628026000036",
-      "date": "2026-07-30",
-      "title": "Guardant Health filed Form 8-K",
-      "entity": "Guardant Health",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000036/gh-20260730.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "Precision Diagnostics"
-      ],
-      "tags": [
-        "SEC",
-        "8-K",
-        "GH"
-      ],
-      "companyIds": [
-        "guardant-health"
-      ],
-      "fact": "SEC EDGAR lists accession 0001576280-26-000036 for Guardant Health, Form 8-K, filed on 2026-07-30.",
-      "report": "SEC metadata describes the primary document as: 8-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001110803-000111080326000155",
-      "date": "2026-07-30",
-      "title": "Illumina filed Form 8-K",
-      "entity": "Illumina",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000155/ilmn-20260730.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "Sequencing & Research Tools"
-      ],
-      "tags": [
-        "SEC",
-        "8-K",
-        "ILMN"
-      ],
-      "companyIds": [
-        "illumina"
-      ],
-      "fact": "SEC EDGAR lists accession 0001110803-26-000155 for Illumina, Form 8-K, filed on 2026-07-30.",
-      "report": "SEC metadata describes the primary document as: 8-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001717115-000119312526326090",
-      "date": "2026-07-30",
-      "title": "Tempus AI filed Form 10-Q",
-      "entity": "Tempus AI",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Periodic Filing",
-      "eventType": "Periodic Report",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526326090/tem-20260630.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "Precision Diagnostics",
-        "Healthcare AI"
-      ],
-      "tags": [
-        "SEC",
-        "10-Q",
-        "TEM"
-      ],
-      "companyIds": [
-        "tempus-ai"
-      ],
-      "fact": "SEC EDGAR lists accession 0001193125-26-326090 for Tempus AI, Form 10-Q, filed on 2026-07-30.",
-      "report": "SEC metadata describes the primary document as: 10-Q.",
-      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001717115-000119312526326083",
-      "date": "2026-07-30",
-      "title": "Tempus AI filed Form 8-K",
-      "entity": "Tempus AI",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526326083/tem-20260730.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "Precision Diagnostics",
-        "Healthcare AI"
-      ],
-      "tags": [
-        "SEC",
-        "8-K",
-        "TEM"
-      ],
-      "companyIds": [
-        "tempus-ai"
-      ],
-      "fact": "SEC EDGAR lists accession 0001193125-26-326083 for Tempus AI, Form 8-K, filed on 2026-07-30.",
-      "report": "SEC metadata describes the primary document as: 8-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001178670-000117867026000062",
-      "date": "2026-07-30",
-      "title": "Alnylam Pharmaceuticals filed Form 10-Q",
-      "entity": "Alnylam Pharmaceuticals",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Periodic Filing",
-      "eventType": "Periodic Report",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000062/alny-20260630.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "RNA Therapeutics"
-      ],
-      "tags": [
-        "SEC",
-        "10-Q",
-        "ALNY"
-      ],
-      "companyIds": [
-        "alnylam"
-      ],
-      "fact": "SEC EDGAR lists accession 0001178670-26-000062 for Alnylam Pharmaceuticals, Form 10-Q, filed on 2026-07-30.",
-      "report": "SEC metadata describes the primary document as: 10-Q.",
-      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001178670-000117867026000060",
-      "date": "2026-07-30",
-      "title": "Alnylam Pharmaceuticals filed Form 8-K",
-      "entity": "Alnylam Pharmaceuticals",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000060/alny-20260730.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "RNA Therapeutics"
-      ],
-      "tags": [
-        "SEC",
-        "8-K",
-        "ALNY"
-      ],
-      "companyIds": [
-        "alnylam"
-      ],
-      "fact": "SEC EDGAR lists accession 0001178670-26-000060 for Alnylam Pharmaceuticals, Form 8-K, filed on 2026-07-30.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."

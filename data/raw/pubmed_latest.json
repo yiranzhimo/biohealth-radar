@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-13T19:28:19.691431+00:00",
+  "capturedAt": "2026-08-14T02:48:48.742756+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-08-13",
-    "end": "2026-08-13"
+    "start": "2025-08-14",
+    "end": "2026-08-14"
   },
   "pmids": [
+    "42594281",
+    "42593965",
+    "42593962",
+    "42593928",
     "42592425",
     "42592327",
-    "42592126",
-    "42591639",
-    "42591546",
-    "42591384",
     "42580899",
     "42559559",
     "42509463",
@@ -32,14 +32,94 @@
     "42567392",
     "42564489",
     "42561121",
+    "42594169",
+    "42593704",
     "42592866",
     "42592195",
     "42591669",
-    "42591303",
-    "42590828",
-    "42590737"
+    "42591303"
   ],
   "records": [
+    {
+      "pmid": "42594281",
+      "title": "A tonsil organoid model reveals Epstein-Barr virus-infected germinal center B cell states during primary infection.",
+      "abstract": "Epstein-Barr virus (EBV) colonizes secondary lymphoid tissues to establish persistent infection and is strongly associated with malignancy and autoimmunity. Our understanding of EBV infection biology is hindered by a lack of models that capture infected B cell activity in the lymphoid tissue microenvironment. We therefore developed an EBV human tonsil organoid model to evaluate key B cell states and antiviral responses, including after primary infection. EBV promoted B cell differentiation into germinal center-like phenotypes and transcriptomic analyses highlighted numerous B cell transcriptional programs unique to EBV-infected cells. B cell receptor repertoire analysis revealed that most EBV+ B cells underwent class switching but only rarely participated in somatic hypermutation. CD4 T cells, highly activated by organoid infection, limited EBV+ B cell outgrowth in both primary and secondary EBV infection. Our findings demonstrate human tonsil organoids as a physiologically relevant model to investigate key aspects of EBV immunity and pathogenesis.",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Physiology and Biophysics, Institute for Immunology, and Center for Virus Research, University of California Irvine, Irvine, CA 92697.",
+        "Division of Infectious Diseases, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA 02115.",
+        "Department of Neurology, Washington University School of Medicine in St. Louis, St. Louis, MO 63110.",
+        "Division of Pediatric Otolaryngology, Children's Hospital of Orange County, Orange, CA 92868.",
+        "Department of Otolaryngology-Head and Neck Surgery, University of California, Irvine, Orange, CA 92868.",
+        "Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229."
+      ],
+      "doi": "10.1073/pnas.2603586123",
+      "date": "2026-08-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594281/"
+    },
+    {
+      "pmid": "42593965",
+      "title": "Dietary vitamin A restricts intestinal tuft cell differentiation.",
+      "abstract": "Despite evidence highlighting immunoregulatory roles of tuft cells, it is not known whether vitamin A or retinoic acid affects tuft cell homeostasis. Here, we find that epithelial-intrinsic retinoic acid receptor regulates tuft cell numbers in mice. However, loss of retinoic acid signaling in tuft cells does not replicate this effect, suggesting altered differentiation. Consistent with this, retinoic acid administration to stem cell-derived organoids reduces tuft cell numbers, and epithelial-intrinsic retinoic acid is sufficient to alter tuft cell responses. In addition, dietary vitamin A dynamically alters tuft cells in vivo and regulates anti-helminth immunity in a tuft cell-dependent manner. Mechanistically, epithelial retinoic acid signaling promotes expression of Sprouty2, a negative regulator of tuft cell differentiation. Furthermore, stem cell-specific Sprouty2 disruption abrogates vitamin A regulation of tuft cells. Collectively, these data indicate that retinoic acid restricts tuft cell differentiation and carries important implications for how vitamin A affects intestinal health and immunity.",
+      "journal": "Cell reports",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Division of Immunobiology, Cincinnati Children's Hospital Medical Center and Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH, USA; Center for Inflammation and Tolerance, Cincinnati Children's Hospital Medical Center, Cincinnati, OH, USA; Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH, USA.",
+        "Division of Immunobiology, Cincinnati Children's Hospital Medical Center and Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH, USA; Center for Inflammation and Tolerance, Cincinnati Children's Hospital Medical Center, Cincinnati, OH, USA. Electronic address: emily.eshleman@cchmc.org.",
+        "Division of Immunobiology, Cincinnati Children's Hospital Medical Center and Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH, USA; Center for Inflammation and Tolerance, Cincinnati Children's Hospital Medical Center, Cincinnati, OH, USA.",
+        "Division of Gastroenterology, Hepatology, and Nutrition, Cincinnati Children's Hospital Medical Center and Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH, USA.",
+        "The Saban Research Institute, Children's Hospital Los Angeles, Los Angeles, CA, USA; Department of Pediatrics and Department of Biochemistry and Molecular Biology, University of Southern California Keck School of Medicine, Los Angeles, CA, USA.",
+        "Division of Immunobiology, Cincinnati Children's Hospital Medical Center and Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH, USA; Center for Inflammation and Tolerance, Cincinnati Children's Hospital Medical Center, Cincinnati, OH, USA. Electronic address: theresa.alenghat@cchmc.org."
+      ],
+      "doi": "10.1016/j.celrep.2026.117802",
+      "date": "2026-08-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42593965/"
+    },
+    {
+      "pmid": "42593962",
+      "title": "Protocol for extrusion 3D bioprinting of human-scale cardiac patches using cardiac spheroid-laden bioinks.",
+      "abstract": "Extrusion-based bioprinting is a promising approach for developing novel clinical therapies for heart failure patients. Here, we present a protocol for bioprinting personalized human-scale cardiac patches incorporating human cardiac spheroids in a 1% silk fibroin/4% alginate/8% gelatin hydrogel. We describe steps for extrusion 3D bioprinting using a temperature-controlled hydrogel bioink. We also detail adjusting print parameters for optimal results. Although prepared for a specific experimental setup, the techniques described can be applied to other temperature-controlled biomaterials or extrusion 3D bioprinters. For complete details on the use and execution of this protocol, please refer to Roche et al.,1,2 Sharma et al.,3 and Vettori et al.4.",
+      "journal": "STAR protocols",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "University of Technology Sydney, School of Electrical, Mechanical and Biomedical Engineering, Ultimo, NSW 2007, Australia. Electronic address: niina.matthews@student.uts.edu.au.",
+        "University of Technology Sydney, School of Electrical, Mechanical and Biomedical Engineering, Ultimo, NSW 2007, Australia; Heart Research Institute, Newtown, NSW 2042, Australia. Electronic address: carmine.gentile@uts.edu.au."
+      ],
+      "doi": "10.1016/j.xpro.2026.104780",
+      "date": "2026-08-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42593962/"
+    },
+    {
+      "pmid": "42593928",
+      "title": "From 2D to 3D Colorectal Cancer Patient-Derived Organoids (PDOs) and In Vivo Models: Copper(II) Complexes as Promising New Antitumor Agents.",
+      "abstract": "Two copper(II) complexes, (1) [CuCl2(tmp-terpy)] and (2) {[CuCl(tmp-terpy)]·PF6}n, (tmp-terpy-4'-(3,4,5-trimethoxy-phenyl)-2,2':6',2″-terpyridine) were designed, characterized, and evaluated for cytotoxicity in 2D human cell models (HCT116, HCT116-DoxR, and in normal primary fibroblasts), and 3D colorectal cancer (CRC) spheroids and patient-derived organoids (PDOs). Both complexes demonstrated potent antiproliferative effects, alone and in combination with the FOLFOX (FF), across all 3D models. Importantly, the cytotoxic effects of complex 1 were significantly more pronounced in tumor-derived PDOs than in normal tissue-derived PDOs. Complex 1 induced reactive oxygen species (ROS) production, triggering intrinsic apoptosis and autophagy, consistent with a multimodal anticancer mechanism. It also exerted a cytostatic effect, as shown by delayed cell-cycle progression, and antiangiogenic activity in vivo without systemic toxicity. Notably, cotreatment of complex 1 with FF significantly potentiated cytotoxicity in 3D tumor spheroids and PDOs tumor-derived-PDOs. [CuCl2(tmp-terpy)] alone or in combination with the FF regimen warrants further evaluation in advanced preclinical models.",
+      "journal": "Journal of medicinal chemistry",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Institute of Chemistry, University of Silesia, Szkolna 9, 40-006Katowice, Poland.",
+        "Associate Laboratory i4HB - Institute for Health and Bioeconomy, NOVA School of Science and Technology, NOVA University Lisbon, 2819-516Caparica, Portugal.",
+        "UCIBIO, Departamento de Ciências da Vida, NOVA School of Science and Technology, Campus de Caparica, 2829-516Caparica, Portugal.",
+        "Department of Chemical Organic Technology and Petrochemistry, Silesian University of Technology, Krzywoustego 4, 44-100Gliwice, Poland.",
+        "Hospital Beatriz Ângelo, Avenida Carlos Teixeira 3, 2674-514Loures, Portugal.",
+        "Hospital da Luz Learning Health, Luz Saúde, Avenida Lusíada 100, 1500-650Lisboa, Portugal.",
+        "Hospital da Luz , Avenida Lusíada 100, 1500-650Lisboa, Portugal.",
+        "NOVA Medical School, Campo Mártires da Pátria 130, 1169-056Lisboa, Portugal.",
+        "Catolica Medical School, Palma de Cima, 1649-023Lisboa, Portugal.",
+        "Lisbon School of Medicine, Universidade de Lisboa, Avenida Professor Egas Moniz, 1649-028Lisboa, Portugal."
+      ],
+      "doi": "10.1021/acs.jmedchem.6c00941",
+      "date": "2026-08-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42593928/"
+    },
     {
       "pmid": "42592425",
       "title": "A novel small molecule inhibitor targeting KHSRP methylation suppresses colon cancer progression.",
@@ -78,73 +158,6 @@
       "doi": "10.1016/j.apsb.2026.07.010",
       "date": "2026-07-08",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42592327/"
-    },
-    {
-      "pmid": "42592126",
-      "title": "Inflammation in atherosclerosis: Drivers, mechanisms and therapies.",
-      "abstract": "Atherosclerosis has traditionally been considered a lipid-driven disease. However, emerging evidence highlights the central role of inflammation in the development of atherosclerosis. Multiple cell types, including endothelial cells, macrophages, and other immune cells, interact within lesions to form a chronic inflammatory microenvironment. Unhealthy lifestyle, smoking and metabolic disorders like hyperlipidemia, hyperglycemia, and their derived pro-atherogenic products drive vascular inflammation. Recent evidence reveals that high-sensitivity C-reactive protein surpasses LDL-cholesterol in predicting future cardiovascular risk. Combining lipid-lowering with anti-inflammatory therapies significantly reduces event recurrence, underscoring the need for targeted drugs. Promising results have emerged from trials of anti-inflammatory agents. Statins and other lipid-lowering drugs also exhibit anti-inflammatory properties. However, cholesterol-independent strategies face challenges like infection risk from immunosuppression, requiring extensive safety evaluation. Enhancing intrinsic resilience mechanisms is a promising alternative in combating vascular inflammation and atherosclerosis. High-throughput screening accelerates drug development, while induced pluripotent stem cell-derived vascular organoids better simulate human atherosclerosis pathobiology, improving preclinical predictions. Research on organ interaction networks and trained immunity offers novel therapeutic targets. In this comprehensive review, we provide a state-of-the-art synthesis of the drivers, mechanisms, and potential therapies of atherosclerosis by targeting inflammation, with an aim to reducing residual cardiovascular risk in the post-statin era.",
-      "journal": "Acta pharmaceutica Sinica. B",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Endocrinology and Metabolism, Centre for Leading Medicine and Advanced Technologies of IHM, The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei 230001, China.",
-        "Anhui Provincial Key Laboratory of Metabolic Health and Panvascular Diseases, Hefei 230001, China."
-      ],
-      "doi": "10.1016/j.apsb.2026.06.047",
-      "date": "2026-06-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42592126/"
-    },
-    {
-      "pmid": "42591639",
-      "title": "Systems toxicology integration uncovers trophoblast apoptosis as a pivotal mechanism underlying PFAS-related recurrent miscarriage.",
-      "abstract": "The present investigation seeks to clarify the molecular underpinnings through which perfluorooctanoic acid (PFOA) and perfluorooctanesulfonic acid (PFOS) precipitate recurrent miscarriage (RM). Initially, prospective targets of PFOA (6050 in total) and PFOS (8896 in total) were systematically compiled from three repositories-CTD, ChEMBL, and Super-PRED-while 1822 pathogenic targets linked to RM were cataloged through the amalgamation of GeneCards, OMIM, and NCBI resources. Venn diagrammatic assessment disclosed 699 overlapping targets shared between PFOA and RM, alongside 832 shared between PFOS and RM. Thereafter, PPI networks were assembled utilizing the STRING platform. By applying median filtering coupled with CytoHubba-based evaluation, central targets were distilled-362 for the PFOA-RM axis and 502 for the PFOS-RM axis-together with their respective top 10 hub genes. Functional enrichment conducted via DAVID pointed toward platelet coagulation elements as potentially critical mediators in PFOA- and PFOS-triggered RM. Moreover, the distinctive enrichment of transcriptional co-regulatory complexes observed specifically for PFOS, coupled with divergent pathway involvements including adipocytokine signaling, TNF cascades, and fluid shear stress transduction between the two agents, implies compound-specific pathogenic modalities. Overlapping target scrutiny pinpointed TP53 as the exclusive pathogenic gene candidate. SMART-based verification affirmed its essential structural domains, with documented subcellular residence in cytoplasmic, nuclear, and mitochondrial compartments. TP53 engages functionally with MDM2 and MDM4 among other interactors, exhibiting pronounced expression within female reproductive tissues such as the cervix and ovary. Notably, its expression proved markedly elevated in healthy villous tissues (encompassing cytotrophoblast and chorionic cavity cells) relative to decidual counterparts. Single-cell interrogation further substantiated prominent TP53 expression within migratory extravillous trophoblasts, extravillous trophoblast populations, and endometrial vascular endothelial cells. Ex vivo investigations demonstrated that PFOA and PFOS exposure markedly suppressed HTR8/Svneo cell proliferation while promoting programmed cell death, concomitantly attenuating TP53 protein abundance. Computational molecular docking corroborated favorable binding energetics between both perfluorinated compounds and the TP53 protein. Collectively, these observations furnish novel mechanistic perspectives on PFAS-driven RM pathogenesis, highlighting TP53 as a promising molecular marker for environmentally triggered RM. Also, this study is limited by its in vitro nature, the use of a single SV40-immortalized trophoblast cell line, and the absence of primary human trophoblast or organoid validation.",
-      "journal": "Frontiers in cell and developmental biology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Intensive Care Unit, Women and Children's Hospital of Ningbo University, Ningbo, China."
-      ],
-      "doi": "10.3389/fcell.2026.1889539",
-      "date": "2026-07-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42591639/"
-    },
-    {
-      "pmid": "42591546",
-      "title": "Modeling and targeting the hostile physicochemical niche in bone metastasis: from experimental platforms to niche-directed therapy.",
-      "abstract": "Cancer metastasis to bone is shaped not only by tumor-stromal crosstalk but also by a hostile physicochemical niche that promotes disease persistence and therapeutic failure. Hypoxia, acidosis, mineralized matrix architecture, altered mechanics, interstitial pressure, impaired perfusion, and limited drug transport influence metastatic seeding, dormancy, reactivation, remodeling, pain, and treatment response. Conventional two-dimensional cultures and many simplified three-dimensional systems reproduce only selected features of this environment, often overestimating therapeutic efficacy. This review examines experimental platforms designed to model bone metastasis with greater biological and biophysical fidelity, including mineralized scaffolds, multicellular co-cultures, ex vivo bone explants, organoids, bone-on-chip and microphysiological systems (MPS), animal models, and computational or hybrid approaches. Rather than ranking models by complexity, we propose a fit-for-purpose framework in which platform selection is guided by the biological question, the lesion feature being tested, and the required balance between control, scalability, and physiological fidelity. We further discuss how modeling oxygen tension, extracellular pH, pressure, mechanics, vascular transport, immune context, and neural interactions can inform niche-directed therapeutic strategies. The central challenge is to build models that reproduce clinically relevant bone lesion states and thereby improve therapeutic prediction, patient stratification, and treatment design.",
-      "journal": "Frontiers in cell and developmental biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Medicine, College of Medicine, Alfaisal University, Riyadh, Saudi Arabia.",
-        "Department of Clinical Skills, College of Medicine, Alfaisal University, Riyadh, Saudi Arabia.",
-        "Department of Anatomy, College of Medicine, Alfaisal University, Riyadh, Saudi Arabia."
-      ],
-      "doi": "10.3389/fcell.2026.1894171",
-      "date": "2026-07-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42591546/"
-    },
-    {
-      "pmid": "42591384",
-      "title": "A modern reinterpretation of the \"kidney governs bone\" theory: systemic regulation of the neuro-endocrine-immune network via the brain-bone axis and traditional chinese medicine intervention strategies.",
-      "abstract": "The traditional Chinese medicine (TCM) theory of \"Kidney Governs Bone' has been progressively validated in modern medical research. However, a purely endocrinological perspective cannot fully explain its regulatory implications under complex conditions such as stress, inflammation, and nerve injury. As bone metabolism research shifts toward a systemic regulatory paradigm, the \"brain-bone axis' provides a new framework for reinterpreting \"Kidney Governs Bone.' Based on current evidence, the core scientific proposition of this article is that we propose the hypothesis that the therapeutic effects of TCM's \"Kidney Governs Bone' theory can be partially explained by systemic regulation of the neuro-endocrine-immune network, and that the therapeutic efficacy of TCM interventions may be related to their ability for layered, multi-target regulation within this network. This proposition requires further validation in diverse pathological contexts. Based on this proposition, we propose three conceptual frameworks: ① extending \"Kidney Governs Bone' from the traditional \"kidney-bone' endocrine axis to a systemic regulatory framework centered on the \"brain-bone axis'; ② constructing a three-level \"central-peripheral-local' regulatory model that systematically integrates the hierarchical interactions within the neuro-endocrine-immune network; and ③ proposing a \"stratified intervention' strategy for TCM, clarifying the target differences among different therapeutic principles across the three network levels. Using this framework, we systematically evaluate the mechanisms of TCM interventions: kidney-tonifying herbs regulate the hypothalamic-pituitary axis to maintain endocrine homeostasis; kidney-tonifying and blood-activating methods, as well as acupuncture and other external therapies, achieve \"neuro-vascular-osteogenic' synergy by modulating sympathetic tone and upregulating neuropeptides such as CGRP; acupuncture and moxibustion remodel the bone immune microenvironment by activating the cholinergic anti-inflammatory pathway, promoting M2 macrophage polarization, and inhibiting NLRP3 inflammasome activation. Current challenges include spatiotemporal heterogeneity, network complexity, and clinical translation gaps. Future studies should employ technologies such as optogenetics, multi-omics integration, and organoid-on-a-chip platforms. The modern scientific connotation of \"Kidney Governs Bone' is deeply reflected in the systemic regulation of the neuro-endocrine-immune network, and this interdisciplinary direction provides a crucial theoretical breakthrough for transforming TCM orthopedics from empirical medicine toward systems medicine.",
-      "journal": "Frontiers in pharmacology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "The First Clinical Medical College, Yunnan University of Chinese Medicine, Kunming, China.",
-        "Yunnan Provincial Hospital of Chinese Medicine, Kunming, China."
-      ],
-      "doi": "10.3389/fphar.2026.1862657",
-      "date": "2026-07-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42591384/"
     },
     {
       "pmid": "42580899",
@@ -376,6 +389,40 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42561121/"
     },
     {
+      "pmid": "42594169",
+      "title": "Extracellular Vesicles in Cardiovascular Disease: Intercellular Signaling, Liquid Biopsy Biomarkers, and Therapeutic Translation.",
+      "abstract": "Cardiovascular diseases remain the leading global cause of mortality, highlighting the need for improved early detection and targeted interventions. Extracellular vesicles (EVs) are nano-sized, bilipid-layered particles released by all cell types that carry RNAs, proteins, lipids, and metabolites reflective of their parent cells. They mediate intercellular communication by transferring cargo that alters recipient cell transcriptomic and proteomic states, and this property may be leveraged for therapeutic delivery. This review provides a comprehensive, cardiovascular disease-focused synthesis of EV biology with emphasis on what is clinically actionable and mechanistically novel. The review describes EV biogenesis and their multiomic cargo composition, followed by tissue-resolved and cell type-resolved EV signaling across cell types relevant to cardiovascular disease. A dedicated section addresses EV-mediated interorgan crosstalk across the heart-kidney, heart-liver, brain-heart, and adipose-heart axes as a systems-level framework for cardiometabolic disease. We next turn to translational applications, describing EV cargo composition under pathological conditions with implications for disease-related signaling and the potential for biomarker development. For liquid biopsy applications, the review introduces a 3-tier evidence framework classifying circulating EV biomarkers by clinical validation status, supported by a practical preanalytical checklist for cardiovascular plasma studies. Engineered, stem cell-derived, and RNA-loaded EV therapeutic modalities are evaluated, and active clinical trials are catalogued along with key challenges in cargo loading, biodistribution, immunogenicity, and regulatory standardization. We conclude with a structured future directions and perspectives section identifying the most tractable open questions required to advance EVs from discovery to cardiovascular clinical practice.",
+      "journal": "Circulation research",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Cardiovascular Research Center, Division of Cardiology, Massachusetts General Hospital, Heart and Vascular Institute, Mass General Brigham, Boston, MA."
+      ],
+      "doi": "10.1161/CIRCRESAHA.126.327198",
+      "date": "2026-08-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594169/"
+    },
+    {
+      "pmid": "42593704",
+      "title": "The scientific evolution of the Ommaya reservoir: a bibliometric analysis.",
+      "abstract": "Since its introduction in 1963, the Ommaya reservoir has expanded beyond its original role as a ventricular access device to support intrathecal therapeutics, cerebrospinal fluid diagnostics, and emerging applications in precision neuro-oncology. To our knowledge, the evolution of this research landscape has not been quantitatively characterized. We analyzed Web of Science Core Collection publications on June 19, 2026, retrieving 896 articles, of which 862 were included (English, unique DOI, complete metadata). Bibliometric analyses included publication trends, author impact, international collaboration mapping, keyword co-occurrence networks with spectral clustering, temporal overlay visualization, and abstract n-gram analysis. Analyses were performed in MATLAB v2025a. Output increased from 1 to 3 articles annually in the 1960-1970 s to a peak of 67 in 2024, with nearly 90% of publications appearing within the past two decades. The United States contributed 323 publications (37.5%) and was the central collaboration hub. Four dominant themes emerged: neuro-oncology and intrathecal therapeutics, hydrocephalus and device-related complications, craniopharyngioma management, and surgical techniques with drug delivery. N-gram analysis revealed rapid emergence of \"liquid biopsy\" and \"immunotherapy\" in recent abstracts. Temporal analyses demonstrated a progressive shift in research from ventricular drug delivery toward cerebrospinal fluid biomarkers, molecular diagnostics, immunotherapy, and targeted therapeutics. Ommaya reservoir research has evolved from ventricular access and intrathecal drug delivery toward molecular diagnostics and precision neuro-oncology. Rather than reflecting device changes, these trends illustrate the expanding role of cerebrospinal fluid as both a therapeutic and diagnostic compartment in modern neuro-oncology.",
+      "journal": "Journal of neuro-oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Neurosurgery, Lenox Hill Hospital, New York, NY, USA.",
+        "Department of Neurosurgery, Donald and Barbara Zucker Hofstra School of Medicine at Hofstra/Northwell Health, Manhasset, NY, USA.",
+        "Department of Neurosurgery, Lenox Hill Hospital, New York, NY, USA. rdamico8@northwell.edu.",
+        "Department of Neurosurgery, Donald and Barbara Zucker Hofstra School of Medicine at Hofstra/Northwell Health, Manhasset, NY, USA. rdamico8@northwell.edu."
+      ],
+      "doi": "10.1007/s11060-026-05756-4",
+      "date": "2026-08-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42593704/"
+    },
+    {
       "pmid": "42592866",
       "title": "Using cell-free RNA to identify B- and T-cell clonality for diagnosis and monitoring of B- and T-cell neoplasms.",
       "abstract": "Cell-free RNA (cfRNA) is emerging as a supplemental approach for liquid biopsy (LBx). Given that lymphoid cells and plasma cells express substantial quantities of immunoglobulin (Ig) and T-cell receptor (TCR) RNA, we investigated the utility of using cfRNA for detecting B-cell and T-cell clonality in LBxs. Using next-generation sequencing (NGS) of cfRNA, we clonotyped Igs and TCRs in LBx samples from patients with B-cell neoplasm, T-cell neoplasm, myeloid neoplasm and solid tumors alongside cancer-free individuals. To establish a clonality cutoff, we clonotyped tissue RNA from patients with confirmed clonal B- or T-cell and from polyclonal. Clonotype-naïve testing of LBx samples demonstrated B-cell clonality in 36% of B-cell neoplasms, 7% of normal, 8% of T-cell lymphomas, 13% of myeloid neoplasms, and 14% of solid tumors. T-cell clonality using TCR beta or gamma demonstrated T-cell clonality in 22% of T-cell neoplasms, 3% of normal, 5% of myeloid neoplasms, 7% of solid tumors and 3% of B-cell neoplasms. This confirms that Clonotype-naïve cfRNA testing in LBx is a reliable approach for detecting B- and T-cell clonality.",
@@ -442,49 +489,159 @@
       "doi": "10.3389/fcell.2026.1857720",
       "date": "2026-07-29",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42591303/"
-    },
-    {
-      "pmid": "42590828",
-      "title": "Circular Logic: Engineering Next-Generation Circular RNA Therapeutics for Precision Oncology.",
-      "abstract": "The topology of RNA therapeutics is emerging as a critical design dimension in precision oncology. Unlike linear mRNA, circular RNA (circRNA) lacks free ends, conferring exceptional resistance to exonuclease degradation and enabling sustained protein expression for days to weeks. Beyond their use as engineered therapeutics, endogenous circRNAs exhibit cancer-associated expression patterns and persistence in biofluids, supporting complementary roles in tumor biology and as candidate biomarkers for diagnosis and longitudinal disease monitoring. This review argues that circular topology should be viewed as an active pharmacologic variable, not merely a stability enhancement. We dissect recent advances in cap-independent translation initiation, including IRES elements and m6A-driven mechanisms, rolling-circle translation for multi-epitope vaccine design, and programmable stability circuits that integrate tumor-microenvironment cues such as miRNA signatures. Delivery innovations are equally transformative: antibody-guided lipid nanoparticles and engineered extracellular vesicles enable increasingly selective RNA delivery, while local depot formulations and organ-selective systemic routes expand therapeutic reach. Safety considerations are re-evaluated as double-edged tools-innate immunogenicity can serve as a self-adjuvant for cancer vaccines, whereas back-splice-junction neoantigens offer both vaccine opportunities and tolerance risks. Recent advances in scarless circularization, topology-sensitive purification, dsRNA depletion, and lyophilized formulations have begun to address key manufacturing bottlenecks, although clinical-scale recovery and process scalability remain insufficiently characterized. Key applications include circRNA cancer vaccines, transient CAR-T/NK cell engineering, tumor-suppressor replacement, and circRNA-encoded bispecific T-cell engagers. The field now requires real-time pharmacokinetic tracking, reproducible and scalable manufacturing, validated liquid-biopsy assays, and indication-specific regulatory pathways to translate circRNA from bench to bedside.",
-      "journal": "Biotechnology and bioengineering",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Internal medicine, Diabetes, Endocrinology and Metabolism, Mansoura University, Mansoura, Egypt.",
-        "Faculty of Allied Medical Sciences, Hourani Center for Applied Scientific Research, Al-Ahliyya Amman University, Amman, Jordan.",
-        "Department of Public health and Healthcare management, Rector, Samarkand State Medical University, Samarkand, Uzbekistan.",
-        "Department of Pharmaceutical Sciences, College of Pharmacy, AL-Turath University, Baghdad, Iraq.",
-        "Department of Therapeutic Nutrition Techniques, College of Health and Medical Technologies, Alnoor University, Mosul, Iraq.",
-        "Department of Pharmaceutical Sciences, Siksha 'O' Anusandhan (Deemed to be University), Bhubaneswar, Odisha, India.",
-        "Centre for Research Impact and Outcome, Chitkara University, Rajpura, Punjab, India.",
-        "Sharda School of Bio-Science & Technology, Sharda University, Greater Noida, India.",
-        "University Institute of Pharma Sciences, Chandigarh University, Mohali, Punjab, India."
-      ],
-      "doi": "10.1002/bit.70344",
-      "date": "2026-08-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42590828/"
-    },
-    {
-      "pmid": "42590737",
-      "title": "Strategies for Multiplexing Plasmonic Biosensing.",
-      "abstract": "Plasmonic biosensing technologies have emerged as powerful analytical tools for sensitive and label-free characterisation of biomolecular interactions and complex samples. The increasing demand for comprehensive molecular profiling has accelerated the development of multiplexing strategies that enable simultaneous analysis of multiple analytes and molecular interactions. This Feature Paper examines multiplexing through the complementary spatial, spectral, and temporal dimensions of multiplexing, together with their hybrid combinations and associated analytical trade-offs. Compared with other optical biosensing approaches, including interferometric, photonic, and fluorescence-based sensing platforms, plasmonic biosensors remain attractive owing to their combination of label-free detection, real-time interaction monitoring, sensitive interfacial analysis, and compatibility with multiplexed assay formats. This Feature Paper critically discusses current multiplexing strategies, focusing primarily on surface plasmon resonance (SPR), imaging SPR (SPRi), localised SPR (LSPR), surface-enhanced Raman scattering (SERS), and related nanoplasmonic biosensing approaches, together with recent advances in surface biofunctionalisation, antifouling interfaces, and molecular recognition strategies. Representative applications in biomedical diagnostics and non-clinical settings are highlighted, with examples such as liquid biopsy, glycoprofiling, extracellular vesicle profiling, and food and environmental analysis, alongside key challenges in reproducibility, standardisation, data interpretation, and clinical translation. In addition, selected non-plasmonic optical biosensing technologies are briefly discussed to position plasmonic biosensing within the broader landscape of multiplexed optical biosensing. This Feature Paper argues that the future of multiplexed plasmonic biosensing will depend less on further improvements in sensor performance than on robust, standardised analytical systems.",
-      "journal": "Sensors (Basel, Switzerland)",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Institute of Chemistry, Slovak Academy of Sciences, Dúbravska cesta 5807/9, 845 38 Bratislava, Slovakia."
-      ],
-      "doi": "10.3390/s26154964",
-      "date": "2026-08-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42590737/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42594281",
+      "date": "2026-08-13",
+      "title": "A tonsil organoid model reveals Epstein-Barr virus-infected germinal center B cell states during primary infection.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594281/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42594281。",
+      "report": "Epstein-Barr virus (EBV) colonizes secondary lymphoid tissues to establish persistent infection and is strongly associated with malignancy and autoimmunity. Our understanding of EBV infection biology is hindered by a lack of models that capture infected B cell...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42593962",
+      "date": "2026-08-13",
+      "title": "Protocol for extrusion 3D bioprinting of human-scale cardiac patches using cardiac spheroid-laden bioinks.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42593962/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42593962。",
+      "report": "Extrusion-based bioprinting is a promising approach for developing novel clinical therapies for heart failure patients. Here, we present a protocol for bioprinting personalized human-scale cardiac patches incorporating human cardiac spheroids in a 1% silk fibr...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42593928",
+      "date": "2026-08-13",
+      "title": "From 2D to 3D Colorectal Cancer Patient-Derived Organoids (PDOs) and In Vivo Models: Copper(II) Complexes as Promising New Antitumor Agents.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42593928/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of medicinal chemistry，PMID 为 42593928。",
+      "report": "Two copper(II) complexes, (1) [CuCl2(tmp-terpy)] and (2) {[CuCl(tmp-terpy)]·PF6}n, (tmp-terpy-4'-(3,4,5-trimethoxy-phenyl)-2,2':6',2″-terpyridine) were designed, characterized, and evaluated for cytotoxicity in 2D human cell models (HCT116, HCT116-DoxR, and in...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42594169",
+      "date": "2026-08-13",
+      "title": "Extracellular Vesicles in Cardiovascular Disease: Intercellular Signaling, Liquid Biopsy Biomarkers, and Therapeutic Translation.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594169/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Circulation research，PMID 为 42594169。",
+      "report": "Cardiovascular diseases remain the leading global cause of mortality, highlighting the need for improved early detection and targeted interventions. Extracellular vesicles (EVs) are nano-sized, bilipid-layered particles released by all cell types that carry RN...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42593704",
+      "date": "2026-08-13",
+      "title": "The scientific evolution of the Ommaya reservoir: a bibliometric analysis.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42593704/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of neuro-oncology，PMID 为 42593704。",
+      "report": "Since its introduction in 1963, the Ommaya reservoir has expanded beyond its original role as a ventricular access device to support intrathecal therapeutics, cerebrospinal fluid diagnostics, and emerging applications in precision neuro-oncology. To our knowle...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42592866",
       "date": "2026-08-13",
@@ -516,33 +673,35 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42590828",
+      "id": "pubmed-42593965",
       "date": "2026-08-12",
-      "title": "Circular Logic: Engineering Next-Generation Circular RNA Therapeutics for Precision Oncology.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Review",
+      "title": "Dietary vitamin A restricts intestinal tuft cell differentiation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42590828/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42593965/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
+        "Organoids",
+        "Advanced Disease Models",
         "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
+        "Regulatory Watch"
       ],
       "tags": [
+        "类器官",
+        "疾病模型",
         "临床",
-        "监管",
-        "肿瘤"
+        "监管"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biotechnology and bioengineering，PMID 为 42590828。",
-      "report": "The topology of RNA therapeutics is emerging as a critical design dimension in precision oncology. Unlike linear mRNA, circular RNA (circRNA) lacks free ends, conferring exceptional resistance to exonuclease degradation and enabling sustained protein expressio...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Cell reports，PMID 为 42593965。",
+      "report": "Despite evidence highlighting immunoregulatory roles of tuft cells, it is not known whether vitamin A or retinoic acid affects tuft cell homeostasis. Here, we find that epithelial-intrinsic retinoic acid receptor regulates tuft cell numbers in mice. However, l...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -719,36 +878,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42590737",
-      "date": "2026-08-05",
-      "title": "Strategies for Multiplexing Plasmonic Biosensing.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42590737/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Sensors (Basel, Switzerland)，PMID 为 42590737。",
-      "report": "Plasmonic biosensing technologies have emerged as powerful analytical tools for sensitive and label-free characterisation of biomolecular interactions and complex samples. The increasing demand for comprehensive molecular profiling has accelerated the developm...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42580899",
       "date": "2026-07-30",
       "title": "The organ-on-a-chip-AI virtual cell loop: a path toward next‑generation biomedicine.",
@@ -780,104 +909,6 @@
       "fact": "PubMed 记录显示该文献收录于 Science bulletin，PMID 为 42580899。",
       "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42591639",
-      "date": "2026-07-29",
-      "title": "Systems toxicology integration uncovers trophoblast apoptosis as a pivotal mechanism underlying PFAS-related recurrent miscarriage.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42591639/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42591639。",
-      "report": "The present investigation seeks to clarify the molecular underpinnings through which perfluorooctanoic acid (PFOA) and perfluorooctanesulfonic acid (PFOS) precipitate recurrent miscarriage (RM). Initially, prospective targets of PFOA (6050 in total) and PFOS (...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42591546",
-      "date": "2026-07-29",
-      "title": "Modeling and targeting the hostile physicochemical niche in bone metastasis: from experimental platforms to niche-directed therapy.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42591546/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42591546。",
-      "report": "Cancer metastasis to bone is shaped not only by tumor-stromal crosstalk but also by a hostile physicochemical niche that promotes disease persistence and therapeutic failure. Hypoxia, acidosis, mineralized matrix architecture, altered mechanics, interstitial p...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42591384",
-      "date": "2026-07-29",
-      "title": "A modern reinterpretation of the \"kidney governs bone\" theory: systemic regulation of the neuro-endocrine-immune network via the brain-bone axis and traditional chinese medicine intervention strategies.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42591384/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in pharmacology，PMID 为 42591384。",
-      "report": "The traditional Chinese medicine (TCM) theory of \"Kidney Governs Bone' has been progressively validated in modern medical research. However, a purely endocrinological perspective cannot fully explain its regulatory implications under complex conditions such as...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1140,40 +1171,6 @@
       "fact": "PubMed 记录显示该文献收录于 Acta pharmaceutica Sinica. B，PMID 为 42592327。",
       "report": "Angiogenesis is a hallmark of lung adenocarcinoma (LUAD) and a leading cause of mortality. Identifying potential therapeutic targets that modulate this process is of critical clinical importance. Here, we established a 12-gene risk-scoring model through bioinf...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42592126",
-      "date": "2026-06-26",
-      "title": "Inflammation in atherosclerosis: Drivers, mechanisms and therapies.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42592126/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Acta pharmaceutica Sinica. B，PMID 为 42592126。",
-      "report": "Atherosclerosis has traditionally been considered a lipid-driven disease. However, emerging evidence highlights the central role of inflammation in the development of atherosclerosis. Multiple cell types, including endothelial cells, macrophages, and other imm...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
