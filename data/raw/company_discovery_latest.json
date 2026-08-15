@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-08-15T01:52:11.432810+00:00",
+  "capturedAt": "2026-08-15T03:56:47+00:00",
   "summary": {
     "mentionCount": 667,
     "candidateCount": 595,
@@ -132,7 +132,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688166",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -154,7 +154,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688656",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -176,7 +176,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688050",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -198,7 +198,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688626",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -220,7 +220,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688351",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -242,7 +242,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688202",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -264,7 +264,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688266",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -286,7 +286,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688050",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -308,7 +308,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688177",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -330,7 +330,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688443",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -352,7 +352,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688062",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -374,7 +374,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688301",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -396,7 +396,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688016",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -418,7 +418,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688278",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -440,7 +440,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688575",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -462,7 +462,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688520",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -484,7 +484,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688266",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -506,7 +506,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688192",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -528,7 +528,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688513",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -550,7 +550,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688131",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -572,7 +572,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688271",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -594,7 +594,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688319",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -616,7 +616,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688617",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -638,7 +638,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688658",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -660,7 +660,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688222",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -682,7 +682,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688506",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -704,7 +704,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688192",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -726,7 +726,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688553",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -748,7 +748,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688363",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -770,7 +770,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688336",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -792,7 +792,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688139",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -814,7 +814,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688276",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -836,7 +836,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688443",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -858,7 +858,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688331",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -880,7 +880,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688765",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -902,7 +902,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688198",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -924,7 +924,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688235",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [
         "beone-medicines"
@@ -948,7 +948,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688513",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -970,7 +970,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688277",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -992,7 +992,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688271",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1014,7 +1014,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688235",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [
         "beone-medicines"
@@ -1038,7 +1038,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688180",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1060,7 +1060,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688575",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1082,7 +1082,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688301",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1104,7 +1104,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688759",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1126,7 +1126,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688739",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1148,7 +1148,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688185",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1170,7 +1170,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688114",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1192,7 +1192,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688639",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1214,7 +1214,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688578",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1236,7 +1236,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688068",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1258,7 +1258,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688114",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1280,7 +1280,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688108",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1302,7 +1302,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688759",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1324,7 +1324,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688363",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1346,7 +1346,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688276",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1368,7 +1368,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688321",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1390,7 +1390,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688091",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1412,7 +1412,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688185",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1434,7 +1434,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688626",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1456,7 +1456,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688321",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1478,7 +1478,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688319",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1500,7 +1500,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688068",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1522,7 +1522,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688553",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1544,7 +1544,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688091",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1566,7 +1566,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688331",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1588,7 +1588,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688739",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1610,7 +1610,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688656",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1632,7 +1632,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688277",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1654,7 +1654,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688062",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1676,7 +1676,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688029",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1698,7 +1698,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688765",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1720,7 +1720,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688289",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1742,7 +1742,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688658",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1764,7 +1764,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688382",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1786,7 +1786,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688351",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1808,7 +1808,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688198",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1830,7 +1830,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688289",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1852,7 +1852,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688202",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1874,7 +1874,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688278",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1896,7 +1896,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688336",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1918,7 +1918,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688639",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1940,7 +1940,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688520",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1962,7 +1962,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688131",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -1984,7 +1984,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688108",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2006,7 +2006,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688166",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2028,7 +2028,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688139",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2050,7 +2050,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688382",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2072,7 +2072,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688506",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2094,7 +2094,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688177",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2116,7 +2116,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688029",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2138,7 +2138,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688617",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2160,7 +2160,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688105",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2182,7 +2182,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688578",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2204,7 +2204,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688222",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2226,7 +2226,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688016",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2248,7 +2248,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688161",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2270,7 +2270,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688161",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2292,7 +2292,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688180",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2314,7 +2314,7 @@
       "sourceName": "中证指数有限公司",
       "sourceRole": "star_biology_medicine_index_constituent",
       "sourceRecordId": "000683:688105",
-      "sourceDate": "2026-08-13",
+      "sourceDate": "2026-08-14",
       "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2336,7 +2336,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02526",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2526&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2359,7 +2359,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "06996",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6996&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2382,7 +2382,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02561",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2561&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2405,7 +2405,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02335",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2335&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2428,7 +2428,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02137",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2451,7 +2451,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02898",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2898&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2474,7 +2474,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "01541",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1541&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2497,7 +2497,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02257",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2257&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2520,7 +2520,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "03681",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3681&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2543,7 +2543,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02480",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2480&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2566,7 +2566,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02500",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2500&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2589,7 +2589,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02235",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2612,7 +2612,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02185",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2185&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2635,7 +2635,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "09637",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9637&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2658,7 +2658,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02565",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2565&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2681,7 +2681,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "06938",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6938&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2704,7 +2704,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02170",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2170&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2727,7 +2727,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02256",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2750,7 +2750,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02396",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2396&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2773,7 +2773,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "06681",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6681&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2796,7 +2796,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02697",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2697&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2819,7 +2819,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02617",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2617&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2842,7 +2842,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "06622",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6622&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2865,7 +2865,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "09939",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9939&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2888,7 +2888,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02181",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2181&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2911,7 +2911,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "01672",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1672&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2934,7 +2934,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "09887",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9887&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2957,7 +2957,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02675",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2675&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -2980,7 +2980,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02142",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2142&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3003,7 +3003,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "01875",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1875&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3026,7 +3026,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "06609",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6609&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3049,7 +3049,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02616",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2616&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3072,7 +3072,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02629",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2629&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3095,7 +3095,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "09966",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9966&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3118,7 +3118,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "06669",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3141,7 +3141,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02563",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2563&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3164,7 +3164,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02627",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3187,7 +3187,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "09606",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9606&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3210,7 +3210,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02493",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2493&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3233,7 +3233,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02252",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3256,7 +3256,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02251",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3279,7 +3279,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02410",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2410&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3302,7 +3302,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02659",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2659&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3325,7 +3325,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02575",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2575&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3348,7 +3348,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02630",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2630&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3371,7 +3371,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02511",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2511&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3394,7 +3394,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02216",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2216&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3417,7 +3417,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02160",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2160&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3440,7 +3440,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02591",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2591&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3463,7 +3463,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02105",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2105&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3486,7 +3486,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "01477",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1477&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3509,7 +3509,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02197",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2197&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3532,7 +3532,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "01167",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1167&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3555,7 +3555,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02592",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3578,7 +3578,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "06132",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6132&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3601,7 +3601,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02509",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2509&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3624,7 +3624,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02297",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3647,7 +3647,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "01228",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3670,7 +3670,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "06978",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6978&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3693,7 +3693,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02487",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2487&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3716,7 +3716,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "01779",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1779&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3739,7 +3739,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02126",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3762,7 +3762,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02496",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2496&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3785,7 +3785,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "09877",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9877&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3808,7 +3808,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "03378",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3378&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3831,7 +3831,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "07630",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3854,7 +3854,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02179",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2179&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3877,7 +3877,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02162",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2162&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3900,7 +3900,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "09996",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9996&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3923,7 +3923,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02171",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2171&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3946,7 +3946,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "06628",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6628&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3969,7 +3969,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02595",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2595&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -3992,7 +3992,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "06922",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6922&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -4015,7 +4015,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "06872",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6872&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -4038,7 +4038,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02315",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2315&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -4061,7 +4061,7 @@
       "sourceName": "Hong Kong Exchanges and Clearing Limited",
       "sourceRole": "active_biotech_marker_issuer",
       "sourceRecordId": "02552",
-      "sourceDate": "2026-08-14",
+      "sourceDate": "2026-08-17",
       "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2552&sc_lang=en",
       "knownCompanyIds": [],
       "identifiers": {
@@ -15908,7 +15908,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02627"
@@ -15942,7 +15942,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en",
           "externalId": "02627",
           "contextTitle": "AB&B BIO-TECH-B"
@@ -16067,7 +16067,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02256"
@@ -16101,7 +16101,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
           "externalId": "02256",
           "contextTitle": "ABBISKO-B"
@@ -16597,7 +16597,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "06669"
@@ -16631,7 +16631,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
           "externalId": "06669",
           "contextTitle": "ACOTEC-B"
@@ -17816,7 +17816,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02251"
@@ -17850,7 +17850,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en",
           "externalId": "02251",
           "contextTitle": "AIRDOC-B"
@@ -18187,7 +18187,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "09637"
@@ -18221,7 +18221,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9637&sc_lang=en",
           "externalId": "09637",
           "contextTitle": "ALEBUND-B"
@@ -18558,7 +18558,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "09966"
@@ -18592,7 +18592,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9966&sc_lang=en",
           "externalId": "09966",
           "contextTitle": "ALPHAMAB-B"
@@ -19618,7 +19618,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "06996"
@@ -19652,7 +19652,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6996&sc_lang=en",
           "externalId": "06996",
           "contextTitle": "ANTENGENE-B"
@@ -20731,7 +20731,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "01672"
@@ -20765,7 +20765,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1672&sc_lang=en",
           "externalId": "01672",
           "contextTitle": "ASCLETIS-B"
@@ -22003,7 +22003,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02396"
@@ -22037,7 +22037,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2396&sc_lang=en",
           "externalId": "02396",
           "contextTitle": "B&K CORP-B"
@@ -22162,7 +22162,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02659"
@@ -22196,7 +22196,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2659&sc_lang=en",
           "externalId": "02659",
           "contextTitle": "BAO PHARMA-B"
@@ -22215,7 +22215,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02170"
@@ -22249,7 +22249,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2170&sc_lang=en",
           "externalId": "02170",
           "contextTitle": "BASECARE-B"
@@ -23328,7 +23328,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02315"
@@ -23362,7 +23362,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2315&sc_lang=en",
           "externalId": "02315",
           "contextTitle": "BIOCYTOGEN-B"
@@ -23434,7 +23434,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "01875"
@@ -23468,7 +23468,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1875&sc_lang=en",
           "externalId": "01875",
           "contextTitle": "BIODLINK-B"
@@ -23699,7 +23699,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02185"
@@ -23733,7 +23733,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2185&sc_lang=en",
           "externalId": "02185",
           "contextTitle": "BIOHEART-B"
@@ -24017,7 +24017,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02563"
@@ -24051,7 +24051,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2563&sc_lang=en",
           "externalId": "02563",
           "contextTitle": "BIOSTAR PHARM-B"
@@ -24494,7 +24494,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "06681"
@@ -24528,7 +24528,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6681&sc_lang=en",
           "externalId": "06681",
           "contextTitle": "BRAINAURORA-B"
@@ -24865,7 +24865,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02137"
@@ -24899,7 +24899,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en",
           "externalId": "02137",
           "contextTitle": "BRII-B"
@@ -24918,7 +24918,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02216"
@@ -24952,7 +24952,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2216&sc_lang=en",
           "externalId": "02216",
           "contextTitle": "BRONCUS-B"
@@ -25713,7 +25713,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "01228"
@@ -25747,7 +25747,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en",
           "externalId": "01228",
           "contextTitle": "CANBRIDGE-B"
@@ -26243,7 +26243,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02171"
@@ -26277,7 +26277,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2171&sc_lang=en",
           "externalId": "02171",
           "contextTitle": "CARSGEN-B"
@@ -27462,7 +27462,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02592"
@@ -27496,7 +27496,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en",
           "externalId": "02592",
           "contextTitle": "CLOUDBREAK-B"
@@ -27515,7 +27515,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02197"
@@ -27549,7 +27549,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2197&sc_lang=en",
           "externalId": "02197",
           "contextTitle": "CLOVER BIO-B"
@@ -28045,7 +28045,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "06922"
@@ -28079,7 +28079,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6922&sc_lang=en",
           "externalId": "06922",
           "contextTitle": "CRYOFOCUS-B"
@@ -28098,7 +28098,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02616"
@@ -28132,7 +28132,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2616&sc_lang=en",
           "externalId": "02616",
           "contextTitle": "CSTONE PHARMA-B"
@@ -28363,7 +28363,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02487"
@@ -28397,7 +28397,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2487&sc_lang=en",
           "externalId": "02487",
           "contextTitle": "CUTIA-B"
@@ -28681,7 +28681,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02526"
@@ -28715,7 +28715,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2526&sc_lang=en",
           "externalId": "02526",
           "contextTitle": "DIAGENS-B"
@@ -28734,7 +28734,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": true,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "09606"
@@ -28774,7 +28774,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9606&sc_lang=en",
           "externalId": "09606",
           "contextTitle": "DUALITYBIO-B"
@@ -28855,7 +28855,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02675"
@@ -28889,7 +28889,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2675&sc_lang=en",
           "externalId": "02675",
           "contextTitle": "EDGE MEDICAL-B"
@@ -29597,7 +29597,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02595"
@@ -29631,7 +29631,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2595&sc_lang=en",
           "externalId": "02595",
           "contextTitle": "GENFLEET-B"
@@ -30021,7 +30021,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "03378"
@@ -30055,7 +30055,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3378&sc_lang=en",
           "externalId": "03378",
           "contextTitle": "HANXBIO-B"
@@ -30074,7 +30074,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02142"
@@ -30108,7 +30108,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2142&sc_lang=en",
           "externalId": "02142",
           "contextTitle": "HBM HOLDINGS-B"
@@ -30180,7 +30180,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "06609"
@@ -30214,7 +30214,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6609&sc_lang=en",
           "externalId": "06609",
           "contextTitle": "HEARTCARE-B"
@@ -30286,7 +30286,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02511"
@@ -30320,7 +30320,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2511&sc_lang=en",
           "externalId": "02511",
           "contextTitle": "HIGHTIDE-B"
@@ -30339,7 +30339,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "06132"
@@ -30373,7 +30373,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6132&sc_lang=en",
           "externalId": "06132",
           "contextTitle": "HJ SCIENCE-B"
@@ -30392,7 +30392,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02552"
@@ -30426,7 +30426,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2552&sc_lang=en",
           "externalId": "02552",
           "contextTitle": "HUA MEDICINE-B"
@@ -30657,7 +30657,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "01541"
@@ -30691,7 +30691,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1541&sc_lang=en",
           "externalId": "01541",
           "contextTitle": "IMMUNEONCO-B"
@@ -30816,7 +30816,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "06978"
@@ -30850,7 +30850,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6978&sc_lang=en",
           "externalId": "06978",
           "contextTitle": "IMMUNOTECH-B"
@@ -30922,7 +30922,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "07630"
@@ -30956,7 +30956,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en",
           "externalId": "07630",
           "contextTitle": "IMPACT THERAP-B"
@@ -31240,7 +31240,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02591"
@@ -31274,7 +31274,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2591&sc_lang=en",
           "externalId": "02591",
           "contextTitle": "INNOGEN-B"
@@ -31558,7 +31558,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "01167"
@@ -31592,7 +31592,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1167&sc_lang=en",
           "externalId": "01167",
           "contextTitle": "JACOBIO-B"
@@ -31664,7 +31664,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "09877"
@@ -31698,7 +31698,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9877&sc_lang=en",
           "externalId": "09877",
           "contextTitle": "JENSCARE-B"
@@ -31770,7 +31770,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02126"
@@ -31804,7 +31804,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en",
           "externalId": "02126",
           "contextTitle": "JW THERAP-B"
@@ -31876,7 +31876,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02162"
@@ -31910,7 +31910,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2162&sc_lang=en",
           "externalId": "02162",
           "contextTitle": "KEYMED BIO-B"
@@ -31929,7 +31929,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "09939"
@@ -31963,7 +31963,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9939&sc_lang=en",
           "externalId": "09939",
           "contextTitle": "KINTOR PHARMA-B"
@@ -32247,7 +32247,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02105"
@@ -32281,7 +32281,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2105&sc_lang=en",
           "externalId": "02105",
           "contextTitle": "LAEKNA-B"
@@ -32353,7 +32353,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "09887"
@@ -32387,7 +32387,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9887&sc_lang=en",
           "externalId": "09887",
           "contextTitle": "LEADS BIOLABS-B"
@@ -32671,7 +32671,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "01779"
@@ -32705,7 +32705,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1779&sc_lang=en",
           "externalId": "01779",
           "contextTitle": "LONGBIO-B"
@@ -32724,7 +32724,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02480"
@@ -32758,7 +32758,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2480&sc_lang=en",
           "externalId": "02480",
           "contextTitle": "LUZHU BIOTECH-B"
@@ -32777,7 +32777,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02181"
@@ -32811,7 +32811,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2181&sc_lang=en",
           "externalId": "02181",
           "contextTitle": "MABPHARM-B"
@@ -32830,7 +32830,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02493"
@@ -32864,7 +32864,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2493&sc_lang=en",
           "externalId": "02493",
           "contextTitle": "MABWELL-B"
@@ -33042,7 +33042,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": true,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02252"
@@ -33082,7 +33082,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en",
           "externalId": "02252",
           "contextTitle": "MEDBOT-B"
@@ -33375,7 +33375,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02335"
@@ -33409,7 +33409,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2335&sc_lang=en",
           "externalId": "02335",
           "contextTitle": "MICOT PHARMA-B"
@@ -33428,7 +33428,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02235"
@@ -33462,7 +33462,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en",
           "externalId": "02235",
           "contextTitle": "MICROTECH MED-B"
@@ -33481,7 +33481,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02629"
@@ -33515,7 +33515,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2629&sc_lang=en",
           "externalId": "02629",
           "contextTitle": "MIRXES-B"
@@ -33693,7 +33693,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02160"
@@ -33727,7 +33727,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2160&sc_lang=en",
           "externalId": "02160",
           "contextTitle": "MP CARDIOFLOW-B"
@@ -34435,7 +34435,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "01477"
@@ -34469,7 +34469,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1477&sc_lang=en",
           "externalId": "01477",
           "contextTitle": "OCUMENSION-B"
@@ -34806,7 +34806,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02565"
@@ -34840,7 +34840,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2565&sc_lang=en",
           "externalId": "02565",
           "contextTitle": "PEGBIO CO-B"
@@ -34859,7 +34859,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "09996"
@@ -34893,7 +34893,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9996&sc_lang=en",
           "externalId": "09996",
           "contextTitle": "PEIJIA-B"
@@ -35495,7 +35495,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02509"
@@ -35529,7 +35529,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2509&sc_lang=en",
           "externalId": "02509",
           "contextTitle": "QYUNS-B"
@@ -35601,7 +35601,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02297"
@@ -35635,7 +35635,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en",
           "externalId": "02297",
           "contextTitle": "RAINMED-B"
@@ -35707,7 +35707,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02179"
@@ -35741,7 +35741,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2179&sc_lang=en",
           "externalId": "02179",
           "contextTitle": "RECBIO-B"
@@ -36025,7 +36025,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "06938"
@@ -36059,7 +36059,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6938&sc_lang=en",
           "externalId": "06938",
           "contextTitle": "RIBOLIFE-B"
@@ -36608,7 +36608,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "03681"
@@ -36642,7 +36642,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3681&sc_lang=en",
           "externalId": "03681",
           "contextTitle": "SINOMAB BIO-B"
@@ -36661,7 +36661,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02257"
@@ -36695,7 +36695,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2257&sc_lang=en",
           "externalId": "02257",
           "contextTitle": "SIRNAOMICS-B"
@@ -36767,7 +36767,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02898"
@@ -36801,7 +36801,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2898&sc_lang=en",
           "externalId": "02898",
           "contextTitle": "SUNHO BIO-B"
@@ -37297,7 +37297,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "06872"
@@ -37331,7 +37331,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6872&sc_lang=en",
           "externalId": "06872",
           "contextTitle": "TENNOR THERAP-B"
@@ -37403,7 +37403,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02697"
@@ -37437,7 +37437,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2697&sc_lang=en",
           "externalId": "02697",
           "contextTitle": "TH MEDICAL-B"
@@ -37509,7 +37509,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "06628"
@@ -37543,7 +37543,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6628&sc_lang=en",
           "externalId": "06628",
           "contextTitle": "TRANSCENTA-B"
@@ -37562,7 +37562,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02617"
@@ -37596,7 +37596,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2617&sc_lang=en",
           "externalId": "02617",
           "contextTitle": "TRANSTHERA-B"
@@ -37774,7 +37774,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02410"
@@ -37808,7 +37808,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2410&sc_lang=en",
           "externalId": "02410",
           "contextTitle": "TYK MEDICINES-B"
@@ -38039,7 +38039,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02500"
@@ -38073,7 +38073,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2500&sc_lang=en",
           "externalId": "02500",
           "contextTitle": "VENUS MEDTECH-B"
@@ -38145,7 +38145,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02630"
@@ -38179,7 +38179,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2630&sc_lang=en",
           "externalId": "02630",
           "contextTitle": "VIGONVITA-B"
@@ -38304,7 +38304,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02561"
@@ -38338,7 +38338,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2561&sc_lang=en",
           "externalId": "02561",
           "contextTitle": "VISEN PHARMA-B"
@@ -38728,7 +38728,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02575"
@@ -38762,7 +38762,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2575&sc_lang=en",
           "externalId": "02575",
           "contextTitle": "XUANZHUBIO-B"
@@ -38781,7 +38781,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "02496"
@@ -38815,7 +38815,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2496&sc_lang=en",
           "externalId": "02496",
           "contextTitle": "YZYBIO-B"
@@ -38940,7 +38940,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-14",
+      "lastSeenAt": "2026-08-17",
       "identifiers": {
         "hkexStockCode": [
           "06622"
@@ -38974,7 +38974,7 @@
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-14",
+          "sourceDate": "2026-08-17",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6622&sc_lang=en",
           "externalId": "06622",
           "contextTitle": "ZHAOKE OPHTH-B"
@@ -39259,7 +39259,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688336"
@@ -39291,7 +39291,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688336",
           "contextTitle": "三生国健 / Sunshine Guojian Pharmaceutical (Shanghai) Co., Ltd."
@@ -39300,7 +39300,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688336",
           "contextTitle": "三生国健 / Sunshine Guojian Pharmaceutical (Shanghai) Co., Ltd."
@@ -39320,7 +39320,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688091"
@@ -39352,7 +39352,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688091",
           "contextTitle": "上海谊众 / Shanghai Yizhong Pharmaceutical Co., Ltd."
@@ -39361,7 +39361,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688091",
           "contextTitle": "上海谊众 / Shanghai Yizhong Pharmaceutical Co., Ltd."
@@ -39381,7 +39381,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688575"
@@ -39413,7 +39413,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688575",
           "contextTitle": "亚辉龙 / Shenzhen YHLO Biotech Co., Ltd."
@@ -39422,7 +39422,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688575",
           "contextTitle": "亚辉龙 / Shenzhen YHLO Biotech Co., Ltd."
@@ -39442,7 +39442,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688198"
@@ -39474,7 +39474,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688198",
           "contextTitle": "佰仁医疗 / BeijingBalanceMedicalTechnologyCo.,Ltd."
@@ -39483,7 +39483,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688198",
           "contextTitle": "佰仁医疗 / BeijingBalanceMedicalTechnologyCo.,Ltd."
@@ -39503,7 +39503,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688114"
@@ -39535,7 +39535,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688114",
           "contextTitle": "华大智造 / MGI Tech Co., Ltd."
@@ -39544,7 +39544,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688114",
           "contextTitle": "华大智造 / MGI Tech Co., Ltd."
@@ -39564,7 +39564,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688639"
@@ -39596,7 +39596,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688639",
           "contextTitle": "华恒生物 / Anhui Huaheng Biotechnology Co.,Ltd."
@@ -39605,7 +39605,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688639",
           "contextTitle": "华恒生物 / Anhui Huaheng Biotechnology Co.,Ltd."
@@ -39625,7 +39625,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688363"
@@ -39657,7 +39657,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688363",
           "contextTitle": "华熙生物 / Bloomage Biotechnology Corporation Limited"
@@ -39666,7 +39666,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688363",
           "contextTitle": "华熙生物 / Bloomage Biotechnology Corporation Limited"
@@ -39686,7 +39686,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688029"
@@ -39718,7 +39718,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688029",
           "contextTitle": "南微医学 / Micro-Tech (Nanjing) Co.,Ltd"
@@ -39727,7 +39727,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688029",
           "contextTitle": "南微医学 / Micro-Tech (Nanjing) Co.,Ltd"
@@ -39747,7 +39747,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688166"
@@ -39779,7 +39779,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688166",
           "contextTitle": "博瑞医药 / BrightGene Bio-Medical Technology Co., Ltd."
@@ -39788,7 +39788,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688166",
           "contextTitle": "博瑞医药 / BrightGene Bio-Medical Technology Co., Ltd."
@@ -39808,7 +39808,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688180"
@@ -39840,7 +39840,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688180",
           "contextTitle": "君实生物 / Shanghai Junshi Biosciences Co., Ltd."
@@ -39849,7 +39849,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688180",
           "contextTitle": "君实生物 / Shanghai Junshi Biosciences Co., Ltd."
@@ -39869,7 +39869,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688289"
@@ -39901,7 +39901,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688289",
           "contextTitle": "圣湘生物 / Sansure Biotech Inc."
@@ -39910,7 +39910,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688289",
           "contextTitle": "圣湘生物 / Sansure Biotech Inc."
@@ -39930,7 +39930,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688277"
@@ -39962,7 +39962,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688277",
           "contextTitle": "天智航 / Tinavi Medical Technologies Co.,Ltd."
@@ -39971,7 +39971,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688277",
           "contextTitle": "天智航 / Tinavi Medical Technologies Co.,Ltd."
@@ -39991,7 +39991,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688161"
@@ -40023,7 +40023,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688161",
           "contextTitle": "威高骨科 / Shandong Weigao Orthopaedic Device Co.,Ltd."
@@ -40032,7 +40032,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688161",
           "contextTitle": "威高骨科 / Shandong Weigao Orthopaedic Device Co.,Ltd."
@@ -40052,7 +40052,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688185"
@@ -40084,7 +40084,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688185",
           "contextTitle": "康希诺 / CanSino Biologics Inc."
@@ -40093,7 +40093,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688185",
           "contextTitle": "康希诺 / CanSino Biologics Inc."
@@ -40113,7 +40113,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688351"
@@ -40145,7 +40145,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688351",
           "contextTitle": "微电生理 / Shanghai MicroPort EP Medtech Co., Ltd."
@@ -40154,7 +40154,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688351",
           "contextTitle": "微电生理 / Shanghai MicroPort EP Medtech Co., Ltd."
@@ -40174,7 +40174,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688321"
@@ -40206,7 +40206,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688321",
           "contextTitle": "微芯生物 / Shenzhen Chipscreen Biosciences Co., Ltd."
@@ -40215,7 +40215,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688321",
           "contextTitle": "微芯生物 / Shenzhen Chipscreen Biosciences Co., Ltd."
@@ -40235,7 +40235,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688016"
@@ -40267,7 +40267,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688016",
           "contextTitle": "心脉医疗 / Shanghai MicroPort Endovascular MedTech Co., Ltd."
@@ -40276,7 +40276,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688016",
           "contextTitle": "心脉医疗 / Shanghai MicroPort Endovascular MedTech Co., Ltd."
@@ -40296,7 +40296,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688759"
@@ -40328,7 +40328,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688759",
           "contextTitle": "必贝特 / BeBetter Med Inc."
@@ -40337,7 +40337,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688759",
           "contextTitle": "必贝特 / BeBetter Med Inc."
@@ -40357,7 +40357,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688658"
@@ -40389,7 +40389,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688658",
           "contextTitle": "悦康药业 / Youcare Pharmaceutical Group Co.,Ltd."
@@ -40398,7 +40398,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688658",
           "contextTitle": "悦康药业 / Youcare Pharmaceutical Group Co.,Ltd."
@@ -40418,7 +40418,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688617"
@@ -40450,7 +40450,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688617",
           "contextTitle": "惠泰医疗 / APT Medical Inc."
@@ -40459,7 +40459,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688617",
           "contextTitle": "惠泰医疗 / APT Medical Inc."
@@ -40479,7 +40479,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688739"
@@ -40511,7 +40511,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688739",
           "contextTitle": "成大生物 / Liaoning Chengda BiotechnologyCo.,Ltd."
@@ -40520,7 +40520,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688739",
           "contextTitle": "成大生物 / Liaoning Chengda BiotechnologyCo.,Ltd."
@@ -40540,7 +40540,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688222"
@@ -40572,7 +40572,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688222",
           "contextTitle": "成都先导 / HitGen Inc."
@@ -40581,7 +40581,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688222",
           "contextTitle": "成都先导 / HitGen Inc."
@@ -40601,7 +40601,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688443"
@@ -40633,7 +40633,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688443",
           "contextTitle": "智翔金泰 / Chongqing Genrix Biopharmaceutical Co., Ltd."
@@ -40642,7 +40642,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688443",
           "contextTitle": "智翔金泰 / Chongqing Genrix Biopharmaceutical Co., Ltd."
@@ -40662,7 +40662,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688319"
@@ -40694,7 +40694,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688319",
           "contextTitle": "欧林生物 / Chengdu Olymvax Biopharmaceuticals Inc."
@@ -40703,7 +40703,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688319",
           "contextTitle": "欧林生物 / Chengdu Olymvax Biopharmaceuticals Inc."
@@ -40723,7 +40723,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688553"
@@ -40755,7 +40755,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688553",
           "contextTitle": "汇宇制药 / Sichuan Huiyu Pharmaceutical Co., Ltd."
@@ -40764,7 +40764,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688553",
           "contextTitle": "汇宇制药 / Sichuan Huiyu Pharmaceutical Co., Ltd."
@@ -40784,7 +40784,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688266"
@@ -40816,7 +40816,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688266",
           "contextTitle": "泽璟制药 / Suzhou Zelgen Biopharmaceuticals Co., Ltd."
@@ -40825,7 +40825,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688266",
           "contextTitle": "泽璟制药 / Suzhou Zelgen Biopharmaceuticals Co., Ltd."
@@ -40845,7 +40845,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688656"
@@ -40877,7 +40877,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688656",
           "contextTitle": "浩欧博 / HOB Biotech Group Corp.,Ltd."
@@ -40886,7 +40886,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688656",
           "contextTitle": "浩欧博 / HOB Biotech Group Corp.,Ltd."
@@ -40906,7 +40906,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688139"
@@ -40938,7 +40938,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688139",
           "contextTitle": "海尔生物 / QINGDAO HAIER BIOMEDICAL CO., LTD."
@@ -40947,7 +40947,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688139",
           "contextTitle": "海尔生物 / QINGDAO HAIER BIOMEDICAL CO., LTD."
@@ -40967,7 +40967,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688068"
@@ -40999,7 +40999,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688068",
           "contextTitle": "热景生物 / Beijing Hotgen Biotech Co.,Ltd."
@@ -41008,7 +41008,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688068",
           "contextTitle": "热景生物 / Beijing Hotgen Biotech Co.,Ltd."
@@ -41028,7 +41028,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688050"
@@ -41060,7 +41060,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688050",
           "contextTitle": "爱博医疗 / Eyebright Medical Technology (Beijing) Co., Ltd."
@@ -41069,7 +41069,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688050",
           "contextTitle": "爱博医疗 / Eyebright Medical Technology (Beijing) Co., Ltd."
@@ -41089,7 +41089,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688278"
@@ -41121,7 +41121,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688278",
           "contextTitle": "特宝生物 / Xiamen Amoytop Biotech Co., LTD."
@@ -41130,7 +41130,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688278",
           "contextTitle": "特宝生物 / Xiamen Amoytop Biotech Co., LTD."
@@ -41150,7 +41150,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688276"
@@ -41182,7 +41182,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688276",
           "contextTitle": "百克生物 / Changchun BCHT Biotechnology Co."
@@ -41191,7 +41191,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688276",
           "contextTitle": "百克生物 / Changchun BCHT Biotechnology Co."
@@ -41211,7 +41211,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688506"
@@ -41243,7 +41243,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688506",
           "contextTitle": "百利天恒 / Sichuan Biokin Pharmaceutical Co.,Ltd."
@@ -41252,7 +41252,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688506",
           "contextTitle": "百利天恒 / Sichuan Biokin Pharmaceutical Co.,Ltd."
@@ -41272,7 +41272,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688177"
@@ -41304,7 +41304,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688177",
           "contextTitle": "百奥泰 / Bio-Thera Solutions, Ltd."
@@ -41313,7 +41313,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688177",
           "contextTitle": "百奥泰 / Bio-Thera Solutions, Ltd."
@@ -41333,7 +41333,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688131"
@@ -41365,7 +41365,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688131",
           "contextTitle": "皓元医药 / Shanghai Haoyuan Chemexpress Co., Ltd."
@@ -41374,7 +41374,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688131",
           "contextTitle": "皓元医药 / Shanghai Haoyuan Chemexpress Co., Ltd."
@@ -41394,7 +41394,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688382"
@@ -41426,7 +41426,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688382",
           "contextTitle": "益方生物 / InventisBio Co., Ltd."
@@ -41435,7 +41435,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688382",
           "contextTitle": "益方生物 / InventisBio Co., Ltd."
@@ -41455,7 +41455,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688520"
@@ -41487,7 +41487,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688520",
           "contextTitle": "神州细胞 / Sinocelltech Group Limited"
@@ -41496,7 +41496,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688520",
           "contextTitle": "神州细胞 / Sinocelltech Group Limited"
@@ -41516,7 +41516,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688765"
@@ -41548,7 +41548,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688765",
           "contextTitle": "禾元生物 / Wuhan Healthgen Biotechnology Corp."
@@ -41557,7 +41557,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688765",
           "contextTitle": "禾元生物 / Wuhan Healthgen Biotechnology Corp."
@@ -41577,7 +41577,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688202"
@@ -41609,7 +41609,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688202",
           "contextTitle": "美迪西 / Shanghai Medicilon Inc."
@@ -41618,7 +41618,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688202",
           "contextTitle": "美迪西 / Shanghai Medicilon Inc."
@@ -41638,7 +41638,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688626"
@@ -41670,7 +41670,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688626",
           "contextTitle": "翔宇医疗 / Xiangyu Medical Co.,Ltd."
@@ -41679,7 +41679,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688626",
           "contextTitle": "翔宇医疗 / Xiangyu Medical Co.,Ltd."
@@ -41699,7 +41699,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688271"
@@ -41731,7 +41731,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688271",
           "contextTitle": "联影医疗 / Shanghai United Imaging Healthcare Co., Ltd."
@@ -41740,7 +41740,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688271",
           "contextTitle": "联影医疗 / Shanghai United Imaging Healthcare Co., Ltd."
@@ -41760,7 +41760,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688578"
@@ -41792,7 +41792,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688578",
           "contextTitle": "艾力斯 / Shanghai Allist Pharmaceuticals Co., Ltd."
@@ -41801,7 +41801,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688578",
           "contextTitle": "艾力斯 / Shanghai Allist Pharmaceuticals Co., Ltd."
@@ -41821,7 +41821,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688513"
@@ -41853,7 +41853,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688513",
           "contextTitle": "苑东生物 / Chengdu Easton Biopharmaceuticals Co.,Ltd"
@@ -41862,7 +41862,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688513",
           "contextTitle": "苑东生物 / Chengdu Easton Biopharmaceuticals Co.,Ltd"
@@ -41882,7 +41882,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688331"
@@ -41914,7 +41914,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688331",
           "contextTitle": "荣昌生物 / RemeGen Co., Ltd."
@@ -41923,7 +41923,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688331",
           "contextTitle": "荣昌生物 / RemeGen Co., Ltd."
@@ -41943,7 +41943,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688105"
@@ -41975,7 +41975,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688105",
           "contextTitle": "诺唯赞 / Nanjing Vazyme Biotech Co., Ltd."
@@ -41984,7 +41984,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688105",
           "contextTitle": "诺唯赞 / Nanjing Vazyme Biotech Co., Ltd."
@@ -42004,7 +42004,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688108"
@@ -42036,7 +42036,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688108",
           "contextTitle": "赛诺医疗 / Sino Medical Sciences Technology Inc."
@@ -42045,7 +42045,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688108",
           "contextTitle": "赛诺医疗 / Sino Medical Sciences Technology Inc."
@@ -42065,7 +42065,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688062"
@@ -42097,7 +42097,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688062",
           "contextTitle": "迈威生物 / Mabwell (Shanghai) Bioscience Co., Ltd."
@@ -42106,7 +42106,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688062",
           "contextTitle": "迈威生物 / Mabwell (Shanghai) Bioscience Co., Ltd."
@@ -42126,7 +42126,7 @@
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688192"
@@ -42158,7 +42158,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688192",
           "contextTitle": "迪哲医药 / Dizal (Jiangsu) Pharmaceutical Co., Ltd."
@@ -42167,7 +42167,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688192",
           "contextTitle": "迪哲医药 / Dizal (Jiangsu) Pharmaceutical Co., Ltd."
@@ -43406,7 +43406,7 @@
       "discoveryScore": 0.93,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-14",
       "identifiers": {
         "cnSecurityCode": [
           "688301"
@@ -43438,7 +43438,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688301",
           "contextTitle": "奕瑞科技 / iRay Group"
@@ -43447,7 +43447,7 @@
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-13",
+          "sourceDate": "2026-08-14",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688301",
           "contextTitle": "奕瑞科技 / iRay Group"
