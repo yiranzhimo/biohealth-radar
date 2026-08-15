@@ -3377,15 +3377,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-akeso-official-be59a6245ab1",
+      "id": "evidence-company-akeso-official-95ac8643dff9",
       "signalId": null,
       "companyIds": [
         "akeso"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-08-15",
+      "snapshotDate": "2026-08-15",
       "title": "Akeso, Inc | Home",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Akeso — Official Website",
@@ -3401,7 +3401,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash be59a6245ab1332cc5a8efe96260dab4c599bfd2f62fe535fc47463ba9b2a235.",
+      "fact": "The official page was captured with normalized-content hash 95ac8643dff9975d7587ff1b8bb1083d77e927d9da24e65d74d216f3ffbe638c.",
       "report": "公司官方页面表述：Akeso 推进 IO2.0 + ADC2.0 战略：第一位患者已在 TROP2/Nectin-4 双特异性 ADC（AK146D1）与 Ivonescimab 联合治疗乳腺癌的 II 期研究中接受用药。",
       "reportOriginal": "Akeso Advances IO2.0 + ADC2.0 Strategy: First Patient Dosed in Phase II Study of TROP2/Nectin-4 Bispecific ADC (AK146D1) Combined with Ivonescimab in Breast Cancer",
       "reportCn": "Akeso 推进 IO2.0 + ADC2.0 战略：第一位患者已在 TROP2/Nectin-4 双特异性 ADC（AK146D1）与 Ivonescimab 联合治疗乳腺癌的 II 期研究中接受用药。",
@@ -3414,8 +3414,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "be59a6245ab1332cc5a8efe96260dab4c599bfd2f62fe535fc47463ba9b2a235",
-      "changeType": "unchanged",
+      "contentHash": "95ac8643dff9975d7587ff1b8bb1083d77e927d9da24e65d74d216f3ffbe638c",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Akeso Advances IO2.0 + ADC2.0 Strategy: First Patient Dosed in Phase II Study of TROP2/Nectin-4 Bispecific ADC (AK146D1) Combined with Ivonescimab in Breast Cancer",
@@ -4025,6 +4025,67 @@
       "planExcerpts": [
         "Arvinas plans to complete the ongoing Phase 1 monotherapy dose escalation clinical trial for ARV-806 and seek an out-licensing agreement for any additional clinical trials, including dose expansion or combination clinical trials."
       ]
+    },
+    {
+      "id": "evidence-company-autolus-official-986638dffa65",
+      "signalId": null,
+      "companyIds": [
+        "autolus"
+      ],
+      "publishedAt": "2026-08-15",
+      "snapshotDate": "2026-08-15",
+      "title": "Autolus - developing CAR T cell therapies for patients with cancer and autoimmune diseases",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Autolus Therapeutics — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://www.autolus.com/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 986638dffa65cefb9d707ac5ecd56e688e3bba2950b0acab239cb824a76a62a7.",
+      "report": "公司官方页面表述：Autolus是一家CAR T细胞疗法公司，专注于开发先进的自体T细胞疗法，具有为癌症和自身免疫疾病患者带来改变生活的潜力。",
+      "reportOriginal": "Autolus is a CAR T cell therapy company which develops advanced autologous T cell therapies that have the potential to deliver life-changing benefits to patients with cancer and autoimmune diseases",
+      "reportCn": "Autolus是一家CAR T细胞疗法公司，专注于开发先进的自体T细胞疗法，具有为癌症和自身免疫疾病患者带来改变生活的潜力。",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-15T04:59:35+00:00",
+        "sourceTextHash": "5e7454205b7506b874d76a1588338c74b12ed7a3254f6e964d4dcddc6d283257"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "986638dffa65cefb9d707ac5ecd56e688e3bba2950b0acab239cb824a76a62a7",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [
+        "Autolus is applying its extensive cell programming capability to develop a pipeline of precise, controlled and highly active products.",
+        "Autolus applies extensive programming capabilities to develop advanced autologous T cell therapies that have the potential to deliver life-changing therapies to patients with cancer and autoimmune diseases and is building a fully integrated, next-generation CAR T company",
+        "Autolus is a CAR T cell therapy company which develops advanced autologous T cell therapies that have the potential to deliver life-changing benefits to patients with cancer and autoimmune diseases",
+        "It is committed to the development and commercialization of obe-cel in r/r Adult ALL and is progressing opportunities for obe-cel in additional indications alongside its preclinical and clinical pipeline for hematological malignancies and solid tumors."
+      ],
+      "businessExcerpts": [
+        "Autolus applies extensive programming capabilities to develop advanced autologous T cell therapies that have the potential to deliver life-changing therapies to patients with cancer and autoimmune diseases and is building a fully integrated, next-generation CAR T company",
+        "Autolus is a CAR T cell therapy company which develops advanced autologous T cell therapies that have the potential to deliver life-changing benefits to patients with cancer and autoimmune diseases",
+        "Get the latest updates from Autolus on new research, company news and events",
+        "Autolus is building a fully-integrated, next generation CAR T company."
+      ],
+      "productExcerpts": [
+        "Autolus is applying its extensive cell programming capability to develop a pipeline of precise, controlled and highly active products.",
+        "Autolus is a CAR T cell therapy company which develops advanced autologous T cell therapies that have the potential to deliver life-changing benefits to patients with cancer and autoimmune diseases",
+        "It is committed to the development and commercialization of obe-cel in r/r Adult ALL and is progressing opportunities for obe-cel in additional indications alongside its preclinical and clinical pipeline for hematological malignancies and solid tumors.",
+        "We use Chimeric Antigen Receptors (CARs) to reprogram our T cell product candidates."
+      ],
+      "planExcerpts": []
     },
     {
       "id": "evidence-company-beam-therapeutics-investor_relations-160dbada0caa",
@@ -13001,13 +13062,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-illumina-official-67a50a453152",
+      "id": "evidence-company-illumina-official-550362664ad4",
       "signalId": null,
       "companyIds": [
         "illumina"
       ],
-      "publishedAt": "2026-08-13",
-      "snapshotDate": "2026-08-13",
+      "publishedAt": "2026-08-15",
+      "snapshotDate": "2026-08-15",
       "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -13025,7 +13086,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 67a50a45315240a82fa41883fdb75c9a1cd0d138d54831139bf57d864b64dbcd.",
+      "fact": "The official page was captured with normalized-content hash 550362664ad4473a49e9aa7145f10da74815d995691879c0cc3ea1fc9e3ea418.",
       "report": "公司官方页面表述：Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
       "reportOriginal": "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
       "reportCn": "Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
@@ -13038,7 +13099,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "67a50a45315240a82fa41883fdb75c9a1cd0d138d54831139bf57d864b64dbcd",
+      "contentHash": "550362664ad4473a49e9aa7145f10da74815d995691879c0cc3ea1fc9e3ea418",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -13056,8 +13117,8 @@
       "productExcerpts": [
         "Doing Business With Us MyIllumina Platform",
         "Software & Analysis Illumina BioInsight Platform",
-        "One platform for complete biological insights",
-        "Data Analysis & Informatics Infrastructure & Pipeline Setup"
+        "Illumina STEM Scholars Program helps students imagine what’s next",
+        "One platform for complete biological insights"
       ],
       "planExcerpts": []
     },
@@ -14018,7 +14079,7 @@
       "publishedAt": "2026-08-13",
       "snapshotDate": "2026-08-13",
       "title": "Natera: A global leader in cell-free DNA testing",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Natera — Official Website",
@@ -14048,7 +14109,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "d1334c7d255b8a38a891927f7ce30ae78269a0ab30819298eb56b759bc8a2bb9",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
@@ -14416,7 +14477,7 @@
       "publishedAt": "2026-08-13",
       "snapshotDate": "2026-08-13",
       "title": "Welcome to Oxford Nanopore Technologies",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Oxford Nanopore Technologies — Official Website",
@@ -14446,7 +14507,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "3d12a40b93c055956ceb8c58839791bd59c8e24f6ca41320af2ac42ca05cdf1d",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
@@ -14843,7 +14904,7 @@
       "publishedAt": "2026-08-13",
       "snapshotDate": "2026-08-13",
       "title": "Sumitomo Pharma Co., Ltd.",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Sumitomo Pharma — Official Website",
@@ -14873,7 +14934,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "05b9c9332255a8d772564c33bc3f74a4e2b54353f5ff0add48ea706a4f685377",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",

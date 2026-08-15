@@ -3,7 +3,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
   "asOfDate": "2026-08-15",
   "summary": {
     "profileCount": 623,
-    "evidenceCount": 321,
+    "evidenceCount": 322,
     "programCandidateCount": 0,
     "companyCandidateCount": 595,
     "companyMentionCount": 667,
@@ -37,11 +37,11 @@ window.BHR_COMPANY_INTELLIGENCE = {
   },
   "profileCoverage": {
     "profileCount": 623,
-    "companyReportedCount": 178,
+    "companyReportedCount": 179,
     "withEvidenceCount": 180,
-    "withProductClaimsCount": 128,
+    "withProductClaimsCount": 129,
     "withFuturePlansCount": 3,
-    "failedSourceCount": 464,
+    "failedSourceCount": 463,
     "identityLinkCount": 0
   },
   "profiles": [
@@ -4124,7 +4124,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
             "text": "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
-            "evidenceId": "evidence-company-akeso-official-be59a6245ab1",
+            "evidenceId": "evidence-company-akeso-official-95ac8643dff9",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -4132,7 +4132,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HK) is a biopharmaceutical company founded by a team of scientists with rich experience in global drug development and focuses on the unmet clinical needs worldwide in major diseases.",
             "text": "HK) is a biopharmaceutical company founded by a team of scientists with rich experience in global drug development and focuses on the unmet clinical needs worldwide in major diseases.",
-            "evidenceId": "evidence-company-akeso-official-be59a6245ab1",
+            "evidenceId": "evidence-company-akeso-official-95ac8643dff9",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -4140,7 +4140,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform).",
             "text": "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform).",
-            "evidenceId": "evidence-company-akeso-official-be59a6245ab1",
+            "evidenceId": "evidence-company-akeso-official-95ac8643dff9",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -4148,7 +4148,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Through efficient and breakthrough R&D innovation, Akeso always integrates superior global resources, develops the first-in-class and best-in-class new drugs, provides affordable therapeutic antibodies for patients worldwide, and continuously creates more commercial and social…",
             "text": "Through efficient and breakthrough R&D innovation, Akeso always integrates superior global resources, develops the first-in-class and best-in-class new drugs, provides affordable therapeutic antibodies for patients worldwide, and continuously creates more commercial and social…",
-            "evidenceId": "evidence-company-akeso-official-be59a6245ab1",
+            "evidenceId": "evidence-company-akeso-official-95ac8643dff9",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -4156,7 +4156,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Akeso Advances IO2.0 + ADC2.0 Strategy: First Patient Dosed in Phase II Study of TROP2/Nectin-4 Bispecific ADC (AK146D1) Combined with Ivonescimab in Breast Cancer",
             "text": "Akeso 推进 IO2.0 + ADC2.0 战略：第一位患者已在 TROP2/Nectin-4 双特异性 ADC（AK146D1）与 Ivonescimab 联合治疗乳腺癌的 II 期研究中接受用药。",
-            "evidenceId": "evidence-company-akeso-official-be59a6245ab1",
+            "evidenceId": "evidence-company-akeso-official-95ac8643dff9",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -4164,7 +4164,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Akeso IO2.0 + ADC2.0 Strategy Makes Another Advancement: First Patient Dosed in Phase Ib/II Study of HER3 ADC (AK138D1) Combined with Ivonescimab in Lung Cancer",
             "text": "Akeso IO2.0 + ADC2.0 Strategy Makes Another Advancement: First Patient Dosed in Phase Ib/II Study of HER3 ADC (AK138D1) Combined with Ivonescimab in Lung Cancer",
-            "evidenceId": "evidence-company-akeso-official-be59a6245ab1",
+            "evidenceId": "evidence-company-akeso-official-95ac8643dff9",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -4172,21 +4172,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-akeso-official-be59a6245ab1"
+          "evidence-company-akeso-official-95ac8643dff9"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-akeso-official-be59a6245ab1",
-            "date": "2026-08-10",
+            "id": "event-evidence-company-akeso-official-95ac8643dff9",
+            "date": "2026-08-15",
             "title": "Akeso, Inc | Home",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-akeso-official-be59a6245ab1",
+            "evidenceId": "evidence-company-akeso-official-95ac8643dff9",
             "sourceUrl": "https://www.akesobio.com/en/"
           }
         ],
@@ -4201,7 +4201,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-08-10",
+        "lastEvidenceDate": "2026-08-15",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -4210,14 +4210,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-akeso-official-be59a6245ab1",
-          "date": "2026-08-10",
+          "id": "event-evidence-company-akeso-official-95ac8643dff9",
+          "date": "2026-08-15",
           "title": "Akeso, Inc | Home",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-akeso-official-be59a6245ab1",
+          "evidenceId": "evidence-company-akeso-official-95ac8643dff9",
           "sourceUrl": "https://www.akesobio.com/en/"
         }
       ]
@@ -11003,15 +11003,57 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "A"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "Registry 将 Autolus Therapeutics 归入 Cell Therapy；当前记录的技术或产品模态包括 CAR-T, T Cell Programming。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：Autolus是一家CAR T细胞疗法公司，专注于开发先进的自体T细胞疗法，具有为癌症和自身免疫疾病患者带来改变生活的潜力。",
+        "summaryOriginal": "Autolus is a CAR T cell therapy company which develops advanced autologous T cell therapies that have the potential to deliver life-changing benefits to patients with cancer and autoimmune diseases",
+        "translationStatus": "translated",
         "businessModel": [],
-        "commercialProducts": [],
+        "commercialProducts": [
+          {
+            "textOriginal": "Autolus is applying its extensive cell programming capability to develop a pipeline of precise, controlled and highly active products.",
+            "text": "Autolus is applying its extensive cell programming capability to develop a pipeline of precise, controlled and highly active products.",
+            "evidenceId": "evidence-company-autolus-official-986638dffa65",
+            "sourceUrl": "https://www.autolus.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Autolus is a CAR T cell therapy company which develops advanced autologous T cell therapies that have the potential to deliver life-changing benefits to patients with cancer and autoimmune diseases",
+            "text": "Autolus是一家CAR T细胞疗法公司，专注于开发先进的自体T细胞疗法，具有为癌症和自身免疫疾病患者带来改变生活的潜力。",
+            "evidenceId": "evidence-company-autolus-official-986638dffa65",
+            "sourceUrl": "https://www.autolus.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "It is committed to the development and commercialization of obe-cel in r/r Adult ALL and is progressing opportunities for obe-cel in additional indications alongside its preclinical and clinical pipeline for hematological malignancies and solid tumors.",
+            "text": "It is committed to the development and commercialization of obe-cel in r/r Adult ALL and is progressing opportunities for obe-cel in additional indications alongside its preclinical and clinical pipeline for hematological malignancies and solid tumors.",
+            "evidenceId": "evidence-company-autolus-official-986638dffa65",
+            "sourceUrl": "https://www.autolus.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "We use Chimeric Antigen Receptors (CARs) to reprogram our T cell product candidates.",
+            "text": "We use Chimeric Antigen Receptors (CARs) to reprogram our T cell product candidates.",
+            "evidenceId": "evidence-company-autolus-official-986638dffa65",
+            "sourceUrl": "https://www.autolus.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Autolus applies extensive programming capabilities to develop advanced autologous T cell therapies that have the potential to deliver life-changing therapies to patients with cancer and autoimmune diseases and is building a fully integrated, next-generation CAR T company",
+            "text": "Autolus applies extensive programming capabilities to develop advanced autologous T cell therapies that have the potential to deliver life-changing therapies to patients with cancer and autoimmune diseases and is building a fully integrated, next-generation CAR T company",
+            "evidenceId": "evidence-company-autolus-official-986638dffa65",
+            "sourceUrl": "https://www.autolus.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          }
+        ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-autolus-official-986638dffa65",
           "evidence-sec-0001730463-000173046326000123",
           "evidence-sec-0001730463-000173046326000119",
           "evidence-sec-0001730463-000173046326000112",
@@ -11021,6 +11063,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-autolus-official-986638dffa65",
+            "date": "2026-08-15",
+            "title": "Autolus - developing CAR T cell therapies for patients with cancer and autoimmune diseases",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-autolus-official-986638dffa65",
+            "sourceUrl": "https://www.autolus.com/"
+          },
           {
             "id": "event-sec-0001730463-000173046326000123",
             "date": "2026-08-11",
@@ -11068,27 +11121,35 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "inferences": [],
         "unknowns": [
-          "目前只有 SEC filing metadata，尚未提取 filing 正文中的业务和战略信息。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 4,
+        "evidenceCount": 5,
         "evidenceBySourceType": {
+          "Company": 1,
           "Filing": 4
         },
-        "lastEvidenceDate": "2026-08-11",
+        "lastEvidenceDate": "2026-08-15",
         "programCandidateCount": 0,
         "gaps": [
-          "目前只有 SEC filing metadata，尚未提取 filing 正文中的业务和战略信息。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-autolus-official-986638dffa65",
+          "date": "2026-08-15",
+          "title": "Autolus - developing CAR T cell therapies for patients with cancer and autoimmune diseases",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-autolus-official-986638dffa65",
+          "sourceUrl": "https://www.autolus.com/"
+        },
         {
           "id": "event-sec-0001730463-000173046326000123",
           "date": "2026-08-11",
@@ -29179,7 +29240,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Doing Business With Us MyIllumina Platform",
             "text": "Doing Business With Us MyIllumina Platform",
-            "evidenceId": "evidence-company-illumina-official-67a50a453152",
+            "evidenceId": "evidence-company-illumina-official-550362664ad4",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -29187,7 +29248,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Software & Analysis Illumina BioInsight Platform",
             "text": "Software & Analysis Illumina BioInsight Platform",
-            "evidenceId": "evidence-company-illumina-official-67a50a453152",
+            "evidenceId": "evidence-company-illumina-official-550362664ad4",
+            "sourceUrl": "https://www.illumina.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Illumina STEM Scholars Program helps students imagine what’s next",
+            "text": "Illumina STEM Scholars Program helps students imagine what’s next",
+            "evidenceId": "evidence-company-illumina-official-550362664ad4",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -29195,15 +29264,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "One platform for complete biological insights",
             "text": "One platform for complete biological insights",
-            "evidenceId": "evidence-company-illumina-official-67a50a453152",
-            "sourceUrl": "https://www.illumina.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Data Analysis & Informatics Infrastructure & Pipeline Setup",
-            "text": "Data Analysis & Informatics Infrastructure & Pipeline Setup",
-            "evidenceId": "evidence-company-illumina-official-67a50a453152",
+            "evidenceId": "evidence-company-illumina-official-550362664ad4",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -29211,7 +29272,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
             "text": "Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
-            "evidenceId": "evidence-company-illumina-official-67a50a453152",
+            "evidenceId": "evidence-company-illumina-official-550362664ad4",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -29219,7 +29280,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Illumina innovative sequencing and array technologies are fueling groundbreaking advancements in life science research, translational and consumer genomics, and molecular diagnostics.",
             "text": "Illumina innovative sequencing and array technologies are fueling groundbreaking advancements in life science research, translational and consumer genomics, and molecular diagnostics.",
-            "evidenceId": "evidence-company-illumina-official-67a50a453152",
+            "evidenceId": "evidence-company-illumina-official-550362664ad4",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -29227,8 +29288,8 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-illumina-official-550362664ad4",
           "evidence-sec-0001110803-000095015726000888",
-          "evidence-company-illumina-official-67a50a453152",
           "evidence-sec-0001110803-000119312526346923",
           "evidence-sec-0001110803-000119312526345802",
           "evidence-sec-0001110803-000119312526341332",
@@ -29242,6 +29303,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
+            "id": "event-evidence-company-illumina-official-550362664ad4",
+            "date": "2026-08-15",
+            "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-illumina-official-550362664ad4",
+            "sourceUrl": "https://www.illumina.com/"
+          },
+          {
             "id": "event-sec-0001110803-000095015726000888",
             "date": "2026-08-13",
             "title": "Illumina filed Form 8-K",
@@ -29251,17 +29323,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": false,
             "evidenceId": "evidence-sec-0001110803-000095015726000888",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000095015726000888/form8-k.htm"
-          },
-          {
-            "id": "event-evidence-company-illumina-official-67a50a453152",
-            "date": "2026-08-13",
-            "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-            "eventType": "Official Source Update",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-illumina-official-67a50a453152",
-            "sourceUrl": "https://www.illumina.com/"
           },
           {
             "id": "event-sec-0001110803-000119312526346923",
@@ -29309,7 +29370,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 2,
           "Filing": 7
         },
-        "lastEvidenceDate": "2026-08-13",
+        "lastEvidenceDate": "2026-08-15",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -29317,6 +29378,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-illumina-official-550362664ad4",
+          "date": "2026-08-15",
+          "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-illumina-official-550362664ad4",
+          "sourceUrl": "https://www.illumina.com/"
+        },
         {
           "id": "event-sec-0001110803-000095015726000888",
           "date": "2026-08-13",
@@ -29327,17 +29399,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": false,
           "evidenceId": "evidence-sec-0001110803-000095015726000888",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000095015726000888/form8-k.htm"
-        },
-        {
-          "id": "event-evidence-company-illumina-official-67a50a453152",
-          "date": "2026-08-13",
-          "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-          "eventType": "Official Source Update",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-illumina-official-67a50a453152",
-          "sourceUrl": "https://www.illumina.com/"
         },
         {
           "id": "event-sec-0001110803-000119312526346923",
@@ -38162,7 +38223,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-natera-official-d1334c7d255b",
             "date": "2026-08-13",
             "title": "Natera: A global leader in cell-free DNA testing",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -38238,7 +38299,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-natera-official-d1334c7d255b",
           "date": "2026-08-13",
           "title": "Natera: A global leader in cell-free DNA testing",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -40426,7 +40487,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-oxford-nanopore-official-3d12a40b93c0",
             "date": "2026-08-13",
             "title": "Welcome to Oxford Nanopore Technologies",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -40468,7 +40529,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-oxford-nanopore-official-3d12a40b93c0",
           "date": "2026-08-13",
           "title": "Welcome to Oxford Nanopore Technologies",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -45780,7 +45841,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-sumitomo-pharma-official-05b9c9332255",
             "date": "2026-08-13",
             "title": "Sumitomo Pharma Co., Ltd.",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -45822,7 +45883,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-sumitomo-pharma-official-05b9c9332255",
           "date": "2026-08-13",
           "title": "Sumitomo Pharma Co., Ltd.",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
