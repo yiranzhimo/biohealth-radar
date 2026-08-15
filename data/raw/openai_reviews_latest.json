@@ -1,154 +1,28 @@
 {
-  "capturedAt": "2026-08-15T13:01:25.377475+00:00",
+  "capturedAt": "2026-08-15T18:49:22.974080+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42601460",
-      "responseId": "resp_049c81b7a97be55c006a806326294c81a2b11748853b5fc540",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录合理且中立，无需人类审查。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合现有文献内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断清晰分离，证据级别适中。"
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Nature methods，PMID 为 42601460。",
-          "report": "Artificial intelligence (AI) is rapidly transforming stem cell and developmental biology, offering new strategies to analyze, interpret and optimize complex, dynamic systems such as organoids and stem cell-derived embryo models. In this Perspective, we chart t...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42601449",
-      "responseId": "resp_058e002eed9ebf47006a80632be51087d2b9289e188ad405ff",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献提到 Acbd7 在毛细胞的功能中至关重要，但未提供足够的研究质量或商业化状态的评估，可能需要人类判断。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "研究质量和临床相关性未被评估，影响分类合理性。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据级别被标记为中等，但缺乏对研究质量的评价。"
-        },
-        "riskFlags": [
-          "insufficient_source",
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Experimental & molecular medicine，PMID 为 42601449。",
-          "report": "Understanding the molecular basis of hair cell function is essential for elucidating inner ear physiology and developing therapies for auditory-vestibular disorders. Here, we identify acyl-CoA binding domain-containing 7 (Acbd7) as a hair cell-specific gene cr...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42601972",
-      "responseId": "resp_0764f0386e356df9006a806331f48887d2b49153162da749ac",
+      "signalId": "pubmed-42602118",
+      "responseId": "resp_023ebb968abcfc38006a80b4b3ba988194b08d4bb1bc3fea68",
       "review": {
         "status": "pass",
         "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "文献详细介绍了皮肤伤口愈合研究的当今平台及其不足，分类合理，未包含治疗建议或临床结论。",
+        "reviewSummaryCn": "该信号准确地反映了文献内容，未包含未支持的临床结论。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类与文献内容一致，符合信息分流要求。"
+          "notesCn": "所选分类合理，符合文献主题。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论明确分开，证据水平合理。"
+          "notesCn": "事实、报告和推论清楚分开，证据水平合理。"
         },
         "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42601972。",
-          "report": "Cutaneous wound healing is a dynamic, multicellular process that unfolds across four interrelated phases - haemostasis, inflammation, proliferation, and remodellingeach governed by precise intercellular signalling that remains incompletely understood in its hu...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42601939",
-      "responseId": "resp_094e4a8e1f648967006a8063387e5481a09e8a5e5f96c63d21",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该记录存在临床结论的推断与未附上充分的信息，需要人类审阅。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类未完全符合文献内容，对研究质量等信息缺失。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
-          "evidenceLevelReasonable": false,
-          "notesCn": "事实、报告和推断之间不够清晰划分，证据级别评估不足。"
-        },
-        "riskFlags": [
-          "clinical_claim",
           "weak_classification"
         ],
         "suggestedEdits": {
@@ -157,81 +31,46 @@
           "evidenceLevel": "Medium",
           "themes": [
             "Organoids",
-            "Advanced Disease Models"
+            "Advanced Disease Models",
+            "Multi-omics"
           ],
           "tags": [
             "类器官",
-            "疾病模型"
+            "疾病模型",
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in cellular neuroscience，PMID 为 42601939。",
-          "report": "报告内容需进一步明确，避免给出推测性结论。",
-          "inference": "推断需要更明确的来源支持，避免可能的误解。",
-          "unknown": "需增加对研究质量、样本量及利益冲突的描述。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42602029",
-      "responseId": "resp_09bec3cd935e0859006a80633e224c87d298aeccfae163df91",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献总结了真菌外泌体作为感染性真菌病标志物的研究，分类和证据水平合理，内容清晰。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要和次要类别与研究主题一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论被清晰分隔，证据水平合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Biotech"
-          ],
-          "tags": [
-            "biotech"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42602029。",
-          "report": "Invasive candidiasis remains a life-threatening infection with mortality rates reaching 40-55%, yet current gold-standard diagnostics such as blood culture are often slow and insensitive. This review evaluates fungal extracellular vesicles (EVs) as both mechan...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Research (Washington, D.C.)，PMID 为 42602118。",
+          "report": "During early embryogenesis, epiblast cells ingress through the primitive streak (PS) to adopt a mesendoderm (MES) fate, giving rise to both mesodermal and endodermal lineages. Robust systems that accurately recapitulate MES specification-and thereby enable a c...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42601904",
-      "responseId": "resp_0e4a247f909e222b006a80634975c887d2b889d0a27b1ed756",
+      "signalId": "pubmed-42602251",
+      "responseId": "resp_048331556dfdbf0b006a80b4b8a28c8197b029e2e059a60408",
       "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号的事实、报告和推断明确区分，符合发布要求。",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查以验证潜在的临床结论。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主分类和子分类合理."
+          "isSupported": false,
+          "notesCn": "尽管主题合理，但分类质量需进一步验证。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平中等，符合该领域标准."
+          "evidenceLevelReasonable": false,
+          "notesCn": "中等证据级别似乎不足以支持该主题的临床结论。"
         },
         "riskFlags": [
           "clinical_claim",
-          "commercial_claim"
+          "weak_classification"
         ],
         "suggestedEdits": {
           "primaryCategory": "Diagnostics & Precision Medicine",
           "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
+          "evidenceLevel": "Low",
           "themes": [
             "Diagnostics",
             "Precision Medicine",
@@ -242,49 +81,48 @@
             "精准医疗",
             "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42601904。",
-          "report": "The combination of CDK4/6 inhibitors (CDK4/6i) and endocrine therapy (ET) is the standard first-line regimen for hormone receptor-positive, human epidermal growth factor receptor 2-negative (HR+/HER2-) metastatic breast cancer (MBC). Resistance remains a challenge...",
+          "fact": "PubMed 记录显示该文献收录于 Frontiers in molecular medicine，PMID 为 42602251。",
+          "report": "Metastatic castration-resistant prostate cancer (mCRPC) is associated with poor prognosis. Currently, treatment selection and response assessment in mCRPC still rely largely on prostate-specific antigen (PSA) and imaging tools, which may be insensitive and bio...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42601892",
-      "responseId": "resp_00f97f99956b6eaf006a80634eb88881918ee98bb28d6d3410",
+      "signalId": "pubmed-42602786",
+      "responseId": "resp_0f56cb4dd1393d18006a80b4bfbf348193aaa2d348c7bb3bd4",
       "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审核，因缺乏对研究质量的判断及可能的临床结论。",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录中所有信息清晰分隔，符合发布要求。",
         "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类与研究质量支持不足。"
+          "isSupported": true,
+          "notesCn": ""
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平被评估为中等，但缺乏对研究质量的详细信息。"
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据等级为中等，适合当前内容"
         },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
+        "riskFlags": [],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
+          "subCategory": "Organoids & Advanced Disease Models",
           "evidenceLevel": "Medium",
           "themes": [
-            "Biotech",
-            "Precision Oncology"
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
           ],
           "tags": [
-            "biotech",
-            "肿瘤"
+            "类器官",
+            "疾病模型",
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42601892。",
-          "report": "Patients with hormone receptor-positive (HR+) breast cancer faces a persistent, constant risk of distant recurrence for over 20 years. This proof-of-concept study evaluated the clinical utility of circulating tumor cell (CTCs) monitoring using the GenoCTC® pla...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Animal nutrition (Zhongguo xu mu shou yi xue hui)，PMID 为 42602786。",
+          "report": "Diarrhea is a common condition in piglets. The intestinal mucosal barrier is the primary protective mechanism against external challenges. Iron-an essential trace element for the growth and metabolism of living organisms-is crucial for enhancing host defense f...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
