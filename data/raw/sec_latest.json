@@ -1,9 +1,9 @@
 {
-  "capturedAt": "2026-08-14T19:16:51.533079+00:00",
+  "capturedAt": "2026-08-15T01:52:16.768278+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
-    "start": "2026-07-31",
-    "end": "2026-08-14"
+    "start": "2026-08-01",
+    "end": "2026-08-15"
   },
   "forms": [
     "10-K",
@@ -940,81 +940,6 @@
       "cik": "0001730463",
       "secName": "Autolus Therapeutics plc",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000119312526329526/d156965d8k.htm"
-    },
-    {
-      "filingDate": "2026-07-31",
-      "reportDate": "2026-06-28",
-      "acceptanceDateTime": "2026-07-31T21:05:55.000Z",
-      "act": "34",
-      "form": "10-Q",
-      "fileNumber": "001-35406",
-      "filmNumber": "261229429",
-      "items": "",
-      "size": 8646507,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "ilmn-20260628.htm",
-      "primaryDocDescription": "10-Q",
-      "accessionNumber": "0001110803-26-000160",
-      "companyId": "illumina",
-      "companyName": "Illumina",
-      "companyDirections": [
-        "Sequencing & Research Tools"
-      ],
-      "secTicker": "ILMN",
-      "cik": "0001110803",
-      "secName": "ILLUMINA, INC.",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000160/ilmn-20260628.htm"
-    },
-    {
-      "filingDate": "2026-07-31",
-      "reportDate": "2026-06-30",
-      "acceptanceDateTime": "2026-07-31T20:17:41.000Z",
-      "act": "34",
-      "form": "10-Q",
-      "fileNumber": "001-38753",
-      "filmNumber": "261228764",
-      "items": "",
-      "size": 10016779,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "mrna-20260630.htm",
-      "primaryDocDescription": "10-Q",
-      "accessionNumber": "0001682852-26-000150",
-      "companyId": "moderna",
-      "companyName": "Moderna",
-      "companyDirections": [
-        "RNA Therapeutics"
-      ],
-      "secTicker": "MRNA",
-      "cik": "0001682852",
-      "secName": "Moderna, Inc.",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000150/mrna-20260630.htm"
-    },
-    {
-      "filingDate": "2026-07-31",
-      "reportDate": "2026-07-31",
-      "acceptanceDateTime": "2026-07-31T11:03:47.000Z",
-      "act": "34",
-      "form": "8-K",
-      "fileNumber": "001-38753",
-      "filmNumber": "261225397",
-      "items": "2.02,9.01",
-      "size": 322103,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "mrna-20260731.htm",
-      "primaryDocDescription": "8-K",
-      "accessionNumber": "0001682852-26-000147",
-      "companyId": "moderna",
-      "companyName": "Moderna",
-      "companyDirections": [
-        "RNA Therapeutics"
-      ],
-      "secTicker": "MRNA",
-      "cik": "0001682852",
-      "secName": "Moderna, Inc.",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000147/mrna-20260731.htm"
     }
   ],
   "signals": [
@@ -2008,99 +1933,6 @@
         "autolus"
       ],
       "fact": "SEC EDGAR lists accession 0001193125-26-329526 for Autolus Therapeutics, Form 8-K, filed on 2026-08-03.",
-      "report": "SEC metadata describes the primary document as: 8-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001110803-000111080326000160",
-      "date": "2026-07-31",
-      "title": "Illumina filed Form 10-Q",
-      "entity": "Illumina",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Periodic Filing",
-      "eventType": "Periodic Report",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000160/ilmn-20260628.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "Sequencing & Research Tools"
-      ],
-      "tags": [
-        "SEC",
-        "10-Q",
-        "ILMN"
-      ],
-      "companyIds": [
-        "illumina"
-      ],
-      "fact": "SEC EDGAR lists accession 0001110803-26-000160 for Illumina, Form 10-Q, filed on 2026-07-31.",
-      "report": "SEC metadata describes the primary document as: 10-Q.",
-      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001682852-000168285226000150",
-      "date": "2026-07-31",
-      "title": "Moderna filed Form 10-Q",
-      "entity": "Moderna",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Periodic Filing",
-      "eventType": "Periodic Report",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000150/mrna-20260630.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "RNA Therapeutics"
-      ],
-      "tags": [
-        "SEC",
-        "10-Q",
-        "MRNA"
-      ],
-      "companyIds": [
-        "moderna"
-      ],
-      "fact": "SEC EDGAR lists accession 0001682852-26-000150 for Moderna, Form 10-Q, filed on 2026-07-31.",
-      "report": "SEC metadata describes the primary document as: 10-Q.",
-      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001682852-000168285226000147",
-      "date": "2026-07-31",
-      "title": "Moderna filed Form 8-K",
-      "entity": "Moderna",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000147/mrna-20260731.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "RNA Therapeutics"
-      ],
-      "tags": [
-        "SEC",
-        "8-K",
-        "MRNA"
-      ],
-      "companyIds": [
-        "moderna"
-      ],
-      "fact": "SEC EDGAR lists accession 0001682852-26-000147 for Moderna, Form 8-K, filed on 2026-07-31.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."

@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-08-14",
+  "updatedAt": "2026-08-15",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -820,6 +820,86 @@ window.BHR_DATA = {
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42599949",
+      "date": "2026-08-14",
+      "title": "A chemically optimized, GalNAc-conjugated siRNA targeting HSD17B13 demonstrates efficacy in a human 3D organoid model of MASH, showcasing an alternative to animal testing.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42599949/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 PloS one，PMID 为 42599949。",
+      "report": "Animal models have limited ability to predict human metabolically dysfunction-associated steatohepatitis (MASH), creating a major obstacle in drug development. To address this challenge, we introduce an integrated drug discovery approach that combines rational...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_08ed4c135a66a5df006a7fc651c0cc81988753a454ad4c9eda",
+        "reviewedAt": "2026-08-15T01:52:17.001662+00:00",
+        "inputHash": "08bf8b2e1264978912cf73ce8ca68a05c0388ffd7a8eea734c4c5db4f783c476",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号包含可能未被充分支持的效能结论，需要人类审查以确保内容准确性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平为中等，但缺乏足够的上下文支持分类和结果的质量。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平被认为不够高以支持报告的效能主张。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "AI for Biology",
+            "Drug Discovery"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "AI 制药",
+            "蛋白设计",
+            "分子生成"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 PloS one，PMID 为 42599949。",
+          "report": "Animal models have limited ability to predict human metabolically dysfunction-associated steatohepatitis (MASH), creating a major obstacle in drug development. To address this challenge, we introduce an integrated drug discovery approach that combines rational...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
     {
       "id": "pubmed-42599088",
       "date": "2026-08-14",
@@ -3449,79 +3529,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42595681",
-      "date": "2026-08-04",
-      "title": "Liver regenerative medicine approaches: Translational strategies for pediatric surgery.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42595681/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Seminars in pediatric surgery，PMID 为 42595681。",
-      "report": "Pediatric hepatobiliary diseases can progress to liver failure and transplantation, yet donor scarcity, lifelong immunosuppression, and cumulative graft-related morbidity remain major limitations. Regenerative medicine offers complementary strategies for disea...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0d299c2eb58870c6006a7ec98c11d4819b92b4b1cd956feb6c",
-        "reviewedAt": "2026-08-14T07:53:15.818647+00:00",
-        "inputHash": "f50276944524fa6c1c3182345e1a918668f731d0be7644717d04af484a6c61ed",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献的研究存在，有效的分类和清晰的信息分隔。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合提供的元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断均已明确分开，证据水平合理。"
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Seminars in pediatric surgery，PMID 为 42595681。",
-          "report": "Pediatric hepatobiliary diseases can progress to liver failure and transplantation, yet donor scarcity, lifelong immunosuppression, and cumulative graft-related morbidity remain major limitations. Regenerative medicine offers complementary strategies for disea...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },

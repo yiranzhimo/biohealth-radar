@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-14T19:16:44.033607+00:00",
+  "capturedAt": "2026-08-15T01:52:08.013928+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-08-14",
-    "end": "2026-08-14"
+    "start": "2025-08-15",
+    "end": "2026-08-15"
   },
   "pmids": [
+    "42599949",
     "42599088",
     "42598348",
     "42597929",
     "42597451",
     "42596847",
-    "42595681",
     "42580899",
     "42559559",
     "42509463",
@@ -40,6 +40,24 @@
     "42593704"
   ],
   "records": [
+    {
+      "pmid": "42599949",
+      "title": "A chemically optimized, GalNAc-conjugated siRNA targeting HSD17B13 demonstrates efficacy in a human 3D organoid model of MASH, showcasing an alternative to animal testing.",
+      "abstract": "Animal models have limited ability to predict human metabolically dysfunction-associated steatohepatitis (MASH), creating a major obstacle in drug development. To address this challenge, we introduce an integrated drug discovery approach that combines rational small-interfering RNA (siRNA) design and chemical modifications to improve stability, validated in a complex human 3D NAC-organoid MASH model. Using this system, we created new GalNAc-conjugated siRNAs targeting the 17β-hydroxysteroid dehydrogenase 13 (HSD17B13). The lead candidates were evaluated for stability in human serum and liver microsomes, off-target risks, and efficacy in the 3D organoid model that mimics key disease features such as steatosis and fibrosis. Our main candidate, si-R5-42, demonstrated greater stability in human serum and liver microsomes, as well as fewer off-target risks. Most importantly, in the 3D organoid model, si-R5-42 successfully reduced disease markers. Its ability to lower hepatic steatosis and fibrogenesis was comparable to that of the clinical-phase candidate ARO-HSD. This research provides a promising therapeutic candidate and a solid, human-relevant preclinical siRNA testing framework, reducing dependence on animal models.",
+      "journal": "PloS one",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Academy of Pharmacy, Xi'an Jiaotong-Liverpool University, Suzhou, China.",
+        "Department of Analytical Science, Shanghai Junshi Biosciences Co., Ltd., Shanghai, China.",
+        "Institute of Systems, Molecular & Integrative Biology, Faculty of Health and Life Sciences, University of Liverpool, Liverpool, United Kingdom.",
+        "Reasearch & Development Department, Shanghai Anlingke Biopharmaceutical Co., Ltd., Shanghai, China."
+      ],
+      "doi": "10.1371/journal.pone.0354751",
+      "date": "2026-08-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42599949/"
+    },
     {
       "pmid": "42599088",
       "title": "Liver Organoids: From Disease Modelling to Regenerative Medicine.",
@@ -121,25 +139,6 @@
       "doi": "10.1152/ajpgi.00079.2026",
       "date": "2026-08-14",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42596847/"
-    },
-    {
-      "pmid": "42595681",
-      "title": "Liver regenerative medicine approaches: Translational strategies for pediatric surgery.",
-      "abstract": "Pediatric hepatobiliary diseases can progress to liver failure and transplantation, yet donor scarcity, lifelong immunosuppression, and cumulative graft-related morbidity remain major limitations. Regenerative medicine offers complementary strategies for disease modelling, therapeutic discovery, tissue repair, and clinical decision-making. Patient-derived organoids and microphysiological systems can reproduce disease-specific epithelial phenotypes, support drug screening, and provide mechanistic or prognostic information in conditions such as biliary atresia and inherited cholestatic disorders. Cell-based therapies may provide temporary metabolic support but remain constrained by limited engraftment and dilution during liver growth. Repeatable mRNA delivery may accommodate rapid hepatic expansion, whereas a successfully installed genomic edit may remain durable even during active hepatic proliferation. Surgical strategies, including portal vein embolization and selected partial ALPPS, exploit endogenous regeneration to increase the future liver remnant when major resection is required. In pediatric acute liver failure, extracorporeal support can provide temporary metabolic and physiological stabilization while native-liver recovery and transplant candidacy are assessed. We propose a developmental and disease-specific framework integrating structural integrity, clinical urgency and trajectory, and developmental stage. This framework is intended to guide multidisciplinary assessment of when regenerative or supportive strategies remain appropriate and when transplant evaluation should be escalated, rather than to define universal treatment thresholds.",
-      "journal": "Seminars in pediatric surgery",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Faculty of Medicine, Macau University of Science and Technology, Avenida Wai Long, Taipa, 999078, Macau Special Administrative Region, People's Republic of China; Department of Pediatric Surgery, Capital Center for Children's Health, Capital Medical University, Capital Institute of Pediatrics, Beijing, 100020, China; Department of Pediatric Surgery, Capital Institute of Pediatrics-Peking University Teaching Hospital, Beijing, 100020, China.",
-        "Department of Pediatric Surgery, Capital Center for Children's Health, Capital Medical University, Capital Institute of Pediatrics, Beijing, 100020, China.",
-        "Faculty of Medicine, Macau University of Science and Technology, Avenida Wai Long, Taipa, 999078, Macau Special Administrative Region, People's Republic of China.",
-        "Faculty of Medicine, Macau University of Science and Technology, Avenida Wai Long, Taipa, 999078, Macau Special Administrative Region, People's Republic of China. Electronic address: chenyan@must.edu.mo.",
-        "Faculty of Medicine, Macau University of Science and Technology, Avenida Wai Long, Taipa, 999078, Macau Special Administrative Region, People's Republic of China. Electronic address: pkhtam@must.edu.mo."
-      ],
-      "doi": "10.1016/j.sempedsurg.2026.151681",
-      "date": "2026-08-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42595681/"
     },
     {
       "pmid": "42580899",
@@ -483,6 +482,39 @@
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42599949",
+      "date": "2026-08-14",
+      "title": "A chemically optimized, GalNAc-conjugated siRNA targeting HSD17B13 demonstrates efficacy in a human 3D organoid model of MASH, showcasing an alternative to animal testing.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42599949/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 PloS one，PMID 为 42599949。",
+      "report": "Animal models have limited ability to predict human metabolically dysfunction-associated steatohepatitis (MASH), creating a major obstacle in drug development. To address this challenge, we introduce an integrated drug discovery approach that combines rational...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42599088",
       "date": "2026-08-14",
@@ -840,36 +872,6 @@
       "fact": "PubMed 记录显示该文献收录于 Oncology letters，PMID 为 42598003。",
       "report": "ALK fusions occur in 3-6% of lung cancers and confer sensitivity to ALK-tyrosine kinase inhibitors. However, acquired resistance inevitably develops through multiple mechanisms, limiting the durability of the treatment response. The present report describes th...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42595681",
-      "date": "2026-08-04",
-      "title": "Liver regenerative medicine approaches: Translational strategies for pediatric surgery.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42595681/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Seminars in pediatric surgery，PMID 为 42595681。",
-      "report": "Pediatric hepatobiliary diseases can progress to liver failure and transplantation, yet donor scarcity, lifelong immunosuppression, and cumulative graft-related morbidity remain major limitations. Regenerative medicine offers complementary strategies for disea...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
