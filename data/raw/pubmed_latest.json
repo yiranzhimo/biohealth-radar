@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-15T07:00:01.036877+00:00",
+  "capturedAt": "2026-08-15T13:01:16.862809+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-15"
   },
   "pmids": [
+    "42601972",
+    "42601939",
+    "42601460",
+    "42601449",
     "42600904",
     "42600615",
-    "42600493",
-    "42600377",
-    "42600359",
-    "42599949",
     "42600555",
     "42580899",
     "42559559",
@@ -32,14 +32,105 @@
     "42567392",
     "42564489",
     "42561121",
+    "42602029",
+    "42601904",
+    "42601892",
     "42601275",
     "42601009",
-    "42600715",
-    "42598790",
-    "42598003",
-    "42597984"
+    "42600715"
   ],
   "records": [
+    {
+      "pmid": "42601972",
+      "title": "Human relevant platforms for cutaneous wound healing research: current landscape, translational gaps, and emerging frontiers.",
+      "abstract": "Cutaneous wound healing is a dynamic, multicellular process that unfolds across four interrelated phases - haemostasis, inflammation, proliferation, and remodellingeach governed by precise intercellular signalling that remains incompletely understood in its human context. Animal models and two-dimensional cell cultures have shaped much of what we know about wound biology, yet both consistently fall short when the question moves from mechanism to translation. They fail to capture the structural organisation of human skin, the particular rhythms of human immune activation and resolution, and above all the multifactorial pathology that makes chronic wounds-diabetic foot ulcers especially, so resistant to treatment. This review traces the development of human-relevant alternative models as a coherent scientific response to those failures: from scratch assays and monocultures through to three-dimensional reconstructed equivalents, organoid platforms, ex vivo tissue preparations, and skin-on-a-chip systems capable of dynamic perfusion and real-time wound monitoring. We assess each class of model not simply on its merits but on what specific biological gap it was designed to close and what gaps remain. Emerging analytical frameworks-multi-omics integration, spatial transcriptomics, microbiome and biofilm modelling, multi-organ-on-a-chip architectures, artificial intelligence, and neuro-immune crosstalk -are examined as the next Frontier. These findings show that no single platform will resolve the translational deficit; what is required is a deliberately combinatorial paradigm in which complementary systems are deployed in tiered sequence, each contributing the biological information it is best positioned to generate.",
+      "journal": "Frontiers in bioengineering and biotechnology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Marine Biotechnology and Bioproducts Laboratory, Department of Bio-Medical Sciences, School of Bio Sciences and Technology, VIT, Vellore, Tamil Nadu, India."
+      ],
+      "doi": "10.3389/fbioe.2026.1917429",
+      "date": "2026-07-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601972/"
+    },
+    {
+      "pmid": "42601939",
+      "title": "Neurogenesis defects in iPSC-derived midbrain organoids of early-onset Parkinson's disease with 22q11.2 deletion syndrome.",
+      "abstract": "Sporadic Parkinson's disease (PD) is typically a late-onset disorder caused by a combination of genetics, environment, and aging, manifesting when the loss of midbrain dopaminergic neurons exceeds a critical threshold, usually after the age of 50. Conversely, early-onset PD, as observed in cases linked to parkin (PRKN) gene mutations, suggests mechanisms involving either accelerated postnatal neuron loss or an insufficient number of neurons at birth. Patients with the 22q11.2 deletion syndrome (DS) have a significantly higher prevalence of early-onset PD. The absence of known genes associated with hereditary PD in the deleted region suggests the involvement of novel, non-traditional risk factors. This could potentially implicate the neurodevelopmental origin of dopaminergic neurons arising from the floor plate. To investigate this hypothesis, we generated midbrain organoids from induced pluripotent stem cells derived from a patient with 22q11.2 DS. The organoids recapitulated key aspects of in vivo neurogenesis, revealing enhanced differentiation of dopaminergic neurons in 22q11.2DS- and PRKN-derived organoids compared to controls on days 28 and 56 of culture. These findings suggest that, in early-onset PD patients with 22q11.2 DS or PRKN mutation, enhanced neurogenesis could result in reduced number of dopaminergic neurons during early development. The organoids of early-onset PD demonstrated that progenitors undergo enhanced differentiation at an early stage. This suggests that the atypical developmental process could reduce progenitors before there are enough mature dopaminergic neurons. This in turn indicates that the onset of PD may occur as early as the embryonic stage.",
+      "journal": "Frontiers in cellular neuroscience",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Neurology, Kansai Medical University, Hirakata, Japan.",
+        "Department of iPS Cell Applied Medicine, Graduate School of Medicine, Kansai Medical University, Hirakata, Osaka, Japan.",
+        "iPSC-based Drug Discovery and Development Team, RIKEN BioResource Research Center (BRC), Kyoto, Japan.",
+        "Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto, Japan.",
+        "Medical-Risk Avoidance Based on iPS Cells Team, RIKEN Center for Advanced Intelligence Project (AIP), Kyoto, Japan.",
+        "Department Neurology, Medical Research Institute Kitano Hospital, Osaka, Japan."
+      ],
+      "doi": "10.3389/fncel.2026.1906023",
+      "date": "2026-07-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601939/"
+    },
+    {
+      "pmid": "42601460",
+      "title": "From pixels to patterns: the AI revolution in stem cell-derived models.",
+      "abstract": "Artificial intelligence (AI) is rapidly transforming stem cell and developmental biology, offering new strategies to analyze, interpret and optimize complex, dynamic systems such as organoids and stem cell-derived embryo models. In this Perspective, we chart the integration of AI into image-based analysis of stem cell systems, highlighting how deep learning, convolutional neural networks and emerging foundation models enable automated classification, segmentation and phenotyping at increasing scale and precision. We showcase applications in phenotyping, drug screening and mechanistic discovery, including real-time fate prediction and the identification of hidden morphological signatures linked to differentiation and disease. Practical challenges, including limited annotated data, model interpretability and live imaging constraints, are examined alongside future opportunities, such as multimodal integration, real-time experimental steering and protocol optimization. Altogether, we argue that AI is not merely an analytical tool, but a discovery engine that enhances reproducibility, accelerates insight and brings us closer to a mechanistic understanding of self-organization in complex stem cell-derived systems.",
+      "journal": "Nature methods",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Group for Automated Image and Data Analysis, Institute for Automation and Applied Informatics, Karlsruhe Institute of Technology, Eggenstein‑Leopoldshafen, Germany. ldeininger@ethz.ch.",
+        "Division of Pediatric Neurology and Metabolic Medicine, Department I, Center for Pediatric and Adolescent Medicine, Medical Faculty Heidelberg, Heidelberg University, Heidelberg, Germany. ldeininger@ethz.ch.",
+        "Department of Biosystems Science and Engineering, ETH Zürich, Basel, Switzerland. ldeininger@ethz.ch.",
+        "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA, USA. pcaldare@caltech.edu.",
+        "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA, USA. magdaz@caltech.edu.",
+        "Group for Automated Image and Data Analysis, Institute for Automation and Applied Informatics, Karlsruhe Institute of Technology, Eggenstein‑Leopoldshafen, Germany. ralf.mikut@kit.edu."
+      ],
+      "doi": "10.1038/s41592-026-03202-x",
+      "date": "2026-08-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601460/"
+    },
+    {
+      "pmid": "42601449",
+      "title": "Acbd7 is essential for preserving hair cell-mediated auditory and vestibular function.",
+      "abstract": "Understanding the molecular basis of hair cell function is essential for elucidating inner ear physiology and developing therapies for auditory-vestibular disorders. Here, we identify acyl-CoA binding domain-containing 7 (Acbd7) as a hair cell-specific gene critical for sensory maintenance. Single-cell transcriptomics of mouse cochlear organoids revealed Acbd7 as a top hair cell-enriched transcript, with its spatiotemporal expression confirmed from embryonic development through adulthood in both auditory and vestibular hair cells. Acbd7‑deficient mice exhibited pronounced hair cell degeneration, characterized by synaptic defects and diminished calcium currents in inner hair cells and loss of outer hair cells. Transcriptomic and proteomic analyses linked Acbd7 to the regulation of Ca2+ signaling and fatty acid metabolism pathways. Our findings establish Acbd7 as a critical regulator of Ca2+ homeostasis and functional integrity in hair cells, thereby elucidating a key mechanism by which a fatty acid metabolism factor sustains hair cell function and providing potential therapeutic targets for inner ear disorders.",
+      "journal": "Experimental & molecular medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "ENT Institute and Department of Otorhinolaryngology, Eye and ENT Hospital, State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain Science, Fudan University, Shanghai, China.",
+        "Institutes of Biomedical Sciences, Fudan University, Shanghai, China.",
+        "NHC Key Laboratory of Hearing Medicine, Fudan University, Shanghai, China.",
+        "The Institutes of Brain Science and The Collaborative Innovation Center for Brain Science, Fudan University, Shanghai, China.",
+        "Shanghai Key Laboratory of Gene Editing and Cell Therapy for Rare Diseases, Fudan University, Shanghai, China.",
+        "School of Life Sciences, Zhejiang Chinese Medical University, Hangzhou, China.",
+        "ENT Institute and Department of Otorhinolaryngology, Eye and ENT Hospital, State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain Science, Fudan University, Shanghai, China. xiamy17@fudan.edu.cn.",
+        "Institutes of Biomedical Sciences, Fudan University, Shanghai, China. xiamy17@fudan.edu.cn.",
+        "NHC Key Laboratory of Hearing Medicine, Fudan University, Shanghai, China. xiamy17@fudan.edu.cn.",
+        "The Institutes of Brain Science and The Collaborative Innovation Center for Brain Science, Fudan University, Shanghai, China. xiamy17@fudan.edu.cn.",
+        "ENT Institute and Department of Otorhinolaryngology, Eye and ENT Hospital, State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain Science, Fudan University, Shanghai, China. hwli@shmu.edu.cn.",
+        "Institutes of Biomedical Sciences, Fudan University, Shanghai, China. hwli@shmu.edu.cn.",
+        "NHC Key Laboratory of Hearing Medicine, Fudan University, Shanghai, China. hwli@shmu.edu.cn.",
+        "The Institutes of Brain Science and The Collaborative Innovation Center for Brain Science, Fudan University, Shanghai, China. hwli@shmu.edu.cn.",
+        "Shanghai Key Laboratory of Gene Editing and Cell Therapy for Rare Diseases, Fudan University, Shanghai, China. hwli@shmu.edu.cn.",
+        "ENT Institute and Department of Otorhinolaryngology, Eye and ENT Hospital, State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain Science, Fudan University, Shanghai, China. wenyan_li@fudan.edu.cn.",
+        "Institutes of Biomedical Sciences, Fudan University, Shanghai, China. wenyan_li@fudan.edu.cn.",
+        "NHC Key Laboratory of Hearing Medicine, Fudan University, Shanghai, China. wenyan_li@fudan.edu.cn.",
+        "The Institutes of Brain Science and The Collaborative Innovation Center for Brain Science, Fudan University, Shanghai, China. wenyan_li@fudan.edu.cn.",
+        "Shanghai Key Laboratory of Gene Editing and Cell Therapy for Rare Diseases, Fudan University, Shanghai, China. wenyan_li@fudan.edu.cn."
+      ],
+      "doi": "10.1038/s12276-026-01812-1",
+      "date": "2026-08-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601449/"
+    },
     {
       "pmid": "42600904",
       "title": "Organoid-based models in cerebrovascular disorders: Mechanistic insights and precision medicine.",
@@ -79,86 +170,6 @@
       "doi": "10.1016/j.crmeth.2026.101551",
       "date": "2026-08-14",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42600615/"
-    },
-    {
-      "pmid": "42600493",
-      "title": "Application of dual-view oblique plane microscopy to small-molecule compound screening across 3D glioblastoma stem cell spheroids with single-cell resolution.",
-      "abstract": "Recent advances and increasing adoption of 3-dimensional (3D) model systems, such as tumour spheroids and organoids, attempt to more faithfully recapitulate the pathophysiology and heterogeneity observed in patients' tumours, with the goal of reducing high attrition rates observed in late stage drug development. While established high content imaging systems provide the spatial resolution and throughput necessary to place 3D models at the earliest stages of drug discovery, they yield limited information on disease heterogeneity or drug response at the single cell level in 3D. Improvements in single-cell RNA-Seq are transforming our understanding of disease trajectories and therapy response, however this technology is too expensive and laborious for high throughput screening. Here we demonstrate the high content screening capabilities of a compact and low cost light-sheet fluorescence microscopy platform called dual-view oblique plane microscope (dOPM). We apply the dOPM to screen a small library of compounds in a 3D glioblastoma (GBM) stem cell spheroid model expressing the FUCCI cell cycle reporter. We benchmark the performance and compare the outputs of the dOPM GBM spheroid assay with standard 2D and 3D spheroids assays using established spinning disk confocal high content platforms. In a proof-of-principle small molecule compound screen we demonstrate that the dOPM performs to accepted standards of reproducibility for high throughput screening in a 96-well plate format. We further demonstrate the ability of the dOPM to capture the heterogeneity across multiple spheroids within an individual well and provide single cell level data within each individual 3D spheroid. We propose that further development of the opensource dOPM platform will support the advancement of 3D high content phenotypic screening assays from cell population measurements to highly quantitative single cell analysis across 3D space and time dimensions.",
-      "journal": "SLAS discovery : advancing life sciences R & D",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Cancer Research UK Scotland Centre (Edinburgh), Institute of Genetics and Cancer, University of Edinburgh, Western General Hospital, Edinburgh, EH4 2XU, UK.",
-        "Light Community, Department of Physics, Imperial College London, London, SW7 2AZ, UK; Photonics Satellite Laboratory, The Francis Crick Institute, 1 Midland Road, London, NW1 1AT, UK.",
-        "Light Community, Department of Physics, Imperial College London, London, SW7 2AZ, UK.",
-        "Cancer Research UK Scotland Centre (Edinburgh), Institute of Genetics and Cancer, University of Edinburgh, Western General Hospital, Edinburgh, EH4 2XU, UK. Electronic address: n.carragher@ed.ac.uk."
-      ],
-      "doi": "10.1016/j.slasd.2026.100329",
-      "date": "2026-08-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42600493/"
-    },
-    {
-      "pmid": "42600377",
-      "title": "Development of tetrahydroquinazoline compounds as Fusion protein inhibitors for the treatment of respiratory syncytial virus.",
-      "abstract": "Respiratory syncytial virus (RSV) is one of the leading causes of severe respiratory infections worldwide, particularly in pediatric and elderly populations. The RSV Fusion (F) protein, essential for viral entry and syncytium formation, represents a prime target for antiviral drug development. In this study, we constructed a compound class that contained saturated naphthene- and cyclic ether-fused pyrimidine bicyclic cores as potent Fusion inhibitors. Among these, the 5,6,7,8-tetrahydroquinazoline derivative 7d showed outstanding in vitro anti-RSV activity (RSV-long, EC50 = 3.65 ± 0.85 nM) and potent inhibition against multiple clinical isolates. Molecular docking, MD simulations, and MM-GBSA showed 7d tightly binds RSV pre-fusion F protein with strong affinity. 7d effectively inhibited RSV infection and syncytium formation in human nasal and airway organoids. The in vivo efficacy of 7d in reducing viral load and alleviating RSV-induced lung pathology was confirmed in both young and aged mouse models. By integrating in vitro, organoid, and in vivo models, this study validates compound 7d as a highly potent, lung-targeted RSV F protein inhibitor with promising therapeutic potential. These findings warrant further development of 7d as a novel antiviral candidate against RSV infection.",
-      "journal": "European journal of medicinal chemistry",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Joint International Research Laboratory of Respiratory Health, Guangdong Basic Research Center of Excellence for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, PR China; China-Portugal Artificial Intelligence and Public Health Technologies Joint Laboratory, Guangdong-Hong Kong-Macao Joint Laboratory of Respiratory Infectious Diseases, Guangdong Provincial Key Laboratory of Respiratory Disease Research, Guangzhou Medical University, 510182, PR China.",
-        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Joint International Research Laboratory of Respiratory Health, Guangdong Basic Research Center of Excellence for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, PR China; China-Portugal Artificial Intelligence and Public Health Technologies Joint Laboratory, Guangdong-Hong Kong-Macao Joint Laboratory of Respiratory Infectious Diseases, Guangdong Provincial Key Laboratory of Respiratory Disease Research, Guangzhou Medical University, 510182, PR China; The First People's Hospital of Zunyi (The Third Affiliated Hospital of Zunyi Medical University), Zunyi, Guizhou, 563000, PR China.",
-        "Guangzhou National Laboratory, Guangzhou, Guangdong, 510005, PR China.",
-        "Guangdong Pharmaceutical University, Guangzhou, Guangdong, 510006, PR China.",
-        "State Key Laboratory of Bioactive Molecules and Druggability Assessment, International Cooperative Laboratory of Traditional Chinese Medicine Modernization and Innovative Drug Discovery of Chinese Ministry of Education (MOE), School of Pharmacy, Jinan University, Guangzhou, Guangdong, 510632, PR China.",
-        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Joint International Research Laboratory of Respiratory Health, Guangdong Basic Research Center of Excellence for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, PR China; China-Portugal Artificial Intelligence and Public Health Technologies Joint Laboratory, Guangdong-Hong Kong-Macao Joint Laboratory of Respiratory Infectious Diseases, Guangdong Provincial Key Laboratory of Respiratory Disease Research, Guangzhou Medical University, 510182, PR China. Electronic address: liyjun@gzhmu.edu.cn.",
-        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Joint International Research Laboratory of Respiratory Health, Guangdong Basic Research Center of Excellence for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, PR China; China-Portugal Artificial Intelligence and Public Health Technologies Joint Laboratory, Guangdong-Hong Kong-Macao Joint Laboratory of Respiratory Infectious Diseases, Guangdong Provincial Key Laboratory of Respiratory Disease Research, Guangzhou Medical University, 510182, PR China; Guangzhou National Laboratory, Guangzhou, Guangdong, 510005, PR China. Electronic address: jeffyah@163.com."
-      ],
-      "doi": "10.1016/j.ejmech.2026.119208",
-      "date": "2026-08-07",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42600377/"
-    },
-    {
-      "pmid": "42600359",
-      "title": "Phenotype-driven screening of semi-synthetic terpene analogs identifies TRX-41 as a lead compound active in chemotherapy-resistant breast cancer organoids.",
-      "abstract": "Natural products remain an important source of anticancer agents, yet identifying pharmacological vulnerabilities in chemotherapy-refractory tumors remains a major challenge. Natural terpenes (NT) represent one of the most structurally diverse classes of bioactive compounds, but their native scaffolds often display limited potency and restricted translational potential. Here, we applied a phenotype-driven screening strategy using a library of semi-synthetic terpene analogs to identify compounds capable of targeting therapy-resistant tumor states. A first-generation library of 137 semi-synthetic terpenoid analogues was functionally screened across 8 human tumor cell lines representing distinct tissue origins and biological phenotypes. Phenotype-oriented screening revealed that 58% of the library exhibited greater antiproliferative activity relative to their NT precursors, and 5 derivatives inducing > 90% growth inhibition. Functional prioritization identified TRX-41 as the lead cytotoxic compound, displaying low-micromolar potency, complete suppression of clonogenic survival, and rapid induction of cell death (90% within 10 h). In vivo toxicity evaluation in zebrafish embryos identified a measurable therapeutic window, exceeding by up to 44-fold the TRX-41 antiproliferative doses. Mechanistically, TRX-41 induced coordinated cell-cycle perturbation and apoptosis, accompanied by activation of death receptor-related signaling pathways, including TNF-associated programs. Importantly, the prioritized lead compound retained robust activity in breast cancer patient-derived organoids, with GR₅₀ values in the submicromolar range and preferential efficacy in aggressive and chemotherapy-refractory models. Collectively, these findings demonstrate that phenotype-driven pharmacological screening of semi-synthetic terpene libraries can identify therapeutically relevant pharmacological vulnerabilities in chemotherapy-refractory tumors. TRX-41 represents the first proof-of-concept lead compound emerging from this strategy and provides proof of concept for its application in the discovery of new anticancer agents active across biologically heterogeneous and chemotherapy-refractory tumors.",
-      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "LBCAS-Laboratory of Applied Cellular Biology in Health Sciences, Molecular Oncology Center, Hospital Sírio-Libanês, São Paulo, SP, Brazil.",
-        "LaSIMBio-Laboratory of Synthesis of Bioactive Molecules, Institute of Physics and Chemistry, Federal University of Itajubá, Itajubá, MG, Brazil.",
-        "Laboratory of Signaling in Biomolecular Systems, Department of Biochemistry, Institute of Chemistry, University of Sao Paulo, Sao Paulo, SP 05508-000, Brazil.",
-        "Núcleo de Diagnóstico por Imagem da Mama, Hospital Sírio-Libanês, São Paulo, Brazil.",
-        "School of Physiology, Pharmacology and Neuroscience, University of Bristol, Bristol, UK.",
-        "Center for Translational Research in Oncology (LIM24), Instituto do Câncer do Estado de São Paulo (ICESP), Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo (HCFMUSP), São Paulo 01246-000, Brazil.",
-        "Hospital Sírio Libanês, São Paulo, Brazil.",
-        "Núcleo de Mastologia, Hospital Sírio Libanês, São Paulo, Brazil.",
-        "LBCAS-Laboratory of Applied Cellular Biology in Health Sciences, Molecular Oncology Center, Hospital Sírio-Libanês, São Paulo, SP, Brazil. Electronic address: erico.tcosta@hsl.org.br."
-      ],
-      "doi": "10.1016/j.biopha.2026.119819",
-      "date": "2026-08-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42600359/"
-    },
-    {
-      "pmid": "42599949",
-      "title": "A chemically optimized, GalNAc-conjugated siRNA targeting HSD17B13 demonstrates efficacy in a human 3D organoid model of MASH, showcasing an alternative to animal testing.",
-      "abstract": "Animal models have limited ability to predict human metabolically dysfunction-associated steatohepatitis (MASH), creating a major obstacle in drug development. To address this challenge, we introduce an integrated drug discovery approach that combines rational small-interfering RNA (siRNA) design and chemical modifications to improve stability, validated in a complex human 3D NAC-organoid MASH model. Using this system, we created new GalNAc-conjugated siRNAs targeting the 17β-hydroxysteroid dehydrogenase 13 (HSD17B13). The lead candidates were evaluated for stability in human serum and liver microsomes, off-target risks, and efficacy in the 3D organoid model that mimics key disease features such as steatosis and fibrosis. Our main candidate, si-R5-42, demonstrated greater stability in human serum and liver microsomes, as well as fewer off-target risks. Most importantly, in the 3D organoid model, si-R5-42 successfully reduced disease markers. Its ability to lower hepatic steatosis and fibrogenesis was comparable to that of the clinical-phase candidate ARO-HSD. This research provides a promising therapeutic candidate and a solid, human-relevant preclinical siRNA testing framework, reducing dependence on animal models.",
-      "journal": "PloS one",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Academy of Pharmacy, Xi'an Jiaotong-Liverpool University, Suzhou, China.",
-        "Department of Analytical Science, Shanghai Junshi Biosciences Co., Ltd., Shanghai, China.",
-        "Institute of Systems, Molecular & Integrative Biology, Faculty of Health and Life Sciences, University of Liverpool, Liverpool, United Kingdom.",
-        "Reasearch & Development Department, Shanghai Anlingke Biopharmaceutical Co., Ltd., Shanghai, China."
-      ],
-      "doi": "10.1371/journal.pone.0354751",
-      "date": "2026-08-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42599949/"
     },
     {
       "pmid": "42600555",
@@ -384,6 +395,67 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42561121/"
     },
     {
+      "pmid": "42602029",
+      "title": "Fungal extracellular vesicles as biomarkers in candidiasis: biogenesis, virulence, and CNS diagnostic applications.",
+      "abstract": "Invasive candidiasis remains a life-threatening infection with mortality rates reaching 40-55%, yet current gold-standard diagnostics such as blood culture are often slow and insensitive. This review evaluates fungal extracellular vesicles (EVs) as both mechanistic drivers of pathogenesis and clinical utility as biomarkers. We first outline EV biogenesis and translocation across the fungal cell wall, emphasizing the roles of turgor pressure and enzymatic remodeling. We then discuss how EVs act as protected carriers of virulence factors, such as candidalysin and Als3, which modulate tissue invasion and host responses. While profiling these circulating fungal EVs provides a promising and sensitive window into systemic invasive candidiasis, this approach faces unique hurdles in cases of central nervous system (CNS) involvement. In the CNS, fungal signatures are sequestered behind the blood-brain barrier (BBB) and heavily diluted by the vast pool of peripheral EVs, rendering total plasma analysis inadequate. To overcome these barriers, we propose a specialized diagnostic framework that combines dual-marker immunocapture of neuron-derived EVs (NDEVs), using neural cell adhesion molecule (NCAM) and intercellular adhesion molecule 5 (ICAM-5), with the detection of internal Candida-associated cargo. We emphasize that while this host-vesicle enrichment strategy is mechanistically grounded, it requires standardized isolation workflows and prospective clinical validation before deployment as a non-invasive platform for early CNS diagnosis.",
+      "journal": "Frontiers in cell and developmental biology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Life Sciences, School of Life Sciences and Biotechnology, Korea University, Seoul, Republic of Korea.",
+        "National Research Laboratory for Convergence Degradation Biology, Korea University, Seoul, Republic of Korea.",
+        "Department of Medical and Biological Science, The Catholic University of Korea, Bucheon, Republic of Korea.",
+        "Cancer Research Program, The Research Institute of the McGill University Health Centre, Montreal, QC, Canada.",
+        "Department of Surgery, Surgical and Interventional Sciences, McGill University, Montreal, QC, Canada.",
+        "Department of Surgery, Division of Thoracic and Upper Gastrointestinal Surgery, Faculty of Medicine and Health Sciences, McGill University, Montreal, QC, Canada.",
+        "Montreal General Hospital Foundation, McGill University Health Centre, Montreal, QC, Canada."
+      ],
+      "doi": "10.3389/fcell.2026.1854037",
+      "date": "2026-07-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42602029/"
+    },
+    {
+      "pmid": "42601904",
+      "title": "Dynamic circulating tumor DNA profiling of ESR1 mutations in HR+/HER2- advanced breast cancer: from prognostic biomarker to clinical decision-making - a comprehensive review.",
+      "abstract": "The combination of CDK4/6 inhibitors (CDK4/6i) and endocrine therapy (ET) is the standard first-line regimen for hormone receptor-positive, human epidermal growth factor receptor 2-negative (HR+/HER2-) metastatic breast cancer (MBC). Resistance remains a challenge, with estrogen receptor 1 gene (ESR1) mutations serving as a central mechanism. Liquid biopsy enables non-invasive monitoring via circulating tumor DNA (ctDNA), with ESR1 mutations increasingly recognized as dynamic molecular events rather than static markers. This comprehensive review evaluates the prognostic and predictive value of baseline and on-treatment ctDNA ESR1 mutations in HR+/HER2- advanced breast cancer patients receiving CDK4/6i and ET, and explores their evolution into dynamic intervention nodes for precision decision-making. Following PRISMA guidelines, we searched major databases and conference proceedings up to February 2026. Studies reporting ctDNA ESR1 mutations and clinical outcomes in CDK4/6i plus ET-treated patients were included. Due to substantial clinical and methodological heterogeneity, a quantitative meta-analysis was not feasible; instead, a narrative synthesis was performed. Nine high-quality studies met eligibility criteria. Key findings: (1) Baseline ESR1 mutations, particularly Y537S, are adverse prognostic factors; high ctDNA tumor fraction (≥10%) identifies patients deriving greater benefit from first-line CDK4/6i (PFS2 HR 0.58). (2) ctDNA clearance by cycle 2 day 1 predicts prolonged PFS (HR = 0.44). (3) Pre-emptive switching to camizestrant upon ctDNA-detected ESR1 mutations reduced progression risk by 56% (HR = 0.44, P<0.0001) in the SERENA-6 trial. Baseline ctDNA ESR1 mutations define a more aggressive disease subtype and have evolved from molecular drivers to actionable clinical decision nodes. However, routine clinical adoption requires prospective validation, harmonized testing standards, and consensus on monitoring protocols. This review provides a comprehensive evidence-graded framework to guide future research and clinical implementation.",
+      "journal": "Frontiers in oncology",
+      "publicationTypes": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "affiliations": [
+        "Department of General Surgery, The Sixth Medical Center of Chinese PLA General Hospital, Beijing, China.",
+        "Department of Hepatobiliary Surgery, The Sixth Medical Center of Chinese PLA General Hospital, Beijing, China.",
+        "Department of Radiology, The Sixth Medical Center of Chinese PLA General Hospital, Beijing, China."
+      ],
+      "doi": "10.3389/fonc.2026.1881097",
+      "date": "2026-07-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601904/"
+    },
+    {
+      "pmid": "42601892",
+      "title": "Longitudinal monitoring of circulating tumor cell phenotypic conversion as a predictor of late recurrence in breast cancer: a prospective feasibility study using the GenoCTC platform.",
+      "abstract": "Patients with hormone receptor-positive (HR+) breast cancer faces a persistent, constant risk of distant recurrence for over 20 years. This proof-of-concept study evaluated the clinical utility of circulating tumor cell (CTCs) monitoring using the GenoCTC® platform to detect molecular precursors of late recurrence in long-term breast cancer survivors. Blood samples from 25 breast cancer patients in recurrence-free survival (RFS), 4-13 years post-surgery, were analyzed using the GenoCTC® platform with EpCAM and Vimentin as markers. Baseline CTCs were characterized by immunofluorescence staining (DAPI+/Cytokeratin (CK)+/CD45-). A subset of eight initially CTC-negative patients underwent longitudinal follow-up assay at a 5-year interval, with expanded profiling including c-MET enrichment. CTCs counts were correlated with clinicopathological variables, receptor status and clinical outcomes. At baseline, CTCs were detected in 24% of patients. CTC burden was significantly associated with recurrence (P <.0001) and mortality (P = .0016). A high CTC count was identified in all recurrence events (P = .003). In longitudinal follow-up, 6 of 8 (75%) initially CTC-negative patients demonstrated \"molecular conversion\" characterized by a \"burst\" of epithelial-mesenchymal hybrid CTCs, including CK+/Vimentin+ and cMET+ populations. Longitudinal phenotypic CTC profiling could identify a pre-clinical \"molecular conversion\" in breast cancer survivors, which has the potential to provide a time lead over radiographic appearance of recurrence. Integration of EpCAM, Vimentin and cMET multi-marker CTC monitoring into standard long-term follow-up may enable early interception of dormancy escape and late relapse.",
+      "journal": "Frontiers in oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Research Institute of Pharmaceutical Science, Department of Pharmacy, Seoul National University College of Pharmacy, Seoul, Republic of Korea.",
+        "Department of Cancer Science, Cleveland Clinic Research, Cleveland, OH, United States.",
+        "Case comprehensive Cancer Center, Case Western Reserve University, Cleveland, OH, United States.",
+        "Department of Food and Nutrition, Dong-Eui University, Busan, Republic of Korea.",
+        "Research Institute, Genobio Corp, Seoul, Republic of Korea.",
+        "Department of Molecular Medicine and Biopharmaceutical Sciences, Graduate School of Convergence Science and Technology, Seoul National University, Seoul, Republic of Korea.",
+        "Research Institute, Cichlid Corporation, Seoul, Republic of Korea."
+      ],
+      "doi": "10.3389/fonc.2026.1903915",
+      "date": "2026-07-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601892/"
+    },
+    {
       "pmid": "42601275",
       "title": "The future of blood-based biomarkers in liver cancer.",
       "abstract": "Liquid biomarkers hold substantial promise in liver cancer, with potential applications in risk stratification, surveillance and early detection, therapeutic decision-making, and treatment-response monitoring. In parallel with oncologic advances, liquid biopsy has gained increasing attention. However, despite expanded research efforts, prospective clinical validation remains limited. While cell-free DNA-based detection of actionable alterations has entered clinical practice in select contexts, most candidate liquid biomarkers still require rigorous evaluation through translational research embedded in clinical trials and prospective cohort studies. In this review, we summarise the current landscape of blood-based biomarkers across the cancer care continuum for individuals at risk, or diagnosed with hepatocellular carcinoma and biliary tract cancers, and discuss the key challenges and opportunities that lie ahead.",
@@ -447,66 +519,69 @@
       "doi": "10.1016/j.cellsig.2026.112825",
       "date": "2026-08-14",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42600715/"
-    },
-    {
-      "pmid": "42598790",
-      "title": "Beyond Morphology: Reframing Lymph-Node Metastasis Prediction Through Clonal Ecology-Decades-Long Genomic Instability and Polyclonal-to-Monoclonal Transitions as the Missing Dimension in Cancer.",
-      "abstract": "Recent whole-genome, lineage-tracing, single-cell, and spatial studies have reshaped our understanding of tumor evolution, revealing that cancers can arise from polyclonal populations, undergo decades-long genomic instability before clinical detection, and progress through dynamic changes in subclonal composition, cellular state, and ecological organization. These findings challenge the assumption underlying morphology-based prediction models that metastatic risk can be inferred from static histological features alone. Here, we revisit lymph-node metastasis prediction in colorectal cancer through clonal ecology, integrating computational pathology with evolutionary oncology. Drawing on the subclonal switchboard model proposed in 2012 and subsequent artificial intelligence (AI)-enabled approaches for tracking dominant and dormant subclones, we synthesize evidence that metastatic potential reflects clonal ancestry, evolutionary timing, spatial niche architecture, cellular plasticity, intercellular interactions, dormancy, and treatment-driven shifts in subclonal fitness. We define five complementary methodological pillars for operationalizing clonal ecology: single-cell transcriptomics for resolving rare subclones, evolutionary trajectories, and adaptive cell states; lineage tracing and phylogenetics for reconstructing clonal ancestry and divergence; spatial transcriptomics and genomics for mapping subclonal geography and tumor-stromal-immune interactions; longitudinal liquid biopsy surveillance for monitoring residual disease, clonal turnover, and emerging resistance; and AI-enabled multimodal integration for connecting histopathology, genomics, spatial biology, and longitudinal data into predictive ecological-state models. Multiple-instance learning and pathology foundation models provide scalable computational foundations for evolution-aware prediction. Translationally, dormant subclones represent actionable reservoirs of recurrence. A longitudinal clinical and experimental study of KMT2A-rearranged acute myeloid leukemia further supports central predictions of the subclonal switchboard framework by demonstrating treatment-associated shifts in subclonal dominance, persistence of cryptic adaptive programs, and ecological rewiring during resistance and relapse. We propose clonal ecology as a measurable dimension for extending morphology-driven prediction toward integrative models that anticipate evolutionary transitions, identify therapeutic windows, and proactively constrain adaptive tumor ecosystems before resistant or metastatic subclones achieve clinical dominance.",
-      "journal": "Stem cells and development",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "USC Norris Comprehensive Cancer Center, University of Southern California, Los Angeles, California, USA.",
-        "Cornell University, Irvine, California, USA.",
-        "IIA, Irvine, California, USA.",
-        "Department of Neurology, Irvine School of Medicine, University of California, Orange, California, USA.",
-        "CHOC Children's Research Institute, Children's Hospital of Orange County (CHOC®), Rady Children's Health Orange County (RCHOC®), Orange, California, USA."
-      ],
-      "doi": "10.1177/15473287261475554",
-      "date": "2026-08-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42598790/"
-    },
-    {
-      "pmid": "42598003",
-      "title": "Emergence of KRAS mosaicism with multiple variants during treatment with alectinib in ALK-positive metastatic non-small cell lung cancer: A case report.",
-      "abstract": "ALK fusions occur in 3-6% of lung cancers and confer sensitivity to ALK-tyrosine kinase inhibitors. However, acquired resistance inevitably develops through multiple mechanisms, limiting the durability of the treatment response. The present report describes the case of a 36-year-old man with ALK-rearranged lung adenocarcinoma treated with the second-generation ALK-tyrosine kinase inhibitor alectinib. At the time of disease progression, molecular analysis revealed the emergence of a KRAS mosaicism. The present report details the molecular evolution of the tumor, from the initial diagnosis to treatment failure. The current report illustrates a compelling mechanism of resistance to ALK inhibition driven by the synchronous emergence of multiple KRAS variants. While previous case reports have documented an isolated KRAS mutation as a potential resistance mechanism to ALK-tyrosine kinase inhibitor therapy, to the best of our knowledge, this is the first report describing such extensive KRAS mosaicism upon failure of alectinib treatment. The present report highlights the importance of reevaluating the molecular profile of the cancer at the time of progression to accurately define the resistance pathway and develop rational therapeutic strategies capable of overcoming this resistance.",
-      "journal": "Oncology letters",
-      "publicationTypes": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "affiliations": [
-        "University of Lille, Inserm (French National Institute of Health and Medical Research), Lille Regional University Hospital Center, French National Centre for Scientific Research, Oscar Lambret Center, Joint Research Unit 9020-CANTHER-Cancer Heterogeneity, Plasticity and Resistance to Therapies, 59000 Lille, France.",
-        "Department of Biopathology, Lorraine Institute of Cancerology/Nancy Regional University Hospital, 54519 Vandœuvre-lès-Nancy, France.",
-        "Department of Pulmonary Medicine, Nancy Regional University Hospital, 54511 Vandœuvre-lès-Nancy, France.",
-        "Department of Cancer Biology, Lorraine Institute of Cancerology, Centre National de la Recherche Scientifique, Joint Research Unit 7039, Nancy Research Center for Automatic Control, University of Lorraine, 54519 Vandoeuvre-lès-Nancy, France."
-      ],
-      "doi": "10.3892/ol.2026.15803",
-      "date": "2026-08-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42598003/"
-    },
-    {
-      "pmid": "42597984",
-      "title": "The CD73-adenosine axis in melanoma: from multidimensional regulation to precision immunotherapy.",
-      "abstract": "The therapeutic landscape of advanced melanoma has been transformed by immune checkpoint inhibitors (ICIs); however, primary and acquired resistance remain formidable challenges for a substantial subset of patients. Emerging evidence identifies the CD73-adenosine axis as a critical \"metabolic immune checkpoint\" that orchestrates an immunosuppressive tumor microenvironment (TME). This review systematically explores the biochemical cascade in which extracellular ATP is converted into immunosuppressive adenosine by the sequential action of ectonucleotidases CD39 and CD73. We detail the multidimensional regulation of CD73 expression, driven by a convergence of environmental stressors such as hypoxia-stabilized HIF-1α, oncogenic MAPK signaling, and pro-inflammatory cytokines including TGF-β and TNF-α. Furthermore, we evaluate the clinical utility of CD73 as a prognostic and predictive biomarker, highlighting the dichotomous significance of its expression on tumor versus immune cells and the potential of liquid biopsy-based monitoring via soluble CD73 activity and melanoma-derived exosomes (MTEX). Finally, we discuss therapeutic strategies to dismantle this metabolic barrier, ranging from monoclonal antibodies and small-molecule inhibitors to synergistic combinations with ICIs, targeted therapies, and next-generation cellular engineering utilizing CRISPR/Cas9-mediated gene editing. Integrating adenosinergic blockade into the framework of precision immuno-oncology represents a pivotal dimension in overcoming treatment resistance and improving clinical outcomes for patients with melanoma.",
-      "journal": "Frontiers in immunology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Huzhou Central Hospital, Fifth School of Clinical Medicine of Zhejiang Chinese Medical University, Huzhou, China.",
-        "Huzhou Central Hospital, Affiliated Central Hospital of Huzhou University, Huzhou, China.",
-        "Soochow University, Suzhou, China.",
-        "Department of Dermatology, First Affiliated Hospital of Huzhou University, Huzhou, China."
-      ],
-      "doi": "10.3389/fimmu.2026.1839832",
-      "date": "2026-07-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42597984/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42601460",
+      "date": "2026-08-14",
+      "title": "From pixels to patterns: the AI revolution in stem cell-derived models.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601460/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature methods，PMID 为 42601460。",
+      "report": "Artificial intelligence (AI) is rapidly transforming stem cell and developmental biology, offering new strategies to analyze, interpret and optimize complex, dynamic systems such as organoids and stem cell-derived embryo models. In this Perspective, we chart t...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42601449",
+      "date": "2026-08-14",
+      "title": "Acbd7 is essential for preserving hair cell-mediated auditory and vestibular function.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601449/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Experimental & molecular medicine，PMID 为 42601449。",
+      "report": "Understanding the molecular basis of hair cell function is essential for elucidating inner ear physiology and developing therapies for auditory-vestibular disorders. Here, we identify acyl-CoA binding domain-containing 7 (Acbd7) as a hair cell-specific gene cr...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42600904",
       "date": "2026-08-14",
@@ -576,110 +651,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42600493",
-      "date": "2026-08-14",
-      "title": "Application of dual-view oblique plane microscopy to small-molecule compound screening across 3D glioblastoma stem cell spheroids with single-cell resolution.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42600493/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 SLAS discovery : advancing life sciences R & D，PMID 为 42600493。",
-      "report": "Recent advances and increasing adoption of 3-dimensional (3D) model systems, such as tumour spheroids and organoids, attempt to more faithfully recapitulate the pathophysiology and heterogeneity observed in patients' tumours, with the goal of reducing high att...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42600359",
-      "date": "2026-08-14",
-      "title": "Phenotype-driven screening of semi-synthetic terpene analogs identifies TRX-41 as a lead compound active in chemotherapy-resistant breast cancer organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42600359/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie，PMID 为 42600359。",
-      "report": "Natural products remain an important source of anticancer agents, yet identifying pharmacological vulnerabilities in chemotherapy-refractory tumors remains a major challenge. Natural terpenes (NT) represent one of the most structurally diverse classes of bioac...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42599949",
-      "date": "2026-08-14",
-      "title": "A chemically optimized, GalNAc-conjugated siRNA targeting HSD17B13 demonstrates efficacy in a human 3D organoid model of MASH, showcasing an alternative to animal testing.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42599949/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 PloS one，PMID 为 42599949。",
-      "report": "Animal models have limited ability to predict human metabolically dysfunction-associated steatohepatitis (MASH), creating a major obstacle in drug development. To address this challenge, we introduce an integrated drug discovery approach that combines rational...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42601009",
       "date": "2026-08-14",
       "title": "The Redox Code of Diabetic Retinopathy: Decoding Metabolic Memory, Predicting Fate, and Targeting Heterogeneity.",
@@ -737,38 +708,6 @@
       "fact": "PubMed 记录显示该文献收录于 Cellular signalling，PMID 为 42600715。",
       "report": "Postoperative recurrence and hematogenous metastasis remain major barriers to long-term survival in hepatocellular carcinoma (HCC). Mesenchymal circulating tumor cells (mCTCs) are closely associated with HCC recurrence and metastasis, yet the key regulatory me...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42598790",
-      "date": "2026-08-14",
-      "title": "Beyond Morphology: Reframing Lymph-Node Metastasis Prediction Through Clonal Ecology-Decades-Long Genomic Instability and Polyclonal-to-Monoclonal Transitions as the Missing Dimension in Cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42598790/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cells and development，PMID 为 42598790。",
-      "report": "Recent whole-genome, lineage-tracing, single-cell, and spatial studies have reshaped our understanding of tumor evolution, revealing that cancers can arise from polyclonal populations, undergo decades-long genomic instability before clinical detection, and pro...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -860,34 +799,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42600377",
-      "date": "2026-08-07",
-      "title": "Development of tetrahydroquinazoline compounds as Fusion protein inhibitors for the treatment of respiratory syncytial virus.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42600377/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 European journal of medicinal chemistry，PMID 为 42600377。",
-      "report": "Respiratory syncytial virus (RSV) is one of the leading causes of severe respiratory infections worldwide, particularly in pediatric and elderly populations. The RSV Fusion (F) protein, essential for viral entry and syncytium formation, represents a prime targ...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42567392",
       "date": "2026-08-07",
       "title": "Local energetic frustration: Protein evolution, conformational dynamics and design in the age of AI.",
@@ -971,16 +882,130 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42598003",
-      "date": "2026-08-05",
-      "title": "Emergence of KRAS mosaicism with multiple variants during treatment with alectinib in ALK-positive metastatic non-small cell lung cancer: A case report.",
+      "id": "pubmed-42601972",
+      "date": "2026-07-31",
+      "title": "Human relevant platforms for cutaneous wound healing research: current landscape, translational gaps, and emerging frontiers.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601972/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42601972。",
+      "report": "Cutaneous wound healing is a dynamic, multicellular process that unfolds across four interrelated phases - haemostasis, inflammation, proliferation, and remodellingeach governed by precise intercellular signalling that remains incompletely understood in its hu...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42601939",
+      "date": "2026-07-31",
+      "title": "Neurogenesis defects in iPSC-derived midbrain organoids of early-onset Parkinson's disease with 22q11.2 deletion syndrome.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601939/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in cellular neuroscience，PMID 为 42601939。",
+      "report": "Sporadic Parkinson's disease (PD) is typically a late-onset disorder caused by a combination of genetics, environment, and aging, manifesting when the loss of midbrain dopaminergic neurons exceeds a critical threshold, usually after the age of 50. Conversely,...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42602029",
+      "date": "2026-07-31",
+      "title": "Fungal extracellular vesicles as biomarkers in candidiasis: biogenesis, virulence, and CNS diagnostic applications.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42602029/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42602029。",
+      "report": "Invasive candidiasis remains a life-threatening infection with mortality rates reaching 40-55%, yet current gold-standard diagnostics such as blood culture are often slow and insensitive. This review evaluates fungal extracellular vesicles (EVs) as both mechan...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42601904",
+      "date": "2026-07-31",
+      "title": "Dynamic circulating tumor DNA profiling of ESR1 mutations in HR+/HER2- advanced breast cancer: from prognostic biomarker to clinical decision-making - a comprehensive review.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601904/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42601904。",
+      "report": "The combination of CDK4/6 inhibitors (CDK4/6i) and endocrine therapy (ET) is the standard first-line regimen for hormone receptor-positive, human epidermal growth factor receptor 2-negative (HR+/HER2-) metastatic breast cancer (MBC). Resistance remains a chall...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42601892",
+      "date": "2026-07-31",
+      "title": "Longitudinal monitoring of circulating tumor cell phenotypic conversion as a predictor of late recurrence in breast cancer: a prospective feasibility study using the GenoCTC platform.",
       "entity": "Biotech Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "General Biotech Research",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42598003/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601892/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -993,8 +1018,8 @@
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Oncology letters，PMID 为 42598003。",
-      "report": "ALK fusions occur in 3-6% of lung cancers and confer sensitivity to ALK-tyrosine kinase inhibitors. However, acquired resistance inevitably develops through multiple mechanisms, limiting the durability of the treatment response. The present report describes th...",
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42601892。",
+      "report": "Patients with hormone receptor-positive (HR+) breast cancer faces a persistent, constant risk of distant recurrence for over 20 years. This proof-of-concept study evaluated the clinical utility of circulating tumor cell (CTCs) monitoring using the GenoCTC® pla...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1030,36 +1055,6 @@
       "fact": "PubMed 记录显示该文献收录于 Science bulletin，PMID 为 42580899。",
       "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42597984",
-      "date": "2026-07-30",
-      "title": "The CD73-adenosine axis in melanoma: from multidimensional regulation to precision immunotherapy.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42597984/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42597984。",
-      "report": "The therapeutic landscape of advanced melanoma has been transformed by immune checkpoint inhibitors (ICIs); however, primary and acquired resistance remain formidable challenges for a substantial subset of patients. Emerging evidence identifies the CD73-adenos...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
