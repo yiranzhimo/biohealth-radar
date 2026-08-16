@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-16T07:02:25.046489+00:00",
+  "capturedAt": "2026-08-16T13:03:16.756632+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-16"
   },
   "pmids": [
+    "42604221",
+    "42603919",
     "42603543",
     "42603286",
     "42602786",
     "42602118",
-    "42601972",
-    "42601939",
     "42600555",
     "42580899",
     "42559559",
@@ -32,14 +32,49 @@
     "42567392",
     "42564489",
     "42561121",
+    "42604142",
     "42603675",
     "42602251",
     "42602029",
     "42601904",
-    "42601892",
-    "42601275"
+    "42601892"
   ],
   "records": [
+    {
+      "pmid": "42604221",
+      "title": "Progress in high-throughput screening for drug and material discovery in orthopedic diseases: a literature review.",
+      "abstract": "Orthopedic diseases are referred to as a series of conditions affecting the normal structure and function of the skeletal system. With a wide variety of types and a year-by-year increasing incidence, they have a severe impact on patients' quality of life. Traditional research has made relatively significant progress in understanding the pathogenesis and treating orthopedic diseases, however, it remains constrained by limitations such as low-throughput experimentation, and difficulty in mimicking the complex bone microenvironment. In recent years, high-throughput screening (HTS) technology has been combined with experimental techniques and models (such as microfluidics, omics technologies, 3D bioprinting, artificial intelligence, and organoid models), which can be used to better simulate the real bone microenvironment and predict molecular activity. This combined approach has not only deepened our understanding of the mechanisms of orthopedic diseases, but also broken through the limitations of traditional drug development, which further accelerates drug discovery and clinical translation. This review aims to systematically summarize the research progress and applications of HTS in typical orthopedic diseases, including osteoporosis, osteoarthritis, bone defects, and bone tumors, to promote the development and clinical translation of novel therapeutic strategies for orthopedic disorders, and to provide references and guidance for researchers in orthopedic basic research, drug development, regenerative medicine, and clinical orthopedic practice. Accordingly, this review is intended for orthopedic researchers, clinicians and biomaterial scientists focusing on high-throughput screening and orthopedic therapeutic development.",
+      "journal": "PeerJ",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Emergency Department, The Affiliated Hospital of Guizhou Medical University, Guiyang, Guizhou, China.",
+        "Clinical Medical College, Guizhou Medical University, Guiyang, China."
+      ],
+      "doi": "10.7717/peerj.21587",
+      "date": "2026-08-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604221/"
+    },
+    {
+      "pmid": "42603919",
+      "title": "Metabolic reprogramming in pancreatic cancer: interplay of glucose, lipid, and amino acid metabolism in tumor progression.",
+      "abstract": "Pancreatic cancer is one of the most malignant solid tumors, with a five-year survival rate of less than 10%. The therapeutic challenges primarily stem from difficulties in early diagnosis, high heterogeneity, and extensive resistance to chemotherapy, targeted therapy, and immunotherapy. Recent studies have revealed that metabolic reprogramming, a core hallmark of cancer, is a key mechanism driving the malignant phenotype of pancreatic cancer, persisting throughout its initiation, progression, and development of treatment resistance. This article systematically reviews the molecular mechanisms underlying the dysregulation of three major nutrient metabolic pathways-glucose, lipid, and amino acid metabolism-and their interconnected regulatory networks. Regarding glucose metabolism, enhanced aerobic glycolysis and PPP activation collectively support tumor growth, redox maintenance, and microenvironmental remodeling, whereas lactate accumulation further contributes to immune evasion. Lipid metabolic reprogramming is characterized by coordinated alterations in de novo synthesis, fatty acid oxidation, and cholesterol homeostasis, which collectively regulate membrane remodeling, stemness maintenance, and therapeutic resistance. Amino acid metabolism is characterized by glutamine dependency and branched-chain amino acid metabolic reprogramming, which collectively support biosynthesis, redox homeostasis, and tumor adaptation. These three major metabolic pathways do not operate in isolation but form a dynamic, interconnected network. This network confers robust metabolic plasticity and adaptability to the tumor, constituting a fundamental basis for treatment resistance. Concurrently, stromal cells and immune cells within the tumor microenvironment also undergo metabolic reprogramming, forming a metabolic symbiotic system with cancer cells that further exacerbates treatment resistance. Although combination strategies targeting metabolic pathways-such as glycolysis inhibitors combined with gemcitabine, statins synergizing with chemotherapy, or metabolic interventions combined with immunotherapy-have shown promise in preclinical models, clinical translation remains challenging. These challenges arise from multiple factors, including tumor heterogeneity, metabolic compensation, drug delivery limitations, and the complexity of the tumor microenvironment. Future efforts should integrate single-cell metabolomics, organoid models, and multimodal imaging technologies to advance precision therapy based on metabolic subtyping. Additionally, the development of novel nanodelivery systems and multi-target combination regimens is needed to bridge the gap from mechanistic understanding to clinical application. Metabolic intervention holds potential not only for advanced-stage treatment but also for chemoprevention at the precancerous lesion stage, offering a novel approach to improving the prognosis of pancreatic cancer.",
+      "journal": "Cytotechnology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of General Surgery, The First Hospital of Lanzhou University, Ward 4, Lanzhou, 730000 Gansu China.",
+        "Gansu Institute of Hepatobiliary and Pancreatic Surgery, Lanzhou, 730000 Gansu China.",
+        "Pathology Diagnostic Center, Gansu Provincial Maternity and Child-care Hospital, Gansu Provincial Central Hospital, Lanzhou, Gansu, 730000 China."
+      ],
+      "doi": "10.1007/s10616-026-01052-1",
+      "date": "2026-08-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603919/"
+    },
     {
       "pmid": "42603543",
       "title": "Role of non-animal 3D models in H. pylori associated gastric carcinogenesis: Insights and future perspectives.",
@@ -120,42 +155,6 @@
       "doi": "10.34133/research.1374",
       "date": "2026-08-14",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42602118/"
-    },
-    {
-      "pmid": "42601972",
-      "title": "Human relevant platforms for cutaneous wound healing research: current landscape, translational gaps, and emerging frontiers.",
-      "abstract": "Cutaneous wound healing is a dynamic, multicellular process that unfolds across four interrelated phases - haemostasis, inflammation, proliferation, and remodellingeach governed by precise intercellular signalling that remains incompletely understood in its human context. Animal models and two-dimensional cell cultures have shaped much of what we know about wound biology, yet both consistently fall short when the question moves from mechanism to translation. They fail to capture the structural organisation of human skin, the particular rhythms of human immune activation and resolution, and above all the multifactorial pathology that makes chronic wounds-diabetic foot ulcers especially, so resistant to treatment. This review traces the development of human-relevant alternative models as a coherent scientific response to those failures: from scratch assays and monocultures through to three-dimensional reconstructed equivalents, organoid platforms, ex vivo tissue preparations, and skin-on-a-chip systems capable of dynamic perfusion and real-time wound monitoring. We assess each class of model not simply on its merits but on what specific biological gap it was designed to close and what gaps remain. Emerging analytical frameworks-multi-omics integration, spatial transcriptomics, microbiome and biofilm modelling, multi-organ-on-a-chip architectures, artificial intelligence, and neuro-immune crosstalk -are examined as the next Frontier. These findings show that no single platform will resolve the translational deficit; what is required is a deliberately combinatorial paradigm in which complementary systems are deployed in tiered sequence, each contributing the biological information it is best positioned to generate.",
-      "journal": "Frontiers in bioengineering and biotechnology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Marine Biotechnology and Bioproducts Laboratory, Department of Bio-Medical Sciences, School of Bio Sciences and Technology, VIT, Vellore, Tamil Nadu, India."
-      ],
-      "doi": "10.3389/fbioe.2026.1917429",
-      "date": "2026-07-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601972/"
-    },
-    {
-      "pmid": "42601939",
-      "title": "Neurogenesis defects in iPSC-derived midbrain organoids of early-onset Parkinson's disease with 22q11.2 deletion syndrome.",
-      "abstract": "Sporadic Parkinson's disease (PD) is typically a late-onset disorder caused by a combination of genetics, environment, and aging, manifesting when the loss of midbrain dopaminergic neurons exceeds a critical threshold, usually after the age of 50. Conversely, early-onset PD, as observed in cases linked to parkin (PRKN) gene mutations, suggests mechanisms involving either accelerated postnatal neuron loss or an insufficient number of neurons at birth. Patients with the 22q11.2 deletion syndrome (DS) have a significantly higher prevalence of early-onset PD. The absence of known genes associated with hereditary PD in the deleted region suggests the involvement of novel, non-traditional risk factors. This could potentially implicate the neurodevelopmental origin of dopaminergic neurons arising from the floor plate. To investigate this hypothesis, we generated midbrain organoids from induced pluripotent stem cells derived from a patient with 22q11.2 DS. The organoids recapitulated key aspects of in vivo neurogenesis, revealing enhanced differentiation of dopaminergic neurons in 22q11.2DS- and PRKN-derived organoids compared to controls on days 28 and 56 of culture. These findings suggest that, in early-onset PD patients with 22q11.2 DS or PRKN mutation, enhanced neurogenesis could result in reduced number of dopaminergic neurons during early development. The organoids of early-onset PD demonstrated that progenitors undergo enhanced differentiation at an early stage. This suggests that the atypical developmental process could reduce progenitors before there are enough mature dopaminergic neurons. This in turn indicates that the onset of PD may occur as early as the embryonic stage.",
-      "journal": "Frontiers in cellular neuroscience",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Neurology, Kansai Medical University, Hirakata, Japan.",
-        "Department of iPS Cell Applied Medicine, Graduate School of Medicine, Kansai Medical University, Hirakata, Osaka, Japan.",
-        "iPSC-based Drug Discovery and Development Team, RIKEN BioResource Research Center (BRC), Kyoto, Japan.",
-        "Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto, Japan.",
-        "Medical-Risk Avoidance Based on iPS Cells Team, RIKEN Center for Advanced Intelligence Project (AIP), Kyoto, Japan.",
-        "Department Neurology, Medical Research Institute Kitano Hospital, Osaka, Japan."
-      ],
-      "doi": "10.3389/fncel.2026.1906023",
-      "date": "2026-07-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601939/"
     },
     {
       "pmid": "42600555",
@@ -381,6 +380,25 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42561121/"
     },
     {
+      "pmid": "42604142",
+      "title": "Circulating miRNAs for glioblastoma monitoring: from biofluid to clinical decision.",
+      "abstract": "Gliomas, particularly glioblastoma (GBM), remain highly lethal brain tumors with limited treatments. MRI-based monitoring lacks specificity in distinguishing progression from treatment effects. Circulating microRNAs (miRNAs), small non-coding RNAs involved in tumor biology, show promise as liquid biopsy biomarkers. We searched PubMed, Embase, Scopus, and Web of Science for clinical studies investigating circulating miRNAs as diagnostic, prognostic, or predictive biomarkers in glioma, across plasma, serum, and cerebrospinal fluid (CSF). Oncogenic miRNAs (oncomiRs) such as miR-21, miR-10b, miR-182, and miR-210 were consistently upregulated in glioma patients, whereas tumor suppressors including miR-124, miR-128, miR-137, and miR-181 family members were downregulated. Prognostically, elevated miR-21, miR-222, and miR-196b correlated with poor survival, while reduced miR-181d, miR-100, and miR-145 predicted worse outcomes. Composite signatures, particularly exosomal or CSF-derived panels, outperformed single markers. Dynamic changes in miR-21, miR-222, and miR-210 reflected treatment response or progression, with exosomal miR-1238 emerging as a marker of temozolomide resistance. Longitudinal serum levels of miR-223 and miR-320e correlated with MRI tumor volume and distinguished true progression from pseudo-progression. Circulating miRNAs show strong potential as minimally invasive biomarkers for glioma management, but clinical translation remains limited by technical and biological variability and lack of validation. Advances in biosensors, multi-omics, and standardization are key to clinical integration.",
+      "journal": "Molecular therapy. Oncology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Université de Caen Normandie, CNRS, Normandie Université, ISTCT UMR6030, GIP CYCERON, 14000 Caen, France.",
+        "Centre Hospitalier Universitaire de Caen, Service de Neurochirurgie, 14000 Caen, France.",
+        "INSERM, U1237, PhIND \"Physiopathology and Imaging of Neurological Disorders,\" Institut Blood and Brain @ Caen-Normandie, Cyceron, 14000 Caen, France.",
+        "Centre Hospitalier Universitaire de Caen, Service d'Anatomie et Cytologie Pathologiques, 14000 Caen, France."
+      ],
+      "doi": "10.1016/j.omton.2026.201308",
+      "date": "2026-07-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604142/"
+    },
+    {
       "pmid": "42603675",
       "title": "Identification of candidate microRNA biomarkers of mouse cholangiocyte injury by global miRNAome analysis.",
       "abstract": "Drug-induced liver injury (DILI) remains an issue in clinical and drug development settings causing large financial and health issues. This is in part due to the poor specificity and sensitivity of current standard circulating liver enzyme biomarkers, and research is ongoing to characterize more suitable novel candidates. Despite accounting for a small proportion of total liver cells, biliary epithelial cholangiocytes are vital to hepatic homeostasis due to their role in exporting toxic bile acids. Up to 40% of DILI cases can involve the biliary tract, yet much of the research for novel biomarkers has focused on hepatocellular injury, with miR-122 especially showing promise. We aimed to investigate novel microRNA (miR) biomarkers for cholangiocyte DILI. Characterization of basal murine hepatocyte and cholangiocyte miR profiles showed distinct expressions, which led to selection of a panel of cholangiocyte-enriched biomarker candidates, miR-200a-3p, miR-200b-3p, miR-200c-3p, miR-141-3p and miR-429-3p. This panel was then evaluated in an α-Naphthyl isocyanate (ANIT) CD-1 mouse in vivo model of biliary toxicity. Liver phenotype and serum enzymes indicated that ANIT initially caused biliary perturbation before later progressing into wider hepatic injury. At 24-h following ANIT administration, during the biliary damage phase, miR-200a-3p showed the most consistent elevations in serum as per liquid biopsy vs controls, indicating a large dynamic range. No meaningful changes in serum miR-122-5p were evident until 48-h post-dose, once hepatocellular damage was taking place. miR expression differences were incorporated into a miR ratio calculation previously reported in a clinical DILI cohort, and results were able to successfully distinguish cholestatic or hepatocellular patterns of injury. This novel panel of cholangiocyte-selective miR-200 family members should be further investigated in larger cholestatic DILI cohorts, with miR-200a-3p in particular showing potential as a sensitive circulating marker of biliary toxicity with serum increases that precede miR-122-5p and hepatocellular damage.",
@@ -478,25 +496,6 @@
       "doi": "10.3389/fonc.2026.1903915",
       "date": "2026-07-31",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601892/"
-    },
-    {
-      "pmid": "42601275",
-      "title": "The future of blood-based biomarkers in liver cancer.",
-      "abstract": "Liquid biomarkers hold substantial promise in liver cancer, with potential applications in risk stratification, surveillance and early detection, therapeutic decision-making, and treatment-response monitoring. In parallel with oncologic advances, liquid biopsy has gained increasing attention. However, despite expanded research efforts, prospective clinical validation remains limited. While cell-free DNA-based detection of actionable alterations has entered clinical practice in select contexts, most candidate liquid biomarkers still require rigorous evaluation through translational research embedded in clinical trials and prospective cohort studies. In this review, we summarise the current landscape of blood-based biomarkers across the cancer care continuum for individuals at risk, or diagnosed with hepatocellular carcinoma and biliary tract cancers, and discuss the key challenges and opportunities that lie ahead.",
-      "journal": "Journal of hepatology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Internal Medicine, UT Southwestern Medical Center, Dallas TX, USA. Electronic address: amit.singal@utsouthwestern.edu.",
-        "Department of Gastroenterology, Hepatology, Infectious Diseases and Endocrinology, Hannover Medical School, Hannover, Germany.",
-        "Division of Gastroenterology and Hepatology, University of Michigan, Ann Arbor, MI, USA.",
-        "Department of Liver and Gastrointestinal Diseases, Biogipuzkoa Health Research Institute - Donostia University Hospital -, University of the Basque Country (UPV/EHU), Ikerbasque, CIBERehd, San Sebastian, Spain; Department of Biochemistry and Genetics, School of Sciences, University of Navarra, Pamplona, Spain."
-      ],
-      "doi": "10.1016/j.jhep.2026.03.040",
-      "date": "2026-07-02",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601275/"
     }
   ],
   "signals": [
@@ -593,6 +592,42 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42603919",
+      "date": "2026-08-14",
+      "title": "Metabolic reprogramming in pancreatic cancer: interplay of glucose, lipid, and amino acid metabolism in tumor progression.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603919/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cytotechnology，PMID 为 42603919。",
+      "report": "Pancreatic cancer is one of the most malignant solid tumors, with a five-year survival rate of less than 10%. The therapeutic challenges primarily stem from difficulties in early diagnosis, high heterogeneity, and extensive resistance to chemotherapy, targeted...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42602118",
       "date": "2026-08-14",
       "title": "Human Organoids Reveal PTEN-Driven Mesendoderm Specification via Retinoic Acid Signaling Suppression.",
@@ -620,6 +655,43 @@
       "fact": "PubMed 记录显示该文献收录于 Research (Washington, D.C.)，PMID 为 42602118。",
       "report": "During early embryogenesis, epiblast cells ingress through the primitive streak (PS) to adopt a mesendoderm (MES) fate, giving rise to both mesodermal and endodermal lineages. Robust systems that accurately recapitulate MES specification-and thereby enable a c...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42604221",
+      "date": "2026-08-12",
+      "title": "Progress in high-throughput screening for drug and material discovery in orthopedic diseases: a literature review.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604221/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 PeerJ，PMID 为 42604221。",
+      "report": "Orthopedic diseases are referred to as a series of conditions affecting the normal structure and function of the skeletal system. With a wide variety of types and a year-by-year increasing incidence, they have a severe impact on patients' quality of life. Trad...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -791,64 +863,6 @@
       "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 42561121。",
       "report": "Claudins regulate molecular transport between cells via the paracellular route at tight junctions in epithelial and endothelial tissues and are prime targets for biologic therapies. Claudin-claudin interactions through their extracellular segments facilitate f...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42601972",
-      "date": "2026-07-31",
-      "title": "Human relevant platforms for cutaneous wound healing research: current landscape, translational gaps, and emerging frontiers.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601972/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42601972。",
-      "report": "Cutaneous wound healing is a dynamic, multicellular process that unfolds across four interrelated phases - haemostasis, inflammation, proliferation, and remodellingeach governed by precise intercellular signalling that remains incompletely understood in its hu...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42601939",
-      "date": "2026-07-31",
-      "title": "Neurogenesis defects in iPSC-derived midbrain organoids of early-onset Parkinson's disease with 22q11.2 deletion syndrome.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601939/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in cellular neuroscience，PMID 为 42601939。",
-      "report": "Sporadic Parkinson's disease (PD) is typically a late-onset disorder caused by a combination of genetics, environment, and aging, manifesting when the loss of midbrain dopaminergic neurons exceeds a critical threshold, usually after the age of 50. Conversely,...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1064,6 +1078,38 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42604142",
+      "date": "2026-07-28",
+      "title": "Circulating miRNAs for glioblastoma monitoring: from biofluid to clinical decision.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604142/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular therapy. Oncology，PMID 为 42604142。",
+      "report": "Gliomas, particularly glioblastoma (GBM), remain highly lethal brain tumors with limited treatments. MRI-based monitoring lacks specificity in distinguishing progression from treatment effects. Circulating microRNAs (miRNAs), small non-coding RNAs involved in...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42497867",
       "date": "2026-07-25",
       "title": "UniPert-G2CP bridges genetic and chemical screens from molecular representation to phenotype modeling.",
@@ -1143,40 +1189,6 @@
       "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42498177。",
       "report": "Drug discovery for complex diseases has long been constrained by high developmental costs and suboptimal clinical transition rates. To bridge the \"translational gap\" between in vitro target screening and in vivo therapeutic efficacy, life science and pharmacol...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models, AI-enabled Discovery, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42601275",
-      "date": "2026-07-02",
-      "title": "The future of blood-based biomarkers in liver cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601275/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of hepatology，PMID 为 42601275。",
-      "report": "Liquid biomarkers hold substantial promise in liver cancer, with potential applications in risk stratification, surveillance and early detection, therapeutic decision-making, and treatment-response monitoring. In parallel with oncologic advances, liquid biopsy...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
