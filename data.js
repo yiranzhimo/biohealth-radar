@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-08-15",
+  "updatedAt": "2026-08-16",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -821,6 +821,84 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42603286",
+      "date": "2026-08-15",
+      "title": "Multi-Omics Integration Identifies a CDH3-Associated Malignant Epithelial State and Immunosuppressive Niche to Predict Prognosis in Thymic Epithelial Tumors.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603286/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42603286。",
+      "report": "Thymic epithelial tumors (TETs) are rare and heterogeneous malignancies whose aggressive epithelial states and microenvironmental organization remain poorly defined. Here, we integrated single-cell RNA sequencing, spatial transcriptomics, multiplex immunofluor...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_01128621ddfc1a87006a81197e04dc81998af7af384ec6b50e",
+        "reviewedAt": "2026-08-16T01:59:25.133529+00:00",
+        "inputHash": "b123807732a46c0d5dd0fb76b8c62c2e4c53e939d8370eeb9317d49cfb3d4129",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号的内容清晰，符合出版标准，无需人工审核。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要分类和子分类合理，符合文献内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断清晰分开，证据等级符合文献描述。"
+        },
+        "riskFlags": [
+          "insufficient_source",
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42603286。",
+          "report": "Thymic epithelial tumors (TETs) are rare and heterogeneous malignancies whose aggressive epithelial states and microenvironmental organization remain poorly defined. Here, we integrated single-cell RNA sequencing, spatial transcriptomics, multiplex immunofluor...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42602118",
       "date": "2026-08-14",
       "title": "Human Organoids Reveal PTEN-Driven Mesendoderm Specification via Retinoic Acid Signaling Suppression.",
@@ -961,80 +1039,6 @@ window.BHR_DATA = {
           ],
           "fact": "PubMed 记录显示该文献收录于 Nature methods，PMID 为 42601460。",
           "report": "Artificial intelligence (AI) is rapidly transforming stem cell and developmental biology, offering new strategies to analyze, interpret and optimize complex, dynamic systems such as organoids and stem cell-derived embryo models. In this Perspective, we chart t...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42601449",
-      "date": "2026-08-14",
-      "title": "Acbd7 is essential for preserving hair cell-mediated auditory and vestibular function.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601449/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Experimental & molecular medicine，PMID 为 42601449。",
-      "report": "Understanding the molecular basis of hair cell function is essential for elucidating inner ear physiology and developing therapies for auditory-vestibular disorders. Here, we identify acyl-CoA binding domain-containing 7 (Acbd7) as a hair cell-specific gene cr...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_058e002eed9ebf47006a80632be51087d2b9289e188ad405ff",
-        "reviewedAt": "2026-08-15T13:01:25.377475+00:00",
-        "inputHash": "cafefcfa40709dad8e5275b3afcc6f9b23c4546e956435aa1debcbe3340642dd",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献提到 Acbd7 在毛细胞的功能中至关重要，但未提供足够的研究质量或商业化状态的评估，可能需要人类判断。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "研究质量和临床相关性未被评估，影响分类合理性。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据级别被标记为中等，但缺乏对研究质量的评价。"
-        },
-        "riskFlags": [
-          "insufficient_source",
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Experimental & molecular medicine，PMID 为 42601449。",
-          "report": "Understanding the molecular basis of hair cell function is essential for elucidating inner ear physiology and developing therapies for auditory-vestibular disorders. Here, we identify acyl-CoA binding domain-containing 7 (Acbd7) as a hair cell-specific gene cr...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }

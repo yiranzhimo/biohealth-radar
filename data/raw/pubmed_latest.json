@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-15T18:49:13.410818+00:00",
+  "capturedAt": "2026-08-16T01:59:16.161912+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-08-15",
-    "end": "2026-08-15"
+    "start": "2025-08-16",
+    "end": "2026-08-16"
   },
   "pmids": [
+    "42603286",
     "42602786",
     "42602118",
     "42601972",
     "42601939",
     "42601460",
-    "42601449",
     "42600555",
     "42580899",
     "42559559",
@@ -40,6 +40,22 @@
     "42601009"
   ],
   "records": [
+    {
+      "pmid": "42603286",
+      "title": "Multi-Omics Integration Identifies a CDH3-Associated Malignant Epithelial State and Immunosuppressive Niche to Predict Prognosis in Thymic Epithelial Tumors.",
+      "abstract": "Thymic epithelial tumors (TETs) are rare and heterogeneous malignancies whose aggressive epithelial states and microenvironmental organization remain poorly defined. Here, we integrated single-cell RNA sequencing, spatial transcriptomics, multiplex immunofluorescence, bulk transcriptomics, functional assays, xenograft validation, and computational pathology to characterize malignant epithelial heterogeneity in TETs. We identified a CDH3-associated malignant epithelial state located at the origin of malignant-state trajectories and enriched for stem-like and EMT-related features. Spatial transcriptomics and multiplex immunofluorescence showed that CDH3+ tumor cells preferentially localized within an M2 macrophage-rich immunosuppressive niche, while cell-cell communication analyses nominated CCN2-LRP1 as a candidate epithelial-myeloid crosstalk axis. A 68-gene CDH3-associated signature stratified TCGA-THYM into biologically distinct subgroups with differences in survival, histology, genomic instability, and immune contexture. Patient-derived thymic carcinoma organoids showed elevated CDH3 expression, and CDH3 silencing suppressed thymic carcinoma cell proliferation, migration, invasion, EMT/PI3K-Akt-related signaling, and macrophage-associated crosstalk. Candidate inhibitors showed antitumor activity in xenograft models. We also established a deep learning pathology model that captured CDH3-associated morphology from routine H&E slides and predicted patient outcome. Together, these findings define CDH3 as a biomarker and therapeutic target linking malignant epithelial plasticity to immunosuppressive niche formation and adverse clinical behavior in TETs.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Thoracic Surgery, School of Medicine, Shanghai Pulmonary Hospital, Tongji University, Shanghai, China.",
+        "Department of Thoracic Surgery, Ningbo Second Hospital, Ningbo, China."
+      ],
+      "doi": "10.1002/advs.77153",
+      "date": "2026-08-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603286/"
+    },
     {
       "pmid": "42602786",
       "title": "The anti-diarrheal role of iron in piglets: Regulation of colonic goblet cell function.",
@@ -143,40 +159,6 @@
       "doi": "10.1038/s41592-026-03202-x",
       "date": "2026-08-14",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601460/"
-    },
-    {
-      "pmid": "42601449",
-      "title": "Acbd7 is essential for preserving hair cell-mediated auditory and vestibular function.",
-      "abstract": "Understanding the molecular basis of hair cell function is essential for elucidating inner ear physiology and developing therapies for auditory-vestibular disorders. Here, we identify acyl-CoA binding domain-containing 7 (Acbd7) as a hair cell-specific gene critical for sensory maintenance. Single-cell transcriptomics of mouse cochlear organoids revealed Acbd7 as a top hair cell-enriched transcript, with its spatiotemporal expression confirmed from embryonic development through adulthood in both auditory and vestibular hair cells. Acbd7‑deficient mice exhibited pronounced hair cell degeneration, characterized by synaptic defects and diminished calcium currents in inner hair cells and loss of outer hair cells. Transcriptomic and proteomic analyses linked Acbd7 to the regulation of Ca2+ signaling and fatty acid metabolism pathways. Our findings establish Acbd7 as a critical regulator of Ca2+ homeostasis and functional integrity in hair cells, thereby elucidating a key mechanism by which a fatty acid metabolism factor sustains hair cell function and providing potential therapeutic targets for inner ear disorders.",
-      "journal": "Experimental & molecular medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "ENT Institute and Department of Otorhinolaryngology, Eye and ENT Hospital, State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain Science, Fudan University, Shanghai, China.",
-        "Institutes of Biomedical Sciences, Fudan University, Shanghai, China.",
-        "NHC Key Laboratory of Hearing Medicine, Fudan University, Shanghai, China.",
-        "The Institutes of Brain Science and The Collaborative Innovation Center for Brain Science, Fudan University, Shanghai, China.",
-        "Shanghai Key Laboratory of Gene Editing and Cell Therapy for Rare Diseases, Fudan University, Shanghai, China.",
-        "School of Life Sciences, Zhejiang Chinese Medical University, Hangzhou, China.",
-        "ENT Institute and Department of Otorhinolaryngology, Eye and ENT Hospital, State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain Science, Fudan University, Shanghai, China. xiamy17@fudan.edu.cn.",
-        "Institutes of Biomedical Sciences, Fudan University, Shanghai, China. xiamy17@fudan.edu.cn.",
-        "NHC Key Laboratory of Hearing Medicine, Fudan University, Shanghai, China. xiamy17@fudan.edu.cn.",
-        "The Institutes of Brain Science and The Collaborative Innovation Center for Brain Science, Fudan University, Shanghai, China. xiamy17@fudan.edu.cn.",
-        "ENT Institute and Department of Otorhinolaryngology, Eye and ENT Hospital, State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain Science, Fudan University, Shanghai, China. hwli@shmu.edu.cn.",
-        "Institutes of Biomedical Sciences, Fudan University, Shanghai, China. hwli@shmu.edu.cn.",
-        "NHC Key Laboratory of Hearing Medicine, Fudan University, Shanghai, China. hwli@shmu.edu.cn.",
-        "The Institutes of Brain Science and The Collaborative Innovation Center for Brain Science, Fudan University, Shanghai, China. hwli@shmu.edu.cn.",
-        "Shanghai Key Laboratory of Gene Editing and Cell Therapy for Rare Diseases, Fudan University, Shanghai, China. hwli@shmu.edu.cn.",
-        "ENT Institute and Department of Otorhinolaryngology, Eye and ENT Hospital, State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain Science, Fudan University, Shanghai, China. wenyan_li@fudan.edu.cn.",
-        "Institutes of Biomedical Sciences, Fudan University, Shanghai, China. wenyan_li@fudan.edu.cn.",
-        "NHC Key Laboratory of Hearing Medicine, Fudan University, Shanghai, China. wenyan_li@fudan.edu.cn.",
-        "The Institutes of Brain Science and The Collaborative Innovation Center for Brain Science, Fudan University, Shanghai, China. wenyan_li@fudan.edu.cn.",
-        "Shanghai Key Laboratory of Gene Editing and Cell Therapy for Rare Diseases, Fudan University, Shanghai, China. wenyan_li@fudan.edu.cn."
-      ],
-      "doi": "10.1038/s12276-026-01812-1",
-      "date": "2026-08-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601449/"
     },
     {
       "pmid": "42600555",
@@ -527,6 +509,38 @@
   ],
   "signals": [
     {
+      "id": "pubmed-42603286",
+      "date": "2026-08-15",
+      "title": "Multi-Omics Integration Identifies a CDH3-Associated Malignant Epithelial State and Immunosuppressive Niche to Predict Prognosis in Thymic Epithelial Tumors.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603286/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42603286。",
+      "report": "Thymic epithelial tumors (TETs) are rare and heterogeneous malignancies whose aggressive epithelial states and microenvironmental organization remain poorly defined. Here, we integrated single-cell RNA sequencing, spatial transcriptomics, multiplex immunofluor...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42602118",
       "date": "2026-08-14",
       "title": "Human Organoids Reveal PTEN-Driven Mesendoderm Specification via Retinoic Acid Signaling Suppression.",
@@ -583,36 +597,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Nature methods，PMID 为 42601460。",
       "report": "Artificial intelligence (AI) is rapidly transforming stem cell and developmental biology, offering new strategies to analyze, interpret and optimize complex, dynamic systems such as organoids and stem cell-derived embryo models. In this Perspective, we chart t...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42601449",
-      "date": "2026-08-14",
-      "title": "Acbd7 is essential for preserving hair cell-mediated auditory and vestibular function.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601449/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Experimental & molecular medicine，PMID 为 42601449。",
-      "report": "Understanding the molecular basis of hair cell function is essential for elucidating inner ear physiology and developing therapies for auditory-vestibular disorders. Here, we identify acyl-CoA binding domain-containing 7 (Acbd7) as a hair cell-specific gene cr...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
