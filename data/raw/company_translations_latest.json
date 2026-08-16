@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_source_translations",
-  "capturedAt": "2026-08-15T04:59:35+00:00",
-  "sourceCapturedAt": "2026-08-15T04:59:27+00:00",
+  "capturedAt": "2026-08-16T05:03:27+00:00",
+  "sourceCapturedAt": "2026-08-16T05:03:18+00:00",
   "translationPolicyVersion": "company-source-zh-cn-v1",
   "translations": [
     {
@@ -1134,6 +1134,24 @@
       "translatedAt": "2026-08-11T05:38:11+00:00",
       "translationPolicyVersion": "company-source-zh-cn-v1",
       "responseId": "resp_0b2535da8e08e092006a7ab54417b0819db7b17cb395c03849"
+    },
+    {
+      "id": "translation-92c3fd51c55f3fed",
+      "sourceTextHash": "92c3fd51c55f3fedbdda36081e002f7fe4734d8fd0cbdd03142df7450929811c",
+      "sourceText": "This company's Exchange Act registration has been revoked",
+      "sourceUses": [
+        {
+          "companyId": "candidate-america-great-health",
+          "sourceRole": "official",
+          "field": "business_summary"
+        }
+      ],
+      "translationCn": "该公司的交易法注册已被撤销",
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "translatedAt": "2026-08-16T05:03:27+00:00",
+      "translationPolicyVersion": "company-source-zh-cn-v1",
+      "responseId": "resp_0d4f44e00171f872006a8144a03b8487d1803b7b2416b30e93"
     },
     {
       "id": "translation-9a417b079bdd18b3",
