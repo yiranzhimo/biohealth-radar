@@ -6384,6 +6384,76 @@
       "recentEvents": []
     },
     {
+      "companyId": "candidate-america-great-health",
+      "name": "America Great Health",
+      "asOfDate": "2026-08-16",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": "Public",
+        "ticker": "AAGH",
+        "exchange": "SEC",
+        "headquarters": null,
+        "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0001098009",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "cik": [
+            "0001098009"
+          ],
+          "ticker": [
+            "AAGH"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "Pharmaceutical Preparations"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Pharmaceutical Preparations；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-amgen",
       "name": "Amgen Inc",
       "asOfDate": "2026-08-16",
@@ -7822,76 +7892,6 @@
         "status": "provisional",
         "summaryType": "Unknown",
         "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Pharmaceutical Preparations；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": []
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [],
-        "inferences": [],
-        "unknowns": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
-        "programCandidateCount": 0,
-        "gaps": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": []
-    },
-    {
-      "companyId": "candidate-aptose-biosciences",
-      "name": "Aptose Biosciences Inc.",
-      "asOfDate": "2026-08-16",
-      "profileStatus": "seed_only",
-      "identity": {
-        "ownership": "Public",
-        "ticker": "APTOF",
-        "exchange": "SEC",
-        "headquarters": null,
-        "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0000882361",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "cik": [
-            "0000882361"
-          ],
-          "ticker": [
-            "APTOF"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "Biological Products, Except Diagnostic Substances"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Biological Products, Except Diagnostic Substances；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
         "summaryOriginal": null,
         "translationStatus": "not_applicable",
         "businessModel": [],
@@ -32908,7 +32908,7 @@
       "profileStatus": "seed_only",
       "identity": {
         "ownership": "Public",
-        "ticker": "JUSHF",
+        "ticker": "JUSH",
         "exchange": "SEC",
         "headquarters": null,
         "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0001909747",
@@ -32919,7 +32919,7 @@
             "0001909747"
           ],
           "ticker": [
-            "JUSHF"
+            "JUSH"
           ]
         },
         "websiteStatus": "market_page_pending_official_domain",
@@ -49492,7 +49492,7 @@
       "profileStatus": "seed_only",
       "identity": {
         "ownership": "Public",
-        "ticker": "ENZN",
+        "ticker": "VISK",
         "exchange": "SEC",
         "headquarters": null,
         "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0000727510",
@@ -49503,7 +49503,7 @@
             "0000727510"
           ],
           "ticker": [
-            "ENZN"
+            "VISK"
           ]
         },
         "websiteStatus": "market_page_pending_official_domain",

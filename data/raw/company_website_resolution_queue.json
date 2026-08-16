@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-08-15T03:58:02+00:00",
+  "capturedAt": "2026-08-16T04:03:39+00:00",
   "count": 591,
   "items": [
     {
@@ -1234,6 +1234,23 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-america-great-health",
+      "name": "America Great Health",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001098009",
+      "identifiers": {
+        "cik": [
+          "0001098009"
+        ],
+        "ticker": [
+          "AAGH"
+        ]
+      },
+      "sourceTypes": [
+        "Pharmaceutical Preparations"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-amgen",
       "name": "Amgen Inc",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0000318154",
@@ -1570,23 +1587,6 @@
       },
       "sourceTypes": [
         "Pharmaceutical Preparations"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-aptose-biosciences",
-      "name": "Aptose Biosciences Inc.",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0000882361",
-      "identifiers": {
-        "cik": [
-          "0000882361"
-        ],
-        "ticker": [
-          "APTOF"
-        ]
-      },
-      "sourceTypes": [
-        "Biological Products, Except Diagnostic Substances"
       ],
       "status": "needs_official_domain"
     },
@@ -6090,7 +6090,7 @@
           "0001909747"
         ],
         "ticker": [
-          "JUSHF"
+          "JUSH"
         ]
       },
       "sourceTypes": [
@@ -8971,7 +8971,7 @@
           "0000727510"
         ],
         "ticker": [
-          "ENZN"
+          "VISK"
         ]
       },
       "sourceTypes": [
