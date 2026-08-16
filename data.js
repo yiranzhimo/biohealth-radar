@@ -821,6 +821,83 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42603543",
+      "date": "2026-08-15",
+      "title": "Role of non-animal 3D models in H. pylori associated gastric carcinogenesis: Insights and future perspectives.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603543/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer treatment and research communications，PMID 为 42603543。",
+      "report": "Three-dimensional (3D) gastric organoids have become valuable experimental models for gastric cancer research, as they closely mirror tumour architecture, molecular features, and treatment responses. Unlike two-dimensional cultures and animal models, gastric o...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0a0acec3fee4a1d7006a81608b251c819ab0b4724affb5cd20",
+        "reviewedAt": "2026-08-16T07:02:34.420834+00:00",
+        "inputHash": "04ec83e04a71f85b83661451f8738bf7c8cdff701bae4d98f94e8bdacd3e03df",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录基于高可靠性来源，内容清晰分明。未有不当结论或建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，与来源内容匹配。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "来源信息明确且支持所声称的内容。"
+        },
+        "riskFlags": [
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cancer treatment and research communications，PMID 为 42603543。",
+          "report": "Three-dimensional (3D) gastric organoids have become valuable experimental models for gastric cancer research, as they closely mirror tumour architecture, molecular features, and treatment responses. Unlike two-dimensional cultures and animal models, gastric o...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42603286",
       "date": "2026-08-15",
       "title": "Multi-Omics Integration Identifies a CDH3-Associated Malignant Epithelial State and Immunosuppressive Niche to Predict Prognosis in Thymic Epithelial Tumors.",
@@ -899,6 +976,76 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "pubmed-42603675",
+      "date": "2026-08-15",
+      "title": "Identification of candidate microRNA biomarkers of mouse cholangiocyte injury by global miRNAome analysis.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603675/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Toxicology and applied pharmacology，PMID 为 42603675。",
+      "report": "Drug-induced liver injury (DILI) remains an issue in clinical and drug development settings causing large financial and health issues. This is in part due to the poor specificity and sensitivity of current standard circulating liver enzyme biomarkers, and rese...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_08a57cb94d4f6d2a006a81609187d08199896f3257fba06cfc",
+        "reviewedAt": "2026-08-16T07:02:34.420834+00:00",
+        "inputHash": "f78ede54a20ad511185e91dad52d0806cab019c6dfab9e96b585e28d387d4027",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "文献记录清晰准确，没有不当结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主题分类准确，基于文献的内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "支持的文献和分类合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Toxicology and applied pharmacology，PMID 为 42603675。",
+          "report": "Drug-induced liver injury (DILI) remains an issue in clinical and drug development settings causing large financial and health issues. This is in part due to the poor specificity and sensitivity of current standard circulating liver enzyme biomarkers, and rese...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42602118",
       "date": "2026-08-14",
       "title": "Human Organoids Reveal PTEN-Driven Mesendoderm Specification via Retinoic Acid Signaling Suppression.",
@@ -968,153 +1115,6 @@ window.BHR_DATA = {
           "report": "During early embryogenesis, epiblast cells ingress through the primitive streak (PS) to adopt a mesendoderm (MES) fate, giving rise to both mesodermal and endodermal lineages. Robust systems that accurately recapitulate MES specification-and thereby enable a c...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42601460",
-      "date": "2026-08-14",
-      "title": "From pixels to patterns: the AI revolution in stem cell-derived models.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601460/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature methods，PMID 为 42601460。",
-      "report": "Artificial intelligence (AI) is rapidly transforming stem cell and developmental biology, offering new strategies to analyze, interpret and optimize complex, dynamic systems such as organoids and stem cell-derived embryo models. In this Perspective, we chart t...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_049c81b7a97be55c006a806326294c81a2b11748853b5fc540",
-        "reviewedAt": "2026-08-15T13:01:25.377475+00:00",
-        "inputHash": "ba9c85351b37733013c21deb79e409a6ec6ca10f6c240593aae2c527b0f2e72d",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录合理且中立，无需人类审查。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合现有文献内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断清晰分离，证据级别适中。"
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Nature methods，PMID 为 42601460。",
-          "report": "Artificial intelligence (AI) is rapidly transforming stem cell and developmental biology, offering new strategies to analyze, interpret and optimize complex, dynamic systems such as organoids and stem cell-derived embryo models. In this Perspective, we chart t...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42601009",
-      "date": "2026-08-14",
-      "title": "The Redox Code of Diabetic Retinopathy: Decoding Metabolic Memory, Predicting Fate, and Targeting Heterogeneity.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601009/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Multi-omics"
-      ],
-      "tags": [
-        "临床",
-        "监管",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Experimental eye research，PMID 为 42601009。",
-      "report": "Diabetic retinopathy (DR) has traditionally been viewed as a consequence of cumulative oxidative damage. However, the clinical phenomenon of metabolic memory, whereby prior hyperglycemia continues to exert adverse effects despite subsequent glucose normalizati...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0f163da963778f6d006a800e94cae4819abb19263275c52f71",
-        "reviewedAt": "2026-08-15T07:00:12.520590+00:00",
-        "inputHash": "1caf18efa576f524ccd24e2f393cc97dfd7273d1412d6686b39bc69164242877",
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该信号需要人工审查以确保临床结论的可靠性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "临床证据分类不够明确，需要审查文献支持的临床结论。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据等级被认为不足以支持该信号的临床结论。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Evidence",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Multi-omics"
-          ],
-          "tags": [
-            "临床",
-            "监管",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Experimental eye research，PMID 为 42601009。",
-          "report": "Diabetic retinopathy (DR) has traditionally been viewed as a consequence of cumulative oxidative damage. However, the clinical phenomenon of metabolic memory, whereby prior hyperglycemia continues to exert adverse effects despite subsequent glucose normalization...",
-          "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "缺乏对研究质量、样本量、利益冲突、临床阶段或商业化状态的判断。"
         }
       }
     },

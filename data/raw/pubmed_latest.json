@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-16T01:59:16.161912+00:00",
+  "capturedAt": "2026-08-16T07:02:25.046489+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-16"
   },
   "pmids": [
+    "42603543",
     "42603286",
     "42602786",
     "42602118",
     "42601972",
     "42601939",
-    "42601460",
     "42600555",
     "42580899",
     "42559559",
@@ -32,14 +32,32 @@
     "42567392",
     "42564489",
     "42561121",
+    "42603675",
     "42602251",
     "42602029",
     "42601904",
     "42601892",
-    "42601275",
-    "42601009"
+    "42601275"
   ],
   "records": [
+    {
+      "pmid": "42603543",
+      "title": "Role of non-animal 3D models in H. pylori associated gastric carcinogenesis: Insights and future perspectives.",
+      "abstract": "Three-dimensional (3D) gastric organoids have become valuable experimental models for gastric cancer research, as they closely mirror tumour architecture, molecular features, and treatment responses. Unlike two-dimensional cultures and animal models, gastric organoids capture key physiological and pathological characteristics of the human stomach, allowing more meaningful investigation of tumour development, host-microbe interactions, and epithelial-stromal crosstalk. These systems retain the genetic and phenotypic traits of their tissue of origin, making them suitable for both mechanistic studies and long-term experimentation. This review outlines the development of gastric organoid technology, from early advances in adult stem cell-derived cultures to recent methodological refinements that have expanded their experimental and clinical relevance. We discuss how organoid models have helped address the challenge posed by the marked molecular and histological heterogeneity of gastric cancer, which continues to complicate diagnosis and therapeutics. In this regard, patient-derived gastric organoids and associated biobanks have shown strong potential as predictive tools for drug response, as they reliably preserve tumour structure and gene expression patterns observed in primary tissues. In addition, we highlight recent improvements in culture matrices and experimental approaches that have enhanced organoid robustness and reproducibility. The growing use of gastric organoids as preclinical platforms for drug screening and the study of cancer-related signaling pathways reflects the rapid maturation of the field. We consider current limitations, technical challenges, and future directions for gastric organoid research, emphasizing their role as complementary models that bridge the gap between conventional in vitro systems and in vivo studies in gastric cancer.",
+      "journal": "Cancer treatment and research communications",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "School of Biotechnology, Jawaharlal Nehru University, New Delhi, India.",
+        "School of Biotechnology, Jawaharlal Nehru University, New Delhi, India. Electronic address: rupesh.chaturvedi.jnu@gmail.com.",
+        "School of Biosciences & Technology, Galgotias University, Uttar Pradesh, India. Electronic address: shrutimishra2411@gmail.com."
+      ],
+      "doi": "10.1016/j.ctarc.2026.101363",
+      "date": "2026-08-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603543/"
+    },
     {
       "pmid": "42603286",
       "title": "Multi-Omics Integration Identifies a CDH3-Associated Malignant Epithelial State and Immunosuppressive Niche to Predict Prognosis in Thymic Epithelial Tumors.",
@@ -138,27 +156,6 @@
       "doi": "10.3389/fncel.2026.1906023",
       "date": "2026-07-31",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601939/"
-    },
-    {
-      "pmid": "42601460",
-      "title": "From pixels to patterns: the AI revolution in stem cell-derived models.",
-      "abstract": "Artificial intelligence (AI) is rapidly transforming stem cell and developmental biology, offering new strategies to analyze, interpret and optimize complex, dynamic systems such as organoids and stem cell-derived embryo models. In this Perspective, we chart the integration of AI into image-based analysis of stem cell systems, highlighting how deep learning, convolutional neural networks and emerging foundation models enable automated classification, segmentation and phenotyping at increasing scale and precision. We showcase applications in phenotyping, drug screening and mechanistic discovery, including real-time fate prediction and the identification of hidden morphological signatures linked to differentiation and disease. Practical challenges, including limited annotated data, model interpretability and live imaging constraints, are examined alongside future opportunities, such as multimodal integration, real-time experimental steering and protocol optimization. Altogether, we argue that AI is not merely an analytical tool, but a discovery engine that enhances reproducibility, accelerates insight and brings us closer to a mechanistic understanding of self-organization in complex stem cell-derived systems.",
-      "journal": "Nature methods",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Group for Automated Image and Data Analysis, Institute for Automation and Applied Informatics, Karlsruhe Institute of Technology, Eggenstein‑Leopoldshafen, Germany. ldeininger@ethz.ch.",
-        "Division of Pediatric Neurology and Metabolic Medicine, Department I, Center for Pediatric and Adolescent Medicine, Medical Faculty Heidelberg, Heidelberg University, Heidelberg, Germany. ldeininger@ethz.ch.",
-        "Department of Biosystems Science and Engineering, ETH Zürich, Basel, Switzerland. ldeininger@ethz.ch.",
-        "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA, USA. pcaldare@caltech.edu.",
-        "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA, USA. magdaz@caltech.edu.",
-        "Group for Automated Image and Data Analysis, Institute for Automation and Applied Informatics, Karlsruhe Institute of Technology, Eggenstein‑Leopoldshafen, Germany. ralf.mikut@kit.edu."
-      ],
-      "doi": "10.1038/s41592-026-03202-x",
-      "date": "2026-08-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601460/"
     },
     {
       "pmid": "42600555",
@@ -384,6 +381,26 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42561121/"
     },
     {
+      "pmid": "42603675",
+      "title": "Identification of candidate microRNA biomarkers of mouse cholangiocyte injury by global miRNAome analysis.",
+      "abstract": "Drug-induced liver injury (DILI) remains an issue in clinical and drug development settings causing large financial and health issues. This is in part due to the poor specificity and sensitivity of current standard circulating liver enzyme biomarkers, and research is ongoing to characterize more suitable novel candidates. Despite accounting for a small proportion of total liver cells, biliary epithelial cholangiocytes are vital to hepatic homeostasis due to their role in exporting toxic bile acids. Up to 40% of DILI cases can involve the biliary tract, yet much of the research for novel biomarkers has focused on hepatocellular injury, with miR-122 especially showing promise. We aimed to investigate novel microRNA (miR) biomarkers for cholangiocyte DILI. Characterization of basal murine hepatocyte and cholangiocyte miR profiles showed distinct expressions, which led to selection of a panel of cholangiocyte-enriched biomarker candidates, miR-200a-3p, miR-200b-3p, miR-200c-3p, miR-141-3p and miR-429-3p. This panel was then evaluated in an α-Naphthyl isocyanate (ANIT) CD-1 mouse in vivo model of biliary toxicity. Liver phenotype and serum enzymes indicated that ANIT initially caused biliary perturbation before later progressing into wider hepatic injury. At 24-h following ANIT administration, during the biliary damage phase, miR-200a-3p showed the most consistent elevations in serum as per liquid biopsy vs controls, indicating a large dynamic range. No meaningful changes in serum miR-122-5p were evident until 48-h post-dose, once hepatocellular damage was taking place. miR expression differences were incorporated into a miR ratio calculation previously reported in a clinical DILI cohort, and results were able to successfully distinguish cholestatic or hepatocellular patterns of injury. This novel panel of cholangiocyte-selective miR-200 family members should be further investigated in larger cholestatic DILI cohorts, with miR-200a-3p in particular showing potential as a sensitive circulating marker of biliary toxicity with serum increases that precede miR-122-5p and hepatocellular damage.",
+      "journal": "Toxicology and applied pharmacology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "University of Liverpool, Department of Pharmacology and Therapeutics, Sherrington Buildings, Ashton Street, Liverpool L69 3GE, UK.",
+        "University of Liverpool, Department of Biostatistics, Waterhouse Building, 1-5 Brownlow Street, Liverpool L69 3GL, UK; Alteryx, Laguna Canyon Road, Irvine, CA 92618, USA.",
+        "University of Leicester, Leicester Drug Discovery and Diagnostics (LD3), Hodgkin Building, 412 Lancaster Road, Leicester LE1 7HB, UK.",
+        "University of Liverpool, Institute of Infection, Veterinary and Ecological Sciences, Leahurst Campus, Neston, Wirral CH64 7TE, UK.",
+        "University of Glasgow, School of Cancer Sciences, Garscube Estate, Switchback Road, Bearsden G61 1QH, UK; CRUK Beatson Institute, Garscube Estate, Switchback Road, Bearsden G61 1BD, UK.",
+        "University of Liverpool, Department of Pharmacology and Therapeutics, Sherrington Buildings, Ashton Street, Liverpool L69 3GE, UK. Electronic address: chrissy@liverpool.ac.uk."
+      ],
+      "doi": "10.1016/j.taap.2026.117998",
+      "date": "2026-08-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603675/"
+    },
+    {
       "pmid": "42602251",
       "title": "Circulating tumour DNA in mCRPC: bridging tumour biology and real-time treatment monitoring.",
       "abstract": "Metastatic castration-resistant prostate cancer (mCRPC) is associated with poor prognosis. Currently, treatment selection and response assessment in mCRPC still rely largely on prostate-specific antigen (PSA) and imaging tools, which may be insensitive and biologically noninformative. Liquid biopsy (LB), particularly circulating tumor DNA (ctDNA), offers a minimally invasive and reproducible approach for real-time assessment of tumor burden and tumor genomics. Across major treatment classes, ctDNA tumor fraction has shown consistent prognostic value, while selected genomic alterations may provide therapy-specific predictive information. Early on-treatment ctDNA kinetics are also emerging as dynamic markers of response, although prospective validation is required before routine clinical implementation. In this narrative review, we synthesize current evidence on ctDNA biology, detection methods, and its clinical utility across key mCRPC treatment classes, including androgen receptor pathway inhibitors (ARPIs), taxane chemotherapy, PARP inhibitors, and PSMA-targeted radioligand therapy (RLT). We critically examine ctDNA tumor fraction as a pan-therapy prognostic biomarker, genomic alterations as potential predictors of treatment sensitivity or resistance, early kinetic changes as surrogate markers of response, and the biological and technical limitations that currently restrict clinical adoption. Overall, the current evidence base for ctDNA in mCRPC remains predominantly prognostic rather than definitively predictive. Its integration into routine clinical practice will require prospective biomarker-driven trials, assay standardization, and a clear demonstration of clinical utility. At present, ctDNA is best positioned as a complementary tool for risk stratification and disease monitoring, with the potential to evolve into a clinically actionable biomarker for treatment decision-making.",
@@ -480,34 +497,41 @@
       "doi": "10.1016/j.jhep.2026.03.040",
       "date": "2026-07-02",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601275/"
-    },
-    {
-      "pmid": "42601009",
-      "title": "The Redox Code of Diabetic Retinopathy: Decoding Metabolic Memory, Predicting Fate, and Targeting Heterogeneity.",
-      "abstract": "Diabetic retinopathy (DR) has traditionally been viewed as a consequence of cumulative oxidative damage. However, the clinical phenomenon of metabolic memory, whereby prior hyperglycemia continues to exert adverse effects despite subsequent glucose normalization, indicates a more complex redox biology. This review advances a paradigm shift from considering reactive species merely as markers of injury to interpreting oxidative signatures as a dynamic, compartment-specific code that records glycemic history, predicts disease trajectory, and enables therapeutic subtyping. We synthesize evidence across multiple redox layers, including protein oxidative post-translational modifications such as S-glutathionylation and tyrosine nitration, lipid peroxidation products, mitochondrial DNA damage, and epigenetic rewriting mediated by SET domain-containing lysine methyltransferase 7 (SETD7, also known as SET7/9)-dependent monomethylation of histone H3 lysine 4 (H3K4me1). Persistent failure of mitochondrial quality control and maladaptive chromatin remodeling may stabilize hyperglycemia-induced redox programs after glucose normalization, whereas exosomal signaling may contribute to their intercellular propagation. In this context, metabolic memory refers to the durable yet potentially modifiable maintenance of these molecular programs rather than absolute biological irreversibility. Moving beyond the failure of generic antioxidant approaches, we introduce a clinical taxonomy of redox subphenotypes, glutathione-deficient, lipid-peroxidation-dominant, mitochondrial reactive oxygen species (ROS)-driven, and epigenetic redox-lock, each linked to candidate, predominantly preclinical, mechanism-matched interventions, including thiol-repleting agents, ferroptosis inhibitors, mitophagy-enhancing or mitochondrial-protective agents, and epigenetic modulators. Finally, we outline an integrated roadmap combining single-cell redox profiling, liquid-biopsy multi-omics, and biomarker-enriched clinical trial designs to translate redox signatures into precision management. Decoding the redox code may extend the traditional oxidative stress paradigm by revealing biologically heterogeneous molecular states with distinct therapeutic implications.",
-      "journal": "Experimental eye research",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "INTI International University, 71800 Negeri Sembilan, Malaysia. Electronic address: dr_sliman@yahoo.com.",
-        "Faculty of Business and Communications, INTI International University, 71800 Negeri Sembilan, Malaysia. Electronic address: asokan.vasudevan@newinti.edu.my.",
-        "Faculty of Allied Medical Sciences, Hourani Center for Applied Scientific Research, Al-Ahliyya Amman University, Amman, Jordan. Electronic address: m.nuseir@ammanu.edu.jo.",
-        "College of Pharmacy, Dept of Pharmacy Practice, DUBAI MEDICAL UNIVERSITY, DUBAI, UNITED ARAB EMIRATES. Electronic address: dr.mirzabaig@dmu.ae.",
-        "Jizzakh State Pedagogical University, Jizzakh, Uzbekistan. Electronic address: yaxshiyeva67@mail.ru.",
-        "department of internal medicine in family medicine, Tashkent State Medical University, Tashkent, Uzbekistan, 100109. Electronic address: rustam.turakulov@tma.uz.",
-        "University Institute of Pharma Sciences, Chandigarh University, Mohali, Punjab, India. Electronic address: chandansharma51@outlook.com.",
-        "Centre for Research Impact and Outcome, Chitkara University, Rajpura, Punjab, India; Sharda School of Bio-Science & Technology, Sharda University, Greater Noida, India. Electronic address: divyasinghal2026@outlook.com.",
-        "The Islamic University in Najaf, Iraq. Electronic address: gazali_alkufi@iunajaf.edu.iq.",
-        "Internal medicine , Diabetes, Endocrinology and Metabolism, University: Mansoura University, Mansoura, Egypt. Electronic address: paperpub198800@gmail.com."
-      ],
-      "doi": "10.1016/j.exer.2026.111200",
-      "date": "2026-08-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601009/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42603543",
+      "date": "2026-08-15",
+      "title": "Role of non-animal 3D models in H. pylori associated gastric carcinogenesis: Insights and future perspectives.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603543/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer treatment and research communications，PMID 为 42603543。",
+      "report": "Three-dimensional (3D) gastric organoids have become valuable experimental models for gastric cancer research, as they closely mirror tumour architecture, molecular features, and treatment responses. Unlike two-dimensional cultures and animal models, gastric o...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42603286",
       "date": "2026-08-15",
@@ -541,6 +565,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42603675",
+      "date": "2026-08-15",
+      "title": "Identification of candidate microRNA biomarkers of mouse cholangiocyte injury by global miRNAome analysis.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603675/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Toxicology and applied pharmacology，PMID 为 42603675。",
+      "report": "Drug-induced liver injury (DILI) remains an issue in clinical and drug development settings causing large financial and health issues. This is in part due to the poor specificity and sensitivity of current standard circulating liver enzyme biomarkers, and rese...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42602118",
       "date": "2026-08-14",
       "title": "Human Organoids Reveal PTEN-Driven Mesendoderm Specification via Retinoic Acid Signaling Suppression.",
@@ -568,66 +620,6 @@
       "fact": "PubMed 记录显示该文献收录于 Research (Washington, D.C.)，PMID 为 42602118。",
       "report": "During early embryogenesis, epiblast cells ingress through the primitive streak (PS) to adopt a mesendoderm (MES) fate, giving rise to both mesodermal and endodermal lineages. Robust systems that accurately recapitulate MES specification-and thereby enable a c...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42601460",
-      "date": "2026-08-14",
-      "title": "From pixels to patterns: the AI revolution in stem cell-derived models.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601460/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature methods，PMID 为 42601460。",
-      "report": "Artificial intelligence (AI) is rapidly transforming stem cell and developmental biology, offering new strategies to analyze, interpret and optimize complex, dynamic systems such as organoids and stem cell-derived embryo models. In this Perspective, we chart t...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42601009",
-      "date": "2026-08-14",
-      "title": "The Redox Code of Diabetic Retinopathy: Decoding Metabolic Memory, Predicting Fate, and Targeting Heterogeneity.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601009/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Multi-omics"
-      ],
-      "tags": [
-        "临床",
-        "监管",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Experimental eye research，PMID 为 42601009。",
-      "report": "Diabetic retinopathy (DR) has traditionally been viewed as a consequence of cumulative oxidative damage. However, the clinical phenomenon of metabolic memory, whereby prior hyperglycemia continues to exert adverse effects despite subsequent glucose normalizati...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
