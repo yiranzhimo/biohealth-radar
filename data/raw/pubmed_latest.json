@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-17T01:57:09.922242+00:00",
+  "capturedAt": "2026-08-17T07:18:32.801923+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-17"
   },
   "pmids": [
+    "42604625",
     "42604221",
     "42603919",
     "42603543",
     "42603286",
     "42602786",
-    "42602118",
     "42600555",
     "42580899",
     "42559559",
@@ -32,14 +32,36 @@
     "42567392",
     "42564489",
     "42561121",
+    "42604781",
+    "42604776",
+    "42604608",
     "42604142",
     "42603675",
-    "42602251",
-    "42602029",
-    "42601904",
-    "42601892"
+    "42602251"
   ],
   "records": [
+    {
+      "pmid": "42604625",
+      "title": "Targeting PKM2 and GAPDH by baicalein and corilagin from TCM reduces lactylation and enhance cisplatin sensitivity in lung cancer.",
+      "abstract": "Protein lactylation plays a key role in cancer progression and chemotherapy sensitivity. Glycolysis inhibitors offer promise, particularly through combination strategies to counter metabolic compensation. This study aims to identify glycolysis-targeting active ingredients from Traditional Chinese Medicine (TCM) and to investigate their enhanced effect in reducing lactylation to inhibit lung cancer. We first screened heat-clearing and detoxifying TCM herbs based on their effects on lactate levels, and then we developed a lactate-producing key enzyme protein stability chip (L-PTSC) to further screen the selected herbs and identify their targets. Through semi-preparative separation of herbal extracts, we identified the active components and characterized their target interactions. Finally, the efficacy of the triple combination (baicalein + corilagin + cisplatin) was validated in multiple lung cancer models, including cell lines, resistant lines, organoids, and xenografts. Extracts from Scutellaria baicalensis (SBG) and Geranium wilfordii (GWM) significantly inhibited glycolysis. Baicalein (from SBG) and corilagin (from GWM) were identified as candidate of PKM2 and GAPDH binders through l-PTSC. Given the central role of PKM2 and GAPDH in glycolysis, we systematically evaluated the enhanced antitumor effects of baicalein and corilagin using the Combination Index (CI) method via CompuSyn software (Chou-Talalay approach). Mechanistic investigations revealed that the triple combination treatment associated with lowered global protein lactylation levels, with AARS1 and MRE11 being particularly affected. This study established a natural product-based targeting strategy, identifying baicalein and corilagin from TCM herbs that engage PKM2 and GAPDH, and are associated with reduced lactylation and enhanced cisplatin sensitivity in lung cancer.",
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Jiangxi Province Key Laboratory of Traditional Chinese Medicine Pharmacology, Institute of Traditional Chinese Medicine Health Industry, China Academy of Chinese Medical Sciences, Nanchang, 330115, China; Experimental Research Center, China Academy of Chinese Medical Sciences, Beijing, 100700, China.",
+        "Laboratory of Cardiovascular Diseases, Xiyuan Hospital of China Academy of Chinese Medical Sciences, Beijing 100091, China.",
+        "School of Life Sciences and Medicine, Shandong University of Technology, Shandong 255000, China.",
+        "Experimental Research Center, China Academy of Chinese Medical Sciences, Beijing, 100700, China.",
+        "School of Pharmacy, Binzhou Medical University, Yantai, 264003, China.",
+        "Department of Thoracic Surgery, Peking University People's Hospital, Beijing, 100044, China; Thoracic Oncology Institute, Peking University People's Hospital, Beijing, 100044, China; Research Unit of lntelligence Diagnosis and Treatment in Early Non-Small Cell Lung Cancer, Chinese Academy of Medical Sciences, Peking University People's Hospital, Beijing, 100044, China; Institute of Advanced Clinical Medicine, Peking University, Beijing, 100044, China; Beijing Key Laboratory of lnnovative Application of Big Data in Lung Cancer, Peking University People's Hospital, Beijing, 100044, China. Electronic address: wangxun04275@pkuph.edu.cn.",
+        "Experimental Research Center, China Academy of Chinese Medical Sciences, Beijing, 100700, China; Analysis of Complex Effects of Proprietary Chinese Medicine, Hunan Provincial Key Laboratory, Yongzhou, Hunan Province, 425199, China. Electronic address: sdzpchenpeng@qq.com.",
+        "Experimental Research Center, China Academy of Chinese Medical Sciences, Beijing, 100700, China. Electronic address: hongjun0420@vip.sina.com."
+      ],
+      "doi": "10.1016/j.phymed.2026.158690",
+      "date": "2026-08-05",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604625/"
+    },
     {
       "pmid": "42604221",
       "title": "Progress in high-throughput screening for drug and material discovery in orthopedic diseases: a literature review.",
@@ -127,34 +149,6 @@
       "doi": "10.1016/j.aninu.2025.12.019",
       "date": "2026-05-12",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42602786/"
-    },
-    {
-      "pmid": "42602118",
-      "title": "Human Organoids Reveal PTEN-Driven Mesendoderm Specification via Retinoic Acid Signaling Suppression.",
-      "abstract": "During early embryogenesis, epiblast cells ingress through the primitive streak (PS) to adopt a mesendoderm (MES) fate, giving rise to both mesodermal and endodermal lineages. Robust systems that accurately recapitulate MES specification-and thereby enable a comprehensive understanding of cell fate transitions during PS formation-remain limited. Here, we describe 3-dimensional MES organoids derived from human induced pluripotent stem cells that faithfully model in vivo human MES specification, particularly from the anterior PS. MES specification requires PTEN expression, as PTEN loss profoundly impairs mesoderm and definitive endoderm derivatives. Integrative multi-omics analyses-including transcriptomics, chromatin accessibility, metabolomics, and phosphoproteomics-on wild-type and PTEN-/- MES cells revealed that PTEN suppresses retinoic acid (RA) signaling during MES commitment. Furthermore, we identified the RA-degrading enzyme CYP26A1 as a downstream effector of PTEN. Notably, while excessive RA induced by PTEN ablation is detrimental to MES cell generation, physiological levels of RA are necessary. Collectively, the human MES organoids offer a valuable model for dissecting early human development, and our findings identify PTEN as a key regulator of MES fate commitment through inhibition of RA signaling.",
-      "journal": "Research (Washington, D.C.)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Biomedical Sciences, Faculty of Medicine, The Chinese University of Hong Kong, Hong Kong SAR, China.",
-        "CUHK-SDU Joint Laboratory on Reproductive Genetics, School of Biomedical Sciences, The Chinese University of Hong Kong, Hong Kong SAR, China.",
-        "Key Laboratory for Regenerative Medicine, Ministry of Education, School of Biomedical Sciences, Faculty of Medicine, The Chinese University of Hong Kong, Hong Kong SAR, China.",
-        "Kunming Institute of Zoology- The Chinese University of Hong Kong (KIZ-CUHK) Joint Laboratory of Bioresources and Molecular Research of Common Diseases, The Chinese University of Hong Kong, Hong Kong SAR, China.",
-        "CUHK-GIBH CAS Joint Research Laboratory on Stem Cell and Regenerative Medicine, The Chinese University of Hong Kong, Hong Kong SAR, China.",
-        "Center for Neuromusculoskeletal Restorative Medicine, Hong Kong Science Park, Shatin, New Territories, Hong Kong SAR, China.",
-        "Shandong Key Laboratory of Reproductive Medicine, Shandong Provincial Hospital affiliated to Shandong First Medical University, Jinan 250012, Shandong, China.",
-        "Chongqing-Hongkong Healthtech Hub, Jinfeng Laboratory, Chongqing, China.",
-        "Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Joint International Research Laboratory of Metabolic and Developmental Sciences, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China.",
-        "Department of Obstetrics and Gynecology, Guangdong Provincial Key Laboratory of Major Obstetric Diseases, Guangdong Provincial Clinical Research Center for Obstetrics and Gynecology, Guangdong-Hong Kong-Macao Greater Bay Area Higher Education Joint Laboratory of Maternal-Fetal Medicine, The Third Affiliated Hospital, Guangzhou Medical University, Guangzhou 510150, China.",
-        "Joint School of Life Sciences, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences; Guangzhou Medical University, Guangzhou, China.",
-        "State Key Laboratory of Reproductive Medicine and Offspring Health, Center for Reproductive Medicine, Institute of Women, Children and Reproductive Health, Shandong University, 250012, China.",
-        "Hong Kong Branch of CAS Center for Excellence in Animal Evolution and Genetics, The Chinese University of Hong Kong, Hong Kong SAR, China.",
-        "The Chinese University of Hong Kong - University of Southampton Joint Laboratory for Stem Cell and Regenerative Medicine, School of Biomedical Sciences, The Chinese University of Hong Kong, Hong Kong SAR, China."
-      ],
-      "doi": "10.34133/research.1374",
-      "date": "2026-08-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42602118/"
     },
     {
       "pmid": "42600555",
@@ -380,6 +374,59 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42561121/"
     },
     {
+      "pmid": "42604781",
+      "title": "[Recent Advances in the Treatment of Craniopharyngioma:A Breakthrough in Molecular Targeted Therapy].",
+      "abstract": "Craniopharyngiomas are benign sellar and parasellar tumors that present significant clinical challenge because of their close proximity to the optic apparatus, hypothalamus, and pituitary gland. Recent molecular studies have identified distinct driver mutations, namely, CTNNB1 in adamantinomatous craniopharyngiomas and BRAF V600E in papillary craniopharyngiomas, leading to a deeper understanding of tumor biology and treatment strategies. Advances in endoscopic endonasal transsphenoidal surgery have improved surgical safety and expanded the indications for minimally invasive resection, whereas radiotherapy remains an effective option for residual or recurrent disease. Molecular targeted therapy with BRAF and MEK inhibitors has resulted in remarkable tumor shrinkage in papillary craniopharyngiomas harboring the BRAF V600E mutation, and recent clinical studies have established this approach as a promising treatment option. These agents have emerged not only as effective treatment options for recurrent or refractory disease but also as promising options for neoadjuvant treatment and function-preserving management. Future treatment strategies are likely to incorporate molecular subtypes, patient age, and functional outcomes to achieve individualized care. In addition, the development of reliable preoperative molecular diagnostic techniques, including liquid biopsy, may further facilitate the integration of targeted therapies into routine clinical practice.",
+      "journal": "No shinkei geka. Neurological surgery",
+      "publicationTypes": [
+        "Journal Article",
+        "Review",
+        "English Abstract"
+      ],
+      "affiliations": [
+        "Department of Neurosurgery, Graduate School of Medical and Dental Sciences, Kagoshima University."
+      ],
+      "doi": "10.11477/mf.030126030540040844",
+      "date": "2026-07-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604781/"
+    },
+    {
+      "pmid": "42604776",
+      "title": "[Treatment of CNS Germ Cell Tumors].",
+      "abstract": "Central nervous system (CNS) germ cell tumors (GCTs) are rare neoplasms that predominantly affect adolescents and young adults and occur at a notably higher incidence in East Asian populations. They are classified into two major categories: germinomas and non-germinomatous GCTs (NGGCTs). Germinomas are highly radiosensitive and chemosensitive, with long-term survival rates exceeding 90% following combined chemoradiotherapy. Current therapeutic focus on reducing radiation exposure, particularly whole-ventricular irradiation, while maintaining excellent tumor control, as exemplified by the ongoing CNSGCT2021 trial in Japan. In contrast, NGGCTs require intensified multimodal treatment incorporating alkylating-agent-based chemotherapy and craniospinal irradiation, and second-look surgery for residual disease. Despite these advances, outcomes for relapsed NGGCTs remain poor, underscoring the urgent need for novel therapeutic approaches. Recent genomic studies have identified recurrent activating mutations in the KIT/RAS/MAPK and PI3K/AKT/mTOR pathways, particularly in germinomas, providing potential targets for precision oncology approaches. The germinoma tumor microenvironment is characterized by abundant immune infiltration and PD-L1 expression, which has generated interest in immune checkpoint inhibitors. Additionally, liquid biopsy biomarkers, including circulating tumor DNA and microRNAs, show promise for less invasive diagnosis and disease monitoring. Long-term follow-up remains essential, given the risk of late relapse beyond 10 years and accumulation of treatment-related complications over decades.",
+      "journal": "No shinkei geka. Neurological surgery",
+      "publicationTypes": [
+        "Journal Article",
+        "Review",
+        "English Abstract"
+      ],
+      "affiliations": [
+        "Department of Neurosurgery, Faculty of Medicine, The University of Tokyo."
+      ],
+      "doi": "10.11477/mf.030126030540040789",
+      "date": "2026-07-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604776/"
+    },
+    {
+      "pmid": "42604608",
+      "title": "Proximity-confined DNA walking-nanozyme cascades for multiplexed urinary extracellular vesicle phenotyping and machine learning-assisted disease stratification.",
+      "abstract": "Urinary extracellular vesicles (uEVs) provide noninvasive biomarkers for liquid biopsy owing to their ability to reflect disease-associated molecular alterations. However, the accurate analysis of low-abundance uEV surface proteins in complex biological matrices remains a major analytical challenge. Here, we report a proximity-activated dual-cascade (PADC) biosensing platform that integrates a target-responsive 3D DNA machine with a nanozyme-mediated ratiometric transduction circuit for high-fidelity multiplexed phenotyping of uEVs. Upon dual-recognition of target uEVs, the DNA machine undergoes proximity-induced spatial confinement on individual magnetic particles, creating a localized catalytic microenvironment that markedly enhances DNA walking kinetics and signal amplification efficiency. Coupled with an enzyme-nanozyme redox cascade, this confined catalytic process generates a robust ratiometric fluorescence output for sensitive and reliable molecular profiling. Benefiting from the spatially confined amplification architecture, the proposed platform enables ultrasensitive multiplexed analysis of CD63, EGFR, and PAK6 with detection limits down to 4.3 × 104, 2.2 × 104, and 1.7 × 103 particles/mL, respectively. Importantly, the target-uEV response was approximately six-fold higher than those generated by common urinary interferents or their mixture, demonstrating high analytical selectivity in complex urine matrices. To further evaluate its universality for multi-disease screening, multidimensional molecular profiling combined with machine learning algorithms was performed on clinical uEV samples collected from healthy controls, Diabetes Mellitus (DM) patients, and prostate cancer (PCa) patients. The optimal classification model achieved an overall multiclass diagnostic accuracy of 91% for distinguishing healthy, DM, and PCa groups. This work establishes a proximity-confined catalytic biosensing strategy for multiplexed uEV analysis and demonstrates its potential for uEV-based liquid biopsy and proof-of-concept disease stratification.",
+      "journal": "Biosensors & bioelectronics",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Vascular Surgery, The First Affiliated Hospital, Fujian Medical University, Fuzhou, 350005, China; Department of Vascular Surgery, National Regional Medical Center, Binhai Campus of The First Affiliated Hospital, Fujian Medical University, Fuzhou, 350212, China.",
+        "Department of Vascular Surgery, The First Affiliated Hospital, Fujian Medical University, Fuzhou, 350005, China; Department of Vascular Surgery, National Regional Medical Center, Binhai Campus of The First Affiliated Hospital, Fujian Medical University, Fuzhou, 350212, China; Department of Epidemiology and Health Statistics, School of Public Health, Fujian Medical University, Fuzhou, 350122, China; NHC Key Laboratory of Etiological Epidemiology of Chronic Diseases with High Incidence in Fujian-Taiwan Area, Fujian Medical University, Fuzhou, 350122, China.",
+        "Trauma Center and Emergency Surgery Department, The First Affiliated Hospital, Fujian Medical University, Fuzhou, 350005, China.",
+        "Department of Chemistry, École Normale Supérieure, Sorbonne Université, CNRS, France. Electronic address: kunwangneu@gmail.com.",
+        "Department of Vascular Surgery, The First Affiliated Hospital, Fujian Medical University, Fuzhou, 350005, China; Department of Vascular Surgery, National Regional Medical Center, Binhai Campus of The First Affiliated Hospital, Fujian Medical University, Fuzhou, 350212, China. Electronic address: daiyiquan@sina.cn."
+      ],
+      "doi": "10.1016/j.bios.2026.119109",
+      "date": "2026-08-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604608/"
+    },
+    {
       "pmid": "42604142",
       "title": "Circulating miRNAs for glioblastoma monitoring: from biofluid to clinical decision.",
       "abstract": "Gliomas, particularly glioblastoma (GBM), remain highly lethal brain tumors with limited treatments. MRI-based monitoring lacks specificity in distinguishing progression from treatment effects. Circulating microRNAs (miRNAs), small non-coding RNAs involved in tumor biology, show promise as liquid biopsy biomarkers. We searched PubMed, Embase, Scopus, and Web of Science for clinical studies investigating circulating miRNAs as diagnostic, prognostic, or predictive biomarkers in glioma, across plasma, serum, and cerebrospinal fluid (CSF). Oncogenic miRNAs (oncomiRs) such as miR-21, miR-10b, miR-182, and miR-210 were consistently upregulated in glioma patients, whereas tumor suppressors including miR-124, miR-128, miR-137, and miR-181 family members were downregulated. Prognostically, elevated miR-21, miR-222, and miR-196b correlated with poor survival, while reduced miR-181d, miR-100, and miR-145 predicted worse outcomes. Composite signatures, particularly exosomal or CSF-derived panels, outperformed single markers. Dynamic changes in miR-21, miR-222, and miR-210 reflected treatment response or progression, with exosomal miR-1238 emerging as a marker of temozolomide resistance. Longitudinal serum levels of miR-223 and miR-320e correlated with MRI tumor volume and distinguished true progression from pseudo-progression. Circulating miRNAs show strong potential as minimally invasive biomarkers for glioma management, but clinical translation remains limited by technical and biological variability and lack of validation. Advances in biosensors, multi-omics, and standardization are key to clinical integration.",
@@ -435,67 +482,6 @@
       "doi": "10.3389/fmmed.2026.1852641",
       "date": "2026-07-31",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42602251/"
-    },
-    {
-      "pmid": "42602029",
-      "title": "Fungal extracellular vesicles as biomarkers in candidiasis: biogenesis, virulence, and CNS diagnostic applications.",
-      "abstract": "Invasive candidiasis remains a life-threatening infection with mortality rates reaching 40-55%, yet current gold-standard diagnostics such as blood culture are often slow and insensitive. This review evaluates fungal extracellular vesicles (EVs) as both mechanistic drivers of pathogenesis and clinical utility as biomarkers. We first outline EV biogenesis and translocation across the fungal cell wall, emphasizing the roles of turgor pressure and enzymatic remodeling. We then discuss how EVs act as protected carriers of virulence factors, such as candidalysin and Als3, which modulate tissue invasion and host responses. While profiling these circulating fungal EVs provides a promising and sensitive window into systemic invasive candidiasis, this approach faces unique hurdles in cases of central nervous system (CNS) involvement. In the CNS, fungal signatures are sequestered behind the blood-brain barrier (BBB) and heavily diluted by the vast pool of peripheral EVs, rendering total plasma analysis inadequate. To overcome these barriers, we propose a specialized diagnostic framework that combines dual-marker immunocapture of neuron-derived EVs (NDEVs), using neural cell adhesion molecule (NCAM) and intercellular adhesion molecule 5 (ICAM-5), with the detection of internal Candida-associated cargo. We emphasize that while this host-vesicle enrichment strategy is mechanistically grounded, it requires standardized isolation workflows and prospective clinical validation before deployment as a non-invasive platform for early CNS diagnosis.",
-      "journal": "Frontiers in cell and developmental biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Life Sciences, School of Life Sciences and Biotechnology, Korea University, Seoul, Republic of Korea.",
-        "National Research Laboratory for Convergence Degradation Biology, Korea University, Seoul, Republic of Korea.",
-        "Department of Medical and Biological Science, The Catholic University of Korea, Bucheon, Republic of Korea.",
-        "Cancer Research Program, The Research Institute of the McGill University Health Centre, Montreal, QC, Canada.",
-        "Department of Surgery, Surgical and Interventional Sciences, McGill University, Montreal, QC, Canada.",
-        "Department of Surgery, Division of Thoracic and Upper Gastrointestinal Surgery, Faculty of Medicine and Health Sciences, McGill University, Montreal, QC, Canada.",
-        "Montreal General Hospital Foundation, McGill University Health Centre, Montreal, QC, Canada."
-      ],
-      "doi": "10.3389/fcell.2026.1854037",
-      "date": "2026-07-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42602029/"
-    },
-    {
-      "pmid": "42601904",
-      "title": "Dynamic circulating tumor DNA profiling of ESR1 mutations in HR+/HER2- advanced breast cancer: from prognostic biomarker to clinical decision-making - a comprehensive review.",
-      "abstract": "The combination of CDK4/6 inhibitors (CDK4/6i) and endocrine therapy (ET) is the standard first-line regimen for hormone receptor-positive, human epidermal growth factor receptor 2-negative (HR+/HER2-) metastatic breast cancer (MBC). Resistance remains a challenge, with estrogen receptor 1 gene (ESR1) mutations serving as a central mechanism. Liquid biopsy enables non-invasive monitoring via circulating tumor DNA (ctDNA), with ESR1 mutations increasingly recognized as dynamic molecular events rather than static markers. This comprehensive review evaluates the prognostic and predictive value of baseline and on-treatment ctDNA ESR1 mutations in HR+/HER2- advanced breast cancer patients receiving CDK4/6i and ET, and explores their evolution into dynamic intervention nodes for precision decision-making. Following PRISMA guidelines, we searched major databases and conference proceedings up to February 2026. Studies reporting ctDNA ESR1 mutations and clinical outcomes in CDK4/6i plus ET-treated patients were included. Due to substantial clinical and methodological heterogeneity, a quantitative meta-analysis was not feasible; instead, a narrative synthesis was performed. Nine high-quality studies met eligibility criteria. Key findings: (1) Baseline ESR1 mutations, particularly Y537S, are adverse prognostic factors; high ctDNA tumor fraction (≥10%) identifies patients deriving greater benefit from first-line CDK4/6i (PFS2 HR 0.58). (2) ctDNA clearance by cycle 2 day 1 predicts prolonged PFS (HR = 0.44). (3) Pre-emptive switching to camizestrant upon ctDNA-detected ESR1 mutations reduced progression risk by 56% (HR = 0.44, P<0.0001) in the SERENA-6 trial. Baseline ctDNA ESR1 mutations define a more aggressive disease subtype and have evolved from molecular drivers to actionable clinical decision nodes. However, routine clinical adoption requires prospective validation, harmonized testing standards, and consensus on monitoring protocols. This review provides a comprehensive evidence-graded framework to guide future research and clinical implementation.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "affiliations": [
-        "Department of General Surgery, The Sixth Medical Center of Chinese PLA General Hospital, Beijing, China.",
-        "Department of Hepatobiliary Surgery, The Sixth Medical Center of Chinese PLA General Hospital, Beijing, China.",
-        "Department of Radiology, The Sixth Medical Center of Chinese PLA General Hospital, Beijing, China."
-      ],
-      "doi": "10.3389/fonc.2026.1881097",
-      "date": "2026-07-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601904/"
-    },
-    {
-      "pmid": "42601892",
-      "title": "Longitudinal monitoring of circulating tumor cell phenotypic conversion as a predictor of late recurrence in breast cancer: a prospective feasibility study using the GenoCTC platform.",
-      "abstract": "Patients with hormone receptor-positive (HR+) breast cancer faces a persistent, constant risk of distant recurrence for over 20 years. This proof-of-concept study evaluated the clinical utility of circulating tumor cell (CTCs) monitoring using the GenoCTC® platform to detect molecular precursors of late recurrence in long-term breast cancer survivors. Blood samples from 25 breast cancer patients in recurrence-free survival (RFS), 4-13 years post-surgery, were analyzed using the GenoCTC® platform with EpCAM and Vimentin as markers. Baseline CTCs were characterized by immunofluorescence staining (DAPI+/Cytokeratin (CK)+/CD45-). A subset of eight initially CTC-negative patients underwent longitudinal follow-up assay at a 5-year interval, with expanded profiling including c-MET enrichment. CTCs counts were correlated with clinicopathological variables, receptor status and clinical outcomes. At baseline, CTCs were detected in 24% of patients. CTC burden was significantly associated with recurrence (P <.0001) and mortality (P = .0016). A high CTC count was identified in all recurrence events (P = .003). In longitudinal follow-up, 6 of 8 (75%) initially CTC-negative patients demonstrated \"molecular conversion\" characterized by a \"burst\" of epithelial-mesenchymal hybrid CTCs, including CK+/Vimentin+ and cMET+ populations. Longitudinal phenotypic CTC profiling could identify a pre-clinical \"molecular conversion\" in breast cancer survivors, which has the potential to provide a time lead over radiographic appearance of recurrence. Integration of EpCAM, Vimentin and cMET multi-marker CTC monitoring into standard long-term follow-up may enable early interception of dormancy escape and late relapse.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Research Institute of Pharmaceutical Science, Department of Pharmacy, Seoul National University College of Pharmacy, Seoul, Republic of Korea.",
-        "Department of Cancer Science, Cleveland Clinic Research, Cleveland, OH, United States.",
-        "Case comprehensive Cancer Center, Case Western Reserve University, Cleveland, OH, United States.",
-        "Department of Food and Nutrition, Dong-Eui University, Busan, Republic of Korea.",
-        "Research Institute, Genobio Corp, Seoul, Republic of Korea.",
-        "Department of Molecular Medicine and Biopharmaceutical Sciences, Graduate School of Convergence Science and Technology, Seoul National University, Seoul, Republic of Korea.",
-        "Research Institute, Cichlid Corporation, Seoul, Republic of Korea."
-      ],
-      "doi": "10.3389/fonc.2026.1903915",
-      "date": "2026-07-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601892/"
     }
   ],
   "signals": [
@@ -628,33 +614,37 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42602118",
-      "date": "2026-08-14",
-      "title": "Human Organoids Reveal PTEN-Driven Mesendoderm Specification via Retinoic Acid Signaling Suppression.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "id": "pubmed-42604608",
+      "date": "2026-08-13",
+      "title": "Proximity-confined DNA walking-nanozyme cascades for multiplexed urinary extracellular vesicle phenotyping and machine learning-assisted disease stratification.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42602118/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604608/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening",
         "Multi-omics"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Research (Washington, D.C.)，PMID 为 42602118。",
-      "report": "During early embryogenesis, epiblast cells ingress through the primitive streak (PS) to adopt a mesendoderm (MES) fate, giving rise to both mesodermal and endodermal lineages. Robust systems that accurately recapitulate MES specification-and thereby enable a c...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42604608。",
+      "report": "Urinary extracellular vesicles (uEVs) provide noninvasive biomarkers for liquid biopsy owing to their ability to reflect disease-associated molecular alterations. However, the accurate analysis of low-abundance uEV surface proteins in complex biological matric...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -866,6 +856,38 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42604625",
+      "date": "2026-08-05",
+      "title": "Targeting PKM2 and GAPDH by baicalein and corilagin from TCM reduces lactylation and enhance cisplatin sensitivity in lung cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604625/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Phytomedicine : international journal of phytotherapy and phytopharmacology，PMID 为 42604625。",
+      "report": "Protein lactylation plays a key role in cancer progression and chemotherapy sensitivity. Glycolysis inhibitors offer promise, particularly through combination strategies to counter metabolic compensation. This study aims to identify glycolysis-targeting active...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42602251",
       "date": "2026-07-31",
       "title": "Circulating tumour DNA in mCRPC: bridging tumour biology and real-time treatment monitoring.",
@@ -893,90 +915,6 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in molecular medicine，PMID 为 42602251。",
       "report": "Metastatic castration-resistant prostate cancer (mCRPC) is associated with poor prognosis. Currently, treatment selection and response assessment in mCRPC still rely largely on prostate-specific antigen (PSA) and imaging tools, which may be insensitive and bio...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42602029",
-      "date": "2026-07-31",
-      "title": "Fungal extracellular vesicles as biomarkers in candidiasis: biogenesis, virulence, and CNS diagnostic applications.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42602029/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42602029。",
-      "report": "Invasive candidiasis remains a life-threatening infection with mortality rates reaching 40-55%, yet current gold-standard diagnostics such as blood culture are often slow and insensitive. This review evaluates fungal extracellular vesicles (EVs) as both mechan...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42601904",
-      "date": "2026-07-31",
-      "title": "Dynamic circulating tumor DNA profiling of ESR1 mutations in HR+/HER2- advanced breast cancer: from prognostic biomarker to clinical decision-making - a comprehensive review.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601904/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42601904。",
-      "report": "The combination of CDK4/6 inhibitors (CDK4/6i) and endocrine therapy (ET) is the standard first-line regimen for hormone receptor-positive, human epidermal growth factor receptor 2-negative (HR+/HER2-) metastatic breast cancer (MBC). Resistance remains a chall...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42601892",
-      "date": "2026-07-31",
-      "title": "Longitudinal monitoring of circulating tumor cell phenotypic conversion as a predictor of late recurrence in breast cancer: a prospective feasibility study using the GenoCTC platform.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601892/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42601892。",
-      "report": "Patients with hormone receptor-positive (HR+) breast cancer faces a persistent, constant risk of distant recurrence for over 20 years. This proof-of-concept study evaluated the clinical utility of circulating tumor cell (CTCs) monitoring using the GenoCTC® pla...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1189,6 +1127,70 @@
       "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42498177。",
       "report": "Drug discovery for complex diseases has long been constrained by high developmental costs and suboptimal clinical transition rates. To bridge the \"translational gap\" between in vitro target screening and in vivo therapeutic efficacy, life science and pharmacol...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models, AI-enabled Discovery, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42604781",
+      "date": "2026-07-01",
+      "title": "[Recent Advances in the Treatment of Craniopharyngioma:A Breakthrough in Molecular Targeted Therapy].",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604781/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 No shinkei geka. Neurological surgery，PMID 为 42604781。",
+      "report": "Craniopharyngiomas are benign sellar and parasellar tumors that present significant clinical challenge because of their close proximity to the optic apparatus, hypothalamus, and pituitary gland. Recent molecular studies have identified distinct driver mutation...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42604776",
+      "date": "2026-07-01",
+      "title": "[Treatment of CNS Germ Cell Tumors].",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604776/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 No shinkei geka. Neurological surgery，PMID 为 42604776。",
+      "report": "Central nervous system (CNS) germ cell tumors (GCTs) are rare neoplasms that predominantly affect adolescents and young adults and occur at a notably higher incidence in East Asian populations. They are classified into two major categories: germinomas and non-...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

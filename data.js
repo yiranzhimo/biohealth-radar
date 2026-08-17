@@ -1126,74 +1126,83 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42602118",
-      "date": "2026-08-14",
-      "title": "Human Organoids Reveal PTEN-Driven Mesendoderm Specification via Retinoic Acid Signaling Suppression.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "id": "pubmed-42604608",
+      "date": "2026-08-13",
+      "title": "Proximity-confined DNA walking-nanozyme cascades for multiplexed urinary extracellular vesicle phenotyping and machine learning-assisted disease stratification.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42602118/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604608/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening",
         "Multi-omics"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Research (Washington, D.C.)，PMID 为 42602118。",
-      "report": "During early embryogenesis, epiblast cells ingress through the primitive streak (PS) to adopt a mesendoderm (MES) fate, giving rise to both mesodermal and endodermal lineages. Robust systems that accurately recapitulate MES specification-and thereby enable a c...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42604608。",
+      "report": "Urinary extracellular vesicles (uEVs) provide noninvasive biomarkers for liquid biopsy owing to their ability to reflect disease-associated molecular alterations. However, the accurate analysis of low-abundance uEV surface proteins in complex biological matric...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_023ebb968abcfc38006a80b4b3ba988194b08d4bb1bc3fea68",
-        "reviewedAt": "2026-08-15T18:49:22.974080+00:00",
-        "inputHash": "1909a72d32cb0fbe89f4876a4f1377c08f1ad43eb30ef5a9ddd4efee8895e3bf",
+        "responseId": "resp_0ae3637572f4b352006a82b5d29808819aa4237dfb9a516d72",
+        "reviewedAt": "2026-08-17T07:18:41.810024+00:00",
+        "inputHash": "824aada4d5e361a4428a57af8f8ab93b6579b9a42e3ade6c9d98a6062bac372e",
         "status": "pass",
         "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号准确地反映了文献内容，未包含未支持的临床结论。",
+        "reviewSummaryCn": "信息准确，分类合理，可以发布。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "所选分类合理，符合文献主题。"
+          "notesCn": "分类合理，符合来源信息。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论清楚分开，证据水平合理。"
+          "notesCn": "报告与事实和推论清晰区分。中等证据等级与研究主题相符。"
         },
         "riskFlags": [
-          "weak_classification"
+          "diagnostics_claim",
+          "clinical_claim"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
           "evidenceLevel": "Medium",
           "themes": [
-            "Organoids",
-            "Advanced Disease Models",
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology",
+            "Drug Screening",
             "Multi-omics"
           ],
           "tags": [
-            "类器官",
-            "疾病模型",
+            "诊断",
+            "精准医疗",
+            "肿瘤",
+            "药筛",
             "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Research (Washington, D.C.)，PMID 为 42602118。",
-          "report": "During early embryogenesis, epiblast cells ingress through the primitive streak (PS) to adopt a mesendoderm (MES) fate, giving rise to both mesodermal and endodermal lineages. Robust systems that accurately recapitulate MES specification-and thereby enable a c...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42604608。",
+          "report": "Urinary extracellular vesicles (uEVs) provide noninvasive biomarkers for liquid biopsy owing to their ability to reflect disease-associated molecular alterations. However, the accurate analysis of low-abundance uEV surface proteins in complex biological matric...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -3167,6 +3176,84 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "pubmed-42604625",
+      "date": "2026-08-05",
+      "title": "Targeting PKM2 and GAPDH by baicalein and corilagin from TCM reduces lactylation and enhance cisplatin sensitivity in lung cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604625/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Phytomedicine : international journal of phytotherapy and phytopharmacology，PMID 为 42604625。",
+      "report": "Protein lactylation plays a key role in cancer progression and chemotherapy sensitivity. Glycolysis inhibitors offer promise, particularly through combination strategies to counter metabolic compensation. This study aims to identify glycolysis-targeting active...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_085160b46d88356f006a82b5d802988199a59f3372de9963c4",
+        "reviewedAt": "2026-08-17T07:18:41.810024+00:00",
+        "inputHash": "7635994a40fb02624f30bed026b6a65ac4b98f721d97bc046198d74e5b17fb06",
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该研究可能包含非支持性临床结论，需人类审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类与证据水平不匹配，需审查研究真实性。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "信息未充分分离，且证据水平太低以支持声明。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Phytomedicine : international journal of phytotherapy and phytopharmacology，PMID 为 42604625。",
+          "report": "Protein lactylation plays a key role in cancer progression and chemotherapy sensitivity. Glycolysis inhibitors offer promise, particularly through combination strategies to counter metabolic compensation. This study aims to identify glycolysis-targeting active...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "sec-0001601830-000160183026000098",
       "date": "2026-08-05",
       "title": "Recursion Pharmaceuticals filed Form 10-Q",
@@ -4115,215 +4202,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Frontiers in molecular medicine，PMID 为 42602251。",
           "report": "Metastatic castration-resistant prostate cancer (mCRPC) is associated with poor prognosis. Currently, treatment selection and response assessment in mCRPC still rely largely on prostate-specific antigen (PSA) and imaging tools, which may be insensitive and bio...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42602029",
-      "date": "2026-07-31",
-      "title": "Fungal extracellular vesicles as biomarkers in candidiasis: biogenesis, virulence, and CNS diagnostic applications.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42602029/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42602029。",
-      "report": "Invasive candidiasis remains a life-threatening infection with mortality rates reaching 40-55%, yet current gold-standard diagnostics such as blood culture are often slow and insensitive. This review evaluates fungal extracellular vesicles (EVs) as both mechan...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_09bec3cd935e0859006a80633e224c87d298aeccfae163df91",
-        "reviewedAt": "2026-08-15T13:01:25.377475+00:00",
-        "inputHash": "104acee50ad4d036eb5751a083bbc9baceb83dc45386b6060bca3b5ee36744f6",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献总结了真菌外泌体作为感染性真菌病标志物的研究，分类和证据水平合理，内容清晰。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要和次要类别与研究主题一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论被清晰分隔，证据水平合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Biotech"
-          ],
-          "tags": [
-            "biotech"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42602029。",
-          "report": "Invasive candidiasis remains a life-threatening infection with mortality rates reaching 40-55%, yet current gold-standard diagnostics such as blood culture are often slow and insensitive. This review evaluates fungal extracellular vesicles (EVs) as both mechan...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42601904",
-      "date": "2026-07-31",
-      "title": "Dynamic circulating tumor DNA profiling of ESR1 mutations in HR+/HER2- advanced breast cancer: from prognostic biomarker to clinical decision-making - a comprehensive review.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601904/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42601904。",
-      "report": "The combination of CDK4/6 inhibitors (CDK4/6i) and endocrine therapy (ET) is the standard first-line regimen for hormone receptor-positive, human epidermal growth factor receptor 2-negative (HR+/HER2-) metastatic breast cancer (MBC). Resistance remains a chall...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0e4a247f909e222b006a80634975c887d2b889d0a27b1ed756",
-        "reviewedAt": "2026-08-15T13:01:25.377475+00:00",
-        "inputHash": "ec5e9e6a9e8553b78b40f4c91483182a764496a024affb6fd73b065a10ec2587",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号的事实、报告和推断明确区分，符合发布要求。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主分类和子分类合理."
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平中等，符合该领域标准."
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42601904。",
-          "report": "The combination of CDK4/6 inhibitors (CDK4/6i) and endocrine therapy (ET) is the standard first-line regimen for hormone receptor-positive, human epidermal growth factor receptor 2-negative (HR+/HER2-) metastatic breast cancer (MBC). Resistance remains a challenge...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42601892",
-      "date": "2026-07-31",
-      "title": "Longitudinal monitoring of circulating tumor cell phenotypic conversion as a predictor of late recurrence in breast cancer: a prospective feasibility study using the GenoCTC platform.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42601892/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42601892。",
-      "report": "Patients with hormone receptor-positive (HR+) breast cancer faces a persistent, constant risk of distant recurrence for over 20 years. This proof-of-concept study evaluated the clinical utility of circulating tumor cell (CTCs) monitoring using the GenoCTC® pla...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_00f97f99956b6eaf006a80634eb88881918ee98bb28d6d3410",
-        "reviewedAt": "2026-08-15T13:01:25.377475+00:00",
-        "inputHash": "02aeb897c6beafa846ee14d954f58fddce508f23e2b16469123640bb0956f5c6",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审核，因缺乏对研究质量的判断及可能的临床结论。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类与研究质量支持不足。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平被评估为中等，但缺乏对研究质量的详细信息。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Biotech",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "biotech",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42601892。",
-          "report": "Patients with hormone receptor-positive (HR+) breast cancer faces a persistent, constant risk of distant recurrence for over 20 years. This proof-of-concept study evaluated the clinical utility of circulating tumor cell (CTCs) monitoring using the GenoCTC® pla...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -6672,6 +6550,162 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "pubmed-42604781",
+      "date": "2026-07-01",
+      "title": "[Recent Advances in the Treatment of Craniopharyngioma:A Breakthrough in Molecular Targeted Therapy].",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604781/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 No shinkei geka. Neurological surgery，PMID 为 42604781。",
+      "report": "Craniopharyngiomas are benign sellar and parasellar tumors that present significant clinical challenge because of their close proximity to the optic apparatus, hypothalamus, and pituitary gland. Recent molecular studies have identified distinct driver mutation...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_09d50b7881a85f22006a82b5dd9f1887d0849a99eb4cdeb391",
+        "reviewedAt": "2026-08-17T07:18:41.810024+00:00",
+        "inputHash": "47c225900339057e498eb384eaf7da14c188f6b4aac8a4d01d53e56d0384df0f",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录合理，信息分类清晰。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主类别和子类别合理，符合文献内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分离清晰，证据水平合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "临床",
+            "监管",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 No shinkei geka. Neurological surgery，PMID 为 42604781。",
+          "report": "Craniopharyngiomas are benign sellar and parasellar tumors that present significant clinical challenge because of their close proximity to the optic apparatus, hypothalamus, and pituitary gland. Recent molecular studies have identified distinct driver mutation...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42604776",
+      "date": "2026-07-01",
+      "title": "[Treatment of CNS Germ Cell Tumors].",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604776/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 No shinkei geka. Neurological surgery，PMID 为 42604776。",
+      "report": "Central nervous system (CNS) germ cell tumors (GCTs) are rare neoplasms that predominantly affect adolescents and young adults and occur at a notably higher incidence in East Asian populations. They are classified into two major categories: germinomas and non-...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_089198dc5d75fd2c006a82b5e31ff487d089e7144417f3d86c",
+        "reviewedAt": "2026-08-17T07:18:41.810024+00:00",
+        "inputHash": "47c4af169d7f4c24328fb50d892513704411fd9cb338f59d756001e4ca19edb2",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需人工审核，存在潜在的质量和结论问题。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类不清晰，文献所述内容与分类之间可能存在差异。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平标记为中等，但文献的具体内容不足以支持这一水平。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 No shinkei geka. Neurological surgery，PMID 为 42604776。",
+          "report": "Central nervous system (CNS) germ cell tumors (GCTs) are rare neoplasms that predominantly affect adolescents and young adults and occur at a notably higher incidence in East Asian populations. They are classified into two major categories: germinomas and non-...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
