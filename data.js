@@ -821,6 +821,217 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42606177",
+      "date": "2026-08-17",
+      "title": "Redesign of energetically frustrated regions rescues function in defective T4 clamp loaders.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42606177/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular biology and evolution，PMID 为 42606177。",
+      "report": "DNA polymerase clamp loaders are AAA+ ATPases that load sliding clamps on DNA for high-speed replication. Using a platform for high-throughput mutagenesis of replication proteins in T4 bacteriophage, we carried out saturation mutagenesis of the AAA+ ATPase mod...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_04973da4761d12af006a835a585908819ab4913d45af5b16b5",
+        "reviewedAt": "2026-08-17T19:00:39.458954+00:00",
+        "inputHash": "ef04038fe9e47bfdf036bdb81319b3c231d2ec8ac166a13de4cdaa6b8f560fcd",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需人工审核，基于文献数据可能存在临床推论不足的问题。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "一级分类未能充分支持研究质量，分类可能不准确。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "提供的证据水平为中等，但对临床或科学结论支持不足。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Biotech"
+          ],
+          "tags": [
+            "biotech"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Molecular biology and evolution，PMID 为 42606177。",
+          "report": "DNA polymerase clamp loaders are AAA+ ATPases that load sliding clamps on DNA for high-speed replication. Using a platform for high-throughput mutagenesis of replication proteins in T4 bacteriophage, we carried out saturation mutagenesis of the AAA+ ATPase mod...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42605681",
+      "date": "2026-08-17",
+      "title": "Computational navigation of constrained multidimensional protein fitness landscapes.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42605681/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 42605681。",
+      "report": "Protein engineering relies heavily on computational characterization of constrained protein fitness landscapes, in which only a limited fraction of sequence space corresponds to stable and functional biomolecules. Advances in structural biology and machine lea...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0c9716ec8ce8131d006a835a5ff57c87d094dc8b3111dc7b45",
+        "reviewedAt": "2026-08-17T19:00:39.458954+00:00",
+        "inputHash": "633fb49f99f41af206a98f6056491ebae2a6c68b113db7f938cf73cacb1c3aa4",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "此卡片内容一致，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合文献主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断各自清晰分开，证据水平合理。"
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "AI Drug Discovery",
+          "subCategory": "AI-enabled Discovery",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "AI for Biology",
+            "Drug Discovery"
+          ],
+          "tags": [
+            "AI 制药",
+            "蛋白设计",
+            "分子生成"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 42605681。",
+          "report": "Protein engineering relies heavily on computational characterization of constrained protein fitness landscapes, in which only a limited fraction of sequence space corresponds to stable and functional biomolecules. Advances in structural biology and machine lea...",
+          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42606335",
+      "date": "2026-08-17",
+      "title": "Whole Genome HPV Liquid Biopsy for HPV-Associated Cancer Detection and Viral Physical State Classification.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42606335/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42606335。",
+      "report": "HPV-associated carcinomas(HPV+cancers) account for 5% of all cancers. Circulating tumor HPV DNA(ctHPVDNA) assays for HPV+ cancer surveillance have limited prognostic utility at the time of cancer diagnosis. While HPV integration into the host genome is a prove...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0b5bbab8111e3219006a835a658b2081989f6040e7f4c3733d",
+        "reviewedAt": "2026-08-17T19:00:39.458954+00:00",
+        "inputHash": "8ec1f0984258f4ed35aec427d4f87a31a59bdfcfc51032a514e657ec1aa2fc68",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号需要人工审核以确保没有不支持的临床结论或建议。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类与证据水平不一致，可能需要调整。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平仅为中等，但需要更强支持。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42606335。",
+          "report": "HPV-associated carcinomas(HPV+cancers) account for 5% of all cancers. Circulating tumor HPV DNA(ctHPVDNA) assays for HPV+ cancer surveillance have limited prognostic utility at the time of cancer diagnosis. While HPV integration into the host genome is a proved factor...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42605004",
       "date": "2026-08-16",
       "title": "Cystic Fibrosis and Colorectal Cancer Risk: Reprogramming of the Intestinal Epithelial Niche and Cell-State Plasticity in the CFTR Modulator Era.",
@@ -2674,147 +2885,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42564489",
-      "date": "2026-08-06",
-      "title": "Physics-informed latent-space optimization for energy-aligned hole-collecting monolayers in inverted perovskite solar cells.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42564489/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 RSC advances，PMID 为 42564489。",
-      "report": "Precise energy-level alignment at buried interfaces is critical for high-performance inverted perovskite solar cells, where the highest occupied molecular orbital (HOMO) of hole-collecting monolayers (HCMs) must be tuned relative to the valence band maximum (V...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0213e347d0bb2e54006a762fb1294481a081d1ffb06d4c7499",
-        "reviewedAt": "2026-08-07T19:18:38.544441+00:00",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "文献支持的内容清晰且合规，未包含临床结论或治疗建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别合理，符合文献主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论之间分离明确，提供的证据水平合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "AI for Biology",
-            "Drug Discovery",
-            "Drug Screening"
-          ],
-          "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 RSC advances，PMID 为 42564489。",
-          "report": "Precise energy-level alignment at buried interfaces is critical for high-performance inverted perovskite solar cells, where the highest occupied molecular orbital (HOMO) of hole-collecting monolayers (HCMs) must be tuned relative to the valence band maximum (V...",
-          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        },
-        "inputHash": "7afe4a60d336da5a1e62ae96dbea608cb1b59d6e1dec4d04d315fa935a1bb7d7"
-      }
-    },
-    {
-      "id": "pubmed-42561121",
-      "date": "2026-08-06",
-      "title": "Structure-forward targeting of claudins with synthetic binders.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42561121/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 42561121。",
-      "report": "Claudins regulate molecular transport between cells via the paracellular route at tight junctions in epithelial and endothelial tissues and are prime targets for biologic therapies. Claudin-claudin interactions through their extracellular segments facilitate f...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0ab20146be47db1d006a7524598eb8819887d09cf49fd15f1c",
-        "reviewedAt": "2026-08-07T00:18:09.830113+00:00",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人类判断，因为包含不确定的临床结论和研究质量信息不足。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类与证据水平不一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平仅为中等，但报告内容涉及潜在治疗效果。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Biotech"
-          ],
-          "tags": [
-            "biotech"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 42561121。",
-          "report": "Claudins regulate molecular transport between cells via the paracellular route at tight junctions in epithelial and endothelial tissues and are prime targets for biologic therapies. Claudin-claudin interactions through their extracellular segments facilitate further research.",
-          "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "缺少对研究质量、样本量、利益冲突、临床阶段或商业化状态的判断。"
-        },
-        "inputHash": "33271e1c397b3a34c1f271ac9fe819e592cb85b7f5ee069d10d3d7fdb3336ffb"
-      }
-    },
-    {
       "id": "sec-0001652130-000119312526337952",
       "date": "2026-08-06",
       "title": "Intellia Therapeutics filed Form 10-Q",
@@ -4206,80 +4276,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42602251",
-      "date": "2026-07-31",
-      "title": "Circulating tumour DNA in mCRPC: bridging tumour biology and real-time treatment monitoring.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42602251/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in molecular medicine，PMID 为 42602251。",
-      "report": "Metastatic castration-resistant prostate cancer (mCRPC) is associated with poor prognosis. Currently, treatment selection and response assessment in mCRPC still rely largely on prostate-specific antigen (PSA) and imaging tools, which may be insensitive and bio...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_048331556dfdbf0b006a80b4b8a28c8197b029e2e059a60408",
-        "reviewedAt": "2026-08-15T18:49:22.974080+00:00",
-        "inputHash": "04a2298d1ade185404778f33b5c6eac97e1b10f56e65de3cbf18997eaab84867",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审查以验证潜在的临床结论。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "尽管主题合理，但分类质量需进一步验证。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "中等证据级别似乎不足以支持该主题的临床结论。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in molecular medicine，PMID 为 42602251。",
-          "report": "Metastatic castration-resistant prostate cancer (mCRPC) is associated with poor prognosis. Currently, treatment selection and response assessment in mCRPC still rely largely on prostate-specific antigen (PSA) and imaging tools, which may be insensitive and bio...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },

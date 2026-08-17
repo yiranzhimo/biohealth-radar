@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-17T13:09:03.693504+00:00",
+  "capturedAt": "2026-08-17T19:00:29.982549+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -26,18 +26,18 @@
     "42509463",
     "42498177",
     "42497867",
+    "42606177",
+    "42605681",
     "42591814",
     "42575164",
     "42572503",
     "42567392",
-    "42564489",
-    "42561121",
+    "42606335",
     "42604781",
     "42604776",
     "42604608",
     "42604142",
-    "42603675",
-    "42602251"
+    "42603675"
   ],
   "records": [
     {
@@ -263,6 +263,42 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42497867/"
     },
     {
+      "pmid": "42606177",
+      "title": "Redesign of energetically frustrated regions rescues function in defective T4 clamp loaders.",
+      "abstract": "DNA polymerase clamp loaders are AAA+ ATPases that load sliding clamps on DNA for high-speed replication. Using a platform for high-throughput mutagenesis of replication proteins in T4 bacteriophage, we carried out saturation mutagenesis of the AAA+ ATPase module of the T4 clamp loader bearing a mutation, Gln 118→Asn (Q118N), that reduces fitness. We identified residues for which different mutations improve the fitness of the Q118N variant but are neutral in the wild-type background. These conditionally neutral \"rescue hotspots\" overlap with those identified earlier in another defective variant (D110C). These rescue hotspots localize to regions where the sequence is not optimal for the structure, as determined by energetic frustration analysis. We designed new sequences for three of these regions, using the protein-design algorithm ProteinMPNN. In two helical regions, several designed sequences increased the fitness of both wild-type and mutant proteins, likely due to enhanced stability. An inter-domain hinge in the AAA+ module changes conformation during activation, and designs for the hinge lead to loss of fitness in the wild-type background. However, when using the active conformation as the template, designs for the hinge increase the fitness of defective variants. In contrast designs templated on the inactive conformation lead to loss of fitness, suggesting that a proper conformational balance is crucial. Thus, adaptive capacity in the clamp loader resides in a network of conditionally neutral sites that enable functional tuning through shifts in stability and conformational equilibria.",
+      "journal": "Molecular biology and evolution",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Biochemistry, Vanderbilt University School of Medicine, Nashville, TN, USA 37240.",
+        "Laboratory of DNA Replication, The Rockefeller University, New York, NY, USA 10065.",
+        "Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA 10065.",
+        "Department of Chemistry, Vanderbilt University, Nashville, TN, USA 37240.",
+        "Department of Cell and Developmental Biology, Vanderbilt University, Nashville, TN, USA 37240."
+      ],
+      "doi": "10.1093/molbev/msag204",
+      "date": "2026-08-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42606177/"
+    },
+    {
+      "pmid": "42605681",
+      "title": "Computational navigation of constrained multidimensional protein fitness landscapes.",
+      "abstract": "Protein engineering relies heavily on computational characterization of constrained protein fitness landscapes, in which only a limited fraction of sequence space corresponds to stable and functional biomolecules. Advances in structural biology and machine learning are progressively shifting protein design strategies from empirical optimization toward multidimensional evaluation of sequence-structure-function relationships. This review examines current computational strategies for exploring these landscapes, including sequence-derived evolutionary descriptors, structural fitness assessment, energetic evaluation, and integrated multi-parameter scoring. Recent developments in protein language models, deep-learning-based structure prediction, generative protein design, and consensus scoring approaches support large-scale exploration of biologically accessible sequence space. Negative-design constraints, including aggregation propensity, intrinsic disorder, and developability are important in prioritizing experimentally tractable protein candidates. Finally, the integration of computational prediction with iterative experimental validation is discussed as a central framework for rational protein engineering. By framing structure prediction, sequence representation learning, and generative design as complementary strategies for navigating a single constrained fitness landscape, this review highlights integrated, multidimensional scoring and negative-design filtering as the critical link between computational candidate generation and experimentally tractable protein design.",
+      "journal": "FEBS letters",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Laboratory of In-Silico Design, Artificial Intelligence Center for Health and Biomedical Research, National Institutes of Biomedical Innovation, Health and Nutrition (NIBN), Osaka, Japan.",
+        "Pharmaceutical Biotechnology Lab, Department of Microbial Biotechnology, School of Biology and Center of Excellence in Phylogeny of Living Organisms, College of Science, University of Tehran, Iran."
+      ],
+      "doi": "10.1002/1873-3468.70442",
+      "date": "2026-08-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42605681/"
+    },
+    {
       "pmid": "42591814",
       "title": "Design, build and test of a targeted synthetic protein strategy.",
       "abstract": "Incorporating minimal antibody regions into engineered proteins is an effective strategy for creating targeted therapeutics and diagnostics. However, a major barrier to clinical translation is the lack of efficient methods to track their performance in vivo. Bioluminescence imaging using targeted reporter proteins offers a promising solution to this challenge. The aim of this study was to develop a novel in vivo imaging strategy using computationally engineered targeted synthetic proteins and to establish a validated pipeline for their design, construction, and testing. Multi-part synthetic proteins were designed and screened using in silico tools. These constructs targeted either an example bacterial target (S. aureus ClfA) or a cancer biomarker (MUC1). The top candidates, featuring antibody fragments (ScFv) and a luciferase reporter, were subsequently produced and tested in vitro and in murine models. Following computational design, select proteins were successfully produced and showed specific binding to their intended targets in vitro. Subsequent in vivo studies demonstrated that systemically administered proteins specifically accumulated at target cell locations. This was confirmed by localized bioluminescence that was dependent on both target cell number and protein quantity. This study demonstrates the use of targeted reporter proteins for real-time in vivo imaging and validates an effective workflow integrating computational design with wet-lab experimentation. Ultimately, this establishes a target-specific reporter protein platform that can be adapted for sensitive in vivo imaging of diverse targets, from bacterial infections to tumors.",
@@ -346,35 +382,29 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42567392/"
     },
     {
-      "pmid": "42564489",
-      "title": "Physics-informed latent-space optimization for energy-aligned hole-collecting monolayers in inverted perovskite solar cells.",
-      "abstract": "Precise energy-level alignment at buried interfaces is critical for high-performance inverted perovskite solar cells, where the highest occupied molecular orbital (HOMO) of hole-collecting monolayers (HCMs) must be tuned relative to the valence band maximum (VBM) to enable efficient hole extraction while minimizing energy loss. Systematic exploration of suitable molecular structures remains challenging because of the vast chemical design space and the computational cost of first-principles screening. A physics-informed generative molecular design framework is developed in which HCM discovery is formulated as an energy-alignment-constrained optimization problem. A high-accuracy HOMO prediction model trained on a large-scale first-principles dataset achieves a mean absolute error of 88 meV and demonstrates transferability to previously reported HCM molecules. The predictor is integrated with a variational autoencoder (VAE) to construct a continuous molecular latent space, where Bayesian optimization is performed using an objective function that explicitly encodes HOMO-VBM alignment, structural similarity to known HCM motifs, and anchoring-group requirements. Latent-space optimization selectively identifies candidate molecules that satisfy energy-level alignment while retaining key structural features of known HCMs and extending beyond existing chemical space. The resulting candidates exhibit both structural novelty and functional relevance, demonstrating that the framework enables directed and physics-guided exploration of molecular design space. This approach demonstrates the potential of combining molecular generation, HOMO prediction, and Bayesian optimization for HCM candidate discovery in inverted perovskite solar cells.",
-      "journal": "RSC advances",
+      "pmid": "42606335",
+      "title": "Whole Genome HPV Liquid Biopsy for HPV-Associated Cancer Detection and Viral Physical State Classification.",
+      "abstract": "HPV-associated carcinomas(HPV+cancers) account for 5% of all cancers. Circulating tumor HPV DNA(ctHPVDNA) assays for HPV+ cancer surveillance have limited prognostic utility at the time of cancer diagnosis. While HPV integration into the host genome is a proven tissue-based biomarker predicting poor clinical outcomes, existing clinically utilized ctHPVDNA assays cannot classify the viral physical state. We previously developed HPV-DeepSeek, a multi-feature HPV whole-genome sequencing liquid biopsy with 99% diagnostic accuracy at the time of HPV+ oropharynx cancer diagnosis. We test the diagnostic accuracy of HPV-DeepSeek in a cohort of 235 HPV+ cancers across nine anatomic sites and employ a novel blood-based computational classifier to infer HPV genome physical state from plasma, termed HPV-SIGNAL, to assess its prognostic potential. HPV-DeepSeek demonstrated a sensitivity and specificity of 99%. In 189 eligible samples, HPV-SIGNAL identified four viral physical states: episomal-only(N=71), episomal-rearranged(N=52), integrated-mixed(N=57), and integrated-clonal(N=9), which were confirmed and further elucidated via three orthogonal tissue and blood approaches. Patients harboring integrated viral states in the blood exhibited significantly worse age- and AJCC stage-adjusted progression-free survival(HR 2.78, 95% CI1.30-5.99, p=0.009) and overall survival(HR2.95, 95% CI 1.01-8.61, p=0.048) compared to patients with episomal states. HPV whole-genome sequencing liquid biopsy has high diagnostic accuracy across HPV+ cancer types and can be used to identify and classify HPV physical state from blood. Patients with integrated viral states detected in the blood demonstrated worse progression-free and overall survival, suggesting blood-based HPV physical state classification could be used as a prognostic tool at the time of cancer diagnosis.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Advanced Materials Science and Engineering, Faculty of Engineering Sciences, Kyushu University 6-1 Kasuga Koen, Kasuga Fukuoka 816-8580 Japan iikubo.satoshi.472@m.kyushu-u.ac.jp +81-92-583-7943."
+        "Massachusetts General Hospital Boston United States.",
+        "Harvard University United States.",
+        "Massachusetts Eye and Ear Infirmary Boston, MA United States.",
+        "Massachusetts Eye and Ear Infirmary Boston United States.",
+        "Massachusetts Eye and Ear Infirmary United States.",
+        "Massachusetts General Hospital United States.",
+        "Massachusetts General Hospital, Harvard Medical School Boston, MA United States.",
+        "Dana-Farber Cancer Institute Boston, MA United States.",
+        "Massachusetts General Hospital Boston, MA United States.",
+        "Massachusetts Eye and Ear, Massachusetts General Hospital, Harvard Medical School, Broad Institute Boston, MA United States.",
+        "Massachusetts General Hospital Boston, ma United States."
       ],
-      "doi": "10.1039/d6ra03728c",
-      "date": "2026-08-06",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42564489/"
-    },
-    {
-      "pmid": "42561121",
-      "title": "Structure-forward targeting of claudins with synthetic binders.",
-      "abstract": "Claudins regulate molecular transport between cells via the paracellular route at tight junctions in epithelial and endothelial tissues and are prime targets for biologic therapies. Claudin-claudin interactions through their extracellular segments facilitate form and function of tight junction barriers, making for defined targetable surfaces. However, developing biologic or small molecule binders against claudin extracellular segments is challenging because they are small, dynamic, and no structures of assemblies exist to guide efforts to rationally design binders. Here, I review claudin targeting strategies, recent advances using natural and synthetic molecules, and the impact these molecules have had on claudin or tight junction biology. I surmise that the therapeutic promise of any molecule is dependent on deeply considering how claudins assemble and what structures they take within and outside of tight junctions. This review thus focuses on structure-forward themes, with the hope of providing a framework for researchers to apply this knowledge in the design and development of new claudin-binding molecules with diverse properties, mechanisms, and functions.",
-      "journal": "FEBS letters",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Structural Biology, Jacobs School of Medicine and Biomedical Sciences, University at Buffalo, New York, USA."
-      ],
-      "doi": "10.1002/1873-3468.70424",
-      "date": "2026-08-06",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42561121/"
+      "doi": "10.1158/1078-0432.CCR-26-1467",
+      "date": "2026-08-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42606335/"
     },
     {
       "pmid": "42604781",
@@ -467,27 +497,94 @@
       "doi": "10.1016/j.taap.2026.117998",
       "date": "2026-08-15",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603675/"
-    },
-    {
-      "pmid": "42602251",
-      "title": "Circulating tumour DNA in mCRPC: bridging tumour biology and real-time treatment monitoring.",
-      "abstract": "Metastatic castration-resistant prostate cancer (mCRPC) is associated with poor prognosis. Currently, treatment selection and response assessment in mCRPC still rely largely on prostate-specific antigen (PSA) and imaging tools, which may be insensitive and biologically noninformative. Liquid biopsy (LB), particularly circulating tumor DNA (ctDNA), offers a minimally invasive and reproducible approach for real-time assessment of tumor burden and tumor genomics. Across major treatment classes, ctDNA tumor fraction has shown consistent prognostic value, while selected genomic alterations may provide therapy-specific predictive information. Early on-treatment ctDNA kinetics are also emerging as dynamic markers of response, although prospective validation is required before routine clinical implementation. In this narrative review, we synthesize current evidence on ctDNA biology, detection methods, and its clinical utility across key mCRPC treatment classes, including androgen receptor pathway inhibitors (ARPIs), taxane chemotherapy, PARP inhibitors, and PSMA-targeted radioligand therapy (RLT). We critically examine ctDNA tumor fraction as a pan-therapy prognostic biomarker, genomic alterations as potential predictors of treatment sensitivity or resistance, early kinetic changes as surrogate markers of response, and the biological and technical limitations that currently restrict clinical adoption. Overall, the current evidence base for ctDNA in mCRPC remains predominantly prognostic rather than definitively predictive. Its integration into routine clinical practice will require prospective biomarker-driven trials, assay standardization, and a clear demonstration of clinical utility. At present, ctDNA is best positioned as a complementary tool for risk stratification and disease monitoring, with the potential to evolve into a clinically actionable biomarker for treatment decision-making.",
-      "journal": "Frontiers in molecular medicine",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Basic & Translational Research, Nuclear Medicine Research Infrastructure (NuMeRI), Pretoria, South Africa.",
-        "Department of Nuclear Medicine, University of Pretoria (UP) & Steve Biko Academic Hospital, Pretoria, South Africa.",
-        "Department of Medicine, University of Cape Town and Groote Schuur Hospital, Cape Town, South Africa."
-      ],
-      "doi": "10.3389/fmmed.2026.1852641",
-      "date": "2026-07-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42602251/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42606177",
+      "date": "2026-08-17",
+      "title": "Redesign of energetically frustrated regions rescues function in defective T4 clamp loaders.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42606177/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular biology and evolution，PMID 为 42606177。",
+      "report": "DNA polymerase clamp loaders are AAA+ ATPases that load sliding clamps on DNA for high-speed replication. Using a platform for high-throughput mutagenesis of replication proteins in T4 bacteriophage, we carried out saturation mutagenesis of the AAA+ ATPase mod...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42605681",
+      "date": "2026-08-17",
+      "title": "Computational navigation of constrained multidimensional protein fitness landscapes.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42605681/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 42605681。",
+      "report": "Protein engineering relies heavily on computational characterization of constrained protein fitness landscapes, in which only a limited fraction of sequence space corresponds to stable and functional biomolecules. Advances in structural biology and machine lea...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42606335",
+      "date": "2026-08-17",
+      "title": "Whole Genome HPV Liquid Biopsy for HPV-Associated Cancer Detection and Viral Physical State Classification.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42606335/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42606335。",
+      "report": "HPV-associated carcinomas(HPV+cancers) account for 5% of all cancers. Circulating tumor HPV DNA(ctHPVDNA) assays for HPV+ cancer surveillance have limited prognostic utility at the time of cancer diagnosis. While HPV integration into the host genome is a prove...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42605004",
       "date": "2026-08-16",
@@ -834,63 +931,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42564489",
-      "date": "2026-08-06",
-      "title": "Physics-informed latent-space optimization for energy-aligned hole-collecting monolayers in inverted perovskite solar cells.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42564489/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 RSC advances，PMID 为 42564489。",
-      "report": "Precise energy-level alignment at buried interfaces is critical for high-performance inverted perovskite solar cells, where the highest occupied molecular orbital (HOMO) of hole-collecting monolayers (HCMs) must be tuned relative to the valence band maximum (V...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42561121",
-      "date": "2026-08-06",
-      "title": "Structure-forward targeting of claudins with synthetic binders.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42561121/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 42561121。",
-      "report": "Claudins regulate molecular transport between cells via the paracellular route at tight junctions in epithelial and endothelial tissues and are prime targets for biologic therapies. Claudin-claudin interactions through their extracellular segments facilitate f...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42604625",
       "date": "2026-08-05",
       "title": "Targeting PKM2 and GAPDH by baicalein and corilagin from TCM reduces lactylation and enhance cisplatin sensitivity in lung cancer.",
@@ -920,36 +960,6 @@
       "fact": "PubMed 记录显示该文献收录于 Phytomedicine : international journal of phytotherapy and phytopharmacology，PMID 为 42604625。",
       "report": "Protein lactylation plays a key role in cancer progression and chemotherapy sensitivity. Glycolysis inhibitors offer promise, particularly through combination strategies to counter metabolic compensation. This study aims to identify glycolysis-targeting active...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42602251",
-      "date": "2026-07-31",
-      "title": "Circulating tumour DNA in mCRPC: bridging tumour biology and real-time treatment monitoring.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42602251/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in molecular medicine，PMID 为 42602251。",
-      "report": "Metastatic castration-resistant prostate cancer (mCRPC) is associated with poor prognosis. Currently, treatment selection and response assessment in mCRPC still rely largely on prostate-specific antigen (PSA) and imaging tools, which may be insensitive and bio...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
