@@ -4,109 +4,86 @@
   "asOfDate": "2026-08-17",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-306058f119b3762b",
-      "observedName": "CTI BioPharma",
-      "normalizedName": "cti biopharma",
+      "id": "mention-clinicaltrials-43dbe4eb688023ef",
+      "observedName": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "normalizedName": "otsuka pharmaceutical development and commercialization",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT02323607",
-      "sourceDate": "2019-01-25",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT02323607",
+      "sourceRecordId": "NCT00615589",
+      "sourceDate": "2016-04-04",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00615589",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Longevity",
-        "Oncology",
-        "Precision Oncology",
-        "biomarker",
-        "临床试验",
-        "肿瘤",
-        "衰老"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Pacritinib and Chemotherapy in Treating Patients With Acute Myeloid Leukemia and FLT3 Mutations"
-    },
-    {
-      "id": "mention-clinicaltrials-37a7c67bb7c9fd11",
-      "observedName": "Ozmosis Research Inc.",
-      "normalizedName": "ozmosis research",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT06370832",
-      "sourceDate": "2026-03-30",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06370832",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Recruiting",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Inspiratory Muscle Training in Lung Transplant Candidates"
-    },
-    {
-      "id": "mention-clinicaltrials-844bd220a360c8d1",
-      "observedName": "Shanghai United Imaging Intelligence Ltd.",
-      "normalizedName": "shanghai united imaging intelligence",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT07634861",
-      "sourceDate": "2026-06-09",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07634861",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Healthcare AI",
-        "Medical AI",
-        "Recruiting",
-        "中国",
-        "临床决策支持",
-        "临床试验",
-        "医疗 AI"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Evaluating a Text-Prompt AI Assistant for Chest CT Scans (AI-REPORT Study)"
-    },
-    {
-      "id": "mention-clinicaltrials-defde993fb7fb350",
-      "observedName": "Novartis Pharmaceuticals",
-      "normalizedName": "novartis pharmaceuticals",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT01911507",
-      "sourceDate": "2021-10-13",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01911507",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
+        "Cell Therapy",
         "Clinical Trials",
         "Oncology",
         "Precision Oncology",
         "临床试验",
+        "细胞治疗",
         "肿瘤"
       ],
       "activitySignals": [
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "INC280 and Erlotinib Hydrochloride in Treating Patients With Non-small Cell Lung Cancer"
+      "contextTitle": "Stem Cell Transplantation To Treat High Risk Multiple Myeloma With Reduced Toxicity Myeloablative Conditioning Regimen"
+    },
+    {
+      "id": "mention-clinicaltrials-6b4708178c2cd247",
+      "observedName": "Skin Analytics Limited",
+      "normalizedName": "skin analytics",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT04123678",
+      "sourceDate": "2021-08-13",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04123678",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Healthcare AI",
+        "Medical AI",
+        "Oncology",
+        "Precision Oncology",
+        "临床决策支持",
+        "临床试验",
+        "医疗 AI",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "DERM Health Economics Study"
+    },
+    {
+      "id": "mention-clinicaltrials-7d58e0d8b5ae03ff",
+      "observedName": "Hamad Medical Corporation",
+      "normalizedName": "hamad medical",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT03660696",
+      "sourceDate": "2019-01-03",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03660696",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Diagnostics",
+        "Longevity",
+        "Precision Medicine",
+        "biomarker",
+        "临床试验",
+        "精准医疗",
+        "衰老",
+        "诊断"
+      ],
+      "activitySignals": [],
+      "contextTitle": "Qatar Cardiovascular Biorepository of AF Patients"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
