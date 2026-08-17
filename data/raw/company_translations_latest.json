@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_source_translations",
-  "capturedAt": "2026-08-16T05:03:27+00:00",
-  "sourceCapturedAt": "2026-08-16T05:03:18+00:00",
+  "capturedAt": "2026-08-17T05:18:23+00:00",
+  "sourceCapturedAt": "2026-08-17T05:18:16+00:00",
   "translationPolicyVersion": "company-source-zh-cn-v1",
   "translations": [
     {
@@ -423,6 +423,149 @@
       "translatedAt": "2026-08-15T04:59:35+00:00",
       "translationPolicyVersion": "company-source-zh-cn-v1",
       "responseId": "resp_09b8632d25cba873006a7ff238265087d2a11cdb276fcf6002"
+    },
+    {
+      "id": "translation-6701336049be81a0",
+      "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "sourceText": "RePORT ⟩ RePORTER",
+      "sourceUses": [
+        {
+          "companyId": "candidate-astero-erado",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-bioprovar",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-biotherapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-corvion",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-dauntless-biotherapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-delphi-stem",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-eldec-pharmaceuticals",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-gamma-biotherapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-informed-medical-decisions",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-kovina-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-merlin-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-midwest-bioprocessing-center",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-mitegen",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-nephropathology-associates",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-new-york-r-and-d-ctr-translational-med-ther",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-ossium-health",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-paralos-bioscience",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-pleopharma",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-radar-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-reelin-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-romix-biosciences",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-ship-of-theseus",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-taxis-pharmaceuticals",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-verisim-life",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-virtici",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-xtop-biotherapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        }
+      ],
+      "translationCn": "RePORT ⟩ RePORTER",
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "translatedAt": "2026-08-17T05:18:23+00:00",
+      "translationPolicyVersion": "company-source-zh-cn-v1",
+      "responseId": "resp_02b33b809d4d26f5006a8299a0890881a09a752c4b53f0038d"
     },
     {
       "id": "translation-6a16a98614d8e2b1",
