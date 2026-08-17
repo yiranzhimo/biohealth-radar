@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "capturedAt": "2026-08-16T04:00:25+00:00",
+  "capturedAt": "2026-08-17T04:04:14+00:00",
   "source": {
     "name": "NIH RePORTER",
     "type": "Government Funding",
@@ -19,39 +19,780 @@
     "molecular diagnostics"
   ],
   "queryMatchCounts": {
-    "biotechnology": 219,
-    "gene therapy": 810,
-    "cell therapy": 1192,
-    "drug discovery": 236,
-    "molecular diagnostics": 111
+    "biotechnology": 224,
+    "gene therapy": 835,
+    "cell therapy": 1222,
+    "drug discovery": 241,
+    "molecular diagnostics": 115
   },
   "records": [
     {
-      "applId": 11536933,
-      "projectNum": "4R44MH136867-02",
-      "projectTitle": "Design and Development of an Advanced Functional MRI Software as Medical Device (SaMD) forClinical Trials and Therapeutic Applications in Neuropsychiatry",
+      "applId": 11418428,
+      "projectNum": "5R41AG094356-02",
+      "projectTitle": "Identification of next generation gamma-secretase modulators for Alzheimer's disease",
       "fiscalYear": 2026,
-      "awardAmount": 606409,
-      "awardNoticeDate": "2026-08-07",
-      "projectStartDate": "2025-04-03",
+      "awardAmount": 241313,
+      "awardNoticeDate": "2026-08-14",
+      "projectStartDate": "2025-09-20",
+      "projectEndDate": "2027-05-31",
+      "organization": {
+        "name": "REELIN THERAPEUTICS, INC.",
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "country": "UNITED STATES",
+        "uei": "KTUYMKC7J4P5",
+        "ipf": "10053871",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy",
+        "drug discovery",
+        "gene therapy"
+      ],
+      "topicHints": [
+        "AI Drug Discovery",
+        "Precision Diagnostics"
+      ],
+      "projectSummaryExcerpt": "Abstract Alzheimer’s disease (AD) is the most common form of senile dementia. An estimated 6 million Americans are affected, and this number is increasing yearly. Currently, there is no cure for AD; however, it is widely accepted that inhibiting amyloid plaque formation would…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11418428"
+    },
+    {
+      "applId": 11417998,
+      "projectNum": "5U44AG074105-03",
+      "projectTitle": "An Innovative Immune Therapy with Antibiotics to Treat Deadly Excess Inflammation in Sepsis and ARDS Induced from Severe Bacterial Infection in Geriatric Patients",
+      "fiscalYear": 2026,
+      "awardAmount": 349073,
+      "awardNoticeDate": "2026-08-14",
+      "projectStartDate": "2021-09-30",
+      "projectEndDate": "2027-05-31",
+      "organization": {
+        "name": "BIOPROVAR CORPORATION",
+        "city": "HOUSTON",
+        "state": "TX",
+        "country": "UNITED STATES",
+        "uei": "J39NNLDS4KJ7",
+        "ipf": "10035428",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "biotechnology",
+        "cell therapy",
+        "gene therapy"
+      ],
+      "topicHints": [],
+      "projectSummaryExcerpt": "There are 1,665,000 cases of sepsis annually in the U.S. (H-CUP#122) with near 500,000 associated deaths, and currently, no FDA approved treatment. ARDS (acute respiratory distress syndrome) and sepsis are medical emergencies requiring intensive care and are fatal in 30-70% of…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11417998"
+    },
+    {
+      "applId": 11409780,
+      "projectNum": "2R44GM156169-02",
+      "projectTitle": "Improving cryopreservation outcomes of small biological samples through ultra-fast convective cooling and warming",
+      "fiscalYear": 2026,
+      "awardAmount": 999741,
+      "awardNoticeDate": "2026-08-14",
+      "projectStartDate": "2024-09-02",
       "projectEndDate": "2028-07-31",
       "organization": {
-        "name": "CERETYPE NEUROMEDICINE IN",
-        "city": "CAMBRIDGE",
-        "state": "MA",
+        "name": "MITEGEN, LLC",
+        "city": "ITHACA",
+        "state": "NY",
         "country": "UNITED STATES",
-        "uei": "PTQALBW4FT27",
-        "ipf": "10076483",
+        "uei": "HF7WN2N6GB43",
+        "ipf": "10005306",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "biotechnology"
+      ],
+      "topicHints": [
+        "Precision Diagnostics"
+      ],
+      "projectSummaryExcerpt": "Project Summary/Abstract Cryopreservation of oocytes, embryos, cells, tissues and other small biological samples plays a key role in medicine, in biomedical/biotechnological research, and in assisted reproduction of humans, domestic animals, and endangered species. The NIH…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11409780"
+    },
+    {
+      "applId": 11401143,
+      "projectNum": "5R44NS145814-02",
+      "projectTitle": "AAV-mediated delivery of the inflammasome adapter protein, ASC, as a pro-apoptotic gene therapy for schwannoma",
+      "fiscalYear": 2026,
+      "awardAmount": 1500000,
+      "awardNoticeDate": "2026-08-14",
+      "projectStartDate": "2025-08-27",
+      "projectEndDate": "2027-07-31",
+      "organization": {
+        "name": "MERLIN THERAPEUTICS INC",
+        "city": "KING OF PRUSSIA",
+        "state": "PA",
+        "country": "UNITED STATES",
+        "uei": "MVKSHRPYUJ22",
+        "ipf": "10073213",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy",
+        "gene therapy"
+      ],
+      "topicHints": [],
+      "projectSummaryExcerpt": "SUMMARY Schwannomas are slow-growing non-malignant tumors that grow along peripheral, spinal, and cranial nerves. Schwannomas may arise sporadically or as part of the debilitating genetic syndromes NF2-related schwannomatosis (NF2-SWN) and schwannomatosis. In approximately 60%…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11401143"
+    },
+    {
+      "applId": 11395416,
+      "projectNum": "5R44AG084503-03",
+      "projectTitle": "Exosome drug for tendinopathy",
+      "fiscalYear": 2026,
+      "awardAmount": 719580,
+      "awardNoticeDate": "2026-08-14",
+      "projectStartDate": "2024-07-01",
+      "projectEndDate": "2027-06-30",
+      "organization": {
+        "name": "NEW YORK/R&D/CTR/TRANSLATIONAL MED/THER",
+        "city": "New Rochelle",
+        "state": "NY",
+        "country": "UNITED STATES",
+        "uei": "JBDNWL5M9D43",
+        "ipf": "10034574",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy",
+        "gene therapy"
+      ],
+      "topicHints": [
+        "Cell Therapy"
+      ],
+      "projectSummaryExcerpt": "Project Summary Tendinopathy is an age-related tendon disorder characterized by tendon deterioration and is associated with pain, swelling and impaired performance, and often leads to tendon rupture. Given that there is no disease- modifying therapeutic on the market, our…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11395416"
+    },
+    {
+      "applId": 11374562,
+      "projectNum": "5R42DA056084-03",
+      "projectTitle": "Development of therapeutic candidates for stimulant use disorder using AI-driven platform for focused drug discovery and accelerated development",
+      "fiscalYear": 2026,
+      "awardAmount": 512644,
+      "awardNoticeDate": "2026-08-14",
+      "projectStartDate": "2025-07-15",
+      "projectEndDate": "2028-07-31",
+      "organization": {
+        "name": "VERISIM LIFE, INC.",
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "country": "UNITED STATES",
+        "uei": "YLBHHR2HKLS1",
+        "ipf": "10057462",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "drug discovery"
+      ],
+      "topicHints": [
+        "Precision Diagnostics",
+        "AI Drug Discovery"
+      ],
+      "projectSummaryExcerpt": "PROJECT SUMMARY Stimulant use disorder (StUD) is emerging as a serious global threat to health, with an exponential rise in prevalence and overdose deaths. In 2022, 60 million people reported past year use of stimulants, with 35 million people meeting the criteria for a StUD…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11374562"
+    },
+    {
+      "applId": 11316197,
+      "projectNum": "1R43AI197768-01",
+      "projectTitle": "In vivo CAR therapies for lupus treatment using selectively expressed genetic payloads in immune-cell-biased lipid nanoparticles",
+      "fiscalYear": 2026,
+      "awardAmount": 306928,
+      "awardNoticeDate": "2026-08-14",
+      "projectStartDate": "2026-08-14",
+      "projectEndDate": "2028-07-31",
+      "organization": {
+        "name": "RADAR THERAPEUTICS INC",
+        "city": "EMERYVILLE",
+        "state": "CA",
+        "country": "UNITED STATES",
+        "uei": "MLPTR8NXFEE4",
+        "ipf": "10080080",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy",
+        "gene therapy"
+      ],
+      "topicHints": [
+        "Cell Therapy",
+        "Precision Diagnostics"
+      ],
+      "projectSummaryExcerpt": "PROJECT SUMMARY Lupus is a highly heterogeneous and chronic autoimmune disease. Systemic Lupus Erythematosus (SLE), the most common type of lupus, causes severe inflammation that can result in chronic pain, organ damage, and serious complications. Lupus imposes a significant…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11316197"
+    },
+    {
+      "applId": 11315138,
+      "projectNum": "1R44CA310443-01",
+      "projectTitle": "INHERET: Commercialization and EHR Integration of an Innovative Personalized Medicine Tool to Advance Cancer Screening and Management",
+      "fiscalYear": 2026,
+      "awardAmount": 1216515,
+      "awardNoticeDate": "2026-08-14",
+      "projectStartDate": "2026-08-14",
+      "projectEndDate": "2028-07-31",
+      "organization": {
+        "name": "INFORMED MEDICAL DECISIONS, INC.",
+        "city": "St Petersburg",
+        "state": "FL",
+        "country": "UNITED STATES",
+        "uei": "XWPJRXC548Z8",
+        "ipf": "10019218",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "gene therapy"
+      ],
+      "topicHints": [
+        "Precision Diagnostics"
+      ],
+      "projectSummaryExcerpt": "Project Summary/Abstract INHERET is a web-based cancer risk assessment and clinical management program that is currently focused on hereditary cancer risk. In 2024, lnformedDNA, a well-established nationwide medical practice offering clinical cancer risk assessment, genetic…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11315138"
+    },
+    {
+      "applId": 11312847,
+      "projectNum": "1R44CA302154-01A1",
+      "projectTitle": "Novel Therapeutics to Treat HPV-Associated Cancers",
+      "fiscalYear": 2026,
+      "awardAmount": 1143891,
+      "awardNoticeDate": "2026-08-14",
+      "projectStartDate": "2026-08-14",
+      "projectEndDate": "2028-07-31",
+      "organization": {
+        "name": "KOVINA THERAPEUTICS INC.",
+        "city": "INDIANAPOLIS",
+        "state": "IN",
+        "country": "UNITED STATES",
+        "uei": "YBFLBP3NTM27",
+        "ipf": "10064494",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy",
+        "gene therapy"
+      ],
+      "topicHints": [
+        "Precision Diagnostics"
+      ],
+      "projectSummaryExcerpt": "Human papillomaviruses (HPV) cause very common infections of cutaneous and mucosal epithelia. Infection with specific “high risk” HPV types can progress to premalignant lesions called dysplasias, which over a period of years, can eventuate in invasive and metastatic…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11312847"
+    },
+    {
+      "applId": 11184608,
+      "projectNum": "1R43AI186801-01A1",
+      "projectTitle": "Production of low-cost heat stable forms of adalimumab in maize for treatment of inflammatory bowel disease.",
+      "fiscalYear": 2026,
+      "awardAmount": 299936,
+      "awardNoticeDate": "2026-08-14",
+      "projectStartDate": "2026-08-14",
+      "projectEndDate": "2028-07-31",
+      "organization": {
+        "name": "APPLIED BIOTECHNOLOGY INSTITUTE",
+        "city": "SAN LUIS OBISPO",
+        "state": "CA",
+        "country": "UNITED STATES",
+        "uei": "XNMLFC55AWN3",
+        "ipf": "10005837",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy",
+        "gene therapy"
+      ],
+      "topicHints": [],
+      "projectSummaryExcerpt": "SUMMARY/ABSTRACT In keeping with the NIH’s stated priority for the development of therapeutics for autoimmune disease, our goal is to develop an effective and conveniently delivered antibody therapeutic for inflammatory bowel disease (IBD). Inflammatory bowel disease (IBD) is…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11184608"
+    },
+    {
+      "applId": 11424742,
+      "projectNum": "3R44HL158313-03S1",
+      "projectTitle": "Stimulant for stem cell expansion in vivo to speed recovery of neutropenia secondary to chemotherapy and stem cell transplant",
+      "fiscalYear": 2026,
+      "awardAmount": 50000,
+      "awardNoticeDate": "2026-08-13",
+      "projectStartDate": "2021-08-10",
+      "projectEndDate": "2027-07-31",
+      "organization": {
+        "name": "SHIP OF THESEUS, LLC",
+        "city": "Eagleville",
+        "state": "PA",
+        "country": "UNITED STATES",
+        "uei": "NBZMY6CX12K6",
+        "ipf": "10049827",
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
         "cell therapy"
       ],
       "topicHints": [
+        "Cell Therapy"
+      ],
+      "projectSummaryExcerpt": "PROJECT SUMMARY Hematopoietic stem cell (HSC) transplants (HSCTs) are considered a potentially curative option for patients with certain cancers of the blood and bone marrow, and over 20,000 HSCTs are performed in the US each year. However, HSCTs are associated with high risk…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11424742"
+    },
+    {
+      "applId": 11408167,
+      "projectNum": "1R43GM165201-01",
+      "projectTitle": "Chemoenzymatic Production of Bioorthogonal Carbohydrates for Glycan Research Applications",
+      "fiscalYear": 2026,
+      "awardAmount": 313957,
+      "awardNoticeDate": "2026-08-13",
+      "projectStartDate": "2026-08-13",
+      "projectEndDate": "2027-07-31",
+      "organization": {
+        "name": "MIDWEST BIOPROCESSING CENTER, INC.",
+        "city": "Peoria",
+        "state": "IL",
+        "country": "UNITED STATES",
+        "uei": "JCEBBQJC8TV5",
+        "ipf": "10057904",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "drug discovery"
+      ],
+      "topicHints": [
+        "AI Drug Discovery"
+      ],
+      "projectSummaryExcerpt": "Project Summary The goal of this project is to develop a series of bioorthogonal nucleotide sugars that can be used in drug discovery research applications using a chemoenzymatic strategy. Bioorthogonal chemistry involves the utility of chemical reactions that do not disrupt…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11408167"
+    },
+    {
+      "applId": 11407471,
+      "projectNum": "1R43CA310454-01A1",
+      "projectTitle": "Study of CB-101: A Novel First-in-Class Trispecific Antibody Targeting ROR1, EpCAM, and CD3 for the Treatment of Colorectal Cancer and Other Solid Tumors",
+      "fiscalYear": 2026,
+      "awardAmount": 400000,
+      "awardNoticeDate": "2026-08-13",
+      "projectStartDate": "2026-08-13",
+      "projectEndDate": "2027-07-31",
+      "organization": {
+        "name": "XTOP BIOTHERAPEUTICS INC.",
+        "city": "WORCESTER",
+        "state": "MA",
+        "country": "UNITED STATES",
+        "uei": "SMSZESNKE3Z5",
+        "ipf": "10091261",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy",
+        "gene therapy"
+      ],
+      "topicHints": [
+        "Organoids & Disease Models"
+      ],
+      "projectSummaryExcerpt": "PROJECT SUMMARY / ABSTRACT Currently approved T-cell engagers (TCEs) have revolutionized cancer therapy. However, the success of traditional TCEs in treating solid tumors has been limited, primarily due to on-target, off-tumor toxicity caused by tumor-associated antigen (TAA)…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11407471"
+    },
+    {
+      "applId": 11345814,
+      "projectNum": "1R43DK142739-01A1",
+      "projectTitle": "Personalized Diabetes Management through iPSC-Derived β-cells: A Tailored Approach for Improving Treatment Efficacy in Economically Vulnerable Populations",
+      "fiscalYear": 2026,
+      "awardAmount": 306863,
+      "awardNoticeDate": "2026-08-13",
+      "projectStartDate": "2026-08-15",
+      "projectEndDate": "2027-07-31",
+      "organization": {
+        "name": "DELPHI STEM, INC",
+        "city": "ATLANTA",
+        "state": "GA",
+        "country": "UNITED STATES",
+        "uei": "GESADYE1DFV3",
+        "ipf": "10076023",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy",
+        "gene therapy"
+      ],
+      "topicHints": [
+        "Cell Therapy"
+      ],
+      "projectSummaryExcerpt": "Delphi Stem LLC. 7. PROJECT SUMMARY Diabetes mellitus (DM), a metabolic disorder caused by loss or dysfunction of insulin-producing β-cells, affects over 537 million individuals globally, with projections reaching 783 million by 2045. In 2021, 38.4 million Americans (11.6% of…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11345814"
+    },
+    {
+      "applId": 11315901,
+      "projectNum": "1R44CA310416-01",
+      "projectTitle": "Clinical development of the anti-fas ligand monoclonal antibody M3T01 for treatment of advanced cancers",
+      "fiscalYear": 2026,
+      "awardAmount": 979068,
+      "awardNoticeDate": "2026-08-13",
+      "projectStartDate": "2026-08-11",
+      "projectEndDate": "2028-07-31",
+      "organization": {
+        "name": "GAMMA BIOTHERAPEUTICS, INC.",
+        "city": "PORTLAND",
+        "state": "OR",
+        "country": "UNITED STATES",
+        "uei": "FT1KYBH6T2F9",
+        "ipf": "10077931",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy",
+        "gene therapy"
+      ],
+      "topicHints": [
         "Precision Diagnostics"
       ],
-      "projectSummaryExcerpt": "ABSTRACT Neuropsychiatric conditions comprise a significant portion of global disease burden, yet approval rates for novel therapies remain low. This stems from a continuing lack of evidence from human subjects on neurobiological target engagement and mechanisms of action,…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11536933"
+      "projectSummaryExcerpt": "PROJECT SUMMARY/ABSTRACT The development of modern immunotherapies has revolutionized the treatment of patients with advanced cancer. Unfortunately, these therapies fail to help the majority of patients battling cancer. The lack of efficacy of these therapies is due, in part,…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11315901"
+    },
+    {
+      "applId": 11310525,
+      "projectNum": "1R43AI197314-01",
+      "projectTitle": "Novel Immunoregulatory Therapeutics for Bacterial Gastritis",
+      "fiscalYear": 2026,
+      "awardAmount": 314363,
+      "awardNoticeDate": "2026-08-13",
+      "projectStartDate": "2026-08-13",
+      "projectEndDate": "2027-01-31",
+      "organization": {
+        "name": "BIOTHERAPEUTICS, INC.",
+        "city": "Blacksburg",
+        "state": "VA",
+        "country": "UNITED STATES",
+        "uei": "DKZNEQL174E3",
+        "ipf": "10030530",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "biotechnology",
+        "cell therapy",
+        "gene therapy"
+      ],
+      "topicHints": [
+        "AI Drug Discovery"
+      ],
+      "projectSummaryExcerpt": "Novel Immunoregulatory Therapeutics for Bacterial Gastritis Biotherapeutics Inc (BTI) is an emerging biotech company that synergistically combines the power of advanced computational modeling and A.I. with translational experimentation to accelerate the development of novel…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11310525"
+    },
+    {
+      "applId": 11253459,
+      "projectNum": "1R44AI188778-01A1",
+      "projectTitle": "A Novel Immune-modulating Probiotic for Treating Rheumatoid Arthritis ",
+      "fiscalYear": 2026,
+      "awardAmount": 300222,
+      "awardNoticeDate": "2026-08-13",
+      "projectStartDate": "2026-08-13",
+      "projectEndDate": "2028-01-31",
+      "organization": {
+        "name": "VIRTICI, LLC",
+        "city": "Seattle",
+        "state": "WA",
+        "country": "UNITED STATES",
+        "uei": "V29SWGG4MQ64",
+        "ipf": "10028944",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy",
+        "gene therapy"
+      ],
+      "topicHints": [
+        "Organoids & Disease Models",
+        "Precision Diagnostics"
+      ],
+      "projectSummaryExcerpt": "Project Summary Our goal is to commercialize VTC-L35 as a novel, orally administered therapy for long-term disease remission of rheumatoid arthritis (RA). RA is a chronic, systemic inflammatory disorder affecting up to 1% of the US population1, 2. While many organs are…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11253459"
+    },
+    {
+      "applId": 11390617,
+      "projectNum": "1U01DA066079-01",
+      "projectTitle": "Phase 3 Trial of PP-01 for Mitigation of Cannabis Withdrawal in CUD",
+      "fiscalYear": 2026,
+      "awardAmount": 2199962,
+      "awardNoticeDate": "2026-08-12",
+      "projectStartDate": "2026-08-15",
+      "projectEndDate": "2029-04-30",
+      "organization": {
+        "name": "PLEOPHARMA, INC.",
+        "city": "MALVERN",
+        "state": "PA",
+        "country": "UNITED STATES",
+        "uei": "NSW8A6YH85C1",
+        "ipf": "10082872",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "gene therapy"
+      ],
+      "topicHints": [
+        "Precision Diagnostics"
+      ],
+      "projectSummaryExcerpt": "PROJECT SUMMARY Cannabis Use Disorder (CUD) affects an estimated 20.6 million individuals in the United States and remains a growing public health concern as cannabis use increases across all age groups. Despite this, there are currently no FDA-approved medications to treat CUD…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11390617"
+    },
+    {
+      "applId": 11315213,
+      "projectNum": "1R43AI197708-01",
+      "projectTitle": "Precision Diagnostics in T-cell Mediated Rejection: Predicting Treatment Resistance at Time of Diagnosis",
+      "fiscalYear": 2026,
+      "awardAmount": 266613,
+      "awardNoticeDate": "2026-08-12",
+      "projectStartDate": "2026-08-12",
+      "projectEndDate": "2027-07-31",
+      "organization": {
+        "name": "NEPHROPATHOLOGY ASSOCIATES",
+        "city": "LITTLE ROCK",
+        "state": "AR",
+        "country": "UNITED STATES",
+        "uei": "LFE7CWNKK1X3",
+        "ipf": "4404401",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "gene therapy",
+        "molecular diagnostics"
+      ],
+      "topicHints": [
+        "Precision Diagnostics"
+      ],
+      "projectSummaryExcerpt": "Title: Precision Diagnostics in T-cell Mediated Rejection: Predicting Treatment Resistance at Time of Diagnosis PROJECT SUMMARY The goal of this Phase I SBIR is to build a predictive test for treatment responsiveness of acute T-cell mediated rejection (TCMR) of kidney…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11315213"
+    },
+    {
+      "applId": 11312298,
+      "projectNum": "1R43AI197297-01",
+      "projectTitle": "Lead identification of oral FtsZ inhibitors for the treatment of Clostridioides difficile infections(CDI)",
+      "fiscalYear": 2026,
+      "awardAmount": 294729,
+      "awardNoticeDate": "2026-08-12",
+      "projectStartDate": "2026-08-12",
+      "projectEndDate": "2028-07-31",
+      "organization": {
+        "name": "TAXIS PHARMACEUTICALS, INC.",
+        "city": "MONMOUTH JUNCTION",
+        "state": "NJ",
+        "country": "UNITED STATES",
+        "uei": "C2NWS2FZS5F5",
+        "ipf": "10021742",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy",
+        "gene therapy"
+      ],
+      "topicHints": [],
+      "projectSummaryExcerpt": "Abstract: Clostridioides difficile (C. difficile) is the leading cause of healthcare-associated infection in the US and considered an urgent threat by the Centers for Disease Control and Prevention (CDC). Only three antibiotics, metronidazole, vancomycin and fidaxomicin, are…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11312298"
+    },
+    {
+      "applId": 11424457,
+      "projectNum": "4R42DK145320-02",
+      "projectTitle": "Novel peptide therapeutics to treat cystic fibrosis-related diabetes",
+      "fiscalYear": 2026,
+      "awardAmount": 907989,
+      "awardNoticeDate": "2026-08-11",
+      "projectStartDate": "2025-09-12",
+      "projectEndDate": "2028-06-30",
+      "organization": {
+        "name": "ELDEC PHARMACEUTICALS, INC.",
+        "city": "Durham",
+        "state": "NC",
+        "country": "UNITED STATES",
+        "uei": "LJBWLKDBEM17",
+        "ipf": "10048636",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "biotechnology",
+        "cell therapy",
+        "gene therapy"
+      ],
+      "topicHints": [],
+      "projectSummaryExcerpt": "Cystic fibrosis-related diabetes (CFRD) affects ~45% of CF adults and is associated with diabetic complications, increased mortality and an accelerated decline in lung function. In CFRD, proinflammatory and profibrotic responses to mutations in the CFTR anion channel exacerbate…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11424457"
+    },
+    {
+      "applId": 11407449,
+      "projectNum": "1R43CA306683-01A1",
+      "projectTitle": "Overcoming Breast Cancer Resistance with a Dual-Function Antibody Therapeutic",
+      "fiscalYear": 2026,
+      "awardAmount": 400000,
+      "awardNoticeDate": "2026-08-11",
+      "projectStartDate": "2026-08-11",
+      "projectEndDate": "2027-07-31",
+      "organization": {
+        "name": "DAUNTLESS BIOTHERAPEUTICS, INC.",
+        "city": "Carlsbad",
+        "state": "CA",
+        "country": "UNITED STATES",
+        "uei": "LLU8TL82TYT3",
+        "ipf": "10071025",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy",
+        "gene therapy"
+      ],
+      "topicHints": [
+        "Antibody / ADC",
+        "Precision Diagnostics"
+      ],
+      "projectSummaryExcerpt": "Project Summary Metastatic breast cancer (mBC) is the leading cause of cancer death in women, accounting for more than 42,000 deaths annually in the United States. Although HER2- and TROP2-directed antibody-drug conjugates (ADCs) provide clinical benefit, their impact is…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11407449"
+    },
+    {
+      "applId": 11404025,
+      "projectNum": "5R44AI183961-03",
+      "projectTitle": "Developing a bank of purified myeloid progenitor cells as a bridging therapy for transient pancytopenia resulting from radiation injury",
+      "fiscalYear": 2026,
+      "awardAmount": 579970,
+      "awardNoticeDate": "2026-08-11",
+      "projectStartDate": "2024-08-14",
+      "projectEndDate": "2027-07-31",
+      "organization": {
+        "name": "OSSIUM HEALTH, INC.",
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "country": "UNITED STATES",
+        "uei": "FFNHJ2RDRHW3",
+        "ipf": "10043351",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy",
+        "gene therapy"
+      ],
+      "topicHints": [
+        "Cell Therapy"
+      ],
+      "projectSummaryExcerpt": "ABSTRACT Exposure to even moderate levels (<3 Gy) of ionizing radiation can result in severe pancyotopenia, placing patients as wells as victims of accidental exposure at high risks for infection and uncontrolled hemorrhaging. Accidental exposure differs from radiation therapy…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11404025"
+    },
+    {
+      "applId": 11387894,
+      "projectNum": "5R44AI188587-02",
+      "projectTitle": "Development of a Novel, Targeted Small Molecule Inhibitor of the Nucleoside Salvage Pathway to Treat Systemic Lupus Erythematosus",
+      "fiscalYear": 2026,
+      "awardAmount": 994978,
+      "awardNoticeDate": "2026-08-11",
+      "projectStartDate": "2025-08-07",
+      "projectEndDate": "2028-07-31",
+      "organization": {
+        "name": "TRETHERA CORPORATION",
+        "city": "SHERMAN OAKS",
+        "state": "CA",
+        "country": "UNITED STATES",
+        "uei": "QB66ZMAUF5P7",
+        "ipf": "10042526",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy",
+        "gene therapy"
+      ],
+      "topicHints": [
+        "Precision Diagnostics"
+      ],
+      "projectSummaryExcerpt": "PROJECT SUMMARY Systemic lupus erythematosus (SLE) is a challenging disease in need of new treatment options. SLE is a chronic, debilitating, heterogenous autoimmune disease in which a patient’s immune system attacks vital organs including the kidneys, lung, and brain; leads to…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11387894"
+    },
+    {
+      "applId": 11311549,
+      "projectNum": "1R43AI197270-01",
+      "projectTitle": "Severe Autoantibody-Mediated Autoimmune Disease: A New Treatment Approach",
+      "fiscalYear": 2026,
+      "awardAmount": 306449,
+      "awardNoticeDate": "2026-08-11",
+      "projectStartDate": "2026-08-11",
+      "projectEndDate": "2028-07-31",
+      "organization": {
+        "name": "ASTERO ERADO INC",
+        "city": "COLLEGE STATION",
+        "state": "TX",
+        "country": "UNITED STATES",
+        "uei": "Z3JWEMNYNRT9",
+        "ipf": "10059077",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy"
+      ],
+      "topicHints": [],
+      "projectSummaryExcerpt": "PROJECT SUMMARY/ABSTRACT The overall goal of this project is to develop a novel therapeutic for the treatment of bullous pemphigoid (BP). BP is characterized by tense, pruritic skin blisters that form at the dermal-epidermal junction, typically on the extremities and trunk.…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11311549"
+    },
+    {
+      "applId": 11407580,
+      "projectNum": "1R44HL184709-01A1",
+      "projectTitle": "Development of a Novel Pediatric LVAD for Home Discharge of Children Awaiting Heart Transplant",
+      "fiscalYear": 2026,
+      "awardAmount": 1499984,
+      "awardNoticeDate": "2026-08-10",
+      "projectStartDate": "2026-08-10",
+      "projectEndDate": "2029-07-31",
+      "organization": {
+        "name": "CORVION, INC.",
+        "city": "WEBSTER",
+        "state": "TX",
+        "country": "UNITED STATES",
+        "uei": "DP46YALMA9E8",
+        "ipf": "10057643",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy"
+      ],
+      "topicHints": [],
+      "projectSummaryExcerpt": "Project Summary Our ultimate objective is to develop a Pediatric Left Ventricular Assist Device (P-LVAD) enabling children with end-stage heart failure to go home while awaiting a heart transplant or live with the device long term. Receiving mechanical circulatory support (MCS)…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11407580"
+    },
+    {
+      "applId": 11405945,
+      "projectNum": "1R44HL182431-01A1",
+      "projectTitle": "Development of a Cell-Free RNA Diagnostic Test for Kawasaki disease",
+      "fiscalYear": 2026,
+      "awardAmount": 1343973,
+      "awardNoticeDate": "2026-08-10",
+      "projectStartDate": "2026-08-10",
+      "projectEndDate": "2028-07-31",
+      "organization": {
+        "name": "ROMIX BIOSCIENCES INC.",
+        "city": "WALTHAM",
+        "state": "MA",
+        "country": "UNITED STATES",
+        "uei": "HLDTKXGK5SF6",
+        "ipf": "10089568",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "molecular diagnostics"
+      ],
+      "topicHints": [
+        "Precision Diagnostics",
+        "AI Drug Discovery"
+      ],
+      "projectSummaryExcerpt": "Abstract Kawasaki disease (KD) is a systemic vasculitis of unknown etiology and the leading cause of acquired heart disease in children. Timely treatment with intravenous immunoglobulin (IVIG) can reduce the risk of heart disease from 25% to 3%. Unfortunately, many patients are…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11405945"
+    },
+    {
+      "applId": 11312680,
+      "projectNum": "1R43AI191983-01A1",
+      "projectTitle": "Development of a safer, more effective formulation of Polymyxin B for treatment of E. coli Infection",
+      "fiscalYear": 2026,
+      "awardAmount": 306484,
+      "awardNoticeDate": "2026-08-10",
+      "projectStartDate": "2026-08-10",
+      "projectEndDate": "2028-07-30",
+      "organization": {
+        "name": "PARALOS BIOSCIENCE INC.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "UNITED STATES",
+        "uei": "TYDJC79W2D95",
+        "ipf": "10075933",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "biotechnology"
+      ],
+      "topicHints": [],
+      "projectSummaryExcerpt": "Project Summary Escherichia coli is a leading cause of serious infections globally, including over 80% of community-acquired urinary tract infections, intra-abdominal infections, and sepsis. The rise of multidrug-resistant E. coli has been linked to increased healthcare costs,…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11312680"
     },
     {
       "applId": 11404364,
@@ -72,41 +813,13 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "biotechnology",
-        "cell therapy"
+        "biotechnology"
       ],
       "topicHints": [
         "Precision Diagnostics"
       ],
       "projectSummaryExcerpt": "SUMMARY Introduction: Lipo-Immuno Tech (LIT), LLC, is a small biotech company that originated from the Hollings Cancer Center (Medical University of South Carolina), which focuses on cancer therapeutics. This Fast-track R42 application aims to develop a potent, specific, and…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11404364"
-    },
-    {
-      "applId": 11403158,
-      "projectNum": "1R43GM162022-01A1",
-      "projectTitle": "Mechanomyography-based system for quantitative nerve assessment during standard pain management procedures",
-      "fiscalYear": 2026,
-      "awardAmount": 353059,
-      "awardNoticeDate": "2026-08-07",
-      "projectStartDate": "2026-08-07",
-      "projectEndDate": "2027-07-31",
-      "organization": {
-        "name": "NEURALYTIX, LLC",
-        "city": "Fruita",
-        "state": "CO",
-        "country": "UNITED STATES",
-        "uei": "H7BXW42A3YL3",
-        "ipf": "10083936",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "cell therapy"
-      ],
-      "topicHints": [
-        "Precision Diagnostics"
-      ],
-      "projectSummaryExcerpt": "Project Summary Our ultimate objective is to develop a mechanomyography (MMG) based diagnostic system (MMG-DS) achieving quantitative assessment of nerve compression status during standard preoperative pain management procedures. Just as cardiac stress testing revolutionized…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11403158"
     },
     {
       "applId": 11399995,
@@ -127,43 +840,14 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "cell therapy",
         "drug discovery"
-      ],
-      "topicHints": [
-        "AI Drug Discovery",
-        "Precision Diagnostics"
-      ],
-      "projectSummaryExcerpt": "ABSTRACT. One in five liver patients on the transplant waitlist die before a new liver is found, while many more patients are never listed but could benefit from liver replacement. While “bridge-to-transplant” technologies (ventricular assist devices, dialysis) have transformed…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11399995"
-    },
-    {
-      "applId": 11349184,
-      "projectNum": "1R41MD021474-01",
-      "projectTitle": "Accelerating Time-to-Treatment in Rural Areas with a Pre-Hospital EEG Stroke Classification System",
-      "fiscalYear": 2026,
-      "awardAmount": 314363,
-      "awardNoticeDate": "2026-08-07",
-      "projectStartDate": "2026-08-05",
-      "projectEndDate": "2027-07-31",
-      "organization": {
-        "name": "ASTERION AI INC.",
-        "city": "DALLAS",
-        "state": "TX",
-        "country": "UNITED STATES",
-        "uei": "EXPQYYQEL9W1",
-        "ipf": "10071880",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "cell therapy"
       ],
       "topicHints": [
         "Precision Diagnostics",
         "AI Drug Discovery"
       ],
-      "projectSummaryExcerpt": "Stroke is the second leading cause of death and the primary cause of long-term disability worldwide costing the US $65B every year. A study of nearly 7,000 stroke patients revealed that the average onset-to-intervention time was nearly 4hrs, with the best outcomes achieved…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11349184"
+      "projectSummaryExcerpt": "ABSTRACT. One in five liver patients on the transplant waitlist die before a new liver is found, while many more patients are never listed but could benefit from liver replacement. While “bridge-to-transplant” technologies (ventricular assist devices, dialysis) have transformed…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11399995"
     },
     {
       "applId": 11314450,
@@ -184,8 +868,7 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "biotechnology",
-        "cell therapy"
+        "biotechnology"
       ],
       "topicHints": [
         "Cell Therapy",
@@ -193,34 +876,6 @@
       ],
       "projectSummaryExcerpt": "ABSTRACT Chimeric Antigen Receptor T-cell (CAR-T) therapies have demonstrated incredible efficacy in certain cancers and hold enormous potential for others, yet their broader success—especially in challenging indications like solid tumors—is ultimately limited by the need for…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11314450"
-    },
-    {
-      "applId": 11186928,
-      "projectNum": "1R44MH140727-01",
-      "projectTitle": "AI-Clinical Outcome Assessment (AI-COA) for Depression: an Innovative Drug Development Tool",
-      "fiscalYear": 2026,
-      "awardAmount": 1415720,
-      "awardNoticeDate": "2026-08-07",
-      "projectStartDate": "2026-08-05",
-      "projectEndDate": "2027-07-31",
-      "organization": {
-        "name": "DELIBERATE SOLUTIONS, INC.",
-        "city": "New York",
-        "state": "NY",
-        "country": "UNITED STATES",
-        "uei": "JEAGCLNNLEA7",
-        "ipf": "10060421",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "cell therapy"
-      ],
-      "topicHints": [
-        "Precision Diagnostics",
-        "AI Drug Discovery"
-      ],
-      "projectSummaryExcerpt": "Depression is a major public health issue affecting hundreds of millions globally, with significant implications for suicide risk and overall health. Reliable assessment of depression severity is crucial for the development and validation of new medications, yet the current…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11186928"
     },
     {
       "applId": 11416753,
@@ -241,9 +896,7 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "biotechnology",
-        "cell therapy",
-        "gene therapy"
+        "biotechnology"
       ],
       "topicHints": [
         "Cell Therapy"
@@ -270,95 +923,15 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "cell therapy",
         "drug discovery"
       ],
       "topicHints": [
-        "AI Drug Discovery",
         "Cell Therapy",
-        "Precision Diagnostics"
-      ],
-      "projectSummaryExcerpt": "Project Summary Artificial Axon Labs Inc. (AAL), an MIT spinout, is developing a transformative drug screening platform, Artificial Axons, to discover first-in-class remyelinating therapies for currently incurable myelin diseases, with the primary focus on multiple sclerosis…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11409835"
-    },
-    {
-      "applId": 11394617,
-      "projectNum": "5R43AI192169-02",
-      "projectTitle": "Small Molecule Glycoside Inhibitors of LecB for the Treatment of Pseudomonas Infections",
-      "fiscalYear": 2026,
-      "awardAmount": 300000,
-      "awardNoticeDate": "2026-08-06",
-      "projectStartDate": "2025-08-15",
-      "projectEndDate": "2027-07-31",
-      "organization": {
-        "name": "FIMBRION THERAPEUTICS, INC.",
-        "city": "SAINT LOUIS",
-        "state": "MO",
-        "country": "UNITED STATES",
-        "uei": "N9RQX3G4EH54",
-        "ipf": "10032167",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "cell therapy"
-      ],
-      "topicHints": [],
-      "projectSummaryExcerpt": "Project Summary/Abstract Pseudomonas aeruginosa (Pa) is a Gram-negative bacterium and opportunistic pathogen capable of persisting in diverse environments and causing numerous human infections including: skin, soft tissue, joint, blood stream, and lung infections. Pa infections…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11394617"
-    },
-    {
-      "applId": 11380960,
-      "projectNum": "5R44CA275673-04",
-      "projectTitle": "PreCharge: An Innovative Digital Program to Increase Coping, Resilience, and Health Care Engagement Among Cancer Previvors",
-      "fiscalYear": 2026,
-      "awardAmount": 676175,
-      "awardNoticeDate": "2026-08-06",
-      "projectStartDate": "2023-05-01",
-      "projectEndDate": "2028-01-31",
-      "organization": {
-        "name": "PRO-CHANGE BEHAVIOR SYSTEMS, INC.",
-        "city": "Narragansett",
-        "state": "RI",
-        "country": "UNITED STATES",
-        "uei": "KX8KMKQNGM97",
-        "ipf": "3933401",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "gene therapy"
-      ],
-      "topicHints": [
         "Precision Diagnostics",
         "AI Drug Discovery"
       ],
-      "projectSummaryExcerpt": "Hereditary Cancer Syndromes (HCS) account for approximately 5-10% of all diagnosed cancers. Inherited genetic mutations resulting in HCS significantly increase the likelihood of developing cancer and pose risks across generations. Previvors—individuals who test positive for HCS…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11380960"
-    },
-    {
-      "applId": 11345350,
-      "projectNum": "5R44CA291444-02",
-      "projectTitle": "VEL-03: IND-enabling development of a novel therapeutic approach for treatment of non-small cell lung cancer and other solid tumors",
-      "fiscalYear": 2026,
-      "awardAmount": 1258345,
-      "awardNoticeDate": "2026-08-06",
-      "projectStartDate": "2025-06-03",
-      "projectEndDate": "2027-05-31",
-      "organization": {
-        "name": "VELORUM THERAPEUTICS INC.",
-        "city": "PLANO",
-        "state": "TX",
-        "country": "UNITED STATES",
-        "uei": "MTV1VNACTWS9",
-        "ipf": "10075812",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "cell therapy",
-        "gene therapy"
-      ],
-      "topicHints": [],
-      "projectSummaryExcerpt": "Project Summary/Abstract Lung cancer is the leading cause of cancer-related death in the U.S. and worldwide. Non-small cell lung cancer (NSCLC) makes up 85% of all lung cancers. Despite advancements in targeted cancer therapies, NSCLC has a 5-year survival rate of less than…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11345350"
+      "projectSummaryExcerpt": "Project Summary Artificial Axon Labs Inc. (AAL), an MIT spinout, is developing a transformative drug screening platform, Artificial Axons, to discover first-in-class remyelinating therapies for currently incurable myelin diseases, with the primary focus on multiple sclerosis…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11409835"
     },
     {
       "applId": 11251853,
@@ -389,35 +962,6 @@
       "sourceUrl": "https://reporter.nih.gov/project-details/11251853"
     },
     {
-      "applId": 11602209,
-      "projectNum": "3R44TR005328-02S1",
-      "projectTitle": "Advanced tools for translation of intravenously-infused RNA LNP therapeutics to the clinic",
-      "fiscalYear": 2026,
-      "awardAmount": 1065587,
-      "awardNoticeDate": "2026-08-05",
-      "projectStartDate": "2024-08-01",
-      "projectEndDate": "2027-05-31",
-      "organization": {
-        "name": "REJUVENATION TECHNOLOGIES, INC.",
-        "city": "Mountain View",
-        "state": "CA",
-        "country": "UNITED STATES",
-        "uei": "T6RGDB42JZN6",
-        "ipf": "10043507",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "cell therapy",
-        "gene therapy"
-      ],
-      "topicHints": [
-        "Organoids & Disease Models",
-        "RNA Therapeutics"
-      ],
-      "projectSummaryExcerpt": "Abstract Rejuvenation Technologies Inc. (RTI) seeks to improve the tools required for clinical translation of intravenously- infused RNA lipid nanoparticle (LNP) therapeutics. While there is abundant work on RNA LNP vaccines, the requirements for intravenously-infused LNPs are…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11602209"
-    },
-    {
       "applId": 11417428,
       "projectNum": "5R44DK135225-03",
       "projectTitle": "Accurate Point of Care Liver Disease Diagnostics, Phase II",
@@ -436,99 +980,14 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "cell therapy",
         "drug discovery"
       ],
       "topicHints": [
-        "AI Drug Discovery",
-        "Precision Diagnostics"
+        "Precision Diagnostics",
+        "AI Drug Discovery"
       ],
       "projectSummaryExcerpt": "1 PROJECT SUMMARY 2 Our long-term goal is to obtain FDA 510(k) clearance and to bring to market LiverScope®, a low cost, easy-to- 3 use, table-top, point-of-care (POC) device for use in research and clinical settings to assess quantitative 4 biomarkers of metabolic…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11417428"
-    },
-    {
-      "applId": 11416544,
-      "projectNum": "5R44HL182451-02",
-      "projectTitle": "Clinical validation of NS-0200, a fixed combination drug product for the treatment of hypertension",
-      "fiscalYear": 2026,
-      "awardAmount": 1011332,
-      "awardNoticeDate": "2026-08-05",
-      "projectStartDate": "2025-09-15",
-      "projectEndDate": "2027-06-30",
-      "organization": {
-        "name": "NUSIRT SCIENCES, INC.",
-        "city": "HARPERS FERRY",
-        "state": "WV",
-        "country": "UNITED STATES",
-        "uei": "VVB1Z7S88LM8",
-        "ipf": "10089177",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "cell therapy",
-        "gene therapy"
-      ],
-      "topicHints": [],
-      "projectSummaryExcerpt": "PROJECT SUMMARY Hypertension is a major cause of premature death globally, responsible for 10.4 million deaths annually. Around 1.28 billion adults aged between 30-79 worldwide have hypertension, of which only 1 in 5 adults (21%) have it under control. Hypertension is diagnosed…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11416544"
-    },
-    {
-      "applId": 11395561,
-      "projectNum": "5R44CA302066-02",
-      "projectTitle": "Development of a novel, targeted small molecule inhibitor of the nucleoside salvage pathway through combinatorial murine studies to enable further clinical advancement in prostate tumors",
-      "fiscalYear": 2026,
-      "awardAmount": 1150000,
-      "awardNoticeDate": "2026-08-05",
-      "projectStartDate": "2025-08-18",
-      "projectEndDate": "2027-07-31",
-      "organization": {
-        "name": "TRETHERA CORPORATION",
-        "city": "SHERMAN OAKS",
-        "state": "CA",
-        "country": "UNITED STATES",
-        "uei": "QB66ZMAUF5P7",
-        "ipf": "10042526",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "cell therapy",
-        "gene therapy"
-      ],
-      "topicHints": [
-        "Precision Diagnostics"
-      ],
-      "projectSummaryExcerpt": "PROJECT SUMMARY Trethera, a clinical stage biopharmaceutical company, has developed a first-in-class small molecule drug, TRE- 515, to target the nucleoside salvage pathway via a key rate-limiting enzyme, deoxycytidine kinase (dCK). dCK activity in tumor cells is a critical,…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11395561"
-    },
-    {
-      "applId": 11408182,
-      "projectNum": "1R41EY038591-01A1",
-      "projectTitle": "Human iPSC derived organoid therapeutics for the treatment of inherited blindness",
-      "fiscalYear": 2026,
-      "awardAmount": 397163,
-      "awardNoticeDate": "2026-08-04",
-      "projectStartDate": "2026-08-01",
-      "projectEndDate": "2027-07-31",
-      "organization": {
-        "name": "AGNOS THERAPEUTICS INC.",
-        "city": "BALTIMORE",
-        "state": "MD",
-        "country": "UNITED STATES",
-        "uei": "LVT2HHBULF54",
-        "ipf": "10089847",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "cell therapy",
-        "gene therapy"
-      ],
-      "topicHints": [
-        "Cell Therapy",
-        "Gene Editing / Gene Therapy",
-        "Organoids & Disease Models"
-      ],
-      "projectSummaryExcerpt": "Project Summary Inherited retinal diseases (IRDs) are a group of genetic blinding disorders that cause progressive vision loss, often resulting in blindness by early to mid-adulthood. In addition to economic burden, blindness and visual impairment have severe implications on…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11408182"
     },
     {
       "applId": 11398110,
@@ -550,7 +1009,6 @@
       },
       "matchedTerms": [
         "biotechnology",
-        "gene therapy",
         "molecular diagnostics"
       ],
       "topicHints": [
@@ -559,34 +1017,6 @@
       ],
       "projectSummaryExcerpt": "Project Summary/Abstract Public Health Problem. According to the World Health Organization (WHO), approximately 38 million people are currently living with HIV worldwide. Out of these, about 1.7 million were newly infected in 2019 alone. Moreover, around 690,000 people died…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11398110"
-    },
-    {
-      "applId": 11393188,
-      "projectNum": "5R44AI192249-02",
-      "projectTitle": "Optimizing SIV reservoir depletion by Tendel bsAb-98",
-      "fiscalYear": 2026,
-      "awardAmount": 999990,
-      "awardNoticeDate": "2026-08-04",
-      "projectStartDate": "2025-08-13",
-      "projectEndDate": "2028-07-31",
-      "organization": {
-        "name": "TENDEL THERAPIES INC.",
-        "city": "KENSINGTON",
-        "state": "CA",
-        "country": "UNITED STATES",
-        "uei": "JA9BDUH73852",
-        "ipf": "10054613",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "cell therapy",
-        "gene therapy"
-      ],
-      "topicHints": [
-        "Antibody / ADC"
-      ],
-      "projectSummaryExcerpt": "We are developing an HIV reservoir-depletion agent that targets CCR5+ cells for elimination and achieved remission of over 3 months in more than half of treated infant macaques. The agent is a bispecific antibody (bsAb) with one arm directed against CD3 and the other against…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11393188"
     },
     {
       "applId": 11316567,
@@ -617,32 +1047,6 @@
       "sourceUrl": "https://reporter.nih.gov/project-details/11316567"
     },
     {
-      "applId": 11315112,
-      "projectNum": "1R43TR005757-01A1",
-      "projectTitle": "P-gp inhibitor polymeric micelle platform for enhanced drug solubilization and oral bioavailability",
-      "fiscalYear": 2026,
-      "awardAmount": 322184,
-      "awardNoticeDate": "2026-08-04",
-      "projectStartDate": "2026-08-05",
-      "projectEndDate": "2027-08-04",
-      "organization": {
-        "name": "DELAQUA PHARMACEUTICALS INC",
-        "city": "CHAPEL HILL",
-        "state": "NC",
-        "country": "UNITED STATES",
-        "uei": "K8KTE53NVVL9",
-        "ipf": "10057537",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "cell therapy",
-        "gene therapy"
-      ],
-      "topicHints": [],
-      "projectSummaryExcerpt": "Abstract DelAQUA Pharmaceuticals is developing a non-PEG, stealth, hyper-loaded polymeric micelle (PM) approach for drug coadministration with P-glycoprotein (Pgp) inhibitors to address the barriers of poor solubility and low oral bioavailability due to Pgp efflux. Oral…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11315112"
-    },
-    {
       "applId": 11313907,
       "projectNum": "2R44GM150354-02A1",
       "projectTitle": "Metabolic Cytometry for In-line Process Analysis",
@@ -661,68 +1065,11 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "biotechnology",
-        "cell therapy",
-        "gene therapy"
+        "biotechnology"
       ],
       "topicHints": [],
       "projectSummaryExcerpt": "Project Summary/Abstract Gene therapy is an emerging technology that leverages genes within targeted cells to prevent and treat previously incurable disorders and inherited genetic diseases. As research into human genes and diseases progresses rapidly, there is an increasing…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11313907"
-    },
-    {
-      "applId": 11313797,
-      "projectNum": "1R43EY037617-01A1",
-      "projectTitle": "Novel Therapeutic for Preventing Fuchs Endothelial Corneal Dystrophy",
-      "fiscalYear": 2026,
-      "awardAmount": 313373,
-      "awardNoticeDate": "2026-08-04",
-      "projectStartDate": "2026-08-01",
-      "projectEndDate": "2027-07-31",
-      "organization": {
-        "name": "S5G THERAPEUTICS INC",
-        "city": "IOWA CITY",
-        "state": "IA",
-        "country": "UNITED STATES",
-        "uei": "FGE3SDBGDPX6",
-        "ipf": "10072090",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "gene therapy"
-      ],
-      "topicHints": [
-        "Precision Diagnostics"
-      ],
-      "projectSummaryExcerpt": "PROJECT SUMMARY/ABSTRACT Fuchs endothelial corneal dystrophy (FECD) is a polygenic disease that affects 6.1 million Americans over 40 years of age. FECD is the leading indication for corneal transplant surgery in the U.S. Although the condition can be diagnosed early, it…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11313797"
-    },
-    {
-      "applId": 11311499,
-      "projectNum": "1R44EY038510-01",
-      "projectTitle": "Developing a gene therapy-based solution for early intervention in age related macular degeneration (AMD) to prevent disease progression",
-      "fiscalYear": 2026,
-      "awardAmount": 1092536,
-      "awardNoticeDate": "2026-08-04",
-      "projectStartDate": "2026-08-01",
-      "projectEndDate": "2028-05-31",
-      "organization": {
-        "name": "OCULOGENEX",
-        "city": "LA HABRA",
-        "state": "CA",
-        "country": "UNITED STATES",
-        "uei": "K6P8KFEVG5D5",
-        "ipf": "10062369",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "cell therapy",
-        "gene therapy"
-      ],
-      "topicHints": [
-        "RNA Therapeutics"
-      ],
-      "projectSummaryExcerpt": "Summary: Oculogenex is addressing the critical unmet need for early intervention in intermediate age-related macular degeneration (iAMD), a condition marked by mitochondrial dysfunction and oxidative stress contributing to retinal degeneration and severe vision loss. Through…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11311499"
     },
     {
       "applId": 11290730,
@@ -743,7 +1090,6 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "gene therapy",
         "molecular diagnostics"
       ],
       "topicHints": [
@@ -810,33 +1156,6 @@
       "sourceUrl": "https://reporter.nih.gov/project-details/11408063"
     },
     {
-      "applId": 11399162,
-      "projectNum": "5R44NS120360-04",
-      "projectTitle": "Development of N-tert-(butyl)hydroxylamine (NtBuHA) as a Therapeutic Agent for Treating CLN1 Batten Disease",
-      "fiscalYear": 2026,
-      "awardAmount": 1219273,
-      "awardNoticeDate": "2026-08-03",
-      "projectStartDate": "2021-09-20",
-      "projectEndDate": "2027-06-30",
-      "organization": {
-        "name": "CIRCUMVENT PHARMACEUTICALS, INC.",
-        "city": "PORTLAND",
-        "state": "CA",
-        "country": "UNITED STATES",
-        "uei": "Y14DQ5VD56A7",
-        "ipf": "10040587",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "gene therapy"
-      ],
-      "topicHints": [
-        "Organoids & Disease Models"
-      ],
-      "projectSummaryExcerpt": "PROJECT SUMMARY/ABSTRACT A significant unmet medical need exists for a therapy to treat patients with CLN1 Batten Disease, who currently have no disease-treatment options. Circumvent Pharmaceuticals has completed ADME, PK and toxicity studies enabling selection of…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11399162"
-    },
-    {
       "applId": 11389440,
       "projectNum": "5R44GM149003-03",
       "projectTitle": "A Uniquely Scalable Platform for Sequencing Tens of Millions of Single Cells from Complex Clinical Samples with a Streamlined Workflow",
@@ -855,94 +1174,14 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "drug discovery",
-        "gene therapy"
+        "drug discovery"
       ],
       "topicHints": [
-        "AI Drug Discovery",
-        "Precision Diagnostics"
+        "Precision Diagnostics",
+        "AI Drug Discovery"
       ],
       "projectSummaryExcerpt": "PROJECT SUMMARY/ABSTRACT Single-cell sequencing (SC-seq) has revolutionized our understanding of cellular heterogeneity, gene expression, and disease mechanisms. However, its adoption in clinical and translational research remains limited due to throughput constraints, complex…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11389440"
-    },
-    {
-      "applId": 11387896,
-      "projectNum": "5R43AI188690-02",
-      "projectTitle": "Development of well tolerated novel Inhibitors of drug resistant CMV",
-      "fiscalYear": 2026,
-      "awardAmount": 289318,
-      "awardNoticeDate": "2026-08-03",
-      "projectStartDate": "2025-08-08",
-      "projectEndDate": "2027-07-31",
-      "organization": {
-        "name": "MICROBIOTIX, INC",
-        "city": "WORCESTER",
-        "state": "MA",
-        "country": "UNITED STATES",
-        "uei": "SCNKBDM341T1",
-        "ipf": "4102301",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "gene therapy"
-      ],
-      "topicHints": [
-        "Precision Diagnostics"
-      ],
-      "projectSummaryExcerpt": "CMV occurs as a benign infection in most humans, with an estimated 60-90% of the population infected during their lives. However, in immunosuppressed patients, particularly in recipients of solid organ or bone marrow transplants, allogenic CMV infection is a major cause of…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11387896"
-    },
-    {
-      "applId": 11316595,
-      "projectNum": "1R43CA310494-01",
-      "projectTitle": "Enhancing anti-tumor immunotherapy with an engineered XCL1 protein",
-      "fiscalYear": 2026,
-      "awardAmount": 305368,
-      "awardNoticeDate": "2026-08-03",
-      "projectStartDate": "2026-08-03",
-      "projectEndDate": "2027-07-31",
-      "organization": {
-        "name": "XLOCK BIOSCIENCES, LLC",
-        "city": "MUSKEGO",
-        "state": "WI",
-        "country": "UNITED STATES",
-        "uei": "LRVRYJKD2Q85",
-        "ipf": "10060117",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "gene therapy"
-      ],
-      "topicHints": [
-        "RNA Therapeutics"
-      ],
-      "projectSummaryExcerpt": "Project Summary/Abstract Cancer immune surveillance is an important process by which the immune system can identify and eliminate neoplastic or malignant cells. Cancer immunotherapy uses monoclonal antibodies, small molecule drugs, adoptive cell transfer, oncolytic viruses or…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11316595"
-    },
-    {
-      "applId": 11313278,
-      "projectNum": "1R43AI197431-01",
-      "projectTitle": "Development of oxepanoprolinamide antibiotics for the treatment of complicated urinary tract infections.",
-      "fiscalYear": 2026,
-      "awardAmount": 314363,
-      "awardNoticeDate": "2026-08-03",
-      "projectStartDate": "2026-08-03",
-      "projectEndDate": "2027-07-31",
-      "organization": {
-        "name": "KINVARD BIO, INC.",
-        "city": "FLOURTOWN",
-        "state": "PA",
-        "country": "UNITED STATES",
-        "uei": "K2L6HG3N1UZ7",
-        "ipf": "10089213",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "gene therapy"
-      ],
-      "topicHints": [],
-      "projectSummaryExcerpt": "Project Summary/Abstract Complicated urinary tract infections (cUTI) are highly prevalent, principally Gram-negative, infections worldwide that can manifest in life-threatening complications if left untreated. In an ever-increasing proportion of these infections, the failure of…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11313278"
     },
     {
       "applId": 11282472,
@@ -973,31 +1212,6 @@
       ],
       "projectSummaryExcerpt": "Duchenne muscular dystrophy (DMD) is a rare X-linked genetic disorder affecting 1 in 3,500 male births worldwide. In DMD, cardiomyopathies are highly prevalent and the leading cause of death in the disease. DMDassociated cardiomyopathies include myocardial fibrosis and dilated…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11282472"
-    },
-    {
-      "applId": 11193975,
-      "projectNum": "5R01FD008443-02",
-      "projectTitle": "Retinoblastoma Phase II Expanded Access Clinical Trial",
-      "fiscalYear": 2026,
-      "awardAmount": 650000,
-      "awardNoticeDate": "2026-08-03",
-      "projectStartDate": "2024-09-15",
-      "projectEndDate": "2029-06-30",
-      "organization": {
-        "name": "TARGETED THERAPY TECHNOLOGIES, LLC",
-        "city": "SOMERSET",
-        "state": "NJ",
-        "country": "UNITED STATES",
-        "uei": "SF8GTWW4GDY5",
-        "ipf": "10006012",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "gene therapy"
-      ],
-      "topicHints": [],
-      "projectSummaryExcerpt": "Abstract Retinoblastoma (RB) is a micro-orphan disease intraocular cancer in infants and children (typically diagnosed between birth and 5 years of age). Approximately 250 new cases are diagnosed annually in the United States. Standard of care for retinoblastoma includes…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11193975"
     },
     {
       "applId": 11409692,
@@ -1343,99 +1557,15 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "biotechnology",
         "drug discovery"
       ],
       "topicHints": [
+        "Precision Diagnostics",
         "AI Drug Discovery",
-        "Organoids & Disease Models",
-        "Precision Diagnostics"
+        "Organoids & Disease Models"
       ],
       "projectSummaryExcerpt": "ABSTRACT The development of three-dimensional (3D) disease models has paved the way for accelerated design, discovery, and validation of potential targets and drug compounds, thereby significantly reducing the time, cost, and labor involved in the drug discovery pipeline. 3D…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11256254"
-    },
-    {
-      "applId": 11406864,
-      "projectNum": "2R44GM151897-02A1",
-      "projectTitle": "Single-molecule protein sequencing: resolving individual amino acids via commercially accessible nanopores",
-      "fiscalYear": 2026,
-      "awardAmount": 1599463,
-      "awardNoticeDate": "2026-07-24",
-      "projectStartDate": "2023-09-15",
-      "projectEndDate": "2028-07-31",
-      "organization": {
-        "name": "GLYPHIC BIOTECHNOLOGIES, INC.",
-        "city": "MENLO PARK",
-        "state": "CA",
-        "country": "UNITED STATES",
-        "uei": "F57WT7JZDH19",
-        "ipf": "10066570",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "biotechnology"
-      ],
-      "topicHints": [
-        "Precision Diagnostics",
-        "AI Drug Discovery"
-      ],
-      "projectSummaryExcerpt": "PROJECT SUMMARY The premise of single-molecule protein sequencing (SMPS) is to determine the amino acid sequence of a protein one molecule at a time. SMPS thus allows access to a wealth of information across basic biology and health- related science, otherwise unreachable by…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11406864"
-    },
-    {
-      "applId": 11406416,
-      "projectNum": "1R43ES038796-01",
-      "projectTitle": "Handheld Fluorescent Lysosomal Yeast (FLY) Biosensor for Toxic Metal Ions andOrganic Pollutants in Water",
-      "fiscalYear": 2026,
-      "awardAmount": 313365,
-      "awardNoticeDate": "2026-07-23",
-      "projectStartDate": "2026-08-01",
-      "projectEndDate": "2027-07-31",
-      "organization": {
-        "name": "NANOHMICS, INC.",
-        "city": "AUSTIN",
-        "state": "TX",
-        "country": "UNITED STATES",
-        "uei": "K39ENMXNLA73",
-        "ipf": "10000781",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "biotechnology"
-      ],
-      "topicHints": [
-        "Precision Diagnostics"
-      ],
-      "projectSummaryExcerpt": "Summary Abstract Nanohmics proposes to further develop its already proven general water toxicity biosensor based on the published principle that yeast cell vacuoles respond like human lysosomes by acidifying, swelling and increasing in numbers in response to a variety of…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11406416"
-    },
-    {
-      "applId": 11316873,
-      "projectNum": "1R43GM163512-01",
-      "projectTitle": "Computational Protein Design of Robust and Scalable Recombinant HRP and Poly-HRP Reagents",
-      "fiscalYear": 2026,
-      "awardAmount": 330955,
-      "awardNoticeDate": "2026-07-23",
-      "projectStartDate": "2026-08-01",
-      "projectEndDate": "2027-07-31",
-      "organization": {
-        "name": "MONOD BIO, INC.",
-        "city": "SEATTLE",
-        "state": "WA",
-        "country": "UNITED STATES",
-        "uei": "LB2HDKKRL463",
-        "ipf": "10074077",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "biotechnology"
-      ],
-      "topicHints": [
-        "Precision Diagnostics",
-        "AI Drug Discovery"
-      ],
-      "projectSummaryExcerpt": "Project Summary: Horseradish peroxidase (HRP) is a critical reporter enzyme widely used in diagnostics, and research tools due to its ability to amplify signal in assays like ELISAs, Western blots, and immunohistochemistry. However, current HRP reagents are largely derived from…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11316873"
     },
     {
       "applId": 11378480,
@@ -1550,146 +1680,6 @@
       ],
       "projectSummaryExcerpt": "ABSTRACT A central barrier to next-generation immunotherapies is the scarcity of disease-specific extracellular targets. A major untapped source of targets arises from alternative splicing, which generates thousands of aberrant isoforms across many complex diseases. Many of…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11410041"
-    },
-    {
-      "applId": 11321001,
-      "projectNum": "4R42GM157918-02",
-      "projectTitle": "Spotting-free Nano-Oscillator Array for Quantification of Virion Displayed Membrane Protein Binding Kinetics",
-      "fiscalYear": 2026,
-      "awardAmount": 807496,
-      "awardNoticeDate": "2026-07-20",
-      "projectStartDate": "2025-04-02",
-      "projectEndDate": "2029-03-31",
-      "organization": {
-        "name": "BIOSENSING INSTRUMENT, INC.",
-        "city": "TEMPE",
-        "state": "AZ",
-        "country": "UNITED STATES",
-        "uei": "RCL7B2TBY9H9",
-        "ipf": "10019679",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "drug discovery"
-      ],
-      "topicHints": [
-        "Precision Diagnostics",
-        "AI Drug Discovery"
-      ],
-      "projectSummaryExcerpt": "ABSTRACT Transmembrane proteins, such as G-protein-coupled receptors (GPCRs), are critical for many cellular functions. They are also the most popular drug targets for various diseases, including cancer. For both understanding cellular functions and drug development, it is…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11321001"
-    },
-    {
-      "applId": 11311427,
-      "projectNum": "1R43AI197345-01",
-      "projectTitle": "Multivalent Vaccine Against Lyme Disease via Modified Self-Amplifying RNA",
-      "fiscalYear": 2026,
-      "awardAmount": 314363,
-      "awardNoticeDate": "2026-07-20",
-      "projectStartDate": "2026-07-20",
-      "projectEndDate": "2027-06-30",
-      "organization": {
-        "name": "KEYLICON BIOSCIENCES INC",
-        "city": "BROOKLINE",
-        "state": "MA",
-        "country": "UNITED STATES",
-        "uei": "UXSKUT48A7W3",
-        "ipf": "10083524",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "biotechnology"
-      ],
-      "topicHints": [
-        "RNA Therapeutics"
-      ],
-      "projectSummaryExcerpt": "PROJECT SUMMARY/ABSTRACT Lyme disease, the most common vector-borne illness in North America, has no regulatory approved vaccine despite affecting nearly half a million Americans annually. Current vaccine platforms face significant limitations. Protein-based approaches involve…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11311427"
-    },
-    {
-      "applId": 11332255,
-      "projectNum": "5R44CA298064-02",
-      "projectTitle": "Adaptive imaging for pioneering multiplexed spatial profiling of tumors and tissues for cancer research and diagnosis",
-      "fiscalYear": 2026,
-      "awardAmount": 658336,
-      "awardNoticeDate": "2026-07-17",
-      "projectStartDate": "2025-06-01",
-      "projectEndDate": "2028-05-31",
-      "organization": {
-        "name": "RARECYTE, INC.",
-        "city": "SEATTLE",
-        "state": "WA",
-        "country": "UNITED STATES",
-        "uei": "N6CVCHBTWT86",
-        "ipf": "10035329",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "molecular diagnostics"
-      ],
-      "topicHints": [
-        "Precision Diagnostics",
-        "AI Drug Discovery",
-        "Organoids & Disease Models"
-      ],
-      "projectSummaryExcerpt": "SUMMARY Histopathology plays a central role in the diagnosis and staging of cancer by ensuring that individual treatment plans correctly account for tissue of origin, tumor cell state, and immune status. Despite its importance, histopathology has changed little over the past…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11332255"
-    },
-    {
-      "applId": 11311193,
-      "projectNum": "1R44AI197309-01",
-      "projectTitle": "Automated system for the direct from blood characterization of bloodstream infections",
-      "fiscalYear": 2026,
-      "awardAmount": 1029859,
-      "awardNoticeDate": "2026-07-16",
-      "projectStartDate": "2026-07-16",
-      "projectEndDate": "2029-06-30",
-      "organization": {
-        "name": "HELIXBIND, INC.",
-        "city": "Boxborough",
-        "state": "MA",
-        "country": "UNITED STATES",
-        "uei": "C37HLWKKAH69",
-        "ipf": "10033210",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "molecular diagnostics"
-      ],
-      "topicHints": [
-        "Precision Diagnostics"
-      ],
-      "projectSummaryExcerpt": "PROJECT SUMMARY Septicemia, a systemic inflammatory response to bloodstream infections (BSIs), contributes to over 270,000 deaths annually in the US. Studies have shown that timely and accurate identification of an infection leading to the administration of appropriate…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11311193"
-    },
-    {
-      "applId": 11381828,
-      "projectNum": "5R44GM145205-03",
-      "projectTitle": "TissueReM: Whole-Organism, Real-time Decision-enabled 3D Tissue Imaging and Recovery for Molecular Analysis",
-      "fiscalYear": 2026,
-      "awardAmount": 1257239,
-      "awardNoticeDate": "2026-07-15",
-      "projectStartDate": "2022-08-05",
-      "projectEndDate": "2027-07-31",
-      "organization": {
-        "name": "BIOINVISION, INC.",
-        "city": "CLEVELAND",
-        "state": "OH",
-        "country": "UNITED STATES",
-        "uei": "DPL8U7UN1435",
-        "ipf": "10006181",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "drug discovery"
-      ],
-      "topicHints": [
-        "Cell Therapy",
-        "Precision Diagnostics",
-        "AI Drug Discovery"
-      ],
-      "projectSummaryExcerpt": "Summary. Traditional methods of studying tissue often limit researchers to individual dissected organs, hinder- ing a holistic, whole-organismal view. Whole-organism analysis provides a comprehensive picture of sys- temic effects of biology or disease on multiple organs and…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11381828"
     }
   ]
 }
