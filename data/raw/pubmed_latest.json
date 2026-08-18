@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-18T01:53:05.031952+00:00",
+  "capturedAt": "2026-08-18T07:07:32.724713+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-18"
   },
   "pmids": [
+    "42608248",
+    "42607819",
+    "42607497",
     "42605004",
     "42604625",
     "42604221",
-    "42603919",
-    "42603543",
-    "42603286",
     "42600555",
     "42580899",
     "42559559",
@@ -32,14 +32,74 @@
     "42575164",
     "42572503",
     "42567392",
+    "42607937",
+    "42607918",
     "42606335",
     "42604781",
     "42604776",
-    "42604608",
-    "42604142",
-    "42603675"
+    "42604608"
   ],
   "records": [
+    {
+      "pmid": "42608248",
+      "title": "Putting endocrine signaling on the neurodevelopmental map.",
+      "abstract": "Endocrine signals are emerging as important regulators of human brain development. In a recent study, Matassa and colleagues established a multiomic atlas of seven major endocrine pathway perturbations in neural organoids, revealing shared and distinct molecular, cellular, and metabolic responses. This resource provides a framework for understanding how hormonal and environmental influences shape neurodevelopment.",
+      "journal": "Trends in neurosciences",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Genes and Environment, Max Planck Institute of Psychiatry, Munich, Germany.",
+        "Department of Genes and Environment, Max Planck Institute of Psychiatry, Munich, Germany. Electronic address: binder@psych.mpg.de."
+      ],
+      "doi": "10.1016/j.tins.2026.07.009",
+      "date": "2026-08-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42608248/"
+    },
+    {
+      "pmid": "42607819",
+      "title": "Mitocurcumin disrupts glutathione balance by modulating Klf9/GSR axis to overcome platinum resistance in non-small cell lung cancer and restores immune surveillance in cold tumor.",
+      "abstract": "Chemoresistance remains a major barrier in non-small cell lung cancer (NSCLC) therapy. Glutathione reductase (GSR), a central regulator of glutathione redox homeostasis, has been implicated in tumor survival, yet its role in non-small cell lung cancer (NSCLC) chemoresistance remains unclear. We demonstrated that GSR is a critical determinant of platinum resistance in NSCLC and identified mitocurcumin (mitoC) as a promising therapeutic agent. GSR expression was elevated in platinum-resistant NSCLC cells and in relapsed patient tumors following platinum-based therapy, correlating with poor patient survival. Genetic silencing of GSR depleted intracellular glutathione, impaired proliferation, and restored chemosensitivity. Mechanistically, mitoC reversibly inhibited mitochondrial GSR activity, inducing oxidative stress and activating the Nrf2/Klf9 signaling axis, which transcriptionally repressed GSR. Notably, Klf9 depletion rescued cells from mitoC-induced ROS-dependent cytotoxicity. Resistant NSCLC cells exhibited heightened sensitivity to mitoC compared to parental or normal lung cells in vitro and in vivo. Patient-derived organoids confirmed stronger antitumor responses to mitoC in chemoresistant groups mediated through Nrf2/Klf9/GSR modulation. Moreover, mitoC suppressed growth of non-immunogenic tumors and enhanced CD8+ T cell infiltration within the tumor microenvironment. Our findings establish the Klf9/GSR axis as a novel therapeutic vulnerability in chemoresistant NSCLC and position mitoC as a strategy to overcome platinum-based treatment failure.",
+      "journal": "Free radical biology & medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Clinical Pharmacology, Advanced Centre for Treatment, Research, and Education in Cancer (ACTREC), Tata memorial Centre, Navi Mumbai-410210, Maharashtra, India; Homi Bhabha National Institute (HBNI), BARC Training School Complex, Anushakti Nagar, Mumbai-400094, Maharashtra, India.",
+        "Department of Clinical Pharmacology, Advanced Centre for Treatment, Research, and Education in Cancer (ACTREC), Tata memorial Centre, Navi Mumbai-410210, Maharashtra, India; Clinician Scientist Laboratory, Advanced Centre for Treatment, Research, and Education in Cancer (ACTREC), Tata memorial Centre, Navi Mumbai-410210, Maharashtra, India.",
+        "Clinician Scientist Laboratory, Advanced Centre for Treatment, Research, and Education in Cancer (ACTREC), Tata memorial Centre, Navi Mumbai-410210, Maharashtra, India.",
+        "Department of Clinical Pharmacology, Advanced Centre for Treatment, Research, and Education in Cancer (ACTREC), Tata memorial Centre, Navi Mumbai-410210, Maharashtra, India.",
+        "Department of Surgical Pathology, Advanced Centre for Treatment, Research, and Education in Cancer (ACTREC), Tata memorial Centre, Navi Mumbai-410210, Maharashtra, India.",
+        "Department of Surgical Oncology, Tata Memorial Hospital, Parel, Mumbai-400012, Maharashtra, India.",
+        "Homi Bhabha National Institute (HBNI), BARC Training School Complex, Anushakti Nagar, Mumbai-400094, Maharashtra, India; Radiation Biology & Health Sciences Division, Bio-Science Group, Bhabha Atomic Research Centre, Trombay, Mumbai-400085, Maharashtra, India.",
+        "Department of Clinical Pharmacology, Advanced Centre for Treatment, Research, and Education in Cancer (ACTREC), Tata memorial Centre, Navi Mumbai-410210, Maharashtra, India; Homi Bhabha National Institute (HBNI), BARC Training School Complex, Anushakti Nagar, Mumbai-400094, Maharashtra, India. Electronic address: vgota76@gmail.com."
+      ],
+      "doi": "10.1016/j.freeradbiomed.2026.08.016",
+      "date": "2026-08-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42607819/"
+    },
+    {
+      "pmid": "42607497",
+      "title": "P4HA3-mediated hydroxylation of SLC7A11 drives tyrosine kinase inhibitor resistance by suppressing ferroptosis in clear cell renal cell carcinoma.",
+      "abstract": "Resistance to tyrosine kinase inhibitors (TKIs) severely limits their long-term efficacy in renal cell carcinoma (RCC). Here, we identify prolyl 4-hydroxylase subunit alpha 3 (P4HA3) as a critical driver of TKI resistance and elucidate its underlying mechanism. P4HA3 was markedly upregulated in TKI-resistant RCC cells, and its overexpression promoted proliferation and resistance to sunitinib and axitinib, whereas P4HA3 depletion restored drug sensitivity and suppressed tumor growth in vitro and in vivo. Mechanistically, P4HA3 inhibited ferroptosis by stabilizing the cystine transporter SLC7A11, thereby maintaining redox homeostasis and suppressing lipid peroxidation. P4HA3 directly interacted with SLC7A11 and induced hydroxyproline modification at residues P153 and P161, which attenuated NEDD4-mediated ubiquitination and proteasomal degradation of SLC7A11. Moreover, a hydroxylase-inactive P4HA3 mutant failed to stabilize SLC7A11, suppress ferroptosis, or promote TKI resistance, demonstrating the essential role of P4HA3 enzymatic activity. Importantly, pharmacological inhibition of P4HA3 using Tubuloside A or 1,4-DPCA disrupted the P4HA3-SLC7A11 axis and significantly enhanced TKI efficacy across RCC cell lines, patient-derived organoids, and xenograft models. Together, these findings establish a hydroxylation-dependent P4HA3-SLC7A11-NEDD4 axis that drives ferroptosis evasion and TKI resistance in RCC and highlight P4HA3 as a promising therapeutic target.",
+      "journal": "Redox biology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, No. 197, Ruijin Er Road, Shanghai, 200025, China.",
+        "Department of General Surgery of Ruijin Hospital, Shanghai Institute of Digestive Surgery, and Shanghai Key Laboratory for Gastric Neoplasms, Shanghai Jiao Tong University School of Medicine, Shanghai, 200025, China.",
+        "Shanghai Institute of Immunology, Department of Immunology and Microbiology, Shanghai Jiao Tong University School of Medicine, 280 South Chongqing Road, Shanghai, 200025, China.",
+        "Department of General Surgery, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, 200080, China.",
+        "Department of Clinic of Spine Center, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, 200082, China.",
+        "Department of Pharmacology, School of Pharmacy, Fudan University, Shanghai, China.",
+        "Department of Pathology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, No. 197, Ruijin Er Road, Shanghai, 200025, China. Electronic address: cl12063@rjh.com.cn."
+      ],
+      "doi": "10.1016/j.redox.2026.104347",
+      "date": "2026-08-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42607497/"
+    },
     {
       "pmid": "42605004",
       "title": "Cystic Fibrosis and Colorectal Cancer Risk: Reprogramming of the Intestinal Epithelial Niche and Cell-State Plasticity in the CFTR Modulator Era.",
@@ -100,58 +160,6 @@
       "doi": "10.7717/peerj.21587",
       "date": "2026-08-12",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604221/"
-    },
-    {
-      "pmid": "42603919",
-      "title": "Metabolic reprogramming in pancreatic cancer: interplay of glucose, lipid, and amino acid metabolism in tumor progression.",
-      "abstract": "Pancreatic cancer is one of the most malignant solid tumors, with a five-year survival rate of less than 10%. The therapeutic challenges primarily stem from difficulties in early diagnosis, high heterogeneity, and extensive resistance to chemotherapy, targeted therapy, and immunotherapy. Recent studies have revealed that metabolic reprogramming, a core hallmark of cancer, is a key mechanism driving the malignant phenotype of pancreatic cancer, persisting throughout its initiation, progression, and development of treatment resistance. This article systematically reviews the molecular mechanisms underlying the dysregulation of three major nutrient metabolic pathways-glucose, lipid, and amino acid metabolism-and their interconnected regulatory networks. Regarding glucose metabolism, enhanced aerobic glycolysis and PPP activation collectively support tumor growth, redox maintenance, and microenvironmental remodeling, whereas lactate accumulation further contributes to immune evasion. Lipid metabolic reprogramming is characterized by coordinated alterations in de novo synthesis, fatty acid oxidation, and cholesterol homeostasis, which collectively regulate membrane remodeling, stemness maintenance, and therapeutic resistance. Amino acid metabolism is characterized by glutamine dependency and branched-chain amino acid metabolic reprogramming, which collectively support biosynthesis, redox homeostasis, and tumor adaptation. These three major metabolic pathways do not operate in isolation but form a dynamic, interconnected network. This network confers robust metabolic plasticity and adaptability to the tumor, constituting a fundamental basis for treatment resistance. Concurrently, stromal cells and immune cells within the tumor microenvironment also undergo metabolic reprogramming, forming a metabolic symbiotic system with cancer cells that further exacerbates treatment resistance. Although combination strategies targeting metabolic pathways-such as glycolysis inhibitors combined with gemcitabine, statins synergizing with chemotherapy, or metabolic interventions combined with immunotherapy-have shown promise in preclinical models, clinical translation remains challenging. These challenges arise from multiple factors, including tumor heterogeneity, metabolic compensation, drug delivery limitations, and the complexity of the tumor microenvironment. Future efforts should integrate single-cell metabolomics, organoid models, and multimodal imaging technologies to advance precision therapy based on metabolic subtyping. Additionally, the development of novel nanodelivery systems and multi-target combination regimens is needed to bridge the gap from mechanistic understanding to clinical application. Metabolic intervention holds potential not only for advanced-stage treatment but also for chemoprevention at the precancerous lesion stage, offering a novel approach to improving the prognosis of pancreatic cancer.",
-      "journal": "Cytotechnology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of General Surgery, The First Hospital of Lanzhou University, Ward 4, Lanzhou, 730000 Gansu China.",
-        "Gansu Institute of Hepatobiliary and Pancreatic Surgery, Lanzhou, 730000 Gansu China.",
-        "Pathology Diagnostic Center, Gansu Provincial Maternity and Child-care Hospital, Gansu Provincial Central Hospital, Lanzhou, Gansu, 730000 China."
-      ],
-      "doi": "10.1007/s10616-026-01052-1",
-      "date": "2026-08-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603919/"
-    },
-    {
-      "pmid": "42603543",
-      "title": "Role of non-animal 3D models in H. pylori associated gastric carcinogenesis: Insights and future perspectives.",
-      "abstract": "Three-dimensional (3D) gastric organoids have become valuable experimental models for gastric cancer research, as they closely mirror tumour architecture, molecular features, and treatment responses. Unlike two-dimensional cultures and animal models, gastric organoids capture key physiological and pathological characteristics of the human stomach, allowing more meaningful investigation of tumour development, host-microbe interactions, and epithelial-stromal crosstalk. These systems retain the genetic and phenotypic traits of their tissue of origin, making them suitable for both mechanistic studies and long-term experimentation. This review outlines the development of gastric organoid technology, from early advances in adult stem cell-derived cultures to recent methodological refinements that have expanded their experimental and clinical relevance. We discuss how organoid models have helped address the challenge posed by the marked molecular and histological heterogeneity of gastric cancer, which continues to complicate diagnosis and therapeutics. In this regard, patient-derived gastric organoids and associated biobanks have shown strong potential as predictive tools for drug response, as they reliably preserve tumour structure and gene expression patterns observed in primary tissues. In addition, we highlight recent improvements in culture matrices and experimental approaches that have enhanced organoid robustness and reproducibility. The growing use of gastric organoids as preclinical platforms for drug screening and the study of cancer-related signaling pathways reflects the rapid maturation of the field. We consider current limitations, technical challenges, and future directions for gastric organoid research, emphasizing their role as complementary models that bridge the gap between conventional in vitro systems and in vivo studies in gastric cancer.",
-      "journal": "Cancer treatment and research communications",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "School of Biotechnology, Jawaharlal Nehru University, New Delhi, India.",
-        "School of Biotechnology, Jawaharlal Nehru University, New Delhi, India. Electronic address: rupesh.chaturvedi.jnu@gmail.com.",
-        "School of Biosciences & Technology, Galgotias University, Uttar Pradesh, India. Electronic address: shrutimishra2411@gmail.com."
-      ],
-      "doi": "10.1016/j.ctarc.2026.101363",
-      "date": "2026-08-15",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603543/"
-    },
-    {
-      "pmid": "42603286",
-      "title": "Multi-Omics Integration Identifies a CDH3-Associated Malignant Epithelial State and Immunosuppressive Niche to Predict Prognosis in Thymic Epithelial Tumors.",
-      "abstract": "Thymic epithelial tumors (TETs) are rare and heterogeneous malignancies whose aggressive epithelial states and microenvironmental organization remain poorly defined. Here, we integrated single-cell RNA sequencing, spatial transcriptomics, multiplex immunofluorescence, bulk transcriptomics, functional assays, xenograft validation, and computational pathology to characterize malignant epithelial heterogeneity in TETs. We identified a CDH3-associated malignant epithelial state located at the origin of malignant-state trajectories and enriched for stem-like and EMT-related features. Spatial transcriptomics and multiplex immunofluorescence showed that CDH3+ tumor cells preferentially localized within an M2 macrophage-rich immunosuppressive niche, while cell-cell communication analyses nominated CCN2-LRP1 as a candidate epithelial-myeloid crosstalk axis. A 68-gene CDH3-associated signature stratified TCGA-THYM into biologically distinct subgroups with differences in survival, histology, genomic instability, and immune contexture. Patient-derived thymic carcinoma organoids showed elevated CDH3 expression, and CDH3 silencing suppressed thymic carcinoma cell proliferation, migration, invasion, EMT/PI3K-Akt-related signaling, and macrophage-associated crosstalk. Candidate inhibitors showed antitumor activity in xenograft models. We also established a deep learning pathology model that captured CDH3-associated morphology from routine H&E slides and predicted patient outcome. Together, these findings define CDH3 as a biomarker and therapeutic target linking malignant epithelial plasticity to immunosuppressive niche formation and adverse clinical behavior in TETs.",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Thoracic Surgery, School of Medicine, Shanghai Pulmonary Hospital, Tongji University, Shanghai, China.",
-        "Department of Thoracic Surgery, Ningbo Second Hospital, Ningbo, China."
-      ],
-      "doi": "10.1002/advs.77153",
-      "date": "2026-08-15",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603286/"
     },
     {
       "pmid": "42600555",
@@ -382,6 +390,43 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42567392/"
     },
     {
+      "pmid": "42607937",
+      "title": "Integration of PNA-mediated PCR and CRISPR/Cas13a for highly sensitive detection of EGFR T790M mutation in circulating tumor DNA.",
+      "abstract": "Circulating tumor DNA (ctDNA) is characterized by low abundance and fragmentation, limiting the development of genetic variant detection technologies. In this study, we established a highly sensitive and specific assay by combining peptide nucleic acid (PNA)-mediated PCR clamping with CRISPR/Cas13a trans-cleavage detection. A PNA probe targeting the wild-type (WT) EGFR T790M allele was designed to suppress WT amplification during PCR, while minimally affecting mutant allele amplification. By combining the target specificity of Cas13a for mutant alleles with the WT-suppression capability of PNA-PCR, we achieved a dual-enrichment effect for mutant detection. When applied to EGFR T790M mutation detection, the assay reached a analytical sensitivity of 0.02%. We established a standard curve for T790M detection using cell-free DNA standards. Clinical validation in 20 plasma samples from lung adenocarcinoma patients demonstrated that the PNA-Cas13a assay achieved a diagnostic sensitivity of 93.3% (95% CI: 68.1%-99.8%) and a specificity of 100% (95% CI: 47.8%-100%), with detection concordance comparable to or improved over ARMS-PCR in this pilot cohort. The result suggest its preliminary diagnostic utility in liquid biopsy. In conclusion, the PNA-Cas13a assay enables sensitive and specific detection of EGFR T790M mutations in ctDNA, is readily adaptable to multiple gene loci, and holds promise for clinical monitoring of tumor drug resistance.",
+      "journal": "Molecular and cellular probes",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Laboratory Medicine Center, Shenzhen Nanshan District People's Hospital, Shenzhen 518052, PR China.",
+        "First People's Hospital of Chenzhou City, Chenzhou 423000, China.",
+        "Henan Province Engineering Research Center of Tumor Companion Diagnostics and Translational Medicine, The Affiliated Cancer Hospital of Zhengzhou University & Henan Cancer Hospital, Zhengzhou 450008, China. Electronic address: wlwhxwch@163.com."
+      ],
+      "doi": "10.1016/j.mcp.2026.102085",
+      "date": "2026-08-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42607937/"
+    },
+    {
+      "pmid": "42607918",
+      "title": "Circular RNAs as diagnostic biomarkers and therapeutic regulators of metabolic reprogramming, immune escape and ferroptosis in hepatocellular carcinoma.",
+      "abstract": "Hepatocellular carcinoma (HCC) remains one of the leading causes of cancer-related mortality worldwide, largely due to delayed diagnosis, high recurrence rates, therapeutic resistance, and marked molecular heterogeneity. The identification of reliable biomarkers for early detection, prognostic stratification, and therapeutic monitoring is therefore of considerable clinical importance. Circular RNAs (circRNAs), a class of highly stable covalently closed non-coding RNAs, have emerged as promising molecular biomarkers owing to their tissue specificity, evolutionary conservation, and detectability in body fluids and extracellular vesicles. Accumulating evidence indicates that circRNAs play pivotal roles in hepatocarcinogenesis by regulating key biological processes, including metabolic reprogramming, immune evasion, and ferroptosis. Through ceRNA networks, epigenetic modulation, and interactions with RNA-binding proteins, circRNAs orchestrate glycolytic metabolism, lipid metabolic pathways, hypoxia adaptation, immune checkpoint signaling, tumor-associated macrophage polarization, and ferroptosis-associated antioxidant defenses. These regulatory functions not only contribute to tumor progression but also influence sensitivity to systemic therapies and immunotherapeutic interventions. Beyond their mechanistic roles, numerous circRNAs have demonstrated significant diagnostic and prognostic potential in HCC. Circulating and exosomal circRNAs are increasingly recognized as attractive liquid biopsy candidates because of their remarkable stability and accessibility in clinical specimens. Furthermore, specific circRNA signatures have been associated with tumor aggressiveness, recurrence risk, immune landscape remodeling, and treatment response, highlighting their utility as predictive biomarkers and potential therapeutic targets. In this review, we comprehensively summarize the current understanding of circRNA-mediated regulation of metabolic reprogramming, immune escape, and ferroptosis in HCC, with particular emphasis on their clinical and translational relevance. We further discuss the emerging role of circRNAs as diagnostic, prognostic, and predictive biomarkers, as well as the challenges that must be addressed before their integration into routine clinical practice. Collectively, circRNAs represent a promising class of biomolecules with substantial potential to improve precision diagnostics and personalized management of hepatocellular carcinoma.",
+      "journal": "Clinica chimica acta; international journal of clinical chemistry",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Internal medicine of Chinese Medicine, Department of Hepatology, Beijing University of Chinese Medicine Affiliated Shenzhen Hospital, Shenzhen, China. Electronic address: jw1956@georgetown.edu.",
+        "Department of Industrial & Systems Engineering, Auburn University, AL 36849, USA.",
+        "Institute of Operations Research and Analytics, National, University of Singapore, Singapore. Electronic address: e0945601@u.nus.edu.",
+        "Sargent College, Boston University, Boston, MA 02115, USA. Electronic address: ellahu@bu.edu.",
+        "Department of Mechanical and Aerospace Engineering, Case Western Reserve University, Cleveland, OH 44106, USA. Electronic address: haoweima52@gmail.com."
+      ],
+      "doi": "10.1016/j.cca.2026.121285",
+      "date": "2026-08-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42607918/"
+    },
+    {
       "pmid": "42606335",
       "title": "Whole Genome HPV Liquid Biopsy for HPV-Associated Cancer Detection and Viral Physical State Classification.",
       "abstract": "HPV-associated carcinomas(HPV+cancers) account for 5% of all cancers. Circulating tumor HPV DNA(ctHPVDNA) assays for HPV+ cancer surveillance have limited prognostic utility at the time of cancer diagnosis. While HPV integration into the host genome is a proven tissue-based biomarker predicting poor clinical outcomes, existing clinically utilized ctHPVDNA assays cannot classify the viral physical state. We previously developed HPV-DeepSeek, a multi-feature HPV whole-genome sequencing liquid biopsy with 99% diagnostic accuracy at the time of HPV+ oropharynx cancer diagnosis. We test the diagnostic accuracy of HPV-DeepSeek in a cohort of 235 HPV+ cancers across nine anatomic sites and employ a novel blood-based computational classifier to infer HPV genome physical state from plasma, termed HPV-SIGNAL, to assess its prognostic potential. HPV-DeepSeek demonstrated a sensitivity and specificity of 99%. In 189 eligible samples, HPV-SIGNAL identified four viral physical states: episomal-only(N=71), episomal-rearranged(N=52), integrated-mixed(N=57), and integrated-clonal(N=9), which were confirmed and further elucidated via three orthogonal tissue and blood approaches. Patients harboring integrated viral states in the blood exhibited significantly worse age- and AJCC stage-adjusted progression-free survival(HR 2.78, 95% CI1.30-5.99, p=0.009) and overall survival(HR2.95, 95% CI 1.01-8.61, p=0.048) compared to patients with episomal states. HPV whole-genome sequencing liquid biopsy has high diagnostic accuracy across HPV+ cancer types and can be used to identify and classify HPV physical state from blood. Patients with integrated viral states detected in the blood demonstrated worse progression-free and overall survival, suggesting blood-based HPV physical state classification could be used as a prognostic tool at the time of cancer diagnosis.",
@@ -458,48 +503,67 @@
       "doi": "10.1016/j.bios.2026.119109",
       "date": "2026-08-13",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604608/"
-    },
-    {
-      "pmid": "42604142",
-      "title": "Circulating miRNAs for glioblastoma monitoring: from biofluid to clinical decision.",
-      "abstract": "Gliomas, particularly glioblastoma (GBM), remain highly lethal brain tumors with limited treatments. MRI-based monitoring lacks specificity in distinguishing progression from treatment effects. Circulating microRNAs (miRNAs), small non-coding RNAs involved in tumor biology, show promise as liquid biopsy biomarkers. We searched PubMed, Embase, Scopus, and Web of Science for clinical studies investigating circulating miRNAs as diagnostic, prognostic, or predictive biomarkers in glioma, across plasma, serum, and cerebrospinal fluid (CSF). Oncogenic miRNAs (oncomiRs) such as miR-21, miR-10b, miR-182, and miR-210 were consistently upregulated in glioma patients, whereas tumor suppressors including miR-124, miR-128, miR-137, and miR-181 family members were downregulated. Prognostically, elevated miR-21, miR-222, and miR-196b correlated with poor survival, while reduced miR-181d, miR-100, and miR-145 predicted worse outcomes. Composite signatures, particularly exosomal or CSF-derived panels, outperformed single markers. Dynamic changes in miR-21, miR-222, and miR-210 reflected treatment response or progression, with exosomal miR-1238 emerging as a marker of temozolomide resistance. Longitudinal serum levels of miR-223 and miR-320e correlated with MRI tumor volume and distinguished true progression from pseudo-progression. Circulating miRNAs show strong potential as minimally invasive biomarkers for glioma management, but clinical translation remains limited by technical and biological variability and lack of validation. Advances in biosensors, multi-omics, and standardization are key to clinical integration.",
-      "journal": "Molecular therapy. Oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Université de Caen Normandie, CNRS, Normandie Université, ISTCT UMR6030, GIP CYCERON, 14000 Caen, France.",
-        "Centre Hospitalier Universitaire de Caen, Service de Neurochirurgie, 14000 Caen, France.",
-        "INSERM, U1237, PhIND \"Physiopathology and Imaging of Neurological Disorders,\" Institut Blood and Brain @ Caen-Normandie, Cyceron, 14000 Caen, France.",
-        "Centre Hospitalier Universitaire de Caen, Service d'Anatomie et Cytologie Pathologiques, 14000 Caen, France."
-      ],
-      "doi": "10.1016/j.omton.2026.201308",
-      "date": "2026-07-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604142/"
-    },
-    {
-      "pmid": "42603675",
-      "title": "Identification of candidate microRNA biomarkers of mouse cholangiocyte injury by global miRNAome analysis.",
-      "abstract": "Drug-induced liver injury (DILI) remains an issue in clinical and drug development settings causing large financial and health issues. This is in part due to the poor specificity and sensitivity of current standard circulating liver enzyme biomarkers, and research is ongoing to characterize more suitable novel candidates. Despite accounting for a small proportion of total liver cells, biliary epithelial cholangiocytes are vital to hepatic homeostasis due to their role in exporting toxic bile acids. Up to 40% of DILI cases can involve the biliary tract, yet much of the research for novel biomarkers has focused on hepatocellular injury, with miR-122 especially showing promise. We aimed to investigate novel microRNA (miR) biomarkers for cholangiocyte DILI. Characterization of basal murine hepatocyte and cholangiocyte miR profiles showed distinct expressions, which led to selection of a panel of cholangiocyte-enriched biomarker candidates, miR-200a-3p, miR-200b-3p, miR-200c-3p, miR-141-3p and miR-429-3p. This panel was then evaluated in an α-Naphthyl isocyanate (ANIT) CD-1 mouse in vivo model of biliary toxicity. Liver phenotype and serum enzymes indicated that ANIT initially caused biliary perturbation before later progressing into wider hepatic injury. At 24-h following ANIT administration, during the biliary damage phase, miR-200a-3p showed the most consistent elevations in serum as per liquid biopsy vs controls, indicating a large dynamic range. No meaningful changes in serum miR-122-5p were evident until 48-h post-dose, once hepatocellular damage was taking place. miR expression differences were incorporated into a miR ratio calculation previously reported in a clinical DILI cohort, and results were able to successfully distinguish cholestatic or hepatocellular patterns of injury. This novel panel of cholangiocyte-selective miR-200 family members should be further investigated in larger cholestatic DILI cohorts, with miR-200a-3p in particular showing potential as a sensitive circulating marker of biliary toxicity with serum increases that precede miR-122-5p and hepatocellular damage.",
-      "journal": "Toxicology and applied pharmacology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "University of Liverpool, Department of Pharmacology and Therapeutics, Sherrington Buildings, Ashton Street, Liverpool L69 3GE, UK.",
-        "University of Liverpool, Department of Biostatistics, Waterhouse Building, 1-5 Brownlow Street, Liverpool L69 3GL, UK; Alteryx, Laguna Canyon Road, Irvine, CA 92618, USA.",
-        "University of Leicester, Leicester Drug Discovery and Diagnostics (LD3), Hodgkin Building, 412 Lancaster Road, Leicester LE1 7HB, UK.",
-        "University of Liverpool, Institute of Infection, Veterinary and Ecological Sciences, Leahurst Campus, Neston, Wirral CH64 7TE, UK.",
-        "University of Glasgow, School of Cancer Sciences, Garscube Estate, Switchback Road, Bearsden G61 1QH, UK; CRUK Beatson Institute, Garscube Estate, Switchback Road, Bearsden G61 1BD, UK.",
-        "University of Liverpool, Department of Pharmacology and Therapeutics, Sherrington Buildings, Ashton Street, Liverpool L69 3GE, UK. Electronic address: chrissy@liverpool.ac.uk."
-      ],
-      "doi": "10.1016/j.taap.2026.117998",
-      "date": "2026-08-15",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603675/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42608248",
+      "date": "2026-08-17",
+      "title": "Putting endocrine signaling on the neurodevelopmental map.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42608248/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Trends in neurosciences，PMID 为 42608248。",
+      "report": "Endocrine signals are emerging as important regulators of human brain development. In a recent study, Matassa and colleagues established a multiomic atlas of seven major endocrine pathway perturbations in neural organoids, revealing shared and distinct molecul...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42607819",
+      "date": "2026-08-17",
+      "title": "Mitocurcumin disrupts glutathione balance by modulating Klf9/GSR axis to overcome platinum resistance in non-small cell lung cancer and restores immune surveillance in cold tumor.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42607819/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Free radical biology & medicine，PMID 为 42607819。",
+      "report": "Chemoresistance remains a major barrier in non-small cell lung cancer (NSCLC) therapy. Glutathione reductase (GSR), a central regulator of glutathione redox homeostasis, has been implicated in tumor survival, yet its role in non-small cell lung cancer (NSCLC)...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42606177",
       "date": "2026-08-17",
@@ -553,6 +617,70 @@
       "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 42605681。",
       "report": "Protein engineering relies heavily on computational characterization of constrained protein fitness landscapes, in which only a limited fraction of sequence space corresponds to stable and functional biomolecules. Advances in structural biology and machine lea...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42607937",
+      "date": "2026-08-17",
+      "title": "Integration of PNA-mediated PCR and CRISPR/Cas13a for highly sensitive detection of EGFR T790M mutation in circulating tumor DNA.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42607937/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular and cellular probes，PMID 为 42607937。",
+      "report": "Circulating tumor DNA (ctDNA) is characterized by low abundance and fragmentation, limiting the development of genetic variant detection technologies. In this study, we established a highly sensitive and specific assay by combining peptide nucleic acid (PNA)-m...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42607918",
+      "date": "2026-08-17",
+      "title": "Circular RNAs as diagnostic biomarkers and therapeutic regulators of metabolic reprogramming, immune escape and ferroptosis in hepatocellular carcinoma.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42607918/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Clinica chimica acta; international journal of clinical chemistry，PMID 为 42607918。",
+      "report": "Hepatocellular carcinoma (HCC) remains one of the leading causes of cancer-related mortality worldwide, largely due to delayed diagnosis, high recurrence rates, therapeutic resistance, and marked molecular heterogeneity. The identification of reliable biomarke...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -618,16 +746,16 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42603543",
-      "date": "2026-08-15",
-      "title": "Role of non-animal 3D models in H. pylori associated gastric carcinogenesis: Insights and future perspectives.",
+      "id": "pubmed-42607497",
+      "date": "2026-08-14",
+      "title": "P4HA3-mediated hydroxylation of SLC7A11 drives tyrosine kinase inhibitor resistance by suppressing ferroptosis in clear cell renal cell carcinoma.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603543/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42607497/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -644,105 +772,9 @@
         "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer treatment and research communications，PMID 为 42603543。",
-      "report": "Three-dimensional (3D) gastric organoids have become valuable experimental models for gastric cancer research, as they closely mirror tumour architecture, molecular features, and treatment responses. Unlike two-dimensional cultures and animal models, gastric o...",
+      "fact": "PubMed 记录显示该文献收录于 Redox biology，PMID 为 42607497。",
+      "report": "Resistance to tyrosine kinase inhibitors (TKIs) severely limits their long-term efficacy in renal cell carcinoma (RCC). Here, we identify prolyl 4-hydroxylase subunit alpha 3 (P4HA3) as a critical driver of TKI resistance and elucidate its underlying mechanism...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42603286",
-      "date": "2026-08-15",
-      "title": "Multi-Omics Integration Identifies a CDH3-Associated Malignant Epithelial State and Immunosuppressive Niche to Predict Prognosis in Thymic Epithelial Tumors.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603286/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42603286。",
-      "report": "Thymic epithelial tumors (TETs) are rare and heterogeneous malignancies whose aggressive epithelial states and microenvironmental organization remain poorly defined. Here, we integrated single-cell RNA sequencing, spatial transcriptomics, multiplex immunofluor...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42603675",
-      "date": "2026-08-15",
-      "title": "Identification of candidate microRNA biomarkers of mouse cholangiocyte injury by global miRNAome analysis.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603675/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Toxicology and applied pharmacology，PMID 为 42603675。",
-      "report": "Drug-induced liver injury (DILI) remains an issue in clinical and drug development settings causing large financial and health issues. This is in part due to the poor specificity and sensitivity of current standard circulating liver enzyme biomarkers, and rese...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42603919",
-      "date": "2026-08-14",
-      "title": "Metabolic reprogramming in pancreatic cancer: interplay of glucose, lipid, and amino acid metabolism in tumor progression.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603919/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cytotechnology，PMID 为 42603919。",
-      "report": "Pancreatic cancer is one of the most malignant solid tumors, with a five-year survival rate of less than 10%. The therapeutic challenges primarily stem from difficulties in early diagnosis, high heterogeneity, and extensive resistance to chemotherapy, targeted...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1058,38 +1090,6 @@
       "fact": "PubMed 记录显示该文献收录于 Biogerontology，PMID 为 42509463。",
       "report": "Single-cell foundation models such as scGPT and Geneformer are large neural networks trained on human single-cell RNA-seq data. They were never shown chronological age during training. Do their internal representations nevertheless encode aging biology in a wa...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42604142",
-      "date": "2026-07-28",
-      "title": "Circulating miRNAs for glioblastoma monitoring: from biofluid to clinical decision.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604142/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular therapy. Oncology，PMID 为 42604142。",
-      "report": "Gliomas, particularly glioblastoma (GBM), remain highly lethal brain tumors with limited treatments. MRI-based monitoring lacks specificity in distinguishing progression from treatment effects. Circulating microRNAs (miRNAs), small non-coding RNAs involved in...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
