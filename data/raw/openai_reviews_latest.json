@@ -1,127 +1,47 @@
 {
-  "capturedAt": "2026-08-17T19:00:39.458954+00:00",
+  "capturedAt": "2026-08-18T01:53:12.556474+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42606177",
-      "responseId": "resp_04973da4761d12af006a835a585908819ab4913d45af5b16b5",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需人工审核，基于文献数据可能存在临床推论不足的问题。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "一级分类未能充分支持研究质量，分类可能不准确。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "提供的证据水平为中等，但对临床或科学结论支持不足。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Biotech"
-          ],
-          "tags": [
-            "biotech"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Molecular biology and evolution，PMID 为 42606177。",
-          "report": "DNA polymerase clamp loaders are AAA+ ATPases that load sliding clamps on DNA for high-speed replication. Using a platform for high-throughput mutagenesis of replication proteins in T4 bacteriophage, we carried out saturation mutagenesis of the AAA+ ATPase mod...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42605681",
-      "responseId": "resp_0c9716ec8ce8131d006a835a5ff57c87d094dc8b3111dc7b45",
+      "signalId": "sec-0001110803-000119312526354010",
+      "responseId": "resp_0fdf7252b3326fe1006a83bb09b2f487d2a593a8b008f5ffe1",
       "review": {
         "status": "pass",
         "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "此卡片内容一致，符合发布标准。",
+        "reviewSummaryCn": "该信号符合出版要求，信息来源稳定，内容可靠。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，符合文献主题。"
+          "notesCn": "分类合理，证据水平适中。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断各自清晰分开，证据水平合理。"
+          "notesCn": "事实、报告和推论分开清晰，证据水平合理。"
         },
         "riskFlags": [
-          "weak_classification"
+          "commercial_claim"
         ],
         "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
           "evidenceLevel": "Medium",
           "themes": [
-            "AI for Biology",
-            "Drug Discovery"
+            "Corporate Filings",
+            "Sequencing & Research Tools"
           ],
           "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成"
+            "SEC",
+            "8-K",
+            "ILMN"
           ],
-          "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 42605681。",
-          "report": "Protein engineering relies heavily on computational characterization of constrained protein fitness landscapes, in which only a limited fraction of sequence space corresponds to stable and functional biomolecules. Advances in structural biology and machine lea...",
-          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42606335",
-      "responseId": "resp_0b5bbab8111e3219006a835a658b2081989f6040e7f4c3733d",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该信号需要人工审核以确保没有不支持的临床结论或建议。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类与证据水平不一致，可能需要调整。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平仅为中等，但需要更强支持。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42606335。",
-          "report": "HPV-associated carcinomas(HPV+cancers) account for 5% of all cancers. Circulating tumor HPV DNA(ctHPVDNA) assays for HPV+ cancer surveillance have limited prognostic utility at the time of cancer diagnosis. While HPV integration into the host genome is a proved factor...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+          "fact": "SEC EDGAR lists accession 0001193125-26-354010 for Illumina, Form 8-K, filed on 2026-08-17.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
         }
       }
     }

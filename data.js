@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-08-17",
+  "updatedAt": "2026-08-18",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -1028,6 +1028,79 @@ window.BHR_DATA = {
           "report": "HPV-associated carcinomas(HPV+cancers) account for 5% of all cancers. Circulating tumor HPV DNA(ctHPVDNA) assays for HPV+ cancer surveillance have limited prognostic utility at the time of cancer diagnosis. While HPV integration into the host genome is a proved factor...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "sec-0001110803-000119312526354010",
+      "date": "2026-08-17",
+      "title": "Illumina filed Form 8-K",
+      "entity": "Illumina",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526354010/d51146d8k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Corporate Filings",
+        "Sequencing & Research Tools"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "ILMN"
+      ],
+      "companyIds": [
+        "illumina"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-354010 for Illumina, Form 8-K, filed on 2026-08-17.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0fdf7252b3326fe1006a83bb09b2f487d2a593a8b008f5ffe1",
+        "reviewedAt": "2026-08-18T01:53:12.556474+00:00",
+        "inputHash": "61ccd5b35d7ae4fab42b59d8c7aaea514fdf5f4ee5c7fba74df0b63272d9dde3",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号符合出版要求，信息来源稳定，内容可靠。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，证据水平适中。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分开清晰，证据水平合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Sequencing & Research Tools"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "ILMN"
+          ],
+          "fact": "SEC EDGAR lists accession 0001193125-26-354010 for Illumina, Form 8-K, filed on 2026-08-17.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
         }
       }
     },
