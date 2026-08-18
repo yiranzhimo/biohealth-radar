@@ -1,29 +1,195 @@
 {
-  "capturedAt": "2026-08-18T07:07:41.455423+00:00",
+  "capturedAt": "2026-08-18T13:11:16.731323+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42608248",
-      "responseId": "resp_097071e82d8576dc006a8404be3fbc81988b733d4df0c97a37",
+      "signalId": "pubmed-42609170",
+      "responseId": "resp_0292c514ea61c481006a8459f5bbd887d2a6279ab6d84dc0c6",
       "review": {
         "status": "pass",
-        "confidence": 0.9,
+        "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录内部一致并且中立，适宜发布。",
+        "reviewSummaryCn": "该信号内部一致且中立，适合发布。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类与文献内容一致。"
+          "notesCn": ""
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "文献来源可靠，证据水平适中。"
+          "notesCn": "文献收录信息准确，报告内容清晰且符合主题。"
         },
         "riskFlags": [
           "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Lab on a chip，PMID 为 42609170。",
+          "report": "We integrate multi-stacked, thermally fused near-field electrospun PLGA membranes into a microfluidic organ-on-a-chip device. Layer number controls pore diameter (12-33 μm), porosity, circularity and permeability. The biodegradable, optically transparent membr...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42608544",
+      "responseId": "resp_0a47de41b927c487006a8459fbf7b8819f922671ce4f684e44",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查以确认研究的质量和潜在的利益冲突。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类合理，但缺乏研究质量的具体信息。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据等级被标记为中等，但未提供足够的来源支持。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of human genetics，PMID 为 42608544。",
+          "report": "Lung cancer is the most frequently diagnosed malignancy and the leading cause of cancer-related mortality worldwide, with approximately 85% of cases classified as non-small cell lung cancer (NSCLC). Despite significant advances in diagnostic techniques and the...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42609051",
+      "responseId": "resp_01bb4a914ead76d8006a845a00f7e487d290a9e9817724948d",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "所有信息均已合理分类且信息源可靠，符合发布要求。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类使用合理，符合提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论清楚分开，证据等级合理。"
+        },
+        "riskFlags": [
+          "research"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 International journal of hyperthermia : the official journal of European Society for Hyperthermic Oncology, North American Hyperthermia Group，PMID 为 42609051。",
+          "report": "High-intensity focused ultrasound (HIFU) is a noninvasive ablation technology with increasing relevance for preclinical research and clinical translation. Pancreatic ductal adenocarcinoma (PDAC) is among the most lethal cancers, with limited therapeutic option...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42608409",
+      "responseId": "resp_09c82f2223919421006a845a06df8087d2bffc26724d1efb6d",
+      "review": {
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号基于高可靠性的文献记录，信息分离清晰，无临床建议，符合发布时间要求。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42608409。",
+          "report": "Live cells in tissue are plastic, phenotypically dynamic, and modify their function in response to genetic and environmental perturbations. To unleash the power of live-cell imaging to identify phenotype-genotype-function coupling over time, we report the deve...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42608391",
+      "responseId": "resp_060d10c4e598473f006a845a0d19b887d29ec790a43ddcba73",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录在事实、报告和推论之间具有明确的分隔，没有临床建议或不支持的结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类符合文献内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献有高可靠性，证据水平中等合理。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -37,29 +203,69 @@
             "类器官",
             "疾病模型"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Trends in neurosciences，PMID 为 42608248。",
-          "report": "Endocrine signals are emerging as important regulators of human brain development. In a recent study, Matassa and colleagues established a multiomic atlas of seven major endocrine pathway perturbations in neural organoids, revealing shared and distinct molecules.",
+          "fact": "PubMed 记录显示该文献收录于 Bone research，PMID 为 42608391。",
+          "report": "Interoception is the process by which the nervous system senses, integrates, and interprets signals arising from within the body, thereby enabling the brain to monitor and regulate physiological functions. Often described as a \"sixth sense\", interoception link...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42607819",
-      "responseId": "resp_0817649a33327bb6006a8404c65ae08199a469c4c111552798",
+      "signalId": "pubmed-42609500",
+      "responseId": "resp_02984e06d96ae44b006a845a12622881a392cda7e17c0b1d82",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "内容准确，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，与主题相符。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "来源可靠，证据水平适中，语句分隔明确。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Biotech",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "biotech",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42609500。",
+          "report": "Assessment at progression after epidermal growth factor receptor tyrosine kinase inhibitor (EGFR-TKI) therapy in EGFR-mutant non-small cell lung cancer requires more than identifying a single resistance mechanism. It also requires attention to lineage plasticity.",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42609461",
+      "responseId": "resp_048e46d1eecaaf87006a845a16cf9c87d28f7a846a88a2ccdd",
       "review": {
         "status": "needs_human",
         "confidence": 0.75,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "该记录包含对研究结果的推断，需人工审查以确保没有不当临床结论或治疗建议。",
+        "reviewSummaryCn": "该文献内容中涉及哈希莫托甲状腺炎及相关细胞死亡机制，但存在未经验证的临床推论。需人工审查以确保无不当结论。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "分类和证据水平未充分支持源信息。"
+          "notesCn": "分类对临床结论的支持不足，需要更多的背景信息作为依据。"
         },
         "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
+          "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "缺乏对研究质量的评估，且推断与报告之间未明确区分。"
+          "notesCn": "文献的证据水平标记为中，但具体展开的研究质量、样本量及其临床意义未有明确说明。"
         },
         "riskFlags": [
           "clinical_claim",
@@ -72,149 +278,17 @@
           "themes": [
             "Organoids",
             "Advanced Disease Models",
-            "Precision Oncology"
+            "Multi-omics"
           ],
           "tags": [
             "类器官",
             "疾病模型",
-            "肿瘤"
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Free radical biology & medicine，PMID 为 42607819。",
-          "report": "Chemoresistance remains a major barrier in non-small cell lung cancer (NSCLC) therapy. Glutathione reductase (GSR), a central regulator of glutathione redox homeostasis, has been implicated in tumor survival, yet its role in non-small cell lung cancer (NSCLC)...",
-          "inference": "现有推断需要明确标记为不确定，不应暗示临床有效性。",
-          "unknown": "研究质量、样本量、利益冲突、临床阶段和商业化状态缺乏评估。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42607937",
-      "responseId": "resp_0ddb1a5ae01d38d6006a8404cedfe48198a46b2fb7862a83ba",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号符合发布要求，信息明确且合理。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "diagnostics_claim",
-          "research_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Molecular and cellular probes，PMID 为 42607937。",
-          "report": "Circulating tumor DNA (ctDNA) is characterized by low abundance and fragmentation, limiting the development of genetic variant detection technologies. In this study, we established a highly sensitive and specific assay by combining peptide nucleic acid (PNA)-m...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42607918",
-      "responseId": "resp_0421fd653aa4d8cb006a8404d43ea887d0b19f22037bfac9a5",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录信息一致、合理，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "临床",
-            "监管",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Clinica chimica acta; international journal of clinical chemistry，PMID 为 42607918。",
-          "report": "Hepatocellular carcinoma (HCC) remains one of the leading causes of cancer-related mortality worldwide, largely due to delayed diagnosis, high recurrence rates, therapeutic resistance, and marked molecular heterogeneity. The identification of reliable biomarke...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42607497",
-      "responseId": "resp_002e3bc4ad203678006a8404dc485487d09a09818a81219943",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "文献中包含未说明的质量评估和潜在利益冲突。建议进行审查。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "虽然分类为Organoids & Advanced Disease Models，但文献未提供明确的研究质量或临床结论。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平标记为中等，但缺少足够的信息来支持此级别。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Redox biology，PMID 为 42607497。",
-          "report": "Resistance to tyrosine kinase inhibitors (TKIs) severely limits their long-term efficacy in renal cell carcinoma (RCC). Here, we identify prolyl 4-hydroxylase subunit alpha 3 (P4HA3) as a critical driver of TKI resistance and elucidate its underlying mechanism...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+          "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42609461。",
+          "report": "Hashimoto's Thyroiditis (HT) is the leading cause of primary hypothyroidism, characterized by progressive thyroid follicular cell (TFC) loss and diffuse lymphocytic infiltration. While apoptosis dominates TFC death in HT, the role of pro-inflammatory necroptosis is being investigated.",
+          "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "未对研究质量、样本量、利益冲突、临床阶段或商业化状态进行评估。"
         }
       }
     }

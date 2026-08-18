@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-18T07:07:32.724713+00:00",
+  "capturedAt": "2026-08-18T13:11:09.443383+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-18"
   },
   "pmids": [
-    "42608248",
-    "42607819",
-    "42607497",
-    "42605004",
-    "42604625",
-    "42604221",
+    "42609500",
+    "42609461",
+    "42609170",
+    "42609051",
+    "42608409",
+    "42608391",
     "42600555",
     "42580899",
     "42559559",
@@ -32,134 +32,137 @@
     "42575164",
     "42572503",
     "42567392",
+    "42608544",
     "42607937",
     "42607918",
     "42606335",
     "42604781",
-    "42604776",
-    "42604608"
+    "42604776"
   ],
   "records": [
     {
-      "pmid": "42608248",
-      "title": "Putting endocrine signaling on the neurodevelopmental map.",
-      "abstract": "Endocrine signals are emerging as important regulators of human brain development. In a recent study, Matassa and colleagues established a multiomic atlas of seven major endocrine pathway perturbations in neural organoids, revealing shared and distinct molecular, cellular, and metabolic responses. This resource provides a framework for understanding how hormonal and environmental influences shape neurodevelopment.",
-      "journal": "Trends in neurosciences",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Genes and Environment, Max Planck Institute of Psychiatry, Munich, Germany.",
-        "Department of Genes and Environment, Max Planck Institute of Psychiatry, Munich, Germany. Electronic address: binder@psych.mpg.de."
-      ],
-      "doi": "10.1016/j.tins.2026.07.009",
-      "date": "2026-08-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42608248/"
-    },
-    {
-      "pmid": "42607819",
-      "title": "Mitocurcumin disrupts glutathione balance by modulating Klf9/GSR axis to overcome platinum resistance in non-small cell lung cancer and restores immune surveillance in cold tumor.",
-      "abstract": "Chemoresistance remains a major barrier in non-small cell lung cancer (NSCLC) therapy. Glutathione reductase (GSR), a central regulator of glutathione redox homeostasis, has been implicated in tumor survival, yet its role in non-small cell lung cancer (NSCLC) chemoresistance remains unclear. We demonstrated that GSR is a critical determinant of platinum resistance in NSCLC and identified mitocurcumin (mitoC) as a promising therapeutic agent. GSR expression was elevated in platinum-resistant NSCLC cells and in relapsed patient tumors following platinum-based therapy, correlating with poor patient survival. Genetic silencing of GSR depleted intracellular glutathione, impaired proliferation, and restored chemosensitivity. Mechanistically, mitoC reversibly inhibited mitochondrial GSR activity, inducing oxidative stress and activating the Nrf2/Klf9 signaling axis, which transcriptionally repressed GSR. Notably, Klf9 depletion rescued cells from mitoC-induced ROS-dependent cytotoxicity. Resistant NSCLC cells exhibited heightened sensitivity to mitoC compared to parental or normal lung cells in vitro and in vivo. Patient-derived organoids confirmed stronger antitumor responses to mitoC in chemoresistant groups mediated through Nrf2/Klf9/GSR modulation. Moreover, mitoC suppressed growth of non-immunogenic tumors and enhanced CD8+ T cell infiltration within the tumor microenvironment. Our findings establish the Klf9/GSR axis as a novel therapeutic vulnerability in chemoresistant NSCLC and position mitoC as a strategy to overcome platinum-based treatment failure.",
-      "journal": "Free radical biology & medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Clinical Pharmacology, Advanced Centre for Treatment, Research, and Education in Cancer (ACTREC), Tata memorial Centre, Navi Mumbai-410210, Maharashtra, India; Homi Bhabha National Institute (HBNI), BARC Training School Complex, Anushakti Nagar, Mumbai-400094, Maharashtra, India.",
-        "Department of Clinical Pharmacology, Advanced Centre for Treatment, Research, and Education in Cancer (ACTREC), Tata memorial Centre, Navi Mumbai-410210, Maharashtra, India; Clinician Scientist Laboratory, Advanced Centre for Treatment, Research, and Education in Cancer (ACTREC), Tata memorial Centre, Navi Mumbai-410210, Maharashtra, India.",
-        "Clinician Scientist Laboratory, Advanced Centre for Treatment, Research, and Education in Cancer (ACTREC), Tata memorial Centre, Navi Mumbai-410210, Maharashtra, India.",
-        "Department of Clinical Pharmacology, Advanced Centre for Treatment, Research, and Education in Cancer (ACTREC), Tata memorial Centre, Navi Mumbai-410210, Maharashtra, India.",
-        "Department of Surgical Pathology, Advanced Centre for Treatment, Research, and Education in Cancer (ACTREC), Tata memorial Centre, Navi Mumbai-410210, Maharashtra, India.",
-        "Department of Surgical Oncology, Tata Memorial Hospital, Parel, Mumbai-400012, Maharashtra, India.",
-        "Homi Bhabha National Institute (HBNI), BARC Training School Complex, Anushakti Nagar, Mumbai-400094, Maharashtra, India; Radiation Biology & Health Sciences Division, Bio-Science Group, Bhabha Atomic Research Centre, Trombay, Mumbai-400085, Maharashtra, India.",
-        "Department of Clinical Pharmacology, Advanced Centre for Treatment, Research, and Education in Cancer (ACTREC), Tata memorial Centre, Navi Mumbai-410210, Maharashtra, India; Homi Bhabha National Institute (HBNI), BARC Training School Complex, Anushakti Nagar, Mumbai-400094, Maharashtra, India. Electronic address: vgota76@gmail.com."
-      ],
-      "doi": "10.1016/j.freeradbiomed.2026.08.016",
-      "date": "2026-08-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42607819/"
-    },
-    {
-      "pmid": "42607497",
-      "title": "P4HA3-mediated hydroxylation of SLC7A11 drives tyrosine kinase inhibitor resistance by suppressing ferroptosis in clear cell renal cell carcinoma.",
-      "abstract": "Resistance to tyrosine kinase inhibitors (TKIs) severely limits their long-term efficacy in renal cell carcinoma (RCC). Here, we identify prolyl 4-hydroxylase subunit alpha 3 (P4HA3) as a critical driver of TKI resistance and elucidate its underlying mechanism. P4HA3 was markedly upregulated in TKI-resistant RCC cells, and its overexpression promoted proliferation and resistance to sunitinib and axitinib, whereas P4HA3 depletion restored drug sensitivity and suppressed tumor growth in vitro and in vivo. Mechanistically, P4HA3 inhibited ferroptosis by stabilizing the cystine transporter SLC7A11, thereby maintaining redox homeostasis and suppressing lipid peroxidation. P4HA3 directly interacted with SLC7A11 and induced hydroxyproline modification at residues P153 and P161, which attenuated NEDD4-mediated ubiquitination and proteasomal degradation of SLC7A11. Moreover, a hydroxylase-inactive P4HA3 mutant failed to stabilize SLC7A11, suppress ferroptosis, or promote TKI resistance, demonstrating the essential role of P4HA3 enzymatic activity. Importantly, pharmacological inhibition of P4HA3 using Tubuloside A or 1,4-DPCA disrupted the P4HA3-SLC7A11 axis and significantly enhanced TKI efficacy across RCC cell lines, patient-derived organoids, and xenograft models. Together, these findings establish a hydroxylation-dependent P4HA3-SLC7A11-NEDD4 axis that drives ferroptosis evasion and TKI resistance in RCC and highlight P4HA3 as a promising therapeutic target.",
-      "journal": "Redox biology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, No. 197, Ruijin Er Road, Shanghai, 200025, China.",
-        "Department of General Surgery of Ruijin Hospital, Shanghai Institute of Digestive Surgery, and Shanghai Key Laboratory for Gastric Neoplasms, Shanghai Jiao Tong University School of Medicine, Shanghai, 200025, China.",
-        "Shanghai Institute of Immunology, Department of Immunology and Microbiology, Shanghai Jiao Tong University School of Medicine, 280 South Chongqing Road, Shanghai, 200025, China.",
-        "Department of General Surgery, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, 200080, China.",
-        "Department of Clinic of Spine Center, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, 200082, China.",
-        "Department of Pharmacology, School of Pharmacy, Fudan University, Shanghai, China.",
-        "Department of Pathology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
-        "Department of Urology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, No. 197, Ruijin Er Road, Shanghai, 200025, China. Electronic address: cl12063@rjh.com.cn."
-      ],
-      "doi": "10.1016/j.redox.2026.104347",
-      "date": "2026-08-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42607497/"
-    },
-    {
-      "pmid": "42605004",
-      "title": "Cystic Fibrosis and Colorectal Cancer Risk: Reprogramming of the Intestinal Epithelial Niche and Cell-State Plasticity in the CFTR Modulator Era.",
-      "abstract": "Cystic fibrosis (CF) has shifted from a fatal paediatric lung disease to a multi-organ, lifespan-spanning disorder in which gastrointestinal (GI) complications and malignancies are increasingly prominent. With improved survival into mid- and late adulthood, aided by newborn screening, optimised nutrition and the advent of highly effective CF transmembrane conductance regulator (CFTR) modulators, implementation of colonoscopic surveillance has highlighted a several-fold increase in early-onset colorectal cancer (CRC) and a broader spectrum of intestinal pathology. In parallel, work in mouse models, human tissue and patient-derived intestinal organoids now places the CFTR at the centre of a complex epithelial compartment that integrates ion and pH homeostasis, mucus biology, microbiota, redox balance and immune/stromal function. In this review, we advance the hypothesis that CF may be conceptualised as a niche-centric hereditary CRC predisposition syndrome, in which germline CFTR dysfunction chronically destabilises epithelial identity in addition to increasing mutational burden. We synthesise evidence that CFTR loss remodels stem cell regulation, promotes hypoxia and oxidative stress, perturbs microbial ecosystems, drives chronic immune activation and stromal remodelling, and induces epithelial-mesenchymal plasticity (EMP) and DNA-damage vulnerability, collectively creating a pre-neoplastic intestinal ecosystem. We situate this model within contemporary CRC frameworks that emphasise cell-state transitions, hybrid epithelial-mesenchymal (E/M) states and specialised stromal niches, and we distinguish it from oncofoetal reprogramming, an APC-driven programme that CF does not clearly recapitulate. We propose that CF may provide a naturally occurring human context in which chronic epithelial stress sustains EMP-like pressure, a concept that requires direct validation in human CF intestinal tissue. Finally, we consider how CFTR modulators, microbiome-directed therapies and redox-targeted interventions might re-programme the CF intestinal niche and outline experimental and clinical strategies needed to determine whether early, ecosystem-level correction can prevent GI cancers in this high-risk population.",
-      "journal": "Cell proliferation",
+      "pmid": "42609500",
+      "title": "Squamous transformation of EGFR-mutant lung adenocarcinoma after EGFR-TKI therapy: clonal continuity, tissue-based diagnosis, and therapeutic evidence gaps.",
+      "abstract": "Assessment at progression after epidermal growth factor receptor tyrosine kinase inhibitor (EGFR-TKI) therapy in EGFR-mutant non-small cell lung cancer requires more than identifying a single resistance mechanism. It also requires attention to lineage plasticity, tumor heterogeneity, the pattern of progression, and tissue-based findings. In a subset of patients, rebiopsy may reveal squamous histological transformation, sometimes with retention of the founder EGFR mutation. When present, retention of the founder EGFR mutation supports a shared clonal origin but does not, by itself, determine treatment. Confirmation of squamous transformation also changes the evidentiary context, because results from histologically unselected post-EGFR-TKI populations cannot always be applied directly to patients with confirmed transformation. This review focuses on squamous transformation and related basal/squamous reprogramming detected at EGFR-TKI progression, with particular emphasis on histological and molecular reassessment. We distinguish between direct clinical evidence from histologically confirmed transformed tumors and supportive translational evidence from EGFR-mutant resistance models and related lineage-transition systems. Plasma circulating tumor DNA can identify selected resistance alterations and track molecular evolution, but it cannot define morphology or lineage identity. When transformation is suspected, repeat tissue biopsy remains central, and reassessment should integrate morphology, immunohistochemistry, and paired molecular comparison with the original tumor. Integrated pathological and molecular reassessment may also uncover coexisting actionable alterations and help clarify whether progression is driven mainly by the transformed component, residual EGFR-dependent disease, or mixed resistance. Current evidence does not support a transformation-specific treatment sequence, so management remains individualized. Future studies should combine prospective rebiopsy cohorts, paired tissue-plasma profiling, and clinically annotated models to identify predictors of transformation and develop lineage-informed treatment strategies.",
+      "journal": "Frontiers in oncology",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "School of Biomedical Sciences, Faculty of Medicine and Health, UNSW Sydney, Sydney, New South Wales, Australia.",
-        "Molecular and Integrative Cystic Fibrosis (miCF) Research Centre, UNSW Sydney, Sydney, New South Wales, Australia.",
-        "BioISI-Biosystems & Integrative Sciences Institute, Faculty of Sciences, University of Lisbon, Lisbon, Portugal.",
-        "Department of Gastroenterology, Sydney Children's Hospitals Network, Sydney, New South Wales, Australia.",
-        "Sydney Children's Hospital Respiratory Department, Sydney Children's Hospitals Network, Sydney, New South Wales, Australia.",
-        "Department of Anatomy and Developmental Biology, Monash University, Clayton, Victoria, Australia.",
-        "Monash Biomedicine Discovery Institute, Clayton, Victoria, Australia."
+        "Department of Oncology, Affiliated Hospital of Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China.",
+        "Department of Thoracic Surgery, Shenyang Tenth People's Hospital, Shenyang, Liaoning, China.",
+        "Oncology Department of Integrated Traditional Chinese and Western Medicine, Shenyang Tenth People's Hospital, Shenyang, Liaoning, China."
       ],
-      "doi": "10.1111/cpr.70272",
-      "date": "2026-08-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42605004/"
+      "doi": "10.3389/fonc.2026.1910407",
+      "date": "2026-08-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609500/"
     },
     {
-      "pmid": "42604625",
-      "title": "Targeting PKM2 and GAPDH by baicalein and corilagin from TCM reduces lactylation and enhance cisplatin sensitivity in lung cancer.",
-      "abstract": "Protein lactylation plays a key role in cancer progression and chemotherapy sensitivity. Glycolysis inhibitors offer promise, particularly through combination strategies to counter metabolic compensation. This study aims to identify glycolysis-targeting active ingredients from Traditional Chinese Medicine (TCM) and to investigate their enhanced effect in reducing lactylation to inhibit lung cancer. We first screened heat-clearing and detoxifying TCM herbs based on their effects on lactate levels, and then we developed a lactate-producing key enzyme protein stability chip (L-PTSC) to further screen the selected herbs and identify their targets. Through semi-preparative separation of herbal extracts, we identified the active components and characterized their target interactions. Finally, the efficacy of the triple combination (baicalein + corilagin + cisplatin) was validated in multiple lung cancer models, including cell lines, resistant lines, organoids, and xenografts. Extracts from Scutellaria baicalensis (SBG) and Geranium wilfordii (GWM) significantly inhibited glycolysis. Baicalein (from SBG) and corilagin (from GWM) were identified as candidate of PKM2 and GAPDH binders through l-PTSC. Given the central role of PKM2 and GAPDH in glycolysis, we systematically evaluated the enhanced antitumor effects of baicalein and corilagin using the Combination Index (CI) method via CompuSyn software (Chou-Talalay approach). Mechanistic investigations revealed that the triple combination treatment associated with lowered global protein lactylation levels, with AARS1 and MRE11 being particularly affected. This study established a natural product-based targeting strategy, identifying baicalein and corilagin from TCM herbs that engage PKM2 and GAPDH, and are associated with reduced lactylation and enhanced cisplatin sensitivity in lung cancer.",
-      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "pmid": "42609461",
+      "title": "Spatial transcriptomic analysis identifies a necroptosis-prone thyroid follicular cell state in Hashimoto's thyroiditis.",
+      "abstract": "Hashimoto's Thyroiditis (HT) is the leading cause of primary hypothyroidism, characterized by progressive thyroid follicular cell (TFC) loss and diffuse lymphocytic infiltration. While apoptosis dominates TFC death in HT, the role of pro-inflammatory necroptosis in TFC destruction, especially its cellular heterogeneity, spatial distribution, and inflammatory microenvironmental regulation, remains incompletely elucidated. We integrated spatial transcriptomics and multilevel functional validation to map necroptosis-associated cellular and molecular programs in HT. Thyroid tissues from a local clinical cohort were analyzed using transmission electron microscopy (TEM), immunohistochemistry, and immunoblotting to validate necroptosis-associated signatures. In vitro, Nthy-ori 3-1 cells were stimulated with TNF-α, with or without IFN-γ, to characterize necroptosis-associated signaling in thyrocytes. We identified a distinct TFC subpopulation (Cluster 2) with high enrichment of the TNF signaling pathway and TNFRSF1A expression, which exhibited a necroptosis-susceptible phenotype and served as the core receiver of inflammatory signals from the immune microenvironment. Pseudotime trajectory analysis showed synchronous upregulation of transcripts of core necroptotic molecules (RIPK3, MLKL) at a critical threshold during TFC dedifferentiation. The TEM revealed necroptosis-compatible ultrastructural features in HT thyrocytes. Notably, HT tissues showed an RIPK3-MLKL-predominant necroptosis-associated pattern, with no significant changes in total or phosphorylated RIPK1. Clinically, the expression of necroptosis-related markers (ZBP1, RIPK3, MLKL) in thyroid tissues and circulating pro-inflammatory cytokines (IL-6, IL-1β, IL-1α) in serum were significantly correlated with thyroid autoantibody (TPOAb, TgAb) titers and TFC dedifferentiation. In vitro, pharmacological inhibition of RIPK3 or MLKL effectively preserved thyrocyte membrane integrity, reduced cell death, and suppressed the secretion of pro-inflammatory cytokines. Our study provides a multimodal characterization of necroptosis in HT, showing that the inflammatory immune microenvironment is associated with TFC loss and activation of an RIPK3-MLKL-predominant necroptosis-related program, without detectable upregulation of total or phosphorylated RIPK1. Targeting the RIPK3-MLKL axis may represent an experimental therapeutic hypothesis that requires further validation in primary thyrocytes, organoids, and in vivo HT models.",
+      "journal": "Frontiers in immunology",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Jiangxi Province Key Laboratory of Traditional Chinese Medicine Pharmacology, Institute of Traditional Chinese Medicine Health Industry, China Academy of Chinese Medical Sciences, Nanchang, 330115, China; Experimental Research Center, China Academy of Chinese Medical Sciences, Beijing, 100700, China.",
-        "Laboratory of Cardiovascular Diseases, Xiyuan Hospital of China Academy of Chinese Medical Sciences, Beijing 100091, China.",
-        "School of Life Sciences and Medicine, Shandong University of Technology, Shandong 255000, China.",
-        "Experimental Research Center, China Academy of Chinese Medical Sciences, Beijing, 100700, China.",
-        "School of Pharmacy, Binzhou Medical University, Yantai, 264003, China.",
-        "Department of Thoracic Surgery, Peking University People's Hospital, Beijing, 100044, China; Thoracic Oncology Institute, Peking University People's Hospital, Beijing, 100044, China; Research Unit of lntelligence Diagnosis and Treatment in Early Non-Small Cell Lung Cancer, Chinese Academy of Medical Sciences, Peking University People's Hospital, Beijing, 100044, China; Institute of Advanced Clinical Medicine, Peking University, Beijing, 100044, China; Beijing Key Laboratory of lnnovative Application of Big Data in Lung Cancer, Peking University People's Hospital, Beijing, 100044, China. Electronic address: wangxun04275@pkuph.edu.cn.",
-        "Experimental Research Center, China Academy of Chinese Medical Sciences, Beijing, 100700, China; Analysis of Complex Effects of Proprietary Chinese Medicine, Hunan Provincial Key Laboratory, Yongzhou, Hunan Province, 425199, China. Electronic address: sdzpchenpeng@qq.com.",
-        "Experimental Research Center, China Academy of Chinese Medical Sciences, Beijing, 100700, China. Electronic address: hongjun0420@vip.sina.com."
+        "Department of Endocrinology, Shengjing Hospital of China Medical University, Shenyang, Liaoning, China.",
+        "Department of Endocrinology and Metabolism and the Institute of Endocrinology, NHC Key Laboratory of Diagnosis and Treatment of Thyroid Diseases, The First Hospital of China Medical University, Shenyang, Liaoning, China.",
+        "Department of Laboratory Medicine, National Clinical Research Center for Laboratory Medicine, The First Hospital of China Medical University, China Medical University, Shenyang, Liaoning, China."
       ],
-      "doi": "10.1016/j.phymed.2026.158690",
-      "date": "2026-08-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604625/"
+      "doi": "10.3389/fimmu.2026.1902510",
+      "date": "2026-08-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609461/"
     },
     {
-      "pmid": "42604221",
-      "title": "Progress in high-throughput screening for drug and material discovery in orthopedic diseases: a literature review.",
-      "abstract": "Orthopedic diseases are referred to as a series of conditions affecting the normal structure and function of the skeletal system. With a wide variety of types and a year-by-year increasing incidence, they have a severe impact on patients' quality of life. Traditional research has made relatively significant progress in understanding the pathogenesis and treating orthopedic diseases, however, it remains constrained by limitations such as low-throughput experimentation, and difficulty in mimicking the complex bone microenvironment. In recent years, high-throughput screening (HTS) technology has been combined with experimental techniques and models (such as microfluidics, omics technologies, 3D bioprinting, artificial intelligence, and organoid models), which can be used to better simulate the real bone microenvironment and predict molecular activity. This combined approach has not only deepened our understanding of the mechanisms of orthopedic diseases, but also broken through the limitations of traditional drug development, which further accelerates drug discovery and clinical translation. This review aims to systematically summarize the research progress and applications of HTS in typical orthopedic diseases, including osteoporosis, osteoarthritis, bone defects, and bone tumors, to promote the development and clinical translation of novel therapeutic strategies for orthopedic disorders, and to provide references and guidance for researchers in orthopedic basic research, drug development, regenerative medicine, and clinical orthopedic practice. Accordingly, this review is intended for orthopedic researchers, clinicians and biomaterial scientists focusing on high-throughput screening and orthopedic therapeutic development.",
-      "journal": "PeerJ",
+      "pmid": "42609170",
+      "title": "Integration of multi-stacked biodegradable PLGA membranes into microfluidic organ-on-a-chip devices for tunable barrier co-culture.",
+      "abstract": "We integrate multi-stacked, thermally fused near-field electrospun PLGA membranes into a microfluidic organ-on-a-chip device. Layer number controls pore diameter (12-33 μm), porosity, circularity and permeability. The biodegradable, optically transparent membranes support endothelial-stromal co-culture with confirmed barrier integrity (TEER, ZO-1) and spatially resolved tissue compartmentalization.",
+      "journal": "Lab on a chip",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Mechanical Engineering, University of Utah, Salt Lake City, Utah 84112, USA. jkim@mech.utah.edu.",
+        "Division of Nephrology, Department of Internal Medicine, University of Utah Health, Salt Lake City, Utah 84112, USA.",
+        "Department of Ophthalmology & Visual Sciences, University of Utah School of Medicine, Salt Lake City, UT 84112, USA.",
+        "Department of Biomedical Engineering, University of Utah School of Medicine, Salt Lake City, UT 84112, USA."
+      ],
+      "doi": "10.1039/d6lc00296j",
+      "date": "2026-08-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609170/"
+    },
+    {
+      "pmid": "42609051",
+      "title": "Development of a mobile high-intensity focused ultrasound platform for preclinical tumor microenvironment modulation in a pancreatic ductal adenocarcinoma mouse model.",
+      "abstract": "High-intensity focused ultrasound (HIFU) is a noninvasive ablation technology with increasing relevance for preclinical research and clinical translation. Pancreatic ductal adenocarcinoma (PDAC) is among the most lethal cancers, with limited therapeutic options and poor response to current treatments, underscoring the urgent need for alternative strategies. To address this, we developed a mobile HIFU platform optimized for small-animal studies with an immersion-free design that improves usability while maintaining reproducible thermal ablation. The system was evaluated in a PDAC mouse model using KPC tumor cells. HIFU-induced tumor ablation and tumor growth were assessed, and histological and flow cytometric analyses were performed to evaluate treatment-assossiacted changes in the tumor microenvironment. To recapitulate the PDAC immune microenvironment in vitro, we further established a co-culture system of tumor organoids and CD8+ T cells. HIFU treatment induced tumor necrosis and significantly suppressed tumor growth. Histological and flow cytometric analyses revealed treatment-associated immune modulation, including increased proportions of activated CD8+ T cells, APC-like cells, and macrophage populations. In the organoid coculture model, activated CD8+ T cells accumulated around tumor organoids and were associated with increased tumor organoid death. The proposed mobile HIFU system demonstrated reliable technical performance and biological efficacy in a preclinical PDAC model. This platform offers a practical tool for reproducible small-animal HIFU studies and highlights the potential of ultrasound-based tumor ablation as a strategy to address unmet therapeutic needs in pancreatic cancer.",
+      "journal": "International journal of hyperthermia : the official journal of European Society for Hyperthermic Oncology, North American Hyperthermia Group",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Molecular Imaging Branch, Division of Convergence Technology, Research Institute of National Cancer Center, Goyang, Republic of Korea.",
+        "Department of Nuclear Medicine, National Cancer Center, Goyang, Korea.",
+        "Department of Cancer Biomedical Science, National Cancer Center Graduate School of Cancer Science and Policy, Goyang, Republic of Korea."
+      ],
+      "doi": "10.1080/02656736.2026.2716349",
+      "date": "2026-08-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609051/"
+    },
+    {
+      "pmid": "42608409",
+      "title": "Identifying phenotype-genotype-function coupling in 3D organoid imaging using Shape, Appearance and Motion Phenotype Observation Tool (SPOT).",
+      "abstract": "Live cells in tissue are plastic, phenotypically dynamic, and modify their function in response to genetic and environmental perturbations. To unleash the power of live-cell imaging to identify phenotype-genotype-function coupling over time, we report the development of a standardized Shape-Appearance-Motion (SAM) \"phenome\" and SAM-Phenotype-Observation-Tool (SPOT), that act as an image-\"transcriptome\" and image-\"transcriptome analyzer\" respectively, and provide an unbiased and comprehensive description of morpho-dynamic phenotypes without prior knowledge. We apply SAM-SPOT to our simulated organoids database with known ground-truth and >1.6 million mouse and human organoid instances with defined genetic and chemical perturbations. SAM-SPOT can effectively and robustly characterize 3D morpho-dynamics from 2D projection videos. Combined with single-cell RNA sequencing, SAM-SPOT reveals that altered WNT signaling, but not mutant RAS or p53, predisposes intestinal organoids to irregular morphogenesis. SAM-SPOT advances biomedical discovery by empowering live-cell imaging to identify phenotype-genotype-function relationships through large-scale and cost-effective label-free live-cell imaging.",
+      "journal": "Nature communications",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Nuffield Department of Medicine, Ludwig Institute for Cancer Research, University of Oxford, Oxford, UK. felix.y.zhou@vanderbilt.edu.",
+        "Lyda Hill Department of Bioinformatics, University of Texas Southwestern Medical Center, Dallas, TX, USA. felix.y.zhou@vanderbilt.edu.",
+        "Department of Cell & Developmental Biology, Vanderbilt University, Nashville, TN, USA. felix.y.zhou@vanderbilt.edu.",
+        "Center for Computational Systems Biology, Vanderbilt University, Nashville, TN, USA. felix.y.zhou@vanderbilt.edu.",
+        "Vanderbilt Ingram Cancer Center, Vanderbilt University Medical Center, Nashville, TN, USA. felix.y.zhou@vanderbilt.edu.",
+        "Nuffield Department of Medicine, Ludwig Institute for Cancer Research, University of Oxford, Oxford, UK.",
+        "Ellison Institute of Technology, The Oxford Science Park, Oxford, UK.",
+        "Department of Chemistry, University of Oxford, Oxford, UK.",
+        "MRC Translational Discovery Unit (TIDU), MRC Weatherall Institute of Molecular Medicine, University of Oxford, Oxford, UK.",
+        "Mathematical Institute, University of Oxford, Oxford, UK.",
+        "Novo Nordisk Research Centre Oxford (NNRCO), Oxford, UK.",
+        "Max Planck Institute of Molecular Cell Biology and Genetics, Dresden, Germany.",
+        "Nuffield Department of Medicine, Ludwig Institute for Cancer Research, University of Oxford, Oxford, UK. xin.lu@ludwig.ox.ac.uk."
+      ],
+      "doi": "10.1038/s41467-026-75506-7",
+      "date": "2026-08-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42608409/"
+    },
+    {
+      "pmid": "42608391",
+      "title": "The sixth sense of the brain: interoception in organoid study.",
+      "abstract": "Interoception is the process by which the nervous system senses, integrates, and interprets signals arising from within the body, thereby enabling the brain to monitor and regulate physiological functions. Often described as a \"sixth sense\", interoception links internal physiological states to brain-mediated homeostatic control, whereas sight, smell, hearing, taste, and touch primarily convey information from the external environment. Organoids are three-dimensional tissue models derived from stem or progenitor cells that reproduce selected structural and functional features of native organs. Because organoids are increasingly used in disease modeling, drug testing, and regenerative research, their integration with neural, endocrine, immune, and vascular components offers an opportunity to investigate brain-body communication. Conversely, organoid-based systems may provide experimentally tractable models for interoception. This review defines interoception and organoid technologies, examines brain-centered communication with skeletal and intestinal systems, and discusses how brain, bone, and intestinal organoids and assembloids could advance interoception research. In particular, organoid-based models may enable mechanistic investigation of neuroendocrine pathways, including the hypothalamic-pituitary-adrenal (HPA) axis, and thereby provide new insights into physiological regulation and disease progression.",
+      "journal": "Bone research",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Emergency Department, The Affiliated Hospital of Guizhou Medical University, Guiyang, Guizhou, China.",
-        "Clinical Medical College, Guizhou Medical University, Guiyang, China."
+        "Institute of Translational Medicine, Shanghai University, Shanghai, China.",
+        "MedEng-X Institutes, Shanghai University, Shanghai, China.",
+        "National Center for Translational Medicine (Shanghai) SHU Branch, Shanghai University, Shanghai, China.",
+        "Department of Orthopedics, Xinhua Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China. sirchenxiao@126.com.",
+        "Institute of Translational Medicine, Shanghai University, Shanghai, China. bailong@ecust.edu.cn.",
+        "MedEng-X Institutes, Shanghai University, Shanghai, China. bailong@ecust.edu.cn.",
+        "National Center for Translational Medicine (Shanghai) SHU Branch, Shanghai University, Shanghai, China. bailong@ecust.edu.cn.",
+        "Wenzhou Institute of Shanghai University, Wenzhou, China. bailong@ecust.edu.cn.",
+        "Institute of Translational Medicine, Shanghai University, Shanghai, China. drsujiacan@163.com.",
+        "MedEng-X Institutes, Shanghai University, Shanghai, China. drsujiacan@163.com.",
+        "National Center for Translational Medicine (Shanghai) SHU Branch, Shanghai University, Shanghai, China. drsujiacan@163.com.",
+        "Department of Orthopedics, Xinhua Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China. drsujiacan@163.com."
       ],
-      "doi": "10.7717/peerj.21587",
-      "date": "2026-08-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604221/"
+      "doi": "10.1038/s41413-026-00569-7",
+      "date": "2026-08-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42608391/"
     },
     {
       "pmid": "42600555",
@@ -390,6 +393,24 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42567392/"
     },
     {
+      "pmid": "42608544",
+      "title": "Clinical significance of miRNAs and exosomal miRNAs in non-small cell lung cancer: diagnostic, prognostic, and therapeutic perspectives.",
+      "abstract": "Lung cancer is the most frequently diagnosed malignancy and the leading cause of cancer-related mortality worldwide, with approximately 85% of cases classified as non-small cell lung cancer (NSCLC). Despite significant advances in diagnostic techniques and therapeutic strategies, including immunotherapy and targeted therapies, the prognosis of lung cancer remains poor, with an overall 5-year survival rate of approximately 22%. MicroRNAs (miRNAs) are small, single-stranded, non-coding RNA molecules that regulate gene expression at the post-transcriptional level and play critical roles in key biological processes, such as proliferation, apoptosis, migration, and invasion. miRNAs can function as oncogenes (oncomiRs) or tumor suppressors (TS-miRs), and their dysregulation is frequently observed in various malignancies, including NSCLC. Owing to their remarkable stability in serum and plasma, miRNAs have emerged as promising non-invasive biomarkers for the diagnosis and prognosis of NSCLC. In particular, exosomal miRNAs are encapsulated within a lipid bilayer that protects them from enzymatic degradation, thereby further enhancing their utility as liquid biopsy components and as potential biomarkers and therapeutic targets. Moreover, a single miRNA can regulate multiple target genes, highlighting their promise as therapeutic targets. This review summarizes the diagnostic, prognostic, predictive, and therapeutic potential of tissue-derived, circulating, and exosomal miRNAs in NSCLC and discusses the major challenges limiting the clinical translation of miRNA-based biomarkers and therapeutics.",
+      "journal": "Journal of human genetics",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Division of Pediatric Oncology, Department of Pediatrics, All India Institute of Medical Sciences, New Delhi, India.",
+        "Department of Reproductive Biology, All India Institute of Medical Sciences, New Delhi, India.",
+        "Division of Pediatric Oncology, Department of Pediatrics, All India Institute of Medical Sciences, New Delhi, India. drjpmeena@yahoo.com."
+      ],
+      "doi": "10.1038/s10038-026-01505-7",
+      "date": "2026-08-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42608544/"
+    },
+    {
       "pmid": "42607937",
       "title": "Integration of PNA-mediated PCR and CRISPR/Cas13a for highly sensitive detection of EGFR T790M mutation in circulating tumor DNA.",
       "abstract": "Circulating tumor DNA (ctDNA) is characterized by low abundance and fragmentation, limiting the development of genetic variant detection technologies. In this study, we established a highly sensitive and specific assay by combining peptide nucleic acid (PNA)-mediated PCR clamping with CRISPR/Cas13a trans-cleavage detection. A PNA probe targeting the wild-type (WT) EGFR T790M allele was designed to suppress WT amplification during PCR, while minimally affecting mutant allele amplification. By combining the target specificity of Cas13a for mutant alleles with the WT-suppression capability of PNA-PCR, we achieved a dual-enrichment effect for mutant detection. When applied to EGFR T790M mutation detection, the assay reached a analytical sensitivity of 0.02%. We established a standard curve for T790M detection using cell-free DNA standards. Clinical validation in 20 plasma samples from lung adenocarcinoma patients demonstrated that the PNA-Cas13a assay achieved a diagnostic sensitivity of 93.3% (95% CI: 68.1%-99.8%) and a specificity of 100% (95% CI: 47.8%-100%), with detection concordance comparable to or improved over ARMS-PCR in this pilot cohort. The result suggest its preliminary diagnostic utility in liquid biopsy. In conclusion, the PNA-Cas13a assay enables sensitive and specific detection of EGFR T790M mutations in ctDNA, is readily adaptable to multiple gene loci, and holds promise for clinical monitoring of tumor drug resistance.",
@@ -484,67 +505,80 @@
       "doi": "10.11477/mf.030126030540040789",
       "date": "2026-07-01",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604776/"
-    },
-    {
-      "pmid": "42604608",
-      "title": "Proximity-confined DNA walking-nanozyme cascades for multiplexed urinary extracellular vesicle phenotyping and machine learning-assisted disease stratification.",
-      "abstract": "Urinary extracellular vesicles (uEVs) provide noninvasive biomarkers for liquid biopsy owing to their ability to reflect disease-associated molecular alterations. However, the accurate analysis of low-abundance uEV surface proteins in complex biological matrices remains a major analytical challenge. Here, we report a proximity-activated dual-cascade (PADC) biosensing platform that integrates a target-responsive 3D DNA machine with a nanozyme-mediated ratiometric transduction circuit for high-fidelity multiplexed phenotyping of uEVs. Upon dual-recognition of target uEVs, the DNA machine undergoes proximity-induced spatial confinement on individual magnetic particles, creating a localized catalytic microenvironment that markedly enhances DNA walking kinetics and signal amplification efficiency. Coupled with an enzyme-nanozyme redox cascade, this confined catalytic process generates a robust ratiometric fluorescence output for sensitive and reliable molecular profiling. Benefiting from the spatially confined amplification architecture, the proposed platform enables ultrasensitive multiplexed analysis of CD63, EGFR, and PAK6 with detection limits down to 4.3 × 104, 2.2 × 104, and 1.7 × 103 particles/mL, respectively. Importantly, the target-uEV response was approximately six-fold higher than those generated by common urinary interferents or their mixture, demonstrating high analytical selectivity in complex urine matrices. To further evaluate its universality for multi-disease screening, multidimensional molecular profiling combined with machine learning algorithms was performed on clinical uEV samples collected from healthy controls, Diabetes Mellitus (DM) patients, and prostate cancer (PCa) patients. The optimal classification model achieved an overall multiclass diagnostic accuracy of 91% for distinguishing healthy, DM, and PCa groups. This work establishes a proximity-confined catalytic biosensing strategy for multiplexed uEV analysis and demonstrates its potential for uEV-based liquid biopsy and proof-of-concept disease stratification.",
-      "journal": "Biosensors & bioelectronics",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Vascular Surgery, The First Affiliated Hospital, Fujian Medical University, Fuzhou, 350005, China; Department of Vascular Surgery, National Regional Medical Center, Binhai Campus of The First Affiliated Hospital, Fujian Medical University, Fuzhou, 350212, China.",
-        "Department of Vascular Surgery, The First Affiliated Hospital, Fujian Medical University, Fuzhou, 350005, China; Department of Vascular Surgery, National Regional Medical Center, Binhai Campus of The First Affiliated Hospital, Fujian Medical University, Fuzhou, 350212, China; Department of Epidemiology and Health Statistics, School of Public Health, Fujian Medical University, Fuzhou, 350122, China; NHC Key Laboratory of Etiological Epidemiology of Chronic Diseases with High Incidence in Fujian-Taiwan Area, Fujian Medical University, Fuzhou, 350122, China.",
-        "Trauma Center and Emergency Surgery Department, The First Affiliated Hospital, Fujian Medical University, Fuzhou, 350005, China.",
-        "Department of Chemistry, École Normale Supérieure, Sorbonne Université, CNRS, France. Electronic address: kunwangneu@gmail.com.",
-        "Department of Vascular Surgery, The First Affiliated Hospital, Fujian Medical University, Fuzhou, 350005, China; Department of Vascular Surgery, National Regional Medical Center, Binhai Campus of The First Affiliated Hospital, Fujian Medical University, Fuzhou, 350212, China. Electronic address: daiyiquan@sina.cn."
-      ],
-      "doi": "10.1016/j.bios.2026.119109",
-      "date": "2026-08-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604608/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42608248",
-      "date": "2026-08-17",
-      "title": "Putting endocrine signaling on the neurodevelopmental map.",
+      "id": "pubmed-42609170",
+      "date": "2026-08-18",
+      "title": "Integration of multi-stacked biodegradable PLGA membranes into microfluidic organ-on-a-chip devices for tunable barrier co-culture.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42608248/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609170/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
-        "Advanced Disease Models"
+        "Advanced Disease Models",
+        "Multi-omics"
       ],
       "tags": [
         "类器官",
-        "疾病模型"
+        "疾病模型",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Trends in neurosciences，PMID 为 42608248。",
-      "report": "Endocrine signals are emerging as important regulators of human brain development. In a recent study, Matassa and colleagues established a multiomic atlas of seven major endocrine pathway perturbations in neural organoids, revealing shared and distinct molecul...",
+      "fact": "PubMed 记录显示该文献收录于 Lab on a chip，PMID 为 42609170。",
+      "report": "We integrate multi-stacked, thermally fused near-field electrospun PLGA membranes into a microfluidic organ-on-a-chip device. Layer number controls pore diameter (12-33 μm), porosity, circularity and permeability. The biodegradable, optically transparent membr...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42607819",
+      "id": "pubmed-42608544",
+      "date": "2026-08-18",
+      "title": "Clinical significance of miRNAs and exosomal miRNAs in non-small cell lung cancer: diagnostic, prognostic, and therapeutic perspectives.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42608544/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of human genetics，PMID 为 42608544。",
+      "report": "Lung cancer is the most frequently diagnosed malignancy and the leading cause of cancer-related mortality worldwide, with approximately 85% of cases classified as non-small cell lung cancer (NSCLC). Despite significant advances in diagnostic techniques and the...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42609051",
       "date": "2026-08-17",
-      "title": "Mitocurcumin disrupts glutathione balance by modulating Klf9/GSR axis to overcome platinum resistance in non-small cell lung cancer and restores immune surveillance in cold tumor.",
+      "title": "Development of a mobile high-intensity focused ultrasound platform for preclinical tumor microenvironment modulation in a pancreatic ductal adenocarcinoma mouse model.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42607819/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609051/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -559,8 +593,66 @@
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Free radical biology & medicine，PMID 为 42607819。",
-      "report": "Chemoresistance remains a major barrier in non-small cell lung cancer (NSCLC) therapy. Glutathione reductase (GSR), a central regulator of glutathione redox homeostasis, has been implicated in tumor survival, yet its role in non-small cell lung cancer (NSCLC)...",
+      "fact": "PubMed 记录显示该文献收录于 International journal of hyperthermia : the official journal of European Society for Hyperthermic Oncology, North American Hyperthermia Group，PMID 为 42609051。",
+      "report": "High-intensity focused ultrasound (HIFU) is a noninvasive ablation technology with increasing relevance for preclinical research and clinical translation. Pancreatic ductal adenocarcinoma (PDAC) is among the most lethal cancers, with limited therapeutic option...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42608409",
+      "date": "2026-08-17",
+      "title": "Identifying phenotype-genotype-function coupling in 3D organoid imaging using Shape, Appearance and Motion Phenotype Observation Tool (SPOT).",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42608409/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42608409。",
+      "report": "Live cells in tissue are plastic, phenotypically dynamic, and modify their function in response to genetic and environmental perturbations. To unleash the power of live-cell imaging to identify phenotype-genotype-function coupling over time, we report the deve...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42608391",
+      "date": "2026-08-17",
+      "title": "The sixth sense of the brain: interoception in organoid study.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42608391/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Bone research，PMID 为 42608391。",
+      "report": "Interoception is the process by which the nervous system senses, integrates, and interprets signals arising from within the body, thereby enabling the brain to monitor and regulate physiological functions. Often described as a \"sixth sense\", interoception link...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -714,141 +806,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42605004",
-      "date": "2026-08-16",
-      "title": "Cystic Fibrosis and Colorectal Cancer Risk: Reprogramming of the Intestinal Epithelial Niche and Cell-State Plasticity in the CFTR Modulator Era.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42605004/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell proliferation，PMID 为 42605004。",
-      "report": "Cystic fibrosis (CF) has shifted from a fatal paediatric lung disease to a multi-organ, lifespan-spanning disorder in which gastrointestinal (GI) complications and malignancies are increasingly prominent. With improved survival into mid- and late adulthood, ai...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42607497",
-      "date": "2026-08-14",
-      "title": "P4HA3-mediated hydroxylation of SLC7A11 drives tyrosine kinase inhibitor resistance by suppressing ferroptosis in clear cell renal cell carcinoma.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42607497/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Redox biology，PMID 为 42607497。",
-      "report": "Resistance to tyrosine kinase inhibitors (TKIs) severely limits their long-term efficacy in renal cell carcinoma (RCC). Here, we identify prolyl 4-hydroxylase subunit alpha 3 (P4HA3) as a critical driver of TKI resistance and elucidate its underlying mechanism...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42604608",
-      "date": "2026-08-13",
-      "title": "Proximity-confined DNA walking-nanozyme cascades for multiplexed urinary extracellular vesicle phenotyping and machine learning-assisted disease stratification.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604608/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42604608。",
-      "report": "Urinary extracellular vesicles (uEVs) provide noninvasive biomarkers for liquid biopsy owing to their ability to reflect disease-associated molecular alterations. However, the accurate analysis of low-abundance uEV surface proteins in complex biological matric...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42604221",
-      "date": "2026-08-12",
-      "title": "Progress in high-throughput screening for drug and material discovery in orthopedic diseases: a literature review.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604221/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 PeerJ，PMID 为 42604221。",
-      "report": "Orthopedic diseases are referred to as a series of conditions affecting the normal structure and function of the skeletal system. With a wide variety of types and a year-by-year increasing incidence, they have a severe impact on patients' quality of life. Trad...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42575164",
       "date": "2026-08-10",
       "title": "A functional investigation of antibody Fc-FcRn variant binding guided by in silico free energy perturbation methods.",
@@ -963,34 +920,60 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42604625",
-      "date": "2026-08-05",
-      "title": "Targeting PKM2 and GAPDH by baicalein and corilagin from TCM reduces lactylation and enhance cisplatin sensitivity in lung cancer.",
+      "id": "pubmed-42609500",
+      "date": "2026-08-03",
+      "title": "Squamous transformation of EGFR-mutant lung adenocarcinoma after EGFR-TKI therapy: clonal continuity, tissue-based diagnosis, and therapeutic evidence gaps.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609500/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42609500。",
+      "report": "Assessment at progression after epidermal growth factor receptor tyrosine kinase inhibitor (EGFR-TKI) therapy in EGFR-mutant non-small cell lung cancer requires more than identifying a single resistance mechanism. It also requires attention to lineage plastici...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42609461",
+      "date": "2026-08-03",
+      "title": "Spatial transcriptomic analysis identifies a necroptosis-prone thyroid follicular cell state in Hashimoto's thyroiditis.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604625/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609461/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
+        "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "肿瘤",
-        "药筛"
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Phytomedicine : international journal of phytotherapy and phytopharmacology，PMID 为 42604625。",
-      "report": "Protein lactylation plays a key role in cancer progression and chemotherapy sensitivity. Glycolysis inhibitors offer promise, particularly through combination strategies to counter metabolic compensation. This study aims to identify glycolysis-targeting active...",
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42609461。",
+      "report": "Hashimoto's Thyroiditis (HT) is the leading cause of primary hypothyroidism, characterized by progressive thyroid follicular cell (TFC) loss and diffuse lymphocytic infiltration. While apoptosis dominates TFC death in HT, the role of pro-inflammatory necroptos...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
