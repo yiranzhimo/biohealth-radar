@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-08-18T13:11:12.551727+00:00",
+  "capturedAt": "2026-08-18T18:59:31.306509+00:00",
   "summary": {
-    "mentionCount": 665,
-    "candidateCount": 596,
+    "mentionCount": 664,
+    "candidateCount": 595,
     "corroboratedCount": 2,
     "identifiedCount": 588,
-    "needsReviewCount": 6,
+    "needsReviewCount": 5,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 3,
+      "ClinicalTrials": 2,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 59,
@@ -20,86 +20,55 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-43dbe4eb688023ef",
-      "observedName": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
-      "normalizedName": "otsuka pharmaceutical development and commercialization",
+      "id": "mention-clinicaltrials-243809f8d351ca97",
+      "observedName": "Loxo Oncology, Inc.",
+      "normalizedName": "loxo oncology",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT00615589",
-      "sourceDate": "2016-04-04",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT00615589",
+      "sourceRecordId": "NCT05225259",
+      "sourceDate": "2024-02-28",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05225259",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Cell Therapy",
         "Clinical Trials",
         "Oncology",
         "Precision Oncology",
         "临床试验",
-        "细胞治疗",
         "肿瘤"
       ],
       "activitySignals": [
-        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Stem Cell Transplantation To Treat High Risk Multiple Myeloma With Reduced Toxicity Myeloablative Conditioning Regimen"
+      "contextTitle": "Expanded Access for LOXO-260 in Participants With Cancer Caused by an Abnormal RET Gene That Did Not Respond/is no Longer Responding to Treatment With a Type of Drug Called a RET Inhibitor"
     },
     {
-      "id": "mention-clinicaltrials-6b4708178c2cd247",
-      "observedName": "Skin Analytics Limited",
-      "normalizedName": "skin analytics",
+      "id": "mention-clinicaltrials-6800e1eb4aef8f6b",
+      "observedName": "AgileMD, Inc.",
+      "normalizedName": "agilemd",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT04123678",
-      "sourceDate": "2021-08-13",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04123678",
+      "sourceRecordId": "NCT05893420",
+      "sourceDate": "2025-07-29",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05893420",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
         "Healthcare AI",
         "Medical AI",
-        "Oncology",
-        "Precision Oncology",
+        "Recruiting",
         "临床决策支持",
         "临床试验",
-        "医疗 AI",
-        "肿瘤"
+        "医疗 AI"
       ],
       "activitySignals": [
+        "active_trial",
         "trial_intervention"
       ],
-      "contextTitle": "DERM Health Economics Study"
-    },
-    {
-      "id": "mention-clinicaltrials-7d58e0d8b5ae03ff",
-      "observedName": "Hamad Medical Corporation",
-      "normalizedName": "hamad medical",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT03660696",
-      "sourceDate": "2019-01-03",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03660696",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Diagnostics",
-        "Longevity",
-        "Precision Medicine",
-        "biomarker",
-        "临床试验",
-        "精准医疗",
-        "衰老",
-        "诊断"
-      ],
-      "activitySignals": [],
-      "contextTitle": "Qatar Cardiovascular Biorepository of AF Patients"
+      "contextTitle": "A Rapid Diagnostic of Risk in Hospitalized Patients Using Machine Learning"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -44248,41 +44217,37 @@
       ]
     },
     {
-      "id": "candidate-skin-analytics",
-      "name": "Skin Analytics Limited",
+      "id": "candidate-agilemd",
+      "name": "AgileMD, Inc.",
       "aliases": [
-        "Skin Analytics Limited"
+        "AgileMD, Inc."
       ],
-      "normalizedName": "skin analytics",
+      "normalizedName": "agilemd",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2021-08-13",
-      "lastSeenAt": "2021-08-13",
+      "firstSeenAt": "2025-07-29",
+      "lastSeenAt": "2025-07-29",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
           "Healthcare AI",
           "Medical AI",
-          "Oncology",
-          "Precision Oncology",
+          "Recruiting",
           "临床决策支持",
           "临床试验",
-          "医疗 AI",
-          "肿瘤"
+          "医疗 AI"
         ],
         "themes": [
           "Clinical Trials",
           "Healthcare AI",
           "Medical AI",
-          "Oncology",
-          "Precision Oncology",
+          "Recruiting",
           "临床决策支持",
           "临床试验",
-          "医疗 AI",
-          "肿瘤"
+          "医疗 AI"
         ],
         "tags": []
       },
@@ -44295,17 +44260,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-6b4708178c2cd247"
+        "mention-clinicaltrials-6800e1eb4aef8f6b"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2021-08-13",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT04123678",
-          "externalId": "NCT04123678",
-          "contextTitle": "DERM Health Economics Study"
+          "sourceDate": "2025-07-29",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT05893420",
+          "externalId": "NCT05893420",
+          "contextTitle": "A Rapid Diagnostic of Risk in Hospitalized Patients Using Machine Learning"
         }
       ]
     },
@@ -47329,70 +47294,6 @@
       ]
     },
     {
-      "id": "candidate-hamad-medical",
-      "name": "Hamad Medical Corporation",
-      "aliases": [
-        "Hamad Medical Corporation"
-      ],
-      "normalizedName": "hamad medical",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.78,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2019-01-03",
-      "lastSeenAt": "2019-01-03",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Diagnostics",
-          "Longevity",
-          "Precision Medicine",
-          "biomarker",
-          "临床试验",
-          "精准医疗",
-          "衰老",
-          "诊断"
-        ],
-        "themes": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Diagnostics",
-          "Longevity",
-          "Precision Medicine",
-          "biomarker",
-          "临床试验",
-          "精准医疗",
-          "衰老",
-          "诊断"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-7d58e0d8b5ae03ff"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2019-01-03",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT03660696",
-          "externalId": "NCT03660696",
-          "contextTitle": "Qatar Cardiovascular Biorepository of AF Patients"
-        }
-      ]
-    },
-    {
       "id": "candidate-nephropathology-associates",
       "name": "Nephropathology Associates",
       "aliases": [
@@ -47578,36 +47479,32 @@
       ]
     },
     {
-      "id": "candidate-otsuka-pharmaceutical-development-and-commercialization",
-      "name": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "id": "candidate-loxo-oncology",
+      "name": "Loxo Oncology, Inc.",
       "aliases": [
-        "Otsuka Pharmaceutical Development & Commercialization, Inc."
+        "Loxo Oncology, Inc."
       ],
-      "normalizedName": "otsuka pharmaceutical development and commercialization",
+      "normalizedName": "loxo oncology",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2016-04-04",
-      "lastSeenAt": "2016-04-04",
+      "firstSeenAt": "2024-02-28",
+      "lastSeenAt": "2024-02-28",
       "identifiers": {},
       "classificationHints": {
         "directions": [
-          "Cell Therapy",
           "Clinical Trials",
           "Oncology",
           "Precision Oncology",
           "临床试验",
-          "细胞治疗",
           "肿瘤"
         ],
         "themes": [
-          "Cell Therapy",
           "Clinical Trials",
           "Oncology",
           "Precision Oncology",
           "临床试验",
-          "细胞治疗",
           "肿瘤"
         ],
         "tags": []
@@ -47621,17 +47518,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-43dbe4eb688023ef"
+        "mention-clinicaltrials-243809f8d351ca97"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2016-04-04",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT00615589",
-          "externalId": "NCT00615589",
-          "contextTitle": "Stem Cell Transplantation To Treat High Risk Multiple Myeloma With Reduced Toxicity Myeloablative Conditioning Regimen"
+          "sourceDate": "2024-02-28",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT05225259",
+          "externalId": "NCT05225259",
+          "contextTitle": "Expanded Access for LOXO-260 in Participants With Cancer Caused by an Abnormal RET Gene That Did Not Respond/is no Longer Responding to Treatment With a Type of Drug Called a RET Inhibitor"
         }
       ]
     }

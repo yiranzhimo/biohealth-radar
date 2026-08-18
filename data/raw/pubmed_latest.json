@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-18T13:11:09.443383+00:00",
+  "capturedAt": "2026-08-18T18:59:28.377695+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-18"
   },
   "pmids": [
+    "42610180",
+    "42610144",
+    "42609747",
+    "42609555",
     "42609500",
     "42609461",
-    "42609170",
-    "42609051",
-    "42608409",
-    "42608391",
     "42600555",
     "42580899",
     "42559559",
@@ -32,14 +32,95 @@
     "42575164",
     "42572503",
     "42567392",
-    "42608544",
-    "42607937",
-    "42607918",
-    "42606335",
-    "42604781",
-    "42604776"
+    "42610895",
+    "42610891",
+    "42610161",
+    "42610073",
+    "42609878",
+    "42609723"
   ],
   "records": [
+    {
+      "pmid": "42610180",
+      "title": "Intrinsically co-registered extended-depth-of-focus OCM and two-photon microscopy for label-free volumetric analysis of 3D cell models.",
+      "abstract": "Beam engineering effectively overcomes the resolution-depth of focus trade-off in high-NA optical coherence microscopy (OCM). Conventional OCM is limited by this constraint, hindering stable volumetric acquisition. To overcome this, we present an intrinsically registered imaging platform based on Bessel beam-enabled extended-depth-of-focus OCM for quantitative, label-free volumetric phenotyping of three-dimensional cell models. Annular illumination extends the focal range to 193 µm, enabling stable scattering contrast in dense spheroids. By exploiting structural scattering signatures associated with cellular disintegration, we demonstrate volumetric viability mapping with 94.57 ± 2.69% aggregate viability concordance relative to fluorescence references. The platform differentiates drug-specific responses and captures pathological transitions in spheroids and organoids, establishing a quantitative paradigm for volumetric biological phenotyping.",
+      "journal": "Biomedical optics express",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Nanobio Measurement Group, Korea Research Institute of Standards and Science, Daejeon 34113, Republic of Korea.",
+        "Department of Regenerative Medicine Center, Seoul National University Bundang Hospital, Seongnam-si, Gyeonggi-do, Republic of Korea.",
+        "Biometrology Group, Korea Research Institute of Standards and Science, Daejeon 34113, Republic of Korea.",
+        "Department of Precision Measurement Science, University of Science and Technology, Daejeon 34113, Republic of Korea.",
+        "Department of Advanced Bioconvergence, University of Science and Technology, Daejeon 34113, Republic of Korea."
+      ],
+      "doi": "10.1364/BOE.605771",
+      "date": "2026-07-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42610180/"
+    },
+    {
+      "pmid": "42610144",
+      "title": "AI-driven CRISPR strategies in breast cancer: Organoid modeling, adaptive editing, and precision delivery.",
+      "abstract": "Triple-negative breast cancer (TNBC) is defined by profound heterogeneity, dormant metastatic reservoirs, and rapid therapy resistance. Building on our AI-Driven CRISPR Strategies in Breast Cancer framework, CRISPR-Cas9 is emerging as more than a gene-editing tool, capable of restoring circadian integrity, eliminating dormant clones, and re-programming immune surveillance. A structured PubMed, Scopus, and ClinicalTrials.gov review through 2025 integrated mechanistic, preclinical, and early clinical evidence. Beyond standard knockout, base, and prime editing, we highlight chrono-genomic repair of BMAL1/PER2, dormancy-focused synthetic-lethality screens, and genomic-collapse tactics for BRCA1-deficient tumors. Adaptive AI pipelines that iteratively refine guide RNAs and exosome-mimetic carriers, incorporating Boolean logic gates, were also evaluated for self-regulated, tumor-specific delivery. Proof-of-concept studies show that HER2 deletion, TP53 rescue, and ABCB1 silencing enhance chemosensitivity across luminal, HER2-positive, and TNBC models. Circadian restoration expands therapeutic windows and delays relapse in xenografts. Dormancy-directed CRISPR screens reveal unique vulnerabilities in disseminated tumor cells, whereas genomic collapse selectively destroys BRCA1-mutant clones. Integration with CAR-T cells and antibody-drug conjugates amplifies cytotoxicity, and transient nanoparticle or exosome systems improve solid-tumor penetration while minimizing off-target events. CRISPR-Cas9 is transitioning from a molecular scalpel to an adaptive, self-learning therapeutic ecosystem. By uniting AI-guided design, circadian reprogramming, dormancy eradication, and logic-gated delivery, the strategies detailed here define a next-generation precision-oncology paradigm capable of anticipating tumor evolution, overcoming resistance, and preventing metastatic relapse.",
+      "journal": "Iranian journal of basic medical sciences",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Radiology Techniques, Health and Medical Techniques College, Alnoor University, Nineveh, Iraq.",
+        "Ahl al bayt University, Kerbala, Iraq.",
+        "University Institute of Pharma Sciences, Chandigarh University, Mohali, Punjab, India.",
+        "Modern College of Business and Science, Muscat, Oman.",
+        "On Sabbatical Leave, from Jordan University of Science and Technology, Irbid, Jordan.",
+        "Department of Biotechnology and Genetics, School of Sciences, JAIN (Deemed to be University), Bangalore, Karnataka, India.",
+        "Center for Research Impact & Outcome, Chitkara University Institute of Engineering and Technology, Chitkara University, Rajpura, 140401, Punjab, India.",
+        "Department of General Medicine, IMS and SUM Hospital, Siksha 'O' Anusandhan (Deemed to be University), Bhubaneswar, Odisha-751003, India.",
+        "Uttaranchal Institute of Pharmaceutical Sciences, Division of Research and Innovation, Uttaranchal University, Dehradun, Uttarakhand, India.",
+        "Department of Skin and Venereal Diseases, Samarkand State Medical University, Samarkand, Uzbekistan.",
+        "Collage of Pharmacy, National University of Science and Technology, Dhi Qar, 64001, Iraq.",
+        "Gilgamesh Ahliya University, Baghdad, Iraq.",
+        "Department of Pharmacy, Al-Zahrawi University College, Karbala, Iraq.",
+        "Pharmacy College, Al-Farahidi University, Baghdad, Iraq."
+      ],
+      "doi": "10.22038/ijbms.2026.90248.19456",
+      "date": "2026-01-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42610144/"
+    },
+    {
+      "pmid": "42609747",
+      "title": "Automated Optofluidic Analysis of Single Extracellular Vesicles for Organoid Culture Monitoring.",
+      "abstract": "Advances in organoid-on-chip technology are transforming culturing methods by enabling precise control over biochemical environments and sustained nutrient delivery. Conventional methods for assessing organoid health are invasive, requiring skilled manual handling and sacrificing the tissue for analysis. We present a fully automated, integrated system for noninvasive extraction, labeling, and optical analysis of extracellular vesicles (EVs) secreted by 3D organoid cultures. EVs contain important molecular biomarker cargo, such as nucleic acids and proteins, enabling real-time insight on the health of their cell of origin. Using a polydimethylsiloxane (PDMS) optofluidic biosensor, we demonstrate: (1) optical detection of single EVs derived from organoid culture; (2) on-chip sample processing and counting of single EVs; and (3) automating conditioned media delivery, on-chip sample preparation, and optical detection of EVs in a single integrated system. Together, these results showcase a noninvasive approach to monitoring organoid health through EV signatures present in conditioned media. The integrated platform based on a modular optofluidic analysis chip further offers a foundation for integrating a variety of downstream analysis techniques, advancing continuous organoid-on-a-chip monitoring.",
+      "journal": "IEEE journal of selected topics in quantum electronics : a publication of the IEEE Lasers and Electro-optics Society",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Baskin School of Engineering, University of California, Santa Cruz, Santa Cruz, CA, USA.",
+        "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA."
+      ],
+      "doi": "10.1109/JSTQE.2026.3672359",
+      "date": "2026-03-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609747/"
+    },
+    {
+      "pmid": "42609555",
+      "title": "2'-FL's Depiction of the Human Physiological Function Landscape.",
+      "abstract": "2'-fucosyllactose (2'-FL) is a major fucosylated human milk oligosaccharide characterized by a terminal α1,2-linked fucose residue, which supports its interactions with gut microbes, host glycan-recognition systems, and pathogen-binding sites. This review proposes that 2'-FL acts mainly through a hierarchical host-microbiota mechanism: it first shapes gut microbial composition, then influences microbial metabolites such as short-chain fatty acids, and subsequently contributes to intestinal barrier integrity, immune homeostasis, and broader physiological outcomes. Current evidence is strongest for the safety of 2'-FL-containing infant formula, its bifidogenic effect, and its role in gut barrier and immune regulation. Preclinical studies further suggest potential benefits in allergy modulation through mast cell stabilization, suppression of Th2-skewed responses, and enhancement of regulatory immune pathways, as well as inhibition of TLR4/NF-κB-mediated inflammation. However, antiviral, metabolic, and neuroprotective effects remain emerging and are mainly supported by in vitro, organoid, animal, or computational studies. By distinguishing clinical evidence from mechanistic and preclinical findings, this review aims to provide a structured and evidence-based overview of the physiological functions and translational potential of 2'-FL.",
+      "journal": "Food science & nutrition",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "School of Pharmacy Southwest Medical University Luzhou Sichuan Province China.",
+        "Department of Pharmacy Affiliated Hospital of Southwest Medical University Luzhou Sichuan Province China."
+      ],
+      "doi": "10.1002/fsn3.72220",
+      "date": "2026-08-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609555/"
+    },
     {
       "pmid": "42609500",
       "title": "Squamous transformation of EGFR-mutant lung adenocarcinoma after EGFR-TKI therapy: clonal continuity, tissue-based diagnosis, and therapeutic evidence gaps.",
@@ -74,95 +155,6 @@
       "doi": "10.3389/fimmu.2026.1902510",
       "date": "2026-08-03",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609461/"
-    },
-    {
-      "pmid": "42609170",
-      "title": "Integration of multi-stacked biodegradable PLGA membranes into microfluidic organ-on-a-chip devices for tunable barrier co-culture.",
-      "abstract": "We integrate multi-stacked, thermally fused near-field electrospun PLGA membranes into a microfluidic organ-on-a-chip device. Layer number controls pore diameter (12-33 μm), porosity, circularity and permeability. The biodegradable, optically transparent membranes support endothelial-stromal co-culture with confirmed barrier integrity (TEER, ZO-1) and spatially resolved tissue compartmentalization.",
-      "journal": "Lab on a chip",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Mechanical Engineering, University of Utah, Salt Lake City, Utah 84112, USA. jkim@mech.utah.edu.",
-        "Division of Nephrology, Department of Internal Medicine, University of Utah Health, Salt Lake City, Utah 84112, USA.",
-        "Department of Ophthalmology & Visual Sciences, University of Utah School of Medicine, Salt Lake City, UT 84112, USA.",
-        "Department of Biomedical Engineering, University of Utah School of Medicine, Salt Lake City, UT 84112, USA."
-      ],
-      "doi": "10.1039/d6lc00296j",
-      "date": "2026-08-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609170/"
-    },
-    {
-      "pmid": "42609051",
-      "title": "Development of a mobile high-intensity focused ultrasound platform for preclinical tumor microenvironment modulation in a pancreatic ductal adenocarcinoma mouse model.",
-      "abstract": "High-intensity focused ultrasound (HIFU) is a noninvasive ablation technology with increasing relevance for preclinical research and clinical translation. Pancreatic ductal adenocarcinoma (PDAC) is among the most lethal cancers, with limited therapeutic options and poor response to current treatments, underscoring the urgent need for alternative strategies. To address this, we developed a mobile HIFU platform optimized for small-animal studies with an immersion-free design that improves usability while maintaining reproducible thermal ablation. The system was evaluated in a PDAC mouse model using KPC tumor cells. HIFU-induced tumor ablation and tumor growth were assessed, and histological and flow cytometric analyses were performed to evaluate treatment-assossiacted changes in the tumor microenvironment. To recapitulate the PDAC immune microenvironment in vitro, we further established a co-culture system of tumor organoids and CD8+ T cells. HIFU treatment induced tumor necrosis and significantly suppressed tumor growth. Histological and flow cytometric analyses revealed treatment-associated immune modulation, including increased proportions of activated CD8+ T cells, APC-like cells, and macrophage populations. In the organoid coculture model, activated CD8+ T cells accumulated around tumor organoids and were associated with increased tumor organoid death. The proposed mobile HIFU system demonstrated reliable technical performance and biological efficacy in a preclinical PDAC model. This platform offers a practical tool for reproducible small-animal HIFU studies and highlights the potential of ultrasound-based tumor ablation as a strategy to address unmet therapeutic needs in pancreatic cancer.",
-      "journal": "International journal of hyperthermia : the official journal of European Society for Hyperthermic Oncology, North American Hyperthermia Group",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Molecular Imaging Branch, Division of Convergence Technology, Research Institute of National Cancer Center, Goyang, Republic of Korea.",
-        "Department of Nuclear Medicine, National Cancer Center, Goyang, Korea.",
-        "Department of Cancer Biomedical Science, National Cancer Center Graduate School of Cancer Science and Policy, Goyang, Republic of Korea."
-      ],
-      "doi": "10.1080/02656736.2026.2716349",
-      "date": "2026-08-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609051/"
-    },
-    {
-      "pmid": "42608409",
-      "title": "Identifying phenotype-genotype-function coupling in 3D organoid imaging using Shape, Appearance and Motion Phenotype Observation Tool (SPOT).",
-      "abstract": "Live cells in tissue are plastic, phenotypically dynamic, and modify their function in response to genetic and environmental perturbations. To unleash the power of live-cell imaging to identify phenotype-genotype-function coupling over time, we report the development of a standardized Shape-Appearance-Motion (SAM) \"phenome\" and SAM-Phenotype-Observation-Tool (SPOT), that act as an image-\"transcriptome\" and image-\"transcriptome analyzer\" respectively, and provide an unbiased and comprehensive description of morpho-dynamic phenotypes without prior knowledge. We apply SAM-SPOT to our simulated organoids database with known ground-truth and >1.6 million mouse and human organoid instances with defined genetic and chemical perturbations. SAM-SPOT can effectively and robustly characterize 3D morpho-dynamics from 2D projection videos. Combined with single-cell RNA sequencing, SAM-SPOT reveals that altered WNT signaling, but not mutant RAS or p53, predisposes intestinal organoids to irregular morphogenesis. SAM-SPOT advances biomedical discovery by empowering live-cell imaging to identify phenotype-genotype-function relationships through large-scale and cost-effective label-free live-cell imaging.",
-      "journal": "Nature communications",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Nuffield Department of Medicine, Ludwig Institute for Cancer Research, University of Oxford, Oxford, UK. felix.y.zhou@vanderbilt.edu.",
-        "Lyda Hill Department of Bioinformatics, University of Texas Southwestern Medical Center, Dallas, TX, USA. felix.y.zhou@vanderbilt.edu.",
-        "Department of Cell & Developmental Biology, Vanderbilt University, Nashville, TN, USA. felix.y.zhou@vanderbilt.edu.",
-        "Center for Computational Systems Biology, Vanderbilt University, Nashville, TN, USA. felix.y.zhou@vanderbilt.edu.",
-        "Vanderbilt Ingram Cancer Center, Vanderbilt University Medical Center, Nashville, TN, USA. felix.y.zhou@vanderbilt.edu.",
-        "Nuffield Department of Medicine, Ludwig Institute for Cancer Research, University of Oxford, Oxford, UK.",
-        "Ellison Institute of Technology, The Oxford Science Park, Oxford, UK.",
-        "Department of Chemistry, University of Oxford, Oxford, UK.",
-        "MRC Translational Discovery Unit (TIDU), MRC Weatherall Institute of Molecular Medicine, University of Oxford, Oxford, UK.",
-        "Mathematical Institute, University of Oxford, Oxford, UK.",
-        "Novo Nordisk Research Centre Oxford (NNRCO), Oxford, UK.",
-        "Max Planck Institute of Molecular Cell Biology and Genetics, Dresden, Germany.",
-        "Nuffield Department of Medicine, Ludwig Institute for Cancer Research, University of Oxford, Oxford, UK. xin.lu@ludwig.ox.ac.uk."
-      ],
-      "doi": "10.1038/s41467-026-75506-7",
-      "date": "2026-08-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42608409/"
-    },
-    {
-      "pmid": "42608391",
-      "title": "The sixth sense of the brain: interoception in organoid study.",
-      "abstract": "Interoception is the process by which the nervous system senses, integrates, and interprets signals arising from within the body, thereby enabling the brain to monitor and regulate physiological functions. Often described as a \"sixth sense\", interoception links internal physiological states to brain-mediated homeostatic control, whereas sight, smell, hearing, taste, and touch primarily convey information from the external environment. Organoids are three-dimensional tissue models derived from stem or progenitor cells that reproduce selected structural and functional features of native organs. Because organoids are increasingly used in disease modeling, drug testing, and regenerative research, their integration with neural, endocrine, immune, and vascular components offers an opportunity to investigate brain-body communication. Conversely, organoid-based systems may provide experimentally tractable models for interoception. This review defines interoception and organoid technologies, examines brain-centered communication with skeletal and intestinal systems, and discusses how brain, bone, and intestinal organoids and assembloids could advance interoception research. In particular, organoid-based models may enable mechanistic investigation of neuroendocrine pathways, including the hypothalamic-pituitary-adrenal (HPA) axis, and thereby provide new insights into physiological regulation and disease progression.",
-      "journal": "Bone research",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Institute of Translational Medicine, Shanghai University, Shanghai, China.",
-        "MedEng-X Institutes, Shanghai University, Shanghai, China.",
-        "National Center for Translational Medicine (Shanghai) SHU Branch, Shanghai University, Shanghai, China.",
-        "Department of Orthopedics, Xinhua Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China. sirchenxiao@126.com.",
-        "Institute of Translational Medicine, Shanghai University, Shanghai, China. bailong@ecust.edu.cn.",
-        "MedEng-X Institutes, Shanghai University, Shanghai, China. bailong@ecust.edu.cn.",
-        "National Center for Translational Medicine (Shanghai) SHU Branch, Shanghai University, Shanghai, China. bailong@ecust.edu.cn.",
-        "Wenzhou Institute of Shanghai University, Wenzhou, China. bailong@ecust.edu.cn.",
-        "Institute of Translational Medicine, Shanghai University, Shanghai, China. drsujiacan@163.com.",
-        "MedEng-X Institutes, Shanghai University, Shanghai, China. drsujiacan@163.com.",
-        "National Center for Translational Medicine (Shanghai) SHU Branch, Shanghai University, Shanghai, China. drsujiacan@163.com.",
-        "Department of Orthopedics, Xinhua Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China. drsujiacan@163.com."
-      ],
-      "doi": "10.1038/s41413-026-00569-7",
-      "date": "2026-08-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42608391/"
     },
     {
       "pmid": "42600555",
@@ -393,162 +385,132 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42567392/"
     },
     {
-      "pmid": "42608544",
-      "title": "Clinical significance of miRNAs and exosomal miRNAs in non-small cell lung cancer: diagnostic, prognostic, and therapeutic perspectives.",
-      "abstract": "Lung cancer is the most frequently diagnosed malignancy and the leading cause of cancer-related mortality worldwide, with approximately 85% of cases classified as non-small cell lung cancer (NSCLC). Despite significant advances in diagnostic techniques and therapeutic strategies, including immunotherapy and targeted therapies, the prognosis of lung cancer remains poor, with an overall 5-year survival rate of approximately 22%. MicroRNAs (miRNAs) are small, single-stranded, non-coding RNA molecules that regulate gene expression at the post-transcriptional level and play critical roles in key biological processes, such as proliferation, apoptosis, migration, and invasion. miRNAs can function as oncogenes (oncomiRs) or tumor suppressors (TS-miRs), and their dysregulation is frequently observed in various malignancies, including NSCLC. Owing to their remarkable stability in serum and plasma, miRNAs have emerged as promising non-invasive biomarkers for the diagnosis and prognosis of NSCLC. In particular, exosomal miRNAs are encapsulated within a lipid bilayer that protects them from enzymatic degradation, thereby further enhancing their utility as liquid biopsy components and as potential biomarkers and therapeutic targets. Moreover, a single miRNA can regulate multiple target genes, highlighting their promise as therapeutic targets. This review summarizes the diagnostic, prognostic, predictive, and therapeutic potential of tissue-derived, circulating, and exosomal miRNAs in NSCLC and discusses the major challenges limiting the clinical translation of miRNA-based biomarkers and therapeutics.",
-      "journal": "Journal of human genetics",
+      "pmid": "42610895",
+      "title": "Logic-Gated Dual-Aptamer Proximity AlphaLISA for Rapid and Sensitive Detection of Tumor-Derived Small Extracellular Vesicles.",
+      "abstract": "Small extracellular vesicles (sEVs) have emerged as promising biomarkers for liquid biopsy; however, the limited specificity of single-marker detection and the intrinsic heterogeneity of circulating sEVs hinder their reliable clinical application. Herein, we develop a programmable dual-aptamer amplified luminescent proximity homogeneous assay (AlphaLISA) for rapid and wash-free detection of tumor-derived sEVs. In this strategy, EpCAM and PD-L1 aptamers simultaneously recognize two membrane proteins on the same vesicle, enabling proximity-induced interaction between donor and acceptor beads to generate a chemiluminescent signal via singlet oxygen-mediated energy transfer. This dual-recognition design effectively improves analytical specificity by implementing a molecular \"AND\" logic requirement for signal generation. The proposed assay exhibits a broad linear range of 5.3 × 105 to 5.3 × 109 particles mL-1 with a limit of detection of 1.63 × 104 particles mL-1. Good analytical performance was demonstrated by recovery rates of 93.9-107.5% with relative standard deviations below 5%, indicating high accuracy and reproducibility. Notably, the assay enables signal readout within 1 min under homogeneous conditions, highlighting its operational simplicity and rapid response. Clinical applicability was evaluated using serum samples from 20 lung cancer patients and 20 healthy controls, achieving an area under the ROC curve of 0.87 (95% CI: 0.75-0.97), with a sensitivity of 95% and a specificity of 75%. Overall, this programmable dual-aptamer AlphaLISA platform provides a rapid, homogeneous, and highly adaptable strategy for tumor-derived sEVs analysis, offering promising potential for noninvasive cancer diagnostics.",
+      "journal": "Analytical chemistry",
       "publicationTypes": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ],
       "affiliations": [
-        "Division of Pediatric Oncology, Department of Pediatrics, All India Institute of Medical Sciences, New Delhi, India.",
-        "Department of Reproductive Biology, All India Institute of Medical Sciences, New Delhi, India.",
-        "Division of Pediatric Oncology, Department of Pediatrics, All India Institute of Medical Sciences, New Delhi, India. drjpmeena@yahoo.com."
+        "College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, Zhejiang310016, China.",
+        "Affiliated Xiaoshan Hospital, Hangzhou Normal University, Hangzhou, Zhejiang311202, China.",
+        "Department of Clinical Laboratory Medicine, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, Guangdong510080, China.",
+        "Department of Nephrology, Zhejiang Key Laboratory of Research and Translation for Kidney Deficiency-Stasis-Turbidity Disease, the First Affiliated Hospital of Zhejiang Chinese Medical University (Zhejiang Provincial Hospital of Chinese Medicine), Hangzhou, Zhejiang310006, China."
       ],
-      "doi": "10.1038/s10038-026-01505-7",
+      "doi": "10.1021/acs.analchem.6c03310",
       "date": "2026-08-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42608544/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42610895/"
     },
     {
-      "pmid": "42607937",
-      "title": "Integration of PNA-mediated PCR and CRISPR/Cas13a for highly sensitive detection of EGFR T790M mutation in circulating tumor DNA.",
-      "abstract": "Circulating tumor DNA (ctDNA) is characterized by low abundance and fragmentation, limiting the development of genetic variant detection technologies. In this study, we established a highly sensitive and specific assay by combining peptide nucleic acid (PNA)-mediated PCR clamping with CRISPR/Cas13a trans-cleavage detection. A PNA probe targeting the wild-type (WT) EGFR T790M allele was designed to suppress WT amplification during PCR, while minimally affecting mutant allele amplification. By combining the target specificity of Cas13a for mutant alleles with the WT-suppression capability of PNA-PCR, we achieved a dual-enrichment effect for mutant detection. When applied to EGFR T790M mutation detection, the assay reached a analytical sensitivity of 0.02%. We established a standard curve for T790M detection using cell-free DNA standards. Clinical validation in 20 plasma samples from lung adenocarcinoma patients demonstrated that the PNA-Cas13a assay achieved a diagnostic sensitivity of 93.3% (95% CI: 68.1%-99.8%) and a specificity of 100% (95% CI: 47.8%-100%), with detection concordance comparable to or improved over ARMS-PCR in this pilot cohort. The result suggest its preliminary diagnostic utility in liquid biopsy. In conclusion, the PNA-Cas13a assay enables sensitive and specific detection of EGFR T790M mutations in ctDNA, is readily adaptable to multiple gene loci, and holds promise for clinical monitoring of tumor drug resistance.",
-      "journal": "Molecular and cellular probes",
+      "pmid": "42610891",
+      "title": "Ortho-Fusion Metaboliprobe for Sensitive and Specific In Situ Detection of Metabolites in Tumor-Derived Exosomes.",
+      "abstract": "Small molecule metabolites carried by exosomes have emerged as promising biomarkers for cancer liquid biopsy. However, their clinical application is hindered by the complexity of blood components, the difficulty in distinguishing tumor-derived exosome subpopulations, and the low abundance of metabolites. Here, we develop an Ortho-Fusion Metaboliprobe for the in situ detection of small molecule metabolites in tumor-derived exosomes with high specificity and sensitivity. The Ortho-Fusion Metaboliprobe employs a dual allosteric aptamer system targeting CD63 and EpCAM to form an orthogonal labeling barcode on the surface of tumor-derived exosomes, enabling precise discrimination of tumor exosome subpopulations from complex biological backgrounds. Following orthogonal labeling, liposomes functionalized with complementary DNA tags recognize this barcode via zipper hybridization, triggering targeted membrane fusion between the liposome and the exosome. This fusion event delivers the encapsulated Au NFs-based metabolite detection probes into the exosomal lumen, where they react with target metabolites and generate amplified fluorescent signals for sensitive and specific in situ detection. Using this assay, we successfully detected ATP and spermine in exosomes derived from prostate cancer cell lines and clinical plasma samples. Both metabolite markers effectively distinguished prostate cancer patients from benign controls, demonstrating the clinical potential of this assay. This strategy offers a powerful tool for the analysis of small molecule metabolites in tumor-derived exosomes and holds significant promise for early cancer diagnosis and screening.",
+      "journal": "Analytical chemistry",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Laboratory Medicine Center, Shenzhen Nanshan District People's Hospital, Shenzhen 518052, PR China.",
-        "First People's Hospital of Chenzhou City, Chenzhou 423000, China.",
-        "Henan Province Engineering Research Center of Tumor Companion Diagnostics and Translational Medicine, The Affiliated Cancer Hospital of Zhengzhou University & Henan Cancer Hospital, Zhengzhou 450008, China. Electronic address: wlwhxwch@163.com."
+        "School of Life Sciences, Shanghai University, Shanghai200444, China.",
+        "Institute of Molecular Medicine, Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai200127, China.",
+        "The MOE Key Laboratory of Spectrochemical Analysis and Instrumentation, Department of Chemical Biology, College of Chemistry and Chemical Engineering, Xiamen University, Xiamen361005, China."
       ],
-      "doi": "10.1016/j.mcp.2026.102085",
-      "date": "2026-08-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42607937/"
+      "doi": "10.1021/acs.analchem.6c01961",
+      "date": "2026-08-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42610891/"
     },
     {
-      "pmid": "42607918",
-      "title": "Circular RNAs as diagnostic biomarkers and therapeutic regulators of metabolic reprogramming, immune escape and ferroptosis in hepatocellular carcinoma.",
-      "abstract": "Hepatocellular carcinoma (HCC) remains one of the leading causes of cancer-related mortality worldwide, largely due to delayed diagnosis, high recurrence rates, therapeutic resistance, and marked molecular heterogeneity. The identification of reliable biomarkers for early detection, prognostic stratification, and therapeutic monitoring is therefore of considerable clinical importance. Circular RNAs (circRNAs), a class of highly stable covalently closed non-coding RNAs, have emerged as promising molecular biomarkers owing to their tissue specificity, evolutionary conservation, and detectability in body fluids and extracellular vesicles. Accumulating evidence indicates that circRNAs play pivotal roles in hepatocarcinogenesis by regulating key biological processes, including metabolic reprogramming, immune evasion, and ferroptosis. Through ceRNA networks, epigenetic modulation, and interactions with RNA-binding proteins, circRNAs orchestrate glycolytic metabolism, lipid metabolic pathways, hypoxia adaptation, immune checkpoint signaling, tumor-associated macrophage polarization, and ferroptosis-associated antioxidant defenses. These regulatory functions not only contribute to tumor progression but also influence sensitivity to systemic therapies and immunotherapeutic interventions. Beyond their mechanistic roles, numerous circRNAs have demonstrated significant diagnostic and prognostic potential in HCC. Circulating and exosomal circRNAs are increasingly recognized as attractive liquid biopsy candidates because of their remarkable stability and accessibility in clinical specimens. Furthermore, specific circRNA signatures have been associated with tumor aggressiveness, recurrence risk, immune landscape remodeling, and treatment response, highlighting their utility as predictive biomarkers and potential therapeutic targets. In this review, we comprehensively summarize the current understanding of circRNA-mediated regulation of metabolic reprogramming, immune escape, and ferroptosis in HCC, with particular emphasis on their clinical and translational relevance. We further discuss the emerging role of circRNAs as diagnostic, prognostic, and predictive biomarkers, as well as the challenges that must be addressed before their integration into routine clinical practice. Collectively, circRNAs represent a promising class of biomolecules with substantial potential to improve precision diagnostics and personalized management of hepatocellular carcinoma.",
-      "journal": "Clinica chimica acta; international journal of clinical chemistry",
+      "pmid": "42610161",
+      "title": "Comparative Evaluation of Salivary Inflammatory Cytokines and microRNA Biomarkers Across the Spectrum of Oral Carcinogenesis.",
+      "abstract": "Background Oral potentially malignant disorders (OPMDs) represent precursor conditions that carry an elevated probability of progressing to oral squamous cell carcinoma (OSCC). Despite ongoing research efforts, identifying dependable, non-invasive markers that can detect early molecular changes linked to malignant conversion continues to present a significant clinical obstacle. Objective To evaluate the diagnostic utility of salivary inflammatory cytokines (IL-10 and IL-17) and microRNAs (miR-21, miR-138, and miR-184) in healthy individuals, patients with OPMDs, and patients with OSCC, and to assess the performance of a combined biomarker panel for oral cancer clinical stratification. Methods A cross-sectional analytical study was conducted involving 150 participants categorized into healthy controls (n=50), OPMD patients (n=50), and histopathologically confirmed OSCC patients (n=50). Salivary IL-10 and IL-17 concentrations were quantified using enzyme-linked immunosorbent assay (ELISA), whereas miR-21, miR-138, and miR-184 expression levels were measured using quantitative reverse-transcription polymerase chain reaction (qRT-PCR). Relative miRNA expression was calculated using the 2^-ΔΔCt method. Diagnostic performance was evaluated using receiver operating characteristic (ROC) curve analysis. Results Significant alterations in salivary cytokine and microRNA expression were observed across the disease spectrum. miR-21 and miR-184 demonstrated progressive upregulation, whereas miR-138 showed progressive downregulation from healthy controls to OPMD and OSCC patients (all p<0.001). Both IL-10 and IL-17 were significantly elevated in OPMD and OSCC patients compared with healthy controls (both p<0.001). Biomarker expression profiles were significantly associated with dysplasia severity and tumor stage. Among individual biomarkers, miR-138 demonstrated the highest diagnostic accuracy (AUC=0.84), followed by IL-17 (AUC=0.82), miR-21 (AUC=0.80), miR-184 (AUC=0.76), and IL-10 (AUC=0.74). The combined cytokine-microRNA panel achieved superior performance, with an AUC of 0.93, sensitivity of 90%, and specificity of 88%. Conclusions The findings support the potential utility of integrated salivary biomarker profiling as a non-invasive approach for early detection, clinical stratification, and disease monitoring in oral carcinogenesis. The combined biomarker panel highlights the potential of integrated salivary diagnostics for improving the non-invasive detection and clinical assessment of OPMDs and OSCC.",
+      "journal": "Cureus",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Oral Pathology and Microbiology, Sree Mookambika Institute of Dental Sciences, Kulasekharam, IND.",
+        "Oral Pathology and Microbiology, Government Dental College, Jalgaon, IND.",
+        "Oral Pathology and Microbiology, Eklavya Dental College, Kotputli, IND.",
+        "Conservative Dentistry and Endodontics, Dr NTR University of Health Sciences, Vijayawada, IND.",
+        "Public Health Dentistry, Patna Dental College and Hospital, Patna, IND.",
+        "Obstetrics and Gynecology, Dr. ND Desai Faculty of Medical Science and Research, Dharmsinh Desai University, Nadiad, IND.",
+        "Physiology, Pacific Medical College and Hospital, Pacific Medical University, Udaipur, IND."
+      ],
+      "doi": "10.7759/cureus.112931",
+      "date": "2026-07-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42610161/"
+    },
+    {
+      "pmid": "42610073",
+      "title": "Nanotechnology in Prostate Cancer: PSMA-Targeted Nanoplatforms, TME-Responsive Therapy, Immunomodulation, and Clinical Translation Challenges.",
+      "abstract": "The field of nanotechnology has demonstrated considerable potential in the diagnosis and treatment of prostate cancer, particularly through the use of prostate-specific membrane antigen (PSMA)-targeted platforms and tumor microenvironment (TME)-responsive systems. In the context of diagnosis, nanoparticle-based molecular imaging probes have been shown to enhance detection sensitivity and specificity. These probes include superparamagnetic iron oxide, which is utilized in magnetic resonance imaging, and near-infrared fluorescent nanomicelles. Additionally, nanostructured liquid biopsy systems have demonstrated the capability to capture circulating tumor cells, exosomes, and circulating tumor DNA with high sensitivity, facilitating non-invasive genotyping and treatment monitoring. In the field of therapeutics, PSMA-targeted liposomes, polymeric nanoparticles, and inorganic nanocarriers have demonstrated efficacy in enhancing the delivery of chemotherapeutics, gene-editing tools (eg, CRISPR/Cas9, siRNA), and immunomodulators. These delivery mechanisms are equipped with TME-responsive release mechanisms (eg, pH, enzyme, redox) that enable the spatiotemporal control of drug release. Nanotechnology offers multi-level strategies to overcome multidrug resistance in castration-resistant prostate cancer, including PROTAC-mediated protein degradation, ferroptosis induction, and synergistic chemo-immunotherapy. Multifunctional theranostic nanoplatforms integrating imaging and therapy enable real-time efficacy assessment and personalized treatment adaptation. Emerging green synthesis approaches that utilize agricultural byproducts and bio-inspired platforms (eg, cell membrane-coated nanoparticles) present sustainable and biocompatible alternatives. Concurrently, artificial intelligence (AI) holds the potential to expedite the design of nanocarriers. Despite the advancement of several nanomedicines to clinical trials, significant translational barriers persist. These include heterogeneous PSMA expression (15-37% of castration-resistant prostate cancer cases are PSMA-negative), suboptimal enhanced permeability and retention effect in humans, long-term safety concerns, manufacturing hurdles, and regulatory gaps. This narrative review methodically examines the applications of nanotechnology in prostate cancer. It critically analyzes the clinical translation challenges encountered during clinical trials and discusses future directions, including smart responsive systems, multimodal immunotherapy, and AI-assisted nanomedicine design.",
+      "journal": "International journal of nanomedicine",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Internal medicine of Chinese Medicine, Department of Hepatology, Beijing University of Chinese Medicine Affiliated Shenzhen Hospital, Shenzhen, China. Electronic address: jw1956@georgetown.edu.",
-        "Department of Industrial & Systems Engineering, Auburn University, AL 36849, USA.",
-        "Institute of Operations Research and Analytics, National, University of Singapore, Singapore. Electronic address: e0945601@u.nus.edu.",
-        "Sargent College, Boston University, Boston, MA 02115, USA. Electronic address: ellahu@bu.edu.",
-        "Department of Mechanical and Aerospace Engineering, Case Western Reserve University, Cleveland, OH 44106, USA. Electronic address: haoweima52@gmail.com."
+        "Department of Urology, The Affiliated Changzhou Hospital of Xuzhou Medical University, Changzhou Third People's Hospital, Changzhou, Jiangsu, People's Republic of China."
       ],
-      "doi": "10.1016/j.cca.2026.121285",
-      "date": "2026-08-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42607918/"
+      "doi": "10.2147/IJN.S629751",
+      "date": "2026-08-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42610073/"
     },
     {
-      "pmid": "42606335",
-      "title": "Whole Genome HPV Liquid Biopsy for HPV-Associated Cancer Detection and Viral Physical State Classification.",
-      "abstract": "HPV-associated carcinomas(HPV+cancers) account for 5% of all cancers. Circulating tumor HPV DNA(ctHPVDNA) assays for HPV+ cancer surveillance have limited prognostic utility at the time of cancer diagnosis. While HPV integration into the host genome is a proven tissue-based biomarker predicting poor clinical outcomes, existing clinically utilized ctHPVDNA assays cannot classify the viral physical state. We previously developed HPV-DeepSeek, a multi-feature HPV whole-genome sequencing liquid biopsy with 99% diagnostic accuracy at the time of HPV+ oropharynx cancer diagnosis. We test the diagnostic accuracy of HPV-DeepSeek in a cohort of 235 HPV+ cancers across nine anatomic sites and employ a novel blood-based computational classifier to infer HPV genome physical state from plasma, termed HPV-SIGNAL, to assess its prognostic potential. HPV-DeepSeek demonstrated a sensitivity and specificity of 99%. In 189 eligible samples, HPV-SIGNAL identified four viral physical states: episomal-only(N=71), episomal-rearranged(N=52), integrated-mixed(N=57), and integrated-clonal(N=9), which were confirmed and further elucidated via three orthogonal tissue and blood approaches. Patients harboring integrated viral states in the blood exhibited significantly worse age- and AJCC stage-adjusted progression-free survival(HR 2.78, 95% CI1.30-5.99, p=0.009) and overall survival(HR2.95, 95% CI 1.01-8.61, p=0.048) compared to patients with episomal states. HPV whole-genome sequencing liquid biopsy has high diagnostic accuracy across HPV+ cancer types and can be used to identify and classify HPV physical state from blood. Patients with integrated viral states detected in the blood demonstrated worse progression-free and overall survival, suggesting blood-based HPV physical state classification could be used as a prognostic tool at the time of cancer diagnosis.",
-      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "pmid": "42609878",
+      "title": "Circulating tumor DNA in colorectal cancer: assay selection, clinical applications, and practical integration for gastroenterologists.",
+      "abstract": "Circulating tumor DNA (ctDNA) has rapidly evolved from a research tool to a clinically applicable biomarker in colorectal cancer (CRC), transforming the assessment of minimal residual disease (MRD) and recurrence risk. The growing availability of commercial assays has complicated test selection and interpretation, particularly for gastroenterologists who increasingly encounter ctDNA data in postoperative and surveillance settings. We conducted a narrative review of the literature using PubMed, Embase, and Cochrane databases from January 2015 through March 2026, prioritizing randomized controlled trials, prospective cohort studies, and clinical practice guidelines relevant to ctDNA applications in CRC. The search employed predefined keyword combinations applied independently to each database. Two authors (A.S. and S.M.) independently screened titles and abstracts against the prespecified inclusion criteria, with disagreements resolved by discussion. Tumor-informed assays that analyze patient-specific mutations exhibit high specificity for MRD detection, with serial sampling sensitivity reaching 88% compared to 59% for tumor-agnostic approaches, based on a 2026 systematic review and diagnostic accuracy meta-analysis that pooled data across multiple platforms and settings; the authors note substantial study-level heterogeneity in platform design and patient populations, and results should be interpreted accordingly, but require tissue access and extended processing times. Tumor-agnostic tests are more rapid and accessible, incorporating genomic and epigenomic signals, though they exhibit site-specific sensitivity variations ranging from 100% for liver metastases to 40% for peritoneal recurrence and remain vulnerable to biological confounders such as clonal hematopoiesis (CH). Importantly, ctDNA interpretation is subject to additional biological limitations including tumor shedding variability by anatomical site and disease burden, the timing of sample collection relative to surgery or chemotherapy, platform-specific detection thresholds, and pre-analytical variables such as hemolysis and delayed plasma processing. Randomized evidence supports ctDNA-guided de-escalation of adjuvant therapy in stage II colon cancer, with 5-year follow-up from the DYNAMIC trial demonstrating comparable recurrence-free survival (88% vs. 87%) and overall survival (93.8% vs. 93.3%) despite reduced chemotherapy use. In stage III disease, ctDNA is strongly prognostic, but chemotherapy intensification based solely on molecular positivity has not improved outcomes. This review additionally addresses underexplored areas including ctDNA in rectal cancer and neoadjuvant therapy, the influence of microsatellite instability (MSI) status on assay performance, and disparities in ctDNA access across racial, socioeconomic, and geographic populations. For gastroenterologists encountering ctDNA results in postoperative and surveillance settings, three principles should guide practice (i): match assay selection to clinical intent - tumor-informed platforms for MRD-directed adjuvant decisions, tumor-agnostic platforms when tissue is unavailable (ii); interpret results within biological and technical context, accounting for platform-specific sensitivity limitations, biological confounders, and quantitative VAF trajectory rather than binary thresholds; and (iii) integrate ctDNA findings into multidisciplinary pathways - de-escalation is supported by high-quality randomized evidence in stage II disease (Grade A; Level I), while chemotherapy escalation based solely on ctDNA positivity in stage III disease is not supported outside clinical trials (Grade C; Level I). Standardization of assay performance benchmarks and equitable access to testing remain critical unmet needs.",
+      "journal": "Frontiers in oncology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Internal Medicine, Yale New Haven Hospital, New Haven, CT, United States.",
+        "Faculty of Biology, The University of Manchester, Manchester, United Kingdom.",
+        "Department of Internal Medicine, Mayo Clinic, Rochester, MN, United States.",
+        "Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, United Kingdom.",
+        "University of Connecticut School of Medicine, Farmington, United States.",
+        "Mahatma Gandhi Memorial Medical College, Indore, India.",
+        "Royal Stoke University Hospital, Stoke-on-Trent, United Kingdom.",
+        "The University of Kansas School of Medicine, Kansas City, KS, United States.",
+        "University of Nottingham School of Medicine, Nottingham, United Kingdom.",
+        "NIHR Nottingham Biomedical Research Centre, Nottingham University Hospitals NHS Trust and University of Nottingham, Nottingham, United Kingdom."
+      ],
+      "doi": "10.3389/fonc.2026.1894198",
+      "date": "2026-08-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609878/"
+    },
+    {
+      "pmid": "42609723",
+      "title": "Liquid Biopsy-Based Profiling of TP53 Gene Hotspot Mutations in HBV-Induced Chronic Liver Disease and Hepatocellular Carcinoma Patients: A Study From Bangladesh.",
+      "abstract": "The tumor protein (TP53) gene is a common driver gene for somatic mutations in hepatocellular carcinoma(HCC), and detection may provide insight into evaluating disease progression. Circulating cell-free DNA (cfDNA) from liquid biopsy has emerged as a promising noninvasive biopsy material for identifying potential genetic alterations. This study explored the mutational signature of the TP53 gene in Hepatitis B virus (HBV)-infected chronic liver disease (CLD) and HCC patients from cfDNA. A total of 80 participants: 30 HCC, 30 CLD, and 20 healthy controls were included in this cross-sectional study. cfDNA was extracted from aseptically collected peripheral venous blood. TP53 (R249S) gene was amplified using selected primers via conventional PCR and visualized on a 2% agarose gel electrophoresis. Amplified products underwent Sanger sequencing; mutational analysis was done using MEGA11 software compared with the reference sequence. TP53 hotspot mutations were found in 23.3% (7/30) of HCC patients. Mutational frequencies were detected: 13.3% (4/30) at position 746G > A (R249S), 6.7% (2/30) at 747G > A (R249S), and 3.3% (1/30) at 735C > T (G245S). Among CLD patients, a single hotspot mutation (3.3%) was detected at position 744G > A/T(R248Q/W). However, no hotspot mutation was detected in healthy controls. All HCC patients with mutations (7/7, 100%) had elevated ALT, AST, serum bilirubin, and AFP levels, and in the unmutated (wild) group, these were 69.6%, 47.8%, 30.4%, and 60.9%, respectively. The mean AST and AFP levels were significantly higher in mutated patients compared with the wild group. Detection of TP53 gene mutations along with biochemical markers in the management of HCC is evident, and it may play an important role in targeted therapy and personalized treatment plans.",
+      "journal": "International journal of hepatology",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Massachusetts General Hospital Boston United States.",
-        "Harvard University United States.",
-        "Massachusetts Eye and Ear Infirmary Boston, MA United States.",
-        "Massachusetts Eye and Ear Infirmary Boston United States.",
-        "Massachusetts Eye and Ear Infirmary United States.",
-        "Massachusetts General Hospital United States.",
-        "Massachusetts General Hospital, Harvard Medical School Boston, MA United States.",
-        "Dana-Farber Cancer Institute Boston, MA United States.",
-        "Massachusetts General Hospital Boston, MA United States.",
-        "Massachusetts Eye and Ear, Massachusetts General Hospital, Harvard Medical School, Broad Institute Boston, MA United States.",
-        "Massachusetts General Hospital Boston, ma United States."
+        "Department of Virology, Bangladesh Medical University (BMU), Dhaka, Bangladesh.",
+        "Department of Microbiology, Shaheed Mansur Ali Medical College & Hospital, Dhaka, Bangladesh.",
+        "Programme of Emerging Infections (PEI), Infectious Disease Division (IDD), icddr, b, Dhaka, Bangladesh, icddrb.org."
       ],
-      "doi": "10.1158/1078-0432.CCR-26-1467",
+      "doi": "10.1155/ijh/6175143",
       "date": "2026-08-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42606335/"
-    },
-    {
-      "pmid": "42604781",
-      "title": "[Recent Advances in the Treatment of Craniopharyngioma:A Breakthrough in Molecular Targeted Therapy].",
-      "abstract": "Craniopharyngiomas are benign sellar and parasellar tumors that present significant clinical challenge because of their close proximity to the optic apparatus, hypothalamus, and pituitary gland. Recent molecular studies have identified distinct driver mutations, namely, CTNNB1 in adamantinomatous craniopharyngiomas and BRAF V600E in papillary craniopharyngiomas, leading to a deeper understanding of tumor biology and treatment strategies. Advances in endoscopic endonasal transsphenoidal surgery have improved surgical safety and expanded the indications for minimally invasive resection, whereas radiotherapy remains an effective option for residual or recurrent disease. Molecular targeted therapy with BRAF and MEK inhibitors has resulted in remarkable tumor shrinkage in papillary craniopharyngiomas harboring the BRAF V600E mutation, and recent clinical studies have established this approach as a promising treatment option. These agents have emerged not only as effective treatment options for recurrent or refractory disease but also as promising options for neoadjuvant treatment and function-preserving management. Future treatment strategies are likely to incorporate molecular subtypes, patient age, and functional outcomes to achieve individualized care. In addition, the development of reliable preoperative molecular diagnostic techniques, including liquid biopsy, may further facilitate the integration of targeted therapies into routine clinical practice.",
-      "journal": "No shinkei geka. Neurological surgery",
-      "publicationTypes": [
-        "Journal Article",
-        "Review",
-        "English Abstract"
-      ],
-      "affiliations": [
-        "Department of Neurosurgery, Graduate School of Medical and Dental Sciences, Kagoshima University."
-      ],
-      "doi": "10.11477/mf.030126030540040844",
-      "date": "2026-07-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604781/"
-    },
-    {
-      "pmid": "42604776",
-      "title": "[Treatment of CNS Germ Cell Tumors].",
-      "abstract": "Central nervous system (CNS) germ cell tumors (GCTs) are rare neoplasms that predominantly affect adolescents and young adults and occur at a notably higher incidence in East Asian populations. They are classified into two major categories: germinomas and non-germinomatous GCTs (NGGCTs). Germinomas are highly radiosensitive and chemosensitive, with long-term survival rates exceeding 90% following combined chemoradiotherapy. Current therapeutic focus on reducing radiation exposure, particularly whole-ventricular irradiation, while maintaining excellent tumor control, as exemplified by the ongoing CNSGCT2021 trial in Japan. In contrast, NGGCTs require intensified multimodal treatment incorporating alkylating-agent-based chemotherapy and craniospinal irradiation, and second-look surgery for residual disease. Despite these advances, outcomes for relapsed NGGCTs remain poor, underscoring the urgent need for novel therapeutic approaches. Recent genomic studies have identified recurrent activating mutations in the KIT/RAS/MAPK and PI3K/AKT/mTOR pathways, particularly in germinomas, providing potential targets for precision oncology approaches. The germinoma tumor microenvironment is characterized by abundant immune infiltration and PD-L1 expression, which has generated interest in immune checkpoint inhibitors. Additionally, liquid biopsy biomarkers, including circulating tumor DNA and microRNAs, show promise for less invasive diagnosis and disease monitoring. Long-term follow-up remains essential, given the risk of late relapse beyond 10 years and accumulation of treatment-related complications over decades.",
-      "journal": "No shinkei geka. Neurological surgery",
-      "publicationTypes": [
-        "Journal Article",
-        "Review",
-        "English Abstract"
-      ],
-      "affiliations": [
-        "Department of Neurosurgery, Faculty of Medicine, The University of Tokyo."
-      ],
-      "doi": "10.11477/mf.030126030540040789",
-      "date": "2026-07-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604776/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609723/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42609170",
+      "id": "pubmed-42610895",
       "date": "2026-08-18",
-      "title": "Integration of multi-stacked biodegradable PLGA membranes into microfluidic organ-on-a-chip devices for tunable barrier co-culture.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609170/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Lab on a chip，PMID 为 42609170。",
-      "report": "We integrate multi-stacked, thermally fused near-field electrospun PLGA membranes into a microfluidic organ-on-a-chip device. Layer number controls pore diameter (12-33 μm), porosity, circularity and permeability. The biodegradable, optically transparent membr...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42608544",
-      "date": "2026-08-18",
-      "title": "Clinical significance of miRNAs and exosomal miRNAs in non-small cell lung cancer: diagnostic, prognostic, and therapeutic perspectives.",
+      "title": "Logic-Gated Dual-Aptamer Proximity AlphaLISA for Rapid and Sensitive Detection of Tumor-Derived Small Extracellular Vesicles.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42608544/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42610895/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -563,97 +525,41 @@
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of human genetics，PMID 为 42608544。",
-      "report": "Lung cancer is the most frequently diagnosed malignancy and the leading cause of cancer-related mortality worldwide, with approximately 85% of cases classified as non-small cell lung cancer (NSCLC). Despite significant advances in diagnostic techniques and the...",
+      "fact": "PubMed 记录显示该文献收录于 Analytical chemistry，PMID 为 42610895。",
+      "report": "Small extracellular vesicles (sEVs) have emerged as promising biomarkers for liquid biopsy; however, the limited specificity of single-marker detection and the intrinsic heterogeneity of circulating sEVs hinder their reliable clinical application. Herein, we d...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42609051",
-      "date": "2026-08-17",
-      "title": "Development of a mobile high-intensity focused ultrasound platform for preclinical tumor microenvironment modulation in a pancreatic ductal adenocarcinoma mouse model.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "id": "pubmed-42610891",
+      "date": "2026-08-18",
+      "title": "Ortho-Fusion Metaboliprobe for Sensitive and Specific In Situ Detection of Metabolites in Tumor-Derived Exosomes.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609051/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42610891/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of hyperthermia : the official journal of European Society for Hyperthermic Oncology, North American Hyperthermia Group，PMID 为 42609051。",
-      "report": "High-intensity focused ultrasound (HIFU) is a noninvasive ablation technology with increasing relevance for preclinical research and clinical translation. Pancreatic ductal adenocarcinoma (PDAC) is among the most lethal cancers, with limited therapeutic option...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42608409",
-      "date": "2026-08-17",
-      "title": "Identifying phenotype-genotype-function coupling in 3D organoid imaging using Shape, Appearance and Motion Phenotype Observation Tool (SPOT).",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42608409/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42608409。",
-      "report": "Live cells in tissue are plastic, phenotypically dynamic, and modify their function in response to genetic and environmental perturbations. To unleash the power of live-cell imaging to identify phenotype-genotype-function coupling over time, we report the deve...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42608391",
-      "date": "2026-08-17",
-      "title": "The sixth sense of the brain: interoception in organoid study.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42608391/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bone research，PMID 为 42608391。",
-      "report": "Interoception is the process by which the nervous system senses, integrates, and interprets signals arising from within the body, thereby enabling the brain to monitor and regulate physiological functions. Often described as a \"sixth sense\", interoception link...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Analytical chemistry，PMID 为 42610891。",
+      "report": "Small molecule metabolites carried by exosomes have emerged as promising biomarkers for cancer liquid biopsy. However, their clinical application is hindered by the complexity of blood components, the difficulty in distinguishing tumor-derived exosome subpopul...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -712,16 +618,16 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42607937",
+      "id": "pubmed-42609723",
       "date": "2026-08-17",
-      "title": "Integration of PNA-mediated PCR and CRISPR/Cas13a for highly sensitive detection of EGFR T790M mutation in circulating tumor DNA.",
+      "title": "Liquid Biopsy-Based Profiling of TP53 Gene Hotspot Mutations in HBV-Induced Chronic Liver Disease and Hepatocellular Carcinoma Patients: A Study From Bangladesh.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42607937/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609723/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -736,22 +642,54 @@
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular and cellular probes，PMID 为 42607937。",
-      "report": "Circulating tumor DNA (ctDNA) is characterized by low abundance and fragmentation, limiting the development of genetic variant detection technologies. In this study, we established a highly sensitive and specific assay by combining peptide nucleic acid (PNA)-m...",
+      "fact": "PubMed 记录显示该文献收录于 International journal of hepatology，PMID 为 42609723。",
+      "report": "The tumor protein (TP53) gene is a common driver gene for somatic mutations in hepatocellular carcinoma(HCC), and detection may provide insight into evaluating disease progression. Circulating cell-free DNA (cfDNA) from liquid biopsy has emerged as a promising...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42607918",
-      "date": "2026-08-17",
-      "title": "Circular RNAs as diagnostic biomarkers and therapeutic regulators of metabolic reprogramming, immune escape and ferroptosis in hepatocellular carcinoma.",
+      "id": "pubmed-42609555",
+      "date": "2026-08-16",
+      "title": "2'-FL's Depiction of the Human Physiological Function Landscape.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609555/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Food science & nutrition，PMID 为 42609555。",
+      "report": "2'-fucosyllactose (2'-FL) is a major fucosylated human milk oligosaccharide characterized by a terminal α1,2-linked fucose residue, which supports its interactions with gut microbes, host glycan-recognition systems, and pathogen-binding sites. This review prop...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42610073",
+      "date": "2026-08-13",
+      "title": "Nanotechnology in Prostate Cancer: PSMA-Targeted Nanoplatforms, TME-Responsive Therapy, Immunomodulation, and Clinical Translation Challenges.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42607918/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42610073/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -770,39 +708,9 @@
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Clinica chimica acta; international journal of clinical chemistry，PMID 为 42607918。",
-      "report": "Hepatocellular carcinoma (HCC) remains one of the leading causes of cancer-related mortality worldwide, largely due to delayed diagnosis, high recurrence rates, therapeutic resistance, and marked molecular heterogeneity. The identification of reliable biomarke...",
+      "fact": "PubMed 记录显示该文献收录于 International journal of nanomedicine，PMID 为 42610073。",
+      "report": "The field of nanotechnology has demonstrated considerable potential in the diagnosis and treatment of prostate cancer, particularly through the use of prostate-specific membrane antigen (PSMA)-targeted platforms and tumor microenvironment (TME)-responsive syst...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42606335",
-      "date": "2026-08-17",
-      "title": "Whole Genome HPV Liquid Biopsy for HPV-Associated Cancer Detection and Viral Physical State Classification.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42606335/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42606335。",
-      "report": "HPV-associated carcinomas(HPV+cancers) account for 5% of all cancers. Circulating tumor HPV DNA(ctHPVDNA) assays for HPV+ cancer surveillance have limited prognostic utility at the time of cancer diagnosis. While HPV integration into the host genome is a prove...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -978,6 +886,38 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42609878",
+      "date": "2026-08-03",
+      "title": "Circulating tumor DNA in colorectal cancer: assay selection, clinical applications, and practical integration for gastroenterologists.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
+      "eventType": "Clinical Study",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609878/",
+      "reliability": "High",
+      "evidenceLevel": "High",
+      "needsReview": true,
+      "themes": [
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42609878。",
+      "report": "Circulating tumor DNA (ctDNA) has rapidly evolved from a research tool to a clinically applicable biomarker in colorectal cancer (CRC), transforming the assessment of minimal residual disease (MRD) and recurrence risk. The growing availability of commercial as...",
+      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42580899",
       "date": "2026-07-30",
       "title": "The organ-on-a-chip-AI virtual cell loop: a path toward next‑generation biomedicine.",
@@ -1076,6 +1016,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42610180",
+      "date": "2026-07-27",
+      "title": "Intrinsically co-registered extended-depth-of-focus OCM and two-photon microscopy for label-free volumetric analysis of 3D cell models.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42610180/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biomedical optics express，PMID 为 42610180。",
+      "report": "Beam engineering effectively overcomes the resolution-depth of focus trade-off in high-NA optical coherence microscopy (OCM). Conventional OCM is limited by this constraint, hindering stable volumetric acquisition. To overcome this, we present an intrinsically...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42497867",
       "date": "2026-07-25",
       "title": "UniPert-G2CP bridges genetic and chemical screens from molecular representation to phenotype modeling.",
@@ -1158,67 +1126,91 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42604781",
-      "date": "2026-07-01",
-      "title": "[Recent Advances in the Treatment of Craniopharyngioma:A Breakthrough in Molecular Targeted Therapy].",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
+      "id": "pubmed-42610161",
+      "date": "2026-07-18",
+      "title": "Comparative Evaluation of Salivary Inflammatory Cytokines and microRNA Biomarkers Across the Spectrum of Oral Carcinogenesis.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604781/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42610161/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
+        "Biotech",
         "Precision Oncology"
       ],
       "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
+        "biotech",
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 No shinkei geka. Neurological surgery，PMID 为 42604781。",
-      "report": "Craniopharyngiomas are benign sellar and parasellar tumors that present significant clinical challenge because of their close proximity to the optic apparatus, hypothalamus, and pituitary gland. Recent molecular studies have identified distinct driver mutation...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Cureus，PMID 为 42610161。",
+      "report": "Background Oral potentially malignant disorders (OPMDs) represent precursor conditions that carry an elevated probability of progressing to oral squamous cell carcinoma (OSCC). Despite ongoing research efforts, identifying dependable, non-invasive markers that...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42604776",
-      "date": "2026-07-01",
-      "title": "[Treatment of CNS Germ Cell Tumors].",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
+      "id": "pubmed-42609747",
+      "date": "2026-03-10",
+      "title": "Automated Optofluidic Analysis of Single Extracellular Vesicles for Organoid Culture Monitoring.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604776/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609747/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
+        "Organoids",
+        "Advanced Disease Models"
       ],
       "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
+        "类器官",
+        "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 No shinkei geka. Neurological surgery，PMID 为 42604776。",
-      "report": "Central nervous system (CNS) germ cell tumors (GCTs) are rare neoplasms that predominantly affect adolescents and young adults and occur at a notably higher incidence in East Asian populations. They are classified into two major categories: germinomas and non-...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 IEEE journal of selected topics in quantum electronics : a publication of the IEEE Lasers and Electro-optics Society，PMID 为 42609747。",
+      "report": "Advances in organoid-on-chip technology are transforming culturing methods by enabling precise control over biochemical environments and sustained nutrient delivery. Conventional methods for assessing organoid health are invasive, requiring skilled manual hand...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42610144",
+      "date": "2026-01-01",
+      "title": "AI-driven CRISPR strategies in breast cancer: Organoid modeling, adaptive editing, and precision delivery.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42610144/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Iranian journal of basic medical sciences，PMID 为 42610144。",
+      "report": "Triple-negative breast cancer (TNBC) is defined by profound heterogeneity, dormant metastatic reservoirs, and rapid therapy resistance. Building on our AI-Driven CRISPR Strategies in Breast Cancer framework, CRISPR-Cas9 is emerging as more than a gene-editing...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

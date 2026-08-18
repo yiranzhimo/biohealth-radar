@@ -4,86 +4,55 @@
   "asOfDate": "2026-08-18",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-43dbe4eb688023ef",
-      "observedName": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
-      "normalizedName": "otsuka pharmaceutical development and commercialization",
+      "id": "mention-clinicaltrials-243809f8d351ca97",
+      "observedName": "Loxo Oncology, Inc.",
+      "normalizedName": "loxo oncology",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT00615589",
-      "sourceDate": "2016-04-04",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT00615589",
+      "sourceRecordId": "NCT05225259",
+      "sourceDate": "2024-02-28",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05225259",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Cell Therapy",
         "Clinical Trials",
         "Oncology",
         "Precision Oncology",
         "临床试验",
-        "细胞治疗",
         "肿瘤"
       ],
       "activitySignals": [
-        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Stem Cell Transplantation To Treat High Risk Multiple Myeloma With Reduced Toxicity Myeloablative Conditioning Regimen"
+      "contextTitle": "Expanded Access for LOXO-260 in Participants With Cancer Caused by an Abnormal RET Gene That Did Not Respond/is no Longer Responding to Treatment With a Type of Drug Called a RET Inhibitor"
     },
     {
-      "id": "mention-clinicaltrials-6b4708178c2cd247",
-      "observedName": "Skin Analytics Limited",
-      "normalizedName": "skin analytics",
+      "id": "mention-clinicaltrials-6800e1eb4aef8f6b",
+      "observedName": "AgileMD, Inc.",
+      "normalizedName": "agilemd",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT04123678",
-      "sourceDate": "2021-08-13",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04123678",
+      "sourceRecordId": "NCT05893420",
+      "sourceDate": "2025-07-29",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05893420",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
         "Healthcare AI",
         "Medical AI",
-        "Oncology",
-        "Precision Oncology",
+        "Recruiting",
         "临床决策支持",
         "临床试验",
-        "医疗 AI",
-        "肿瘤"
+        "医疗 AI"
       ],
       "activitySignals": [
+        "active_trial",
         "trial_intervention"
       ],
-      "contextTitle": "DERM Health Economics Study"
-    },
-    {
-      "id": "mention-clinicaltrials-7d58e0d8b5ae03ff",
-      "observedName": "Hamad Medical Corporation",
-      "normalizedName": "hamad medical",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT03660696",
-      "sourceDate": "2019-01-03",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03660696",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Diagnostics",
-        "Longevity",
-        "Precision Medicine",
-        "biomarker",
-        "临床试验",
-        "精准医疗",
-        "衰老",
-        "诊断"
-      ],
-      "activitySignals": [],
-      "contextTitle": "Qatar Cardiovascular Biorepository of AF Patients"
+      "contextTitle": "A Rapid Diagnostic of Risk in Hospitalized Patients Using Machine Learning"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
