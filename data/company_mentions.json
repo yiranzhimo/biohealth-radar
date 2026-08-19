@@ -4,55 +4,157 @@
   "asOfDate": "2026-08-19",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-243809f8d351ca97",
-      "observedName": "Loxo Oncology, Inc.",
-      "normalizedName": "loxo oncology",
+      "id": "mention-clinicaltrials-37f182eca9a36283",
+      "observedName": "Biotech Pharmaceutical Co., Ltd.",
+      "normalizedName": "biotech pharmaceutical",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT05225259",
-      "sourceDate": "2024-02-28",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05225259",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT02591784",
+      "sourceDate": "2022-03-17",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT02591784",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
         "Oncology",
         "Precision Oncology",
+        "中国",
         "临床试验",
         "肿瘤"
       ],
       "activitySignals": [
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Expanded Access for LOXO-260 in Participants With Cancer Caused by an Abnormal RET Gene That Did Not Respond/is no Longer Responding to Treatment With a Type of Drug Called a RET Inhibitor"
+      "contextTitle": "Nimotuzumab in Combination With Radiotherapy for Esophageal Cancer"
     },
     {
-      "id": "mention-clinicaltrials-6800e1eb4aef8f6b",
-      "observedName": "AgileMD, Inc.",
-      "normalizedName": "agilemd",
+      "id": "mention-clinicaltrials-6969a9c86f79f450",
+      "observedName": "Voyager Therapeutics",
+      "normalizedName": "voyager therapeutics",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT05893420",
-      "sourceDate": "2025-07-29",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05893420",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT01973543",
+      "sourceDate": "2020-03-03",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01973543",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Healthcare AI",
-        "Medical AI",
-        "Recruiting",
-        "临床决策支持",
+        "Gene Therapy",
+        "Genetic Medicine",
         "临床试验",
-        "医疗 AI"
+        "基因治疗",
+        "基因编辑"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Safety Study of AADC Gene Therapy (VY-AADC01) for Parkinson's Disease"
+    },
+    {
+      "id": "mention-clinicaltrials-69760dcc460a0c1c",
+      "observedName": "Veristat, Inc.",
+      "normalizedName": "veristat",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT01973543",
+      "sourceDate": "2020-03-03",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01973543",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Gene Therapy",
+        "Genetic Medicine",
+        "临床试验",
+        "基因治疗",
+        "基因编辑"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Safety Study of AADC Gene Therapy (VY-AADC01) for Parkinson's Disease"
+    },
+    {
+      "id": "mention-clinicaltrials-a6e550d8c3376d25",
+      "observedName": "Novartis Pharmaceuticals",
+      "normalizedName": "novartis pharmaceuticals",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT01843348",
+      "sourceDate": "2017-05-01",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01843348",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "临床试验"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "12 Month Athena Study: Everolimus vs. Standard Regimen in de Novo Kidney Transplant Patients"
+    },
+    {
+      "id": "mention-clinicaltrials-b9936f7253655532",
+      "observedName": "Neurocrine Biosciences",
+      "normalizedName": "neurocrine biosciences",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT01973543",
+      "sourceDate": "2020-03-03",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01973543",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Gene Therapy",
+        "Genetic Medicine",
+        "临床试验",
+        "基因治疗",
+        "基因编辑"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Safety Study of AADC Gene Therapy (VY-AADC01) for Parkinson's Disease"
+    },
+    {
+      "id": "mention-clinicaltrials-ff807f4fbb93152d",
+      "observedName": "AIM ImmunoTech Inc.",
+      "normalizedName": "aim immunotech",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT03899987",
+      "sourceDate": "2026-06-09",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03899987",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "Recruiting",
+        "临床试验",
+        "肿瘤"
       ],
       "activitySignals": [
         "active_trial",
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Rapid Diagnostic of Risk in Hospitalized Patients Using Machine Learning"
+      "contextTitle": "Aspirin and Rintatolimod With or Without Interferon-alpha 2b in Treating Patients With Prostate Cancer Before Surgery"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
