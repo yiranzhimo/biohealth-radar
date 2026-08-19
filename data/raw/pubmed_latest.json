@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-19T01:55:01.256996+00:00",
+  "capturedAt": "2026-08-19T07:07:55.722516+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-19"
   },
   "pmids": [
+    "42612882",
+    "42612617",
+    "42612384",
     "42612147",
     "42612119",
     "42611889",
-    "42611725",
-    "42610180",
-    "42610144",
     "42600555",
     "42580899",
     "42559559",
@@ -32,14 +32,81 @@
     "42591814",
     "42575164",
     "42572503",
+    "42612850",
     "42612071",
     "42610895",
     "42610891",
     "42610161",
-    "42610073",
-    "42609878"
+    "42610073"
   ],
   "records": [
+    {
+      "pmid": "42612882",
+      "title": "WNT-driven immune evasion promotes malignant transformation of BRAF-mutant colorectal cancer.",
+      "abstract": "BRAF-mutant colorectal cancer (CRC) is a clinically aggressive subtype arising from the serrated pathway and is associated with poor prognosis and therapy resistance. The mechanisms driving malignant transformation in microsatellite-stable (MSS) BRAF-mutant CRC remain incompletely understood. We aimed to define the role of WNT pathway activation in serrated CRC progression and tumor-immune interactions. We generated multiple genetically engineered mouse models (GEMMs) of BRAF-mutant MSS CRC and complementary organoid-based transplantation models. Genetic alterations in WNT pathway components were functionally interrogated. Tumor development and immune microenvironment remodeling were analyzed using bulk RNA sequencing, single-cell RNA sequencing, CITE-seq, and functional in vivo assays. WNT pathway activation via APC or CTNNB1 mutations, but not RNF43 loss, was required for tumor initiation in BRAF-mutant CRC models. WNT activation induced a molecular subtype shift and suppressed immune response pathways. Mechanistically, WNT signaling suppressed CCL20 expression and remodeled the tumor microenvironment (TME) by promoting immunosuppressive myeloid populations and altering T-cell states. Functional assays demonstrated that WNT activation enhances tumor progression in immunocompetent settings, indicating immune evasion as a key driver of malignant progression. WNT pathway activation is a critical determinant of malignant transformation in BRAF-mutant MSS CRC by enabling immune escape. These findings identify WNT signaling as a central regulator of tumor-immune interactions and a potential therapeutic target in this aggressive CRC subtype.",
+      "journal": "Gastroenterology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        ".Heidelberg Institute for Stem Cell Technology and Experimental Medicine (HI-STEM gGmbH), Heidelberg, Germany; Cancer Progression and Metastasis Group, German Cancer Research Center (DKFZ) and DKFZ-ZMBH Alliance, Heidelberg, Germany.",
+        ".Heidelberg Institute for Stem Cell Technology and Experimental Medicine (HI-STEM gGmbH), Heidelberg, Germany; Cancer Progression and Metastasis Group, German Cancer Research Center (DKFZ) and DKFZ-ZMBH Alliance, Heidelberg, Germany; Faculty of Biosciences, Heidelberg University, Heidelberg, Germany.",
+        "Faculty of Biosciences, Heidelberg University, Heidelberg, Germany; Junior Clinical Cooperation Unit Translational Gastrointestinal Oncology and Preclinical Models, German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+        "Junior Clinical Cooperation Unit Translational Gastrointestinal Oncology and Preclinical Models, German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+        "Division of Signaling and Functional Genomics, German Cancer Research Center (DKFZ), Heidelberg, Germany; Heidelberg University, Institute for Human Genetics, Department of Molecular Human Genetics & BioQuant, Medical Faculty Heidelberg, Germany.",
+        "Institute of General Pathology, Medical University Innsbruck, Austria.",
+        ".Heidelberg Institute for Stem Cell Technology and Experimental Medicine (HI-STEM gGmbH), Heidelberg, Germany; Division of Experimental Hematology, German Cancer Research Center (DKFZ), Heidelberg, Germany and DKFZ-ZMBH Alliance, Heidelberg, Germany.",
+        "Faculty of Biosciences, Heidelberg University, Heidelberg, Germany; Epithelium Microbiome Interaction Laboratory, German Cancer Research Center (DKFZ), Heidelberg, Germany; and the DKFZ Hector Cancer Institute, University Medicine Mannheim, Heidelberg, Germany.",
+        "Faculty of Biosciences, Heidelberg University, Heidelberg, Germany; Epithelium Microbiome Interaction Laboratory, German Cancer Research Center (DKFZ), Heidelberg, Germany; and the DKFZ Hector Cancer Institute, University Medicine Mannheim, Heidelberg, Germany; German Cancer Consortium (DKTK), German Cancer Research Centre (DKFZ), Heidelberg, Germany.",
+        "Bavarian Cancer Research Center (BZKF) and KIONET, Augsburg, Germany; Pathology, Faculty of Medicine, University of Augsburg, Augsburg, Germany; Else Kroener Fresenius Center for Digital Health, Technical University Dresden, Dresden, Germany.",
+        "Junior Clinical Cooperation Unit Translational Gastrointestinal Oncology and Preclinical Models, German Cancer Research Center (DKFZ), Heidelberg, Germany; German Cancer Consortium (DKTK), German Cancer Research Centre (DKFZ), Heidelberg, Germany; Department of Medicine II, University Medical Center Mannheim, Medical Faculty Mannheim, Heidelberg University, Mannheim, Germany; DKFZ Hector Cancer Institute at University Medical Center Mannheim, Mannheim, Germany; Mannheim Cancer Center, Medical Faculty Mannheim, Heidelberg University, Mannheim, Germany.",
+        "Division of Signaling and Functional Genomics, German Cancer Research Center (DKFZ), Heidelberg, Germany; Heidelberg University, Institute for Human Genetics, Department of Molecular Human Genetics & BioQuant, Medical Faculty Heidelberg, Germany; German Cancer Consortium (DKTK), German Cancer Research Centre (DKFZ), Heidelberg, Germany.",
+        ".Heidelberg Institute for Stem Cell Technology and Experimental Medicine (HI-STEM gGmbH), Heidelberg, Germany; Cancer Progression and Metastasis Group, German Cancer Research Center (DKFZ) and DKFZ-ZMBH Alliance, Heidelberg, Germany; German Cancer Consortium (DKTK), German Cancer Research Centre (DKFZ), Heidelberg, Germany. Electronic address: r.jackstadt@dkfz.de."
+      ],
+      "doi": "10.1053/j.gastro.2026.07.035",
+      "date": "2026-08-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612882/"
+    },
+    {
+      "pmid": "42612617",
+      "title": "Synthetically engineered probiotic suppresses colorectal cancer via inhibition of Wnt/β-catenin signaling.",
+      "abstract": "Colorectal cancer (CRC) is one of the most prevalent malignancies globally. Recent breakthrough of synthetic biology stimulates the utilization of engineered bacteria for cancer diagnosis and treatment. We perform a comprehensive fecal metabolomic analysis in CRC mouse models and patients and identify ornithine as a specific metabolic biomarker for tumor development. We subsequently engineer an E. coli Nissle 1917 (EcN)-based bioluminescent reporter via ornithine-responsive tumor detection. For therapeutic intervention, we construct a probiotic system that locally releases Dickkopf 3 (DKK3), a potent Wnt signaling antagonist to retard tumor growth. Oral administration of the bacteria demonstrates reduced tumor burden and improved survival outcomes in multiple preclinical models, and the anticancer efficacy is further confirmed in CRC patient-derived organoids and patient-derived xenograft (PDX) model. Taken together, we develop a novel probiotic platform combing non-invasive diagnostic capability with targeted therapeutic delivery for CRC management, underscoring the strong potential for clinical translation and eventual application in preventive oncology.",
+      "journal": "Cell reports. Medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Biomedical Sciences, Hunan University, Changsha 410082, China; Hunan Key Laboratory of Animal Models and Molecular Medicine, Hunan University, Changsha 410082, Hunan, China.",
+        "School of Biomedical Sciences, Hunan University, Changsha 410082, China; Hunan Key Laboratory of Animal Models and Molecular Medicine, Hunan University, Changsha 410082, Hunan, China; Xiangtan Central Hospital, the Affiliated Hospital of Hunan University, Xiangtan 411100, Hunan, China.",
+        "Department of General Surgery, the Second Xiangya Hospital of Central South University, Changsha 410011, Hunan, China.",
+        "School of Biomedical Sciences, Hunan University, Changsha 410082, China; Hunan Key Laboratory of Animal Models and Molecular Medicine, Hunan University, Changsha 410082, Hunan, China. Electronic address: junzhou82@hnu.edu.cn.",
+        "School of Biomedical Sciences, Hunan University, Changsha 410082, China; Hunan Key Laboratory of Animal Models and Molecular Medicine, Hunan University, Changsha 410082, Hunan, China. Electronic address: jhzheng@hnu.edu.cn."
+      ],
+      "doi": "10.1016/j.xcrm.2026.102913",
+      "date": "2026-08-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612617/"
+    },
+    {
+      "pmid": "42612384",
+      "title": "Microplastics in pediatric asthma: Clinical associations with disease severity.",
+      "abstract": "Respiratory exposure to microplastics (MPs) is increasingly recognized as a potential contributor to chronic airway disease, but the MPs burden in children with asthma and its relationship to disease remain poorly defined. In this cross-sectional study, sputum samples from 46 children with asthma were analyzed by pyrolysis-gas chromatography/mass spectrometry (Py-GC/MS) to quantify six prevalent synthetic polymers. Associations between MPs burden, asthma control status, pulmonary function, and airway inflammation were examined. To explore epithelial responses, patient-derived human alveolar organoids were exposed to polyethylene (PE) particles and subjected to bulk RNA sequencing. MPs were identified in all 46 sputum samples from children with asthma, with a median total concentration of 21.12 μg/mL. Polystyrene (PS) was the most frequently detected polymer, present in 100% of the samples, while PE exhibited the highest median mass concentration at 13.96 µg/mL. Children with poorly controlled asthma demonstrated significantly elevated total MP burdens compared to those with well-controlled asthma. The total MP concentration showed a negative correlation with FEV₁% predicted, FVC% predicted, and the Asthma Control Test score. Transcriptomic analysis of PE-exposed alveolar organoids revealed 1297 differentially expressed genes, with enrichment in pathways associated with ferroptosis, apoptosis, p53 signaling, and inflammatory cytokine networks. Respiratory MPs burden is universal in this pediatric asthma cohort and associates with poor disease control. Exploratory transcriptomic analysis nominates ferroptosis-associated and pro-inflammatory pathways as candidate mechanisms warranting functional validation in future work.",
+      "journal": "Ecotoxicology and environmental safety",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Respiratory Medicine, Children's Hospital of Fudan University, National Children's Medical Center, Shanghai 201102, China.",
+        "Shanghai Key Laboratory of Intelligent Information Processing, School of Computer Science, Fudan University, Shanghai 200433, China.",
+        "Shanghai Key Laboratory of Air Quality and Environmental Health (LAP3), National Observations and Research Station for Wetland Ecosystems of the Yangtze Estuary, Department of Environmental Science and Engineering, Fudan University, Shanghai 200438, China.",
+        "Department of Nursing, Children's Hospital of Fudan University, Shanghai 201102, China.",
+        "National Health Commission (NHC) Key Laboratory of Neonatal Diseases, Fudan University, Children's Hospital of Fudan University, Shanghai 200433, China.",
+        "Shanghai Key Laboratory of Air Quality and Environmental Health (LAP3), National Observations and Research Station for Wetland Ecosystems of the Yangtze Estuary, Department of Environmental Science and Engineering, Fudan University, Shanghai 200438, China; IRDR International Center of Excellence on Risk Interconnectivity and Governance on Weather/Climate Extremes Impact and Public Health, Institute of Atmospheric Sciences, Fudan University, Shanghai 200438, China. Electronic address: jmchen@fudan.edu.cn.",
+        "Department of Respiratory Medicine, Children's Hospital of Fudan University, National Children's Medical Center, Shanghai 201102, China; Center for Pediatric Clinical Quality Control of Shanghai, Shanghai 201102, China. Electronic address: zhangxiaobo0307@163.com."
+      ],
+      "doi": "10.1016/j.ecoenv.2026.120676",
+      "date": "2026-08-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612384/"
+    },
     {
       "pmid": "42612147",
       "title": "Patient-Specific iPSC-Derived Cornea Organoids for Investigating Aniridia-Associated Corneal Disorders.",
@@ -97,75 +164,6 @@
       "doi": "10.3791/70757",
       "date": "2026-08-07",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42611889/"
-    },
-    {
-      "pmid": "42611725",
-      "title": "Fabrication of a Vertically Stacked Dentin-Pulp Complex Organ-on-a-Chip Device Using a Human Dentin Disc.",
-      "abstract": "Conventional preclinical models used in dental research, including animal models and static cell cultures, present important limitations in reproducing the physiological conditions of the dentin-pulp interface and predicting human biological responses to dental biomaterials. Organ-on-a-chip (OoC) technology provides an alternative approach by enabling the recreation of tissue-specific microenvironments within controlled microfluidic systems. This manuscript describes a step-by-step protocol for the fabrication and assembly of a dentin-pulp complex OoC device incorporating a human dentin disc within a three-layer polydimethylsiloxane (PDMS) microfluidic platform. The protocol includes dentin disc preparation, fabrication of microstructured molds using photolithography, PDMS casting and curing, plasma-assisted layer bonding, device assembly, leak testing, and dental pulp stem cell seeding under static culture conditions. Critical fabrication parameters influencing device performance are discussed, including control of PDMS layer thickness, plasma surface treatment, and integration of the dentin disc within the device to minimize leakage. Cell adhesion and viability within the device were evaluated using scanning electron microscopy and confocal live/dead staining. Representative results demonstrate successful integration of the dentin disc within the microfluidic assembly, maintenance of leak-free conditions, and adhesion of viable dental pulp stem cells to the dentin surface. This protocol provides a reproducible approach for the fabrication of a dentin-pulp complex OoC platform that may support future studies investigating cellular responses to dental biomaterials and microenvironmental stimuli.",
-      "journal": "Journal of visualized experiments : JoVE",
-      "publicationTypes": [
-        "Journal Article",
-        "Video-Audio Media"
-      ],
-      "affiliations": [
-        "Center of Excellence in Physics and Engineering in Health, Universidad de La Frontera; Faculty of Dentistry, Universidad de La Frontera.",
-        "Master in Dentistry Program, Faculty of Dentistry, Universidad de La Frontera.",
-        "Center for Science and Technology of Valparaíso (CCTVal), Universidad Técnica Federico Santa María.",
-        "Faculty of Dentistry, Universidad de La Frontera.",
-        "Scientific and Technological Bioresource Nucleus (BIOREN), Universidad de La Frontera.",
-        "Center of Excellence in Physics and Engineering in Health, Universidad de La Frontera; Department of Chemical Engineering, Faculty of Engineering and Sciences, Universidad de La Frontera; mauricio.zamorano@ufrontera.cl."
-      ],
-      "doi": "10.3791/71713",
-      "date": "2026-08-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42611725/"
-    },
-    {
-      "pmid": "42610180",
-      "title": "Intrinsically co-registered extended-depth-of-focus OCM and two-photon microscopy for label-free volumetric analysis of 3D cell models.",
-      "abstract": "Beam engineering effectively overcomes the resolution-depth of focus trade-off in high-NA optical coherence microscopy (OCM). Conventional OCM is limited by this constraint, hindering stable volumetric acquisition. To overcome this, we present an intrinsically registered imaging platform based on Bessel beam-enabled extended-depth-of-focus OCM for quantitative, label-free volumetric phenotyping of three-dimensional cell models. Annular illumination extends the focal range to 193 µm, enabling stable scattering contrast in dense spheroids. By exploiting structural scattering signatures associated with cellular disintegration, we demonstrate volumetric viability mapping with 94.57 ± 2.69% aggregate viability concordance relative to fluorescence references. The platform differentiates drug-specific responses and captures pathological transitions in spheroids and organoids, establishing a quantitative paradigm for volumetric biological phenotyping.",
-      "journal": "Biomedical optics express",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Nanobio Measurement Group, Korea Research Institute of Standards and Science, Daejeon 34113, Republic of Korea.",
-        "Department of Regenerative Medicine Center, Seoul National University Bundang Hospital, Seongnam-si, Gyeonggi-do, Republic of Korea.",
-        "Biometrology Group, Korea Research Institute of Standards and Science, Daejeon 34113, Republic of Korea.",
-        "Department of Precision Measurement Science, University of Science and Technology, Daejeon 34113, Republic of Korea.",
-        "Department of Advanced Bioconvergence, University of Science and Technology, Daejeon 34113, Republic of Korea."
-      ],
-      "doi": "10.1364/BOE.605771",
-      "date": "2026-07-27",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42610180/"
-    },
-    {
-      "pmid": "42610144",
-      "title": "AI-driven CRISPR strategies in breast cancer: Organoid modeling, adaptive editing, and precision delivery.",
-      "abstract": "Triple-negative breast cancer (TNBC) is defined by profound heterogeneity, dormant metastatic reservoirs, and rapid therapy resistance. Building on our AI-Driven CRISPR Strategies in Breast Cancer framework, CRISPR-Cas9 is emerging as more than a gene-editing tool, capable of restoring circadian integrity, eliminating dormant clones, and re-programming immune surveillance. A structured PubMed, Scopus, and ClinicalTrials.gov review through 2025 integrated mechanistic, preclinical, and early clinical evidence. Beyond standard knockout, base, and prime editing, we highlight chrono-genomic repair of BMAL1/PER2, dormancy-focused synthetic-lethality screens, and genomic-collapse tactics for BRCA1-deficient tumors. Adaptive AI pipelines that iteratively refine guide RNAs and exosome-mimetic carriers, incorporating Boolean logic gates, were also evaluated for self-regulated, tumor-specific delivery. Proof-of-concept studies show that HER2 deletion, TP53 rescue, and ABCB1 silencing enhance chemosensitivity across luminal, HER2-positive, and TNBC models. Circadian restoration expands therapeutic windows and delays relapse in xenografts. Dormancy-directed CRISPR screens reveal unique vulnerabilities in disseminated tumor cells, whereas genomic collapse selectively destroys BRCA1-mutant clones. Integration with CAR-T cells and antibody-drug conjugates amplifies cytotoxicity, and transient nanoparticle or exosome systems improve solid-tumor penetration while minimizing off-target events. CRISPR-Cas9 is transitioning from a molecular scalpel to an adaptive, self-learning therapeutic ecosystem. By uniting AI-guided design, circadian reprogramming, dormancy eradication, and logic-gated delivery, the strategies detailed here define a next-generation precision-oncology paradigm capable of anticipating tumor evolution, overcoming resistance, and preventing metastatic relapse.",
-      "journal": "Iranian journal of basic medical sciences",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Radiology Techniques, Health and Medical Techniques College, Alnoor University, Nineveh, Iraq.",
-        "Ahl al bayt University, Kerbala, Iraq.",
-        "University Institute of Pharma Sciences, Chandigarh University, Mohali, Punjab, India.",
-        "Modern College of Business and Science, Muscat, Oman.",
-        "On Sabbatical Leave, from Jordan University of Science and Technology, Irbid, Jordan.",
-        "Department of Biotechnology and Genetics, School of Sciences, JAIN (Deemed to be University), Bangalore, Karnataka, India.",
-        "Center for Research Impact & Outcome, Chitkara University Institute of Engineering and Technology, Chitkara University, Rajpura, 140401, Punjab, India.",
-        "Department of General Medicine, IMS and SUM Hospital, Siksha 'O' Anusandhan (Deemed to be University), Bhubaneswar, Odisha-751003, India.",
-        "Uttaranchal Institute of Pharmaceutical Sciences, Division of Research and Innovation, Uttaranchal University, Dehradun, Uttarakhand, India.",
-        "Department of Skin and Venereal Diseases, Samarkand State Medical University, Samarkand, Uzbekistan.",
-        "Collage of Pharmacy, National University of Science and Technology, Dhi Qar, 64001, Iraq.",
-        "Gilgamesh Ahliya University, Baghdad, Iraq.",
-        "Department of Pharmacy, Al-Zahrawi University College, Karbala, Iraq.",
-        "Pharmacy College, Al-Farahidi University, Baghdad, Iraq."
-      ],
-      "doi": "10.22038/ijbms.2026.90248.19456",
-      "date": "2026-01-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42610144/"
     },
     {
       "pmid": "42600555",
@@ -394,6 +392,23 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42572503/"
     },
     {
+      "pmid": "42612850",
+      "title": "The De-Centralization Perspective for Liquid Biopsy Use in Thoracic Pathology The Way to Go.",
+      "abstract": "The liquid biopsy (LBx) concept in thoracic oncology has optimized treatment decision-making for patients with advanced/metastatic non-small cell lung cancer (NSCLC). The clinical practice of LBx in thoracic oncology is based on international guidelines. However, aside from the recommendations for adoption of LBx in daily clinical practice for late-stage NSCLC, other indications evaluate the role of LBx in clinical trials, particularly for early stage NSCLC. Transferring LBx into routine practice requires robust data from clinical research programs that are able to sustain the novel indications of LBx. Equity of access to treatment is linked to access to molecular testing for thoracic malignancies. In this context, widespread dissemination of molecular testing, avoiding centralization to commercially available platforms or to unique national academic institutions, becomes a major component of the current strategy for lung cancer care. Therefore, de-centralized LBx in thoracic oncology is the best approach to democratize molecular testing, optimizing access to personalized therapeutic options for lung cancer patients. LBx de-centralization needs to be perfectly mastered using a high quality approach that gives specific and sensitive results. However, several challenges significantly affect this approach, such as the lack of harmonized technical procedures, pre-analytical challenges and issues in interpreting the molecular records, which can imped significantly the widespread practice of LBx. Our aim was to investigate the interest in and advantages of LBx de-centralization in thoracic oncology. The bottlenecks of this strategy that aim to fill the gaps toward widespread integration of LBx into the daily life of health care systems for lung cancer patients will be discussed.",
+      "journal": "Critical reviews in oncology/hematology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "IHU RespirERA, FHU OncoAge, BB-0033-00025, Louis Pasteur Hospital, Côte d'Azur University Nice, France. Electronic address: hofman.p@chu-nice.fr.",
+        "Department of Public Health, University Federico II of Naples, Naples, Italy."
+      ],
+      "doi": "10.1016/j.critrevonc.2026.105549",
+      "date": "2026-08-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612850/"
+    },
+    {
       "pmid": "42612071",
       "title": "lncRNAs and miRNAs in Exosome-Mediated Macrophage Polarization: Implications for Age-Related Macular Degeneration.",
       "abstract": "Age-related macular degeneration (AMD) is a progressive and multifactorial retinal disease that represents a leading cause of irreversible vision loss among the elderly. Increasing evidence suggests that exosomes, small extracellular vesicles that mediate intercellular communication, play a critical role in regulating immune and angiogenic signaling in the retina. These vesicles transport diverse molecular cargo, including microRNAs (miRNAs) and long non-coding RNAs (lncRNAs). Recent studies highlight the importance of exosome-mediated ncRNA signaling in macrophage polarization, a key immunological process involved in AMD progression. Exosomal miRNAs and lncRNAs released from retinal pigment epithelium (RPE) cells, endothelial cells, and immune cells can regulate macrophage phenotypes and alter inflammatory and angiogenic pathways within the retina. Dysregulated ncRNAs, including miR-21, miR-23a, miR-150, and the lncRNA NEAT1, have been implicated in promoting macrophage-driven inflammation, lipid dysregulation, and pathological neovascularization. Through these mechanisms, exosomal ncRNAs contribute to the transition from early retinal stress and drusen formation to advanced forms of AMD characterized by geographic atrophy or choroidal neovascularization. In addition to their mechanistic role in disease progression, exosomal ncRNAs show promise as minimally invasive biomarkers for early diagnosis and monitoring of AMD. Their stability in biological fluids, such as plasma, aqueous humor, and vitreous fluid, suggests their potential use in liquid biopsy approaches. Moreover, engineered exosomes carrying therapeutic ncRNAs represent a promising strategy for modulating macrophage polarization and restoring retinal immune homeostasis. This review integrates current knowledge on the exosome-ncRNA-macrophage axis in AMD, highlighting its role in retinal immune regulation, disease progression, and therapeutic development. Understanding this emerging signaling network may provide new opportunities to develop precision diagnostic tools and targeted therapies to prevent or slow retinal degeneration in AMD.",
@@ -481,34 +496,101 @@
       "doi": "10.2147/IJN.S629751",
       "date": "2026-08-13",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42610073/"
-    },
-    {
-      "pmid": "42609878",
-      "title": "Circulating tumor DNA in colorectal cancer: assay selection, clinical applications, and practical integration for gastroenterologists.",
-      "abstract": "Circulating tumor DNA (ctDNA) has rapidly evolved from a research tool to a clinically applicable biomarker in colorectal cancer (CRC), transforming the assessment of minimal residual disease (MRD) and recurrence risk. The growing availability of commercial assays has complicated test selection and interpretation, particularly for gastroenterologists who increasingly encounter ctDNA data in postoperative and surveillance settings. We conducted a narrative review of the literature using PubMed, Embase, and Cochrane databases from January 2015 through March 2026, prioritizing randomized controlled trials, prospective cohort studies, and clinical practice guidelines relevant to ctDNA applications in CRC. The search employed predefined keyword combinations applied independently to each database. Two authors (A.S. and S.M.) independently screened titles and abstracts against the prespecified inclusion criteria, with disagreements resolved by discussion. Tumor-informed assays that analyze patient-specific mutations exhibit high specificity for MRD detection, with serial sampling sensitivity reaching 88% compared to 59% for tumor-agnostic approaches, based on a 2026 systematic review and diagnostic accuracy meta-analysis that pooled data across multiple platforms and settings; the authors note substantial study-level heterogeneity in platform design and patient populations, and results should be interpreted accordingly, but require tissue access and extended processing times. Tumor-agnostic tests are more rapid and accessible, incorporating genomic and epigenomic signals, though they exhibit site-specific sensitivity variations ranging from 100% for liver metastases to 40% for peritoneal recurrence and remain vulnerable to biological confounders such as clonal hematopoiesis (CH). Importantly, ctDNA interpretation is subject to additional biological limitations including tumor shedding variability by anatomical site and disease burden, the timing of sample collection relative to surgery or chemotherapy, platform-specific detection thresholds, and pre-analytical variables such as hemolysis and delayed plasma processing. Randomized evidence supports ctDNA-guided de-escalation of adjuvant therapy in stage II colon cancer, with 5-year follow-up from the DYNAMIC trial demonstrating comparable recurrence-free survival (88% vs. 87%) and overall survival (93.8% vs. 93.3%) despite reduced chemotherapy use. In stage III disease, ctDNA is strongly prognostic, but chemotherapy intensification based solely on molecular positivity has not improved outcomes. This review additionally addresses underexplored areas including ctDNA in rectal cancer and neoadjuvant therapy, the influence of microsatellite instability (MSI) status on assay performance, and disparities in ctDNA access across racial, socioeconomic, and geographic populations. For gastroenterologists encountering ctDNA results in postoperative and surveillance settings, three principles should guide practice (i): match assay selection to clinical intent - tumor-informed platforms for MRD-directed adjuvant decisions, tumor-agnostic platforms when tissue is unavailable (ii); interpret results within biological and technical context, accounting for platform-specific sensitivity limitations, biological confounders, and quantitative VAF trajectory rather than binary thresholds; and (iii) integrate ctDNA findings into multidisciplinary pathways - de-escalation is supported by high-quality randomized evidence in stage II disease (Grade A; Level I), while chemotherapy escalation based solely on ctDNA positivity in stage III disease is not supported outside clinical trials (Grade C; Level I). Standardization of assay performance benchmarks and equitable access to testing remain critical unmet needs.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Internal Medicine, Yale New Haven Hospital, New Haven, CT, United States.",
-        "Faculty of Biology, The University of Manchester, Manchester, United Kingdom.",
-        "Department of Internal Medicine, Mayo Clinic, Rochester, MN, United States.",
-        "Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, United Kingdom.",
-        "University of Connecticut School of Medicine, Farmington, United States.",
-        "Mahatma Gandhi Memorial Medical College, Indore, India.",
-        "Royal Stoke University Hospital, Stoke-on-Trent, United Kingdom.",
-        "The University of Kansas School of Medicine, Kansas City, KS, United States.",
-        "University of Nottingham School of Medicine, Nottingham, United Kingdom.",
-        "NIHR Nottingham Biomedical Research Centre, Nottingham University Hospitals NHS Trust and University of Nottingham, Nottingham, United Kingdom."
-      ],
-      "doi": "10.3389/fonc.2026.1894198",
-      "date": "2026-08-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609878/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42612882",
+      "date": "2026-08-18",
+      "title": "WNT-driven immune evasion promotes malignant transformation of BRAF-mutant colorectal cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612882/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Gastroenterology，PMID 为 42612882。",
+      "report": "BRAF-mutant colorectal cancer (CRC) is a clinically aggressive subtype arising from the serrated pathway and is associated with poor prognosis and therapy resistance. The mechanisms driving malignant transformation in microsatellite-stable (MSS) BRAF-mutant CR...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42612617",
+      "date": "2026-08-18",
+      "title": "Synthetically engineered probiotic suppresses colorectal cancer via inhibition of Wnt/β-catenin signaling.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612617/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42612617。",
+      "report": "Colorectal cancer (CRC) is one of the most prevalent malignancies globally. Recent breakthrough of synthetic biology stimulates the utilization of engineered bacteria for cancer diagnosis and treatment. We perform a comprehensive fecal metabolomic analysis in...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42612384",
+      "date": "2026-08-18",
+      "title": "Microplastics in pediatric asthma: Clinical associations with disease severity.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612384/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Ecotoxicology and environmental safety，PMID 为 42612384。",
+      "report": "Respiratory exposure to microplastics (MPs) is increasingly recognized as a potential contributor to chronic airway disease, but the MPs burden in children with asthma and its relationship to disease remain poorly defined. In this cross-sectional study, sputum...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42611249",
       "date": "2026-08-18",
@@ -533,6 +615,40 @@
       "fact": "PubMed 记录显示该文献收录于 ACS nano，PMID 为 42611249。",
       "report": "The nanofabrication of functional protein-based surfaces is challenging due to the chemical complexity of proteins and their unpredictable behavior at the solid-liquid interface. Many proteins of interest-such as antibodies or large enzymatic complexes-lack st...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42612850",
+      "date": "2026-08-18",
+      "title": "The De-Centralization Perspective for Liquid Biopsy Use in Thoracic Pathology The Way to Go.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612850/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Critical reviews in oncology/hematology，PMID 为 42612850。",
+      "report": "The liquid biopsy (LBx) concept in thoracic oncology has optimized treatment decision-making for patients with advanced/metastatic non-small cell lung cancer (NSCLC). The clinical practice of LBx in thoracic oncology is based on international guidelines. Howev...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -650,34 +766,6 @@
       "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 42605681。",
       "report": "Protein engineering relies heavily on computational characterization of constrained protein fitness landscapes, in which only a limited fraction of sequence space corresponds to stable and functional biomolecules. Advances in structural biology and machine lea...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42611725",
-      "date": "2026-08-14",
-      "title": "Fabrication of a Vertically Stacked Dentin-Pulp Complex Organ-on-a-Chip Device Using a Human Dentin Disc.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42611725/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42611725。",
-      "report": "Conventional preclinical models used in dental research, including animal models and static cell cultures, present important limitations in reproducing the physiological conditions of the dentin-pulp interface and predicting human biological responses to denta...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -830,38 +918,6 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42611889。",
       "report": "Neurotropic viruses remain a persistent global health challenge, and the mechanisms by which they damage the human brain are not yet fully understood. Animal models are often limited by human-specific aspects of CNS biology, whereas two-dimensional (2D) cell c...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42609878",
-      "date": "2026-08-03",
-      "title": "Circulating tumor DNA in colorectal cancer: assay selection, clinical applications, and practical integration for gastroenterologists.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Clinical Study",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609878/",
-      "reliability": "High",
-      "evidenceLevel": "High",
-      "needsReview": true,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "临床",
-        "监管",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42609878。",
-      "report": "Circulating tumor DNA (ctDNA) has rapidly evolved from a research tool to a clinically applicable biomarker in colorectal cancer (CRC), transforming the assessment of minimal residual disease (MRD) and recurrence risk. The growing availability of commercial as...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1049,34 +1105,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42610180",
-      "date": "2026-07-27",
-      "title": "Intrinsically co-registered extended-depth-of-focus OCM and two-photon microscopy for label-free volumetric analysis of 3D cell models.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42610180/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomedical optics express，PMID 为 42610180。",
-      "report": "Beam engineering effectively overcomes the resolution-depth of focus trade-off in high-NA optical coherence microscopy (OCM). Conventional OCM is limited by this constraint, hindering stable volumetric acquisition. To overcome this, we present an intrinsically...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42497867",
       "date": "2026-07-25",
       "title": "UniPert-G2CP bridges genetic and chemical screens from molecular representation to phenotype modeling.",
@@ -1184,38 +1212,6 @@
       "fact": "PubMed 记录显示该文献收录于 Cureus，PMID 为 42610161。",
       "report": "Background Oral potentially malignant disorders (OPMDs) represent precursor conditions that carry an elevated probability of progressing to oral squamous cell carcinoma (OSCC). Despite ongoing research efforts, identifying dependable, non-invasive markers that...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42610144",
-      "date": "2026-01-01",
-      "title": "AI-driven CRISPR strategies in breast cancer: Organoid modeling, adaptive editing, and precision delivery.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42610144/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Iranian journal of basic medical sciences，PMID 为 42610144。",
-      "report": "Triple-negative breast cancer (TNBC) is defined by profound heterogeneity, dormant metastatic reservoirs, and rapid therapy resistance. Building on our AI-Driven CRISPR Strategies in Breast Cancer framework, CRISPR-Cas9 is emerging as more than a gene-editing...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

@@ -821,6 +821,232 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42612882",
+      "date": "2026-08-18",
+      "title": "WNT-driven immune evasion promotes malignant transformation of BRAF-mutant colorectal cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612882/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Gastroenterology，PMID 为 42612882。",
+      "report": "BRAF-mutant colorectal cancer (CRC) is a clinically aggressive subtype arising from the serrated pathway and is associated with poor prognosis and therapy resistance. The mechanisms driving malignant transformation in microsatellite-stable (MSS) BRAF-mutant CR...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0d13773959ad43ad006a8556539a5481a39098fd8f8392f7bb",
+        "reviewedAt": "2026-08-19T07:08:02.820798+00:00",
+        "inputHash": "ad0e31e343754a7a4956e43c1619e20123ef31e9eb2216affc3fcb05008e9121",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该卡片信息清晰，分类合理，无不当临床结论。可以发布。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别和子类别与文献内容相符，合理分类。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分离清晰，证据水平适中。"
+        },
+        "riskFlags": [
+          "commercial_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Gastroenterology，PMID 为 42612882。",
+          "report": "BRAF-mutant colorectal cancer (CRC) is a clinically aggressive subtype arising from the serrated pathway and is associated with poor prognosis and therapy resistance. The mechanisms driving malignant transformation in microsatellite-stable (MSS) BRAF-mutant CRC are not well understood.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42612617",
+      "date": "2026-08-18",
+      "title": "Synthetically engineered probiotic suppresses colorectal cancer via inhibition of Wnt/β-catenin signaling.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612617/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42612617。",
+      "report": "Colorectal cancer (CRC) is one of the most prevalent malignancies globally. Recent breakthrough of synthetic biology stimulates the utilization of engineered bacteria for cancer diagnosis and treatment. We perform a comprehensive fecal metabolomic analysis in...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0ffba82daded55d4006a85565aed3487d2a941abd51032b016",
+        "reviewedAt": "2026-08-19T07:08:02.820798+00:00",
+        "inputHash": "604af978f26226f8658353446cd4bb9453bb5cafdadeec8d8d95ccef4fb56fe8",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需人工审查以验证研究质量和结论支持。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类与研究内容不完全匹配，可能存在误导性。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "中等证据水平或许不足以支持所述结论。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42612617。",
+          "report": "Colorectal cancer (CRC) is one of the most prevalent malignancies globally. Recent breakthrough of synthetic biology stimulates the utilization of engineered bacteria for cancer diagnosis and treatment. We perform a comprehensive fecal metabolomic analysis in...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42612384",
+      "date": "2026-08-18",
+      "title": "Microplastics in pediatric asthma: Clinical associations with disease severity.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612384/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Ecotoxicology and environmental safety，PMID 为 42612384。",
+      "report": "Respiratory exposure to microplastics (MPs) is increasingly recognized as a potential contributor to chronic airway disease, but the MPs burden in children with asthma and its relationship to disease remain poorly defined. In this cross-sectional study, sputum...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0bc43360a2f5f8e0006a855663377087d28d9b2e4674841f4b",
+        "reviewedAt": "2026-08-19T07:08:02.820798+00:00",
+        "inputHash": "4a190f8419a919e362b2b2dd86fd82ac3a60f1ceafba57a9230d572c44de4a6e",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录清晰，数据支持合理，无未验证的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，与文献内容一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论清晰分离，证据等级合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "research"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Ecotoxicology and environmental safety，PMID 为 42612384。",
+          "report": "Respiratory exposure to microplastics (MPs) is increasingly recognized as a potential contributor to chronic airway disease, but the MPs burden in children with asthma and its relationship to disease remain poorly defined. In this cross-sectional study, sputum...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42611249",
       "date": "2026-08-18",
       "title": "Design and Characterization of SAKe, a Building Block for Protein Self-Assembly.",
@@ -882,6 +1108,88 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 ACS nano，PMID 为 42611249。",
           "report": "The nanofabrication of functional protein-based surfaces is challenging due to the chemical complexity of proteins and their unpredictable behavior at the solid-liquid interface.",
           "inference": "该研究未提供对实际应用的明确指导，仅为技术性文献。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42612850",
+      "date": "2026-08-18",
+      "title": "The De-Centralization Perspective for Liquid Biopsy Use in Thoracic Pathology The Way to Go.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612850/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Critical reviews in oncology/hematology，PMID 为 42612850。",
+      "report": "The liquid biopsy (LBx) concept in thoracic oncology has optimized treatment decision-making for patients with advanced/metastatic non-small cell lung cancer (NSCLC). The clinical practice of LBx in thoracic oncology is based on international guidelines. Howev...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0eb9f8f91d11f3b4006a8556728ca0819da44b9fdd332cf209",
+        "reviewedAt": "2026-08-19T07:08:02.820798+00:00",
+        "inputHash": "3ee148e882709dc60f5118e7dc54cc6aa5c13ba6a12dd6d66a467d6e1e1cc13d",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该出版物符合中立情报记录的标准，没有支持的临床疗效或安全性结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别和证据等级与提供的元数据合理匹配。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告、推断和未知内容明确分开。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "临床",
+            "监管",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Critical reviews in oncology/hematology，PMID 为 42612850。",
+          "report": "The liquid biopsy (LBx) concept in thoracic oncology has optimized treatment decision-making for patients with advanced/metastatic non-small cell lung cancer (NSCLC). The clinical practice of LBx in thoracic oncology is based on international guidelines.",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1318,73 +1626,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42611725",
-      "date": "2026-08-14",
-      "title": "Fabrication of a Vertically Stacked Dentin-Pulp Complex Organ-on-a-Chip Device Using a Human Dentin Disc.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42611725/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42611725。",
-      "report": "Conventional preclinical models used in dental research, including animal models and static cell cultures, present important limitations in reproducing the physiological conditions of the dentin-pulp interface and predicting human biological responses to denta...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0c345b5682746f60006a850d0b42648196b7dfd44e27a20223",
-        "reviewedAt": "2026-08-19T01:55:11.097019+00:00",
-        "inputHash": "ce6573a3635390b57b980d621491afdc6dbd8f52afc88dbcced2dd1906bf6b2d",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录的分类和证据水平合理，信息分离清晰，无临床结论或建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "基础分类与主题一致，符合文献内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "文献记录来源可靠，提供了适当的证据水平。"
-        },
-        "riskFlags": [],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42611725。",
-          "report": "Conventional preclinical models used in dental research, including animal models and static cell cultures, present important limitations in reproducing the physiological conditions of the dentin-pulp interface and predicting human biological responses to dental treatments.",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -3883,84 +4124,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42609878",
-      "date": "2026-08-03",
-      "title": "Circulating tumor DNA in colorectal cancer: assay selection, clinical applications, and practical integration for gastroenterologists.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Clinical Study",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609878/",
-      "reliability": "High",
-      "evidenceLevel": "High",
-      "needsReview": true,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "临床",
-        "监管",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42609878。",
-      "report": "Circulating tumor DNA (ctDNA) has rapidly evolved from a research tool to a clinically applicable biomarker in colorectal cancer (CRC), transforming the assessment of minimal residual disease (MRD) and recurrence risk. The growing availability of commercial as...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_05295ee5ce243635006a84abbb9f8c81a0bf3c978af5e75199",
-        "reviewedAt": "2026-08-18T18:59:35.819364+00:00",
-        "inputHash": "2fc2ce24b514a97177ef909e69150c09dc1e751f29c04f08f715ee2e4908f807",
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审核，报告中缺乏有关研究质量和数据的详细信息。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "报告缺乏充分的信息支持，仅根据文献标题进行推断。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Evidence",
-          "evidenceLevel": "High",
-          "themes": [
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "临床",
-            "监管",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42609878。",
-          "report": "Circulating tumor DNA (ctDNA) has rapidly evolved from a research tool to a clinically applicable biomarker in colorectal cancer (CRC), transforming the assessment of minimal residual disease (MRD) and recurrence risk. The growing availability of commercial assays...",
-          "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "clinicaltrials-NCT07469566",
       "date": "2026-08-03",
       "title": "Characterization of the Natural History of Microduplication Syndrome 7q11.23",
@@ -5667,75 +5830,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42610180",
-      "date": "2026-07-27",
-      "title": "Intrinsically co-registered extended-depth-of-focus OCM and two-photon microscopy for label-free volumetric analysis of 3D cell models.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42610180/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomedical optics express，PMID 为 42610180。",
-      "report": "Beam engineering effectively overcomes the resolution-depth of focus trade-off in high-NA optical coherence microscopy (OCM). Conventional OCM is limited by this constraint, hindering stable volumetric acquisition. To overcome this, we present an intrinsically...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_06a92e8eb2e3ae08006a84abc640c081a3adfeaaae07f75330",
-        "reviewedAt": "2026-08-18T18:59:35.819364+00:00",
-        "inputHash": "219284bac83c6aac470db70e409dedf1841984713bef069f65cb1126a292e942",
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "文章信息清晰，分类恰当，未做未经支持的临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论分开明确，证据水平适中。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Biomedical optics express，PMID 为 42610180。",
-          "report": "Beam engineering effectively overcomes the resolution-depth of focus trade-off in high-NA optical coherence microscopy (OCM). Conventional OCM is limited by this constraint, hindering stable volumetric acquisition. To overcome this, we present an intrinsically...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "sec-0001801198-000119312526316760",
       "date": "2026-07-27",
       "title": "Legend Biotech filed Form 6-K",
@@ -7295,84 +7389,6 @@ window.BHR_DATA = {
           "report": "The diverse microbial communities in different parts of the human body (microbiome) are important for health but understudied in pulmonary tuberculosis (TB), which is the single biggest infectious cause of death in the world. The investigators will study the s...",
           "inference": "该试验设计和现状不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42610144",
-      "date": "2026-01-01",
-      "title": "AI-driven CRISPR strategies in breast cancer: Organoid modeling, adaptive editing, and precision delivery.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42610144/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Iranian journal of basic medical sciences，PMID 为 42610144。",
-      "report": "Triple-negative breast cancer (TNBC) is defined by profound heterogeneity, dormant metastatic reservoirs, and rapid therapy resistance. Building on our AI-Driven CRISPR Strategies in Breast Cancer framework, CRISPR-Cas9 is emerging as more than a gene-editing...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0e13d88a23d0a47a006a84abfbcd548192b2c87ef973efce9e",
-        "reviewedAt": "2026-08-18T18:59:35.819364+00:00",
-        "inputHash": "551735a7ef6a137002c134cb6f9dd89b5fac70ac693c5ffbbf7c537d380c5a4e",
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审查以确保准确性和避免误导性结论。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "所用分类未能准确反映文献的研究质量和临床适用性。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平标记为中等，但没有支持这一判断的充分来源。"
-        },
-        "riskFlags": [
-          "commercial_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Iranian journal of basic medical sciences，PMID 为 42610144。",
-          "report": "Triple-negative breast cancer (TNBC) is defined by profound heterogeneity, dormant metastatic reservoirs, and rapid therapy resistance. Building on our AI-Driven CRISPR Strategies in Breast Cancer framework, CRISPR-Cas9 is emerging as more than a gene-editing...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
