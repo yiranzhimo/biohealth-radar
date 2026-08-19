@@ -1,13 +1,13 @@
 {
   "schemaVersion": "1.0",
-  "capturedAt": "2026-08-18T03:59:56+00:00",
+  "capturedAt": "2026-08-19T04:00:29+00:00",
   "source": {
     "name": "SEC EDGAR",
     "type": "Corporate Registrant",
     "reliability": "High",
     "url": "https://www.sec.gov/edgar/search/"
   },
-  "observedOn": "2026-08-18",
+  "observedOn": "2026-08-19",
   "sicCodes": {
     "2833": "Medicinal Chemicals and Botanical Products",
     "2834": "Pharmaceutical Preparations",
@@ -18,6 +18,26 @@
   "maxPerSic": 500,
   "records": [
     {
+      "cik": "0002131524",
+      "companyName": "Braveheart Bio, Inc.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002131524&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BRVE"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "Braveheart Bio, Inc."
+    },
+    {
       "cik": "0002114044",
       "companyName": "Hemab Therapeutics Holdings, Inc.",
       "form": null,
@@ -27,7 +47,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002114044&owner=exclude&hidefilings=0",
       "tickers": [
         "COAG"
@@ -36,24 +56,6 @@
         "Nasdaq"
       ],
       "secName": "Hemab Therapeutics Holdings, Inc."
-    },
-    {
-      "cik": "0002100835",
-      "companyName": "NYB Holdings Ltd",
-      "form": null,
-      "sicCodes": [
-        "2833"
-      ],
-      "sicLabels": [
-        "Medicinal Chemicals and Botanical Products"
-      ],
-      "observedAt": "2026-08-17",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002100835&owner=exclude&hidefilings=0",
-      "tickers": [
-        "NYB"
-      ],
-      "exchanges": [],
-      "secName": "NYB Holdings Ltd"
     },
     {
       "cik": "0002094256",
@@ -65,7 +67,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002094256&owner=exclude&hidefilings=0",
       "tickers": [
         "CLYD"
@@ -83,7 +85,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002093101&owner=exclude&hidefilings=0",
       "tickers": [
         "RNA"
@@ -103,7 +105,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002081043&owner=exclude&hidefilings=0",
       "tickers": [
         "ATAI"
@@ -123,7 +125,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002070534&owner=exclude&hidefilings=0",
       "tickers": [
         "SLBT"
@@ -143,7 +145,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002058707&owner=exclude&hidefilings=0",
       "tickers": [
         "ATTO"
@@ -163,7 +165,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002035832&owner=exclude&hidefilings=0",
       "tickers": [
         "AKTS"
@@ -172,6 +174,26 @@
         "Nasdaq"
       ],
       "secName": "Aktis Oncology, Inc."
+    },
+    {
+      "cik": "0002023658",
+      "companyName": "Bicara Therapeutics Inc.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002023658&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BCAX"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "Bicara Therapeutics Inc."
     },
     {
       "cik": "0002023311",
@@ -183,7 +205,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002023311&owner=exclude&hidefilings=0",
       "tickers": [
         "AAPG"
@@ -203,7 +225,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002022416&owner=exclude&hidefilings=0",
       "tickers": [
         "SLXN",
@@ -224,7 +246,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002020932&owner=exclude&hidefilings=0",
       "tickers": [
         "AGMB"
@@ -244,7 +266,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002010788&owner=exclude&hidefilings=0",
       "tickers": [
         "EXOZ"
@@ -264,7 +286,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002007919&owner=exclude&hidefilings=0",
       "tickers": [
         "INBX"
@@ -284,7 +306,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002000775&owner=exclude&hidefilings=0",
       "tickers": [
         "BKHA",
@@ -306,7 +328,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001999480&owner=exclude&hidefilings=0",
       "tickers": [
         "ANRO"
@@ -326,7 +348,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001994702&owner=exclude&hidefilings=0",
       "tickers": [
         "KYTX"
@@ -346,7 +368,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001991792&owner=exclude&hidefilings=0",
       "tickers": [
         "CGON"
@@ -366,7 +388,7 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001982708&owner=exclude&hidefilings=0",
       "tickers": [
         "NNNN"
@@ -386,7 +408,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001980845&owner=exclude&hidefilings=0",
       "tickers": [
         "ENGN",
@@ -407,7 +429,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001974640&owner=exclude&hidefilings=0",
       "tickers": [
         "APGE"
@@ -427,7 +449,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001971387&owner=exclude&hidefilings=0",
       "tickers": [
         "LIMN",
@@ -448,7 +470,7 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001969766&owner=exclude&hidefilings=0",
       "tickers": [
         "SEPSF"
@@ -468,7 +490,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001962738&owner=exclude&hidefilings=0",
       "tickers": [
         "CASIF"
@@ -488,7 +510,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001956827&owner=exclude&hidefilings=0",
       "tickers": [
         "ABVX",
@@ -510,7 +532,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001946563&owner=exclude&hidefilings=0",
       "tickers": [
         "SXTP",
@@ -531,7 +553,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001944885&owner=exclude&hidefilings=0",
       "tickers": [
         "APLM",
@@ -552,7 +574,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001944552&owner=exclude&hidefilings=0",
       "tickers": [
         "ANL"
@@ -572,7 +594,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001938571&owner=exclude&hidefilings=0",
       "tickers": [
         "APTN"
@@ -581,6 +603,46 @@
         "OTC"
       ],
       "secName": "ADAPTIN BIO, INC."
+    },
+    {
+      "cik": "0001937993",
+      "companyName": "Cadrenal Therapeutics, Inc.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001937993&owner=exclude&hidefilings=0",
+      "tickers": [
+        "CVKD"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "Cadrenal Therapeutics, Inc."
+    },
+    {
+      "cik": "0001935979",
+      "companyName": "Biohaven Ltd.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001935979&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BHVN"
+      ],
+      "exchanges": [
+        "NYSE"
+      ],
+      "secName": "Biohaven Ltd."
     },
     {
       "cik": "0001919246",
@@ -592,7 +654,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001919246&owner=exclude&hidefilings=0",
       "tickers": [
         "PTHS"
@@ -612,7 +674,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001907223&owner=exclude&hidefilings=0",
       "tickers": [
         "GRML",
@@ -633,7 +695,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001907108&owner=exclude&hidefilings=0",
       "tickers": [
         "LXEO"
@@ -653,7 +715,7 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001906324&owner=exclude&hidefilings=0",
       "tickers": [
         "QDEL"
@@ -673,7 +735,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001898416&owner=exclude&hidefilings=0",
       "tickers": [
         "ALVO",
@@ -694,7 +756,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001896212&owner=exclude&hidefilings=0",
       "tickers": [
         "CDT",
@@ -715,7 +777,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001894562&owner=exclude&hidefilings=0",
       "tickers": [
         "PRME"
@@ -735,7 +797,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001894525&owner=exclude&hidefilings=0",
       "tickers": [
         "APUS"
@@ -755,7 +817,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001893219&owner=exclude&hidefilings=0",
       "tickers": [
         "ABPO",
@@ -776,7 +838,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001892500&owner=exclude&hidefilings=0",
       "tickers": [
         "CMND"
@@ -796,7 +858,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001891512&owner=exclude&hidefilings=0",
       "tickers": [
         "XTXXF"
@@ -805,6 +867,26 @@
         "OTC"
       ],
       "secName": "Adastra Holdings Ltd."
+    },
+    {
+      "cik": "0001889109",
+      "companyName": "BELITE BIO, INC",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001889109&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BLTE"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "BELITE BIO, INC"
     },
     {
       "cik": "0001885827",
@@ -816,7 +898,7 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001885827&owner=exclude&hidefilings=0",
       "tickers": [
         "VRAX"
@@ -825,26 +907,6 @@
         "Nasdaq"
       ],
       "secName": "Virax Biolabs Group Ltd"
-    },
-    {
-      "cik": "0001885680",
-      "companyName": "TFA Therapeutics, Inc.",
-      "form": null,
-      "sicCodes": [
-        "2833"
-      ],
-      "sicLabels": [
-        "Medicinal Chemicals and Botanical Products"
-      ],
-      "observedAt": "2026-08-17",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001885680&owner=exclude&hidefilings=0",
-      "tickers": [
-        "RAJAF"
-      ],
-      "exchanges": [
-        "OTC"
-      ],
-      "secName": "TFA Therapeutics, Inc."
     },
     {
       "cik": "0001885522",
@@ -856,7 +918,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001885522&owner=exclude&hidefilings=0",
       "tickers": [
         "NMRA"
@@ -876,7 +938,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001882782&owner=exclude&hidefilings=0",
       "tickers": [
         "ODTX"
@@ -896,7 +958,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001880438&owner=exclude&hidefilings=0",
       "tickers": [
         "ANTX"
@@ -916,7 +978,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001870404&owner=exclude&hidefilings=0",
       "tickers": [
         "CERO",
@@ -937,7 +999,7 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001870144&owner=exclude&hidefilings=0",
       "tickers": [
         "CDIO",
@@ -949,6 +1011,26 @@
       "secName": "Cardio Diagnostics Holdings, Inc."
     },
     {
+      "cik": "0001869105",
+      "companyName": "BridgeBio Oncology Therapeutics, Inc.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001869105&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BBOT"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "BridgeBio Oncology Therapeutics, Inc."
+    },
+    {
       "cik": "0001868279",
       "companyName": "ArriVent BioPharma, Inc.",
       "form": null,
@@ -958,7 +1040,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001868279&owner=exclude&hidefilings=0",
       "tickers": [
         "AVBP"
@@ -978,7 +1060,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001862150&owner=exclude&hidefilings=0",
       "tickers": [
         "CING",
@@ -999,7 +1081,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001861123&owner=exclude&hidefilings=0",
       "tickers": [
         "EIKN"
@@ -1019,7 +1101,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001860871&owner=exclude&hidefilings=0",
       "tickers": [
         "TVGN",
@@ -1040,7 +1122,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001860657&owner=exclude&hidefilings=0",
       "tickers": [
         "ALLR"
@@ -1060,7 +1142,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001858848&owner=exclude&hidefilings=0",
       "tickers": [
         "TNYA"
@@ -1069,6 +1151,27 @@
         "Nasdaq"
       ],
       "secName": "Tenaya Therapeutics, Inc."
+    },
+    {
+      "cik": "0001858685",
+      "companyName": "Biofrontera Inc.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001858685&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BFRI",
+        "BFRIW"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "Biofrontera Inc."
     },
     {
       "cik": "0001855644",
@@ -1080,7 +1183,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001855644&owner=exclude&hidefilings=0",
       "tickers": [
         "ZURA"
@@ -1100,7 +1203,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001855485&owner=exclude&hidefilings=0",
       "tickers": [
         "CLDI",
@@ -1122,7 +1225,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001854270&owner=exclude&hidefilings=0",
       "tickers": [
         "SNTI"
@@ -1142,7 +1245,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001853921&owner=exclude&hidefilings=0",
       "tickers": [
         "SCTX"
@@ -1151,6 +1254,26 @@
         "Nasdaq"
       ],
       "secName": "Scribe Therapeutics, Inc."
+    },
+    {
+      "cik": "0001851651",
+      "companyName": "Beroni Group Ltd",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001851651&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BNIGF"
+      ],
+      "exchanges": [
+        "OTC"
+      ],
+      "secName": "Beroni Group Ltd"
     },
     {
       "cik": "0001851484",
@@ -1162,7 +1285,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001851484&owner=exclude&hidefilings=0",
       "tickers": [
         "CTOR"
@@ -1182,7 +1305,7 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001850902&owner=exclude&hidefilings=0",
       "tickers": [
         "TKNO"
@@ -1202,7 +1325,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001850767&owner=exclude&hidefilings=0",
       "tickers": [
         "ACUT"
@@ -1222,7 +1345,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001850270&owner=exclude&hidefilings=0",
       "tickers": [
         "PROK"
@@ -1242,7 +1365,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001850119&owner=exclude&hidefilings=0",
       "tickers": [
         "IPSC"
@@ -1262,7 +1385,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001849296&owner=exclude&hidefilings=0",
       "tickers": [
         "OKYO"
@@ -1282,7 +1405,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001847367&owner=exclude&hidefilings=0",
       "tickers": [
         "ALMS"
@@ -1302,7 +1425,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001847345&owner=exclude&hidefilings=0",
       "tickers": [
         "ASBP",
@@ -1323,7 +1446,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001844417&owner=exclude&hidefilings=0",
       "tickers": [
         "ESLA",
@@ -1344,7 +1467,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001842295&owner=exclude&hidefilings=0",
       "tickers": [
         "MAZE"
@@ -1364,7 +1487,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001841387&owner=exclude&hidefilings=0",
       "tickers": [
         "CADL"
@@ -1373,6 +1496,26 @@
         "Nasdaq"
       ],
       "secName": "Candel Therapeutics, Inc."
+    },
+    {
+      "cik": "0001840439",
+      "companyName": "Biomea Fusion, Inc.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001840439&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BMEA"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "Biomea Fusion, Inc."
     },
     {
       "cik": "0001840229",
@@ -1384,7 +1527,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001840229&owner=exclude&hidefilings=0",
       "tickers": [
         "INKT"
@@ -1393,6 +1536,26 @@
         "Nasdaq"
       ],
       "secName": "MiNK Therapeutics, Inc."
+    },
+    {
+      "cik": "0001839970",
+      "companyName": "BlossomHill Therapeutics, Inc.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001839970&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BLSM"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "BlossomHill Therapeutics, Inc."
     },
     {
       "cik": "0001838716",
@@ -1404,7 +1567,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001838716&owner=exclude&hidefilings=0",
       "tickers": [
         "GNTA"
@@ -1424,7 +1587,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001837607&owner=exclude&hidefilings=0",
       "tickers": [
         "AEON"
@@ -1444,7 +1607,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001836564&owner=exclude&hidefilings=0",
       "tickers": [
         "VALN"
@@ -1464,7 +1627,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001835579&owner=exclude&hidefilings=0",
       "tickers": [
         "IMA"
@@ -1484,7 +1647,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001833214&owner=exclude&hidefilings=0",
       "tickers": [
         "SABS",
@@ -1505,7 +1668,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001832038&owner=exclude&hidefilings=0",
       "tickers": [
         "IVVD"
@@ -1525,7 +1688,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001830214&owner=exclude&hidefilings=0",
       "tickers": [
         "DNA",
@@ -1538,24 +1701,25 @@
       "secName": "Ginkgo Bioworks Holdings, Inc."
     },
     {
-      "cik": "0001829667",
-      "companyName": "Regencell Bioscience Holdings Ltd",
+      "cik": "0001829247",
+      "companyName": "BullFrog AI Holdings, Inc.",
       "form": null,
       "sicCodes": [
-        "2833"
+        "2834"
       ],
       "sicLabels": [
-        "Medicinal Chemicals and Botanical Products"
+        "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001829667&owner=exclude&hidefilings=0",
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001829247&owner=exclude&hidefilings=0",
       "tickers": [
-        "RGC"
+        "BFRG",
+        "BFRGW"
       ],
       "exchanges": [
         "Nasdaq"
       ],
-      "secName": "Regencell Bioscience Holdings Ltd"
+      "secName": "BullFrog AI Holdings, Inc."
     },
     {
       "cik": "0001828253",
@@ -1567,7 +1731,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001828253&owner=exclude&hidefilings=0",
       "tickers": [
         "EVAX"
@@ -1587,7 +1751,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001828185&owner=exclude&hidefilings=0",
       "tickers": [
         "BRNS"
@@ -1596,6 +1760,26 @@
         "Nasdaq"
       ],
       "secName": "Barinthus Biotherapeutics plc."
+    },
+    {
+      "cik": "0001827401",
+      "companyName": "BRIGHT MINDS BIOSCIENCES INC.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001827401&owner=exclude&hidefilings=0",
+      "tickers": [
+        "DRUG"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "BRIGHT MINDS BIOSCIENCES INC."
     },
     {
       "cik": "0001826892",
@@ -1607,7 +1791,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001826892&owner=exclude&hidefilings=0",
       "tickers": [
         "BCAB"
@@ -1627,7 +1811,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001826457&owner=exclude&hidefilings=0",
       "tickers": [
         "GLUE"
@@ -1647,7 +1831,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001824893&owner=exclude&hidefilings=0",
       "tickers": [
         "SRZN",
@@ -1668,7 +1852,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001822791&owner=exclude&hidefilings=0",
       "tickers": [
         "CLNN"
@@ -1688,7 +1872,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001820190&owner=exclude&hidefilings=0",
       "tickers": [
         "SCLX",
@@ -1709,7 +1893,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001819790&owner=exclude&hidefilings=0",
       "tickers": [
         "TARS"
@@ -1729,7 +1913,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001818838&owner=exclude&hidefilings=0",
       "tickers": [
         "ADAG"
@@ -1749,7 +1933,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001818382&owner=exclude&hidefilings=0",
       "tickers": [
         "HUMA",
@@ -1770,7 +1954,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001817241&owner=exclude&hidefilings=0",
       "tickers": [
         "ARTV"
@@ -1790,7 +1974,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001817229&owner=exclude&hidefilings=0",
       "tickers": [
         "VOR"
@@ -1810,7 +1994,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001815974&owner=exclude&hidefilings=0",
       "tickers": [
         "ANEB"
@@ -1830,7 +2014,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001815776&owner=exclude&hidefilings=0",
       "tickers": [
         "LENZ"
@@ -1850,7 +2034,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001815620&owner=exclude&hidefilings=0",
       "tickers": [
         "CKDXF",
@@ -1871,7 +2055,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001815442&owner=exclude&hidefilings=0",
       "tickers": [
         "KYMR"
@@ -1891,7 +2075,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001812364&owner=exclude&hidefilings=0",
       "tickers": [
         "RLAY"
@@ -1911,7 +2095,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001810182&owner=exclude&hidefilings=0",
       "tickers": [
         "ALXO"
@@ -1931,7 +2115,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001809196&owner=exclude&hidefilings=0",
       "tickers": [
         "IMTX"
@@ -1940,6 +2124,26 @@
         "Nasdaq"
       ],
       "secName": "Immatics N.V."
+    },
+    {
+      "cik": "0001808898",
+      "companyName": "Benitec Biopharma Inc.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001808898&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BNTC"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "Benitec Biopharma Inc."
     },
     {
       "cik": "0001806310",
@@ -1951,7 +2155,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001806310&owner=exclude&hidefilings=0",
       "tickers": [
         "TSHA"
@@ -1971,7 +2175,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001799448&owner=exclude&hidefilings=0",
       "tickers": [
         "ALGS"
@@ -1991,7 +2195,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001789972&owner=exclude&hidefilings=0",
       "tickers": [
         "CGEM"
@@ -2011,7 +2215,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001789769&owner=exclude&hidefilings=0",
       "tickers": [
         "TIL"
@@ -2031,7 +2235,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001788028&owner=exclude&hidefilings=0",
       "tickers": [
         "JSPR",
@@ -2052,7 +2256,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001787306&owner=exclude&hidefilings=0",
       "tickers": [
         "ARQT"
@@ -2072,7 +2276,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001787297&owner=exclude&hidefilings=0",
       "tickers": [
         "PASG"
@@ -2092,7 +2296,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001785279&owner=exclude&hidefilings=0",
       "tickers": [
         "MGX"
@@ -2112,7 +2316,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001783328&owner=exclude&hidefilings=0",
       "tickers": [
         "TCRX"
@@ -2121,6 +2325,26 @@
         "Nasdaq"
       ],
       "secName": "TScan Therapeutics, Inc."
+    },
+    {
+      "cik": "0001782303",
+      "companyName": "Boundless Bio, Inc.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001782303&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BOLD"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "Boundless Bio, Inc."
     },
     {
       "cik": "0001781983",
@@ -2132,7 +2356,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001781983&owner=exclude&hidefilings=0",
       "tickers": [
         "APRE"
@@ -2152,7 +2376,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001781174&owner=exclude&hidefilings=0",
       "tickers": [
         "ACRV"
@@ -2161,6 +2385,26 @@
         "Nasdaq"
       ],
       "secName": "Acrivon Therapeutics, Inc."
+    },
+    {
+      "cik": "0001779578",
+      "companyName": "BGM Group Ltd.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001779578&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BGM"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "BGM Group Ltd."
     },
     {
       "cik": "0001776985",
@@ -2172,7 +2416,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001776985&owner=exclude&hidefilings=0",
       "tickers": [
         "BNTX"
@@ -2192,7 +2436,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001774857&owner=exclude&hidefilings=0",
       "tickers": [
         "AARD"
@@ -2212,7 +2456,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771910&owner=exclude&hidefilings=0",
       "tickers": [
         "ADCT"
@@ -2232,7 +2476,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001770121&owner=exclude&hidefilings=0",
       "tickers": [
         "SANA"
@@ -2252,7 +2496,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001768446&owner=exclude&hidefilings=0",
       "tickers": [
         "CLYM"
@@ -2272,7 +2516,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001768224&owner=exclude&hidefilings=0",
       "tickers": [
         "ARCT"
@@ -2281,26 +2525,6 @@
         "Nasdaq"
       ],
       "secName": "Arcturus Therapeutics Holdings Inc."
-    },
-    {
-      "cik": "0001766600",
-      "companyName": "SNDL Inc.",
-      "form": null,
-      "sicCodes": [
-        "2833"
-      ],
-      "sicLabels": [
-        "Medicinal Chemicals and Botanical Products"
-      ],
-      "observedAt": "2026-08-17",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001766600&owner=exclude&hidefilings=0",
-      "tickers": [
-        "SNDL"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "SNDL Inc."
     },
     {
       "cik": "0001764013",
@@ -2312,7 +2536,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001764013&owner=exclude&hidefilings=0",
       "tickers": [
         "IMVT"
@@ -2321,6 +2545,26 @@
         "Nasdaq"
       ],
       "secName": "Immunovant, Inc."
+    },
+    {
+      "cik": "0001761612",
+      "companyName": "BICYCLE THERAPEUTICS PLC",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001761612&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BCYC"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "BICYCLE THERAPEUTICS PLC"
     },
     {
       "cik": "0001759138",
@@ -2332,7 +2576,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001759138&owner=exclude&hidefilings=0",
       "tickers": [
         "CABA"
@@ -2341,26 +2585,6 @@
         "Nasdaq"
       ],
       "secName": "Cabaletta Bio, Inc."
-    },
-    {
-      "cik": "0001754195",
-      "companyName": "Trulieve Cannabis Corp.",
-      "form": null,
-      "sicCodes": [
-        "2833"
-      ],
-      "sicLabels": [
-        "Medicinal Chemicals and Botanical Products"
-      ],
-      "observedAt": "2026-08-17",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001754195&owner=exclude&hidefilings=0",
-      "tickers": [
-        "TRLV"
-      ],
-      "exchanges": [
-        "NYSE"
-      ],
-      "secName": "Trulieve Cannabis Corp."
     },
     {
       "cik": "0001754068",
@@ -2372,7 +2596,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001754068&owner=exclude&hidefilings=0",
       "tickers": [
         "KLRS"
@@ -2392,7 +2616,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001752828&owner=exclude&hidefilings=0",
       "tickers": [
         "CELU"
@@ -2412,7 +2636,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001750149&owner=exclude&hidefilings=0",
       "tickers": [
         "IKT"
@@ -2432,7 +2656,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001745999&owner=exclude&hidefilings=0",
       "tickers": [
         "BEAM"
@@ -2452,7 +2676,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001745648&owner=exclude&hidefilings=0",
       "tickers": [
         "APMD"
@@ -2472,7 +2696,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001745114&owner=exclude&hidefilings=0",
       "tickers": [
         "MOLN"
@@ -2481,6 +2705,26 @@
         "Nasdaq"
       ],
       "secName": "MOLECULAR PARTNERS AG"
+    },
+    {
+      "cik": "0001743881",
+      "companyName": "BridgeBio Pharma, Inc.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001743881&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BBIO"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "BridgeBio Pharma, Inc."
     },
     {
       "cik": "0001740279",
@@ -2492,7 +2736,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001740279&owner=exclude&hidefilings=0",
       "tickers": [
         "INAB"
@@ -2512,7 +2756,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001739174&owner=exclude&hidefilings=0",
       "tickers": [
         "PHGE"
@@ -2532,7 +2776,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001738021&owner=exclude&hidefilings=0",
       "tickers": [
         "CMPX"
@@ -2552,7 +2796,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001737953&owner=exclude&hidefilings=0",
       "tickers": [
         "REPL"
@@ -2572,7 +2816,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001737287&owner=exclude&hidefilings=0",
       "tickers": [
         "ALLO"
@@ -2581,6 +2825,26 @@
         "Nasdaq"
       ],
       "secName": "Allogene Therapeutics, Inc."
+    },
+    {
+      "cik": "0001736730",
+      "companyName": "Camp4 Therapeutics Corp",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001736730&owner=exclude&hidefilings=0",
+      "tickers": [
+        "CAMP"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "Camp4 Therapeutics Corp"
     },
     {
       "cik": "0001736243",
@@ -2592,7 +2856,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001736243&owner=exclude&hidefilings=0",
       "tickers": [
         "ACXP"
@@ -2612,7 +2876,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001735438&owner=exclude&hidefilings=0",
       "tickers": [
         "MGTX"
@@ -2621,26 +2885,6 @@
         "Nasdaq"
       ],
       "secName": "MeiraGTx Holdings plc"
-    },
-    {
-      "cik": "0001731348",
-      "companyName": "Tilray Brands, Inc.",
-      "form": null,
-      "sicCodes": [
-        "2833"
-      ],
-      "sicLabels": [
-        "Medicinal Chemicals and Botanical Products"
-      ],
-      "observedAt": "2026-08-17",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001731348&owner=exclude&hidefilings=0",
-      "tickers": [
-        "TLRY"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "Tilray Brands, Inc."
     },
     {
       "cik": "0001730463",
@@ -2652,7 +2896,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001730463&owner=exclude&hidefilings=0",
       "tickers": [
         "AUTL"
@@ -2672,7 +2916,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001729427&owner=exclude&hidefilings=0",
       "tickers": [
         "CNSP"
@@ -2692,7 +2936,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001727196&owner=exclude&hidefilings=0",
       "tickers": [
         "SRRK"
@@ -2712,7 +2956,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001726711&owner=exclude&hidefilings=0",
       "tickers": [
         "ADTX"
@@ -2732,7 +2976,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001724521&owner=exclude&hidefilings=0",
       "tickers": [
         "RCUS"
@@ -2752,7 +2996,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001723980&owner=exclude&hidefilings=0",
       "tickers": [
         "SXTC"
@@ -2761,6 +3005,26 @@
         "Nasdaq"
       ],
       "secName": "China SXT Pharmaceuticals, Inc."
+    },
+    {
+      "cik": "0001723464",
+      "companyName": "BIOHARVEST SCIENCES INC.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001723464&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BHST"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "BIOHARVEST SCIENCES INC."
     },
     {
       "cik": "0001723128",
@@ -2772,7 +3036,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001723128&owner=exclude&hidefilings=0",
       "tickers": [
         "AMRX"
@@ -2781,6 +3045,46 @@
         "Nasdaq"
       ],
       "secName": "Amneal Pharmaceuticals, Inc."
+    },
+    {
+      "cik": "0001723059",
+      "companyName": "Bio Essence Corp",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001723059&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BIOE"
+      ],
+      "exchanges": [
+        "OTC"
+      ],
+      "secName": "Bio Essence Corp"
+    },
+    {
+      "cik": "0001720893",
+      "companyName": "BioXcel Therapeutics, Inc.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001720893&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BTAI"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "BioXcel Therapeutics, Inc."
     },
     {
       "cik": "0001720580",
@@ -2792,7 +3096,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001720580&owner=exclude&hidefilings=0",
       "tickers": [
         "ACET"
@@ -2812,7 +3116,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001714899&owner=exclude&hidefilings=0",
       "tickers": [
         "DNLI"
@@ -2832,7 +3136,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001711754&owner=exclude&hidefilings=0",
       "tickers": [
         "INMB"
@@ -2852,7 +3156,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001711279&owner=exclude&hidefilings=0",
       "tickers": [
         "KRYS"
@@ -2861,6 +3165,26 @@
         "Nasdaq"
       ],
       "secName": "Krystal Biotech, Inc."
+    },
+    {
+      "cik": "0001709941",
+      "companyName": "BioAge Labs, Inc.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001709941&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BIOA"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "BioAge Labs, Inc."
     },
     {
       "cik": "0001708527",
@@ -2872,7 +3196,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001708527&owner=exclude&hidefilings=0",
       "tickers": [
         "ELUT"
@@ -2892,7 +3216,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001707502&owner=exclude&hidefilings=0",
       "tickers": [
         "SLDB"
@@ -2912,7 +3236,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001706431&owner=exclude&hidefilings=0",
       "tickers": [
         "VIR"
@@ -2932,7 +3256,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001703057&owner=exclude&hidefilings=0",
       "tickers": [
         "ABCL"
@@ -2952,7 +3276,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001702123&owner=exclude&hidefilings=0",
       "tickers": [
         "CRDL"
@@ -2972,7 +3296,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001701541&owner=exclude&hidefilings=0",
       "tickers": [
         "BDTX"
@@ -2992,7 +3316,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001701478&owner=exclude&hidefilings=0",
       "tickers": [
         "AZTR"
@@ -3012,7 +3336,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001697862&owner=exclude&hidefilings=0",
       "tickers": [
         "ARGX"
@@ -3032,7 +3356,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001682852&owner=exclude&hidefilings=0",
       "tickers": [
         "MRNA"
@@ -3052,7 +3376,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001681087&owner=exclude&hidefilings=0",
       "tickers": [
         "TECX"
@@ -3061,6 +3385,26 @@
         "Nasdaq"
       ],
       "secName": "Tectonic Therapeutic, Inc."
+    },
+    {
+      "cik": "0001677940",
+      "companyName": "BeyondSpring Inc.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001677940&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BYSI"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "BeyondSpring Inc."
     },
     {
       "cik": "0001677077",
@@ -3072,7 +3416,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001677077&owner=exclude&hidefilings=0",
       "tickers": [
         "ALZN"
@@ -3092,7 +3436,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001674416&owner=exclude&hidefilings=0",
       "tickers": [
         "CRSP"
@@ -3112,7 +3456,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001671927&owner=exclude&hidefilings=0",
       "tickers": [
         "IMCR"
@@ -3132,7 +3476,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001671858&owner=exclude&hidefilings=0",
       "tickers": [
         "SPRY"
@@ -3152,7 +3496,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001671584&owner=exclude&hidefilings=0",
       "tickers": [
         "APVO"
@@ -3172,7 +3516,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001662774&owner=exclude&hidefilings=0",
       "tickers": [
         "QNCX"
@@ -3192,7 +3536,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001662579&owner=exclude&hidefilings=0",
       "tickers": [
         "CCCC"
@@ -3212,7 +3556,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001658678&owner=exclude&hidefilings=0",
       "tickers": [
         "BSEM"
@@ -3232,7 +3576,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001658551&owner=exclude&hidefilings=0",
       "tickers": [
         "AMLX"
@@ -3252,7 +3596,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001655923&owner=exclude&hidefilings=0",
       "tickers": [
         "ACOG"
@@ -3272,7 +3616,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001655759&owner=exclude&hidefilings=0",
       "tickers": [
         "ARVN"
@@ -3292,7 +3636,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001653087&owner=exclude&hidefilings=0",
       "tickers": [
         "ALEC"
@@ -3312,7 +3656,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001652935&owner=exclude&hidefilings=0",
       "tickers": [
         "ACTU"
@@ -3332,7 +3676,7 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001652130&owner=exclude&hidefilings=0",
       "tickers": [
         "NTLA"
@@ -3352,7 +3696,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001651625&owner=exclude&hidefilings=0",
       "tickers": [
         "ACIU"
@@ -3361,6 +3705,28 @@
         "Nasdaq"
       ],
       "secName": "AC Immune SA"
+    },
+    {
+      "cik": "0001651308",
+      "companyName": "BeOne Medicines Ltd.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001651308&owner=exclude&hidefilings=0",
+      "tickers": [
+        "ONC",
+        "BEIGF"
+      ],
+      "exchanges": [
+        "Nasdaq",
+        "OTC"
+      ],
+      "secName": "BeOne Medicines Ltd."
     },
     {
       "cik": "0001650664",
@@ -3372,7 +3738,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001650664&owner=exclude&hidefilings=0",
       "tickers": [
         "EDIT"
@@ -3392,7 +3758,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001650648&owner=exclude&hidefilings=0",
       "tickers": [
         "FDMT"
@@ -3412,7 +3778,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001649989&owner=exclude&hidefilings=0",
       "tickers": [
         "OTLK"
@@ -3432,7 +3798,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001649094&owner=exclude&hidefilings=0",
       "tickers": [
         "PCVX"
@@ -3452,7 +3818,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001644963&owner=exclude&hidefilings=0",
       "tickers": [
         "ATXI"
@@ -3461,6 +3827,26 @@
         "OTC"
       ],
       "secName": "AVENUE THERAPEUTICS, INC."
+    },
+    {
+      "cik": "0001643918",
+      "companyName": "Biodexa Pharmaceuticals Plc",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001643918&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BDRX"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "Biodexa Pharmaceuticals Plc"
     },
     {
       "cik": "0001642380",
@@ -3472,7 +3858,7 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001642380&owner=exclude&hidefilings=0",
       "tickers": [
         "IMDX"
@@ -3481,6 +3867,26 @@
         "Nasdaq"
       ],
       "secName": "Insight Molecular Diagnostics Inc."
+    },
+    {
+      "cik": "0001641281",
+      "companyName": "Bolt Biotherapeutics, Inc.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001641281&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BOLT"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "Bolt Biotherapeutics, Inc."
     },
     {
       "cik": "0001640266",
@@ -3492,7 +3898,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001640266&owner=exclude&hidefilings=0",
       "tickers": [
         "VYGR"
@@ -3512,7 +3918,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001638097&owner=exclude&hidefilings=0",
       "tickers": [
         "ENTX"
@@ -3532,7 +3938,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001628171&owner=exclude&hidefilings=0",
       "tickers": [
         "RVMD",
@@ -3553,7 +3959,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001627281&owner=exclude&hidefilings=0",
       "tickers": [
         "CLLS"
@@ -3573,7 +3979,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001622229&owner=exclude&hidefilings=0",
       "tickers": [
         "COGT"
@@ -3593,7 +3999,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001621227&owner=exclude&hidefilings=0",
       "tickers": [
         "ADAPY"
@@ -3613,7 +4019,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001621221&owner=exclude&hidefilings=0",
       "tickers": [
         "ARTL"
@@ -3633,7 +4039,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001620463&owner=exclude&hidefilings=0",
       "tickers": [
         "LONA"
@@ -3653,7 +4059,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001619856&owner=exclude&hidefilings=0",
       "tickers": [
         "CRBU"
@@ -3673,7 +4079,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001613780&owner=exclude&hidefilings=0",
       "tickers": [
         "DBVT",
@@ -3695,7 +4101,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001612042&owner=exclude&hidefilings=0",
       "tickers": [
         "ASND"
@@ -3715,7 +4121,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001611747&owner=exclude&hidefilings=0",
       "tickers": [
         "SCNI"
@@ -3724,6 +4130,28 @@
         "Nasdaq"
       ],
       "secName": "Scinai Immunotherapeutics Ltd."
+    },
+    {
+      "cik": "0001610820",
+      "companyName": "BriaCell Therapeutics Corp.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001610820&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BCTX",
+        "BCTXL",
+        "BCTXZ"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "BriaCell Therapeutics Corp."
     },
     {
       "cik": "0001604464",
@@ -3735,7 +4163,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001604464&owner=exclude&hidefilings=0",
       "tickers": [
         "ATRA"
@@ -3755,7 +4183,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001603345&owner=exclude&hidefilings=0",
       "tickers": [
         "AGTX"
@@ -3775,7 +4203,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001601936&owner=exclude&hidefilings=0",
       "tickers": [
         "CYTOF"
@@ -3795,7 +4223,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001601830&owner=exclude&hidefilings=0",
       "tickers": [
         "RXRX"
@@ -3815,7 +4243,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001600620&owner=exclude&hidefilings=0",
       "tickers": [
         "AUPH"
@@ -3835,7 +4263,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001598599&owner=exclude&hidefilings=0",
       "tickers": [
         "IPHA",
@@ -3848,26 +4276,6 @@
       "secName": "Innate Pharma SA"
     },
     {
-      "cik": "0001593984",
-      "companyName": "MediWound Ltd.",
-      "form": null,
-      "sicCodes": [
-        "2833"
-      ],
-      "sicLabels": [
-        "Medicinal Chemicals and Botanical Products"
-      ],
-      "observedAt": "2026-08-17",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001593984&owner=exclude&hidefilings=0",
-      "tickers": [
-        "MDWD"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "MediWound Ltd."
-    },
-    {
       "cik": "0001593899",
       "companyName": "Atea Pharmaceuticals, Inc.",
       "form": null,
@@ -3877,7 +4285,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001593899&owner=exclude&hidefilings=0",
       "tickers": [
         "AVIR"
@@ -3897,7 +4305,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001590877&owner=exclude&hidefilings=0",
       "tickers": [
         "RGNX"
@@ -3906,26 +4314,6 @@
         "Nasdaq"
       ],
       "secName": "REGENXBIO Inc."
-    },
-    {
-      "cik": "0001586554",
-      "companyName": "Target Group Inc.",
-      "form": null,
-      "sicCodes": [
-        "2833"
-      ],
-      "sicLabels": [
-        "Medicinal Chemicals and Botanical Products"
-      ],
-      "observedAt": "2026-08-17",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001586554&owner=exclude&hidefilings=0",
-      "tickers": [
-        "CBDY"
-      ],
-      "exchanges": [
-        "OTC"
-      ],
-      "secName": "Target Group Inc."
     },
     {
       "cik": "0001581280",
@@ -3937,7 +4325,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001581280&owner=exclude&hidefilings=0",
       "tickers": [
         "TWST"
@@ -3946,6 +4334,27 @@
         "Nasdaq"
       ],
       "secName": "Twist Bioscience Corp"
+    },
+    {
+      "cik": "0001580149",
+      "companyName": "BIOVIE INC.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001580149&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BIVI",
+        "BIVIW"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "BIOVIE INC."
     },
     {
       "cik": "0001579428",
@@ -3957,7 +4366,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001579428&owner=exclude&hidefilings=0",
       "tickers": [
         "AXSM"
@@ -3977,7 +4386,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001576885&owner=exclude&hidefilings=0",
       "tickers": [
         "ABOS"
@@ -3986,6 +4395,26 @@
         "Nasdaq"
       ],
       "secName": "Acumen Pharmaceuticals, Inc."
+    },
+    {
+      "cik": "0001575142",
+      "companyName": "BIOADAPTIVES, INC.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001575142&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BDPT"
+      ],
+      "exchanges": [
+        "OTC"
+      ],
+      "secName": "BIOADAPTIVES, INC."
     },
     {
       "cik": "0001574232",
@@ -3997,7 +4426,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001574232&owner=exclude&hidefilings=0",
       "tickers": [
         "ADXN"
@@ -4017,7 +4446,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001569340&owner=exclude&hidefilings=0",
       "tickers": [
         "CLCS"
@@ -4026,6 +4455,26 @@
         "OTC"
       ],
       "secName": "Cell Source, Inc."
+    },
+    {
+      "cik": "0001568628",
+      "companyName": "Bioquest Corp",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001568628&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BQST"
+      ],
+      "exchanges": [
+        "OTC"
+      ],
+      "secName": "Bioquest Corp"
     },
     {
       "cik": "0001567264",
@@ -4037,7 +4486,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001567264&owner=exclude&hidefilings=0",
       "tickers": [
         "INTS"
@@ -4046,26 +4495,6 @@
         "Nasdaq"
       ],
       "secName": "INTENSITY THERAPEUTICS, INC."
-    },
-    {
-      "cik": "0001562733",
-      "companyName": "Synergy CHC Corp.",
-      "form": null,
-      "sicCodes": [
-        "2833"
-      ],
-      "sicLabels": [
-        "Medicinal Chemicals and Botanical Products"
-      ],
-      "observedAt": "2026-08-17",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001562733&owner=exclude&hidefilings=0",
-      "tickers": [
-        "SNYR"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "Synergy CHC Corp."
     },
     {
       "cik": "0001557746",
@@ -4077,7 +4506,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001557746&owner=exclude&hidefilings=0",
       "tickers": [
         "ACRS"
@@ -4097,7 +4526,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001557376&owner=exclude&hidefilings=0",
       "tickers": [
         "ZEOX"
@@ -4106,26 +4535,6 @@
         "OTC"
       ],
       "secName": "Zeo ScientifiX, Inc."
-    },
-    {
-      "cik": "0001552189",
-      "companyName": "PANACEA LIFE SCIENCES HOLDINGS, INC.",
-      "form": null,
-      "sicCodes": [
-        "2833"
-      ],
-      "sicLabels": [
-        "Medicinal Chemicals and Botanical Products"
-      ],
-      "observedAt": "2026-08-17",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001552189&owner=exclude&hidefilings=0",
-      "tickers": [
-        "PLSH"
-      ],
-      "exchanges": [
-        "OTC"
-      ],
-      "secName": "PANACEA LIFE SCIENCES HOLDINGS, INC."
     },
     {
       "cik": "0001551152",
@@ -4137,7 +4546,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&owner=exclude&hidefilings=0",
       "tickers": [
         "ABBV"
@@ -4157,7 +4566,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001541157&owner=exclude&hidefilings=0",
       "tickers": [
         "AKTX"
@@ -4177,7 +4586,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001540171&owner=exclude&hidefilings=0",
       "tickers": [
         "AVLN"
@@ -4186,6 +4595,26 @@
         "Nasdaq"
       ],
       "secName": "Avalyn Pharma Inc."
+    },
+    {
+      "cik": "0001536196",
+      "companyName": "Can-Fite BioPharma Ltd.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001536196&owner=exclude&hidefilings=0",
+      "tickers": [
+        "CANF"
+      ],
+      "exchanges": [
+        "NYSE"
+      ],
+      "secName": "Can-Fite BioPharma Ltd."
     },
     {
       "cik": "0001534248",
@@ -4197,7 +4626,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001534248&owner=exclude&hidefilings=0",
       "tickers": [
         "CMMB"
@@ -4206,6 +4635,26 @@
         "Nasdaq"
       ],
       "secName": "Chemomab Therapeutics Ltd."
+    },
+    {
+      "cik": "0001534133",
+      "companyName": "CalciMedica, Inc.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001534133&owner=exclude&hidefilings=0",
+      "tickers": [
+        "CALC"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "CalciMedica, Inc."
     },
     {
       "cik": "0001534120",
@@ -4217,7 +4666,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001534120&owner=exclude&hidefilings=0",
       "tickers": [
         "AVTX"
@@ -4237,7 +4686,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001528115&owner=exclude&hidefilings=0",
       "tickers": [
         "ANNX"
@@ -4246,26 +4695,6 @@
         "Nasdaq"
       ],
       "secName": "Annexon, Inc."
-    },
-    {
-      "cik": "0001522767",
-      "companyName": "MARIMED INC.",
-      "form": null,
-      "sicCodes": [
-        "2833"
-      ],
-      "sicLabels": [
-        "Medicinal Chemicals and Botanical Products"
-      ],
-      "observedAt": "2026-08-17",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001522767&owner=exclude&hidefilings=0",
-      "tickers": [
-        "MRMD"
-      ],
-      "exchanges": [
-        "OTC"
-      ],
-      "secName": "MARIMED INC."
     },
     {
       "cik": "0001521036",
@@ -4277,7 +4706,7 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001521036&owner=exclude&hidefilings=0",
       "tickers": [
         "LNTH"
@@ -4297,7 +4726,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001520262&owner=exclude&hidefilings=0",
       "tickers": [
         "ALKS"
@@ -4317,7 +4746,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001517022&owner=exclude&hidefilings=0",
       "tickers": [
         "AKBA"
@@ -4337,7 +4766,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001514946&owner=exclude&hidefilings=0",
       "tickers": [
         "AXIM"
@@ -4357,7 +4786,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001513525&owner=exclude&hidefilings=0",
       "tickers": [
         "ADIL"
@@ -4366,26 +4795,6 @@
         "Nasdaq"
       ],
       "secName": "ADIAL PHARMACEUTICALS, INC."
-    },
-    {
-      "cik": "0001512886",
-      "companyName": "NEUTRA CORP.",
-      "form": null,
-      "sicCodes": [
-        "2833"
-      ],
-      "sicLabels": [
-        "Medicinal Chemicals and Botanical Products"
-      ],
-      "observedAt": "2026-08-17",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001512886&owner=exclude&hidefilings=0",
-      "tickers": [
-        "NTRR"
-      ],
-      "exchanges": [
-        "OTC"
-      ],
-      "secName": "NEUTRA CORP."
     },
     {
       "cik": "0001512762",
@@ -4397,7 +4806,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001512762&owner=exclude&hidefilings=0",
       "tickers": [
         "CHRS"
@@ -4417,7 +4826,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001506251&owner=exclude&hidefilings=0",
       "tickers": [
         "CTXR"
@@ -4437,7 +4846,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001501796&owner=exclude&hidefilings=0",
       "tickers": [
         "AURA"
@@ -4457,7 +4866,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001501697&owner=exclude&hidefilings=0",
       "tickers": [
         "XFOR"
@@ -4466,6 +4875,26 @@
         "Nasdaq"
       ],
       "secName": "X4 Pharmaceuticals, Inc"
+    },
+    {
+      "cik": "0001498403",
+      "companyName": "BioLineRx Ltd.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001498403&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BLRX"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "BioLineRx Ltd."
     },
     {
       "cik": "0001497253",
@@ -4477,7 +4906,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001497253&owner=exclude&hidefilings=0",
       "tickers": [
         "VIVS"
@@ -4497,7 +4926,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001488039&owner=exclude&hidefilings=0",
       "tickers": [
         "ATOS"
@@ -4517,7 +4946,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001478320&owner=exclude&hidefilings=0",
       "tickers": [
         "ADPT"
@@ -4537,7 +4966,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001477845&owner=exclude&hidefilings=0",
       "tickers": [
         "ANVS"
@@ -4557,7 +4986,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001468748&owner=exclude&hidefilings=0",
       "tickers": [
         "KOD"
@@ -4566,6 +4995,26 @@
         "Nasdaq"
       ],
       "secName": "Kodiak Sciences Inc."
+    },
+    {
+      "cik": "0001464165",
+      "companyName": "BetterLife Pharma Inc.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001464165&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BETRF"
+      ],
+      "exchanges": [
+        "OTC"
+      ],
+      "secName": "BetterLife Pharma Inc."
     },
     {
       "cik": "0001455365",
@@ -4577,7 +5026,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001455365&owner=exclude&hidefilings=0",
       "tickers": [
         "CGTX"
@@ -4597,7 +5046,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001453687&owner=exclude&hidefilings=0",
       "tickers": [
         "RNAC"
@@ -4617,7 +5066,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001447028&owner=exclude&hidefilings=0",
       "tickers": [
         "ABUS"
@@ -4626,6 +5075,26 @@
         "Nasdaq"
       ],
       "secName": "Arbutus Biopharma Corp"
+    },
+    {
+      "cik": "0001445815",
+      "companyName": "BIOXYTRAN, INC",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001445815&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BIXT"
+      ],
+      "exchanges": [
+        "OTC"
+      ],
+      "secName": "BIOXYTRAN, INC"
     },
     {
       "cik": "0001439222",
@@ -4637,7 +5106,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001439222&owner=exclude&hidefilings=0",
       "tickers": [
         "AGIO"
@@ -4657,7 +5126,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001437402&owner=exclude&hidefilings=0",
       "tickers": [
         "ARDX"
@@ -4677,7 +5146,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001434316&owner=exclude&hidefilings=0",
       "tickers": [
         "FATE"
@@ -4697,7 +5166,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001426800&owner=exclude&hidefilings=0",
       "tickers": [
         "ASMB"
@@ -4717,7 +5186,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001425205&owner=exclude&hidefilings=0",
       "tickers": [
         "IOVA"
@@ -4726,26 +5195,6 @@
         "Nasdaq"
       ],
       "secName": "IOVANCE BIOTHERAPEUTICS, INC."
-    },
-    {
-      "cik": "0001415397",
-      "companyName": "Raphael Pharmaceutical Inc.",
-      "form": null,
-      "sicCodes": [
-        "2833"
-      ],
-      "sicLabels": [
-        "Medicinal Chemicals and Botanical Products"
-      ],
-      "observedAt": "2026-08-17",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001415397&owner=exclude&hidefilings=0",
-      "tickers": [
-        "RAPH"
-      ],
-      "exchanges": [
-        "OTC"
-      ],
-      "secName": "Raphael Pharmaceutical Inc."
     },
     {
       "cik": "0001412486",
@@ -4757,7 +5206,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001412486&owner=exclude&hidefilings=0",
       "tickers": [
         "COCP"
@@ -4766,6 +5215,26 @@
         "Nasdaq"
       ],
       "secName": "Cocrystal Pharma, Inc."
+    },
+    {
+      "cik": "0001409197",
+      "companyName": "Bespoke Extracts, Inc.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001409197&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BSPK"
+      ],
+      "exchanges": [
+        "OTC"
+      ],
+      "secName": "Bespoke Extracts, Inc."
     },
     {
       "cik": "0001400271",
@@ -4777,7 +5246,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001400271&owner=exclude&hidefilings=0",
       "tickers": [
         "CUBT"
@@ -4797,7 +5266,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001398733&owner=exclude&hidefilings=0",
       "tickers": [
         "AQST"
@@ -4817,7 +5286,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001392449&owner=exclude&hidefilings=0",
       "tickers": [
         "GPLB"
@@ -4837,7 +5306,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001388320&owner=exclude&hidefilings=0",
       "tickers": [
         "ATNM"
@@ -4846,26 +5315,6 @@
         "NYSE"
       ],
       "secName": "Actinium Pharmaceuticals, Inc."
-    },
-    {
-      "cik": "0001386570",
-      "companyName": "Niagen Bioscience, Inc.",
-      "form": null,
-      "sicCodes": [
-        "2833"
-      ],
-      "sicLabels": [
-        "Medicinal Chemicals and Botanical Products"
-      ],
-      "observedAt": "2026-08-17",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001386570&owner=exclude&hidefilings=0",
-      "tickers": [
-        "NAGE"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "Niagen Bioscience, Inc."
     },
     {
       "cik": "0001385818",
@@ -4877,7 +5326,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001385818&owner=exclude&hidefilings=0",
       "tickers": [
         "AYTU"
@@ -4897,7 +5346,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001382101&owner=exclude&hidefilings=0",
       "tickers": [
         "STRO"
@@ -4917,7 +5366,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001372299&owner=exclude&hidefilings=0",
       "tickers": [
         "OCGN"
@@ -4937,7 +5386,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001370053&owner=exclude&hidefilings=0",
       "tickers": [
         "ANAB"
@@ -4957,7 +5406,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001368514&owner=exclude&hidefilings=0",
       "tickers": [
         "ADMA"
@@ -4977,7 +5426,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001359931&owner=exclude&hidefilings=0",
       "tickers": [
         "TARA"
@@ -4997,7 +5446,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001357874&owner=exclude&hidefilings=0",
       "tickers": [
         "DTIL"
@@ -5017,7 +5466,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001357459&owner=exclude&hidefilings=0",
       "tickers": [
         "PALI"
@@ -5037,7 +5486,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001355736&owner=exclude&hidefilings=0",
       "tickers": [
         "AVCRF"
@@ -5055,7 +5504,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001345099&owner=exclude&hidefilings=0",
       "tickers": [
         "MESO",
@@ -5077,7 +5526,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001343009&owner=exclude&hidefilings=0",
       "tickers": [
         "CNBX"
@@ -5097,7 +5546,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001341235&owner=exclude&hidefilings=0",
       "tickers": [
         "ALDX"
@@ -5117,7 +5566,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001339970&owner=exclude&hidefilings=0",
       "tickers": [
         "ATYR"
@@ -5137,7 +5586,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001326190&owner=exclude&hidefilings=0",
       "tickers": [
         "ALT"
@@ -5157,7 +5606,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001326110&owner=exclude&hidefilings=0",
       "tickers": [
         "IBRX"
@@ -5177,7 +5626,7 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001321834&owner=exclude&hidefilings=0",
       "tickers": [
         "QCLS"
@@ -5197,7 +5646,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001314052&owner=exclude&hidefilings=0",
       "tickers": [
         "AVXL"
@@ -5217,7 +5666,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001297184&owner=exclude&hidefilings=0",
       "tickers": [
         "AMPH"
@@ -5237,7 +5686,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001279704&owner=exclude&hidefilings=0",
       "tickers": [
         "CLRB"
@@ -5257,7 +5706,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001213809&owner=exclude&hidefilings=0",
       "tickers": [
         "DYAI"
@@ -5277,7 +5726,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001213037&owner=exclude&hidefilings=0",
       "tickers": [
         "CRDF"
@@ -5297,7 +5746,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001211583&owner=exclude&hidefilings=0",
       "tickers": [
         "FENC"
@@ -5317,7 +5766,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001187953&owner=exclude&hidefilings=0",
       "tickers": [
         "CELZ"
@@ -5337,7 +5786,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001178670&owner=exclude&hidefilings=0",
       "tickers": [
         "ALNY"
@@ -5357,13 +5806,15 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001173313&owner=exclude&hidefilings=0",
       "tickers": [
-        "ABVC"
+        "ABVC",
+        "ECOC"
       ],
       "exchanges": [
-        "Nasdaq"
+        "Nasdaq",
+        "OTC"
       ],
       "secName": "ABVC BIOPHARMA, INC."
     },
@@ -5377,7 +5828,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001159036&owner=exclude&hidefilings=0",
       "tickers": [
         "HALO"
@@ -5397,7 +5848,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001158780&owner=exclude&hidefilings=0",
       "tickers": [
         "PLUR"
@@ -5417,7 +5868,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001157075&owner=exclude&hidefilings=0",
       "tickers": [
         "PMCB"
@@ -5437,7 +5888,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001137883&owner=exclude&hidefilings=0",
       "tickers": [
         "BCLI"
@@ -5457,7 +5908,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001133869&owner=exclude&hidefilings=0",
       "tickers": [
         "CAPR"
@@ -5466,6 +5917,26 @@
         "Nasdaq"
       ],
       "secName": "CAPRICOR THERAPEUTICS, INC."
+    },
+    {
+      "cik": "0001133818",
+      "companyName": "BIO-PATH HOLDINGS, INC.",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001133818&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BPTH"
+      ],
+      "exchanges": [
+        "OTC"
+      ],
+      "secName": "BIO-PATH HOLDINGS, INC."
     },
     {
       "cik": "0001131343",
@@ -5477,7 +5948,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001131343&owner=exclude&hidefilings=0",
       "tickers": [
         "ATHE",
@@ -5499,7 +5970,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001119774&owner=exclude&hidefilings=0",
       "tickers": [
         "CGEN"
@@ -5508,26 +5979,6 @@
         "Nasdaq"
       ],
       "secName": "COMPUGEN LTD"
-    },
-    {
-      "cik": "0001119643",
-      "companyName": "NUTRA PHARMA CORP",
-      "form": null,
-      "sicCodes": [
-        "2833"
-      ],
-      "sicLabels": [
-        "Medicinal Chemicals and Botanical Products"
-      ],
-      "observedAt": "2026-08-17",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001119643&owner=exclude&hidefilings=0",
-      "tickers": [
-        "NPHC"
-      ],
-      "exchanges": [
-        "OTC"
-      ],
-      "secName": "NUTRA PHARMA CORP"
     },
     {
       "cik": "0001108205",
@@ -5539,7 +5990,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001108205&owner=exclude&hidefilings=0",
       "tickers": [
         "CRIS"
@@ -5559,7 +6010,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001107421&owner=exclude&hidefilings=0",
       "tickers": [
         "TCRT"
@@ -5579,7 +6030,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001106644&owner=exclude&hidefilings=0",
       "tickers": [
         "CPHI"
@@ -5599,7 +6050,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001101026&owner=exclude&hidefilings=0",
       "tickers": [
         "ZIVO"
@@ -5619,7 +6070,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001098972&owner=exclude&hidefilings=0",
       "tickers": [
         "AGEN"
@@ -5639,7 +6090,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001098009&owner=exclude&hidefilings=0",
       "tickers": [
         "AAGH"
@@ -5659,7 +6110,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001081938&owner=exclude&hidefilings=0",
       "tickers": [
         "CPMD"
@@ -5679,7 +6130,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001070494&owner=exclude&hidefilings=0",
       "tickers": [
         "ACAD"
@@ -5699,7 +6150,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001053691&owner=exclude&hidefilings=0",
       "tickers": [
         "CRVO"
@@ -5708,6 +6159,26 @@
         "Nasdaq"
       ],
       "secName": "CervoMed Inc."
+    },
+    {
+      "cik": "0001048477",
+      "companyName": "BIOMARIN PHARMACEUTICAL INC",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001048477&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BMRN"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "BIOMARIN PHARMACEUTICAL INC"
     },
     {
       "cik": "0001035354",
@@ -5719,7 +6190,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001035354&owner=exclude&hidefilings=0",
       "tickers": [
         "ELOX"
@@ -5739,7 +6210,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001023024&owner=exclude&hidefilings=0",
       "tickers": [
         "ANIP"
@@ -5759,14 +6230,12 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001018735&owner=exclude&hidefilings=0",
       "tickers": [
         "NYMXF"
       ],
-      "exchanges": [
-        "OTC"
-      ],
+      "exchanges": [],
       "secName": "NYMOX PHARMACEUTICAL CORP"
     },
     {
@@ -5779,7 +6248,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001015820&owner=exclude&hidefilings=0",
       "tickers": [
         "QGEN"
@@ -5799,7 +6268,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001006281&owner=exclude&hidefilings=0",
       "tickers": [
         "PLX"
@@ -5819,7 +6288,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001001233&owner=exclude&hidefilings=0",
       "tickers": [
         "SGMOQ"
@@ -5839,7 +6308,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001000694&owner=exclude&hidefilings=0",
       "tickers": [
         "NVAX"
@@ -5859,7 +6328,7 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000949858&owner=exclude&hidefilings=0",
       "tickers": [
         "ACHV"
@@ -5879,7 +6348,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000946644&owner=exclude&hidefilings=0",
       "tickers": [
         "AIM"
@@ -5899,14 +6368,12 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000946486&owner=exclude&hidefilings=0",
       "tickers": [
         "WINT"
       ],
-      "exchanges": [
-        "OTC"
-      ],
+      "exchanges": [],
       "secName": "WINDTREE THERAPEUTICS INC /DE/"
     },
     {
@@ -5919,7 +6386,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000939767&owner=exclude&hidefilings=0",
       "tickers": [
         "EXEL"
@@ -5939,7 +6406,7 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000926617&owner=exclude&hidefilings=0",
       "tickers": [
         "AWHL"
@@ -5959,7 +6426,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000925741&owner=exclude&hidefilings=0",
       "tickers": [
         "BCDA"
@@ -5979,7 +6446,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000921114&owner=exclude&hidefilings=0",
       "tickers": [
         "ARMP"
@@ -5999,7 +6466,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000914475&owner=exclude&hidefilings=0",
       "tickers": [
         "NBIX"
@@ -6019,7 +6486,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&owner=exclude&hidefilings=0",
       "tickers": [
         "AZN"
@@ -6039,7 +6506,7 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000899923&owner=exclude&hidefilings=0",
       "tickers": [
         "MYGN"
@@ -6059,7 +6526,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000897448&owner=exclude&hidefilings=0",
       "tickers": [
         "AMRN"
@@ -6068,26 +6535,6 @@
         "Nasdaq"
       ],
       "secName": "AMARIN CORP PLC\\UK"
-    },
-    {
-      "cik": "0000896264",
-      "companyName": "USANA HEALTH SCIENCES INC",
-      "form": null,
-      "sicCodes": [
-        "2833"
-      ],
-      "sicLabels": [
-        "Medicinal Chemicals and Botanical Products"
-      ],
-      "observedAt": "2026-08-17",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000896264&owner=exclude&hidefilings=0",
-      "tickers": [
-        "USNA"
-      ],
-      "exchanges": [
-        "NYSE"
-      ],
-      "secName": "USANA HEALTH SCIENCES INC"
     },
     {
       "cik": "0000888721",
@@ -6099,7 +6546,7 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000888721&owner=exclude&hidefilings=0",
       "tickers": [
         "TRIB"
@@ -6119,7 +6566,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000887359&owner=exclude&hidefilings=0",
       "tickers": [
         "VCEL"
@@ -6139,7 +6586,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000885590&owner=exclude&hidefilings=0",
       "tickers": [
         "BHC"
@@ -6159,7 +6606,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000882796&owner=exclude&hidefilings=0",
       "tickers": [
         "BCRX"
@@ -6179,7 +6626,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000882095&owner=exclude&hidefilings=0",
       "tickers": [
         "GILD"
@@ -6199,7 +6646,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879407&owner=exclude&hidefilings=0",
       "tickers": [
         "ARWR"
@@ -6219,7 +6666,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000876343&owner=exclude&hidefilings=0",
       "tickers": [
         "LCTX"
@@ -6239,7 +6686,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000875045&owner=exclude&hidefilings=0",
       "tickers": [
         "BIIB"
@@ -6259,7 +6706,7 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000874716&owner=exclude&hidefilings=0",
       "tickers": [
         "IDXX"
@@ -6279,7 +6726,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000842023&owner=exclude&hidefilings=0",
       "tickers": [
         "TECH"
@@ -6299,7 +6746,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000836564&owner=exclude&hidefilings=0",
       "tickers": [
         "CPMV"
@@ -6319,7 +6766,7 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000811641&owner=exclude&hidefilings=0",
       "tickers": [
         "ICCC"
@@ -6328,26 +6775,6 @@
         "Nasdaq"
       ],
       "secName": "IMMUCELL CORP /DE/"
-    },
-    {
-      "cik": "0000787253",
-      "companyName": "NATURAL ALTERNATIVES INTERNATIONAL INC",
-      "form": null,
-      "sicCodes": [
-        "2833"
-      ],
-      "sicLabels": [
-        "Medicinal Chemicals and Botanical Products"
-      ],
-      "observedAt": "2026-08-17",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000787253&owner=exclude&hidefilings=0",
-      "tickers": [
-        "NAII"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "NATURAL ALTERNATIVES INTERNATIONAL INC"
     },
     {
       "cik": "0000771856",
@@ -6359,7 +6786,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000771856&owner=exclude&hidefilings=0",
       "tickers": [
         "CSBR"
@@ -6379,7 +6806,7 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000744218&owner=exclude&hidefilings=0",
       "tickers": [
         "CLDX"
@@ -6399,7 +6826,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000730272&owner=exclude&hidefilings=0",
       "tickers": [
         "RGEN"
@@ -6419,11 +6846,10 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000727510&owner=exclude&hidefilings=0",
       "tickers": [
-        "VISK",
-        "ENZN"
+        "VISK"
       ],
       "exchanges": [
         "OTC"
@@ -6440,7 +6866,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000725363&owner=exclude&hidefilings=0",
       "tickers": [
         "CVM"
@@ -6460,7 +6886,7 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000724445&owner=exclude&hidefilings=0",
       "tickers": [
         "BZYR"
@@ -6480,7 +6906,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000715446&owner=exclude&hidefilings=0",
       "tickers": [
         "ANIX"
@@ -6500,7 +6926,7 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000711377&owner=exclude&hidefilings=0",
       "tickers": [
         "NEOG"
@@ -6520,7 +6946,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000318306&owner=exclude&hidefilings=0",
       "tickers": [
         "ABEO"
@@ -6540,7 +6966,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000318154&owner=exclude&hidefilings=0",
       "tickers": [
         "AMGN"
@@ -6560,7 +6986,7 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000093314&owner=exclude&hidefilings=0",
       "tickers": [
         "VNRX"
@@ -6580,7 +7006,7 @@
       "sicLabels": [
         "In Vitro and In Vivo Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000073290&owner=exclude&hidefilings=0",
       "tickers": [
         "BMRA"
@@ -6600,7 +7026,7 @@
       "sicLabels": [
         "Biological Products, Except Diagnostic Substances"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000072444&owner=exclude&hidefilings=0",
       "tickers": [
         "VXRT"
@@ -6609,6 +7035,27 @@
         "OTC"
       ],
       "secName": "Vaxart, Inc."
+    },
+    {
+      "cik": "0000014272",
+      "companyName": "BRISTOL MYERS SQUIBB CO",
+      "form": null,
+      "sicCodes": [
+        "2834"
+      ],
+      "sicLabels": [
+        "Pharmaceutical Preparations"
+      ],
+      "observedAt": "2026-08-19",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&owner=exclude&hidefilings=0",
+      "tickers": [
+        "BMY",
+        "CELG-RI"
+      ],
+      "exchanges": [
+        "NYSE"
+      ],
+      "secName": "BRISTOL MYERS SQUIBB CO"
     },
     {
       "cik": "0000001800",
@@ -6620,7 +7067,7 @@
       "sicLabels": [
         "Pharmaceutical Preparations"
       ],
-      "observedAt": "2026-08-17",
+      "observedAt": "2026-08-19",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000001800&owner=exclude&hidefilings=0",
       "tickers": [
         "ABT"
@@ -6629,6 +7076,24 @@
         "NYSE"
       ],
       "secName": "ABBOTT LABORATORIES"
+    },
+    {
+      "cik": "0002100835",
+      "companyName": "NYB Holdings Ltd",
+      "form": null,
+      "sicCodes": [
+        "2833"
+      ],
+      "sicLabels": [
+        "Medicinal Chemicals and Botanical Products"
+      ],
+      "observedAt": "2026-08-18",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002100835&owner=exclude&hidefilings=0",
+      "tickers": [
+        "NYB"
+      ],
+      "exchanges": [],
+      "secName": "NYB Holdings Ltd"
     },
     {
       "cik": "0002000684",
@@ -6640,7 +7105,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002000684&owner=exclude&hidefilings=0",
       "tickers": [
         "DHGR",
@@ -6661,11 +7126,10 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001909747&owner=exclude&hidefilings=0",
       "tickers": [
-        "JUSH",
-        "JUSHF"
+        "JUSH"
       ],
       "exchanges": [
         "OTC"
@@ -6682,7 +7146,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001888014&owner=exclude&hidefilings=0",
       "tickers": [
         "AKAN"
@@ -6691,6 +7155,26 @@
         "Nasdaq"
       ],
       "secName": "AKANDA CORP."
+    },
+    {
+      "cik": "0001885680",
+      "companyName": "TFA Therapeutics, Inc.",
+      "form": null,
+      "sicCodes": [
+        "2833"
+      ],
+      "sicLabels": [
+        "Medicinal Chemicals and Botanical Products"
+      ],
+      "observedAt": "2026-08-18",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001885680&owner=exclude&hidefilings=0",
+      "tickers": [
+        "RAJAF"
+      ],
+      "exchanges": [
+        "OTC"
+      ],
+      "secName": "TFA Therapeutics, Inc."
     },
     {
       "cik": "0001879270",
@@ -6702,7 +7186,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001879270&owner=exclude&hidefilings=0",
       "tickers": [
         "TCRG"
@@ -6722,7 +7206,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001848731&owner=exclude&hidefilings=0",
       "tickers": [
         "GLAS"
@@ -6742,14 +7226,12 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001847462&owner=exclude&hidefilings=0",
       "tickers": [
         "AYRWF"
       ],
-      "exchanges": [
-        "OTC"
-      ],
+      "exchanges": [],
       "secName": "Ayr Wellness Inc."
     },
     {
@@ -6762,7 +7244,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001837254&owner=exclude&hidefilings=0",
       "tickers": [
         "MEHA"
@@ -6782,7 +7264,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001832928&owner=exclude&hidefilings=0",
       "tickers": [
         "CRLBF"
@@ -6791,6 +7273,26 @@
         "OTC"
       ],
       "secName": "Cresco Labs Inc."
+    },
+    {
+      "cik": "0001829667",
+      "companyName": "Regencell Bioscience Holdings Ltd",
+      "form": null,
+      "sicCodes": [
+        "2833"
+      ],
+      "sicLabels": [
+        "Medicinal Chemicals and Botanical Products"
+      ],
+      "observedAt": "2026-08-18",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001829667&owner=exclude&hidefilings=0",
+      "tickers": [
+        "RGC"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "Regencell Bioscience Holdings Ltd"
     },
     {
       "cik": "0001819253",
@@ -6802,7 +7304,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001819253&owner=exclude&hidefilings=0",
       "tickers": [
         "BTMD"
@@ -6822,7 +7324,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001816815&owner=exclude&hidefilings=0",
       "tickers": [
         "BON"
@@ -6842,7 +7344,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001813814&owner=exclude&hidefilings=0",
       "tickers": [
         "DFTX"
@@ -6862,7 +7364,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001792030&owner=exclude&hidefilings=0",
       "tickers": [
         "IMCC"
@@ -6882,7 +7384,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001776073&owner=exclude&hidefilings=0",
       "tickers": [
         "CBDL"
@@ -6891,6 +7393,26 @@
         "OTC"
       ],
       "secName": "CBD Life Sciences Inc."
+    },
+    {
+      "cik": "0001766600",
+      "companyName": "SNDL Inc.",
+      "form": null,
+      "sicCodes": [
+        "2833"
+      ],
+      "sicLabels": [
+        "Medicinal Chemicals and Botanical Products"
+      ],
+      "observedAt": "2026-08-18",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001766600&owner=exclude&hidefilings=0",
+      "tickers": [
+        "SNDL"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "SNDL Inc."
     },
     {
       "cik": "0001763329",
@@ -6902,7 +7424,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001763329&owner=exclude&hidefilings=0",
       "tickers": [
         "AIBT"
@@ -6922,7 +7444,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001756770&owner=exclude&hidefilings=0",
       "tickers": [
         "CURLF"
@@ -6942,7 +7464,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001756390&owner=exclude&hidefilings=0",
       "tickers": [
         "AAWH"
@@ -6951,6 +7473,26 @@
         "OTC"
       ],
       "secName": "Ascend Wellness Holdings, Inc."
+    },
+    {
+      "cik": "0001754195",
+      "companyName": "Trulieve Cannabis Corp.",
+      "form": null,
+      "sicCodes": [
+        "2833"
+      ],
+      "sicLabels": [
+        "Medicinal Chemicals and Botanical Products"
+      ],
+      "observedAt": "2026-08-18",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001754195&owner=exclude&hidefilings=0",
+      "tickers": [
+        "TRLV"
+      ],
+      "exchanges": [
+        "NYSE"
+      ],
+      "secName": "Trulieve Cannabis Corp."
     },
     {
       "cik": "0001737927",
@@ -6962,7 +7504,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001737927&owner=exclude&hidefilings=0",
       "tickers": [
         "CGC"
@@ -6971,6 +7513,26 @@
         "Nasdaq"
       ],
       "secName": "Canopy Growth Corp"
+    },
+    {
+      "cik": "0001731348",
+      "companyName": "Tilray Brands, Inc.",
+      "form": null,
+      "sicCodes": [
+        "2833"
+      ],
+      "sicLabels": [
+        "Medicinal Chemicals and Botanical Products"
+      ],
+      "observedAt": "2026-08-18",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001731348&owner=exclude&hidefilings=0",
+      "tickers": [
+        "TLRY"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "Tilray Brands, Inc."
     },
     {
       "cik": "0001711141",
@@ -6982,7 +7544,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001711141&owner=exclude&hidefilings=0",
       "tickers": [
         "LEEEF"
@@ -7002,7 +7564,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683541&owner=exclude&hidefilings=0",
       "tickers": [
         "ACB"
@@ -7022,7 +7584,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001656472&owner=exclude&hidefilings=0",
       "tickers": [
         "CRON"
@@ -7042,7 +7604,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001630176&owner=exclude&hidefilings=0",
       "tickers": [
         "HYEX"
@@ -7051,6 +7613,126 @@
         "OTC"
       ],
       "secName": "HEALTHY EXTRACTS INC."
+    },
+    {
+      "cik": "0001593984",
+      "companyName": "MediWound Ltd.",
+      "form": null,
+      "sicCodes": [
+        "2833"
+      ],
+      "sicLabels": [
+        "Medicinal Chemicals and Botanical Products"
+      ],
+      "observedAt": "2026-08-18",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001593984&owner=exclude&hidefilings=0",
+      "tickers": [
+        "MDWD"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "MediWound Ltd."
+    },
+    {
+      "cik": "0001586554",
+      "companyName": "Target Group Inc.",
+      "form": null,
+      "sicCodes": [
+        "2833"
+      ],
+      "sicLabels": [
+        "Medicinal Chemicals and Botanical Products"
+      ],
+      "observedAt": "2026-08-18",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001586554&owner=exclude&hidefilings=0",
+      "tickers": [
+        "CBDY"
+      ],
+      "exchanges": [
+        "OTC"
+      ],
+      "secName": "Target Group Inc."
+    },
+    {
+      "cik": "0001562733",
+      "companyName": "Synergy CHC Corp.",
+      "form": null,
+      "sicCodes": [
+        "2833"
+      ],
+      "sicLabels": [
+        "Medicinal Chemicals and Botanical Products"
+      ],
+      "observedAt": "2026-08-18",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001562733&owner=exclude&hidefilings=0",
+      "tickers": [
+        "SNYR"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "Synergy CHC Corp."
+    },
+    {
+      "cik": "0001552189",
+      "companyName": "PANACEA LIFE SCIENCES HOLDINGS, INC.",
+      "form": null,
+      "sicCodes": [
+        "2833"
+      ],
+      "sicLabels": [
+        "Medicinal Chemicals and Botanical Products"
+      ],
+      "observedAt": "2026-08-18",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001552189&owner=exclude&hidefilings=0",
+      "tickers": [
+        "PLSH"
+      ],
+      "exchanges": [
+        "OTC"
+      ],
+      "secName": "PANACEA LIFE SCIENCES HOLDINGS, INC."
+    },
+    {
+      "cik": "0001522767",
+      "companyName": "MARIMED INC.",
+      "form": null,
+      "sicCodes": [
+        "2833"
+      ],
+      "sicLabels": [
+        "Medicinal Chemicals and Botanical Products"
+      ],
+      "observedAt": "2026-08-18",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001522767&owner=exclude&hidefilings=0",
+      "tickers": [
+        "MRMD"
+      ],
+      "exchanges": [
+        "OTC"
+      ],
+      "secName": "MARIMED INC."
+    },
+    {
+      "cik": "0001512886",
+      "companyName": "NEUTRA CORP.",
+      "form": null,
+      "sicCodes": [
+        "2833"
+      ],
+      "sicLabels": [
+        "Medicinal Chemicals and Botanical Products"
+      ],
+      "observedAt": "2026-08-18",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001512886&owner=exclude&hidefilings=0",
+      "tickers": [
+        "NTRR"
+      ],
+      "exchanges": [
+        "OTC"
+      ],
+      "secName": "NEUTRA CORP."
     },
     {
       "cik": "0001420108",
@@ -7062,7 +7744,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001420108&owner=exclude&hidefilings=0",
       "tickers": [
         "GLUC"
@@ -7071,6 +7753,46 @@
         "OTC"
       ],
       "secName": "Glucose Health, Inc."
+    },
+    {
+      "cik": "0001415397",
+      "companyName": "Raphael Pharmaceutical Inc.",
+      "form": null,
+      "sicCodes": [
+        "2833"
+      ],
+      "sicLabels": [
+        "Medicinal Chemicals and Botanical Products"
+      ],
+      "observedAt": "2026-08-18",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001415397&owner=exclude&hidefilings=0",
+      "tickers": [
+        "RAPH"
+      ],
+      "exchanges": [
+        "OTC"
+      ],
+      "secName": "Raphael Pharmaceutical Inc."
+    },
+    {
+      "cik": "0001386570",
+      "companyName": "Niagen Bioscience, Inc.",
+      "form": null,
+      "sicCodes": [
+        "2833"
+      ],
+      "sicLabels": [
+        "Medicinal Chemicals and Botanical Products"
+      ],
+      "observedAt": "2026-08-18",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001386570&owner=exclude&hidefilings=0",
+      "tickers": [
+        "NAGE"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "Niagen Bioscience, Inc."
     },
     {
       "cik": "0001374328",
@@ -7082,7 +7804,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001374328&owner=exclude&hidefilings=0",
       "tickers": [
         "FTLF"
@@ -7102,7 +7824,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001310630&owner=exclude&hidefilings=0",
       "tickers": [
         "CFOO"
@@ -7122,7 +7844,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001160420&owner=exclude&hidefilings=0",
       "tickers": [
         "ADIA"
@@ -7142,7 +7864,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001134765&owner=exclude&hidefilings=0",
       "tickers": [
         "CHUC"
@@ -7151,6 +7873,26 @@
         "OTC"
       ],
       "secName": "Charlie's Holdings, Inc."
+    },
+    {
+      "cik": "0001119643",
+      "companyName": "NUTRA PHARMA CORP",
+      "form": null,
+      "sicCodes": [
+        "2833"
+      ],
+      "sicLabels": [
+        "Medicinal Chemicals and Botanical Products"
+      ],
+      "observedAt": "2026-08-18",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001119643&owner=exclude&hidefilings=0",
+      "tickers": [
+        "NPHC"
+      ],
+      "exchanges": [
+        "OTC"
+      ],
+      "secName": "NUTRA PHARMA CORP"
     },
     {
       "cik": "0001056358",
@@ -7162,7 +7904,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001056358&owner=exclude&hidefilings=0",
       "tickers": [
         "MTEX"
@@ -7171,6 +7913,26 @@
         "Nasdaq"
       ],
       "secName": "MANNATECH INC"
+    },
+    {
+      "cik": "0000896264",
+      "companyName": "USANA HEALTH SCIENCES INC",
+      "form": null,
+      "sicCodes": [
+        "2833"
+      ],
+      "sicLabels": [
+        "Medicinal Chemicals and Botanical Products"
+      ],
+      "observedAt": "2026-08-18",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000896264&owner=exclude&hidefilings=0",
+      "tickers": [
+        "USNA"
+      ],
+      "exchanges": [
+        "NYSE"
+      ],
+      "secName": "USANA HEALTH SCIENCES INC"
     },
     {
       "cik": "0000831609",
@@ -7182,7 +7944,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000831609&owner=exclude&hidefilings=0",
       "tickers": [
         "CXXIF",
@@ -7194,6 +7956,26 @@
       "secName": "C21 Investments Inc."
     },
     {
+      "cik": "0000787253",
+      "companyName": "NATURAL ALTERNATIVES INTERNATIONAL INC",
+      "form": null,
+      "sicCodes": [
+        "2833"
+      ],
+      "sicLabels": [
+        "Medicinal Chemicals and Botanical Products"
+      ],
+      "observedAt": "2026-08-18",
+      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000787253&owner=exclude&hidefilings=0",
+      "tickers": [
+        "NAII"
+      ],
+      "exchanges": [
+        "Nasdaq"
+      ],
+      "secName": "NATURAL ALTERNATIVES INTERNATIONAL INC"
+    },
+    {
       "cik": "0000768408",
       "companyName": "CYANOTECH CORP",
       "form": null,
@@ -7203,7 +7985,7 @@
       "sicLabels": [
         "Medicinal Chemicals and Botanical Products"
       ],
-      "observedAt": "2026-08-16",
+      "observedAt": "2026-08-18",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000768408&owner=exclude&hidefilings=0",
       "tickers": [
         "CYAN"
@@ -7212,794 +7994,6 @@
         "OTC"
       ],
       "secName": "CYANOTECH CORP"
-    },
-    {
-      "cik": "0002131524",
-      "companyName": "Braveheart Bio, Inc.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002131524&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BRVE"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "Braveheart Bio, Inc."
-    },
-    {
-      "cik": "0002023658",
-      "companyName": "Bicara Therapeutics Inc.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002023658&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BCAX"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "Bicara Therapeutics Inc."
-    },
-    {
-      "cik": "0001937993",
-      "companyName": "Cadrenal Therapeutics, Inc.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001937993&owner=exclude&hidefilings=0",
-      "tickers": [
-        "CVKD"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "Cadrenal Therapeutics, Inc."
-    },
-    {
-      "cik": "0001935979",
-      "companyName": "Biohaven Ltd.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001935979&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BHVN"
-      ],
-      "exchanges": [
-        "NYSE"
-      ],
-      "secName": "Biohaven Ltd."
-    },
-    {
-      "cik": "0001889109",
-      "companyName": "BELITE BIO, INC",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001889109&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BLTE"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "BELITE BIO, INC"
-    },
-    {
-      "cik": "0001869105",
-      "companyName": "BridgeBio Oncology Therapeutics, Inc.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001869105&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BBOT"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "BridgeBio Oncology Therapeutics, Inc."
-    },
-    {
-      "cik": "0001858685",
-      "companyName": "Biofrontera Inc.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001858685&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BFRI",
-        "BFRIW"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "Biofrontera Inc."
-    },
-    {
-      "cik": "0001851651",
-      "companyName": "Beroni Group Ltd",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001851651&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BNIGF"
-      ],
-      "exchanges": [
-        "OTC"
-      ],
-      "secName": "Beroni Group Ltd"
-    },
-    {
-      "cik": "0001840439",
-      "companyName": "Biomea Fusion, Inc.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001840439&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BMEA"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "Biomea Fusion, Inc."
-    },
-    {
-      "cik": "0001839970",
-      "companyName": "BlossomHill Therapeutics, Inc.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001839970&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BLSM"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "BlossomHill Therapeutics, Inc."
-    },
-    {
-      "cik": "0001829247",
-      "companyName": "BullFrog AI Holdings, Inc.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001829247&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BFRG",
-        "BFRGW"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "BullFrog AI Holdings, Inc."
-    },
-    {
-      "cik": "0001827401",
-      "companyName": "BRIGHT MINDS BIOSCIENCES INC.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001827401&owner=exclude&hidefilings=0",
-      "tickers": [
-        "DRUG"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "BRIGHT MINDS BIOSCIENCES INC."
-    },
-    {
-      "cik": "0001808898",
-      "companyName": "Benitec Biopharma Inc.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001808898&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BNTC"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "Benitec Biopharma Inc."
-    },
-    {
-      "cik": "0001782303",
-      "companyName": "Boundless Bio, Inc.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001782303&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BOLD"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "Boundless Bio, Inc."
-    },
-    {
-      "cik": "0001779578",
-      "companyName": "BGM Group Ltd.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001779578&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BGM"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "BGM Group Ltd."
-    },
-    {
-      "cik": "0001761612",
-      "companyName": "BICYCLE THERAPEUTICS PLC",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001761612&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BCYC"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "BICYCLE THERAPEUTICS PLC"
-    },
-    {
-      "cik": "0001743881",
-      "companyName": "BridgeBio Pharma, Inc.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001743881&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BBIO"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "BridgeBio Pharma, Inc."
-    },
-    {
-      "cik": "0001736730",
-      "companyName": "Camp4 Therapeutics Corp",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001736730&owner=exclude&hidefilings=0",
-      "tickers": [
-        "CAMP"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "Camp4 Therapeutics Corp"
-    },
-    {
-      "cik": "0001723464",
-      "companyName": "BIOHARVEST SCIENCES INC.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001723464&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BHST"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "BIOHARVEST SCIENCES INC."
-    },
-    {
-      "cik": "0001723059",
-      "companyName": "Bio Essence Corp",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001723059&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BIOE"
-      ],
-      "exchanges": [
-        "OTC"
-      ],
-      "secName": "Bio Essence Corp"
-    },
-    {
-      "cik": "0001720893",
-      "companyName": "BioXcel Therapeutics, Inc.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001720893&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BTAI"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "BioXcel Therapeutics, Inc."
-    },
-    {
-      "cik": "0001709941",
-      "companyName": "BioAge Labs, Inc.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001709941&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BIOA"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "BioAge Labs, Inc."
-    },
-    {
-      "cik": "0001677940",
-      "companyName": "BeyondSpring Inc.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001677940&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BYSI"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "BeyondSpring Inc."
-    },
-    {
-      "cik": "0001651308",
-      "companyName": "BeOne Medicines Ltd.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001651308&owner=exclude&hidefilings=0",
-      "tickers": [
-        "ONC",
-        "BEIGF"
-      ],
-      "exchanges": [
-        "Nasdaq",
-        "OTC"
-      ],
-      "secName": "BeOne Medicines Ltd."
-    },
-    {
-      "cik": "0001643918",
-      "companyName": "Biodexa Pharmaceuticals Plc",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001643918&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BDRX"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "Biodexa Pharmaceuticals Plc"
-    },
-    {
-      "cik": "0001641281",
-      "companyName": "Bolt Biotherapeutics, Inc.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001641281&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BOLT"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "Bolt Biotherapeutics, Inc."
-    },
-    {
-      "cik": "0001610820",
-      "companyName": "BriaCell Therapeutics Corp.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001610820&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BCTX",
-        "BCTXL",
-        "BCTXZ"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "BriaCell Therapeutics Corp."
-    },
-    {
-      "cik": "0001580149",
-      "companyName": "BIOVIE INC.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001580149&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BIVI",
-        "BIVIW"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "BIOVIE INC."
-    },
-    {
-      "cik": "0001575142",
-      "companyName": "BIOADAPTIVES, INC.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001575142&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BDPT"
-      ],
-      "exchanges": [
-        "OTC"
-      ],
-      "secName": "BIOADAPTIVES, INC."
-    },
-    {
-      "cik": "0001568628",
-      "companyName": "Bioquest Corp",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001568628&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BQST"
-      ],
-      "exchanges": [
-        "OTC"
-      ],
-      "secName": "Bioquest Corp"
-    },
-    {
-      "cik": "0001536196",
-      "companyName": "Can-Fite BioPharma Ltd.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001536196&owner=exclude&hidefilings=0",
-      "tickers": [
-        "CANF"
-      ],
-      "exchanges": [
-        "NYSE"
-      ],
-      "secName": "Can-Fite BioPharma Ltd."
-    },
-    {
-      "cik": "0001534133",
-      "companyName": "CalciMedica, Inc.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001534133&owner=exclude&hidefilings=0",
-      "tickers": [
-        "CALC"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "CalciMedica, Inc."
-    },
-    {
-      "cik": "0001498403",
-      "companyName": "BioLineRx Ltd.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001498403&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BLRX"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "BioLineRx Ltd."
-    },
-    {
-      "cik": "0001464165",
-      "companyName": "BetterLife Pharma Inc.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001464165&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BETRF"
-      ],
-      "exchanges": [
-        "OTC"
-      ],
-      "secName": "BetterLife Pharma Inc."
-    },
-    {
-      "cik": "0001445815",
-      "companyName": "BIOXYTRAN, INC",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001445815&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BIXT"
-      ],
-      "exchanges": [
-        "OTC"
-      ],
-      "secName": "BIOXYTRAN, INC"
-    },
-    {
-      "cik": "0001409197",
-      "companyName": "Bespoke Extracts, Inc.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001409197&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BSPK"
-      ],
-      "exchanges": [
-        "OTC"
-      ],
-      "secName": "Bespoke Extracts, Inc."
-    },
-    {
-      "cik": "0001133818",
-      "companyName": "BIO-PATH HOLDINGS, INC.",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001133818&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BPTH"
-      ],
-      "exchanges": [
-        "OTC"
-      ],
-      "secName": "BIO-PATH HOLDINGS, INC."
-    },
-    {
-      "cik": "0001048477",
-      "companyName": "BIOMARIN PHARMACEUTICAL INC",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001048477&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BMRN"
-      ],
-      "exchanges": [
-        "Nasdaq"
-      ],
-      "secName": "BIOMARIN PHARMACEUTICAL INC"
-    },
-    {
-      "cik": "0000014272",
-      "companyName": "BRISTOL MYERS SQUIBB CO",
-      "form": null,
-      "sicCodes": [
-        "2834"
-      ],
-      "sicLabels": [
-        "Pharmaceutical Preparations"
-      ],
-      "observedAt": "2026-08-11",
-      "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&owner=exclude&hidefilings=0",
-      "tickers": [
-        "BMY",
-        "CELG-RI"
-      ],
-      "exchanges": [
-        "NYSE"
-      ],
-      "secName": "BRISTOL MYERS SQUIBB CO"
     }
   ]
 }
