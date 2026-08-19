@@ -55,7 +55,7 @@
       "resolvedUrl": "https://www.10xgenomics.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Decoding Biology. Transforming Health. | 10x Genomics",
       "description": "We deliver powerful, reliable tools that fuel scientific discoveries and drive exponential progress to master biology to advance human health.",
       "headings": [
@@ -96,7 +96,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "10x-genomics",
@@ -169,7 +169,7 @@
       "resolvedUrl": "https://www.akesobio.com/en/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Akeso, Inc | Home",
       "description": "",
       "headings": [],
@@ -199,7 +199,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-15T04:59:27+00:00",
       "capturedAt": "2026-08-15T04:59:27+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "akeso",
@@ -269,7 +269,7 @@
       "resolvedUrl": "https://www.alnylam.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "The Leading RNAi Therapeutics Company | Alnylam",
       "description": "Alnylam has pioneered RNAi therapeutics, an innovative approach to gene silencing. We are driven by science and committed to developing transformational medicines for patients.",
       "headings": [
@@ -310,7 +310,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "alnylam",
@@ -371,7 +371,7 @@
       "resolvedUrl": "https://www.altoslabs.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Altos Labs",
       "description": "Altos Labs is a biotechnology company focused on restoring cell health and resilience through cell rejuvenation to reverse disease, injury, and the disabilities that occur throughout life. Learn more about Altos.",
       "headings": [
@@ -404,7 +404,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "altos-labs",
@@ -470,7 +470,7 @@
       "resolvedUrl": "https://www.kitepharma.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Kite Pharma, Changing the Way Cancer is Treated",
       "description": "Kite is dedicated to curing cancer. Learn about the science of cell therapy, our cancer research, and our cancer treatments in the pipeline.",
       "headings": [
@@ -514,7 +514,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "arcellx",
@@ -618,9 +618,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-18T05:04:41+00:00",
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-08-18T05:04:41+00:00"
+      "lastFailureAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "arvinas",
@@ -631,7 +631,7 @@
       "resolvedUrl": "https://www.arvinas.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Targeted Protein Degradation Therapeutics | Arvinas",
       "description": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
       "headings": [
@@ -672,7 +672,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "arvinas",
@@ -742,7 +742,7 @@
       "resolvedUrl": "https://www.autolus.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Autolus - developing CAR T cell therapies for patients with cancer and autoimmune diseases",
       "description": "Autolus is a CAR T cell therapy company which develops advanced autologous T cell therapies that have the potential to deliver life-changing benefits to patients with cancer and autoimmune diseases",
       "headings": [
@@ -786,7 +786,7 @@
       "firstObservedAt": "2026-08-15T04:59:27+00:00",
       "lastChangedAt": "2026-08-15T04:59:27+00:00",
       "capturedAt": "2026-08-15T04:59:27+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "autolus",
@@ -847,9 +847,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-18T05:04:41+00:00",
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-08-18T05:04:41+00:00"
+      "lastFailureAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "beam-therapeutics",
@@ -860,7 +860,7 @@
       "resolvedUrl": "https://beamtx.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Breaking new ground to advance science with the potential to change lives | Beam Therapeutics",
       "description": "",
       "headings": [
@@ -891,7 +891,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "beam-therapeutics",
@@ -978,7 +978,7 @@
       "resolvedUrl": "https://beonemedicines.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Transforming Cancer Care Through Science and Speed | BeOne Medicines",
       "description": "Explore how BeOne Medicines advances global cancer care through an integrated model of discovery, development, and delivery, bringing transformative therapies to patients worldwide.",
       "headings": [
@@ -991,9 +991,9 @@
         "Nathan’s Story: How Biomarker Testing Made a Difference in his CLL Treatment Journey",
         "The Hidden Burdens of Cancer Care: When Insurers Override Doctors",
         "BeOne News",
+        "BeOne Medicines, BeOne Care Foundation, and The Max Foundation Renew Partnership to…",
         "BeOne Medicines and Revolution Medicines Announce Clinical Development and Regional Commercialization Collaboration",
-        "BeOne Medicines Announces Second Quarter 2026 Financial Results and Business Updates",
-        "BeOne Medicines Expands U.S. Manufacturing with Total Investment of More Than $1…"
+        "BeOne Medicines Announces Second Quarter 2026 Financial Results and Business Updates"
       ],
       "excerpts": [
         "BeOne Medicines and Revolution Medicines Announce Clinical Development and Regional Commercialization Collaboration",
@@ -1013,15 +1013,16 @@
         "See how BeOne brings together innovative science, an accelerated pipeline, and a commitment to access to make more saves possible."
       ],
       "planExcerpts": [],
-      "contentHash": "1b361706d8e1221c16882e4be2d6c41650798aabcda96d89ecc77e8e29166ccd",
-      "visibleTextHash": "16721c30c0ad8e64a3328d932e87648d4b0280121b0b271bec6a83c801751fa0",
-      "visibleTextChars": 5447,
-      "changeType": "unchanged",
+      "contentHash": "23a05e385b5d8a8cafca18a0f2942b7c18dd235dac9bad33ff204dec8a736fc0",
+      "visibleTextHash": "1b40ac79f3ebdfd31c13b3bdfd8c9902241ff9a71c9aaa935e49e7d98b9e5701",
+      "visibleTextChars": 5488,
+      "lastModified": "Tue, 18 Aug 2026 15:00:46 GMT",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
-      "lastChangedAt": "2026-08-10T13:46:20+00:00",
-      "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastChangedAt": "2026-08-19T05:05:14+00:00",
+      "capturedAt": "2026-08-19T05:05:14+00:00",
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "beone-medicines",
@@ -1095,7 +1096,7 @@
       "resolvedUrl": "https://c4therapeutics.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Home - C4 Therapeutics",
       "description": "",
       "headings": [
@@ -1121,7 +1122,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-12T06:02:46+00:00",
       "capturedAt": "2026-08-12T06:02:46+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "c4-therapeutics",
@@ -1143,7 +1144,7 @@
       "resolvedUrl": "https://www.calicolabs.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Home - Calico",
       "description": "",
       "headings": [
@@ -1177,7 +1178,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "calico",
@@ -24477,10 +24478,10 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-08-10T11:09:51+00:00",
       "capturedAt": "2026-08-10T11:09:51+00:00",
-      "lastCheckedAt": "2026-08-18T05:04:41+00:00",
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00",
       "nextCheckAt": "2026-08-17T13:46:20+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-08-18T05:04:41+00:00"
+      "lastFailureAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "crispr-therapeutics",
@@ -24520,8 +24521,8 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-08-10T11:09:51+00:00",
       "capturedAt": "2026-08-10T11:09:51+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00",
-      "nextCheckAt": "2026-08-18T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00"
     },
     {
       "companyId": "crispr-therapeutics",
@@ -24563,7 +24564,7 @@
       "resolvedUrl": "https://emulatebio.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Emulate | Organ-Chips for Research & Development",
       "description": "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response. Get started today.",
       "headings": [
@@ -24601,7 +24602,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "emulate",
@@ -24674,7 +24675,7 @@
       "resolvedUrl": "https://www.genmab.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Welcome to Genmab",
       "description": "",
       "headings": [],
@@ -24690,7 +24691,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "genmab",
@@ -24771,8 +24772,8 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-08-10T11:09:51+00:00",
       "capturedAt": "2026-08-10T11:09:51+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00",
-      "nextCheckAt": "2026-08-18T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00"
     },
     {
       "companyId": "guardant-health",
@@ -24818,7 +24819,7 @@
       "resolvedUrl": "https://www.huborganoids.nl/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Patient-derived organoids CRO | Drug discovery | Organoid development services - HUB Organoids",
       "description": "A PATIENT IN THE LAB® HUB Organoids predict patient response to treatment. Our patented technology allows the development of patient-derived “mini-organs in a dish” from both healthy and diseased tissues to close the gap between the lab and the clinic.",
       "headings": [
@@ -24860,7 +24861,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "hub-organoids",
@@ -24893,7 +24894,7 @@
       "resolvedUrl": "https://www.illumina.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
       "description": "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
       "headings": [
@@ -24937,7 +24938,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-15T04:59:27+00:00",
       "capturedAt": "2026-08-15T04:59:27+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "illumina",
@@ -25003,7 +25004,7 @@
       "resolvedUrl": "https://insilico.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Main | Insilico Medicine",
       "description": "Generative AI and Automation for Longevity and Sustainability",
       "headings": [
@@ -25038,7 +25039,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "insilico-medicine",
@@ -25125,9 +25126,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-18T05:04:41+00:00",
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-08-18T05:04:41+00:00"
+      "lastFailureAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "intellia",
@@ -25138,7 +25139,7 @@
       "resolvedUrl": "https://www.intelliatx.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Intellia Therapeutics - Revolutionize the course of medicine",
       "description": "Intellia Therapeutics, a leading clinical-stage genome editing company, is developing novel, potentially curative therapeutics leveraging CRISPR-based technologies.",
       "headings": [
@@ -25171,7 +25172,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "intellia",
@@ -25245,14 +25246,14 @@
       "resolvedUrl": "https://ionis.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Innovating to Change the Course of Human Health | IONIS",
       "description": "Discover how we are enabling better futures for people living with serious disease through groundbreaking innovations. Learn about our mission here.",
       "headings": [
         "Main navigation",
         "New indication now approved in the U.S.",
         "Building on Our Impossible Firsts, We Can Change the Course of Human Health",
-        "Our 2025 Corporate Responsibility Report: Building Momentum for Better Futures",
+        "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
         "Living with an Invisible Illness: Yajaira’s Journey with Severe Hypertriglyceridemia (sHTG)",
         "Our Science and Technology",
         "WHO WE ARE",
@@ -25263,13 +25264,14 @@
         "You are now leaving https://www.ionis.com to visit"
       ],
       "excerpts": [
+        "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
+        "Ionis has been recognized as one of the San Diego Business Journal's Best Places to Work for the third consecutive year.",
         "Ionis is unlocking the rapidly expanding potential of RNA- and DNA-targeted medicines to enable better futures for people living with serious diseases.",
-        "At Ionis, we are focused on bringing better futures to people living with serious diseases.",
-        "For the latest on Ionis news and developments",
-        "Ionis reports second quarter 2026 financial results and highlights progress on key programs"
+        "For the latest on Ionis news and developments"
       ],
       "businessExcerpts": [
-        "At Ionis, we are focused on bringing better futures to people living with serious diseases.",
+        "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
+        "Ionis has been recognized as one of the San Diego Business Journal's Best Places to Work for the third consecutive year.",
         "Click here to read an important notice about a cybersecurity incident relating to services provided to WEX Health (an Ionis employee benefits plan administrator).",
         "We believe operating responsibly and sustainably creates long-term value and a positive impact for our company, stakeholders, patients, communities and the broader world."
       ],
@@ -25277,15 +25279,16 @@
         "The genetic basis of human disease continues to inspire our science and technology as we expand to new therapeutic approaches, while our industry-leading chemistry helps us target the right medicine to the right disease – providing a rich source for future breakthroughs and…"
       ],
       "planExcerpts": [],
-      "contentHash": "cb5635964df4ebee1c2c2927df05ce2609b431fa94c0153e5e0ef585985d17a2",
-      "visibleTextHash": "75a04ba8e681ce4e3386b284dce15daa9116106dc3b6efd8ce9cfb265ea96faa",
-      "visibleTextChars": 5489,
-      "changeType": "unchanged",
+      "contentHash": "f4884fa3196d89b6157bc3e7f66a2a5a6d92878f6c5739c9ea50b947e1c1b4f7",
+      "visibleTextHash": "6fcdc6b37e1dc86622254215be311628a8d8c8c04a4c04f5f07618d9e77e5b91",
+      "visibleTextChars": 5281,
+      "lastModified": "Tue, 18 Aug 2026 07:50:09 GMT",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
-      "lastChangedAt": "2026-08-10T13:46:20+00:00",
-      "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastChangedAt": "2026-08-19T05:05:14+00:00",
+      "capturedAt": "2026-08-19T05:05:14+00:00",
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "ionis",
@@ -25384,7 +25387,7 @@
       "resolvedUrl": "https://legendbiotech.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "HOME - Legend Biotech",
       "description": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies. We explore and apply innovative technologies to deliver cutting-edge options for patients around the world.",
       "headings": [
@@ -25426,7 +25429,7 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-08-12T06:02:46+00:00",
       "capturedAt": "2026-08-12T06:02:46+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "legend-biotech",
@@ -25468,7 +25471,7 @@
       "resolvedUrl": "https://www.mimetas.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Human Tissue Models for Advanced Drug Discovery",
       "description": "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
       "headings": [
@@ -25509,7 +25512,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "mimetas",
@@ -25605,7 +25608,7 @@
       "resolvedUrl": "https://www.modernatx.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Pioneering mRNA technology - Moderna",
       "description": "Learn how we’re changing the world of medicine. Discover career opportunities, our product pipeline, and browse media resources. Meet Moderna.",
       "headings": [
@@ -25646,7 +25649,7 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-08-12T06:02:46+00:00",
       "capturedAt": "2026-08-12T06:02:46+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "moderna",
@@ -25755,7 +25758,7 @@
       "resolvedUrl": "https://www.natera.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Natera: A global leader in cell-free DNA testing",
       "description": "Dedicated to oncology, women’s health, and organ health. Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
       "headings": [
@@ -25793,7 +25796,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-13T06:02:49+00:00",
       "capturedAt": "2026-08-13T06:02:49+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "natera",
@@ -25863,7 +25866,7 @@
       "resolvedUrl": "https://www.nurixtx.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Nurix | Medicines to Outmatch Disease",
       "description": "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
       "headings": [
@@ -25903,7 +25906,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "nurix",
@@ -26012,7 +26015,7 @@
       "resolvedUrl": "https://nykode.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Home - Nykode",
       "description": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
       "headings": [
@@ -26051,7 +26054,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "nykode-therapeutics",
@@ -26123,41 +26126,39 @@
       "resolvedUrl": "https://nanoporetech.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Welcome to Oxford Nanopore Technologies",
       "description": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
       "headings": [
+        "A clearer view of biology",
+        "What you're missing matters",
         "Ask more of your sequencing",
-        "Latest from Oxford Nanopore",
-        "Only Oxford Nanopore sequencing delivers short to ultra-long native DNA and RNA reads, offering ...",
-        "Richer insights",
-        "Faster results",
-        "Accessible and affordable",
-        "Explore a world of applications"
+        "PromethION 24",
+        "A trusted partner",
+        "Testimonials",
+        "Latest news & insights",
+        "London Calling 2026: what’s coming (and why you should care)"
       ],
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
         "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-        "Only Oxford Nanopore sequencing delivers short to ultra-long native DNA and RNA reads, offering ...",
-        "Search Oxford Nanopore Technologies Which site do you wish to search in?"
+        "Search Oxford Nanopore Technologies Which site do you wish to search in?",
+        "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology"
       ],
-      "businessExcerpts": [
-        "Learn more about the real-world implications of Oxford Nanopore technology."
-      ],
+      "businessExcerpts": [],
       "productExcerpts": [
-        "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
-        "Read the new updates from London Calling 2026, shaped by customer needs and longer-term innovation to extend platform capabilities."
+        "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling."
       ],
       "planExcerpts": [],
-      "contentHash": "3d12a40b93c055956ceb8c58839791bd59c8e24f6ca41320af2ac42ca05cdf1d",
-      "visibleTextHash": "489b142c9c4ee0bdb52106c6db6d9a720f44a154d350da4112a8b0fc6e75ba48",
-      "visibleTextChars": 5284,
-      "changeType": "unchanged",
+      "contentHash": "b30b6aac481a61a56eabf64d12b32354c3c437bf7b2864666922f57420c64d89",
+      "visibleTextHash": "792709611cda40ca012ba60ff61632ebe43b579a97bea6a6afeff8a065212ce6",
+      "visibleTextChars": 6637,
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
-      "lastChangedAt": "2026-08-13T06:02:49+00:00",
-      "capturedAt": "2026-08-13T06:02:49+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastChangedAt": "2026-08-19T05:05:14+00:00",
+      "capturedAt": "2026-08-19T05:05:14+00:00",
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "oxford-nanopore",
@@ -26244,10 +26245,10 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-08-10T11:09:51+00:00",
       "capturedAt": "2026-08-10T11:09:51+00:00",
-      "lastCheckedAt": "2026-08-18T05:04:41+00:00",
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00",
       "nextCheckAt": "2026-08-17T13:46:20+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-08-18T05:04:41+00:00"
+      "lastFailureAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "recursion",
@@ -26283,8 +26284,8 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-08-10T11:09:51+00:00",
       "capturedAt": "2026-08-10T11:09:51+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00",
-      "nextCheckAt": "2026-08-18T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00"
     },
     {
       "companyId": "recursion",
@@ -26328,7 +26329,7 @@
       "resolvedUrl": "https://www.retro.bio/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Retro Biosciences | Healthy Human Lifespan",
       "description": "Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
       "headings": [
@@ -26358,7 +26359,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "retro-biosciences",
@@ -26463,7 +26464,7 @@
       "resolvedUrl": "https://www.sumitomo-pharma.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "Sumitomo Pharma Co., Ltd.",
       "description": "For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd.",
       "headings": [
@@ -26504,7 +26505,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-13T06:02:49+00:00",
       "capturedAt": "2026-08-13T06:02:49+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "sumitomo-pharma",
@@ -26535,8 +26536,8 @@
       "sourceType": "Company",
       "requestedUrl": "https://www.tempus.com/",
       "lastCheckStatus": "failed",
-      "lastFailureAt": "2026-08-17T05:18:16+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00",
+      "lastFailureAt": "2026-08-19T05:05:14+00:00",
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00",
       "lastCheckError": "HTTPError"
     },
     {
@@ -26595,7 +26596,7 @@
       "resolvedUrl": "https://www.xtalpi.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-08-18T05:18:16+00:00",
+      "nextCheckAt": "2026-08-20T05:05:14+00:00",
       "title": "晶泰科技 | 人工智能 × 机器人技术平台赋能行业创新",
       "description": "以人工智能和机器人技术为驱动力，晶泰致力于用量子物理、AI、云计算、机器人实验等前沿技术领域打造了面向未来产业的创新型研发平台。该平台凭借共性技术集成优势，满足微观分子世界探索的需求。广泛赋能生物医药行业、新材料、石油化工、新能源等领域，为未来产业发展注入澎湃新动力。",
       "headings": [
@@ -26623,15 +26624,15 @@
         "SureRoute: Toward a Hallucination-Free Self-Improving Platform for Retrosynthesis"
       ],
       "planExcerpts": [],
-      "contentHash": "d5c99cb6eb2f67ed18f2bc585fda91f2aca6046e35f6c2e98f06217c3f244472",
-      "visibleTextHash": "0d5727d5043d438b5f9133bb2eb0d4fd79c584e17dcced664276fe44e2bb0586",
-      "visibleTextChars": 7842,
-      "changeType": "unchanged",
+      "contentHash": "e6a34c89fcb29b4ab4c7bcf5e7acfbacafb635eee64ea4c5b891664d6fb2ceb4",
+      "visibleTextHash": "560e917fa21e19c664297c12d1421037db623b0f11e61ed6bf28c7a4eeb2c907",
+      "visibleTextChars": 7825,
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
-      "lastChangedAt": "2026-08-10T13:46:20+00:00",
-      "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-17T05:18:16+00:00"
+      "lastChangedAt": "2026-08-19T05:05:14+00:00",
+      "capturedAt": "2026-08-19T05:05:14+00:00",
+      "lastCheckedAt": "2026-08-19T05:05:14+00:00"
     },
     {
       "companyId": "xtalpi",

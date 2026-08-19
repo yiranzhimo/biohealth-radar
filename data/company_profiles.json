@@ -20099,64 +20099,64 @@
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：探索 BeOne Medicines 的临床管线，推进各开发阶段的创新疗法，以解决未满足的医疗需求。；公司官方页面表述：探索BeOne Medicines如何通过综合的发现、开发和交付模型推动全球癌症护理，为全球患者带来变革性疗法。",
-        "summaryOriginal": "Explore BeOne Medicines’ clinical pipeline advancing innovative therapies across development stages to address unmet medical needs. Explore how BeOne Medicines advances global cancer care through an integrated model of discovery, development, and delivery, bringing transformative therapies to patients worldwide.",
+        "summary": "公司官方页面表述：探索BeOne Medicines如何通过综合的发现、开发和交付模型推动全球癌症护理，为全球患者带来变革性疗法。；公司官方页面表述：探索 BeOne Medicines 的临床管线，推进各开发阶段的创新疗法，以解决未满足的医疗需求。",
+        "summaryOriginal": "Explore how BeOne Medicines advances global cancer care through an integrated model of discovery, development, and delivery, bringing transformative therapies to patients worldwide. Explore BeOne Medicines’ clinical pipeline advancing innovative therapies across development stages to address unmet medical needs.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "Explore BeOne Medicines’ clinical pipeline advancing innovative therapies across development stages to address unmet medical needs.",
-            "text": "探索 BeOne Medicines 的临床管线，推进各开发阶段的创新疗法，以解决未满足的医疗需求。",
-            "evidenceId": "evidence-company-beone-medicines-pipeline-cad9773572ea",
-            "sourceUrl": "https://beonemedicines.com/science/pipeline/",
+            "textOriginal": "BeOne is advancing a broad and deep pipeline, accelerating development through rigorous science to deliver transformative medicines to more people around the world.",
+            "text": "BeOne is advancing a broad and deep pipeline, accelerating development through rigorous science to deliver transformative medicines to more people around the world.",
+            "evidenceId": "evidence-company-beone-medicines-official-23a05e385b5d",
+            "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "These designs establish BGB-B455 as a promising therapeutic candidate, offering a well-balanced efficacy-safety profile for clinical development in CLDN6-expressing tumors.",
-            "text": "These designs establish BGB-B455 as a promising therapeutic candidate, offering a well-balanced efficacy-safety profile for clinical development in CLDN6-expressing tumors.",
-            "evidenceId": "evidence-company-beone-medicines-pipeline-cad9773572ea",
-            "sourceUrl": "https://beonemedicines.com/science/pipeline/",
+            "textOriginal": "BeOne Medicines Highlights Accelerating Solid Tumor Pipeline with New Data at ASCO…",
+            "text": "BeOne Medicines Highlights Accelerating Solid Tumor Pipeline with New Data at ASCO…",
+            "evidenceId": "evidence-company-beone-medicines-official-23a05e385b5d",
+            "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "We are developing potential treatments for cancers with the highest unmet need through a broad and deep oncology pipeline.",
-            "text": "We are developing potential treatments for cancers with the highest unmet need through a broad and deep oncology pipeline.",
-            "evidenceId": "evidence-company-beone-medicines-pipeline-cad9773572ea",
-            "sourceUrl": "https://beonemedicines.com/science/pipeline/",
+            "textOriginal": "See how BeOne brings together innovative science, an accelerated pipeline, and a commitment to access to make more saves possible.",
+            "text": "See how BeOne brings together innovative science, an accelerated pipeline, and a commitment to access to make more saves possible.",
+            "evidenceId": "evidence-company-beone-medicines-official-23a05e385b5d",
+            "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "The combination of BGB-21447 with endocrine therapy (ET)± a selective CDK4i is hypothesized to have therapeutic potential for meaningful clinical benefit in patients with HR+/HER2- BC.",
-            "text": "The combination of BGB-21447 with endocrine therapy (ET)± a selective CDK4i is hypothesized to have therapeutic potential for meaningful clinical benefit in patients with HR+/HER2- BC.",
-            "evidenceId": "evidence-company-beone-medicines-pipeline-cad9773572ea",
-            "sourceUrl": "https://beonemedicines.com/science/pipeline/",
+            "textOriginal": "BeOne Medicines and Revolution Medicines Announce Clinical Development and Regional Commercialization Collaboration",
+            "text": "BeOne Medicines and Revolution Medicines Announce Clinical Development and Regional Commercialization Collaboration",
+            "evidenceId": "evidence-company-beone-medicines-official-23a05e385b5d",
+            "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Tislelizumab is a uniquely designed humanized immunoglobulin G4 (IgG4) anti-programmed cell death protein 1 (PD-1) monoclonal antibody with high affinity and binding specificity against PD-1.",
-            "text": "Tislelizumab is a uniquely designed humanized immunoglobulin G4 (IgG4) anti-programmed cell death protein 1 (PD-1) monoclonal antibody with high affinity and binding specificity against PD-1.",
-            "evidenceId": "evidence-company-beone-medicines-pipeline-cad9773572ea",
-            "sourceUrl": "https://beonemedicines.com/science/pipeline/",
+            "textOriginal": "BeOne Medicines is building the world’s leading oncology company – driven by scientific excellence and exceptional speed – to reach more patients than ever before.",
+            "text": "BeOne Medicines is building the world’s leading oncology company – driven by scientific excellence and exceptional speed – to reach more patients than ever before.",
+            "evidenceId": "evidence-company-beone-medicines-official-23a05e385b5d",
+            "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Amgen collaboration; BeOne has development and commercialization rights in China.",
-            "text": "Amgen collaboration; BeOne has development and commercialization rights in China.",
-            "evidenceId": "evidence-company-beone-medicines-pipeline-cad9773572ea",
-            "sourceUrl": "https://beonemedicines.com/science/pipeline/",
+            "textOriginal": "Explore how BeOne Medicines advances global cancer care through an integrated model of discovery, development, and delivery, bringing transformative therapies to patients worldwide.",
+            "text": "探索BeOne Medicines如何通过综合的发现、开发和交付模型推动全球癌症护理，为全球患者带来变革性疗法。",
+            "evidenceId": "evidence-company-beone-medicines-official-23a05e385b5d",
+            "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-beone-medicines-official-23a05e385b5d",
           "evidence-company-beone-medicines-pipeline-cad9773572ea",
-          "evidence-company-beone-medicines-official-1b361706d8e1",
           "evidence-company-beone-medicines-investor_relations-60394f02563f",
           "evidence-sec-0001651308-000162828026052878",
           "evidence-sec-0001651308-000162828026052877"
@@ -20165,6 +20165,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-beone-medicines-official-23a05e385b5d",
+            "date": "2026-08-19",
+            "title": "Transforming Cancer Care Through Science and Speed | BeOne Medicines",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-beone-medicines-official-23a05e385b5d",
+            "sourceUrl": "https://beonemedicines.com/"
+          },
           {
             "id": "event-evidence-company-beone-medicines-pipeline-cad9773572ea",
             "date": "2026-08-10",
@@ -20175,17 +20186,6 @@
             "needsReview": true,
             "evidenceId": "evidence-company-beone-medicines-pipeline-cad9773572ea",
             "sourceUrl": "https://beonemedicines.com/science/pipeline/"
-          },
-          {
-            "id": "event-evidence-company-beone-medicines-official-1b361706d8e1",
-            "date": "2026-08-10",
-            "title": "Transforming Cancer Care Through Science and Speed | BeOne Medicines",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-beone-medicines-official-1b361706d8e1",
-            "sourceUrl": "https://beonemedicines.com/"
           },
           {
             "id": "event-evidence-company-beone-medicines-investor_relations-60394f02563f",
@@ -20233,7 +20233,7 @@
           "Company": 3,
           "Filing": 2
         },
-        "lastEvidenceDate": "2026-08-10",
+        "lastEvidenceDate": "2026-08-19",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -20241,6 +20241,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-beone-medicines-official-23a05e385b5d",
+          "date": "2026-08-19",
+          "title": "Transforming Cancer Care Through Science and Speed | BeOne Medicines",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-beone-medicines-official-23a05e385b5d",
+          "sourceUrl": "https://beonemedicines.com/"
+        },
         {
           "id": "event-evidence-company-beone-medicines-pipeline-cad9773572ea",
           "date": "2026-08-10",
@@ -20251,17 +20262,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-beone-medicines-pipeline-cad9773572ea",
           "sourceUrl": "https://beonemedicines.com/science/pipeline/"
-        },
-        {
-          "id": "event-evidence-company-beone-medicines-official-1b361706d8e1",
-          "date": "2026-08-10",
-          "title": "Transforming Cancer Care Through Science and Speed | BeOne Medicines",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-beone-medicines-official-1b361706d8e1",
-          "sourceUrl": "https://beonemedicines.com/"
         },
         {
           "id": "event-evidence-company-beone-medicines-investor_relations-60394f02563f",
@@ -48267,47 +48267,31 @@
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：点击这里探索我们广泛的 RNA 靶向药物管线，包括神经系统、心脏病和罕见疾病领域的突破性治疗。；公司官方页面表述：探索我们如何通过突破性创新为生活在严重疾病中的人们开启更美好的未来。了解我们的使命。",
-        "summaryOriginal": "Click here to explore our extensive pipeline of RNA-targeted medicines, including groundbreaking treatments in neurology, cardiology and rare diseases. Discover how we are enabling better futures for people living with serious disease through groundbreaking innovations. Learn about our mission here.",
+        "summary": "公司官方页面表述：探索我们如何通过突破性创新为生活在严重疾病中的人们开启更美好的未来。了解我们的使命。；公司官方页面表述：点击这里探索我们广泛的 RNA 靶向药物管线，包括神经系统、心脏病和罕见疾病领域的突破性治疗。",
+        "summaryOriginal": "Discover how we are enabling better futures for people living with serious disease through groundbreaking innovations. Learn about our mission here. Click here to explore our extensive pipeline of RNA-targeted medicines, including groundbreaking treatments in neurology, cardiology and rare diseases.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "Click here to explore our extensive pipeline of RNA-targeted medicines, including groundbreaking treatments in neurology, cardiology and rare diseases.",
-            "text": "点击这里探索我们广泛的 RNA 靶向药物管线，包括神经系统、心脏病和罕见疾病领域的突破性治疗。",
-            "evidenceId": "evidence-company-ionis-pipeline-3987692c42b2",
-            "sourceUrl": "https://ionis.com/science-and-innovation/pipeline",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "We are relentlessly pursuing the innovations of tomorrow with our broad and diverse pipeline of potential first or best-in-class investigational medicines designed to treat a range of diseases across our focus areas of neurology, cardiometabolic disease and select areas of high…",
-            "text": "We are relentlessly pursuing the innovations of tomorrow with our broad and diverse pipeline of potential first or best-in-class investigational medicines designed to treat a range of diseases across our focus areas of neurology, cardiometabolic disease and select areas of high…",
-            "evidenceId": "evidence-company-ionis-pipeline-3987692c42b2",
-            "sourceUrl": "https://ionis.com/science-and-innovation/pipeline",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Ionis Owned Pipeline Ionis’ Partnered Pipeline",
-            "text": "Ionis Owned Pipeline Ionis’ Partnered Pipeline",
-            "evidenceId": "evidence-company-ionis-pipeline-3987692c42b2",
-            "sourceUrl": "https://ionis.com/science-and-innovation/pipeline",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "You are now leaving https://www.ionis.com to visit",
-            "text": "You are now leaving https://www.ionis.com to visit",
-            "evidenceId": "evidence-company-ionis-pipeline-3987692c42b2",
-            "sourceUrl": "https://ionis.com/science-and-innovation/pipeline",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
             "textOriginal": "The genetic basis of human disease continues to inspire our science and technology as we expand to new therapeutic approaches, while our industry-leading chemistry helps us target the right medicine to the right disease – providing a rich source for future breakthroughs and…",
             "text": "The genetic basis of human disease continues to inspire our science and technology as we expand to new therapeutic approaches, while our industry-leading chemistry helps us target the right medicine to the right disease – providing a rich source for future breakthroughs and…",
-            "evidenceId": "evidence-company-ionis-official-cb5635964df4",
+            "evidenceId": "evidence-company-ionis-official-f4884fa3196d",
+            "sourceUrl": "https://ionis.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
+            "text": "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
+            "evidenceId": "evidence-company-ionis-official-f4884fa3196d",
+            "sourceUrl": "https://ionis.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Ionis has been recognized as one of the San Diego Business Journal's Best Places to Work for the third consecutive year.",
+            "text": "Ionis has been recognized as one of the San Diego Business Journal's Best Places to Work for the third consecutive year.",
+            "evidenceId": "evidence-company-ionis-official-f4884fa3196d",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -48315,16 +48299,32 @@
           {
             "textOriginal": "Ionis is unlocking the rapidly expanding potential of RNA- and DNA-targeted medicines to enable better futures for people living with serious diseases.",
             "text": "Ionis is unlocking the rapidly expanding potential of RNA- and DNA-targeted medicines to enable better futures for people living with serious diseases.",
-            "evidenceId": "evidence-company-ionis-official-cb5635964df4",
+            "evidenceId": "evidence-company-ionis-official-f4884fa3196d",
             "sourceUrl": "https://ionis.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "For the latest on Ionis news and developments",
+            "text": "For the latest on Ionis news and developments",
+            "evidenceId": "evidence-company-ionis-official-f4884fa3196d",
+            "sourceUrl": "https://ionis.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Click here to explore our extensive pipeline of RNA-targeted medicines, including groundbreaking treatments in neurology, cardiology and rare diseases.",
+            "text": "点击这里探索我们广泛的 RNA 靶向药物管线，包括神经系统、心脏病和罕见疾病领域的突破性治疗。",
+            "evidenceId": "evidence-company-ionis-pipeline-3987692c42b2",
+            "sourceUrl": "https://ionis.com/science-and-innovation/pipeline",
             "needsReview": true,
             "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-ionis-official-f4884fa3196d",
           "evidence-company-ionis-pipeline-3987692c42b2",
-          "evidence-company-ionis-official-cb5635964df4",
           "evidence-sec-0000874015-000114036126029960",
           "evidence-sec-0000874015-000087401526000251",
           "evidence-sec-0000874015-000114036126028154",
@@ -48335,6 +48335,17 @@
         "reportedPlans": [],
         "observedMoves": [
           {
+            "id": "event-evidence-company-ionis-official-f4884fa3196d",
+            "date": "2026-08-19",
+            "title": "Innovating to Change the Course of Human Health | IONIS",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-ionis-official-f4884fa3196d",
+            "sourceUrl": "https://ionis.com/"
+          },
+          {
             "id": "event-evidence-company-ionis-pipeline-3987692c42b2",
             "date": "2026-08-10",
             "title": "Our Pipeline of RNA-Targeted Medicines | IONIS",
@@ -48344,17 +48355,6 @@
             "needsReview": true,
             "evidenceId": "evidence-company-ionis-pipeline-3987692c42b2",
             "sourceUrl": "https://ionis.com/science-and-innovation/pipeline"
-          },
-          {
-            "id": "event-evidence-company-ionis-official-cb5635964df4",
-            "date": "2026-08-10",
-            "title": "Innovating to Change the Course of Human Health | IONIS",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-ionis-official-cb5635964df4",
-            "sourceUrl": "https://ionis.com/"
           },
           {
             "id": "event-sec-0000874015-000114036126029960",
@@ -48402,7 +48402,7 @@
           "Company": 2,
           "Filing": 4
         },
-        "lastEvidenceDate": "2026-08-10",
+        "lastEvidenceDate": "2026-08-19",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -48410,6 +48410,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-ionis-official-f4884fa3196d",
+          "date": "2026-08-19",
+          "title": "Innovating to Change the Course of Human Health | IONIS",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-ionis-official-f4884fa3196d",
+          "sourceUrl": "https://ionis.com/"
+        },
         {
           "id": "event-evidence-company-ionis-pipeline-3987692c42b2",
           "date": "2026-08-10",
@@ -48420,17 +48431,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-ionis-pipeline-3987692c42b2",
           "sourceUrl": "https://ionis.com/science-and-innovation/pipeline"
-        },
-        {
-          "id": "event-evidence-company-ionis-official-cb5635964df4",
-          "date": "2026-08-10",
-          "title": "Innovating to Change the Course of Human Health | IONIS",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-ionis-official-cb5635964df4",
-          "sourceUrl": "https://ionis.com/"
         },
         {
           "id": "event-sec-0000874015-000114036126029960",
@@ -59557,40 +59557,48 @@
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：发现纳米孔测序的优势，并找出哪种测序设备适合您的输出需求。；公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
-        "summaryOriginal": "Discover the benefits of nanopore sequencing and find out which sequencing device is right for your output requirements. Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
+        "summary": "公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。；公司官方页面表述：发现纳米孔测序的优势，并找出哪种测序设备适合您的输出需求。",
+        "summaryOriginal": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads. Discover the benefits of nanopore sequencing and find out which sequencing device is right for your output requirements.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
             "textOriginal": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
             "text": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-cc2146b5a187",
-            "sourceUrl": "https://nanoporetech.com/platform",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b30b6aac481a",
+            "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "Oxford Nanopore Technologies products are RUO.",
             "text": "Oxford Nanopore Technologies products are RUO.",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-cc2146b5a187",
-            "sourceUrl": "https://nanoporetech.com/platform",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b30b6aac481a",
+            "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
             "text": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-cc2146b5a187",
-            "sourceUrl": "https://nanoporetech.com/platform",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b30b6aac481a",
+            "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
             "text": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-cc2146b5a187",
-            "sourceUrl": "https://nanoporetech.com/platform",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b30b6aac481a",
+            "sourceUrl": "https://nanoporetech.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
+            "text": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b30b6aac481a",
+            "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
           },
@@ -59601,25 +59609,28 @@
             "sourceUrl": "https://nanoporetech.com/platform",
             "needsReview": true,
             "claimType": "Report"
-          },
-          {
-            "textOriginal": "Read the new updates from London Calling 2026, shaped by customer needs and longer-term innovation to extend platform capabilities.",
-            "text": "Read the new updates from London Calling 2026, shaped by customer needs and longer-term innovation to extend platform capabilities.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-3d12a40b93c0",
-            "sourceUrl": "https://nanoporetech.com/",
-            "needsReview": true,
-            "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-oxford-nanopore-pipeline-cc2146b5a187",
-          "evidence-company-oxford-nanopore-official-3d12a40b93c0"
+          "evidence-company-oxford-nanopore-official-b30b6aac481a",
+          "evidence-company-oxford-nanopore-pipeline-cc2146b5a187"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-oxford-nanopore-official-b30b6aac481a",
+            "date": "2026-08-19",
+            "title": "Welcome to Oxford Nanopore Technologies",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-oxford-nanopore-official-b30b6aac481a",
+            "sourceUrl": "https://nanoporetech.com/"
+          },
           {
             "id": "event-evidence-company-oxford-nanopore-pipeline-cc2146b5a187",
             "date": "2026-08-18",
@@ -59630,17 +59641,6 @@
             "needsReview": true,
             "evidenceId": "evidence-company-oxford-nanopore-pipeline-cc2146b5a187",
             "sourceUrl": "https://nanoporetech.com/platform"
-          },
-          {
-            "id": "event-evidence-company-oxford-nanopore-official-3d12a40b93c0",
-            "date": "2026-08-13",
-            "title": "Welcome to Oxford Nanopore Technologies",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-oxford-nanopore-official-3d12a40b93c0",
-            "sourceUrl": "https://nanoporetech.com/"
           }
         ],
         "inferences": [],
@@ -59654,7 +59654,7 @@
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-08-18",
+        "lastEvidenceDate": "2026-08-19",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -59662,6 +59662,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-oxford-nanopore-official-b30b6aac481a",
+          "date": "2026-08-19",
+          "title": "Welcome to Oxford Nanopore Technologies",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-oxford-nanopore-official-b30b6aac481a",
+          "sourceUrl": "https://nanoporetech.com/"
+        },
         {
           "id": "event-evidence-company-oxford-nanopore-pipeline-cc2146b5a187",
           "date": "2026-08-18",
@@ -59672,17 +59683,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-oxford-nanopore-pipeline-cc2146b5a187",
           "sourceUrl": "https://nanoporetech.com/platform"
-        },
-        {
-          "id": "event-evidence-company-oxford-nanopore-official-3d12a40b93c0",
-          "date": "2026-08-13",
-          "title": "Welcome to Oxford Nanopore Technologies",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-oxford-nanopore-official-3d12a40b93c0",
-          "sourceUrl": "https://nanoporetech.com/"
         }
       ]
     },
@@ -74238,7 +74238,7 @@
           {
             "textOriginal": "SureRoute: Toward a Hallucination-Free Self-Improving Platform for Retrosynthesis",
             "text": "SureRoute: Toward a Hallucination-Free Self-Improving Platform for Retrosynthesis",
-            "evidenceId": "evidence-company-xtalpi-official-d5c99cb6eb2f",
+            "evidenceId": "evidence-company-xtalpi-official-e6a34c89fcb2",
             "sourceUrl": "https://www.xtalpi.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -74246,7 +74246,7 @@
           {
             "textOriginal": "XtalPi Science Agentic AI Genius Agents 智能中枢",
             "text": "XtalPi Science Agentic AI Genius Agents 智能中枢",
-            "evidenceId": "evidence-company-xtalpi-official-d5c99cb6eb2f",
+            "evidenceId": "evidence-company-xtalpi-official-e6a34c89fcb2",
             "sourceUrl": "https://www.xtalpi.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -74254,7 +74254,7 @@
           {
             "textOriginal": "XtalPi Science Agentic 智能 Genius Agents 智能中枢",
             "text": "XtalPi Science Agentic 智能 Genius Agents 智能中枢",
-            "evidenceId": "evidence-company-xtalpi-official-d5c99cb6eb2f",
+            "evidenceId": "evidence-company-xtalpi-official-e6a34c89fcb2",
             "sourceUrl": "https://www.xtalpi.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -74262,7 +74262,7 @@
           {
             "textOriginal": "How the XtalPi Team Discovered Novel, Non-Covalent, Potent Hits Against GPX4 in 28 Days",
             "text": "How the XtalPi Team Discovered Novel, Non-Covalent, Potent Hits Against GPX4 in 28 Days",
-            "evidenceId": "evidence-company-xtalpi-official-d5c99cb6eb2f",
+            "evidenceId": "evidence-company-xtalpi-official-e6a34c89fcb2",
             "sourceUrl": "https://www.xtalpi.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -74286,7 +74286,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-xtalpi-official-d5c99cb6eb2f",
+          "evidence-company-xtalpi-official-e6a34c89fcb2",
           "evidence-company-xtalpi-investor_relations-b61641c41fad"
         ]
       },
@@ -74294,14 +74294,14 @@
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-xtalpi-official-d5c99cb6eb2f",
-            "date": "2026-08-10",
+            "id": "event-evidence-company-xtalpi-official-e6a34c89fcb2",
+            "date": "2026-08-19",
             "title": "晶泰科技 | 人工智能 × 机器人技术平台赋能行业创新",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-xtalpi-official-d5c99cb6eb2f",
+            "evidenceId": "evidence-company-xtalpi-official-e6a34c89fcb2",
             "sourceUrl": "https://www.xtalpi.com/"
           },
           {
@@ -74327,7 +74327,7 @@
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-08-10",
+        "lastEvidenceDate": "2026-08-19",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -74336,14 +74336,14 @@
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-xtalpi-official-d5c99cb6eb2f",
-          "date": "2026-08-10",
+          "id": "event-evidence-company-xtalpi-official-e6a34c89fcb2",
+          "date": "2026-08-19",
           "title": "晶泰科技 | 人工智能 × 机器人技术平台赋能行业创新",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-xtalpi-official-d5c99cb6eb2f",
+          "evidenceId": "evidence-company-xtalpi-official-e6a34c89fcb2",
           "sourceUrl": "https://www.xtalpi.com/"
         },
         {
