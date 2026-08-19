@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-18T18:59:28.377695+00:00",
+  "capturedAt": "2026-08-19T01:55:01.256996+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,36 +10,115 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-08-18",
-    "end": "2026-08-18"
+    "start": "2025-08-19",
+    "end": "2026-08-19"
   },
   "pmids": [
+    "42612147",
+    "42612119",
+    "42611889",
+    "42611725",
     "42610180",
     "42610144",
-    "42609747",
-    "42609555",
-    "42609500",
-    "42609461",
     "42600555",
     "42580899",
     "42559559",
     "42509463",
     "42498177",
     "42497867",
+    "42611249",
     "42606177",
     "42605681",
     "42591814",
     "42575164",
     "42572503",
-    "42567392",
+    "42612071",
     "42610895",
     "42610891",
     "42610161",
     "42610073",
-    "42609878",
-    "42609723"
+    "42609878"
   ],
   "records": [
+    {
+      "pmid": "42612147",
+      "title": "Patient-Specific iPSC-Derived Cornea Organoids for Investigating Aniridia-Associated Corneal Disorders.",
+      "abstract": "Aniridia is a rare congenital eye disorder marked by the partial or complete absence of the iris, and it is often associated with corneal opacification and limbal stem cell deficiency. The underlying genetic mutations, primarily affecting the PAX6 gene, disrupt both the development and function of the cornea. The most common ocular features besides iris defects are nystagmus, foveal hypoplasia, cataract, glaucoma and aniridia-associated keratopathy (AAK). Although in vivo models offer valuable insights into the pathology of aniridia, patient-derived in vitro models are crucial for investigating disease mechanisms and evaluating potential therapies. In this study, we present an in vitro AAK model using patient-derived induced pluripotent stem cells (iPSCs). Our protocol involves the stepwise differentiation of iPSCs into corneal epithelial-like cells within self-assembled three-dimensional organoids, which mimic the native corneal microenvironment. Through the optimization of differentiation culture conditions, we successfully generated corneal organoids that harbor distinct corneal cell populations, recapitulating the key structural and functional attributes of the human cornea.",
+      "journal": "Journal of visualized experiments : JoVE",
+      "publicationTypes": [
+        "Journal Article",
+        "Video-Audio Media"
+      ],
+      "affiliations": [
+        "Izmir Biomedicine and Genome Center; Izmir International Biomedicine and Genome Institute, Dokuz Eylül University.",
+        "Izmir Biomedicine and Genome Center; Izmir International Biomedicine and Genome Institute, Dokuz Eylül University; mustafa.titiz@ibg.edu.tr.",
+        "Izmir Biomedicine and Genome Center; Izmir International Biomedicine and Genome Institute, Dokuz Eylül University; Department of Medical Biology and Genetics, Faculty of Medicine, Dokuz Eylül University; sinan.guven@ibg.edu.tr."
+      ],
+      "doi": "10.3791/68556",
+      "date": "2026-07-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612147/"
+    },
+    {
+      "pmid": "42612119",
+      "title": "Construction of Human Breast Cancer Organoids and Comet Assay-Based Quantification of Doxorubicin-Induced DNA Damage.",
+      "abstract": "Breast cancer is the most common malignancy among women worldwide and exhibits substantial heterogeneity. Doxorubicin (DOX) is widely used in breast cancer treatment, and its primary mechanism of action involves inducing DNA double-strand breaks and triggering cell death. In this protocol, a human BCO model was established to quantitatively assess DOX-induced DNA damage. Primary breast cancer cells were isolated from patient-derived tumor tissues through mechanical and enzymatic dissociation and subsequently cultured in a three-dimensional matrix to generate BCOs. Organoids were then treated with 8 μM DOX for 2 h. DNA damage was evaluated after 2 h of treatment. Following treatment, organoids were dissociated into single cells, embedded in low-melting-point agarose, and electrophoresed under alkaline conditions. Following electrophoresis, DNA migration patterns were visualized as comet structures under fluorescence microscopy and quantitatively analyzed using OpenComet software to determine the percentage of tail DNA (% Tail DNA). The comet assay successfully detected DNA damage in BCOs. Compared to the control group, BCOs exposed to 8 μM DOX for 2 h exhibited elongated comet tails following organoid dissociation and electrophoresis. Quantitative analysis revealed that the percentage of tail DNA was significantly higher in the treated group, indicating the induction of DNA damage. This highly sensitive method supports toxicological and pharmacodynamic studies of DOX and provides a robust technical platform for assessing DNA damage in patient-derived BCO systems.",
+      "journal": "Journal of visualized experiments : JoVE",
+      "publicationTypes": [
+        "Journal Article",
+        "Video-Audio Media"
+      ],
+      "affiliations": [
+        "College of Life Science, North China University of Science and Technology; Jiangsu Province Engineering Research Center of Development and Translation of Key Technologies for Chronic Disease Prevention and Control, Suzhou Vocational Health College.",
+        "School of Chemistry and Life Sciences, Suzhou University of Science and Technology.",
+        "Jiangsu Province Engineering Research Center of Development and Translation of Key Technologies for Chronic Disease Prevention and Control, Suzhou Vocational Health College.",
+        "Thyroid and Breast Surgery, Wuzhong People's Hospital of Suzhou City.",
+        "Department of Radiation Oncology, The Affiliated Hospital of Soochow University; ljl2049@163.com.",
+        "Thyroid and Breast Surgery, Wuzhong People's Hospital of Suzhou City; xq810@163.com.",
+        "College of Life Science, North China University of Science and Technology; Jiangsu Province Engineering Research Center of Development and Translation of Key Technologies for Chronic Disease Prevention and Control, Suzhou Vocational Health College; School of Chemistry and Life Sciences, Suzhou University of Science and Technology; liusongbai@126.com."
+      ],
+      "doi": "10.3791/71299",
+      "date": "2026-07-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612119/"
+    },
+    {
+      "pmid": "42611889",
+      "title": "Brain Organoids as Emerging Platforms for Modeling CNS Infections: Neuropathogenesis, Therapeutic Discovery, and Drug Delivery.",
+      "abstract": "Neurotropic viruses remain a persistent global health challenge, and the mechanisms by which they damage the human brain are not yet fully understood. Animal models are often limited by human-specific aspects of CNS biology, whereas two-dimensional (2D) cell cultures cannot recapitulate the complex three-dimensional (3D) cellular interactions that occur during viral infection of the brain. Over the past decade, brain organoids derived from human stem cells have emerged as physiologically relevant models that address these limitations. These 3D cultures self-assemble into structures containing neurons, astrocytes, and progenitor cells arranged in patterns that resemble early brain development. This review examines the application of brain organoids to the study of infections caused by Zika virus (ZIKV), severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), herpes simplex virus (HSV), and human immunodeficiency virus type 1 (HIV-1). Studies were screened from PubMed and shortlisted based on their relevance to organoid-based CNS infection modeling, antiviral drug screening, CNS-targeted drug delivery, and neuroinflammation. Organoid-based antiviral screening has identified promising compounds from libraries containing more than 1,000 candidates. Drug delivery strategies are also discussed, with particular emphasis on nanoparticles, polymer-based carriers, and extracellular vesicles (EVs) evaluated in organoid and spheroid models for their ability to cross the blood-brain barrier (BBB) and deliver therapeutic cargo to neural cells. The roles of damage-associated and pathogen-associated molecular patterns (DAMPs and PAMPs) in neuroinflammation, complement evasion, and chronic post-infection damage, including long COVID, are also examined. Current limitations, including the lack of functional vasculature, incomplete BBB components, and reproducibility challenges, are discussed. Despite these limitations, CNS organoids bridge the gap between basic research and clinical application, advancing the development of effective therapies for viral infections of the brain.",
+      "journal": "Journal of visualized experiments : JoVE",
+      "publicationTypes": [
+        "Journal Article",
+        "Video-Audio Media",
+        "Review"
+      ],
+      "affiliations": [
+        "Laboratory of Molecular Virology, George Mason University.",
+        "Laboratory of Molecular Virology, George Mason University; fkashanc@gmu.edu."
+      ],
+      "doi": "10.3791/70757",
+      "date": "2026-08-07",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42611889/"
+    },
+    {
+      "pmid": "42611725",
+      "title": "Fabrication of a Vertically Stacked Dentin-Pulp Complex Organ-on-a-Chip Device Using a Human Dentin Disc.",
+      "abstract": "Conventional preclinical models used in dental research, including animal models and static cell cultures, present important limitations in reproducing the physiological conditions of the dentin-pulp interface and predicting human biological responses to dental biomaterials. Organ-on-a-chip (OoC) technology provides an alternative approach by enabling the recreation of tissue-specific microenvironments within controlled microfluidic systems. This manuscript describes a step-by-step protocol for the fabrication and assembly of a dentin-pulp complex OoC device incorporating a human dentin disc within a three-layer polydimethylsiloxane (PDMS) microfluidic platform. The protocol includes dentin disc preparation, fabrication of microstructured molds using photolithography, PDMS casting and curing, plasma-assisted layer bonding, device assembly, leak testing, and dental pulp stem cell seeding under static culture conditions. Critical fabrication parameters influencing device performance are discussed, including control of PDMS layer thickness, plasma surface treatment, and integration of the dentin disc within the device to minimize leakage. Cell adhesion and viability within the device were evaluated using scanning electron microscopy and confocal live/dead staining. Representative results demonstrate successful integration of the dentin disc within the microfluidic assembly, maintenance of leak-free conditions, and adhesion of viable dental pulp stem cells to the dentin surface. This protocol provides a reproducible approach for the fabrication of a dentin-pulp complex OoC platform that may support future studies investigating cellular responses to dental biomaterials and microenvironmental stimuli.",
+      "journal": "Journal of visualized experiments : JoVE",
+      "publicationTypes": [
+        "Journal Article",
+        "Video-Audio Media"
+      ],
+      "affiliations": [
+        "Center of Excellence in Physics and Engineering in Health, Universidad de La Frontera; Faculty of Dentistry, Universidad de La Frontera.",
+        "Master in Dentistry Program, Faculty of Dentistry, Universidad de La Frontera.",
+        "Center for Science and Technology of Valparaíso (CCTVal), Universidad Técnica Federico Santa María.",
+        "Faculty of Dentistry, Universidad de La Frontera.",
+        "Scientific and Technological Bioresource Nucleus (BIOREN), Universidad de La Frontera.",
+        "Center of Excellence in Physics and Engineering in Health, Universidad de La Frontera; Department of Chemical Engineering, Faculty of Engineering and Sciences, Universidad de La Frontera; mauricio.zamorano@ufrontera.cl."
+      ],
+      "doi": "10.3791/71713",
+      "date": "2026-08-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42611725/"
+    },
     {
       "pmid": "42610180",
       "title": "Intrinsically co-registered extended-depth-of-focus OCM and two-photon microscopy for label-free volumetric analysis of 3D cell models.",
@@ -87,74 +166,6 @@
       "doi": "10.22038/ijbms.2026.90248.19456",
       "date": "2026-01-01",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42610144/"
-    },
-    {
-      "pmid": "42609747",
-      "title": "Automated Optofluidic Analysis of Single Extracellular Vesicles for Organoid Culture Monitoring.",
-      "abstract": "Advances in organoid-on-chip technology are transforming culturing methods by enabling precise control over biochemical environments and sustained nutrient delivery. Conventional methods for assessing organoid health are invasive, requiring skilled manual handling and sacrificing the tissue for analysis. We present a fully automated, integrated system for noninvasive extraction, labeling, and optical analysis of extracellular vesicles (EVs) secreted by 3D organoid cultures. EVs contain important molecular biomarker cargo, such as nucleic acids and proteins, enabling real-time insight on the health of their cell of origin. Using a polydimethylsiloxane (PDMS) optofluidic biosensor, we demonstrate: (1) optical detection of single EVs derived from organoid culture; (2) on-chip sample processing and counting of single EVs; and (3) automating conditioned media delivery, on-chip sample preparation, and optical detection of EVs in a single integrated system. Together, these results showcase a noninvasive approach to monitoring organoid health through EV signatures present in conditioned media. The integrated platform based on a modular optofluidic analysis chip further offers a foundation for integrating a variety of downstream analysis techniques, advancing continuous organoid-on-a-chip monitoring.",
-      "journal": "IEEE journal of selected topics in quantum electronics : a publication of the IEEE Lasers and Electro-optics Society",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Baskin School of Engineering, University of California, Santa Cruz, Santa Cruz, CA, USA.",
-        "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA."
-      ],
-      "doi": "10.1109/JSTQE.2026.3672359",
-      "date": "2026-03-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609747/"
-    },
-    {
-      "pmid": "42609555",
-      "title": "2'-FL's Depiction of the Human Physiological Function Landscape.",
-      "abstract": "2'-fucosyllactose (2'-FL) is a major fucosylated human milk oligosaccharide characterized by a terminal α1,2-linked fucose residue, which supports its interactions with gut microbes, host glycan-recognition systems, and pathogen-binding sites. This review proposes that 2'-FL acts mainly through a hierarchical host-microbiota mechanism: it first shapes gut microbial composition, then influences microbial metabolites such as short-chain fatty acids, and subsequently contributes to intestinal barrier integrity, immune homeostasis, and broader physiological outcomes. Current evidence is strongest for the safety of 2'-FL-containing infant formula, its bifidogenic effect, and its role in gut barrier and immune regulation. Preclinical studies further suggest potential benefits in allergy modulation through mast cell stabilization, suppression of Th2-skewed responses, and enhancement of regulatory immune pathways, as well as inhibition of TLR4/NF-κB-mediated inflammation. However, antiviral, metabolic, and neuroprotective effects remain emerging and are mainly supported by in vitro, organoid, animal, or computational studies. By distinguishing clinical evidence from mechanistic and preclinical findings, this review aims to provide a structured and evidence-based overview of the physiological functions and translational potential of 2'-FL.",
-      "journal": "Food science & nutrition",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "School of Pharmacy Southwest Medical University Luzhou Sichuan Province China.",
-        "Department of Pharmacy Affiliated Hospital of Southwest Medical University Luzhou Sichuan Province China."
-      ],
-      "doi": "10.1002/fsn3.72220",
-      "date": "2026-08-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609555/"
-    },
-    {
-      "pmid": "42609500",
-      "title": "Squamous transformation of EGFR-mutant lung adenocarcinoma after EGFR-TKI therapy: clonal continuity, tissue-based diagnosis, and therapeutic evidence gaps.",
-      "abstract": "Assessment at progression after epidermal growth factor receptor tyrosine kinase inhibitor (EGFR-TKI) therapy in EGFR-mutant non-small cell lung cancer requires more than identifying a single resistance mechanism. It also requires attention to lineage plasticity, tumor heterogeneity, the pattern of progression, and tissue-based findings. In a subset of patients, rebiopsy may reveal squamous histological transformation, sometimes with retention of the founder EGFR mutation. When present, retention of the founder EGFR mutation supports a shared clonal origin but does not, by itself, determine treatment. Confirmation of squamous transformation also changes the evidentiary context, because results from histologically unselected post-EGFR-TKI populations cannot always be applied directly to patients with confirmed transformation. This review focuses on squamous transformation and related basal/squamous reprogramming detected at EGFR-TKI progression, with particular emphasis on histological and molecular reassessment. We distinguish between direct clinical evidence from histologically confirmed transformed tumors and supportive translational evidence from EGFR-mutant resistance models and related lineage-transition systems. Plasma circulating tumor DNA can identify selected resistance alterations and track molecular evolution, but it cannot define morphology or lineage identity. When transformation is suspected, repeat tissue biopsy remains central, and reassessment should integrate morphology, immunohistochemistry, and paired molecular comparison with the original tumor. Integrated pathological and molecular reassessment may also uncover coexisting actionable alterations and help clarify whether progression is driven mainly by the transformed component, residual EGFR-dependent disease, or mixed resistance. Current evidence does not support a transformation-specific treatment sequence, so management remains individualized. Future studies should combine prospective rebiopsy cohorts, paired tissue-plasma profiling, and clinically annotated models to identify predictors of transformation and develop lineage-informed treatment strategies.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Oncology, Affiliated Hospital of Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China.",
-        "Department of Thoracic Surgery, Shenyang Tenth People's Hospital, Shenyang, Liaoning, China.",
-        "Oncology Department of Integrated Traditional Chinese and Western Medicine, Shenyang Tenth People's Hospital, Shenyang, Liaoning, China."
-      ],
-      "doi": "10.3389/fonc.2026.1910407",
-      "date": "2026-08-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609500/"
-    },
-    {
-      "pmid": "42609461",
-      "title": "Spatial transcriptomic analysis identifies a necroptosis-prone thyroid follicular cell state in Hashimoto's thyroiditis.",
-      "abstract": "Hashimoto's Thyroiditis (HT) is the leading cause of primary hypothyroidism, characterized by progressive thyroid follicular cell (TFC) loss and diffuse lymphocytic infiltration. While apoptosis dominates TFC death in HT, the role of pro-inflammatory necroptosis in TFC destruction, especially its cellular heterogeneity, spatial distribution, and inflammatory microenvironmental regulation, remains incompletely elucidated. We integrated spatial transcriptomics and multilevel functional validation to map necroptosis-associated cellular and molecular programs in HT. Thyroid tissues from a local clinical cohort were analyzed using transmission electron microscopy (TEM), immunohistochemistry, and immunoblotting to validate necroptosis-associated signatures. In vitro, Nthy-ori 3-1 cells were stimulated with TNF-α, with or without IFN-γ, to characterize necroptosis-associated signaling in thyrocytes. We identified a distinct TFC subpopulation (Cluster 2) with high enrichment of the TNF signaling pathway and TNFRSF1A expression, which exhibited a necroptosis-susceptible phenotype and served as the core receiver of inflammatory signals from the immune microenvironment. Pseudotime trajectory analysis showed synchronous upregulation of transcripts of core necroptotic molecules (RIPK3, MLKL) at a critical threshold during TFC dedifferentiation. The TEM revealed necroptosis-compatible ultrastructural features in HT thyrocytes. Notably, HT tissues showed an RIPK3-MLKL-predominant necroptosis-associated pattern, with no significant changes in total or phosphorylated RIPK1. Clinically, the expression of necroptosis-related markers (ZBP1, RIPK3, MLKL) in thyroid tissues and circulating pro-inflammatory cytokines (IL-6, IL-1β, IL-1α) in serum were significantly correlated with thyroid autoantibody (TPOAb, TgAb) titers and TFC dedifferentiation. In vitro, pharmacological inhibition of RIPK3 or MLKL effectively preserved thyrocyte membrane integrity, reduced cell death, and suppressed the secretion of pro-inflammatory cytokines. Our study provides a multimodal characterization of necroptosis in HT, showing that the inflammatory immune microenvironment is associated with TFC loss and activation of an RIPK3-MLKL-predominant necroptosis-related program, without detectable upregulation of total or phosphorylated RIPK1. Targeting the RIPK3-MLKL axis may represent an experimental therapeutic hypothesis that requires further validation in primary thyrocytes, organoids, and in vivo HT models.",
-      "journal": "Frontiers in immunology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Endocrinology, Shengjing Hospital of China Medical University, Shenyang, Liaoning, China.",
-        "Department of Endocrinology and Metabolism and the Institute of Endocrinology, NHC Key Laboratory of Diagnosis and Treatment of Thyroid Diseases, The First Hospital of China Medical University, Shenyang, Liaoning, China.",
-        "Department of Laboratory Medicine, National Clinical Research Center for Laboratory Medicine, The First Hospital of China Medical University, China Medical University, Shenyang, Liaoning, China."
-      ],
-      "doi": "10.3389/fimmu.2026.1902510",
-      "date": "2026-08-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609461/"
     },
     {
       "pmid": "42600555",
@@ -266,6 +277,22 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42497867/"
     },
     {
+      "pmid": "42611249",
+      "title": "Design and Characterization of SAKe, a Building Block for Protein Self-Assembly.",
+      "abstract": "The nanofabrication of functional protein-based surfaces is challenging due to the chemical complexity of proteins and their unpredictable behavior at the solid-liquid interface. Many proteins of interest-such as antibodies or large enzymatic complexes-lack strong and dynamic protein-protein and protein-surface interactions necessary to drive self-assembly of stable arrays with high surface coverage. Additionally, adsorption-induced conformational changes at the solid-liquid interface could lead to a loss of activity and increase the risk of undesirable interfacial processes. Here we introduce SAKe, a Kelch-like designer protein, as a versatile platform to address these challenges. Ancestral sequence reconstruction led to high thermal stability, and the high symmetry allowed modularity of the protein's core. Rational engineering of the bottom side allowed SAKe to form large (up to 5 μm in length), well-defined and pH-dependent two-dimensional assemblies while maintaining structural integrity, which is key for further development of functional materials. SAKe self-assembly was investigated through in-liquid atomic force microscopy on muscovite mica. High resolution imaging confirmed the integrity of the SAKe protein upon adsorption on the solid-liquid interface. These results showcase the SAKe protein as a platform for the further engineering of functional protein-based two-dimensional materials.",
+      "journal": "ACS nano",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Molecular Imaging and Photonics, Department of Chemistry, KU Leuven, Celestijnenlaan 200F - Box 2404, 3001Leuven, Belgium.",
+        "Laboratory for Biomolecular Modeling and Design, Department of Chemistry, KU Leuven, Celestijnenlaan 200G - Box 2403, 3001Leuven, Belgium."
+      ],
+      "doi": "10.1021/acsnano.6c04954",
+      "date": "2026-08-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42611249/"
+    },
+    {
       "pmid": "42606177",
       "title": "Redesign of energetically frustrated regions rescues function in defective T4 clamp loaders.",
       "abstract": "DNA polymerase clamp loaders are AAA+ ATPases that load sliding clamps on DNA for high-speed replication. Using a platform for high-throughput mutagenesis of replication proteins in T4 bacteriophage, we carried out saturation mutagenesis of the AAA+ ATPase module of the T4 clamp loader bearing a mutation, Gln 118→Asn (Q118N), that reduces fitness. We identified residues for which different mutations improve the fitness of the Q118N variant but are neutral in the wild-type background. These conditionally neutral \"rescue hotspots\" overlap with those identified earlier in another defective variant (D110C). These rescue hotspots localize to regions where the sequence is not optimal for the structure, as determined by energetic frustration analysis. We designed new sequences for three of these regions, using the protein-design algorithm ProteinMPNN. In two helical regions, several designed sequences increased the fitness of both wild-type and mutant proteins, likely due to enhanced stability. An inter-domain hinge in the AAA+ module changes conformation during activation, and designs for the hinge lead to loss of fitness in the wild-type background. However, when using the active conformation as the template, designs for the hinge increase the fitness of defective variants. In contrast designs templated on the inactive conformation lead to loss of fitness, suggesting that a proper conformational balance is crucial. Thus, adaptive capacity in the clamp loader resides in a network of conditionally neutral sites that enable functional tuning through shifts in stability and conformational equilibria.",
@@ -367,22 +394,21 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42572503/"
     },
     {
-      "pmid": "42567392",
-      "title": "Local energetic frustration: Protein evolution, conformational dynamics and design in the age of AI.",
-      "abstract": "Proteins operate under competing demands imposed by stability, dynamics, and function, all of which are shaped by evolution. Local energetic frustration provides a quantitative framework to describe how these competing requirements are distributed within the native states of proteins, identifying regions where interactions are optimized and others where energetic conflicts are retained to enable functional behavior. In recent years, the study of local frustration has expanded significantly, driven by the integration of large-scale structural datasets and advances in artificial intelligence methods. Comparative analyses have shown that frustration patterns encode evolutionary pressures across protein families, with minimally frustrated interactions stabilizing structural cores and highly frustrated regions often associated with catalysis, binding, conformational transitions as well as pathogenic phenotypes. At the same time, modern protein language models and structure prediction methods seem to implicitly capture the statistical and structural features underlying frustration, enabling its prediction directly from sequence or structure at proteome scale. These developments suggest that local energetic frustration may be interpreted as an emergent property of the evolutionary information learned by AI models. Here, we review recent advances in the analysis and prediction of local frustration and discuss how this framework could provide mechanistic insights into protein evolution, conformational dynamics, and design. We further argue that incorporating frustration into computational and experimental strategies will be essential to move beyond purely stability-driven approaches toward the rational engineering of functional proteins.",
-      "journal": "Biochimica et biophysica acta. Proteins and proteomics",
+      "pmid": "42612071",
+      "title": "lncRNAs and miRNAs in Exosome-Mediated Macrophage Polarization: Implications for Age-Related Macular Degeneration.",
+      "abstract": "Age-related macular degeneration (AMD) is a progressive and multifactorial retinal disease that represents a leading cause of irreversible vision loss among the elderly. Increasing evidence suggests that exosomes, small extracellular vesicles that mediate intercellular communication, play a critical role in regulating immune and angiogenic signaling in the retina. These vesicles transport diverse molecular cargo, including microRNAs (miRNAs) and long non-coding RNAs (lncRNAs). Recent studies highlight the importance of exosome-mediated ncRNA signaling in macrophage polarization, a key immunological process involved in AMD progression. Exosomal miRNAs and lncRNAs released from retinal pigment epithelium (RPE) cells, endothelial cells, and immune cells can regulate macrophage phenotypes and alter inflammatory and angiogenic pathways within the retina. Dysregulated ncRNAs, including miR-21, miR-23a, miR-150, and the lncRNA NEAT1, have been implicated in promoting macrophage-driven inflammation, lipid dysregulation, and pathological neovascularization. Through these mechanisms, exosomal ncRNAs contribute to the transition from early retinal stress and drusen formation to advanced forms of AMD characterized by geographic atrophy or choroidal neovascularization. In addition to their mechanistic role in disease progression, exosomal ncRNAs show promise as minimally invasive biomarkers for early diagnosis and monitoring of AMD. Their stability in biological fluids, such as plasma, aqueous humor, and vitreous fluid, suggests their potential use in liquid biopsy approaches. Moreover, engineered exosomes carrying therapeutic ncRNAs represent a promising strategy for modulating macrophage polarization and restoring retinal immune homeostasis. This review integrates current knowledge on the exosome-ncRNA-macrophage axis in AMD, highlighting its role in retinal immune regulation, disease progression, and therapeutic development. Understanding this emerging signaling network may provide new opportunities to develop precision diagnostic tools and targeted therapies to prevent or slow retinal degeneration in AMD.",
+      "journal": "Journal of visualized experiments : JoVE",
       "publicationTypes": [
         "Journal Article",
-        "Review"
+        "Video-Audio Media"
       ],
       "affiliations": [
-        "Computational Biology Group, Barcelona Supercomputing Center, Spain; Evolutionary Systems Biophysics Group, Barcelona Supercomputing Center, Spain.",
-        "Departamento de Física, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires and IFIBYNE, UBA-CONICET, Buenos Aires, Argentina.",
-        "Computational Biology Group, Barcelona Supercomputing Center, Spain. Electronic address: gonzalo.parra@bsc.es."
+        "Ophthalmology Department, Sanya Central Hospital; maijieying2025hj@hotmail.com.",
+        "Ophthalmology Department, Sanya Central Hospital."
       ],
-      "doi": "10.1016/j.bbapap.2026.141170",
-      "date": "2026-08-07",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42567392/"
+      "doi": "10.3791/71424",
+      "date": "2026-07-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612071/"
     },
     {
       "pmid": "42610895",
@@ -480,26 +506,35 @@
       "doi": "10.3389/fonc.2026.1894198",
       "date": "2026-08-03",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609878/"
-    },
-    {
-      "pmid": "42609723",
-      "title": "Liquid Biopsy-Based Profiling of TP53 Gene Hotspot Mutations in HBV-Induced Chronic Liver Disease and Hepatocellular Carcinoma Patients: A Study From Bangladesh.",
-      "abstract": "The tumor protein (TP53) gene is a common driver gene for somatic mutations in hepatocellular carcinoma(HCC), and detection may provide insight into evaluating disease progression. Circulating cell-free DNA (cfDNA) from liquid biopsy has emerged as a promising noninvasive biopsy material for identifying potential genetic alterations. This study explored the mutational signature of the TP53 gene in Hepatitis B virus (HBV)-infected chronic liver disease (CLD) and HCC patients from cfDNA. A total of 80 participants: 30 HCC, 30 CLD, and 20 healthy controls were included in this cross-sectional study. cfDNA was extracted from aseptically collected peripheral venous blood. TP53 (R249S) gene was amplified using selected primers via conventional PCR and visualized on a 2% agarose gel electrophoresis. Amplified products underwent Sanger sequencing; mutational analysis was done using MEGA11 software compared with the reference sequence. TP53 hotspot mutations were found in 23.3% (7/30) of HCC patients. Mutational frequencies were detected: 13.3% (4/30) at position 746G > A (R249S), 6.7% (2/30) at 747G > A (R249S), and 3.3% (1/30) at 735C > T (G245S). Among CLD patients, a single hotspot mutation (3.3%) was detected at position 744G > A/T(R248Q/W). However, no hotspot mutation was detected in healthy controls. All HCC patients with mutations (7/7, 100%) had elevated ALT, AST, serum bilirubin, and AFP levels, and in the unmutated (wild) group, these were 69.6%, 47.8%, 30.4%, and 60.9%, respectively. The mean AST and AFP levels were significantly higher in mutated patients compared with the wild group. Detection of TP53 gene mutations along with biochemical markers in the management of HCC is evident, and it may play an important role in targeted therapy and personalized treatment plans.",
-      "journal": "International journal of hepatology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Virology, Bangladesh Medical University (BMU), Dhaka, Bangladesh.",
-        "Department of Microbiology, Shaheed Mansur Ali Medical College & Hospital, Dhaka, Bangladesh.",
-        "Programme of Emerging Infections (PEI), Infectious Disease Division (IDD), icddr, b, Dhaka, Bangladesh, icddrb.org."
-      ],
-      "doi": "10.1155/ijh/6175143",
-      "date": "2026-08-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609723/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42611249",
+      "date": "2026-08-18",
+      "title": "Design and Characterization of SAKe, a Building Block for Protein Self-Assembly.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42611249/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 ACS nano，PMID 为 42611249。",
+      "report": "The nanofabrication of functional protein-based surfaces is challenging due to the chemical complexity of proteins and their unpredictable behavior at the solid-liquid interface. Many proteins of interest-such as antibodies or large enzymatic complexes-lack st...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42610895",
       "date": "2026-08-18",
@@ -618,65 +653,31 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42609723",
-      "date": "2026-08-17",
-      "title": "Liquid Biopsy-Based Profiling of TP53 Gene Hotspot Mutations in HBV-Induced Chronic Liver Disease and Hepatocellular Carcinoma Patients: A Study From Bangladesh.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609723/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of hepatology，PMID 为 42609723。",
-      "report": "The tumor protein (TP53) gene is a common driver gene for somatic mutations in hepatocellular carcinoma(HCC), and detection may provide insight into evaluating disease progression. Circulating cell-free DNA (cfDNA) from liquid biopsy has emerged as a promising...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42609555",
-      "date": "2026-08-16",
-      "title": "2'-FL's Depiction of the Human Physiological Function Landscape.",
+      "id": "pubmed-42611725",
+      "date": "2026-08-14",
+      "title": "Fabrication of a Vertically Stacked Dentin-Pulp Complex Organ-on-a-Chip Device Using a Human Dentin Disc.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609555/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42611725/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
+        "Advanced Disease Models"
       ],
       "tags": [
         "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
+        "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Food science & nutrition，PMID 为 42609555。",
-      "report": "2'-fucosyllactose (2'-FL) is a major fucosylated human milk oligosaccharide characterized by a terminal α1,2-linked fucose residue, which supports its interactions with gut microbes, host glycan-recognition systems, and pathogen-binding sites. This review prop...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42611725。",
+      "report": "Conventional preclinical models used in dental research, including animal models and static cell cultures, present important limitations in reproducing the physiological conditions of the dentin-pulp interface and predicting human biological responses to denta...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -802,86 +803,32 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42567392",
+      "id": "pubmed-42611889",
       "date": "2026-08-07",
-      "title": "Local energetic frustration: Protein evolution, conformational dynamics and design in the age of AI.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42567392/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biochimica et biophysica acta. Proteins and proteomics，PMID 为 42567392。",
-      "report": "Proteins operate under competing demands imposed by stability, dynamics, and function, all of which are shaped by evolution. Local energetic frustration provides a quantitative framework to describe how these competing requirements are distributed within the n...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42609500",
-      "date": "2026-08-03",
-      "title": "Squamous transformation of EGFR-mutant lung adenocarcinoma after EGFR-TKI therapy: clonal continuity, tissue-based diagnosis, and therapeutic evidence gaps.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609500/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42609500。",
-      "report": "Assessment at progression after epidermal growth factor receptor tyrosine kinase inhibitor (EGFR-TKI) therapy in EGFR-mutant non-small cell lung cancer requires more than identifying a single resistance mechanism. It also requires attention to lineage plastici...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42609461",
-      "date": "2026-08-03",
-      "title": "Spatial transcriptomic analysis identifies a necroptosis-prone thyroid follicular cell state in Hashimoto's thyroiditis.",
+      "title": "Brain Organoids as Emerging Platforms for Modeling CNS Infections: Neuropathogenesis, Therapeutic Discovery, and Drug Delivery.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609461/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42611889/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Multi-omics"
+        "Drug Screening"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "多组学"
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42609461。",
-      "report": "Hashimoto's Thyroiditis (HT) is the leading cause of primary hypothyroidism, characterized by progressive thyroid follicular cell (TFC) loss and diffuse lymphocytic infiltration. While apoptosis dominates TFC death in HT, the role of pro-inflammatory necroptos...",
+      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42611889。",
+      "report": "Neurotropic viruses remain a persistent global health challenge, and the mechanisms by which they damage the human brain are not yet fully understood. Animal models are often limited by human-specific aspects of CNS biology, whereas two-dimensional (2D) cell c...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -915,6 +862,34 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42609878。",
       "report": "Circulating tumor DNA (ctDNA) has rapidly evolved from a research tool to a clinically applicable biomarker in colorectal cancer (CRC), transforming the assessment of minimal residual disease (MRD) and recurrence risk. The growing availability of commercial as...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42612071",
+      "date": "2026-07-31",
+      "title": "lncRNAs and miRNAs in Exosome-Mediated Macrophage Polarization: Implications for Age-Related Macular Degeneration.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612071/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42612071。",
+      "report": "Age-related macular degeneration (AMD) is a progressive and multifactorial retinal disease that represents a leading cause of irreversible vision loss among the elderly. Increasing evidence suggests that exosomes, small extracellular vesicles that mediate inte...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -979,6 +954,64 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42591814。",
       "report": "Incorporating minimal antibody regions into engineered proteins is an effective strategy for creating targeted therapeutics and diagnostics. However, a major barrier to clinical translation is the lack of efficient methods to track their performance in vivo. B...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42612147",
+      "date": "2026-07-28",
+      "title": "Patient-Specific iPSC-Derived Cornea Organoids for Investigating Aniridia-Associated Corneal Disorders.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612147/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42612147。",
+      "report": "Aniridia is a rare congenital eye disorder marked by the partial or complete absence of the iris, and it is often associated with corneal opacification and limbal stem cell deficiency. The underlying genetic mutations, primarily affecting the PAX6 gene, disrup...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42612119",
+      "date": "2026-07-28",
+      "title": "Construction of Human Breast Cancer Organoids and Comet Assay-Based Quantification of Doxorubicin-Induced DNA Damage.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612119/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42612119。",
+      "report": "Breast cancer is the most common malignancy among women worldwide and exhibits substantial heterogeneity. Doxorubicin (DOX) is widely used in breast cancer treatment, and its primary mechanism of action involves inducing DNA double-strand breaks and triggering...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1151,34 +1184,6 @@
       "fact": "PubMed 记录显示该文献收录于 Cureus，PMID 为 42610161。",
       "report": "Background Oral potentially malignant disorders (OPMDs) represent precursor conditions that carry an elevated probability of progressing to oral squamous cell carcinoma (OSCC). Despite ongoing research efforts, identifying dependable, non-invasive markers that...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42609747",
-      "date": "2026-03-10",
-      "title": "Automated Optofluidic Analysis of Single Extracellular Vesicles for Organoid Culture Monitoring.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609747/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 IEEE journal of selected topics in quantum electronics : a publication of the IEEE Lasers and Electro-optics Society，PMID 为 42609747。",
-      "report": "Advances in organoid-on-chip technology are transforming culturing methods by enabling precise control over biochemical environments and sustained nutrient delivery. Conventional methods for assessing organoid health are invasive, requiring skilled manual hand...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-08-18",
+  "updatedAt": "2026-08-19",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -821,6 +821,72 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42611249",
+      "date": "2026-08-18",
+      "title": "Design and Characterization of SAKe, a Building Block for Protein Self-Assembly.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42611249/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 ACS nano，PMID 为 42611249。",
+      "report": "The nanofabrication of functional protein-based surfaces is challenging due to the chemical complexity of proteins and their unpredictable behavior at the solid-liquid interface. Many proteins of interest-such as antibodies or large enzymatic complexes-lack st...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_08df578e96adcd3d006a850d00205087d1abdc34821ecf8b48",
+        "reviewedAt": "2026-08-19T01:55:11.097019+00:00",
+        "inputHash": "50679cc23803bef7ad510fc49c53b2cbe363e48eb5b0931f5c7d2bc8c9433074",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文章标题虽然关注技术，但未明确对研究质量和应用进行评估，可能存在解读偏差。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类不够准确，未能反映研究的实质性贡献。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平评估不足，未能明确该研究的临床及商业化影响。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Biotech"
+          ],
+          "tags": [
+            "biotech"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 ACS nano，PMID 为 42611249。",
+          "report": "The nanofabrication of functional protein-based surfaces is challenging due to the chemical complexity of proteins and their unpredictable behavior at the solid-liquid interface.",
+          "inference": "该研究未提供对实际应用的明确指导，仅为技术性文献。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42610895",
       "date": "2026-08-18",
       "title": "Logic-Gated Dual-Aptamer Proximity AlphaLISA for Rapid and Sensitive Detection of Tumor-Derived Small Extracellular Vesicles.",
@@ -973,6 +1039,79 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "sec-0001801198-000117184326005623",
+      "date": "2026-08-18",
+      "title": "Legend Biotech filed Form 6-K",
+      "entity": "Legend Biotech",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326005623/f6k_081826.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Corporate Filings",
+        "Cell Therapy"
+      ],
+      "tags": [
+        "SEC",
+        "6-K",
+        "LEGN"
+      ],
+      "companyIds": [
+        "legend-biotech"
+      ],
+      "fact": "SEC EDGAR lists accession 0001171843-26-005623 for Legend Biotech, Form 6-K, filed on 2026-08-18.",
+      "report": "SEC metadata describes the primary document as: FORM 6-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_00e94364aced665f006a850d06b3788190aafb829c509f2f26",
+        "reviewedAt": "2026-08-19T01:55:11.097019+00:00",
+        "inputHash": "c1dca5c6030972f683c9a554e9cb60bbb331298d15aecf202e0c6ae00d214435",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "此信号符合出版标准，信息清晰且中立。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "类别和证据水平合理，符合信号元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论明确区分，符合要求。"
+        },
+        "riskFlags": [
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Cell Therapy"
+          ],
+          "tags": [
+            "SEC",
+            "6-K",
+            "LEGN"
+          ],
+          "fact": "SEC EDGAR lists accession 0001171843-26-005623 for Legend Biotech, Form 6-K, filed on 2026-08-18.",
+          "report": "SEC metadata describes the primary document as: FORM 6-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
       "id": "pubmed-42606177",
       "date": "2026-08-17",
       "title": "Redesign of energetically frustrated regions rescues function in defective T4 clamp loaders.",
@@ -1110,80 +1249,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42609723",
-      "date": "2026-08-17",
-      "title": "Liquid Biopsy-Based Profiling of TP53 Gene Hotspot Mutations in HBV-Induced Chronic Liver Disease and Hepatocellular Carcinoma Patients: A Study From Bangladesh.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609723/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of hepatology，PMID 为 42609723。",
-      "report": "The tumor protein (TP53) gene is a common driver gene for somatic mutations in hepatocellular carcinoma(HCC), and detection may provide insight into evaluating disease progression. Circulating cell-free DNA (cfDNA) from liquid biopsy has emerged as a promising...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0c89d7142e90870d006a84aba56bf0819dae83fb6df9dcba12",
-        "reviewedAt": "2026-08-18T18:59:35.819364+00:00",
-        "inputHash": "1b877faaad9f7a7bafcc6256fa8250c7773e15186447989d98147fcbd672e4db",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录分离事实、报告、推论和未知情况，符合发表要求。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类与提供的元数据合理相符。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论的区别明确，证据水平合理。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 International journal of hepatology，PMID 为 42609723。",
-          "report": "The tumor protein (TP53) gene is a common driver gene for somatic mutations in hepatocellular carcinoma(HCC), and detection may provide insight into evaluating disease progression. Circulating cell-free DNA (cfDNA) from liquid biopsy has emerged as a promising...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "sec-0001110803-000119312526354010",
       "date": "2026-08-17",
       "title": "Illumina filed Form 8-K",
@@ -1257,79 +1322,68 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42609555",
-      "date": "2026-08-16",
-      "title": "2'-FL's Depiction of the Human Physiological Function Landscape.",
+      "id": "pubmed-42611725",
+      "date": "2026-08-14",
+      "title": "Fabrication of a Vertically Stacked Dentin-Pulp Complex Organ-on-a-Chip Device Using a Human Dentin Disc.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609555/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42611725/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
       "themes": [
         "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
+        "Advanced Disease Models"
       ],
       "tags": [
         "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
+        "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Food science & nutrition，PMID 为 42609555。",
-      "report": "2'-fucosyllactose (2'-FL) is a major fucosylated human milk oligosaccharide characterized by a terminal α1,2-linked fucose residue, which supports its interactions with gut microbes, host glycan-recognition systems, and pathogen-binding sites. This review prop...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42611725。",
+      "report": "Conventional preclinical models used in dental research, including animal models and static cell cultures, present important limitations in reproducing the physiological conditions of the dentin-pulp interface and predicting human biological responses to denta...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_00c7617ab1ea64d8006a84abaa46b081a290a5a89c59ebba88",
-        "reviewedAt": "2026-08-18T18:59:35.819364+00:00",
-        "inputHash": "369b6229f10be06d56a8a7792d8996f5cd2c6a7b084b407ae8e8eda0b89ed8db",
+        "responseId": "resp_0c345b5682746f60006a850d0b42648196b7dfd44e27a20223",
+        "reviewedAt": "2026-08-19T01:55:11.097019+00:00",
+        "inputHash": "ce6573a3635390b57b980d621491afdc6dbd8f52afc88dbcced2dd1906bf6b2d",
         "status": "pass",
-        "confidence": 0.85,
+        "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "信息清晰且分类合理，内容适合发布。",
+        "reviewSummaryCn": "该文献记录的分类和证据水平合理，信息分离清晰，无临床结论或建议。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "主要分类和子分类符合提供的元数据。"
+          "notesCn": "基础分类与主题一致，符合文献内容。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断之间的区分明确。"
+          "notesCn": "文献记录来源可靠，提供了适当的证据水平。"
         },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
+        "riskFlags": [],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
           "subCategory": "Organoids & Advanced Disease Models",
           "evidenceLevel": "Medium",
           "themes": [
             "Organoids",
-            "Advanced Disease Models",
-            "Clinical Evidence",
-            "Regulatory Watch"
+            "Advanced Disease Models"
           ],
           "tags": [
             "类器官",
-            "疾病模型",
-            "临床",
-            "监管"
+            "疾病模型"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Food science & nutrition，PMID 为 42609555。",
-          "report": "2'-fucosyllactose (2'-FL) is a major fucosylated human milk oligosaccharide characterized by a terminal α1,2-linked fucose residue, which supports its interactions with gut microbes, host glycan-recognition systems, and pathogen-binding sites. This review prop...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42611725。",
+          "report": "Conventional preclinical models used in dental research, including animal models and static cell cultures, present important limitations in reproducing the physiological conditions of the dentin-pulp interface and predicting human biological responses to dental treatments.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -2434,69 +2488,76 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42567392",
+      "id": "pubmed-42611889",
       "date": "2026-08-07",
-      "title": "Local energetic frustration: Protein evolution, conformational dynamics and design in the age of AI.",
-      "entity": "Biotech Research",
+      "title": "Brain Organoids as Emerging Platforms for Modeling CNS Infections: Neuropathogenesis, Therapeutic Discovery, and Drug Delivery.",
+      "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
+      "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42567392/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42611889/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Biotech"
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
       ],
       "tags": [
-        "biotech"
+        "类器官",
+        "疾病模型",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biochimica et biophysica acta. Proteins and proteomics，PMID 为 42567392。",
-      "report": "Proteins operate under competing demands imposed by stability, dynamics, and function, all of which are shaped by evolution. Local energetic frustration provides a quantitative framework to describe how these competing requirements are distributed within the n...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42611889。",
+      "report": "Neurotropic viruses remain a persistent global health challenge, and the mechanisms by which they damage the human brain are not yet fully understood. Animal models are often limited by human-specific aspects of CNS biology, whereas two-dimensional (2D) cell c...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_07fb4733460697b5006a76d84b346481a1af39389e1a2417e2",
-        "reviewedAt": "2026-08-08T07:18:09.937735+00:00",
+        "responseId": "resp_08394d5bde46bf57006a850d10d0cc8193ba048e1a05e40a4d",
+        "reviewedAt": "2026-08-19T01:55:11.097019+00:00",
+        "inputHash": "e11fb720c2c15e8ab648e7b843f786a1ab10c1276d7809cb98ee29833478af9b",
         "status": "needs_human",
-        "confidence": 0.85,
+        "confidence": 0.8,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "文献分类和研究的质量、样本量、临床阶段等信息不足，需人工审查。",
+        "reviewSummaryCn": "出版需人工审查，存在未支持的临床结论。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "所使用的证据水平与文献分类不匹配，需进一步验证。"
+          "notesCn": "分类不支持，因为数据缺乏临床应用的支持。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "evidenceLevel为中等，而所报告内容未充分支持此证据水平。"
+          "notesCn": "证据水平缺乏合理性与支持。"
         },
         "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
+          "weak_classification"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Low",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
           "themes": [
-            "Biotech"
+            "Organoids",
+            "Advanced Disease Models",
+            "Drug Screening"
           ],
           "tags": [
-            "biotech"
+            "类器官",
+            "疾病模型",
+            "药筛"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Biochimica et biophysica acta. Proteins and proteomics，PMID 为 42567392。",
-          "report": "Proteins operate under competing demands imposed by stability, dynamics, and function, all of which are shaped by evolution. Local energetic frustration provides a quantitative framework to describe how these competing requirements are distributed within the n...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        },
-        "inputHash": "05fd6882bcd2c305afe230f282ed8730f211399188f3e2e90fa6acc7a23bb384"
+          "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42611889。",
+          "report": "Neurotropic viruses remain a persistent global health challenge, and the mechanisms by which they damage the human brain are not yet fully understood. Animal models are often limited by human-specific aspects of CNS biology, whereas two-dimensional (2D) cell c...",
+          "inference": "分类自动化规则符合，未含有临床结论。",
+          "unknown": "缺乏对研究质量、样本量及商业化状态的评估。"
+        }
       }
     },
     {
@@ -3822,150 +3883,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42609500",
-      "date": "2026-08-03",
-      "title": "Squamous transformation of EGFR-mutant lung adenocarcinoma after EGFR-TKI therapy: clonal continuity, tissue-based diagnosis, and therapeutic evidence gaps.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609500/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42609500。",
-      "report": "Assessment at progression after epidermal growth factor receptor tyrosine kinase inhibitor (EGFR-TKI) therapy in EGFR-mutant non-small cell lung cancer requires more than identifying a single resistance mechanism. It also requires attention to lineage plastici...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_02984e06d96ae44b006a845a12622881a392cda7e17c0b1d82",
-        "reviewedAt": "2026-08-18T13:11:16.731323+00:00",
-        "inputHash": "474e3935696a918342c6d5520a62000feb4cb03adf73447e7f2cab3e24b54f49",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "内容准确，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，与主题相符。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "来源可靠，证据水平适中，语句分隔明确。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Biotech",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "biotech",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42609500。",
-          "report": "Assessment at progression after epidermal growth factor receptor tyrosine kinase inhibitor (EGFR-TKI) therapy in EGFR-mutant non-small cell lung cancer requires more than identifying a single resistance mechanism. It also requires attention to lineage plasticity.",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42609461",
-      "date": "2026-08-03",
-      "title": "Spatial transcriptomic analysis identifies a necroptosis-prone thyroid follicular cell state in Hashimoto's thyroiditis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609461/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42609461。",
-      "report": "Hashimoto's Thyroiditis (HT) is the leading cause of primary hypothyroidism, characterized by progressive thyroid follicular cell (TFC) loss and diffuse lymphocytic infiltration. While apoptosis dominates TFC death in HT, the role of pro-inflammatory necroptos...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_048e46d1eecaaf87006a845a16cf9c87d28f7a846a88a2ccdd",
-        "reviewedAt": "2026-08-18T13:11:16.731323+00:00",
-        "inputHash": "d183eba216158534ca67e8dbdfadb2859713a40b76839b934d7150eaaebaddba",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献内容中涉及哈希莫托甲状腺炎及相关细胞死亡机制，但存在未经验证的临床推论。需人工审查以确保无不当结论。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类对临床结论的支持不足，需要更多的背景信息作为依据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "文献的证据水平标记为中，但具体展开的研究质量、样本量及其临床意义未有明确说明。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42609461。",
-          "report": "Hashimoto's Thyroiditis (HT) is the leading cause of primary hypothyroidism, characterized by progressive thyroid follicular cell (TFC) loss and diffuse lymphocytic infiltration. While apoptosis dominates TFC death in HT, the role of pro-inflammatory necroptosis is being investigated.",
-          "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "未对研究质量、样本量、利益冲突、临床阶段或商业化状态进行评估。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42609878",
       "date": "2026-08-03",
       "title": "Circulating tumor DNA in colorectal cancer: assay selection, clinical applications, and practical integration for gastroenterologists.",
@@ -4418,6 +4335,76 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "pubmed-42612071",
+      "date": "2026-07-31",
+      "title": "lncRNAs and miRNAs in Exosome-Mediated Macrophage Polarization: Implications for Age-Related Macular Degeneration.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612071/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42612071。",
+      "report": "Age-related macular degeneration (AMD) is a progressive and multifactorial retinal disease that represents a leading cause of irreversible vision loss among the elderly. Increasing evidence suggests that exosomes, small extracellular vesicles that mediate inte...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0a9405cca54ee963006a850d16277481978b36133721845739",
+        "reviewedAt": "2026-08-19T01:55:11.097019+00:00",
+        "inputHash": "a590c6c53a58322581072f8b19b39e7ef59d3833b296996640e3d0436c6102b8",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号存在未支持的临床结论，需要人类审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类与内容之间缺乏充分支持。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "依据不足，证据水平被认为为中等，但缺乏明显的支持。"
+        },
+        "riskFlags": [
+          "medical_advice_risk",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42612071。",
+          "report": "Age-related macular degeneration (AMD) is a progressive and multifactorial retinal disease that represents a leading cause of irreversible vision loss among the elderly.",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -5451,6 +5438,150 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "pubmed-42612147",
+      "date": "2026-07-28",
+      "title": "Patient-Specific iPSC-Derived Cornea Organoids for Investigating Aniridia-Associated Corneal Disorders.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612147/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42612147。",
+      "report": "Aniridia is a rare congenital eye disorder marked by the partial or complete absence of the iris, and it is often associated with corneal opacification and limbal stem cell deficiency. The underlying genetic mutations, primarily affecting the PAX6 gene, disrup...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0b868c39e8737507006a850d1babec8197a9ba72f42a006745",
+        "reviewedAt": "2026-08-19T01:55:11.097019+00:00",
+        "inputHash": "d36e533c574cd165e74f0de1838a9aea235255f837acd94730c0eddf5af469e1",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审核，因为对研究质量和临床结论的判断不明确。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类需进一步验证以确保合理性。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "该证据水平判断似乎较低，需验证相关数据来源。"
+        },
+        "riskFlags": [
+          "insufficient_source",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42612147。",
+          "report": "Aniridia is a rare congenital eye disorder marked by the partial or complete absence of the iris, and it is often associated with corneal opacification and limbal stem cell deficiency. The underlying genetic mutations, primarily affecting the PAX6 gene, disrupt normal development.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42612119",
+      "date": "2026-07-28",
+      "title": "Construction of Human Breast Cancer Organoids and Comet Assay-Based Quantification of Doxorubicin-Induced DNA Damage.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612119/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42612119。",
+      "report": "Breast cancer is the most common malignancy among women worldwide and exhibits substantial heterogeneity. Doxorubicin (DOX) is widely used in breast cancer treatment, and its primary mechanism of action involves inducing DNA double-strand breaks and triggering...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0cd2d5cfd1ecdc2a006a850d2018b487d1ae2cc0390d429117",
+        "reviewedAt": "2026-08-19T01:55:11.097019+00:00",
+        "inputHash": "343c522117b364d5f4c23726f52155f0acc461a2effc9d3a9e59c1b3e40b4a5d",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查，存在临床效益和疗效的潜在隐含。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "所用分类不够明确，可能给读者带来误导。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "文献的证据水平与研究质量未得到支持。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42612119。",
+          "report": "Breast cancer is the most common malignancy among women worldwide and exhibits substantial heterogeneity. Doxorubicin (DOX) is widely used in breast cancer treatment, and its primary mechanism of action involves inducing DNA double-strand breaks and triggering...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -7164,75 +7295,6 @@ window.BHR_DATA = {
           "report": "The diverse microbial communities in different parts of the human body (microbiome) are important for health but understudied in pulmonary tuberculosis (TB), which is the single biggest infectious cause of death in the world. The investigators will study the s...",
           "inference": "该试验设计和现状不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42609747",
-      "date": "2026-03-10",
-      "title": "Automated Optofluidic Analysis of Single Extracellular Vesicles for Organoid Culture Monitoring.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609747/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 IEEE journal of selected topics in quantum electronics : a publication of the IEEE Lasers and Electro-optics Society，PMID 为 42609747。",
-      "report": "Advances in organoid-on-chip technology are transforming culturing methods by enabling precise control over biochemical environments and sustained nutrient delivery. Conventional methods for assessing organoid health are invasive, requiring skilled manual hand...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_04682c3ceada6269006a84abf5f8188191a44258a0bda98d27",
-        "reviewedAt": "2026-08-18T18:59:35.819364+00:00",
-        "inputHash": "ac941546ce2906b5a6b70ab0340a83f004f73ccc55fc5d3280f9c34e29820a33",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信号内容符合发布标准，未包含临床建议或不支持的结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 IEEE journal of selected topics in quantum electronics : a publication of the IEEE Lasers and Electro-optics Society，PMID 为 42609747。",
-          "report": "Advances in organoid-on-chip technology are transforming culturing methods by enabling precise control over biochemical environments and sustained nutrient delivery. Conventional methods for assessing organoid health are invasive, requiring skilled manual hand...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
