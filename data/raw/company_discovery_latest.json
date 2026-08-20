@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-08-20T07:09:06.366510+00:00",
+  "capturedAt": "2026-08-20T13:13:48.424578+00:00",
   "summary": {
-    "mentionCount": 668,
+    "mentionCount": 665,
     "candidateCount": 596,
-    "corroboratedCount": 5,
-    "identifiedCount": 585,
+    "corroboratedCount": 2,
+    "identifiedCount": 588,
     "needsReviewCount": 6,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 6,
+      "ClinicalTrials": 3,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 59,
@@ -20,93 +20,40 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-37f182eca9a36283",
-      "observedName": "Biotech Pharmaceutical Co., Ltd.",
-      "normalizedName": "biotech pharmaceutical",
+      "id": "mention-clinicaltrials-5eb7eec2bbf0acdf",
+      "observedName": "Janssen Research & Development, LLC",
+      "normalizedName": "janssen research and development",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT02591784",
-      "sourceDate": "2022-03-17",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT02591784",
+      "sourceRecordId": "NCT07518186",
+      "sourceDate": "2026-07-31",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07518186",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
+        "Recruiting",
         "中国",
-        "临床试验",
-        "肿瘤"
+        "临床试验"
       ],
       "activitySignals": [
+        "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Nimotuzumab in Combination With Radiotherapy for Esophageal Cancer"
+      "contextTitle": "A Study Comparing JNJ-79635322 and Teclistamab in Participants With Relapsed or Refractory Multiple Myeloma"
     },
     {
-      "id": "mention-clinicaltrials-6969a9c86f79f450",
-      "observedName": "Voyager Therapeutics",
-      "normalizedName": "voyager therapeutics",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT01973543",
-      "sourceDate": "2020-03-03",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01973543",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Gene Therapy",
-        "Genetic Medicine",
-        "临床试验",
-        "基因治疗",
-        "基因编辑"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Safety Study of AADC Gene Therapy (VY-AADC01) for Parkinson's Disease"
-    },
-    {
-      "id": "mention-clinicaltrials-69760dcc460a0c1c",
-      "observedName": "Veristat, Inc.",
-      "normalizedName": "veristat",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT01973543",
-      "sourceDate": "2020-03-03",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01973543",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Gene Therapy",
-        "Genetic Medicine",
-        "临床试验",
-        "基因治疗",
-        "基因编辑"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Safety Study of AADC Gene Therapy (VY-AADC01) for Parkinson's Disease"
-    },
-    {
-      "id": "mention-clinicaltrials-a6e550d8c3376d25",
-      "observedName": "Novartis Pharmaceuticals",
-      "normalizedName": "novartis pharmaceuticals",
+      "id": "mention-clinicaltrials-678aa8f0f56ae271",
+      "observedName": "Gyroscope Therapeutics Limited",
+      "normalizedName": "gyroscope therapeutics",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT01843348",
-      "sourceDate": "2017-05-01",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01843348",
+      "sourceRecordId": "NCT05481827",
+      "sourceDate": "2024-03-22",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05481827",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -117,60 +64,29 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "12 Month Athena Study: Everolimus vs. Standard Regimen in de Novo Kidney Transplant Patients"
+      "contextTitle": "ORACLE: A Long-term Follow-up Study to Evaluate the Safety of GT005 in Participants With Geographic Atrophy Secondary to Age-related Macular Degeneration Treated in a Gyroscope-sponsored Antecedent Study"
     },
     {
-      "id": "mention-clinicaltrials-b9936f7253655532",
-      "observedName": "Neurocrine Biosciences",
-      "normalizedName": "neurocrine biosciences",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT01973543",
-      "sourceDate": "2020-03-03",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01973543",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Gene Therapy",
-        "Genetic Medicine",
-        "临床试验",
-        "基因治疗",
-        "基因编辑"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Safety Study of AADC Gene Therapy (VY-AADC01) for Parkinson's Disease"
-    },
-    {
-      "id": "mention-clinicaltrials-ff807f4fbb93152d",
-      "observedName": "AIM ImmunoTech Inc.",
-      "normalizedName": "aim immunotech",
+      "id": "mention-clinicaltrials-ee889356dc44fd5c",
+      "observedName": "Novartis Pharmaceuticals",
+      "normalizedName": "novartis pharmaceuticals",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT03899987",
-      "sourceDate": "2026-06-09",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03899987",
+      "sourceRecordId": "NCT05481827",
+      "sourceDate": "2024-03-22",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05481827",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "Recruiting",
-        "临床试验",
-        "肿瘤"
+        "临床试验"
       ],
       "activitySignals": [
-        "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Aspirin and Rintatolimod With or Without Interferon-alpha 2b in Treating Patients With Prostate Cancer Before Surgery"
+      "contextTitle": "ORACLE: A Long-term Follow-up Study to Evaluate the Safety of GT005 in Participants With Geographic Atrophy Secondary to Age-related Macular Degeneration Treated in a Gyroscope-sponsored Antecedent Study"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -15707,10 +15623,10 @@
         "AIM ImmunoTech Inc."
       ],
       "normalizedName": "aim immunotech",
-      "status": "corroborated",
+      "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.98,
-      "autoPromotionEligible": true,
+      "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
       "lastSeenAt": "2026-08-19",
       "identifiers": {
@@ -15723,38 +15639,22 @@
       },
       "classificationHints": {
         "directions": [
-          "Biological Products, Except Diagnostic Substances",
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "Recruiting",
-          "临床试验",
-          "肿瘤"
+          "Biological Products, Except Diagnostic Substances"
         ],
         "themes": [
-          "Biological Products, Except Diagnostic Substances",
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "Recruiting",
-          "临床试验",
-          "肿瘤"
+          "Biological Products, Except Diagnostic Substances"
         ],
         "tags": []
       },
       "discoveryReasons": [
-        "SEC EDGAR 将该实体列为 biotech 相关 SIC 行业的注册主体。",
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。",
-        "2 个独立官方来源出现了可归一化到同一名称的记录。"
+        "SEC EDGAR 将该实体列为 biotech 相关 SIC 行业的注册主体。"
       ],
       "sourceTypes": [
-        "ClinicalTrials",
         "SEC"
       ],
-      "sourceCount": 2,
-      "mentionCount": 2,
+      "sourceCount": 1,
+      "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-ff807f4fbb93152d",
         "mention-sec-3ee173142d2453be"
       ],
       "sources": [
@@ -15766,15 +15666,6 @@
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000946644&owner=exclude&hidefilings=0",
           "externalId": "0000946644",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
-        },
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "collaborator",
-          "sourceDate": "2026-06-09",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT03899987",
-          "externalId": "NCT03899987",
-          "contextTitle": "Aspirin and Rintatolimod With or Without Interferon-alpha 2b in Treating Patients With Prostate Cancer Before Surgery"
         }
       ]
     },
@@ -33989,16 +33880,15 @@
     },
     {
       "id": "candidate-neurocrine-biosciences",
-      "name": "Neurocrine Biosciences",
+      "name": "Neurocrine Biosciences Inc",
       "aliases": [
-        "NEUROCRINE BIOSCIENCES INC",
-        "Neurocrine Biosciences"
+        "NEUROCRINE BIOSCIENCES INC"
       ],
       "normalizedName": "neurocrine biosciences",
-      "status": "corroborated",
+      "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.98,
-      "autoPromotionEligible": true,
+      "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
       "lastSeenAt": "2026-08-19",
       "identifiers": {
@@ -34011,38 +33901,22 @@
       },
       "classificationHints": {
         "directions": [
-          "Biological Products, Except Diagnostic Substances",
-          "Clinical Trials",
-          "Gene Therapy",
-          "Genetic Medicine",
-          "临床试验",
-          "基因治疗",
-          "基因编辑"
+          "Biological Products, Except Diagnostic Substances"
         ],
         "themes": [
-          "Biological Products, Except Diagnostic Substances",
-          "Clinical Trials",
-          "Gene Therapy",
-          "Genetic Medicine",
-          "临床试验",
-          "基因治疗",
-          "基因编辑"
+          "Biological Products, Except Diagnostic Substances"
         ],
         "tags": []
       },
       "discoveryReasons": [
-        "SEC EDGAR 将该实体列为 biotech 相关 SIC 行业的注册主体。",
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。",
-        "2 个独立官方来源出现了可归一化到同一名称的记录。"
+        "SEC EDGAR 将该实体列为 biotech 相关 SIC 行业的注册主体。"
       ],
       "sourceTypes": [
-        "ClinicalTrials",
         "SEC"
       ],
-      "sourceCount": 2,
-      "mentionCount": 2,
+      "sourceCount": 1,
+      "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-b9936f7253655532",
         "mention-sec-08905fcfe49ef472"
       ],
       "sources": [
@@ -34054,15 +33928,6 @@
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000914475&owner=exclude&hidefilings=0",
           "externalId": "0000914475",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
-        },
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2020-03-03",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT01973543",
-          "externalId": "NCT01973543",
-          "contextTitle": "Safety Study of AADC Gene Therapy (VY-AADC01) for Parkinson's Disease"
         }
       ]
     },
@@ -38573,16 +38438,15 @@
     },
     {
       "id": "candidate-voyager-therapeutics",
-      "name": "Voyager Therapeutics",
+      "name": "Voyager Therapeutics, Inc.",
       "aliases": [
-        "Voyager Therapeutics",
         "Voyager Therapeutics, Inc."
       ],
       "normalizedName": "voyager therapeutics",
-      "status": "corroborated",
+      "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.98,
-      "autoPromotionEligible": true,
+      "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
       "lastSeenAt": "2026-08-19",
       "identifiers": {
@@ -38595,38 +38459,22 @@
       },
       "classificationHints": {
         "directions": [
-          "Biological Products, Except Diagnostic Substances",
-          "Clinical Trials",
-          "Gene Therapy",
-          "Genetic Medicine",
-          "临床试验",
-          "基因治疗",
-          "基因编辑"
+          "Biological Products, Except Diagnostic Substances"
         ],
         "themes": [
-          "Biological Products, Except Diagnostic Substances",
-          "Clinical Trials",
-          "Gene Therapy",
-          "Genetic Medicine",
-          "临床试验",
-          "基因治疗",
-          "基因编辑"
+          "Biological Products, Except Diagnostic Substances"
         ],
         "tags": []
       },
       "discoveryReasons": [
-        "SEC EDGAR 将该实体列为 biotech 相关 SIC 行业的注册主体。",
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。",
-        "2 个独立官方来源出现了可归一化到同一名称的记录。"
+        "SEC EDGAR 将该实体列为 biotech 相关 SIC 行业的注册主体。"
       ],
       "sourceTypes": [
-        "ClinicalTrials",
         "SEC"
       ],
-      "sourceCount": 2,
-      "mentionCount": 2,
+      "sourceCount": 1,
+      "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-6969a9c86f79f450",
         "mention-sec-b59dcb07e2d889d6"
       ],
       "sources": [
@@ -38638,15 +38486,6 @@
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001640266&owner=exclude&hidefilings=0",
           "externalId": "0001640266",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
-        },
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "collaborator",
-          "sourceDate": "2020-03-03",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT01973543",
-          "externalId": "NCT01973543",
-          "contextTitle": "Safety Study of AADC Gene Therapy (VY-AADC01) for Parkinson's Disease"
         }
       ]
     },
@@ -44396,35 +44235,27 @@
       ]
     },
     {
-      "id": "candidate-biotech-pharmaceutical",
-      "name": "Biotech Pharmaceutical Co., Ltd.",
+      "id": "candidate-gyroscope-therapeutics",
+      "name": "Gyroscope Therapeutics Limited",
       "aliases": [
-        "Biotech Pharmaceutical Co., Ltd."
+        "Gyroscope Therapeutics Limited"
       ],
-      "normalizedName": "biotech pharmaceutical",
+      "normalizedName": "gyroscope therapeutics",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2022-03-17",
-      "lastSeenAt": "2022-03-17",
+      "firstSeenAt": "2024-03-22",
+      "lastSeenAt": "2024-03-22",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "中国",
-          "临床试验",
-          "肿瘤"
+          "临床试验"
         ],
         "themes": [
           "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "中国",
-          "临床试验",
-          "肿瘤"
+          "临床试验"
         ],
         "tags": []
       },
@@ -44437,41 +44268,45 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-37f182eca9a36283"
+        "mention-clinicaltrials-678aa8f0f56ae271"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2022-03-17",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT02591784",
-          "externalId": "NCT02591784",
-          "contextTitle": "Nimotuzumab in Combination With Radiotherapy for Esophageal Cancer"
+          "sourceDate": "2024-03-22",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT05481827",
+          "externalId": "NCT05481827",
+          "contextTitle": "ORACLE: A Long-term Follow-up Study to Evaluate the Safety of GT005 in Participants With Geographic Atrophy Secondary to Age-related Macular Degeneration Treated in a Gyroscope-sponsored Antecedent Study"
         }
       ]
     },
     {
-      "id": "candidate-novartis-pharmaceuticals",
-      "name": "Novartis Pharmaceuticals",
+      "id": "candidate-janssen-research-and-development",
+      "name": "Janssen Research & Development, LLC",
       "aliases": [
-        "Novartis Pharmaceuticals"
+        "Janssen Research & Development, LLC"
       ],
-      "normalizedName": "novartis pharmaceuticals",
+      "normalizedName": "janssen research and development",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2017-05-01",
-      "lastSeenAt": "2017-05-01",
+      "firstSeenAt": "2026-07-31",
+      "lastSeenAt": "2026-07-31",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
+          "Recruiting",
+          "中国",
           "临床试验"
         ],
         "themes": [
           "Clinical Trials",
+          "Recruiting",
+          "中国",
           "临床试验"
         ],
         "tags": []
@@ -44485,17 +44320,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-a6e550d8c3376d25"
+        "mention-clinicaltrials-5eb7eec2bbf0acdf"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2017-05-01",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT01843348",
-          "externalId": "NCT01843348",
-          "contextTitle": "12 Month Athena Study: Everolimus vs. Standard Regimen in de Novo Kidney Transplant Patients"
+          "sourceDate": "2026-07-31",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07518186",
+          "externalId": "NCT07518186",
+          "contextTitle": "A Study Comparing JNJ-79635322 and Teclistamab in Participants With Relapsed or Refractory Multiple Myeloma"
         }
       ]
     },
@@ -47704,35 +47539,27 @@
       ]
     },
     {
-      "id": "candidate-veristat",
-      "name": "Veristat, Inc.",
+      "id": "candidate-novartis-pharmaceuticals",
+      "name": "Novartis Pharmaceuticals",
       "aliases": [
-        "Veristat, Inc."
+        "Novartis Pharmaceuticals"
       ],
-      "normalizedName": "veristat",
+      "normalizedName": "novartis pharmaceuticals",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2020-03-03",
-      "lastSeenAt": "2020-03-03",
+      "firstSeenAt": "2017-05-01",
+      "lastSeenAt": "2024-03-22",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
-          "Gene Therapy",
-          "Genetic Medicine",
-          "临床试验",
-          "基因治疗",
-          "基因编辑"
+          "临床试验"
         ],
         "themes": [
           "Clinical Trials",
-          "Gene Therapy",
-          "Genetic Medicine",
-          "临床试验",
-          "基因治疗",
-          "基因编辑"
+          "临床试验"
         ],
         "tags": []
       },
@@ -47745,17 +47572,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-69760dcc460a0c1c"
+        "mention-clinicaltrials-ee889356dc44fd5c"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2020-03-03",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT01973543",
-          "externalId": "NCT01973543",
-          "contextTitle": "Safety Study of AADC Gene Therapy (VY-AADC01) for Parkinson's Disease"
+          "sourceDate": "2024-03-22",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT05481827",
+          "externalId": "NCT05481827",
+          "contextTitle": "ORACLE: A Long-term Follow-up Study to Evaluate the Safety of GT005 in Participants With Geographic Atrophy Secondary to Age-related Macular Degeneration Treated in a Gyroscope-sponsored Antecedent Study"
         }
       ]
     }

@@ -5791,13 +5791,7 @@
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "Biological Products, Except Diagnostic Substances",
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "Recruiting",
-          "临床试验",
-          "肿瘤"
+          "Biological Products, Except Diagnostic Substances"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -57081,7 +57075,7 @@
     },
     {
       "companyId": "candidate-neurocrine-biosciences",
-      "name": "Neurocrine Biosciences",
+      "name": "Neurocrine Biosciences Inc",
       "asOfDate": "2026-08-20",
       "profileStatus": "partial",
       "identity": {
@@ -57108,13 +57102,7 @@
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "Biological Products, Except Diagnostic Substances",
-          "Clinical Trials",
-          "Gene Therapy",
-          "Genetic Medicine",
-          "临床试验",
-          "基因治疗",
-          "基因编辑"
+          "Biological Products, Except Diagnostic Substances"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -73261,7 +73249,7 @@
     },
     {
       "companyId": "candidate-voyager-therapeutics",
-      "name": "Voyager Therapeutics",
+      "name": "Voyager Therapeutics, Inc.",
       "asOfDate": "2026-08-20",
       "profileStatus": "partial",
       "identity": {
@@ -73288,13 +73276,7 @@
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "Biological Products, Except Diagnostic Substances",
-          "Clinical Trials",
-          "Gene Therapy",
-          "Genetic Medicine",
-          "临床试验",
-          "基因治疗",
-          "基因编辑"
+          "Biological Products, Except Diagnostic Substances"
         ],
         "modalities": [],
         "watchTier": "Discovery"

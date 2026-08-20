@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-20T07:09:02.605425+00:00",
+  "capturedAt": "2026-08-20T13:13:44.675013+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,160 +14,166 @@
     "end": "2026-08-20"
   },
   "pmids": [
-    "42618529",
-    "42618331",
-    "42617726",
-    "42617597",
-    "42617537",
-    "42617253",
+    "42618956",
+    "42618795",
+    "42618778",
+    "42618695",
+    "42618615",
+    "42618558",
     "42600555",
     "42580899",
     "42559559",
     "42509463",
     "42498177",
     "42497867",
+    "42619129",
+    "42619090",
     "42616438",
     "42611249",
     "42606177",
     "42605681",
-    "42591814",
-    "42575164",
+    "42619413",
+    "42618642",
     "42618359",
     "42617374",
     "42617136",
-    "42616657",
-    "42616180",
-    "42615693"
+    "42616657"
   ],
   "records": [
     {
-      "pmid": "42618529",
-      "title": "\"Translational Models for Acute Asthma: Critical Evaluation of In Vivo, In Vitro, and Emerging Technologies in Drug Discovery\".",
-      "abstract": "To critically evaluate conventional and emerging preclinical methodologies for screening novel asthma therapeutics; to compare their translational relevance; and to propose an integrated framework aimed at improving precision, safety, and phenotype-targeted efficacy in drug development. A review of peer-reviewed literature was conducted using PubMed. Sources included studies on enzymatic and receptor-binding assays, in vitro cellular platforms, allergen-induced animal models, and recent innovations such as 3D airway organoids, lung-on-a-chip microfluidics, and omics-guided biomarker discovery. Included studies focused on (i) molecular validation of drug targets, (ii) mechanistic and high-throughput screening in cellular systems, (iii) in vivo replication of asthma pathophysiology in animal models, or (iv) technologies enhancing preclinical predictability. Conventional screening assays provide molecular validation but lack complexity. In vitro systems allow mechanistic insight and scalability, yet do not fully reproduce airway interactions. Allergen-induced animal models replicate inflammation and hyperresponsiveness but fail to capture human heterogeneity or acute exacerbations, a major contributor to morbidity and mortality. Acute asthma remains particularly difficult to model, limiting evaluation of therapies aimed at severe attacks. Emerging approaches, including organoids, lung-on-a-chip, and omics-based biomarkers, offer improved physiological relevance, dynamic assessment of inflammatory responses, and greater potential to model acute disease states. Integrating conventional and innovative models may accelerate the development of safer, more effective, and phenotype-specific asthma therapies. Approaches that incorporate both chronic disease and acute exacerbations could reduce steroid resistance, improve emergency care, and enhance translational success across diverse populations.",
-      "journal": "The Journal of asthma : official journal of the Association for the Care of Asthma",
+      "pmid": "42618956",
+      "title": "Developmental Cellular Programming: stage-specific architecting muscle and adipose tissues for high-quality meat production.",
+      "abstract": "The rising global demand for animal protein has driven intensive selection for rapid growth and leanness, often at the expense of meat quality and animal health. Achieving high-quality meat production with optimal intramuscular fat (IMF) and superior myofiber characteristics remains a major challenge in animal agriculture. Here, we propose a holistic conceptual framework termed Developmental Cellular Programming (DCP), which utilizes distinct developmental windows to precisely regulate skeletal muscle and adipose tissue formation in meat animals. Unlike traditional late-stage finishing strategies, the DCP framework operates as a coordinated, stage-specific pipeline: optimizing maternal nutrition during gestation to maximize prenatal myofiber hyperplasia and initiate adipocyte lineages; executing targeted neonatal interventions to drive microenvironment-mediated adipogenic precursor expansion and angiogenesis; and fine-tuning nutrient allocation during the finishing phase to control cellular hypertrophy and lipid deposition. Within this framework, vascularization is established as a critical, shared control point that coordinates multi-tissue niches to synchronize myofiber and adipocyte development. While advanced three-dimensional cell culture models, such as vascularized tissue organoids, have emerged as powerful platforms for high-throughput screening of key candidate metabolic modulators, bridging the gap to livestock production necessitates translating these cellular responses into whole-animal phenotypes. We propose that future research should focus on conducting in vivo animal trials to elucidate how various nutrients regulate muscle and adipose cell differentiation at specific developmental stages, thereby establishing precision nutritional strategies based on the DCP theory for high-quality meat production.",
+      "journal": "Journal of animal science and biotechnology",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Junior Resident, Department of Pharmacology, Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER), Puducherry, India. Contact: jr8499@jipmer.ac.in.",
-        "Associate Professor, Department of Pharmacology, Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER), Puducherry, India."
+        "State Key Laboratory of Animal Nutrition and Feeding, College of Animal Science and Technology, China Agricultural University, Beijing, 100193, PR China. wangbo123@cau.edu.cn."
       ],
-      "doi": "10.1080/02770903.2026.2721179",
+      "doi": "10.1186/s40104-026-01475-y",
       "date": "2026-08-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618529/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618956/"
     },
     {
-      "pmid": "42618331",
-      "title": "Human-Relevant Microphysiological Systems: Evidence for Defined Contexts of Use.",
-      "abstract": "The FDA Modernization Act has accelerated the transition from animal-based testing toward human-relevant new approach methodologies in drug development, shifting attention from technological feasibility to regulatory implementation. Among these approaches, microphysiological systems (MPS) can generate evidence that more directly reflects human physiology, but their regulatory readiness varies substantially across applications. This Review summarizes recent regulatory developments and evaluates the readiness of major organ-specific and multi-organ MPS. Liver MPS have advanced furthest through quantitative benchmarking, industrial adoption and sustained regulatory engagement, whereas kidney, lung, gastrointestinal, tumor, nervous system and multi-organ models remain limited by varying degrees of standardization, independent validation and clearly defined regulatory use. Across applications, major barriers include insufficiently specified contexts of use, limited human benchmark data, inadequate multicenter reproducibility, manufacturing variability and fragmented data infrastructure. We discuss priorities for overcoming these barriers, including performance-based standards, quality-controlled manufacturing, auditable data systems and earlier coordination among technology developers, end users and regulatory authorities. Patient-derived and stem cell-derived models, artificial intelligence and digital twins may further extend the scope of MPS, but their value will depend on transparent validation and integration with complementary evidence. Regulatory adoption is likely to proceed incrementally, with MPS initially supporting defined decisions as complementary evidence and replacing conventional studies when their performance and uncertainty are sufficiently characterized.",
-      "journal": "International journal of stem cells",
+      "pmid": "42618795",
+      "title": "Human brain organoids record the passage of time over multiple years.",
+      "abstract": "The human brain develops and matures over an exceptionally prolonged period of time that spans nearly two decades of life. Processes that govern species-specific aspects of human postnatal brain development are difficult to study in animal models1. While human brain organoids offer a promising in vitro model, they have thus far been shown to largely mimic early stages of brain development. Here we develop human brain organoids for 5 years in culture, optimizing growth conditions to extend excitatory neuron viability beyond previous limits. Using maturation-associated modules derived from endogenous human brain, we show that brain organoids transcriptionally age with cell type specificity over years in culture. Whole-genome methylation profiling reveals that the predicted epigenomic age of organoids correlates precisely with time spent in vitro, and parallels epigenomic ageing in vivo. Notably, we show that in chimeric organoids generated by mixing neural progenitors of different ages, old progenitors rapidly produce late neuronal fates, skipping the production of earlier neuronal progeny, therefore showing that progenitors that age in organoids retain a memory of the time spent in vitro. The data indicate that human brain organoids can continue to mature and record the passage of time over many years in culture.",
+      "journal": "Nature",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of BioNano Technology, Gachon University, Seongnam, Korea."
+        "Department of Stem Cell & Regenerative Biology, Harvard University, Cambridge, MA, USA.",
+        "Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+        "Department for Clinical Sciences and Community Health (DISCCO), University of Milan, Milan, Italy.",
+        "Department of Translational Neuroscience, University Medical Center Utrecht (UMCU), Brain Center, Utrecht University, Utrecht, The Netherlands.",
+        "Department of Genome Regulation, Max Planck Institute for Molecular Genetics, Berlin, Germany.",
+        "Digital Health Cluster, Hasso Plattner Institute for Digital Engineering, Digital Engineering Faculty, University of Potdsdam, Potsdam, Germany.",
+        "McGovern Institute, Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA.",
+        "Department of Molecular and Cellular Biology and The Center for Brain Science, Harvard University, Cambridge, MA, USA.",
+        "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+        "Genentech, San Francisco, CA, USA.",
+        "Broad Institute of MIT and Harvard, Boston, MA, USA.",
+        "Department of Stem Cell & Regenerative Biology, Harvard University, Cambridge, MA, USA. paola_arlotta@harvardw.edu.",
+        "Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA. paola_arlotta@harvardw.edu."
       ],
-      "doi": "10.15283/ijsc26088",
-      "date": "2026-08-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618331/"
+      "doi": "10.1038/s41586-026-10877-x",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618795/"
     },
     {
-      "pmid": "42617726",
-      "title": "Patient-Derived Models of Prostate Cancer: Capturing Tumour Complexity from Initiation to Metastasis.",
-      "abstract": "Prostate cancer is a growing global health challenge. To identify new ways to improve patient care, researchers need a variety of preclinical models that faithfully recapitulate human tumours across the disease continuum, from initiation to metastasis. These complementary models include primary cultures of prostate epithelial cells (PrECs), co-cultures, patient-derived explants (PDEs), patient-derived organoids (PDOs) and patient-derived xenografts (PDXs). Collectively, these models enable researchers to study tumour biology and therapeutic responses in clinically relevant contexts. Yet, there is still a need to improve the fidelity of preclinical models to human tumours by integrating diverse cell types from the tumour microenvironment and mimicking biomechanical features. By improving culture methods with matrix components that resemble the tumour microenvironment and new formulations of media that imitate human plasma, in vitro models will more accurately reflect human physiology, nutrient availability, and metabolism. In time this may reduce the reliance on animal testing through organ-on-chip and related techniques. These more complex models are suited to more detailed experimental readouts, including single-cell and spatial analyses. Intravital imaging also enables dynamic visualisation of cell-cell interactions and treatment responses in vivo. Collectively, these approaches are facilitating a shift towards sophisticated models that capture patients' tumour heterogeneity, different cellular niches, and provide opportunities to carefully study tumorigenesis, metastasis, lineage plasticity, and therapy resistance. In this review, we discuss the current progress and future directions for patient-derived models of prostate cancer, highlighting how they can be generated, refined, characterised and shared to accelerate the worldwide effort in translational research.",
-      "journal": "Cancer letters",
+      "pmid": "42618778",
+      "title": "Alpha protein kinase 3 gene therapy restores heart function in mouse and human models of cardiomyopathy.",
+      "abstract": "Truncating variants in the ALPK3 gene (encoding alpha protein kinase 3) cause severe cardiomyopathy for which no curative treatment exists1-3. Here we establish an adeno-associated virus (AAV)-mediated gene replacement therapy to deliver full-length human ALPK3. AAV-ALPK3 prevented disease in neonatal Alpk3-mutant mice and reversed established pathology in adults, with proteomic analysis demonstrating reversal of more than 95% of the molecular disease signature. Beyond ALPK3 deficiency, we explored broader therapeutic potential based on ALPK3's regulatory role in proteostasis, a pathway commonly disrupted across cardiomyopathies. ALPK3 expression is reduced in cardiomyocytes with TTN-truncating variants, the most prevalent cause of dilated cardiomyopathy, and the encoded titin protein has a protein quality control network in common with ALPK3. AAV-ALPK3 restored contractile function in human cardiac organoids with an ALPK3- or TTN-truncating variant. These findings provide proof of concept for ALPK3 gene therapy in patients with ALPK3 cardiomyopathy and reveal potential for indication expansion to cardiomyopathies associated with TTN-truncating variants, which are not amenable to gene replacement therapy due to size limitations.",
+      "journal": "Nature cardiovascular research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Murdoch Children's Research Institute, Royal Children's Hospital, Melbourne, Victoria, Australia. james.mcnamara@mcri.edu.au.",
+        "Melbourne Centre for Cardiovascular Genomics and Regenerative Medicine, Royal Children's Hospital, Melbourne, Victoria, Australia. james.mcnamara@mcri.edu.au.",
+        "Department of Anatomy and Physiology, University of Melbourne, Melbourne, Victoria, Australia. james.mcnamara@mcri.edu.au.",
+        "Novo Nordisk Foundation Centre for Stem Cell Medicine (reNEW), Murdoch Children's Research Institute, Melbourne, Victoria, Australia. james.mcnamara@mcri.edu.au.",
+        "Victor Chang Cardiac Research Institute, Darlinghurst, New South Wales, Australia. james.mcnamara@mcri.edu.au.",
+        "Murdoch Children's Research Institute, Royal Children's Hospital, Melbourne, Victoria, Australia.",
+        "Melbourne Centre for Cardiovascular Genomics and Regenerative Medicine, Royal Children's Hospital, Melbourne, Victoria, Australia.",
+        "Novo Nordisk Foundation Centre for Stem Cell Medicine (reNEW), Murdoch Children's Research Institute, Melbourne, Victoria, Australia.",
+        "Australian Regenerative Medicine Institute, Monash University, Melbourne, Victoria, Australia.",
+        "Gladstone Institute of Cardiovascular Disease, San Francisco, CA, USA.",
+        "Gladstone Institute of Data Science and Biotechnology, San Francisco, CA, USA.",
+        "Department of Computational and Systems Biology, University of California, Los Angeles, CA, USA.",
+        "Dynomics Inc, San Francisco, CA, USA.",
+        "Dynomics Pty Ltd, Brisbane, Queensland, Australia.",
+        "Department of Paediatrics, University of Melbourne, Melbourne, Victoria, Australia.",
+        "Department of Pediatrics, Institute for Human Genetics, Cardiovascular Research Institute, University of California, Los Angeles, San Francisco, CA, USA.",
+        "School of Biomedical Sciences, The University of Queensland, Brisbane, Queensland, Australia.",
+        "QIMR Berghofer, Brisbane, Queensland, Australia.",
+        "Murdoch Children's Research Institute, Royal Children's Hospital, Melbourne, Victoria, Australia. enzo.porrello@mcri.edu.au.",
+        "Melbourne Centre for Cardiovascular Genomics and Regenerative Medicine, Royal Children's Hospital, Melbourne, Victoria, Australia. enzo.porrello@mcri.edu.au.",
+        "Department of Anatomy and Physiology, University of Melbourne, Melbourne, Victoria, Australia. enzo.porrello@mcri.edu.au.",
+        "Novo Nordisk Foundation Centre for Stem Cell Medicine (reNEW), Murdoch Children's Research Institute, Melbourne, Victoria, Australia. enzo.porrello@mcri.edu.au.",
+        "Department of Paediatrics, University of Melbourne, Melbourne, Victoria, Australia. enzo.porrello@mcri.edu.au.",
+        "Murdoch Children's Research Institute, Royal Children's Hospital, Melbourne, Victoria, Australia. david.elliott@mcri.edu.au.",
+        "Melbourne Centre for Cardiovascular Genomics and Regenerative Medicine, Royal Children's Hospital, Melbourne, Victoria, Australia. david.elliott@mcri.edu.au.",
+        "Novo Nordisk Foundation Centre for Stem Cell Medicine (reNEW), Murdoch Children's Research Institute, Melbourne, Victoria, Australia. david.elliott@mcri.edu.au.",
+        "Australian Regenerative Medicine Institute, Monash University, Melbourne, Victoria, Australia. david.elliott@mcri.edu.au.",
+        "Department of Paediatrics, University of Melbourne, Melbourne, Victoria, Australia. david.elliott@mcri.edu.au."
+      ],
+      "doi": "10.1038/s44161-026-00843-1",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618778/"
+    },
+    {
+      "pmid": "42618695",
+      "title": "Hematopoietic stem cell aging: a review of transcriptional and multi-omics insights and potential paths for AI integration.",
+      "abstract": "Hematopoietic stem cell (HSC) aging underlies age-related immune decline, anemia and increased risk of hematologic malignancies, including clonal hematopoiesis and leukemia. Many available microarray and bulk RNA sequencing studies have elucidated conserved transcriptional hallmarks, such as myeloid bias, inflammation dysregulation, and self-renewal reinforcement in aged HSCs across mouse and human models. Here, we review key publicly available transcriptome and epigenome datasets from landmark studies, highlighting their contributions to defining HSC molecular aging signatures. We also summarize recent single-cell RNA sequencing, HSC aging intervention, and sex difference datasets. Despite these advances in technology and available sequencing datasets, fragmented data access, limited cross-species integration, and scarcity of multi-omics and single-cell contexts hinder progress. We discuss strategies for dataset harmonization, incorporation of multi-omics (transcriptome, epigenome, and proteome) and single-cell resolution to uncover heterogeneity and trajectories, as well as introduce the application of artificial intelligence and machine learning for predictive modeling, epigenome aging clocks, variant calling, clonal hematopoiesis detection, chromatin-based age prediction, and trajectory inference. Bridging insights from genetic mutant mouse models to emerging human bone marrow organoids offers translational potential for modeling HSC aging in vitro. We propose a curated, centralized, interactive database as a community resource to integrate these layers, enabling meta-analyses, artificial intelligence-driven discoveries, and accelerated therapeutic interventions for age-related hematopoietic disorders.",
+      "journal": "Experimental & molecular medicine",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Institute of Medical Genetics and Pathology, University Hospital Basel, University of Basel, Basel, Switzerland; Department of Urology, University Hospital Basel, Basel, Switzerland; Department of Biomedicine, University of Basel, University Hospital Basel, Basel, Switzerland.",
-        "Department of Oncology, Sidney Kimmel Comprehensive Cancer Center (SKCCC), Johns Hopkins University, Baltimore, MD, USA; Department of Urology, James Buchanan Brady Urological Institute, Johns Hopkins University, Baltimore, MD, USA; Department of Pharmacology & Molecular Sciences, Johns Hopkins University, Baltimore, MD, USA.",
-        "ProCURE, Catalan Institute of Oncology, L'Hospitalet del Llobregat, Barcelona, Spain; Oncobell, Bellvitge Institute for Biomedical Research (IDIBELL), L'Hospitalet del Llobregat, Barcelona, Spain.",
-        "School of Biomedical Sciences at Translational Research Institute, Faculty of Health, Queensland University of Technology, Brisbane, Queensland, Australia; Max Planck Queensland Centre for the Materials Science of Extracellular Matrices, Queensland University of Technology, Brisbane, Queensland, Australia; Centre for Biomedical Technologies, Queensland University of Technology, Brisbane, Queensland, Australia.",
-        "Manchester Cancer Research Center, University of Manchester, United Kingdom; Division of Cancer Sciences, FMBH, University of Manchester, Manchester, United Kingdom; Translational Oncogenomics Department, Cancer Research-UK Manchester Institute, Manchester, United Kingdom.",
-        "Department of Anatomy and Developmental Biology, Biomedicine Discovery Institute Cancer Program, Monash University, Clayton, Victoria, Australia.",
-        "State Key Laboratory of Systems Medicine for Cancer, Department of Urology, Ren Ji Hospital, Shanghai Cancer Institute, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
-        "School of Biomedical Sciences at Translational Research Institute, Faculty of Health, Queensland University of Technology, Brisbane, Queensland, Australia.",
-        "Division of Human Biology, Fred Hutchinson Cancer Center, Seattle, WA, USA.",
-        "Department of Urology, University of Washington, Seattle, WA, USA.",
-        "Cancer Ecosystems Program, The Garvan Institute of Medical Research and The Kinghorn Cancer Centre, Darlinghurst, New South Wales, Australia; School of Clinical Medicine, St Vincent's Healthcare Clinical Campus, UNSW Medicine & Health, UNSW Sydney, Sydney, New South Wales, Australia.",
-        "Nuffield Department of Surgical Sciences, University of Oxford, Oxford, United Kingdom.",
-        "Translational Oncogenomics Department, Cancer Research-UK Manchester Institute, Manchester, United Kingdom.",
-        "School of Biomedical Sciences, UNSW Sydney, New South Wales, Australia.",
-        "Chris O'Brien Lifehouse, Sydney, New South Wales, Australia; University of Sydney, Sydney, New South Wales, Australia; Garvan Institute of Medical Research, Sydney, New South Wales, Australia; University of NSW, Sydney, New South Wales, Australia.",
-        "Department of Genitourinary Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX, USA; David H. Koch Center for Applied Research of Genitourinary Cancers, The University of Texas MD Anderson Cancer Center, Houston, TX, USA.",
-        "Manchester Cancer Research Center, University of Manchester, United Kingdom; Translational Oncogenomics Department, Cancer Research-UK Manchester Institute, Manchester, United Kingdom.",
-        "Department of Urology, Research Institute for Medical Innovation, Radboud University Medical Center, Nijmegen, the Netherlands.",
-        "Swiss Institute for Experimental Cancer Research (ISREC), School of Life Sciences, Ecole Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland.",
-        "Department for BioMedical Research, Urology Research Laboratory, University of Bern, Bern, Switzerland; Department of Urology, Inselspital, Bern, Switzerland; Department for BioMedical Research, Translational Organoid Resource Core, University of Bern, Bern, Switzerland.",
-        "School of Biomedical Sciences at Translational Research Institute, Faculty of Health, Queensland University of Technology, Brisbane, Queensland, Australia; Centre for Genomics and Personalised Health, Queensland University of Technology (QUT), Brisbane, Queensland, Australia.",
-        "Department of Urology, University of Illinois Chicago, IL, USA; Chicago Center for Health and Environment, School of Public Health, University of Illinois Chicago, USA.",
-        "Department of Anatomy and Developmental Biology, Biomedicine Discovery Institute Cancer Program, Monash University, Clayton, Victoria, Australia; Department of Surgery, Clinical School of Medicine Monash Health, Monash University, Clayton, Victoria, Australia; Department of Urology, Monash Health, Melbourne, Victoria, Australia; Department of Urology, Austin Health, Melbourne, Victoria, Australia; Cabrini Institute, Cabrini Health, Malvern, Victoria, Australia.",
-        "Flinders University, College of Medicine and Public Health, Flinders Health and Medical Research Institute, Adelaide, South Australia, Australia.",
-        "Dresden University of Technology, Biotechnology Center, Center for Molecular and Cellular Bioengineering, Dresden, Germany; Leibniz Institute of Polymer Research Dresden, Max Bergmann Center of Biomaterials Dresden, Dresden, Germany.",
-        "Cabrini Institute, Cabrini Health, Malvern, Victoria, Australia; Department of Physiology, Biomedicine Discovery Institute Cancer Program, Monash University, Clayton, Victoria, Australia; Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia; Sir Peter MacCallum Department of Oncology, The University of Melbourne, Victoria, Australia; Melbourne Urological Research Alliance, Monash University, Melbourne, Victoria, Australia.",
-        "Centre for Cancer Biology, Adelaide University, Adelaide, South Australia, Australia; College of Health, Adelaide University, Adelaide, South Australia, Australia.",
-        "Department of Urology, Erasmus Medical Center, Rotterdam, The Netherlands.",
-        "Department of Anatomy and Developmental Biology, Biomedicine Discovery Institute Cancer Program, Monash University, Clayton, Victoria, Australia; Cabrini Institute, Cabrini Health, Malvern, Victoria, Australia; Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia; Sir Peter MacCallum Department of Oncology, The University of Melbourne, Victoria, Australia; Melbourne Urological Research Alliance, Monash University, Melbourne, Victoria, Australia.",
-        "Department of Anatomy and Developmental Biology, Biomedicine Discovery Institute Cancer Program, Monash University, Clayton, Victoria, Australia; Cabrini Institute, Cabrini Health, Malvern, Victoria, Australia; Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia; Sir Peter MacCallum Department of Oncology, The University of Melbourne, Victoria, Australia; Melbourne Urological Research Alliance, Monash University, Melbourne, Victoria, Australia. Electronic address: mitchell.lawrence@monash.edu."
+        "Genetic and Epigenetic Mechanisms of Stem Cells Unit, Translational Gerontology Branch, National Institute on Aging, National Institutes of Health, Baltimore, MD, USA. bongsoo.park@nih.gov.",
+        "Genetic and Epigenetic Mechanisms of Stem Cells Unit, Translational Gerontology Branch, National Institute on Aging, National Institutes of Health, Baltimore, MD, USA.",
+        "Human Statistical Genetics Unit, Translational Gerontology Branch, National Institute on Aging, National Institutes of Health, Baltimore, MD, USA."
       ],
-      "doi": "10.1016/j.canlet.2026.218791",
+      "doi": "10.1038/s12276-026-01805-0",
       "date": "2026-08-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617726/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618695/"
     },
     {
-      "pmid": "42617597",
-      "title": "Synthetic tissue ecology: Ecological control of developmental self-organization across scales.",
-      "abstract": "Embryonic development builds tissues and organs through the self-organization of heterogeneous cells across spatial and temporal scales, analogous to an ecosystem. Although ecological systems are often stochastic and multistable, embryogenesis is remarkably reproducible. We argue that this contrast is not a contradiction. Developmental robustness arises from evolutionarily filtered ecological interactions embedded within hierarchically organized, multiscale architectures that restrict accessible collective states. Competition, cooperation, niche construction, and density-dependent coupling are not metaphors but core interaction dynamics that shape tissues in vivo. In vitro systems frequently lack these multiscale constraints, allowing more permissive ecological dynamics and increased variability. We propose \"synthetic tissue ecology\" as a conceptual and engineering framework that treats development as a stabilized regime of ecological organization. By shifting focus to interaction architectures and constraints that direct cross-scale self-organization, this framework enables the decoding of mesoscale modules and tissue-coupling principles while supporting the engineering of robust organoids, embryoids, and regenerative systems.",
-      "journal": "Cell systems",
+      "pmid": "42618615",
+      "title": "Human organoids that mimic brain development grown for years in lab.",
+      "abstract": "",
+      "journal": "Nature",
+      "publicationTypes": [
+        "News"
+      ],
+      "affiliations": [],
+      "doi": "10.1038/d41586-026-02585-3",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618615/"
+    },
+    {
+      "pmid": "42618558",
+      "title": "Vascularized bone organoids: current advances and a biomimetic platform for osteonecrosis of the femoral head.",
+      "abstract": "Osteonecrosis of the femoral head (ONFH) is a devastating ischemic bone disease. Its pathogenesis is multifactorial, including impaired bone remodeling, chronic inflammation, dysregulated lipid metabolism, and bone marrow edema, all intrinsically linked to vascular dysfunction. However, conventional experimental models fail to fully capture the complex pathophysiology of ONFH. Animal models suffer from interspecies differences and are inherently limited in investigating bone marrow edema and femoral head collapse. Therefore, the complex pathogenesis of ONFH remains poorly understood due to the limitations of existing models. Recently, organoids have emerged as a powerful tool for complex and biomimetic disease modeling, with vascularization strategies developed to enhance their structural and functional maturity. The central role of vascular dysfunction in ONFH underscores the value of vascularized bone organoids (VBOs) as a biomimetic model. In this review, we summarize vascularization strategies for bone organoids, including in vitro approaches, in vivo integration, and bioengineering technologies. For ONFH, VBOs provide an advanced experimental model for elucidating disrupted angiogenesis-osteogenesis coupling, inter-tissue crosstalk, and alterations in intraosseous pressure. VBOs also hold significant value for evaluating pro-angiogenic therapies, advancing regenerative medicine, and guiding personalized treatment. Overall, VBOs offer a promising platform for advancing mechanistic insights and therapeutic development in ONFH.",
+      "journal": "Bone research",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA, USA; Institute for Synthetic Biology, University of Pittsburgh, Pittsburgh 15260, PA, USA.",
-        "Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA, USA; Division of Experimental Pathology, Department of Pathology, School of Medicine, University of Pittsburgh, Pittsburgh, PA, USA; Pittsburgh Liver Research Center, School of Medicine, University of Pittsburgh, Pittsburgh, PA, USA; Center for Evolutionary Biology and Medicine, University of Pittsburgh, Pittsburgh, PA, USA; McGowan Institute for Regenerative Medicine, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA; Magee-Women's Research Institute, University of Pittsburgh, Pittsburgh, PA, USA; Institute for Synthetic Biology, University of Pittsburgh, Pittsburgh 15260, PA, USA. Electronic address: mo.ebr@pitt.edu."
+        "Department of Orthopedics, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+        "Department of Rehabilitation, Wuhan No. 1 Hospital, Wuhan, China. wangbob2019@126.com.",
+        "Department of Orthopedics, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China. lvxiaotjmu@163.com.",
+        "Department of Orthopedics, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China. fengyong@hust.edu.cn."
       ],
-      "doi": "10.1016/j.cels.2026.101699",
+      "doi": "10.1038/s41413-026-00579-5",
       "date": "2026-08-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617597/"
-    },
-    {
-      "pmid": "42617537",
-      "title": "Mechanical loading under estrogen deficiency enhances mineralization and osteoblast maturation in an advanced 3D vascularized bone organoid driven by hypertrophy and apoptosis.",
-      "abstract": "Bone is a highly mechanosensitive tissue that responds to mechanical cues and adapts to maintain a homeostatic balance between bone formation and resorption, thereby preserving structural integrity and strength. Estrogen is the key modulator of skeletal homeostasis that regulates the mechanosensitivity and survival of osteocytes, promotes osteoblast activity and reduces osteoclastogenesis. The decline in circulating estrogen after menopause leads to increased bone resorption, widely associated with postmenopausal osteoporosis, but is also associated with vascular dysregulation, mineral heterogeneity and impaired osteocyte mechanobiology. Recently, we developed a vascularized and mineralized human in vitro bone model and applied this model to mimic postmenopausal estrogen withdrawal. This model provided a mechanistic understanding of changes in vascularization and bone mineralization in estrogen deficiency, which were associated with hypertrophy and apoptosis. However, this model did not account for mechanical loading, so it was unclear how mechanobiological factors would affect the pathophysiological responses of the model under estrogen withdrawal. So, here we advance our in vitro vascularized bone model by incorporating cyclic physiologically relevant mechanical stimulation using a bioreactor. The results revealed that mechanical loading with estrogen (healthy condition) enhanced mineral production, alongside physiological hypertrophy, apoptosis and vascularization. In contrast, mechanical loading during estrogen withdrawal (disease condition) increased collagen I and accelerated the maturation of osteoblasts (downregulated Runx2/Opn, upregulated DMP1 gene expression), which was associated with pathological hypertrophy and apoptosis. This study provides a translationally relevant platform to study bone mechanobiology in healthy and disease states and for preclinical testing of therapeutic strategies targeting osteogenic dysregulation due to estrogen deficiency.",
-      "journal": "Journal of biomechanics",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Mechanobiology and Medical Device Research Group (MMDRG), Biomedical Engineering, College of Science and Engineering, University of Galway, Ireland.",
-        "Mechanobiology and Medical Device Research Group (MMDRG), Biomedical Engineering, College of Science and Engineering, University of Galway, Ireland. Electronic address: laoise.mcnamara@universityofgalway.ie."
-      ],
-      "doi": "10.1016/j.jbiomech.2026.113529",
-      "date": "2026-08-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617537/"
-    },
-    {
-      "pmid": "42617253",
-      "title": "Goose kidney organoids: A new model for studying the metabolic mechanism of goose astrovirus-induced gout.",
-      "abstract": "Goose astrovirus (GAstV) is a newly identified avian pathogen that causes fatal gout in goslings, characterized by kidney damage and high mortality. Unlike non-pathogenic human gout, GAstV-induced gout lacks reference models due to the absence of goose-derived cell lines and standard experimental animals, limiting mechanistic studies. Here, primary goose kidney organoids (GKOs) were isolated from 28-day-old goose embryos. GKOs retained physiological structures and functions comparable to in vivo kidneys. GAstV infection in GKOs was evaluated across renal cell lineages and compared with in vivo outcomes. Viral replication and effects on uric acid metabolism were assessed at different multiplicities of infection. GAstV readily infected GKOs, targeting progenitor, pluripotent stem, collecting duct, and renal tubular cells, consistent with in vivo findings. At a multiplicity of infection of 10.0, GAstV rapidly induced a significant elevation of uric acid, whereas lower doses had weaker effects, paralleling disease severity in goslings. In contrast, GAstV replication was minimal in 2D cells, and other avian viruses failed to induce uric acid elevation in GKOs. Post-infection, transcriptomic and metabolomic analysis showed GAstV remodeled global gene expression and metabolism, mainly disrupting purine metabolism pathways. GAstV infection significantly increased mRNA levels of SLC22A23, SLC17A5, and SLC13A3, which were correlated positively with uric acid. GKOs provide a physiologically relevant model for elucidating GAstV pathogenesis, offering new insights into virus-induced gout and a platform for studying goose viral diseases.",
-      "journal": "Poultry science",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Institute of Animal Health, Guangdong Academy of Agricultural Sciences; Key Laboratory for Prevention and Control of Avian Influenza and Other Major Poultry Diseases, Ministry of Agriculture and Rural Affairs; Guangdong Provincial Key Laboratory of Livestock Disease Prevention, Guangzhou, Guangdong Province, PR China.",
-        "Shanwei Academy of Agricultural Sciences, Shanwei, Guangdong Province, PR China.",
-        "College of Animal Science & Technology, Zhongkai University of Agriculture and Engineering, Guangzhou, Guangdong Province, PR China.",
-        "Institute of Animal Health, Guangdong Academy of Agricultural Sciences; Key Laboratory for Prevention and Control of Avian Influenza and Other Major Poultry Diseases, Ministry of Agriculture and Rural Affairs; Guangdong Provincial Key Laboratory of Livestock Disease Prevention, Guangzhou, Guangdong Province, PR China. Electronic address: smh2002smh@163.com.",
-        "Institute of Animal Health, Guangdong Academy of Agricultural Sciences; Key Laboratory for Prevention and Control of Avian Influenza and Other Major Poultry Diseases, Ministry of Agriculture and Rural Affairs; Guangdong Provincial Key Laboratory of Livestock Disease Prevention, Guangzhou, Guangdong Province, PR China. Electronic address: 13580514640@163.com."
-      ],
-      "doi": "10.1016/j.psj.2026.107500",
-      "date": "2026-07-27",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617253/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618558/"
     },
     {
       "pmid": "42600555",
@@ -279,6 +285,50 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42497867/"
     },
     {
+      "pmid": "42619129",
+      "title": "An Explicit Interaction-Prompted Diffusion Framework for High-Fidelity 3D Molecular Generation.",
+      "abstract": "Current structure-based drug design generative models often struggle to faithfully recapitulate genuine ligand-protein binding interactions. Instead, under the coupling of implicit learning architectures and biased training data, they tend to learn spurious statistical correlations. To address this, we propose EIP-Diff (Explicit Interaction-Prompted Diffusion), an architecture featuring a novel explicit interaction-prompt embedding mechanism that is better suited for real-world target-specific drug design. This architecture replaces biased implicit learning with explicit, residue-level biological guidance, thereby promoting more fine-grained geometric fidelity and more precise interaction-aware conditioning. To fully realize the capabilities of EIP-Diff and provide a reliable basis for performance evaluation, we further constructed CrystalData set, which provides higher-fidelity and less-biased structural supervision than existing data sets. This explicit architecture markedly improves distribution consistency: even when trained on the crossdocked data set, EIP-Diff achieves the highest alignment with authentic pharmacological distributions among evaluated models. Training on CrystalData set further enhances this alignment and improves 3D geometric accuracy, while retaining strong controllability, high chemical space coverage, and near-perfect uniqueness. In addition, target-based validation on KAT6A and YTHDC1 confirmed that EIP-Diff accurately recapitulates native-like binding modes. Furthermore, in a real-world drug design task against IDO1, we successfully designed a novel lead compound with nanomolar potency (IC50 = 0.31 nM). These results demonstrate that the EIP-Diff architecture can explicitly leverage experimentally derived structural data and biologically meaningful interaction information for target-specific molecular generation, thereby enabling its effective application to real-world structure-based drug design.",
+      "journal": "Journal of the American Chemical Society",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Chenzhu (MoMeD) Biotechnology Co., Ltd., Hangzhou311100, People's Republic of China.",
+        "College of Pharmaceutical Sciences, Zhejiang University, Hangzhou310058, People's Republic of China.",
+        "Zhejiang Provincial People's Hospital, Hangzhou310014, People's Republic of China.",
+        "Key Laboratory of Systems Health Science of Zhejiang Province, School of Life Science, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, Hangzhou310024, People's Republic of China.",
+        "Department of Chemistry, University of Southern California Los Angeles, Los Angeles, California90089-1062, United States."
+      ],
+      "doi": "10.1021/jacs.6c08189",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42619129/"
+    },
+    {
+      "pmid": "42619090",
+      "title": "De Novo-Designed Bifunctional Proteins for Targeted Protein Degradation.",
+      "abstract": "In targeted protein degradation (TPD), specific subcellular proteins are removed by routing them to the ubiquitin-proteasome, autophagy, or lysosome machinery. For instance, proteolysis-targeting chimeras (PROTACs) are synthetic heterobifunctional small molecules that simultaneously bind the target and an E3 ubiquitin ligase to drive ubiquitination and degradation by the proteasome. Despite considerable success, designing such molecules is challenging, and the number of currently addressable ubiquitin E3 ligases is limited. Here, we design a heterobifunctional de novo protein to trigger the degradation of a common cancer target, resulting in a desired phenotypic output. First, we developed a highly stable and adaptable helix-turn-helix scaffold for presenting multiple binding sites. Next, we use computational protein design to incorporate and embellish hot-spot-binding sites to target the antiapoptotic mediators BCL-xL and MCL-1. We show a 75% success rate for creating submicromolar binders against these targets. Crystal structures of the complexes confirmed the designed binding poses. Then, we designed short linear motifs (SLiMs) into the loop of the scaffold to recruit KLHL20 and the ubiquitin ligase machinery. These designs have low micromolar affinity for KLHL20 comparable to that of the natural SLiMs. Moreover, the bifunctionalized proteins degrade BCL-xL in cells, leading to apoptosis.",
+      "journal": "Journal of the American Chemical Society",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Chemistry, University of Bristol, Cantock's Close, BristolBS8 1TS, U.K.",
+        "Novo Nordisk Foundation Center for Protein Design, Department of Biology and Department of Drug Design and Pharmacology, University of Copenhagen, Jagtvej 160, Copenhagen2100, Denmark.",
+        "Department of Pharmacology, University of Cambridge, CambridgeCB2 1PD, U.K.",
+        "School of Chemistry, University of Birmingham, EdgbastonB15 2TT, U.K.",
+        "College of Biomedical Sciences, Larkin University, 18301 N Miami Ave #1, Miami, Florida33169, U.S.A.",
+        "Astbury Centre for Structural Molecular Biology, University of Leeds, Woodhouse Lane, LeedsLS2 9JT, U.K.",
+        "Cancer Research UK Scotland Institute, Garscube Estate, Switchback Road, GlasgowG61 1BD, U.K.",
+        "School of Cancer Sciences, University of Glasgow, Garscube Estate, Switchback Road, GlasgowG61 1QH, U.K.",
+        "School of Chemistry, University of Leeds, Woodhouse Lane, LeedsLS2 9JT, U.K.",
+        "School of Biochemistry, University of Bristol, Medical Sciences Building, University Walk, BristolBS8 1TD, U.K.",
+        "Max Planck-Bristol Centre for Minimal Biology, University of Bristol, Cantock's Close, BristolBS8 1TS, U.K."
+      ],
+      "doi": "10.1021/jacs.6c07593",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42619090/"
+    },
+    {
       "pmid": "42616438",
       "title": "Enzyme Engineering: From Classical Strategies to AI-Driven Biocatalyst Design.",
       "abstract": "Nowadays, enzyme engineering has moved from traditional structure-based mutagenesis and directed evolution to data-intensive, AI-assisted design paradigms that involve the rapid discovery and optimization of biocatalysts. Whereas classical approaches relied on rational design and experimental screening, advances in high-throughput sequencing, modeling, and machine learning have enabled predictive exploration of sequence-structure-function relationships in enzymes. Importantly, the latest protein language models and deep learning approaches enable accurate prediction of mutational outcomes, stability engineering, and functional annotation at an unprecedented scale. Generative AI models also enable the design of novel enzymes by predicting protein sequences with tailored catalytic functions and broadened substrate specificity. AI combined with design-build-test-learn (DBTL) automation and synthetic biology has enabled the creation of closed-loop engineering workflows for rapid, iterative optimization. This review examines enzyme engineering from classical methods to AI-assisted biocatalyst development, highlighting key advances, challenges, and emerging trends in autonomous laboratories, sustainable biocatalysis, and computational protein design.",
@@ -350,45 +400,49 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42605681/"
     },
     {
-      "pmid": "42591814",
-      "title": "Design, build and test of a targeted synthetic protein strategy.",
-      "abstract": "Incorporating minimal antibody regions into engineered proteins is an effective strategy for creating targeted therapeutics and diagnostics. However, a major barrier to clinical translation is the lack of efficient methods to track their performance in vivo. Bioluminescence imaging using targeted reporter proteins offers a promising solution to this challenge. The aim of this study was to develop a novel in vivo imaging strategy using computationally engineered targeted synthetic proteins and to establish a validated pipeline for their design, construction, and testing. Multi-part synthetic proteins were designed and screened using in silico tools. These constructs targeted either an example bacterial target (S. aureus ClfA) or a cancer biomarker (MUC1). The top candidates, featuring antibody fragments (ScFv) and a luciferase reporter, were subsequently produced and tested in vitro and in murine models. Following computational design, select proteins were successfully produced and showed specific binding to their intended targets in vitro. Subsequent in vivo studies demonstrated that systemically administered proteins specifically accumulated at target cell locations. This was confirmed by localized bioluminescence that was dependent on both target cell number and protein quantity. This study demonstrates the use of targeted reporter proteins for real-time in vivo imaging and validates an effective workflow integrating computational design with wet-lab experimentation. Ultimately, this establishes a target-specific reporter protein platform that can be adapted for sensitive in vivo imaging of diverse targets, from bacterial infections to tumors.",
-      "journal": "Frontiers in bioengineering and biotechnology",
+      "pmid": "42619413",
+      "title": "Cross-Regulation Between DNA Methylation and Circadian Clock Reprogramming in Ovarian Cancer: Mechanistic Insights, Biomarker Potential, and Therapeutic Implications.",
+      "abstract": "Early diagnosis remains challenging, recurrence rates remain high, and platinum resistance frequently develops in ovarian cancer (OC), collectively representing major barriers to long-term patient survival. DNA methylation (DNAm), as a relatively stable yet dynamically modifiable epigenetic signature, can capture alterations in tumor states and evolutionary trajectories associated with therapeutic pressure. Meanwhile, the circadian rhythm system regulates multiple cancer-related processes, including DNA damage repair, cell-cycle progression, metabolic adaptation, and immune microenvironment remodeling, thereby influencing OC development and treatment responses. Accumulating evidence suggests the existence of a bidirectional interplay between DNAm landscapes and the circadian clock network in OC. This review summarizes the emerging mechanisms underlying the crosstalk between DNAm and circadian reprogramming in OC, and further discusses their potential applications in early detection, prognostic stratification, dynamic monitoring of platinum resistance, and chronotherapy-based therapeutic strategies. Although current findings highlight the promising translational potential of the DNAm-circadian axis, its clinical implementation remains constrained by tumor heterogeneity, variations in sampling time points, cellular composition complexity, and insufficient validation across experimental models and clinical cohorts. Future integration of time-resolved sampling approaches, liquid biopsy platforms, single-cell and spatial epigenomic technologies, as well as prospective clinical trials evaluating circadian-guided interventions, may further define the translational boundaries and clinical utility of DNAm-circadian coupling in precision diagnosis and treatment of OC.",
+      "journal": "International journal of cancer",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "affiliations": [
-        "Cancer Research @UCC, University College Cork, Cork, Ireland.",
-        "Centre for Advanced Photonics and Process Analytics, Munster Technological University, Cork, Ireland.",
-        "APC Microbiome Ireland, University College Cork, Cork, Ireland.",
-        "School of Biotechnology & Bioengineering, Institute of Advanced Research, Gandhinagar, India."
+        "Hunan University of Chinese Medicine, Changsha, Hunan, China.",
+        "Hinye Pharmaceutical Co. Ltd., Changsha, Hunan, China.",
+        "The Second Affiliated Hospital of Hunan University of Chinese Medicine, Changsha, Hunan, China."
       ],
-      "doi": "10.3389/fbioe.2026.1798496",
-      "date": "2026-07-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42591814/"
+      "doi": "10.1002/ijc.70704",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42619413/"
     },
     {
-      "pmid": "42575164",
-      "title": "A functional investigation of antibody Fc-FcRn variant binding guided by in silico free energy perturbation methods.",
-      "abstract": "Accurate calculation of energy changes upon mutation is a key requirement for the effective use of computational methods in protein design. In this study, we applied free energy perturbation (FEP) calculations to predict the effects of mutations on the binding free energy between the immunoglobulin G (IgG) antibody fragment-crystallizable (Fc) region and the neonatal Fc receptor (FcRn), an interaction that is primarily responsible for antibody half-life. We assembled an extensive experimental dataset of Fc-FcRn binding affinities for wild-type (wt) and mutant complexes, including values from literature and from newly measured results. Starting from a crystal structure of the M252Y/S254T/T256E (\"YTE\") Fc variant bound to FcRn, we prepared all-atom models of human IgG1-subtype wt and YTE variant Fc-FcRn complexes, adding explicit hydrogens and assigning protonation states for key ionizable residues. Initial results using standard FEP protocols to compute relative binding free energies were promising but exhibited multiple outliers. By accounting for coupling effects for FEP mutations near key histidine residues, we improved the results for several outliers, suggesting such coupling as an important approach for pH-sensitive systems. Further, upon determining new crystal structures of wt Fc and three Fc variants at multiple pH values, we observed subtle conformational changes in unbound Fc; by accounting for these conformational changes in FEP calculations, we additionally improved agreement with experiment. The detailed structural and energetic analyses of the Fc-FcRn system we present here thus provide a practical energy-calculation framework to enable rational in silico design of novel Fc variants. SIGNIFICANCE: The ability to determine changes in binding affinity upon mutation is critical to structure-based protein design. In this study, we demonstrate a successful computational approach using free energy perturbation (FEP) calculations on the antibody Fc-FcRn complex, a medically relevant system with implications for both therapeutic and prophylactic antibody use. Our successful calculation of accurate binding energies across a wide range of cases speaks to the power of the FEP methodology in navigating the free energy landscapes of dynamic molecular complexes. Furthermore, we show that accurate Fc-FcRn affinity calculations required careful consideration of conformational flexibility between bound and unbound states, contributing to our functional understanding of a system that will be important for future rational antibody-design efforts.",
-      "journal": "Journal of molecular biology",
+      "pmid": "42618642",
+      "title": "Exploring the landscape of targetable alterations in patients with glioblastoma.",
+      "abstract": "Glioblastomas remain the most lethal primary brain tumour in adults, with targeted therapies delivering only limited benefit despite deep molecular characterization. Several targeted drugs have received regulatory approval for low-grade gliomas, although progress in glioblastomas remains constrained by, among other aspects, extensive intratumoural heterogeneity, pathway redundancy, cellular plasticity and limited drug delivery to the central nervous system. Some of these challenges might be mitigated through strategies that enhance blood-brain penetration, including focused ultrasonography, convection-enhanced delivery, efflux avoidance and chemical modifications. Improved tumour profiling through multiregional sampling, prioritization of truncal dependencies and the development of novel therapeutic modalities, such as antibody-drug conjugates and theranostics, might also further improve outcomes. In this Review, we summarize the therapeutic landscape of targeted therapies in glioblastomas, spanning major target classes including receptor tyrosine kinases, intracellular signalling proteins, cell-cycle dysregulation and synthetic-lethal vulnerabilities. We also examine emerging strategies targeting genome integrity and telomeres, epigenetic modulators, and tumour-neural circuitry. Furthermore, we highlight tumour heterogeneity and extrachromosomal DNA dynamics as key drivers of oncogene amplification and therapeutic resistance as well as the roles of novel clinical trial designs and liquid biopsy-based monitoring strategies. Lastly, we discuss pathway-based glioblastoma classification and master kinase mapping as methods for aligning drugs with functional tumour states.",
+      "journal": "Nature reviews. Clinical oncology",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "affiliations": [
-        "Department of Biochemistry and Molecular Biophysics, Columbia University; Department of Chemistry, Columbia University; Life Sciences Software, Schrödinger, Inc.",
-        "Department of Biochemistry and Molecular Biophysics, Columbia University; Department of Systems Biology, Columbia University.",
-        "Department of Chemistry, Columbia University.",
-        "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health.",
-        "Zuckerman Mind Brain Behavior Institute, Columbia University.",
-        "Department of Biochemistry and Molecular Biophysics, Columbia University; Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health; Aaron Diamond AIDS Research Center, Columbia University; Department of Medicine, Columbia University.",
-        "Department of Biochemistry and Molecular Biophysics, Columbia University; Zuckerman Mind Brain Behavior Institute, Columbia University; Aaron Diamond AIDS Research Center, Columbia University; Department of Medicine, Columbia University.",
-        "Department of Biochemistry and Molecular Biophysics, Columbia University; Department of Systems Biology, Columbia University; Zuckerman Mind Brain Behavior Institute, Columbia University; Department of Medicine, Columbia University. Electronic address: bh6@cumc.columbia.edu.",
-        "Department of Chemistry, Columbia University. Electronic address: raf8@columbia.edu."
+        "Division of Neuro-Oncology, Department of Medical Oncology, Dana Farber Cancer Institute, Boston, MA, USA.",
+        "Sorbonne Université, AP-HP, Institut du Cerveau - Paris Brain Institute - ICM, Inserm, CNRS, SIRIC CURAMUS, Hôpitaux Universitaires La Pitié Salpêtrière - Charles Foix, Service de Neuro-oncologie, Paris, France.",
+        "Department of Neurology, Brain Tumor Center, Erasmus MC Cancer Institute, University Medical Center, Rotterdam, The Netherlands.",
+        "Sylvester Comprehensive Cancer Center, University of Miami, Miller School of Medicine, Miami, FL, USA.",
+        "Department of Neurological Surgery, University of Miami, Miller School of Medicine, Miami, FL, USA.",
+        "Department of Neuropathology, Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Berlin, Germany.",
+        "German Cancer Consortium (DKTK), Partner Site Berlin, German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+        "Department of Radiation Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Boston, MA, USA.",
+        "Department of Neurosurgery, Yale School of Medicine, New Haven, CT, USA.",
+        "Division of Oncology, Department of Medicine I, Medical University of Vienna, Vienna, Austria.",
+        "The Brain Tumor Center, Erasmus MC Cancer Institute, Rotterdam, The Netherlands.",
+        "Center for Tumors of the Nervous System, Mass General Brigham Cancer Institute and Harvard Medical School, Boston, MA, USA. pwen@mgb.org."
       ],
-      "doi": "10.1016/j.jmb.2026.169982",
-      "date": "2026-08-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42575164/"
+      "doi": "10.1038/s41571-026-01190-7",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618642/"
     },
     {
       "pmid": "42618359",
@@ -460,62 +514,78 @@
       "doi": "10.1093/oncolo/oyag335",
       "date": "2026-08-19",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616657/"
-    },
-    {
-      "pmid": "42616180",
-      "title": "Platelet-derived mitochondrial transfer in cancer metastasis: mechanisms, functional consequences, and translational opportunities.",
-      "abstract": "Cancer metastasis is a multistep and highly inefficient process that depends on reciprocal interactions between tumor cells and the host microenvironment. Among the most important host contributors, platelets have emerged as active facilitators of metastatic dissemination, supporting the survival of circulating tumor cells, immune evasion, endothelial arrest, extravasation, and early colonization. More recently, platelet-derived mitochondrial transfer has been recognized as a novel mechanism by which platelets may enhance tumor aggressiveness through metabolic reprogramming. This review critically synthesizes the current literature on platelet-mediated mitochondrial transfer in cancer, with emphasis on its biological mechanisms, functional consequences, and translational implications. Emerging evidence in selected osteosarcoma and triple-negative breast cancer models indicates that activated platelets can donate functional mitochondria to cancer cells through direct contact and microparticle-mediated pathways, potentially increasing oxidative phosphorylation, ATP production, redox adaptability, proliferative capacity, and migratory behavior. Mechanistically, platelet mitochondrial transfer may involve pathways linked to mitochondrial quality control and trafficking, including PINK1/Parkin-MFN2 signaling, while also intersecting with broader platelet-tumor crosstalk that promotes epithelial-mesenchymal transition, anoikis resistance, and immune escape. In parallel, platelet-derived mitochondrial cargo and related extracellular vesicle signatures may offer new opportunities for liquid biopsy-based biomarker development. However, major challenges remain, including the need for rigorous in vivo validation, discrimination of intact mitochondria from fragmented mitochondrial material, and clarification of context-dependent effects across tumor types. Collectively, platelet-derived mitochondrial transfer represents an emerging layer of intercellular communication that may link thrombosis, metabolism, and metastasis, and it offers promising avenues for both biomarker discovery and therapeutic intervention.",
-      "journal": "Clinical & experimental metastasis",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Blood Transfusion Research Center, High Institute for Research and Education in Transfusion Medicine, Iranian Blood Transfusion Organization Building, Next to the Milad Tower, Hemmat Exp. Way, P.O. Box 14665-1157, Tehran, Iran.",
-        "Rajaie Cardiovascular Medical and Research Center, Iran University of Medical Science, Tehran, Iran.",
-        "Cardiovascular Diseases Research Institute, Tehran Heart Center, Tehran University of Medical Sciences, Tehran, Iran.",
-        "Department of Internal Medicine, College of Medicine, Jazan University, 45142, Jazan, Saudi Arabia.",
-        "Clinical Laboratory Sciences, College of Applied Medical Sciences, King Khalid University, Abha, Saudi Arabia.",
-        "Department of Clinical Laboratory Sciences, College of Pharmacy, University of Al-Ameed, PO Box 198, Karbala, Iraq. risamawi@alameed.edu.iq.",
-        "Student Research Committee, Arak University of Medical Sciences, Arak, Iran.",
-        "Laser Research Centre, University of Johannesburg, Doornfontein, 2028, South Africa. hamblin.lab@gmail.com.",
-        "Department of Medical Laboratory Sciences, School of Allied Medical Science, Mazandaran University of Medical Sciences, Sari, Iran. jalalalinaghinezhad@gmail.com."
-      ],
-      "doi": "10.1007/s10585-026-10424-y",
-      "date": "2026-08-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616180/"
-    },
-    {
-      "pmid": "42615693",
-      "title": "Exosomes and lung cancer: Biogenesis, pathogenic mechanisms, biomarkers, and therapeutic applications.",
-      "abstract": "Lung cancer remains a global health crisis characterized by high mortality rates and pervasive therapeutic resistance. Recent advances in molecular oncology have identified exosomes, nanoscale extracellular vesicles with diameters of 30-150 nm, as pivotal mediators of the lateral transmission of bioactive molecular signals. This review provides a high-level synthesis of exosomal biogenesis and the nuanced roles these vesicles play in lung cancer. Specifically, we discuss how tumor-derived exosomes orchestrate remodeling of the tumor microenvironment, facilitate premetastatic niche formation, and drive immune evasion via the programmed death-1/programmed death-ligand 1 axis and recruitment of regulatory cells. A significant portion of this review is dedicated to exosomal noncoding RNAs, including microRNAs, long noncoding RNAs, and circular RNAs, emphasizing their stability as liquid biopsy substrates and their involvement in cross-resistance to tyrosine kinase inhibitors and immunotherapies. Furthermore, we evaluate the transition of exosomes from diagnostic candidates to therapeutic tools, including their utility as bio-inspired drug delivery systems and cancer vaccines. Finally, this narrative review critically examines the technical hurdles, ranging from standardized isolation methods to good manufacturing practice scalability that must be overcome to integrate exosome-based precision medicine into routine clinical management of patients with lung cancer.",
-      "journal": "The Journal of international medical research",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Thoracic Surgery, West China Hospital of Sichuan University-Ziyang Hospital, Ziyang Central Hospital, China.",
-        "Department of Cardiology, West China Hospital of Sichuan University-Ziyang Hospital, Ziyang Central Hospital, China.",
-        "General Surgery, Yanjiang District People's Hospital of Ziyang, China."
-      ],
-      "doi": "10.1177/03000605261476145",
-      "date": "2026-08-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42615693/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42618331",
-      "date": "2026-08-20",
-      "title": "Human-Relevant Microphysiological Systems: Evidence for Defined Contexts of Use.",
+      "id": "pubmed-42618956",
+      "date": "2026-08-19",
+      "title": "Developmental Cellular Programming: stage-specific architecting muscle and adipose tissues for high-quality meat production.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618956/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of animal science and biotechnology，PMID 为 42618956。",
+      "report": "The rising global demand for animal protein has driven intensive selection for rapid growth and leanness, often at the expense of meat quality and animal health. Achieving high-quality meat production with optimal intramuscular fat (IMF) and superior myofiber...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42618795",
+      "date": "2026-08-19",
+      "title": "Human brain organoids record the passage of time over multiple years.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618331/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618795/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature，PMID 为 42618795。",
+      "report": "The human brain develops and matures over an exceptionally prolonged period of time that spans nearly two decades of life. Processes that govern species-specific aspects of human postnatal brain development are difficult to study in animal models1. While human...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42618778",
+      "date": "2026-08-19",
+      "title": "Alpha protein kinase 3 gene therapy restores heart function in mouse and human models of cardiomyopathy.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618778/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -523,72 +593,31 @@
         "Organoids",
         "Advanced Disease Models",
         "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
+        "Regulatory Watch"
       ],
       "tags": [
         "类器官",
         "疾病模型",
         "临床",
-        "监管",
-        "肿瘤"
+        "监管"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of stem cells，PMID 为 42618331。",
-      "report": "The FDA Modernization Act has accelerated the transition from animal-based testing toward human-relevant new approach methodologies in drug development, shifting attention from technological feasibility to regulatory implementation. Among these approaches, mic...",
+      "fact": "PubMed 记录显示该文献收录于 Nature cardiovascular research，PMID 为 42618778。",
+      "report": "Truncating variants in the ALPK3 gene (encoding alpha protein kinase 3) cause severe cardiomyopathy for which no curative treatment exists1-3. Here we establish an adeno-associated virus (AAV)-mediated gene replacement therapy to deliver full-length human ALPK...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42618529",
+      "id": "pubmed-42618695",
       "date": "2026-08-19",
-      "title": "\"Translational Models for Acute Asthma: Critical Evaluation of In Vivo, In Vitro, and Emerging Technologies in Drug Discovery\".",
+      "title": "Hematopoietic stem cell aging: a review of transcriptional and multi-omics insights and potential paths for AI integration.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618529/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "临床",
-        "监管",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The Journal of asthma : official journal of the Association for the Care of Asthma，PMID 为 42618529。",
-      "report": "To critically evaluate conventional and emerging preclinical methodologies for screening novel asthma therapeutics; to compare their translational relevance; and to propose an integrated framework aimed at improving precision, safety, and phenotype-targeted ef...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42617726",
-      "date": "2026-08-19",
-      "title": "Patient-Derived Models of Prostate Cancer: Capturing Tumour Complexity from Initiation to Metastasis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617726/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618695/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -605,39 +634,125 @@
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42617726。",
-      "report": "Prostate cancer is a growing global health challenge. To identify new ways to improve patient care, researchers need a variety of preclinical models that faithfully recapitulate human tumours across the disease continuum, from initiation to metastasis. These c...",
+      "fact": "PubMed 记录显示该文献收录于 Experimental & molecular medicine，PMID 为 42618695。",
+      "report": "Hematopoietic stem cell (HSC) aging underlies age-related immune decline, anemia and increased risk of hematologic malignancies, including clonal hematopoiesis and leukemia. Many available microarray and bulk RNA sequencing studies have elucidated conserved tr...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42617597",
+      "id": "pubmed-42618615",
       "date": "2026-08-19",
-      "title": "Synthetic tissue ecology: Ecological control of developmental self-organization across scales.",
+      "title": "Human organoids that mimic brain development grown for years in lab.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618615/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature，PMID 为 42618615。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42618558",
+      "date": "2026-08-19",
+      "title": "Vascularized bone organoids: current advances and a biomimetic platform for osteonecrosis of the femoral head.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617597/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618558/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
+        "Advanced Disease Models"
       ],
       "tags": [
         "类器官",
-        "疾病模型",
-        "多组学"
+        "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell systems，PMID 为 42617597。",
-      "report": "Embryonic development builds tissues and organs through the self-organization of heterogeneous cells across spatial and temporal scales, analogous to an ecosystem. Although ecological systems are often stochastic and multistable, embryogenesis is remarkably re...",
+      "fact": "PubMed 记录显示该文献收录于 Bone research，PMID 为 42618558。",
+      "report": "Osteonecrosis of the femoral head (ONFH) is a devastating ischemic bone disease. Its pathogenesis is multifactorial, including impaired bone remodeling, chronic inflammation, dysregulated lipid metabolism, and bone marrow edema, all intrinsically linked to vas...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42619129",
+      "date": "2026-08-19",
+      "title": "An Explicit Interaction-Prompted Diffusion Framework for High-Fidelity 3D Molecular Generation.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42619129/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of the American Chemical Society，PMID 为 42619129。",
+      "report": "Current structure-based drug design generative models often struggle to faithfully recapitulate genuine ligand-protein binding interactions. Instead, under the coupling of implicit learning architectures and biased training data, they tend to learn spurious st...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42619090",
+      "date": "2026-08-19",
+      "title": "De Novo-Designed Bifunctional Proteins for Targeted Protein Degradation.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42619090/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of the American Chemical Society，PMID 为 42619090。",
+      "report": "In targeted protein degradation (TPD), specific subcellular proteins are removed by routing them to the ubiquitin-proteasome, autophagy, or lysosome machinery. For instance, proteolysis-targeting chimeras (PROTACs) are synthetic heterobifunctional small molecu...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -669,6 +784,76 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of agricultural and food chemistry，PMID 为 42616438。",
       "report": "Nowadays, enzyme engineering has moved from traditional structure-based mutagenesis and directed evolution to data-intensive, AI-assisted design paradigms that involve the rapid discovery and optimization of biocatalysts. Whereas classical approaches relied on...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42619413",
+      "date": "2026-08-19",
+      "title": "Cross-Regulation Between DNA Methylation and Circadian Clock Reprogramming in Ovarian Cancer: Mechanistic Insights, Biomarker Potential, and Therapeutic Implications.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42619413/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of cancer，PMID 为 42619413。",
+      "report": "Early diagnosis remains challenging, recurrence rates remain high, and platinum resistance frequently develops in ovarian cancer (OC), collectively representing major barriers to long-term patient survival. DNA methylation (DNAm), as a relatively stable yet dy...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42618642",
+      "date": "2026-08-19",
+      "title": "Exploring the landscape of targetable alterations in patients with glioblastoma.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618642/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature reviews. Clinical oncology，PMID 为 42618642。",
+      "report": "Glioblastomas remain the most lethal primary brain tumour in adults, with targeted therapies delivering only limited benefit despite deep molecular characterization. Several targeted drugs have received regulatory approval for low-grade gliomas, although progr...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -762,70 +947,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42616180",
-      "date": "2026-08-19",
-      "title": "Platelet-derived mitochondrial transfer in cancer metastasis: mechanisms, functional consequences, and translational opportunities.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616180/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Clinical & experimental metastasis，PMID 为 42616180。",
-      "report": "Cancer metastasis is a multistep and highly inefficient process that depends on reciprocal interactions between tumor cells and the host microenvironment. Among the most important host contributors, platelets have emerged as active facilitators of metastatic d...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42615693",
-      "date": "2026-08-19",
-      "title": "Exosomes and lung cancer: Biogenesis, pathogenic mechanisms, biomarkers, and therapeutic applications.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42615693/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The Journal of international medical research，PMID 为 42615693。",
-      "report": "Lung cancer remains a global health crisis characterized by high mortality rates and pervasive therapeutic resistance. Recent advances in molecular oncology have identified exosomes, nanoscale extracellular vesicles with diameters of 30-150 nm, as pivotal medi...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42611249",
       "date": "2026-08-18",
       "title": "Design and Characterization of SAKe, a Building Block for Protein Self-Assembly.",
@@ -884,34 +1005,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42617537",
-      "date": "2026-08-17",
-      "title": "Mechanical loading under estrogen deficiency enhances mineralization and osteoblast maturation in an advanced 3D vascularized bone organoid driven by hypertrophy and apoptosis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617537/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of biomechanics，PMID 为 42617537。",
-      "report": "Bone is a highly mechanosensitive tissue that responds to mechanical cues and adapts to maintain a homeostatic balance between bone formation and resorption, thereby preserving structural integrity and strength. Estrogen is the key modulator of skeletal homeos...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42606177",
       "date": "2026-08-17",
       "title": "Redesign of energetically frustrated regions rescues function in defective T4 clamp loaders.",
@@ -963,35 +1056,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 42605681。",
       "report": "Protein engineering relies heavily on computational characterization of constrained protein fitness landscapes, in which only a limited fraction of sequence space corresponds to stable and functional biomolecules. Advances in structural biology and machine lea...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42575164",
-      "date": "2026-08-10",
-      "title": "A functional investigation of antibody Fc-FcRn variant binding guided by in silico free energy perturbation methods.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42575164/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of molecular biology，PMID 为 42575164。",
-      "report": "Accurate calculation of energy changes upon mutation is a key requirement for the effective use of computational methods in protein design. In this study, we applied free energy perturbation (FEP) calculations to predict the effects of mutations on the binding...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1060,36 +1124,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42591814",
-      "date": "2026-07-29",
-      "title": "Design, build and test of a targeted synthetic protein strategy.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42591814/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42591814。",
-      "report": "Incorporating minimal antibody regions into engineered proteins is an effective strategy for creating targeted therapeutics and diagnostics. However, a major barrier to clinical translation is the lack of efficient methods to track their performance in vivo. B...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42509463",
       "date": "2026-07-28",
       "title": "Inflammation-linked aging signals in frozen single-cell foundation models: donor-aware detection and robustness testing.",
@@ -1121,36 +1155,6 @@
       "fact": "PubMed 记录显示该文献收录于 Biogerontology，PMID 为 42509463。",
       "report": "Single-cell foundation models such as scGPT and Geneformer are large neural networks trained on human single-cell RNA-seq data. They were never shown chronological age during training. Do their internal representations nevertheless encode aging biology in a wa...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42617253",
-      "date": "2026-07-27",
-      "title": "Goose kidney organoids: A new model for studying the metabolic mechanism of goose astrovirus-induced gout.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617253/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Poultry science，PMID 为 42617253。",
-      "report": "Goose astrovirus (GAstV) is a newly identified avian pathogen that causes fatal gout in goslings, characterized by kidney damage and high mortality. Unlike non-pathogenic human gout, GAstV-induced gout lacks reference models due to the absence of goose-derived...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

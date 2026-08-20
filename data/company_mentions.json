@@ -4,93 +4,40 @@
   "asOfDate": "2026-08-20",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-37f182eca9a36283",
-      "observedName": "Biotech Pharmaceutical Co., Ltd.",
-      "normalizedName": "biotech pharmaceutical",
+      "id": "mention-clinicaltrials-5eb7eec2bbf0acdf",
+      "observedName": "Janssen Research & Development, LLC",
+      "normalizedName": "janssen research and development",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT02591784",
-      "sourceDate": "2022-03-17",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT02591784",
+      "sourceRecordId": "NCT07518186",
+      "sourceDate": "2026-07-31",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07518186",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
+        "Recruiting",
         "中国",
-        "临床试验",
-        "肿瘤"
+        "临床试验"
       ],
       "activitySignals": [
+        "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Nimotuzumab in Combination With Radiotherapy for Esophageal Cancer"
+      "contextTitle": "A Study Comparing JNJ-79635322 and Teclistamab in Participants With Relapsed or Refractory Multiple Myeloma"
     },
     {
-      "id": "mention-clinicaltrials-6969a9c86f79f450",
-      "observedName": "Voyager Therapeutics",
-      "normalizedName": "voyager therapeutics",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT01973543",
-      "sourceDate": "2020-03-03",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01973543",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Gene Therapy",
-        "Genetic Medicine",
-        "临床试验",
-        "基因治疗",
-        "基因编辑"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Safety Study of AADC Gene Therapy (VY-AADC01) for Parkinson's Disease"
-    },
-    {
-      "id": "mention-clinicaltrials-69760dcc460a0c1c",
-      "observedName": "Veristat, Inc.",
-      "normalizedName": "veristat",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT01973543",
-      "sourceDate": "2020-03-03",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01973543",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Gene Therapy",
-        "Genetic Medicine",
-        "临床试验",
-        "基因治疗",
-        "基因编辑"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Safety Study of AADC Gene Therapy (VY-AADC01) for Parkinson's Disease"
-    },
-    {
-      "id": "mention-clinicaltrials-a6e550d8c3376d25",
-      "observedName": "Novartis Pharmaceuticals",
-      "normalizedName": "novartis pharmaceuticals",
+      "id": "mention-clinicaltrials-678aa8f0f56ae271",
+      "observedName": "Gyroscope Therapeutics Limited",
+      "normalizedName": "gyroscope therapeutics",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT01843348",
-      "sourceDate": "2017-05-01",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01843348",
+      "sourceRecordId": "NCT05481827",
+      "sourceDate": "2024-03-22",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05481827",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -101,60 +48,29 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "12 Month Athena Study: Everolimus vs. Standard Regimen in de Novo Kidney Transplant Patients"
+      "contextTitle": "ORACLE: A Long-term Follow-up Study to Evaluate the Safety of GT005 in Participants With Geographic Atrophy Secondary to Age-related Macular Degeneration Treated in a Gyroscope-sponsored Antecedent Study"
     },
     {
-      "id": "mention-clinicaltrials-b9936f7253655532",
-      "observedName": "Neurocrine Biosciences",
-      "normalizedName": "neurocrine biosciences",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT01973543",
-      "sourceDate": "2020-03-03",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01973543",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Gene Therapy",
-        "Genetic Medicine",
-        "临床试验",
-        "基因治疗",
-        "基因编辑"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Safety Study of AADC Gene Therapy (VY-AADC01) for Parkinson's Disease"
-    },
-    {
-      "id": "mention-clinicaltrials-ff807f4fbb93152d",
-      "observedName": "AIM ImmunoTech Inc.",
-      "normalizedName": "aim immunotech",
+      "id": "mention-clinicaltrials-ee889356dc44fd5c",
+      "observedName": "Novartis Pharmaceuticals",
+      "normalizedName": "novartis pharmaceuticals",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT03899987",
-      "sourceDate": "2026-06-09",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03899987",
+      "sourceRecordId": "NCT05481827",
+      "sourceDate": "2024-03-22",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05481827",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "Recruiting",
-        "临床试验",
-        "肿瘤"
+        "临床试验"
       ],
       "activitySignals": [
-        "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Aspirin and Rintatolimod With or Without Interferon-alpha 2b in Treating Patients With Prostate Cancer Before Surgery"
+      "contextTitle": "ORACLE: A Long-term Follow-up Study to Evaluate the Safety of GT005 in Participants With Geographic Atrophy Secondary to Age-related Macular Degeneration Treated in a Gyroscope-sponsored Antecedent Study"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
