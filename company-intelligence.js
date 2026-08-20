@@ -41,7 +41,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     "withEvidenceCount": 625,
     "withProductClaimsCount": 518,
     "withFuturePlansCount": 3,
-    "failedSourceCount": 50,
+    "failedSourceCount": 52,
     "identityLinkCount": 0
   },
   "profiles": [
@@ -20217,7 +20217,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-beone-medicines-official-23a05e385b5d",
             "date": "2026-08-19",
             "title": "Transforming Cancer Care Through Science and Speed | BeOne Medicines",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -20293,7 +20293,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-beone-medicines-official-23a05e385b5d",
           "date": "2026-08-19",
           "title": "Transforming Cancer Care Through Science and Speed | BeOne Medicines",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -48386,7 +48386,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-ionis-official-f4884fa3196d",
             "date": "2026-08-19",
             "title": "Innovating to Change the Course of Human Health | IONIS",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -48462,7 +48462,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-ionis-official-f4884fa3196d",
           "date": "2026-08-19",
           "title": "Innovating to Change the Course of Human Health | IONIS",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -55241,11 +55241,43 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：追踪 Moderna 的 mRNA 药物从临床前开发到商业化阶段的进展。；公司官方页面表述：了解 Moderna 如何改变医学世界。查看职业机会、产品管线和媒体资料，并进一步认识 Moderna。",
-        "summaryOriginal": "Track the development of Moderna’s mRNA medicines. From preclinical development to commercial phase. Learn how we’re changing the world of medicine. Discover career opportunities, our product pipeline, and browse media resources. Meet Moderna.",
+        "summary": "公司官方页面表述：了解 Moderna 如何改变医学世界。查看职业机会、产品管线和媒体资料，并进一步认识 Moderna。；公司官方页面表述：追踪 Moderna 的 mRNA 药物从临床前开发到商业化阶段的进展。",
+        "summaryOriginal": "Learn how we’re changing the world of medicine. Discover career opportunities, our product pipeline, and browse media resources. Meet Moderna. Track the development of Moderna’s mRNA medicines. From preclinical development to commercial phase.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
+          {
+            "textOriginal": "Our platform enables rapid design, research and testing of multiple mRNAs, within days.",
+            "text": "Our platform enables rapid design, research and testing of multiple mRNAs, within days.",
+            "evidenceId": "evidence-company-moderna-official-b5666c799ba1",
+            "sourceUrl": "https://www.modernatx.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Discover career opportunities, our product pipeline, and browse media resources.",
+            "text": "Discover career opportunities, our product pipeline, and browse media resources.",
+            "evidenceId": "evidence-company-moderna-official-b5666c799ba1",
+            "sourceUrl": "https://www.modernatx.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Moderna's mission is to deliver the greatest possible impact to people through mRNA medicines.",
+            "text": "Moderna's mission is to deliver the greatest possible impact to people through mRNA medicines.",
+            "evidenceId": "evidence-company-moderna-official-b5666c799ba1",
+            "sourceUrl": "https://www.modernatx.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "mRNA medicine contains no animal products or preservatives, making medicine accessible for as many people as possible.",
+            "text": "mRNA medicine contains no animal products or preservatives, making medicine accessible for as many people as possible.",
+            "evidenceId": "evidence-company-moderna-official-b5666c799ba1",
+            "sourceUrl": "https://www.modernatx.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
           {
             "textOriginal": "Our mRNA pipeline shows the progress we’re making on clinical programs currently in development to create mRNA medicines for a wide range of diseases and conditions.",
             "text": "Our mRNA pipeline shows the progress we’re making on clinical programs currently in development to create mRNA medicines for a wide range of diseases and conditions.",
@@ -55261,44 +55293,12 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://www.modernatx.com/research/product-pipeline",
             "needsReview": true,
             "claimType": "Report"
-          },
-          {
-            "textOriginal": "From preclinical development to commercial phase.",
-            "text": "From preclinical development to commercial phase.",
-            "evidenceId": "evidence-company-moderna-pipeline-0a111596e2a2",
-            "sourceUrl": "https://www.modernatx.com/research/product-pipeline",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Filter : All Categories Respiratory Vaccines Latent & Other Vaccines Precision Immunotherapies Rare Disease Therapeutics",
-            "text": "Filter : All Categories Respiratory Vaccines Latent & Other Vaccines Precision Immunotherapies Rare Disease Therapeutics",
-            "evidenceId": "evidence-company-moderna-pipeline-0a111596e2a2",
-            "sourceUrl": "https://www.modernatx.com/research/product-pipeline",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Our platform enables rapid design, research and testing of multiple mRNAs, within days.",
-            "text": "Our platform enables rapid design, research and testing of multiple mRNAs, within days.",
-            "evidenceId": "evidence-company-moderna-official-f829bd8c561c",
-            "sourceUrl": "https://www.modernatx.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Discover career opportunities, our product pipeline, and browse media resources.",
-            "text": "Discover career opportunities, our product pipeline, and browse media resources.",
-            "evidenceId": "evidence-company-moderna-official-f829bd8c561c",
-            "sourceUrl": "https://www.modernatx.com/",
-            "needsReview": true,
-            "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-moderna-official-b5666c799ba1",
           "evidence-company-moderna-pipeline-0a111596e2a2",
-          "evidence-company-moderna-official-f829bd8c561c",
           "evidence-company-moderna-investor_relations-7a5ab762d10c",
           "evidence-sec-0001682852-000168285226000150",
           "evidence-sec-0001682852-000168285226000147",
@@ -55309,6 +55309,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
+            "id": "event-evidence-company-moderna-official-b5666c799ba1",
+            "date": "2026-08-20",
+            "title": "Pioneering mRNA technology - Moderna",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-moderna-official-b5666c799ba1",
+            "sourceUrl": "https://www.modernatx.com/"
+          },
+          {
             "id": "event-evidence-company-moderna-pipeline-0a111596e2a2",
             "date": "2026-08-18",
             "title": "mRNA medicines we are currently developing",
@@ -55318,17 +55329,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-moderna-pipeline-0a111596e2a2",
             "sourceUrl": "https://www.modernatx.com/research/product-pipeline"
-          },
-          {
-            "id": "event-evidence-company-moderna-official-f829bd8c561c",
-            "date": "2026-08-12",
-            "title": "Pioneering mRNA technology - Moderna",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-moderna-official-f829bd8c561c",
-            "sourceUrl": "https://www.modernatx.com/"
           },
           {
             "id": "event-evidence-company-moderna-investor_relations-7a5ab762d10c",
@@ -55376,7 +55376,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 3
         },
-        "lastEvidenceDate": "2026-08-18",
+        "lastEvidenceDate": "2026-08-20",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -55384,6 +55384,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-moderna-official-b5666c799ba1",
+          "date": "2026-08-20",
+          "title": "Pioneering mRNA technology - Moderna",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-moderna-official-b5666c799ba1",
+          "sourceUrl": "https://www.modernatx.com/"
+        },
         {
           "id": "event-evidence-company-moderna-pipeline-0a111596e2a2",
           "date": "2026-08-18",
@@ -55394,17 +55405,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-moderna-pipeline-0a111596e2a2",
           "sourceUrl": "https://www.modernatx.com/research/product-pipeline"
-        },
-        {
-          "id": "event-evidence-company-moderna-official-f829bd8c561c",
-          "date": "2026-08-12",
-          "title": "Pioneering mRNA technology - Moderna",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-moderna-official-f829bd8c561c",
-          "sourceUrl": "https://www.modernatx.com/"
         },
         {
           "id": "event-evidence-company-moderna-investor_relations-7a5ab762d10c",
@@ -58338,6 +58338,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -58350,6 +58351,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -59619,7 +59621,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
             "text": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-b30b6aac481a",
+            "evidenceId": "evidence-company-oxford-nanopore-official-4d4c43b52b58",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59627,7 +59629,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Oxford Nanopore Technologies products are RUO.",
             "text": "Oxford Nanopore Technologies products are RUO.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-b30b6aac481a",
+            "evidenceId": "evidence-company-oxford-nanopore-official-4d4c43b52b58",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59635,7 +59637,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
             "text": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-b30b6aac481a",
+            "evidenceId": "evidence-company-oxford-nanopore-official-4d4c43b52b58",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59643,7 +59645,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
             "text": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
-            "evidenceId": "evidence-company-oxford-nanopore-official-b30b6aac481a",
+            "evidenceId": "evidence-company-oxford-nanopore-official-4d4c43b52b58",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59651,7 +59653,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
             "text": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
-            "evidenceId": "evidence-company-oxford-nanopore-official-b30b6aac481a",
+            "evidenceId": "evidence-company-oxford-nanopore-official-4d4c43b52b58",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59667,7 +59669,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-oxford-nanopore-official-b30b6aac481a",
+          "evidence-company-oxford-nanopore-official-4d4c43b52b58",
           "evidence-company-oxford-nanopore-pipeline-cc2146b5a187"
         ]
       },
@@ -59675,14 +59677,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-oxford-nanopore-official-b30b6aac481a",
-            "date": "2026-08-19",
+            "id": "event-evidence-company-oxford-nanopore-official-4d4c43b52b58",
+            "date": "2026-08-20",
             "title": "Welcome to Oxford Nanopore Technologies",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-oxford-nanopore-official-b30b6aac481a",
+            "evidenceId": "evidence-company-oxford-nanopore-official-4d4c43b52b58",
             "sourceUrl": "https://nanoporetech.com/"
           },
           {
@@ -59708,7 +59710,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-08-19",
+        "lastEvidenceDate": "2026-08-20",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -59717,14 +59719,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-oxford-nanopore-official-b30b6aac481a",
-          "date": "2026-08-19",
+          "id": "event-evidence-company-oxford-nanopore-official-4d4c43b52b58",
+          "date": "2026-08-20",
           "title": "Welcome to Oxford Nanopore Technologies",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-oxford-nanopore-official-b30b6aac481a",
+          "evidenceId": "evidence-company-oxford-nanopore-official-4d4c43b52b58",
           "sourceUrl": "https://nanoporetech.com/"
         },
         {
@@ -74379,6 +74381,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -74391,6 +74394,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },

@@ -4383,7 +4383,7 @@
       "publishedAt": "2026-08-19",
       "snapshotDate": "2026-08-19",
       "title": "Transforming Cancer Care Through Science and Speed | BeOne Medicines",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "BeOne Medicines — Official Website",
@@ -4413,7 +4413,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "23a05e385b5d8a8cafca18a0f2942b7c18dd235dac9bad33ff204dec8a736fc0",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "BeOne Medicines and Revolution Medicines Announce Clinical Development and Regional Commercialization Collaboration",
@@ -37915,7 +37915,7 @@
       "publishedAt": "2026-08-19",
       "snapshotDate": "2026-08-19",
       "title": "Innovating to Change the Course of Human Health | IONIS",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Ionis Pharmaceuticals — Official Website",
@@ -37945,7 +37945,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "f4884fa3196d89b6157bc3e7f66a2a5a6d92878f6c5739c9ea50b947e1c1b4f7",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
@@ -38349,15 +38349,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-moderna-official-f829bd8c561c",
+      "id": "evidence-company-moderna-official-b5666c799ba1",
       "signalId": null,
       "companyIds": [
         "moderna"
       ],
-      "publishedAt": "2026-08-12",
-      "snapshotDate": "2026-08-12",
+      "publishedAt": "2026-08-20",
+      "snapshotDate": "2026-08-20",
       "title": "Pioneering mRNA technology - Moderna",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Moderna — Official Website",
@@ -38373,7 +38373,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash f829bd8c561cef8428742bc8b0f5915d02f2a8af02f56b99a4f7ad891e2fa56c.",
+      "fact": "The official page was captured with normalized-content hash b5666c799ba1be1d19c4c85fcb109d05fd23d2b7343be637017c75ad4b7039d2.",
       "report": "公司官方页面表述：了解 Moderna 如何改变医学世界。查看职业机会、产品管线和媒体资料，并进一步认识 Moderna。",
       "reportOriginal": "Learn how we’re changing the world of medicine. Discover career opportunities, our product pipeline, and browse media resources. Meet Moderna.",
       "reportCn": "了解 Moderna 如何改变医学世界。查看职业机会、产品管线和媒体资料，并进一步认识 Moderna。",
@@ -38386,8 +38386,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "f829bd8c561cef8428742bc8b0f5915d02f2a8af02f56b99a4f7ad891e2fa56c",
-      "changeType": "unchanged",
+      "contentHash": "b5666c799ba1be1d19c4c85fcb109d05fd23d2b7343be637017c75ad4b7039d2",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Moderna's mission is to deliver the greatest possible impact to people through mRNA medicines.",
@@ -38837,7 +38837,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "44ac0c389f480e700fbecbf590be26e172dacbb02666c96aa36d5659a5473db3",
       "changeType": "unchanged",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
         "Nykode Therapeutics Presents Comprehensive Preclinical Data, Optimized Manufacturing, and ...",
@@ -38913,13 +38913,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-oxford-nanopore-official-b30b6aac481a",
+      "id": "evidence-company-oxford-nanopore-official-4d4c43b52b58",
       "signalId": null,
       "companyIds": [
         "oxford-nanopore"
       ],
-      "publishedAt": "2026-08-19",
-      "snapshotDate": "2026-08-19",
+      "publishedAt": "2026-08-20",
+      "snapshotDate": "2026-08-20",
       "title": "Welcome to Oxford Nanopore Technologies",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -38937,7 +38937,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash b30b6aac481a61a56eabf64d12b32354c3c437bf7b2864666922f57420c64d89.",
+      "fact": "The official page was captured with normalized-content hash 4d4c43b52b581b796b2d9726cf43500b54addd249597e6cc57c6895155ea12ec.",
       "report": "公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
       "reportOriginal": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
       "reportCn": "发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
@@ -38950,7 +38950,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "b30b6aac481a61a56eabf64d12b32354c3c437bf7b2864666922f57420c64d89",
+      "contentHash": "4d4c43b52b581b796b2d9726cf43500b54addd249597e6cc57c6895155ea12ec",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -39487,7 +39487,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "e6a34c89fcb29b4ab4c7bcf5e7acfbacafb635eee64ea4c5b891664d6fb2ceb4",
       "changeType": "updated",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "XtalPi Science Agentic AI Genius Agents 智能中枢",
         "XtalPi Science Agentic 智能 Genius Agents 智能中枢",
