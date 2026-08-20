@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-19T18:55:46.351908+00:00",
+  "capturedAt": "2026-08-20T01:53:50.793121+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,36 +10,90 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-08-19",
-    "end": "2026-08-19"
+    "start": "2025-08-20",
+    "end": "2026-08-20"
   },
   "pmids": [
+    "42616835",
+    "42616664",
+    "42616191",
     "42615637",
     "42615141",
     "42614827",
-    "42614678",
-    "42614539",
-    "42614535",
     "42600555",
     "42580899",
     "42559559",
     "42509463",
     "42498177",
     "42497867",
+    "42616438",
     "42611249",
     "42606177",
     "42605681",
     "42591814",
     "42575164",
-    "42572503",
+    "42617136",
+    "42616657",
+    "42616180",
     "42615693",
     "42614645",
-    "42614303",
-    "42613664",
-    "42612850",
-    "42612071"
+    "42614303"
   ],
   "records": [
+    {
+      "pmid": "42616835",
+      "title": "Assessing the preclinical progress in the therapeutic targeting of axial spondyloarthritis.",
+      "abstract": "Axial spondyloarthritis (SpA) is a chronic inflammatory rheumatism affecting predominantly the axial skeleton and frequently also the peripheral joints, often associated with specific extra-musculoskeletal manifestations. This complex disease is still poorly understood resulting in a lack of cure. While symptomatic treatments are available, preclinical models/analyses are needed to identify new therapeutic targets in order to improve axial SpA treatment. We discussed strengths and weaknesses of preclinical models used to identify and validate emerging therapeutic targets. Progress in developing new therapies for axial SpA remains slow due to its biological complexity and limited understanding of early disease mechanisms. Current treatments mainly target downstream inflammation, contributing to persistent unmet needs and variable responses. Future progress will rely on more pathophysiologically relevant models, interdisciplinary approaches, and integration of insights from related diseases to accelerate personalized therapeutic development.",
+      "journal": "Expert opinion on therapeutic targets",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "UMR1173, Université Paris Saclay, Université de Versailles St Quentin en Yvelines, Inserm, Infection et Inflammation, Montigny le Btx, France.",
+        "InFiBrex, IDEX, Université Paris Cité, France.",
+        "Rheumatology Division, Ambroise Paré Hospital (AP-HP), Boulogne-Billancourt, France."
+      ],
+      "doi": "10.1080/14728222.2026.2722195",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616835/"
+    },
+    {
+      "pmid": "42616664",
+      "title": "Phenotypic Analysis of Human and Murine Endometrial Organoids using a Machine Learning Approach.",
+      "abstract": "Endometrial organoids are a powerful, 3D in vitro system for studying reproductive function and disease since they are more physiologically representative than 2D cell models. However, optimal methods for the analysis of individual organoids are still developing and remain inconsistent throughout the field. To independently evaluate and optimize high-throughput analysis tools for human and mouse endometrial organoids, we first assessed several interfaces, OrganoID, OrganoSeg2, and Biodock, for their segmentation capabilities of whole-dome Z projection brightfield microscopy images. The edge detections of OrganoID and OrganoSeg2 were not sufficient to distinguish individual endometrial organoids when multiple organoids were in contact or when debris was present and thus, we did not further evaluate these interfaces for phenotypic quantitative analysis. By creating trained deep learning models on Biodock which performed reliable segmentation, we present methods to classify and quantify organoids with mixed 'round' or 'abnormal' populations, extracting critical information such as area, eccentricity, and brightness from each individual organoid. These analysis parameters were effective in organoids from human endometrial epithelium grown in complete vs. reduced medium and from genetically engineered mice. Additionally, Biodock was used to quantify live and dead cells labeled with fluorescent dyes, showing that it is also useful for quantifying high-throughput live imaging data from drug treatment experiments. Overall, deep learning models trained through Biodock accurately assessed phenotypic properties of human and murine endometrial organoids in brightfield and live-fluorescent microscopy, demonstrating that it is a promising tool for analyzing endometrial organoids to reliably detect phenotypic differences from organoid microscopy.",
+      "journal": "Reproduction (Cambridge, England)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Pathology & Immunology, Baylor College of Medicine, Houston, Texas, USA.",
+        "Center for Drug Discovery, Baylor College of Medicine, Houston, Texas, USA.",
+        "Department of Obstetrics and Gynecology, Baylor College of Medicine, Houston, Texas, USA."
+      ],
+      "doi": "10.1093/reprod/xaag100",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616664/"
+    },
+    {
+      "pmid": "42616191",
+      "title": "Biofabrication and artificial intelligence strategies for investigating solid- and fluid-pressure mechanobiology in pancreatic ductal adenocarcinoma.",
+      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is shaped by a mechanically abnormal tumor microenvironment (TME) in which dysregulated mechanotransduction promotes malignant progression and therapeutic resistance. Two coupled but distinct pressure states dominate this landscape: solid stress and interstitial fluid pressure (IFP). Solid stress arises from constrained tumor growth, stromal contractility, and extracellular matrix remodeling. By contrast, IFP reflects hydrostatic pressure within the interstitial fluid compartment and is elevated by vascular leakage, impaired drainage, and low tissue hydraulic conductivity. Together, these abnormalities compress vessels, disrupt transport, and activate mechanotransduction programs that reinforce malignant adaptation. Here we integrate solid stress and IFP within a unified pressure-state framework for PDAC. We examine how these forces shape tumor progression, drug transport, and therapeutic response. We then evaluate spheroid, organoid, hydrogel, bioprinted, and microfluidic models according to what they truly control, directly measure, or merely infer. This distinction separates pressure-relevant systems from pressure-reconstructing models. We also discuss stromal normalization and the emerging role of artificial intelligence and machine learning (AI/ML) in model engineering and patient stratification. Current computational approaches can optimize mechanically defined models and infer pressure-related tumor states from multimodal data. However, they still rely largely on surrogates rather than direct measurements of solid stress or IFP. Our framework defines the biomechanical validation required to develop clinically predictive models of PDAC mechanobiology.",
+      "journal": "Cancer metastasis reviews",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Discovery and Utilization of Functional Components in Traditional Chinese Medicine, Shanghai Frontiers Science Center of TCM Chemical Biology, Institute of Interdisciplinary Integrative Medicine Research and Shuguang Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai, 201203, China.",
+        "Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, 100700, China.",
+        "School of Pharmacy, Naval Medical University, Shanghai, 200433, China.",
+        "State Key Laboratory of Discovery and Utilization of Functional Components in Traditional Chinese Medicine, Shanghai Frontiers Science Center of TCM Chemical Biology, Institute of Interdisciplinary Integrative Medicine Research and Shuguang Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai, 201203, China. luanxin@shutcm.edu.cn.",
+        "State Key Laboratory of Discovery and Utilization of Functional Components in Traditional Chinese Medicine, Shanghai Frontiers Science Center of TCM Chemical Biology, Institute of Interdisciplinary Integrative Medicine Research and Shuguang Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai, 201203, China. mit012@shutcm.edu.cn."
+      ],
+      "doi": "10.1007/s10555-026-10366-7",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616191/"
+    },
     {
       "pmid": "42615637",
       "title": "Human iPSC-Derived Spinal Cord Organoids - The First Electrophysiological Assessment of Neuronal Maturation.",
@@ -96,58 +150,6 @@
       "doi": "10.1002/cai2.70073",
       "date": "2026-08-18",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42614827/"
-    },
-    {
-      "pmid": "42614678",
-      "title": "Macrophage polarization in Sjögren's syndrome: from mechanisms to therapeutic translation.",
-      "abstract": "Sjögren's syndrome (SS) is a chronic systemic autoimmune disease characterized by damage to exocrine glands, and no effective treatment is currently available to reverse glandular fibrosis. As core effector cells of innate immunity, macrophages play a pivotal role in the dynamic imbalance of polarization states, which critically influences inflammation initiation, tissue injury, and irreversible fibrosis in SS. This review systematically delineates the heterogeneity of M1/M2 macrophage subsets, their spatiotemporal dynamics, and their functional transitions across different pathological stages of SS: M1 predominance drives early pro-inflammatory damage, M1/M2 interplay sustains chronic inflammation in the middle stage, and aberrant M2 polarization promotes late-stage glandular fibrosis. We further dissect the multi-level regulatory network underlying macrophage polarization imbalance, including immune cell crosstalk, core signaling pathways, non-coding RNA epigenetic regulation, and immunometabolic reprogramming. The in-depth mechanisms by which M2 macrophages drive the progression of glandular fibrosis are also summarized. In this context, we describe how certain traditional Chinese medicine (TCM) formulas and monomeric compounds can effectively restore the balance of macrophage polarization by targeting relevant pathways and molecular nodes. Moreover, we analyze the major bottlenecks currently hindering the clinical translation of macrophage-targeted strategies and propose innovative approaches, including tissue-specific delivery, spatiotemporally tailored modulation, integrated TCM-western medicine therapy, biomarker-guided patient stratification, and early-window intervention. Finally, we discuss the potential of cutting-edge technologies such as single-cell multi-omics, spatial transcriptomics, gene editing, and organoid models to decode the heterogeneity of macrophage subsets and their interactions with the microenvironment. Integration of these multidisciplinary tools will facilitate the development of safe, effective, and personalized therapeutic strategies targeting macrophage polarization for SS.",
-      "journal": "Frontiers in immunology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "The First Affiliated Hospital of Henan University of Chinese Medicine, Zhengzhou, China.",
-        "Henan Provincial Key Laboratory of Traditional Chinese Medicine for Viral Diseases, Zhengzhou, China.",
-        "The First Clinical Medical School, Henan University of Chinese Medicine, Zhengzhou, China."
-      ],
-      "doi": "10.3389/fimmu.2026.1819964",
-      "date": "2026-08-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42614678/"
-    },
-    {
-      "pmid": "42614539",
-      "title": "Microfluidic Chip Platforms for Red Blood Cell Storage Lesion Quality Control and Precision Transfusion.",
-      "abstract": "Red blood cell (RBC) transfusion is a core clinical intervention. However, hypothermic storage induces progressive biochemical, structural, and functional impairments collectively termed the RBC storage lesion (RSL), which compromises post-transfusion efficacy and safety. Conventional RSL detection relies on bulk population-averaged indicators with low physiological relevance and no single-cell resolution, failing to capture cellular heterogeneity and microcirculatory dysfunction. Lab-on-a-chip (LOC) platforms are established with microfluidic technology, and organ-on-a-chip represents a biomimetic and advanced extension of such systems. Together, they enable biomimetic reconstruction of the in vivo microcirculatory microenvironment, high-throughput single-cell analysis, and quantitative assessment of RBC mechanical phenotypes under physiological shear conditions. Distinct from fragmented prior reviews that separate microfluidic engineering from transfusion clinical demands, this work systematically outlines the molecular mechanisms and clinical impacts of RSL alongside unresolved detection bottlenecks, and builds an integrated LOC-endothelium-on-a-chip technical framework covering structural design, biocompatible material screening, and standardized fabrication workflows. It further summarizes microfluidic core applications including single-cell deformability quantification, stiffness evaluation, hemolysis susceptibility testing, microvascular occlusion simulation, and RBC-endothelial interaction analysis. Uniquely, it constructs a tiered translational roadmap integrating microfluidics with multi-omics, artificial intelligence, vascularized multi-organ chips, and function-centered pre-transfusion surveillance, and proposes microfluidic strategies to optimize RBC storage regimens. In summary, microfluidic technology overcomes the limitations of conventional assays for RSL quality control, provides an emerging technical platform for RSL mechanistic research, pretransfusion quality evaluation, and donor-specific precise matching, and promotes the transformation of transfusion medicine from time-based empirical management to function-oriented precision practice.",
-      "journal": "Research (Washington, D.C.)",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Orthopaedic Surgery, Chongqing Municipal Health Commission Key Laboratory of Musculoskeletal Regeneration and Translational Medicine, Chongqing Municipal Engineering Research Center of Higher Education Institutions of Orthopaedic Innovation and Translation, The First Affiliated Hospital of Chongqing Medical University, Chongqing 400016, China.",
-        "Department of Biomedical Engineering, The Chinese University of Hong Kong, Hong Kong SAR 999077, China.",
-        "Chongqing Blood Center, Chongqing 400015, China.",
-        "Institute of Health Care Engineering with European Testing Center of Medical Devices, Graz University of Technology, Graz 8010, Austria."
-      ],
-      "doi": "10.34133/research.1405",
-      "date": "2026-08-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42614539/"
-    },
-    {
-      "pmid": "42614535",
-      "title": "Age-dependent functional and transcriptional differences in intestinal mesenchymal stromal cells during early postnatal development in piglets.",
-      "abstract": "Intestinal mesenchymal stromal cells (iMSCs) regulate postnatal epithelial development, yet their temporal dynamics remain poorly defined in early postnatal piglets. Here, we investigated functional and transcriptional changes in jejunal iMSCs isolated from 0-, 7-, and 21-Day-old piglets. In an enteroid-iMSC coculture system, Day 0 iMSCs supported predominantly cystic enteroids with the highest surface area and proliferation index, whereas Day 7 iMSCs increased multi-budded enteroid morphology with intermediate proliferation, showing age-dependent differences in iMSC-mediated epithelial growth modulation. Relative real-time qPCR revealed that these functional differences aligned with niche-associated expression patterns in iMSCs. Specifically, RSPO3 level was highest at Day 0, BMP4 and PDGFRα expression peaked at Day 7, and WNT and BMP antagonists (SFRP1 and GREM1, respectively) increased in Day 21 iMSC samples. Bulk RNA sequencing further revealed shifts in iMSC transcriptomes across developmental stages, with Day 7 iMSCs exhibiting a transitional transcriptional profile enriched for genes associated with cytoskeletal reorganization and cell fate regulation compared with Day 0 iMSCs. Notably, pathway enrichment and gene set analyses identified multiple calcium channel genes and related pathways in Day 7 iMSCs compared with Day 0 iMSCs. Short-term pharmacological inhibition of calcium channels in Day 7 iMSCs was associated with rapid changes in niche factor levels, including decreased BMP4 and increased RSPO3 and WNT expressions. Together, these findings suggest age-related functional and transcriptional differences in iMSCs across early postnatal intestinal development. Our results highlight that calcium channel-related processes may be associated with changes observed in the Day 7 iMSC profile, providing a framework for future studies on iMSC-epithelial interactions during early intestinal development in piglets.",
-      "journal": "Frontiers in cell and developmental biology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Animal and Avian Sciences, University of Maryland, College Park, MD, United States."
-      ],
-      "doi": "10.3389/fcell.2026.1847165",
-      "date": "2026-08-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42614535/"
     },
     {
       "pmid": "42600555",
@@ -259,6 +261,25 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42497867/"
     },
     {
+      "pmid": "42616438",
+      "title": "Enzyme Engineering: From Classical Strategies to AI-Driven Biocatalyst Design.",
+      "abstract": "Nowadays, enzyme engineering has moved from traditional structure-based mutagenesis and directed evolution to data-intensive, AI-assisted design paradigms that involve the rapid discovery and optimization of biocatalysts. Whereas classical approaches relied on rational design and experimental screening, advances in high-throughput sequencing, modeling, and machine learning have enabled predictive exploration of sequence-structure-function relationships in enzymes. Importantly, the latest protein language models and deep learning approaches enable accurate prediction of mutational outcomes, stability engineering, and functional annotation at an unprecedented scale. Generative AI models also enable the design of novel enzymes by predicting protein sequences with tailored catalytic functions and broadened substrate specificity. AI combined with design-build-test-learn (DBTL) automation and synthetic biology has enabled the creation of closed-loop engineering workflows for rapid, iterative optimization. This review examines enzyme engineering from classical methods to AI-assisted biocatalyst development, highlighting key advances, challenges, and emerging trends in autonomous laboratories, sustainable biocatalysis, and computational protein design.",
+      "journal": "Journal of agricultural and food chemistry",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "School of Life Sciences, Jiangsu University, Zhenjiang, Jiangsu212000, China.",
+        "College of Fisheries, Huazhong Agriculture University, Wuhan430070, HubeiChina.",
+        "School of Life Sciences, University of Science and Technology of China, Hefei230026, AnhuiChina.",
+        "Department of Plant Breeding and Genetics, University of Agriculture, Peshawar25000, Khyber Pakhtunkhwa, Pakistan."
+      ],
+      "doi": "10.1021/acs.jafc.6c04272",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616438/"
+    },
+    {
       "pmid": "42611249",
       "title": "Design and Characterization of SAKe, a Building Block for Protein Self-Assembly.",
       "abstract": "The nanofabrication of functional protein-based surfaces is challenging due to the chemical complexity of proteins and their unpredictable behavior at the solid-liquid interface. Many proteins of interest-such as antibodies or large enzymatic complexes-lack strong and dynamic protein-protein and protein-surface interactions necessary to drive self-assembly of stable arrays with high surface coverage. Additionally, adsorption-induced conformational changes at the solid-liquid interface could lead to a loss of activity and increase the risk of undesirable interfacial processes. Here we introduce SAKe, a Kelch-like designer protein, as a versatile platform to address these challenges. Ancestral sequence reconstruction led to high thermal stability, and the high symmetry allowed modularity of the protein's core. Rational engineering of the bottom side allowed SAKe to form large (up to 5 μm in length), well-defined and pH-dependent two-dimensional assemblies while maintaining structural integrity, which is key for further development of functional materials. SAKe self-assembly was investigated through in-liquid atomic force microscopy on muscovite mica. High resolution imaging confirmed the integrity of the SAKe protein upon adsorption on the solid-liquid interface. These results showcase the SAKe protein as a platform for the further engineering of functional protein-based two-dimensional materials.",
@@ -352,28 +373,63 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42575164/"
     },
     {
-      "pmid": "42572503",
-      "title": "The sweet spot in protein design-Where deep learning meets first principles.",
-      "abstract": "This Perspective explores recent methods and prospective ideas for developing hybrid AI-physics-based pipelines for protein and antibody de novo design. We argue that the highest-confidence candidates emerge where deep learning and first-principles models agree, a \"sweet spot\" that balances generative flexibility with thermodynamic realism. For example, although interface confidence scores such as ipTM, pDockQ2, or ipSAE are widely used to rank generated designs, we show that they are not well suited to rank similar sequences, which suggests the need to combine them with physics-based methods to improve design filtering and ranking. Furthermore, we describe a generalizable framework for implementing antibody design pipelines that combine AI with physics-based modeling and scoring methods and also showcase MadraX, a differentiable and AI-compatible implementation of the FoldX force field. In addition, we classify three tiers of AI-physics integration, from post hoc filtering to full embedding of differentiable physics inside deep learning models. Finally, we discuss the future of the protein design community and underline the need to support current initiatives for community wide blind assessments of the growing number of de novo design pipelines.",
-      "journal": "FEBS letters",
+      "pmid": "42617136",
+      "title": "DNA Lever Nanomachine Based on CHA-Driven Conformational Transitions for the Detection of ctDNA.",
+      "abstract": "Cancer incidence is high worldwide, and early treatment can reduce mortality rates. Circulating tumor DNA (ctDNA) serves as a biomarker for liquid biopsy, enabling early monitoring of tumor burden and treatment response. DNA nanobiosensors have become an important tool for detecting ctDNA due to their high efficiency and low cost. In this study, we developed a DNA lever nanomachine (DLN) based on a catalytic hairpin assembly (CHA)-driven conformational transition for the sensitive detection of ctDNA. The principle is to combine the CHA reaction with DNA lever-based mechanical amplification, enabling the detection of target ctDNA by monitoring changes in signal intensity. During the initial preparation stage, the nanomachine remains in a fluorescence-quenched state. When target ctDNA is present, CHA is activated, triggering downstream signal transduction and initiating a synergistic process of \"target capture-conformational transition-signal amplification\", ultimately leading to the restoration and amplification of the fluorescence signal. Additionally, by adjusting the fulcrum position, this machine enhances mechanical efficiency through an effort-saving lever mechanism. It minimizes internal driving force requirements by optimizing the torque load value at the load end, thereby further improving system responsiveness. The established fluorescent biosensing platform achieves satisfactory linear correlation with ctDNA concentrations ranging from 1 pM to 100 nM, with a limit of detection of 0.776 pM. This method offers a new strategy for CHA-based DNA mechanical fluorescence sensing and holds significant application potential in biological sample detection.",
+      "journal": "ACS sensors",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Chemistry and Chemical Engineering, Southwest University, Chongqing400715, PR China.",
+        "School of Chemistry and Materials, Nanning Normal University, Nanning530001, People's Republic of China."
+      ],
+      "doi": "10.1021/acssensors.6c02322",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617136/"
+    },
+    {
+      "pmid": "42616657",
+      "title": "RAF/MEK Clamp Inhibition with Avutometinib and Cetuximab in RAF1 S257L-Mutated, Anti-EGFR-Refractory Metastatic Colorectal Cancer in Gaucher's disease.",
+      "abstract": "RAF1 alterations are rare in metastatic colorectal cancer (mCRC), occurring in roughly 0.5% of cases, and lack established treatment guidance. We present a patient with RAF1 S257L-mutated, RAS wild-type mCRC and concurrent type 1 Gaucher disease, whose baseline cytopenias precluded standard chemotherapy and clinical-trial enrollment. After progression on fluoropyrimidine-, oxaliplatin-, and irinotecan-based regimens (the latter with the anti-EGFR antibody panitumumab) complicated by recurrent neutropenic sepsis, he received off-label avutometinib and defactinib (an oral RAF/MEK clamp inhibitor plus a FAK inhibitor) combined with cetuximab. He achieved a radiographic response, biomarker decline, hematologic recovery, and improvement in ECOG performance status from 3 to 0, with benefit lasting approximately 6 months. At progression, circulating tumor DNA revealed persistence of RAF1 S257L at high allele fraction with RAF1 amplification, together with newly acquired EGFR ectodomain mutations, KRAS alterations, and a MAP2K1 alteration-a polyclonal pattern of convergent MAPK/EGFR reactivation. This case illustrates how a molecular tumor board can translate a rare driver into a rational, individualized regimen, and how serial liquid biopsy informs resistance and next steps.",
+      "journal": "The oncologist",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Lenox Hill Hospital, New York, NYss.",
+        "Donald and Barbara Zucker School of Medicine at Hofstra University, New York, NY.",
+        "Winship Cancer Institute of Emory University, Atlanta, GA.",
+        "UT Southwestern Medical Center, Dallas, TX.",
+        "Northwell Health Cancer Center, New York, NY."
+      ],
+      "doi": "10.1093/oncolo/oyag335",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616657/"
+    },
+    {
+      "pmid": "42616180",
+      "title": "Platelet-derived mitochondrial transfer in cancer metastasis: mechanisms, functional consequences, and translational opportunities.",
+      "abstract": "Cancer metastasis is a multistep and highly inefficient process that depends on reciprocal interactions between tumor cells and the host microenvironment. Among the most important host contributors, platelets have emerged as active facilitators of metastatic dissemination, supporting the survival of circulating tumor cells, immune evasion, endothelial arrest, extravasation, and early colonization. More recently, platelet-derived mitochondrial transfer has been recognized as a novel mechanism by which platelets may enhance tumor aggressiveness through metabolic reprogramming. This review critically synthesizes the current literature on platelet-mediated mitochondrial transfer in cancer, with emphasis on its biological mechanisms, functional consequences, and translational implications. Emerging evidence in selected osteosarcoma and triple-negative breast cancer models indicates that activated platelets can donate functional mitochondria to cancer cells through direct contact and microparticle-mediated pathways, potentially increasing oxidative phosphorylation, ATP production, redox adaptability, proliferative capacity, and migratory behavior. Mechanistically, platelet mitochondrial transfer may involve pathways linked to mitochondrial quality control and trafficking, including PINK1/Parkin-MFN2 signaling, while also intersecting with broader platelet-tumor crosstalk that promotes epithelial-mesenchymal transition, anoikis resistance, and immune escape. In parallel, platelet-derived mitochondrial cargo and related extracellular vesicle signatures may offer new opportunities for liquid biopsy-based biomarker development. However, major challenges remain, including the need for rigorous in vivo validation, discrimination of intact mitochondria from fragmented mitochondrial material, and clarification of context-dependent effects across tumor types. Collectively, platelet-derived mitochondrial transfer represents an emerging layer of intercellular communication that may link thrombosis, metabolism, and metastasis, and it offers promising avenues for both biomarker discovery and therapeutic intervention.",
+      "journal": "Clinical & experimental metastasis",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Switch Laboratory, VIB Neuroscience Leuven, VIB, Belgium.",
-        "Switch Laboratory, Department of Cellular and Molecular Medicine, KU Leuven, Belgium.",
-        "Switch Laboratory, VIB Center for AI & Computational Biology, VIB, Leuven, Belgium.",
-        "Computational Biology and Bioinformatics, Université Libre de Bruxelles, Brussels, Belgium.",
-        "Laboratory of Pathogens and Host Immunity, University of Montpellier, CNRS and INSERM, France.",
-        "Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Spain.",
-        "VIB Innovation & Business, AI Studio, Belgium.",
-        "Universitat Pompeu Fabra (UPF), Barcelona, Spain.",
-        "Institució Catalana de Recerca i Estudis Avançats (ICREA), Barcelona, Spain."
+        "Blood Transfusion Research Center, High Institute for Research and Education in Transfusion Medicine, Iranian Blood Transfusion Organization Building, Next to the Milad Tower, Hemmat Exp. Way, P.O. Box 14665-1157, Tehran, Iran.",
+        "Rajaie Cardiovascular Medical and Research Center, Iran University of Medical Science, Tehran, Iran.",
+        "Cardiovascular Diseases Research Institute, Tehran Heart Center, Tehran University of Medical Sciences, Tehran, Iran.",
+        "Department of Internal Medicine, College of Medicine, Jazan University, 45142, Jazan, Saudi Arabia.",
+        "Clinical Laboratory Sciences, College of Applied Medical Sciences, King Khalid University, Abha, Saudi Arabia.",
+        "Department of Clinical Laboratory Sciences, College of Pharmacy, University of Al-Ameed, PO Box 198, Karbala, Iraq. risamawi@alameed.edu.iq.",
+        "Student Research Committee, Arak University of Medical Sciences, Arak, Iran.",
+        "Laser Research Centre, University of Johannesburg, Doornfontein, 2028, South Africa. hamblin.lab@gmail.com.",
+        "Department of Medical Laboratory Sciences, School of Allied Medical Science, Mazandaran University of Medical Sciences, Sari, Iran. jalalalinaghinezhad@gmail.com."
       ],
-      "doi": "10.1002/1873-3468.70429",
-      "date": "2026-08-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42572503/"
+      "doi": "10.1007/s10585-026-10424-y",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616180/"
     },
     {
       "pmid": "42615693",
@@ -427,76 +483,93 @@
       "doi": "10.3389/fimmu.2026.1900089",
       "date": "2026-08-04",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42614303/"
-    },
-    {
-      "pmid": "42613664",
-      "title": "Molecular biomarkers in stroke recovery: Consensus-based core recommendations from the fourth Stroke Recovery and Rehabilitation Roundtable.",
-      "abstract": "The 2017 Stroke Recovery and Rehabilitation Roundtable (SRRR) consensus statement on biomarkers identified genetic and blood biomarkers as a developmental priority for stroke recovery and rehabilitation. While progress has been made, this nascent field still lags behind other medical disciplines. Further development is critical because molecular biomarkers hold great promise to provide key insights into the neurobiological mechanisms of both spontaneous and treatment-induced stroke recovery. Such insights could lead to effective recovery biotherapeutics and help optimize the timing and delivery of therapies.MethodsA multidisciplinary taskforce of international experts with expertise in omics and stroke recovery identified and prioritized key focus areas. Consensus opinion was developed across 15 virtual meetings, 2 rounds of anonymous polling and a 2-day in-person meeting. Key recommendations were iteratively refined until full consensus was achieved by all taskforce members.ResultsOur main recommendation is that there is a critical need for large-scale, multi-center, discovery-based omics studies to identify molecular targets in stroke recovery. To help achieve this goal we suggest ways to harmonize future studies including timepoints for data collection, outcome measures, and biospecimen selection. In addition, we address the limitations of current candidate biomarkers, translational challenges, emerging technologies, biomarker response to interventions, multi-site collaboration, and ethical concerns.ConclusionsThere is a great need for collaborative efforts by the international neurorehabilitation community to collect and harmonize molecular biomarker data. The resulting discoveries will be foundational to precision neurorehabilitation and the development of recovery biotherapeutics to enhance recovery for stroke survivors.",
-      "journal": "International journal of stroke : official journal of the International Stroke Society",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Departments of Neurology and Rehabilitation Medicine, Georgetown University, Washington, DC, USA.",
-        "Department of Neurology, University of Maryland, Baltimore, MD, USA.",
-        "Departments of Neurology and Public Health Sciences, University of Virginia, Charlottesville, VA, USA.",
-        "Departments of Geriatric Neurology and Translational Neuroscience, University of Ibadan, Ibadan, Nigeria.",
-        "Neurology and Rehabilitation, University Department of Geriatric Medicine FELIX PLATTER, University of Basel, Basel, Switzerland.",
-        "Department of Clinical Research, Department of Neurology and Stroke Center, University Hospital Basel, Basel, Switzerland.",
-        "Stroke Pharmacogenomics and Genetics Group, Institut de Recerca Sant Pau (IR SANT PAU), Barcelona, Spain.",
-        "University of Bordeaux, INSERM, Bordeaux Population Health Research Center, UMR1219, Bordeaux, France.",
-        "Faculty of Health, University of Technology Sydney, Ultimo, NSW, Australia.",
-        "Charité-Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin, Berlin, Germany.",
-        "Department of Neurology, Humboldt-Universität zu Berlin, Berlin, Germany.",
-        "Departments of Neurology and Neuroscience, Burke Neurological Institute, Weill Cornell Medicine, White Plains, NY, USA.",
-        "Department of Medicine, University of Maryland, Baltimore, MD, USA.",
-        "Department of Neuroscience, Monash University, Melbourne, VIC, Australia.",
-        "Department of Neurology, University of California, Los Angeles, CA, USA.",
-        "California Rehabilitation Institute, Los Angeles, CA, USA.",
-        "Departments of Physiotherapy and Medicine, The University of Melbourne, Melbourne, VIC, Australia.",
-        "Department of Clinical Sciences Lund, Neurology, Lund University, Lund, Sweden.",
-        "Department of Neurology, Skåne University Hospital, Lund, Sweden."
-      ],
-      "doi": "10.1177/17474930261475960",
-      "date": "2026-08-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42613664/"
-    },
-    {
-      "pmid": "42612850",
-      "title": "The De-Centralization Perspective for Liquid Biopsy Use in Thoracic Pathology The Way to Go.",
-      "abstract": "The liquid biopsy (LBx) concept in thoracic oncology has optimized treatment decision-making for patients with advanced/metastatic non-small cell lung cancer (NSCLC). The clinical practice of LBx in thoracic oncology is based on international guidelines. However, aside from the recommendations for adoption of LBx in daily clinical practice for late-stage NSCLC, other indications evaluate the role of LBx in clinical trials, particularly for early stage NSCLC. Transferring LBx into routine practice requires robust data from clinical research programs that are able to sustain the novel indications of LBx. Equity of access to treatment is linked to access to molecular testing for thoracic malignancies. In this context, widespread dissemination of molecular testing, avoiding centralization to commercially available platforms or to unique national academic institutions, becomes a major component of the current strategy for lung cancer care. Therefore, de-centralized LBx in thoracic oncology is the best approach to democratize molecular testing, optimizing access to personalized therapeutic options for lung cancer patients. LBx de-centralization needs to be perfectly mastered using a high quality approach that gives specific and sensitive results. However, several challenges significantly affect this approach, such as the lack of harmonized technical procedures, pre-analytical challenges and issues in interpreting the molecular records, which can imped significantly the widespread practice of LBx. Our aim was to investigate the interest in and advantages of LBx de-centralization in thoracic oncology. The bottlenecks of this strategy that aim to fill the gaps toward widespread integration of LBx into the daily life of health care systems for lung cancer patients will be discussed.",
-      "journal": "Critical reviews in oncology/hematology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "IHU RespirERA, FHU OncoAge, BB-0033-00025, Louis Pasteur Hospital, Côte d'Azur University Nice, France. Electronic address: hofman.p@chu-nice.fr.",
-        "Department of Public Health, University Federico II of Naples, Naples, Italy."
-      ],
-      "doi": "10.1016/j.critrevonc.2026.105549",
-      "date": "2026-08-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612850/"
-    },
-    {
-      "pmid": "42612071",
-      "title": "lncRNAs and miRNAs in Exosome-Mediated Macrophage Polarization: Implications for Age-Related Macular Degeneration.",
-      "abstract": "Age-related macular degeneration (AMD) is a progressive and multifactorial retinal disease that represents a leading cause of irreversible vision loss among the elderly. Increasing evidence suggests that exosomes, small extracellular vesicles that mediate intercellular communication, play a critical role in regulating immune and angiogenic signaling in the retina. These vesicles transport diverse molecular cargo, including microRNAs (miRNAs) and long non-coding RNAs (lncRNAs). Recent studies highlight the importance of exosome-mediated ncRNA signaling in macrophage polarization, a key immunological process involved in AMD progression. Exosomal miRNAs and lncRNAs released from retinal pigment epithelium (RPE) cells, endothelial cells, and immune cells can regulate macrophage phenotypes and alter inflammatory and angiogenic pathways within the retina. Dysregulated ncRNAs, including miR-21, miR-23a, miR-150, and the lncRNA NEAT1, have been implicated in promoting macrophage-driven inflammation, lipid dysregulation, and pathological neovascularization. Through these mechanisms, exosomal ncRNAs contribute to the transition from early retinal stress and drusen formation to advanced forms of AMD characterized by geographic atrophy or choroidal neovascularization. In addition to their mechanistic role in disease progression, exosomal ncRNAs show promise as minimally invasive biomarkers for early diagnosis and monitoring of AMD. Their stability in biological fluids, such as plasma, aqueous humor, and vitreous fluid, suggests their potential use in liquid biopsy approaches. Moreover, engineered exosomes carrying therapeutic ncRNAs represent a promising strategy for modulating macrophage polarization and restoring retinal immune homeostasis. This review integrates current knowledge on the exosome-ncRNA-macrophage axis in AMD, highlighting its role in retinal immune regulation, disease progression, and therapeutic development. Understanding this emerging signaling network may provide new opportunities to develop precision diagnostic tools and targeted therapies to prevent or slow retinal degeneration in AMD.",
-      "journal": "Journal of visualized experiments : JoVE",
-      "publicationTypes": [
-        "Journal Article",
-        "Video-Audio Media"
-      ],
-      "affiliations": [
-        "Ophthalmology Department, Sanya Central Hospital; maijieying2025hj@hotmail.com.",
-        "Ophthalmology Department, Sanya Central Hospital."
-      ],
-      "doi": "10.3791/71424",
-      "date": "2026-07-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612071/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42616835",
+      "date": "2026-08-19",
+      "title": "Assessing the preclinical progress in the therapeutic targeting of axial spondyloarthritis.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616835/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Expert opinion on therapeutic targets，PMID 为 42616835。",
+      "report": "Axial spondyloarthritis (SpA) is a chronic inflammatory rheumatism affecting predominantly the axial skeleton and frequently also the peripheral joints, often associated with specific extra-musculoskeletal manifestations. This complex disease is still poorly u...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42616664",
+      "date": "2026-08-19",
+      "title": "Phenotypic Analysis of Human and Murine Endometrial Organoids using a Machine Learning Approach.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616664/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Reproduction (Cambridge, England)，PMID 为 42616664。",
+      "report": "Endometrial organoids are a powerful, 3D in vitro system for studying reproductive function and disease since they are more physiologically representative than 2D cell models. However, optimal methods for the analysis of individual organoids are still developi...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42616191",
+      "date": "2026-08-19",
+      "title": "Biofabrication and artificial intelligence strategies for investigating solid- and fluid-pressure mechanobiology in pancreatic ductal adenocarcinoma.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616191/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer metastasis reviews，PMID 为 42616191。",
+      "report": "Pancreatic ductal adenocarcinoma (PDAC) is shaped by a mechanically abnormal tumor microenvironment (TME) in which dysregulated mechanotransduction promotes malignant progression and therapeutic resistance. Two coupled but distinct pressure states dominate thi...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42615637",
       "date": "2026-08-19",
@@ -551,6 +624,127 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42615141。",
       "report": "This corrects the article 10.3791/69447.",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42616438",
+      "date": "2026-08-19",
+      "title": "Enzyme Engineering: From Classical Strategies to AI-Driven Biocatalyst Design.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616438/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Drug Screening"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of agricultural and food chemistry，PMID 为 42616438。",
+      "report": "Nowadays, enzyme engineering has moved from traditional structure-based mutagenesis and directed evolution to data-intensive, AI-assisted design paradigms that involve the rapid discovery and optimization of biocatalysts. Whereas classical approaches relied on...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42617136",
+      "date": "2026-08-19",
+      "title": "DNA Lever Nanomachine Based on CHA-Driven Conformational Transitions for the Detection of ctDNA.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617136/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 ACS sensors，PMID 为 42617136。",
+      "report": "Cancer incidence is high worldwide, and early treatment can reduce mortality rates. Circulating tumor DNA (ctDNA) serves as a biomarker for liquid biopsy, enabling early monitoring of tumor burden and treatment response. DNA nanobiosensors have become an impor...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42616657",
+      "date": "2026-08-19",
+      "title": "RAF/MEK Clamp Inhibition with Avutometinib and Cetuximab in RAF1 S257L-Mutated, Anti-EGFR-Refractory Metastatic Colorectal Cancer in Gaucher's disease.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616657/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 The oncologist，PMID 为 42616657。",
+      "report": "RAF1 alterations are rare in metastatic colorectal cancer (mCRC), occurring in roughly 0.5% of cases, and lack established treatment guidance. We present a patient with RAF1 S257L-mutated, RAS wild-type mCRC and concurrent type 1 Gaucher disease, whose baselin...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42616180",
+      "date": "2026-08-19",
+      "title": "Platelet-derived mitochondrial transfer in cancer metastasis: mechanisms, functional consequences, and translational opportunities.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616180/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Clinical & experimental metastasis，PMID 为 42616180。",
+      "report": "Cancer metastasis is a multistep and highly inefficient process that depends on reciprocal interactions between tumor cells and the host microenvironment. Among the most important host contributors, platelets have emerged as active facilitators of metastatic d...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -620,42 +814,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42614539",
-      "date": "2026-08-18",
-      "title": "Microfluidic Chip Platforms for Red Blood Cell Storage Lesion Quality Control and Precision Transfusion.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42614539/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Research (Washington, D.C.)，PMID 为 42614539。",
-      "report": "Red blood cell (RBC) transfusion is a core clinical intervention. However, hypothermic storage induces progressive biochemical, structural, and functional impairments collectively termed the RBC storage lesion (RSL), which compromises post-transfusion efficacy...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42611249",
       "date": "2026-08-18",
       "title": "Design and Characterization of SAKe, a Building Block for Protein Self-Assembly.",
@@ -679,66 +837,6 @@
       "fact": "PubMed 记录显示该文献收录于 ACS nano，PMID 为 42611249。",
       "report": "The nanofabrication of functional protein-based surfaces is challenging due to the chemical complexity of proteins and their unpredictable behavior at the solid-liquid interface. Many proteins of interest-such as antibodies or large enzymatic complexes-lack st...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42613664",
-      "date": "2026-08-18",
-      "title": "Molecular biomarkers in stroke recovery: Consensus-based core recommendations from the fourth Stroke Recovery and Rehabilitation Roundtable.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42613664/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of stroke : official journal of the International Stroke Society，PMID 为 42613664。",
-      "report": "The 2017 Stroke Recovery and Rehabilitation Roundtable (SRRR) consensus statement on biomarkers identified genetic and blood biomarkers as a developmental priority for stroke recovery and rehabilitation. While progress has been made, this nascent field still l...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42612850",
-      "date": "2026-08-18",
-      "title": "The De-Centralization Perspective for Liquid Biopsy Use in Thoracic Pathology The Way to Go.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612850/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Critical reviews in oncology/hematology，PMID 为 42612850。",
-      "report": "The liquid biopsy (LBx) concept in thoracic oncology has optimized treatment decision-making for patients with advanced/metastatic non-small cell lung cancer (NSCLC). The clinical practice of LBx in thoracic oncology is based on international guidelines. Howev...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -826,35 +924,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42572503",
-      "date": "2026-08-10",
-      "title": "The sweet spot in protein design-Where deep learning meets first principles.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42572503/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 42572503。",
-      "report": "This Perspective explores recent methods and prospective ideas for developing hybrid AI-physics-based pipelines for protein and antibody de novo design. We argue that the highest-confidence candidates emerge where deep learning and first-principles models agre...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42600555",
       "date": "2026-08-08",
       "title": "Sparse integrative dictionary learning resolves conserved drug-response states in multiple myeloma (MM).",
@@ -882,68 +951,6 @@
       "fact": "PubMed 记录显示该文献收录于 Cancer genetics，PMID 为 42600555。",
       "report": "Multiple myeloma (MM) is a severe plasma-cell malignancy that continues to cause substantial morbidity and mortality despite major therapeutic advances. Although current therapies target distinct molecular processes, many patients eventually relapse, raising t...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42614678",
-      "date": "2026-08-04",
-      "title": "Macrophage polarization in Sjögren's syndrome: from mechanisms to therapeutic translation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42614678/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42614678。",
-      "report": "Sjögren's syndrome (SS) is a chronic systemic autoimmune disease characterized by damage to exocrine glands, and no effective treatment is currently available to reverse glandular fibrosis. As core effector cells of innate immunity, macrophages play a pivotal...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42614535",
-      "date": "2026-08-04",
-      "title": "Age-dependent functional and transcriptional differences in intestinal mesenchymal stromal cells during early postnatal development in piglets.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42614535/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Multi-omics"
-      ],
-      "tags": [
-        "biotech",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42614535。",
-      "report": "Intestinal mesenchymal stromal cells (iMSCs) regulate postnatal epithelial development, yet their temporal dynamics remain poorly defined in early postnatal piglets. Here, we investigated functional and transcriptional changes in jejunal iMSCs isolated from 0-...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1007,34 +1014,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42614303。",
       "report": "Neoadjuvant immunotherapy and chemotherapy (NICT) has emerged as the standard pharmacological intervention for locally advanced esophageal squamous cell carcinoma (ESCC). However, individual responses to this drug combination vary significantly. This study aim...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42612071",
-      "date": "2026-07-31",
-      "title": "lncRNAs and miRNAs in Exosome-Mediated Macrophage Polarization: Implications for Age-Related Macular Degeneration.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612071/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42612071。",
-      "report": "Age-related macular degeneration (AMD) is a progressive and multifactorial retinal disease that represents a leading cause of irreversible vision loss among the elderly. Increasing evidence suggests that exosomes, small extracellular vesicles that mediate inte...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
