@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-20T01:53:50.793121+00:00",
+  "capturedAt": "2026-08-20T07:09:02.605425+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-20"
   },
   "pmids": [
-    "42616835",
-    "42616664",
-    "42616191",
-    "42615637",
-    "42615141",
-    "42614827",
+    "42618529",
+    "42618331",
+    "42617726",
+    "42617597",
+    "42617537",
+    "42617253",
     "42600555",
     "42580899",
     "42559559",
@@ -32,124 +32,142 @@
     "42605681",
     "42591814",
     "42575164",
+    "42618359",
+    "42617374",
     "42617136",
     "42616657",
     "42616180",
-    "42615693",
-    "42614645",
-    "42614303"
+    "42615693"
   ],
   "records": [
     {
-      "pmid": "42616835",
-      "title": "Assessing the preclinical progress in the therapeutic targeting of axial spondyloarthritis.",
-      "abstract": "Axial spondyloarthritis (SpA) is a chronic inflammatory rheumatism affecting predominantly the axial skeleton and frequently also the peripheral joints, often associated with specific extra-musculoskeletal manifestations. This complex disease is still poorly understood resulting in a lack of cure. While symptomatic treatments are available, preclinical models/analyses are needed to identify new therapeutic targets in order to improve axial SpA treatment. We discussed strengths and weaknesses of preclinical models used to identify and validate emerging therapeutic targets. Progress in developing new therapies for axial SpA remains slow due to its biological complexity and limited understanding of early disease mechanisms. Current treatments mainly target downstream inflammation, contributing to persistent unmet needs and variable responses. Future progress will rely on more pathophysiologically relevant models, interdisciplinary approaches, and integration of insights from related diseases to accelerate personalized therapeutic development.",
-      "journal": "Expert opinion on therapeutic targets",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "UMR1173, Université Paris Saclay, Université de Versailles St Quentin en Yvelines, Inserm, Infection et Inflammation, Montigny le Btx, France.",
-        "InFiBrex, IDEX, Université Paris Cité, France.",
-        "Rheumatology Division, Ambroise Paré Hospital (AP-HP), Boulogne-Billancourt, France."
-      ],
-      "doi": "10.1080/14728222.2026.2722195",
-      "date": "2026-08-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616835/"
-    },
-    {
-      "pmid": "42616664",
-      "title": "Phenotypic Analysis of Human and Murine Endometrial Organoids using a Machine Learning Approach.",
-      "abstract": "Endometrial organoids are a powerful, 3D in vitro system for studying reproductive function and disease since they are more physiologically representative than 2D cell models. However, optimal methods for the analysis of individual organoids are still developing and remain inconsistent throughout the field. To independently evaluate and optimize high-throughput analysis tools for human and mouse endometrial organoids, we first assessed several interfaces, OrganoID, OrganoSeg2, and Biodock, for their segmentation capabilities of whole-dome Z projection brightfield microscopy images. The edge detections of OrganoID and OrganoSeg2 were not sufficient to distinguish individual endometrial organoids when multiple organoids were in contact or when debris was present and thus, we did not further evaluate these interfaces for phenotypic quantitative analysis. By creating trained deep learning models on Biodock which performed reliable segmentation, we present methods to classify and quantify organoids with mixed 'round' or 'abnormal' populations, extracting critical information such as area, eccentricity, and brightness from each individual organoid. These analysis parameters were effective in organoids from human endometrial epithelium grown in complete vs. reduced medium and from genetically engineered mice. Additionally, Biodock was used to quantify live and dead cells labeled with fluorescent dyes, showing that it is also useful for quantifying high-throughput live imaging data from drug treatment experiments. Overall, deep learning models trained through Biodock accurately assessed phenotypic properties of human and murine endometrial organoids in brightfield and live-fluorescent microscopy, demonstrating that it is a promising tool for analyzing endometrial organoids to reliably detect phenotypic differences from organoid microscopy.",
-      "journal": "Reproduction (Cambridge, England)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Pathology & Immunology, Baylor College of Medicine, Houston, Texas, USA.",
-        "Center for Drug Discovery, Baylor College of Medicine, Houston, Texas, USA.",
-        "Department of Obstetrics and Gynecology, Baylor College of Medicine, Houston, Texas, USA."
-      ],
-      "doi": "10.1093/reprod/xaag100",
-      "date": "2026-08-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616664/"
-    },
-    {
-      "pmid": "42616191",
-      "title": "Biofabrication and artificial intelligence strategies for investigating solid- and fluid-pressure mechanobiology in pancreatic ductal adenocarcinoma.",
-      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is shaped by a mechanically abnormal tumor microenvironment (TME) in which dysregulated mechanotransduction promotes malignant progression and therapeutic resistance. Two coupled but distinct pressure states dominate this landscape: solid stress and interstitial fluid pressure (IFP). Solid stress arises from constrained tumor growth, stromal contractility, and extracellular matrix remodeling. By contrast, IFP reflects hydrostatic pressure within the interstitial fluid compartment and is elevated by vascular leakage, impaired drainage, and low tissue hydraulic conductivity. Together, these abnormalities compress vessels, disrupt transport, and activate mechanotransduction programs that reinforce malignant adaptation. Here we integrate solid stress and IFP within a unified pressure-state framework for PDAC. We examine how these forces shape tumor progression, drug transport, and therapeutic response. We then evaluate spheroid, organoid, hydrogel, bioprinted, and microfluidic models according to what they truly control, directly measure, or merely infer. This distinction separates pressure-relevant systems from pressure-reconstructing models. We also discuss stromal normalization and the emerging role of artificial intelligence and machine learning (AI/ML) in model engineering and patient stratification. Current computational approaches can optimize mechanically defined models and infer pressure-related tumor states from multimodal data. However, they still rely largely on surrogates rather than direct measurements of solid stress or IFP. Our framework defines the biomechanical validation required to develop clinically predictive models of PDAC mechanobiology.",
-      "journal": "Cancer metastasis reviews",
+      "pmid": "42618529",
+      "title": "\"Translational Models for Acute Asthma: Critical Evaluation of In Vivo, In Vitro, and Emerging Technologies in Drug Discovery\".",
+      "abstract": "To critically evaluate conventional and emerging preclinical methodologies for screening novel asthma therapeutics; to compare their translational relevance; and to propose an integrated framework aimed at improving precision, safety, and phenotype-targeted efficacy in drug development. A review of peer-reviewed literature was conducted using PubMed. Sources included studies on enzymatic and receptor-binding assays, in vitro cellular platforms, allergen-induced animal models, and recent innovations such as 3D airway organoids, lung-on-a-chip microfluidics, and omics-guided biomarker discovery. Included studies focused on (i) molecular validation of drug targets, (ii) mechanistic and high-throughput screening in cellular systems, (iii) in vivo replication of asthma pathophysiology in animal models, or (iv) technologies enhancing preclinical predictability. Conventional screening assays provide molecular validation but lack complexity. In vitro systems allow mechanistic insight and scalability, yet do not fully reproduce airway interactions. Allergen-induced animal models replicate inflammation and hyperresponsiveness but fail to capture human heterogeneity or acute exacerbations, a major contributor to morbidity and mortality. Acute asthma remains particularly difficult to model, limiting evaluation of therapies aimed at severe attacks. Emerging approaches, including organoids, lung-on-a-chip, and omics-based biomarkers, offer improved physiological relevance, dynamic assessment of inflammatory responses, and greater potential to model acute disease states. Integrating conventional and innovative models may accelerate the development of safer, more effective, and phenotype-specific asthma therapies. Approaches that incorporate both chronic disease and acute exacerbations could reduce steroid resistance, improve emergency care, and enhance translational success across diverse populations.",
+      "journal": "The Journal of asthma : official journal of the Association for the Care of Asthma",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "State Key Laboratory of Discovery and Utilization of Functional Components in Traditional Chinese Medicine, Shanghai Frontiers Science Center of TCM Chemical Biology, Institute of Interdisciplinary Integrative Medicine Research and Shuguang Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai, 201203, China.",
-        "Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, 100700, China.",
-        "School of Pharmacy, Naval Medical University, Shanghai, 200433, China.",
-        "State Key Laboratory of Discovery and Utilization of Functional Components in Traditional Chinese Medicine, Shanghai Frontiers Science Center of TCM Chemical Biology, Institute of Interdisciplinary Integrative Medicine Research and Shuguang Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai, 201203, China. luanxin@shutcm.edu.cn.",
-        "State Key Laboratory of Discovery and Utilization of Functional Components in Traditional Chinese Medicine, Shanghai Frontiers Science Center of TCM Chemical Biology, Institute of Interdisciplinary Integrative Medicine Research and Shuguang Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai, 201203, China. mit012@shutcm.edu.cn."
+        "Junior Resident, Department of Pharmacology, Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER), Puducherry, India. Contact: jr8499@jipmer.ac.in.",
+        "Associate Professor, Department of Pharmacology, Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER), Puducherry, India."
       ],
-      "doi": "10.1007/s10555-026-10366-7",
+      "doi": "10.1080/02770903.2026.2721179",
       "date": "2026-08-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616191/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618529/"
     },
     {
-      "pmid": "42615637",
-      "title": "Human iPSC-Derived Spinal Cord Organoids - The First Electrophysiological Assessment of Neuronal Maturation.",
-      "abstract": "The spinal cord exhibits a complex cytoarchitecture and neuronal circuitry organization that challenges in vitro replication of its functional integrity. Here we employed a previously published protocol to generate spinal cord organoids (SCOs) from human-induced pluripotent stem cells (hiPSCs). We characterized phenotypic changes in functional neuronal properties in SCO neurons at early developmental stages (15-32 days in culture) using a quantitative electrophysiological approach. Using the whole-cell patch-clamp technique to evaluate electrophysiological properties, we found that SCO neurons exhibited progressive maturation, as evidenced by hyperpolarized resting membrane potentials, increased inward current amplitude, refined action potential kinetics, and the early emergence of mature-type firing patterns. In particular, we show that the spike frequency adaptation phenomenon, which prevails in motor neurons, appears at early stages of SCO neuron development. Immunohistochemical assessment confirmed the expression of key transcription factors in motor neurons (ISLET1 and HB9) and immature spinal interneurons (LHX1/5 and PAX2). Collectively, our findings demonstrate that neurons in hiPSC-derived SCOs exhibit physiological differentiation, which is important for using SCOs to investigate human spinal cord development and advance translational research in CNS disorders and cell replacement therapies.",
-      "journal": "ACS chemical neuroscience",
+      "pmid": "42618331",
+      "title": "Human-Relevant Microphysiological Systems: Evidence for Defined Contexts of Use.",
+      "abstract": "The FDA Modernization Act has accelerated the transition from animal-based testing toward human-relevant new approach methodologies in drug development, shifting attention from technological feasibility to regulatory implementation. Among these approaches, microphysiological systems (MPS) can generate evidence that more directly reflects human physiology, but their regulatory readiness varies substantially across applications. This Review summarizes recent regulatory developments and evaluates the readiness of major organ-specific and multi-organ MPS. Liver MPS have advanced furthest through quantitative benchmarking, industrial adoption and sustained regulatory engagement, whereas kidney, lung, gastrointestinal, tumor, nervous system and multi-organ models remain limited by varying degrees of standardization, independent validation and clearly defined regulatory use. Across applications, major barriers include insufficiently specified contexts of use, limited human benchmark data, inadequate multicenter reproducibility, manufacturing variability and fragmented data infrastructure. We discuss priorities for overcoming these barriers, including performance-based standards, quality-controlled manufacturing, auditable data systems and earlier coordination among technology developers, end users and regulatory authorities. Patient-derived and stem cell-derived models, artificial intelligence and digital twins may further extend the scope of MPS, but their value will depend on transparent validation and integration with complementary evidence. Regulatory adoption is likely to proceed incrementally, with MPS initially supporting defined decisions as complementary evidence and replacing conventional studies when their performance and uncertainty are sufficiently characterized.",
+      "journal": "International journal of stem cells",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Medical Genetics, Oslo University Hospital, Oslo0450, Norway.",
-        "Neurobiology, SISSA, Trieste34136, Italy.",
-        "Computational and System Neuroscience, ISAS, Camerino62032, Italy.",
-        "Section for Pharmacology and Pharmaceutical Biosciences, Department of Pharmacy, University of Oslo, Oslo0371, Norway.",
-        "Centre for Precision Psychiatry, Division of Mental Health and Addiction, University of Oslo, and Oslo University Hospital, Oslo0450, Norway.",
-        "Laboratory of Neural Development and Optical Recording (NDEVOR), Division of Physiology, Department of Molecular Medicine, Institute of Basic Medical Sciences, University of Oslo, Oslo0372, Norway.",
-        "Norwegian Center for Stem Cell Research, Institute of Immunology and Transfusion Medicine, Oslo University Hospital, Oslo0372, Norway."
+        "Department of BioNano Technology, Gachon University, Seongnam, Korea."
       ],
-      "doi": "10.1021/acschemneuro.5c00823",
-      "date": "2026-08-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42615637/"
+      "doi": "10.15283/ijsc26088",
+      "date": "2026-08-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618331/"
     },
     {
-      "pmid": "42615141",
-      "title": "Erratum: Generation of 3D Collagen-Embedded A549/MRC-5 Alveolar Organoids using a Mechanical Cell-Stretching Bioreactor.",
-      "abstract": "This corrects the article 10.3791/69447.",
-      "journal": "Journal of visualized experiments : JoVE",
+      "pmid": "42617726",
+      "title": "Patient-Derived Models of Prostate Cancer: Capturing Tumour Complexity from Initiation to Metastasis.",
+      "abstract": "Prostate cancer is a growing global health challenge. To identify new ways to improve patient care, researchers need a variety of preclinical models that faithfully recapitulate human tumours across the disease continuum, from initiation to metastasis. These complementary models include primary cultures of prostate epithelial cells (PrECs), co-cultures, patient-derived explants (PDEs), patient-derived organoids (PDOs) and patient-derived xenografts (PDXs). Collectively, these models enable researchers to study tumour biology and therapeutic responses in clinically relevant contexts. Yet, there is still a need to improve the fidelity of preclinical models to human tumours by integrating diverse cell types from the tumour microenvironment and mimicking biomechanical features. By improving culture methods with matrix components that resemble the tumour microenvironment and new formulations of media that imitate human plasma, in vitro models will more accurately reflect human physiology, nutrient availability, and metabolism. In time this may reduce the reliance on animal testing through organ-on-chip and related techniques. These more complex models are suited to more detailed experimental readouts, including single-cell and spatial analyses. Intravital imaging also enables dynamic visualisation of cell-cell interactions and treatment responses in vivo. Collectively, these approaches are facilitating a shift towards sophisticated models that capture patients' tumour heterogeneity, different cellular niches, and provide opportunities to carefully study tumorigenesis, metastasis, lineage plasticity, and therapy resistance. In this review, we discuss the current progress and future directions for patient-derived models of prostate cancer, highlighting how they can be generated, refined, characterised and shared to accelerate the worldwide effort in translational research.",
+      "journal": "Cancer letters",
       "publicationTypes": [
         "Journal Article",
-        "Video-Audio Media"
+        "Review"
       ],
       "affiliations": [
-        "Department of Biology, University of British Columbia - Okanagan; Centre for Heart Lung Innovation, St. Paul's Hospital, University of British Columbia; tonyguo@student.ubc.ca.",
-        "Department of Biology, University of British Columbia - Okanagan.",
-        "Centre for Heart Lung Innovation, St. Paul's Hospital, University of British Columbia.",
-        "Department of Biology, University of British Columbia - Okanagan; Centre for Heart Lung Innovation, St. Paul's Hospital, University of British Columbia."
+        "Institute of Medical Genetics and Pathology, University Hospital Basel, University of Basel, Basel, Switzerland; Department of Urology, University Hospital Basel, Basel, Switzerland; Department of Biomedicine, University of Basel, University Hospital Basel, Basel, Switzerland.",
+        "Department of Oncology, Sidney Kimmel Comprehensive Cancer Center (SKCCC), Johns Hopkins University, Baltimore, MD, USA; Department of Urology, James Buchanan Brady Urological Institute, Johns Hopkins University, Baltimore, MD, USA; Department of Pharmacology & Molecular Sciences, Johns Hopkins University, Baltimore, MD, USA.",
+        "ProCURE, Catalan Institute of Oncology, L'Hospitalet del Llobregat, Barcelona, Spain; Oncobell, Bellvitge Institute for Biomedical Research (IDIBELL), L'Hospitalet del Llobregat, Barcelona, Spain.",
+        "School of Biomedical Sciences at Translational Research Institute, Faculty of Health, Queensland University of Technology, Brisbane, Queensland, Australia; Max Planck Queensland Centre for the Materials Science of Extracellular Matrices, Queensland University of Technology, Brisbane, Queensland, Australia; Centre for Biomedical Technologies, Queensland University of Technology, Brisbane, Queensland, Australia.",
+        "Manchester Cancer Research Center, University of Manchester, United Kingdom; Division of Cancer Sciences, FMBH, University of Manchester, Manchester, United Kingdom; Translational Oncogenomics Department, Cancer Research-UK Manchester Institute, Manchester, United Kingdom.",
+        "Department of Anatomy and Developmental Biology, Biomedicine Discovery Institute Cancer Program, Monash University, Clayton, Victoria, Australia.",
+        "State Key Laboratory of Systems Medicine for Cancer, Department of Urology, Ren Ji Hospital, Shanghai Cancer Institute, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "School of Biomedical Sciences at Translational Research Institute, Faculty of Health, Queensland University of Technology, Brisbane, Queensland, Australia.",
+        "Division of Human Biology, Fred Hutchinson Cancer Center, Seattle, WA, USA.",
+        "Department of Urology, University of Washington, Seattle, WA, USA.",
+        "Cancer Ecosystems Program, The Garvan Institute of Medical Research and The Kinghorn Cancer Centre, Darlinghurst, New South Wales, Australia; School of Clinical Medicine, St Vincent's Healthcare Clinical Campus, UNSW Medicine & Health, UNSW Sydney, Sydney, New South Wales, Australia.",
+        "Nuffield Department of Surgical Sciences, University of Oxford, Oxford, United Kingdom.",
+        "Translational Oncogenomics Department, Cancer Research-UK Manchester Institute, Manchester, United Kingdom.",
+        "School of Biomedical Sciences, UNSW Sydney, New South Wales, Australia.",
+        "Chris O'Brien Lifehouse, Sydney, New South Wales, Australia; University of Sydney, Sydney, New South Wales, Australia; Garvan Institute of Medical Research, Sydney, New South Wales, Australia; University of NSW, Sydney, New South Wales, Australia.",
+        "Department of Genitourinary Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX, USA; David H. Koch Center for Applied Research of Genitourinary Cancers, The University of Texas MD Anderson Cancer Center, Houston, TX, USA.",
+        "Manchester Cancer Research Center, University of Manchester, United Kingdom; Translational Oncogenomics Department, Cancer Research-UK Manchester Institute, Manchester, United Kingdom.",
+        "Department of Urology, Research Institute for Medical Innovation, Radboud University Medical Center, Nijmegen, the Netherlands.",
+        "Swiss Institute for Experimental Cancer Research (ISREC), School of Life Sciences, Ecole Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland.",
+        "Department for BioMedical Research, Urology Research Laboratory, University of Bern, Bern, Switzerland; Department of Urology, Inselspital, Bern, Switzerland; Department for BioMedical Research, Translational Organoid Resource Core, University of Bern, Bern, Switzerland.",
+        "School of Biomedical Sciences at Translational Research Institute, Faculty of Health, Queensland University of Technology, Brisbane, Queensland, Australia; Centre for Genomics and Personalised Health, Queensland University of Technology (QUT), Brisbane, Queensland, Australia.",
+        "Department of Urology, University of Illinois Chicago, IL, USA; Chicago Center for Health and Environment, School of Public Health, University of Illinois Chicago, USA.",
+        "Department of Anatomy and Developmental Biology, Biomedicine Discovery Institute Cancer Program, Monash University, Clayton, Victoria, Australia; Department of Surgery, Clinical School of Medicine Monash Health, Monash University, Clayton, Victoria, Australia; Department of Urology, Monash Health, Melbourne, Victoria, Australia; Department of Urology, Austin Health, Melbourne, Victoria, Australia; Cabrini Institute, Cabrini Health, Malvern, Victoria, Australia.",
+        "Flinders University, College of Medicine and Public Health, Flinders Health and Medical Research Institute, Adelaide, South Australia, Australia.",
+        "Dresden University of Technology, Biotechnology Center, Center for Molecular and Cellular Bioengineering, Dresden, Germany; Leibniz Institute of Polymer Research Dresden, Max Bergmann Center of Biomaterials Dresden, Dresden, Germany.",
+        "Cabrini Institute, Cabrini Health, Malvern, Victoria, Australia; Department of Physiology, Biomedicine Discovery Institute Cancer Program, Monash University, Clayton, Victoria, Australia; Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia; Sir Peter MacCallum Department of Oncology, The University of Melbourne, Victoria, Australia; Melbourne Urological Research Alliance, Monash University, Melbourne, Victoria, Australia.",
+        "Centre for Cancer Biology, Adelaide University, Adelaide, South Australia, Australia; College of Health, Adelaide University, Adelaide, South Australia, Australia.",
+        "Department of Urology, Erasmus Medical Center, Rotterdam, The Netherlands.",
+        "Department of Anatomy and Developmental Biology, Biomedicine Discovery Institute Cancer Program, Monash University, Clayton, Victoria, Australia; Cabrini Institute, Cabrini Health, Malvern, Victoria, Australia; Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia; Sir Peter MacCallum Department of Oncology, The University of Melbourne, Victoria, Australia; Melbourne Urological Research Alliance, Monash University, Melbourne, Victoria, Australia.",
+        "Department of Anatomy and Developmental Biology, Biomedicine Discovery Institute Cancer Program, Monash University, Clayton, Victoria, Australia; Cabrini Institute, Cabrini Health, Malvern, Victoria, Australia; Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia; Sir Peter MacCallum Department of Oncology, The University of Melbourne, Victoria, Australia; Melbourne Urological Research Alliance, Monash University, Melbourne, Victoria, Australia. Electronic address: mitchell.lawrence@monash.edu."
       ],
-      "doi": "10.3791/6700",
+      "doi": "10.1016/j.canlet.2026.218791",
       "date": "2026-08-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42615141/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617726/"
     },
     {
-      "pmid": "42614827",
-      "title": "BACE2 Promotes Bladder Cancer Chemoresistance Through Proteolytic Activation of JAG1-Notch Signaling.",
-      "abstract": "Chemoresistance to platinum-based regimens, primarily gemcitabine plus cisplatin, remains a major obstacle in the treatment of advanced bladder cancer. Identifying the underlying molecular mechanisms is critical for developing effective therapeutic strategies to improve clinical outcomes. Integrative analysis of transcriptomic profiles from chemoresistant bladder cancer models and clinical data sets from The Cancer Genome Atlas was performed to identify candidate resistance drivers. The biological function of the candidate gene was evaluated in vitro using bladder cancer cell lines. Mechanistic investigations, including transcriptomic analyses and immunoprecipitation, were conducted to elucidate downstream signaling. The therapeutic potential of targeting this axis was assessed in vitro and in an in vivo xenograft model using a small-molecule inhibitor combined with chemotherapy. We identified β-secretase 2 (BACE2) as a candidate mediator of cisplatin resistance. BACE2 is significantly upregulated in gemcitabine- and cisplatin-resistant models, including patient-derived organoids. Its elevated baseline expression correlates with advanced pathologic stage, poor prognosis, and diminished clinical benefit from platinum-based therapy. Functionally, BACE2 promotes resistance to both gemcitabine and cisplatin. Mechanistically, BACE2 interacts with Jagged1 (JAG1) and promotes the generation of a soluble JAG1 fragment in a catalytic activity-dependent manner. Mutation of the catalytic Asp303 residue markedly reduced JAG1 fragment generation and restored gemcitabine sensitivity, supporting a functional requirement for BACE2 enzymatic activity in this process. This fragment is associated with Notch signaling activation through autocrine and paracrine mechanisms, which concomitantly induces endogenous JAG1 expression, establishing a positive feedback loop that sustains chemoresistance. Pharmacologic inhibition of β-secretase activity with verubecestat disrupted JAG1 cleavage, reduced downstream Notch signaling and enhanced chemotherapy efficacy in vitro without inducing apparent cytotoxicity alone. Furthermore, combination treatment with verubecestat and gemcitabine produced stronger tumor growth inhibition than either monotherapy in vivo. These results define a novel BACE2-JAG1-Notch signaling axis that contributes to bladder cancer chemoresistance. Importantly, our findings identify BACE2 as a potential prognostic biomarker and a therapeutically actionable target to improve clinical outcomes in this disease.",
-      "journal": "Cancer innovation",
+      "pmid": "42617597",
+      "title": "Synthetic tissue ecology: Ecological control of developmental self-organization across scales.",
+      "abstract": "Embryonic development builds tissues and organs through the self-organization of heterogeneous cells across spatial and temporal scales, analogous to an ecosystem. Although ecological systems are often stochastic and multistable, embryogenesis is remarkably reproducible. We argue that this contrast is not a contradiction. Developmental robustness arises from evolutionarily filtered ecological interactions embedded within hierarchically organized, multiscale architectures that restrict accessible collective states. Competition, cooperation, niche construction, and density-dependent coupling are not metaphors but core interaction dynamics that shape tissues in vivo. In vitro systems frequently lack these multiscale constraints, allowing more permissive ecological dynamics and increased variability. We propose \"synthetic tissue ecology\" as a conceptual and engineering framework that treats development as a stabilized regime of ecological organization. By shifting focus to interaction architectures and constraints that direct cross-scale self-organization, this framework enables the decoding of mesoscale modules and tissue-coupling principles while supporting the engineering of robust organoids, embryoids, and regenerative systems.",
+      "journal": "Cell systems",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA, USA; Institute for Synthetic Biology, University of Pittsburgh, Pittsburgh 15260, PA, USA.",
+        "Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA, USA; Division of Experimental Pathology, Department of Pathology, School of Medicine, University of Pittsburgh, Pittsburgh, PA, USA; Pittsburgh Liver Research Center, School of Medicine, University of Pittsburgh, Pittsburgh, PA, USA; Center for Evolutionary Biology and Medicine, University of Pittsburgh, Pittsburgh, PA, USA; McGowan Institute for Regenerative Medicine, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA; Magee-Women's Research Institute, University of Pittsburgh, Pittsburgh, PA, USA; Institute for Synthetic Biology, University of Pittsburgh, Pittsburgh 15260, PA, USA. Electronic address: mo.ebr@pitt.edu."
+      ],
+      "doi": "10.1016/j.cels.2026.101699",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617597/"
+    },
+    {
+      "pmid": "42617537",
+      "title": "Mechanical loading under estrogen deficiency enhances mineralization and osteoblast maturation in an advanced 3D vascularized bone organoid driven by hypertrophy and apoptosis.",
+      "abstract": "Bone is a highly mechanosensitive tissue that responds to mechanical cues and adapts to maintain a homeostatic balance between bone formation and resorption, thereby preserving structural integrity and strength. Estrogen is the key modulator of skeletal homeostasis that regulates the mechanosensitivity and survival of osteocytes, promotes osteoblast activity and reduces osteoclastogenesis. The decline in circulating estrogen after menopause leads to increased bone resorption, widely associated with postmenopausal osteoporosis, but is also associated with vascular dysregulation, mineral heterogeneity and impaired osteocyte mechanobiology. Recently, we developed a vascularized and mineralized human in vitro bone model and applied this model to mimic postmenopausal estrogen withdrawal. This model provided a mechanistic understanding of changes in vascularization and bone mineralization in estrogen deficiency, which were associated with hypertrophy and apoptosis. However, this model did not account for mechanical loading, so it was unclear how mechanobiological factors would affect the pathophysiological responses of the model under estrogen withdrawal. So, here we advance our in vitro vascularized bone model by incorporating cyclic physiologically relevant mechanical stimulation using a bioreactor. The results revealed that mechanical loading with estrogen (healthy condition) enhanced mineral production, alongside physiological hypertrophy, apoptosis and vascularization. In contrast, mechanical loading during estrogen withdrawal (disease condition) increased collagen I and accelerated the maturation of osteoblasts (downregulated Runx2/Opn, upregulated DMP1 gene expression), which was associated with pathological hypertrophy and apoptosis. This study provides a translationally relevant platform to study bone mechanobiology in healthy and disease states and for preclinical testing of therapeutic strategies targeting osteogenic dysregulation due to estrogen deficiency.",
+      "journal": "Journal of biomechanics",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "State Key Laboratory of Molecular Oncology National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College Beijing China.",
-        "Beijing Key Laboratory of Urologic Cancer Cell and Gene Therapy National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College Beijing China.",
-        "Department of Urology Inner Mongolia Autonomous Region People's Hospital Hohhot Inner Mongolia Autonomous Region China."
+        "Mechanobiology and Medical Device Research Group (MMDRG), Biomedical Engineering, College of Science and Engineering, University of Galway, Ireland.",
+        "Mechanobiology and Medical Device Research Group (MMDRG), Biomedical Engineering, College of Science and Engineering, University of Galway, Ireland. Electronic address: laoise.mcnamara@universityofgalway.ie."
       ],
-      "doi": "10.1002/cai2.70073",
-      "date": "2026-08-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42614827/"
+      "doi": "10.1016/j.jbiomech.2026.113529",
+      "date": "2026-08-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617537/"
+    },
+    {
+      "pmid": "42617253",
+      "title": "Goose kidney organoids: A new model for studying the metabolic mechanism of goose astrovirus-induced gout.",
+      "abstract": "Goose astrovirus (GAstV) is a newly identified avian pathogen that causes fatal gout in goslings, characterized by kidney damage and high mortality. Unlike non-pathogenic human gout, GAstV-induced gout lacks reference models due to the absence of goose-derived cell lines and standard experimental animals, limiting mechanistic studies. Here, primary goose kidney organoids (GKOs) were isolated from 28-day-old goose embryos. GKOs retained physiological structures and functions comparable to in vivo kidneys. GAstV infection in GKOs was evaluated across renal cell lineages and compared with in vivo outcomes. Viral replication and effects on uric acid metabolism were assessed at different multiplicities of infection. GAstV readily infected GKOs, targeting progenitor, pluripotent stem, collecting duct, and renal tubular cells, consistent with in vivo findings. At a multiplicity of infection of 10.0, GAstV rapidly induced a significant elevation of uric acid, whereas lower doses had weaker effects, paralleling disease severity in goslings. In contrast, GAstV replication was minimal in 2D cells, and other avian viruses failed to induce uric acid elevation in GKOs. Post-infection, transcriptomic and metabolomic analysis showed GAstV remodeled global gene expression and metabolism, mainly disrupting purine metabolism pathways. GAstV infection significantly increased mRNA levels of SLC22A23, SLC17A5, and SLC13A3, which were correlated positively with uric acid. GKOs provide a physiologically relevant model for elucidating GAstV pathogenesis, offering new insights into virus-induced gout and a platform for studying goose viral diseases.",
+      "journal": "Poultry science",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Institute of Animal Health, Guangdong Academy of Agricultural Sciences; Key Laboratory for Prevention and Control of Avian Influenza and Other Major Poultry Diseases, Ministry of Agriculture and Rural Affairs; Guangdong Provincial Key Laboratory of Livestock Disease Prevention, Guangzhou, Guangdong Province, PR China.",
+        "Shanwei Academy of Agricultural Sciences, Shanwei, Guangdong Province, PR China.",
+        "College of Animal Science & Technology, Zhongkai University of Agriculture and Engineering, Guangzhou, Guangdong Province, PR China.",
+        "Institute of Animal Health, Guangdong Academy of Agricultural Sciences; Key Laboratory for Prevention and Control of Avian Influenza and Other Major Poultry Diseases, Ministry of Agriculture and Rural Affairs; Guangdong Provincial Key Laboratory of Livestock Disease Prevention, Guangzhou, Guangdong Province, PR China. Electronic address: smh2002smh@163.com.",
+        "Institute of Animal Health, Guangdong Academy of Agricultural Sciences; Key Laboratory for Prevention and Control of Avian Influenza and Other Major Poultry Diseases, Ministry of Agriculture and Rural Affairs; Guangdong Provincial Key Laboratory of Livestock Disease Prevention, Guangzhou, Guangdong Province, PR China. Electronic address: 13580514640@163.com."
+      ],
+      "doi": "10.1016/j.psj.2026.107500",
+      "date": "2026-07-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617253/"
     },
     {
       "pmid": "42600555",
@@ -373,6 +391,42 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42575164/"
     },
     {
+      "pmid": "42618359",
+      "title": "Technical requirements and platform considerations for molecular residual disease in genitourinary tumors.",
+      "abstract": "Liquid biopsy ctDNA testing is becoming an essential part of cancer patient care. Many types of molecular assays for ctDNA MRD or ctDNA profiling are available. They differ in methodology, can be targeted vs. nontargeted, and tumor-informed vs. tumor-uninformed. There are technical benefits and pitfalls that come with each type of ctDNA assays. Factors such as level of detection, turnaround time, cost/reimbursement, and tumor indication may play a role in picking the most appropriate test. Given there are many available ctDNA MRD testing assays available, this paper will provide technical reviews of various methods and analytical qualifications of various ctDNA MRD detection assays.",
+      "journal": "Urologic oncology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Pathology, ARUP Reference Laboratories, University of Utah, Salt Lake City, UT. Electronic address: jongtaek.kim@utah.edu."
+      ],
+      "doi": "10.1016/j.urolonc.2026.07.022",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618359/"
+    },
+    {
+      "pmid": "42617374",
+      "title": "Experience of the implementation of a lung cancer screening program at the Hospital General de Catalunya (Barcelona, Spain).",
+      "abstract": "Low-dose computed tomography (LDCT) to screen high-risk individuals has proven effective in the reduction of lung-cancer (LC) specific mortality. Nevertheless, much of the evidence of the implementation of LDCT LC screening programs in Spain and elsewhere have arisen from large, multicenter projects. We aimed at describing the experience, including facilitators and barriers, of the implementation and first round of the LC screening program at the Hospital Universitari General de Catalunya (HUGC) (Sant Cugat del Vallès, Barcelona, Spain). Multidisciplinarity of the research group and completeness and accuracy of the medical records to identify individuals at high risk have proven as facilitators of the program. Areas of improvement include a better coordination with the external partner to process liquid biopsy tests and the implementation of a more structured smoking cessation program.",
+      "journal": "Current problems in cancer",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Medical Oncology, Hospital Universitari General de Catalunya, Instituto Oncológico Dr Rosell, Pangaea Oncology, Sant Cugat del Vallès, Spain.",
+        "Department of Medicine, School of Medicine and Health Sciences, Universitat Internacional de Catalunya, Sant Cugat del Vallès, Barcelona, Spain. Electronic address: agonzalezm@uic.es.",
+        "Pulmonology, Hospital Universitari General de Catalunya, Instituto Oncológico Dr Rosell, Pangaea Oncology, Sant Cugat del Vallès, Spain.",
+        "Laboratory, Hospital Universitari Quirón Dexeus, Instituto Oncológico Dr Rosell, Pangaea Oncology, Barcelona, Spain.",
+        "Radiology, Hospital Universitari General de Catalunya, Sant Cugat del Vallès, Spain.",
+        "Medical Oncology, Hospital Universitari Quirón Dexeus, Instituto Oncológico Dr Rosell, Pangaea Oncology, Barcelona, Spain; Instituto de Investigación Germans Trias i Pujol, Badalona, Spain."
+      ],
+      "doi": "10.1016/j.currproblcancer.2026.101329",
+      "date": "2026-08-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617374/"
+    },
+    {
       "pmid": "42617136",
       "title": "DNA Lever Nanomachine Based on CHA-Driven Conformational Transitions for the Detection of ctDNA.",
       "abstract": "Cancer incidence is high worldwide, and early treatment can reduce mortality rates. Circulating tumor DNA (ctDNA) serves as a biomarker for liquid biopsy, enabling early monitoring of tumor burden and treatment response. DNA nanobiosensors have become an important tool for detecting ctDNA due to their high efficiency and low cost. In this study, we developed a DNA lever nanomachine (DLN) based on a catalytic hairpin assembly (CHA)-driven conformational transition for the sensitive detection of ctDNA. The principle is to combine the CHA reaction with DNA lever-based mechanical amplification, enabling the detection of target ctDNA by monitoring changes in signal intensity. During the initial preparation stage, the nanomachine remains in a fluorescence-quenched state. When target ctDNA is present, CHA is activated, triggering downstream signal transduction and initiating a synergistic process of \"target capture-conformational transition-signal amplification\", ultimately leading to the restoration and amplification of the fluorescence signal. Additionally, by adjusting the fulcrum position, this machine enhances mechanical efficiency through an effort-saving lever mechanism. It minimizes internal driving force requirements by optimizing the torque load value at the load end, thereby further improving system responsiveness. The established fluorescent biosensing platform achieves satisfactory linear correlation with ctDNA concentrations ranging from 1 pM to 100 nM, with a limit of detection of 0.776 pM. This method offers a new strategy for CHA-based DNA mechanical fluorescence sensing and holds significant application potential in biological sample detection.",
@@ -448,181 +502,141 @@
       "doi": "10.1177/03000605261476145",
       "date": "2026-08-19",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42615693/"
-    },
-    {
-      "pmid": "42614645",
-      "title": "Beyond the hallmarks of cancer: enabling technologies reshaping cancer diagnosis, prevention, and treatment.",
-      "abstract": "Cancer biology has been organized for 2 decades by the hallmarks framework, articulated in 2000 and most recently revised in 2026. The pace of technological change in oncology now requires reframing how cancer is detected, prevented, and treated. This review argues that the hallmarks framework, while historically essential, is no longer sufficient on its own to capture contemporary cancer care, and repositions the discussion around enabling technologies that operate across and beyond individual hallmarks. For diagnosis, multi-omic liquid biopsy, AI-assisted radiomics and digital pathology, spatial transcriptomics, single-cell sequencing, and machine-learning analysis of plasma proteomics now support earlier detection, prediction of cancer risk years before diagnosis, monitoring of clonal evolution, and prediction of treatment response. For prevention, the validated population-level success of Human papillomavirus and HBV vaccination is contrasted with investigational directions including mRNA platforms, CRISPR-enabled antigen optimization, personalized neoantigen prophylaxis, and biomarker-stratified molecular interception, none of which has yet been validated in prospective human cancer-prevention trials. For treatment, the discussion is organized by modality class: immune checkpoint inhibitors and resistance strategies, antibody-drug conjugates, bispecific antibodies and T-cell engagers, radioligand therapies, tumor-infiltrating lymphocyte therapy, CRISPR-edited CAR-T and TCR therapies, photonic and photoimmunologic therapies, RNA therapeutics, and adaptive combination regimens. Comparative tables summarize diagnostic platforms, immunotherapeutic modalities, photonic therapies, CRISPR-edited immunotherapy trials, neoantigen vaccine pipelines, and convergent strategies. The trajectory of oncology will be defined less by incremental refinement of hallmarks and more by convergent technologies that integrate diagnostics, prevention, and treatment into continuous, data-driven systems.",
-      "journal": "Oncology reviews",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "College of Pharmacy and Pharmaceutical Sciences, Washington State University, Spokane, WA, United States."
-      ],
-      "doi": "10.3389/or.2026.1804447",
-      "date": "2026-08-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42614645/"
-    },
-    {
-      "pmid": "42614303",
-      "title": "Deep learning models based on CT predict prognosis in patients with locally advanced esophageal squamous cell carcinoma who received neoadjuvant immunotherapy and chemotherapy.",
-      "abstract": "Neoadjuvant immunotherapy and chemotherapy (NICT) has emerged as the standard pharmacological intervention for locally advanced esophageal squamous cell carcinoma (ESCC). However, individual responses to this drug combination vary significantly. This study aims to develop a deep learning (DL) framework based on spatial radiomics to non-invasively profile tumor responses to NICT, thereby serving as a companion diagnostic to design optimal personalized combinatorial regimens. This retrospective study included 655 patients with locally advanced ESCC receiving NICT across two centers (January 2022-December 2024), divided into training, internal, and external validation cohorts. We utilized VISTA3D combined with point-prompt technology for precise primary tumor segmentation. Unsupervised clustering was then applied to delineate intratumoral heterogeneous \"habitats\", which capture the microenvironmental phenotypes associated with immunochemotherapeutic response. A DL model based on ResNet18 and an attention-based multi-instance learning (MIL) framework was constructed to extract spatial radiomics features, predict disease-free survival (DFS), and stratify patients to guide the design of adjuvant therapeutic strategies. The AI-assisted segmentation achieved a robust Dice similarity coefficient of 0.87 ± 0.18 in the external validation cohort. The ResNet18-based DL model demonstrated excellent prognostic performance (External C-index:0.85, 95% CI:0.71-0.95). By translating imaging phenotypes into risk profiles, the model successfully stratified patients: the low-risk group exhibited significantly superior DFS and OS compared to the high-risk group (P<0.001). Crucially, the model facilitated precise treatment regimen design. High-risk patients derived substantial survival benefits from the addition of adjuvant radiotherapy (DFS HR:0.52; OS HR:0.82), whereas low-risk patients showed no significant benefit, suggesting they could be spared from radiation-induced toxicities. Grad-CAM and SHAP analyses confirmed that the model's predictions correlate with tumor invasion and microenvironmental heterogeneity. The proposed AI-driven spatial radiomics framework successfully bridges macroscopic imaging phenotypes with pharmacological responses to NICT. As an advanced companion diagnostic tool, it optimizes the design of multi-modality combinatorial regimens, preventing overtreatment while maximizing survival benefits for high-risk ESCC patients in the era of precision oncology.",
-      "journal": "Frontiers in immunology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Radiation Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, Shandong, China.",
-        "Department of Oncology, Cancer Center, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
-        "Department of Gastroenterology, Shandong Cancer Hospital and Institute, Shandong First Medical University, Shandong Academy of Medical Science, Jinan, Shandong, China.",
-        "Department of Respiratory Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, Shandong, China.",
-        "Division of Thoracic Tumor Multimodality Treatment, Cancer Center, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
-      ],
-      "doi": "10.3389/fimmu.2026.1900089",
-      "date": "2026-08-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42614303/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42616835",
-      "date": "2026-08-19",
-      "title": "Assessing the preclinical progress in the therapeutic targeting of axial spondyloarthritis.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616835/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Expert opinion on therapeutic targets，PMID 为 42616835。",
-      "report": "Axial spondyloarthritis (SpA) is a chronic inflammatory rheumatism affecting predominantly the axial skeleton and frequently also the peripheral joints, often associated with specific extra-musculoskeletal manifestations. This complex disease is still poorly u...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42616664",
-      "date": "2026-08-19",
-      "title": "Phenotypic Analysis of Human and Murine Endometrial Organoids using a Machine Learning Approach.",
+      "id": "pubmed-42618331",
+      "date": "2026-08-20",
+      "title": "Human-Relevant Microphysiological Systems: Evidence for Defined Contexts of Use.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616664/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Reproduction (Cambridge, England)，PMID 为 42616664。",
-      "report": "Endometrial organoids are a powerful, 3D in vitro system for studying reproductive function and disease since they are more physiologically representative than 2D cell models. However, optimal methods for the analysis of individual organoids are still developi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42616191",
-      "date": "2026-08-19",
-      "title": "Biofabrication and artificial intelligence strategies for investigating solid- and fluid-pressure mechanobiology in pancreatic ductal adenocarcinoma.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616191/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618331/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
         "Precision Oncology"
       ],
       "tags": [
         "类器官",
         "疾病模型",
+        "临床",
+        "监管",
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer metastasis reviews，PMID 为 42616191。",
-      "report": "Pancreatic ductal adenocarcinoma (PDAC) is shaped by a mechanically abnormal tumor microenvironment (TME) in which dysregulated mechanotransduction promotes malignant progression and therapeutic resistance. Two coupled but distinct pressure states dominate thi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 International journal of stem cells，PMID 为 42618331。",
+      "report": "The FDA Modernization Act has accelerated the transition from animal-based testing toward human-relevant new approach methodologies in drug development, shifting attention from technological feasibility to regulatory implementation. Among these approaches, mic...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42615637",
+      "id": "pubmed-42618529",
       "date": "2026-08-19",
-      "title": "Human iPSC-Derived Spinal Cord Organoids - The First Electrophysiological Assessment of Neuronal Maturation.",
+      "title": "\"Translational Models for Acute Asthma: Critical Evaluation of In Vivo, In Vitro, and Emerging Technologies in Drug Discovery\".",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42615637/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618529/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
-        "Advanced Disease Models"
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Drug Screening"
       ],
       "tags": [
         "类器官",
-        "疾病模型"
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "临床",
+        "监管",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 ACS chemical neuroscience，PMID 为 42615637。",
-      "report": "The spinal cord exhibits a complex cytoarchitecture and neuronal circuitry organization that challenges in vitro replication of its functional integrity. Here we employed a previously published protocol to generate spinal cord organoids (SCOs) from human-induc...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 The Journal of asthma : official journal of the Association for the Care of Asthma，PMID 为 42618529。",
+      "report": "To critically evaluate conventional and emerging preclinical methodologies for screening novel asthma therapeutics; to compare their translational relevance; and to propose an integrated framework aimed at improving precision, safety, and phenotype-targeted ef...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42615141",
+      "id": "pubmed-42617726",
       "date": "2026-08-19",
-      "title": "Erratum: Generation of 3D Collagen-Embedded A549/MRC-5 Alveolar Organoids using a Mechanical Cell-Stretching Bioreactor.",
+      "title": "Patient-Derived Models of Prostate Cancer: Capturing Tumour Complexity from Initiation to Metastasis.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42615141/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617726/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
-        "Advanced Disease Models"
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
       ],
       "tags": [
         "类器官",
-        "疾病模型"
+        "疾病模型",
+        "肿瘤",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42615141。",
-      "report": "This corrects the article 10.3791/69447.",
+      "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42617726。",
+      "report": "Prostate cancer is a growing global health challenge. To identify new ways to improve patient care, researchers need a variety of preclinical models that faithfully recapitulate human tumours across the disease continuum, from initiation to metastasis. These c...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42617597",
+      "date": "2026-08-19",
+      "title": "Synthetic tissue ecology: Ecological control of developmental self-organization across scales.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617597/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell systems，PMID 为 42617597。",
+      "report": "Embryonic development builds tissues and organs through the self-organization of heterogeneous cells across spatial and temporal scales, analogous to an ecosystem. Although ecological systems are often stochastic and multistable, embryogenesis is remarkably re...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -655,6 +669,36 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of agricultural and food chemistry，PMID 为 42616438。",
       "report": "Nowadays, enzyme engineering has moved from traditional structure-based mutagenesis and directed evolution to data-intensive, AI-assisted design paradigms that involve the rapid discovery and optimization of biocatalysts. Whereas classical approaches relied on...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42618359",
+      "date": "2026-08-19",
+      "title": "Technical requirements and platform considerations for molecular residual disease in genitourinary tumors.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618359/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Urologic oncology，PMID 为 42618359。",
+      "report": "Liquid biopsy ctDNA testing is becoming an essential part of cancer patient care. Many types of molecular assays for ctDNA MRD or ctDNA profiling are available. They differ in methodology, can be targeted vs. nontargeted, and tumor-informed vs. tumor-uninforme...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -782,38 +826,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42614827",
-      "date": "2026-08-18",
-      "title": "BACE2 Promotes Bladder Cancer Chemoresistance Through Proteolytic Activation of JAG1-Notch Signaling.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42614827/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer innovation，PMID 为 42614827。",
-      "report": "Chemoresistance to platinum-based regimens, primarily gemcitabine plus cisplatin, remains a major obstacle in the treatment of advanced bladder cancer. Identifying the underlying molecular mechanisms is critical for developing effective therapeutic strategies...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42611249",
       "date": "2026-08-18",
       "title": "Design and Characterization of SAKe, a Building Block for Protein Self-Assembly.",
@@ -837,6 +849,66 @@
       "fact": "PubMed 记录显示该文献收录于 ACS nano，PMID 为 42611249。",
       "report": "The nanofabrication of functional protein-based surfaces is challenging due to the chemical complexity of proteins and their unpredictable behavior at the solid-liquid interface. Many proteins of interest-such as antibodies or large enzymatic complexes-lack st...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42617374",
+      "date": "2026-08-18",
+      "title": "Experience of the implementation of a lung cancer screening program at the Hospital General de Catalunya (Barcelona, Spain).",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617374/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Current problems in cancer，PMID 为 42617374。",
+      "report": "Low-dose computed tomography (LDCT) to screen high-risk individuals has proven effective in the reduction of lung-cancer (LC) specific mortality. Nevertheless, much of the evidence of the implementation of LDCT LC screening programs in Spain and elsewhere have...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42617537",
+      "date": "2026-08-17",
+      "title": "Mechanical loading under estrogen deficiency enhances mineralization and osteoblast maturation in an advanced 3D vascularized bone organoid driven by hypertrophy and apoptosis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617537/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of biomechanics，PMID 为 42617537。",
+      "report": "Bone is a highly mechanosensitive tissue that responds to mechanical cues and adapts to maintain a homeostatic balance between bone formation and resorption, thereby preserving structural integrity and strength. Estrogen is the key modulator of skeletal homeos...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -954,70 +1026,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42614645",
-      "date": "2026-08-04",
-      "title": "Beyond the hallmarks of cancer: enabling technologies reshaping cancer diagnosis, prevention, and treatment.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42614645/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Oncology reviews，PMID 为 42614645。",
-      "report": "Cancer biology has been organized for 2 decades by the hallmarks framework, articulated in 2000 and most recently revised in 2026. The pace of technological change in oncology now requires reframing how cancer is detected, prevented, and treated. This review a...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42614303",
-      "date": "2026-08-04",
-      "title": "Deep learning models based on CT predict prognosis in patients with locally advanced esophageal squamous cell carcinoma who received neoadjuvant immunotherapy and chemotherapy.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42614303/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42614303。",
-      "report": "Neoadjuvant immunotherapy and chemotherapy (NICT) has emerged as the standard pharmacological intervention for locally advanced esophageal squamous cell carcinoma (ESCC). However, individual responses to this drug combination vary significantly. This study aim...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42580899",
       "date": "2026-07-30",
       "title": "The organ-on-a-chip-AI virtual cell loop: a path toward next‑generation biomedicine.",
@@ -1113,6 +1121,36 @@
       "fact": "PubMed 记录显示该文献收录于 Biogerontology，PMID 为 42509463。",
       "report": "Single-cell foundation models such as scGPT and Geneformer are large neural networks trained on human single-cell RNA-seq data. They were never shown chronological age during training. Do their internal representations nevertheless encode aging biology in a wa...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42617253",
+      "date": "2026-07-27",
+      "title": "Goose kidney organoids: A new model for studying the metabolic mechanism of goose astrovirus-induced gout.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617253/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Poultry science，PMID 为 42617253。",
+      "report": "Goose astrovirus (GAstV) is a newly identified avian pathogen that causes fatal gout in goslings, characterized by kidney damage and high mortality. Unlike non-pathogenic human gout, GAstV-induced gout lacks reference models due to the absence of goose-derived...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

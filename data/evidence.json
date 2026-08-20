@@ -4,142 +4,137 @@
   "asOfDate": "2026-08-20",
   "evidence": [
     {
-      "id": "evidence-pubmed-42616835",
-      "signalId": "pubmed-42616835",
+      "id": "evidence-pubmed-42618331",
+      "signalId": "pubmed-42618331",
       "companyIds": [],
-      "publishedAt": "2026-08-19",
+      "publishedAt": "2026-08-20",
       "snapshotDate": "2026-08-20",
-      "title": "Assessing the preclinical progress in the therapeutic targeting of axial spondyloarthritis.",
+      "title": "Human-Relevant Microphysiological Systems: Evidence for Defined Contexts of Use.",
       "eventType": "Research",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616835/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Expert opinion on therapeutic targets，PMID 为 42616835。",
-      "report": "Axial spondyloarthritis (SpA) is a chronic inflammatory rheumatism affecting predominantly the axial skeleton and frequently also the peripheral joints, often associated with specific extra-musculoskeletal manifestations. This complex disease is still poorly u...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42616664",
-      "signalId": "pubmed-42616664",
-      "companyIds": [],
-      "publishedAt": "2026-08-19",
-      "snapshotDate": "2026-08-20",
-      "title": "Phenotypic Analysis of Human and Murine Endometrial Organoids using a Machine Learning Approach.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616664/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Reproduction (Cambridge, England)，PMID 为 42616664。",
-      "report": "Endometrial organoids are a powerful, 3D in vitro system for studying reproductive function and disease since they are more physiologically representative than 2D cell models. However, optimal methods for the analysis of individual organoids are still developi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42616191",
-      "signalId": "pubmed-42616191",
-      "companyIds": [],
-      "publishedAt": "2026-08-19",
-      "snapshotDate": "2026-08-20",
-      "title": "Biofabrication and artificial intelligence strategies for investigating solid- and fluid-pressure mechanobiology in pancreatic ductal adenocarcinoma.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616191/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618331/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
         "Precision Oncology"
       ],
       "tags": [
         "类器官",
         "疾病模型",
+        "临床",
+        "监管",
         "肿瘤"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Cancer metastasis reviews，PMID 为 42616191。",
-      "report": "Pancreatic ductal adenocarcinoma (PDAC) is shaped by a mechanically abnormal tumor microenvironment (TME) in which dysregulated mechanotransduction promotes malignant progression and therapeutic resistance. Two coupled but distinct pressure states dominate thi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 International journal of stem cells，PMID 为 42618331。",
+      "report": "The FDA Modernization Act has accelerated the transition from animal-based testing toward human-relevant new approach methodologies in drug development, shifting attention from technological feasibility to regulatory implementation. Among these approaches, mic...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42615637",
-      "signalId": "pubmed-42615637",
+      "id": "evidence-pubmed-42618529",
+      "signalId": "pubmed-42618529",
       "companyIds": [],
       "publishedAt": "2026-08-19",
       "snapshotDate": "2026-08-20",
-      "title": "Human iPSC-Derived Spinal Cord Organoids - The First Electrophysiological Assessment of Neuronal Maturation.",
-      "eventType": "Research",
+      "title": "\"Translational Models for Acute Asthma: Critical Evaluation of In Vivo, In Vitro, and Emerging Technologies in Drug Discovery\".",
+      "eventType": "Review",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42615637/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618529/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "临床",
+        "监管",
+        "药筛"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 The Journal of asthma : official journal of the Association for the Care of Asthma，PMID 为 42618529。",
+      "report": "To critically evaluate conventional and emerging preclinical methodologies for screening novel asthma therapeutics; to compare their translational relevance; and to propose an integrated framework aimed at improving precision, safety, and phenotype-targeted ef...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42617726",
+      "signalId": "pubmed-42617726",
+      "companyIds": [],
+      "publishedAt": "2026-08-19",
+      "snapshotDate": "2026-08-20",
+      "title": "Patient-Derived Models of Prostate Cancer: Capturing Tumour Complexity from Initiation to Metastasis.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617726/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
       "themes": [
         "Organoids",
-        "Advanced Disease Models"
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
       ],
       "tags": [
         "类器官",
-        "疾病模型"
+        "疾病模型",
+        "肿瘤",
+        "多组学"
       ],
-      "fact": "PubMed 记录显示该文献收录于 ACS chemical neuroscience，PMID 为 42615637。",
-      "report": "The spinal cord exhibits a complex cytoarchitecture and neuronal circuitry organization that challenges in vitro replication of its functional integrity. Here we employed a previously published protocol to generate spinal cord organoids (SCOs) from human-induc...",
+      "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42617726。",
+      "report": "Prostate cancer is a growing global health challenge. To identify new ways to improve patient care, researchers need a variety of preclinical models that faithfully recapitulate human tumours across the disease continuum, from initiation to metastasis. These c...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42615141",
-      "signalId": "pubmed-42615141",
+      "id": "evidence-pubmed-42617597",
+      "signalId": "pubmed-42617597",
       "companyIds": [],
       "publishedAt": "2026-08-19",
       "snapshotDate": "2026-08-20",
-      "title": "Erratum: Generation of 3D Collagen-Embedded A549/MRC-5 Alveolar Organoids using a Mechanical Cell-Stretching Bioreactor.",
-      "eventType": "Research",
+      "title": "Synthetic tissue ecology: Ecological control of developmental self-organization across scales.",
+      "eventType": "Review",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42615141/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617597/",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Organoids",
-        "Advanced Disease Models"
+        "Advanced Disease Models",
+        "Multi-omics"
       ],
       "tags": [
         "类器官",
-        "疾病模型"
+        "疾病模型",
+        "多组学"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42615141。",
-      "report": "This corrects the article 10.3791/69447.",
+      "fact": "PubMed 记录显示该文献收录于 Cell systems，PMID 为 42617597。",
+      "report": "Embryonic development builds tissues and organs through the self-organization of heterogeneous cells across spatial and temporal scales, analogous to an ecosystem. Although ecological systems are often stochastic and multistable, embryogenesis is remarkably re...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -172,6 +167,36 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of agricultural and food chemistry，PMID 为 42616438。",
       "report": "Nowadays, enzyme engineering has moved from traditional structure-based mutagenesis and directed evolution to data-intensive, AI-assisted design paradigms that involve the rapid discovery and optimization of biocatalysts. Whereas classical approaches relied on...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42618359",
+      "signalId": "pubmed-42618359",
+      "companyIds": [],
+      "publishedAt": "2026-08-19",
+      "snapshotDate": "2026-08-20",
+      "title": "Technical requirements and platform considerations for molecular residual disease in genitourinary tumors.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618359/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Urologic oncology，PMID 为 42618359。",
+      "report": "Liquid biopsy ctDNA testing is becoming an essential part of cancer patient care. Many types of molecular assays for ctDNA MRD or ctDNA profiling are available. They differ in methodology, can be targeted vs. nontargeted, and tumor-informed vs. tumor-uninforme...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -299,38 +324,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42614827",
-      "signalId": "pubmed-42614827",
-      "companyIds": [],
-      "publishedAt": "2026-08-18",
-      "snapshotDate": "2026-08-20",
-      "title": "BACE2 Promotes Bladder Cancer Chemoresistance Through Proteolytic Activation of JAG1-Notch Signaling.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42614827/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Cancer innovation，PMID 为 42614827。",
-      "report": "Chemoresistance to platinum-based regimens, primarily gemcitabine plus cisplatin, remains a major obstacle in the treatment of advanced bladder cancer. Identifying the underlying molecular mechanisms is critical for developing effective therapeutic strategies...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-pubmed-42611249",
       "signalId": "pubmed-42611249",
       "companyIds": [],
@@ -354,6 +347,38 @@
       "fact": "PubMed 记录显示该文献收录于 ACS nano，PMID 为 42611249。",
       "report": "The nanofabrication of functional protein-based surfaces is challenging due to the chemical complexity of proteins and their unpredictable behavior at the solid-liquid interface. Many proteins of interest-such as antibodies or large enzymatic complexes-lack st...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42617374",
+      "signalId": "pubmed-42617374",
+      "companyIds": [],
+      "publishedAt": "2026-08-18",
+      "snapshotDate": "2026-08-20",
+      "title": "Experience of the implementation of a lung cancer screening program at the Hospital General de Catalunya (Barcelona, Spain).",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617374/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Current problems in cancer，PMID 为 42617374。",
+      "report": "Low-dose computed tomography (LDCT) to screen high-risk individuals has proven effective in the reduction of lung-cancer (LC) specific mortality. Nevertheless, much of the evidence of the implementation of LDCT LC screening programs in Spain and elsewhere have...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -386,6 +411,34 @@
       "report": "SEC metadata describes the primary document as: FORM 6-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "evidence-pubmed-42617537",
+      "signalId": "pubmed-42617537",
+      "companyIds": [],
+      "publishedAt": "2026-08-17",
+      "snapshotDate": "2026-08-20",
+      "title": "Mechanical loading under estrogen deficiency enhances mineralization and osteoblast maturation in an advanced 3D vascularized bone organoid driven by hypertrophy and apoptosis.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617537/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Journal of biomechanics，PMID 为 42617537。",
+      "report": "Bone is a highly mechanosensitive tissue that responds to mechanical cues and adapts to maintain a homeostatic balance between bone formation and resorption, thereby preserving structural integrity and strength. Estrogen is the key modulator of skeletal homeos...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
       "id": "evidence-pubmed-42606177",
@@ -1309,70 +1362,6 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
-      "id": "evidence-pubmed-42614645",
-      "signalId": "pubmed-42614645",
-      "companyIds": [],
-      "publishedAt": "2026-08-04",
-      "snapshotDate": "2026-08-20",
-      "title": "Beyond the hallmarks of cancer: enabling technologies reshaping cancer diagnosis, prevention, and treatment.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42614645/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Oncology reviews，PMID 为 42614645。",
-      "report": "Cancer biology has been organized for 2 decades by the hallmarks framework, articulated in 2000 and most recently revised in 2026. The pace of technological change in oncology now requires reframing how cancer is detected, prevented, and treated. This review a...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42614303",
-      "signalId": "pubmed-42614303",
-      "companyIds": [],
-      "publishedAt": "2026-08-04",
-      "snapshotDate": "2026-08-20",
-      "title": "Deep learning models based on CT predict prognosis in patients with locally advanced esophageal squamous cell carcinoma who received neoadjuvant immunotherapy and chemotherapy.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42614303/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42614303。",
-      "report": "Neoadjuvant immunotherapy and chemotherapy (NICT) has emerged as the standard pharmacological intervention for locally advanced esophageal squamous cell carcinoma (ESCC). However, individual responses to this drug combination vary significantly. This study aim...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-clinicaltrials-NCT07495735",
       "signalId": "clinicaltrials-NCT07495735",
       "companyIds": [],
@@ -2125,6 +2114,36 @@
       "fact": "PubMed 记录显示该文献收录于 Biogerontology，PMID 为 42509463。",
       "report": "Single-cell foundation models such as scGPT and Geneformer are large neural networks trained on human single-cell RNA-seq data. They were never shown chronological age during training. Do their internal representations nevertheless encode aging biology in a wa...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42617253",
+      "signalId": "pubmed-42617253",
+      "companyIds": [],
+      "publishedAt": "2026-07-27",
+      "snapshotDate": "2026-08-20",
+      "title": "Goose kidney organoids: A new model for studying the metabolic mechanism of goose astrovirus-induced gout.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42617253/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Poultry science，PMID 为 42617253。",
+      "report": "Goose astrovirus (GAstV) is a newly identified avian pathogen that causes fatal gout in goslings, characterized by kidney damage and high mortality. Unlike non-pathogenic human gout, GAstV-induced gout lacks reference models due to the absence of goose-derived...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
