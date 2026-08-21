@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-08-20",
+  "updatedAt": "2026-08-21",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -821,6 +821,232 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42622749",
+      "date": "2026-08-20",
+      "title": "Cloud-based ligand-guided virtual screening with deep-learning-enhanced docking identifies a micromolar CXCR4 antagonist.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42622749/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular diversity，PMID 为 42622749。",
+      "report": "We report a cloud-executed, ligand-guided virtual screening workflow for practical and rapid experimental testing of CXCR4 antagonists. Using the Rush platform, an Enamine purchasable library (274,092 compounds) was standardized and pre-filtered to remove assa...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_030be60c09633099006a87b124c22087d19c3c72f53016e65f",
+        "reviewedAt": "2026-08-21T02:00:03.539562+00:00",
+        "inputHash": "36d65e628d50430def1220e1e37952071637ccaa1418aaa25bae592aaf6762db",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号信息来源于高可靠性的文献，分类合理，内容分离清晰，没有提及未经支持的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主分类和子分类合理，符合文献主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分离良好，证据级别合适。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Molecular diversity，PMID 为 42622749。",
+          "report": "We report a cloud-executed, ligand-guided virtual screening workflow for practical and rapid experimental testing of CXCR4 antagonists. Using the Rush platform, an Enamine purchasable library (274,092 compounds) was standardized and pre-filtered to remove assa...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42622720",
+      "date": "2026-08-20",
+      "title": "Endothelial cell heterogeneity drives angiogenesis in endometriosis: mechanisms and emerging organoid-based models.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42622720/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Apoptosis : an international journal on programmed cell death，PMID 为 42622720。",
+      "report": "Endometriosis (EMs) is characterized by the establishment and persistence of ectopic lesions, a process fundamentally dependent on aberrant angiogenesis. Endothelial cells (ECs) play a central role in this process; however, accumulating evidence indicates that...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_090a72d7aa25f445006a87b12abbb887d1974c2b59894e7715",
+        "reviewedAt": "2026-08-21T02:00:03.539562+00:00",
+        "inputHash": "710bbb32246def663f85ed98afeebe068ac95a9eba23ae78f4555a122828588f",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献涉及内皮细胞异质性在子宫内膜异位症中的作用，报告内容需要人类判断，尤其是在临床影响方面。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类与文献内容之间的支持程度存在不一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "虽然事实和报告分开，但对于证据水平的评价不足。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Apoptosis: an international journal on programmed cell death，PMID 为 42622720。",
+          "report": "Endometriosis (EMs) is characterized by the establishment and persistence of ectopic lesions, a process fundamentally dependent on aberrant angiogenesis. Endothelial cells (ECs) play a central role in this process; however, accumulating evidence indicates that...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42622717",
+      "date": "2026-08-20",
+      "title": "Establishment of a ZFP64::NCOA3 fusion-positive spindle cell/sclerosing rhabdomyosarcoma organoid model and evaluation of fusion-gene dependency.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42622717/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Human cell，PMID 为 42622717。",
+      "report": "Spindle cell/sclerosing rhabdomyosarcoma (SRMS) comprises a heterogeneous group of tumors characterized by distinct molecular alterations and clinical behaviors. Among them, ZFP64::NCOA3 fusion-positive SRMS represents an extremely rare subtype, and its biolog...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_062d9f4db77ba67a006a87b133e4a087d19604d8d7c7ee7c5b",
+        "reviewedAt": "2026-08-21T02:00:03.539562+00:00",
+        "inputHash": "a4001a3982f46fa78c72c0315c4983b8baf6e9ae3a8db1c9d8f5e5fee641f5ad",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合出版标准，信息来源清晰，未包含临床建议或未支持的结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类与提供的元数据合理一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分离明确，证据水平合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Human cell，PMID 为 42622717。",
+          "report": "Spindle cell/sclerosing rhabdomyosarcoma (SRMS) comprises a heterogeneous group of tumors characterized by distinct molecular alterations and clinical behaviors. Among them, ZFP64::NCOA3 fusion-positive SRMS represents an extremely rare subtype, and its biolog...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42622520",
       "date": "2026-08-20",
       "title": "Infant Embryonal CNS Tumors: Molecular Insights and Treatment Considerations for Contemporary Pediatric Neuro-Oncology.",
@@ -898,6 +1124,80 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Pediatric blood & cancer，PMID 为 42622520。",
           "report": "Embryonal tumors comprise the majority of malignant central nervous system (CNS) neoplasms diagnosed in children under 3 years of age. Compared with their counterparts in older children, these tumors exhibit distinct molecular biology and a more aggressive cli...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42623604",
+      "date": "2026-08-19",
+      "title": "Selective Macrocyclic WEE1 Kinase Inhibitors with Strong Efficacy against Patient-Derived Colorectal Cancer Organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42623604/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of medicinal chemistry，PMID 为 42623604。",
+      "report": "Macrocyclization can enhance the selectivity of acyclic compounds toward structurally similar biological targets such as kinases. WEE1 regulates cellular homeostasis and is a promising target in oncology. The clinical candidate AZD1775 (1) failed to progress p...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0c3a5540e968e572006a87b13b1a0487d18f88baf0444904e0",
+        "reviewedAt": "2026-08-21T02:00:03.539562+00:00",
+        "inputHash": "741d615f7c839a758f59e501fa97ea04db81e896c0ded20f4703e2453016250f",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合发布标准，无需人类审查。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类符合文献主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推理清晰分离，证据水平合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of medicinal chemistry，PMID 为 42623604。",
+          "report": "Macrocyclization can enhance the selectivity of acyclic compounds toward structurally similar biological targets such as kinases. WEE1 regulates cellular homeostasis and is a promising target in oncology. The clinical candidate AZD1775 (1) failed to progress p...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1943,75 +2243,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42621400",
-      "date": "2026-08-12",
-      "title": "Experimental models of osteoarthritis: Advances, limitations and rational selection for translational research.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42621400/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of orthopaedic translation，PMID 为 42621400。",
-      "report": "Osteoarthritis (OA) is a complex degenerative joint disease driven by mechanical overload, inflammation, metabolic disorders, and aging. Despite substantial advances in basic and translational research, no disease-modifying OA drugs (DMOADs) have been approved...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0b328c6ac3c1a7ed006a874f969a9c87d1ac7be0cbee2caab7",
-        "reviewedAt": "2026-08-20T19:03:17.779314+00:00",
-        "inputHash": "5e2e0989dc5e2c40e842c5e055ed4d688a5854bc5c66a49c99d70f128da56c8c",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录符合中性情报发布标准，无需人工审查。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理且符合主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "文献引用和推断清晰分离。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of orthopaedic translation，PMID 为 42621400。",
-          "report": "Osteoarthritis (OA) is a complex degenerative joint disease driven by mechanical overload, inflammation, metabolic disorders, and aging. Despite substantial advances in basic and translational research, no disease-modifying OA drugs (DMOADs) have been approved...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "sec-0001110803-000119312526346923",
       "date": "2026-08-12",
       "title": "Illumina filed Form 424B2",
@@ -2227,90 +2458,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42621171",
-      "date": "2026-08-11",
-      "title": "The application and progress of AI-based image analysis in tumor organoid research.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42621171/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42621171。",
-      "report": "The development of preclinical models that recapitulate the physiological and pathological features of human tumors remains a central challenge in cancer research. Advances in cell biology have enabled the generation of three-dimensional tumor organoids, which...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0a6bc6060ff01677006a874f9ded5887d1b4ea4624f48aec1c",
-        "reviewedAt": "2026-08-20T19:03:17.779314+00:00",
-        "inputHash": "fe4afff423b2058bab4c8f6a3f466295274358b29939614d0791d2ae76b544d8",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "本文记录内容合理，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别合理，符合主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论清晰分开，证据水平合理。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "AI for Biology",
-            "Drug Discovery",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "AI 制药",
-            "蛋白设计",
-            "分子生成",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42621171。",
-          "report": "The development of preclinical models that recapitulate the physiological and pathological features of human tumors remains a central challenge in cancer research. Advances in cell biology have enabled the generation of three-dimensional tumor organoids, which...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -2821,80 +2968,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42620574",
-      "date": "2026-08-10",
-      "title": "Patient-derived organoids support radiotherapy response and recurrence risk prediction in esophageal squamous cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42620574/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42620574。",
-      "report": "Predicting individual responses to radiotherapy remains a major challenge in esophageal cancer. This study evaluated an cancer organoid-based diagnosis and reactivity prediction (CODRP) approach to estimate pathological response and recurrence risk after neoad...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0ab1b20ad11b2f71006a874fa4a72c87d189061c416536e1d0",
-        "reviewedAt": "2026-08-20T19:03:17.779314+00:00",
-        "inputHash": "55b9f13d9307c19ce09190072f7c1ca30b738caf0ffb384633fb9129a93386e2",
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该信号的研究结果涉及放疗反应和复发风险预测，但推断缺乏足够的支持，需人工审查。存在潜在的临床推断和不明确的效果分类。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "类器官研究属于前沿领域，但现有证据未能支撑所有分类主张。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
-          "evidenceLevelReasonable": false,
-          "notesCn": "报告的推断未能与事实分开，增加了混淆和误导的风险。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42620574。",
-          "report": "Predicting individual responses to radiotherapy remains a major challenge in esophageal cancer. This study evaluated an cancer organoid-based diagnosis and reactivity prediction (CODRP) approach to estimate pathological response and recurrence risk after neoad...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -3699,80 +3772,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42620978",
-      "date": "2026-08-05",
-      "title": "Generation of alveolar organoids from human induced pluripotent stem cells using a stirred-tank bioreactor.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42620978/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42620978。",
-      "report": "Organoids are increasingly establishing themselves as a valuable, patient- centered alternative to preclinical animal models as they are highly complex models for organ development studies and, in particular, robust disease models for mechanistic investigation...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0a8992126cf72489006a874fa9fab887d185cf5fc07794770e",
-        "reviewedAt": "2026-08-20T19:03:17.779314+00:00",
-        "inputHash": "bfe14ce590228a3182d87721a0548e646ed3762d58aadfa3dbde32cd92a8f5c1",
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审核。研究质量和临床结论未被评估，且存在对研究潜力的涉及。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，主要涉及器官模型与疾病模型的研究。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "虽然文献可靠，但证据水平标评为中等，未能支持全面的临床结论。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42620978。",
-          "report": "Organoids are increasingly establishing themselves as a valuable, patient-centered alternative to preclinical animal models as they are highly complex models for organ development studies and, in particular, robust disease models for mechanistic investigation...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },

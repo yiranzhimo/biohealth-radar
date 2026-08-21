@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-20T19:03:08.389676+00:00",
+  "capturedAt": "2026-08-21T01:59:52.477032+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-08-20",
-    "end": "2026-08-20"
+    "start": "2025-08-21",
+    "end": "2026-08-21"
   },
   "pmids": [
+    "42623604",
+    "42622749",
+    "42622720",
+    "42622717",
     "42622079",
     "42621525",
-    "42621400",
-    "42621171",
-    "42620978",
-    "42620574",
     "42600555",
     "42580899",
     "42559559",
@@ -40,6 +40,98 @@
     "42618642"
   ],
   "records": [
+    {
+      "pmid": "42623604",
+      "title": "Selective Macrocyclic WEE1 Kinase Inhibitors with Strong Efficacy against Patient-Derived Colorectal Cancer Organoids.",
+      "abstract": "Macrocyclization can enhance the selectivity of acyclic compounds toward structurally similar biological targets such as kinases. WEE1 regulates cellular homeostasis and is a promising target in oncology. The clinical candidate AZD1775 (1) failed to progress past Phase II trials because of patient tolerability issues, likely due to off-target inhibition of polo-like kinase 1 (PLK1). Herein, a computer-aided drug design approach was conducted to develop a macrocycle based on the 1-WEE1 X-ray cocrystal structure. Significantly enhanced WEE1 inhibitory selectivity over PLK1 was determined for leading macrocycle 2, which also demonstrated broader kinome-wide selectivity. Patient-derived organoids from colorectal cancer (CRC) peritoneal and liver metastases, treated with 2, demonstrated comparably strong or enhanced anticancer efficacy compared to that of 1. Against patient-matched normal colon vs primary CRC organoids, 2 potently and selectively treated CRC, as well as enhanced DNA damage compared to 1. Finally, the X-ray cocrystal structure of 2 bound to WEE1 validated its computationally predicted bioactive binding mode.",
+      "journal": "Journal of medicinal chemistry",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Monash Institute of Pharmaceutical Sciences, Monash University, 381 Royal Parade, Parkville, Victoria3052, Australia.",
+        "Precision Cancer Medicine Theme, South Australian Health and Medical Research Institute, Adelaide, South Australia5000, Australia.",
+        "Institute of Pharmaceutical Chemistry, Goethe University, Max-von-Laue-Str. 9, 60438Frankfurt am Main, Germany.",
+        "Structural Genomics Consortium (SGC), Buchmann Institute for Life Sciences, Max-von-Laue-Str. 15, 60438Frankfurt am Main, Germany.",
+        "Adelaide Medical School, Adelaide University, Adelaide, South Australia5000, Australia.",
+        "School of Chemistry, University of Melbourne, Parkville, Victoria3010, Australia.",
+        "German Translational Cancer Network (DKTK) Site Frankfurt Mainz, 60590Heidelberg, Germany.",
+        "Colonoscopy Clinic, Spring Hill, Queensland4000, Australia.",
+        "Department of Medicine, Columbia University Medical Center, New YorkNew York10032, United States.",
+        "Manas AI , New YorkNew York10011, United States."
+      ],
+      "doi": "10.1021/acs.jmedchem.6c00018",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42623604/"
+    },
+    {
+      "pmid": "42622749",
+      "title": "Cloud-based ligand-guided virtual screening with deep-learning-enhanced docking identifies a micromolar CXCR4 antagonist.",
+      "abstract": "We report a cloud-executed, ligand-guided virtual screening workflow for practical and rapid experimental testing of CXCR4 antagonists. Using the Rush platform, an Enamine purchasable library (274,092 compounds) was standardized and pre-filtered to remove assay-interfering substructures, yielding 264,953 molecules for screening. A set of 18,378 compounds was identified through AMD070-based similarity filtering (Tanimoto ≥ 0.2, ECFP4). These candidates were then docked into the IT1t-bound CXCR4 structure using Gnina. A CNN pose-score cutoff (> 0.8) was applied as a pose-confidence filter, and the retained compounds were ranked by docking affinity (kcal/mol). The top 50 were triaged by pharmacokinetic-focused in silico assessment (SwissADME) to prioritize lead-like profiles and exclude structural alerts, resulting in 9 purchasable candidates for biological testing. Flow cytometry-based 12G5 competitive binding in Jurkat cells identified CUEN-837 as the initial hit (IC50 = 8.50 μM, 52.31% inhibition at 10 μM). CUEN-837 also inhibited CXCL12-driven chemotaxis (32.8% inhibition at 10 μM). It reduced the viability of three colorectal cancer organoid strains in a dose-dependent manner (IC50 7.97-11.16 µM), providing supportive phenotypic evidence of activity in patient-derived organoid models. Overall, this end-to-end workflow efficiently compresses large libraries into a confirmed micromolar CXCR4 hit while lowering computational and infrastructure barriers for early-stage discovery.",
+      "journal": "Molecular diversity",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Center of Excellence in Natural Products for Ageing and Chronic Diseases, Chulalongkorn University, Bangkok, 10330, Thailand.",
+        "Department of Pharmacology and Physiology, Faculty of Pharmaceutical Sciences, Chulalongkorn University, Bangkok, 10330, Thailand.",
+        "QDX Co. Ltd., Singapore, 089109, Singapore.",
+        "National Engineering Center for Biochip at Shanghai & Shanghai Biochip Co., Ltd., Shanghai, 201203, China.",
+        "Department of General Surgery, Zhujiang Hospital, Southern Medical University, Guangzhou, 510280, China.",
+        "Department of Food and Pharmaceutical Chemistry, Faculty of Pharmaceutical Sciences, Chulalongkorn University, Bangkok, 10330, Thailand.",
+        "Key Laboratory of Carcinogenesis and Translational Research, NMPA Key Laboratory for Research and Evaluation of Radiopharmaceuticals (National Medical Products Administration), Department of Nuclear Medicine, Peking University Cancer Hospital & Institute, Beijing, 100142, China.",
+        "Molecular Probes for Imaging Research Network, Faculty of Pharmaceutical Sciences, Chulalongkorn University, Bangkok, 10330, Thailand.",
+        "Center of Excellence in Natural Products for Ageing and Chronic Diseases, Chulalongkorn University, Bangkok, 10330, Thailand. pornchai.r@chula.ac.th.",
+        "Department of Food and Pharmaceutical Chemistry, Faculty of Pharmaceutical Sciences, Chulalongkorn University, Bangkok, 10330, Thailand. pornchai.r@chula.ac.th.",
+        "Molecular Probes for Imaging Research Network, Faculty of Pharmaceutical Sciences, Chulalongkorn University, Bangkok, 10330, Thailand. pornchai.r@chula.ac.th."
+      ],
+      "doi": "10.1007/s11030-026-11695-z",
+      "date": "2026-08-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42622749/"
+    },
+    {
+      "pmid": "42622720",
+      "title": "Endothelial cell heterogeneity drives angiogenesis in endometriosis: mechanisms and emerging organoid-based models.",
+      "abstract": "Endometriosis (EMs) is characterized by the establishment and persistence of ectopic lesions, a process fundamentally dependent on aberrant angiogenesis. Endothelial cells (ECs) play a central role in this process; however, accumulating evidence indicates that ECs are not a homogeneous population but comprise multiple subtypes with distinct molecular signatures and functional states, including quiescent, proliferative, hormone-responsive and inflammation-associated phenotypes. The initiation and maintenance of pathological angiogenesis in EMs are coordinately regulated by hormonal signaling, inflammatory responses and immune modulation, which collectively determine vascular remodeling and lesion sustainability. Despite significant advances, mechanistic insights into EMs-associated angiogenesis have been limited by the lack of physiologically relevant experimental models. Conventional two-dimensional culture systems fail to recapitulate the complex three-dimensional cellular interactions, whereas animal models are constrained by interspecies differences. Recent progress in stem cell biology, extracellular matrix (ECM) engineering and microfluidic technologies has enabled the development of organoid-based platforms that more faithfully reconstruct the EMs microenvironment. When integrated with functional biomaterials possessing tunable mechanical properties and bioactivity, these systems allow precise modulation of endothelial behaviors, including proliferation, migration and lumen formation, through controlled delivery of angiogenic cues. In this Review, we summarize recent advances in biomaterial-supported organoid systems for dissecting endothelial cell heterogeneity and its contribution to aberrant angiogenesis in EMs. We further discuss their emerging roles in mechanistic studies and the development of targeted therapeutic strategies.",
+      "journal": "Apoptosis : an international journal on programmed cell death",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Medical Cell Biology and Genetics, School of Basic Medical Sciences, Southwest Medical University, Luzhou, 646000, Sichuan, China.",
+        "Department of Anesthesiology, The Affiliated Hospital, Southwest Medical University, Luzhou, 646000, Sichuan, China.",
+        "Key Laboratory of Medical Electrophysiology, Ministry of Education and Medical Electrophysiological Key Laboratory of Sichuan Province, (Collaborative Innovation Center for Prevention of Cardiovascular Diseases), Institute of Cardiovascular Research, Southwest Medical University, Luzhou, 646000, Sichuan, China.",
+        "Department of Neurosurgery, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, 646000, Sichuan, China.",
+        "Public Center of Experimental Technology, Luzhou Municipal Key Laboratory of Thrombosis and Vascular Biology, Laboratory for Cardiovascular Pharmacology, Department of Pharmacology, School of Pharmacy, Southwest Medical University, Luzhou, 646000, China. lr2008@swmu.edu.cn.",
+        "Department of Medical Cell Biology and Genetics, School of Basic Medical Sciences, Basic Medicine Research Innovation Center for Cardiometabolic Diseases, Ministry of Education, Key Laboratory of Medical Electrophysiology, Ministry of Education, Institute of Cardiovascular Research, Southwest Medical University, Luzhou, 646000, Sichuan, China. jingyany@swmu.edu.cn."
+      ],
+      "doi": "10.1007/s10495-026-02427-7",
+      "date": "2026-08-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42622720/"
+    },
+    {
+      "pmid": "42622717",
+      "title": "Establishment of a ZFP64::NCOA3 fusion-positive spindle cell/sclerosing rhabdomyosarcoma organoid model and evaluation of fusion-gene dependency.",
+      "abstract": "Spindle cell/sclerosing rhabdomyosarcoma (SRMS) comprises a heterogeneous group of tumors characterized by distinct molecular alterations and clinical behaviors. Among them, ZFP64::NCOA3 fusion-positive SRMS represents an extremely rare subtype, and its biological characteristics remain poorly understood because of the lack of representative experimental models. In this study, we established a patient-derived organoid (PDO) line, designated OICI-RMS-1275, together with organoid-derived xenograft (ODX) models from a previously reported case of ZFP64::NCOA3 fusion-positive SRMS using a modified air-liquid interface organoid culture method. The established organoids exhibited stable long-term propagation and retained tumorigenic capacity following serial transplantation into NOD-scid IL2Rgnull mice. Histological and immunohistochemical analyses demonstrated preservation of the characteristic spindle cell morphology and diffuse expression of MyoD1 and PAX7 observed in the original tumor. Polymerase chain reaction and Sanger sequencing confirmed retention of the ZFP64::NCOA3 fusion transcript and fusion breakpoint in the organoids and ODXs. Lentiviral-mediated knockdown of the fusion gene significantly suppressed organoid proliferation, indicating dependency on ZFP64::NCOA3 for tumor growth. Transcriptomic analyses revealed preservation of major transcriptional features between the original tumor and ODXs, including myogenic lineage-associated gene expression programs. Fusion-gene suppression decreased expression of MYOD1 and DLK1 while increasing PPARG expression, suggesting involvement of the fusion in lineage-associated transcriptional regulation. Under adipogenic induction conditions, SRMS organoids exhibited lipid accumulation detected by Oil Red O staining regardless of fusion-gene suppression status, indicating preserved adipogenic differentiation potential. These findings establish the first PDO and ODX models of ZFP64::NCOA3 fusion-positive SRMS and demonstrate fusion-gene dependency in this rare molecular subtype. Our results further suggest that despite strong myogenic transcriptional programs, fusion-positive SRMS retains adipogenic differentiation capacity. These models provide a valuable platform for investigating disease biology and developing novel therapeutic strategies for rare fusion-positive rhabdomyosarcomas.",
+      "journal": "Human cell",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Musculoskeletal Oncology Service, Osaka International Cancer Institute, 3-1-69 Otemae, Chuo-ku, Osaka, 541-8567, Japan.",
+        "Department of Orthopaedic Surgery, Osaka University Graduate School of Medicine, 2-2 Yamadaoka, Suita, Osaka, 565-0871, Japan.",
+        "Next-Generation Precision Medicine Research Center, Osaka International Cancer Institute, 3-1-69 Otemae, Chuo-ku, Osaka, 541-8567, Japan.",
+        "Molecular Biology Laboratory, Research Institute, Nozaki Tokushukai Hospital, Tanigawa 2-10-50, Daito, Osaka, 574-0074, Japan.",
+        "Laboratory of Genomic Pathology, Osaka International Cancer Institute, 3-1-69 Otemae, Chuo-ku, Osaka, 541-8567, Japan.",
+        "Department of Diagnostic Pathology and Cytology, Osaka International Cancer Institute, 3-1-69 Otemae, Chuo-ku, Osaka, 541-8567, Japan.",
+        "Department of Musculoskeletal Oncology Service, Osaka International Cancer Institute, 3-1-69 Otemae, Chuo-ku, Osaka, 541-8567, Japan. evolutionhhh49@yahoo.co.jp.",
+        "Department of Orthopaedic Surgery, Osaka University Graduate School of Medicine, 2-2 Yamadaoka, Suita, Osaka, 565-0871, Japan. evolutionhhh49@yahoo.co.jp."
+      ],
+      "doi": "10.1007/s13577-026-01441-w",
+      "date": "2026-08-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42622717/"
+    },
     {
       "pmid": "42622079",
       "title": "PBPK Models for Fetal Drug Exposure: A Critical Assessment of Current Approaches and Regulatory Readiness.",
@@ -82,79 +174,6 @@
       "doi": "10.2147/DDDT.S615974",
       "date": "2026-08-15",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42621525/"
-    },
-    {
-      "pmid": "42621400",
-      "title": "Experimental models of osteoarthritis: Advances, limitations and rational selection for translational research.",
-      "abstract": "Osteoarthritis (OA) is a complex degenerative joint disease driven by mechanical overload, inflammation, metabolic disorders, and aging. Despite substantial advances in basic and translational research, no disease-modifying OA drugs (DMOADs) have been approved for clinical use, largely due to the translational gap between preclinical experimental models and clinical practice. Experimental models are essential tools for investigating OA pathophysiology and evaluating therapeutic strategies, among which animal models play an irreplaceable role in recapitulating the in vivo joint environment. This review comprehensively evaluates current OA experimental models, with a focus on animal systems, including surgically induced structural instability, mechanically induced models, chemical induction approaches, metabolism-related models, spontaneous aging models, and genetically modified strains. We assess each model's advantages, limitations, and appropriate applications, clarifying their ability to reflect specific OA subtypes. Moreover, we summarize recent progress in in vitro platforms, ex vivo tissue explants, and emerging technologies such as organ-on-a-chip and organoid models, which provide complementary insights to animal models. This review aims to establish a rational model selection framework aligned with OA pathological features, thereby bridging the preclinical-clinical translational gap and facilitating the development of effective therapeutics. This review systematically evaluates OA experimental models and analyzes their practical utility in translational research of different OA subtypes. It establishes a reasonable framework for model selection and describes how cutting-edge bioengineered platforms complement traditional in vitro and animal studies, providing a reference for improving the predictive reliability of preclinical research and advancing studies on personalized OA therapies.",
-      "journal": "Journal of orthopaedic translation",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Joint and Orthopedics, Orthopedic Center, Clinical Research Center, Zhujiang Hospital, Southern Medical University, Guangzhou, Guangdong, China.",
-        "First Clinical Medical College, Hubei University of Chinese Medicine, 16 West Huangjiahu Road, Wuhan, Hubei, China.",
-        "Department of Biomedical Engineering, The Chinese University of Hong Kong, Hong Kong Special Administrative Region of China.",
-        "Center for Neuromusculoskeletal Restorative Medicine, Hong Kong Science Park, NT, Hong Kong Special Administrative Region of China.",
-        "Institute for Tissue Engineering and Regenerative Medicine, School of Biomedical Sciences, The Chinese University of Hong Kong, NT, Hong Kong Special Administrative Region of China.",
-        "Clinical Research Center, Beijing Tsinghua Changgung Hospital, Tsinghua Medicine, Tsinghua University, Beijing, China.",
-        "Menzies Institute for Medical Research, University of Tasmania, Hobart, Tasmania, Australia.",
-        "State Key Laboratory of Multi-organ Injury Prevention and Treatment, Southern Medical University, Guangzhou, China."
-      ],
-      "doi": "10.1016/j.jot.2026.101188",
-      "date": "2026-08-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42621400/"
-    },
-    {
-      "pmid": "42621171",
-      "title": "The application and progress of AI-based image analysis in tumor organoid research.",
-      "abstract": "The development of preclinical models that recapitulate the physiological and pathological features of human tumors remains a central challenge in cancer research. Advances in cell biology have enabled the generation of three-dimensional tumor organoids, which closely mirror patient-specific therapeutic responses and facilitate the study of disease mechanisms. However, the trend of these models necessitates a shift from traditional, invasive analytical methods toward non-invasive, high-throughput imaging approaches. Here, we review the current state of tumor organoid culture and the emerging application of artificial intelligence (AI) in their evaluation. We discuss how AI-driven technologies are revolutionizing the analysis of fluorescence imaging, viability assessments, and dynamic cell tracking, thereby overcoming the limitations of manual interpretation. Finally, we provide a perspective on how integrating deep learning with organoid technology will enhance the precision and efficiency of drug discovery and personalized oncology.",
-      "journal": "iScience",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Beijing Key Laboratory of Gene Editing Therapy for Hereditary Neuromuscular Diseases, Key Laboratory of Molecular Medicine and Biological Diagnosis and Treatment (Ministry of Industry and Information Technology), Aerospace Center Hospital, Tangshan Research Institute, School of Life Science, Beijing Institute of Technology, Beijing 100081, China.",
-        "International Center for Interdisciplinary Statistics, School of Mathematics, Harbin Institute of Technology, Harbin 150001, China."
-      ],
-      "doi": "10.1016/j.isci.2026.116756",
-      "date": "2026-08-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42621171/"
-    },
-    {
-      "pmid": "42620978",
-      "title": "Generation of alveolar organoids from human induced pluripotent stem cells using a stirred-tank bioreactor.",
-      "abstract": "Organoids are increasingly establishing themselves as a valuable, patient- centered alternative to preclinical animal models as they are highly complex models for organ development studies and, in particular, robust disease models for mechanistic investigations and therapy response assessments. We previously established a very simple and practical protocol for producing induced pluripotent stem cell-derived lung organoids (iPSC-LuOrgs) from pre-differentiated embryoid bodies using a stirred bioreactor system. Here we adapted the protocol to investigate the generation of lung organoids directly from iPSCs in stirred suspension, and performed a comprehensive cellular and molecular characterization, including single-cell RNA sequencing, of the resulting LuOrgs. Direct transfer of iPSCs as a single-cell suspension into the bioreactor and subsequent differentiation led to the formation of lung structures that appeared less differentiated and were predominantly alveolar in nature. Fibroblasts and bronchial epithelial cells were generated only to a limited extent. Pre- differentiation of iPSCs, e.g., in embryoid bodies seems to be a necessary prerequisite for the efficient generation of iPSC-LuOrgs, which then exhibit alveolar and bronchial cell types and structures supported by mesenchymal cells.",
-      "journal": "Frontiers in bioengineering and biotechnology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Institute for Cell Biology (Cancer Research), Medical Faculty, University of Duisburg-Essen, Essen, Germany."
-      ],
-      "doi": "10.3389/fbioe.2026.1858660",
-      "date": "2026-08-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42620978/"
-    },
-    {
-      "pmid": "42620574",
-      "title": "Patient-derived organoids support radiotherapy response and recurrence risk prediction in esophageal squamous cancer.",
-      "abstract": "Predicting individual responses to radiotherapy remains a major challenge in esophageal cancer. This study evaluated an cancer organoid-based diagnosis and reactivity prediction (CODRP) approach to estimate pathological response and recurrence risk after neoadjuvant chemoradiotherapy (NCRT) in esophageal squamous cell carcinoma. Organoids were established from endoscopic biopsy specimens and irradiated with doses of 2, 4, or 8 Gy. Growth inhibition-based area under the curve (GI-AUC) and cell growth rates were quantified and integrated with the clinical cancer stage to generate the CODRP index. Compared with single-parameter models, the CODRP showed improved apparent predictive performance for pathological response prediction in this feasibility cohort (sensitivity, 87.5%; specificity, 100%). Recurrence-free survival was significantly higher in the CODRP-classified radiation-sensitive group (71.43%) than in the radiation-resistant group (10%) (p = 0.0103). These findings support the feasibility of applying CODRP to radiotherapy response and recurrence risk prediction in esophageal squamous cell carcinoma.",
-      "journal": "iScience",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Central R&D Center, Medical & Bio Decision (MBD) Co., Ltd, Suwon, Republic of Korea.",
-        "Department of Radiation Oncology, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Republic of Korea.",
-        "Graduate School of New Drug Discovery and Development, Chungnam National University, Daejeon, Republic of Korea.",
-        "Department of Biomedical Engineering, Gachon University, Seongnam, Republic of Korea."
-      ],
-      "doi": "10.1016/j.isci.2026.117100",
-      "date": "2026-08-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42620574/"
     },
     {
       "pmid": "42600555",
@@ -501,6 +520,98 @@
   ],
   "signals": [
     {
+      "id": "pubmed-42622749",
+      "date": "2026-08-20",
+      "title": "Cloud-based ligand-guided virtual screening with deep-learning-enhanced docking identifies a micromolar CXCR4 antagonist.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42622749/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular diversity，PMID 为 42622749。",
+      "report": "We report a cloud-executed, ligand-guided virtual screening workflow for practical and rapid experimental testing of CXCR4 antagonists. Using the Rush platform, an Enamine purchasable library (274,092 compounds) was standardized and pre-filtered to remove assa...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42622720",
+      "date": "2026-08-20",
+      "title": "Endothelial cell heterogeneity drives angiogenesis in endometriosis: mechanisms and emerging organoid-based models.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42622720/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Apoptosis : an international journal on programmed cell death，PMID 为 42622720。",
+      "report": "Endometriosis (EMs) is characterized by the establishment and persistence of ectopic lesions, a process fundamentally dependent on aberrant angiogenesis. Endothelial cells (ECs) play a central role in this process; however, accumulating evidence indicates that...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42622717",
+      "date": "2026-08-20",
+      "title": "Establishment of a ZFP64::NCOA3 fusion-positive spindle cell/sclerosing rhabdomyosarcoma organoid model and evaluation of fusion-gene dependency.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42622717/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Human cell，PMID 为 42622717。",
+      "report": "Spindle cell/sclerosing rhabdomyosarcoma (SRMS) comprises a heterogeneous group of tumors characterized by distinct molecular alterations and clinical behaviors. Among them, ZFP64::NCOA3 fusion-positive SRMS represents an extremely rare subtype, and its biolog...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42622520",
       "date": "2026-08-20",
       "title": "Infant Embryonal CNS Tumors: Molecular Insights and Treatment Considerations for Contemporary Pediatric Neuro-Oncology.",
@@ -532,6 +643,36 @@
       "fact": "PubMed 记录显示该文献收录于 Pediatric blood & cancer，PMID 为 42622520。",
       "report": "Embryonal tumors comprise the majority of malignant central nervous system (CNS) neoplasms diagnosed in children under 3 years of age. Compared with their counterparts in older children, these tumors exhibit distinct molecular biology and a more aggressive cli...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42623604",
+      "date": "2026-08-19",
+      "title": "Selective Macrocyclic WEE1 Kinase Inhibitors with Strong Efficacy against Patient-Derived Colorectal Cancer Organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42623604/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of medicinal chemistry，PMID 为 42623604。",
+      "report": "Macrocyclization can enhance the selectivity of acyclic compounds toward structurally similar biological targets such as kinases. WEE1 regulates cellular homeostasis and is a promising target in oncology. The clinical candidate AZD1775 (1) failed to progress p...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -872,99 +1013,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42621400",
-      "date": "2026-08-12",
-      "title": "Experimental models of osteoarthritis: Advances, limitations and rational selection for translational research.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42621400/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of orthopaedic translation，PMID 为 42621400。",
-      "report": "Osteoarthritis (OA) is a complex degenerative joint disease driven by mechanical overload, inflammation, metabolic disorders, and aging. Despite substantial advances in basic and translational research, no disease-modifying OA drugs (DMOADs) have been approved...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42621171",
-      "date": "2026-08-11",
-      "title": "The application and progress of AI-based image analysis in tumor organoid research.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42621171/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42621171。",
-      "report": "The development of preclinical models that recapitulate the physiological and pathological features of human tumors remains a central challenge in cancer research. Advances in cell biology have enabled the generation of three-dimensional tumor organoids, which...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42620574",
-      "date": "2026-08-10",
-      "title": "Patient-derived organoids support radiotherapy response and recurrence risk prediction in esophageal squamous cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42620574/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42620574。",
-      "report": "Predicting individual responses to radiotherapy remains a major challenge in esophageal cancer. This study evaluated an cancer organoid-based diagnosis and reactivity prediction (CODRP) approach to estimate pathological response and recurrence risk after neoad...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42600555",
       "date": "2026-08-08",
       "title": "Sparse integrative dictionary learning resolves conserved drug-response states in multiple myeloma (MM).",
@@ -992,36 +1040,6 @@
       "fact": "PubMed 记录显示该文献收录于 Cancer genetics，PMID 为 42600555。",
       "report": "Multiple myeloma (MM) is a severe plasma-cell malignancy that continues to cause substantial morbidity and mortality despite major therapeutic advances. Although current therapies target distinct molecular processes, many patients eventually relapse, raising t...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42620978",
-      "date": "2026-08-05",
-      "title": "Generation of alveolar organoids from human induced pluripotent stem cells using a stirred-tank bioreactor.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42620978/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42620978。",
-      "report": "Organoids are increasingly establishing themselves as a valuable, patient- centered alternative to preclinical animal models as they are highly complex models for organ development studies and, in particular, robust disease models for mechanistic investigation...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
