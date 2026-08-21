@@ -37528,15 +37528,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-illumina-official-550362664ad4",
+      "id": "evidence-company-illumina-official-5303d3fd6d28",
       "signalId": null,
       "companyIds": [
         "illumina"
       ],
-      "publishedAt": "2026-08-15",
-      "snapshotDate": "2026-08-15",
+      "publishedAt": "2026-08-21",
+      "snapshotDate": "2026-08-21",
       "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Illumina — Official Website",
@@ -37552,7 +37552,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 550362664ad4473a49e9aa7145f10da74815d995691879c0cc3ea1fc9e3ea418.",
+      "fact": "The official page was captured with normalized-content hash 5303d3fd6d286162f1e82d62bce46fa6f8b7b0705c3a6f9b9b7152787788364e.",
       "report": "公司官方页面表述：Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
       "reportOriginal": "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
       "reportCn": "Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
@@ -37565,8 +37565,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "550362664ad4473a49e9aa7145f10da74815d995691879c0cc3ea1fc9e3ea418",
-      "changeType": "unchanged",
+      "contentHash": "5303d3fd6d286162f1e82d62bce46fa6f8b7b0705c3a6f9b9b7152787788364e",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
@@ -37932,15 +37932,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-ionis-official-f4884fa3196d",
+      "id": "evidence-company-ionis-official-0938a1cbb82f",
       "signalId": null,
       "companyIds": [
         "ionis"
       ],
-      "publishedAt": "2026-08-19",
-      "snapshotDate": "2026-08-19",
+      "publishedAt": "2026-08-21",
+      "snapshotDate": "2026-08-21",
       "title": "Innovating to Change the Course of Human Health | IONIS",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Ionis Pharmaceuticals — Official Website",
@@ -37956,7 +37956,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash f4884fa3196d89b6157bc3e7f66a2a5a6d92878f6c5739c9ea50b947e1c1b4f7.",
+      "fact": "The official page was captured with normalized-content hash 0938a1cbb82f59673cba2d95047d2354aaca4e4929c0df2d887bbc70b1f814fc.",
       "report": "公司官方页面表述：探索我们如何通过突破性创新为生活在严重疾病中的人们开启更美好的未来。了解我们的使命。",
       "reportOriginal": "Discover how we are enabling better futures for people living with serious disease through groundbreaking innovations. Learn about our mission here.",
       "reportCn": "探索我们如何通过突破性创新为生活在严重疾病中的人们开启更美好的未来。了解我们的使命。",
@@ -37969,8 +37969,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "f4884fa3196d89b6157bc3e7f66a2a5a6d92878f6c5739c9ea50b947e1c1b4f7",
-      "changeType": "unchanged",
+      "contentHash": "0938a1cbb82f59673cba2d95047d2354aaca4e4929c0df2d887bbc70b1f814fc",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
@@ -38382,7 +38382,7 @@
       "publishedAt": "2026-08-20",
       "snapshotDate": "2026-08-20",
       "title": "Pioneering mRNA technology - Moderna",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Moderna — Official Website",
@@ -38412,7 +38412,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "b5666c799ba1be1d19c4c85fcb109d05fd23d2b7343be637017c75ad4b7039d2",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Moderna's mission is to deliver the greatest possible impact to people through mRNA medicines.",
@@ -38650,15 +38650,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-nurix-official-a825c3bbd479",
+      "id": "evidence-company-nurix-official-ea44f706cf69",
       "signalId": null,
       "companyIds": [
         "nurix"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-08-21",
+      "snapshotDate": "2026-08-21",
       "title": "Nurix | Medicines to Outmatch Disease",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Nurix Therapeutics — Official Website",
@@ -38674,7 +38674,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash a825c3bbd479e11b2ed6162e44c0156df4d29eb916df139d0cb594f410e66970.",
+      "fact": "The official page was captured with normalized-content hash ea44f706cf697cb2f6b0dbfd3d4be1eb9b11f7e381b4734218cc741775c0c609.",
       "report": "公司官方页面表述：探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。",
       "reportOriginal": "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
       "reportCn": "探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。",
@@ -38687,14 +38687,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "a825c3bbd479e11b2ed6162e44c0156df4d29eb916df139d0cb594f410e66970",
-      "changeType": "unchanged",
+      "contentHash": "ea44f706cf697cb2f6b0dbfd3d4be1eb9b11f7e381b4734218cc741775c0c609",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
-        "Nurix Therapeutics Announces HSR Clearance of Global Collaboration with Roche to Co-Develop and Co-Commercialize Potential Best-in-Class BTK Degrader Bexobrutideg Across Malignant Hematology, Immunology and Neurology",
         "Nurix is writing medicine’s next chapter using targeted protein degradation as a new script to outmatch disease.",
-        "Our degraders are designed to eliminate disease-causing proteins by harnessing the cell’s natural protein degradation machinery."
+        "Our degraders are designed to eliminate disease-causing proteins by harnessing the cell’s natural protein degradation machinery.",
+        "Nurix Therapeutics Announces First Patient Enrolled in Registrational Phase 3 DAYBreak CLL-306 Trial of Bexobrutideg in Relapsed/Refractory Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma"
       ],
       "businessExcerpts": [
         "We are translating the science of degradation into clinical progress, advancing a multi-modal pipeline that targets a broad range of diseases in oncology, immunology, and neurology."
@@ -38823,15 +38823,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-nykode-therapeutics-official-44ac0c389f48",
+      "id": "evidence-company-nykode-therapeutics-official-614221bbbc45",
       "signalId": null,
       "companyIds": [
         "nykode-therapeutics"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-08-21",
+      "snapshotDate": "2026-08-21",
       "title": "Home - Nykode",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Nykode Therapeutics — Official Website",
@@ -38847,7 +38847,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 44ac0c389f480e700fbecbf590be26e172dacbb02666c96aa36d5659a5473db3.",
+      "fact": "The official page was captured with normalized-content hash 614221bbbc452963a1cb371946f175181720a3781cc40920cea89c3ac14f45e3.",
       "report": "公司官方页面表述：Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
       "reportOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
       "reportCn": "Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
@@ -38860,9 +38860,9 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "44ac0c389f480e700fbecbf590be26e172dacbb02666c96aa36d5659a5473db3",
-      "changeType": "unchanged",
-      "lastCheckStatus": "failed",
+      "contentHash": "614221bbbc452963a1cb371946f175181720a3781cc40920cea89c3ac14f45e3",
+      "changeType": "updated",
+      "lastCheckStatus": "success",
       "excerpts": [
         "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
         "Nykode Therapeutics Presents Comprehensive Preclinical Data, Optimized Manufacturing, and ...",
@@ -38946,7 +38946,7 @@
       "publishedAt": "2026-08-20",
       "snapshotDate": "2026-08-20",
       "title": "Welcome to Oxford Nanopore Technologies",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Oxford Nanopore Technologies — Official Website",
@@ -38976,7 +38976,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "4d4c43b52b581b796b2d9726cf43500b54addd249597e6cc57c6895155ea12ec",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
@@ -39485,7 +39485,7 @@
       "publishedAt": "2026-08-19",
       "snapshotDate": "2026-08-19",
       "title": "晶泰科技 | 人工智能 × 机器人技术平台赋能行业创新",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "XtalPi — Official Website",
@@ -39511,8 +39511,8 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "e6a34c89fcb29b4ab4c7bcf5e7acfbacafb635eee64ea4c5b891664d6fb2ceb4",
-      "changeType": "updated",
-      "lastCheckStatus": "failed",
+      "changeType": "unchanged",
+      "lastCheckStatus": "success",
       "excerpts": [
         "XtalPi Science Agentic AI Genius Agents 智能中枢",
         "XtalPi Science Agentic 智能 Genius Agents 智能中枢",
