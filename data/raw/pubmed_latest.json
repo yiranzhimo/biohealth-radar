@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-21T01:59:52.477032+00:00",
+  "capturedAt": "2026-08-21T07:10:07.948593+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,166 +14,145 @@
     "end": "2026-08-21"
   },
   "pmids": [
-    "42623604",
-    "42622749",
-    "42622720",
-    "42622717",
-    "42622079",
-    "42621525",
+    "42624449",
+    "42624387",
+    "42624292",
+    "42624107",
+    "42624102",
+    "42623921",
     "42600555",
     "42580899",
     "42559559",
     "42509463",
     "42498177",
     "42497867",
+    "42624264",
     "42619129",
     "42619090",
     "42616438",
     "42611249",
     "42606177",
-    "42605681",
+    "42624248",
+    "42624191",
     "42622520",
     "42622361",
     "42621358",
-    "42620137",
-    "42619413",
-    "42618642"
+    "42620137"
   ],
   "records": [
     {
-      "pmid": "42623604",
-      "title": "Selective Macrocyclic WEE1 Kinase Inhibitors with Strong Efficacy against Patient-Derived Colorectal Cancer Organoids.",
-      "abstract": "Macrocyclization can enhance the selectivity of acyclic compounds toward structurally similar biological targets such as kinases. WEE1 regulates cellular homeostasis and is a promising target in oncology. The clinical candidate AZD1775 (1) failed to progress past Phase II trials because of patient tolerability issues, likely due to off-target inhibition of polo-like kinase 1 (PLK1). Herein, a computer-aided drug design approach was conducted to develop a macrocycle based on the 1-WEE1 X-ray cocrystal structure. Significantly enhanced WEE1 inhibitory selectivity over PLK1 was determined for leading macrocycle 2, which also demonstrated broader kinome-wide selectivity. Patient-derived organoids from colorectal cancer (CRC) peritoneal and liver metastases, treated with 2, demonstrated comparably strong or enhanced anticancer efficacy compared to that of 1. Against patient-matched normal colon vs primary CRC organoids, 2 potently and selectively treated CRC, as well as enhanced DNA damage compared to 1. Finally, the X-ray cocrystal structure of 2 bound to WEE1 validated its computationally predicted bioactive binding mode.",
-      "journal": "Journal of medicinal chemistry",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Monash Institute of Pharmaceutical Sciences, Monash University, 381 Royal Parade, Parkville, Victoria3052, Australia.",
-        "Precision Cancer Medicine Theme, South Australian Health and Medical Research Institute, Adelaide, South Australia5000, Australia.",
-        "Institute of Pharmaceutical Chemistry, Goethe University, Max-von-Laue-Str. 9, 60438Frankfurt am Main, Germany.",
-        "Structural Genomics Consortium (SGC), Buchmann Institute for Life Sciences, Max-von-Laue-Str. 15, 60438Frankfurt am Main, Germany.",
-        "Adelaide Medical School, Adelaide University, Adelaide, South Australia5000, Australia.",
-        "School of Chemistry, University of Melbourne, Parkville, Victoria3010, Australia.",
-        "German Translational Cancer Network (DKTK) Site Frankfurt Mainz, 60590Heidelberg, Germany.",
-        "Colonoscopy Clinic, Spring Hill, Queensland4000, Australia.",
-        "Department of Medicine, Columbia University Medical Center, New YorkNew York10032, United States.",
-        "Manas AI , New YorkNew York10011, United States."
-      ],
-      "doi": "10.1021/acs.jmedchem.6c00018",
-      "date": "2026-08-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42623604/"
-    },
-    {
-      "pmid": "42622749",
-      "title": "Cloud-based ligand-guided virtual screening with deep-learning-enhanced docking identifies a micromolar CXCR4 antagonist.",
-      "abstract": "We report a cloud-executed, ligand-guided virtual screening workflow for practical and rapid experimental testing of CXCR4 antagonists. Using the Rush platform, an Enamine purchasable library (274,092 compounds) was standardized and pre-filtered to remove assay-interfering substructures, yielding 264,953 molecules for screening. A set of 18,378 compounds was identified through AMD070-based similarity filtering (Tanimoto ≥ 0.2, ECFP4). These candidates were then docked into the IT1t-bound CXCR4 structure using Gnina. A CNN pose-score cutoff (> 0.8) was applied as a pose-confidence filter, and the retained compounds were ranked by docking affinity (kcal/mol). The top 50 were triaged by pharmacokinetic-focused in silico assessment (SwissADME) to prioritize lead-like profiles and exclude structural alerts, resulting in 9 purchasable candidates for biological testing. Flow cytometry-based 12G5 competitive binding in Jurkat cells identified CUEN-837 as the initial hit (IC50 = 8.50 μM, 52.31% inhibition at 10 μM). CUEN-837 also inhibited CXCL12-driven chemotaxis (32.8% inhibition at 10 μM). It reduced the viability of three colorectal cancer organoid strains in a dose-dependent manner (IC50 7.97-11.16 µM), providing supportive phenotypic evidence of activity in patient-derived organoid models. Overall, this end-to-end workflow efficiently compresses large libraries into a confirmed micromolar CXCR4 hit while lowering computational and infrastructure barriers for early-stage discovery.",
-      "journal": "Molecular diversity",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Center of Excellence in Natural Products for Ageing and Chronic Diseases, Chulalongkorn University, Bangkok, 10330, Thailand.",
-        "Department of Pharmacology and Physiology, Faculty of Pharmaceutical Sciences, Chulalongkorn University, Bangkok, 10330, Thailand.",
-        "QDX Co. Ltd., Singapore, 089109, Singapore.",
-        "National Engineering Center for Biochip at Shanghai & Shanghai Biochip Co., Ltd., Shanghai, 201203, China.",
-        "Department of General Surgery, Zhujiang Hospital, Southern Medical University, Guangzhou, 510280, China.",
-        "Department of Food and Pharmaceutical Chemistry, Faculty of Pharmaceutical Sciences, Chulalongkorn University, Bangkok, 10330, Thailand.",
-        "Key Laboratory of Carcinogenesis and Translational Research, NMPA Key Laboratory for Research and Evaluation of Radiopharmaceuticals (National Medical Products Administration), Department of Nuclear Medicine, Peking University Cancer Hospital & Institute, Beijing, 100142, China.",
-        "Molecular Probes for Imaging Research Network, Faculty of Pharmaceutical Sciences, Chulalongkorn University, Bangkok, 10330, Thailand.",
-        "Center of Excellence in Natural Products for Ageing and Chronic Diseases, Chulalongkorn University, Bangkok, 10330, Thailand. pornchai.r@chula.ac.th.",
-        "Department of Food and Pharmaceutical Chemistry, Faculty of Pharmaceutical Sciences, Chulalongkorn University, Bangkok, 10330, Thailand. pornchai.r@chula.ac.th.",
-        "Molecular Probes for Imaging Research Network, Faculty of Pharmaceutical Sciences, Chulalongkorn University, Bangkok, 10330, Thailand. pornchai.r@chula.ac.th."
-      ],
-      "doi": "10.1007/s11030-026-11695-z",
-      "date": "2026-08-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42622749/"
-    },
-    {
-      "pmid": "42622720",
-      "title": "Endothelial cell heterogeneity drives angiogenesis in endometriosis: mechanisms and emerging organoid-based models.",
-      "abstract": "Endometriosis (EMs) is characterized by the establishment and persistence of ectopic lesions, a process fundamentally dependent on aberrant angiogenesis. Endothelial cells (ECs) play a central role in this process; however, accumulating evidence indicates that ECs are not a homogeneous population but comprise multiple subtypes with distinct molecular signatures and functional states, including quiescent, proliferative, hormone-responsive and inflammation-associated phenotypes. The initiation and maintenance of pathological angiogenesis in EMs are coordinately regulated by hormonal signaling, inflammatory responses and immune modulation, which collectively determine vascular remodeling and lesion sustainability. Despite significant advances, mechanistic insights into EMs-associated angiogenesis have been limited by the lack of physiologically relevant experimental models. Conventional two-dimensional culture systems fail to recapitulate the complex three-dimensional cellular interactions, whereas animal models are constrained by interspecies differences. Recent progress in stem cell biology, extracellular matrix (ECM) engineering and microfluidic technologies has enabled the development of organoid-based platforms that more faithfully reconstruct the EMs microenvironment. When integrated with functional biomaterials possessing tunable mechanical properties and bioactivity, these systems allow precise modulation of endothelial behaviors, including proliferation, migration and lumen formation, through controlled delivery of angiogenic cues. In this Review, we summarize recent advances in biomaterial-supported organoid systems for dissecting endothelial cell heterogeneity and its contribution to aberrant angiogenesis in EMs. We further discuss their emerging roles in mechanistic studies and the development of targeted therapeutic strategies.",
-      "journal": "Apoptosis : an international journal on programmed cell death",
+      "pmid": "42624449",
+      "title": "Therapeutic targeting of G protein-coupled receptors in central nervous system disorders: from novel mechanisms to precision pharmacology.",
+      "abstract": "G protein-coupled receptors (GPCRs) are major therapeutic targets for central nervous system disorders, with more than 500 approved drugs targeting this receptor family worldwide. This review comprehensively examines the pathophysiological roles and therapeutic potential of GPCRs in major neurological and psychiatric disorders, including Parkinson's disease (PD), Alzheimer's disease (AD), multiple sclerosis (MS), and depression. We highlight how dysregulated signaling through specific GPCRs, including dopamine and adenosine A2A receptors in PD, the mGlu5 receptor and muscarinic acetylcholine receptors in AD, S1P and GPR17 receptors in MS, and 5-HT1A and GPR39 receptors in depression, contributes to disease pathogenesis. Beyond canonical monomeric activation, this review emphasizes emerging concepts in GPCR heterodimerization (e.g., the 5-HT1A/orexin 1 receptor complex activating Gαs pathways), biased signaling, and allosteric modulation, which provide opportunities to develop therapeutics with greater specificity and fewer adverse effects. We also evaluate the therapeutic potential of targeting these mechanisms using specific pharmacological agents, including synthetic compounds and structurally defined natural product-derived molecules. The chemical structures of key natural products-including paeoniflorin, rosmarinic acid, and ergothioneine-are presented, with their GPCR interactions and critical pharmacophores highlighted. Finally, we discuss future directions involving advanced technologies, including cryo-electron microscopy, induced pluripotent stem cell-derived brain organoids, structural biology, and artificial intelligence, to improve understanding of complex GPCR signaling. The development of biased ligands, stage-specific interventions, and GPCR-based biomarkers represents a critical step toward personalized and more effective treatments for neurological disorders.",
+      "journal": "European journal of pharmacology",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Department of Medical Cell Biology and Genetics, School of Basic Medical Sciences, Southwest Medical University, Luzhou, 646000, Sichuan, China.",
-        "Department of Anesthesiology, The Affiliated Hospital, Southwest Medical University, Luzhou, 646000, Sichuan, China.",
-        "Key Laboratory of Medical Electrophysiology, Ministry of Education and Medical Electrophysiological Key Laboratory of Sichuan Province, (Collaborative Innovation Center for Prevention of Cardiovascular Diseases), Institute of Cardiovascular Research, Southwest Medical University, Luzhou, 646000, Sichuan, China.",
-        "Department of Neurosurgery, The Affiliated Traditional Chinese Medicine Hospital, Southwest Medical University, Luzhou, 646000, Sichuan, China.",
-        "Public Center of Experimental Technology, Luzhou Municipal Key Laboratory of Thrombosis and Vascular Biology, Laboratory for Cardiovascular Pharmacology, Department of Pharmacology, School of Pharmacy, Southwest Medical University, Luzhou, 646000, China. lr2008@swmu.edu.cn.",
-        "Department of Medical Cell Biology and Genetics, School of Basic Medical Sciences, Basic Medicine Research Innovation Center for Cardiometabolic Diseases, Ministry of Education, Key Laboratory of Medical Electrophysiology, Ministry of Education, Institute of Cardiovascular Research, Southwest Medical University, Luzhou, 646000, Sichuan, China. jingyany@swmu.edu.cn."
+        "Center for Basic Medical Research, Medical School of Nantong University, Co-Innovation Center of Neuroregeneration, Nantong, Jiangsu, 226001, China.",
+        "Center for Basic Medical Research, Medical School of Nantong University, Co-Innovation Center of Neuroregeneration, Nantong, Jiangsu, 226001, China. Electronic address: ruthwei@ntu.edu.cn."
       ],
-      "doi": "10.1007/s10495-026-02427-7",
+      "doi": "10.1016/j.ejphar.2026.179275",
       "date": "2026-08-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42622720/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624449/"
     },
     {
-      "pmid": "42622717",
-      "title": "Establishment of a ZFP64::NCOA3 fusion-positive spindle cell/sclerosing rhabdomyosarcoma organoid model and evaluation of fusion-gene dependency.",
-      "abstract": "Spindle cell/sclerosing rhabdomyosarcoma (SRMS) comprises a heterogeneous group of tumors characterized by distinct molecular alterations and clinical behaviors. Among them, ZFP64::NCOA3 fusion-positive SRMS represents an extremely rare subtype, and its biological characteristics remain poorly understood because of the lack of representative experimental models. In this study, we established a patient-derived organoid (PDO) line, designated OICI-RMS-1275, together with organoid-derived xenograft (ODX) models from a previously reported case of ZFP64::NCOA3 fusion-positive SRMS using a modified air-liquid interface organoid culture method. The established organoids exhibited stable long-term propagation and retained tumorigenic capacity following serial transplantation into NOD-scid IL2Rgnull mice. Histological and immunohistochemical analyses demonstrated preservation of the characteristic spindle cell morphology and diffuse expression of MyoD1 and PAX7 observed in the original tumor. Polymerase chain reaction and Sanger sequencing confirmed retention of the ZFP64::NCOA3 fusion transcript and fusion breakpoint in the organoids and ODXs. Lentiviral-mediated knockdown of the fusion gene significantly suppressed organoid proliferation, indicating dependency on ZFP64::NCOA3 for tumor growth. Transcriptomic analyses revealed preservation of major transcriptional features between the original tumor and ODXs, including myogenic lineage-associated gene expression programs. Fusion-gene suppression decreased expression of MYOD1 and DLK1 while increasing PPARG expression, suggesting involvement of the fusion in lineage-associated transcriptional regulation. Under adipogenic induction conditions, SRMS organoids exhibited lipid accumulation detected by Oil Red O staining regardless of fusion-gene suppression status, indicating preserved adipogenic differentiation potential. These findings establish the first PDO and ODX models of ZFP64::NCOA3 fusion-positive SRMS and demonstrate fusion-gene dependency in this rare molecular subtype. Our results further suggest that despite strong myogenic transcriptional programs, fusion-positive SRMS retains adipogenic differentiation capacity. These models provide a valuable platform for investigating disease biology and developing novel therapeutic strategies for rare fusion-positive rhabdomyosarcomas.",
-      "journal": "Human cell",
+      "pmid": "42624387",
+      "title": "Intrauterine benzophenone-3 exposure alters mammary gland architecture without impairing lactational performance.",
+      "abstract": "Recently, we have shown that exposure to the ultraviolet filter benzophenone-3 (BP3) during secretory differentiation disrupts prolactin signaling pathway and milk protein expression in murine mammary organoids. The present study aimed to evaluate whether intrauterine exposure to BP3 modifies the functional differentiation of the lactating mammary gland in F1 female mice. To this end, pregnant mice (F0) were dermally exposed to BP3 (0.15 or 50mg/kg/day) or the control vehicle (sesame oil), from gestation days 8.5 to 18.5. After delivery, F0 dams nursed their pups, and F1 female offspring were subsequently bred at 8 weeks of age. Lactation day (LD) 1 was defined as the day following the birth of F2 litters and lactating mammary glands of F1 females were examined on LD10. BP3 exposure did not affect the body weight of the F1 females or that of their F2 litters. Intrauterine exposure to BP3 significantly altered alveolar size and myoepithelial cell density at mid-lactation. However, the expression of milk proteins and the mRNA levels of Stat5a and Elf5 were similar to those of control animals. These findings reveal a subclinical mammary phenotype in which intrauterine BP3 exposure alters alveolar organization and the myoepithelial compartment while preserving lactational output, consistent with a reduction in mammary functional reserve without overt impairment of milk production or offspring growth.",
+      "journal": "Reproductive toxicology (Elmsford, N.Y.)",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Musculoskeletal Oncology Service, Osaka International Cancer Institute, 3-1-69 Otemae, Chuo-ku, Osaka, 541-8567, Japan.",
-        "Department of Orthopaedic Surgery, Osaka University Graduate School of Medicine, 2-2 Yamadaoka, Suita, Osaka, 565-0871, Japan.",
-        "Next-Generation Precision Medicine Research Center, Osaka International Cancer Institute, 3-1-69 Otemae, Chuo-ku, Osaka, 541-8567, Japan.",
-        "Molecular Biology Laboratory, Research Institute, Nozaki Tokushukai Hospital, Tanigawa 2-10-50, Daito, Osaka, 574-0074, Japan.",
-        "Laboratory of Genomic Pathology, Osaka International Cancer Institute, 3-1-69 Otemae, Chuo-ku, Osaka, 541-8567, Japan.",
-        "Department of Diagnostic Pathology and Cytology, Osaka International Cancer Institute, 3-1-69 Otemae, Chuo-ku, Osaka, 541-8567, Japan.",
-        "Department of Musculoskeletal Oncology Service, Osaka International Cancer Institute, 3-1-69 Otemae, Chuo-ku, Osaka, 541-8567, Japan. evolutionhhh49@yahoo.co.jp.",
-        "Department of Orthopaedic Surgery, Osaka University Graduate School of Medicine, 2-2 Yamadaoka, Suita, Osaka, 565-0871, Japan. evolutionhhh49@yahoo.co.jp."
+        "Instituto de Salud y Ambiente del Litoral (Universidad Nacional del Litoral - Consejo Nacional de Investigaciones Científicas y Técnicas); Cátedra de Patología Humana, Facultad de Bioquímica y Ciencias Biológicas, Universidad Nacional del Litoral, Santa Fe, Argentina.",
+        "Instituto de Salud y Ambiente del Litoral (Universidad Nacional del Litoral - Consejo Nacional de Investigaciones Científicas y Técnicas).",
+        "Instituto de Salud y Ambiente del Litoral (Universidad Nacional del Litoral - Consejo Nacional de Investigaciones Científicas y Técnicas); Cátedra de Fisiología Humana, Facultad de Bioquímica y Ciencias Biológicas, Universidad Nacional del Litoral, Santa Fe, Argentina.",
+        "Instituto de Salud y Ambiente del Litoral (Universidad Nacional del Litoral - Consejo Nacional de Investigaciones Científicas y Técnicas); Cátedra de Patología Humana, Facultad de Bioquímica y Ciencias Biológicas, Universidad Nacional del Litoral, Santa Fe, Argentina. Electronic address: lkass@fbcb.unl.edu.ar."
       ],
-      "doi": "10.1007/s13577-026-01441-w",
+      "doi": "10.1016/j.reprotox.2026.109333",
       "date": "2026-08-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42622717/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624387/"
     },
     {
-      "pmid": "42622079",
-      "title": "PBPK Models for Fetal Drug Exposure: A Critical Assessment of Current Approaches and Regulatory Readiness.",
-      "abstract": "Physiologically based pharmacokinetic (PBPK) modeling has emerged as a critical tool for predicting fetal drug exposure during pregnancy, accounting for the complex interplay of maternal physiological changes and placental transfer mechanisms. This review summarizes the current state of PBPK modeling in maternal-fetal pharmacology, discussing various modeling approaches, including compartmental structures and mathematical formulations for placental transfer, as well as approaches to parameterize placental drug transfer in humans. Furthermore, a regulatory perspective on the use of maternal-fetal PBPK models in submissions to the MHRA is provided. Despite advancements, significant gaps remain in understanding the variability of placental drug transfer across gestational stages and the implications of transporter activity. Future research should focus on generating robust clinical data and integrating innovative technologies, such as organ-on-a-chip systems, to enhance model accuracy. Additionally, regulatory acceptance of PBPK models will depend on the establishment of comprehensive validation frameworks. By fostering collaboration between researchers, clinicians, and regulatory bodies, PBPK modeling can advance toward safer therapeutic options for pregnant women and their developing fetuses, ultimately improving maternal-fetal health outcomes.",
-      "journal": "Journal of clinical pharmacology",
+      "pmid": "42624292",
+      "title": "IL1A promotes inflammation while safeguarding epithelial basal cell identity and barrier function.",
+      "abstract": "The ability of barrier epithelia to sense environmental perturbations and initiate local inflammation is essential for progenitor-mediated epithelial repair and restoration of tissue integrity. To characterize human esophageal epithelial progenitor cell heterogeneity and identify molecular mechanisms regulating epithelial regeneration in eosinophilic esophagitis (EoE). Single-cell RNA sequencing of the adult human esophagus was integrated with spatial characterization of epithelial cell populations and functional analyses using primary human esophageal organoids and air-liquid interface cultures. Using NGFR and P73, we defined a layer of human basal progenitor cells spanning both papillary and interpapillary regions of the human esophageal epithelium. Proliferating basal progenitor cells were enriched within the papillary epithelium, and a subset of papillary basal progenitor cells displayed active YAP signaling, revealing spatially organized heterogeneity within the progenitor compartment. NGFR-positive basal cells exhibited enhanced organoid-forming capacity and suppressed NOTCH signaling to maintain basal identity. During epithelial regeneration, IL1A was induced in primary human organoids, and an intraepithelial apical-to-basal IL1A signaling axis was identified in patients with EoE. IL1A activated NF-κB-dependent transcription, promoted basal progenitor expansion, and enhanced epithelial barrier function. Although IL13 selectively rewired IL1A-dependent transcriptional and regenerative programs, IL1A signaling remained active under inflammatory conditions. These findings demonstrate that IL1A coordinates epithelial inflammatory and regenerative responses in the human esophagus. They further show that the outcome of IL1A signaling is determined by the surrounding inflammatory milieu, providing a framework for understanding epithelial remodeling in eosinophilic esophagitis.",
+      "journal": "The Journal of allergy and clinical immunology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Cell and Molecular Biology, Karolinska Institutet, Stockholm, Sweden.",
+        "Department of Medicine Huddinge, Karolinska Institutet, Stockholm, Sweden; Division of Gastroenterology, Department of Gastroenterology, Dermatovenereology and Rheumatology, Karolinska University Hospital, Stockholm, Sweden.",
+        "Department of Clinical Science Intervention and Technology, Karolinska Institutet, Stockholm Sweden; Department of Upper Abdominal Diseases, Karolinska University Hospital, Stockholm, Sweden.",
+        "Department of Cell and Molecular Biology, Karolinska Institutet, Stockholm, Sweden. Electronic address: maria.genander@ki.se."
+      ],
+      "doi": "10.1016/j.jaci.2026.08.003",
+      "date": "2026-08-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624292/"
+    },
+    {
+      "pmid": "42624107",
+      "title": "Morphogen-guided neocortical organoids with anteroposterior areal identity.",
+      "abstract": "The human neocortex exhibits characteristic regional patterning (arealization) critical for higher-order cognitive function. Disrupted arealization is implicated in neurodevelopmental disorders (NDDs), but current neocortical organoid models largely fail to recapitulate this patterning, limiting mechanistic understanding. We establish a straightforward method for generating arealized organoids through short-term early exposure to anterior or posterior morphogens. These treatments created distinct anteroposterior (AP) signaling centers, supporting long-lasting polarization validated by spatial and single-cell RNA sequencing, which revealed area-specific molecular signatures matching the prenatal human cortex. To demonstrate utility, we modeled fragile X syndrome (FXS) in organoids with distinct AP identities. FXS organoids showed disrupted expression gradients along the AP axis, consistent with alterations in autism spectrum disorder, demonstrating how regional patterning defects may contribute to NDD pathology. Together, our study provides a robust platform for generating neocortical organoids with AP molecular signatures and highlights the importance of modeling NDDs using experimental platforms with neuroanatomic specificity.",
+      "journal": "Cell stem cell",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Anatomy and Neurobiology, School of Medicine, University of California, Irvine, Irvine, CA 92697, USA.",
+        "Department of Mathematics, School of Physical Sciences, University of California, Irvine, Irvine, CA 92697, USA; NSF-Simons Center for Multiscale Cell Fate Research, University of California, Irvine, Irvine, CA 92697, USA.",
+        "Department of Psychiatry, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA.",
+        "Department of Mathematics, School of Physical Sciences, University of California, Irvine, Irvine, CA 92697, USA; NSF-Simons Center for Multiscale Cell Fate Research, University of California, Irvine, Irvine, CA 92697, USA; Department of Systems Biology, School of Biological Sciences, University of California, Irvine, Irvine, CA 92697, USA.",
+        "Department of Anatomy and Neurobiology, School of Medicine, University of California, Irvine, Irvine, CA 92697, USA; Sue & Bill Gross Stem Cell Research Center, School of Medicine, University of California, Irvine, Irvine, CA 92697, USA. Electronic address: momokow@uci.edu."
+      ],
+      "doi": "10.1016/j.stem.2026.07.014",
+      "date": "2026-08-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624107/"
+    },
+    {
+      "pmid": "42624102",
+      "title": "Brain organoids in Alzheimer disease and related tauopathies: Challenges and opportunities for translational readiness.",
+      "abstract": "A major hurdle in Alzheimer disease research is the failure of mouse models to capture complexities of the human brain that contributes to repeated clinical trial failure. Although the recent US Food and Drug Administration (FDA) Modernization Act 2.0 has enabled non-animal preclinical pathways, brain organoid models of tauopathies remain nascent compared with other disease areas. Here, we identify three challenges for their translational readiness, maturity, disease-relevant cellular complexity, and pathological accuracy, and examine current achievements and emerging solutions. We propose a ten-metric benchmarking framework and discuss the opportunities and remaining challenges for translational readiness in tauopathy modeling.",
+      "journal": "Stem cell reports",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Bayer HealthCare SAS, Lille, France.",
-        "Medicines and Healthcare products Regulatory Agency (MHRA), London, UK.",
-        "ESQlabs GmbH, Saterland, Germany.",
-        "Drug Delivery and Disposition Unit, Department of Pharmaceutical and Pharmacological Sciences, KU Leuven, Leuven, Belgium.",
-        "Department of Experimental and Clinical Pharmacology, College of Pharmacy, University of Minnesota, Minneapolis, MN, USA.",
-        "Certara UK Ltd (CPT Division), Sheffield, UK.",
-        "Department of Drug Design and Pharmacology, University of Copenhagen, Copenhagen, Denmark."
+        "Nanil Therapeutics Inc., Toronto, ON, Canada. Electronic address: anuj@naniltx.com.",
+        "Department of Environmental Health and Engineering, Johns Hopkins University, Baltimore, MD, USA; Department of Biology, University of Konstanz, Konstanz-Egg, Germany.",
+        "Department of Infectious Diseases and Microbiology, University of Pittsburgh, Pittsburgh, PA, USA.",
+        "Department of Cellular & Molecular Medicine, University of California, San Diego, La Jolla, CA, USA.",
+        "Department of Biochemistry, University of Toronto, Toronto, ON, Canada.",
+        "Institute for Technology-Inspired Regenerative Medicine, Maastricht University, Maastricht, the Netherlands.",
+        "Department of Neurochemistry, New York State Institute for Basic Research in Developmental Disabilities, Staten Island, NY, USA.",
+        "Nanil Therapeutics Inc., Toronto, ON, Canada. Electronic address: bini@naniltx.com."
       ],
-      "doi": "10.1002/jcph.70271",
-      "date": "2026-08-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42622079/"
+      "doi": "10.1016/j.stemcr.2026.103051",
+      "date": "2026-08-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624102/"
     },
     {
-      "pmid": "42621525",
-      "title": "N-Alkylated Monoterpene Indole Alkaloid Derivatives as Chemotherapy Adjuvants That Overcome P-glycoprotein-Mediated Multidrug Resistance in Cancer Cells, Spheroids and Patient-Derived Colorectal Cancer Organoids.",
-      "abstract": "Chemotherapy efficacy is often limited by multidrug resistance (MDR), largely driven by P-glycoprotein (P-gp). This study aimed to evaluate previously prepared N-alkylated dregamine and tabernaemontanine derivatives as potential adjuvants to overcome P-gp-mediated chemoresistance. Twenty-one N-alkylated derivatives (1-21) were tested for cytotoxicity and chemosensitizing activity in sensitive and doxorubicin (DOX)-resistant ovarian (A2780, A2780DOX) and breast cancer cell lines (MCF-7, MCF-7R), as well as in nonmalignant kidney epithelial cells (hRPTEC). P-gp modulation was assessed using rhodamine 123 accumulation and Pgp-Glo Assay Systems kit. The activity of the most promising compound was further evaluated in 3D monocellular and multicellular spheroids, patient-derived colorectal cancer organoids (PDOs), and peripheral blood mononuclear cells (PBMCs). Computational docking was performed to support mechanistic insights. The derivatives exhibited moderate cytotoxicity toward cancer cells and low toxicity toward hRPTEC. All compounds sensitized resistant cell lines, with the most active ones reducing DOX IC50 by >20-fold at 10 μM and >8-fold at 1 μM. For most derivatives, increased accumulation of rhodamine 123 confirmed modulation of P-gp efflux activity. N-(4-methoxybenzyl) dregamine (compound 11) showed the strongest potential, enhancing DOX sensitivity >7-fold in monocellular and >4-fold in multicellular spheroids. In combination with DOX, compound 11 also increased the sensitivity of colorectal cancer PDOs, thereby reducing their viability from 70% to 30%. No increased toxicity of DOX was observed in PBMCs. N-alkylated monoterpene-indole alkaloids, particularly compound 11, effectively overcome P-gp-mediated chemoresistance without inducing cytotoxicity in healthy cells and represent promising candidates for further in vivo evaluation.",
-      "journal": "Drug design, development and therapy",
+      "pmid": "42623921",
+      "title": "Biochemical stress markers in neurodegeneration: Insights from 3D cellular models.",
+      "abstract": "Understanding the multifaceted nature of neurodegenerative disease (NDDs) remains a significant challenge due to the complex intracellular /intercellular phenomena. This review explores the latest findings about the biochemical stress markers within the complex landscape of NDDs, with a specific focus on novel 3D cell cultures. Recent research highlights the importance of structural complexity and cellular crosstalk which lead to responses resembling those observed in the brain. However, issues such as vascularization and shear stress (which affect experimental reproducibility) remain. Here we emphasize the role of biochemical stressors in cellular interactions and communication relevant to NDDs, highlighting the emerging opportunities coming from exosomes/extracellular vesicles and noncoding RNAs as biomarkers, alongside the usefulness of brain organoids in terms of translational relevance. By bridging the gap between molecular mechanisms and organ dysfunction, 3D models emerge as essential tools for the discovery of novel theragnostic biomarkers and for the development of targeted therapeutic strategies.",
+      "journal": "Current opinion in structural biology",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "affiliations": [
-        "Department of Biochemistry and Microbiology, University of Chemistry and Technology, Prague, Czechia.",
-        "1st Department of Surgery - Department of Abdominal, Thoracic Surgery and Traumatology, General University Hospital in Prague, Prague, Czechia.",
-        "First Faculty of Medicine, Charles University, Prague, Czechia.",
-        "Department of Biotechnology, University of Chemistry and Technology, Prague, Czechia.",
-        "Molecular Biotechnology Center \"Guido Tarone\", Department of Oncology, University of Turin, Turin, Italy.",
-        "Research Institute for Medicines (iMed.ULisboa), University of Lisbon, Lisbon, Portugal.",
-        "Centro de Estudos Moçambicanos e de Etnociências (CEMEC), Universidade Pedagógica Campus de Lhanguene, Maputo, Mozambique."
+        "Departmental Faculty of Medicine, UniCamillus-Saint Camillus International University of Health Sciences, Rome, Italy.",
+        "Department of Biochemical Sciences, Sapienza University, Rome, Italy.",
+        "Laboratory of Biochemistry and Molecular Biology, Department of Movement, Human and Health Sciences, Università degli Studi di Roma \"Foro Italico\", Rome, Italy.",
+        "Department of Biochemical Sciences, Sapienza University, Rome, Italy; Center for Research in Neurobiology Daniel Bovet, Sapienza University, Rome, Italy. Electronic address: luciana.mosca@uniroma1.it."
       ],
-      "doi": "10.2147/DDDT.S615974",
-      "date": "2026-08-15",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42621525/"
+      "doi": "10.1016/j.sbi.2026.103360",
+      "date": "2026-08-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42623921/"
     },
     {
       "pmid": "42600555",
@@ -285,6 +264,26 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42497867/"
     },
     {
+      "pmid": "42624264",
+      "title": "Co-evolution-guided engineering of monensin biosynthetic monooxygenase MonCI reveals mechanistic basis for concurrent stability and catalytic enhancement.",
+      "abstract": "Improving enzyme stability without compromising catalytic activity remains a major challenge in protein engineering. Here, we present a co-evolution-guided strategy to enhance both thermostability and catalytic performance of the flavin-dependent monooxygenase MonCI, an enzyme involved in monensin biosynthesis. By combining sequence covariation analysis with structural filtering, a focused library of 15 single mutants yielded 4 variants with increased stability and activity. Combinatorial assembly generated triple, quadruple and quintuple mutants, with the best-performing quadruple variants exhibiting up to a 10 °C increase in melting temperature, a 2.3-fold increase in specific activity, and a 2.1-fold longer half-life, accompanied by enhanced turnover despite reduced substrate affinity. Crystal structures and molecular dynamics simulations reveal that stabilization arises from strengthened intramolecular networks of hydrogen bonds, salt bridges, and hydrophobic interactions, while epistatic effects limit additive improvements. This work provides mechanistic insight into how co-evolving residues modulate enzyme structure and function, presents a useful co-evolution-guided strategy for enzyme design, and advances MonCI as a promising biocatalyst for asymmetric epoxidation.",
+      "journal": "International journal of biological macromolecules",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Key Laboratory of Synthetic and Natural Functional Molecule of the Ministry of Education, College of Chemistry and Materials Science, Northwest University, Xi'an, 710127, China.",
+        "School of Pharmaceutical Sciences, Southern Medical University, Guangdong 510515, China; Zhongshan Institute for Drug Discovery, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Guangdong 528400, China.",
+        "College of Food Science and Technology, Northwest University, Xi'an, 710069, China.",
+        "Shenzhen Medical Academy of Research and Translation (SMART), Shenzhen, 518107, China.",
+        "School of Pharmaceutical Sciences, Southern Medical University, Guangdong 510515, China; Zhongshan Institute for Drug Discovery, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Guangdong 528400, China. Electronic address: lihongchun@zidd.ac.cn.",
+        "Key Laboratory of Synthetic and Natural Functional Molecule of the Ministry of Education, College of Chemistry and Materials Science, Northwest University, Xi'an, 710127, China. Electronic address: xchen@nwu.edu.cn."
+      ],
+      "doi": "10.1016/j.ijbiomac.2026.154119",
+      "date": "2026-08-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624264/"
+    },
+    {
       "pmid": "42619129",
       "title": "An Explicit Interaction-Prompted Diffusion Framework for High-Fidelity 3D Molecular Generation.",
       "abstract": "Current structure-based drug design generative models often struggle to faithfully recapitulate genuine ligand-protein binding interactions. Instead, under the coupling of implicit learning architectures and biased training data, they tend to learn spurious statistical correlations. To address this, we propose EIP-Diff (Explicit Interaction-Prompted Diffusion), an architecture featuring a novel explicit interaction-prompt embedding mechanism that is better suited for real-world target-specific drug design. This architecture replaces biased implicit learning with explicit, residue-level biological guidance, thereby promoting more fine-grained geometric fidelity and more precise interaction-aware conditioning. To fully realize the capabilities of EIP-Diff and provide a reliable basis for performance evaluation, we further constructed CrystalData set, which provides higher-fidelity and less-biased structural supervision than existing data sets. This explicit architecture markedly improves distribution consistency: even when trained on the crossdocked data set, EIP-Diff achieves the highest alignment with authentic pharmacological distributions among evaluated models. Training on CrystalData set further enhances this alignment and improves 3D geometric accuracy, while retaining strong controllability, high chemical space coverage, and near-perfect uniqueness. In addition, target-based validation on KAT6A and YTHDC1 confirmed that EIP-Diff accurately recapitulates native-like binding modes. Furthermore, in a real-world drug design task against IDO1, we successfully designed a novel lead compound with nanomolar potency (IC50 = 0.31 nM). These results demonstrate that the EIP-Diff architecture can explicitly leverage experimentally derived structural data and biologically meaningful interaction information for target-specific molecular generation, thereby enabling its effective application to real-world structure-based drug design.",
@@ -383,21 +382,48 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42606177/"
     },
     {
-      "pmid": "42605681",
-      "title": "Computational navigation of constrained multidimensional protein fitness landscapes.",
-      "abstract": "Protein engineering relies heavily on computational characterization of constrained protein fitness landscapes, in which only a limited fraction of sequence space corresponds to stable and functional biomolecules. Advances in structural biology and machine learning are progressively shifting protein design strategies from empirical optimization toward multidimensional evaluation of sequence-structure-function relationships. This review examines current computational strategies for exploring these landscapes, including sequence-derived evolutionary descriptors, structural fitness assessment, energetic evaluation, and integrated multi-parameter scoring. Recent developments in protein language models, deep-learning-based structure prediction, generative protein design, and consensus scoring approaches support large-scale exploration of biologically accessible sequence space. Negative-design constraints, including aggregation propensity, intrinsic disorder, and developability are important in prioritizing experimentally tractable protein candidates. Finally, the integration of computational prediction with iterative experimental validation is discussed as a central framework for rational protein engineering. By framing structure prediction, sequence representation learning, and generative design as complementary strategies for navigating a single constrained fitness landscape, this review highlights integrated, multidimensional scoring and negative-design filtering as the critical link between computational candidate generation and experimentally tractable protein design.",
-      "journal": "FEBS letters",
+      "pmid": "42624248",
+      "title": "Diagnostic Performance of a Multiplex Circulating Tumor DNA Assay for Lung Cancer Detection.",
+      "abstract": "Lung cancer remains the leading cause of cancer-related death worldwide, largely due to late-stage diagnosis. Although low-dose computed tomography (LDCT) screening can reduce mortality, it is limited by high false-positive rates, radiation exposure, and low adherence. Thus, there is an urgent need for precise, accessible, and non-invasive diagnostic alternatives. This study evaluated the diagnostic accuracy of a novel multiplexed digital droplet polymerase chain reaction (ddPCR) assay targeting hypermethylated ctDNA markers (HOXA9, OTX1, MCIDAS, SP9, and TFAP2B) in plasma for lung cancer detection. 249 patients referred for lung cancer diagnostics were prospectively enrolled, identifying 109 lung cancer cases and 140 cancer-free subjects. Participants were recruited and blood samples drawn before any clinical outcomes were known. Plasma was analyzed using a multiplex ddPCR assay for methylated ctDNA. Diagnostic performance was assessed through receiver operating characteristic (ROC) analysis and logistic regression models. The assay demonstrated an area under the ROC curve of 0.76. Sensitivity and specificity were 67.0% and 77.1%, respectively, at the sensitivity optimized cut-off. The assay performed better in late-stage lung cancers than early-stage cancers (73.1% vs. 51.6% sensitivity). Incorporating clinical characteristics improved the diagnostic model (P < 0.001) for advanced-stage disease. Thus, the multiplex ddPCR ctDNA assay may serve as a relevant diagnostic tool, complementing existing LDCT lung cancer screening.",
+      "journal": "The Journal of molecular diagnostics : JMD",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Oncology, Lillebaelt Hospital, University Hospital of Southern Denmark, Vejle, Denmark; Department of Regional Health Research, University of Southern Denmark, Odense, Denmark.",
+        "Department of Oncology, Lillebaelt Hospital, University Hospital of Southern Denmark, Vejle, Denmark; Department of Biochemistry and Immunology, Lillebaelt Hospital, University Hospital of Southern Denmark, Vejle, Denmark.",
+        "Department of Oncology, Lillebaelt Hospital, University Hospital of Southern Denmark, Vejle, Denmark; Department of Regional Health Research, University of Southern Denmark, Odense, Denmark; Department of Biochemistry and Immunology, Lillebaelt Hospital, University Hospital of Southern Denmark, Vejle, Denmark. Electronic address: line.nederby@rsyd.dk.",
+        "Department of Regional Health Research, University of Southern Denmark, Odense, Denmark; Department of Internal Medicine, Lillebaelt Hospital, University Hospital of Southern Denmark, Vejle, Denmark.",
+        "Department of Regional Health Research, University of Southern Denmark, Odense, Denmark; Department of Biochemistry and Immunology, Lillebaelt Hospital, University Hospital of Southern Denmark, Vejle, Denmark."
+      ],
+      "doi": "10.1016/j.jmoldx.2026.07.007",
+      "date": "2026-08-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624248/"
+    },
+    {
+      "pmid": "42624191",
+      "title": "Digital droplet PCR and liquid biopsy in acute myeloid Leukemia: bridging translational research and clinical practice.",
+      "abstract": "Acute myeloid leukemia (AML) is a genetically heterogeneous and dynamically evolving malignancy in which morphologic remission does not necessarily indicate eradication of disease. Bone marrow examination remains central to diagnosis and response assessment, yet repeated aspiration is invasive, may be affected by hemodilution and spatial sampling, and provides only intermittent snapshots of an evolving clonal process. Liquid biopsy offers a complementary strategy by interrogating circulating cell-free DNA (cfDNA), the leukemia-derived fraction termed circulating tumor DNA (ctDNA), extracellular vesicles, exosomal nucleic acids, and circulating leukemic cells. Among the analytical platforms applicable to these materials, droplet digital polymerase chain reaction (ddPCR) is attractive because it partitions a specimen into thousands of reactions and enables highly precise absolute quantification without a calibration curve. This narrative review critically examines the biological rationale, analytical performance, and clinical evidence supporting ddPCR-based liquid biopsy in AML. The strongest current evidence concerns molecular measurable residual disease (MRD), particularly for NPM1 mutations and selected patient-specific variants, with additional applications in IDH1/2, FLT3-TKD, KIT, CEBPA, DNMT3A, and fusion-transcript monitoring. We discuss the roles of peripheral blood and plasma cfDNA at diagnosis, during induction and consolidation, before and after allogeneic hematopoietic stem-cell transplantation, and at suspected molecular relapse. We also compare ddPCR with multiparameter flow cytometry, reverse-transcription quantitative PCR, and error-corrected next-generation sequencing, emphasizing that analytical sensitivity alone does not establish clinical validity. Major barriers include pre-analytical variation, low and fluctuating ctDNA abundance, assay-specific false-positive droplets, incomplete target coverage, clonal hematopoiesis, and the absence of harmonized thresholds. Emerging multi-analyte strategies that combine mutation tracking, methylation, exosomal RNA, chimerism, and computational modeling may improve robustness. At present, ddPCR is best positioned as a rapid, targeted, and complementary tool embedded in a multimodal MRD framework rather than as a universal replacement for bone marrow or broad genomic profiling.",
+      "journal": "Clinica chimica acta; international journal of clinical chemistry",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Laboratory of In-Silico Design, Artificial Intelligence Center for Health and Biomedical Research, National Institutes of Biomedical Innovation, Health and Nutrition (NIBN), Osaka, Japan.",
-        "Pharmaceutical Biotechnology Lab, Department of Microbial Biotechnology, School of Biology and Center of Excellence in Phylogeny of Living Organisms, College of Science, University of Tehran, Iran."
+        "Department of Internal Medicine, Diabetes, Endocrinology and Metabolism, Mansoura University, Mansoura, Egypt. Electronic address: elsehrawyamralimohamedabdelgaw@gmail.com.",
+        "Department of Clinical Laboratory Sciences, College of Applied Medical Sciences, and Health and Medical Researches Centre, King Khalid University, Abha 61421, Saudi Arabia.",
+        "Department of Surgery, Endoscopy, and Reanimatology-Anesthesiology, Faculty of Postgraduate Medical Education, Samarkand State Medical University, Samarkand, Uzbekistan.",
+        "Department of Animal Physiology, College of Education, University of Fallujah, Iraq.",
+        "Department of Pharmacy Practice, College of Pharmacy, Dubai Medical University, Dubai, United Arab Emirates.",
+        "Department of Chemistry and Biochemistry, School of Sciences, JAIN (Deemed-to-be University), Bangalore, Karnataka, India.",
+        "School of Pharmacy, Sharda University, Knowledge Park III, Greater Noida, India.",
+        "Department of Pharmacology, IMS and SUM Hospital, Siksha O Anusandhan (Deemed-to-be University), Bhubaneswar, Odisha 751003, India.",
+        "University Institute of Pharma Sciences, Chandigarh University, Mohali, Punjab, India.",
+        "Hourani Center for Applied Scientific Research, Al-Ahliyya Amman University, Amman 19328, Jordan."
       ],
-      "doi": "10.1002/1873-3468.70442",
-      "date": "2026-08-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42605681/"
+      "doi": "10.1016/j.cca.2026.121290",
+      "date": "2026-08-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624191/"
     },
     {
       "pmid": "42622520",
@@ -471,97 +497,20 @@
       "doi": "10.37349/etat.2026.1002398",
       "date": "2026-08-16",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42620137/"
-    },
-    {
-      "pmid": "42619413",
-      "title": "Cross-Regulation Between DNA Methylation and Circadian Clock Reprogramming in Ovarian Cancer: Mechanistic Insights, Biomarker Potential, and Therapeutic Implications.",
-      "abstract": "Early diagnosis remains challenging, recurrence rates remain high, and platinum resistance frequently develops in ovarian cancer (OC), collectively representing major barriers to long-term patient survival. DNA methylation (DNAm), as a relatively stable yet dynamically modifiable epigenetic signature, can capture alterations in tumor states and evolutionary trajectories associated with therapeutic pressure. Meanwhile, the circadian rhythm system regulates multiple cancer-related processes, including DNA damage repair, cell-cycle progression, metabolic adaptation, and immune microenvironment remodeling, thereby influencing OC development and treatment responses. Accumulating evidence suggests the existence of a bidirectional interplay between DNAm landscapes and the circadian clock network in OC. This review summarizes the emerging mechanisms underlying the crosstalk between DNAm and circadian reprogramming in OC, and further discusses their potential applications in early detection, prognostic stratification, dynamic monitoring of platinum resistance, and chronotherapy-based therapeutic strategies. Although current findings highlight the promising translational potential of the DNAm-circadian axis, its clinical implementation remains constrained by tumor heterogeneity, variations in sampling time points, cellular composition complexity, and insufficient validation across experimental models and clinical cohorts. Future integration of time-resolved sampling approaches, liquid biopsy platforms, single-cell and spatial epigenomic technologies, as well as prospective clinical trials evaluating circadian-guided interventions, may further define the translational boundaries and clinical utility of DNAm-circadian coupling in precision diagnosis and treatment of OC.",
-      "journal": "International journal of cancer",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Hunan University of Chinese Medicine, Changsha, Hunan, China.",
-        "Hinye Pharmaceutical Co. Ltd., Changsha, Hunan, China.",
-        "The Second Affiliated Hospital of Hunan University of Chinese Medicine, Changsha, Hunan, China."
-      ],
-      "doi": "10.1002/ijc.70704",
-      "date": "2026-08-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42619413/"
-    },
-    {
-      "pmid": "42618642",
-      "title": "Exploring the landscape of targetable alterations in patients with glioblastoma.",
-      "abstract": "Glioblastomas remain the most lethal primary brain tumour in adults, with targeted therapies delivering only limited benefit despite deep molecular characterization. Several targeted drugs have received regulatory approval for low-grade gliomas, although progress in glioblastomas remains constrained by, among other aspects, extensive intratumoural heterogeneity, pathway redundancy, cellular plasticity and limited drug delivery to the central nervous system. Some of these challenges might be mitigated through strategies that enhance blood-brain penetration, including focused ultrasonography, convection-enhanced delivery, efflux avoidance and chemical modifications. Improved tumour profiling through multiregional sampling, prioritization of truncal dependencies and the development of novel therapeutic modalities, such as antibody-drug conjugates and theranostics, might also further improve outcomes. In this Review, we summarize the therapeutic landscape of targeted therapies in glioblastomas, spanning major target classes including receptor tyrosine kinases, intracellular signalling proteins, cell-cycle dysregulation and synthetic-lethal vulnerabilities. We also examine emerging strategies targeting genome integrity and telomeres, epigenetic modulators, and tumour-neural circuitry. Furthermore, we highlight tumour heterogeneity and extrachromosomal DNA dynamics as key drivers of oncogene amplification and therapeutic resistance as well as the roles of novel clinical trial designs and liquid biopsy-based monitoring strategies. Lastly, we discuss pathway-based glioblastoma classification and master kinase mapping as methods for aligning drugs with functional tumour states.",
-      "journal": "Nature reviews. Clinical oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Division of Neuro-Oncology, Department of Medical Oncology, Dana Farber Cancer Institute, Boston, MA, USA.",
-        "Sorbonne Université, AP-HP, Institut du Cerveau - Paris Brain Institute - ICM, Inserm, CNRS, SIRIC CURAMUS, Hôpitaux Universitaires La Pitié Salpêtrière - Charles Foix, Service de Neuro-oncologie, Paris, France.",
-        "Department of Neurology, Brain Tumor Center, Erasmus MC Cancer Institute, University Medical Center, Rotterdam, The Netherlands.",
-        "Sylvester Comprehensive Cancer Center, University of Miami, Miller School of Medicine, Miami, FL, USA.",
-        "Department of Neurological Surgery, University of Miami, Miller School of Medicine, Miami, FL, USA.",
-        "Department of Neuropathology, Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Berlin, Germany.",
-        "German Cancer Consortium (DKTK), Partner Site Berlin, German Cancer Research Center (DKFZ), Heidelberg, Germany.",
-        "Department of Radiation Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Boston, MA, USA.",
-        "Department of Neurosurgery, Yale School of Medicine, New Haven, CT, USA.",
-        "Division of Oncology, Department of Medicine I, Medical University of Vienna, Vienna, Austria.",
-        "The Brain Tumor Center, Erasmus MC Cancer Institute, Rotterdam, The Netherlands.",
-        "Center for Tumors of the Nervous System, Mass General Brigham Cancer Institute and Harvard Medical School, Boston, MA, USA. pwen@mgb.org."
-      ],
-      "doi": "10.1038/s41571-026-01190-7",
-      "date": "2026-08-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618642/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42622749",
+      "id": "pubmed-42624449",
       "date": "2026-08-20",
-      "title": "Cloud-based ligand-guided virtual screening with deep-learning-enhanced docking identifies a micromolar CXCR4 antagonist.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42622749/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular diversity，PMID 为 42622749。",
-      "report": "We report a cloud-executed, ligand-guided virtual screening workflow for practical and rapid experimental testing of CXCR4 antagonists. Using the Rush platform, an Enamine purchasable library (274,092 compounds) was standardized and pre-filtered to remove assa...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42622720",
-      "date": "2026-08-20",
-      "title": "Endothelial cell heterogeneity drives angiogenesis in endometriosis: mechanisms and emerging organoid-based models.",
+      "title": "Therapeutic targeting of G protein-coupled receptors in central nervous system disorders: from novel mechanisms to precision pharmacology.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42622720/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624449/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -574,41 +523,245 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Apoptosis : an international journal on programmed cell death，PMID 为 42622720。",
-      "report": "Endometriosis (EMs) is characterized by the establishment and persistence of ectopic lesions, a process fundamentally dependent on aberrant angiogenesis. Endothelial cells (ECs) play a central role in this process; however, accumulating evidence indicates that...",
+      "fact": "PubMed 记录显示该文献收录于 European journal of pharmacology，PMID 为 42624449。",
+      "report": "G protein-coupled receptors (GPCRs) are major therapeutic targets for central nervous system disorders, with more than 500 approved drugs targeting this receptor family worldwide. This review comprehensively examines the pathophysiological roles and therapeuti...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42622717",
+      "id": "pubmed-42624387",
       "date": "2026-08-20",
-      "title": "Establishment of a ZFP64::NCOA3 fusion-positive spindle cell/sclerosing rhabdomyosarcoma organoid model and evaluation of fusion-gene dependency.",
+      "title": "Intrauterine benzophenone-3 exposure alters mammary gland architecture without impairing lactational performance.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42622717/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624387/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Reproductive toxicology (Elmsford, N.Y.)，PMID 为 42624387。",
+      "report": "Recently, we have shown that exposure to the ultraviolet filter benzophenone-3 (BP3) during secretory differentiation disrupts prolactin signaling pathway and milk protein expression in murine mammary organoids. The present study aimed to evaluate whether intr...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42624292",
+      "date": "2026-08-20",
+      "title": "IL1A promotes inflammation while safeguarding epithelial basal cell identity and barrier function.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624292/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Precision Oncology",
         "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 The Journal of allergy and clinical immunology，PMID 为 42624292。",
+      "report": "The ability of barrier epithelia to sense environmental perturbations and initiate local inflammation is essential for progenitor-mediated epithelial repair and restoration of tissue integrity. To characterize human esophageal epithelial progenitor cell hetero...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42624107",
+      "date": "2026-08-20",
+      "title": "Morphogen-guided neocortical organoids with anteroposterior areal identity.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624107/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell stem cell，PMID 为 42624107。",
+      "report": "The human neocortex exhibits characteristic regional patterning (arealization) critical for higher-order cognitive function. Disrupted arealization is implicated in neurodevelopmental disorders (NDDs), but current neocortical organoid models largely fail to re...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42624102",
+      "date": "2026-08-20",
+      "title": "Brain organoids in Alzheimer disease and related tauopathies: Challenges and opportunities for translational readiness.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624102/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42624102。",
+      "report": "A major hurdle in Alzheimer disease research is the failure of mouse models to capture complexities of the human brain that contributes to repeated clinical trial failure. Although the recent US Food and Drug Administration (FDA) Modernization Act 2.0 has enab...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42623921",
+      "date": "2026-08-20",
+      "title": "Biochemical stress markers in neurodegeneration: Insights from 3D cellular models.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42623921/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Current opinion in structural biology，PMID 为 42623921。",
+      "report": "Understanding the multifaceted nature of neurodegenerative disease (NDDs) remains a significant challenge due to the complex intracellular /intercellular phenomena. This review explores the latest findings about the biochemical stress markers within the comple...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42624264",
+      "date": "2026-08-20",
+      "title": "Co-evolution-guided engineering of monensin biosynthetic monooxygenase MonCI reveals mechanistic basis for concurrent stability and catalytic enhancement.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624264/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of biological macromolecules，PMID 为 42624264。",
+      "report": "Improving enzyme stability without compromising catalytic activity remains a major challenge in protein engineering. Here, we present a co-evolution-guided strategy to enhance both thermostability and catalytic performance of the flavin-dependent monooxygenase...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42624248",
+      "date": "2026-08-20",
+      "title": "Diagnostic Performance of a Multiplex Circulating Tumor DNA Assay for Lung Cancer Detection.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624248/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 The Journal of molecular diagnostics : JMD，PMID 为 42624248。",
+      "report": "Lung cancer remains the leading cause of cancer-related death worldwide, largely due to late-stage diagnosis. Although low-dose computed tomography (LDCT) screening can reduce mortality, it is limited by high false-positive rates, radiation exposure, and low a...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42624191",
+      "date": "2026-08-20",
+      "title": "Digital droplet PCR and liquid biopsy in acute myeloid Leukemia: bridging translational research and clinical practice.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624191/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
         "肿瘤",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Human cell，PMID 为 42622717。",
-      "report": "Spindle cell/sclerosing rhabdomyosarcoma (SRMS) comprises a heterogeneous group of tumors characterized by distinct molecular alterations and clinical behaviors. Among them, ZFP64::NCOA3 fusion-positive SRMS represents an extremely rare subtype, and its biolog...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Clinica chimica acta; international journal of clinical chemistry，PMID 为 42624191。",
+      "report": "Acute myeloid leukemia (AML) is a genetically heterogeneous and dynamically evolving malignancy in which morphologic remission does not necessarily indicate eradication of disease. Bone marrow examination remains central to diagnosis and response assessment, y...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -643,36 +796,6 @@
       "fact": "PubMed 记录显示该文献收录于 Pediatric blood & cancer，PMID 为 42622520。",
       "report": "Embryonal tumors comprise the majority of malignant central nervous system (CNS) neoplasms diagnosed in children under 3 years of age. Compared with their counterparts in older children, these tumors exhibit distinct molecular biology and a more aggressive cli...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42623604",
-      "date": "2026-08-19",
-      "title": "Selective Macrocyclic WEE1 Kinase Inhibitors with Strong Efficacy against Patient-Derived Colorectal Cancer Organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42623604/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of medicinal chemistry，PMID 为 42623604。",
-      "report": "Macrocyclization can enhance the selectivity of acyclic compounds toward structurally similar biological targets such as kinases. WEE1 regulates cellular homeostasis and is a promising target in oncology. The clinical candidate AZD1775 (1) failed to progress p...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -797,76 +920,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42619413",
-      "date": "2026-08-19",
-      "title": "Cross-Regulation Between DNA Methylation and Circadian Clock Reprogramming in Ovarian Cancer: Mechanistic Insights, Biomarker Potential, and Therapeutic Implications.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42619413/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of cancer，PMID 为 42619413。",
-      "report": "Early diagnosis remains challenging, recurrence rates remain high, and platinum resistance frequently develops in ovarian cancer (OC), collectively representing major barriers to long-term patient survival. DNA methylation (DNAm), as a relatively stable yet dy...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42618642",
-      "date": "2026-08-19",
-      "title": "Exploring the landscape of targetable alterations in patients with glioblastoma.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618642/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature reviews. Clinical oncology，PMID 为 42618642。",
-      "report": "Glioblastomas remain the most lethal primary brain tumour in adults, with targeted therapies delivering only limited benefit despite deep molecular characterization. Several targeted drugs have received regulatory approval for low-grade gliomas, although progr...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42611249",
       "date": "2026-08-18",
       "title": "Design and Characterization of SAKe, a Building Block for Protein Self-Assembly.",
@@ -919,35 +972,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42605681",
-      "date": "2026-08-17",
-      "title": "Computational navigation of constrained multidimensional protein fitness landscapes.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42605681/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 42605681。",
-      "report": "Protein engineering relies heavily on computational characterization of constrained protein fitness landscapes, in which only a limited fraction of sequence space corresponds to stable and functional biomolecules. Advances in structural biology and machine lea...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42620137",
       "date": "2026-08-16",
       "title": "Response-adaptive breast cancer care in the grey zones: integrating ER and HER2 targeted PET, FDG PET/CT under immunotherapy, and ctDNA kinetics.",
@@ -983,36 +1007,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42621525",
-      "date": "2026-08-15",
-      "title": "N-Alkylated Monoterpene Indole Alkaloid Derivatives as Chemotherapy Adjuvants That Overcome P-glycoprotein-Mediated Multidrug Resistance in Cancer Cells, Spheroids and Patient-Derived Colorectal Cancer Organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42621525/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Drug design, development and therapy，PMID 为 42621525。",
-      "report": "Chemotherapy efficacy is often limited by multidrug resistance (MDR), largely driven by P-glycoprotein (P-gp). This study aimed to evaluate previously prepared N-alkylated dregamine and tabernaemontanine derivatives as potential adjuvants to overcome P-gp-medi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42600555",
       "date": "2026-08-08",
       "title": "Sparse integrative dictionary learning resolves conserved drug-response states in multiple myeloma (MM).",
@@ -1040,38 +1034,6 @@
       "fact": "PubMed 记录显示该文献收录于 Cancer genetics，PMID 为 42600555。",
       "report": "Multiple myeloma (MM) is a severe plasma-cell malignancy that continues to cause substantial morbidity and mortality despite major therapeutic advances. Although current therapies target distinct molecular processes, many patients eventually relapse, raising t...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42622079",
-      "date": "2026-08-01",
-      "title": "PBPK Models for Fetal Drug Exposure: A Critical Assessment of Current Approaches and Regulatory Readiness.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42622079/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of clinical pharmacology，PMID 为 42622079。",
-      "report": "Physiologically based pharmacokinetic (PBPK) modeling has emerged as a critical tool for predicting fetal drug exposure during pregnancy, accounting for the complex interplay of maternal physiological changes and placental transfer mechanisms. This review summ...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
