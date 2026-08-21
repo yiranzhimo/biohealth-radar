@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-21T07:10:07.948593+00:00",
+  "capturedAt": "2026-08-21T13:13:43.036384+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,32 +14,87 @@
     "end": "2026-08-21"
   },
   "pmids": [
+    "42625013",
+    "42624954",
+    "42624898",
     "42624449",
     "42624387",
     "42624292",
-    "42624107",
-    "42624102",
-    "42623921",
     "42600555",
     "42580899",
     "42559559",
     "42509463",
     "42498177",
     "42497867",
+    "42625221",
+    "42624861",
     "42624264",
     "42619129",
     "42619090",
     "42616438",
-    "42611249",
-    "42606177",
+    "42625609",
     "42624248",
     "42624191",
     "42622520",
     "42622361",
-    "42621358",
-    "42620137"
+    "42621358"
   ],
   "records": [
+    {
+      "pmid": "42625013",
+      "title": "Genetic contributions to familial Ménière's disease: a systematic review.",
+      "abstract": "Meniere's disease (MD) is a fluctuating vestibulocochlear disorder with an unknown cause. Familial clustering occurs in 8-10% of cases, suggesting a genetic contribution, but the underlying mechanisms remain unclear. This systematic review synthesizes all sequencing studies in familial MD and evaluates the strength of evidence supporting candidate genes. A PRISMA-guided search of PubMed and Embase (June 2024) identified original human genetic studies in families with MD diagnosed according to Bárány Society or AAO-HNS criteria. Two reviewers independently screened studies, extracted data, and reassessed variants using ACMG/AMP guidelines. Risk of bias was evaluated with the Newcastle-Ottawa Scale. Nine studies met inclusion criteria, reporting 29 rare variants across 17 genes in 194 families. Most variants (24/29) were missense; the remainder included three nonsense variants and two frameshift deletions. Seventeen variants were classified as pathogenic or likely pathogenic in the original studies. Evidence for segregation was limited, and functional validation was not always available. Some genes (e.g., OTOG, MYO7A, TECTA, DMXL2) have known roles in auditory function, but the associated phenotypes differ markedly from MD and lack fluctuating hearing loss or episodic vertigo. Most other genes had no prior link to inner-ear disease. Overall, the methodological heterogeneity, small family sizes, and incomplete segregation data greatly limit the strength of causal inference. Current evidence does not support a single monogenic cause of familial MD. Findings indicate marked genetic heterogeneity. Given that only nine studies met the inclusion criteria, the current evidence base remains limited, and the conclusions of this review should be considered provisional and hypothesis-generating rather than definitive. Larger genome-wide studies, knock-in models, and patient-specific cochlear or vestibular organoids are needed to validate candidate genes and clarify pathogenic mechanisms.",
+      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Service d'ORL, Hôpital Lariboisière, AP-HP, Paris, France. cassandre.djian@aphp.fr.",
+        "Université Paris Cité, CRMR VERTICO, IHU reConnect, 75010, Paris, France. cassandre.djian@aphp.fr.",
+        "Centre de Référence « Surdités Génétiques », Service de Médecine Génomique Des Maladies Rares, Hôpital Necker-Enfants Malades, Assistance Publique Hôpitaux de Paris, 75015, Paris, France.",
+        "Institut Imagine, UMR 1163, INSERM, Université Paris Cité, 75015, Paris, France."
+      ],
+      "doi": "10.1007/s00405-026-10535-y",
+      "date": "2026-08-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42625013/"
+    },
+    {
+      "pmid": "42624954",
+      "title": "Biofabrication for spatial control of multiscale biological crosstalk in tissue models.",
+      "abstract": "Native tissue crosstalk depends on spatial organization, temporal dynamics, and mechanical context, yet 2D cultures and stochastic organoids provide limited control over multicellular and matrix interfaces. This review categorizes biological crosstalk into intercellular, cell-extracellular, and intertissue communication and surveys biofabrication strategies that reconstruct these interactions. We propose a framework for designing physiologically relevant tissue models for mechanistic disease studies and therapeutic discovery.",
+      "journal": "npj biomedical innovations",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Mechanical Engineering, Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea.",
+        "Center for 3D Organ Printing and Stem Cells, Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea.",
+        "Department of Mechanical Engineering, Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea. jinahjang@postech.ac.kr.",
+        "Center for 3D Organ Printing and Stem Cells, Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea. jinahjang@postech.ac.kr."
+      ],
+      "doi": "10.1038/s44385-026-00102-9",
+      "date": "2026-08-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624954/"
+    },
+    {
+      "pmid": "42624898",
+      "title": "Advanced gene editing technologies for oncology mechanisms, applications, and clinical implementation.",
+      "abstract": "Advanced gene editing tools have transformed oncology by facilitating precise molecular therapies aimed at the hereditary basis of cancer. This thorough study examines the mechanisms, applications, and clinical implementation of advanced genome editing technologies in cancer treatment. This review commences with the molecular principles of genome editing and DNA repair mechanisms, systematically analyzing established technologies such as Zinc Finger Nucleases, Transcription Activator-Like Effector Nucleases, and various CRISPR/Cas systems (Cas9, Cas12, Cas13), in addition to novel advancements including base editors, prime editors, and the PASTE system. Additionally, hybrid platforms such as ARCUS, MegaTALs, and modified recombinases are examined, highlighting their amalgamation with artificial intelligence, biosensors, and synthetic biology concepts. The study outlines significant applications including functional genomics, disease modeling, synthetic lethality screening, and direct therapeutic interventions, with a specific focus on CAR-T cell engineering and immune checkpoint regulation. Applications unique to various cancer types are thoroughly examined throughout lung, breast, colorectal, hematologic, liver, pancreatic, head & neck, esophageal, prostate, gastric, and brain cancers. Significant obstacles such as delivery optimization via viral and non-viral vectors, tumor-specific targeting, off-target effects, immunogenicity, and ethical issues related to germline vs somatic editing are comprehensively examined. The translational landscape is analyzed via current clinical trials, regulatory structures, and the incorporation of organoid models and patient-derived xenografts for the advancement of personalized therapies. This review highlights the transformative impact of gene editing on cancer medicine, advancing toward more accurate, effective, and personalized therapeutic approaches.",
+      "journal": "Cancer gene therapy",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Biotechnology, School of Bioengineering, SRM Institute of Science and Technology, Chennai, India.",
+        "Department of Biotechnology, School of Bioengineering, SRM Institute of Science and Technology, Chennai, India. koustavsarkar@gmail.com."
+      ],
+      "doi": "10.1038/s41417-026-01070-3",
+      "date": "2026-08-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624898/"
+    },
     {
       "pmid": "42624449",
       "title": "Therapeutic targeting of G protein-coupled receptors in central nervous system disorders: from novel mechanisms to precision pharmacology.",
@@ -92,67 +147,6 @@
       "doi": "10.1016/j.jaci.2026.08.003",
       "date": "2026-08-20",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624292/"
-    },
-    {
-      "pmid": "42624107",
-      "title": "Morphogen-guided neocortical organoids with anteroposterior areal identity.",
-      "abstract": "The human neocortex exhibits characteristic regional patterning (arealization) critical for higher-order cognitive function. Disrupted arealization is implicated in neurodevelopmental disorders (NDDs), but current neocortical organoid models largely fail to recapitulate this patterning, limiting mechanistic understanding. We establish a straightforward method for generating arealized organoids through short-term early exposure to anterior or posterior morphogens. These treatments created distinct anteroposterior (AP) signaling centers, supporting long-lasting polarization validated by spatial and single-cell RNA sequencing, which revealed area-specific molecular signatures matching the prenatal human cortex. To demonstrate utility, we modeled fragile X syndrome (FXS) in organoids with distinct AP identities. FXS organoids showed disrupted expression gradients along the AP axis, consistent with alterations in autism spectrum disorder, demonstrating how regional patterning defects may contribute to NDD pathology. Together, our study provides a robust platform for generating neocortical organoids with AP molecular signatures and highlights the importance of modeling NDDs using experimental platforms with neuroanatomic specificity.",
-      "journal": "Cell stem cell",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Anatomy and Neurobiology, School of Medicine, University of California, Irvine, Irvine, CA 92697, USA.",
-        "Department of Mathematics, School of Physical Sciences, University of California, Irvine, Irvine, CA 92697, USA; NSF-Simons Center for Multiscale Cell Fate Research, University of California, Irvine, Irvine, CA 92697, USA.",
-        "Department of Psychiatry, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA.",
-        "Department of Mathematics, School of Physical Sciences, University of California, Irvine, Irvine, CA 92697, USA; NSF-Simons Center for Multiscale Cell Fate Research, University of California, Irvine, Irvine, CA 92697, USA; Department of Systems Biology, School of Biological Sciences, University of California, Irvine, Irvine, CA 92697, USA.",
-        "Department of Anatomy and Neurobiology, School of Medicine, University of California, Irvine, Irvine, CA 92697, USA; Sue & Bill Gross Stem Cell Research Center, School of Medicine, University of California, Irvine, Irvine, CA 92697, USA. Electronic address: momokow@uci.edu."
-      ],
-      "doi": "10.1016/j.stem.2026.07.014",
-      "date": "2026-08-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624107/"
-    },
-    {
-      "pmid": "42624102",
-      "title": "Brain organoids in Alzheimer disease and related tauopathies: Challenges and opportunities for translational readiness.",
-      "abstract": "A major hurdle in Alzheimer disease research is the failure of mouse models to capture complexities of the human brain that contributes to repeated clinical trial failure. Although the recent US Food and Drug Administration (FDA) Modernization Act 2.0 has enabled non-animal preclinical pathways, brain organoid models of tauopathies remain nascent compared with other disease areas. Here, we identify three challenges for their translational readiness, maturity, disease-relevant cellular complexity, and pathological accuracy, and examine current achievements and emerging solutions. We propose a ten-metric benchmarking framework and discuss the opportunities and remaining challenges for translational readiness in tauopathy modeling.",
-      "journal": "Stem cell reports",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Nanil Therapeutics Inc., Toronto, ON, Canada. Electronic address: anuj@naniltx.com.",
-        "Department of Environmental Health and Engineering, Johns Hopkins University, Baltimore, MD, USA; Department of Biology, University of Konstanz, Konstanz-Egg, Germany.",
-        "Department of Infectious Diseases and Microbiology, University of Pittsburgh, Pittsburgh, PA, USA.",
-        "Department of Cellular & Molecular Medicine, University of California, San Diego, La Jolla, CA, USA.",
-        "Department of Biochemistry, University of Toronto, Toronto, ON, Canada.",
-        "Institute for Technology-Inspired Regenerative Medicine, Maastricht University, Maastricht, the Netherlands.",
-        "Department of Neurochemistry, New York State Institute for Basic Research in Developmental Disabilities, Staten Island, NY, USA.",
-        "Nanil Therapeutics Inc., Toronto, ON, Canada. Electronic address: bini@naniltx.com."
-      ],
-      "doi": "10.1016/j.stemcr.2026.103051",
-      "date": "2026-08-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624102/"
-    },
-    {
-      "pmid": "42623921",
-      "title": "Biochemical stress markers in neurodegeneration: Insights from 3D cellular models.",
-      "abstract": "Understanding the multifaceted nature of neurodegenerative disease (NDDs) remains a significant challenge due to the complex intracellular /intercellular phenomena. This review explores the latest findings about the biochemical stress markers within the complex landscape of NDDs, with a specific focus on novel 3D cell cultures. Recent research highlights the importance of structural complexity and cellular crosstalk which lead to responses resembling those observed in the brain. However, issues such as vascularization and shear stress (which affect experimental reproducibility) remain. Here we emphasize the role of biochemical stressors in cellular interactions and communication relevant to NDDs, highlighting the emerging opportunities coming from exosomes/extracellular vesicles and noncoding RNAs as biomarkers, alongside the usefulness of brain organoids in terms of translational relevance. By bridging the gap between molecular mechanisms and organ dysfunction, 3D models emerge as essential tools for the discovery of novel theragnostic biomarkers and for the development of targeted therapeutic strategies.",
-      "journal": "Current opinion in structural biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Departmental Faculty of Medicine, UniCamillus-Saint Camillus International University of Health Sciences, Rome, Italy.",
-        "Department of Biochemical Sciences, Sapienza University, Rome, Italy.",
-        "Laboratory of Biochemistry and Molecular Biology, Department of Movement, Human and Health Sciences, Università degli Studi di Roma \"Foro Italico\", Rome, Italy.",
-        "Department of Biochemical Sciences, Sapienza University, Rome, Italy; Center for Research in Neurobiology Daniel Bovet, Sapienza University, Rome, Italy. Electronic address: luciana.mosca@uniroma1.it."
-      ],
-      "doi": "10.1016/j.sbi.2026.103360",
-      "date": "2026-08-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42623921/"
     },
     {
       "pmid": "42600555",
@@ -264,6 +258,54 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42497867/"
     },
     {
+      "pmid": "42625221",
+      "title": "The impact of reward scalarization and weight scheduling on optimization dynamics in multi-objective molecular design.",
+      "abstract": "Inverse molecular design imposes multiple property constraints, requiring them to be combined into a scalar reward for reinforcement-learning (RL) fine-tuning; a step that can be highly sensitive to the reward formulation. Here, we systematically analyze how scalarization choices and stabilization mechanisms shape optimization dynamics in RL fine-tuning for multi-parameter optimization (MPO). We evaluate three scalarization schemes (arithmetic mean, geometric mean, and Chebyshev) under multiple target regimes that vary in constraint tightness and prior support. While broad targets yield stable behavior across scalarizations, narrow and weakly supported targets expose sharp failure modes. We further show that these failure modes can be prevented through the usage of target-aware weight scheduling. Collectively, our results highlight critical interactions between scalarization choice and weight dynamics, and provide mechanistic insight and actionable guidance for stabilizing RL fine-tuning in constrained molecular MPO.Scientific contributionThis work examines different reward formulations in multi-objective reinforcement learning for molecular design, going beyond the designs typically considered in prior studies. We further show how these formulations influence convergence behavior and collapse modes, and how their effects depend on the size and constraint structure of the multi-dimensional optimization space.",
+      "journal": "Journal of cheminformatics",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Johannes Gutenberg University Mainz, Duesbergweg 10-14, 55128, Mainz, Germany.",
+        "Department of Chemistry, Johannes Gutenberg University Mainz, Duesbergweg 10-14, 55128, Mainz, Germany. opalomin@uni-mainz.de.",
+        "Institute for Quantitative and Computational Biosciences (IQCB), Johannes Gutenberg University Mainz, Johannes-von-Müller-Weg 6, 55128, Mainz, Germany. opalomin@uni-mainz.de."
+      ],
+      "doi": "10.1186/s13321-026-01273-8",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42625221/"
+    },
+    {
+      "pmid": "42624861",
+      "title": "AI-enabled discovery and biochemical optimization of minibinders targeting cancer cell-surface proteins.",
+      "abstract": "Experimental validation and functional optimization remain bottlenecks in AI-based protein design. We present a scalable workflow for developing AI-designed minibinders against cancer-associated surface proteins. Screening thousands of designs using mammalian cell-surface display identifies several high-affinity PD-L1 minibinders but far fewer for CD276 (B7-H3) and VTCN1 (B7-H4), highlighting substantial target dependence. Interface predicted template modeling (ipTM) scores generated by Chai-1 with ESM embeddings correlate with binding success and capture deleterious effects of interface mutations. Fluorophore-labeled AI-minibinders enable flow-cytometric staining comparable to conventional antibodies. However, when incorporated into chimeric antigen receptors (CAR), some show poor cell-surface trafficking and limited functionality. Redesign through a genetic algorithm-based diversification strategy that preserves the binding interface while changing non-binding surfaces experimentally reveals an isoelectric point (pI) window that improves CAR expression and enhances target-selective tumor cell killing. Our findings identify biochemical optimization beyond the binding interface as a critical requirement for translating AI-minibinders into functional applications.",
+      "journal": "Nature communications",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Institute for Experimental Oncology, University of Bonn, University Hospital Bonn, Bonn, Germany.",
+        "Institute of Structural Biology, University of Bonn, University Hospital Bonn, Bonn, Germany.",
+        "Institute for Clinical Chemistry and Clinical Pharmacology, University of Bonn, University Hospital Bonn, Bonn, Germany.",
+        "Core Facility Nanobodies, University of Bonn, University Hospital Bonn, Bonn, Germany.",
+        "Institute for Experimental Hematology and Transfusion Medicine, University of Bonn, University Hospital Bonn, Bonn, Germany.",
+        "Institute for Clinical Hemostaseology and Transfusion Medicine, Saarland University, Homburg, Germany.",
+        "Department of Surgery, University of Bonn, University Hospital Bonn, Bonn, Germany.",
+        "Department of General and Visceral Surgery, Charité - University Medicine Berlin, Campus Benjamin Franklin, Berlin, Germany.",
+        "Institute for Pathology, University of Bonn, University Hospital Bonn, Bonn, Germany.",
+        "Institute for Molecular Medicine and Experimental Immunology, University of Bonn, University Hospital Bonn, Bonn, Germany.",
+        "Institute of Clinical Pharmacology, LMU University Hospital, LMU Munich, Munich, Germany.",
+        "German Cancer Consortium (DKTK), Partner Site Munich, A Partnership Between the DKFZ Heidelberg and the LMU University Hospital, LMU Munich, Munich, Germany.",
+        "Einheit für Klinische Pharmakologie (EKLiP), Helmholtz Zentrum München - German Research Center for Environmental Health Neuherberg, Munich, Germany.",
+        "German Center for Lung Research (DZL), Partner site Munich, Munich, Germany.",
+        "Institute for Innate Immunity, University of Bonn, University Hospital Bonn, Bonn, Germany.",
+        "Institute of Structural Biology, University of Bonn, University Hospital Bonn, Bonn, Germany. michael.hoelzel@ukbonn.de.",
+        "Institute for Experimental Oncology, University of Bonn, University Hospital Bonn, Bonn, Germany. hagelueken@uni-bonn.de."
+      ],
+      "doi": "10.1038/s41467-026-76760-5",
+      "date": "2026-08-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624861/"
+    },
+    {
       "pmid": "42624264",
       "title": "Co-evolution-guided engineering of monensin biosynthetic monooxygenase MonCI reveals mechanistic basis for concurrent stability and catalytic enhancement.",
       "abstract": "Improving enzyme stability without compromising catalytic activity remains a major challenge in protein engineering. Here, we present a co-evolution-guided strategy to enhance both thermostability and catalytic performance of the flavin-dependent monooxygenase MonCI, an enzyme involved in monensin biosynthesis. By combining sequence covariation analysis with structural filtering, a focused library of 15 single mutants yielded 4 variants with increased stability and activity. Combinatorial assembly generated triple, quadruple and quintuple mutants, with the best-performing quadruple variants exhibiting up to a 10 °C increase in melting temperature, a 2.3-fold increase in specific activity, and a 2.1-fold longer half-life, accompanied by enhanced turnover despite reduced substrate affinity. Crystal structures and molecular dynamics simulations reveal that stabilization arises from strengthened intramolecular networks of hydrogen bonds, salt bridges, and hydrophobic interactions, while epistatic effects limit additive improvements. This work provides mechanistic insight into how co-evolving residues modulate enzyme structure and function, presents a useful co-evolution-guided strategy for enzyme design, and advances MonCI as a promising biocatalyst for asymmetric epoxidation.",
@@ -347,39 +389,21 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616438/"
     },
     {
-      "pmid": "42611249",
-      "title": "Design and Characterization of SAKe, a Building Block for Protein Self-Assembly.",
-      "abstract": "The nanofabrication of functional protein-based surfaces is challenging due to the chemical complexity of proteins and their unpredictable behavior at the solid-liquid interface. Many proteins of interest-such as antibodies or large enzymatic complexes-lack strong and dynamic protein-protein and protein-surface interactions necessary to drive self-assembly of stable arrays with high surface coverage. Additionally, adsorption-induced conformational changes at the solid-liquid interface could lead to a loss of activity and increase the risk of undesirable interfacial processes. Here we introduce SAKe, a Kelch-like designer protein, as a versatile platform to address these challenges. Ancestral sequence reconstruction led to high thermal stability, and the high symmetry allowed modularity of the protein's core. Rational engineering of the bottom side allowed SAKe to form large (up to 5 μm in length), well-defined and pH-dependent two-dimensional assemblies while maintaining structural integrity, which is key for further development of functional materials. SAKe self-assembly was investigated through in-liquid atomic force microscopy on muscovite mica. High resolution imaging confirmed the integrity of the SAKe protein upon adsorption on the solid-liquid interface. These results showcase the SAKe protein as a platform for the further engineering of functional protein-based two-dimensional materials.",
-      "journal": "ACS nano",
+      "pmid": "42625609",
+      "title": "Emergence of EGFR C797S as a resistance mechanism to CLN081 in EGFR exon 20-mutant NSCLC: case report.",
+      "abstract": "EGFR exon 20 insertion mutations represent a distinct subset of non-small cell lung cancer (NSCLC) with limited sensitivity to earlier-generation EGFR tyrosine kinase inhibitors (TKIs). CLN081 (zipalertinib; TAS6417) is a novel covalent EGFR TKI under development with activity against EGFR exon 20 insertion variants. We report the case of a 44-year-old man with stage IVB lung adenocarcinoma harboring an EGFR exon 20 insertion mutation who received multiple lines of systemic therapy, including CLN081. After eight months of treatment with CLN081, liquid biopsy revealed the emergence of a secondary EGFR C797S mutation (p.Cys797Ser; variant allele frequency [VAF] 0.05%), concurrent with a reduction in the exon 20 insertion allele frequency from 35.1% to 0.5%, accompanied by disease progression. Although C797S-mediated resistance has been hypothesized and demonstrated in preclinical models of CLN081 exposure, this represents, to our knowledge, the first reported in vivo identification of an EGFR C797S resistance mutation following CLN081 therapy. This case provides clinically relevant insight into resistance mechanisms associated with emerging EGFR exon 20-targeted therapies.",
+      "journal": "Frontiers in oncology",
       "publicationTypes": [
+        "Case Reports",
         "Journal Article"
       ],
       "affiliations": [
-        "Molecular Imaging and Photonics, Department of Chemistry, KU Leuven, Celestijnenlaan 200F - Box 2404, 3001Leuven, Belgium.",
-        "Laboratory for Biomolecular Modeling and Design, Department of Chemistry, KU Leuven, Celestijnenlaan 200G - Box 2403, 3001Leuven, Belgium."
+        "Helmsley Cancer Center, Shaare Zedek Medical Center, The Hebrew University, Jerusalem, Israel.",
+        "Department of Nuclear Medicine, Shaare Zedek Medical Center, Jerusalem, Israel."
       ],
-      "doi": "10.1021/acsnano.6c04954",
-      "date": "2026-08-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42611249/"
-    },
-    {
-      "pmid": "42606177",
-      "title": "Redesign of energetically frustrated regions rescues function in defective T4 clamp loaders.",
-      "abstract": "DNA polymerase clamp loaders are AAA+ ATPases that load sliding clamps on DNA for high-speed replication. Using a platform for high-throughput mutagenesis of replication proteins in T4 bacteriophage, we carried out saturation mutagenesis of the AAA+ ATPase module of the T4 clamp loader bearing a mutation, Gln 118→Asn (Q118N), that reduces fitness. We identified residues for which different mutations improve the fitness of the Q118N variant but are neutral in the wild-type background. These conditionally neutral \"rescue hotspots\" overlap with those identified earlier in another defective variant (D110C). These rescue hotspots localize to regions where the sequence is not optimal for the structure, as determined by energetic frustration analysis. We designed new sequences for three of these regions, using the protein-design algorithm ProteinMPNN. In two helical regions, several designed sequences increased the fitness of both wild-type and mutant proteins, likely due to enhanced stability. An inter-domain hinge in the AAA+ module changes conformation during activation, and designs for the hinge lead to loss of fitness in the wild-type background. However, when using the active conformation as the template, designs for the hinge increase the fitness of defective variants. In contrast designs templated on the inactive conformation lead to loss of fitness, suggesting that a proper conformational balance is crucial. Thus, adaptive capacity in the clamp loader resides in a network of conditionally neutral sites that enable functional tuning through shifts in stability and conformational equilibria.",
-      "journal": "Molecular biology and evolution",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Biochemistry, Vanderbilt University School of Medicine, Nashville, TN, USA 37240.",
-        "Laboratory of DNA Replication, The Rockefeller University, New York, NY, USA 10065.",
-        "Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA 10065.",
-        "Department of Chemistry, Vanderbilt University, Nashville, TN, USA 37240.",
-        "Department of Cell and Developmental Biology, Vanderbilt University, Nashville, TN, USA 37240."
-      ],
-      "doi": "10.1093/molbev/msag204",
-      "date": "2026-08-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42606177/"
+      "doi": "10.3389/fonc.2026.1812440",
+      "date": "2026-08-06",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42625609/"
     },
     {
       "pmid": "42624248",
@@ -479,27 +503,105 @@
       "doi": "10.1002/hsr2.73070",
       "date": "2026-08-19",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42621358/"
-    },
-    {
-      "pmid": "42620137",
-      "title": "Response-adaptive breast cancer care in the grey zones: integrating ER and HER2 targeted PET, FDG PET/CT under immunotherapy, and ctDNA kinetics.",
-      "abstract": "Breast cancer management increasingly hinges on decisions made in \"grey zones\" where tissue sampling is scarce, and tumour biology evolves under therapeutic pressure. This narrative review synthesises evidence on how whole-body imaging biomarkers and circulating tumour DNA (ctDNA) can support response-adaptive pathways at the interface of surgical and systemic care. Four clinically actionable domains are discussed. (a) 16α-[18F]fluoro-17β-estradiol ([18F]FES) positron emission tomography/computed tomography (PET/CT) enables non-invasive, whole-body mapping of functional oestrogen receptor (ER) expression to address receptor discordance, heterogeneous metastases, and selection of endocrine-based strategies. (b) Human epidermal growth factor receptor 2 (HER2)-targeted PET (notably 89Zr-trastuzumab, with emerging alternatives) provides whole-body receptor assessment to uncover actionable HER2-positive disease despite HER2-negative primaries, informing anti-HER2 treatment selection when repeat biopsy is infeasible. (c) In triple-negative breast cancer treated with immune checkpoint inhibitors, 18F-fluorodeoxyglucose (18F-FDG) PET/CT offers quantitative response and whole-body burden assessment but requires immunotherapy-aware interpretation (e.g., confirmation strategies for apparent early progression) to mitigate pseudoprogression and dissociated responses, while simultaneously visualising immune-related adverse events. (d) Pairing early metabolic change on FDG PET/CT with ctDNA kinetics is presented as a biologically complementary approach for response monitoring and risk stratification, with potential to inform trial-embedded response-adaptive hypotheses, with ctDNA offering a rapid systemic trajectory and PET providing lesion-level localisation in heterogeneous or oligoprogressive disease. Overall, these tools add value only when linked to prespecified clinical questions and consensus actions; prospective studies are needed to validate standardised, outcome-improving response-adaptive algorithms that integrate imaging and liquid biopsy. Key implementation challenges include tracer availability, harmonised acquisition/reconstruction, threshold definition, and avoiding overtesting. Near-term impact may be greatest in problem-solving and in trial-embedded decision rules that operationalise biomarker-guided care.",
-      "journal": "Exploration of targeted anti-tumor therapy",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Centre for Nuclear Medicine and PET, University Clinical Centre of Serbia, 11000 Belgrade, Serbia.",
-        "Department of Nuclear Medicine, Clinique Sud Luxembourg, Vivalia, 6700 Arlon, Belgium.",
-        "Department of Nuclear Medicine, Centre National PET, Centre Hospitalier de Luxembourg, L-1210 Luxembourg, Luxembourg."
-      ],
-      "doi": "10.37349/etat.2026.1002398",
-      "date": "2026-08-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42620137/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42625013",
+      "date": "2026-08-20",
+      "title": "Genetic contributions to familial Ménière's disease: a systematic review.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42625013/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery，PMID 为 42625013。",
+      "report": "Meniere's disease (MD) is a fluctuating vestibulocochlear disorder with an unknown cause. Familial clustering occurs in 8-10% of cases, suggesting a genetic contribution, but the underlying mechanisms remain unclear. This systematic review synthesizes all sequ...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42624954",
+      "date": "2026-08-20",
+      "title": "Biofabrication for spatial control of multiscale biological crosstalk in tissue models.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624954/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 npj biomedical innovations，PMID 为 42624954。",
+      "report": "Native tissue crosstalk depends on spatial organization, temporal dynamics, and mechanical context, yet 2D cultures and stochastic organoids provide limited control over multicellular and matrix interfaces. This review categorizes biological crosstalk into int...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42624898",
+      "date": "2026-08-20",
+      "title": "Advanced gene editing technologies for oncology mechanisms, applications, and clinical implementation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624898/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer gene therapy，PMID 为 42624898。",
+      "report": "Advanced gene editing tools have transformed oncology by facilitating precise molecular therapies aimed at the hereditary basis of cancer. This thorough study examines the mechanisms, applications, and clinical implementation of advanced genome editing technol...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42624449",
       "date": "2026-08-20",
@@ -587,93 +689,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42624107",
+      "id": "pubmed-42624861",
       "date": "2026-08-20",
-      "title": "Morphogen-guided neocortical organoids with anteroposterior areal identity.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "AI-enabled discovery and biochemical optimization of minibinders targeting cancer cell-surface proteins.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624107/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624861/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
+        "AI for Biology",
+        "Drug Discovery",
+        "Precision Oncology",
+        "Drug Screening"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "肿瘤",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell stem cell，PMID 为 42624107。",
-      "report": "The human neocortex exhibits characteristic regional patterning (arealization) critical for higher-order cognitive function. Disrupted arealization is implicated in neurodevelopmental disorders (NDDs), but current neocortical organoid models largely fail to re...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42624102",
-      "date": "2026-08-20",
-      "title": "Brain organoids in Alzheimer disease and related tauopathies: Challenges and opportunities for translational readiness.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624102/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42624102。",
-      "report": "A major hurdle in Alzheimer disease research is the failure of mouse models to capture complexities of the human brain that contributes to repeated clinical trial failure. Although the recent US Food and Drug Administration (FDA) Modernization Act 2.0 has enab...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42623921",
-      "date": "2026-08-20",
-      "title": "Biochemical stress markers in neurodegeneration: Insights from 3D cellular models.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42623921/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Current opinion in structural biology，PMID 为 42623921。",
-      "report": "Understanding the multifaceted nature of neurodegenerative disease (NDDs) remains a significant challenge due to the complex intracellular /intercellular phenomena. This review explores the latest findings about the biochemical stress markers within the comple...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42624861。",
+      "report": "Experimental validation and functional optimization remain bottlenecks in AI-based protein design. We present a scalable workflow for developing AI-designed minibinders against cancer-associated surface proteins. Screening thousands of designs using mammalian...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -799,6 +844,32 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42625221",
+      "date": "2026-08-19",
+      "title": "The impact of reward scalarization and weight scheduling on optimization dynamics in multi-objective molecular design.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42625221/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of cheminformatics，PMID 为 42625221。",
+      "report": "Inverse molecular design imposes multiple property constraints, requiring them to be combined into a scalar reward for reinforcement-learning (RL) fine-tuning; a step that can be highly sensitive to the reward formulation. Here, we systematically analyze how s...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42619129",
       "date": "2026-08-19",
       "title": "An Explicit Interaction-Prompted Diffusion Framework for High-Fidelity 3D Molecular Generation.",
@@ -920,93 +991,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42611249",
-      "date": "2026-08-18",
-      "title": "Design and Characterization of SAKe, a Building Block for Protein Self-Assembly.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42611249/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 ACS nano，PMID 为 42611249。",
-      "report": "The nanofabrication of functional protein-based surfaces is challenging due to the chemical complexity of proteins and their unpredictable behavior at the solid-liquid interface. Many proteins of interest-such as antibodies or large enzymatic complexes-lack st...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42606177",
-      "date": "2026-08-17",
-      "title": "Redesign of energetically frustrated regions rescues function in defective T4 clamp loaders.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42606177/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular biology and evolution，PMID 为 42606177。",
-      "report": "DNA polymerase clamp loaders are AAA+ ATPases that load sliding clamps on DNA for high-speed replication. Using a platform for high-throughput mutagenesis of replication proteins in T4 bacteriophage, we carried out saturation mutagenesis of the AAA+ ATPase mod...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42620137",
-      "date": "2026-08-16",
-      "title": "Response-adaptive breast cancer care in the grey zones: integrating ER and HER2 targeted PET, FDG PET/CT under immunotherapy, and ctDNA kinetics.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42620137/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Longevity",
-        "Biomarkers",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "衰老",
-        "biomarker",
-        "longevity",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Exploration of targeted anti-tumor therapy，PMID 为 42620137。",
-      "report": "Breast cancer management increasingly hinges on decisions made in \"grey zones\" where tissue sampling is scarce, and tumour biology evolves under therapeutic pressure. This narrative review synthesises evidence on how whole-body imaging biomarkers and circulati...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42600555",
       "date": "2026-08-08",
       "title": "Sparse integrative dictionary learning resolves conserved drug-response states in multiple myeloma (MM).",
@@ -1034,6 +1018,36 @@
       "fact": "PubMed 记录显示该文献收录于 Cancer genetics，PMID 为 42600555。",
       "report": "Multiple myeloma (MM) is a severe plasma-cell malignancy that continues to cause substantial morbidity and mortality despite major therapeutic advances. Although current therapies target distinct molecular processes, many patients eventually relapse, raising t...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42625609",
+      "date": "2026-08-06",
+      "title": "Emergence of EGFR C797S as a resistance mechanism to CLN081 in EGFR exon 20-mutant NSCLC: case report.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42625609/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42625609。",
+      "report": "EGFR exon 20 insertion mutations represent a distinct subset of non-small cell lung cancer (NSCLC) with limited sensitivity to earlier-generation EGFR tyrosine kinase inhibitors (TKIs). CLN081 (zipalertinib; TAS6417) is a novel covalent EGFR TKI under developm...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

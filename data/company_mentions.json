@@ -4,73 +4,165 @@
   "asOfDate": "2026-08-21",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-5eb7eec2bbf0acdf",
-      "observedName": "Janssen Research & Development, LLC",
-      "normalizedName": "janssen research and development",
+      "id": "mention-clinicaltrials-0e6dcad957ae58fa",
+      "observedName": "ITB-Med LLC",
+      "normalizedName": "itb med",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07518186",
-      "sourceDate": "2026-07-31",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07518186",
+      "sourceRecordId": "NCT04311632",
+      "sourceDate": "2025-02-27",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04311632",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
+        "临床试验"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "A Dose Escalation Study in de Novo Renal Transplantation"
+    },
+    {
+      "id": "mention-clinicaltrials-2c9fdf7943f902c4",
+      "observedName": "Grit Biotechnology",
+      "normalizedName": "grit biotechnology",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT07389499",
+      "sourceDate": "2026-04-23",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07389499",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Gene Therapy",
+        "Genetic Medicine",
         "Recruiting",
         "中国",
-        "临床试验"
+        "临床试验",
+        "基因治疗",
+        "基因编辑"
       ],
       "activitySignals": [
         "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Study Comparing JNJ-79635322 and Teclistamab in Participants With Relapsed or Refractory Multiple Myeloma"
+      "contextTitle": "A Clinical Study Evaluating the Safety and Efficacy of GT719 Universal Cell Injection in the Treatment of Immune-mediated Kidney Diseases"
     },
     {
-      "id": "mention-clinicaltrials-678aa8f0f56ae271",
-      "observedName": "Gyroscope Therapeutics Limited",
-      "normalizedName": "gyroscope therapeutics",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT05481827",
-      "sourceDate": "2024-03-22",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05481827",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "ORACLE: A Long-term Follow-up Study to Evaluate the Safety of GT005 in Participants With Geographic Atrophy Secondary to Age-related Macular Degeneration Treated in a Gyroscope-sponsored Antecedent Study"
-    },
-    {
-      "id": "mention-clinicaltrials-ee889356dc44fd5c",
-      "observedName": "Novartis Pharmaceuticals",
-      "normalizedName": "novartis pharmaceuticals",
+      "id": "mention-clinicaltrials-495d0707d72e5359",
+      "observedName": "Abinopharm, Inc",
+      "normalizedName": "abinopharm",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT05481827",
-      "sourceDate": "2024-03-22",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05481827",
+      "sourceRecordId": "NCT06990256",
+      "sourceDate": "2026-08-10",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06990256",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Longevity",
+        "Recruiting",
+        "biomarker",
+        "中国",
+        "临床试验",
+        "衰老"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Evaluation of Urolithin A and Fisetin on Improving Sleep and Aging Biomarkers"
+    },
+    {
+      "id": "mention-clinicaltrials-60d4dfab2908fbdb",
+      "observedName": "Vasgene Therapeutics, Inc",
+      "normalizedName": "vasgene therapeutics",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT03993106",
+      "sourceDate": "2024-05-02",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03993106",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "临床试验"
+        "Oncology",
+        "Precision Oncology",
+        "临床试验",
+        "肿瘤"
       ],
       "activitySignals": [
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "ORACLE: A Long-term Follow-up Study to Evaluate the Safety of GT005 in Participants With Geographic Atrophy Secondary to Age-related Macular Degeneration Treated in a Gyroscope-sponsored Antecedent Study"
+      "contextTitle": "A Study of sEphB4-HSA in Kaposi Sarcoma"
+    },
+    {
+      "id": "mention-clinicaltrials-64dc756b0525c7dd",
+      "observedName": "Basic Health International, Inc.",
+      "normalizedName": "basic health international",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT05431699",
+      "sourceDate": "2026-01-23",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05431699",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Diagnostics",
+        "Oncology",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Recruiting",
+        "临床试验",
+        "精准医疗",
+        "肿瘤",
+        "诊断"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Single Visit Clinical Validation of ScreenFire, a Low-cost HPV Test"
+    },
+    {
+      "id": "mention-clinicaltrials-d709dffc42bec795",
+      "observedName": "Intermountain Health Care, Inc.",
+      "normalizedName": "intermountain health care",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT04606849",
+      "sourceDate": "2024-08-26",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04606849",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Healthcare AI",
+        "Medical AI",
+        "Recruiting",
+        "临床决策支持",
+        "临床试验",
+        "医疗 AI"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Adaptation and Pilot Implementation of ePNa Clinical Decision Support for Utah Urgent Care Clinics"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
