@@ -618,9 +618,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-21T05:07:38+00:00",
+      "lastCheckedAt": "2026-08-22T05:02:25+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-08-21T05:07:38+00:00"
+      "lastFailureAt": "2026-08-22T05:02:25+00:00"
     },
     {
       "companyId": "arvinas",
@@ -847,9 +847,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-21T05:07:38+00:00",
+      "lastCheckedAt": "2026-08-22T05:02:25+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-08-21T05:07:38+00:00"
+      "lastFailureAt": "2026-08-22T05:02:25+00:00"
     },
     {
       "companyId": "beam-therapeutics",
@@ -24478,10 +24478,10 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-08-10T11:09:51+00:00",
       "capturedAt": "2026-08-10T11:09:51+00:00",
-      "lastCheckedAt": "2026-08-21T05:07:38+00:00",
+      "lastCheckedAt": "2026-08-22T05:02:25+00:00",
       "nextCheckAt": "2026-08-17T13:46:20+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-08-21T05:07:38+00:00"
+      "lastFailureAt": "2026-08-22T05:02:25+00:00"
     },
     {
       "companyId": "crispr-therapeutics",
@@ -25126,9 +25126,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-08-21T05:07:38+00:00",
+      "lastCheckedAt": "2026-08-22T05:02:25+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-08-21T05:07:38+00:00"
+      "lastFailureAt": "2026-08-22T05:02:25+00:00"
     },
     {
       "companyId": "intellia",
@@ -26245,10 +26245,10 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-08-10T11:09:51+00:00",
       "capturedAt": "2026-08-10T11:09:51+00:00",
-      "lastCheckedAt": "2026-08-21T05:07:38+00:00",
+      "lastCheckedAt": "2026-08-22T05:02:25+00:00",
       "nextCheckAt": "2026-08-17T13:46:20+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-08-21T05:07:38+00:00"
+      "lastFailureAt": "2026-08-22T05:02:25+00:00"
     },
     {
       "companyId": "recursion",
