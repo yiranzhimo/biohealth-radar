@@ -1,13 +1,13 @@
 {
   "schemaVersion": "1.0",
-  "capturedAt": "2026-08-21T04:03:16+00:00",
+  "capturedAt": "2026-08-22T03:57:39+00:00",
   "source": {
     "name": "SEC EDGAR",
     "type": "Corporate Registrant",
     "reliability": "High",
     "url": "https://www.sec.gov/edgar/search/"
   },
-  "observedOn": "2026-08-21",
+  "observedOn": "2026-08-22",
   "sicCodes": {
     "2833": "Medicinal Chemicals and Botanical Products",
     "2834": "Pharmaceutical Preparations",
@@ -716,7 +716,8 @@
       "observedAt": "2026-08-21",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001909747&owner=exclude&hidefilings=0",
       "tickers": [
-        "JUSH"
+        "JUSH",
+        "JUSHF"
       ],
       "exchanges": [
         "OTC"
@@ -2051,8 +2052,7 @@
       "observedAt": "2026-08-21",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001824893&owner=exclude&hidefilings=0",
       "tickers": [
-        "SRZN",
-        "SRZNW"
+        "SRZN"
       ],
       "exchanges": [
         "Nasdaq"
@@ -7210,7 +7210,9 @@
       "tickers": [
         "WINT"
       ],
-      "exchanges": [],
+      "exchanges": [
+        "OTC"
+      ],
       "secName": "WINDTREE THERAPEUTICS INC /DE/"
     },
     {
@@ -7767,7 +7769,8 @@
       "observedAt": "2026-08-21",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000727510&owner=exclude&hidefilings=0",
       "tickers": [
-        "VISK"
+        "VISK",
+        "ENZN"
       ],
       "exchanges": [
         "OTC"

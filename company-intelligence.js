@@ -80519,7 +80519,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "insufficient_identity_evidence"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "ClinicalTrials"
@@ -80594,7 +80594,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "insufficient_identity_evidence"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "ClinicalTrials"
@@ -80679,7 +80679,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "insufficient_identity_evidence"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "ClinicalTrials"
@@ -80760,7 +80760,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "insufficient_identity_evidence"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "ClinicalTrials"
@@ -80847,7 +80847,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "insufficient_identity_evidence"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "ClinicalTrials"
@@ -80938,7 +80938,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "insufficient_identity_evidence"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "ClinicalTrials"
@@ -81019,7 +81019,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81104,7 +81104,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81189,7 +81189,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81274,7 +81274,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81359,7 +81359,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81444,7 +81444,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81529,7 +81529,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81614,7 +81614,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81699,7 +81699,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81784,7 +81784,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81869,7 +81869,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81954,7 +81954,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82039,7 +82039,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82124,7 +82124,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82209,7 +82209,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82294,7 +82294,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82379,7 +82379,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82464,7 +82464,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82549,7 +82549,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82634,7 +82634,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82719,7 +82719,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82804,7 +82804,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82889,7 +82889,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82974,7 +82974,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83059,7 +83059,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83144,7 +83144,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83229,7 +83229,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83314,7 +83314,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83399,7 +83399,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83484,7 +83484,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83569,7 +83569,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83654,7 +83654,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83739,7 +83739,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83824,7 +83824,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83909,7 +83909,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83994,7 +83994,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84079,7 +84079,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84164,7 +84164,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84249,7 +84249,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84334,7 +84334,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84419,7 +84419,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84504,7 +84504,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84589,7 +84589,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84674,7 +84674,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84759,7 +84759,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84844,7 +84844,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84929,7 +84929,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85014,7 +85014,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85099,7 +85099,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85184,7 +85184,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85269,7 +85269,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85354,7 +85354,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85439,7 +85439,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85524,7 +85524,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85609,7 +85609,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85694,7 +85694,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85779,7 +85779,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85864,7 +85864,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85949,7 +85949,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86034,7 +86034,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86119,7 +86119,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86204,7 +86204,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86289,7 +86289,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86374,7 +86374,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86459,7 +86459,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86544,7 +86544,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86629,7 +86629,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86714,7 +86714,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86799,7 +86799,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86884,7 +86884,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86969,7 +86969,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87054,7 +87054,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87139,7 +87139,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87224,7 +87224,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87309,7 +87309,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87394,7 +87394,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87479,7 +87479,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87564,7 +87564,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87649,7 +87649,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87734,7 +87734,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87819,7 +87819,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87904,7 +87904,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87989,7 +87989,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88074,7 +88074,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88159,7 +88159,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88244,7 +88244,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88329,7 +88329,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88414,7 +88414,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88499,7 +88499,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88584,7 +88584,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88669,7 +88669,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88754,7 +88754,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88839,7 +88839,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88924,7 +88924,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89009,7 +89009,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89094,7 +89094,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89179,7 +89179,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89264,7 +89264,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89349,7 +89349,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89434,7 +89434,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89519,7 +89519,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89604,7 +89604,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89689,7 +89689,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89774,7 +89774,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89859,7 +89859,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89944,7 +89944,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90029,7 +90029,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90114,7 +90114,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90199,7 +90199,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90284,7 +90284,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90369,7 +90369,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90454,7 +90454,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90539,7 +90539,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90624,7 +90624,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90709,7 +90709,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90794,7 +90794,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90879,7 +90879,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90964,7 +90964,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91049,7 +91049,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91134,7 +91134,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91219,7 +91219,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91304,7 +91304,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91389,7 +91389,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91474,7 +91474,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91559,7 +91559,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91644,7 +91644,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91729,7 +91729,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91814,7 +91814,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91899,7 +91899,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91984,7 +91984,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92069,7 +92069,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92154,7 +92154,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92239,7 +92239,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92324,7 +92324,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92409,7 +92409,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92494,7 +92494,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92579,7 +92579,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92664,7 +92664,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92749,7 +92749,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92834,7 +92834,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92919,7 +92919,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93004,7 +93004,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93089,7 +93089,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93174,7 +93174,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93259,7 +93259,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93344,7 +93344,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93429,7 +93429,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93514,7 +93514,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93599,7 +93599,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93684,7 +93684,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93769,7 +93769,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93854,7 +93854,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93939,7 +93939,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94024,7 +94024,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94109,7 +94109,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94194,7 +94194,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94279,7 +94279,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94364,7 +94364,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94449,7 +94449,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94534,7 +94534,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94619,7 +94619,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94704,7 +94704,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94789,7 +94789,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94874,7 +94874,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94959,7 +94959,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95044,7 +95044,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95129,7 +95129,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95214,7 +95214,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95299,7 +95299,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95384,7 +95384,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95469,7 +95469,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95554,7 +95554,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95639,7 +95639,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95724,7 +95724,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95809,7 +95809,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95894,7 +95894,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95979,7 +95979,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96064,7 +96064,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96149,7 +96149,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96234,7 +96234,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96319,7 +96319,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96404,7 +96404,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96489,7 +96489,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96574,7 +96574,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96659,7 +96659,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96744,7 +96744,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96829,7 +96829,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96914,7 +96914,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96999,7 +96999,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97084,7 +97084,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97169,7 +97169,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97254,7 +97254,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97339,7 +97339,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97424,7 +97424,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97509,7 +97509,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97594,7 +97594,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97679,7 +97679,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97764,7 +97764,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97849,7 +97849,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97934,7 +97934,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98019,7 +98019,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98104,7 +98104,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98189,7 +98189,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98274,7 +98274,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98359,7 +98359,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98444,7 +98444,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98529,7 +98529,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98614,7 +98614,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98699,7 +98699,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98784,7 +98784,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98869,7 +98869,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98954,7 +98954,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99039,7 +99039,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99124,7 +99124,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99209,7 +99209,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99294,7 +99294,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99379,7 +99379,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99464,7 +99464,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99549,7 +99549,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99634,7 +99634,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99719,7 +99719,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99804,7 +99804,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99889,7 +99889,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99974,7 +99974,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100059,7 +100059,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100144,7 +100144,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100229,7 +100229,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100314,7 +100314,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100399,7 +100399,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100484,7 +100484,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100569,7 +100569,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100654,7 +100654,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100739,7 +100739,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100824,7 +100824,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100909,7 +100909,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100994,7 +100994,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101079,7 +101079,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101164,7 +101164,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101249,7 +101249,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101334,7 +101334,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101419,7 +101419,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101504,7 +101504,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101589,7 +101589,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101674,7 +101674,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101759,7 +101759,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101844,7 +101844,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101929,7 +101929,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102014,7 +102014,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102099,7 +102099,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102184,7 +102184,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102269,7 +102269,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102354,7 +102354,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102439,7 +102439,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102524,7 +102524,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102609,7 +102609,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102694,7 +102694,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102779,7 +102779,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102864,7 +102864,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102949,7 +102949,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103034,7 +103034,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103119,7 +103119,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103204,7 +103204,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103289,7 +103289,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103374,7 +103374,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103459,7 +103459,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103544,7 +103544,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103629,7 +103629,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103714,7 +103714,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103799,7 +103799,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103884,7 +103884,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103969,7 +103969,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104054,7 +104054,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104139,7 +104139,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104224,7 +104224,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104309,7 +104309,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104394,7 +104394,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104479,7 +104479,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104564,7 +104564,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104649,7 +104649,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104734,7 +104734,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104819,7 +104819,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104904,7 +104904,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104989,7 +104989,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105074,7 +105074,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105159,7 +105159,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105244,7 +105244,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105329,7 +105329,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105414,7 +105414,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105499,7 +105499,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105584,7 +105584,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105669,7 +105669,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105754,7 +105754,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105839,7 +105839,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105924,7 +105924,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106009,7 +106009,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106094,7 +106094,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106179,7 +106179,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106264,7 +106264,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106349,7 +106349,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106434,7 +106434,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106519,7 +106519,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106604,7 +106604,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106689,7 +106689,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106774,7 +106774,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106859,7 +106859,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106944,7 +106944,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107029,7 +107029,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107114,7 +107114,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107199,7 +107199,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107284,7 +107284,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107369,7 +107369,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107454,7 +107454,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107539,7 +107539,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107624,7 +107624,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107709,7 +107709,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107794,7 +107794,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107879,7 +107879,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107964,7 +107964,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108049,7 +108049,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108134,7 +108134,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108219,7 +108219,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108304,7 +108304,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108389,7 +108389,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108474,7 +108474,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108559,7 +108559,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108644,7 +108644,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108729,7 +108729,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108814,7 +108814,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108899,7 +108899,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108984,7 +108984,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109069,7 +109069,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109154,7 +109154,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109239,7 +109239,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109324,7 +109324,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109409,7 +109409,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109494,7 +109494,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109579,7 +109579,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109664,7 +109664,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109749,7 +109749,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109834,7 +109834,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109919,7 +109919,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110004,7 +110004,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110089,7 +110089,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110174,7 +110174,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110259,7 +110259,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110344,7 +110344,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110429,7 +110429,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110514,7 +110514,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110599,7 +110599,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110684,7 +110684,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110769,7 +110769,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110854,7 +110854,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110939,7 +110939,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111024,7 +111024,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111109,7 +111109,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111194,7 +111194,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111279,7 +111279,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111364,7 +111364,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111449,7 +111449,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111534,7 +111534,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111619,7 +111619,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111704,7 +111704,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111789,7 +111789,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111874,7 +111874,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111959,7 +111959,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112044,7 +112044,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112129,7 +112129,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112214,7 +112214,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112299,7 +112299,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112384,7 +112384,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112469,7 +112469,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112554,7 +112554,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112639,7 +112639,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112724,7 +112724,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112809,7 +112809,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112894,7 +112894,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112979,7 +112979,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113064,7 +113064,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113149,7 +113149,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113234,7 +113234,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113319,7 +113319,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113404,7 +113404,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113489,7 +113489,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113574,7 +113574,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113659,7 +113659,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113744,7 +113744,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113829,7 +113829,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113856,7 +113856,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02627"
@@ -113890,7 +113890,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en",
           "externalId": "02627",
           "contextTitle": "AB&B BIO-TECH-B"
@@ -113914,7 +113914,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -113944,7 +113944,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02256"
@@ -113978,7 +113978,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
           "externalId": "02256",
           "contextTitle": "ABBISKO-B"
@@ -114002,7 +114002,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114032,7 +114032,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "06669"
@@ -114066,7 +114066,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
           "externalId": "06669",
           "contextTitle": "ACOTEC-B"
@@ -114090,7 +114090,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114120,7 +114120,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02251"
@@ -114154,7 +114154,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en",
           "externalId": "02251",
           "contextTitle": "AIRDOC-B"
@@ -114178,7 +114178,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114208,7 +114208,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "09637"
@@ -114242,7 +114242,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9637&sc_lang=en",
           "externalId": "09637",
           "contextTitle": "ALEBUND-B"
@@ -114266,7 +114266,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114296,7 +114296,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "09966"
@@ -114330,7 +114330,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9966&sc_lang=en",
           "externalId": "09966",
           "contextTitle": "ALPHAMAB-B"
@@ -114354,7 +114354,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114384,7 +114384,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "06996"
@@ -114418,7 +114418,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6996&sc_lang=en",
           "externalId": "06996",
           "contextTitle": "ANTENGENE-B"
@@ -114442,7 +114442,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114472,7 +114472,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "01672"
@@ -114506,7 +114506,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1672&sc_lang=en",
           "externalId": "01672",
           "contextTitle": "ASCLETIS-B"
@@ -114530,7 +114530,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114560,7 +114560,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02396"
@@ -114594,7 +114594,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2396&sc_lang=en",
           "externalId": "02396",
           "contextTitle": "B&K CORP-B"
@@ -114618,7 +114618,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114648,7 +114648,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02659"
@@ -114682,7 +114682,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2659&sc_lang=en",
           "externalId": "02659",
           "contextTitle": "BAO PHARMA-B"
@@ -114706,7 +114706,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114736,7 +114736,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02170"
@@ -114770,7 +114770,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2170&sc_lang=en",
           "externalId": "02170",
           "contextTitle": "BASECARE-B"
@@ -114794,7 +114794,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114824,7 +114824,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02315"
@@ -114858,7 +114858,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2315&sc_lang=en",
           "externalId": "02315",
           "contextTitle": "BIOCYTOGEN-B"
@@ -114882,7 +114882,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114912,7 +114912,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "01875"
@@ -114946,7 +114946,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1875&sc_lang=en",
           "externalId": "01875",
           "contextTitle": "BIODLINK-B"
@@ -114970,7 +114970,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115000,7 +115000,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02185"
@@ -115034,7 +115034,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2185&sc_lang=en",
           "externalId": "02185",
           "contextTitle": "BIOHEART-B"
@@ -115058,7 +115058,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115088,7 +115088,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02563"
@@ -115122,7 +115122,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2563&sc_lang=en",
           "externalId": "02563",
           "contextTitle": "BIOSTAR PHARM-B"
@@ -115146,7 +115146,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115176,7 +115176,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "06681"
@@ -115210,7 +115210,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6681&sc_lang=en",
           "externalId": "06681",
           "contextTitle": "BRAINAURORA-B"
@@ -115234,7 +115234,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115264,7 +115264,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02137"
@@ -115298,7 +115298,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en",
           "externalId": "02137",
           "contextTitle": "BRII-B"
@@ -115322,7 +115322,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115352,7 +115352,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02216"
@@ -115386,7 +115386,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2216&sc_lang=en",
           "externalId": "02216",
           "contextTitle": "BRONCUS-B"
@@ -115410,7 +115410,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115440,7 +115440,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "01228"
@@ -115474,7 +115474,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en",
           "externalId": "01228",
           "contextTitle": "CANBRIDGE-B"
@@ -115498,7 +115498,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115528,7 +115528,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02171"
@@ -115562,7 +115562,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2171&sc_lang=en",
           "externalId": "02171",
           "contextTitle": "CARSGEN-B"
@@ -115586,7 +115586,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115616,7 +115616,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02592"
@@ -115650,7 +115650,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en",
           "externalId": "02592",
           "contextTitle": "CLOUDBREAK-B"
@@ -115674,7 +115674,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115704,7 +115704,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02197"
@@ -115738,7 +115738,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2197&sc_lang=en",
           "externalId": "02197",
           "contextTitle": "CLOVER BIO-B"
@@ -115762,7 +115762,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115792,7 +115792,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "06922"
@@ -115826,7 +115826,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6922&sc_lang=en",
           "externalId": "06922",
           "contextTitle": "CRYOFOCUS-B"
@@ -115850,7 +115850,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115880,7 +115880,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02616"
@@ -115914,7 +115914,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2616&sc_lang=en",
           "externalId": "02616",
           "contextTitle": "CSTONE PHARMA-B"
@@ -115938,7 +115938,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115968,7 +115968,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02487"
@@ -116002,7 +116002,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2487&sc_lang=en",
           "externalId": "02487",
           "contextTitle": "CUTIA-B"
@@ -116026,7 +116026,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116056,7 +116056,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02526"
@@ -116090,7 +116090,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2526&sc_lang=en",
           "externalId": "02526",
           "contextTitle": "DIAGENS-B"
@@ -116114,7 +116114,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116144,7 +116144,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": true,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "09606"
@@ -116184,7 +116184,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9606&sc_lang=en",
           "externalId": "09606",
           "contextTitle": "DUALITYBIO-B"
@@ -116217,7 +116217,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX",
@@ -116249,7 +116249,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02675"
@@ -116283,7 +116283,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2675&sc_lang=en",
           "externalId": "02675",
           "contextTitle": "EDGE MEDICAL-B"
@@ -116307,7 +116307,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116337,7 +116337,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02595"
@@ -116371,7 +116371,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2595&sc_lang=en",
           "externalId": "02595",
           "contextTitle": "GENFLEET-B"
@@ -116395,7 +116395,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116425,7 +116425,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "03378"
@@ -116459,7 +116459,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3378&sc_lang=en",
           "externalId": "03378",
           "contextTitle": "HANXBIO-B"
@@ -116483,7 +116483,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116513,7 +116513,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02142"
@@ -116547,7 +116547,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2142&sc_lang=en",
           "externalId": "02142",
           "contextTitle": "HBM HOLDINGS-B"
@@ -116571,7 +116571,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116601,7 +116601,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "06609"
@@ -116635,7 +116635,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6609&sc_lang=en",
           "externalId": "06609",
           "contextTitle": "HEARTCARE-B"
@@ -116659,7 +116659,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116689,7 +116689,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02511"
@@ -116723,7 +116723,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2511&sc_lang=en",
           "externalId": "02511",
           "contextTitle": "HIGHTIDE-B"
@@ -116747,7 +116747,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116777,7 +116777,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "06132"
@@ -116811,7 +116811,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6132&sc_lang=en",
           "externalId": "06132",
           "contextTitle": "HJ SCIENCE-B"
@@ -116835,7 +116835,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116865,7 +116865,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02552"
@@ -116899,7 +116899,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2552&sc_lang=en",
           "externalId": "02552",
           "contextTitle": "HUA MEDICINE-B"
@@ -116923,7 +116923,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116953,7 +116953,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "01541"
@@ -116987,7 +116987,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1541&sc_lang=en",
           "externalId": "01541",
           "contextTitle": "IMMUNEONCO-B"
@@ -117011,7 +117011,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117041,7 +117041,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "06978"
@@ -117075,7 +117075,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6978&sc_lang=en",
           "externalId": "06978",
           "contextTitle": "IMMUNOTECH-B"
@@ -117099,7 +117099,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117129,7 +117129,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "07630"
@@ -117163,7 +117163,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en",
           "externalId": "07630",
           "contextTitle": "IMPACT THERAP-B"
@@ -117187,7 +117187,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117217,7 +117217,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02591"
@@ -117251,7 +117251,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2591&sc_lang=en",
           "externalId": "02591",
           "contextTitle": "INNOGEN-B"
@@ -117275,7 +117275,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117305,7 +117305,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "01167"
@@ -117339,7 +117339,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1167&sc_lang=en",
           "externalId": "01167",
           "contextTitle": "JACOBIO-B"
@@ -117363,7 +117363,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117393,7 +117393,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "09877"
@@ -117427,7 +117427,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9877&sc_lang=en",
           "externalId": "09877",
           "contextTitle": "JENSCARE-B"
@@ -117451,7 +117451,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117481,7 +117481,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02126"
@@ -117515,7 +117515,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en",
           "externalId": "02126",
           "contextTitle": "JW THERAP-B"
@@ -117539,7 +117539,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117569,7 +117569,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02162"
@@ -117603,7 +117603,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2162&sc_lang=en",
           "externalId": "02162",
           "contextTitle": "KEYMED BIO-B"
@@ -117627,7 +117627,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117657,7 +117657,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "09939"
@@ -117691,7 +117691,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9939&sc_lang=en",
           "externalId": "09939",
           "contextTitle": "KINTOR PHARMA-B"
@@ -117715,7 +117715,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117745,7 +117745,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02105"
@@ -117779,7 +117779,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2105&sc_lang=en",
           "externalId": "02105",
           "contextTitle": "LAEKNA-B"
@@ -117803,7 +117803,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117833,7 +117833,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "09887"
@@ -117867,7 +117867,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9887&sc_lang=en",
           "externalId": "09887",
           "contextTitle": "LEADS BIOLABS-B"
@@ -117891,7 +117891,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117921,7 +117921,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "01779"
@@ -117955,7 +117955,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1779&sc_lang=en",
           "externalId": "01779",
           "contextTitle": "LONGBIO-B"
@@ -117979,7 +117979,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118009,7 +118009,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02480"
@@ -118043,7 +118043,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2480&sc_lang=en",
           "externalId": "02480",
           "contextTitle": "LUZHU BIOTECH-B"
@@ -118067,7 +118067,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118097,7 +118097,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02181"
@@ -118131,7 +118131,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2181&sc_lang=en",
           "externalId": "02181",
           "contextTitle": "MABPHARM-B"
@@ -118155,7 +118155,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118185,7 +118185,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02493"
@@ -118219,7 +118219,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2493&sc_lang=en",
           "externalId": "02493",
           "contextTitle": "MABWELL-B"
@@ -118243,7 +118243,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118273,7 +118273,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": true,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02252"
@@ -118313,7 +118313,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en",
           "externalId": "02252",
           "contextTitle": "MEDBOT-B"
@@ -118346,7 +118346,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX",
@@ -118378,7 +118378,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02335"
@@ -118412,7 +118412,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2335&sc_lang=en",
           "externalId": "02335",
           "contextTitle": "MICOT PHARMA-B"
@@ -118436,7 +118436,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118466,7 +118466,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02235"
@@ -118500,7 +118500,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en",
           "externalId": "02235",
           "contextTitle": "MICROTECH MED-B"
@@ -118524,7 +118524,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118554,7 +118554,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02629"
@@ -118588,7 +118588,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2629&sc_lang=en",
           "externalId": "02629",
           "contextTitle": "MIRXES-B"
@@ -118612,7 +118612,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118642,7 +118642,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02160"
@@ -118676,7 +118676,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2160&sc_lang=en",
           "externalId": "02160",
           "contextTitle": "MP CARDIOFLOW-B"
@@ -118700,7 +118700,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118730,7 +118730,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "01477"
@@ -118764,7 +118764,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1477&sc_lang=en",
           "externalId": "01477",
           "contextTitle": "OCUMENSION-B"
@@ -118788,7 +118788,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118818,7 +118818,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02565"
@@ -118852,7 +118852,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2565&sc_lang=en",
           "externalId": "02565",
           "contextTitle": "PEGBIO CO-B"
@@ -118876,7 +118876,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118906,7 +118906,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "09996"
@@ -118940,7 +118940,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9996&sc_lang=en",
           "externalId": "09996",
           "contextTitle": "PEIJIA-B"
@@ -118964,7 +118964,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118994,7 +118994,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02509"
@@ -119028,7 +119028,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2509&sc_lang=en",
           "externalId": "02509",
           "contextTitle": "QYUNS-B"
@@ -119052,7 +119052,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119082,7 +119082,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02297"
@@ -119116,7 +119116,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en",
           "externalId": "02297",
           "contextTitle": "RAINMED-B"
@@ -119140,7 +119140,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119170,7 +119170,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02179"
@@ -119204,7 +119204,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2179&sc_lang=en",
           "externalId": "02179",
           "contextTitle": "RECBIO-B"
@@ -119228,7 +119228,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119258,7 +119258,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "06938"
@@ -119292,7 +119292,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6938&sc_lang=en",
           "externalId": "06938",
           "contextTitle": "RIBOLIFE-B"
@@ -119316,7 +119316,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119346,7 +119346,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "03681"
@@ -119380,7 +119380,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3681&sc_lang=en",
           "externalId": "03681",
           "contextTitle": "SINOMAB BIO-B"
@@ -119404,7 +119404,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119434,7 +119434,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02257"
@@ -119468,7 +119468,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2257&sc_lang=en",
           "externalId": "02257",
           "contextTitle": "SIRNAOMICS-B"
@@ -119492,7 +119492,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119522,7 +119522,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02898"
@@ -119556,7 +119556,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2898&sc_lang=en",
           "externalId": "02898",
           "contextTitle": "SUNHO BIO-B"
@@ -119580,7 +119580,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119610,7 +119610,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "06872"
@@ -119644,7 +119644,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6872&sc_lang=en",
           "externalId": "06872",
           "contextTitle": "TENNOR THERAP-B"
@@ -119668,7 +119668,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119698,7 +119698,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02697"
@@ -119732,7 +119732,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2697&sc_lang=en",
           "externalId": "02697",
           "contextTitle": "TH MEDICAL-B"
@@ -119756,7 +119756,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119786,7 +119786,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "06628"
@@ -119820,7 +119820,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6628&sc_lang=en",
           "externalId": "06628",
           "contextTitle": "TRANSCENTA-B"
@@ -119844,7 +119844,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119874,7 +119874,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02617"
@@ -119908,7 +119908,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2617&sc_lang=en",
           "externalId": "02617",
           "contextTitle": "TRANSTHERA-B"
@@ -119932,7 +119932,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119962,7 +119962,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02410"
@@ -119996,7 +119996,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2410&sc_lang=en",
           "externalId": "02410",
           "contextTitle": "TYK MEDICINES-B"
@@ -120020,7 +120020,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120050,7 +120050,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02500"
@@ -120084,7 +120084,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2500&sc_lang=en",
           "externalId": "02500",
           "contextTitle": "VENUS MEDTECH-B"
@@ -120108,7 +120108,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120138,7 +120138,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02630"
@@ -120172,7 +120172,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2630&sc_lang=en",
           "externalId": "02630",
           "contextTitle": "VIGONVITA-B"
@@ -120196,7 +120196,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120226,7 +120226,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02561"
@@ -120260,7 +120260,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2561&sc_lang=en",
           "externalId": "02561",
           "contextTitle": "VISEN PHARMA-B"
@@ -120284,7 +120284,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120314,7 +120314,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02575"
@@ -120348,7 +120348,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2575&sc_lang=en",
           "externalId": "02575",
           "contextTitle": "XUANZHUBIO-B"
@@ -120372,7 +120372,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120402,7 +120402,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "02496"
@@ -120436,7 +120436,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2496&sc_lang=en",
           "externalId": "02496",
           "contextTitle": "YZYBIO-B"
@@ -120460,7 +120460,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120490,7 +120490,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-24",
       "identifiers": {
         "hkexStockCode": [
           "06622"
@@ -120524,7 +120524,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "HKEX",
           "sourceName": "Hong Kong Exchanges and Clearing Limited",
           "sourceRole": "active_biotech_marker_issuer",
-          "sourceDate": "2026-08-21",
+          "sourceDate": "2026-08-24",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6622&sc_lang=en",
           "externalId": "06622",
           "contextTitle": "ZHAOKE OPHTH-B"
@@ -120548,7 +120548,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120636,7 +120636,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -120724,7 +120724,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -120812,7 +120812,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -120900,7 +120900,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -120988,7 +120988,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121076,7 +121076,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121164,7 +121164,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121252,7 +121252,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121340,7 +121340,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121428,7 +121428,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121516,7 +121516,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121604,7 +121604,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121692,7 +121692,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121780,7 +121780,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121868,7 +121868,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121956,7 +121956,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122044,7 +122044,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122132,7 +122132,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122220,7 +122220,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122308,7 +122308,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122396,7 +122396,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122484,7 +122484,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122572,7 +122572,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122660,7 +122660,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122748,7 +122748,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122779,7 +122779,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688336"
@@ -122811,7 +122811,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688336",
           "contextTitle": "三生国健 / Sunshine Guojian Pharmaceutical (Shanghai) Co., Ltd."
@@ -122820,7 +122820,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688336",
           "contextTitle": "三生国健 / Sunshine Guojian Pharmaceutical (Shanghai) Co., Ltd."
@@ -122844,7 +122844,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -122873,7 +122873,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688091"
@@ -122905,7 +122905,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688091",
           "contextTitle": "上海谊众 / Shanghai Yizhong Pharmaceutical Co., Ltd."
@@ -122914,7 +122914,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688091",
           "contextTitle": "上海谊众 / Shanghai Yizhong Pharmaceutical Co., Ltd."
@@ -122938,7 +122938,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -122967,7 +122967,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688575"
@@ -122999,7 +122999,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688575",
           "contextTitle": "亚辉龙 / Shenzhen YHLO Biotech Co., Ltd."
@@ -123008,7 +123008,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688575",
           "contextTitle": "亚辉龙 / Shenzhen YHLO Biotech Co., Ltd."
@@ -123032,7 +123032,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123061,7 +123061,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688198"
@@ -123093,7 +123093,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688198",
           "contextTitle": "佰仁医疗 / BeijingBalanceMedicalTechnologyCo.,Ltd."
@@ -123102,7 +123102,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688198",
           "contextTitle": "佰仁医疗 / BeijingBalanceMedicalTechnologyCo.,Ltd."
@@ -123126,7 +123126,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123155,7 +123155,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688114"
@@ -123187,7 +123187,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688114",
           "contextTitle": "华大智造 / MGI Tech Co., Ltd."
@@ -123196,7 +123196,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688114",
           "contextTitle": "华大智造 / MGI Tech Co., Ltd."
@@ -123220,7 +123220,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123249,7 +123249,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688639"
@@ -123281,7 +123281,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688639",
           "contextTitle": "华恒生物 / Anhui Huaheng Biotechnology Co.,Ltd."
@@ -123290,7 +123290,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688639",
           "contextTitle": "华恒生物 / Anhui Huaheng Biotechnology Co.,Ltd."
@@ -123314,7 +123314,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123343,7 +123343,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688363"
@@ -123375,7 +123375,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688363",
           "contextTitle": "华熙生物 / Bloomage Biotechnology Corporation Limited"
@@ -123384,7 +123384,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688363",
           "contextTitle": "华熙生物 / Bloomage Biotechnology Corporation Limited"
@@ -123408,7 +123408,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123437,7 +123437,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688029"
@@ -123469,7 +123469,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688029",
           "contextTitle": "南微医学 / Micro-Tech (Nanjing) Co.,Ltd"
@@ -123478,7 +123478,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688029",
           "contextTitle": "南微医学 / Micro-Tech (Nanjing) Co.,Ltd"
@@ -123502,7 +123502,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123531,7 +123531,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688166"
@@ -123563,7 +123563,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688166",
           "contextTitle": "博瑞医药 / BrightGene Bio-Medical Technology Co., Ltd."
@@ -123572,7 +123572,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688166",
           "contextTitle": "博瑞医药 / BrightGene Bio-Medical Technology Co., Ltd."
@@ -123596,7 +123596,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123625,7 +123625,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688180"
@@ -123657,7 +123657,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688180",
           "contextTitle": "君实生物 / Shanghai Junshi Biosciences Co., Ltd."
@@ -123666,7 +123666,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688180",
           "contextTitle": "君实生物 / Shanghai Junshi Biosciences Co., Ltd."
@@ -123690,7 +123690,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123719,7 +123719,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688289"
@@ -123751,7 +123751,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688289",
           "contextTitle": "圣湘生物 / Sansure Biotech Inc."
@@ -123760,7 +123760,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688289",
           "contextTitle": "圣湘生物 / Sansure Biotech Inc."
@@ -123784,7 +123784,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123813,7 +123813,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688277"
@@ -123845,7 +123845,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688277",
           "contextTitle": "天智航 / Tinavi Medical Technologies Co.,Ltd."
@@ -123854,7 +123854,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688277",
           "contextTitle": "天智航 / Tinavi Medical Technologies Co.,Ltd."
@@ -123878,7 +123878,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123907,7 +123907,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.93,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688301"
@@ -123939,7 +123939,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688301",
           "contextTitle": "奕瑞科技 / iRay Group"
@@ -123948,7 +123948,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688301",
           "contextTitle": "奕瑞科技 / iRay Group"
@@ -123972,7 +123972,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124001,7 +124001,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688161"
@@ -124033,7 +124033,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688161",
           "contextTitle": "威高骨科 / Shandong Weigao Orthopaedic Device Co.,Ltd."
@@ -124042,7 +124042,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688161",
           "contextTitle": "威高骨科 / Shandong Weigao Orthopaedic Device Co.,Ltd."
@@ -124066,7 +124066,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124095,7 +124095,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688185"
@@ -124127,7 +124127,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688185",
           "contextTitle": "康希诺 / CanSino Biologics Inc."
@@ -124136,7 +124136,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688185",
           "contextTitle": "康希诺 / CanSino Biologics Inc."
@@ -124160,7 +124160,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124189,7 +124189,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688351"
@@ -124221,7 +124221,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688351",
           "contextTitle": "微电生理 / Shanghai MicroPort EP Medtech Co., Ltd."
@@ -124230,7 +124230,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688351",
           "contextTitle": "微电生理 / Shanghai MicroPort EP Medtech Co., Ltd."
@@ -124254,7 +124254,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124283,7 +124283,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688321"
@@ -124315,7 +124315,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688321",
           "contextTitle": "微芯生物 / Shenzhen Chipscreen Biosciences Co., Ltd."
@@ -124324,7 +124324,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688321",
           "contextTitle": "微芯生物 / Shenzhen Chipscreen Biosciences Co., Ltd."
@@ -124348,7 +124348,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124377,7 +124377,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688016"
@@ -124409,7 +124409,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688016",
           "contextTitle": "心脉医疗 / Shanghai MicroPort Endovascular MedTech Co., Ltd."
@@ -124418,7 +124418,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688016",
           "contextTitle": "心脉医疗 / Shanghai MicroPort Endovascular MedTech Co., Ltd."
@@ -124442,7 +124442,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124471,7 +124471,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688759"
@@ -124503,7 +124503,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688759",
           "contextTitle": "必贝特 / BeBetter Med Inc."
@@ -124512,7 +124512,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688759",
           "contextTitle": "必贝特 / BeBetter Med Inc."
@@ -124536,7 +124536,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124565,7 +124565,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688658"
@@ -124597,7 +124597,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688658",
           "contextTitle": "悦康药业 / Youcare Pharmaceutical Group Co.,Ltd."
@@ -124606,7 +124606,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688658",
           "contextTitle": "悦康药业 / Youcare Pharmaceutical Group Co.,Ltd."
@@ -124630,7 +124630,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124659,7 +124659,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688617"
@@ -124691,7 +124691,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688617",
           "contextTitle": "惠泰医疗 / APT Medical Inc."
@@ -124700,7 +124700,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688617",
           "contextTitle": "惠泰医疗 / APT Medical Inc."
@@ -124724,7 +124724,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124753,7 +124753,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688739"
@@ -124785,7 +124785,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688739",
           "contextTitle": "成大生物 / Liaoning Chengda BiotechnologyCo.,Ltd."
@@ -124794,7 +124794,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688739",
           "contextTitle": "成大生物 / Liaoning Chengda BiotechnologyCo.,Ltd."
@@ -124818,7 +124818,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124847,7 +124847,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688222"
@@ -124879,7 +124879,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688222",
           "contextTitle": "成都先导 / HitGen Inc."
@@ -124888,7 +124888,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688222",
           "contextTitle": "成都先导 / HitGen Inc."
@@ -124912,7 +124912,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124941,7 +124941,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688443"
@@ -124973,7 +124973,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688443",
           "contextTitle": "智翔金泰 / Chongqing Genrix Biopharmaceutical Co., Ltd."
@@ -124982,7 +124982,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688443",
           "contextTitle": "智翔金泰 / Chongqing Genrix Biopharmaceutical Co., Ltd."
@@ -125006,7 +125006,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125035,7 +125035,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688319"
@@ -125067,7 +125067,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688319",
           "contextTitle": "欧林生物 / Chengdu Olymvax Biopharmaceuticals Inc."
@@ -125076,7 +125076,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688319",
           "contextTitle": "欧林生物 / Chengdu Olymvax Biopharmaceuticals Inc."
@@ -125100,7 +125100,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125129,7 +125129,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688553"
@@ -125161,7 +125161,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688553",
           "contextTitle": "汇宇制药 / Sichuan Huiyu Pharmaceutical Co., Ltd."
@@ -125170,7 +125170,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688553",
           "contextTitle": "汇宇制药 / Sichuan Huiyu Pharmaceutical Co., Ltd."
@@ -125194,7 +125194,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125223,7 +125223,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688266"
@@ -125255,7 +125255,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688266",
           "contextTitle": "泽璟制药 / Suzhou Zelgen Biopharmaceuticals Co., Ltd."
@@ -125264,7 +125264,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688266",
           "contextTitle": "泽璟制药 / Suzhou Zelgen Biopharmaceuticals Co., Ltd."
@@ -125288,7 +125288,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125317,7 +125317,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688656"
@@ -125349,7 +125349,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688656",
           "contextTitle": "浩欧博 / HOB Biotech Group Corp.,Ltd."
@@ -125358,7 +125358,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688656",
           "contextTitle": "浩欧博 / HOB Biotech Group Corp.,Ltd."
@@ -125382,7 +125382,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125411,7 +125411,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688139"
@@ -125443,7 +125443,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688139",
           "contextTitle": "海尔生物 / QINGDAO HAIER BIOMEDICAL CO., LTD."
@@ -125452,7 +125452,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688139",
           "contextTitle": "海尔生物 / QINGDAO HAIER BIOMEDICAL CO., LTD."
@@ -125476,7 +125476,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125505,7 +125505,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688068"
@@ -125537,7 +125537,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688068",
           "contextTitle": "热景生物 / Beijing Hotgen Biotech Co.,Ltd."
@@ -125546,7 +125546,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688068",
           "contextTitle": "热景生物 / Beijing Hotgen Biotech Co.,Ltd."
@@ -125570,7 +125570,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125599,7 +125599,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688050"
@@ -125631,7 +125631,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688050",
           "contextTitle": "爱博医疗 / Eyebright Medical Technology (Beijing) Co., Ltd."
@@ -125640,7 +125640,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688050",
           "contextTitle": "爱博医疗 / Eyebright Medical Technology (Beijing) Co., Ltd."
@@ -125664,7 +125664,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125693,7 +125693,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688278"
@@ -125725,7 +125725,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688278",
           "contextTitle": "特宝生物 / Xiamen Amoytop Biotech Co., LTD."
@@ -125734,7 +125734,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688278",
           "contextTitle": "特宝生物 / Xiamen Amoytop Biotech Co., LTD."
@@ -125758,7 +125758,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125787,7 +125787,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688276"
@@ -125819,7 +125819,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688276",
           "contextTitle": "百克生物 / Changchun BCHT Biotechnology Co."
@@ -125828,7 +125828,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688276",
           "contextTitle": "百克生物 / Changchun BCHT Biotechnology Co."
@@ -125852,7 +125852,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125881,7 +125881,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688506"
@@ -125913,7 +125913,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688506",
           "contextTitle": "百利天恒 / Sichuan Biokin Pharmaceutical Co.,Ltd."
@@ -125922,7 +125922,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688506",
           "contextTitle": "百利天恒 / Sichuan Biokin Pharmaceutical Co.,Ltd."
@@ -125946,7 +125946,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125975,7 +125975,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688177"
@@ -126007,7 +126007,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688177",
           "contextTitle": "百奥泰 / Bio-Thera Solutions, Ltd."
@@ -126016,7 +126016,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688177",
           "contextTitle": "百奥泰 / Bio-Thera Solutions, Ltd."
@@ -126040,7 +126040,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126069,7 +126069,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688131"
@@ -126101,7 +126101,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688131",
           "contextTitle": "皓元医药 / Shanghai Haoyuan Chemexpress Co., Ltd."
@@ -126110,7 +126110,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688131",
           "contextTitle": "皓元医药 / Shanghai Haoyuan Chemexpress Co., Ltd."
@@ -126134,7 +126134,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126163,7 +126163,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688382"
@@ -126195,7 +126195,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688382",
           "contextTitle": "益方生物 / InventisBio Co., Ltd."
@@ -126204,7 +126204,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688382",
           "contextTitle": "益方生物 / InventisBio Co., Ltd."
@@ -126228,7 +126228,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126257,7 +126257,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688520"
@@ -126289,7 +126289,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688520",
           "contextTitle": "神州细胞 / Sinocelltech Group Limited"
@@ -126298,7 +126298,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688520",
           "contextTitle": "神州细胞 / Sinocelltech Group Limited"
@@ -126322,7 +126322,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126351,7 +126351,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688765"
@@ -126383,7 +126383,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688765",
           "contextTitle": "禾元生物 / Wuhan Healthgen Biotechnology Corp."
@@ -126392,7 +126392,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688765",
           "contextTitle": "禾元生物 / Wuhan Healthgen Biotechnology Corp."
@@ -126416,7 +126416,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126445,7 +126445,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688202"
@@ -126477,7 +126477,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688202",
           "contextTitle": "美迪西 / Shanghai Medicilon Inc."
@@ -126486,7 +126486,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688202",
           "contextTitle": "美迪西 / Shanghai Medicilon Inc."
@@ -126510,7 +126510,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126539,7 +126539,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688626"
@@ -126571,7 +126571,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688626",
           "contextTitle": "翔宇医疗 / Xiangyu Medical Co.,Ltd."
@@ -126580,7 +126580,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688626",
           "contextTitle": "翔宇医疗 / Xiangyu Medical Co.,Ltd."
@@ -126604,7 +126604,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126633,7 +126633,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688271"
@@ -126665,7 +126665,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688271",
           "contextTitle": "联影医疗 / Shanghai United Imaging Healthcare Co., Ltd."
@@ -126674,7 +126674,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688271",
           "contextTitle": "联影医疗 / Shanghai United Imaging Healthcare Co., Ltd."
@@ -126698,7 +126698,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126727,7 +126727,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688578"
@@ -126759,7 +126759,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688578",
           "contextTitle": "艾力斯 / Shanghai Allist Pharmaceuticals Co., Ltd."
@@ -126768,7 +126768,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688578",
           "contextTitle": "艾力斯 / Shanghai Allist Pharmaceuticals Co., Ltd."
@@ -126792,7 +126792,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126821,7 +126821,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688513"
@@ -126853,7 +126853,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688513",
           "contextTitle": "苑东生物 / Chengdu Easton Biopharmaceuticals Co.,Ltd"
@@ -126862,7 +126862,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688513",
           "contextTitle": "苑东生物 / Chengdu Easton Biopharmaceuticals Co.,Ltd"
@@ -126886,7 +126886,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126915,7 +126915,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688331"
@@ -126947,7 +126947,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688331",
           "contextTitle": "荣昌生物 / RemeGen Co., Ltd."
@@ -126956,7 +126956,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688331",
           "contextTitle": "荣昌生物 / RemeGen Co., Ltd."
@@ -126980,7 +126980,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -127009,7 +127009,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688105"
@@ -127041,7 +127041,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688105",
           "contextTitle": "诺唯赞 / Nanjing Vazyme Biotech Co., Ltd."
@@ -127050,7 +127050,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688105",
           "contextTitle": "诺唯赞 / Nanjing Vazyme Biotech Co., Ltd."
@@ -127074,7 +127074,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -127103,7 +127103,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688108"
@@ -127135,7 +127135,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688108",
           "contextTitle": "赛诺医疗 / Sino Medical Sciences Technology Inc."
@@ -127144,7 +127144,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688108",
           "contextTitle": "赛诺医疗 / Sino Medical Sciences Technology Inc."
@@ -127168,7 +127168,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -127197,7 +127197,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688062"
@@ -127229,7 +127229,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688062",
           "contextTitle": "迈威生物 / Mabwell (Shanghai) Bioscience Co., Ltd."
@@ -127238,7 +127238,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688062",
           "contextTitle": "迈威生物 / Mabwell (Shanghai) Bioscience Co., Ltd."
@@ -127262,7 +127262,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -127291,7 +127291,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-21",
       "identifiers": {
         "cnSecurityCode": [
           "688192"
@@ -127323,7 +127323,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688192",
           "contextTitle": "迪哲医药 / Dizal (Jiangsu) Pharmaceutical Co., Ltd."
@@ -127332,7 +127332,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "CSI",
           "sourceName": "中证指数有限公司",
           "sourceRole": "star_biology_medicine_index_constituent",
-          "sourceDate": "2026-08-20",
+          "sourceDate": "2026-08-21",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683",
           "externalId": "000683:688192",
           "contextTitle": "迪哲医药 / Dizal (Jiangsu) Pharmaceutical Co., Ltd."
@@ -127356,7 +127356,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -127444,7 +127444,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -127538,7 +127538,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -127626,7 +127626,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -127718,7 +127718,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -127812,7 +127812,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -127904,7 +127904,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -127992,7 +127992,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128086,7 +128086,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128178,7 +128178,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128270,7 +128270,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128362,7 +128362,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128458,7 +128458,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128548,7 +128548,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128640,7 +128640,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128732,7 +128732,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128822,7 +128822,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128916,7 +128916,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129020,7 +129020,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129111,7 +129111,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129203,7 +129203,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129293,7 +129293,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129385,7 +129385,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129475,7 +129475,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129565,7 +129565,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129655,7 +129655,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129749,7 +129749,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129839,7 +129839,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129933,7 +129933,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130025,7 +130025,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130117,7 +130117,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130205,7 +130205,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130297,7 +130297,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130389,7 +130389,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130495,7 +130495,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130584,7 +130584,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130672,7 +130672,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130762,7 +130762,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130852,7 +130852,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130946,7 +130946,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131042,7 +131042,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131132,7 +131132,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131224,7 +131224,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131314,7 +131314,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131406,7 +131406,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131498,7 +131498,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131588,7 +131588,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131680,7 +131680,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131768,7 +131768,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131858,7 +131858,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131950,7 +131950,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -132042,7 +132042,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -132134,7 +132134,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -132228,7 +132228,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -132334,7 +132334,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -132429,7 +132429,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -132521,7 +132521,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-08-22T01:53:05.367755+00:00",
+        "reviewedAt": "2026-08-22T03:57:39+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
