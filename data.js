@@ -821,270 +821,153 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
-      "id": "pubmed-42628911",
+      "id": "pubmed-42629644",
       "date": "2026-08-21",
-      "title": "Novel Wnt potentiators induce iPSC-derived cardiomyocyte proliferation and increase embryonic zebrafish heart size.",
+      "title": "Clinical Translation of Patient-Derived Organoids: Perspectives for Personalized Therapy in Cancer.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42628911/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of molecular and cellular cardiology，PMID 为 42628911。",
-      "report": "Canonical Wnt/β-catenin pathway activation can promote cardiomyocyte (CM) cell cycle activity, but translation is limited by off-target and functional liabilities associated with global pathway activation. We identified two small molecules, LRN9 and DF6, which...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0892a33ae0826e03006a8949812ac887d08d35423b1416ee59",
-        "reviewedAt": "2026-08-22T07:02:24.041768+00:00",
-        "inputHash": "8247b40a3ee8b7305e1a3a068f32e7684b4f41d6cd51fc1034c1e5f07973c8f3",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审核，包含研究质量和支持力度不足的问题。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类不支持，缺乏足够证据进行合理的归类。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平不合理，未符合理想的标准。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of molecular and cellular cardiology，PMID 为 42628911。",
-          "report": "Canonical Wnt/β-catenin pathway activation can promote cardiomyocyte (CM) cell cycle activity, but translation is limited by off-target and functional liabilities associated with global pathway activation. We identified two small molecules, LRN9 and DF6, which...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42628783",
-      "date": "2026-08-21",
-      "title": "Corticothalamic assembloids recapitulate human fetal brain morphologies and enhance neuronal complexity.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42628783/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42629644/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of cancer，PMID 为 42629644。",
+      "report": "Patient-derived organoids (PDO) are accelerating precision medicine. These biological platforms allow for the autologous in vitro expansion of material from cancer patients in a considerably short period of time. These three-dimensional models can faithfully r...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0d28eb2bdf25cb13006a899e1f237887d28147eda3ce4862cc",
+        "reviewedAt": "2026-08-22T13:03:25.850605+00:00",
+        "inputHash": "683e5dd75a3cfba7397e13edc2ef05abd8c70e28d6118db918b7e4d8009f871c",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "卡片内容符合发布标准，信息清晰，已妥善分离事实、报告与推论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主类别和子类别合理，符合文献内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平标注适中，符合实际文献体现。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Diagnostics",
+            "Precision Medicine",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "诊断",
+            "精准医疗",
+            "临床",
+            "监管",
+            "肿瘤",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 International journal of cancer，PMID 为 42629644。",
+          "report": "Patient-derived organoids (PDO) are accelerating precision medicine. These biological platforms allow for the autologous in vitro expansion of material from cancer patients in a considerably short period of time. These three-dimensional models can faithfully replicate tumor characteristics.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42629443",
+      "date": "2026-08-21",
+      "title": "Epithelial interferon-stimulated gene programs modulate chemotherapy sensitivity in colorectal cancer via EPSTI1.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42629443/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
         "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
+        "肿瘤",
+        "药筛",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neuroscience，PMID 为 42628783。",
-      "report": "Neuronal morphology governs how neurons connect, integrate, and process information, offering critical insights into the functional architecture of the brain. Characterizing the three-dimensional (3D) morphology of individual neurons is key not only for mappin...",
+      "fact": "PubMed 记录显示该文献收录于 Oncogene，PMID 为 42629443。",
+      "report": "Although chemotherapy in colorectal cancer (CRC) primarily targets epithelial tumor cells, the epithelial cell-intrinsic mechanisms underlying heterogeneous treatment responses remain poorly understood. We integrated the genomic, transcriptomic, and in vitro d...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0cad075dadcbef10006a894985d7c087d0a27a5ba063525848",
-        "reviewedAt": "2026-08-22T07:02:24.041768+00:00",
-        "inputHash": "c9bb4b03d2027dc2512835b424a7f6b5348d55aba0c042b245f3bcefbae6454a",
+        "responseId": "resp_0693cfb4f1991c51006a899e25b68887d2b1f77a8b4ce5033a",
+        "reviewedAt": "2026-08-22T13:03:25.850605+00:00",
+        "inputHash": "901d37fd6717fa280a7ba81a3ed815174406a19361137edcce4e68ceee4cd383",
         "status": "pass",
-        "confidence": 0.9,
+        "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该条记录从 PubMed 资料来源中获得的信息，内容清晰且分类合理，未做出不当医学结论。",
+        "reviewSummaryCn": "此文献记录符合发布标准，包含必要信息且未包含未支持的临床结论。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类与提供的元数据一致，且合理。"
+          "notesCn": "类别和证据水平合理，与文献资料一致。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断明确分开，证据水平符合预期。"
-        },
-        "riskFlags": [],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Neuroscience，PMID 为 42628783。",
-          "report": "Neuronal morphology governs how neurons connect, integrate, and process information, offering critical insights into the functional architecture of the brain. Characterizing the three-dimensional (3D) morphology of individual neurons is key not only for mappin...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42628769",
-      "date": "2026-08-21",
-      "title": "Repurposing Nelfinavir: AIM2 inflammasome-associated anti-tumor effects in Glioblastoma.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42628769/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biochimica et biophysica acta. Molecular basis of disease，PMID 为 42628769。",
-      "report": "Nelfinavir (NFR), originally developed as an antiretroviral agent for the human immunodeficiency virus, has demonstrated anti-cancer properties across various malignancies; however, its therapeutic potential in Glioblastoma (GBM) remains largely unexplored. In...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_00f3263344ce79ac006a89498bf11087d09575f5949311daa6",
-        "reviewedAt": "2026-08-22T07:02:24.041768+00:00",
-        "inputHash": "8b8e225a1ef0a982b6e20311312b0242fbf466beb75febae9a8303189f8e71da",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号记录清晰，信息合理，满足发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类与研究主题一致，合理"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据等级中等，与文献相符"
+          "notesCn": "事实、报告和推论清晰分开，证据水平合适。"
         },
         "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Biochimica et biophysica acta. Molecular basis of disease，PMID 为 42628769。",
-          "report": "Nelfinavir (NFR), originally developed as an antiretroviral agent for the human immunodeficiency virus, has demonstrated anti-cancer properties across various malignancies; however, its therapeutic potential in Glioblastoma (GBM) remains largely unexplored. In...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42628754",
-      "date": "2026-08-21",
-      "title": "eIF4A1 enhances p70S6K mRNA translation and promotes nuclear β-catenin levels to augment stemness and metastasis in gastric cancer cells.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42628754/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biochemical pharmacology，PMID 为 42628754。",
-      "report": "Gastric cancer (GC) remains a leading cause of cancer-related deaths worldwide, with tumor stemness and metastasis driving poor prognosis. This study explores the role of eukaryotic translation initiation factor 4A1 (eIF4A1) in promoting these aggressive featu...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0125eba468e3451f006a89499051d887d0950f3acf1c0c46fa",
-        "reviewedAt": "2026-08-22T07:02:24.041768+00:00",
-        "inputHash": "71d20f90c90bce17416553394fa44aac46a86d800b8be69802eac5d13ef96070",
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "报告中涉及胃癌的肿瘤干性和转移性特征，但缺乏对研究质量和样本量的评估风险，建议人工审核。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "该分类虽然有效，但未充分支持相关性。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平标注为中等，但声明内容仍需判断。"
-        },
-        "riskFlags": [
-          "clinical_claim",
           "insufficient_source"
         ],
         "suggestedEdits": {
@@ -1094,17 +977,95 @@ window.BHR_DATA = {
           "themes": [
             "Organoids",
             "Advanced Disease Models",
-            "Precision Oncology"
+            "Precision Oncology",
+            "Drug Screening",
+            "Multi-omics"
           ],
           "tags": [
             "类器官",
             "疾病模型",
+            "肿瘤",
+            "药筛",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Oncogene，PMID 为 42629443。",
+          "report": "Although chemotherapy in colorectal cancer (CRC) primarily targets epithelial tumor cells, the epithelial cell-intrinsic mechanisms underlying heterogeneous treatment responses remain poorly understood.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42629352",
+      "date": "2026-08-21",
+      "title": "miRNA-mediated metabolic reprogramming is associated with recurrence in ovarian cancer.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42629352/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Epigenomics，PMID 为 42629352。",
+      "report": "Ovarian cancer (OC) recurrence and therapy resistance remain major clinical challenges. Identifying the molecular adaptations associated with relapse is essential for improving disease monitoring. We performed miRNA expression profiling on tissue and serum sam...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0986051e52d3eeb5006a899e2b413487d2bcc664c3d0714e58",
+        "reviewedAt": "2026-08-22T13:03:25.850605+00:00",
+        "inputHash": "aeaf67620480803ce62d3f0dbcab09c9b3f4cfd51d92faa676716aad5d277055",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录包括文献引用，信息清晰且符合出版标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
             "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Biochemical pharmacology，PMID 为 42628754。",
-          "report": "Gastric cancer (GC) remains a leading cause of cancer-related deaths worldwide, with tumor stemness and metastasis driving poor prognosis.",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models，仅用于情报分流。",
-          "unknown": "缺少对研究质量、样本量、利益冲突、临床阶段或商业化状态的判断。"
+          "fact": "PubMed 记录显示该文献收录于 Epigenomics，PMID 为 42629352。",
+          "report": "Ovarian cancer (OC) recurrence and therapy resistance remain major clinical challenges. Identifying the molecular adaptations associated with relapse is essential for improving disease monitoring. We performed miRNA expression profiling on tissue and serum samples...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -1246,230 +1207,6 @@ window.BHR_DATA = {
           ],
           "fact": "PubMed 记录显示该文献收录于 JHEP reports : innovation in hepatology，PMID 为 42628796。",
           "report": "Cholangiocarcinoma (CCA) is a major complication of primary sclerosing cholangitis (PSC), with a 20-year incidence of ∼15%. Early detection is challenging, as current surveillance rarely identifies CCA at a resectable stage. This study investigated bile-derived extracellular vesicles for early detection.",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42627892",
-      "date": "2026-08-21",
-      "title": "Orthogonal DNA barcoding enables subpopulation-resolved extracellular vesicle miRNA profiling.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42627892/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42627892。",
-      "report": "Extracellular vesicle-associated microRNAs (EV-miRNAs) hold promise for liquid biopsy, but their clinical utility is hindered by EV heterogeneity. Here, we report DEEPER, a DNA-encoded orthogonal recognition platform for selective barcoding of tumor-derived EV...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_00476c7198380034006a890113933887d098d82601a9b94144",
-        "reviewedAt": "2026-08-22T01:53:11.873588+00:00",
-        "inputHash": "b88ddd8912dab757b2b42bd4cfd381e73984fccad970a738f15cc0f3ec5ecc38",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录符合出版标准，信息分离明确。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理且贴切研究内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "来源信息核实完整，未做不当推断。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42627892。",
-          "report": "Extracellular vesicle-associated microRNAs (EV-miRNAs) hold promise for liquid biopsy, but their clinical utility is hindered by EV heterogeneity. Here, we report DEEPER, a DNA-encoded orthogonal recognition platform for selective barcoding of tumor-derived EV...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42627151",
-      "date": "2026-08-21",
-      "title": "Beyond tissue biopsy: ctDNA methylation analysis for prediction of colorectal cancer prognosis.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42627151/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Epigenomics，PMID 为 42627151。",
-      "report": "Accurate prognostic stratification remains a major challenge in colorectal cancer (CRC), as substantial heterogeneity in clinical outcomes persists even within the same pathological stage. While mutation-based circulating tumor DNA (ctDNA) analysis has transfo...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_033c1784bd6e1c19006a88a017016c87d0af808f022fd42e37",
-        "reviewedAt": "2026-08-21T18:59:15.535100+00:00",
-        "inputHash": "beeddd3afc99fc0c425db8ac407657300a68f5226bef3e8abdf62ec98c5b182f",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献为预测结直肠癌预后的研究，信息分离清晰，无不当临床结论。 ",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "文献来源高可靠性，证据等级适中。"
-        },
-        "riskFlags": [
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Evidence",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "临床",
-            "监管",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Epigenomics，PMID 为 42627151。",
-          "report": "Accurate prognostic stratification remains a major challenge in colorectal cancer (CRC), as substantial heterogeneity in clinical outcomes persists even within the same pathological stage. While mutation-based circulating tumor DNA (ctDNA) analysis has transitioned...",
-          "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42627081",
-      "date": "2026-08-21",
-      "title": "Molecular classification and precision therapy in gastric cancer: Current advances and future perspectives (Review).",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42627081/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Oncology reports，PMID 为 42627081。",
-      "report": "The emergence of molecular classifications for gastric cancer (GC), The Cancer Genome Atlas (TCGA) and Asian Cancer Research Group (ACRG), has advanced targeted and immunotherapies, but their clinical translation faces real‑world obstacles including high cost,...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_007a656cc274c973006a88a021b5cc87d0bb34bbdf44cbfb8a",
-        "reviewedAt": "2026-08-21T18:59:15.535100+00:00",
-        "inputHash": "612bbd08f3e43b0994d0571a8dedd6bd151c6425e4a7c6fd3976aee82624cbf4",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录明确，信息分离清晰，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理并且与数据源一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据级别为中等，符合文献类型。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Oncology reports，PMID 为 42627081。",
-          "report": "The emergence of molecular classifications for gastric cancer (GC), The Cancer Genome Atlas (TCGA) and Asian Cancer Research Group (ACRG), has advanced targeted and immunotherapies, but their clinical translation faces real‑world obstacles including high cost,...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
@@ -3253,6 +2990,88 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "pubmed-42630183",
+      "date": "2026-08-07",
+      "title": "Integrated multi-omics analysis reveals dendritic cell centered regulatory networks and therapeutic targets in necrotizing enterocolitis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630183/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42630183。",
+      "report": "Necrotizing enterocolitis (NEC) is a severe inflammatory intestinal disease predominantly affecting premature infants and is characterized by immune dysregulation and epithelial barrier disruption. However, the cellular communication networks and key molecular...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0d0c8a3a9cd36918006a899e3092a087d28cf6fe64482fabd8",
+        "reviewedAt": "2026-08-22T13:03:25.850605+00:00",
+        "inputHash": "1c518fa5a8adaf487c454e74471c4400b80cd0109378b64f9845d7d874034ee6",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "文献记录明确，分类合理，无临床结论。已通过审核。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理且与文献对应。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断清晰分离，证据水平适中。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42630183。",
+          "report": "Necrotizing enterocolitis (NEC) is a severe inflammatory intestinal disease predominantly affecting premature infants and is characterized by immune dysregulation and epithelial barrier disruption. However, the cellular communication networks and key molecular...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "sec-0001110803-000111080326000168",
       "date": "2026-08-07",
       "title": "Illumina filed Form 8-K",
@@ -4785,6 +4604,216 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "pubmed-42630093",
+      "date": "2026-08-01",
+      "title": "SORL1 variant links endosomal amyloid precursor protein mis-sorting to axonal transport defects and neuronal dysfunction.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630093/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Alzheimer's & dementia : the journal of the Alzheimer's Association，PMID 为 42630093。",
+      "report": "SORL1 encodes the sorting receptor SORLA, a major genetic contributor to Alzheimer's disease (AD). Although SORL1 loss disrupts endosomal trafficking and promotes amyloidogenic amyloid precursor protein (APP) processing, the functional consequences of specific...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_083c38bad7a72a7a006a899e35c63887d28046f3e5b352e83a",
+        "reviewedAt": "2026-08-22T13:03:25.850605+00:00",
+        "inputHash": "600f14df1db7f58508ac2b6bfef02d334f6dfd1266c216b8d337b234f2f4f5e8",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献涉及阿尔茨海默病相关的机制，但未明确研究的具体质量和临床进展，需人工审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类虽然合理，但文献质量和影响尚不明确。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "报告和推论未完全清晰分隔，证据层级标注需人工评估。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Alzheimer's & dementia : the journal of the Alzheimer's Association，PMID 为 42630093。",
+          "report": "SORL1 encodes the sorting receptor SORLA, a major genetic contributor to Alzheimer's disease (AD). Although SORL1 loss disrupts endosomal trafficking and promotes amyloidogenic amyloid precursor protein (APP) processing, the functional consequences of specific...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42630134",
+      "date": "2026-08-01",
+      "title": "Dissecting Alzheimer's proteomic landscape through NULISA profiling of brain cell-specific extracellular vesicles.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630134/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Alzheimer's & dementia : the journal of the Alzheimer's Association，PMID 为 42630134。",
+      "report": "Blood-based biomarkers are essential for early detection, monitoring, and therapeutic development in Alzheimer's disease (AD) and related dementia (ADRD), but current assays lack brain cell specificity and sensitivity to low-abundant proteins. We isolated the...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_01e031aefc105dc4006a899e3a06a487d2b7a1ed19c39693b1",
+        "reviewedAt": "2026-08-22T13:03:25.850605+00:00",
+        "inputHash": "9ed0b7166f43c699465c88d568761b0b0ad37b41c9913ea9b6fda15923a6b73a",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该卡片内容未明确研究质量、样本量及临床相关性，需人工审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类依据不足，未反映研究质量或临床结论。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平不合理，研究相关性和临床应用需更明确。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Biotech"
+          ],
+          "tags": [
+            "biotech"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Alzheimer's & dementia : the journal of the Alzheimer's Association，PMID 为 42630134。",
+          "report": "Blood-based biomarkers are essential for early detection, monitoring, and therapeutic development in Alzheimer's disease (AD) and related dementia (ADRD), but current assays lack brain cell specificity and sensitivity to low-abundant proteins. We isolated the...",
+          "inference": "该研究的实用性和有效性尚需更充分的证据支持。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42630043",
+      "date": "2026-08-01",
+      "title": "A Novel Index Consisting of Age, CA19-9, and Methylated Somatostatin Is Useful for Diagnosing Early Pancreatic Cancer.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630043/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer medicine，PMID 为 42630043。",
+      "report": "There are no reliable screening tests for pancreatic ductal adenocarcinoma (PDAC). We performed this study to address this issue. Using 206 serum samples from 95 healthy subjects and 111 patients with PDAC, we developed the novel ACAm-S index, which consists o...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_007db275434c7e31006a899e3e2f0487d2951615002279d13c",
+        "reviewedAt": "2026-08-22T13:03:25.850605+00:00",
+        "inputHash": "44deebf1aa3645d549e9d1247e543fcbeb8305903ab5499101aa8aae7e87e137",
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献提到一个新的诊断指数，但缺乏对研究质量及临床结论的深入评估，需要人工审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平为中等，但研究质量和有效性未明确判断。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "报告的内容缺乏对研究结果的明确支持，样本量和潜在利益冲突未评估。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Biotech",
+            "Precision Oncology",
+            "Drug Screening"
+          ],
+          "tags": [
+            "biotech",
+            "肿瘤",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cancer medicine，PMID 为 42630043。",
+          "report": "There are no reliable screening tests for pancreatic ductal adenocarcinoma (PDAC). We performed this study to address this issue. Using 206 serum samples from 95 healthy subjects and 111 patients with PDAC, we developed the novel ACAm-S index, which consists o...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },

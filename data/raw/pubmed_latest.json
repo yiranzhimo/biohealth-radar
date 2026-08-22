@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-22T07:02:14.023516+00:00",
+  "capturedAt": "2026-08-22T13:03:17.077760+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-22"
   },
   "pmids": [
+    "42630183",
+    "42630093",
+    "42629644",
+    "42629443",
     "42629128",
     "42629126",
-    "42628911",
-    "42628783",
-    "42628769",
-    "42628754",
     "42600555",
     "42580899",
     "42559559",
@@ -32,14 +32,99 @@
     "42619129",
     "42619090",
     "42616438",
+    "42630134",
+    "42630043",
+    "42629352",
     "42628853",
     "42628796",
-    "42628452",
-    "42627892",
-    "42627151",
-    "42627081"
+    "42628452"
   ],
   "records": [
+    {
+      "pmid": "42630183",
+      "title": "Integrated multi-omics analysis reveals dendritic cell centered regulatory networks and therapeutic targets in necrotizing enterocolitis.",
+      "abstract": "Necrotizing enterocolitis (NEC) is a severe inflammatory intestinal disease predominantly affecting premature infants and is characterized by immune dysregulation and epithelial barrier disruption. However, the cellular communication networks and key molecular regulators underlying NEC pathogenesis remain incompletely understood. Single-cell RNA sequencing (scRNA-seq) and transcriptomic datasets of NEC were obtained from the Gene Expression Omnibus (GEO) database and analyzed using R-based bioinformatic workflows to characterize cellular composition, intercellular communication, immune infiltration, pathway activity, and candidate disease-associated genes. The expression of alpha kinase 2 (ALPK2) was validated in NEC intestinal tissues by quantitative real-time PCR, and its potential functional relevance was further investigated using lipopolysaccharide (LPS)-induced intestinal organoids. Dendritic cells (DCs) occupied a central position in the NEC intercellular communication network and were enriched in antigen presentation and immune regulatory pathways. Machine learning identified ALPK2, ERICH1, and TMEM123 as candidate NEC-associated genes. Immune infiltration analysis revealed a disturbed immune microenvironment in NEC, with ALPK2 and ERICH1 negatively correlated with DC abundance. Functional enrichment analyses suggested that ALPK2 was predominantly associated with immune and inflammatory pathways, whereas ERICH1 was linked to metabolic and proliferative programs. ALPK2 expression was significantly elevated in ileal tissues from NEC patients and experimental NEC mice. In an inflammation model of LPS stimulation using mouse intestinal organoids, TGX221 suppressed inflammatory cytokine induction and partially restored tight junction protein expression. These findings highlight DCs as central mediators of NEC-associated immune communication and identify ALPK2 as a potential regulator of intestinal inflammation and epithelial barrier dysfunction, supporting ALPK2 as a candidate NEC-associated regulator with potential therapeutic implications.",
+      "journal": "Frontiers in immunology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of General Surgery, Shanghai Children's Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai, China."
+      ],
+      "doi": "10.3389/fimmu.2026.1900420",
+      "date": "2026-08-07",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630183/"
+    },
+    {
+      "pmid": "42630093",
+      "title": "SORL1 variant links endosomal amyloid precursor protein mis-sorting to axonal transport defects and neuronal dysfunction.",
+      "abstract": "SORL1 encodes the sorting receptor SORLA, a major genetic contributor to Alzheimer's disease (AD). Although SORL1 loss disrupts endosomal trafficking and promotes amyloidogenic amyloid precursor protein (APP) processing, the functional consequences of specific missense variants in human neurons remain unclear. We used isogenic induced pluripotent stem cell (iPSC)-derived NGN2 neurons and 3D cerebral organoids carrying wild-type, SORL1 p.Y1816C knock-in, or SORL1 knockout alleles. We analyzed SORLA maturation and shedding, APP localization, amyloid-β (Aβ) secretion, endosomal morphology, axonal transport of Rab5+ endosomes and APP, and network activity. The p.Y1816C variant impaired SORLA maturation and shedding and, together with knockout, caused enlarged early endosomes, APP retention, elevated Aβ secretion, amyloid deposition in organoids, axonal swellings, disrupted axonal transport, and neuronal hyperexcitability. The SORL1 p.Y1816C variant is pathogenic in human neurons, and we reveal novel roles for SORLA in axonal transport and neuronal excitability. These findings highlight endosomal trafficking disruption as a central mechanism in AD pathogenesis.",
+      "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Faculty of Medicine, Department of Histology and Embryology, Masaryk University, Brno, Czech Republic.",
+        "International Clinical Research Center (ICRC), St. Anne's University Hospital, Brno, Czech Republic.",
+        "Department of Biomedicine, Aarhus University, Aarhus, Denmark."
+      ],
+      "doi": "10.1002/alz.71782",
+      "date": "2026-08-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630093/"
+    },
+    {
+      "pmid": "42629644",
+      "title": "Clinical Translation of Patient-Derived Organoids: Perspectives for Personalized Therapy in Cancer.",
+      "abstract": "Patient-derived organoids (PDO) are accelerating precision medicine. These biological platforms allow for the autologous in vitro expansion of material from cancer patients in a considerably short period of time. These three-dimensional models can faithfully recapitulate aspects of tissue heterogeneity, architecture, and relevant cellular functions. Based on these characteristics, there has been a growing interest in exploring the potential of these models for translational research, as is the case with colorectal, pancreatic, prostate, breast, lung, and bladder cancer, among other solid tumors. A key application of cancer-specific organoids is the development of patient-matched platforms for drug testing, thus bringing the hype of personalized medicine closer to clinical practice. Over the past decade, clinical trials based on organoid-guided drug screening have been conducted in several cancer models with promising results. Nonetheless, further progress is still needed in this field, as there are still few studies that rigorously apply the results of real-time PDO tests to assist in clinical decision-making. In this review, we provide a focused synthesis of the most relevant clinical trials using PDO as well as their application for biobanking.",
+      "journal": "International journal of cancer",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department for BioMedical Research (DBMR), Urology Research Laboratory, University of Bern, Bern, Switzerland.",
+        "Department of Urology, University Hospital Freiburg, Freiburg, Germany.",
+        "Hospital Centre Biel, Urology, Biel, Switzerland.",
+        "Department of Urology, Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland.",
+        "Lindenhofspital Bern, Bern, Switzerland.",
+        "Department for BioMedical Research (DBMR), Translational Organoid Resource (TOR), University of Bern, Bern, Switzerland."
+      ],
+      "doi": "10.1002/ijc.70717",
+      "date": "2026-08-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42629644/"
+    },
+    {
+      "pmid": "42629443",
+      "title": "Epithelial interferon-stimulated gene programs modulate chemotherapy sensitivity in colorectal cancer via EPSTI1.",
+      "abstract": "Although chemotherapy in colorectal cancer (CRC) primarily targets epithelial tumor cells, the epithelial cell-intrinsic mechanisms underlying heterogeneous treatment responses remain poorly understood. We integrated the genomic, transcriptomic, and in vitro drug response profiles of CRC patient-derived tumor organoids (PDTOs) with functional assays to identify epithelial cell-intrinsic determinants of chemotherapy response. An epithelial interferon-stimulated gene (ISG) program, reflecting JAK-STAT pathway activity, was associated with reduced chemosensitivity in PDTOs. Single-cell RNA sequencing data of CRC tumors before and after neoadjuvant chemotherapy showed persistent epithelial ISG expression, with EPSTI1 notably enriched in tumors with incomplete pathological responses. Functional studies demonstrated that EPSTI1 knockdown reduced CRC cell viability and enhanced chemosensitivity. Pharmacologic JAK-STAT inhibition with ruxolitinib suppressed ISG expression and attenuated chemotherapy-induced ISG upregulation. These findings highlight the utility of PDTOs for studying tumor-intrinsic mechanisms of treatment response and identify EPSTI1 as an epithelial modulator of chemosensitivity.",
+      "journal": "Oncogene",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Center for Cancer Eradication Research, Faculty of Medicine and Health Technology, Tampere University and TAYS Cancer Centre, Tampere University Hospital, Tampere, Finland.",
+        "Department NEON-S, Faculty of Medicine and Health Technology, Tampere University, Tampere, Finland.",
+        "Applied Tumor Genomics Research Program, Research Programs Unit, University of Helsinki, Helsinki, Finland.",
+        "Department MEDI, Faculty of Medicine and Health Technology, Tampere University, Tampere, Finland.",
+        "Department of Abdominal Surgery, Helsinki University Hospital and University of Helsinki, Helsinki, Finland.",
+        "Department of Neurosurgery, Tampere University Hospital and Tampere University, Tampere, Finland.",
+        "Faculty of Medicine and Health Technology, Tampere University, Tampere, Finland.",
+        "Sport and Health Sciences, Jyväskylä University, Jyväskylä, Finland.",
+        "Department of Education and Research, Wellbeing Services County of Central Finland, Jyväskylä, Finland.",
+        "Translational Medicine Research Unit, Medical Research Center Oulu, Oulu University Hospital and University of Oulu, Oulu, Finland.",
+        "Department of Pathology, Helsinki University Hospital, Helsinki, Finland.",
+        "Department of Tumor Biology, Institute for Cancer Research, Oslo University Hospital, Oslo, Norway.",
+        "Finnish Cancer Institute, Helsinki, Finland.",
+        "Center for Cancer Eradication Research, Faculty of Medicine and Health Technology, Tampere University and TAYS Cancer Centre, Tampere University Hospital, Tampere, Finland. toni.seppala@tuni.fi.",
+        "Department NEON-S, Faculty of Medicine and Health Technology, Tampere University, Tampere, Finland. toni.seppala@tuni.fi.",
+        "Applied Tumor Genomics Research Program, Research Programs Unit, University of Helsinki, Helsinki, Finland. toni.seppala@tuni.fi.",
+        "Department of Abdominal Surgery, Helsinki University Hospital and University of Helsinki, Helsinki, Finland. toni.seppala@tuni.fi.",
+        "Department of Gastroenterology and Alimentary Tract Surgery, Tampere University Hospital, Tampere, Finland. toni.seppala@tuni.fi."
+      ],
+      "doi": "10.1038/s41388-026-03957-9",
+      "date": "2026-08-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42629443/"
+    },
     {
       "pmid": "42629128",
       "title": "Microglia in Alzheimer's disease: Insights into disease progression and therapy.",
@@ -73,81 +158,6 @@
       "doi": "10.1016/bs.ai.2026.04.005",
       "date": "2026-06-16",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42629126/"
-    },
-    {
-      "pmid": "42628911",
-      "title": "Novel Wnt potentiators induce iPSC-derived cardiomyocyte proliferation and increase embryonic zebrafish heart size.",
-      "abstract": "Canonical Wnt/β-catenin pathway activation can promote cardiomyocyte (CM) cell cycle activity, but translation is limited by off-target and functional liabilities associated with global pathway activation. We identified two small molecules, LRN9 and DF6, which potentiate Wnt/β-catenin signaling through a non-GSK3β mechanism and induce CM cell-cycle re-entry in human iPSC-CMs. In cardiac organoids, the effects was largely restricted to CMs and were accompanied by minimal changes in contractile and relaxation parameters, in contrast to reported impairment with GSK3β inhibition. RNA-sequencing showed enrichment of DNA replication and cell-cycle pathways. In embryonic zebrafish, both compounds increased ventricular growth consistent with CM hyperplasia.",
-      "journal": "Journal of molecular and cellular cardiology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Medicine, University of Maryland School of Medicine, Baltimore, MD, USA.",
-        "QIMR Berghofer, Brisbane, QLD, Australia.",
-        "Department of Medicine, Michigan State University College of Human Medicine, East Lansing, MI, USA; Henry Ford Health + Michigan State Health Sciences, Detroit, MI, USA.",
-        "QIMR Berghofer, Brisbane, QLD, Australia; Murdoch Children's Research Institute, The Royal Children's Hospital, Melbourne, VIC, Australia; Novo Nordisk Foundation Center for Stem Cell Medicine, Murdoch Children's Research Institute, Melbourne, Victoria, Australia.",
-        "Department of Medicine, University of Maryland School of Medicine, Baltimore, MD, USA. Electronic address: ruya.liu@som.umaryland.edu.",
-        "Department of Medicine, Michigan State University College of Human Medicine, East Lansing, MI, USA; Henry Ford Health + Michigan State Health Sciences, Detroit, MI, USA. Electronic address: hongchar@msu.edu."
-      ],
-      "doi": "10.1016/j.yjmcc.2026.08.011",
-      "date": "2026-08-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42628911/"
-    },
-    {
-      "pmid": "42628783",
-      "title": "Corticothalamic assembloids recapitulate human fetal brain morphologies and enhance neuronal complexity.",
-      "abstract": "Neuronal morphology governs how neurons connect, integrate, and process information, offering critical insights into the functional architecture of the brain. Characterizing the three-dimensional (3D) morphology of individual neurons is key not only for mapping circuit connectivity but also for understanding the cellular diversity that emerges during development. Neural organoids are valuable models of human brain development and disease, yet their morphological complexity remains poorly characterized despite advances in single-cell transcriptomics. Here, we use 3D confocal imaging and manual reconstruction of 735 neurons to analyze forebrain (dorsal and ventral) and thalamic (dorsal and ventral) organoids, as well as forebrain, thalamic, and corticothalamic assembloids. We find that organoids and assembloids exhibit distinct morphologies resembling fetal brain neurons, including immature pyramidal-like, double-bouquet, and bushy-like neurons. Interregional assembloids show greater neuronal morphological complexity than individual organoids, with more extensive dendritic branching, longer projections, and diverse soma shapes. Corticothalamic assembloids further display features of emerging connectivity. Complementary transcriptomic profiling supports regional identity and reveals expression of genes involved in projection guidance. We observe dendritic spines with excitatory and inhibitory profiles and varicosities, indicative of maturing synaptic architecture. Together, our work makes an initial effort in describing the diversity of neuronal morphology in human neural organoids and assembloids. It further establishes structural phenotyping as a critical dimension for validating human neural models and underscores their value for modeling morphofunctional disorders.",
-      "journal": "Neuroscience",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Brazilian Bioscience National Laboratory, Brazilian Center for Research in Energy and Materials, Campinas 13083-100, Brazil.",
-        "Faculty of Electrical and Computer Engineering, University of Campinas, Campinas 13083-970, Brazil.",
-        "Graduate Program in Biosciences, Department of Basic Sciences/Physiology, Federal University of Health Sciences of Porto Alegre, Porto Alegre 90050-170, Brazil.",
-        "Center for the Advanced Study of Human Paleobiology, The George Washington University, Washington 20052, USA.",
-        "Institute of Computing, University of Campinas, Campinas 13083-970, Brazil.",
-        "Department of Pediatrics and Cellular & Molecular Medicine, School of Medicine, Center for Academic Research and Training in Anthropogeny (CARTA) and Archealization (ArchC), Sanford Stem Cell Education and Integrated Space Stem Cell Orbital Research (ISSCOR), University of California, San Diego, La Jolla, 92037, USA. Electronic address: amuotri@health.ucsd.edu.",
-        "Department of Structural and Functional Biology, Institute of Biology, University of Campinas, São Paulo 13083-887, Brazil.",
-        "Graduate Program in Biosciences, Department of Basic Sciences/Physiology, Federal University of Health Sciences of Porto Alegre, Porto Alegre 90050-170, Brazil; Graduate Program in Neurosciences, Federal University of Rio Grande do Sul, Porto Alegre 90610-264, Brazil. Electronic address: aarf@ufcspa.edu.br.",
-        "Brazilian Bioscience National Laboratory, Brazilian Center for Research in Energy and Materials, Campinas 13083-100, Brazil; School of Medical Sciences, University of Campinas, Campinas, São Paulo 13083-887, Brazil. Electronic address: avansini@unicamp.br."
-      ],
-      "doi": "10.1016/j.neuroscience.2026.08.028",
-      "date": "2026-08-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42628783/"
-    },
-    {
-      "pmid": "42628769",
-      "title": "Repurposing Nelfinavir: AIM2 inflammasome-associated anti-tumor effects in Glioblastoma.",
-      "abstract": "Nelfinavir (NFR), originally developed as an antiretroviral agent for the human immunodeficiency virus, has demonstrated anti-cancer properties across various malignancies; however, its therapeutic potential in Glioblastoma (GBM) remains largely unexplored. In the present study, we investigated the anti-tumor effects of NFR in GBM using a comprehensive panel of experimental models, including established GBM cell lines, GBM cell line-derived spheroids, patient-derived primary glioma cells, and patient-derived glioma organoids. We further evaluated the anti-tumor potential of NFR in combination with standard chemotherapeutic agents, carboplatin and doxorubicin, across these platforms. In vitro analyses revealed that NFR significantly inhibits GBM cell proliferation and induces both apoptotic and necrotic cell death. Additionally, we identified that NFR treatment is associated with activation of the AIM2 inflammasome in GBM cells and may contribute to NFR-induced anti-glioma effects. However, activation of the AIM2 inflammasome alone is not essential to induce its anti-tumor effects in GBM. Collectively, our findings highlight NFR as a promising therapeutic candidate for GBM, exerting its effects through anti-proliferative and pro-death mechanisms.",
-      "journal": "Biochimica et biophysica acta. Molecular basis of disease",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Bioscience and Bioengineering, Indian Institute of Technology Jodhpur, Jodhpur, Rajasthan, 342037, India.",
-        "Department of Bioscience and Bioengineering, Indian Institute of Technology Jodhpur, Jodhpur, Rajasthan, 342037, India. Electronic address: sushmitajha@iitj.ac.in."
-      ],
-      "doi": "10.1016/j.bbadis.2026.168428",
-      "date": "2026-08-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42628769/"
-    },
-    {
-      "pmid": "42628754",
-      "title": "eIF4A1 enhances p70S6K mRNA translation and promotes nuclear β-catenin levels to augment stemness and metastasis in gastric cancer cells.",
-      "abstract": "Gastric cancer (GC) remains a leading cause of cancer-related deaths worldwide, with tumor stemness and metastasis driving poor prognosis. This study explores the role of eukaryotic translation initiation factor 4A1 (eIF4A1) in promoting these aggressive features in GC. eIF4A1 was found to be upregulated in stem-like (CD133+) GC cells. Gain- and loss-of-function experiments in cell lines, combined with xenograft, chemically induced, and organoid models, demonstrated that eIF4A1 enhanced cancer stemness, cell mobility, tumorigenesis, and metastasis. Mechanistically, eIF4A1 selectively promotes p70 ribosomal S6 kinase (p70S6K) mRNA translation, leading to increased glycogen synthase kinase 3 beta (GSK3β) phosphorylation, elevated nuclear β-catenin accumulation, and subsequent transcriptional activation of eIF4A1 via the β-catenin/transcription factor 7-like 2 (TCF7L2) complex, thus forming a positive feedback loop. Clinically, high expression of eIF4A1, p70S6K, and TCF7L2 correlates with unfavorable prognosis in GC patients. These findings highlight eIF4A1 as a key regulator of stemness and metastasis through a novel translational feedback mechanism, suggesting potential therapeutic targeting to disrupt tumor progression.",
-      "journal": "Biochemical pharmacology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Oncology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing 210009, Jiangsu, China.",
-        "Department of Oncology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing 210009, Jiangsu, China. Electronic address: gaochanchan@seu.edu.cn."
-      ],
-      "doi": "10.1016/j.bcp.2026.118386",
-      "date": "2026-08-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42628754/"
     },
     {
       "pmid": "42600555",
@@ -390,6 +400,61 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616438/"
     },
     {
+      "pmid": "42630134",
+      "title": "Dissecting Alzheimer's proteomic landscape through NULISA profiling of brain cell-specific extracellular vesicles.",
+      "abstract": "Blood-based biomarkers are essential for early detection, monitoring, and therapeutic development in Alzheimer's disease (AD) and related dementia (ADRD), but current assays lack brain cell specificity and sensitivity to low-abundant proteins. We isolated the following brain cell-derived small extracellular vesicles (sEV) from the plasma of individuals with normal cognition (CN), mild cognitive impairment (MCI), or ADRD: neurons (NDE), astrocytes (ADE), microglia (MDE), oligodendrocytes (ODE), pericytes (PDE), and endothelial cells (EDE). Using NULISAseq, we profiled 122 proteins, spanning AD pathology, neurodegeneration, and neuroinflammation. sEV proteomes showed distinct brain cell-type-specific signatures. MCI exhibited early dysregulation of neuroprotective, inflammatory, and vascular markers in NDE, MDE, and ODE. ADRD displayed broader alteration tau, amyloid, neuroinflammation, vascular dysfunction, and synaptic loss across multiple sEV populations. Combining NULISAseq with brain cell-derived plasma sEV enables the detection of multicellular molecular changes in ADRD, supporting their use as a minimally invasive platform for biomarker discovery.",
+      "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Internal Medicine, Section of Gerontology and Geriatric Medicine, Wake Forest University School of Medicine, Winston-Salem, North Carolina, USA.",
+        "Department of Biostatistics and Data Science, Wake Forest University School of Medicine, Winston-Salem, North Carolina, USA.",
+        "Atrium Health Wake Forest Baptist Comprehensive Cancer Center, Wake Forest University School of Medicine, Winston-Salem, North Carolina, USA.",
+        "Sticht Center for Healthy Aging and Alzheimer's Prevention, Wake Forest School of Medicine, Winston-Salem, North Carolina, USA.",
+        "Department of Epidemiology and Prevention, Division of Public Health Sciences, Wake Forest School of Medicine, Winston-Salem, North Carolina, USA."
+      ],
+      "doi": "10.1002/alz.71717",
+      "date": "2026-08-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630134/"
+    },
+    {
+      "pmid": "42630043",
+      "title": "A Novel Index Consisting of Age, CA19-9, and Methylated Somatostatin Is Useful for Diagnosing Early Pancreatic Cancer.",
+      "abstract": "There are no reliable screening tests for pancreatic ductal adenocarcinoma (PDAC). We performed this study to address this issue. Using 206 serum samples from 95 healthy subjects and 111 patients with PDAC, we developed the novel ACAm-S index, which consists of age, CA19-9, and methylated somatostatin. The ACAm-S index showed a sensitivity of 91.0% (101/111) for all stages of PDAC and a specificity of 94.7% (90/95). Notably, its sensitivity was high at 85.4% (35/41), even for Stage I PDAC. The ACAm-S index may have potential as a blood-based screening tool for early-stage PDAC in the general population.",
+      "journal": "Cancer medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Gastroenterology and Hepatology, Yamaguchi University Graduate School of Medicine, Ube, Japan.",
+        "Department of Oncology and Laboratory Medicine, Yamaguchi University Graduate School of Medicine, Ube, Japan.",
+        "Department of Health Screening, Ajisu Kyoritsu Hospital, Yamaguchi, Japan.",
+        "Department of Internal Medicine, Ajisu Kyoritsu Hospital, Yamaguchi, Japan.",
+        "Department of Gastroenterology, St. Hill Hospital, Ube, Japan."
+      ],
+      "doi": "10.1002/cam4.72202",
+      "date": "2026-08-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630043/"
+    },
+    {
+      "pmid": "42629352",
+      "title": "miRNA-mediated metabolic reprogramming is associated with recurrence in ovarian cancer.",
+      "abstract": "Ovarian cancer (OC) recurrence and therapy resistance remain major clinical challenges. Identifying the molecular adaptations associated with relapse is essential for improving disease monitoring. We performed miRNA expression profiling on tissue and serum samples obtained from different primary ovarian cancer (POC) (n = 8) and recurrent ovarian cancer (ROC) cases (n = 8). Following statistical filtering, target prediction and functional pathway enrichment analyses were conducted. Clinical prognostic associations of target genes were explored using the Kaplan-Meier Plotter database. A candidate recurrence-associated signature was identified, comprising hsa-miR-3656 (tissue, Fold Change >1.8), hsa-miR-4701-5p, and hsa-miR-6775-3p (serum, Fold Change >2.0), all significantly upregulated in ROC. Computational target analysis identified 375 miRNA-mRNA interactions primarily enriched in sphingolipid and purine metabolism pathways. Evaluation of the target genes indicated that altered expression of DEGS1, NPR1, and ALDH1B1 is correlated with poorer progression-free survival. OC recurrence is associated with a distinct miRNA profile linked to metabolic reprogramming. Although functional validation is required, circulating hsa-miR-4701-5p and hsa-miR-6775-3p represent candidate liquid biopsy biomarkers requiring prospective validation for recurrence monitoring.",
+      "journal": "Epigenomics",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Faculty of Science, Department of Molecular Biology and Genetics, Istanbul University, Istanbul, Turkey.",
+        "Institute of Graduate Studies in Sciences, Istanbul University, Istanbul, Turkey.",
+        "Department of Obstetrics and Gynecology, Istanbul Medical Faculty, Istanbul University, Istanbul, Turkey."
+      ],
+      "doi": "10.1080/17501911.2026.2721124",
+      "date": "2026-08-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42629352/"
+    },
+    {
       "pmid": "42628853",
       "title": "RNA decay rate as a control point for long non-coding RNA function: a BRIC-based causal analysis of NEAT1.",
       "abstract": "The abundance of a long non-coding RNA (lncRNA) is set by both its synthesis and its decay, yet for nuclear lncRNAs the contribution of decay - and whether decay rate is a determinant of function - has been little explored. I addressed this for NEAT1, the architectural scaffold of paraspeckles. By genome-wide half-life measurement (5'-bromouridine immunoprecipitation chase, BRIC), NEAT1 is a representative short-lived lncRNA at the median of the lncRNA half-life distribution (∼3.3 h), unlike the stable MALAT1. Using inhibitor-free decay measurement and bidirectional perturbation, I show that the core nuclear exosome (EXOSC5, EXOSC2), but not the 5'→3' exonuclease XRN2, the exosome-associated 3'→5' exonuclease EXOSC10, or the deadenylase PARN, sets the NEAT1 decay rate: exosome depletion lengthened the NEAT1 half-life (7.8 → 15.1 h) and raised its abundance; reciprocally, EXOSC5 over-expression shortened the NEAT1 half-life and EXOSC2 over-expression reduced its abundance. The resulting changes in NEAT1 abundance scaled the number and size of paraspeckles without increasing paraspeckle-protein mRNA levels, and changed the expression of candidate PSF/NONO target genes: across three orthogonal NEAT1 manipulations, increased NEAT1 abundance was associated with repression of RAP1A and TCF3 and activation of the NONO-regulated gene GJA1, without changing those mRNAs' own stabilities (under EXOSC5 depletion). These results, which complement the subsequently established exosome-adaptor mechanism of NEAT1 turnover by adding a direct decay-rate measurement and a functional read-out, identify RNA decay rate as a control point - a throttle - on lncRNA function, supported through bidirectional perturbation for NEAT1 in HeLa cells.",
@@ -449,178 +514,111 @@
       "doi": "10.1016/j.talanta.2026.130404",
       "date": "2026-08-10",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42628452/"
-    },
-    {
-      "pmid": "42627892",
-      "title": "Orthogonal DNA barcoding enables subpopulation-resolved extracellular vesicle miRNA profiling.",
-      "abstract": "Extracellular vesicle-associated microRNAs (EV-miRNAs) hold promise for liquid biopsy, but their clinical utility is hindered by EV heterogeneity. Here, we report DEEPER, a DNA-encoded orthogonal recognition platform for selective barcoding of tumor-derived EV subpopulations and in situ miRNA profiling. DEEPER uses four aptamers targeting Cluster of Differentiation 44 (CD44), Epidermal Growth Factor Receptor‌ (EGFR), Human Epidermal Growth Factor Receptor 2‌ (HER2), and ‌Programmed Death-Ligand 1(PD-L1) to generate orthogonal barcodes that distinguish 15 EV subpopulations. Barcoded EVs then undergo targeted membrane fusion with liposome probes, enabling sensitive in situ analysis of subpopulation-specific miRNAs. In a 60-sample cohort of patients with gastric cancer (GC) and healthy donors (HDs), DEEPER identified a high-performing signature, GC-EV miRNA Prime, comprising EGFR+, EGFR+HER2+, and EGFR+HER2+CD44+ EVs, which achieved 98.3% diagnostic accuracy. The same profiling framework also assessed tumor invasiveness with 95.5% accuracy. Mechanistic studies further showed that these EV-miRNAs contribute to tumor progression. In summary, DEEPER not only confirmed the clinical application value of EV-miRNA-based liquid biopsy but also provided unique insights through the EV subpopulations into the mechanisms driving cancer development.",
-      "journal": "Science advances",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Laboratory Medicine, Guangdong Provincial Key Laboratory of Precision Medical Diagnostics, Guangdong Engineering and Technology Research Center for Rapid Diagnostic Biosensors, Guangdong Provincial Key Laboratory of Single-cell and Extracellular Vesicles, Nanfang Hospital, Southern Medical University, Guangzhou 510515, P. R. China.",
-        "Guangdong Provincial Clinical Research Center for Laboratory Medicine, Guangzhou, China.",
-        "Medical Research Center of Nanfang Hospital, Nanfang Hospital, Guangdong Provincial Key Laboratory of Proteomics, School of Basic Medical Sciences, Southern Medical University, Guangzhou 510515, P. R. China.",
-        "School of Biomedical Engineering, Southern Medical University, Guangzhou, Guangdong 510515, P. R. China.",
-        "State Key Laboratory of Multi-organ Injury Prevention and Treatment, Nanfang Hospital, Southern Medical University, Guangzhou, China."
-      ],
-      "doi": "10.1126/sciadv.aef8133",
-      "date": "2026-08-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42627892/"
-    },
-    {
-      "pmid": "42627151",
-      "title": "Beyond tissue biopsy: ctDNA methylation analysis for prediction of colorectal cancer prognosis.",
-      "abstract": "Accurate prognostic stratification remains a major challenge in colorectal cancer (CRC), as substantial heterogeneity in clinical outcomes persists even within the same pathological stage. While mutation-based circulating tumor DNA (ctDNA) analysis has transformed postoperative risk assessment by enabling detection of molecular residual disease (MRD), it primarily reflects the presence of tumor-derived genetic alterations and may not fully capture the biological processes underlying tumor progression. DNA methylation represents a complementary molecular layer that reflects coordinated regulatory states associated with tumor behavior, including transcriptional programs and cellular plasticity. Recent studies suggest that ctDNA methylation profiling may provide additional prognostic information beyond conventional clinicopathological factors and mutation-based assays, particularly in early-stage and postoperative settings. However, important challenges remain, including assay heterogeneity, lack of standardized metrics, and the need for robust external validation. In this Perspective, we examine the limitations of current prognostic frameworks and discuss the potential role of ctDNA methylation analysis as part of an integrated, multidimensional model for risk stratification in CRC. We propose that incorporating epigenetic information may refine prognostic assessment, while emphasizing the need for rigorous validation prior to clinical implementation.",
-      "journal": "Epigenomics",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Coloproctological Surgery, Juntendo University Faculty of Medicine, Tokyo, Japan."
-      ],
-      "doi": "10.1080/17501911.2026.2719145",
-      "date": "2026-08-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42627151/"
-    },
-    {
-      "pmid": "42627081",
-      "title": "Molecular classification and precision therapy in gastric cancer: Current advances and future perspectives (Review).",
-      "abstract": "The emergence of molecular classifications for gastric cancer (GC), The Cancer Genome Atlas (TCGA) and Asian Cancer Research Group (ACRG), has advanced targeted and immunotherapies, but their clinical translation faces real‑world obstacles including high cost, tissue availability, standardization, and intratumoral heterogeneity. The present review critically compares the two classification systems regarding prognostic utility across geographic populations and boundary conflicts, noting that ACRG is more operable in East Asian populations whereas TCGA is better suited for mechanistic exploration. Focusing on acquired resistance as a core bottleneck in precision therapy, mechanisms underlying anti‑Human Epidermal Growth Factor Receptor 2 (HER2) resistance and primary/secondary resistance to immune checkpoint inhibitors (ICIs) were systematically dissected, while also addressing immune‑related adverse events and pseudo‑/hyperprogression. Moreover, non‑immune elements of the tumor microenvironment deserve attention: Cancer‑associated fibroblasts limit drug penetration and promote epithelial‑mesenchymal transition through physical barriers and paracrine signaling; metabolic reprogramming (high glycolysis and glutamine addiction) impairs chemotherapy and ICI efficacy via an acidic microenvironment and metabolic competition. Finally, multi‑target combination strategies are envisioned based on pathway redundancy, along with liquid biopsy‑driven dynamic adaptive therapy and single‑cell/spatial multi‑omics integration for precise microenvironment intervention. The present review aims to offer a systematic reference for moving GC precision therapy from static subtyping toward dynamic, multi‑dimensional integration.",
-      "journal": "Oncology reports",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Gastroenterology, Yancheng TCM Hospital Affiliated to Nanjing University of Chinese Medicine, Yancheng, Jiangsu 224001, P.R. China.",
-        "Department of Pathology, Affiliated Xinghua People's Hospital of Yangzhou University Medical College, Xinghua, Jiangsu 225700, P.R. China.",
-        "Department of Pharmacy, Yancheng TCM Hospital Affiliated to Nanjing University of Chinese Medicine, Yancheng, Jiangsu 224001, P.R. China.",
-        "Department of Respiratory Medicine, Yancheng TCM Hospital Affiliated to Nanjing University of Chinese Medicine, Yancheng, Jiangsu 224001, P.R. China."
-      ],
-      "doi": "10.3892/or.2026.9180",
-      "date": "2026-08-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42627081/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42628911",
+      "id": "pubmed-42629644",
       "date": "2026-08-21",
-      "title": "Novel Wnt potentiators induce iPSC-derived cardiomyocyte proliferation and increase embryonic zebrafish heart size.",
+      "title": "Clinical Translation of Patient-Derived Organoids: Perspectives for Personalized Therapy in Cancer.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42628911/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of molecular and cellular cardiology，PMID 为 42628911。",
-      "report": "Canonical Wnt/β-catenin pathway activation can promote cardiomyocyte (CM) cell cycle activity, but translation is limited by off-target and functional liabilities associated with global pathway activation. We identified two small molecules, LRN9 and DF6, which...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42628783",
-      "date": "2026-08-21",
-      "title": "Corticothalamic assembloids recapitulate human fetal brain morphologies and enhance neuronal complexity.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42628783/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42629644/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of cancer，PMID 为 42629644。",
+      "report": "Patient-derived organoids (PDO) are accelerating precision medicine. These biological platforms allow for the autologous in vitro expansion of material from cancer patients in a considerably short period of time. These three-dimensional models can faithfully r...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42629443",
+      "date": "2026-08-21",
+      "title": "Epithelial interferon-stimulated gene programs modulate chemotherapy sensitivity in colorectal cancer via EPSTI1.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42629443/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
         "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
+        "肿瘤",
+        "药筛",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neuroscience，PMID 为 42628783。",
-      "report": "Neuronal morphology governs how neurons connect, integrate, and process information, offering critical insights into the functional architecture of the brain. Characterizing the three-dimensional (3D) morphology of individual neurons is key not only for mappin...",
+      "fact": "PubMed 记录显示该文献收录于 Oncogene，PMID 为 42629443。",
+      "report": "Although chemotherapy in colorectal cancer (CRC) primarily targets epithelial tumor cells, the epithelial cell-intrinsic mechanisms underlying heterogeneous treatment responses remain poorly understood. We integrated the genomic, transcriptomic, and in vitro d...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42628769",
+      "id": "pubmed-42629352",
       "date": "2026-08-21",
-      "title": "Repurposing Nelfinavir: AIM2 inflammasome-associated anti-tumor effects in Glioblastoma.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "miRNA-mediated metabolic reprogramming is associated with recurrence in ovarian cancer.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42628769/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42629352/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
         "Precision Oncology"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
+        "诊断",
+        "精准医疗",
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biochimica et biophysica acta. Molecular basis of disease，PMID 为 42628769。",
-      "report": "Nelfinavir (NFR), originally developed as an antiretroviral agent for the human immunodeficiency virus, has demonstrated anti-cancer properties across various malignancies; however, its therapeutic potential in Glioblastoma (GBM) remains largely unexplored. In...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42628754",
-      "date": "2026-08-21",
-      "title": "eIF4A1 enhances p70S6K mRNA translation and promotes nuclear β-catenin levels to augment stemness and metastasis in gastric cancer cells.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42628754/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biochemical pharmacology，PMID 为 42628754。",
-      "report": "Gastric cancer (GC) remains a leading cause of cancer-related deaths worldwide, with tumor stemness and metastasis driving poor prognosis. This study explores the role of eukaryotic translation initiation factor 4A1 (eIF4A1) in promoting these aggressive featu...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Epigenomics，PMID 为 42629352。",
+      "report": "Ovarian cancer (OC) recurrence and therapy resistance remain major clinical challenges. Identifying the molecular adaptations associated with relapse is essential for improving disease monitoring. We performed miRNA expression profiling on tissue and serum sam...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -678,98 +676,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 JHEP reports : innovation in hepatology，PMID 为 42628796。",
       "report": "Cholangiocarcinoma (CCA) is a major complication of primary sclerosing cholangitis (PSC), with a 20-year incidence of ∼15%. Early detection is challenging, as current surveillance rarely identifies CCA at a resectable stage. This study investigated bile-derive...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42627892",
-      "date": "2026-08-21",
-      "title": "Orthogonal DNA barcoding enables subpopulation-resolved extracellular vesicle miRNA profiling.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42627892/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42627892。",
-      "report": "Extracellular vesicle-associated microRNAs (EV-miRNAs) hold promise for liquid biopsy, but their clinical utility is hindered by EV heterogeneity. Here, we report DEEPER, a DNA-encoded orthogonal recognition platform for selective barcoding of tumor-derived EV...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42627151",
-      "date": "2026-08-21",
-      "title": "Beyond tissue biopsy: ctDNA methylation analysis for prediction of colorectal cancer prognosis.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42627151/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Epigenomics，PMID 为 42627151。",
-      "report": "Accurate prognostic stratification remains a major challenge in colorectal cancer (CRC), as substantial heterogeneity in clinical outcomes persists even within the same pathological stage. While mutation-based circulating tumor DNA (ctDNA) analysis has transfo...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42627081",
-      "date": "2026-08-21",
-      "title": "Molecular classification and precision therapy in gastric cancer: Current advances and future perspectives (Review).",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42627081/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Oncology reports，PMID 为 42627081。",
-      "report": "The emergence of molecular classifications for gastric cancer (GC), The Cancer Genome Atlas (TCGA) and Asian Cancer Research Group (ACRG), has advanced targeted and immunotherapies, but their clinical translation faces real‑world obstacles including high cost,...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1013,6 +919,124 @@
       "fact": "PubMed 记录显示该文献收录于 Cancer genetics，PMID 为 42600555。",
       "report": "Multiple myeloma (MM) is a severe plasma-cell malignancy that continues to cause substantial morbidity and mortality despite major therapeutic advances. Although current therapies target distinct molecular processes, many patients eventually relapse, raising t...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42630183",
+      "date": "2026-08-07",
+      "title": "Integrated multi-omics analysis reveals dendritic cell centered regulatory networks and therapeutic targets in necrotizing enterocolitis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630183/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42630183。",
+      "report": "Necrotizing enterocolitis (NEC) is a severe inflammatory intestinal disease predominantly affecting premature infants and is characterized by immune dysregulation and epithelial barrier disruption. However, the cellular communication networks and key molecular...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42630093",
+      "date": "2026-08-01",
+      "title": "SORL1 variant links endosomal amyloid precursor protein mis-sorting to axonal transport defects and neuronal dysfunction.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630093/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Alzheimer's & dementia : the journal of the Alzheimer's Association，PMID 为 42630093。",
+      "report": "SORL1 encodes the sorting receptor SORLA, a major genetic contributor to Alzheimer's disease (AD). Although SORL1 loss disrupts endosomal trafficking and promotes amyloidogenic amyloid precursor protein (APP) processing, the functional consequences of specific...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42630134",
+      "date": "2026-08-01",
+      "title": "Dissecting Alzheimer's proteomic landscape through NULISA profiling of brain cell-specific extracellular vesicles.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630134/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Alzheimer's & dementia : the journal of the Alzheimer's Association，PMID 为 42630134。",
+      "report": "Blood-based biomarkers are essential for early detection, monitoring, and therapeutic development in Alzheimer's disease (AD) and related dementia (ADRD), but current assays lack brain cell specificity and sensitivity to low-abundant proteins. We isolated the...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42630043",
+      "date": "2026-08-01",
+      "title": "A Novel Index Consisting of Age, CA19-9, and Methylated Somatostatin Is Useful for Diagnosing Early Pancreatic Cancer.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630043/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer medicine，PMID 为 42630043。",
+      "report": "There are no reliable screening tests for pancreatic ductal adenocarcinoma (PDAC). We performed this study to address this issue. Using 206 serum samples from 95 healthy subjects and 111 patients with PDAC, we developed the novel ACAm-S index, which consists o...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
