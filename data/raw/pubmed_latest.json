@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-21T18:59:05.996457+00:00",
+  "capturedAt": "2026-08-22T01:53:01.068119+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-08-21",
-    "end": "2026-08-21"
+    "start": "2025-08-22",
+    "end": "2026-08-22"
   },
   "pmids": [
+    "42627983",
+    "42627686",
+    "42627645",
     "42627084",
     "42627056",
     "42626960",
-    "42626117",
-    "42625964",
-    "42625013",
     "42600555",
     "42580899",
     "42559559",
@@ -32,14 +32,65 @@
     "42619129",
     "42619090",
     "42616438",
+    "42627892",
     "42627151",
     "42627081",
     "42626933",
     "42626754",
-    "42626456",
-    "42626210"
+    "42626456"
   ],
   "records": [
+    {
+      "pmid": "42627983",
+      "title": "From Cell Culture to Clinical Practice: Drug Discovery and Therapeutic Innovation in Otorhinolaryngology.",
+      "abstract": "To provide a comprehensive narrative review of the role of cell culture models in drug discovery, preclinical safety evaluation, regenerative medicine, and therapeutic innovation in otorhinolaryngology and craniofacial surgery, with emphasis on their translational value in bridging laboratory research and clinical practice. A narrative review was conducted using PubMed/MEDLINE, Scopus, and Web of Science databases. Studies published between 2017 and 2026 were screened using predefined keywords related to cell culture, rhinology, drug discovery, regenerative medicine, topical therapy, and head and neck oncology. Eligible studies included in vitro investigations using validated human primary cell cultures or established cell lines relevant to otorhinolaryngology. Data on experimental models, investigated compounds, biological outcomes, and potential clinical applications were extracted and synthesized narratively by major translational research domains. Twenty-six eligible studies were included. Primary human nasal epithelial cells were the most frequently used model (n=13), followed by fibroblast cultures (n=5), laryngeal carcinoma cell lines (n=5), and A549 respiratory epithelial cells (n=1). The reviewed studies consistently demonstrated that cell culture models enable reliable evaluation of concentration-dependent cytotoxicity, epithelial compatibility, regenerative capacity, and antitumor activity. Natural bioactive compounds were the largest category of agents investigated, while drug repurposing emerged as a major translational strategy. Recent advances, including 3-dimensional cultures, organoids, air-liquid interface systems, and organ-on-chip technologies, have substantially improved the physiological relevance and predictive value of in vitro models. Cell culture technologies have evolved from simple laboratory screening tools into indispensable components of translational drug development in otorhinolaryngology. These models facilitate early safety assessment, optimization of therapeutic concentrations, evaluation of regenerative and anticancer agents, and reduction of unnecessary animal experimentation. The integration of advanced in vitro platforms with emerging technologies such as artificial intelligence is expected to further accelerate precision medicine and the development of safer, more effective, and personalized therapies for upper airway and craniofacial disorders.",
+      "journal": "The Journal of craniofacial surgery",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Medical Pharmacology, Çukurova University Faculty of Medicine, Adana.",
+        "Department of Otorhinolaryngology, Usak University, Medical Faculty, Usak, Turkey."
+      ],
+      "doi": "10.1097/SCS.0000000000013317",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42627983/"
+    },
+    {
+      "pmid": "42627686",
+      "title": "Targeting the PHB2-ACSL3 Lipid-Remodeling Axis Overcomes Cisplatin Resistance by Restoring Ferroptosis in Gastric Cancer.",
+      "abstract": "Platinum-based chemotherapy resistance remains a major obstacle in gastric cancer (GC) treatment. Through integrated transcriptomic profiling of cisplatin-resistant xenografts and pharmacogenomic interrogation of the NCI-60 dataset, we identified Prohibitin-2 (PHB2) as a previously unrecognized determinant of chemoresistance. PHB2 was consistently upregulated in resistant tumors and associated with poor clinical outcomes. Mechanistically, PHB2 binds the lipid-metabolic enzyme ACSL3 through a defined AMP-binding-domain interface (residues W244/H254/E260), enhancing ACSL3 activity to promote monounsaturated fatty acid incorporation into phospholipids. This phospholipid remodeling suppresses lipid peroxidation and establishes a ferroptosis-resistant state. Structure-based virtual screening of an FDA-approved drug library nominated the CXCR4 antagonist Mavorixafor as a potent inhibitor of the PHB2-ACSL3 interaction. Mavorixafor disrupted lipid remodeling, restored ferroptosis susceptibility, and resensitized cisplatin-resistant GC in cell line-derived xenografts (CDOs) and patient-derived organoids (PDOs). The therapeutic effect was abrogated by the ferroptosis inhibitor Liproxstatin-1, confirming ferroptosis dependence. Collectively, our findings define a PHB2-ACSL3 lipid-metabolic axis that drives ferroptosis escape and identify Mavorixafor repurposing as an immediately translatable strategy to overcome cisplatin resistance in treatment-refractory GC.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Immunology, School of Basic Medical Sciences, Anhui Medical University, Hefei, China.",
+        "State Key Laboratory of Metabolic Dysregulation & Prevention and Treatment of Esophageal Cancer, Tianjian Laboratory of Advanced Biomedical Sciences, School of Convergence Medicine, Zhengzhou University, Zhengzhou, China.",
+        "School of Biomedical Sciences, The Chinese University of Hong Kong, Hong Kong, China.",
+        "Huai'an Central Blood Station, Huai'an, China.",
+        "Department of Pathology, Zhongshan Hospital (Xiamen Branch), Fudan University, Xiamen, China.",
+        "Department of Pathology, The Second Affiliated Hospital of Anhui Medical University, Hefei, China."
+      ],
+      "doi": "10.1002/advs.77350",
+      "date": "2026-08-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42627686/"
+    },
+    {
+      "pmid": "42627645",
+      "title": "A Seismic Shift From Animal to \"Human-Based\" Research Is Underway-Here's What to Know About Organoids.",
+      "abstract": "",
+      "journal": "JAMA",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Director, Medical News, JAMA."
+      ],
+      "doi": "10.1001/jama.2026.3047",
+      "date": "2026-08-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42627645/"
+    },
     {
       "pmid": "42627084",
       "title": "Mechanics of compression-driven morphogenesis.",
@@ -91,58 +142,6 @@
       "doi": "10.1002/smll.75183",
       "date": "2026-08-21",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42626960/"
-    },
-    {
-      "pmid": "42626117",
-      "title": "Molecular signaling pathways shaping astrocyte-microglia crosstalk in health and disease.",
-      "abstract": "While neuron-glia communication has been extensively investigated, the molecular dialogue between non-neuronal cells, particularly astrocytes and microglia, remains comparatively less explored. This bidirectional crosstalk plays a central role in maintaining central nervous system (CNS) homeostasis, coordinating responses to injury, and shaping neuroinflammatory dynamics. Astrocyte-microglia communication is mediated by a complex network of secreted factors and intracellular signaling pathways that shape glial activation states and functional outcomes. Among the best-characterized pathways, NF-κB, JAK/STAT3, MAPK/ERK, and Smad2/3 regulate the balance between pro-inflammatory and reparative responses and influence whether glial signaling promotes neurotoxicity or neuroprotection. In this mini-review, we summarize the molecular mechanisms underlying astrocyte-microglia crosstalk in physiological and pathological contexts, with particular emphasis on the secreted mediators that dynamically reprogram glial signaling networks. We also highlight how emerging experimental platforms, including human induced pluripotent stem cell-derived glia, brain organoids, and organ-on-chip systems, are helping to uncover human-specific and disease-relevant features of glial interaction. A better understanding of astrocyte-microglia molecular crosstalk may help define the signaling programs that sustain chronic neuroinflammation and neurodegeneration. Such insight could support the development of strategies aimed at restoring glial homeostasis and limiting disease progression.",
-      "journal": "Frontiers in molecular neuroscience",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Facultad de Ciencias de la Salud, Universidad San Jorge, Zaragoza, Spain."
-      ],
-      "doi": "10.3389/fnmol.2026.1828420",
-      "date": "2026-08-06",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42626117/"
-    },
-    {
-      "pmid": "42625964",
-      "title": "Engineering brain organoids for functional validation and translational applications: Construction strategies, vascularization, and standardization.",
-      "abstract": "Brain organoids provide three-dimensional human cellular systems that can reproduce selected features of early neural development, regional patterning, cellular diversification, and emerging neural activity more effectively than conventional two-dimensional cultures. However, their translational value depends not only on morphological resemblance to brain tissue, but also on whether construction strategies, functional validation, reproducibility, and application-specific model fitness are appropriately aligned. This structured narrative review synthesizes representative engineering strategies for brain organoid construction and examines how cell source, embryoid body formation, extracellular matrix support, patterning strategy, culture platform, vascularization, and cellular complexity influence functional validation and translational applicability. We further organize functional assessment into a hierarchical validation framework that includes morphology and growth, lineage and regional identity, tissue viability, synaptic maturation, electrophysiological activity, neurochemical signaling, BBB-like function, and omics-based benchmarking. These advances support the use of brain organoids in developmental biology, neurological disease modeling, drug screening, neurovascular research, and exploratory biohybrid interfaces, although their interpretation remains constrained by immature cellular states, incomplete vascular perfusion, batch variability, and limited standardization. Overall, this review reframes brain organoids as engineered biological platforms whose value should be judged by the alignment among construction strategy, biological benchmark, functional readout, and intended translational application. The emphasis is comparative conceptual synthesis of engineering strategies and multi-layer functional validation rather than systematic quantitative meta-analysis.",
-      "journal": "Bioengineering & translational medicine",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Key Laboratory for Biorheological Science and Technology of the Ministry of Education, National Local Joint Engineering Laboratory for Vascular Implants, Bioengineering College of Chongqing University Chongqing China.",
-        "Institute of Panvascular Biology, JinFeng Laboratory Chongqing China."
-      ],
-      "doi": "10.1002/btm2.70164",
-      "date": "2026-08-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42625964/"
-    },
-    {
-      "pmid": "42625013",
-      "title": "Genetic contributions to familial Ménière's disease: a systematic review.",
-      "abstract": "Meniere's disease (MD) is a fluctuating vestibulocochlear disorder with an unknown cause. Familial clustering occurs in 8-10% of cases, suggesting a genetic contribution, but the underlying mechanisms remain unclear. This systematic review synthesizes all sequencing studies in familial MD and evaluates the strength of evidence supporting candidate genes. A PRISMA-guided search of PubMed and Embase (June 2024) identified original human genetic studies in families with MD diagnosed according to Bárány Society or AAO-HNS criteria. Two reviewers independently screened studies, extracted data, and reassessed variants using ACMG/AMP guidelines. Risk of bias was evaluated with the Newcastle-Ottawa Scale. Nine studies met inclusion criteria, reporting 29 rare variants across 17 genes in 194 families. Most variants (24/29) were missense; the remainder included three nonsense variants and two frameshift deletions. Seventeen variants were classified as pathogenic or likely pathogenic in the original studies. Evidence for segregation was limited, and functional validation was not always available. Some genes (e.g., OTOG, MYO7A, TECTA, DMXL2) have known roles in auditory function, but the associated phenotypes differ markedly from MD and lack fluctuating hearing loss or episodic vertigo. Most other genes had no prior link to inner-ear disease. Overall, the methodological heterogeneity, small family sizes, and incomplete segregation data greatly limit the strength of causal inference. Current evidence does not support a single monogenic cause of familial MD. Findings indicate marked genetic heterogeneity. Given that only nine studies met the inclusion criteria, the current evidence base remains limited, and the conclusions of this review should be considered provisional and hypothesis-generating rather than definitive. Larger genome-wide studies, knock-in models, and patient-specific cochlear or vestibular organoids are needed to validate candidate genes and clarify pathogenic mechanisms.",
-      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Service d'ORL, Hôpital Lariboisière, AP-HP, Paris, France. cassandre.djian@aphp.fr.",
-        "Université Paris Cité, CRMR VERTICO, IHU reConnect, 75010, Paris, France. cassandre.djian@aphp.fr.",
-        "Centre de Référence « Surdités Génétiques », Service de Médecine Génomique Des Maladies Rares, Hôpital Necker-Enfants Malades, Assistance Publique Hôpitaux de Paris, 75015, Paris, France.",
-        "Institut Imagine, UMR 1163, INSERM, Université Paris Cité, 75015, Paris, France."
-      ],
-      "doi": "10.1007/s00405-026-10535-y",
-      "date": "2026-08-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42625013/"
     },
     {
       "pmid": "42600555",
@@ -385,6 +384,25 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616438/"
     },
     {
+      "pmid": "42627892",
+      "title": "Orthogonal DNA barcoding enables subpopulation-resolved extracellular vesicle miRNA profiling.",
+      "abstract": "Extracellular vesicle-associated microRNAs (EV-miRNAs) hold promise for liquid biopsy, but their clinical utility is hindered by EV heterogeneity. Here, we report DEEPER, a DNA-encoded orthogonal recognition platform for selective barcoding of tumor-derived EV subpopulations and in situ miRNA profiling. DEEPER uses four aptamers targeting Cluster of Differentiation 44 (CD44), Epidermal Growth Factor Receptor‌ (EGFR), Human Epidermal Growth Factor Receptor 2‌ (HER2), and ‌Programmed Death-Ligand 1(PD-L1) to generate orthogonal barcodes that distinguish 15 EV subpopulations. Barcoded EVs then undergo targeted membrane fusion with liposome probes, enabling sensitive in situ analysis of subpopulation-specific miRNAs. In a 60-sample cohort of patients with gastric cancer (GC) and healthy donors (HDs), DEEPER identified a high-performing signature, GC-EV miRNA Prime, comprising EGFR+, EGFR+HER2+, and EGFR+HER2+CD44+ EVs, which achieved 98.3% diagnostic accuracy. The same profiling framework also assessed tumor invasiveness with 95.5% accuracy. Mechanistic studies further showed that these EV-miRNAs contribute to tumor progression. In summary, DEEPER not only confirmed the clinical application value of EV-miRNA-based liquid biopsy but also provided unique insights through the EV subpopulations into the mechanisms driving cancer development.",
+      "journal": "Science advances",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Laboratory Medicine, Guangdong Provincial Key Laboratory of Precision Medical Diagnostics, Guangdong Engineering and Technology Research Center for Rapid Diagnostic Biosensors, Guangdong Provincial Key Laboratory of Single-cell and Extracellular Vesicles, Nanfang Hospital, Southern Medical University, Guangzhou 510515, P. R. China.",
+        "Guangdong Provincial Clinical Research Center for Laboratory Medicine, Guangzhou, China.",
+        "Medical Research Center of Nanfang Hospital, Nanfang Hospital, Guangdong Provincial Key Laboratory of Proteomics, School of Basic Medical Sciences, Southern Medical University, Guangzhou 510515, P. R. China.",
+        "School of Biomedical Engineering, Southern Medical University, Guangzhou, Guangdong 510515, P. R. China.",
+        "State Key Laboratory of Multi-organ Injury Prevention and Treatment, Nanfang Hospital, Southern Medical University, Guangzhou, China."
+      ],
+      "doi": "10.1126/sciadv.aef8133",
+      "date": "2026-08-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42627892/"
+    },
+    {
       "pmid": "42627151",
       "title": "Beyond tissue biopsy: ctDNA methylation analysis for prediction of colorectal cancer prognosis.",
       "abstract": "Accurate prognostic stratification remains a major challenge in colorectal cancer (CRC), as substantial heterogeneity in clinical outcomes persists even within the same pathological stage. While mutation-based circulating tumor DNA (ctDNA) analysis has transformed postoperative risk assessment by enabling detection of molecular residual disease (MRD), it primarily reflects the presence of tumor-derived genetic alterations and may not fully capture the biological processes underlying tumor progression. DNA methylation represents a complementary molecular layer that reflects coordinated regulatory states associated with tumor behavior, including transcriptional programs and cellular plasticity. Recent studies suggest that ctDNA methylation profiling may provide additional prognostic information beyond conventional clinicopathological factors and mutation-based assays, particularly in early-stage and postoperative settings. However, important challenges remain, including assay heterogeneity, lack of standardized metrics, and the need for robust external validation. In this Perspective, we examine the limitations of current prognostic frameworks and discuss the potential role of ctDNA methylation analysis as part of an integrated, multidimensional model for risk stratification in CRC. We propose that incorporating epigenetic information may refine prognostic assessment, while emphasizing the need for rigorous validation prior to clinical implementation.",
@@ -471,28 +489,71 @@
       "doi": "10.3389/fneur.2026.1822479",
       "date": "2026-08-06",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42626456/"
-    },
-    {
-      "pmid": "42626210",
-      "title": "CRISPR technologies for detecting DNA and RNA methylation: Mechanisms, platforms, and translational opportunities.",
-      "abstract": "DNA and RNA methylation are key epigenetic and epitranscriptomic modifications involved in gene regulation, genome stability, RNA metabolism, and disease progression. Aberrant methylation patterns in cell-free DNA and RNA have emerged as valuable biomarkers for cancer detection, disease monitoring, and therapeutic stratification. However, conventional methods such as bisulfite sequencing, methylation-specific PCR, MeRIP-seq, SCARLET, and LC-MS/MS often require harsh processing, high sample input, complex instrumentation, or lack site-specific resolution, limiting their clinical and point-of-care applications. CRISPR-based diagnostics provide a promising alternative by combining programmable nucleic acid recognition with collateral cleavage-mediated signal amplification. This review summarizes recent CRISPR strategies for detecting DNA and RNA methylation, including chemical conversion-assisted assays, restriction enzyme-mediated detection, direct amplification-free sensing based on methylation-modulated Cas activity, detection of oxidized cytosine derivatives, reverse transcription-mediated Cas12 detection of m6A, and structure-sensitive Cas13 sensing. We highlight how methylation-dependent sequence conversion, enzyme accessibility, polymerase behavior, and nucleic acid structure can be translated into CRISPR-readable signals. Finally, we discuss current translational challenges and emerging opportunities in point-of-care methylation diagnostics, integrated DNA-RNA profiling, engineered Cas effectors, AI-guided assay design, and CRISPR-compatible methylome analysis.",
-      "journal": "Bioengineering & translational medicine",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "School of Biomedical Engineering University of New South Wales Sydney Australia.",
-        "Australian Centre for NanoMedicine University of New South Wales Sydney Australia.",
-        "The NMPA and State Key Laboratory of Respiratory Disease, School of Pharmaceutical Sciences, Department of Emergency, The Second Affiliated Hospital Guangzhou Medical University Guangzhou People's Republic of China.",
-        "Chongqing Key Laboratory for the Mechanism and Intervention of Cancer Metastasis, Chongqing University Cancer Hospital Chongqing University Chongqing People's Republic of China."
-      ],
-      "doi": "10.1002/btm2.70174",
-      "date": "2026-08-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42626210/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42627686",
+      "date": "2026-08-21",
+      "title": "Targeting the PHB2-ACSL3 Lipid-Remodeling Axis Overcomes Cisplatin Resistance by Restoring Ferroptosis in Gastric Cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42627686/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42627686。",
+      "report": "Platinum-based chemotherapy resistance remains a major obstacle in gastric cancer (GC) treatment. Through integrated transcriptomic profiling of cisplatin-resistant xenografts and pharmacogenomic interrogation of the NCI-60 dataset, we identified Prohibitin-2...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42627645",
+      "date": "2026-08-21",
+      "title": "A Seismic Shift From Animal to \"Human-Based\" Research Is Underway-Here's What to Know About Organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42627645/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 JAMA，PMID 为 42627645。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42627084",
       "date": "2026-08-21",
@@ -591,6 +652,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42627892",
+      "date": "2026-08-21",
+      "title": "Orthogonal DNA barcoding enables subpopulation-resolved extracellular vesicle miRNA profiling.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42627892/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42627892。",
+      "report": "Extracellular vesicle-associated microRNAs (EV-miRNAs) hold promise for liquid biopsy, but their clinical utility is hindered by EV heterogeneity. Here, we report DEEPER, a DNA-encoded orthogonal recognition platform for selective barcoding of tumor-derived EV...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42627151",
       "date": "2026-08-21",
       "title": "Beyond tissue biopsy: ctDNA methylation analysis for prediction of colorectal cancer prognosis.",
@@ -683,36 +774,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42625013",
-      "date": "2026-08-20",
-      "title": "Genetic contributions to familial Ménière's disease: a systematic review.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42625013/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery，PMID 为 42625013。",
-      "report": "Meniere's disease (MD) is a fluctuating vestibulocochlear disorder with an unknown cause. Familial clustering occurs in 8-10% of cases, suggesting a genetic contribution, but the underlying mechanisms remain unclear. This systematic review synthesizes all sequ...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42624861",
       "date": "2026-08-20",
       "title": "AI-enabled discovery and biochemical optimization of minibinders targeting cancer cell-surface proteins.",
@@ -772,33 +833,48 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42625964",
+      "id": "pubmed-42627983",
       "date": "2026-08-19",
-      "title": "Engineering brain organoids for functional validation and translational applications: Construction strategies, vascularization, and standardization.",
+      "title": "From Cell Culture to Clinical Practice: Drug Discovery and Therapeutic Innovation in Otorhinolaryngology.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42625964/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42627983/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery",
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
         "Drug Screening"
       ],
       "tags": [
         "类器官",
         "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
         "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bioengineering & translational medicine，PMID 为 42625964。",
-      "report": "Brain organoids provide three-dimensional human cellular systems that can reproduce selected features of early neural development, regional patterning, cellular diversification, and emerging neural activity more effectively than conventional two-dimensional cu...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 The Journal of craniofacial surgery，PMID 为 42627983。",
+      "report": "To provide a comprehensive narrative review of the role of cell culture models in drug discovery, preclinical safety evaluation, regenerative medicine, and therapeutic innovation in otorhinolaryngology and craniofacial surgery, with emphasis on their translati...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -919,36 +995,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42626210",
-      "date": "2026-08-19",
-      "title": "CRISPR technologies for detecting DNA and RNA methylation: Mechanisms, platforms, and translational opportunities.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42626210/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bioengineering & translational medicine，PMID 为 42626210。",
-      "report": "DNA and RNA methylation are key epigenetic and epitranscriptomic modifications involved in gene regulation, genome stability, RNA metabolism, and disease progression. Aberrant methylation patterns in cell-free DNA and RNA have emerged as valuable biomarkers fo...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42600555",
       "date": "2026-08-08",
       "title": "Sparse integrative dictionary learning resolves conserved drug-response states in multiple myeloma (MM).",
@@ -976,34 +1022,6 @@
       "fact": "PubMed 记录显示该文献收录于 Cancer genetics，PMID 为 42600555。",
       "report": "Multiple myeloma (MM) is a severe plasma-cell malignancy that continues to cause substantial morbidity and mortality despite major therapeutic advances. Although current therapies target distinct molecular processes, many patients eventually relapse, raising t...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42626117",
-      "date": "2026-08-06",
-      "title": "Molecular signaling pathways shaping astrocyte-microglia crosstalk in health and disease.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42626117/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in molecular neuroscience，PMID 为 42626117。",
-      "report": "While neuron-glia communication has been extensively investigated, the molecular dialogue between non-neuronal cells, particularly astrocytes and microglia, remains comparatively less explored. This bidirectional crosstalk plays a central role in maintaining c...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-08-21",
+  "updatedAt": "2026-08-22",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -821,6 +821,157 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42627686",
+      "date": "2026-08-21",
+      "title": "Targeting the PHB2-ACSL3 Lipid-Remodeling Axis Overcomes Cisplatin Resistance by Restoring Ferroptosis in Gastric Cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42627686/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42627686。",
+      "report": "Platinum-based chemotherapy resistance remains a major obstacle in gastric cancer (GC) treatment. Through integrated transcriptomic profiling of cisplatin-resistant xenografts and pharmacogenomic interrogation of the NCI-60 dataset, we identified Prohibitin-2...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0bca57198b768adc006a89010901f087d0b62f6c9ad70e7776",
+        "reviewedAt": "2026-08-22T01:53:11.873588+00:00",
+        "inputHash": "0da6c373d950430f095a62018455e946981a13d9d5cef2b6932e5170a22489f7",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该研究探讨了通过靶向PHB2-ACSL3脂质重塑轴克服顺铂耐药的问题，内部一致性强，且没有不当临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理且符合研究主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论均分开，证据水平在中等范围内，是合理的。"
+        },
+        "riskFlags": [
+          "research_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Drug Screening",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "药筛",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42627686。",
+          "report": "Platinum-based chemotherapy resistance remains a major obstacle in gastric cancer (GC) treatment. Through integrated transcriptomic profiling of cisplatin-resistant xenografts and pharmacogenomic interrogation of the NCI-60 dataset, we identified Prohibitin-2...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42627645",
+      "date": "2026-08-21",
+      "title": "A Seismic Shift From Animal to \"Human-Based\" Research Is Underway-Here's What to Know About Organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42627645/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 JAMA，PMID 为 42627645。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0ca3d3a03072a42c006a89010ed26087d086ed28c0341a119d",
+        "reviewedAt": "2026-08-22T01:53:11.873588+00:00",
+        "inputHash": "56f24500102b22925d0cf3ac6e53a66d6a829e7b305951ceee4a4e8cef01963d",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号存在研究质量和证据水平的问题，需人工审核。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平为低，且研究质量未知。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "尽管事实与报告清晰分开，但证据水平不符合分类所需的标准。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 JAMA，PMID 为 42627645。",
+          "report": "PubMed 记录未提供摘要。",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42627084",
       "date": "2026-08-21",
       "title": "Mechanics of compression-driven morphogenesis.",
@@ -1052,6 +1203,80 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Small (Weinheim an der Bergstrasse, Germany)，PMID 为 42626960。",
           "report": "Pre-eclampsia (PE) is a complex pregnancy-specific disorder characterized by hypertension and proteinuria, posing significant risks to both maternal and fetal health. Despite ongoing efforts, drug development remains hindered by poor placental targeting, potential toxicity, and other challenges.",
           "inference": "该报告内容需进一步验证以确保临床适用性。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42627892",
+      "date": "2026-08-21",
+      "title": "Orthogonal DNA barcoding enables subpopulation-resolved extracellular vesicle miRNA profiling.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42627892/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42627892。",
+      "report": "Extracellular vesicle-associated microRNAs (EV-miRNAs) hold promise for liquid biopsy, but their clinical utility is hindered by EV heterogeneity. Here, we report DEEPER, a DNA-encoded orthogonal recognition platform for selective barcoding of tumor-derived EV...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_00476c7198380034006a890113933887d098d82601a9b94144",
+        "reviewedAt": "2026-08-22T01:53:11.873588+00:00",
+        "inputHash": "b88ddd8912dab757b2b42bd4cfd381e73984fccad970a738f15cc0f3ec5ecc38",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合出版标准，信息分离明确。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理且贴切研究内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "来源信息核实完整，未做不当推断。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42627892。",
+          "report": "Extracellular vesicle-associated microRNAs (EV-miRNAs) hold promise for liquid biopsy, but their clinical utility is hindered by EV heterogeneity. Here, we report DEEPER, a DNA-encoded orthogonal recognition platform for selective barcoding of tumor-derived EV...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1364,77 +1589,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42625013",
-      "date": "2026-08-20",
-      "title": "Genetic contributions to familial Ménière's disease: a systematic review.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42625013/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery，PMID 为 42625013。",
-      "report": "Meniere's disease (MD) is a fluctuating vestibulocochlear disorder with an unknown cause. Familial clustering occurs in 8-10% of cases, suggesting a genetic contribution, but the underlying mechanisms remain unclear. This systematic review synthesizes all sequ...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_06de597b28f00611006a884f17fc8887d1aa46e2642ae2064d",
-        "reviewedAt": "2026-08-21T13:13:52.737725+00:00",
-        "inputHash": "3e29409a6152bf2461ff0ec2b13d20b8196aae2abd522423673663597a6f5801",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "文献符合发表标准，无需人工审查。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，与主题一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论分离明确，证据水平合理。"
-        },
-        "riskFlags": [],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery，PMID 为 42625013。",
-          "report": "Meniere's disease (MD) is a fluctuating vestibulocochlear disorder with an unknown cause. Familial clustering occurs in 8-10% of cases, suggesting a genetic contribution, but the underlying mechanisms remain unclear. This systematic review synthesizes all sequ...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42624861",
       "date": "2026-08-20",
       "title": "AI-enabled discovery and biochemical optimization of minibinders targeting cancer cell-surface proteins.",
@@ -1577,57 +1731,72 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42625964",
+      "id": "pubmed-42627983",
       "date": "2026-08-19",
-      "title": "Engineering brain organoids for functional validation and translational applications: Construction strategies, vascularization, and standardization.",
+      "title": "From Cell Culture to Clinical Practice: Drug Discovery and Therapeutic Innovation in Otorhinolaryngology.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42625964/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42627983/",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": true,
+      "needsReview": false,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery",
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
         "Drug Screening"
       ],
       "tags": [
         "类器官",
         "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
         "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bioengineering & translational medicine，PMID 为 42625964。",
-      "report": "Brain organoids provide three-dimensional human cellular systems that can reproduce selected features of early neural development, regional patterning, cellular diversification, and emerging neural activity more effectively than conventional two-dimensional cu...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 The Journal of craniofacial surgery，PMID 为 42627983。",
+      "report": "To provide a comprehensive narrative review of the role of cell culture models in drug discovery, preclinical safety evaluation, regenerative medicine, and therapeutic innovation in otorhinolaryngology and craniofacial surgery, with emphasis on their translati...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_08d378502760f37a006a88a0301e4087d0b2400c1a0ec9c3a1",
-        "reviewedAt": "2026-08-21T18:59:15.535100+00:00",
-        "inputHash": "a8f71ddb558c3e965d9d83652801b365f184163f2c880afabff0e2f2bc90c29b",
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审核，因为文献中提到的临床应用和效果未得到明确支持。",
+        "responseId": "resp_0a660ca692329775006a890117f7f487d08508fba9f26de923",
+        "reviewedAt": "2026-08-22T01:53:11.873588+00:00",
+        "inputHash": "8f887b3d0ac9ac1786a1f34da238985a2451e020cf6c1f18e6115954ab700be0",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录清晰且中立，不涉及具体的疗效或安全性结论。",
         "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类支持性不足，因为未能充分验证潜在的临床应用或效果。"
+          "isSupported": true,
+          "notesCn": "主要类别和子类别与文献内容一致，证据级别合理。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平被评估为中等，但实际证据支持并不充分。"
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分开清晰且合理。"
         },
         "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
+          "research",
+          "clinical_claim"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -1636,16 +1805,29 @@ window.BHR_DATA = {
           "themes": [
             "Organoids",
             "Advanced Disease Models",
+            "AI for Biology",
+            "Drug Discovery",
+            "Diagnostics",
+            "Precision Medicine",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology",
             "Drug Screening"
           ],
           "tags": [
             "类器官",
             "疾病模型",
+            "AI 制药",
+            "诊断",
+            "精准医疗",
+            "临床",
+            "监管",
+            "肿瘤",
             "药筛"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Bioengineering & translational medicine，PMID 为 42625964。",
-          "report": "Brain organoids provide three-dimensional human cellular systems that can reproduce selected features of early neural development, regional patterning, cellular diversification, and emerging neural activity more effectively than conventional two-dimensional cultures.",
-          "inference": "该分类用于情报分流，不代表研究质量或临床结论.",
+          "fact": "PubMed 记录显示该文献收录于 The Journal of craniofacial surgery，PMID 为 42627983。",
+          "report": "To provide a comprehensive narrative review of the role of cell culture models in drug discovery, preclinical safety evaluation, regenerative medicine, and therapeutic innovation in otorhinolaryngology and craniofacial surgery, with emphasis on their translati...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1932,80 +2114,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Journal of agricultural and food chemistry，PMID 为 42616438。",
           "report": "Nowadays, enzyme engineering has moved from traditional structure-based mutagenesis and directed evolution to data-intensive, AI-assisted design paradigms that involve the rapid discovery and optimization of biocatalysts. Whereas classical approaches relied on...",
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42626210",
-      "date": "2026-08-19",
-      "title": "CRISPR technologies for detecting DNA and RNA methylation: Mechanisms, platforms, and translational opportunities.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42626210/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Biotech",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bioengineering & translational medicine，PMID 为 42626210。",
-      "report": "DNA and RNA methylation are key epigenetic and epitranscriptomic modifications involved in gene regulation, genome stability, RNA metabolism, and disease progression. Aberrant methylation patterns in cell-free DNA and RNA have emerged as valuable biomarkers fo...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0716a0fc7f371c72006a88a034fb9c87d09ddf08d5b35db28d",
-        "reviewedAt": "2026-08-21T18:59:15.535100+00:00",
-        "inputHash": "d73d0fd407912ee608c1111f915a7003b72b0ac47ecda6951177d36611aa7d60",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录符合发布标准，信息来源合理，且没有临床建议或不支持的结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合源材料。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据级别与研究内容相符，事实、报告和推论分开清晰。"
-        },
-        "riskFlags": [
-          "biotech",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Biotech",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "biotech",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Bioengineering & translational medicine，PMID 为 42626210。",
-          "report": "DNA and RNA methylation are key epigenetic and epitranscriptomic modifications involved in gene regulation, genome stability, RNA metabolism, and disease progression. Aberrant methylation patterns in cell-free DNA and RNA have emerged as valuable biomarkers fo...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -3407,75 +3515,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 10-Q.",
           "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42626117",
-      "date": "2026-08-06",
-      "title": "Molecular signaling pathways shaping astrocyte-microglia crosstalk in health and disease.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42626117/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in molecular neuroscience，PMID 为 42626117。",
-      "report": "While neuron-glia communication has been extensively investigated, the molecular dialogue between non-neuronal cells, particularly astrocytes and microglia, remains comparatively less explored. This bidirectional crosstalk plays a central role in maintaining c...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0c785c44b6e8a52b006a88a03b4acc87d09361ad7dd2823bd9",
-        "reviewedAt": "2026-08-21T18:59:15.535100+00:00",
-        "inputHash": "bccf03001b9544e2cd6d94893e593e7adfb35aea8acfcd6d7854e6149d3528ac",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录符合发表要求，明确区分了事实、报告和推断。没有提出未支持的临床结论或建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "初级分类和证据水平合理，适用于提供的信息。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断分开清晰，证据水平合理。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in molecular neuroscience，PMID 为 42626117。",
-          "report": "While neuron-glia communication has been extensively investigated, the molecular dialogue between non-neuronal cells, particularly astrocytes and microglia, remains comparatively less explored. This bidirectional crosstalk plays a central role in maintaining c...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
