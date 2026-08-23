@@ -4,57 +4,78 @@
   "asOfDate": "2026-08-23",
   "evidence": [
     {
-      "id": "evidence-pubmed-42629644",
-      "signalId": "pubmed-42629644",
+      "id": "evidence-pubmed-42632580",
+      "signalId": "pubmed-42632580",
       "companyIds": [],
-      "publishedAt": "2026-08-21",
+      "publishedAt": "2026-08-22",
       "snapshotDate": "2026-08-23",
-      "title": "Clinical Translation of Patient-Derived Organoids: Perspectives for Personalized Therapy in Cancer.",
+      "title": "The synergy of artificial intelligence and organ-on-a-chip: building a next-generation intelligent engine for drug development.",
       "eventType": "Review",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42629644/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632580/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Drug Screening"
+        "AI for Biology",
+        "Drug Discovery"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤",
-        "药筛"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
       ],
-      "fact": "PubMed 记录显示该文献收录于 International journal of cancer，PMID 为 42629644。",
-      "report": "Patient-derived organoids (PDO) are accelerating precision medicine. These biological platforms allow for the autologous in vitro expansion of material from cancer patients in a considerably short period of time. These three-dimensional models can faithfully r...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 International journal of pharmaceutics，PMID 为 42632580。",
+      "report": "Drug development has long been constrained by high costs, lengthy timelines, and low success rates, primarily due to the insufficient human physiological fidelity of traditional preclinical models. Artificial intelligence (AI) has accelerated computational dru...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42629443",
-      "signalId": "pubmed-42629443",
+      "id": "evidence-pubmed-42632302",
+      "signalId": "pubmed-42632302",
       "companyIds": [],
-      "publishedAt": "2026-08-21",
+      "publishedAt": "2026-08-22",
       "snapshotDate": "2026-08-23",
-      "title": "Epithelial interferon-stimulated gene programs modulate chemotherapy sensitivity in colorectal cancer via EPSTI1.",
+      "title": "The peptide Ac2-26 preserves mitochondrial function and neuronal survival in human retinal cells and organoids under hyperglycemic and inflammatory stress.",
       "eventType": "Research",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42629443/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632302/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie，PMID 为 42632302。",
+      "report": "Diabetic retinopathy (DR) is a neurodegenerative disease characterized by hyperglycemia-induced inflammation, mitochondrial dysfunction, and progressive neuronal cell death, leading to irreversible vision loss. Retinal ganglion cells (RGCs) are particularly vu...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42632279",
+      "signalId": "pubmed-42632279",
+      "companyIds": [],
+      "publishedAt": "2026-08-22",
+      "snapshotDate": "2026-08-23",
+      "title": "Parishin degrades CXCL2 via ubiquitination to limit myeloid-derived suppressor cells and potentiate antitumor immunity after incomplete radiofrequency ablation in hepatocellular carcinoma.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632279/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
@@ -72,23 +93,190 @@
         "药筛",
         "多组学"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Oncogene，PMID 为 42629443。",
-      "report": "Although chemotherapy in colorectal cancer (CRC) primarily targets epithelial tumor cells, the epithelial cell-intrinsic mechanisms underlying heterogeneous treatment responses remain poorly understood. We integrated the genomic, transcriptomic, and in vitro d...",
+      "fact": "PubMed 记录显示该文献收录于 International immunopharmacology，PMID 为 42632279。",
+      "report": "Radiofrequency ablation (RFA) is a standard curative therapy for early-stage hepatocellular carcinoma (HCC). However, some patients experience incomplete RFA (iRFA), and the chemokines and cytokines released subsequent to iRFA can promote tumor progression. Ba...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42629352",
-      "signalId": "pubmed-42629352",
+      "id": "evidence-pubmed-42632056",
+      "signalId": "pubmed-42632056",
       "companyIds": [],
-      "publishedAt": "2026-08-21",
+      "publishedAt": "2026-08-22",
       "snapshotDate": "2026-08-23",
-      "title": "miRNA-mediated metabolic reprogramming is associated with recurrence in ovarian cancer.",
+      "title": "Precision Pancreatic Cancer Care: From Early Detection to Adaptive Precision Oncology.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632056/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Cancer investigation，PMID 为 42632056。",
+      "report": "Pancreatic ductal adenocarcinoma (PDAC) remains highly lethal, and genome-centric precision oncology shows limited impact due to low actionable alterations and high heterogeneity. A broader \"Precision Pancreatic Cancer Care\" (PPCC) framework integrates multi-o...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42631829",
+      "signalId": "pubmed-42631829",
+      "companyIds": [],
+      "publishedAt": "2026-08-22",
+      "snapshotDate": "2026-08-23",
+      "title": "Inner Ear Organoids: Recent Progress and Challenges.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631829/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "药筛"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Stem cell reviews and reports，PMID 为 42631829。",
+      "report": "Hearing loss is a prevalent sensory disorder primarily caused by the irreversible loss of cochlear hair cells and the limited regenerative capacity of the mammalian inner ear. The structural complexity and inaccessibility of inner ear tissues have long hindere...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42631515",
+      "signalId": "pubmed-42631515",
+      "companyIds": [],
+      "publishedAt": "2026-08-22",
+      "snapshotDate": "2026-08-23",
+      "title": "Human Brain Organoid-Enabling Discoveries Reach the Clinic: A Translational Inflection Point.",
       "eventType": "Research",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42629352/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631515/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Longevity",
+        "Biomarkers"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "衰老",
+        "biomarker",
+        "longevity"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Stem cells and development，PMID 为 42631515。",
+      "report": "Human brain organoids have evolved from early neurodevelopmental models into platforms for therapeutic discovery. Here, we highlight two cases in which organoid-derived findings enabled FDA-approved clinical trials. Patient-derived organoids modeling Pitt-Hopk...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42631415",
+      "signalId": "pubmed-42631415",
+      "companyIds": [],
+      "publishedAt": "2026-08-22",
+      "snapshotDate": "2026-08-23",
+      "title": "MitoGPS: A Mitochondrial DNA G-Quadruplex-Targeting Strategy for Tumor-Preferential Type I Photodynamic Therapy.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631415/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42631415。",
+      "report": "Photodynamic therapy (PDT) is a clinically promising, minimally invasive cancer treatment offering precise spatiotemporal control. However, achieving preferential tumor accumulation remains a critical challenge, which limits therapeutic efficacy and induces of...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42631856",
+      "signalId": "pubmed-42631856",
+      "companyIds": [],
+      "publishedAt": "2026-08-22",
+      "snapshotDate": "2026-08-23",
+      "title": "SMAD4 mRNA expression as a diagnostic biomarker in non-small cell lung cancer.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631856/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Molecular biology reports，PMID 为 42631856。",
+      "report": "Non-small cell lung cancer (NSCLC) remains one of the leading causes of cancer-related mortality worldwide, largely due to late-stage diagnosis. Although histopathology is the gold standard, there is a need for reliable molecular biomarkers to improve early de...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42631721",
+      "signalId": "pubmed-42631721",
+      "companyIds": [],
+      "publishedAt": "2026-08-22",
+      "snapshotDate": "2026-08-23",
+      "title": "Exploring the Clinical Transformation of circRNA as a Biomarker in Breast Cancer.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631721/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
@@ -102,66 +290,8 @@
         "精准医疗",
         "肿瘤"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Epigenomics，PMID 为 42629352。",
-      "report": "Ovarian cancer (OC) recurrence and therapy resistance remain major clinical challenges. Identifying the molecular adaptations associated with relapse is essential for improving disease monitoring. We performed miRNA expression profiling on tissue and serum sam...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42628853",
-      "signalId": "pubmed-42628853",
-      "companyIds": [],
-      "publishedAt": "2026-08-21",
-      "snapshotDate": "2026-08-23",
-      "title": "RNA decay rate as a control point for long non-coding RNA function: a BRIC-based causal analysis of NEAT1.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42628853/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Gene，PMID 为 42628853。",
-      "report": "The abundance of a long non-coding RNA (lncRNA) is set by both its synthesis and its decay, yet for nuclear lncRNAs the contribution of decay - and whether decay rate is a determinant of function - has been little explored. I addressed this for NEAT1, the arch...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42628796",
-      "signalId": "pubmed-42628796",
-      "companyIds": [],
-      "publishedAt": "2026-08-21",
-      "snapshotDate": "2026-08-23",
-      "title": "Bile extracellular vesicles for early cholangiocarcinoma detection in primary sclerosing cholangitis.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42628796/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 JHEP reports : innovation in hepatology，PMID 为 42628796。",
-      "report": "Cholangiocarcinoma (CCA) is a major complication of primary sclerosing cholangitis (PSC), with a 20-year incidence of ∼15%. Early detection is challenging, as current surveillance rarely identifies CCA at a resectable stage. This study investigated bile-derive...",
+      "fact": "PubMed 记录显示该文献收录于 Cancer control : journal of the Moffitt Cancer Center，PMID 为 42631721。",
+      "report": "This narrative review systematically examines the potential of circular RNAs (circRNAs) as clinical biomarkers in breast cancer, focusing on the translational gap between basic discoveries and clinical applications. circRNAs are covalently closed non-coding RN...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -345,34 +475,33 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42616438",
-      "signalId": "pubmed-42616438",
+      "id": "evidence-pubmed-42632117",
+      "signalId": "pubmed-42632117",
       "companyIds": [],
-      "publishedAt": "2026-08-19",
+      "publishedAt": "2026-08-18",
       "snapshotDate": "2026-08-23",
-      "title": "Enzyme Engineering: From Classical Strategies to AI-Driven Biocatalyst Design.",
-      "eventType": "Review",
+      "title": "Peptide-functionalized magnetic nanobeads for EpCAM-targeted CTC isolation and immunotherapy efficacy evaluation in liver cancer.",
+      "eventType": "Research",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616438/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632117/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
       "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Drug Screening"
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
       ],
       "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "药筛"
+        "诊断",
+        "精准医疗",
+        "肿瘤"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Journal of agricultural and food chemistry，PMID 为 42616438。",
-      "report": "Nowadays, enzyme engineering has moved from traditional structure-based mutagenesis and directed evolution to data-intensive, AI-assisted design paradigms that involve the rapid discovery and optimization of biocatalysts. Whereas classical approaches relied on...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Talanta，PMID 为 42632117。",
+      "report": "Primary liver cancer lacks robust biomarkers for anti-PD-1/PD-L1 therapy. Methods: We engineered peptide-functionalized magnetic nanobeads (Pep@MNPs) for high-efficiency, EpCAM-dependent capture of circulating tumor cells (CTCs). This nanotechnology-based plat...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -436,6 +565,36 @@
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "evidence-pubmed-42630696",
+      "signalId": "pubmed-42630696",
+      "companyIds": [],
+      "publishedAt": "2026-08-13",
+      "snapshotDate": "2026-08-23",
+      "title": "The Double-Edged Sword of Genomic DNA Methylation: Orchestrating Gastric Carcinogenesis and Shaping Precision Oncology.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630696/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Oncology research，PMID 为 42630696。",
+      "report": "This article systematically elaborates on the dual role of DNA methylation in the initiation and progression of gastric cancer and its potential clinical applications in precision oncology. As a core epigenetic mechanism, DNA methylation drives the multistage...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
       "id": "evidence-sec-0001110803-000095015726000888",
@@ -782,42 +941,6 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
-      "id": "evidence-pubmed-42628452",
-      "signalId": "pubmed-42628452",
-      "companyIds": [],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-23",
-      "title": "Surface-enhanced Raman spectroscopy for breast cancer personalized management:From liquid biopsy and intraoperative navigation to therapy monitoring.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42628452/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤",
-        "药筛"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Talanta，PMID 为 42628452。",
-      "report": "Surface-enhanced Raman spectroscopy (SERS) has emerged as a powerful analytical platform for addressing the critical challenges in breast cancer precision diagnostics. This review systematically examines the recent methodological advances that position SERS as...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-clinicaltrials-NCT06990256",
       "signalId": "clinicaltrials-NCT06990256",
       "companyIds": [],
@@ -908,40 +1031,6 @@
       "fact": "PubMed 记录显示该文献收录于 Cancer genetics，PMID 为 42600555。",
       "report": "Multiple myeloma (MM) is a severe plasma-cell malignancy that continues to cause substantial morbidity and mortality despite major therapeutic advances. Although current therapies target distinct molecular processes, many patients eventually relapse, raising t...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42630183",
-      "signalId": "pubmed-42630183",
-      "companyIds": [],
-      "publishedAt": "2026-08-07",
-      "snapshotDate": "2026-08-23",
-      "title": "Integrated multi-omics analysis reveals dendritic cell centered regulatory networks and therapeutic targets in necrotizing enterocolitis.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630183/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "多组学"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42630183。",
-      "report": "Necrotizing enterocolitis (NEC) is a severe inflammatory intestinal disease predominantly affecting premature infants and is characterized by immune dysregulation and epithelial barrier disruption. However, the cellular communication networks and key molecular...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1598,90 +1687,6 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
-      "id": "evidence-pubmed-42630093",
-      "signalId": "pubmed-42630093",
-      "companyIds": [],
-      "publishedAt": "2026-08-01",
-      "snapshotDate": "2026-08-23",
-      "title": "SORL1 variant links endosomal amyloid precursor protein mis-sorting to axonal transport defects and neuronal dysfunction.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630093/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Alzheimer's & dementia : the journal of the Alzheimer's Association，PMID 为 42630093。",
-      "report": "SORL1 encodes the sorting receptor SORLA, a major genetic contributor to Alzheimer's disease (AD). Although SORL1 loss disrupts endosomal trafficking and promotes amyloidogenic amyloid precursor protein (APP) processing, the functional consequences of specific...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42630134",
-      "signalId": "pubmed-42630134",
-      "companyIds": [],
-      "publishedAt": "2026-08-01",
-      "snapshotDate": "2026-08-23",
-      "title": "Dissecting Alzheimer's proteomic landscape through NULISA profiling of brain cell-specific extracellular vesicles.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630134/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Alzheimer's & dementia : the journal of the Alzheimer's Association，PMID 为 42630134。",
-      "report": "Blood-based biomarkers are essential for early detection, monitoring, and therapeutic development in Alzheimer's disease (AD) and related dementia (ADRD), but current assays lack brain cell specificity and sensitivity to low-abundant proteins. We isolated the...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42630043",
-      "signalId": "pubmed-42630043",
-      "companyIds": [],
-      "publishedAt": "2026-08-01",
-      "snapshotDate": "2026-08-23",
-      "title": "A Novel Index Consisting of Age, CA19-9, and Methylated Somatostatin Is Useful for Diagnosing Early Pancreatic Cancer.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630043/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤",
-        "药筛"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Cancer medicine，PMID 为 42630043。",
-      "report": "There are no reliable screening tests for pancreatic ductal adenocarcinoma (PDAC). We performed this study to address this issue. Using 206 serum samples from 95 healthy subjects and 111 patients with PDAC, we developed the novel ACAm-S index, which consists o...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-clinicaltrials-NCT03831932",
       "signalId": "clinicaltrials-NCT03831932",
       "companyIds": [],
@@ -1840,6 +1845,36 @@
       "fact": "PubMed 记录显示该文献收录于 Science bulletin，PMID 为 42580899。",
       "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42631093",
+      "signalId": "pubmed-42631093",
+      "companyIds": [],
+      "publishedAt": "2026-07-30",
+      "snapshotDate": "2026-08-23",
+      "title": "A novel imaging-based approach for large extracellular vesicle detection and prognostic stratification in metastatic breast cancer.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631093/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42631093。",
+      "report": "Large extracellular vesicles (LEVs) are membrane-bound extracellular particles released by tumour cells into body fluids. Circulating LEVs carry tumour-associated biomaterials and are more abundant than circulating tumour cells (CTCs), representing a valuable...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -2552,41 +2587,6 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
-      "id": "evidence-pubmed-42629128",
-      "signalId": "pubmed-42629128",
-      "companyIds": [],
-      "publishedAt": "2026-07-07",
-      "snapshotDate": "2026-08-23",
-      "title": "Microglia in Alzheimer's disease: Insights into disease progression and therapy.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42629128/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Longevity",
-        "Biomarkers",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "衰老",
-        "biomarker",
-        "longevity",
-        "多组学"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Advances in immunology，PMID 为 42629128。",
-      "report": "The role of microglia, once seen as bystanders, has recently shifted to that of central regulators in disease pathology. The shift has been observed in M1/M2-polarized microglia to multiple configurations, including disease-associated microglia (DAM), lipid-dr...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-sec-0001604821-000160482126000005",
       "signalId": "sec-0001604821-000160482126000005",
       "companyIds": [
@@ -2616,38 +2616,6 @@
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "evidence-pubmed-42629126",
-      "signalId": "pubmed-42629126",
-      "companyIds": [],
-      "publishedAt": "2026-06-16",
-      "snapshotDate": "2026-08-23",
-      "title": "Glial control of extracellular α-synuclein propagation in LRRK2 Parkinson's disease.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42629126/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Advances in immunology，PMID 为 42629126。",
-      "report": "Parkinson's disease (PD) pathology extends well beyond dopaminergic neuronal loss, with glial cells-microglia and astrocytes-emerging as active architects of α-synuclein spread rather than passive bystanders. This review synthesises current evidence on how mut...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
       "id": "evidence-clinicaltrials-NCT07220239",
@@ -2718,6 +2686,36 @@
       "report": "This study is a single-arm, open-label, dose-escalation and dose-expansion clinical trial, divided into two phases: the first phase is the dose-escalation phase, and the second phase is the dose-expansion phase. In the dose-escalation phase, approximately 9-18...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Gene Therapy, Genetic Medicine。登记状态和设计字段不能直接证明疗效或安全性。",
       "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+    },
+    {
+      "id": "evidence-pubmed-42630772",
+      "signalId": "pubmed-42630772",
+      "companyIds": [],
+      "publishedAt": "2026-04-19",
+      "snapshotDate": "2026-08-23",
+      "title": "Circulating tumor DNA as a predictive biomarker for prognosis in hepatocellular carcinoma: a systematic review and meta-analysis.",
+      "eventType": "Clinical Study",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630772/",
+      "reliability": "High",
+      "evidenceLevel": "High",
+      "needsReview": false,
+      "themes": [
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Journal of the National Cancer Center，PMID 为 42630772。",
+      "report": "The prognosis of patients with hepatocellular carcinoma (HCC) is often poor, making prediction of prognosis and risk stratification highly significant. However, existing indicators are insufficient for accurately predicting the prognosis of patients with HCC....",
+      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
       "id": "evidence-clinicaltrials-NCT07516626",
