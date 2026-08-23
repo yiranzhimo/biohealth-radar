@@ -4,6 +4,40 @@
   "asOfDate": "2026-08-23",
   "evidence": [
     {
+      "id": "evidence-pubmed-42632864",
+      "signalId": "pubmed-42632864",
+      "companyIds": [],
+      "publishedAt": "2026-08-22",
+      "snapshotDate": "2026-08-23",
+      "title": "Dual-oxygen pancreatic cancer organoids recapitulate basal-classical heterogeneity validated by spatial transcriptomics.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632864/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 British journal of cancer，PMID 为 42632864。",
+      "report": "Pancreatic ductal adenocarcinoma (PDAC) comprises heterogeneous classical and basal-like subtypes. Although pancreatic cancer organoids (PCOs) are widely used, normoxic cultures preferentially maintain the classical subtype, limiting their ability to represent...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-pubmed-42632580",
       "signalId": "pubmed-42632580",
       "companyIds": [],
@@ -163,43 +197,6 @@
       "fact": "PubMed 记录显示该文献收录于 Stem cell reviews and reports，PMID 为 42631829。",
       "report": "Hearing loss is a prevalent sensory disorder primarily caused by the irreversible loss of cochlear hair cells and the limited regenerative capacity of the mammalian inner ear. The structural complexity and inaccessibility of inner ear tissues have long hindere...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42631515",
-      "signalId": "pubmed-42631515",
-      "companyIds": [],
-      "publishedAt": "2026-08-22",
-      "snapshotDate": "2026-08-23",
-      "title": "Human Brain Organoid-Enabling Discoveries Reach the Clinic: A Translational Inflection Point.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631515/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Longevity",
-        "Biomarkers"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "衰老",
-        "biomarker",
-        "longevity"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Stem cells and development，PMID 为 42631515。",
-      "report": "Human brain organoids have evolved from early neurodevelopmental models into platforms for therapeutic discovery. Here, we highlight two cases in which organoid-derived findings enabled FDA-approved clinical trials. Patient-derived organoids modeling Pitt-Hopk...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -475,6 +472,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "evidence-pubmed-42633289",
+      "signalId": "pubmed-42633289",
+      "companyIds": [],
+      "publishedAt": "2026-08-18",
+      "snapshotDate": "2026-08-23",
+      "title": "The Application Value of Liquid Biopsy in Cancer MRD Detection and the Preliminary Clinical Significance of the TFx Value.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42633289/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Cancer management and research，PMID 为 42633289。",
+      "report": "Plasma cell-free DNA (cfDNA)-based chromosomal instability (CIN) profiling is a non-invasive approach for tumor burden monitoring and treatment response assessment. This pilot study included 50 cancer patients (breast, oral, gastric, lung, and other cancers) t...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-pubmed-42632117",
       "signalId": "pubmed-42632117",
       "companyIds": [],
@@ -565,36 +592,6 @@
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "evidence-pubmed-42630696",
-      "signalId": "pubmed-42630696",
-      "companyIds": [],
-      "publishedAt": "2026-08-13",
-      "snapshotDate": "2026-08-23",
-      "title": "The Double-Edged Sword of Genomic DNA Methylation: Orchestrating Gastric Carcinogenesis and Shaping Precision Oncology.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630696/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Oncology research，PMID 为 42630696。",
-      "report": "This article systematically elaborates on the dual role of DNA methylation in the initiation and progression of gastric cancer and its potential clinical applications in precision oncology. As a core epigenetic mechanism, DNA methylation drives the multistage...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
       "id": "evidence-sec-0001110803-000095015726000888",
@@ -2306,6 +2303,42 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "evidence-pubmed-42633083",
+      "signalId": "pubmed-42633083",
+      "companyIds": [
+        "illumina"
+      ],
+      "publishedAt": "2026-07-22",
+      "snapshotDate": "2026-08-23",
+      "title": "Next-Generation Sequencing (NGS) Utility in Advanced Solid Tumors in Low- and Middle-Income Country (LMIC) Setting.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42633083/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Cureus，PMID 为 42633083。",
+      "report": "Introduction Advancements in DNA sequencing have revolutionized our understanding of cancer biology, enabling comprehensive analysis of genetic alterations driving tumorigenesis. Next-generation sequencing (NGS) is increasingly integrated into oncology practic...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-sec-0001717115-000119312526309073",
       "signalId": "sec-0001717115-000119312526309073",
       "companyIds": [
@@ -2686,36 +2719,6 @@
       "report": "This study is a single-arm, open-label, dose-escalation and dose-expansion clinical trial, divided into two phases: the first phase is the dose-escalation phase, and the second phase is the dose-expansion phase. In the dose-escalation phase, approximately 9-18...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Gene Therapy, Genetic Medicine。登记状态和设计字段不能直接证明疗效或安全性。",
       "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-    },
-    {
-      "id": "evidence-pubmed-42630772",
-      "signalId": "pubmed-42630772",
-      "companyIds": [],
-      "publishedAt": "2026-04-19",
-      "snapshotDate": "2026-08-23",
-      "title": "Circulating tumor DNA as a predictive biomarker for prognosis in hepatocellular carcinoma: a systematic review and meta-analysis.",
-      "eventType": "Clinical Study",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630772/",
-      "reliability": "High",
-      "evidenceLevel": "High",
-      "needsReview": false,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Journal of the National Cancer Center，PMID 为 42630772。",
-      "report": "The prognosis of patients with hepatocellular carcinoma (HCC) is often poor, making prediction of prognosis and risk stratification highly significant. However, existing indicators are insufficient for accurately predicting the prognosis of patients with HCC....",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
       "id": "evidence-clinicaltrials-NCT07516626",

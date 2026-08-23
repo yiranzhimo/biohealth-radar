@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-23T07:04:13.200630+00:00",
+  "capturedAt": "2026-08-23T13:04:42.411956+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-23"
   },
   "pmids": [
+    "42632864",
     "42632580",
     "42632302",
     "42632279",
     "42632056",
     "42631829",
-    "42631515",
     "42600555",
     "42580899",
     "42559559",
@@ -32,14 +32,35 @@
     "42624264",
     "42619129",
     "42619090",
+    "42633289",
+    "42633083",
     "42632117",
     "42631856",
     "42631721",
-    "42631093",
-    "42630772",
-    "42630696"
+    "42631093"
   ],
   "records": [
+    {
+      "pmid": "42632864",
+      "title": "Dual-oxygen pancreatic cancer organoids recapitulate basal-classical heterogeneity validated by spatial transcriptomics.",
+      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) comprises heterogeneous classical and basal-like subtypes. Although pancreatic cancer organoids (PCOs) are widely used, normoxic cultures preferentially maintain the classical subtype, limiting their ability to represent intrinsic intratumoral heterogeneity. Because PDAC develops in profoundly hypoxic microenvironments, the influence of oxygen tension on organoid modelling remains unclear. We performed spatially resolved single-cell transcriptomics on 12 primary PDAC tumours to map the distributions of classical and basal-like cells. Paired organoids were generated under normoxic (20% O₂; NORM-PCOs) and hypoxic (1% O₂; HYPO-PCOs) conditions, and morphology, subtype scores, proliferation and drug responses were compared. Spatial profiling revealed gradients of basal-like-classical heterogeneity across tumours, with basal-like cells enriched in hypoxic regions. HYPO-PCOs tended to retain basal-like traits, including solid or multi-layered morphology, and increased proliferation, along with a tendency toward reduced sensitivity to chemotherapeutic agents. In contrast, NORM-PCOs more often exhibited mono-layered morphology and showed higher classical subtype scores. Hypoxic culture conditions promote the preservation of basal-like subpopulations in PDAC organoids, more accurately reflecting the basal-classical heterogeneity of primary tumours. Hypoxia-induced basal-like features remained stable after oxygen switching, indicating a fixed phenotype that informs organoid modelling and offers insight into PDAC progression.",
+      "journal": "British journal of cancer",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Gastrointestinal and Hepato-Biliary-Pancreatic Surgery, Institute of Medicine, University of Tsukuba, Tsukuba, Japan.",
+        "Department of Surgery, Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA.",
+        "Nuffield Department of Medicine, Ludwig Institute for Cancer Research, University of Oxford, Oxford, UK.",
+        "Department of Hematology, Institute of Medicine, University of Tsukuba, Tsukuba, Japan.",
+        "Department of Pathology, Institute of Medicine, University of Tsukuba, Tsukuba, Japan.",
+        "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Chiba, Japan.",
+        "Department of Gastrointestinal and Hepato-Biliary-Pancreatic Surgery, Institute of Medicine, University of Tsukuba, Tsukuba, Japan. tatoda@md.tsukuba.ac.jp."
+      ],
+      "doi": "10.1038/s41416-026-03577-w",
+      "date": "2026-08-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632864/"
+    },
     {
       "pmid": "42632580",
       "title": "The synergy of artificial intelligence and organ-on-a-chip: building a next-generation intelligent engine for drug development.",
@@ -132,23 +153,6 @@
       "doi": "10.1007/s12015-026-11219-0",
       "date": "2026-08-22",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631829/"
-    },
-    {
-      "pmid": "42631515",
-      "title": "Human Brain Organoid-Enabling Discoveries Reach the Clinic: A Translational Inflection Point.",
-      "abstract": "Human brain organoids have evolved from early neurodevelopmental models into platforms for therapeutic discovery. Here, we highlight two cases in which organoid-derived findings enabled FDA-approved clinical trials. Patient-derived organoids modeling Pitt-Hopkins syndrome revealed human-specific, TCF4-dependent abnormalities and supported the development of a regulated AAV gene therapy. In parallel, Rett syndrome organoids cultured aboard the International Space Station uncovered space-induced neural senescence, characterized by retroelement-associated neuroinflammation, prompting evaluation of antiretroviral therapy. These examples illustrate how organoids can reveal disease mechanisms that are inaccessible or incompletely reproduced in animal models, while animal studies remain essential for validation and safety assessment. As the field advances, matching model complexity to experimental purpose-and ensuring reproducibility, scalability, and accessibility-will be critical. Human brain organoids are crossing a translational threshold, emerging as engines of therapeutic discovery and gateways to clinical intervention.",
-      "journal": "Stem cells and development",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Integrated Space Stem Cell Orbital Research Center, Sanford Stem Cell Institute, University of California San Diego, La Jolla, California, USA.",
-        "Department of Regenerative Medicine, School of Medicine, University of California San Diego, La Jolla, California, USA.",
-        "Department of Pediatrics and Cellular & Molecular Medicine, School of Medicine, University of California San Diego, La Jolla, California, USA."
-      ],
-      "doi": "10.1177/15473287261481004",
-      "date": "2026-08-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631515/"
     },
     {
       "pmid": "42600555",
@@ -392,6 +396,44 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42619090/"
     },
     {
+      "pmid": "42633289",
+      "title": "The Application Value of Liquid Biopsy in Cancer MRD Detection and the Preliminary Clinical Significance of the TFx Value.",
+      "abstract": "Plasma cell-free DNA (cfDNA)-based chromosomal instability (CIN) profiling is a non-invasive approach for tumor burden monitoring and treatment response assessment. This pilot study included 50 cancer patients (breast, oral, gastric, lung, and other cancers) to evaluate the clinical utility of the Ultrasensitive Chromosome Aberration Detection (UCAD) method, with exploratory analysis of minimal residual disease (MRD) detection in patients with no evidence of disease on imaging. Fifty patients with histologically confirmed solid tumors who underwent UCAD testing between January 2023 and March 2024 were enrolled. UCAD uses low-depth (1×) whole-genome sequencing of plasma cfDNA to detect genome-wide copy number variations (CNVs). Tumor-derived CNVs are distinguished from germline variation through normalization against healthy donor controls, with statistically significant deviations identified as somatic events reflecting tumor-associated CIN. A tumor fraction index (TFx) is derived as a quantitative metric of the aggregate CNV burden. Patients were stratified by imaging status into no-evidence-of-disease (NED, n=41) and residual lesions (RL, n=9) subgroups. Outcomes included TFx correlation with clinical status and exploratory MRD-recurrence associations within the NED subgroup. TFx values ranged from 0.021% to 10.12% (median 0.065%) across the cohort. TFx positively correlated with tumor stage (ρ=0.463, P<0.001) and negatively correlated with treatment response (P<0.01). Among 41 NED patients (median follow-up 22 months), elevated TFx (≥0.1%) was observed in patients with subsequent recurrence, including one case with TFx of 0.102% preceding bone metastasis by 3 months. In 9 RL patients, TFx tracked with disease burden and decreased following effective therapy. The findings indicate that the UCAD method showed preliminary feasibility across the evaluated cancer types in this pilot cohort, and the TFx value serves as a quantitative indicator of tumor burden and treatment efficacy, warranting further prospective validation in larger cohorts.",
+      "journal": "Cancer management and research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Oral and Maxillofacial Surgery, Zhuzhou Hospital Affiliated to Xiangya School of Medicine, Central South University, Zhuzhou, Hunan, 412000, People's Republic of China.",
+        "Department of Breast Surgery, Zhuzhou Hospital Affiliated to Xiangya School of Medicine, Central South University, Zhuzhou, Hunan, 412000, People's Republic of China.",
+        "Department of Cosmetic Medicine, Zhuzhou Hospital Affiliated to Xiangya School of Medicine, Central South University, Zhuzhou, Hunan, 412000, People's Republic of China.",
+        "Department of Stomatology, Zhuzhou Hospital Affiliated to Xiangya School of Medicine, Central South University, Zhuzhou, Hunan, 412000, People's Republic of China.",
+        "Department of Oncology, Zhuzhou Hospital Affiliated to Xiangya School of Medicine, Central South University, Zhuzhou, Hunan, 412000, People's Republic of China.",
+        "Translational Medicine Center, Zhuzhou Hospital Affiliated to Xiangya School of Medicine, Central South University, Zhuzhou, Hunan, 412000, People's Republic of China."
+      ],
+      "doi": "10.2147/CMAR.S601702",
+      "date": "2026-08-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42633289/"
+    },
+    {
+      "pmid": "42633083",
+      "title": "Next-Generation Sequencing (NGS) Utility in Advanced Solid Tumors in Low- and Middle-Income Country (LMIC) Setting.",
+      "abstract": "Introduction Advancements in DNA sequencing have revolutionized our understanding of cancer biology, enabling comprehensive analysis of genetic alterations driving tumorigenesis. Next-generation sequencing (NGS) is increasingly integrated into oncology practice to identify actionable mutations and personalize therapy. However, its clinical utility in low- and middle-income countries (LMICs), where access to sequencing technologies and targeted treatments remains limited, is not well established. Methods This was a retrospective, single-center cohort study involving adult patients with advanced metastatic solid tumors who underwent NGS testing using either tumor tissue or liquid biopsy (Illumina platform, 560-gene panel, 1000X coverage). The primary endpoint was to evaluate the proportion of patients who received NGS-guided targeted therapy. The secondary endpoint was progression-free survival (PFS) in patients treated based on NGS findings. Data analysis was performed using Microsoft Excel 2016 (Microsoft Corp., Redmond, WA, USA). Results Over an 18-month period (January 2021 to June 2022), 93 patients were included. Genomic alterations were detected in 45% (n=42) of patients. Among these, 33% (n=31) had a potentially actionable mutation with an available targeted therapy or clinical trial option. Despite this, only 19% (n=18) received NGS-directed treatment. Of these, 44% (n=8) achieved a PFS of six months or more. Conclusion NGS can identify clinically relevant mutations in a significant proportion of advanced cancer patients in LMIC settings. However, real-world application is hindered by limited access to targeted therapies and clinical trials. Strategies to improve access and infrastructure are essential to realize the full potential of precision oncology in these regions.",
+      "journal": "Cureus",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Medical Oncology, Asian Institute of Medical Sciences, Faridabad, IND.",
+        "Biochemistry, Gautam Buddha Chikitsa Mahavidyalaya, Dehradun, IND.",
+        "Medical Oncology, Max Super Speciality Hospital, Dehradun, IND.",
+        "Paediatrics, Shri Guru Ram Rai (SGRR) Institute of Medical and Health Sciences, Dehradun, IND."
+      ],
+      "doi": "10.7759/cureus.113197",
+      "date": "2026-07-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42633083/"
+    },
+    {
       "pmid": "42632117",
       "title": "Peptide-functionalized magnetic nanobeads for EpCAM-targeted CTC isolation and immunotherapy efficacy evaluation in liver cancer.",
       "abstract": "Primary liver cancer lacks robust biomarkers for anti-PD-1/PD-L1 therapy. Methods: We engineered peptide-functionalized magnetic nanobeads (Pep@MNPs) for high-efficiency, EpCAM-dependent capture of circulating tumor cells (CTCs). This nanotechnology-based platform enabled a precise fluorescence quantitative system (cTPS) associate with immunotherapy outcomes in hepatocellular carcinoma and intrahepatic cholangiocarcinoma. The Pep@MNPs system revealed a significant correlation between high CTC PD-L1 expression and therapeutic response. Patients with baseline cTPShigh (≥20%) achieved a superior objective response rate compared to the low-expression group (40% vs. 0%; P = 0.005). Utilizing this nanobead-enabled quantification, cTPShigh patients demonstrated significantly prolonged progression-free survival (median 48.29 vs. 5.86 weeks, P = 0.005) and overall survival (median undefined vs. 25.71 weeks, P = 0.004). Furthermore, multivariate Cox regression confirmed cTPShigh as a robust independent predictor for both PFS and OS (both P = 0.005) after adjusting for clinical variables. This peptide-nanobead liquid biopsy strategy effectively stratifies patients benefiting from PD-1 inhibitors, highlighting its potential as a precise theranostic tool for clinical monitoring.",
@@ -464,49 +506,43 @@
       "doi": "10.1016/j.jlb.2026.100485",
       "date": "2026-07-30",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631093/"
-    },
-    {
-      "pmid": "42630772",
-      "title": "Circulating tumor DNA as a predictive biomarker for prognosis in hepatocellular carcinoma: a systematic review and meta-analysis.",
-      "abstract": "The prognosis of patients with hepatocellular carcinoma (HCC) is often poor, making prediction of prognosis and risk stratification highly significant. However, existing indicators are insufficient for accurately predicting the prognosis of patients with HCC. This study aimed to systematically summarize the value of circulating tumor DNA (ctDNA) as a prognostic biomarker for HCC patients. PubMed, Web of Science, Embase, Cochrane Library, Scopus, and clinical trials.gov databases were searched to collect observational studies and randomized clinical trials from January 2016 to November 2024. Studies focusing on ctDNA status or ctDNA methylation and prognostic outcomes in HCC patients were included. Pooled hazard ratios (HRs) were calculated for the primary outcomes: relapse-free survival (RFS) and overall survival (OS). Random-effects models were applied considering the potential heterogeneity. A total of 25 studies involving 2490 HCC patients were included. Positive ctDNA status both before and after surgery were significantly associated with shorter RFS (before surgery: HR = 3.88, 95% confidence interval [CI]: 1.46-10.33, P = 0.007; after surgery: HR = 5.08, 95% CI: 3.35-7.72, P < 0.001). Compared with ctDNA-negative groups, ctDNA-positive before and after surgery groups both exhibited shorter OS (before surgery: HR = 6.59, 95% CI: 2.47-17.55, P < 0.001; after surgery: HR = 7.01, 95% CI: 2.21-22.27, P = 0.001). Sensitivity analyses yielded results similar to the main analysis. Additionally, ctDNA may detect recurrence 2-5 months earlier than radiographic imaging. ctDNA detection was significantly associated with poorer prognosis in HCC patients. The potential applications of ctDNA in prognostic prediction are promising, and the predictive value of ctDNA dynamic change warrants further exploration.",
-      "journal": "Journal of the National Cancer Center",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Epidemiology and Biostatistics, School of Public Health, Peking University, Beijing, China.",
-        "Key Laboratory of Epidemiology of Major Diseases (Peking University), Ministry of Education, Beijing, China.",
-        "Tianjin Centers for Disease Control and Prevention, Tianjin, China.",
-        "Hebei Centers for Disease Control and Prevention, Shijiazhuang, China.",
-        "Department of Medical Oncology and Radiation Sickness, Peking University Third Hospital, Beijing, China.",
-        "National Central Cancer Registry, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
-        "Office of Cancer Screening, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
-        "Xinjiang Medical University, Urumqi City, Xinjiang Uygur Autonomous Region, China.",
-        "Department of Ophthalmology, Peking University Third Hospital, Beijing, China.",
-        "School of Public Health, Shihezi University, Shihezi City, Xinjiang Uygur Autonomous Region, China."
-      ],
-      "doi": "10.1016/j.jncc.2026.03.008",
-      "date": "2026-04-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630772/"
-    },
-    {
-      "pmid": "42630696",
-      "title": "The Double-Edged Sword of Genomic DNA Methylation: Orchestrating Gastric Carcinogenesis and Shaping Precision Oncology.",
-      "abstract": "This article systematically elaborates on the dual role of DNA methylation in the initiation and progression of gastric cancer and its potential clinical applications in precision oncology. As a core epigenetic mechanism, DNA methylation drives the multistage development of gastric cancer through the coordinated dysregulation of genome-wide hypomethylation and promoter-specific hypermethylation, playing a key role in chronic inflammation and epigenetic reprogramming, particularly in the context of Helicobacter pylori infection. The article focuses on analyzing the central pathogenic mechanisms of DNA methylation, including the silencing of tumor suppressor genes, induction of genomic instability, promotion of the CpG island methylator phenotype, and facilitation of epithelial-mesenchymal transition. It further explores the clinical utility of DNA methylation as a biomarker for early diagnosis, prognosis evaluation, recurrence monitoring, and prediction of therapeutic response in gastric cancer. Moreover, the article reviews epigenetic therapeutic strategies represented by hypomethylating agents and their potential and challenges when combined with chemotherapy or immunotherapy, envisioning an integrated precision medicine model based on methylation profiling.",
-      "journal": "Oncology research",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Gastroenterology, Jiangsu Second Traditional Chinese Medicine Hospital, Nanjing, China."
-      ],
-      "doi": "10.32604/or.2026.079753",
-      "date": "2026-08-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630696/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42632864",
+      "date": "2026-08-22",
+      "title": "Dual-oxygen pancreatic cancer organoids recapitulate basal-classical heterogeneity validated by spatial transcriptomics.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632864/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 British journal of cancer，PMID 为 42632864。",
+      "report": "Pancreatic ductal adenocarcinoma (PDAC) comprises heterogeneous classical and basal-like subtypes. Although pancreatic cancer organoids (PCOs) are widely used, normoxic cultures preferentially maintain the classical subtype, limiting their ability to represent...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42632580",
       "date": "2026-08-22",
@@ -667,43 +703,6 @@
       "fact": "PubMed 记录显示该文献收录于 Stem cell reviews and reports，PMID 为 42631829。",
       "report": "Hearing loss is a prevalent sensory disorder primarily caused by the irreversible loss of cochlear hair cells and the limited regenerative capacity of the mammalian inner ear. The structural complexity and inaccessibility of inner ear tissues have long hindere...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42631515",
-      "date": "2026-08-22",
-      "title": "Human Brain Organoid-Enabling Discoveries Reach the Clinic: A Translational Inflection Point.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631515/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Longevity",
-        "Biomarkers"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "衰老",
-        "biomarker",
-        "longevity"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cells and development，PMID 为 42631515。",
-      "report": "Human brain organoids have evolved from early neurodevelopmental models into platforms for therapeutic discovery. Here, we highlight two cases in which organoid-derived findings enabled FDA-approved clinical trials. Patient-derived organoids modeling Pitt-Hopk...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -945,6 +944,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42633289",
+      "date": "2026-08-18",
+      "title": "The Application Value of Liquid Biopsy in Cancer MRD Detection and the Preliminary Clinical Significance of the TFx Value.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42633289/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer management and research，PMID 为 42633289。",
+      "report": "Plasma cell-free DNA (cfDNA)-based chromosomal instability (CIN) profiling is a non-invasive approach for tumor burden monitoring and treatment response assessment. This pilot study included 50 cancer patients (breast, oral, gastric, lung, and other cancers) t...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42632117",
       "date": "2026-08-18",
       "title": "Peptide-functionalized magnetic nanobeads for EpCAM-targeted CTC isolation and immunotherapy efficacy evaluation in liver cancer.",
@@ -971,36 +1000,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Talanta，PMID 为 42632117。",
       "report": "Primary liver cancer lacks robust biomarkers for anti-PD-1/PD-L1 therapy. Methods: We engineered peptide-functionalized magnetic nanobeads (Pep@MNPs) for high-efficiency, EpCAM-dependent capture of circulating tumor cells (CTCs). This nanotechnology-based plat...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42630696",
-      "date": "2026-08-13",
-      "title": "The Double-Edged Sword of Genomic DNA Methylation: Orchestrating Gastric Carcinogenesis and Shaping Precision Oncology.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630696/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Oncology research，PMID 为 42630696。",
-      "report": "This article systematically elaborates on the dual role of DNA methylation in the initiation and progression of gastric cancer and its potential clinical applications in precision oncology. As a core epigenetic mechanism, DNA methylation drives the multistage...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1215,33 +1214,39 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42630772",
-      "date": "2026-04-19",
-      "title": "Circulating tumor DNA as a predictive biomarker for prognosis in hepatocellular carcinoma: a systematic review and meta-analysis.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Clinical Study",
+      "id": "pubmed-42633083",
+      "date": "2026-07-22",
+      "title": "Next-Generation Sequencing (NGS) Utility in Advanced Solid Tumors in Low- and Middle-Income Country (LMIC) Setting.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42630772/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42633083/",
       "reliability": "High",
-      "evidenceLevel": "High",
+      "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
+        "Diagnostics",
+        "Precision Medicine",
         "Clinical Evidence",
         "Regulatory Watch",
         "Precision Oncology"
       ],
       "tags": [
+        "诊断",
+        "精准医疗",
         "临床",
         "监管",
         "肿瘤"
       ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of the National Cancer Center，PMID 为 42630772。",
-      "report": "The prognosis of patients with hepatocellular carcinoma (HCC) is often poor, making prediction of prognosis and risk stratification highly significant. However, existing indicators are insufficient for accurately predicting the prognosis of patients with HCC....",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "companyIds": [
+        "illumina"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Cureus，PMID 为 42633083。",
+      "report": "Introduction Advancements in DNA sequencing have revolutionized our understanding of cancer biology, enabling comprehensive analysis of genetic alterations driving tumorigenesis. Next-generation sequencing (NGS) is increasingly integrated into oncology practic...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

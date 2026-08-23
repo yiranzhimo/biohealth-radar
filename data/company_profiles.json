@@ -44526,7 +44526,8 @@
           "evidence-company-illumina-pipeline-dda577433e9a",
           "evidence-sec-0001110803-000111080326000168",
           "evidence-sec-0001110803-000111080326000160",
-          "evidence-sec-0001110803-000111080326000155"
+          "evidence-sec-0001110803-000111080326000155",
+          "evidence-pubmed-42633083"
         ]
       },
       "futureDirection": {
@@ -44595,10 +44596,11 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 10,
+        "evidenceCount": 11,
         "evidenceBySourceType": {
           "Company": 2,
-          "Filing": 8
+          "Filing": 8,
+          "Paper": 1
         },
         "lastEvidenceDate": "2026-08-21",
         "programCandidateCount": 0,
