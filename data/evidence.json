@@ -3402,7 +3402,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "39cc8ea1066d5756ecc75294769674c01874859ee1235582411c4281a16d0962",
       "changeType": "unchanged",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Our products power breakthroughs across diverse fields, from cancer research and immunology to neuroscience and developmental biology, enabling scientists to see biology at unprecedented resolution.",
         "With tens of thousands of publications using our products, join the community of scientists advancing their research with the aid of 10x Genomics.",
@@ -3478,15 +3478,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-akeso-official-95ac8643dff9",
+      "id": "evidence-company-akeso-official-b4abb2fbe250",
       "signalId": null,
       "companyIds": [
         "akeso"
       ],
-      "publishedAt": "2026-08-15",
-      "snapshotDate": "2026-08-15",
+      "publishedAt": "2026-08-23",
+      "snapshotDate": "2026-08-23",
       "title": "Akeso, Inc | Home",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Akeso — Official Website",
@@ -3502,7 +3502,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 95ac8643dff9975d7587ff1b8bb1083d77e927d9da24e65d74d216f3ffbe638c.",
+      "fact": "The official page was captured with normalized-content hash b4abb2fbe2508bb00e8306794f21bb42159430279a9022f555ce003922c1208f.",
       "report": "公司官方页面表述：Akeso 推进 IO2.0 + ADC2.0 战略：第一位患者已在 TROP2/Nectin-4 双特异性 ADC（AK146D1）与 Ivonescimab 联合治疗乳腺癌的 II 期研究中接受用药。",
       "reportOriginal": "Akeso Advances IO2.0 + ADC2.0 Strategy: First Patient Dosed in Phase II Study of TROP2/Nectin-4 Bispecific ADC (AK146D1) Combined with Ivonescimab in Breast Cancer",
       "reportCn": "Akeso 推进 IO2.0 + ADC2.0 战略：第一位患者已在 TROP2/Nectin-4 双特异性 ADC（AK146D1）与 Ivonescimab 联合治疗乳腺癌的 II 期研究中接受用药。",
@@ -3515,14 +3515,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "95ac8643dff9975d7587ff1b8bb1083d77e927d9da24e65d74d216f3ffbe638c",
-      "changeType": "unchanged",
+      "contentHash": "b4abb2fbe2508bb00e8306794f21bb42159430279a9022f555ce003922c1208f",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Akeso Advances IO2.0 + ADC2.0 Strategy: First Patient Dosed in Phase II Study of TROP2/Nectin-4 Bispecific ADC (AK146D1) Combined with Ivonescimab in Breast Cancer",
         "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
         "HK) is a biopharmaceutical company founded by a team of scientists with rich experience in global drug development and focuses on the unmet clinical needs worldwide in major diseases.",
-        "Akeso IO2.0 + ADC2.0 Strategy Makes Another Advancement: First Patient Dosed in Phase Ib/II Study of HER3 ADC (AK138D1) Combined with Ivonescimab in Lung Cancer"
+        "Akeso's AK157D1 (B7-H3 ADC) Cleared for Phase I Trial in Solid Tumors, Adding a Third Differentiated ADC to Its Pipeline"
       ],
       "businessExcerpts": [
         "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
@@ -3532,8 +3532,8 @@
       "productExcerpts": [
         "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
         "HK) is a biopharmaceutical company founded by a team of scientists with rich experience in global drug development and focuses on the unmet clinical needs worldwide in major diseases.",
-        "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform).",
-        "Through efficient and breakthrough R&D innovation, Akeso always integrates superior global resources, develops the first-in-class and best-in-class new drugs, provides affordable therapeutic antibodies for patients worldwide, and continuously creates more commercial and social…"
+        "Akeso's AK157D1 (B7-H3 ADC) Cleared for Phase I Trial in Solid Tumors, Adding a Third Differentiated ADC to Its Pipeline",
+        "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform)."
       ],
       "planExcerpts": []
     },
@@ -4007,15 +4007,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-arvinas-official-fcd4bdca5ded",
+      "id": "evidence-company-arvinas-official-cbd8ea5a7fa6",
       "signalId": null,
       "companyIds": [
         "arvinas"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-08-23",
+      "snapshotDate": "2026-08-23",
       "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Arvinas — Official Website",
@@ -4031,7 +4031,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash fcd4bdca5dedd8a1cf6f7d89dbf8d8d335e3bf7701c0d119910d665ff5b18217.",
+      "fact": "The official page was captured with normalized-content hash cbd8ea5a7fa68fd40f928af9b44b45b1f54858c5ac01074eb95bfff3e0d2d949.",
       "report": "公司官方页面表述：Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
       "reportOriginal": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
       "reportCn": "Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
@@ -4044,8 +4044,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "fcd4bdca5dedd8a1cf6f7d89dbf8d8d335e3bf7701c0d119910d665ff5b18217",
-      "changeType": "unchanged",
+      "contentHash": "cbd8ea5a7fa68fd40f928af9b44b45b1f54858c5ac01074eb95bfff3e0d2d949",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
@@ -10318,7 +10318,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "This company's Exchange Act registration has been revoked",
@@ -37158,15 +37158,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-emulate-official-98bcebd0575e",
+      "id": "evidence-company-emulate-official-4e2211d55c8e",
       "signalId": null,
       "companyIds": [
         "emulate"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-08-23",
+      "snapshotDate": "2026-08-23",
       "title": "Emulate | Organ-Chips for Research & Development",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Emulate — Official Website",
@@ -37182,7 +37182,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 98bcebd0575ea3dc9001a83679e5109e6218a903b72cb9cc1c3f3fd2c6c90dba.",
+      "fact": "The official page was captured with normalized-content hash 4e2211d55c8e2dd7ec8dda71dcecea24b161f244b2015528db43f4905055b59c.",
       "report": "公司官方页面表述：下一代器官芯片技术使研究人员能够模拟生物学并预测人类反应。立即开始。",
       "reportOriginal": "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response. Get started today.",
       "reportCn": "下一代器官芯片技术使研究人员能够模拟生物学并预测人类反应。立即开始。",
@@ -37195,8 +37195,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "98bcebd0575ea3dc9001a83679e5109e6218a903b72cb9cc1c3f3fd2c6c90dba",
-      "changeType": "unchanged",
+      "contentHash": "4e2211d55c8e2dd7ec8dda71dcecea24b161f244b2015528db43f4905055b59c",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response.",
@@ -37537,7 +37537,7 @@
       "publishedAt": "2026-08-21",
       "snapshotDate": "2026-08-21",
       "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Illumina — Official Website",
@@ -37567,7 +37567,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "5303d3fd6d286162f1e82d62bce46fa6f8b7b0705c3a6f9b9b7152787788364e",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
@@ -37941,7 +37941,7 @@
       "publishedAt": "2026-08-21",
       "snapshotDate": "2026-08-21",
       "title": "Innovating to Change the Course of Human Health | IONIS",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Ionis Pharmaceuticals — Official Website",
@@ -37971,7 +37971,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "0938a1cbb82f59673cba2d95047d2354aaca4e4929c0df2d887bbc70b1f814fc",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
@@ -38659,7 +38659,7 @@
       "publishedAt": "2026-08-21",
       "snapshotDate": "2026-08-21",
       "title": "Nurix | Medicines to Outmatch Disease",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Nurix Therapeutics — Official Website",
@@ -38689,7 +38689,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "ea44f706cf697cb2f6b0dbfd3d4be1eb9b11f7e381b4734218cc741775c0c609",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
@@ -38824,13 +38824,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-nykode-therapeutics-official-614221bbbc45",
+      "id": "evidence-company-nykode-therapeutics-official-33353a2a9df2",
       "signalId": null,
       "companyIds": [
         "nykode-therapeutics"
       ],
-      "publishedAt": "2026-08-21",
-      "snapshotDate": "2026-08-21",
+      "publishedAt": "2026-08-23",
+      "snapshotDate": "2026-08-23",
       "title": "Home - Nykode",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -38848,7 +38848,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 614221bbbc452963a1cb371946f175181720a3781cc40920cea89c3ac14f45e3.",
+      "fact": "The official page was captured with normalized-content hash 33353a2a9df2199fe1f68352bb6e9befb04d58141d917c2fa172d628f352c550.",
       "report": "公司官方页面表述：Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
       "reportOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
       "reportCn": "Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
@@ -38861,14 +38861,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "614221bbbc452963a1cb371946f175181720a3781cc40920cea89c3ac14f45e3",
+      "contentHash": "33353a2a9df2199fe1f68352bb6e9befb04d58141d917c2fa172d628f352c550",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
         "Nykode Therapeutics Presents Comprehensive Preclinical Data, Optimized Manufacturing, and ...",
         "Nykode Therapeutics Presents AI-Powered Immunotherapy Design Capabilities at BioPharma ...",
-        "Nykode Therapeutics Highlights Robust Immunogenicity and Promising Clinical Activity ..."
+        "The Nykode Therapeutics platform is built around the Vaccibody molecule."
       ],
       "businessExcerpts": [],
       "productExcerpts": [
