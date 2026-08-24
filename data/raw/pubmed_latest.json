@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-24T13:16:26.493028+00:00",
+  "capturedAt": "2026-08-24T19:02:48.847827+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -26,18 +26,18 @@
     "42509463",
     "42498177",
     "42497867",
+    "42635224",
     "42633869",
     "42631415",
     "42625221",
     "42624861",
     "42624264",
-    "42619129",
+    "42635246",
     "42634815",
     "42633865",
     "42633289",
     "42633083",
-    "42632117",
-    "42631856"
+    "42632117"
   ],
   "records": [
     {
@@ -264,6 +264,23 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42497867/"
     },
     {
+      "pmid": "42635224",
+      "title": "Optimizing protein design through uncertainty-weighted steering of protein language models.",
+      "abstract": "Protein Language Models (PLMs) have revolutionized protein engineering by capturing the evolutionary constraints inherent in natural protein sequences. However, precisely steering these models to engineer novel proteins with targeted functionalities remains challenging due to the inherent difficulty in modifying their latent representations considering the design objectives. Recently, activation steering of PLMs has emerged as a potent, training-free intervention for directing PLM outputs. However, the requirement for high-quality labeled datasets limits its application. In data-scarce or out-of-distribution (OOD) regimes, researchers must rely on surrogate models for label prediction; however, deterministic surrogates fail to account for the underlying uncertainty, often yielding steering vectors that result in suboptimal protein design. To address this, we propose PROSOUNDS (PROtein Sequence Optimization through UNcertainty-weighteD Steering), a PLM-based protein design framework that integrates uncertainty quantification into the activation steering logic. By weighting the steering activation calculation process based on uncertainty estimates of the surrogate predictions, PROSOUNDS enables robust protein optimization through precise mutational design even in the absence of ground-truth labels. Comprehensive performance evaluation reveals that PROSOUNDS consistently outperforms deterministic alternatives across three different protein property optimization tasks. The datasets and implementation code for PROSOUNDS are available at https://github.com/TeresaZhouTamu/PRO-SOUNDS.",
+      "journal": "Bioinformatics (Oxford, England)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Electrical and Computer Engineering, Texas A&M University, College Station, TX 77843, United States.",
+        "Department of Computer Science and Engineering, Texas A&M University, College Station, TX 77843, United States.",
+        "Computing and Data Sciences, Brookhaven National Laboratory, Upton, NY 11973, United States."
+      ],
+      "doi": "10.1093/bioinformatics/btag436",
+      "date": "2026-08-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635224/"
+    },
+    {
       "pmid": "42633869",
       "title": "Peptide barcoding: an alternative to the phenotype-genotype problem.",
       "abstract": "Barcoding methods are powerful tools for screening large libraries and have successfully been employed using DNA-centric approaches for over two decades. Yet despite the central role of proteins in most biological processes, protein-based barcoding methods have only recently emerged as a viable alternative. In this review we summarize recent advances in peptide barcoding and highlight its diverse applications, including screening of binding affinity, lipid nanoparticles, mRNA untranslated regions, and designed protein libraries. We discuss key challenges in barcode design, library construction, and mass spectrometry methods for accurate, scalable, and high-throughput screening. We propose that peptide barcoding represents a conceptual shift in genotype-phenotype mapping and will play an increasingly important role in AI-driven protein engineering, delivery technologies, and synthetic biology.",
@@ -370,23 +387,21 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624264/"
     },
     {
-      "pmid": "42619129",
-      "title": "An Explicit Interaction-Prompted Diffusion Framework for High-Fidelity 3D Molecular Generation.",
-      "abstract": "Current structure-based drug design generative models often struggle to faithfully recapitulate genuine ligand-protein binding interactions. Instead, under the coupling of implicit learning architectures and biased training data, they tend to learn spurious statistical correlations. To address this, we propose EIP-Diff (Explicit Interaction-Prompted Diffusion), an architecture featuring a novel explicit interaction-prompt embedding mechanism that is better suited for real-world target-specific drug design. This architecture replaces biased implicit learning with explicit, residue-level biological guidance, thereby promoting more fine-grained geometric fidelity and more precise interaction-aware conditioning. To fully realize the capabilities of EIP-Diff and provide a reliable basis for performance evaluation, we further constructed CrystalData set, which provides higher-fidelity and less-biased structural supervision than existing data sets. This explicit architecture markedly improves distribution consistency: even when trained on the crossdocked data set, EIP-Diff achieves the highest alignment with authentic pharmacological distributions among evaluated models. Training on CrystalData set further enhances this alignment and improves 3D geometric accuracy, while retaining strong controllability, high chemical space coverage, and near-perfect uniqueness. In addition, target-based validation on KAT6A and YTHDC1 confirmed that EIP-Diff accurately recapitulates native-like binding modes. Furthermore, in a real-world drug design task against IDO1, we successfully designed a novel lead compound with nanomolar potency (IC50 = 0.31 nM). These results demonstrate that the EIP-Diff architecture can explicitly leverage experimentally derived structural data and biologically meaningful interaction information for target-specific molecular generation, thereby enabling its effective application to real-world structure-based drug design.",
-      "journal": "Journal of the American Chemical Society",
+      "pmid": "42635246",
+      "title": "Liquid biopsies reveal dual compartments of cancer risk from tumor and host-derived mutations.",
+      "abstract": "Circulating tumor DNA (ctDNA) and clonal hematopoiesis of indeterminate potential (CHIP) are two biologically distinct sources of somatic mutations detectable in blood. While ctDNA captures tumor-intrinsic alterations, CHIP arises from age-related hematopoietic clones and is often considered background noise. Here, we conduct a large-scale, tumor-type-resolved analysis of over 9000 patients with CHIP data and 1500 patients with ctDNA data across solid tumors profiled at Memorial Sloan Kettering Cancer Center. Our results reveal that CHIP and ctDNA mutations exhibit non-overlapping, clinically meaningful signals. CHIP mutations, particularly in DNA damage response and epigenetic regulators (e.g. PPM1D, CHEK2, ATM, TP53, ASXL1), are associated with worse overall survival, increased metastatic potential, and site-specific dissemination. ctDNA mutations in canonical oncogenic drivers (e.g. TP53, EGFR, KRAS, STK11) reflect tumor aggressiveness and correlate with poor prognosis and metastasis across multiple cancer types. Joint modeling in lung adenocarcinoma confirms the independent prognostic contributions of both compartments. Additionally, longitudinal clonal analysis links specific CHIP mutations to the emergence of hematologic malignancies under therapeutic pressure. These findings support a dual-compartment model of liquid biopsy, in which tumor- and host-derived mutations jointly inform on cancer risk, progression, and metastatic behavior. Integrating both compartments may enhance the clinical utility of blood-based biomarkers in oncology. All genomic and clinical data used in this study are available through cBioPortal. Summarized outputs and processed results tables are provided in Supplementary Data.",
+      "journal": "Bioinformatics (Oxford, England)",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Chenzhu (MoMeD) Biotechnology Co., Ltd., Hangzhou311100, People's Republic of China.",
-        "College of Pharmaceutical Sciences, Zhejiang University, Hangzhou310058, People's Republic of China.",
-        "Zhejiang Provincial People's Hospital, Hangzhou310014, People's Republic of China.",
-        "Key Laboratory of Systems Health Science of Zhejiang Province, School of Life Science, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, Hangzhou310024, People's Republic of China.",
-        "Department of Chemistry, University of Southern California Los Angeles, Los Angeles, California90089-1062, United States."
+        "Department of Medicine and Surgery, University of Milano-Bicocca, Milano, Italy.",
+        "Experimental Immunology Unit, IRCCS San Raffaele Scientific Institute, Milan, Italy.",
+        "Fondazione IRCCS San Gerardo dei Tintori di Monza, Monza, Italy."
       ],
-      "doi": "10.1021/jacs.6c08189",
-      "date": "2026-08-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42619129/"
+      "doi": "10.1093/bioinformatics/btag491",
+      "date": "2026-08-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635246/"
     },
     {
       "pmid": "42634815",
@@ -487,23 +502,6 @@
       "doi": "10.1016/j.talanta.2026.130466",
       "date": "2026-08-18",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632117/"
-    },
-    {
-      "pmid": "42631856",
-      "title": "SMAD4 mRNA expression as a diagnostic biomarker in non-small cell lung cancer.",
-      "abstract": "Non-small cell lung cancer (NSCLC) remains one of the leading causes of cancer-related mortality worldwide, largely due to late-stage diagnosis. Although histopathology is the gold standard, there is a need for reliable molecular biomarkers to improve early detection and support less invasive diagnostic strategies. SMAD4, a known tumor suppressor, has been implicated in cancer progression, but its diagnostic relevance in NSCLC requires further investigation. This study aimed to evaluate SMAD4 mRNA expression in NSCLC and assess its association with clinicopathological features and its potential as a tissue-based diagnostic biomarker. SMAD4 mRNA expression was quantified using qPCR in human lung cell lines and tissue samples from 49 NSCLC patients. Findings were validated using transcriptomic datasets from TCGA and GTEx. Associations with clinicopathological parameters were analyzed, and diagnostic performance was evaluated using receiver operating characteristic (ROC) curve analysis. Proteomic validation was performed using CPTAC data. SMAD4 mRNA expression was significantly downregulated in NSCLC tissues compared to adjacent non-tumor tissues, consistent across clinical samples, cell lines, and public datasets. Expression levels varied significantly across histological subtypes and tumor grades. ROC analysis demonstrated good discriminatory ability in the patient cohort (AUC = 0.7995; 95% CI: 0.7056-0.8933), which was confirmed in the GSE32863 validation cohort (AUC = 0.8047; 95% CI: 0.7236-0.8858). Analysis of publicly available CPTAC proteomic data confirmed reduced SMAD4 protein levels, supporting concordant transcriptomic and proteomic downregulation. SMAD4 mRNA shows promise as a diagnostic biomarker for NSCLC. Further validation in larger cohorts and exploration of its application in minimally invasive diagnostics, such as liquid biopsy, are warranted.",
-      "journal": "Molecular biology reports",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Gene Regulation in Cancer Group, Institute of Molecular Genetics and Genetic Engineering, University of Belgrade, Vojvode Stepe 444A, Belgrade, 11042, Serbia. tamara.babic@imgge.bg.ac.rs.",
-        "Gene Regulation in Cancer Group, Institute of Molecular Genetics and Genetic Engineering, University of Belgrade, Vojvode Stepe 444A, Belgrade, 11042, Serbia.",
-        "Department of Neurobiology, Institute for Biological Research Sinisa Stankovic National Institute of the Republic of Serbia University of Belgrade, Bulevar Despota Stefana 142, Belgrade, 11108, Serbia."
-      ],
-      "doi": "10.1007/s11033-026-12616-x",
-      "date": "2026-08-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631856/"
     }
   ],
   "signals": [
@@ -758,38 +756,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42631856",
-      "date": "2026-08-22",
-      "title": "SMAD4 mRNA expression as a diagnostic biomarker in non-small cell lung cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631856/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular biology reports，PMID 为 42631856。",
-      "report": "Non-small cell lung cancer (NSCLC) remains one of the leading causes of cancer-related mortality worldwide, largely due to late-stage diagnosis. Although histopathology is the gold standard, there is a need for reliable molecular biomarkers to improve early de...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42624861",
       "date": "2026-08-20",
       "title": "AI-enabled discovery and biochemical optimization of minibinders targeting cancer cell-surface proteins.",
@@ -872,35 +838,6 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of cheminformatics，PMID 为 42625221。",
       "report": "Inverse molecular design imposes multiple property constraints, requiring them to be combined into a scalar reward for reinforcement-learning (RL) fine-tuning; a step that can be highly sensitive to the reward formulation. Here, we systematically analyze how s...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42619129",
-      "date": "2026-08-19",
-      "title": "An Explicit Interaction-Prompted Diffusion Framework for High-Fidelity 3D Molecular Generation.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42619129/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of the American Chemical Society，PMID 为 42619129。",
-      "report": "Current structure-based drug design generative models often struggle to faithfully recapitulate genuine ligand-protein binding interactions. Instead, under the coupling of implicit learning architectures and biased training data, they tend to learn spurious st...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1027,6 +964,65 @@
       "fact": "PubMed 记录显示该文献收录于 Cancer genetics，PMID 为 42600555。",
       "report": "Multiple myeloma (MM) is a severe plasma-cell malignancy that continues to cause substantial morbidity and mortality despite major therapeutic advances. Although current therapies target distinct molecular processes, many patients eventually relapse, raising t...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42635224",
+      "date": "2026-08-01",
+      "title": "Optimizing protein design through uncertainty-weighted steering of protein language models.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635224/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42635224。",
+      "report": "Protein Language Models (PLMs) have revolutionized protein engineering by capturing the evolutionary constraints inherent in natural protein sequences. However, precisely steering these models to engineer novel proteins with targeted functionalities remains ch...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42635246",
+      "date": "2026-08-01",
+      "title": "Liquid biopsies reveal dual compartments of cancer risk from tumor and host-derived mutations.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635246/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42635246。",
+      "report": "Circulating tumor DNA (ctDNA) and clonal hematopoiesis of indeterminate potential (CHIP) are two biologically distinct sources of somatic mutations detectable in blood. While ctDNA captures tumor-intrinsic alterations, CHIP arises from age-related hematopoieti...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
