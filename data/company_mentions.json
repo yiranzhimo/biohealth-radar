@@ -4839,79 +4839,52 @@
       "contextTitle": "Sequence-based RNA Fluorescence Assay to Measure Latent HIV Reservoirs"
     },
     {
-      "id": "mention-nih-05a0363d8595e573",
-      "observedName": "BRIGHTSPEC, INC.",
-      "normalizedName": "brightspec",
+      "id": "mention-nih-0ccee6c1e7898ff5",
+      "observedName": "PLUREXA LLC",
+      "normalizedName": "plurexa",
       "sourceType": "NIH",
       "sourceName": "NIH RePORTER",
       "sourceRole": "for_profit_award_recipient",
-      "sourceRecordId": "11378480",
-      "sourceDate": "2026-07-22",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11378480",
+      "sourceRecordId": "11416614",
+      "sourceDate": "2026-08-20",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11416614",
       "knownCompanyIds": [],
       "identifiers": {
-        "uei": "GCKZNM9VMHJ5",
-        "nihIpf": "10052152"
+        "uei": "WAV2HG8VLNK4",
+        "nihIpf": "10070963"
       },
       "biotechHints": [
         "AI Drug Discovery",
-        "Precision Diagnostics",
         "drug discovery"
       ],
       "activitySignals": [
         "nih_for_profit_award"
       ],
-      "contextTitle": "MR^3: Development of a Molecular Rotational Resonance Ratiometer"
+      "contextTitle": "Targeting Myosin to Treat Polycystic Kidney Disease"
     },
     {
-      "id": "mention-nih-09906ae49410d0ea",
-      "observedName": "NEOSPLICE THERAPEUTICS, INC.",
-      "normalizedName": "neosplice therapeutics",
+      "id": "mention-nih-13298de892386348",
+      "observedName": "PEAK DIAGNOSTIC PARTNERS LLC",
+      "normalizedName": "peak diagnostic partners",
       "sourceType": "NIH",
       "sourceName": "NIH RePORTER",
       "sourceRole": "for_profit_award_recipient",
-      "sourceRecordId": "11410041",
-      "sourceDate": "2026-07-20",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11410041",
+      "sourceRecordId": "11185076",
+      "sourceDate": "2026-08-18",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11185076",
       "knownCompanyIds": [],
       "identifiers": {
-        "uei": "ZJHHBAXNB7B8",
-        "nihIpf": "10091548"
-      },
-      "biotechHints": [
-        "AI Drug Discovery",
-        "Cell Therapy",
-        "Organoids & Disease Models",
-        "drug discovery"
-      ],
-      "activitySignals": [
-        "nih_for_profit_award"
-      ],
-      "contextTitle": "PROTEOGENOMIC DISCOVERY ENGINE FOR EXPOSING THE EXPOSED: SPLICE SURFACE THERAPEUTIC TARGETS"
-    },
-    {
-      "id": "mention-nih-11e14507708a5f0a",
-      "observedName": "RISE THERAPEUTICS, LLC",
-      "normalizedName": "rise therapeutics",
-      "sourceType": "NIH",
-      "sourceName": "NIH RePORTER",
-      "sourceRole": "for_profit_award_recipient",
-      "sourceRecordId": "11385365",
-      "sourceDate": "2026-07-28",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11385365",
-      "knownCompanyIds": [],
-      "identifiers": {
-        "uei": "N36JMJ1DKWH6",
-        "nihIpf": "10045644"
+        "uei": "UPWHAYPCDB49",
+        "nihIpf": "10056266"
       },
       "biotechHints": [
         "Precision Diagnostics",
-        "biotechnology"
+        "gene therapy"
       ],
       "activitySignals": [
         "nih_for_profit_award"
       ],
-      "contextTitle": "A Novel Immunological-Directed Biotherapy for Treating Rheumatoid Arthritis"
+      "contextTitle": "Multidimensional analysis of biologic treatment failure in uncontrolled asthma"
     },
     {
       "id": "mention-nih-178ab646829292f2",
@@ -4930,13 +4903,62 @@
       },
       "biotechHints": [
         "Precision Diagnostics",
-        "gene therapy",
         "molecular diagnostics"
       ],
       "activitySignals": [
         "nih_for_profit_award"
       ],
       "contextTitle": "Precision Diagnostics in T-cell Mediated Rejection: Predicting Treatment Resistance at Time of Diagnosis"
+    },
+    {
+      "id": "mention-nih-19593e4c7a8ac106",
+      "observedName": "SILPHION LIFE SCIENCES, INC",
+      "normalizedName": "silphion life sciences",
+      "sourceType": "NIH",
+      "sourceName": "NIH RePORTER",
+      "sourceRole": "for_profit_award_recipient",
+      "sourceRecordId": "11314334",
+      "sourceDate": "2026-08-19",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11314334",
+      "knownCompanyIds": [],
+      "identifiers": {
+        "uei": "SW9NJ4RSGNJ9",
+        "nihIpf": "10089912"
+      },
+      "biotechHints": [
+        "Gene Editing / Gene Therapy",
+        "cell therapy",
+        "gene therapy"
+      ],
+      "activitySignals": [
+        "nih_for_profit_award"
+      ],
+      "contextTitle": "Small Molecule Notch Agonist as a Therapeutic for Liver Disease in Alagille Syndrome"
+    },
+    {
+      "id": "mention-nih-199f164c634ffd25",
+      "observedName": "OWIC TECHNOLOGIES INC",
+      "normalizedName": "owic technologies",
+      "sourceType": "NIH",
+      "sourceName": "NIH RePORTER",
+      "sourceRole": "for_profit_award_recipient",
+      "sourceRecordId": "11381154",
+      "sourceDate": "2026-08-21",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11381154",
+      "knownCompanyIds": [],
+      "identifiers": {
+        "uei": "QJLKBLFKNJ58",
+        "nihIpf": "10089505"
+      },
+      "biotechHints": [
+        "AI Drug Discovery",
+        "Precision Diagnostics",
+        "drug discovery"
+      ],
+      "activitySignals": [
+        "nih_for_profit_award"
+      ],
+      "contextTitle": "High throughput electrosynthesis for enhanced drug discovery via light-powered smart microelectronics"
     },
     {
       "id": "mention-nih-1c257654a6a74c64",
@@ -4961,6 +4983,30 @@
         "nih_for_profit_award"
       ],
       "contextTitle": "Targeting mitochondria by ceramide in head and neck cancers"
+    },
+    {
+      "id": "mention-nih-1d587548df9871d5",
+      "observedName": "SYNVECT, INC.",
+      "normalizedName": "synvect",
+      "sourceType": "NIH",
+      "sourceName": "NIH RePORTER",
+      "sourceRole": "for_profit_award_recipient",
+      "sourceRecordId": "11532350",
+      "sourceDate": "2026-08-19",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11532350",
+      "knownCompanyIds": [],
+      "identifiers": {
+        "uei": "DD1SDT14UK41",
+        "nihIpf": "10089489"
+      },
+      "biotechHints": [
+        "Gene Editing / Gene Therapy",
+        "biotechnology"
+      ],
+      "activitySignals": [
+        "nih_for_profit_award"
+      ],
+      "contextTitle": "NextGenSIT: An Off-the-Shelf and On-Demand Product for Biological Control of Aedes aegypti Mosquitoes"
     },
     {
       "id": "mention-nih-1e5f66df8a191c5c",
@@ -5010,6 +5056,30 @@
         "nih_for_profit_award"
       ],
       "contextTitle": "Ultrahigh-Throughput Cell Interaction Screening to Advance CAR-T Therapeutic Development"
+    },
+    {
+      "id": "mention-nih-25ad92032aceebc5",
+      "observedName": "HARLINGENE LIFE SCIENCES LLC",
+      "normalizedName": "harlingene life sciences",
+      "sourceType": "NIH",
+      "sourceName": "NIH RePORTER",
+      "sourceRole": "for_profit_award_recipient",
+      "sourceRecordId": "11397508",
+      "sourceDate": "2026-08-18",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11397508",
+      "knownCompanyIds": [],
+      "identifiers": {
+        "uei": "VWGYKR56KRU3",
+        "nihIpf": "10064796"
+      },
+      "biotechHints": [
+        "RNA Therapeutics",
+        "cell therapy"
+      ],
+      "activitySignals": [
+        "nih_for_profit_award"
+      ],
+      "contextTitle": "Hepatoselective Dihydrozuinolizone (HS-DHQ) Molecules for Treatment and Prevention of Hepatitis A Virus (HAV) Infection"
     },
     {
       "id": "mention-nih-266fb40822d41ce8",
@@ -5084,30 +5154,31 @@
       "contextTitle": "A Phase 2, Single-Arm Study of the CXCR1/2 Inhibitor SX-682 Plus Enzalutamide in Men with Abiraterone-Resistant Metastatic Castration Resistant Prostate Cancer (mCRPC)"
     },
     {
-      "id": "mention-nih-2fb3fefe56e8f335",
-      "observedName": "DAUNTLESS BIOTHERAPEUTICS, INC.",
-      "normalizedName": "dauntless biotherapeutics",
+      "id": "mention-nih-2d38569f3bc42f78",
+      "observedName": "TRANSLUCENCE BIOSYSTEMS, INC.",
+      "normalizedName": "translucence biosystems",
       "sourceType": "NIH",
       "sourceName": "NIH RePORTER",
       "sourceRole": "for_profit_award_recipient",
-      "sourceRecordId": "11407449",
-      "sourceDate": "2026-08-11",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11407449",
+      "sourceRecordId": "11418994",
+      "sourceDate": "2026-08-18",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11418994",
       "knownCompanyIds": [],
       "identifiers": {
-        "uei": "LLU8TL82TYT3",
-        "nihIpf": "10071025"
+        "uei": "VMEAMDALXAS1",
+        "nihIpf": "10051796"
       },
       "biotechHints": [
+        "AI Drug Discovery",
         "Antibody / ADC",
-        "Precision Diagnostics",
         "cell therapy",
+        "drug discovery",
         "gene therapy"
       ],
       "activitySignals": [
         "nih_for_profit_award"
       ],
-      "contextTitle": "Overcoming Breast Cancer Resistance with a Dual-Function Antibody Therapeutic"
+      "contextTitle": "Brain-Wide Quantification of Blood-Brain Barrier Penetrating Antibody Therapeutics"
     },
     {
       "id": "mention-nih-35e8279bda92b6e8",
@@ -5209,29 +5280,6 @@
       "contextTitle": "Lung-targeting delivery of small interfering RNA for pulmonary therapeutics"
     },
     {
-      "id": "mention-nih-4d1e47b6fb860a8f",
-      "observedName": "OAK THERAPEUTICS, INC.",
-      "normalizedName": "oak therapeutics",
-      "sourceType": "NIH",
-      "sourceName": "NIH RePORTER",
-      "sourceRole": "for_profit_award_recipient",
-      "sourceRecordId": "11393763",
-      "sourceDate": "2026-07-28",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11393763",
-      "knownCompanyIds": [],
-      "identifiers": {
-        "uei": "SJ7GGFACQTJ5",
-        "nihIpf": "10038778"
-      },
-      "biotechHints": [
-        "biotechnology"
-      ],
-      "activitySignals": [
-        "nih_for_profit_award"
-      ],
-      "contextTitle": "Oral Dissolvable Strips (ODS) as new pediatric and adult delivery mode of therapy for latent tuberculosis"
-    },
-    {
       "id": "mention-nih-4d56722389943a90",
       "observedName": "POP BIOTECHNOLOGIES, INC",
       "normalizedName": "pop biotechnologies",
@@ -5281,54 +5329,27 @@
       "contextTitle": "Direct-from-specimen characterization of bloodstream infections"
     },
     {
-      "id": "mention-nih-69a9cbdebf2a2b9a",
-      "observedName": "TRETHERA CORPORATION",
-      "normalizedName": "trethera",
+      "id": "mention-nih-68cdce5c7b731a2e",
+      "observedName": "PRANIONS, INC.",
+      "normalizedName": "pranions",
       "sourceType": "NIH",
       "sourceName": "NIH RePORTER",
       "sourceRole": "for_profit_award_recipient",
-      "sourceRecordId": "11387894",
-      "sourceDate": "2026-08-11",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11387894",
+      "sourceRecordId": "11371179",
+      "sourceDate": "2026-08-21",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11371179",
       "knownCompanyIds": [],
       "identifiers": {
-        "uei": "QB66ZMAUF5P7",
-        "nihIpf": "10042526"
+        "uei": "UL23TL5VZFN3",
+        "nihIpf": "10079991"
       },
       "biotechHints": [
-        "Precision Diagnostics",
-        "cell therapy",
-        "gene therapy"
+        "cell therapy"
       ],
       "activitySignals": [
         "nih_for_profit_award"
       ],
-      "contextTitle": "Development of a Novel, Targeted Small Molecule Inhibitor of the Nucleoside Salvage Pathway to Treat Systemic Lupus Erythematosus"
-    },
-    {
-      "id": "mention-nih-6aac4534ee4807ca",
-      "observedName": "OBJECTIVE BIOTECHNOLOGY, INC.",
-      "normalizedName": "objective biotechnology",
-      "sourceType": "NIH",
-      "sourceName": "NIH RePORTER",
-      "sourceRole": "for_profit_award_recipient",
-      "sourceRecordId": "11409842",
-      "sourceDate": "2026-07-28",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11409842",
-      "knownCompanyIds": [],
-      "identifiers": {
-        "uei": "GN5KBQRNCBA9",
-        "nihIpf": "10073841"
-      },
-      "biotechHints": [
-        "AI Drug Discovery",
-        "Gene Editing / Gene Therapy",
-        "biotechnology"
-      ],
-      "activitySignals": [
-        "nih_for_profit_award"
-      ],
-      "contextTitle": "A computer-vision guided automated microinjection system with increased robustness, throughput, and generalizability to diverse species"
+      "contextTitle": "High-flow portable oxygen concentrator for long-term oxygen therapy"
     },
     {
       "id": "mention-nih-6d6ac52ecf4e0b8e",
@@ -5355,6 +5376,32 @@
       "contextTitle": "Stimulant for stem cell expansion in vivo to speed recovery of neutropenia secondary to chemotherapy and stem cell transplant"
     },
     {
+      "id": "mention-nih-6e3c1adbfa8cf15a",
+      "observedName": "VIVID BIOINNOVATIONS, PBC",
+      "normalizedName": "vivid bioinnovations pbc",
+      "sourceType": "NIH",
+      "sourceName": "NIH RePORTER",
+      "sourceRole": "for_profit_award_recipient",
+      "sourceRecordId": "11417110",
+      "sourceDate": "2026-08-20",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11417110",
+      "knownCompanyIds": [],
+      "identifiers": {
+        "uei": "Q1NZN4P95F83",
+        "nihIpf": "10055606"
+      },
+      "biotechHints": [
+        "AI Drug Discovery",
+        "Precision Diagnostics",
+        "biotechnology",
+        "drug discovery"
+      ],
+      "activitySignals": [
+        "nih_for_profit_award"
+      ],
+      "contextTitle": "A Universal Platform for Ultrahigh-Throughput Biocatalyst Evolution With micro-Mass Spectrometry"
+    },
+    {
       "id": "mention-nih-73ff6f386f32e622",
       "observedName": "PHYSICAL SCIENCES, INC",
       "normalizedName": "physical sciences",
@@ -5378,27 +5425,29 @@
       "contextTitle": "Metabolic Cytometry for In-line Process Analysis"
     },
     {
-      "id": "mention-nih-75f7c01adc9648c4",
-      "observedName": "CORVION, INC.",
-      "normalizedName": "corvion",
+      "id": "mention-nih-7830a2f668f53f62",
+      "observedName": "COLLIGA APPS CORP.",
+      "normalizedName": "colliga apps",
       "sourceType": "NIH",
       "sourceName": "NIH RePORTER",
       "sourceRole": "for_profit_award_recipient",
-      "sourceRecordId": "11407580",
-      "sourceDate": "2026-08-10",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11407580",
+      "sourceRecordId": "11404033",
+      "sourceDate": "2026-08-19",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11404033",
       "knownCompanyIds": [],
       "identifiers": {
-        "uei": "DP46YALMA9E8",
-        "nihIpf": "10057643"
+        "uei": "KJAPY2NGGNQ8",
+        "nihIpf": "10053936"
       },
       "biotechHints": [
+        "AI Drug Discovery",
+        "Precision Diagnostics",
         "cell therapy"
       ],
       "activitySignals": [
         "nih_for_profit_award"
       ],
-      "contextTitle": "Development of a Novel Pediatric LVAD for Home Discharge of Children Awaiting Heart Transplant"
+      "contextTitle": "A Centralized Clinical Research Tool for Accelerating the Development, Evaluation, and Dissemination of Expert-Developed, Evidence-Based, and AI-Enhanced Digital Mental Health Therapies"
     },
     {
       "id": "mention-nih-7bddb1c2bf2cac87",
@@ -5423,6 +5472,31 @@
         "nih_for_profit_award"
       ],
       "contextTitle": "Development of a safer stem cell-based diabetes therapy via suicide gene-mediated ablation of proliferative cells"
+    },
+    {
+      "id": "mention-nih-81734a953c1cf035",
+      "observedName": "VIVID BIOINNOVATIONS, PBC",
+      "normalizedName": "vivid bioinnovations pbc",
+      "sourceType": "NIH",
+      "sourceName": "NIH RePORTER",
+      "sourceRole": "for_profit_award_recipient",
+      "sourceRecordId": "11256632",
+      "sourceDate": "2026-08-19",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11256632",
+      "knownCompanyIds": [],
+      "identifiers": {
+        "uei": "Q1NZN4P95F83",
+        "nihIpf": "10055606"
+      },
+      "biotechHints": [
+        "Precision Diagnostics",
+        "cell therapy",
+        "gene therapy"
+      ],
+      "activitySignals": [
+        "nih_for_profit_award"
+      ],
+      "contextTitle": "HIVE-seq: A Novel Omics Technology to Profile Thousands of Single HIV-Positive Cells"
     },
     {
       "id": "mention-nih-819e88112e069b66",
@@ -5476,19 +5550,43 @@
       "contextTitle": "Small Molecule Drug Discovery for Cardiac Fibrosis using AI/ML and iPSC-Derived Organoids"
     },
     {
-      "id": "mention-nih-9273e87707c1d01d",
-      "observedName": "VIVOSPHERE LLC",
-      "normalizedName": "vivosphere",
+      "id": "mention-nih-88ccc910e92bdea1",
+      "observedName": "LIGHTHOUSE PHARMACEUTICALS, INC.",
+      "normalizedName": "lighthouse pharmaceuticals",
       "sourceType": "NIH",
       "sourceName": "NIH RePORTER",
       "sourceRole": "for_profit_award_recipient",
-      "sourceRecordId": "11256254",
-      "sourceDate": "2026-07-27",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11256254",
+      "sourceRecordId": "11393887",
+      "sourceDate": "2026-08-18",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11393887",
       "knownCompanyIds": [],
       "identifiers": {
-        "uei": "QSAGDTU231N8",
-        "nihIpf": "10070899"
+        "uei": "PD46PCMTRUM6",
+        "nihIpf": "10076038"
+      },
+      "biotechHints": [
+        "Precision Diagnostics",
+        "gene therapy"
+      ],
+      "activitySignals": [
+        "nih_for_profit_award"
+      ],
+      "contextTitle": "A Randomized, Double-Blind, Placebo-Controlled Study of LHP588 in Subjects with P. gingivalis-Positive Alzheimer's Disease"
+    },
+    {
+      "id": "mention-nih-89688078bd4f6bdc",
+      "observedName": "PSYCHOGENICS, INC.",
+      "normalizedName": "psychogenics",
+      "sourceType": "NIH",
+      "sourceName": "NIH RePORTER",
+      "sourceRole": "for_profit_award_recipient",
+      "sourceRecordId": "11536936",
+      "sourceDate": "2026-08-18",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11536936",
+      "knownCompanyIds": [],
+      "identifiers": {
+        "uei": "YXMNA8N7LFG4",
+        "nihIpf": "4147301"
       },
       "biotechHints": [
         "AI Drug Discovery",
@@ -5499,31 +5597,57 @@
       "activitySignals": [
         "nih_for_profit_award"
       ],
-      "contextTitle": "VivoSphere as an oncology platform for colorectal cancer modeling and drug screening"
+      "contextTitle": "EEG Signature Analysis for Drug Repurposing for Rare Diseases"
     },
     {
-      "id": "mention-nih-99166d7dcf95d736",
-      "observedName": "TAXIS PHARMACEUTICALS, INC.",
-      "normalizedName": "taxis pharmaceuticals",
+      "id": "mention-nih-8b73e6ad45a21b4f",
+      "observedName": "HYDRONOVO, INC",
+      "normalizedName": "hydronovo",
       "sourceType": "NIH",
       "sourceName": "NIH RePORTER",
       "sourceRole": "for_profit_award_recipient",
-      "sourceRecordId": "11312298",
-      "sourceDate": "2026-08-12",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11312298",
+      "sourceRecordId": "11364199",
+      "sourceDate": "2026-08-19",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11364199",
       "knownCompanyIds": [],
       "identifiers": {
-        "uei": "C2NWS2FZS5F5",
-        "nihIpf": "10021742"
+        "uei": "S9GWZHLBRHS6",
+        "nihIpf": "10077011"
       },
       "biotechHints": [
+        "Cell Therapy",
+        "cell therapy"
+      ],
+      "activitySignals": [
+        "nih_for_profit_award"
+      ],
+      "contextTitle": "Regeneration of radiation-damaged salivary glands using neurogenicstimulation of stem cells"
+    },
+    {
+      "id": "mention-nih-8bdcf61a3c24dd13",
+      "observedName": "TEZCAT BIOSCIENCES, INC.",
+      "normalizedName": "tezcat biosciences",
+      "sourceType": "NIH",
+      "sourceName": "NIH RePORTER",
+      "sourceRole": "for_profit_award_recipient",
+      "sourceRecordId": "11400228",
+      "sourceDate": "2026-08-18",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11400228",
+      "knownCompanyIds": [],
+      "identifiers": {
+        "uei": "E6EJYYD5BJ23",
+        "nihIpf": "10054964"
+      },
+      "biotechHints": [
+        "Precision Diagnostics",
+        "biotechnology",
         "cell therapy",
         "gene therapy"
       ],
       "activitySignals": [
         "nih_for_profit_award"
       ],
-      "contextTitle": "Lead identification of oral FtsZ inhibitors for the treatment of Clostridioides difficile infections(CDI)"
+      "contextTitle": "Tumor-targeted delivery of radio/chemotherapy in pancreatic cancer."
     },
     {
       "id": "mention-nih-99c556737e9c1e65",
@@ -5542,13 +5666,60 @@
       },
       "biotechHints": [
         "Cell Therapy",
-        "cell therapy",
         "gene therapy"
       ],
       "activitySignals": [
         "nih_for_profit_award"
       ],
       "contextTitle": "Personalized Diabetes Management through iPSC-Derived β-cells: A Tailored Approach for Improving Treatment Efficacy in Economically Vulnerable Populations"
+    },
+    {
+      "id": "mention-nih-9b7380fc42bf35c5",
+      "observedName": "QUANTUMBIO, INC.",
+      "normalizedName": "quantumbio",
+      "sourceType": "NIH",
+      "sourceName": "NIH RePORTER",
+      "sourceRole": "for_profit_award_recipient",
+      "sourceRecordId": "11418609",
+      "sourceDate": "2026-08-20",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11418609",
+      "knownCompanyIds": [],
+      "identifiers": {
+        "uei": "SFCDUHJNHBM4",
+        "nihIpf": "10001402"
+      },
+      "biotechHints": [
+        "AI Drug Discovery",
+        "drug discovery"
+      ],
+      "activitySignals": [
+        "nih_for_profit_award"
+      ],
+      "contextTitle": "Addressing Structural Disorder and Conformational Heterogeneity in Modern Therapeutic Modalities: A Unified X-ray/Cryo-EM QM/MM Ensemble Refinement Toolkit with Enhanced Density-Driven MD"
+    },
+    {
+      "id": "mention-nih-9e4c3f737decb63d",
+      "observedName": "OBATALA SCIENCES, INC.",
+      "normalizedName": "obatala sciences",
+      "sourceType": "NIH",
+      "sourceName": "NIH RePORTER",
+      "sourceRole": "for_profit_award_recipient",
+      "sourceRecordId": "11417241",
+      "sourceDate": "2026-08-18",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11417241",
+      "knownCompanyIds": [],
+      "identifiers": {
+        "uei": "TYMKKC3U5J45",
+        "nihIpf": "10048655"
+      },
+      "biotechHints": [
+        "biotechnology",
+        "cell therapy"
+      ],
+      "activitySignals": [
+        "nih_for_profit_award"
+      ],
+      "contextTitle": "Getting Regenerative Medical Biotech REDI to Age"
     },
     {
       "id": "mention-nih-a0adf9a92fcca46a",
@@ -5566,9 +5737,7 @@
         "nihIpf": "10048636"
       },
       "biotechHints": [
-        "biotechnology",
-        "cell therapy",
-        "gene therapy"
+        "biotechnology"
       ],
       "activitySignals": [
         "nih_for_profit_award"
@@ -5593,7 +5762,6 @@
       "biotechHints": [
         "AI Drug Discovery",
         "biotechnology",
-        "cell therapy",
         "gene therapy"
       ],
       "activitySignals": [
@@ -5725,30 +5893,6 @@
       "contextTitle": "Development of a safer, more effective formulation of Polymyxin B for treatment of E. coli Infection"
     },
     {
-      "id": "mention-nih-b956ec8d28e1a8eb",
-      "observedName": "ALDATU BIOSCIENCES, INC.",
-      "normalizedName": "aldatu biosciences",
-      "sourceType": "NIH",
-      "sourceName": "NIH RePORTER",
-      "sourceRole": "for_profit_award_recipient",
-      "sourceRecordId": "11393717",
-      "sourceDate": "2026-07-30",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11393717",
-      "knownCompanyIds": [],
-      "identifiers": {
-        "uei": "N29WVC3UJCB9",
-        "nihIpf": "10036337"
-      },
-      "biotechHints": [
-        "Precision Diagnostics",
-        "molecular diagnostics"
-      ],
-      "activitySignals": [
-        "nih_for_profit_award"
-      ],
-      "contextTitle": "PANDAA for universal, pan-lineage molecular detection of Crimean-Congo Hemorrhagic Fever virus."
-    },
-    {
       "id": "mention-nih-c0869984ae0582cf",
       "observedName": "REELIN THERAPEUTICS, INC.",
       "normalizedName": "reelin therapeutics",
@@ -5800,6 +5944,57 @@
         "nih_for_profit_award"
       ],
       "contextTitle": "Design of rapid and quantitative biosensors with computational protein design"
+    },
+    {
+      "id": "mention-nih-c928720b5d2be1e3",
+      "observedName": "GORDON RESEARCH CONFERENCES",
+      "normalizedName": "gordon research conferences",
+      "sourceType": "NIH",
+      "sourceName": "NIH RePORTER",
+      "sourceRole": "for_profit_award_recipient",
+      "sourceRecordId": "11465392",
+      "sourceDate": "2026-08-17",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11465392",
+      "knownCompanyIds": [],
+      "identifiers": {
+        "uei": "XL5ANMKWN557",
+        "nihIpf": "2988701"
+      },
+      "biotechHints": [
+        "Cell Therapy",
+        "Precision Diagnostics",
+        "cell therapy",
+        "drug discovery",
+        "gene therapy"
+      ],
+      "activitySignals": [
+        "nih_for_profit_award"
+      ],
+      "contextTitle": "2026 Neural Genetics and Epigenetics Gordon Research Conference"
+    },
+    {
+      "id": "mention-nih-ce852347404c9eeb",
+      "observedName": "ACEBIO LLC",
+      "normalizedName": "acebio",
+      "sourceType": "NIH",
+      "sourceName": "NIH RePORTER",
+      "sourceRole": "for_profit_award_recipient",
+      "sourceRecordId": "11312821",
+      "sourceDate": "2026-08-19",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11312821",
+      "knownCompanyIds": [],
+      "identifiers": {
+        "uei": "C4DDKFJTHM74",
+        "nihIpf": "10083769"
+      },
+      "biotechHints": [
+        "cell therapy",
+        "gene therapy"
+      ],
+      "activitySignals": [
+        "nih_for_profit_award"
+      ],
+      "contextTitle": "Develop a gut microbial sulfonolipid for inflammation modulation"
     },
     {
       "id": "mention-nih-d1c7c8abae873714",
@@ -5876,31 +6071,6 @@
       "contextTitle": "An Innovative Immune Therapy with Antibiotics to Treat Deadly Excess Inflammation in Sepsis and ARDS Induced from Severe Bacterial Infection in Geriatric Patients"
     },
     {
-      "id": "mention-nih-d5b9b74975400806",
-      "observedName": "HESPEROS, LLC",
-      "normalizedName": "hesperos",
-      "sourceType": "NIH",
-      "sourceName": "NIH RePORTER",
-      "sourceRole": "for_profit_award_recipient",
-      "sourceRecordId": "11410554",
-      "sourceDate": "2026-07-21",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11410554",
-      "knownCompanyIds": [],
-      "identifiers": {
-        "uei": "R1LSLA5YJMJ9",
-        "nihIpf": "10002346"
-      },
-      "biotechHints": [
-        "AI Drug Discovery",
-        "Precision Diagnostics",
-        "drug discovery"
-      ],
-      "activitySignals": [
-        "nih_for_profit_award"
-      ],
-      "contextTitle": "Human Neuromuscular Junction Platform to Evaluate Botulinum Toxin Potency"
-    },
-    {
       "id": "mention-nih-daac7d0beaa7886c",
       "observedName": "GAMMA BIOTHERAPEUTICS, INC.",
       "normalizedName": "gamma biotherapeutics",
@@ -5917,7 +6087,6 @@
       },
       "biotechHints": [
         "Precision Diagnostics",
-        "cell therapy",
         "gene therapy"
       ],
       "activitySignals": [
@@ -5950,30 +6119,6 @@
         "nih_for_profit_award"
       ],
       "contextTitle": "In vivo CAR therapies for lupus treatment using selectively expressed genetic payloads in immune-cell-biased lipid nanoparticles"
-    },
-    {
-      "id": "mention-nih-dd7f591e9dbdcc32",
-      "observedName": "PLEOPHARMA, INC.",
-      "normalizedName": "pleopharma",
-      "sourceType": "NIH",
-      "sourceName": "NIH RePORTER",
-      "sourceRole": "for_profit_award_recipient",
-      "sourceRecordId": "11390617",
-      "sourceDate": "2026-08-12",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11390617",
-      "knownCompanyIds": [],
-      "identifiers": {
-        "uei": "NSW8A6YH85C1",
-        "nihIpf": "10082872"
-      },
-      "biotechHints": [
-        "Precision Diagnostics",
-        "gene therapy"
-      ],
-      "activitySignals": [
-        "nih_for_profit_award"
-      ],
-      "contextTitle": "Phase 3 Trial of PP-01 for Mitigation of Cannabis Withdrawal in CUD"
     },
     {
       "id": "mention-nih-e0038a2e4efaba44",
@@ -6052,29 +6197,6 @@
       "contextTitle": "In vitro myelination assay modeling the environment of MS lesions for predictive discovery of remyelinating therapies"
     },
     {
-      "id": "mention-nih-e79056d2de1c3763",
-      "observedName": "ASTERO ERADO INC",
-      "normalizedName": "astero erado",
-      "sourceType": "NIH",
-      "sourceName": "NIH RePORTER",
-      "sourceRole": "for_profit_award_recipient",
-      "sourceRecordId": "11311549",
-      "sourceDate": "2026-08-11",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11311549",
-      "knownCompanyIds": [],
-      "identifiers": {
-        "uei": "Z3JWEMNYNRT9",
-        "nihIpf": "10059077"
-      },
-      "biotechHints": [
-        "cell therapy"
-      ],
-      "activitySignals": [
-        "nih_for_profit_award"
-      ],
-      "contextTitle": "Severe Autoantibody-Mediated Autoimmune Disease: A New Treatment Approach"
-    },
-    {
       "id": "mention-nih-ea5cf4afa5a2306b",
       "observedName": "VERISIM LIFE, INC.",
       "normalizedName": "verisim life",
@@ -6125,81 +6247,6 @@
       "contextTitle": "Enhanced supercooling for extending non-freezing preservation in preclinical porcine and human donor livers"
     },
     {
-      "id": "mention-nih-ec0586384d5a6070",
-      "observedName": "ISOPRENE PHARMACEUTICALS, INC.",
-      "normalizedName": "isoprene pharmaceuticals",
-      "sourceType": "NIH",
-      "sourceName": "NIH RePORTER",
-      "sourceRole": "for_profit_award_recipient",
-      "sourceRecordId": "11345297",
-      "sourceDate": "2026-07-22",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11345297",
-      "knownCompanyIds": [],
-      "identifiers": {
-        "uei": "KS62EAD1NHJ7",
-        "nihIpf": "10059921"
-      },
-      "biotechHints": [
-        "AI Drug Discovery",
-        "Cell Therapy",
-        "Targeted Protein Degradation",
-        "drug discovery"
-      ],
-      "activitySignals": [
-        "nih_for_profit_award"
-      ],
-      "contextTitle": "Development of VNPP433-3Beta as Novel Therapeutic for All Stages of Prostrate Cancer"
-    },
-    {
-      "id": "mention-nih-eda595df306b1d78",
-      "observedName": "KEYLICON BIOSCIENCES INC",
-      "normalizedName": "keylicon biosciences",
-      "sourceType": "NIH",
-      "sourceName": "NIH RePORTER",
-      "sourceRole": "for_profit_award_recipient",
-      "sourceRecordId": "11311605",
-      "sourceDate": "2026-07-29",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11311605",
-      "knownCompanyIds": [],
-      "identifiers": {
-        "uei": "UXSKUT48A7W3",
-        "nihIpf": "10083524"
-      },
-      "biotechHints": [
-        "RNA Therapeutics",
-        "biotechnology"
-      ],
-      "activitySignals": [
-        "nih_for_profit_award"
-      ],
-      "contextTitle": "Low Dose Multivalent Influenza Vaccine via Modified Self-Amplifying RNA"
-    },
-    {
-      "id": "mention-nih-f05aa3322234b52b",
-      "observedName": "OSSIUM HEALTH, INC.",
-      "normalizedName": "ossium health",
-      "sourceType": "NIH",
-      "sourceName": "NIH RePORTER",
-      "sourceRole": "for_profit_award_recipient",
-      "sourceRecordId": "11404025",
-      "sourceDate": "2026-08-11",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11404025",
-      "knownCompanyIds": [],
-      "identifiers": {
-        "uei": "FFNHJ2RDRHW3",
-        "nihIpf": "10043351"
-      },
-      "biotechHints": [
-        "Cell Therapy",
-        "cell therapy",
-        "gene therapy"
-      ],
-      "activitySignals": [
-        "nih_for_profit_award"
-      ],
-      "contextTitle": "Developing a bank of purified myeloid progenitor cells as a bridging therapy for transient pancytopenia resulting from radiation injury"
-    },
-    {
       "id": "mention-nih-f27df69b3aad8505",
       "observedName": "JAN BIOTECH, INC.",
       "normalizedName": "jan biotech",
@@ -6225,56 +6272,6 @@
       "contextTitle": "Clinical Assay to Accurately Profile and Monitor the HIV-1 Reservoir in Chronic-treated Individuals to Guide Treatment Decisions"
     },
     {
-      "id": "mention-nih-fc94848590d9117e",
-      "observedName": "XTOP BIOTHERAPEUTICS INC.",
-      "normalizedName": "xtop biotherapeutics",
-      "sourceType": "NIH",
-      "sourceName": "NIH RePORTER",
-      "sourceRole": "for_profit_award_recipient",
-      "sourceRecordId": "11407471",
-      "sourceDate": "2026-08-13",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11407471",
-      "knownCompanyIds": [],
-      "identifiers": {
-        "uei": "SMSZESNKE3Z5",
-        "nihIpf": "10091261"
-      },
-      "biotechHints": [
-        "Organoids & Disease Models",
-        "cell therapy",
-        "gene therapy"
-      ],
-      "activitySignals": [
-        "nih_for_profit_award"
-      ],
-      "contextTitle": "Study of CB-101: A Novel First-in-Class Trispecific Antibody Targeting ROR1, EpCAM, and CD3 for the Treatment of Colorectal Cancer and Other Solid Tumors"
-    },
-    {
-      "id": "mention-nih-fd233389c88da084",
-      "observedName": "RESVITA BIO, INC.",
-      "normalizedName": "resvita bio",
-      "sourceType": "NIH",
-      "sourceName": "NIH RePORTER",
-      "sourceRole": "for_profit_award_recipient",
-      "sourceRecordId": "11186606",
-      "sourceDate": "2026-07-30",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11186606",
-      "knownCompanyIds": [],
-      "identifiers": {
-        "uei": "LE1LFZE6EMK5",
-        "nihIpf": "10069343"
-      },
-      "biotechHints": [
-        "AI Drug Discovery",
-        "Precision Diagnostics",
-        "biotechnology"
-      ],
-      "activitySignals": [
-        "nih_for_profit_award"
-      ],
-      "contextTitle": "Skin probiotics to treat atopic dermatitis"
-    },
-    {
       "id": "mention-sec-0076c86025a6759e",
       "observedName": "Apogee Therapeutics, Inc.",
       "normalizedName": "apogee therapeutics",
@@ -6282,7 +6279,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001974640",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001974640&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6305,7 +6302,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001799448",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001799448&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6328,7 +6325,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001557376",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001557376&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6351,7 +6348,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001999480",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001999480&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6374,7 +6371,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001173313",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001173313&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6397,7 +6394,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001756770",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001756770&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6420,7 +6417,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000901832",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6443,7 +6440,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001677940",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001677940&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6466,7 +6463,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001620463",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001620463&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6489,7 +6486,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001131343",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001131343&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6512,7 +6509,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001980845",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001980845&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6535,7 +6532,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001662774",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001662774&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6558,7 +6555,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001889109",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001889109&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6581,7 +6578,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001681087",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001681087&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6604,7 +6601,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000914475",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000914475&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6627,7 +6624,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000014272",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6650,7 +6647,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000072444",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000072444&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6673,7 +6670,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001729427",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001729427&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6696,7 +6693,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001853921",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001853921&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6719,7 +6716,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000921114",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000921114&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6742,7 +6739,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001382101",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001382101&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6765,7 +6762,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001708527",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001708527&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6788,7 +6785,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001848731",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001848731&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6811,7 +6808,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001735438",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001735438&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6834,7 +6831,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001824893",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001824893&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6857,7 +6854,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001766600",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001766600&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6880,7 +6877,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000001800",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000001800&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6903,7 +6900,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001612042",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001612042&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6926,7 +6923,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001737927",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001737927&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6949,7 +6946,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001740279",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001740279&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6972,7 +6969,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001820190",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001820190&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -6995,7 +6992,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0002022416",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002022416&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7018,7 +7015,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001106644",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001106644&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7041,7 +7038,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001643918",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001643918&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7064,7 +7061,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001731348",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001731348&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7087,7 +7084,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001815620",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001815620&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7110,7 +7107,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001714899",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001714899&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7133,7 +7130,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000882796",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000882796&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7156,7 +7153,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001907223",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001907223&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7179,7 +7176,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001906324",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001906324&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7202,7 +7199,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001860871",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001860871&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7225,7 +7222,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001707502",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001707502&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7248,7 +7245,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000787253",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000787253&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7271,7 +7268,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001569340",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001569340&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7294,7 +7291,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001837607",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001837607&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7317,7 +7314,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001818838",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001818838&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7340,7 +7337,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001894525",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001894525&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7363,7 +7360,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001833214",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001833214&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7386,7 +7383,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001388320",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001388320&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7409,7 +7406,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001711754",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001711754&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7432,7 +7429,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001938571",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001938571&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7455,7 +7452,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001885827",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001885827&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7478,7 +7475,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001098009",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001098009&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7501,7 +7498,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001861123",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001861123&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7524,7 +7521,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001720580",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001720580&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7547,7 +7544,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001601936",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001601936&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7570,7 +7567,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000899923",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000899923&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7593,7 +7590,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001781174",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001781174&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7616,7 +7613,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001593899",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001593899&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7639,7 +7636,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001540171",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001540171&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7662,7 +7659,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001400271",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001400271&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7685,7 +7682,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001711141",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001711141&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7708,7 +7705,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001477845",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001477845&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7731,7 +7728,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001806310",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001806310&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7754,7 +7751,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000093314",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000093314&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7777,7 +7774,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001512886",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001512886&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7800,7 +7797,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001774857",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001774857&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7823,7 +7820,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001534133",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001534133&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7846,7 +7843,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001368514",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001368514&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7869,7 +7866,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001213809",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001213809&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7892,7 +7889,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001478320",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001478320&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7915,7 +7912,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001750149",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001750149&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7938,7 +7935,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0002081043",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002081043&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -7961,7 +7958,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001730463",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001730463&owner=exclude&hidefilings=0",
       "knownCompanyIds": [
         "autolus"
@@ -7986,7 +7983,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001341235",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001341235&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8009,7 +8006,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001785279",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001785279&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8032,7 +8029,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001501796",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001501796&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8055,7 +8052,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001894562",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001894562&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8078,7 +8075,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001101026",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001101026&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8101,7 +8098,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001819253",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001819253&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8124,7 +8121,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001898416",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001898416&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8147,7 +8144,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001279704",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001279704&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8170,7 +8167,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001880438",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001880438&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8193,7 +8190,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001812364",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001812364&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8216,7 +8213,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000730272",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000730272&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8239,7 +8236,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001935979",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001935979&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8262,7 +8259,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001053691",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001053691&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8285,7 +8282,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000887359",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000887359&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8308,7 +8305,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001818382",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001818382&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8331,7 +8328,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001652935",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001652935&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8354,7 +8351,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001641281",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001641281&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8377,7 +8374,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001720893",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001720893&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8400,7 +8397,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001653087",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001653087&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8423,7 +8420,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001956827",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001956827&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8446,7 +8443,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001133869",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001133869&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8469,7 +8466,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001513525",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001513525&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8492,7 +8489,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001782303",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001782303&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8515,7 +8512,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000946644",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000946644&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8538,7 +8535,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001726711",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001726711&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8561,7 +8558,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000888721",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000888721&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8584,7 +8581,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001576885",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001576885&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8607,7 +8604,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001314052",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001314052&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8630,7 +8627,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001885522",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001885522&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8653,7 +8650,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001178670",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001178670&owner=exclude&hidefilings=0",
       "knownCompanyIds": [
         "alnylam"
@@ -8678,7 +8675,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000811641",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000811641&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8701,7 +8698,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001590877",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001590877&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8724,7 +8721,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001701478",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001701478&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8747,7 +8744,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001745999",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001745999&owner=exclude&hidefilings=0",
       "knownCompanyIds": [
         "beam-therapeutics"
@@ -8772,7 +8769,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001567264",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001567264&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8795,7 +8792,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0002100835",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002100835&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8818,7 +8815,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001828253",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001828253&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8841,7 +8838,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001662579",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001662579&owner=exclude&hidefilings=0",
       "knownCompanyIds": [
         "c4-therapeutics"
@@ -8866,7 +8863,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001580149",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001580149&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8889,7 +8886,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001297184",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001297184&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8912,7 +8909,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001575142",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001575142&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8935,7 +8932,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000949858",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000949858&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8958,7 +8955,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0002131524",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002131524&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -8981,7 +8978,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001815776",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001815776&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9004,7 +9001,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001743881",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001743881&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9027,7 +9024,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001869105",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001869105&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9050,7 +9047,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001006281",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001006281&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9073,7 +9070,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001723980",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001723980&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9096,7 +9093,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001847462",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001847462&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9119,7 +9116,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000724445",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000724445&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9142,7 +9139,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001826457",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001826457&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9165,7 +9162,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000939767",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000939767&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9188,7 +9185,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001937993",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001937993&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9211,7 +9208,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001070494",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001070494&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9234,7 +9231,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001723128",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001723128&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9257,7 +9254,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001326110",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001326110&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9280,7 +9277,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001557746",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001557746&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9303,7 +9300,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001345099",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001345099&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9326,7 +9323,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001789769",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001789769&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9349,7 +9346,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001343009",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001343009&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9372,7 +9369,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001628171",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001628171&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9395,7 +9392,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001850767",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001850767&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9418,7 +9415,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001619856",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001619856&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9441,7 +9438,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001828185",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001828185&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9464,7 +9461,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001534120",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001534120&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9487,7 +9484,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000073290",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000073290&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9510,7 +9507,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001425205",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001425205&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9533,7 +9530,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0002070534",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002070534&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9556,7 +9553,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001835579",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001835579&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9579,7 +9576,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001134765",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001134765&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9602,7 +9599,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001048477",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001048477&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9625,7 +9622,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001415397",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001415397&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9648,7 +9645,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001579428",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001579428&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9671,7 +9668,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000831609",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000831609&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9694,7 +9691,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0002058707",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002058707&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9717,7 +9714,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001437402",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001437402&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9740,7 +9737,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001081938",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001081938&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9763,7 +9760,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001439222",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001439222&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9786,7 +9783,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001107421",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001107421&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9809,7 +9806,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001736730",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001736730&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9832,7 +9829,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001739174",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001739174&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9855,7 +9852,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001552189",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001552189&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9878,7 +9875,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001023024",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001023024&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9901,7 +9898,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001982708",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001982708&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9924,7 +9921,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001737287",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001737287&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9947,7 +9944,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001771910",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771910&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9970,7 +9967,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001656472",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001656472&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -9993,7 +9990,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001658678",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001658678&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10016,7 +10013,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001851651",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001851651&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10039,7 +10036,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001574232",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001574232&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10062,7 +10059,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001357459",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001357459&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10085,7 +10082,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000876343",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000876343&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10108,7 +10105,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001727196",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001727196&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10131,7 +10128,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001850270",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001850270&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10154,7 +10151,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001779578",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001779578&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10177,7 +10174,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001783328",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001783328&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10200,7 +10197,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001018735",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001018735&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10223,7 +10220,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0002000775",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002000775&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10246,7 +10243,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001944552",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001944552&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10269,7 +10266,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001870404",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001870404&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10292,7 +10289,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001453687",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001453687&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10315,7 +10312,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001682852",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001682852&owner=exclude&hidefilings=0",
       "knownCompanyIds": [
         "moderna"
@@ -10340,7 +10337,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001855644",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001855644&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10363,7 +10360,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001817241",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001817241&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10386,7 +10383,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001919246",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001919246&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10409,7 +10406,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001001233",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001001233&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10432,7 +10429,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001738021",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001738021&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10455,7 +10452,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001420108",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001420108&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10478,7 +10475,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001808898",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001808898&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10501,7 +10498,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001447028",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001447028&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10524,7 +10521,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001520262",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001520262&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10547,7 +10544,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001677077",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001677077&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10570,7 +10567,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001851484",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001851484&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10593,7 +10590,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001649989",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001649989&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10616,7 +10613,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001822791",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001822791&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10639,7 +10636,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001860657",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001860657&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10662,7 +10659,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001622229",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001622229&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10685,7 +10682,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001781983",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001781983&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10708,7 +10705,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001522767",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001522767&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10731,7 +10728,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001827401",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001827401&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10754,7 +10751,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001392449",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001392449&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10777,7 +10774,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001455365",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001455365&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10800,7 +10797,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001858685",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001858685&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10823,7 +10820,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001701541",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001701541&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10846,7 +10843,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001541157",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001541157&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10869,7 +10866,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001745114",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001745114&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10892,7 +10889,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001789972",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001789972&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10915,7 +10912,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001015820",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001015820&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10938,7 +10935,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001723059",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001723059&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10961,7 +10958,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0002010788",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002010788&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -10984,7 +10981,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001613780",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001613780&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11007,7 +11004,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001601830",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001601830&owner=exclude&hidefilings=0",
       "knownCompanyIds": [
         "recursion"
@@ -11032,7 +11029,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000946486",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000946486&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11055,7 +11052,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0002023311",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002023311&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11078,7 +11075,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001674416",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001674416&owner=exclude&hidefilings=0",
       "knownCompanyIds": [
         "crispr-therapeutics"
@@ -11103,7 +11100,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001909747",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001909747&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11126,7 +11123,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001137883",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001137883&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11149,7 +11146,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001650648",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001650648&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11172,7 +11169,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001879270",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001879270&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11195,7 +11192,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001813814",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001813814&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11218,7 +11215,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001737953",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001737953&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11241,7 +11238,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001888014",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001888014&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11264,7 +11261,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001157075",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001157075&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11287,7 +11284,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001551152",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11310,7 +11307,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000874716",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000874716&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11333,7 +11330,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001829247",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001829247&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11356,7 +11353,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001787306",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001787306&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11379,7 +11376,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001776073",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001776073&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11402,7 +11399,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001426800",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001426800&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11425,7 +11422,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001896212",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001896212&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11448,7 +11445,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001697862",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001697862&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11471,7 +11468,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001706431",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001706431&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11494,7 +11491,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000925741",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000925741&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11517,7 +11514,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0002020932",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002020932&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11540,7 +11537,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001850119",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001850119&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11563,7 +11560,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001830214",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001830214&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11586,7 +11583,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0002093101",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002093101&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11609,7 +11606,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001882782",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001882782&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11632,7 +11629,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001326190",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001326190&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11655,7 +11652,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0002007919",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002007919&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11678,7 +11675,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001638097",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001638097&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11701,7 +11698,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001562733",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001562733&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11724,7 +11721,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001702123",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001702123&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11747,7 +11744,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001868279",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001868279&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11770,7 +11767,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001832038",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001832038&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11793,7 +11790,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001819790",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001819790&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11816,7 +11813,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001994702",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001994702&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11839,7 +11836,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001488039",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001488039&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11862,7 +11859,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001630176",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001630176&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11885,7 +11882,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000318154",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000318154&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11908,7 +11905,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001398733",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001398733&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11931,7 +11928,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000744218",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000744218&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11954,7 +11951,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000768408",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000768408&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -11977,7 +11974,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001213037",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001213037&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12000,7 +11997,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001756390",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001756390&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12023,7 +12020,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001671858",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001671858&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12046,7 +12043,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001870144",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001870144&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12069,7 +12066,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001187953",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001187953&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12092,7 +12089,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001754195",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001754195&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12115,7 +12112,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001683541",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683541&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12138,7 +12135,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001386570",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001386570&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12161,7 +12158,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001359931",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001359931&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12184,7 +12181,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001907108",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001907108&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12207,7 +12204,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001792030",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001792030&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12230,7 +12227,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001536196",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001536196&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12253,7 +12250,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000926617",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000926617&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12276,7 +12273,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001098972",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001098972&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12299,7 +12296,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000727510",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000727510&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12322,7 +12319,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001600620",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001600620&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12345,7 +12342,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001745648",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001745648&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12368,7 +12365,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0002000684",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002000684&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12391,7 +12388,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001841387",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001841387&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12414,7 +12411,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001372299",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001372299&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12437,7 +12434,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001844417",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001844417&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12460,7 +12457,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001839970",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001839970&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12483,7 +12480,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001862150",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001862150&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12506,7 +12503,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000879407",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879407&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12529,7 +12526,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001840439",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001840439&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12552,7 +12549,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001787297",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001787297&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12575,7 +12572,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0002114044",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002114044&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12598,7 +12595,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001829667",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001829667&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12621,7 +12618,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001412486",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001412486&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12644,7 +12641,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001832928",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001832928&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12667,7 +12664,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001651308",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001651308&owner=exclude&hidefilings=0",
       "knownCompanyIds": [
         "beone-medicines"
@@ -12692,7 +12689,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001770121",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001770121&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12715,7 +12712,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001754068",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001754068&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12738,7 +12735,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001501697",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001501697&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12761,7 +12758,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001158780",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001158780&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12784,7 +12781,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001640266",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001640266&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12807,7 +12804,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001598599",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001598599&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12830,7 +12827,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001768446",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001768446&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12853,7 +12850,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001160420",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001160420&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12876,7 +12873,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001840229",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001840229&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12899,7 +12896,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001847345",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001847345&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12922,7 +12919,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001703057",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001703057&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12945,7 +12942,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001385818",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001385818&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12968,7 +12965,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001651625",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001651625&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -12991,7 +12988,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001642380",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001642380&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13014,7 +13011,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0002035832",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002035832&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13037,7 +13034,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001464165",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001464165&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13060,7 +13057,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001761612",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001761612&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13083,7 +13080,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001370053",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001370053&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13106,7 +13103,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001655759",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001655759&owner=exclude&hidefilings=0",
       "knownCompanyIds": [
         "arvinas"
@@ -13131,7 +13128,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001035354",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001035354&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13154,7 +13151,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001445815",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001445815&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13177,7 +13174,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001374328",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001374328&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13200,7 +13197,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001644963",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001644963&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13223,7 +13220,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001809196",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001809196&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13246,7 +13243,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001892500",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001892500&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13269,7 +13266,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0002094256",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002094256&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13292,7 +13289,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001339970",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001339970&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13315,7 +13312,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000318306",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000318306&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13338,7 +13335,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000875045",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000875045&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13361,7 +13358,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001621221",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001621221&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13384,7 +13381,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001847367",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001847367&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13407,7 +13404,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000715446",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000715446&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13430,7 +13427,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001854270",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001854270&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13453,7 +13450,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000897448",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000897448&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13476,7 +13473,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001891512",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001891512&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13499,7 +13496,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001815974",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001815974&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13522,7 +13519,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001817229",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001817229&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13545,7 +13542,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001610820",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001610820&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13568,7 +13565,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000836564",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000836564&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13591,7 +13588,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001498403",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001498403&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13614,7 +13611,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001497253",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001497253&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13637,7 +13634,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001776985",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001776985&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13660,7 +13657,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001000694",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001000694&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13683,7 +13680,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001119643",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001119643&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13706,7 +13703,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001858848",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001858848&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13729,7 +13726,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001816815",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001816815&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13752,7 +13749,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001893219",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001893219&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13775,7 +13772,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001723464",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001723464&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13798,7 +13795,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001763329",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001763329&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13821,7 +13818,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001815442",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001815442&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13844,7 +13841,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001736243",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001736243&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13867,7 +13864,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001759138",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001759138&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13890,7 +13887,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001810182",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001810182&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13913,7 +13910,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001512762",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001512762&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13936,7 +13933,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001521036",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001521036&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13959,7 +13956,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001627281",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001627281&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -13982,7 +13979,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001621227",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001621227&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14005,7 +14002,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000885590",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000885590&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14028,7 +14025,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001108205",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001108205&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14051,7 +14048,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001568628",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001568628&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14074,7 +14071,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001310630",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001310630&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14097,7 +14094,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001836564",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001836564&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14120,7 +14117,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001752828",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001752828&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14143,7 +14140,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000771856",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000771856&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14166,7 +14163,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001409197",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001409197&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14189,7 +14186,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001514946",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001514946&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14212,7 +14209,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001709941",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001709941&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14235,7 +14232,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001855485",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001855485&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14258,7 +14255,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001434316",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001434316&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14281,7 +14278,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001357874",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001357874&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14304,7 +14301,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001826892",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001826892&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14327,7 +14324,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001534248",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001534248&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14350,7 +14347,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001724521",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001724521&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14373,7 +14370,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001211583",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001211583&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14396,7 +14393,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001586554",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001586554&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14419,7 +14416,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001842295",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001842295&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14442,7 +14439,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001655923",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001655923&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14465,7 +14462,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001604464",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001604464&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14488,7 +14485,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001971387",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001971387&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14511,7 +14508,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000725363",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000725363&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14534,7 +14531,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001517022",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001517022&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14557,7 +14554,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001603345",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001603345&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14580,7 +14577,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001788028",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001788028&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14603,7 +14600,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001837254",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001837254&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14626,7 +14623,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000882095",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000882095&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14649,7 +14646,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001649094",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001649094&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14672,7 +14669,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001506251",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001506251&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14695,7 +14692,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001355736",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001355736&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14718,7 +14715,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001056358",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001056358&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14741,7 +14738,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001768224",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001768224&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14764,7 +14761,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001885680",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001885680&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14787,7 +14784,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001946563",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001946563&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14810,7 +14807,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001838716",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001838716&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14833,7 +14830,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001133818",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001133818&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14856,7 +14853,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001528115",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001528115&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14879,7 +14876,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001159036",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001159036&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14902,7 +14899,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001671584",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001671584&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14925,7 +14922,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001468748",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001468748&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14948,7 +14945,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001711279",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001711279&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14971,7 +14968,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001611747",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001611747&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -14994,7 +14991,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001764013",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001764013&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -15017,7 +15014,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001671927",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001671927&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -15040,7 +15037,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001650664",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001650664&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -15063,7 +15060,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0002023658",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002023658&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -15086,7 +15083,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001658551",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001658551&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -15109,7 +15106,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001962738",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001962738&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -15132,7 +15129,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001849296",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001849296&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -15155,7 +15152,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000842023",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000842023&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -15178,7 +15175,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001944885",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001944885&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -15201,7 +15198,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001119774",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001119774&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -15224,7 +15221,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001652130",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001652130&owner=exclude&hidefilings=0",
       "knownCompanyIds": [
         "intellia"
@@ -15249,7 +15246,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001593984",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001593984&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -15272,7 +15269,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001969766",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001969766&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -15295,7 +15292,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000711377",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000711377&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -15318,7 +15315,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001581280",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001581280&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -15341,7 +15338,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001850902",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001850902&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -15364,7 +15361,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001321834",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001321834&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -15387,7 +15384,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0000896264",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000896264&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
@@ -15410,7 +15407,7 @@
       "sourceName": "SEC EDGAR",
       "sourceRole": "biotech_sic_filer",
       "sourceRecordId": "0001991792",
-      "sourceDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
       "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001991792&owner=exclude&hidefilings=0",
       "knownCompanyIds": [],
       "identifiers": {
