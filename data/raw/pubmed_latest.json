@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-24T01:59:24.333054+00:00",
+  "capturedAt": "2026-08-24T07:31:06.876025+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -26,18 +26,18 @@
     "42509463",
     "42498177",
     "42497867",
+    "42633869",
     "42631415",
     "42625221",
     "42624861",
     "42624264",
     "42619129",
-    "42619090",
+    "42633865",
     "42633289",
     "42633083",
     "42632117",
     "42631856",
-    "42631721",
-    "42631093"
+    "42631721"
   ],
   "records": [
     {
@@ -264,6 +264,24 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42497867/"
     },
     {
+      "pmid": "42633869",
+      "title": "Peptide barcoding: an alternative to the phenotype-genotype problem.",
+      "abstract": "Barcoding methods are powerful tools for screening large libraries and have successfully been employed using DNA-centric approaches for over two decades. Yet despite the central role of proteins in most biological processes, protein-based barcoding methods have only recently emerged as a viable alternative. In this review we summarize recent advances in peptide barcoding and highlight its diverse applications, including screening of binding affinity, lipid nanoparticles, mRNA untranslated regions, and designed protein libraries. We discuss key challenges in barcode design, library construction, and mass spectrometry methods for accurate, scalable, and high-throughput screening. We propose that peptide barcoding represents a conceptual shift in genotype-phenotype mapping and will play an increasingly important role in AI-driven protein engineering, delivery technologies, and synthetic biology.",
+      "journal": "New biotechnology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Biochemistry and Molecular Biology, University of British Columbia, Canada; Michael Smith Laboratories, University of British Columbia, Canada.",
+        "Department of Biochemistry and Molecular Biology, University of British Columbia, Canada; Michael Smith Laboratories, University of British Columbia, Canada; Edwin S.H. Leong Centre for Healthy Aging, University of British Columbia, Canada. Electronic address: mayor@mail.ubc.ca.",
+        "Department of Wood Science, Faculty of Forestry & Environmental Stewardship, University of British Columbia, Canada. Electronic address: jaya.joshi@ubc.ca."
+      ],
+      "doi": "10.1016/j.nbt.2026.08.007",
+      "date": "2026-08-23",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42633869/"
+    },
+    {
       "pmid": "42631415",
       "title": "MitoGPS: A Mitochondrial DNA G-Quadruplex-Targeting Strategy for Tumor-Preferential Type I Photodynamic Therapy.",
       "abstract": "Photodynamic therapy (PDT) is a clinically promising, minimally invasive cancer treatment offering precise spatiotemporal control. However, achieving preferential tumor accumulation remains a critical challenge, which limits therapeutic efficacy and induces off-target toxicity. Here, we introduce the mitoGPS (mitochondrial G-quadruplex-targeting photosensitizer) strategy, a rational design framework for developing photosensitizers (PSs) with prolonged intratumoral retention through targeting mitochondrial DNA G-quadruplexes (mtDNA G4s). This approach leverages the unique structural features and biological attributes of mtDNA G4s, which are increasingly implicated in cancer cell metabolism and survival, to achieve preferential photosensitizer accumulation and action within tumor mitochondria. By integrating molecular generation, G4-specific docking simulations, and evaluation of photosensitizing properties, we established a modular workflow for the discovery of mitoGPS. Using this pipeline, we designed and identified A1, a lead mitoGPS compound. A1 exhibits preferential mitochondrial localization in tumor cells, with its retention influenced by interactions with mtDNA G4s, and generates predominantly Type I reactive oxygen species (ROS) upon light activation. The resulting mitochondrial oxidative stress disrupts mitochondrial integrity and engages apoptosis-associated and ferroptosis-associated responses. Our work supports mtDNA G4-associated recognition as a strategy for improving the subcellular precision of PDT and provides a generalizable framework for developing mitochondria-directed phototherapies.",
@@ -371,29 +389,26 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42619129/"
     },
     {
-      "pmid": "42619090",
-      "title": "De Novo-Designed Bifunctional Proteins for Targeted Protein Degradation.",
-      "abstract": "In targeted protein degradation (TPD), specific subcellular proteins are removed by routing them to the ubiquitin-proteasome, autophagy, or lysosome machinery. For instance, proteolysis-targeting chimeras (PROTACs) are synthetic heterobifunctional small molecules that simultaneously bind the target and an E3 ubiquitin ligase to drive ubiquitination and degradation by the proteasome. Despite considerable success, designing such molecules is challenging, and the number of currently addressable ubiquitin E3 ligases is limited. Here, we design a heterobifunctional de novo protein to trigger the degradation of a common cancer target, resulting in a desired phenotypic output. First, we developed a highly stable and adaptable helix-turn-helix scaffold for presenting multiple binding sites. Next, we use computational protein design to incorporate and embellish hot-spot-binding sites to target the antiapoptotic mediators BCL-xL and MCL-1. We show a 75% success rate for creating submicromolar binders against these targets. Crystal structures of the complexes confirmed the designed binding poses. Then, we designed short linear motifs (SLiMs) into the loop of the scaffold to recruit KLHL20 and the ubiquitin ligase machinery. These designs have low micromolar affinity for KLHL20 comparable to that of the natural SLiMs. Moreover, the bifunctionalized proteins degrade BCL-xL in cells, leading to apoptosis.",
-      "journal": "Journal of the American Chemical Society",
+      "pmid": "42633865",
+      "title": "Liquid biopsy-based detection of circulating and exfoliated cholangiocarcinoma tumor cells from blood and bile using heparan sulfate octasaccharides on integrated microfluidic systems.",
+      "abstract": "Early diagnosis of cholangiocarcinoma (CCA) remains challenging because existing diagnostic approaches often lack sufficient sensitivity for reliable detection of early-stage disease. Circulating tumor cells (CTCs) in blood and exfoliated tumor cells (ETCs) in bile represent valuable targets for liquid biopsy-based detection; however, their low abundance and the complexity of clinical sample analysis pose substantial technical challenges for reliable enrichment and identification. Herein, we present a reproducible workflow for isolating and identifying CCA tumor cells from blood for CTCs and bile for ETCs using synthetic cell-surface heparan sulfate (HS) octasaccharide-functionalized magnetic beads (MBs) on integrated microfluidic systems. The method combined sample pre-processing, magnetic bead-based enrichment, controlled low-shear mixing and immunofluorescence-based identification into a unified workflow compatible with distinct clinical sample types. Key operational parameters, including MB concentration, mixing frequency, and pressure settings, were detailed to facilitate consistent performance. Using this workflow, tumor cell capture rates of approximately 70 % in bile (for ETCs) and blood (for CTCs) were achieved, with a total processing time of 60-90 min per sample under clinically relevant low-abundance conditions. The platform enables reliable detection of as few as 1 tumor cell per mL of blood or bile. This method provides a practical and adaptable strategy for glycosaminoglycan-mediated liquid biopsy applications and may be extended to other tumor-cell enrichment workflows involving heterogeneous cell-surface interactions.",
+      "journal": "Methods (San Diego, Calif.)",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "School of Chemistry, University of Bristol, Cantock's Close, BristolBS8 1TS, U.K.",
-        "Novo Nordisk Foundation Center for Protein Design, Department of Biology and Department of Drug Design and Pharmacology, University of Copenhagen, Jagtvej 160, Copenhagen2100, Denmark.",
-        "Department of Pharmacology, University of Cambridge, CambridgeCB2 1PD, U.K.",
-        "School of Chemistry, University of Birmingham, EdgbastonB15 2TT, U.K.",
-        "College of Biomedical Sciences, Larkin University, 18301 N Miami Ave #1, Miami, Florida33169, U.S.A.",
-        "Astbury Centre for Structural Molecular Biology, University of Leeds, Woodhouse Lane, LeedsLS2 9JT, U.K.",
-        "Cancer Research UK Scotland Institute, Garscube Estate, Switchback Road, GlasgowG61 1BD, U.K.",
-        "School of Cancer Sciences, University of Glasgow, Garscube Estate, Switchback Road, GlasgowG61 1QH, U.K.",
-        "School of Chemistry, University of Leeds, Woodhouse Lane, LeedsLS2 9JT, U.K.",
-        "School of Biochemistry, University of Bristol, Medical Sciences Building, University Walk, BristolBS8 1TD, U.K.",
-        "Max Planck-Bristol Centre for Minimal Biology, University of Bristol, Cantock's Close, BristolBS8 1TS, U.K."
+        "Department of Power Mechanical Engineering, National Tsing Hua University, Hsinchu, Taiwan.",
+        "Genomics Research Center, Academia Sinica, Taipei, Taiwan.",
+        "Institute of NanoEngineering and Microsystems, National Tsing Hua University, Hsinchu, Taiwan.",
+        "Division of Gastroenterology and Hepatology, Department of Internal Medicine, National Cheng Kung University Hospital, Tainan, Taiwan; Institute of Clinical Medicine, National Cheng Kung University Hospital, Tainan, Taiwan.",
+        "Department of Oncology, Taipei Veterans General Hospital, Taipei, Taiwan; School of Medicine, College of Medicine, National Yang Ming Chiao Tung University, Taipei, Taiwan.",
+        "Division of Gastroenterology and Hepatology, Department of Internal Medicine, National Cheng Kung University Hospital, Tainan, Taiwan; Institute of Clinical Medicine, National Cheng Kung University Hospital, Tainan, Taiwan; Division of General Surgery, Department of Surgery, National Cheng Kung University Hospital, Tainan, Taiwan. Electronic address: ysshan@mail.ncku.edu.tw.",
+        "Genomics Research Center, Academia Sinica, Taipei, Taiwan; Department of Chemistry, National Tsing Hua University, Hsinchu, Taiwan. Electronic address: schung@gate.sinica.edu.tw.",
+        "Department of Power Mechanical Engineering, National Tsing Hua University, Hsinchu, Taiwan; Institute of NanoEngineering and Microsystems, National Tsing Hua University, Hsinchu, Taiwan; Institute of Biomedical Engineering, National Tsing Hua University, Hsinchu, Taiwan. Electronic address: gwobin@pme.nthu.edu.tw."
       ],
-      "doi": "10.1021/jacs.6c07593",
-      "date": "2026-08-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42619090/"
+      "doi": "10.1016/j.ymeth.2026.08.008",
+      "date": "2026-08-23",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42633865/"
     },
     {
       "pmid": "42633289",
@@ -489,26 +504,67 @@
       "doi": "10.1177/10732748261481227",
       "date": "2026-08-22",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631721/"
-    },
-    {
-      "pmid": "42631093",
-      "title": "A novel imaging-based approach for large extracellular vesicle detection and prognostic stratification in metastatic breast cancer.",
-      "abstract": "Large extracellular vesicles (LEVs) are membrane-bound extracellular particles released by tumour cells into body fluids. Circulating LEVs carry tumour-associated biomaterials and are more abundant than circulating tumour cells (CTCs), representing a valuable liquid biopsy analyte. We evaluated the RareCyte® CTC platform's ability to identify LEVs in blood smears and explored associations with clinicopathological features in a metastatic breast cancer (MBC) cohort. MBC patient samples (N = 72) from a previously published prospective comparison study were retrospectively re-analysed to develop and validate an LEV identification and enumeration workflow. Correlations with CellSearch® tumour-derived extracellular vesicle (tdEV) counts and CTC counts were assessed using Spearman's rho. Between-platform comparisons were performed using Wilcoxon's signed-rank test Associations with overall survival (OS) were assessed using Kaplan-Meier analysis and Cox proportional hazards models. Overall survival was defined as the interval between blood collection and death from any cause. Median LEV count [IQR] was 89 [53-208], with detectable LEVs in patients with low or absent CTC counts. LEV counts positively correlated with matched CTC counts (Spearman's ρ = 0.88, p < 0.001) and CellSearch tdEV counts (Spearman's ρ = 0.80, p < 0.001). Higher LEV counts were associated with significantly shorter overall survival (p = 0.04). RareCyte LEV counts were significantly higher than CellSearch tdEV counts, potentially reflecting methodological differences between enrichment workflows. In Cox analysis, higher LEV counts were associated with shorter OS (HR per 100 LEVs = 1.04, p = 0.0015), and CTCs were also significantly associated with OS. We developed an operational workflow for LEV detection and quantification using the RareCyte® CTC analysis platform. The inclusion of LEVs into CTC-based liquid biopsy analyses may provide complementary biomarker information, particularly in patients with low CTC burden.",
-      "journal": "The journal of liquid biopsy",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "CellCarta NV, Antwerp, Belgium.",
-        "Translational Cancer Research Unit, Department of Cancer Research, Oncology Centre Antwerp, ZAS Augustinus, Antwerp, Belgium.",
-        "Department of Biomolecular Medicine, Ghent University, Ghent, Belgium."
-      ],
-      "doi": "10.1016/j.jlb.2026.100485",
-      "date": "2026-07-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631093/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42633869",
+      "date": "2026-08-23",
+      "title": "Peptide barcoding: an alternative to the phenotype-genotype problem.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42633869/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Drug Screening"
+      ],
+      "tags": [
+        "biotech",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 New biotechnology，PMID 为 42633869。",
+      "report": "Barcoding methods are powerful tools for screening large libraries and have successfully been employed using DNA-centric approaches for over two decades. Yet despite the central role of proteins in most biological processes, protein-based barcoding methods hav...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42633865",
+      "date": "2026-08-23",
+      "title": "Liquid biopsy-based detection of circulating and exfoliated cholangiocarcinoma tumor cells from blood and bile using heparan sulfate octasaccharides on integrated microfluidic systems.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42633865/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Methods (San Diego, Calif.)，PMID 为 42633865。",
+      "report": "Early diagnosis of cholangiocarcinoma (CCA) remains challenging because existing diagnostic approaches often lack sufficient sensitivity for reliable detection of early-stage disease. Circulating tumor cells (CTCs) in blood and exfoliated tumor cells (ETCs) in...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42632864",
       "date": "2026-08-22",
@@ -913,37 +969,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42619090",
-      "date": "2026-08-19",
-      "title": "De Novo-Designed Bifunctional Proteins for Targeted Protein Degradation.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42619090/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of the American Chemical Society，PMID 为 42619090。",
-      "report": "In targeted protein degradation (TPD), specific subcellular proteins are removed by routing them to the ubiquitin-proteasome, autophagy, or lysosome machinery. For instance, proteolysis-targeting chimeras (PROTACs) are synthetic heterobifunctional small molecu...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42633289",
       "date": "2026-08-18",
       "title": "The Application Value of Liquid Biopsy in Cancer MRD Detection and the Preliminary Clinical Significance of the TFx Value.",
@@ -1065,36 +1090,6 @@
       "fact": "PubMed 记录显示该文献收录于 Science bulletin，PMID 为 42580899。",
       "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42631093",
-      "date": "2026-07-30",
-      "title": "A novel imaging-based approach for large extracellular vesicle detection and prognostic stratification in metastatic breast cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631093/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42631093。",
-      "report": "Large extracellular vesicles (LEVs) are membrane-bound extracellular particles released by tumour cells into body fluids. Circulating LEVs carry tumour-associated biomaterials and are more abundant than circulating tumour cells (CTCs), representing a valuable...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

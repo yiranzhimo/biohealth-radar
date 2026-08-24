@@ -4,6 +4,64 @@
   "asOfDate": "2026-08-24",
   "evidence": [
     {
+      "id": "evidence-pubmed-42633869",
+      "signalId": "pubmed-42633869",
+      "companyIds": [],
+      "publishedAt": "2026-08-23",
+      "snapshotDate": "2026-08-24",
+      "title": "Peptide barcoding: an alternative to the phenotype-genotype problem.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42633869/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Biotech",
+        "Drug Screening"
+      ],
+      "tags": [
+        "biotech",
+        "药筛"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 New biotechnology，PMID 为 42633869。",
+      "report": "Barcoding methods are powerful tools for screening large libraries and have successfully been employed using DNA-centric approaches for over two decades. Yet despite the central role of proteins in most biological processes, protein-based barcoding methods hav...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42633865",
+      "signalId": "pubmed-42633865",
+      "companyIds": [],
+      "publishedAt": "2026-08-23",
+      "snapshotDate": "2026-08-24",
+      "title": "Liquid biopsy-based detection of circulating and exfoliated cholangiocarcinoma tumor cells from blood and bile using heparan sulfate octasaccharides on integrated microfluidic systems.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42633865/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Methods (San Diego, Calif.)，PMID 为 42633865。",
+      "report": "Early diagnosis of cholangiocarcinoma (CCA) remains challenging because existing diagnostic approaches often lack sufficient sensitivity for reliable detection of early-stage disease. Circulating tumor cells (CTCs) in blood and exfoliated tumor cells (ETCs) in...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-pubmed-42632864",
       "signalId": "pubmed-42632864",
       "companyIds": [],
@@ -437,37 +495,6 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Journal of the American Chemical Society，PMID 为 42619129。",
       "report": "Current structure-based drug design generative models often struggle to faithfully recapitulate genuine ligand-protein binding interactions. Instead, under the coupling of implicit learning architectures and biased training data, they tend to learn spurious st...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42619090",
-      "signalId": "pubmed-42619090",
-      "companyIds": [],
-      "publishedAt": "2026-08-19",
-      "snapshotDate": "2026-08-24",
-      "title": "De Novo-Designed Bifunctional Proteins for Targeted Protein Degradation.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42619090/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Journal of the American Chemical Society，PMID 为 42619090。",
-      "report": "In targeted protein degradation (TPD), specific subcellular proteins are removed by routing them to the ubiquitin-proteasome, autophagy, or lysosome machinery. For instance, proteolysis-targeting chimeras (PROTACs) are synthetic heterobifunctional small molecu...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1842,36 +1869,6 @@
       "fact": "PubMed 记录显示该文献收录于 Science bulletin，PMID 为 42580899。",
       "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42631093",
-      "signalId": "pubmed-42631093",
-      "companyIds": [],
-      "publishedAt": "2026-07-30",
-      "snapshotDate": "2026-08-24",
-      "title": "A novel imaging-based approach for large extracellular vesicle detection and prognostic stratification in metastatic breast cancer.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631093/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42631093。",
-      "report": "Large extracellular vesicles (LEVs) are membrane-bound extracellular particles released by tumour cells into body fluids. Circulating LEVs carry tumour-associated biomaterials and are more abundant than circulating tumour cells (CTCs), representing a valuable...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

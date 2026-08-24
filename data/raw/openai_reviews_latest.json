@@ -1,8 +1,86 @@
 {
-  "capturedAt": "2026-08-24T01:59:35.026764+00:00",
+  "capturedAt": "2026-08-24T07:31:16.407774+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
-  "reviews": []
+  "reviews": [
+    {
+      "signalId": "pubmed-42633869",
+      "responseId": "resp_03d7e6e42387468b006a8bf345b5c487d197297c10fbd91e3a",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "这条记录清晰反映了来源信息和报告内容，没有不当的临床结论或推荐，适合发布。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Biotech",
+            "Drug Screening"
+          ],
+          "tags": [
+            "biotech",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 New biotechnology，PMID 为 42633869。",
+          "report": "Barcoding methods are powerful tools for screening large libraries and have successfully been employed using DNA-centric approaches for over two decades. Yet despite the central role of proteins in most biological processes, protein-based barcoding methods hav...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42633865",
+      "responseId": "resp_02c669a5a001e63f006a8bf34cbb5887d1a959c8e2ca3af0c2",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号中存在未支持的结论和临床推断，需要人工判断或修正。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "主分类和子分类未能准确反映文献内容和研究质量。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "文献质量、样本量和潜在利益冲突未充分评估，导致信息传递不准确。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostic Techniques",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine"
+          ],
+          "tags": [
+            "肿瘤",
+            "血液检测"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Methods (San Diego, Calif.)，PMID 为 42633865。",
+          "report": "Early diagnosis of cholangiocarcinoma (CCA) remains challenging because existing diagnostic approaches often lack sufficient sensitivity for reliable detection of early-stage disease.",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    }
+  ]
 }
