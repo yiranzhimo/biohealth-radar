@@ -1350,90 +1350,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42631829",
-      "date": "2026-08-22",
-      "title": "Inner Ear Organoids: Recent Progress and Challenges.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631829/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cell reviews and reports，PMID 为 42631829。",
-      "report": "Hearing loss is a prevalent sensory disorder primarily caused by the irreversible loss of cochlear hair cells and the limited regenerative capacity of the mammalian inner ear. The structural complexity and inaccessibility of inner ear tissues have long hindere...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_08a0f2c95e2e66f6006a8a9b8c3d5c87d1a644bb5308b5506b",
-        "reviewedAt": "2026-08-23T07:04:22.963818+00:00",
-        "inputHash": "08a54c5c7a5690fbd384842e628a4342b3aaf57093ffa075a05b90a004de84ea",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录合理，未包含临床推荐或无支持的效果结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "大类和小类符合提供的元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据等级适中，事实、报告和推论分离明确。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "AI for Biology",
-            "Drug Discovery",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "AI 制药",
-            "蛋白设计",
-            "分子生成",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Stem cell reviews and reports，PMID 为 42631829。",
-          "report": "Hearing loss is a prevalent sensory disorder primarily caused by the irreversible loss of cochlear hair cells and the limited regenerative capacity of the mammalian inner ear. The structural complexity and inaccessibility of inner ear tissues have long hindered...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42631415",
       "date": "2026-08-22",
       "title": "MitoGPS: A Mitochondrial DNA G-Quadruplex-Targeting Strategy for Tumor-Preferential Type I Photodynamic Therapy.",
@@ -1582,79 +1498,6 @@ window.BHR_DATA = {
           ],
           "fact": "PubMed 记录显示该文献收录于 Molecular biology reports，PMID 为 42631856。",
           "report": "Non-small cell lung cancer (NSCLC) remains one of the leading causes of cancer-related mortality worldwide, largely due to late-stage diagnosis. Although histopathology is the gold standard, there is a need for reliable molecular biomarkers to improve early de...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42631721",
-      "date": "2026-08-22",
-      "title": "Exploring the Clinical Transformation of circRNA as a Biomarker in Breast Cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631721/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer control : journal of the Moffitt Cancer Center，PMID 为 42631721。",
-      "report": "This narrative review systematically examines the potential of circular RNAs (circRNAs) as clinical biomarkers in breast cancer, focusing on the translational gap between basic discoveries and clinical applications. circRNAs are covalently closed non-coding RN...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_07006d7bc1f0c7af006a8a9b9d0f2087d1810a2723b88cb90e",
-        "reviewedAt": "2026-08-23T07:04:22.963818+00:00",
-        "inputHash": "9e2a2801ce92b4f8c7b4bf33d596f4ee4c4c72d81000eb9a794740de050953f9",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号整合清晰，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理且符合来源的信息。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告与推断分开清晰，证据水平合理。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Cancer control : journal of the Moffitt Cancer Center，PMID 为 42631721。",
-          "report": "This narrative review systematically examines the potential of circular RNAs (circRNAs) as clinical biomarkers in breast cancer, focusing on the translational gap between basic discoveries and clinical applications. circRNAs are covalently closed non-coding RN...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
@@ -2017,6 +1860,84 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Journal of the American Chemical Society，PMID 为 42619129。",
           "report": "Current structure-based drug design generative models often struggle to faithfully recapitulate genuine ligand-protein binding interactions. Instead, under the coupling of implicit learning architectures and biased training data, they tend to learn spurious st...",
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42634815",
+      "date": "2026-08-19",
+      "title": "Recent Advances (2020-2025) in Estrogen and ER-Positive Breast Cancer: Receptor Signaling, Tumor Microenvironment, Endocrine Therapy Resistance and Innovative Treatment Strategies-A Comprehensive Review.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42634815/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer management and research，PMID 为 42634815。",
+      "report": "Estrogen receptor-positive (ER+) breast cancer accounts for 70-80% of all invasive breast malignancies worldwide and remains the dominant subtype driving rising global breast cancer incidence, representing a major clinical burden in China with a 2.84% annual a...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0bd532aa6c3a924e006a8c4434abb487d2af557a259393ffd1",
+        "reviewedAt": "2026-08-24T13:16:35.041724+00:00",
+        "inputHash": "91cdb84717cab1ff18a9f39bd43382b6c5321c973da9e73dd8d9251249811b48",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献记录中包含对肿瘤类型和临床负担的描述，未提供支持结论的证据，需人工审核。 ",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类可能不适当，未明确支持研究的质量或影响。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平标记为中等，但缺乏详细信息支持分类。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cancer management and research，PMID 为 42634815。",
+          "report": "Estrogen receptor-positive (ER+) breast cancer accounts for 70-80% of all invasive breast malignancies worldwide and remains the dominant subtype driving rising global breast cancer incidence, representing a major clinical burden in China.",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -7088,6 +7009,88 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "pubmed-42634461",
+      "date": "2026-06-20",
+      "title": "[Standardized Construction of Lung Cancer Organoids and Their Application Progress in the Precise Treatment of Lung Cancer].",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42634461/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Zhongguo fei ai za zhi = Chinese journal of lung cancer，PMID 为 42634461。",
+      "report": "Lung cancer is the malignancy with the highest incidence and mortality rates in China. Although significant progress has been made in its treatment due to the application of various novel therapeutic approaches, challenges remain in early diagnosis, as more th...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_03529a7f677b3370006a8c443bd28c87d28a3123a2c6fd4716",
+        "reviewedAt": "2026-08-24T13:16:35.041724+00:00",
+        "inputHash": "47447154529ac2b35e4c7c20276900ad0fc2d5b4f1185a05b9a10043d4fcf1d3",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信息记录分类合理，事实、报告、推断和未知信息清晰分开，未包含不支持的临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类及证据水平合理，符合元数据支持。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断的分离明确，未涉及临床建议。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Drug Screening",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "药筛",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Zhongguo fei ai za zhi = Chinese journal of lung cancer，PMID 为 42634461。",
+          "report": "Lung cancer is the malignancy with the highest incidence and mortality rates in China. Although significant progress has been made in its treatment due to the application of various novel therapeutic approaches, challenges remain in early diagnosis, as more th...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },

@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-24T07:31:06.876025+00:00",
+  "capturedAt": "2026-08-24T13:16:26.493028+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-24"
   },
   "pmids": [
+    "42634461",
     "42632864",
     "42632580",
     "42632302",
     "42632279",
     "42632056",
-    "42631829",
     "42600555",
     "42580899",
     "42559559",
@@ -32,14 +32,32 @@
     "42624861",
     "42624264",
     "42619129",
+    "42634815",
     "42633865",
     "42633289",
     "42633083",
     "42632117",
-    "42631856",
-    "42631721"
+    "42631856"
   ],
   "records": [
+    {
+      "pmid": "42634461",
+      "title": "[Standardized Construction of Lung Cancer Organoids and Their Application Progress in the Precise Treatment of Lung Cancer].",
+      "abstract": "Lung cancer is the malignancy with the highest incidence and mortality rates in China. Although significant progress has been made in its treatment due to the application of various novel therapeutic approaches, challenges remain in early diagnosis, as more than half of patients present with distant metastases at diagnosis, indicating a substantial gap compared to ideal precision therapy. Therefore, there is an urgent need to develop a novel personalized diagnostic and therapeutic model. Traditional cancer cell line models lack spatial structure and fail to accurately replicate the growth dynamics of native tissues; patient-derived xenograft models are costly and exhibit low transplantation success rates. In contrast, lung cancer organoids (LCOs) demonstrate superior genetic stability and rapid culture efficiency compared to other models, faithfully simulating the natural growth patterns of primary tumors and reducing animal dependency, making them particularly suitable for large-scale drug screening. However, despite rapid advancements in organoid technology, consensus has yet to be reached regarding standardized LCOs construction methods. This article systematically outlines the standardized development of LCOs models, their applications in precision lung cancer diagnosis and treatment, and recent progress, aiming to guide clinical implementation and improve patients' quality of life and survival outcomes. .",
+      "journal": "Zhongguo fei ai za zhi = Chinese journal of lung cancer",
+      "publicationTypes": [
+        "Journal Article",
+        "Review",
+        "English Abstract"
+      ],
+      "affiliations": [
+        "Department of Immuno-Oncology, The Fourth Hospital of Hebei Medical University, Shijiazhuang 050011, China.",
+        "Department of Oncology, Hebei Medical University, Shijiazhuang 050017, China."
+      ],
+      "doi": "10.3779/j.issn.1009-3419.2026.102.20",
+      "date": "2026-06-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42634461/"
+    },
     {
       "pmid": "42632864",
       "title": "Dual-oxygen pancreatic cancer organoids recapitulate basal-classical heterogeneity validated by spatial transcriptomics.",
@@ -135,24 +153,6 @@
       "doi": "10.1080/07357907.2026.2721529",
       "date": "2026-08-22",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632056/"
-    },
-    {
-      "pmid": "42631829",
-      "title": "Inner Ear Organoids: Recent Progress and Challenges.",
-      "abstract": "Hearing loss is a prevalent sensory disorder primarily caused by the irreversible loss of cochlear hair cells and the limited regenerative capacity of the mammalian inner ear. The structural complexity and inaccessibility of inner ear tissues have long hindered mechanistic studies and therapeutic development. In recent years, inner ear organoids have emerged as a robust in vitro platform that recapitulates key aspects of inner ear development, cellular composition, and functional organization. Derived from pluripotent stem cells or tissue-specific progenitors, inner ear organoids exhibit intrinsic self-organizing capabilities under the spatiotemporal regulation of developmental signaling pathways, including TGF-β, BMP, FGF, and Wnt. These systems enable the generation of hair cell-like cells, supporting cells, and neuronal components, thereby providing a powerful tool for investigating developmental processes and disease mechanisms. Notably, patient-specific induced pluripotent stem cell-derived organoids facilitate modeling of hereditary hearing disorders and enable personalized therapeutic screening. Beyond basic research, inner ear organoids hold significant promise for drug discovery, ototoxicity assessment, and gene therapy validation. However, current models still face several limitations, including incomplete cellular heterogeneity, insufficient functional maturation, lack of vascularization and immune components, and variability across culture systems. Emerging bioengineering approaches, such as organ-on-a-chip platforms, synthetic biomaterials, and 3D bioprinting, are expected to enhance the physiological relevance and translational potential of these models. In this review, we summarize recent advances in the generation of inner ear organoids, discuss their applications in basic and translational research, and highlight current challenges and future directions toward clinical translation.",
-      "journal": "Stem cell reviews and reports",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Cell Biology, College of Life Sciences, College of Life Sciences, Guizhou University / Institute of Agricultural Bioengineering, Key Laboratory of Mountain Plant Resource Conservation and Germplasm Innovation, Ministry of Education, Guizhou University, Guiyang, Guizhou province, China.",
-        "Department of Cell Biology, College of Life Sciences, College of Life Sciences, Guizhou University / Institute of Agricultural Bioengineering, Key Laboratory of Mountain Plant Resource Conservation and Germplasm Innovation, Ministry of Education, Guizhou University, Guiyang, Guizhou province, China. jding@gzu.edu.cn.",
-        "Key laboratory of Plant Resource Conservation and Germplasm Innovation in Mountainous Region (Ministry of Education), College of Life Sciences, Institute of Agro-bioengineering, Guizhou University, Guiyang, Guizhou, 550025, China. jding@gzu.edu.cn."
-      ],
-      "doi": "10.1007/s12015-026-11219-0",
-      "date": "2026-08-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631829/"
     },
     {
       "pmid": "42600555",
@@ -389,6 +389,22 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42619129/"
     },
     {
+      "pmid": "42634815",
+      "title": "Recent Advances (2020-2025) in Estrogen and ER-Positive Breast Cancer: Receptor Signaling, Tumor Microenvironment, Endocrine Therapy Resistance and Innovative Treatment Strategies-A Comprehensive Review.",
+      "abstract": "Estrogen receptor-positive (ER+) breast cancer accounts for 70-80% of all invasive breast malignancies worldwide and remains the dominant subtype driving rising global breast cancer incidence, representing a major clinical burden in China with a 2.84% annual age-standardized incidence increase. Endocrine therapy serves as the cornerstone intervention for ER+ disease, yet primary and acquired drug resistance severely undermine long-term therapeutic efficacy, creating an urgent demand for systematic integration of updated mechanistic and translational evidence. This comprehensive review systematically summarizes high-quality literature published from 2020 to 2025, focusing on estrogen biosynthesis and metabolic dysregulation, dual genomic/non-genomic estrogen receptor signaling mediated by ERα, ERβ and GPER1, epigenetic regulatory networks, and bidirectional crosstalk between estrogen signaling and the breast tumor microenvironment (TME). We further dissect multi-layered mechanisms underlying endocrine resistance, including ESR1 mutations/fusions, aberrant activation of PI3K/AKT/mTOR and MAPK pathways, dysregulated ER co-regulators, and expansion of breast cancer stem cells. Current mainstream endocrine agents (AIs, SERMs, SERDs), CDK4/6 inhibitors, and innovative combinatorial regimens targeting drug-resistant clones are also thoroughly discussed. Core consensus from the included literature indicates that ERα acts as a major oncogenic driver while ERβ exerts tumor-suppressive functions; GPER1-mediated non-genomic signaling frequently fuels metastasis and tamoxifen resistance. ESR1 genetic alterations and TME immunosuppressive remodeling constitute the two leading causes of therapeutic failure. Emerging therapeutic candidates, including GPER1 antagonists, ESRRA modulators and epigenetic regulators, have only demonstrated context-dependent anti-endocrine resistance effects in preclinical cell and animal models; substantial contradictory mechanistic data and a complete lack of large-scale human clinical trials restrict their immediate clinical application. Throughout this review, we systematically stratify all interventions by evidence strength to distinguish standard clinical regimens from purely experimental preclinical strategies and thoroughly discuss unresolved limitations and conflicting research observations for each investigational target. Translational approaches with robust clinical validation include liquid biopsy for real-time ESR1 mutation surveillance and standardized lifestyle preventive interventions for high-risk groups, while single cell/spatial multi-omics and gut microbiome modulation remain exploratory analytical or preventive tools with unresolved technical and population variability barriers.",
+      "journal": "Cancer management and research",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Thyroid Breast Surgery, Affiliated Hospital of Inner Mongolia Medical University, Hohhot, 010050, People's Republic of China."
+      ],
+      "doi": "10.2147/CMAR.S622575",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42634815/"
+    },
+    {
       "pmid": "42633865",
       "title": "Liquid biopsy-based detection of circulating and exfoliated cholangiocarcinoma tumor cells from blood and bile using heparan sulfate octasaccharides on integrated microfluidic systems.",
       "abstract": "Early diagnosis of cholangiocarcinoma (CCA) remains challenging because existing diagnostic approaches often lack sufficient sensitivity for reliable detection of early-stage disease. Circulating tumor cells (CTCs) in blood and exfoliated tumor cells (ETCs) in bile represent valuable targets for liquid biopsy-based detection; however, their low abundance and the complexity of clinical sample analysis pose substantial technical challenges for reliable enrichment and identification. Herein, we present a reproducible workflow for isolating and identifying CCA tumor cells from blood for CTCs and bile for ETCs using synthetic cell-surface heparan sulfate (HS) octasaccharide-functionalized magnetic beads (MBs) on integrated microfluidic systems. The method combined sample pre-processing, magnetic bead-based enrichment, controlled low-shear mixing and immunofluorescence-based identification into a unified workflow compatible with distinct clinical sample types. Key operational parameters, including MB concentration, mixing frequency, and pressure settings, were detailed to facilitate consistent performance. Using this workflow, tumor cell capture rates of approximately 70 % in bile (for ETCs) and blood (for CTCs) were achieved, with a total processing time of 60-90 min per sample under clinically relevant low-abundance conditions. The platform enables reliable detection of as few as 1 tumor cell per mL of blood or bile. This method provides a practical and adaptable strategy for glycosaminoglycan-mediated liquid biopsy applications and may be extended to other tumor-cell enrichment workflows involving heterogeneous cell-surface interactions.",
@@ -488,22 +504,6 @@
       "doi": "10.1007/s11033-026-12616-x",
       "date": "2026-08-22",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631856/"
-    },
-    {
-      "pmid": "42631721",
-      "title": "Exploring the Clinical Transformation of circRNA as a Biomarker in Breast Cancer.",
-      "abstract": "This narrative review systematically examines the potential of circular RNAs (circRNAs) as clinical biomarkers in breast cancer, focusing on the translational gap between basic discoveries and clinical applications. circRNAs are covalently closed non-coding RNA molecules characterized by high stability and tissue-specific expression, making them promising candidates for liquid biopsy. In breast cancer, a highly heterogeneous disease, circRNA expression profiles exhibit subtype-specific patterns and are associated with tumorigenesis, progression, and therapeutic resistance. Mechanistically, circRNAs function as microRNA sponges, interact with RNA-binding proteins, and can even encode functional polypeptides, thereby influencing cancer stem cell properties, immune escape, and organ-specific metastasis. Tumor-derived extracellular vesicles (EVs) carry circRNA signatures that offer a novel source for non-invasive biomarker detection. However, clinical translation is hindered by challenges in detection standardization, functional validation, and a lack of prospective, large-cohort studies. This review critically evaluates the biological functions and clinical relevance of circRNAs, discusses the role of EV-derived circRNAs in metastasis monitoring, and outlines a roadmap to overcome current translational bottlenecks, ultimately assessing their potential as diagnostic, prognostic, and predictive tools in breast cancer management.",
-      "journal": "Cancer control : journal of the Moffitt Cancer Center",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Thyroid Breast Surgery, Affiliated Hospital of Inner Mongolia Medical University, Hohhot, Inner Mongolia, China."
-      ],
-      "doi": "10.1177/10732748261481227",
-      "date": "2026-08-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631721/"
     }
   ],
   "signals": [
@@ -727,41 +727,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42631829",
-      "date": "2026-08-22",
-      "title": "Inner Ear Organoids: Recent Progress and Challenges.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631829/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cell reviews and reports，PMID 为 42631829。",
-      "report": "Hearing loss is a prevalent sensory disorder primarily caused by the irreversible loss of cochlear hair cells and the limited regenerative capacity of the mammalian inner ear. The structural complexity and inaccessibility of inner ear tissues have long hindere...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42631415",
       "date": "2026-08-22",
       "title": "MitoGPS: A Mitochondrial DNA G-Quadruplex-Targeting Strategy for Tumor-Preferential Type I Photodynamic Therapy.",
@@ -821,36 +786,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Molecular biology reports，PMID 为 42631856。",
       "report": "Non-small cell lung cancer (NSCLC) remains one of the leading causes of cancer-related mortality worldwide, largely due to late-stage diagnosis. Although histopathology is the gold standard, there is a need for reliable molecular biomarkers to improve early de...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42631721",
-      "date": "2026-08-22",
-      "title": "Exploring the Clinical Transformation of circRNA as a Biomarker in Breast Cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42631721/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer control : journal of the Moffitt Cancer Center，PMID 为 42631721。",
-      "report": "This narrative review systematically examines the potential of circular RNAs (circRNAs) as clinical biomarkers in breast cancer, focusing on the translational gap between basic discoveries and clinical applications. circRNAs are covalently closed non-coding RN...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -966,6 +901,42 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of the American Chemical Society，PMID 为 42619129。",
       "report": "Current structure-based drug design generative models often struggle to faithfully recapitulate genuine ligand-protein binding interactions. Instead, under the coupling of implicit learning architectures and biased training data, they tend to learn spurious st...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42634815",
+      "date": "2026-08-19",
+      "title": "Recent Advances (2020-2025) in Estrogen and ER-Positive Breast Cancer: Receptor Signaling, Tumor Microenvironment, Endocrine Therapy Resistance and Innovative Treatment Strategies-A Comprehensive Review.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42634815/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer management and research，PMID 为 42634815。",
+      "report": "Estrogen receptor-positive (ER+) breast cancer accounts for 70-80% of all invasive breast malignancies worldwide and remains the dominant subtype driving rising global breast cancer incidence, representing a major clinical burden in China with a 2.84% annual a...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1242,6 +1213,40 @@
       "fact": "PubMed 记录显示该文献收录于 Cureus，PMID 为 42633083。",
       "report": "Introduction Advancements in DNA sequencing have revolutionized our understanding of cancer biology, enabling comprehensive analysis of genetic alterations driving tumorigenesis. Next-generation sequencing (NGS) is increasingly integrated into oncology practic...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42634461",
+      "date": "2026-06-20",
+      "title": "[Standardized Construction of Lung Cancer Organoids and Their Application Progress in the Precise Treatment of Lung Cancer].",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42634461/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Zhongguo fei ai za zhi = Chinese journal of lung cancer，PMID 为 42634461。",
+      "report": "Lung cancer is the malignancy with the highest incidence and mortality rates in China. Although significant progress has been made in its treatment due to the application of various novel therapeutic approaches, challenges remain in early diagnosis, as more th...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
