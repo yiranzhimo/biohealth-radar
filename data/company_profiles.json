@@ -1,12 +1,12 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_profiles",
-  "asOfDate": "2026-08-23",
+  "asOfDate": "2026-08-24",
   "profiles": [
     {
       "companyId": "10x-genomics",
       "name": "10x Genomics",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -250,7 +250,7 @@
     {
       "companyId": "candidate-3sbio",
       "name": "3Sbio",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -391,7 +391,7 @@
     {
       "companyId": "candidate-4d-molecular-therapeutics",
       "name": "4D Molecular Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -518,7 +518,7 @@
     {
       "companyId": "candidate-60-degrees-pharmaceuticals",
       "name": "60 Degrees Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -645,7 +645,7 @@
     {
       "companyId": "candidate-aardvark-therapeutics",
       "name": "Aardvark Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -772,7 +772,7 @@
     {
       "companyId": "candidate-ab-and-b-bio-tech",
       "name": "Ab&B Bio-Tech",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -913,7 +913,7 @@
     {
       "companyId": "candidate-abbisko",
       "name": "Abbisko",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -1054,7 +1054,7 @@
     {
       "companyId": "candidate-abbott-laboratories",
       "name": "Abbott Laboratories",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -1181,7 +1181,7 @@
     {
       "companyId": "candidate-abbvie",
       "name": "AbbVie Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -1308,7 +1308,7 @@
     {
       "companyId": "candidate-abcellera-biologics",
       "name": "AbCellera Biologics Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -1435,7 +1435,7 @@
     {
       "companyId": "candidate-abeona-therapeutics",
       "name": "Abeona Therapeutics Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -1562,7 +1562,7 @@
     {
       "companyId": "candidate-abivax-s-a",
       "name": "Abivax S.A.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -1689,7 +1689,7 @@
     {
       "companyId": "candidate-abpro-holdings",
       "name": "Abpro Holdings, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -1816,7 +1816,7 @@
     {
       "companyId": "candidate-abvc-biopharma",
       "name": "Abvc Biopharma, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -1943,7 +1943,7 @@
     {
       "companyId": "candidate-ac-immune",
       "name": "AC Immune SA",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -2070,7 +2070,7 @@
     {
       "companyId": "candidate-acadia-pharmaceuticals",
       "name": "Acadia Pharmaceuticals Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -2197,7 +2197,7 @@
     {
       "companyId": "candidate-accustem-sciences",
       "name": "Accustem Sciences Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -2324,7 +2324,7 @@
     {
       "companyId": "candidate-achieve-life-sciences",
       "name": "Achieve Life Sciences, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -2451,7 +2451,7 @@
     {
       "companyId": "candidate-aclaris-therapeutics",
       "name": "Aclaris Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -2578,7 +2578,7 @@
     {
       "companyId": "candidate-acotec",
       "name": "Acotec",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -2719,7 +2719,7 @@
     {
       "companyId": "candidate-acrivon-therapeutics",
       "name": "Acrivon Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -2846,7 +2846,7 @@
     {
       "companyId": "candidate-actinium-pharmaceuticals",
       "name": "Actinium Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -2973,7 +2973,7 @@
     {
       "companyId": "candidate-actuate-therapeutics",
       "name": "Actuate Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -3100,7 +3100,7 @@
     {
       "companyId": "candidate-acumen-pharmaceuticals",
       "name": "Acumen Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -3227,7 +3227,7 @@
     {
       "companyId": "candidate-acurx-pharmaceuticals",
       "name": "Acurx Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -3354,7 +3354,7 @@
     {
       "companyId": "candidate-adagene",
       "name": "Adagene Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -3481,7 +3481,7 @@
     {
       "companyId": "candidate-adaptimmune-therapeutics",
       "name": "Adaptimmune Therapeutics PLC",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -3608,7 +3608,7 @@
     {
       "companyId": "candidate-adaptin-bio",
       "name": "Adaptin Bio, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -3735,7 +3735,7 @@
     {
       "companyId": "candidate-adaptive-biotechnologies",
       "name": "Adaptive Biotechnologies Corp",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -3862,7 +3862,7 @@
     {
       "companyId": "candidate-adastra-holdings",
       "name": "Adastra Holdings Ltd.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -3989,7 +3989,7 @@
     {
       "companyId": "candidate-adc-therapeutics",
       "name": "ADC Therapeutics SA",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -4116,7 +4116,7 @@
     {
       "companyId": "candidate-addex-therapeutics",
       "name": "Addex Therapeutics Ltd.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -4243,7 +4243,7 @@
     {
       "companyId": "candidate-adia-nutrition",
       "name": "Adia Nutrition, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -4370,7 +4370,7 @@
     {
       "companyId": "candidate-adial-pharmaceuticals",
       "name": "Adial Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -4497,7 +4497,7 @@
     {
       "companyId": "candidate-adicet-bio",
       "name": "Adicet Bio, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -4624,7 +4624,7 @@
     {
       "companyId": "candidate-aditxt",
       "name": "Aditxt, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -4751,7 +4751,7 @@
     {
       "companyId": "candidate-adlai-nortye",
       "name": "Adlai Nortye Ltd.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -4878,7 +4878,7 @@
     {
       "companyId": "candidate-adma-biologics",
       "name": "Adma Biologics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -5005,7 +5005,7 @@
     {
       "companyId": "candidate-aeon-biopharma",
       "name": "AEON Biopharma, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -5132,7 +5132,7 @@
     {
       "companyId": "candidate-agentix",
       "name": "Agentix Corp.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -5259,7 +5259,7 @@
     {
       "companyId": "candidate-agenus",
       "name": "Agenus Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -5386,7 +5386,7 @@
     {
       "companyId": "candidate-agios-pharmaceuticals",
       "name": "Agios Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -5513,7 +5513,7 @@
     {
       "companyId": "candidate-agomab-therapeutics",
       "name": "Agomab Therapeutics NV",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -5640,7 +5640,7 @@
     {
       "companyId": "candidate-aibotics",
       "name": "Aibotics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -5767,7 +5767,7 @@
     {
       "companyId": "candidate-aim-immunotech",
       "name": "AIM ImmunoTech Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -5894,7 +5894,7 @@
     {
       "companyId": "candidate-airdoc",
       "name": "Airdoc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -6035,7 +6035,7 @@
     {
       "companyId": "candidate-akanda",
       "name": "Akanda Corp.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -6162,7 +6162,7 @@
     {
       "companyId": "candidate-akari-therapeutics",
       "name": "Akari Therapeutics Plc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -6289,7 +6289,7 @@
     {
       "companyId": "candidate-akebia-therapeutics",
       "name": "Akebia Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -6416,7 +6416,7 @@
     {
       "companyId": "akeso",
       "name": "Akeso",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -6554,7 +6554,7 @@
     {
       "companyId": "candidate-aktis-oncology",
       "name": "Aktis Oncology, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -6681,7 +6681,7 @@
     {
       "companyId": "candidate-alaunos-therapeutics",
       "name": "Alaunos Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -6808,7 +6808,7 @@
     {
       "companyId": "candidate-aldatu-biosciences",
       "name": "Aldatu Biosciences, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -6903,7 +6903,7 @@
     {
       "companyId": "candidate-aldeyra-therapeutics",
       "name": "Aldeyra Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -7030,7 +7030,7 @@
     {
       "companyId": "candidate-alebund",
       "name": "Alebund",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -7171,7 +7171,7 @@
     {
       "companyId": "candidate-alector",
       "name": "Alector, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -7298,7 +7298,7 @@
     {
       "companyId": "candidate-ali-health",
       "name": "Ali Health",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -7431,7 +7431,7 @@
     {
       "companyId": "candidate-aligos-therapeutics",
       "name": "Aligos Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -7558,7 +7558,7 @@
     {
       "companyId": "candidate-alkermes",
       "name": "Alkermes plc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -7685,7 +7685,7 @@
     {
       "companyId": "candidate-allarity-therapeutics",
       "name": "Allarity Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -7812,7 +7812,7 @@
     {
       "companyId": "candidate-allogene-therapeutics",
       "name": "Allogene Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -7939,7 +7939,7 @@
     {
       "companyId": "alnylam",
       "name": "Alnylam Pharmaceuticals",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -8180,7 +8180,7 @@
     {
       "companyId": "candidate-alpha-cognition",
       "name": "Alpha Cognition Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -8307,7 +8307,7 @@
     {
       "companyId": "candidate-alpha-teknova",
       "name": "Alpha Teknova, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -8434,7 +8434,7 @@
     {
       "companyId": "candidate-alphamab",
       "name": "Alphamab",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -8575,7 +8575,7 @@
     {
       "companyId": "candidate-altamira-therapeutics",
       "name": "Altamira Therapeutics Ltd.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -8702,7 +8702,7 @@
     {
       "companyId": "candidate-alterity-therapeutics",
       "name": "Alterity Therapeutics Ltd",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -8829,7 +8829,7 @@
     {
       "companyId": "candidate-altimmune",
       "name": "Altimmune, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -8956,7 +8956,7 @@
     {
       "companyId": "candidate-alto-neuroscience",
       "name": "Alto Neuroscience, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -9083,7 +9083,7 @@
     {
       "companyId": "altos-labs",
       "name": "Altos Labs",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Private",
@@ -9229,7 +9229,7 @@
     {
       "companyId": "candidate-alumis",
       "name": "Alumis Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -9356,7 +9356,7 @@
     {
       "companyId": "candidate-alvotech",
       "name": "Alvotech",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -9483,7 +9483,7 @@
     {
       "companyId": "candidate-alx-oncology-holdings",
       "name": "Alx Oncology Holdings Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -9610,7 +9610,7 @@
     {
       "companyId": "candidate-alzamend-neuro",
       "name": "Alzamend Neuro, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -9737,7 +9737,7 @@
     {
       "companyId": "candidate-amarin-corp-plc-uk",
       "name": "Amarin Corp PLC\\Uk",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -9864,7 +9864,7 @@
     {
       "companyId": "candidate-america-great-health",
       "name": "America Great Health",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -9991,7 +9991,7 @@
     {
       "companyId": "candidate-amgen",
       "name": "Amgen Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -10118,7 +10118,7 @@
     {
       "companyId": "candidate-amneal-pharmaceuticals",
       "name": "Amneal Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -10245,7 +10245,7 @@
     {
       "companyId": "candidate-amphastar-pharmaceuticals",
       "name": "Amphastar Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -10372,7 +10372,7 @@
     {
       "companyId": "candidate-amylyx-pharmaceuticals",
       "name": "Amylyx Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -10499,7 +10499,7 @@
     {
       "companyId": "candidate-an2-therapeutics",
       "name": "AN2 Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -10626,7 +10626,7 @@
     {
       "companyId": "candidate-anaptysbio",
       "name": "Anaptysbio, Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -10753,7 +10753,7 @@
     {
       "companyId": "candidate-anavex-life-sciences",
       "name": "Anavex Life Sciences Corp.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -10880,7 +10880,7 @@
     {
       "companyId": "candidate-anbio-biotechnology",
       "name": "Anbio Biotechnology",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -11007,7 +11007,7 @@
     {
       "companyId": "candidate-anebulo-pharmaceuticals",
       "name": "Anebulo Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -11134,7 +11134,7 @@
     {
       "companyId": "candidate-ani-pharmaceuticals",
       "name": "Ani Pharmaceuticals Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -11261,7 +11261,7 @@
     {
       "companyId": "candidate-anixa-biosciences",
       "name": "Anixa Biosciences Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -11388,7 +11388,7 @@
     {
       "companyId": "candidate-annexon",
       "name": "Annexon, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -11515,7 +11515,7 @@
     {
       "companyId": "candidate-annovis-bio",
       "name": "Annovis Bio, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -11642,7 +11642,7 @@
     {
       "companyId": "candidate-antengene",
       "name": "Antengene",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -11783,7 +11783,7 @@
     {
       "companyId": "candidate-apimeds-pharmaceuticals-us",
       "name": "Apimeds Pharmaceuticals US, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -11910,7 +11910,7 @@
     {
       "companyId": "candidate-apnimed",
       "name": "Apnimed, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -12037,7 +12037,7 @@
     {
       "companyId": "candidate-apogee-therapeutics",
       "name": "Apogee Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -12164,7 +12164,7 @@
     {
       "companyId": "candidate-apollomics",
       "name": "Apollomics Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -12291,7 +12291,7 @@
     {
       "companyId": "candidate-aprea-therapeutics",
       "name": "Aprea Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -12418,7 +12418,7 @@
     {
       "companyId": "candidate-aptevo-therapeutics",
       "name": "Aptevo Therapeutics Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -12545,7 +12545,7 @@
     {
       "companyId": "candidate-aquestive-therapeutics",
       "name": "Aquestive Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -12672,7 +12672,7 @@
     {
       "companyId": "candidate-arbutus-biopharma",
       "name": "Arbutus Biopharma Corp",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -12799,7 +12799,7 @@
     {
       "companyId": "arcellx",
       "name": "Arcellx",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -12945,7 +12945,7 @@
     {
       "companyId": "candidate-arcturus-therapeutics-holdings",
       "name": "Arcturus Therapeutics Holdings Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -13072,7 +13072,7 @@
     {
       "companyId": "candidate-arcus-biosciences",
       "name": "Arcus Biosciences, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -13199,7 +13199,7 @@
     {
       "companyId": "candidate-arcutis-biotherapeutics",
       "name": "Arcutis Biotherapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -13326,7 +13326,7 @@
     {
       "companyId": "candidate-ardelyx",
       "name": "Ardelyx, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -13453,7 +13453,7 @@
     {
       "companyId": "candidate-argenx",
       "name": "Argenx Se",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -13580,7 +13580,7 @@
     {
       "companyId": "candidate-armata-pharmaceuticals",
       "name": "Armata Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -13707,7 +13707,7 @@
     {
       "companyId": "candidate-arrivent-biopharma",
       "name": "ArriVent BioPharma, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -13834,7 +13834,7 @@
     {
       "companyId": "candidate-arrowhead-pharmaceuticals",
       "name": "Arrowhead Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -13961,7 +13961,7 @@
     {
       "companyId": "candidate-ars-pharmaceuticals",
       "name": "ARS Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -14088,7 +14088,7 @@
     {
       "companyId": "candidate-artelo-biosciences",
       "name": "Artelo Biosciences, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -14215,7 +14215,7 @@
     {
       "companyId": "candidate-artificial-axon-labs",
       "name": "Artificial Axon Labs Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -14312,7 +14312,7 @@
     {
       "companyId": "candidate-artiva-biotherapeutics",
       "name": "Artiva Biotherapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -14439,7 +14439,7 @@
     {
       "companyId": "arvinas",
       "name": "Arvinas",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -14694,7 +14694,7 @@
     {
       "companyId": "candidate-ascend-wellness-holdings",
       "name": "Ascend Wellness Holdings, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -14821,7 +14821,7 @@
     {
       "companyId": "candidate-ascendis-pharma-a-s",
       "name": "Ascendis Pharma A/S",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -14948,7 +14948,7 @@
     {
       "companyId": "candidate-ascentage",
       "name": "Ascentage",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -15089,7 +15089,7 @@
     {
       "companyId": "candidate-ascentage-pharma-group-international",
       "name": "Ascentage Pharma Group International",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -15216,7 +15216,7 @@
     {
       "companyId": "candidate-ascletis",
       "name": "Ascletis",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -15357,7 +15357,7 @@
     {
       "companyId": "candidate-asep-medical-holdings",
       "name": "Asep Medical Holdings Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -15484,7 +15484,7 @@
     {
       "companyId": "candidate-aspira-women-s-health",
       "name": "Aspira Women's Health Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -15611,7 +15611,7 @@
     {
       "companyId": "candidate-aspire-biopharma-holdings",
       "name": "Aspire Biopharma Holdings, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -15738,7 +15738,7 @@
     {
       "companyId": "candidate-assembly-biosciences",
       "name": "Assembly Biosciences, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -15865,7 +15865,7 @@
     {
       "companyId": "candidate-astero-erado",
       "name": "Astero Erado Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -15959,7 +15959,7 @@
     {
       "companyId": "candidate-astrazeneca",
       "name": "Astrazeneca PLC",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -16086,7 +16086,7 @@
     {
       "companyId": "candidate-ataibeckley",
       "name": "AtaiBeckley Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -16213,7 +16213,7 @@
     {
       "companyId": "candidate-atara-biotherapeutics",
       "name": "Atara Biotherapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -16340,7 +16340,7 @@
     {
       "companyId": "candidate-atea-pharmaceuticals",
       "name": "Atea Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -16467,7 +16467,7 @@
     {
       "companyId": "candidate-atossa-therapeutics",
       "name": "Atossa Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -16594,7 +16594,7 @@
     {
       "companyId": "candidate-atrium-therapeutics",
       "name": "Atrium Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -16721,7 +16721,7 @@
     {
       "companyId": "candidate-attovia-therapeutics",
       "name": "Attovia Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -16848,7 +16848,7 @@
     {
       "companyId": "candidate-atyr-pharma",
       "name": "aTYR PHARMA INC",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -16975,7 +16975,7 @@
     {
       "companyId": "candidate-aura-biosciences",
       "name": "Aura Biosciences, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -17102,7 +17102,7 @@
     {
       "companyId": "candidate-aurinia-pharmaceuticals",
       "name": "Aurinia Pharmaceuticals Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -17229,7 +17229,7 @@
     {
       "companyId": "candidate-aurora-cannabis",
       "name": "Aurora Cannabis Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -17356,7 +17356,7 @@
     {
       "companyId": "autolus",
       "name": "Autolus Therapeutics",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -17589,7 +17589,7 @@
     {
       "companyId": "candidate-avalo-therapeutics",
       "name": "Avalo Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -17716,7 +17716,7 @@
     {
       "companyId": "candidate-avalyn-pharma",
       "name": "Avalyn Pharma Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -17843,7 +17843,7 @@
     {
       "companyId": "candidate-avenue-therapeutics",
       "name": "Avenue Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -17970,7 +17970,7 @@
     {
       "companyId": "candidate-avricore-health",
       "name": "Avricore Health Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -18097,7 +18097,7 @@
     {
       "companyId": "candidate-axim-biotechnologies",
       "name": "Axim Biotechnologies, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -18224,7 +18224,7 @@
     {
       "companyId": "candidate-axsome-therapeutics",
       "name": "Axsome Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -18351,7 +18351,7 @@
     {
       "companyId": "candidate-ayr-wellness",
       "name": "Ayr Wellness Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -18478,7 +18478,7 @@
     {
       "companyId": "candidate-aytu-biopharma",
       "name": "Aytu Biopharma, Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -18605,7 +18605,7 @@
     {
       "companyId": "candidate-azitra",
       "name": "Azitra, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -18732,7 +18732,7 @@
     {
       "companyId": "candidate-b-and-k",
       "name": "B&K Corp",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -18873,7 +18873,7 @@
     {
       "companyId": "candidate-bao-pharma",
       "name": "Bao Pharma",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -19014,7 +19014,7 @@
     {
       "companyId": "candidate-barinthus-biotherapeutics",
       "name": "Barinthus Biotherapeutics plc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -19141,7 +19141,7 @@
     {
       "companyId": "candidate-basecare",
       "name": "Basecare",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -19282,7 +19282,7 @@
     {
       "companyId": "candidate-bausch-health-companies",
       "name": "Bausch Health Companies Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -19409,7 +19409,7 @@
     {
       "companyId": "candidate-beacon-topco",
       "name": "Beacon Topco, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -19536,7 +19536,7 @@
     {
       "companyId": "beam-therapeutics",
       "name": "Beam Therapeutics",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -19797,7 +19797,7 @@
     {
       "companyId": "candidate-belite-bio",
       "name": "Belite Bio, Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -19924,7 +19924,7 @@
     {
       "companyId": "candidate-benitec-biopharma",
       "name": "Benitec Biopharma Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -20051,7 +20051,7 @@
     {
       "companyId": "beone-medicines",
       "name": "BeOne Medicines",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -20295,7 +20295,7 @@
     {
       "companyId": "candidate-beroni-group",
       "name": "Beroni Group Ltd",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -20422,7 +20422,7 @@
     {
       "companyId": "candidate-bespoke-extracts",
       "name": "Bespoke Extracts, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -20549,7 +20549,7 @@
     {
       "companyId": "candidate-betterlife-pharma",
       "name": "BetterLife Pharma Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -20676,7 +20676,7 @@
     {
       "companyId": "candidate-beyondspring",
       "name": "BeyondSpring Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -20803,7 +20803,7 @@
     {
       "companyId": "candidate-bgm-group",
       "name": "BGM Group Ltd.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -20930,7 +20930,7 @@
     {
       "companyId": "candidate-bicara-therapeutics",
       "name": "Bicara Therapeutics Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -21057,7 +21057,7 @@
     {
       "companyId": "candidate-bicycle-therapeutics",
       "name": "Bicycle Therapeutics PLC",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -21184,7 +21184,7 @@
     {
       "companyId": "candidate-bio-essence",
       "name": "Bio Essence Corp",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -21311,7 +21311,7 @@
     {
       "companyId": "candidate-bio-path-holdings",
       "name": "Bio-Path Holdings, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -21438,7 +21438,7 @@
     {
       "companyId": "candidate-bio-techne",
       "name": "BIO-TECHNE Corp",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -21565,7 +21565,7 @@
     {
       "companyId": "candidate-bioadaptives",
       "name": "Bioadaptives, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -21692,7 +21692,7 @@
     {
       "companyId": "candidate-bioage-labs",
       "name": "BioAge Labs, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -21819,7 +21819,7 @@
     {
       "companyId": "candidate-bioatla",
       "name": "BioAtla, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -21946,7 +21946,7 @@
     {
       "companyId": "candidate-biocardia",
       "name": "BioCardia, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -22073,7 +22073,7 @@
     {
       "companyId": "candidate-biocryst-pharmaceuticals",
       "name": "Biocryst Pharmaceuticals Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -22200,7 +22200,7 @@
     {
       "companyId": "candidate-biocytogen",
       "name": "Biocytogen",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -22341,7 +22341,7 @@
     {
       "companyId": "candidate-biodexa-pharmaceuticals",
       "name": "Biodexa Pharmaceuticals Plc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -22468,7 +22468,7 @@
     {
       "companyId": "candidate-biodlink",
       "name": "Biodlink",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -22609,7 +22609,7 @@
     {
       "companyId": "candidate-biofrontera",
       "name": "Biofrontera Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -22736,7 +22736,7 @@
     {
       "companyId": "candidate-biogen",
       "name": "Biogen Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -22863,7 +22863,7 @@
     {
       "companyId": "candidate-bioharvest-sciences",
       "name": "Bioharvest Sciences Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -22990,7 +22990,7 @@
     {
       "companyId": "candidate-biohaven",
       "name": "Biohaven Ltd.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -23117,7 +23117,7 @@
     {
       "companyId": "candidate-bioheart",
       "name": "Bioheart",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -23258,7 +23258,7 @@
     {
       "companyId": "candidate-biolinerx",
       "name": "BioLineRx Ltd.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -23385,7 +23385,7 @@
     {
       "companyId": "candidate-biomarin-pharmaceutical",
       "name": "Biomarin Pharmaceutical Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -23512,7 +23512,7 @@
     {
       "companyId": "candidate-biomea-fusion",
       "name": "Biomea Fusion, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -23639,7 +23639,7 @@
     {
       "companyId": "candidate-biomerica",
       "name": "Biomerica Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -23766,7 +23766,7 @@
     {
       "companyId": "candidate-biomx",
       "name": "BiomX Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -23893,7 +23893,7 @@
     {
       "companyId": "candidate-biontech",
       "name": "BioNTech SE",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -24020,7 +24020,7 @@
     {
       "companyId": "candidate-bioprovar",
       "name": "Bioprovar Corporation",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -24116,7 +24116,7 @@
     {
       "companyId": "candidate-bioquest",
       "name": "Bioquest Corp",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -24243,7 +24243,7 @@
     {
       "companyId": "candidate-biostar-pharm",
       "name": "Biostar Pharm",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -24384,7 +24384,7 @@
     {
       "companyId": "candidate-biostem-technologies",
       "name": "BioStem Technologies, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -24511,7 +24511,7 @@
     {
       "companyId": "candidate-biote",
       "name": "biote Corp.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -24638,7 +24638,7 @@
     {
       "companyId": "candidate-biotherapeutics",
       "name": "Biotherapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -24735,7 +24735,7 @@
     {
       "companyId": "candidate-biovie",
       "name": "Biovie Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -24862,7 +24862,7 @@
     {
       "companyId": "candidate-bioxcel-therapeutics",
       "name": "BioXcel Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -24989,7 +24989,7 @@
     {
       "companyId": "candidate-bioxytran",
       "name": "Bioxytran, Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -25116,7 +25116,7 @@
     {
       "companyId": "candidate-black-diamond-therapeutics",
       "name": "Black Diamond Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -25243,7 +25243,7 @@
     {
       "companyId": "candidate-black-hawk-acquisition",
       "name": "Black Hawk Acquisition Corp",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -25370,7 +25370,7 @@
     {
       "companyId": "candidate-blossomhill-therapeutics",
       "name": "BlossomHill Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -25497,7 +25497,7 @@
     {
       "companyId": "candidate-bolt-biotherapeutics",
       "name": "Bolt Biotherapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -25624,7 +25624,7 @@
     {
       "companyId": "candidate-bon-natural-life",
       "name": "Bon Natural Life Ltd",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -25751,7 +25751,7 @@
     {
       "companyId": "candidate-boundless-bio",
       "name": "Boundless Bio, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -25878,7 +25878,7 @@
     {
       "companyId": "candidate-brainaurora",
       "name": "Brainaurora",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -26019,7 +26019,7 @@
     {
       "companyId": "candidate-brainstorm-cell-therapeutics",
       "name": "Brainstorm Cell Therapeutics Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -26146,7 +26146,7 @@
     {
       "companyId": "candidate-braveheart-bio",
       "name": "Braveheart Bio, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -26273,7 +26273,7 @@
     {
       "companyId": "candidate-briacell-therapeutics",
       "name": "BriaCell Therapeutics Corp.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -26400,7 +26400,7 @@
     {
       "companyId": "candidate-bridgebio-oncology-therapeutics",
       "name": "BridgeBio Oncology Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -26527,7 +26527,7 @@
     {
       "companyId": "candidate-bridgebio-pharma",
       "name": "BridgeBio Pharma, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -26654,7 +26654,7 @@
     {
       "companyId": "candidate-bright-minds-biosciences",
       "name": "Bright Minds Biosciences Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -26781,7 +26781,7 @@
     {
       "companyId": "candidate-brightspec",
       "name": "Brightspec, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -26877,7 +26877,7 @@
     {
       "companyId": "candidate-brii",
       "name": "Brii",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -27018,7 +27018,7 @@
     {
       "companyId": "candidate-bristol-myers-squibb",
       "name": "Bristol Myers Squibb Co",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -27145,7 +27145,7 @@
     {
       "companyId": "candidate-broncus",
       "name": "Broncus",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -27286,7 +27286,7 @@
     {
       "companyId": "candidate-bullfrog-ai-holdings",
       "name": "BullFrog AI Holdings, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -27413,7 +27413,7 @@
     {
       "companyId": "candidate-burzynski-research-institute",
       "name": "Burzynski Research Institute Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -27540,7 +27540,7 @@
     {
       "companyId": "candidate-c21-investments",
       "name": "C21 Investments Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -27667,7 +27667,7 @@
     {
       "companyId": "c4-therapeutics",
       "name": "C4 Therapeutics",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -27839,7 +27839,7 @@
     {
       "companyId": "candidate-cabaletta-bio",
       "name": "Cabaletta Bio, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -27966,7 +27966,7 @@
     {
       "companyId": "candidate-cadrenal-therapeutics",
       "name": "Cadrenal Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -28093,7 +28093,7 @@
     {
       "companyId": "candidate-calcimedica",
       "name": "CalciMedica, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -28220,7 +28220,7 @@
     {
       "companyId": "calico",
       "name": "Calico Life Sciences",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Private",
@@ -28374,7 +28374,7 @@
     {
       "companyId": "candidate-calidi-biotherapeutics",
       "name": "Calidi Biotherapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -28501,7 +28501,7 @@
     {
       "companyId": "candidate-camp4-therapeutics",
       "name": "Camp4 Therapeutics Corp",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -28628,7 +28628,7 @@
     {
       "companyId": "candidate-can-fite-biopharma",
       "name": "Can-Fite BioPharma Ltd.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -28755,7 +28755,7 @@
     {
       "companyId": "candidate-canbridge",
       "name": "Canbridge",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -28896,7 +28896,7 @@
     {
       "companyId": "candidate-candel-therapeutics",
       "name": "Candel Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -29023,7 +29023,7 @@
     {
       "companyId": "candidate-cannaisseur-group",
       "name": "Cannaisseur Group Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -29150,7 +29150,7 @@
     {
       "companyId": "candidate-cannapharmarx",
       "name": "Cannapharmarx, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -29277,7 +29277,7 @@
     {
       "companyId": "candidate-canopy-growth",
       "name": "Canopy Growth Corp",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -29404,7 +29404,7 @@
     {
       "companyId": "candidate-capricor-therapeutics",
       "name": "Capricor Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -29531,7 +29531,7 @@
     {
       "companyId": "candidate-cardiff-oncology",
       "name": "Cardiff Oncology, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -29658,7 +29658,7 @@
     {
       "companyId": "candidate-cardio-diagnostics-holdings",
       "name": "Cardio Diagnostics Holdings, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -29785,7 +29785,7 @@
     {
       "companyId": "candidate-cardiol-therapeutics",
       "name": "Cardiol Therapeutics Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -29912,7 +29912,7 @@
     {
       "companyId": "candidate-caribou-biosciences",
       "name": "Caribou Biosciences, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -30039,7 +30039,7 @@
     {
       "companyId": "candidate-carsgen",
       "name": "Carsgen",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -30180,7 +30180,7 @@
     {
       "companyId": "candidate-cartesian-therapeutics",
       "name": "Cartesian Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -30307,7 +30307,7 @@
     {
       "companyId": "candidate-casi-pharmaceuticals",
       "name": "CASI Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -30434,7 +30434,7 @@
     {
       "companyId": "candidate-cbd-life-sciences",
       "name": "CBD Life Sciences Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -30561,7 +30561,7 @@
     {
       "companyId": "candidate-cdt-equity",
       "name": "CDT Equity Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -30688,7 +30688,7 @@
     {
       "companyId": "candidate-cel-sci",
       "name": "Cel Sci Corp",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -30815,7 +30815,7 @@
     {
       "companyId": "candidate-cell-source",
       "name": "Cell Source, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -30942,7 +30942,7 @@
     {
       "companyId": "candidate-celldex-therapeutics",
       "name": "Celldex Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -31069,7 +31069,7 @@
     {
       "companyId": "candidate-cellectar-biosciences",
       "name": "Cellectar Biosciences, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -31196,7 +31196,7 @@
     {
       "companyId": "candidate-cellectis-s-a",
       "name": "Cellectis S.A.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -31323,7 +31323,7 @@
     {
       "companyId": "candidate-celularity",
       "name": "Celularity Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -31450,7 +31450,7 @@
     {
       "companyId": "candidate-century-therapeutics",
       "name": "Century Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -31577,7 +31577,7 @@
     {
       "companyId": "candidate-cero-therapeutics-holdings",
       "name": "Cero Therapeutics Holdings, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -31704,7 +31704,7 @@
     {
       "companyId": "candidate-cervomed",
       "name": "CervoMed Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -31831,7 +31831,7 @@
     {
       "companyId": "candidate-cg-oncology",
       "name": "CG Oncology, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -31958,7 +31958,7 @@
     {
       "companyId": "candidate-champions-oncology",
       "name": "Champions Oncology, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -32085,7 +32085,7 @@
     {
       "companyId": "candidate-charlie-s-holdings",
       "name": "Charlie's Holdings, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -32212,7 +32212,7 @@
     {
       "companyId": "candidate-chemomab-therapeutics",
       "name": "Chemomab Therapeutics Ltd.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -32339,7 +32339,7 @@
     {
       "companyId": "candidate-china-foods-holdings",
       "name": "China Foods Holdings Ltd.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -32466,7 +32466,7 @@
     {
       "companyId": "candidate-china-pharma-holdings",
       "name": "China Pharma Holdings, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -32593,7 +32593,7 @@
     {
       "companyId": "candidate-china-sxt-pharmaceuticals",
       "name": "China SXT Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -32720,7 +32720,7 @@
     {
       "companyId": "candidate-chinares-pharma",
       "name": "Chinares Pharma",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -32861,7 +32861,7 @@
     {
       "companyId": "candidate-cingulate",
       "name": "Cingulate Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -32988,7 +32988,7 @@
     {
       "companyId": "candidate-citius-oncology",
       "name": "Citius Oncology, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -33115,7 +33115,7 @@
     {
       "companyId": "candidate-citius-pharmaceuticals",
       "name": "Citius Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -33242,7 +33242,7 @@
     {
       "companyId": "candidate-clearmind-medicine",
       "name": "Clearmind Medicine Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -33369,7 +33369,7 @@
     {
       "companyId": "candidate-clene",
       "name": "Clene Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -33496,7 +33496,7 @@
     {
       "companyId": "candidate-climb-bio",
       "name": "Climb Bio, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -33623,7 +33623,7 @@
     {
       "companyId": "candidate-cloudbreak",
       "name": "Cloudbreak",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -33764,7 +33764,7 @@
     {
       "companyId": "candidate-clover-bio",
       "name": "Clover Bio",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -33905,7 +33905,7 @@
     {
       "companyId": "candidate-cms",
       "name": "Cms",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -34046,7 +34046,7 @@
     {
       "companyId": "candidate-cnbx-pharmaceuticals",
       "name": "CNBX Pharmaceuticals Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -34173,7 +34173,7 @@
     {
       "companyId": "candidate-cns-pharmaceuticals",
       "name": "CNS Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -34300,7 +34300,7 @@
     {
       "companyId": "candidate-cocrystal-pharma",
       "name": "Cocrystal Pharma, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -34427,7 +34427,7 @@
     {
       "companyId": "candidate-cogent-biosciences",
       "name": "Cogent Biosciences, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -34554,7 +34554,7 @@
     {
       "companyId": "candidate-cognition-therapeutics",
       "name": "Cognition Therapeutics Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -34681,7 +34681,7 @@
     {
       "companyId": "candidate-coherus-oncology",
       "name": "Coherus Oncology, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -34808,7 +34808,7 @@
     {
       "companyId": "candidate-compass-therapeutics",
       "name": "Compass Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -34935,7 +34935,7 @@
     {
       "companyId": "candidate-compugen",
       "name": "Compugen Ltd",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -35062,7 +35062,7 @@
     {
       "companyId": "candidate-corvion",
       "name": "Corvion, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -35156,7 +35156,7 @@
     {
       "companyId": "candidate-creative-medical-technology-holdings",
       "name": "Creative Medical Technology Holdings, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -35283,7 +35283,7 @@
     {
       "companyId": "candidate-cresco-labs",
       "name": "Cresco Labs Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -35410,7 +35410,7 @@
     {
       "companyId": "crispr-therapeutics",
       "name": "CRISPR Therapeutics",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -35654,7 +35654,7 @@
     {
       "companyId": "candidate-cronos-group",
       "name": "Cronos Group Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -35781,7 +35781,7 @@
     {
       "companyId": "candidate-cryofocus",
       "name": "Cryofocus",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -35922,7 +35922,7 @@
     {
       "companyId": "candidate-cspc-pharma",
       "name": "Cspc Pharma",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -36063,7 +36063,7 @@
     {
       "companyId": "candidate-cstone-pharma",
       "name": "Cstone Pharma",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -36204,7 +36204,7 @@
     {
       "companyId": "candidate-cullinan-therapeutics",
       "name": "Cullinan Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -36331,7 +36331,7 @@
     {
       "companyId": "candidate-curaleaf-holdings",
       "name": "Curaleaf Holdings, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -36458,7 +36458,7 @@
     {
       "companyId": "candidate-curative-biotechnology",
       "name": "Curative Biotechnology Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -36585,7 +36585,7 @@
     {
       "companyId": "candidate-curis",
       "name": "Curis Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -36712,7 +36712,7 @@
     {
       "companyId": "candidate-cutia",
       "name": "Cutia",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -36853,7 +36853,7 @@
     {
       "companyId": "candidate-cyanotech",
       "name": "Cyanotech Corp",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -36980,7 +36980,7 @@
     {
       "companyId": "candidate-dauntless-biotherapeutics",
       "name": "Dauntless Biotherapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -37077,7 +37077,7 @@
     {
       "companyId": "candidate-dbv-technologies-s-a",
       "name": "DBV Technologies S.A.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -37204,7 +37204,7 @@
     {
       "companyId": "candidate-definium-therapeutics",
       "name": "Definium Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -37331,7 +37331,7 @@
     {
       "companyId": "candidate-delphi-stem",
       "name": "Delphi Stem, Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -37427,7 +37427,7 @@
     {
       "companyId": "candidate-denali-therapeutics",
       "name": "Denali Therapeutics Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -37554,7 +37554,7 @@
     {
       "companyId": "candidate-devonian-health-group",
       "name": "Devonian Health Group Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -37681,7 +37681,7 @@
     {
       "companyId": "candidate-diagens",
       "name": "Diagens",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -37822,7 +37822,7 @@
     {
       "companyId": "candidate-dualitybio",
       "name": "Dualitybio",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -37964,7 +37964,7 @@
     {
       "companyId": "candidate-dyadic-international",
       "name": "Dyadic International Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -38091,7 +38091,7 @@
     {
       "companyId": "candidate-edge-medical",
       "name": "Edge Medical",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -38232,7 +38232,7 @@
     {
       "companyId": "candidate-editas-medicine",
       "name": "Editas Medicine, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -38359,7 +38359,7 @@
     {
       "companyId": "candidate-eikon-therapeutics",
       "name": "Eikon Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -38486,7 +38486,7 @@
     {
       "companyId": "candidate-eldec-pharmaceuticals",
       "name": "Eldec Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -38582,7 +38582,7 @@
     {
       "companyId": "candidate-eloxx-pharmaceuticals",
       "name": "Eloxx Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -38709,7 +38709,7 @@
     {
       "companyId": "candidate-elutia",
       "name": "Elutia Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -38836,7 +38836,7 @@
     {
       "companyId": "emulate",
       "name": "Emulate",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Private",
@@ -38998,7 +38998,7 @@
     {
       "companyId": "candidate-engene-therapeutics",
       "name": "enGene Therapeutics Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -39125,7 +39125,7 @@
     {
       "companyId": "candidate-entera-bio",
       "name": "Entera Bio Ltd.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -39252,7 +39252,7 @@
     {
       "companyId": "candidate-estrella-immunopharma",
       "name": "Estrella Immunopharma, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -39379,7 +39379,7 @@
     {
       "companyId": "candidate-evaxion-a-s",
       "name": "Evaxion A/S",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -39506,7 +39506,7 @@
     {
       "companyId": "candidate-exelixis",
       "name": "Exelixis, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -39633,7 +39633,7 @@
     {
       "companyId": "candidate-exozymes",
       "name": "Exozymes Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -39760,7 +39760,7 @@
     {
       "companyId": "candidate-fate-therapeutics",
       "name": "Fate Therapeutics Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -39887,7 +39887,7 @@
     {
       "companyId": "candidate-fennec-pharmaceuticals",
       "name": "Fennec Pharmaceuticals Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -40014,7 +40014,7 @@
     {
       "companyId": "candidate-fitlife-brands",
       "name": "Fitlife Brands, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -40141,7 +40141,7 @@
     {
       "companyId": "candidate-functional-brands",
       "name": "Functional Brands Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -40268,7 +40268,7 @@
     {
       "companyId": "candidate-gamma-biotherapeutics",
       "name": "Gamma Biotherapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -40364,7 +40364,7 @@
     {
       "companyId": "candidate-genenta-science-s-p-a",
       "name": "Genenta Science S.p.A.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -40491,7 +40491,7 @@
     {
       "companyId": "candidate-genfleet",
       "name": "Genfleet",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -40632,7 +40632,7 @@
     {
       "companyId": "genmab",
       "name": "Genmab",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -40849,7 +40849,7 @@
     {
       "companyId": "candidate-genscript-bio",
       "name": "Genscript Bio",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -40990,7 +40990,7 @@
     {
       "companyId": "candidate-gilead-sciences",
       "name": "Gilead Sciences, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -41117,7 +41117,7 @@
     {
       "companyId": "candidate-ginkgo-bioworks-holdings",
       "name": "Ginkgo Bioworks Holdings, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -41244,7 +41244,7 @@
     {
       "companyId": "candidate-glass-house-brands",
       "name": "Glass House Brands Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -41371,7 +41371,7 @@
     {
       "companyId": "candidate-glucose-health",
       "name": "Glucose Health, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -41498,7 +41498,7 @@
     {
       "companyId": "candidate-grand-pharma",
       "name": "Grand Pharma",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -41639,7 +41639,7 @@
     {
       "companyId": "candidate-green-planet-bio-engineering",
       "name": "Green Planet Bio Engineering Co. Ltd.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -41766,7 +41766,7 @@
     {
       "companyId": "candidate-greenland-mines",
       "name": "Greenland Mines Ltd",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -41893,7 +41893,7 @@
     {
       "companyId": "candidate-greenstone-biosciences",
       "name": "Greenstone Biosciences, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -41991,7 +41991,7 @@
     {
       "companyId": "guardant-health",
       "name": "Guardant Health",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -42233,7 +42233,7 @@
     {
       "companyId": "candidate-halozyme-therapeutics",
       "name": "Halozyme Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -42360,7 +42360,7 @@
     {
       "companyId": "candidate-hansoh-pharma",
       "name": "Hansoh Pharma",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -42501,7 +42501,7 @@
     {
       "companyId": "candidate-hanxbio",
       "name": "Hanxbio",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -42642,7 +42642,7 @@
     {
       "companyId": "candidate-haystack-medical",
       "name": "Haystack Medical, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -42737,7 +42737,7 @@
     {
       "companyId": "candidate-hbm-holdings",
       "name": "Hbm Holdings",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -42878,7 +42878,7 @@
     {
       "companyId": "candidate-healthy-extracts",
       "name": "Healthy Extracts Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -43005,7 +43005,7 @@
     {
       "companyId": "candidate-heartcare",
       "name": "Heartcare",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -43146,7 +43146,7 @@
     {
       "companyId": "candidate-helixbind",
       "name": "Helixbind, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -43242,7 +43242,7 @@
     {
       "companyId": "candidate-hemab-therapeutics-holdings",
       "name": "Hemab Therapeutics Holdings, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -43369,7 +43369,7 @@
     {
       "companyId": "candidate-hesperos",
       "name": "Hesperos, LLC",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -43465,7 +43465,7 @@
     {
       "companyId": "candidate-hightide",
       "name": "Hightide",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -43606,7 +43606,7 @@
     {
       "companyId": "candidate-hj-science",
       "name": "Hj Science",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -43747,7 +43747,7 @@
     {
       "companyId": "candidate-hua-medicine",
       "name": "Hua Medicine",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -43888,7 +43888,7 @@
     {
       "companyId": "hub-organoids",
       "name": "HUB Organoids",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Private",
@@ -44027,7 +44027,7 @@
     {
       "companyId": "candidate-humacyte",
       "name": "Humacyte, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -44154,7 +44154,7 @@
     {
       "companyId": "candidate-hutchmed",
       "name": "Hutchmed",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -44295,7 +44295,7 @@
     {
       "companyId": "candidate-idexx-laboratories-inc-de",
       "name": "Idexx Laboratories Inc /De",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -44422,7 +44422,7 @@
     {
       "companyId": "illumina",
       "name": "Illumina",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -44703,7 +44703,7 @@
     {
       "companyId": "candidate-im-cannabis",
       "name": "IM Cannabis Corp.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -44830,7 +44830,7 @@
     {
       "companyId": "candidate-imagenebio",
       "name": "ImageneBio, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -44957,7 +44957,7 @@
     {
       "companyId": "candidate-immatics-n-v",
       "name": "Immatics N.V.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -45084,7 +45084,7 @@
     {
       "companyId": "candidate-immucell-corp-de",
       "name": "Immucell Corp /De/",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -45211,7 +45211,7 @@
     {
       "companyId": "candidate-immuneonco",
       "name": "Immuneonco",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -45352,7 +45352,7 @@
     {
       "companyId": "candidate-immunitybio",
       "name": "ImmunityBio, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -45479,7 +45479,7 @@
     {
       "companyId": "candidate-immunocore-holdings",
       "name": "Immunocore Holdings plc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -45606,7 +45606,7 @@
     {
       "companyId": "candidate-immunotech",
       "name": "Immunotech",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -45747,7 +45747,7 @@
     {
       "companyId": "candidate-immunovant",
       "name": "Immunovant, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -45874,7 +45874,7 @@
     {
       "companyId": "candidate-impact-therap",
       "name": "Impact Therap",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -46015,7 +46015,7 @@
     {
       "companyId": "candidate-in8bio",
       "name": "In8Bio, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -46142,7 +46142,7 @@
     {
       "companyId": "candidate-informed-medical-decisions",
       "name": "Informed Medical Decisions, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -46237,7 +46237,7 @@
     {
       "companyId": "candidate-inhibikase-therapeutics",
       "name": "Inhibikase Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -46364,7 +46364,7 @@
     {
       "companyId": "candidate-inhibrx-biosciences",
       "name": "Inhibrx Biosciences, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -46491,7 +46491,7 @@
     {
       "companyId": "candidate-inmune-bio",
       "name": "Inmune Bio, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -46618,7 +46618,7 @@
     {
       "companyId": "candidate-innate-pharma",
       "name": "Innate Pharma SA",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -46745,7 +46745,7 @@
     {
       "companyId": "candidate-innocare",
       "name": "Innocare",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -46886,7 +46886,7 @@
     {
       "companyId": "candidate-innogen",
       "name": "Innogen",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -47027,7 +47027,7 @@
     {
       "companyId": "candidate-innovent-bio",
       "name": "Innovent Bio",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -47168,7 +47168,7 @@
     {
       "companyId": "candidate-insight-molecular-diagnostics",
       "name": "Insight Molecular Diagnostics Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -47295,7 +47295,7 @@
     {
       "companyId": "candidate-insilico",
       "name": "Insilico",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -47436,7 +47436,7 @@
     {
       "companyId": "insilico-medicine",
       "name": "Insilico Medicine",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Private",
@@ -47599,7 +47599,7 @@
     {
       "companyId": "candidate-instil-bio",
       "name": "Instil Bio, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -47726,7 +47726,7 @@
     {
       "companyId": "intellia",
       "name": "Intellia Therapeutics",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -47970,7 +47970,7 @@
     {
       "companyId": "candidate-intensity-therapeutics",
       "name": "Intensity Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -48097,7 +48097,7 @@
     {
       "companyId": "candidate-invivyd",
       "name": "Invivyd, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -48224,7 +48224,7 @@
     {
       "companyId": "ionis",
       "name": "Ionis Pharmaceuticals",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -48477,7 +48477,7 @@
     {
       "companyId": "candidate-iovance-biotherapeutics",
       "name": "Iovance Biotherapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -48604,7 +48604,7 @@
     {
       "companyId": "candidate-isoprene-pharmaceuticals",
       "name": "Isoprene Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -48701,7 +48701,7 @@
     {
       "companyId": "candidate-jacobio",
       "name": "Jacobio",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -48842,7 +48842,7 @@
     {
       "companyId": "candidate-jan-biotech",
       "name": "Jan Biotech, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -48939,7 +48939,7 @@
     {
       "companyId": "candidate-jasper-therapeutics",
       "name": "Jasper Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -49066,7 +49066,7 @@
     {
       "companyId": "candidate-jd-health",
       "name": "Jd Health",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -49207,7 +49207,7 @@
     {
       "companyId": "candidate-jenscare",
       "name": "Jenscare",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -49348,7 +49348,7 @@
     {
       "companyId": "candidate-jushi-holdings",
       "name": "Jushi Holdings Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -49475,7 +49475,7 @@
     {
       "companyId": "candidate-jw-therap",
       "name": "Jw Therap",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -49616,7 +49616,7 @@
     {
       "companyId": "candidate-kalaris-therapeutics",
       "name": "Kalaris Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -49743,7 +49743,7 @@
     {
       "companyId": "candidate-keylicon-biosciences",
       "name": "Keylicon Biosciences Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -49838,7 +49838,7 @@
     {
       "companyId": "candidate-keymed-bio",
       "name": "Keymed Bio",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -49979,7 +49979,7 @@
     {
       "companyId": "candidate-kintor-pharma",
       "name": "Kintor Pharma",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -50120,7 +50120,7 @@
     {
       "companyId": "candidate-kodiak-sciences",
       "name": "Kodiak Sciences Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -50247,7 +50247,7 @@
     {
       "companyId": "candidate-kovina-therapeutics",
       "name": "Kovina Therapeutics Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -50343,7 +50343,7 @@
     {
       "companyId": "candidate-krystal-biotech",
       "name": "Krystal Biotech, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -50470,7 +50470,7 @@
     {
       "companyId": "candidate-kymera-therapeutics",
       "name": "Kymera Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -50597,7 +50597,7 @@
     {
       "companyId": "candidate-kyverna-therapeutics",
       "name": "Kyverna Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -50724,7 +50724,7 @@
     {
       "companyId": "candidate-laekna",
       "name": "Laekna",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -50865,7 +50865,7 @@
     {
       "companyId": "candidate-lantheus-holdings",
       "name": "Lantheus Holdings, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -50992,7 +50992,7 @@
     {
       "companyId": "candidate-leads-biolabs",
       "name": "Leads Biolabs",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -51133,7 +51133,7 @@
     {
       "companyId": "candidate-leef-brands",
       "name": "Leef Brands Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -51260,7 +51260,7 @@
     {
       "companyId": "legend-biotech",
       "name": "Legend Biotech",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -51589,7 +51589,7 @@
     {
       "companyId": "candidate-lenz-therapeutics",
       "name": "LENZ Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -51716,7 +51716,7 @@
     {
       "companyId": "candidate-leonabio",
       "name": "LeonaBio, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -51843,7 +51843,7 @@
     {
       "companyId": "candidate-lexeo-therapeutics",
       "name": "Lexeo Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -51970,7 +51970,7 @@
     {
       "companyId": "candidate-liminatus-pharma",
       "name": "Liminatus Pharma, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -52097,7 +52097,7 @@
     {
       "companyId": "candidate-lineage-cell-therapeutics",
       "name": "Lineage Cell Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -52224,7 +52224,7 @@
     {
       "companyId": "candidate-lipo-immuno-tech",
       "name": "Lipo-Immuno Tech, LLC",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -52319,7 +52319,7 @@
     {
       "companyId": "candidate-livivos",
       "name": "Livivos Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -52415,7 +52415,7 @@
     {
       "companyId": "candidate-longbio",
       "name": "Longbio",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -52556,7 +52556,7 @@
     {
       "companyId": "candidate-luzhu-biotech",
       "name": "Luzhu Biotech",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -52697,7 +52697,7 @@
     {
       "companyId": "candidate-mabpharm",
       "name": "Mabpharm",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -52838,7 +52838,7 @@
     {
       "companyId": "candidate-mabwell",
       "name": "Mabwell",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -52979,7 +52979,7 @@
     {
       "companyId": "candidate-mannatech",
       "name": "Mannatech Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -53106,7 +53106,7 @@
     {
       "companyId": "candidate-marimed",
       "name": "Marimed Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -53233,7 +53233,7 @@
     {
       "companyId": "candidate-maze-therapeutics",
       "name": "Maze Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -53360,7 +53360,7 @@
     {
       "companyId": "candidate-medbot",
       "name": "Medbot",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -53502,7 +53502,7 @@
     {
       "companyId": "candidate-mediwound",
       "name": "MediWound Ltd.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -53629,7 +53629,7 @@
     {
       "companyId": "candidate-meiragtx-holdings",
       "name": "MeiraGTx Holdings plc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -53756,7 +53756,7 @@
     {
       "companyId": "candidate-merlin-therapeutics",
       "name": "Merlin Therapeutics Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -53851,7 +53851,7 @@
     {
       "companyId": "candidate-mesoblast",
       "name": "Mesoblast Ltd",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -53978,7 +53978,7 @@
     {
       "companyId": "candidate-metagenomi-therapeutics",
       "name": "Metagenomi Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -54105,7 +54105,7 @@
     {
       "companyId": "candidate-micot-pharma",
       "name": "Micot Pharma",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -54246,7 +54246,7 @@
     {
       "companyId": "candidate-microport",
       "name": "Microport",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -54387,7 +54387,7 @@
     {
       "companyId": "candidate-microtech-med",
       "name": "Microtech Med",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -54528,7 +54528,7 @@
     {
       "companyId": "candidate-midwest-bioprocessing-center",
       "name": "Midwest Bioprocessing Center, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -54623,7 +54623,7 @@
     {
       "companyId": "mimetas",
       "name": "MIMETAS",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Private",
@@ -54786,7 +54786,7 @@
     {
       "companyId": "candidate-mink-therapeutics",
       "name": "MiNK Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -54913,7 +54913,7 @@
     {
       "companyId": "candidate-mirxes",
       "name": "Mirxes",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -55054,7 +55054,7 @@
     {
       "companyId": "candidate-mitegen",
       "name": "Mitegen, LLC",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -55149,7 +55149,7 @@
     {
       "companyId": "moderna",
       "name": "Moderna",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -55403,7 +55403,7 @@
     {
       "companyId": "candidate-molecular-partners",
       "name": "Molecular Partners AG",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -55530,7 +55530,7 @@
     {
       "companyId": "candidate-monod-bio",
       "name": "Monod Bio, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -55627,7 +55627,7 @@
     {
       "companyId": "candidate-monte-rosa-therapeutics",
       "name": "Monte Rosa Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -55754,7 +55754,7 @@
     {
       "companyId": "candidate-mosaic-immunoengineering",
       "name": "Mosaic ImmunoEngineering Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -55881,7 +55881,7 @@
     {
       "companyId": "candidate-mp-cardioflow",
       "name": "Mp Cardioflow",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -56022,7 +56022,7 @@
     {
       "companyId": "candidate-myriad-genetics",
       "name": "Myriad Genetics Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -56149,7 +56149,7 @@
     {
       "companyId": "candidate-nanopathdx",
       "name": "Nanopathdx, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -56244,7 +56244,7 @@
     {
       "companyId": "natera",
       "name": "Natera",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -56498,7 +56498,7 @@
     {
       "companyId": "candidate-natural-alternatives-international",
       "name": "Natural Alternatives International Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -56625,7 +56625,7 @@
     {
       "companyId": "candidate-neogen",
       "name": "Neogen Corp",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -56752,7 +56752,7 @@
     {
       "companyId": "candidate-neosplice-therapeutics",
       "name": "Neosplice Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -56849,7 +56849,7 @@
     {
       "companyId": "candidate-nephropathology-associates",
       "name": "Nephropathology Associates",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -56945,7 +56945,7 @@
     {
       "companyId": "candidate-neumora-therapeutics",
       "name": "Neumora Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -57072,7 +57072,7 @@
     {
       "companyId": "candidate-neurocrine-biosciences",
       "name": "Neurocrine Biosciences Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -57199,7 +57199,7 @@
     {
       "companyId": "candidate-neutra",
       "name": "Neutra Corp.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -57326,7 +57326,7 @@
     {
       "companyId": "candidate-new-york-r-and-d-ctr-translational-med-ther",
       "name": "New York/R&D/Ctr/Translational Med/Ther",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -57422,7 +57422,7 @@
     {
       "companyId": "candidate-niagen-bioscience",
       "name": "Niagen Bioscience, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -57549,7 +57549,7 @@
     {
       "companyId": "candidate-novavax",
       "name": "Novavax Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -57676,7 +57676,7 @@
     {
       "companyId": "nurix",
       "name": "Nurix Therapeutics",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -57895,7 +57895,7 @@
     {
       "companyId": "candidate-nutra-pharma",
       "name": "Nutra Pharma Corp",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -58022,7 +58022,7 @@
     {
       "companyId": "candidate-nyb-holdings",
       "name": "NYB Holdings Ltd",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -58149,7 +58149,7 @@
     {
       "companyId": "nykode-therapeutics",
       "name": "Nykode Therapeutics",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -58334,7 +58334,7 @@
     {
       "companyId": "candidate-nymox-pharmaceutical",
       "name": "Nymox Pharmaceutical Corp",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -58461,7 +58461,7 @@
     {
       "companyId": "candidate-oak-therapeutics",
       "name": "Oak Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -58555,7 +58555,7 @@
     {
       "companyId": "candidate-objective-biotechnology",
       "name": "Objective Biotechnology, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -58651,7 +58651,7 @@
     {
       "companyId": "candidate-ocugen",
       "name": "Ocugen, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -58778,7 +58778,7 @@
     {
       "companyId": "candidate-ocumension",
       "name": "Ocumension",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -58919,7 +58919,7 @@
     {
       "companyId": "candidate-odyssey-therapeutics",
       "name": "Odyssey Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -59046,7 +59046,7 @@
     {
       "companyId": "candidate-okyo-pharma",
       "name": "OKYO Pharma Ltd",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -59173,7 +59173,7 @@
     {
       "companyId": "candidate-opthea",
       "name": "Opthea Ltd",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -59300,7 +59300,7 @@
     {
       "companyId": "candidate-ossium-health",
       "name": "Ossium Health, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -59396,7 +59396,7 @@
     {
       "companyId": "candidate-outlook-therapeutics",
       "name": "Outlook Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -59523,7 +59523,7 @@
     {
       "companyId": "oxford-nanopore",
       "name": "Oxford Nanopore Technologies",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -59685,7 +59685,7 @@
     {
       "companyId": "candidate-palisade-bio",
       "name": "Palisade Bio, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -59812,7 +59812,7 @@
     {
       "companyId": "candidate-panacea-life-sciences-holdings",
       "name": "Panacea Life Sciences Holdings, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -59939,7 +59939,7 @@
     {
       "companyId": "candidate-panluminate",
       "name": "Panluminate Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -60037,7 +60037,7 @@
     {
       "companyId": "candidate-paralos-bioscience",
       "name": "Paralos Bioscience Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -60131,7 +60131,7 @@
     {
       "companyId": "candidate-passage-bio",
       "name": "Passage BIO, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -60258,7 +60258,7 @@
     {
       "companyId": "candidate-pegbio",
       "name": "Pegbio Co",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -60399,7 +60399,7 @@
     {
       "companyId": "candidate-peijia",
       "name": "Peijia",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -60540,7 +60540,7 @@
     {
       "companyId": "candidate-pelthos-therapeutics",
       "name": "Pelthos Therapeutics Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -60667,7 +60667,7 @@
     {
       "companyId": "candidate-pharmacyte-biotech",
       "name": "PharmaCyte Biotech, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -60794,7 +60794,7 @@
     {
       "companyId": "candidate-physical-sciences",
       "name": "Physical Sciences, Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -60888,7 +60888,7 @@
     {
       "companyId": "candidate-pleopharma",
       "name": "Pleopharma, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -60983,7 +60983,7 @@
     {
       "companyId": "candidate-pluri",
       "name": "Pluri Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -61110,7 +61110,7 @@
     {
       "companyId": "candidate-pop-biotechnologies",
       "name": "Pop Biotechnologies, Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -61205,7 +61205,7 @@
     {
       "companyId": "candidate-precision-biosciences",
       "name": "Precision Biosciences Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -61332,7 +61332,7 @@
     {
       "companyId": "candidate-prime-medicine",
       "name": "Prime Medicine, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -61459,7 +61459,7 @@
     {
       "companyId": "candidate-prokidney",
       "name": "Prokidney Corp.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -61586,7 +61586,7 @@
     {
       "companyId": "candidate-protalix-biotherapeutics",
       "name": "Protalix BioTherapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -61713,7 +61713,7 @@
     {
       "companyId": "candidate-protara-therapeutics",
       "name": "Protara Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -61840,7 +61840,7 @@
     {
       "companyId": "candidate-q-c-technologies",
       "name": "Q/C Technologies, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -61967,7 +61967,7 @@
     {
       "companyId": "candidate-qiagen-n-v",
       "name": "Qiagen N.V.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -62094,7 +62094,7 @@
     {
       "companyId": "candidate-quidelortho",
       "name": "QuidelOrtho Corp",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -62221,7 +62221,7 @@
     {
       "companyId": "candidate-quince-therapeutics",
       "name": "Quince Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -62348,7 +62348,7 @@
     {
       "companyId": "candidate-qyuns",
       "name": "Qyuns",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -62489,7 +62489,7 @@
     {
       "companyId": "candidate-radar-therapeutics",
       "name": "Radar Therapeutics Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -62586,7 +62586,7 @@
     {
       "companyId": "candidate-rainmed",
       "name": "Rainmed",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -62727,7 +62727,7 @@
     {
       "companyId": "candidate-raphael-pharmaceutical",
       "name": "Raphael Pharmaceutical Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -62854,7 +62854,7 @@
     {
       "companyId": "candidate-recbio",
       "name": "Recbio",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -62995,7 +62995,7 @@
     {
       "companyId": "recursion",
       "name": "Recursion Pharmaceuticals",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -63239,7 +63239,7 @@
     {
       "companyId": "candidate-reelin-therapeutics",
       "name": "Reelin Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -63337,7 +63337,7 @@
     {
       "companyId": "candidate-regencell-bioscience-holdings",
       "name": "Regencell Bioscience Holdings Ltd",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -63464,7 +63464,7 @@
     {
       "companyId": "candidate-regenerative-medical-solutions",
       "name": "Regenerative Medical Solutions, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -63559,7 +63559,7 @@
     {
       "companyId": "candidate-regenxbio",
       "name": "REGENXBIO Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -63686,7 +63686,7 @@
     {
       "companyId": "candidate-relay-therapeutics",
       "name": "Relay Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -63813,7 +63813,7 @@
     {
       "companyId": "candidate-repligen",
       "name": "Repligen Corp",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -63940,7 +63940,7 @@
     {
       "companyId": "candidate-replimune-group",
       "name": "Replimune Group, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -64067,7 +64067,7 @@
     {
       "companyId": "candidate-resvita-bio",
       "name": "Resvita Bio, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -64163,7 +64163,7 @@
     {
       "companyId": "retro-biosciences",
       "name": "Retro Biosciences",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Private",
@@ -64310,7 +64310,7 @@
     {
       "companyId": "candidate-revolution-medicines",
       "name": "Revolution Medicines, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -64437,7 +64437,7 @@
     {
       "companyId": "candidate-ribolife",
       "name": "Ribolife",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -64578,7 +64578,7 @@
     {
       "companyId": "candidate-rise-therapeutics",
       "name": "Rise Therapeutics, LLC",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -64673,7 +64673,7 @@
     {
       "companyId": "candidate-romix-biosciences",
       "name": "Romix Biosciences Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -64769,7 +64769,7 @@
     {
       "companyId": "candidate-sab-biotherapeutics",
       "name": "SAB Biotherapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -64896,7 +64896,7 @@
     {
       "companyId": "candidate-sana-biotechnology",
       "name": "Sana Biotechnology, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -65023,7 +65023,7 @@
     {
       "companyId": "candidate-sangamo-therapeutics",
       "name": "Sangamo Therapeutics, Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -65150,7 +65150,7 @@
     {
       "companyId": "candidate-sansimeon",
       "name": "Sansimeon, Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -65246,7 +65246,7 @@
     {
       "companyId": "candidate-sbp-group",
       "name": "Sbp Group",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -65387,7 +65387,7 @@
     {
       "companyId": "candidate-scholar-rock-holding",
       "name": "Scholar Rock Holding Corp",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -65514,7 +65514,7 @@
     {
       "companyId": "candidate-scilex-holding",
       "name": "Scilex Holding Co",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -65641,7 +65641,7 @@
     {
       "companyId": "candidate-scinai-immunotherapeutics",
       "name": "Scinai Immunotherapeutics Ltd.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -65768,7 +65768,7 @@
     {
       "companyId": "candidate-scribe-therapeutics",
       "name": "Scribe Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -65895,7 +65895,7 @@
     {
       "companyId": "candidate-senti-biosciences-holdings",
       "name": "Senti Biosciences Holdings, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -66022,7 +66022,7 @@
     {
       "companyId": "candidate-ship-of-theseus",
       "name": "Ship Of Theseus, LLC",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -66117,7 +66117,7 @@
     {
       "companyId": "candidate-silexion-therapeutics",
       "name": "Silexion Therapeutics Corp",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -66244,7 +66244,7 @@
     {
       "companyId": "candidate-simcere-pharma",
       "name": "Simcere Pharma",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -66385,7 +66385,7 @@
     {
       "companyId": "candidate-sinomab-bio",
       "name": "Sinomab Bio",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -66526,7 +66526,7 @@
     {
       "companyId": "candidate-sinopharm",
       "name": "Sinopharm",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -66667,7 +66667,7 @@
     {
       "companyId": "candidate-sirnaomics",
       "name": "Sirnaomics",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -66808,7 +66808,7 @@
     {
       "companyId": "candidate-skb-bio",
       "name": "Skb Bio",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -66949,7 +66949,7 @@
     {
       "companyId": "candidate-sl-science-holding",
       "name": "SL Science Holding Ltd",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -67076,7 +67076,7 @@
     {
       "companyId": "candidate-sndl",
       "name": "SNDL Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -67203,7 +67203,7 @@
     {
       "companyId": "candidate-solid-biosciences",
       "name": "Solid Biosciences Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -67330,7 +67330,7 @@
     {
       "companyId": "sumitomo-pharma",
       "name": "Sumitomo Pharma",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -67493,7 +67493,7 @@
     {
       "companyId": "candidate-sunho-bio",
       "name": "Sunho Bio",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -67634,7 +67634,7 @@
     {
       "companyId": "candidate-surrozen-inc-de",
       "name": "Surrozen, Inc./DE",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -67761,7 +67761,7 @@
     {
       "companyId": "candidate-sutro-biopharma",
       "name": "Sutro Biopharma, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -67888,7 +67888,7 @@
     {
       "companyId": "candidate-sylvatica-biotech",
       "name": "Sylvatica Biotech, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -67984,7 +67984,7 @@
     {
       "companyId": "candidate-synergy-chc",
       "name": "Synergy CHC Corp.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -68111,7 +68111,7 @@
     {
       "companyId": "candidate-syntrix-biosystems",
       "name": "Syntrix Biosystems, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -68205,7 +68205,7 @@
     {
       "companyId": "candidate-target-group",
       "name": "Target Group Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -68332,7 +68332,7 @@
     {
       "companyId": "candidate-tarsus-pharmaceuticals",
       "name": "Tarsus Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -68459,7 +68459,7 @@
     {
       "companyId": "candidate-taxis-pharmaceuticals",
       "name": "Taxis Pharmaceuticals, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -68554,7 +68554,7 @@
     {
       "companyId": "candidate-taysha-gene-therapies",
       "name": "Taysha Gene Therapies, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -68681,7 +68681,7 @@
     {
       "companyId": "candidate-tectonic-therapeutic",
       "name": "Tectonic Therapeutic, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -68808,7 +68808,7 @@
     {
       "companyId": "tempus-ai",
       "name": "Tempus AI",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -68982,7 +68982,7 @@
     {
       "companyId": "candidate-tenaya-therapeutics",
       "name": "Tenaya Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -69109,7 +69109,7 @@
     {
       "companyId": "candidate-tennor-therap",
       "name": "Tennor Therap",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -69250,7 +69250,7 @@
     {
       "companyId": "candidate-tevogen",
       "name": "Tevogen Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -69377,7 +69377,7 @@
     {
       "companyId": "candidate-tfa-therapeutics",
       "name": "TFA Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -69504,7 +69504,7 @@
     {
       "companyId": "candidate-th-medical",
       "name": "Th Medical",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -69645,7 +69645,7 @@
     {
       "companyId": "candidate-tiba-biotech",
       "name": "Tiba Biotech, LLC",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -69741,7 +69741,7 @@
     {
       "companyId": "candidate-tilray-brands",
       "name": "Tilray Brands, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -69868,7 +69868,7 @@
     {
       "companyId": "candidate-transcenta",
       "name": "Transcenta",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -70009,7 +70009,7 @@
     {
       "companyId": "candidate-transthera",
       "name": "Transthera",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -70150,7 +70150,7 @@
     {
       "companyId": "candidate-trethera",
       "name": "Trethera Corporation",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -70246,7 +70246,7 @@
     {
       "companyId": "candidate-trinity-biotech",
       "name": "Trinity Biotech PLC",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -70373,7 +70373,7 @@
     {
       "companyId": "candidate-trulieve-cannabis",
       "name": "Trulieve Cannabis Corp.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -70500,7 +70500,7 @@
     {
       "companyId": "candidate-tscan-therapeutics",
       "name": "TScan Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -70627,7 +70627,7 @@
     {
       "companyId": "candidate-twist-bioscience",
       "name": "Twist Bioscience Corp",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -70754,7 +70754,7 @@
     {
       "companyId": "candidate-tyk-medicines",
       "name": "Tyk Medicines",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -70895,7 +70895,7 @@
     {
       "companyId": "candidate-united-lab",
       "name": "United Lab",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -71036,7 +71036,7 @@
     {
       "companyId": "candidate-usana-health-sciences",
       "name": "Usana Health Sciences Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -71163,7 +71163,7 @@
     {
       "companyId": "candidate-valneva",
       "name": "Valneva SE",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -71290,7 +71290,7 @@
     {
       "companyId": "candidate-vaxart",
       "name": "Vaxart, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -71417,7 +71417,7 @@
     {
       "companyId": "candidate-vaxcyte",
       "name": "Vaxcyte, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -71544,7 +71544,7 @@
     {
       "companyId": "candidate-venus-medtech",
       "name": "Venus Medtech",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -71685,7 +71685,7 @@
     {
       "companyId": "candidate-vericel",
       "name": "Vericel Corp",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -71812,7 +71812,7 @@
     {
       "companyId": "candidate-verisim-life",
       "name": "Verisim Life, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -71908,7 +71908,7 @@
     {
       "companyId": "candidate-vigonvita",
       "name": "Vigonvita",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -72049,7 +72049,7 @@
     {
       "companyId": "candidate-vir-biotechnology",
       "name": "Vir Biotechnology, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -72176,7 +72176,7 @@
     {
       "companyId": "candidate-virax-biolabs-group",
       "name": "Virax Biolabs Group Ltd",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -72303,7 +72303,7 @@
     {
       "companyId": "candidate-virtici",
       "name": "Virtici, LLC",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -72400,7 +72400,7 @@
     {
       "companyId": "candidate-visen-pharma",
       "name": "Visen Pharma",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -72541,7 +72541,7 @@
     {
       "companyId": "candidate-viskase-holdings",
       "name": "Viskase Holdings, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -72668,7 +72668,7 @@
     {
       "companyId": "candidate-vivid-bioinnovations-pbc",
       "name": "Vivid Bioinnovations, Pbc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -72766,7 +72766,7 @@
     {
       "companyId": "candidate-vivosim-labs",
       "name": "VivoSim Labs, INC.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -72893,7 +72893,7 @@
     {
       "companyId": "candidate-vivosphere",
       "name": "Vivosphere LLC",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -72990,7 +72990,7 @@
     {
       "companyId": "candidate-volitionrx",
       "name": "Volitionrx Ltd",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -73117,7 +73117,7 @@
     {
       "companyId": "candidate-vor-biopharma",
       "name": "Vor Biopharma Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -73244,7 +73244,7 @@
     {
       "companyId": "candidate-voyager-therapeutics",
       "name": "Voyager Therapeutics, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -73371,7 +73371,7 @@
     {
       "companyId": "candidate-weigao-group",
       "name": "Weigao Group",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -73512,7 +73512,7 @@
     {
       "companyId": "candidate-windtree-therapeutics-inc-de",
       "name": "Windtree Therapeutics Inc /De/",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -73639,7 +73639,7 @@
     {
       "companyId": "candidate-wuxi-apptec",
       "name": "Wuxi Apptec",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -73780,7 +73780,7 @@
     {
       "companyId": "candidate-wuxi-bio",
       "name": "Wuxi Bio",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -73921,7 +73921,7 @@
     {
       "companyId": "candidate-wuxi-xdc",
       "name": "Wuxi Xdc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -74062,7 +74062,7 @@
     {
       "companyId": "candidate-x4-pharmaceuticals",
       "name": "X4 Pharmaceuticals, Inc",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -74189,7 +74189,7 @@
     {
       "companyId": "xtalpi",
       "name": "XtalPi",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -74358,7 +74358,7 @@
     {
       "companyId": "candidate-xtop-biotherapeutics",
       "name": "Xtop Biotherapeutics Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -74454,7 +74454,7 @@
     {
       "companyId": "candidate-xuanzhubio",
       "name": "Xuanzhubio",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -74595,7 +74595,7 @@
     {
       "companyId": "candidate-yzybio",
       "name": "Yzybio",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -74736,7 +74736,7 @@
     {
       "companyId": "candidate-zai-lab",
       "name": "Zai Lab",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -74877,7 +74877,7 @@
     {
       "companyId": "candidate-zeo-scientifix",
       "name": "Zeo ScientifiX, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -75004,7 +75004,7 @@
     {
       "companyId": "candidate-zhaoke-ophth",
       "name": "Zhaoke Ophth",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -75145,7 +75145,7 @@
     {
       "companyId": "candidate-zivo-bioscience",
       "name": "Zivo Bioscience, Inc.",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -75272,7 +75272,7 @@
     {
       "companyId": "candidate-zura-bio",
       "name": "Zura Bio Ltd",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -75399,7 +75399,7 @@
     {
       "companyId": "candidate-abf14cfdd734",
       "name": "三生国健",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -75501,7 +75501,7 @@
     {
       "companyId": "candidate-ffc870755755",
       "name": "上海谊众",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -75603,7 +75603,7 @@
     {
       "companyId": "candidate-23395bd4136e",
       "name": "亚辉龙",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -75705,7 +75705,7 @@
     {
       "companyId": "candidate-445f23b51274",
       "name": "佰仁医疗",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -75807,7 +75807,7 @@
     {
       "companyId": "candidate-d9ba58a62bfd",
       "name": "华大智造",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -75909,7 +75909,7 @@
     {
       "companyId": "candidate-8737023e7840",
       "name": "华恒生物",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -76011,7 +76011,7 @@
     {
       "companyId": "candidate-958dca202897",
       "name": "华熙生物",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -76113,7 +76113,7 @@
     {
       "companyId": "candidate-dab769becc09",
       "name": "南微医学",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -76215,7 +76215,7 @@
     {
       "companyId": "candidate-2237daacb53b",
       "name": "博瑞医药",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -76317,7 +76317,7 @@
     {
       "companyId": "candidate-04217823c4ab",
       "name": "君实生物",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -76419,7 +76419,7 @@
     {
       "companyId": "candidate-56e3097c1baa",
       "name": "圣湘生物",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -76521,7 +76521,7 @@
     {
       "companyId": "candidate-29af81224424",
       "name": "天智航",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -76623,7 +76623,7 @@
     {
       "companyId": "candidate-669d3a3a69c7",
       "name": "奕瑞科技",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -76725,7 +76725,7 @@
     {
       "companyId": "candidate-5dd7a8e31714",
       "name": "威高骨科",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -76827,7 +76827,7 @@
     {
       "companyId": "candidate-6e4fa81780a1",
       "name": "康希诺",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -76929,7 +76929,7 @@
     {
       "companyId": "candidate-819bfbc1d0f2",
       "name": "微电生理",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -77031,7 +77031,7 @@
     {
       "companyId": "candidate-5ea2006c4a5f",
       "name": "微芯生物",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -77133,7 +77133,7 @@
     {
       "companyId": "candidate-9a455318ea07",
       "name": "心脉医疗",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -77235,7 +77235,7 @@
     {
       "companyId": "candidate-97d3efdd3446",
       "name": "必贝特",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -77337,7 +77337,7 @@
     {
       "companyId": "candidate-ddcce1f0d702",
       "name": "悦康药业",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -77439,7 +77439,7 @@
     {
       "companyId": "candidate-46bf883ce905",
       "name": "惠泰医疗",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -77541,7 +77541,7 @@
     {
       "companyId": "candidate-3c92f1178f55",
       "name": "成大生物",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -77643,7 +77643,7 @@
     {
       "companyId": "candidate-98af7e3aff90",
       "name": "成都先导",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -77745,7 +77745,7 @@
     {
       "companyId": "candidate-2e954f991f1e",
       "name": "智翔金泰",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -77847,7 +77847,7 @@
     {
       "companyId": "candidate-26e62943e01a",
       "name": "欧林生物",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -77949,7 +77949,7 @@
     {
       "companyId": "candidate-817afffebd32",
       "name": "汇宇制药",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -78051,7 +78051,7 @@
     {
       "companyId": "candidate-5a89d199d059",
       "name": "泽璟制药",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -78153,7 +78153,7 @@
     {
       "companyId": "candidate-28a9294d8677",
       "name": "浩欧博",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -78255,7 +78255,7 @@
     {
       "companyId": "candidate-cd80b661fe40",
       "name": "海尔生物",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -78357,7 +78357,7 @@
     {
       "companyId": "candidate-38dcb219a359",
       "name": "热景生物",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -78459,7 +78459,7 @@
     {
       "companyId": "candidate-5dd44c475880",
       "name": "爱博医疗",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -78561,7 +78561,7 @@
     {
       "companyId": "candidate-2ecb4514d497",
       "name": "特宝生物",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -78663,7 +78663,7 @@
     {
       "companyId": "candidate-c868ae2672ff",
       "name": "百克生物",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -78765,7 +78765,7 @@
     {
       "companyId": "candidate-37878f99d02b",
       "name": "百利天恒",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -78867,7 +78867,7 @@
     {
       "companyId": "candidate-8f5ffb670e2a",
       "name": "百奥泰",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -78969,7 +78969,7 @@
     {
       "companyId": "candidate-d50ece0e7d8e",
       "name": "皓元医药",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -79071,7 +79071,7 @@
     {
       "companyId": "candidate-1338e6c1b759",
       "name": "益方生物",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -79173,7 +79173,7 @@
     {
       "companyId": "candidate-fec21b7f896b",
       "name": "神州细胞",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -79275,7 +79275,7 @@
     {
       "companyId": "candidate-ef758b23173e",
       "name": "禾元生物",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -79377,7 +79377,7 @@
     {
       "companyId": "candidate-06f3336fa2e3",
       "name": "美迪西",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -79479,7 +79479,7 @@
     {
       "companyId": "candidate-563ae6bb4ac0",
       "name": "翔宇医疗",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -79581,7 +79581,7 @@
     {
       "companyId": "candidate-9fc8ecbf25c5",
       "name": "联影医疗",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -79683,7 +79683,7 @@
     {
       "companyId": "candidate-512e83582c00",
       "name": "艾力斯",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -79785,7 +79785,7 @@
     {
       "companyId": "candidate-868d4e3c4dbe",
       "name": "苑东生物",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -79887,7 +79887,7 @@
     {
       "companyId": "candidate-51ebce2d9596",
       "name": "荣昌生物",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -79989,7 +79989,7 @@
     {
       "companyId": "candidate-e0840e21be78",
       "name": "诺唯赞",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -80091,7 +80091,7 @@
     {
       "companyId": "candidate-9f07e257c157",
       "name": "赛诺医疗",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -80193,7 +80193,7 @@
     {
       "companyId": "candidate-69a5934eccae",
       "name": "迈威生物",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -80295,7 +80295,7 @@
     {
       "companyId": "candidate-e1183778e53f",
       "name": "迪哲医药",
-      "asOfDate": "2026-08-23",
+      "asOfDate": "2026-08-24",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
