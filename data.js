@@ -821,6 +821,77 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42639847",
+      "date": "2026-08-25",
+      "title": "Fine-Needle Aspiration of Salivary Gland Tumors With Low-Grade Oncocytic Features: Focusing on Oncocytoma Versus Oncocytic Mucoepidermoid Carcinoma.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42639847/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Diagnostic cytopathology，PMID 为 42639847。",
+      "report": "Salivary gland fine-needle aspirates (FNAs) with low-grade oncocytic features are diagnostically challenging due to the substantial morphologic overlap between benign oncocytic tumors and their malignant mimickers. This study evaluates the diagnostic discrimin...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0436a7d814246ae6006a8de64021a487d1be5b934db956477a",
+        "reviewedAt": "2026-08-25T19:00:14.704155+00:00",
+        "inputHash": "2aa87233cd18f7ca329f72d14f30263b18d47fad33738b4c586a79757e4ea0a4",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录有效且合理，信息分离清晰，适合发表。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类与文献内容一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据等级和分类合理，与源材料相符。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Diagnostic cytopathology，PMID 为 42639847。",
+          "report": "Salivary gland fine-needle aspirates (FNAs) with low-grade oncocytic features are diagnostically challenging due to the substantial morphologic overlap between benign oncocytic tumors and their malignant mimickers. This study evaluates the diagnostic discrimin...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42638344",
       "date": "2026-08-25",
       "title": "Optimization of a Canine Colon Organoid Platform for Modeling Intestinal Injury and Mesenchymal Stem Cell-Mediated Regeneration.",
@@ -963,6 +1034,80 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Sheng wu gong cheng xue bao = Chinese journal of biotechnology，PMID 为 42638069。",
           "report": "Decellularized extracellular matrix can well preserve the biomimetic ultrastructure of native tissue, providing a suitable three-dimensional biomimetic microenvironment for the in vitro culture of cells and organoids. The aim of this study is to prepare a porc...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42640174",
+      "date": "2026-08-25",
+      "title": "Elucidating PI3K/AKT/PTEN Pathway Alterations at Single-Cell Level in CTCs From HR+/HER2- Metastatic Breast Cancer.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42640174/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer science，PMID 为 42640174。",
+      "report": "Alterations in the PI3K signaling pathway are common in hormone receptor-positive (HR+)/HER2-negative metastatic breast cancer (MBC) and are associated with response to PI3K and AKT inhibitor-targeted therapies. When metastasis biopsy is unavailable for geneti...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_09217fcff8ff7051006a8de6487ef887d19ce314eb8b6fb5dc",
+        "reviewedAt": "2026-08-25T19:00:14.704155+00:00",
+        "inputHash": "6a6b8aa5afebb6fbec56c40a7a539d3fa7993c57b7e36cf56fa898f3f4fa5dc7",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合出版要求，内部一致性良好。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Biotech",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "biotech",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cancer science，PMID 为 42640174。",
+          "report": "Alterations in the PI3K signaling pathway are common in hormone receptor-positive (HR+)/HER2-negative metastatic breast cancer (MBC) and are associated with response to PI3K and AKT inhibitor-targeted therapies. When metastasis biopsy is unavailable for geneti...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1198,84 +1343,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42636947",
-      "date": "2026-08-24",
-      "title": "Cancer-associated fibroblast-derived vascular endothelial growth factor a promotes gastric cancer organoid growth and chemotherapy resistance via paracrine signaling.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636947/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cellular signalling，PMID 为 42636947。",
-      "report": "Cancer-associated fibroblasts (CAFs) are key components of the tumor microenvironment and can influence tumor progression and therapeutic response. However, whether functional heterogeneity of CAFs contributes to 5-fluorouracil (5-FU) resistance in gastric can...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_09e8f0b599b3fd3b006a8d4010eabc87d199466e74ba3ab447",
-        "reviewedAt": "2026-08-25T07:11:11.538890+00:00",
-        "inputHash": "e3a30f65e247b81f88a4ea664c6bb4729b10f90e6c7951928c9fb29c3eb63cd0",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审核以判断研究质量和临床结论的支持性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类支持度不足，需更多证据对其有效性和安全性进行验证。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平过于低，不足以支撑分类的有效性和临床应用。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Cellular signalling，PMID 为 42636947。",
-          "report": "Cancer-associated fibroblasts (CAFs) are key components of the tumor microenvironment and can influence tumor progression and therapeutic response. However, whether functional heterogeneity of CAFs contributes to 5-fluorouracil (5-FU) resistance in gastric can...",
-          "inference": "此分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42636799",
       "date": "2026-08-24",
       "title": "Cell-free DNA genomic and fragmentomic features for early outcome prediction in large B cell lymphoma.",
@@ -1484,79 +1551,6 @@ window.BHR_DATA = {
           ],
           "fact": "PubMed 记录显示该文献收录于 Updates in surgery，PMID 为 42635711。",
           "report": "Esophageal cancer (EC) remains a highly lethal malignancy, characterized by late diagnosis, early systemic dissemination, and high recurrence rates. Conventional diagnostic and surveillance strategies have limited sensitivity for early disease detection and mi...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42635710",
-      "date": "2026-08-24",
-      "title": "Liquid biopsy in colorectal cancer: redefining surgical decision-making.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635710/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Updates in surgery，PMID 为 42635710。",
-      "report": "Liquid biopsy (LB) has rapidly emerged as a minimally invasive approach to detecting tumor-derived material in the bloodstream, including circulating tumor DNA (ctDNA), circulating tumor cells, and extracellular vesicles. For colorectal surgeons, LB offers a d...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_07f304aca173b026006a8cf61ab69c87d0b4a0cfebb0d4c7b3",
-        "reviewedAt": "2026-08-25T01:54:51.828594+00:00",
-        "inputHash": "864a6205f46f29d44628ab6873ea9429438fb262dae9add5380fde0d71e34cf4",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录清晰地区分了事实、报告和推断，无不当临床结论，符合发布要求。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Updates in surgery，PMID 为 42635710。",
-          "report": "Liquid biopsy (LB) has rapidly emerged as a minimally invasive approach to detecting tumor-derived material in the bloodstream, including circulating tumor DNA (ctDNA), circulating tumor cells, and extracellular vesicles.",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
@@ -2784,6 +2778,83 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "pubmed-42639369",
+      "date": "2026-08-10",
+      "title": "Liquid biopsies for detection, characterization, and interception of therapy resistance in thoracic malignancies.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42639369/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42639369。",
+      "report": "Therapy resistance remains a leading cause of treatment failure and mortality in thoracic malignancies, despite major advances in targeted therapies and immunotherapies. Resistance evolves through heterogeneous, patient-specific mechanisms, including genetic a...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0d9d1958bdd22be0006a8de652ae3087d1a2d9816a68bdf258",
+        "reviewedAt": "2026-08-25T19:00:14.704155+00:00",
+        "inputHash": "1cb8a85acbb6bfce0938f69702efd4a67dbe6730b4bbb7404c99e6d7ac07b79f",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信息清晰分离，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平标记为中等，信息准确。"
+        },
+        "riskFlags": [
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42639369。",
+          "report": "Therapy resistance remains a leading cause of treatment failure and mortality in thoracic malignancies, despite major advances in targeted therapies and immunotherapies. Resistance evolves through heterogeneous, patient-specific mechanisms, including genetic a...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -4537,79 +4608,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42635224。",
           "report": "Protein Language Models (PLMs) have revolutionized protein engineering by capturing the evolutionary constraints inherent in natural protein sequences. However, precisely steering these models to engineer novel proteins with targeted functionalities remains ch...",
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42635246",
-      "date": "2026-08-01",
-      "title": "Liquid biopsies reveal dual compartments of cancer risk from tumor and host-derived mutations.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635246/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42635246。",
-      "report": "Circulating tumor DNA (ctDNA) and clonal hematopoiesis of indeterminate potential (CHIP) are two biologically distinct sources of somatic mutations detectable in blood. While ctDNA captures tumor-intrinsic alterations, CHIP arises from age-related hematopoieti...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_05fcbc97b3f1ddbf006a8c956c0abc87d1a902678932f4d0de",
-        "reviewedAt": "2026-08-24T19:02:58.637260+00:00",
-        "inputHash": "7737572a68157645743078814940350448a7fa80de6c3e41e0d018a24ad0b56a",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该条目符合出版要求，信息清晰且无临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，与源信息一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "信息源可靠，证据水平适中。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42635246。",
-          "report": "Circulating tumor DNA (ctDNA) and clonal hematopoiesis of indeterminate potential (CHIP) are two biologically distinct sources of somatic mutations detectable in blood. While ctDNA captures tumor-intrinsic alterations, CHIP arises from age-related hematopoieti...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }

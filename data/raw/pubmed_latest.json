@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-25T13:13:55.483386+00:00",
+  "capturedAt": "2026-08-25T19:00:04.849226+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-25"
   },
   "pmids": [
+    "42639847",
     "42638372",
     "42638344",
     "42638130",
     "42638069",
     "42637759",
-    "42636947",
     "42600555",
     "42580899",
     "42559559",
@@ -32,14 +32,32 @@
     "42625221",
     "42624861",
     "42624264",
+    "42640174",
+    "42639369",
     "42638446",
     "42636799",
     "42635847",
-    "42635711",
-    "42635710",
-    "42635246"
+    "42635711"
   ],
   "records": [
+    {
+      "pmid": "42639847",
+      "title": "Fine-Needle Aspiration of Salivary Gland Tumors With Low-Grade Oncocytic Features: Focusing on Oncocytoma Versus Oncocytic Mucoepidermoid Carcinoma.",
+      "abstract": "Salivary gland fine-needle aspirates (FNAs) with low-grade oncocytic features are diagnostically challenging due to the substantial morphologic overlap between benign oncocytic tumors and their malignant mimickers. This study evaluates the diagnostic discriminators, performance, and risk of malignancy of these lesions using the Milan System for Reporting Salivary Gland Cytopathology (MSRSGC). We retrospectively reviewed salivary gland FNA cases (2021-2025) categorized as Milan IVa: Benign neoplasm with oncocytic features, including Warthin tumor and oncocytoma/nodular oncocytic hyperplasia (NOH), and Milan IVb: Salivary gland neoplasm of uncertain malignant potential (SUMP) with oncocytic features, with surgical follow-up. Cytomorphological analysis was performed on liquid-based cytology (LBC), direct smears, and cell blocks. Features including architectural patterns, cytological details, and background were correlated with histology. Forty-nine cases were included. All 43 cases diagnosed as Milan IVa were confirmed as Warthin tumor or oncocytoma/nodular oncocytic hyperplasia. Warthin tumor shows cohesive, flat clusters of oncocytes along with a cystic debris-like background, while oncocytoma/NOH shows compact globoid clusters of oncocytes with a \"bunch of grapes\" pattern and clean background. In the six Milan IVb cases, follow-up histology included oncocytic mucoepidermoid carcinoma (OMEC, n = 2), oncocytoma/nodular oncocytic hyperplasia (n = 2), oncocytic lipoadenoma (n = 1), and spindle cell lipoma (n = 1). The OMEC cases form discohesive clusters and single cells. Cell block preparations revealed focal glandular structures and rare intracytoplasmic mucin. The MSRSGC effectively risk-stratifies low-grade oncocytic salivary gland lesions. While cohesive, organoid architecture supports a benign diagnosis, the presence of isolated cells and discohesive clusters is better classified as SUMP. Cell block preparation is useful for identifying mucin and glandular differentiation.",
+      "journal": "Diagnostic cytopathology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Rizal Medical Center, Pasig City, Metro Manila, Philippines.",
+        "Chinese General Hospital, College of Medicine, Manila, Philippines.",
+        "Department of Pathology and Laboratory Medicine, Taipei Veterans General Hospital, Taipei, Taiwan.",
+        "Department of Pathology, School of Medicine, National Yang Ming Chiao Tung University, Taipei, Taiwan."
+      ],
+      "doi": "10.1002/dc.70202",
+      "date": "2026-08-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42639847/"
+    },
     {
       "pmid": "42638372",
       "title": "Evaluating EndoC βH5 pseudoislets as a model for human islet transplantation.",
@@ -137,23 +155,6 @@
       "doi": "10.1038/s41467-026-75833-9",
       "date": "2026-07-22",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42637759/"
-    },
-    {
-      "pmid": "42636947",
-      "title": "Cancer-associated fibroblast-derived vascular endothelial growth factor a promotes gastric cancer organoid growth and chemotherapy resistance via paracrine signaling.",
-      "abstract": "Cancer-associated fibroblasts (CAFs) are key components of the tumor microenvironment and can influence tumor progression and therapeutic response. However, whether functional heterogeneity of CAFs contributes to 5-fluorouracil (5-FU) resistance in gastric cancer remains unclear. Patient-derived organoids (PDOs) and matched CAFs were established from gastric cancer specimens and cocultured using a Transwell noncontact system. The effects of CAFs on PDO growth and chemotherapy response were evaluated. Candidate secreted factors were analyzed by qRT-PCR and ELISA. Gain- and loss-of-function experiments, together with transcriptomic and protein analyses, were performed to investigate the underlying mechanisms. A CAF-containing xenograft model was established to evaluate the therapeutic effects of VEGFA blockade combined with 5-FU treatment in vivo. CAFs derived from different patients exhibited marked functional heterogeneity in regulating PDO growth and chemotherapy response. A VEGFA-associated functional CAF state significantly promoted PDO proliferation and enhanced resistance to 5-FU. Vascular endothelial growth factor A (VEGFA) was identified as a key secreted factor that was significantly upregulated in these growth-promoting CAFs. Exogenous VEGFA recapitulated the pro-growth and anti-apoptotic effects observed, whereas VEGFA blockade attenuated CAF-mediated chemoprotective effects and enhanced PDO sensitivity to 5-FU. In vivo, bevacizumab improved the response of CAF-containing tumors to 5-FU treatment, supporting the therapeutic relevance of targeting CAF-derived VEGFA. These effects were driven by the activation of the PI3K/AKT-mTOR survival pathway in PDOs. A VEGFA-associated functional CAF state promotes gastric cancer organoid growth and chemoresistance through paracrine signaling, highlighting the CAF-VEGFA axis as a potential therapeutic target.",
-      "journal": "Cellular signalling",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou 350014, China; Fujian Key Laboratory of Translational Cancer Medicine, Fuzhou 350014, China.",
-        "Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou 350014, China; Fujian Key Laboratory of Translational Cancer Medicine, Fuzhou 350014, China; College of Chemistry, Fuzhou University, 2 Xueyuan Road, Fuzhou 350116, China. Electronic address: zjyunbin@fimu.edu.cn.",
-        "Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou 350014, China; Fujian Key Laboratory of Translational Cancer Medicine, Fuzhou 350014, China; College of Chemistry, Fuzhou University, 2 Xueyuan Road, Fuzhou 350116, China. Electronic address: Linyuzhang@fjmu.edu.cn."
-      ],
-      "doi": "10.1016/j.cellsig.2026.112837",
-      "date": "2026-08-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636947/"
     },
     {
       "pmid": "42600555",
@@ -388,6 +389,46 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624264/"
     },
     {
+      "pmid": "42640174",
+      "title": "Elucidating PI3K/AKT/PTEN Pathway Alterations at Single-Cell Level in CTCs From HR+/HER2- Metastatic Breast Cancer.",
+      "abstract": "Alterations in the PI3K signaling pathway are common in hormone receptor-positive (HR+)/HER2-negative metastatic breast cancer (MBC) and are associated with response to PI3K and AKT inhibitor-targeted therapies. When metastasis biopsy is unavailable for genetic testing, circulating tumor DNA (ctDNA) analysis is an alternative strategy for tumor genotyping, but it is less sensitive for gain and loss analysis. Here, we assess molecular alterations of the genes of this axis-PIK3CA, AKT1, and PTEN-in circulating tumor cells (CTCs) from patients with HR+/HER2- MBC. CTCs from blood were isolated as single cells with DEPArrayNxT. Libraries were prepared for copy number analysis (CNA) and investigation of PIK3CA, AKT1, and PTEN mutational status. A subset of viable CTCs underwent 3' RNA sequencing for transcriptomic profiling. CTCs of 4/5 MBC patients (80%) exhibited single nucleotide variants (SNVs), and heterogeneity was observed at inter- and intra-patient levels. CNA profiling of CTCs from 8 patients revealed amplifications and gains of chromosomal regions hosting PIK3CA, AKT1, and PTEN. Notably, one patient presented both 10q32.31 loss and a nonsense mutation of the remaining PTEN allele, suggesting PTEN loss of function, an event potentially missed by ctDNA analysis. Integrated transcriptomic analysis highlighted patient-specific enrichment of pathways related to metabolism and RNA processing. Conclusively, single-CTC analysis enables comprehensive characterization of the PI3K/AKT/PTEN pathway, revealing molecular heterogeneity and capturing events not detectable by tumor tissue or ctDNA. This approach may enhance molecular stratification and guide the use of targeted therapies in MBC, supporting its integration into future precision oncology frameworks.",
+      "journal": "Cancer science",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Biosciences Laboratory, IRCCS Istituto Romagnolo Per Lo Studio Dei Tumori (IRST) \"Dino Amadori\", Meldola, Italy.",
+        "Medical Oncology, Breast & GYN Unit, IRCCS Istituto Romagnolo Per Lo Studio Dei Tumori (IRST) \"Dino Amadori\", Meldola, Italy.",
+        "Unit of Biostatistics and Clinical Trials, IRCCS Istituto Romagnolo Per Lo Studio Dei Tumori (IRST) \"Dino Amadori\", Meldola, Italy.",
+        "Outcome Research, IRCCS Istituto Romagnolo Per Lo Studio Dei Tumori (IRST) \"Dino Amadori\", Meldola, Italy.",
+        "Department of Medical and Surgical Sciences (DIMEC), University of Bologna, Bologna, Italy."
+      ],
+      "doi": "10.1111/cas.70508",
+      "date": "2026-08-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42640174/"
+    },
+    {
+      "pmid": "42639369",
+      "title": "Liquid biopsies for detection, characterization, and interception of therapy resistance in thoracic malignancies.",
+      "abstract": "Therapy resistance remains a leading cause of treatment failure and mortality in thoracic malignancies, despite major advances in targeted therapies and immunotherapies. Resistance evolves through heterogeneous, patient-specific mechanisms, including genetic alterations, epigenetic reprogramming, lineage plasticity, and tumor-microenvironment interactions, often emerging before radiographic progression or clinical relapse. Conventional tissue biopsies and imaging, while essential for diagnosis and treatment selection, are limited in their ability to capture spatial and temporal tumor heterogeneity or to support dynamic monitoring of tumor evolution. Liquid biopsy has therefore emerged as a minimally invasive approach for real-time assessment of tumor-derived biomarkers in circulation, enabling longitudinal tracking of resistance biology across the cancer care continuum. In this review, we highlight recent advances in liquid biopsy applications for thoracic malignancies, focusing on circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) as complementary analytes for baseline molecular profiling, detection of primary and acquired resistance to therapy, and identification of minimal residual disease and molecular relapse. Beyond mutation-based approaches, we highlight emerging non-genomic ctDNA features, including epigenomic and fragmentomic signatures, that capture treatment-induced adaptation and lineage plasticity not detectable by conventional plasma genomic profiling, and discuss advances in CTC technologies that preserve cellular and phenotypic context relevant to resistance and metastatic potential. Finally, we examine multimodal liquid biopsy strategies that integrate multiple circulating analytes with artificial intelligence-assisted methods to enhance sensitivity, provide a more comprehensive view of tumor biology, and inform adaptive therapy strategies. We also outline key analytical and clinical challenges that must be addressed through standardized, prospective trials to translate liquid biopsy-guided surveillance and early interception of resistance into improved patient outcomes.",
+      "journal": "Frontiers in oncology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University School of Medicine, Baltimore, MD, United States.",
+        "Thoracic Oncology Research Group, Trinity Translational Medicine Institute, St James's Hospital, Dublin, Ireland.",
+        "Department of Clinical Medicine, School of Medicine, Trinity College Dublin, Dublin, Ireland.",
+        "Trinity St. James's Cancer Institute, Trinity College Dublin, Dublin, Ireland.",
+        "The Lung Cancer Precision Medicine Center of Excellence, Johns Hopkins University School of Medicine, Baltimore, MD, United States.",
+        "The Johns Hopkins Molecular Tumor Board, Johns Hopkins Hospital, Baltimore, MD, United States."
+      ],
+      "doi": "10.3389/fonc.2026.1806868",
+      "date": "2026-08-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42639369/"
+    },
+    {
       "pmid": "42638446",
       "title": "Saliva Liquid Biopsy for Detection of Oral and Systemic Diseases.",
       "abstract": "Saliva has emerged as a compelling liquid biopsy for the non-invasive diagnosis and monitoring of both oral and systemic diseases. Secreted by major and minor salivary glands and enriched by gingival crevicular fluid, epithelial turnover, immune mediators, microbial products, and plasma-derived constituents, saliva reflects a biologically integrated interface between local oral environments and systemic physiology. This dual origin enables detection of disease-associated signals across multiple molecular layers, including extracellular RNA, cell-free DNA, genomic and epigenetic material, proteins, metabolites, microbial signatures, and hormones. Advances in high-throughput sequencing, mass spectrometry, and ultrasensitive immunoassays have revealed that salivary analytes can capture dynamic pathological processes ranging from periodontal inflammation and dental caries to oral and head and neck cancers, as well as systemic conditions such as non-oral cancers and autoimmune, cardiometabolic, infectious, endocrine, and neurodegenerative diseases. In particular, extracellular vesicle-encapsulated RNA, cfDNA fragmentomics, and methylation patterns have expanded the diagnostic reach of saliva beyond conventional protein-based biomarkers, while integrated multi-omics approaches increasingly improve diagnostic performance. Despite this progress, clinical translation remains constrained by biological complexity, including variable glandular contributions, oral microbiome interactions, and pre-analytical variability in collection and processing. Emerging point-of-care technologies, microfluidic platforms, and artificial intelligence-driven multi-omic integration are beginning to address these limitations, enabling higher analytical sensitivity and improved disease stratification. Regulatory pathways, including in vitro diagnostic frameworks and laboratory-developed test structures, are progressively accommodating salivary assays, as demonstrated during the COVID-19 pandemic. However, widespread clinical adoption will require rigorous standardization, large-scale validation, and demonstration of clinical utility. Together, saliva-based liquid biopsy represents a rapidly evolving diagnostic paradigm with the potential to shift disease detection towards earlier, minimally invasive, and data-rich precision medicine approaches across dentistry and systemic healthcare.",
@@ -486,47 +527,39 @@
       "doi": "10.1007/s13304-026-02814-4",
       "date": "2026-08-24",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635711/"
-    },
-    {
-      "pmid": "42635710",
-      "title": "Liquid biopsy in colorectal cancer: redefining surgical decision-making.",
-      "abstract": "Liquid biopsy (LB) has rapidly emerged as a minimally invasive approach to detecting tumor-derived material in the bloodstream, including circulating tumor DNA (ctDNA), circulating tumor cells, and extracellular vesicles. For colorectal surgeons, LB offers a dynamic measure of tumor biology that complements pathological staging and guides postoperative management beyond conventional anatomy-based risk stratification. A scoping review was conducted to evaluate the clinical implications of liquid biopsy in colorectal cancer. PubMed, EMBASE, and the Cochrane Library were systematically searched. Eligible human studies evaluated the diagnostic, prognostic, predictive, perioperative, treatment-monitoring, or surveillance applications of liquid biopsy in colorectal surgical oncology. In localized colon cancer, postoperative ctDNA detection is a marker of minimal residual disease, identifies patients at high risk of recurrence, and supports tailored adjuvant chemotherapy, enabling multiple trials evaluating de-escalation and escalation strategies based on postoperative LB. In rectal cancer, ctDNA kinetics during total neoadjuvant therapy predict pathological response and may guide identification of the optimal candidate for organ-preserving strategies. In metastatic CRC, plasma genotyping enables real-time assessment of RAS/BRAF/HER2/MSI status and, in later lines, supports anti-EGFR rechallenge when resistant clones decline. An increase in ctDNA levels detected through longitudinal monitoring anticipates relapse up to 9 months before radiographic evidence, enabling earlier intervention and potential surgical rescue. LB represents a paradigm shift in surgical oncology, integrating molecular data into perioperative care and surveillance. By aligning operative strategy with biological risk, colorectal surgeons can move toward truly personalized, molecularly guided surgery.",
-      "journal": "Updates in surgery",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Colorectal Surgery Unit, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy. emanuele.rausa@istitutotumori.mi.it.",
-        "Unit of Hereditary Digestive Tract Tumors, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy. emanuele.rausa@istitutotumori.mi.it.",
-        "Medical Oncology 1, Veneto Institute of Oncology, IOV-IRCCS, Padua, Italy.",
-        "Department of Biomedical Sciences for Health, Division of General Surgery, I.R.C.C.S. Ospedale Galeazzi - Sant'Ambrogio, University of Milan, Milan, Italy.",
-        "Colorectal Surgery Unit, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy.",
-        "Unit of Hereditary Digestive Tract Tumors, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy."
-      ],
-      "doi": "10.1007/s13304-026-02823-3",
-      "date": "2026-08-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635710/"
-    },
-    {
-      "pmid": "42635246",
-      "title": "Liquid biopsies reveal dual compartments of cancer risk from tumor and host-derived mutations.",
-      "abstract": "Circulating tumor DNA (ctDNA) and clonal hematopoiesis of indeterminate potential (CHIP) are two biologically distinct sources of somatic mutations detectable in blood. While ctDNA captures tumor-intrinsic alterations, CHIP arises from age-related hematopoietic clones and is often considered background noise. Here, we conduct a large-scale, tumor-type-resolved analysis of over 9000 patients with CHIP data and 1500 patients with ctDNA data across solid tumors profiled at Memorial Sloan Kettering Cancer Center. Our results reveal that CHIP and ctDNA mutations exhibit non-overlapping, clinically meaningful signals. CHIP mutations, particularly in DNA damage response and epigenetic regulators (e.g. PPM1D, CHEK2, ATM, TP53, ASXL1), are associated with worse overall survival, increased metastatic potential, and site-specific dissemination. ctDNA mutations in canonical oncogenic drivers (e.g. TP53, EGFR, KRAS, STK11) reflect tumor aggressiveness and correlate with poor prognosis and metastasis across multiple cancer types. Joint modeling in lung adenocarcinoma confirms the independent prognostic contributions of both compartments. Additionally, longitudinal clonal analysis links specific CHIP mutations to the emergence of hematologic malignancies under therapeutic pressure. These findings support a dual-compartment model of liquid biopsy, in which tumor- and host-derived mutations jointly inform on cancer risk, progression, and metastatic behavior. Integrating both compartments may enhance the clinical utility of blood-based biomarkers in oncology. All genomic and clinical data used in this study are available through cBioPortal. Summarized outputs and processed results tables are provided in Supplementary Data.",
-      "journal": "Bioinformatics (Oxford, England)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Medicine and Surgery, University of Milano-Bicocca, Milano, Italy.",
-        "Experimental Immunology Unit, IRCCS San Raffaele Scientific Institute, Milan, Italy.",
-        "Fondazione IRCCS San Gerardo dei Tintori di Monza, Monza, Italy."
-      ],
-      "doi": "10.1093/bioinformatics/btag491",
-      "date": "2026-08-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635246/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42639847",
+      "date": "2026-08-25",
+      "title": "Fine-Needle Aspiration of Salivary Gland Tumors With Low-Grade Oncocytic Features: Focusing on Oncocytoma Versus Oncocytic Mucoepidermoid Carcinoma.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42639847/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Diagnostic cytopathology，PMID 为 42639847。",
+      "report": "Salivary gland fine-needle aspirates (FNAs) with low-grade oncocytic features are diagnostically challenging due to the substantial morphologic overlap between benign oncocytic tumors and their malignant mimickers. This study evaluates the diagnostic discrimin...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42638344",
       "date": "2026-08-25",
@@ -585,6 +618,36 @@
       "fact": "PubMed 记录显示该文献收录于 Sheng wu gong cheng xue bao = Chinese journal of biotechnology，PMID 为 42638069。",
       "report": "Decellularized extracellular matrix can well preserve the biomimetic ultrastructure of native tissue, providing a suitable three-dimensional biomimetic microenvironment for the in vitro culture of cells and organoids. The aim of this study is to prepare a porc...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42640174",
+      "date": "2026-08-25",
+      "title": "Elucidating PI3K/AKT/PTEN Pathway Alterations at Single-Cell Level in CTCs From HR+/HER2- Metastatic Breast Cancer.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42640174/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer science，PMID 为 42640174。",
+      "report": "Alterations in the PI3K signaling pathway are common in hormone receptor-positive (HR+)/HER2-negative metastatic breast cancer (MBC) and are associated with response to PI3K and AKT inhibitor-targeted therapies. When metastasis biopsy is unavailable for geneti...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -682,38 +745,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42636947",
-      "date": "2026-08-24",
-      "title": "Cancer-associated fibroblast-derived vascular endothelial growth factor a promotes gastric cancer organoid growth and chemotherapy resistance via paracrine signaling.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636947/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cellular signalling，PMID 为 42636947。",
-      "report": "Cancer-associated fibroblasts (CAFs) are key components of the tumor microenvironment and can influence tumor progression and therapeutic response. However, whether functional heterogeneity of CAFs contributes to 5-fluorouracil (5-FU) resistance in gastric can...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42636799",
       "date": "2026-08-24",
       "title": "Cell-free DNA genomic and fragmentomic features for early outcome prediction in large B cell lymphoma.",
@@ -796,36 +827,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Updates in surgery，PMID 为 42635711。",
       "report": "Esophageal cancer (EC) remains a highly lethal malignancy, characterized by late diagnosis, early systemic dissemination, and high recurrence rates. Conventional diagnostic and surveillance strategies have limited sensitivity for early disease detection and mi...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42635710",
-      "date": "2026-08-24",
-      "title": "Liquid biopsy in colorectal cancer: redefining surgical decision-making.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635710/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Updates in surgery，PMID 为 42635710。",
-      "report": "Liquid biopsy (LB) has rapidly emerged as a minimally invasive approach to detecting tumor-derived material in the bloodstream, including circulating tumor DNA (ctDNA), circulating tumor cells, and extracellular vesicles. For colorectal surgeons, LB offers a d...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -974,6 +975,38 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42639369",
+      "date": "2026-08-10",
+      "title": "Liquid biopsies for detection, characterization, and interception of therapy resistance in thoracic malignancies.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42639369/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42639369。",
+      "report": "Therapy resistance remains a leading cause of treatment failure and mortality in thoracic malignancies, despite major advances in targeted therapies and immunotherapies. Resistance evolves through heterogeneous, patient-specific mechanisms, including genetic a...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42600555",
       "date": "2026-08-08",
       "title": "Sparse integrative dictionary learning resolves conserved drug-response states in multiple myeloma (MM).",
@@ -1030,36 +1063,6 @@
       "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42635224。",
       "report": "Protein Language Models (PLMs) have revolutionized protein engineering by capturing the evolutionary constraints inherent in natural protein sequences. However, precisely steering these models to engineer novel proteins with targeted functionalities remains ch...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42635246",
-      "date": "2026-08-01",
-      "title": "Liquid biopsies reveal dual compartments of cancer risk from tumor and host-derived mutations.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635246/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42635246。",
-      "report": "Circulating tumor DNA (ctDNA) and clonal hematopoiesis of indeterminate potential (CHIP) are two biologically distinct sources of somatic mutations detectable in blood. While ctDNA captures tumor-intrinsic alterations, CHIP arises from age-related hematopoieti...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
