@@ -4,6 +4,103 @@
   "asOfDate": "2026-08-25",
   "evidence": [
     {
+      "id": "evidence-pubmed-42636947",
+      "signalId": "pubmed-42636947",
+      "companyIds": [],
+      "publishedAt": "2026-08-24",
+      "snapshotDate": "2026-08-25",
+      "title": "Cancer-associated fibroblast-derived vascular endothelial growth factor a promotes gastric cancer organoid growth and chemotherapy resistance via paracrine signaling.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636947/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Cellular signalling，PMID 为 42636947。",
+      "report": "Cancer-associated fibroblasts (CAFs) are key components of the tumor microenvironment and can influence tumor progression and therapeutic response. However, whether functional heterogeneity of CAFs contributes to 5-fluorouracil (5-FU) resistance in gastric can...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42636811",
+      "signalId": "pubmed-42636811",
+      "companyIds": [],
+      "publishedAt": "2026-08-24",
+      "snapshotDate": "2026-08-25",
+      "title": "DDIAS shields single-stranded DNA in mitosis and promotes vertebrate brain development.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636811/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Cell，PMID 为 42636811。",
+      "report": "DNA double-strand breaks and unresolved DNA replication intermediates are particularly dangerous during mitosis. Paradoxically, cells inactivate canonical DNA repair mechanisms during chromosome segregation in favor of alternative pathways that depend on TOPBP...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42636797",
+      "signalId": "pubmed-42636797",
+      "companyIds": [],
+      "publishedAt": "2026-08-24",
+      "snapshotDate": "2026-08-25",
+      "title": "Targeting addiction to HMGB2-driven transcriptional programs in pancreatic cancer.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636797/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Longevity",
+        "Biomarkers",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "衰老",
+        "biomarker",
+        "longevity",
+        "肿瘤",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Cell reports，PMID 为 42636797。",
+      "report": "Pancreatic cancer remains at a stagnant 5-year survival of <13%, attributed to the high heterogeneity and plasticity of these tumors. To circumvent this, we focus on the abundant nuclear protein high mobility group-box protein 2 (HMGB2). HMGB2 depletion is key...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-pubmed-42636112",
       "signalId": "pubmed-42636112",
       "companyIds": [],
@@ -101,93 +198,31 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42635894",
-      "signalId": "pubmed-42635894",
+      "id": "evidence-pubmed-42636799",
+      "signalId": "pubmed-42636799",
       "companyIds": [],
       "publishedAt": "2026-08-24",
       "snapshotDate": "2026-08-25",
-      "title": "cGAS-STING Modulates the NF-κB Pathway to Influence the Occurrence of Ulcerative Colitis-Associated Colorectal Cancer.",
+      "title": "Cell-free DNA genomic and fragmentomic features for early outcome prediction in large B cell lymphoma.",
       "eventType": "Research",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635894/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636799/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
+        "Biotech",
         "Precision Oncology"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
+        "biotech",
         "肿瘤"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Digestive diseases and sciences，PMID 为 42635894。",
-      "report": "Ulcerative colitis (UC) is a well-established high-risk contributor for the pathogenesis of colitis-associated colorectal cancer (CAC), with patients exhibiting a markedly increased risk of CAC compared with the general population. However, the underlying mech...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42635882",
-      "signalId": "pubmed-42635882",
-      "companyIds": [],
-      "publishedAt": "2026-08-24",
-      "snapshotDate": "2026-08-25",
-      "title": "Chemotherapy-induced CAF-associated stromal remodeling in a humanized stroma pancreatic ductal adenocarcinoma organoid xenograft model: a comparison between GP and GS.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635882/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Human cell，PMID 为 42635882。",
-      "report": "Pancreatic ductal adenocarcinoma features a dense, desmoplastic tumor microenvironment (TME) dominated by cancer-associated fibroblasts (CAFs). While gemcitabine plus nab-paclitaxel (approximated as gemcitabine plus paclitaxel [GP]) and gemcitabine plus S-1 (G...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42635834",
-      "signalId": "pubmed-42635834",
-      "companyIds": [],
-      "publishedAt": "2026-08-24",
-      "snapshotDate": "2026-08-25",
-      "title": "Evolutionary co-option of endogenous retroviruses: syncytins as regulators of placental development and disease.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635834/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Molecular biology reports，PMID 为 42635834。",
-      "report": "Syncytins are envelope proteins of retroviral origin that have been evolutionarily co-opted to play essential roles in placental biology. Primarily recognized for mediating the fusion of cytotrophoblasts into the syncytiotrophoblast, a multinucleated epitheliu...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42636799。",
+      "report": "Curative-intent immunochemotherapy fails in ∼30% of patients with large B cell lymphoma (LBCL), yet no validated molecular tool enables early identification of high-risk individuals to guide treatment intensification. Using shallow whole-genome sequencing (sWG...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -304,36 +339,6 @@
       "fact": "PubMed 记录显示该文献收录于 New biotechnology，PMID 为 42633869。",
       "report": "Barcoding methods are powerful tools for screening large libraries and have successfully been employed using DNA-centric approaches for over two decades. Yet despite the central role of proteins in most biological processes, protein-based barcoding methods hav...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42633865",
-      "signalId": "pubmed-42633865",
-      "companyIds": [],
-      "publishedAt": "2026-08-23",
-      "snapshotDate": "2026-08-25",
-      "title": "Liquid biopsy-based detection of circulating and exfoliated cholangiocarcinoma tumor cells from blood and bile using heparan sulfate octasaccharides on integrated microfluidic systems.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42633865/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Methods (San Diego, Calif.)，PMID 为 42633865。",
-      "report": "Early diagnosis of cholangiocarcinoma (CCA) remains challenging because existing diagnostic approaches often lack sufficient sensitivity for reliable detection of early-stage disease. Circulating tumor cells (CTCs) in blood and exfoliated tumor cells (ETCs) in...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

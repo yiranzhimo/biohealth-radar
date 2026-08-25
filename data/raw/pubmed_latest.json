@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-25T01:54:43.234299+00:00",
+  "capturedAt": "2026-08-25T07:11:02.297863+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-25"
   },
   "pmids": [
+    "42636947",
+    "42636811",
+    "42636797",
     "42636112",
     "42636109",
     "42635953",
-    "42635894",
-    "42635882",
-    "42635834",
     "42600555",
     "42580899",
     "42559559",
@@ -32,14 +32,86 @@
     "42625221",
     "42624861",
     "42624264",
+    "42636799",
     "42635847",
     "42635711",
     "42635710",
     "42635246",
-    "42634815",
-    "42633865"
+    "42634815"
   ],
   "records": [
+    {
+      "pmid": "42636947",
+      "title": "Cancer-associated fibroblast-derived vascular endothelial growth factor a promotes gastric cancer organoid growth and chemotherapy resistance via paracrine signaling.",
+      "abstract": "Cancer-associated fibroblasts (CAFs) are key components of the tumor microenvironment and can influence tumor progression and therapeutic response. However, whether functional heterogeneity of CAFs contributes to 5-fluorouracil (5-FU) resistance in gastric cancer remains unclear. Patient-derived organoids (PDOs) and matched CAFs were established from gastric cancer specimens and cocultured using a Transwell noncontact system. The effects of CAFs on PDO growth and chemotherapy response were evaluated. Candidate secreted factors were analyzed by qRT-PCR and ELISA. Gain- and loss-of-function experiments, together with transcriptomic and protein analyses, were performed to investigate the underlying mechanisms. A CAF-containing xenograft model was established to evaluate the therapeutic effects of VEGFA blockade combined with 5-FU treatment in vivo. CAFs derived from different patients exhibited marked functional heterogeneity in regulating PDO growth and chemotherapy response. A VEGFA-associated functional CAF state significantly promoted PDO proliferation and enhanced resistance to 5-FU. Vascular endothelial growth factor A (VEGFA) was identified as a key secreted factor that was significantly upregulated in these growth-promoting CAFs. Exogenous VEGFA recapitulated the pro-growth and anti-apoptotic effects observed, whereas VEGFA blockade attenuated CAF-mediated chemoprotective effects and enhanced PDO sensitivity to 5-FU. In vivo, bevacizumab improved the response of CAF-containing tumors to 5-FU treatment, supporting the therapeutic relevance of targeting CAF-derived VEGFA. These effects were driven by the activation of the PI3K/AKT-mTOR survival pathway in PDOs. A VEGFA-associated functional CAF state promotes gastric cancer organoid growth and chemoresistance through paracrine signaling, highlighting the CAF-VEGFA axis as a potential therapeutic target.",
+      "journal": "Cellular signalling",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou 350014, China; Fujian Key Laboratory of Translational Cancer Medicine, Fuzhou 350014, China.",
+        "Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou 350014, China; Fujian Key Laboratory of Translational Cancer Medicine, Fuzhou 350014, China; College of Chemistry, Fuzhou University, 2 Xueyuan Road, Fuzhou 350116, China. Electronic address: zjyunbin@fimu.edu.cn.",
+        "Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou 350014, China; Fujian Key Laboratory of Translational Cancer Medicine, Fuzhou 350014, China; College of Chemistry, Fuzhou University, 2 Xueyuan Road, Fuzhou 350116, China. Electronic address: Linyuzhang@fjmu.edu.cn."
+      ],
+      "doi": "10.1016/j.cellsig.2026.112837",
+      "date": "2026-08-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636947/"
+    },
+    {
+      "pmid": "42636811",
+      "title": "DDIAS shields single-stranded DNA in mitosis and promotes vertebrate brain development.",
+      "abstract": "DNA double-strand breaks and unresolved DNA replication intermediates are particularly dangerous during mitosis. Paradoxically, cells inactivate canonical DNA repair mechanisms during chromosome segregation in favor of alternative pathways that depend on TOPBP1 and CIP2A, but how these pathways function is still poorly defined. Here, we describe the identification of DDIAS as a mitosis-specific DNA damage response protein. We establish DDIAS as a phosphorylation-dependent component and effector of the TOPBP1-CIP2A complex, and we demonstrate that DDIAS protects single-stranded DNA from aberrant nucleolytic processing to safeguard chromosome integrity during mitosis, particularly in BRCA1-/BRCA2-deficient cells. We also identify biallelic inactivating mutations in DDIAS in patients with a severe neurodevelopmental disorder and, using human cerebral organoids and zebrafish, we show that DDIAS plays a critical and evolutionarily conserved role in limiting DNA damage specifically in neural progenitor cells. These findings demonstrate a physiological role for the DNA damage response in mitosis during vertebrate neurodevelopment.",
+      "journal": "Cell",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; Center for Chromosome Stability, University of Copenhagen, Copenhagen, Denmark.",
+        "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; Center for Gene Expression, University of Copenhagen, Copenhagen, Denmark.",
+        "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark.",
+        "Department of Cancer and Genomic Sciences, College of Medicine and Health, University of Birmingham, Birmingham, UK.",
+        "Genome Damage and Stability Centre, School of Life Sciences, University of Sussex, Brighton, UK.",
+        "Department of Oncology, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford, UK.",
+        "Department of Biological and Biomedical Sciences, Aga Khan University, Karachi, Pakistan.",
+        "Department of Paediatrics and Child Health, Aga Khan University, Karachi, Pakistan.",
+        "Department of Neurology, Oslo University Hospital, Oslo, Norway; Institute of Clinical Medicine, University of Oslo, Oslo, Norway.",
+        "Department of Neurology, Oslo University Hospital, Oslo, Norway.",
+        "Department of Biological and Biomedical Sciences, Aga Khan University, Karachi, Pakistan; Centre for Regenerative Medicine and Stem Cell Research, Aga Khan University, Karachi, Pakistan.",
+        "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; College of Health Sciences, VinUniversity, Hanoi, Vietnam.",
+        "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; Center for Gene Expression, University of Copenhagen, Copenhagen, Denmark. Electronic address: fenaochs@sund.ku.dk.",
+        "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; Center for Chromosome Stability, University of Copenhagen, Copenhagen, Denmark; Department of Oncology, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford, UK. Electronic address: ablackford@sund.ku.dk."
+      ],
+      "doi": "10.1016/j.cell.2026.07.041",
+      "date": "2026-08-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636811/"
+    },
+    {
+      "pmid": "42636797",
+      "title": "Targeting addiction to HMGB2-driven transcriptional programs in pancreatic cancer.",
+      "abstract": "Pancreatic cancer remains at a stagnant 5-year survival of <13%, attributed to the high heterogeneity and plasticity of these tumors. To circumvent this, we focus on the abundant nuclear protein high mobility group-box protein 2 (HMGB2). HMGB2 depletion is key for establishing replicative senescence in normal cells, but it is significantly overexpressed across multiple cancer types. Here, we combine single-cell and spatial genomics with patient-derived organoids and tumor samples to show how increased HMGB2 availability represents a transcriptional addiction that fuels cell-cycle progression and growth. We repurpose a small molecule inhibitor targeting HMGB2 to interfere with its binding to DNA, restrict chromatin accessibility at promoters, and constrain tumor growth both in vitro and in vivo. 3D chromatin interactions involving HMGB2-bound enhancers and promoters also collapse upon drug treatment. Thus, pharmacological HMGB2 targeting represents a universal strategy for managing cancer progression irrespective of its genetic or molecular characteristics.",
+      "journal": "Cell reports",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Institute of Pathology, University Medical Center Göttingen, 37075 Göttingen, Germany; Clinical Research Unit (CRU) 5002, University Medical Center Göttingen, 37075 Göttingen, Germany.",
+        "Institute of Pathology, University Medical Center Göttingen, 37075 Göttingen, Germany.",
+        "Clinical Research Unit (CRU) 5002, University Medical Center Göttingen, 37075 Göttingen, Germany; Department of General, Visceral and Pediatric Surgery, University Medical Center Göttingen, 37075 Göttingen, Germany.",
+        "Regensburg Center for Biochemistry (RCB), University of Regensburg, 93053 Regensburg, Germany.",
+        "Clinical Research Unit (CRU) 5002, University Medical Center Göttingen, 37075 Göttingen, Germany; Department of Gastroenterology, Gastrointestinal Oncology and Endocrinology, University Medical Center Göttingen, 37075 Göttingen, Germany.",
+        "Genome Organization and Regulation, Max Planck Institute for Multidisciplinary Sciences, 37077 Göttingen, Germany.",
+        "NGS Facility for Integrative Genomics (NIG), University Medical Center Göttingen, 37075 Göttingen, Germany.",
+        "Clinical Research Unit (CRU) 5002, University Medical Center Göttingen, 37075 Göttingen, Germany; Department of Molecular Oncology, Göttingen Center of Molecular Biosciences (GZMB), University Medical Center Göttingen, 37077 Göttingen, Germany.",
+        "Clinical Research Unit (CRU) 5002, University Medical Center Göttingen, 37075 Göttingen, Germany; Department of Molecular Oncology, Göttingen Center of Molecular Biosciences (GZMB), University Medical Center Göttingen, 37077 Göttingen, Germany; Max Planck Institute for Multidisciplinary Sciences, 37077 Göttingen, Germany; Center for Cancer Genome Dynamics, University Medical Center Göttingen, 37075 Göttingen, Germany.",
+        "Clinical Research Unit (CRU) 5002, University Medical Center Göttingen, 37075 Göttingen, Germany; NGS Facility for Integrative Genomics (NIG), University Medical Center Göttingen, 37075 Göttingen, Germany; Center for Cancer Genome Dynamics, University Medical Center Göttingen, 37075 Göttingen, Germany.",
+        "Clinical Research Unit (CRU) 5002, University Medical Center Göttingen, 37075 Göttingen, Germany; Department of Gastroenterology, Gastrointestinal Oncology and Endocrinology, University Medical Center Göttingen, 37075 Göttingen, Germany; Center for Cancer Genome Dynamics, University Medical Center Göttingen, 37075 Göttingen, Germany.",
+        "Clinical Research Unit (CRU) 5002, University Medical Center Göttingen, 37075 Göttingen, Germany; Department of General, Visceral and Pediatric Surgery, University Medical Center Göttingen, 37075 Göttingen, Germany; Center for Cancer Genome Dynamics, University Medical Center Göttingen, 37075 Göttingen, Germany.",
+        "Institute of Pathology, University Medical Center Göttingen, 37075 Göttingen, Germany; Clinical Research Unit (CRU) 5002, University Medical Center Göttingen, 37075 Göttingen, Germany; Center for Cancer Genome Dynamics, University Medical Center Göttingen, 37075 Göttingen, Germany. Electronic address: argyris.papantonis@med.uni-goettingen.de."
+      ],
+      "doi": "10.1016/j.celrep.2026.117649",
+      "date": "2026-08-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636797/"
+    },
     {
       "pmid": "42636112",
       "title": "Protocol for preparing small, fragile samples from Schistosoma mansoni and Drosophila melanogaster brains for MALDI mass spectrometry imaging.",
@@ -99,64 +171,6 @@
       "doi": "10.1002/advs.77223",
       "date": "2026-08-24",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635953/"
-    },
-    {
-      "pmid": "42635894",
-      "title": "cGAS-STING Modulates the NF-κB Pathway to Influence the Occurrence of Ulcerative Colitis-Associated Colorectal Cancer.",
-      "abstract": "Ulcerative colitis (UC) is a well-established high-risk contributor for the pathogenesis of colitis-associated colorectal cancer (CAC), with patients exhibiting a markedly increased risk of CAC compared with the general population. However, the underlying mechanisms driving this transformation are incompletely elucidated. The expression of key molecules in the cGAS-STING/NF-κB signaling pathway was detected via RT-qPCR and Western blot. Immunofluorescence staining was performed to assess the release of double-stranded DNA (dsDNA). Immunohistochemistry (IHC) was used to examine the expression of cGAS, STING, p-p65, Ki67, and Cleaved caspase-3. Colon crypt cells isolated from mice were utilized to establish an organoid model, through which organoid viability, morphology, inflammatory factor secretion, and p65 nuclear translocation were evaluated. Dextran sulfate sodium (DSS)-induced UC mouse model and azoxymethane (AOM)/DSS combined CAC mouse model were constructed. Disease activity index (DAI), colon length, and tumor number were recorded to evaluate disease progression and verify the in vivo function of the cGAS-STING pathway. Plasmid transfection and pathway inhibitors were applied to explore the specific mechanisms underlying the cGAS-STING pathway. Compared with the control group, the mRNA and protein levels of cGAS-STING/NF-κB pathway-related molecules were progressively elevated, while IκBα expression was reduced, accompanied by cytoplasmic dsDNA accumulation in colonic tissues of UC and CAC mice, indicating that this pathway was gradually activated during the progression from inflammation to tumorigenesis. In the colon organoid model, DSS treatment triggered activation of this pathway, resulting in structural destruction and enhanced secretion of inflammatory cytokines. The STING agonist SR-717 exacerbated these pathological changes and facilitated p65 nuclear translocation, whereas the STING inhibitor H-151 or cGAS knockdown alleviated tissue injury and suppressed p65 nuclear translocation. Mechanistic investigations revealed that the NF-κB inhibitor Bay11-7082 effectively abrogated the proinflammatory effects induced by SR-717. Consistent with in vitro findings, in vivo data from the CAC mouse model further demonstrated that SR-717 administration promoted tumor formation, as evidenced by upregulated expression of the proliferation marker Ki67 and downregulated expression of the apoptotic marker Cleaved caspase-3. Notably, co-treatment with Bay11-7082 reversed the tumor-promoting phenotypes driven by SR-717. This study suggests that the cGAS-STING signaling pathway plays an important promoting role in the malignant transformation from UC to CAC by activating NF-κB signaling, providing experimental evidence for elucidating the pathogenesis of CAC.",
-      "journal": "Digestive diseases and sciences",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of General Surgery, Nanjing Drum Tower Hospital Group SuQian Hospital, No.138, South Huanghe Road, Sucheng District, Suqian City, 223800, Jiangsu Province, China.",
-        "Department of General Surgery, The First Affiliated Hospital of Soochow University, No. 899 Pinghai Road, Gusu District, Suzhou City, 215006, Jiangsu Province, China.",
-        "Department of General Surgery, The First Affiliated Hospital of Soochow University, No. 899 Pinghai Road, Gusu District, Suzhou City, 215006, Jiangsu Province, China. zhuxinguo25@163.com."
-      ],
-      "doi": "10.1007/s10620-026-10183-6",
-      "date": "2026-08-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635894/"
-    },
-    {
-      "pmid": "42635882",
-      "title": "Chemotherapy-induced CAF-associated stromal remodeling in a humanized stroma pancreatic ductal adenocarcinoma organoid xenograft model: a comparison between GP and GS.",
-      "abstract": "Pancreatic ductal adenocarcinoma features a dense, desmoplastic tumor microenvironment (TME) dominated by cancer-associated fibroblasts (CAFs). While gemcitabine plus nab-paclitaxel (approximated as gemcitabine plus paclitaxel [GP]) and gemcitabine plus S-1 (GS) are standard regimens with distinct clinical indications, their specific effects on tumor suppression and CAF-associated stromal remodeling remain unclear. Using a humanized, three-dimensional (3D) S2-013 organoid xenograft model integrating human mesenchymal stem cells (MSCs) and human endothelial cells, we investigated the histopathological and immunohistochemical alterations induced by GP and GS. We quantitatively evaluated tumor parenchymal growth using cytokeratin 19 (CK19) and CAF-associated marker profiles, including α-smooth muscle actin (αSMA), fibroblast activation protein (FAP), platelet-derived growth factor receptors (PDGFR), and interleukin-6 (IL-6). Both regimens clearly suppressed tumor growth, but only GP significantly reduced parenchymal tumor growth compared with untreated controls. Notably, the treatments selectively remodeled the peritumoral stroma in the humanized xenograft model: PDGFR-expressing CAF-like cells were significantly reduced in the GP group, whereas FAP-expressing CAF-like cells and IL-6-expressing stromal cells were significantly decreased in the GS group. αSMA expression showed a general decreasing trend in both therapeutic arms. In summary, GP and GS chemotherapies induced distinct, measurable humanized TME remodeling modalities beyond direct cytotoxicity. By successfully recapitulating drug-stroma interactions and suggesting the human MSC origin of the peritumoral CAFs, this study demonstrates the robustness of our organoid xenograft model as a powerful preclinical screening platform for evaluating and predicting the efficacy of novel stroma-targeted and immunomodulatory investigative compounds.",
-      "journal": "Human cell",
-      "publicationTypes": [
-        "Journal Article",
-        "Comparative Study"
-      ],
-      "affiliations": [
-        "Department of Pathology, Kochi Medical School, Kochi University, Nankoku, Kochi, 783-8505, Japan.",
-        "Department of Gastroenterology and Hepatology, Kochi Medical School, Kochi University, Kohasu, Oko-Cho, Nankoku, Kochi, 783-8505, Japan.",
-        "Department of Gastroenterology and Hepatology, Kochi Medical School, Kochi University, Kohasu, Oko-Cho, Nankoku, Kochi, 783-8505, Japan. ktaniuchi@kochi-u.ac.jp."
-      ],
-      "doi": "10.1007/s13577-026-01443-8",
-      "date": "2026-08-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635882/"
-    },
-    {
-      "pmid": "42635834",
-      "title": "Evolutionary co-option of endogenous retroviruses: syncytins as regulators of placental development and disease.",
-      "abstract": "Syncytins are envelope proteins of retroviral origin that have been evolutionarily co-opted to play essential roles in placental biology. Primarily recognized for mediating the fusion of cytotrophoblasts into the syncytiotrophoblast, a multinucleated epithelium, critical for nutrient transport and maternal-fetal immune tolerance. Syncytins also contribute to broader aspects of placental development through diverse mechanistic pathways. This review focuses on the evolutionary origins and functional mechanisms of Syncytin-1 (encoded by HERV-W) and Syncytin-2 (encoded by HERV-FRD) in orchestrating placental morphogenesis and homeostasis. We further discuss the clinical significance of aberrant syncytin expression, which is associated with adverse pregnancy outcomes including preeclampsia, intrauterine growth restriction, gestational diabetes mellitus, and trophoblastic disease. Additionally, we examine how exogenous viral infections, such as cytomegalovirus and SARS-CoV-2, may disrupt syncytin transcriptional regulation and compromise placental integrity. Collectively, syncytins represent a paradigm of evolutionary viral domestication, wherein pathogenic genetic elements have been repurposed into indispensable mediators of human reproduction. Their precise spatiotemporal regulation is paramount for optimal placental function and maternal-fetal health. Future research leveraging advanced omics technologies and placental organoid systems will be instrumental in elucidating underlying molecular mechanisms and developing targeted therapeutic interventions for pregnancy-related disorders.",
-      "journal": "Molecular biology reports",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Biochemistry, All India Institute of Medical Sciences New Delhi, New Delhi, India.",
-        "Department of Animal Sciences, University of Illinois Urbana-Champaign, Urbana, Illinois, USA.",
-        "Department of Obstetrics and Gynaecology, All India Institute of Medical Sciences New Delhi, New Delhi, India.",
-        "Faculty of Biosciences, Heidelberg University, Heidelberg, Germany.",
-        "Division of Pediatric Infectious Diseases, Miller School of Medicine, University of Miami, Miami, FL, USA.",
-        "Department of Biochemistry, Kasturba Medical College, Manipal Academy of Higher Education, Manipal, India.",
-        "School of Medicine, University of Missouri-Kansas City, Kansas City, USA. nnayak@umkc.edu.",
-        "Department of Biochemistry, All India Institute of Medical Sciences New Delhi, New Delhi, India. subhradip.k@aiims.edu."
-      ],
-      "doi": "10.1007/s11033-026-12627-8",
-      "date": "2026-08-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635834/"
     },
     {
       "pmid": "42600555",
@@ -391,6 +405,49 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624264/"
     },
     {
+      "pmid": "42636799",
+      "title": "Cell-free DNA genomic and fragmentomic features for early outcome prediction in large B cell lymphoma.",
+      "abstract": "Curative-intent immunochemotherapy fails in ∼30% of patients with large B cell lymphoma (LBCL), yet no validated molecular tool enables early identification of high-risk individuals to guide treatment intensification. Using shallow whole-genome sequencing (sWGS) of plasma cell-free DNA from 190 LBCL patients, we develop and validate the ACT score (aberrations, composition of fragments, and terminal motif analyses), a composite classifier integrating genomic and fragmentomic features from a single post-cycle-1 sample. ACT-positive patients have worse 2-year outcomes versus ACT-negative patients: time-to-progression 29% vs. 83% (hazard ratio [HR]: 4.4, 95% confidence interval [CI]: 1.9-10.0; p = 1.5 × 10-4) and overall survival 47% vs. 93% (HR: 8.7, 95% CI: 3.0-25.4; p = 1.8 × 10-6). The ACT score is independently prognostic of the International Prognostic Index, and their combination identifies the highest risk patients. Unlike mutation-based approaches, this assay requires neither tumor tissue, germline control, nor a baseline plasma sample. Built on open-source tools and sWGS, the ACT score offers a feasible, scalable strategy for early risk stratification in aggressive LBCL.",
+      "journal": "Cell reports. Medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Amsterdam UMC Location Vrije Universiteit Amsterdam, Hematology, Amsterdam, the Netherlands; Amsterdam UMC Location Vrije Universiteit Amsterdam, Pathology, Amsterdam, the Netherlands; Cancer Center Amsterdam, Imaging and Biomarkers, Amsterdam, the Netherlands.",
+        "Amsterdam UMC Location Vrije Universiteit Amsterdam, Pathology, Amsterdam, the Netherlands; Cancer Center Amsterdam, Imaging and Biomarkers, Amsterdam, the Netherlands; Institute for Molecular Medicine Finland (FIMM), HiLIFE, University of Helsinki, Helsinki, Finland.",
+        "Amsterdam UMC Location Vrije Universiteit Amsterdam, Pathology, Amsterdam, the Netherlands; Cancer Center Amsterdam, Imaging and Biomarkers, Amsterdam, the Netherlands.",
+        "Cancer Research UK National Biomarker Centre, University of Manchester, Manchester, UK.",
+        "Hemato-Oncology Foundation for Adults in the Netherlands (HOVON), Rotterdam, the Netherlands.",
+        "Amsterdam UMC Location Vrije Universiteit Amsterdam, Pathology, Amsterdam, the Netherlands.",
+        "Amsterdam UMC Location Vrije Universiteit Amsterdam, Hematology, Amsterdam, the Netherlands.",
+        "Netherlands Comprehensive Cancer Organization (IKNL), Utrecht, the Netherlands.",
+        "Dijklander Hospital, Hoorn, the Netherlands.",
+        "Gelre Ziekenhuis, Zutphen, the Netherlands.",
+        "Maasstad Ziekenhuis, Rotterdam, the Netherlands.",
+        "Amphia Ziekenhuis, Breda, the Netherlands.",
+        "St. Antonius Ziekenhuis, Nieuwegein, the Netherlands.",
+        "Jeroen Bosch Ziekenhuis, 's-Hertogenbosch, the Netherlands.",
+        "Flevoziekenhuis, Almere, the Netherlands.",
+        "Medical Center Leeuwarden, Leeuwarden, the Netherlands.",
+        "Adrz, Goes, the Netherlands.",
+        "Albert Schweitzer Ziekenhuis, Dordrecht, the Netherlands.",
+        "University Medical Center Groningen, Groningen, the Netherlands.",
+        "Maastricht University Medical Center, Maastricht, the Netherlands.",
+        "VieCuri Medical Center, Venlo, the Netherlands.",
+        "Maxima Medical Center, Eindhoven, the Netherlands.",
+        "Meander Medical Center, Amersfoort, the Netherlands.",
+        "Spaarne Gasthuis, Hoofddorp, the Netherlands.",
+        "University Medical Center Utrecht, Utrecht, the Netherlands.",
+        "University Hospitals Leuven, Leuven, Belgium.",
+        "Leiden University Medical Center, Leiden, the Netherlands.",
+        "Amsterdam UMC Location Vrije Universiteit Amsterdam, Hematology, Amsterdam, the Netherlands; Cancer Center Amsterdam, Imaging and Biomarkers, Amsterdam, the Netherlands.",
+        "Amsterdam UMC Location Vrije Universiteit Amsterdam, Pathology, Amsterdam, the Netherlands; Cancer Center Amsterdam, Imaging and Biomarkers, Amsterdam, the Netherlands; Cancer Research UK National Biomarker Centre, University of Manchester, Manchester, UK. Electronic address: florent.mouliere@cruk.manchester.ac.uk."
+      ],
+      "doi": "10.1016/j.xcrm.2026.103006",
+      "date": "2026-08-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636799/"
+    },
+    {
       "pmid": "42635847",
       "title": "Minimal Residual Disease in Head and Neck Cancer: Molecular Surveillance and Clinical Action.",
       "abstract": "Recurrence following curative-intent treatment for head and neck squamous cell carcinoma (HNSCC) approaches 50% in locally advanced disease, yet conventional surveillance detects relapse only after anatomical or metabolic thresholds are reached. Minimal residual disease (MRD) monitoring, using circulating tumor DNA (ctDNA) and viral DNA biomarkers, offers an earlier, molecularly informed framework for post-treatment surveillance. This structured narrative review synthesizes contemporary evidence on MRD in HNSCC, drawing on a search of PubMed and Scopus covering January 2020 to March 2026, and defines its role as a clinical instrument for risk-adapted surveillance and decision-making. Across prospective cohorts and platform-validation studies, MRD positivity is independently associated with recurrence risk, with hazard ratios ranging from 3- to tenfold across tumor-informed ctDNA platforms, and molecular relapse frequently precedes radiologic detection by months. Viral DNA assays demonstrate specificities exceeding 95% in virally mediated subtypes. Early interventional data suggest potential for MRD-guided treatment adaptation, but results have been mixed: a recent HPV ctDNA-guided de-escalation trial closed early due to an unacceptable recurrence rate, underscoring that standardized thresholds, optimal testing intervals, and definitive evidence of clinical utility remain unresolved. MRD should currently be integrated as an adjunct to established surveillance modalities rather than a standalone trigger for intervention. Results are best interpreted longitudinally, and an early post-treatment molecular checkpoint at 2-6 weeks represents a high-yield decision point where confirmed positivity may justify intensified evaluation and multidisciplinary review.",
@@ -481,31 +538,106 @@
       "doi": "10.2147/CMAR.S622575",
       "date": "2026-08-19",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42634815/"
-    },
-    {
-      "pmid": "42633865",
-      "title": "Liquid biopsy-based detection of circulating and exfoliated cholangiocarcinoma tumor cells from blood and bile using heparan sulfate octasaccharides on integrated microfluidic systems.",
-      "abstract": "Early diagnosis of cholangiocarcinoma (CCA) remains challenging because existing diagnostic approaches often lack sufficient sensitivity for reliable detection of early-stage disease. Circulating tumor cells (CTCs) in blood and exfoliated tumor cells (ETCs) in bile represent valuable targets for liquid biopsy-based detection; however, their low abundance and the complexity of clinical sample analysis pose substantial technical challenges for reliable enrichment and identification. Herein, we present a reproducible workflow for isolating and identifying CCA tumor cells from blood for CTCs and bile for ETCs using synthetic cell-surface heparan sulfate (HS) octasaccharide-functionalized magnetic beads (MBs) on integrated microfluidic systems. The method combined sample pre-processing, magnetic bead-based enrichment, controlled low-shear mixing and immunofluorescence-based identification into a unified workflow compatible with distinct clinical sample types. Key operational parameters, including MB concentration, mixing frequency, and pressure settings, were detailed to facilitate consistent performance. Using this workflow, tumor cell capture rates of approximately 70 % in bile (for ETCs) and blood (for CTCs) were achieved, with a total processing time of 60-90 min per sample under clinically relevant low-abundance conditions. The platform enables reliable detection of as few as 1 tumor cell per mL of blood or bile. This method provides a practical and adaptable strategy for glycosaminoglycan-mediated liquid biopsy applications and may be extended to other tumor-cell enrichment workflows involving heterogeneous cell-surface interactions.",
-      "journal": "Methods (San Diego, Calif.)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Power Mechanical Engineering, National Tsing Hua University, Hsinchu, Taiwan.",
-        "Genomics Research Center, Academia Sinica, Taipei, Taiwan.",
-        "Institute of NanoEngineering and Microsystems, National Tsing Hua University, Hsinchu, Taiwan.",
-        "Division of Gastroenterology and Hepatology, Department of Internal Medicine, National Cheng Kung University Hospital, Tainan, Taiwan; Institute of Clinical Medicine, National Cheng Kung University Hospital, Tainan, Taiwan.",
-        "Department of Oncology, Taipei Veterans General Hospital, Taipei, Taiwan; School of Medicine, College of Medicine, National Yang Ming Chiao Tung University, Taipei, Taiwan.",
-        "Division of Gastroenterology and Hepatology, Department of Internal Medicine, National Cheng Kung University Hospital, Tainan, Taiwan; Institute of Clinical Medicine, National Cheng Kung University Hospital, Tainan, Taiwan; Division of General Surgery, Department of Surgery, National Cheng Kung University Hospital, Tainan, Taiwan. Electronic address: ysshan@mail.ncku.edu.tw.",
-        "Genomics Research Center, Academia Sinica, Taipei, Taiwan; Department of Chemistry, National Tsing Hua University, Hsinchu, Taiwan. Electronic address: schung@gate.sinica.edu.tw.",
-        "Department of Power Mechanical Engineering, National Tsing Hua University, Hsinchu, Taiwan; Institute of NanoEngineering and Microsystems, National Tsing Hua University, Hsinchu, Taiwan; Institute of Biomedical Engineering, National Tsing Hua University, Hsinchu, Taiwan. Electronic address: gwobin@pme.nthu.edu.tw."
-      ],
-      "doi": "10.1016/j.ymeth.2026.08.008",
-      "date": "2026-08-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42633865/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42636947",
+      "date": "2026-08-24",
+      "title": "Cancer-associated fibroblast-derived vascular endothelial growth factor a promotes gastric cancer organoid growth and chemotherapy resistance via paracrine signaling.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636947/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cellular signalling，PMID 为 42636947。",
+      "report": "Cancer-associated fibroblasts (CAFs) are key components of the tumor microenvironment and can influence tumor progression and therapeutic response. However, whether functional heterogeneity of CAFs contributes to 5-fluorouracil (5-FU) resistance in gastric can...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42636811",
+      "date": "2026-08-24",
+      "title": "DDIAS shields single-stranded DNA in mitosis and promotes vertebrate brain development.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636811/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell，PMID 为 42636811。",
+      "report": "DNA double-strand breaks and unresolved DNA replication intermediates are particularly dangerous during mitosis. Paradoxically, cells inactivate canonical DNA repair mechanisms during chromosome segregation in favor of alternative pathways that depend on TOPBP...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42636797",
+      "date": "2026-08-24",
+      "title": "Targeting addiction to HMGB2-driven transcriptional programs in pancreatic cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636797/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Longevity",
+        "Biomarkers",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "衰老",
+        "biomarker",
+        "longevity",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell reports，PMID 为 42636797。",
+      "report": "Pancreatic cancer remains at a stagnant 5-year survival of <13%, attributed to the high heterogeneity and plasticity of these tumors. To circumvent this, we focus on the abundant nuclear protein high mobility group-box protein 2 (HMGB2). HMGB2 depletion is key...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42636112",
       "date": "2026-08-24",
@@ -604,93 +736,31 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42635894",
+      "id": "pubmed-42636799",
       "date": "2026-08-24",
-      "title": "cGAS-STING Modulates the NF-κB Pathway to Influence the Occurrence of Ulcerative Colitis-Associated Colorectal Cancer.",
-      "entity": "Organoid Research",
+      "title": "Cell-free DNA genomic and fragmentomic features for early outcome prediction in large B cell lymphoma.",
+      "entity": "Biotech Research",
       "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "subCategory": "General Biotech Research",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635894/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636799/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
+        "Biotech",
         "Precision Oncology"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
+        "biotech",
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Digestive diseases and sciences，PMID 为 42635894。",
-      "report": "Ulcerative colitis (UC) is a well-established high-risk contributor for the pathogenesis of colitis-associated colorectal cancer (CAC), with patients exhibiting a markedly increased risk of CAC compared with the general population. However, the underlying mech...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42635882",
-      "date": "2026-08-24",
-      "title": "Chemotherapy-induced CAF-associated stromal remodeling in a humanized stroma pancreatic ductal adenocarcinoma organoid xenograft model: a comparison between GP and GS.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635882/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Human cell，PMID 为 42635882。",
-      "report": "Pancreatic ductal adenocarcinoma features a dense, desmoplastic tumor microenvironment (TME) dominated by cancer-associated fibroblasts (CAFs). While gemcitabine plus nab-paclitaxel (approximated as gemcitabine plus paclitaxel [GP]) and gemcitabine plus S-1 (G...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42635834",
-      "date": "2026-08-24",
-      "title": "Evolutionary co-option of endogenous retroviruses: syncytins as regulators of placental development and disease.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635834/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular biology reports，PMID 为 42635834。",
-      "report": "Syncytins are envelope proteins of retroviral origin that have been evolutionarily co-opted to play essential roles in placental biology. Primarily recognized for mediating the fusion of cytotrophoblasts into the syncytiotrophoblast, a multinucleated epitheliu...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42636799。",
+      "report": "Curative-intent immunochemotherapy fails in ∼30% of patients with large B cell lymphoma (LBCL), yet no validated molecular tool enables early identification of high-risk individuals to guide treatment intensification. Using shallow whole-genome sequencing (sWG...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -807,36 +877,6 @@
       "fact": "PubMed 记录显示该文献收录于 New biotechnology，PMID 为 42633869。",
       "report": "Barcoding methods are powerful tools for screening large libraries and have successfully been employed using DNA-centric approaches for over two decades. Yet despite the central role of proteins in most biological processes, protein-based barcoding methods hav...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42633865",
-      "date": "2026-08-23",
-      "title": "Liquid biopsy-based detection of circulating and exfoliated cholangiocarcinoma tumor cells from blood and bile using heparan sulfate octasaccharides on integrated microfluidic systems.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42633865/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Methods (San Diego, Calif.)，PMID 为 42633865。",
-      "report": "Early diagnosis of cholangiocarcinoma (CCA) remains challenging because existing diagnostic approaches often lack sufficient sensitivity for reliable detection of early-stage disease. Circulating tumor cells (CTCs) in blood and exfoliated tumor cells (ETCs) in...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
