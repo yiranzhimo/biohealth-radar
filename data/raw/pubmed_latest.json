@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-24T19:02:48.847827+00:00",
+  "capturedAt": "2026-08-25T01:54:43.234299+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-08-24",
-    "end": "2026-08-24"
+    "start": "2025-08-25",
+    "end": "2026-08-25"
   },
   "pmids": [
-    "42634461",
-    "42632864",
-    "42632580",
-    "42632302",
-    "42632279",
-    "42632056",
+    "42636112",
+    "42636109",
+    "42635953",
+    "42635894",
+    "42635882",
+    "42635834",
     "42600555",
     "42580899",
     "42559559",
@@ -32,127 +32,131 @@
     "42625221",
     "42624861",
     "42624264",
+    "42635847",
+    "42635711",
+    "42635710",
     "42635246",
     "42634815",
-    "42633865",
-    "42633289",
-    "42633083",
-    "42632117"
+    "42633865"
   ],
   "records": [
     {
-      "pmid": "42634461",
-      "title": "[Standardized Construction of Lung Cancer Organoids and Their Application Progress in the Precise Treatment of Lung Cancer].",
-      "abstract": "Lung cancer is the malignancy with the highest incidence and mortality rates in China. Although significant progress has been made in its treatment due to the application of various novel therapeutic approaches, challenges remain in early diagnosis, as more than half of patients present with distant metastases at diagnosis, indicating a substantial gap compared to ideal precision therapy. Therefore, there is an urgent need to develop a novel personalized diagnostic and therapeutic model. Traditional cancer cell line models lack spatial structure and fail to accurately replicate the growth dynamics of native tissues; patient-derived xenograft models are costly and exhibit low transplantation success rates. In contrast, lung cancer organoids (LCOs) demonstrate superior genetic stability and rapid culture efficiency compared to other models, faithfully simulating the natural growth patterns of primary tumors and reducing animal dependency, making them particularly suitable for large-scale drug screening. However, despite rapid advancements in organoid technology, consensus has yet to be reached regarding standardized LCOs construction methods. This article systematically outlines the standardized development of LCOs models, their applications in precision lung cancer diagnosis and treatment, and recent progress, aiming to guide clinical implementation and improve patients' quality of life and survival outcomes. .",
-      "journal": "Zhongguo fei ai za zhi = Chinese journal of lung cancer",
+      "pmid": "42636112",
+      "title": "Protocol for preparing small, fragile samples from Schistosoma mansoni and Drosophila melanogaster brains for MALDI mass spectrometry imaging.",
+      "abstract": "Mass spectrometry imaging is a routine tool for investigating biological samples with high spatial and mass resolution. However, sample preparation, especially when dealing with very small samples, can be challenging. Here, we describe a sample preparation protocol for small and fragile samples based on examples of Schistosoma mansoni parasites and dissected Drosophila melanogaster brains. We describe steps for cryosectioning, matrix application, measurement, and data analysis to enable the acquisition of high-quality spatial lipidomics and metabolomics data from small samples. For complete details on the use and execution of this protocol, please refer to Mokosch et al. and Rorsman et al., respectively.1,2.",
+      "journal": "STAR protocols",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Institute of Inorganic and Analytical Chemistry, Justus Liebig University Giessen, 35392 Giessen, Germany. Electronic address: annika.s.mokosch@anorg.chemie.uni-giessen.de.",
+        "TransMIT GmbH, 35392 Giessen, Germany. Electronic address: max.a.mueller@transmit.de.",
+        "Centre for Neural Circuits and Behaviour, University of Oxford, Oxford, UK.",
+        "TransMIT GmbH, 35392 Giessen, Germany.",
+        "Institute of Inorganic and Analytical Chemistry, Justus Liebig University Giessen, 35392 Giessen, Germany; TransMIT GmbH, 35392 Giessen, Germany. Electronic address: bernhard.spengler@anorg.chemie.uni-giessen.de."
+      ],
+      "doi": "10.1016/j.xpro.2026.104789",
+      "date": "2026-08-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636112/"
+    },
+    {
+      "pmid": "42636109",
+      "title": "Hepatocellular carcinoma organoids enable drug discovery and combination therapy across heterogeneous tumors.",
+      "abstract": "Hepatocellular carcinoma (HCC) remains a leading cause of cancer mortality, with limited therapeutic options and poor clinical outcomes. Tumor heterogeneity is a defining feature of HCC and a major barrier to effective treatment. To address this, we established a biobank of patient-derived HCC organoids generated from diagnostic biopsies, capturing the diversity of clinical features across disease stages. Using a high-throughput phenotypic screening platform, we tested more than 1,600 compounds and identified multiple agents with strong antitumor activity, including candidates suitable for drug repurposing. To further improve therapeutic responses, we systematically evaluated rationally designed doublet and triplet combinations anchored on regorafenib. Several combinations showed enhanced efficacy across HCCOs while maintaining selectivity over non-tumoral cells. In vivo validation of a selected triplet confirmed improved tumor control and tolerability. Together, these findings establish patient-derived organoids as a scalable platform for functional drug discovery and support combination strategies improving response across heterogeneous HCC.",
+      "journal": "Cell reports",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Biomedicine, Hepatology Laboratory, University of Basel, University Hospital Basel, 4031 Basel, Switzerland. Electronic address: sandro.nuciforo@unibas.ch.",
+        "Department of Biomedicine, Hepatology Laboratory, University of Basel, University Hospital Basel, 4031 Basel, Switzerland.",
+        "Department of Biomedicine, Hepatology Laboratory, University of Basel, University Hospital Basel, 4031 Basel, Switzerland; University Digestive Health Care Center Basel - Clarunis, 4002 Basel, Switzerland.",
+        "NEXUS Personalized Health Technologies, ETH Zurich, 8093 Zurich, Switzerland.",
+        "Department of Biomedicine, Hepatology Laboratory, University of Basel, University Hospital Basel, 4031 Basel, Switzerland; sciCORE Center for Scientific Computing and Center for Data Analytics, University of Basel, 4056 Basel, Switzerland.",
+        "Institute of Pathology, University Hospital Basel, 4031 Basel, Switzerland.",
+        "Department of Biomedicine, Hepatology Laboratory, University of Basel, University Hospital Basel, 4031 Basel, Switzerland; Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA 92037, USA.",
+        "Department of Biomedicine, Hepatology Laboratory, University of Basel, University Hospital Basel, 4031 Basel, Switzerland; University Digestive Health Care Center Basel - Clarunis, 4002 Basel, Switzerland. Electronic address: markus.heim@unibas.ch."
+      ],
+      "doi": "10.1016/j.celrep.2026.117895",
+      "date": "2026-08-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636109/"
+    },
+    {
+      "pmid": "42635953",
+      "title": "Single-Dose TACE-Like Injection of Sustained-Release Panobinostat/IL-12 Polymeric Microparticles is Effective in Preclinical Liver Cancer Models.",
+      "abstract": "Primary liver cancer is the third leading cause of cancer death worldwide, and about 70% of hepatocellular carcinomas (HCCs) do not respond to systemic immunotherapies. Transarterial chemoembolization (TACE) remains standard treatment for intermediate-stage HCC, but long-term survival is poor. We aimed to develop a polymeric TACE-like platform to sensitize liver cancer to checkpoint inhibitors by enabling sustained co-delivery of panobinostat and IL-12. Patient-derived liver cancer organoids were used to screen drugs and identify panobinostat as a cytotoxic agent. We then formulated sustained-release microparticles from anionic poly(lactic-co-glycolic acid) (PLGA) and cationic poly(beta-amino ester) (PBAE) for combined delivery of panobinostat and IL-12, and tested the system in three liver cancer models. The microparticles achieved tumor-specific retention and sustained release for two weeks following a single intratumoral or intrahepatic arterial injection. This led to tumor inhibition and prolonged survival in orthotopic liver cancer models. Mechanistically, treatment promoted tertiary lymphoid structure formation, increased infiltration of immune cells, and elevated pro-inflammatory cytokines, triggering innate and adaptive antitumor immune responses. A PLGA/PBAE sustained-release microparticle platform was successfully developed for TACE-like co-delivery of panobinostat and IL-12. This combined chemoimmunotherapy strategy shows promise for overcoming immune suppression and improving liver cancer treatment.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Biomedical Engineering, Translational Tissue Engineering Center, Johns Hopkins Translational ImmunoEngineering Center, and the Institute for Nanobiotechnology, Johns Hopkins University, Baltimore, Maryland, USA.",
+        "Division of Gastroenterology and Hepatology, Department of Medicine, Johns Hopkins University, Baltimore, Maryland, USA.",
+        "Department of Dermatology, Johns Hopkins University, Baltimore, Maryland, USA.",
+        "Department of Oncology, Bloomberg-Kimmel Institute for Cancer Immunotherapy and Sidney Kimmel Comprehensive Cancer Center, Baltimore, Maryland, USA.",
+        "Departments of Materials Science and Engineering, Chemical and Biomolecular Engineering, Ophthalmology, and Neurosurgery, Johns Hopkins University, Baltimore, Maryland, USA."
+      ],
+      "doi": "10.1002/advs.77223",
+      "date": "2026-08-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635953/"
+    },
+    {
+      "pmid": "42635894",
+      "title": "cGAS-STING Modulates the NF-κB Pathway to Influence the Occurrence of Ulcerative Colitis-Associated Colorectal Cancer.",
+      "abstract": "Ulcerative colitis (UC) is a well-established high-risk contributor for the pathogenesis of colitis-associated colorectal cancer (CAC), with patients exhibiting a markedly increased risk of CAC compared with the general population. However, the underlying mechanisms driving this transformation are incompletely elucidated. The expression of key molecules in the cGAS-STING/NF-κB signaling pathway was detected via RT-qPCR and Western blot. Immunofluorescence staining was performed to assess the release of double-stranded DNA (dsDNA). Immunohistochemistry (IHC) was used to examine the expression of cGAS, STING, p-p65, Ki67, and Cleaved caspase-3. Colon crypt cells isolated from mice were utilized to establish an organoid model, through which organoid viability, morphology, inflammatory factor secretion, and p65 nuclear translocation were evaluated. Dextran sulfate sodium (DSS)-induced UC mouse model and azoxymethane (AOM)/DSS combined CAC mouse model were constructed. Disease activity index (DAI), colon length, and tumor number were recorded to evaluate disease progression and verify the in vivo function of the cGAS-STING pathway. Plasmid transfection and pathway inhibitors were applied to explore the specific mechanisms underlying the cGAS-STING pathway. Compared with the control group, the mRNA and protein levels of cGAS-STING/NF-κB pathway-related molecules were progressively elevated, while IκBα expression was reduced, accompanied by cytoplasmic dsDNA accumulation in colonic tissues of UC and CAC mice, indicating that this pathway was gradually activated during the progression from inflammation to tumorigenesis. In the colon organoid model, DSS treatment triggered activation of this pathway, resulting in structural destruction and enhanced secretion of inflammatory cytokines. The STING agonist SR-717 exacerbated these pathological changes and facilitated p65 nuclear translocation, whereas the STING inhibitor H-151 or cGAS knockdown alleviated tissue injury and suppressed p65 nuclear translocation. Mechanistic investigations revealed that the NF-κB inhibitor Bay11-7082 effectively abrogated the proinflammatory effects induced by SR-717. Consistent with in vitro findings, in vivo data from the CAC mouse model further demonstrated that SR-717 administration promoted tumor formation, as evidenced by upregulated expression of the proliferation marker Ki67 and downregulated expression of the apoptotic marker Cleaved caspase-3. Notably, co-treatment with Bay11-7082 reversed the tumor-promoting phenotypes driven by SR-717. This study suggests that the cGAS-STING signaling pathway plays an important promoting role in the malignant transformation from UC to CAC by activating NF-κB signaling, providing experimental evidence for elucidating the pathogenesis of CAC.",
+      "journal": "Digestive diseases and sciences",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of General Surgery, Nanjing Drum Tower Hospital Group SuQian Hospital, No.138, South Huanghe Road, Sucheng District, Suqian City, 223800, Jiangsu Province, China.",
+        "Department of General Surgery, The First Affiliated Hospital of Soochow University, No. 899 Pinghai Road, Gusu District, Suzhou City, 215006, Jiangsu Province, China.",
+        "Department of General Surgery, The First Affiliated Hospital of Soochow University, No. 899 Pinghai Road, Gusu District, Suzhou City, 215006, Jiangsu Province, China. zhuxinguo25@163.com."
+      ],
+      "doi": "10.1007/s10620-026-10183-6",
+      "date": "2026-08-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635894/"
+    },
+    {
+      "pmid": "42635882",
+      "title": "Chemotherapy-induced CAF-associated stromal remodeling in a humanized stroma pancreatic ductal adenocarcinoma organoid xenograft model: a comparison between GP and GS.",
+      "abstract": "Pancreatic ductal adenocarcinoma features a dense, desmoplastic tumor microenvironment (TME) dominated by cancer-associated fibroblasts (CAFs). While gemcitabine plus nab-paclitaxel (approximated as gemcitabine plus paclitaxel [GP]) and gemcitabine plus S-1 (GS) are standard regimens with distinct clinical indications, their specific effects on tumor suppression and CAF-associated stromal remodeling remain unclear. Using a humanized, three-dimensional (3D) S2-013 organoid xenograft model integrating human mesenchymal stem cells (MSCs) and human endothelial cells, we investigated the histopathological and immunohistochemical alterations induced by GP and GS. We quantitatively evaluated tumor parenchymal growth using cytokeratin 19 (CK19) and CAF-associated marker profiles, including α-smooth muscle actin (αSMA), fibroblast activation protein (FAP), platelet-derived growth factor receptors (PDGFR), and interleukin-6 (IL-6). Both regimens clearly suppressed tumor growth, but only GP significantly reduced parenchymal tumor growth compared with untreated controls. Notably, the treatments selectively remodeled the peritumoral stroma in the humanized xenograft model: PDGFR-expressing CAF-like cells were significantly reduced in the GP group, whereas FAP-expressing CAF-like cells and IL-6-expressing stromal cells were significantly decreased in the GS group. αSMA expression showed a general decreasing trend in both therapeutic arms. In summary, GP and GS chemotherapies induced distinct, measurable humanized TME remodeling modalities beyond direct cytotoxicity. By successfully recapitulating drug-stroma interactions and suggesting the human MSC origin of the peritumoral CAFs, this study demonstrates the robustness of our organoid xenograft model as a powerful preclinical screening platform for evaluating and predicting the efficacy of novel stroma-targeted and immunomodulatory investigative compounds.",
+      "journal": "Human cell",
       "publicationTypes": [
         "Journal Article",
-        "Review",
-        "English Abstract"
+        "Comparative Study"
       ],
       "affiliations": [
-        "Department of Immuno-Oncology, The Fourth Hospital of Hebei Medical University, Shijiazhuang 050011, China.",
-        "Department of Oncology, Hebei Medical University, Shijiazhuang 050017, China."
+        "Department of Pathology, Kochi Medical School, Kochi University, Nankoku, Kochi, 783-8505, Japan.",
+        "Department of Gastroenterology and Hepatology, Kochi Medical School, Kochi University, Kohasu, Oko-Cho, Nankoku, Kochi, 783-8505, Japan.",
+        "Department of Gastroenterology and Hepatology, Kochi Medical School, Kochi University, Kohasu, Oko-Cho, Nankoku, Kochi, 783-8505, Japan. ktaniuchi@kochi-u.ac.jp."
       ],
-      "doi": "10.3779/j.issn.1009-3419.2026.102.20",
-      "date": "2026-06-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42634461/"
+      "doi": "10.1007/s13577-026-01443-8",
+      "date": "2026-08-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635882/"
     },
     {
-      "pmid": "42632864",
-      "title": "Dual-oxygen pancreatic cancer organoids recapitulate basal-classical heterogeneity validated by spatial transcriptomics.",
-      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) comprises heterogeneous classical and basal-like subtypes. Although pancreatic cancer organoids (PCOs) are widely used, normoxic cultures preferentially maintain the classical subtype, limiting their ability to represent intrinsic intratumoral heterogeneity. Because PDAC develops in profoundly hypoxic microenvironments, the influence of oxygen tension on organoid modelling remains unclear. We performed spatially resolved single-cell transcriptomics on 12 primary PDAC tumours to map the distributions of classical and basal-like cells. Paired organoids were generated under normoxic (20% O₂; NORM-PCOs) and hypoxic (1% O₂; HYPO-PCOs) conditions, and morphology, subtype scores, proliferation and drug responses were compared. Spatial profiling revealed gradients of basal-like-classical heterogeneity across tumours, with basal-like cells enriched in hypoxic regions. HYPO-PCOs tended to retain basal-like traits, including solid or multi-layered morphology, and increased proliferation, along with a tendency toward reduced sensitivity to chemotherapeutic agents. In contrast, NORM-PCOs more often exhibited mono-layered morphology and showed higher classical subtype scores. Hypoxic culture conditions promote the preservation of basal-like subpopulations in PDAC organoids, more accurately reflecting the basal-classical heterogeneity of primary tumours. Hypoxia-induced basal-like features remained stable after oxygen switching, indicating a fixed phenotype that informs organoid modelling and offers insight into PDAC progression.",
-      "journal": "British journal of cancer",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Gastrointestinal and Hepato-Biliary-Pancreatic Surgery, Institute of Medicine, University of Tsukuba, Tsukuba, Japan.",
-        "Department of Surgery, Columbia University Vagelos College of Physicians and Surgeons, New York, NY, USA.",
-        "Nuffield Department of Medicine, Ludwig Institute for Cancer Research, University of Oxford, Oxford, UK.",
-        "Department of Hematology, Institute of Medicine, University of Tsukuba, Tsukuba, Japan.",
-        "Department of Pathology, Institute of Medicine, University of Tsukuba, Tsukuba, Japan.",
-        "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Chiba, Japan.",
-        "Department of Gastrointestinal and Hepato-Biliary-Pancreatic Surgery, Institute of Medicine, University of Tsukuba, Tsukuba, Japan. tatoda@md.tsukuba.ac.jp."
-      ],
-      "doi": "10.1038/s41416-026-03577-w",
-      "date": "2026-08-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632864/"
-    },
-    {
-      "pmid": "42632580",
-      "title": "The synergy of artificial intelligence and organ-on-a-chip: building a next-generation intelligent engine for drug development.",
-      "abstract": "Drug development has long been constrained by high costs, lengthy timelines, and low success rates, primarily due to the insufficient human physiological fidelity of traditional preclinical models. Artificial intelligence (AI) has accelerated computational drug discovery, but its models inherit training-data bias and are rarely validated against human-relevant experiments. Organ-on-a-chip (OoC) systems produce human-relevant, multimodal physiological data, yet the sheer volume of data they generate overwhelms conventional processing pipelines. With regulators now encouraging non-animal testing, integrating AI with OoC has become a practical route forward. This review examines how the two technologies reinforce each other across the OoC lifecycle, surveys progress toward clinical and industrial translation, and considers longer-term paradigms such as digital twins and programmable virtual humans. Major hurdles remain in hardware performance, biological fidelity, data standardization, and model interpretability. Closer collaboration across sectors would help this combined dry-wet approach reduce animal testing and make drug research more predictive and more human-relevant.",
-      "journal": "International journal of pharmaceutics",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "College of Pharmaceutical Engineering of Traditional Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin 301617, China.",
-        "College of Pharmaceutical Engineering of Traditional Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin 301617, China; State Key Laboratory of Component-based Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin 301617, China; Haihe Laboratory of Modern Chinese Medicine, Tianjin 301617, China; Tianjin Key Laboratory of Intelligent and Green Pharmaceuticals for Traditional Chinese Medicine, Tianjin 301617, China. Electronic address: suotc@tjutcm.edu.cn.",
-        "Haihe Laboratory of Modern Chinese Medicine, Tianjin 301617, China; State Key Laboratory of Chinese Medicine Modernization, Tianjin University of Traditional Chinese Medicine, Tianjin 301617, China.",
-        "College of Pharmaceutical Engineering of Traditional Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin 301617, China; State Key Laboratory of Component-based Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin 301617, China; Haihe Laboratory of Modern Chinese Medicine, Tianjin 301617, China; Tianjin Key Laboratory of Intelligent and Green Pharmaceuticals for Traditional Chinese Medicine, Tianjin 301617, China. Electronic address: liuboshi@tjutcm.edu.cn.",
-        "College of Pharmaceutical Engineering of Traditional Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin 301617, China; State Key Laboratory of Component-based Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin 301617, China; Haihe Laboratory of Modern Chinese Medicine, Tianjin 301617, China; Tianjin Key Laboratory of Intelligent and Green Pharmaceuticals for Traditional Chinese Medicine, Tianjin 301617, China. Electronic address: lizheng@tjutcm.edu.cn."
-      ],
-      "doi": "10.1016/j.ijpharm.2026.127339",
-      "date": "2026-08-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632580/"
-    },
-    {
-      "pmid": "42632302",
-      "title": "The peptide Ac2-26 preserves mitochondrial function and neuronal survival in human retinal cells and organoids under hyperglycemic and inflammatory stress.",
-      "abstract": "Diabetic retinopathy (DR) is a neurodegenerative disease characterized by hyperglycemia-induced inflammation, mitochondrial dysfunction, and progressive neuronal cell death, leading to irreversible vision loss. Retinal ganglion cells (RGCs) are particularly vulnerable to this hostile microenvironment, undergoing apoptosis before microvascular pathology becomes clinically evident. However, therapeutic strategies targeting these early neurodegenerative events remain limited. Here, we investigated the protective effects of the Annexin A1 mimetic peptide Ac2-26 using complementary human retinal organoid (RO) and organoid-derived retinal ganglion cell (RGC) models of diabetes-like stress. In retinal organoids, Ac2-26 significantly attenuated high glucose-induced retinal degeneration by coordinately suppressing intrinsic and extrinsic apoptotic pathways, reducing Müller cell gliosis, and selectively modulating inflammatory mediators associated with DR progression. In organoid-derived RGCs, Ac2-26 reduced mitochondrial oxidative stress, restored mitochondrial bioenergetics, and prevented neuronal apoptosis under both hyperglycemic and inflammatory conditions. Mechanistically, these protective effects were associated with FPR2-dependent suppression of the p38/NOX4 signaling axis, identifying oxidative stress regulation as a central mechanism underlying mitochondrial preservation. Collectively, our findings demonstrate that Ac2-26 acts as a pro-resolving neuroprotective agent that targets convergent inflammatory and mitochondrial pathways involved in early diabetic retinal degeneration, highlighting the FPR2-p38-NOX4 axis as a promising therapeutic target for early intervention in diabetic retinopathy.",
-      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "CellSight Ocular Stem Cell and Regeneration Research Program, Sue Anschutz-Rodgers Eye Center, University of Colorado Anschutz School of Medicine, Aurora, CO, United States; Biosciences Graduate Program, Instituto de Biociências, Letras e Ciências Exatas, Universidade Estadual Paulista (UNESP), São José do Rio Preto, SP, Brazil.",
-        "CellSight Ocular Stem Cell and Regeneration Research Program, Sue Anschutz-Rodgers Eye Center, University of Colorado Anschutz School of Medicine, Aurora, CO, United States.",
-        "Division of Endocrinology, Metabolism and Diabetes, University of Colorado Anschutz Medical Campus, Aurora, Colorado, United States.",
-        "Biosciences Graduate Program, Instituto de Biociências, Letras e Ciências Exatas, Universidade Estadual Paulista (UNESP), São José do Rio Preto, SP, Brazil; Department of Morphology and Genetics, Escola Paulista de Medicina, Universidade Federal de São Paulo (UNIFESP), São Paulo, SP, Brazil.",
-        "CellSight Ocular Stem Cell and Regeneration Research Program, Sue Anschutz-Rodgers Eye Center, University of Colorado Anschutz School of Medicine, Aurora, CO, United States. Electronic address: natalia.vergara@cuanschutz.edu."
-      ],
-      "doi": "10.1016/j.biopha.2026.119849",
-      "date": "2026-08-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632302/"
-    },
-    {
-      "pmid": "42632279",
-      "title": "Parishin degrades CXCL2 via ubiquitination to limit myeloid-derived suppressor cells and potentiate antitumor immunity after incomplete radiofrequency ablation in hepatocellular carcinoma.",
-      "abstract": "Radiofrequency ablation (RFA) is a standard curative therapy for early-stage hepatocellular carcinoma (HCC). However, some patients experience incomplete RFA (iRFA), and the chemokines and cytokines released subsequent to iRFA can promote tumor progression. Based on transcriptomic data from HCC patient-derived organoids (PDOs) (source: 2024 Cancer Cell 38,593,780) and in vivo models before and after iRFA, this study identified CXCL2 as a key differentially expressed gene. This chemokine shapes an immunosuppressive microenvironment by recruiting immunosuppressive myeloid cells. Survival analysis of HCC patients who underwent ablation for postoperative recurrence revealed that CXCL2 expression is significantly associated with overall survival. Through the screening of 4566 natural products, we identified Parishin as a compound that specifically targets CXCL2. Mechanistically, Parishin does not act via receptor antagonism; rather, it directly binds to the Q24, S25, and S27 residues of CXCL2, promoting it subiquitination at the K88 site and subsequent proteasomal degradation. In cellular experiments, Parishin (80 μM) concentration-dependently reduced CXCL2 protein levels in iRFA-treated Huh7 and H22 cells without affecting its transcription. In vivo animal studies demonstrated that intraperitoneal administration of Parishin (50 mg/kg, every other day) significantly suppressed tumor growth in mice bearing iRFA-treated tumors. Single-cell RNA sequencing (scRNA-seq), immunofluorescence, and flow cytometry further confirmed that Parishin reduced the infiltration of myeloid-derived suppressor cells (MDSCs), increased the proportion of CD8+ T cells, and reversed the immunosuppressive microenvironment. This study elucidates the adverse role of the CXCL2/MDSC axis in the prognosis of post-iRFA HCC and reveals a novel \"Parishin-CXCL2 ubiquitination\" mechanism. These findings offer a potential therapeutic strategy for iRFA-related recurrence and hold significant translational value for optimizing clinical RFA protocols.",
-      "journal": "International immunopharmacology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Integration of Chinese and Western Medicine, School of Basic Medical Sciences, Peking University, Beijing, PR China; Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education), Department of Integration of Chinese and Western Medicine, Peking University Cancer Hospital and Institute, Beijing 100142, China; Key laboratory of Carcinogenesis and Translational Research (Ministry of Education/Beijing), Peking University Cancer Hospital & Institute, Beijing, China.",
-        "Key laboratory of Carcinogenesis and Translational Research (Ministry of Education/Beijing), Peking University Cancer Hospital & Institute, Beijing, China.",
-        "The First Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangzhou University of Chinese Medicine, Guangzhou, China.",
-        "Department of Hepatobiliary and Pancreatic Surgery, The First Affiliated Hospital of Zhengzhou University, China.",
-        "Key laboratory of Carcinogenesis and Translational Research (Ministry of Education/Beijing), Peking University Cancer Hospital & Institute, Beijing, China. Electronic address: wuhao900601@163.com.",
-        "Department of Integration of Chinese and Western Medicine, School of Basic Medical Sciences, Peking University, Beijing, PR China; Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education), Department of Integration of Chinese and Western Medicine, Peking University Cancer Hospital and Institute, Beijing 100142, China; Key laboratory of Carcinogenesis and Translational Research (Ministry of Education/Beijing), Peking University Cancer Hospital & Institute, Beijing, China. Electronic address: 13681408183@163.com."
-      ],
-      "doi": "10.1016/j.intimp.2026.117304",
-      "date": "2026-08-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632279/"
-    },
-    {
-      "pmid": "42632056",
-      "title": "Precision Pancreatic Cancer Care: From Early Detection to Adaptive Precision Oncology.",
-      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains highly lethal, and genome-centric precision oncology shows limited impact due to low actionable alterations and high heterogeneity. A broader \"Precision Pancreatic Cancer Care\" (PPCC) framework integrates multi-omics, spatial biology, and patient-derived organoids to enhance early detection and functional oncology. Longitudinal molecular monitoring, microenvironment targeting, and personalized supportive care are vital to combating therapeutic resistance. Shifting from isolated genomic profiling to a multidimensional, adaptive ecosystem across the entire disease continuum holds the potential to transform PDAC management and improve patient outcomes.",
-      "journal": "Cancer investigation",
+      "pmid": "42635834",
+      "title": "Evolutionary co-option of endogenous retroviruses: syncytins as regulators of placental development and disease.",
+      "abstract": "Syncytins are envelope proteins of retroviral origin that have been evolutionarily co-opted to play essential roles in placental biology. Primarily recognized for mediating the fusion of cytotrophoblasts into the syncytiotrophoblast, a multinucleated epithelium, critical for nutrient transport and maternal-fetal immune tolerance. Syncytins also contribute to broader aspects of placental development through diverse mechanistic pathways. This review focuses on the evolutionary origins and functional mechanisms of Syncytin-1 (encoded by HERV-W) and Syncytin-2 (encoded by HERV-FRD) in orchestrating placental morphogenesis and homeostasis. We further discuss the clinical significance of aberrant syncytin expression, which is associated with adverse pregnancy outcomes including preeclampsia, intrauterine growth restriction, gestational diabetes mellitus, and trophoblastic disease. Additionally, we examine how exogenous viral infections, such as cytomegalovirus and SARS-CoV-2, may disrupt syncytin transcriptional regulation and compromise placental integrity. Collectively, syncytins represent a paradigm of evolutionary viral domestication, wherein pathogenic genetic elements have been repurposed into indispensable mediators of human reproduction. Their precise spatiotemporal regulation is paramount for optimal placental function and maternal-fetal health. Future research leveraging advanced omics technologies and placental organoid systems will be instrumental in elucidating underlying molecular mechanisms and developing targeted therapeutic interventions for pregnancy-related disorders.",
+      "journal": "Molecular biology reports",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Department of Gastroenterological Surgery, Kochi Health Sciences Center, Kochi, Japan."
+        "Department of Biochemistry, All India Institute of Medical Sciences New Delhi, New Delhi, India.",
+        "Department of Animal Sciences, University of Illinois Urbana-Champaign, Urbana, Illinois, USA.",
+        "Department of Obstetrics and Gynaecology, All India Institute of Medical Sciences New Delhi, New Delhi, India.",
+        "Faculty of Biosciences, Heidelberg University, Heidelberg, Germany.",
+        "Division of Pediatric Infectious Diseases, Miller School of Medicine, University of Miami, Miami, FL, USA.",
+        "Department of Biochemistry, Kasturba Medical College, Manipal Academy of Higher Education, Manipal, India.",
+        "School of Medicine, University of Missouri-Kansas City, Kansas City, USA. nnayak@umkc.edu.",
+        "Department of Biochemistry, All India Institute of Medical Sciences New Delhi, New Delhi, India. subhradip.k@aiims.edu."
       ],
-      "doi": "10.1080/07357907.2026.2721529",
-      "date": "2026-08-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632056/"
+      "doi": "10.1007/s11033-026-12627-8",
+      "date": "2026-08-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635834/"
     },
     {
       "pmid": "42600555",
@@ -387,6 +391,65 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624264/"
     },
     {
+      "pmid": "42635847",
+      "title": "Minimal Residual Disease in Head and Neck Cancer: Molecular Surveillance and Clinical Action.",
+      "abstract": "Recurrence following curative-intent treatment for head and neck squamous cell carcinoma (HNSCC) approaches 50% in locally advanced disease, yet conventional surveillance detects relapse only after anatomical or metabolic thresholds are reached. Minimal residual disease (MRD) monitoring, using circulating tumor DNA (ctDNA) and viral DNA biomarkers, offers an earlier, molecularly informed framework for post-treatment surveillance. This structured narrative review synthesizes contemporary evidence on MRD in HNSCC, drawing on a search of PubMed and Scopus covering January 2020 to March 2026, and defines its role as a clinical instrument for risk-adapted surveillance and decision-making. Across prospective cohorts and platform-validation studies, MRD positivity is independently associated with recurrence risk, with hazard ratios ranging from 3- to tenfold across tumor-informed ctDNA platforms, and molecular relapse frequently precedes radiologic detection by months. Viral DNA assays demonstrate specificities exceeding 95% in virally mediated subtypes. Early interventional data suggest potential for MRD-guided treatment adaptation, but results have been mixed: a recent HPV ctDNA-guided de-escalation trial closed early due to an unacceptable recurrence rate, underscoring that standardized thresholds, optimal testing intervals, and definitive evidence of clinical utility remain unresolved. MRD should currently be integrated as an adjunct to established surveillance modalities rather than a standalone trigger for intervention. Results are best interpreted longitudinally, and an early post-treatment molecular checkpoint at 2-6 weeks represents a high-yield decision point where confirmed positivity may justify intensified evaluation and multidisciplinary review.",
+      "journal": "Current oncology reports",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "School of Medicine, Program Delivered By University of Nicosia at the Chaim Sheba Medical Center, City St. George's University of London, Ramat Gan, Israel. sholemhack1@gmail.com.",
+        "Department of Otolaryngology, Sheba Medical Center, Ramat Gan, Israel.",
+        "Gray Faculty of Medical & Health Sciences, Tel-Aviv University, Tel Aviv, Israel."
+      ],
+      "doi": "10.1007/s11912-026-01816-0",
+      "date": "2026-08-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635847/"
+    },
+    {
+      "pmid": "42635711",
+      "title": "Role of liquid biopsy in the multimodal assessment and treatment of esophageal cancer: a surgical perspective.",
+      "abstract": "Esophageal cancer (EC) remains a highly lethal malignancy, characterized by late diagnosis, early systemic dissemination, and high recurrence rates. Conventional diagnostic and surveillance strategies have limited sensitivity for early disease detection and minimal residual disease. Liquid biopsy technologies have emerged as promising minimally invasive tools for diagnosis, prognostication, and longitudinal monitoring. This scoping review summarizes current evidence on the clinical utilization of liquid biopsies in esophageal squamous cell and adenocarcinoma. PubMed, EMBASE and Cochrane Library were queried. Inclusion criteria encompassed studies investigating the use of liquid biopsy for EC diagnosis, treatment response evaluation, and prognosis definition. A total of 73 studies reported the role of circulating tumor DNA (ctDNA), circulating tumor cells (CTCs), or microRNAs (miRNA). The majority (59%) focused on ctDNA while CTC and miRNA were assessed in 12 and 14 studies, respectively. The reported pooled diagnostic sensitivity and specificity was 71% and 98.6%, respectively, with superior performance in advanced stages (III-IV). Serial ctDNA measurements during neoadjuvant therapy have been reported useful for assessing tumor burden reduction. Additionally, comprehensive ctDNA profiling proved valuable for analysis of tumor heterogeneity and actionable genetic alterations suitable for targeted treatment therapies. Elevated preoperative ctDNA levels correlated with an increased risk of nodal metastasis and postoperative cancer recurrence. ctDNA was also identified as a useful prognostic marker, demonstrating sensitivity and specificity of 49% and 95%, respectively, for survival prediction. Despite limitations related to the various methodologies employed and the lack of laboratory standardization, liquid biopsy constitutes a promising frontier in the surgical management of EC, offering minimally invasive, real-time tool for assessing tumor genetics, genomic heterogeneity, and dynamics of tumor progression. It might enhance early diagnosis, inform neoadjuvant treatment response, and enable postoperative surveillance for residual or recurrent cancer.",
+      "journal": "Updates in surgery",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Biomedical Sciences for Health, Division of General Surgery, University of Milan, I.R.C.C.S. Ospedale Galeazzi-Sant'Ambrogio, Milan, Italy.",
+        "Unit of Hereditary Digestive Tumors, Fondazione IRCCS-National Cancer Institute, Milan, Italy.",
+        "Department of Interventional Oncology, EMO GVM Centrocuore Columbus, Milan, Italy.",
+        "Department of General Surgery and Medical Surgical Specialties, University of Catania, G. Rodolico Hospital, Catania, Italy.",
+        "Department of Pharmacy and Health and Nutrition Sciences, Division of Foregut Surgery, University of Calabria, Azienda Ospedaliera di Cosenza, Cosenza, Italy.",
+        "Department of Pharmacy and Health and Nutrition Sciences, Division of Foregut Surgery, University of Calabria, Azienda Ospedaliera di Cosenza, Cosenza, Italy. Luigi.bonavina@unical.it."
+      ],
+      "doi": "10.1007/s13304-026-02814-4",
+      "date": "2026-08-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635711/"
+    },
+    {
+      "pmid": "42635710",
+      "title": "Liquid biopsy in colorectal cancer: redefining surgical decision-making.",
+      "abstract": "Liquid biopsy (LB) has rapidly emerged as a minimally invasive approach to detecting tumor-derived material in the bloodstream, including circulating tumor DNA (ctDNA), circulating tumor cells, and extracellular vesicles. For colorectal surgeons, LB offers a dynamic measure of tumor biology that complements pathological staging and guides postoperative management beyond conventional anatomy-based risk stratification. A scoping review was conducted to evaluate the clinical implications of liquid biopsy in colorectal cancer. PubMed, EMBASE, and the Cochrane Library were systematically searched. Eligible human studies evaluated the diagnostic, prognostic, predictive, perioperative, treatment-monitoring, or surveillance applications of liquid biopsy in colorectal surgical oncology. In localized colon cancer, postoperative ctDNA detection is a marker of minimal residual disease, identifies patients at high risk of recurrence, and supports tailored adjuvant chemotherapy, enabling multiple trials evaluating de-escalation and escalation strategies based on postoperative LB. In rectal cancer, ctDNA kinetics during total neoadjuvant therapy predict pathological response and may guide identification of the optimal candidate for organ-preserving strategies. In metastatic CRC, plasma genotyping enables real-time assessment of RAS/BRAF/HER2/MSI status and, in later lines, supports anti-EGFR rechallenge when resistant clones decline. An increase in ctDNA levels detected through longitudinal monitoring anticipates relapse up to 9 months before radiographic evidence, enabling earlier intervention and potential surgical rescue. LB represents a paradigm shift in surgical oncology, integrating molecular data into perioperative care and surveillance. By aligning operative strategy with biological risk, colorectal surgeons can move toward truly personalized, molecularly guided surgery.",
+      "journal": "Updates in surgery",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Colorectal Surgery Unit, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy. emanuele.rausa@istitutotumori.mi.it.",
+        "Unit of Hereditary Digestive Tract Tumors, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy. emanuele.rausa@istitutotumori.mi.it.",
+        "Medical Oncology 1, Veneto Institute of Oncology, IOV-IRCCS, Padua, Italy.",
+        "Department of Biomedical Sciences for Health, Division of General Surgery, I.R.C.C.S. Ospedale Galeazzi - Sant'Ambrogio, University of Milan, Milan, Italy.",
+        "Colorectal Surgery Unit, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy.",
+        "Unit of Hereditary Digestive Tract Tumors, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy."
+      ],
+      "doi": "10.1007/s13304-026-02823-3",
+      "date": "2026-08-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635710/"
+    },
+    {
       "pmid": "42635246",
       "title": "Liquid biopsies reveal dual compartments of cancer risk from tumor and host-derived mutations.",
       "abstract": "Circulating tumor DNA (ctDNA) and clonal hematopoiesis of indeterminate potential (CHIP) are two biologically distinct sources of somatic mutations detectable in blood. While ctDNA captures tumor-intrinsic alterations, CHIP arises from age-related hematopoietic clones and is often considered background noise. Here, we conduct a large-scale, tumor-type-resolved analysis of over 9000 patients with CHIP data and 1500 patients with ctDNA data across solid tumors profiled at Memorial Sloan Kettering Cancer Center. Our results reveal that CHIP and ctDNA mutations exhibit non-overlapping, clinically meaningful signals. CHIP mutations, particularly in DNA damage response and epigenetic regulators (e.g. PPM1D, CHEK2, ATM, TP53, ASXL1), are associated with worse overall survival, increased metastatic potential, and site-specific dissemination. ctDNA mutations in canonical oncogenic drivers (e.g. TP53, EGFR, KRAS, STK11) reflect tumor aggressiveness and correlate with poor prognosis and metastasis across multiple cancer types. Joint modeling in lung adenocarcinoma confirms the independent prognostic contributions of both compartments. Additionally, longitudinal clonal analysis links specific CHIP mutations to the emergence of hematologic malignancies under therapeutic pressure. These findings support a dual-compartment model of liquid biopsy, in which tumor- and host-derived mutations jointly inform on cancer risk, progression, and metastatic behavior. Integrating both compartments may enhance the clinical utility of blood-based biomarkers in oncology. All genomic and clinical data used in this study are available through cBioPortal. Summarized outputs and processed results tables are provided in Supplementary Data.",
@@ -440,71 +503,284 @@
       "doi": "10.1016/j.ymeth.2026.08.008",
       "date": "2026-08-23",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42633865/"
-    },
-    {
-      "pmid": "42633289",
-      "title": "The Application Value of Liquid Biopsy in Cancer MRD Detection and the Preliminary Clinical Significance of the TFx Value.",
-      "abstract": "Plasma cell-free DNA (cfDNA)-based chromosomal instability (CIN) profiling is a non-invasive approach for tumor burden monitoring and treatment response assessment. This pilot study included 50 cancer patients (breast, oral, gastric, lung, and other cancers) to evaluate the clinical utility of the Ultrasensitive Chromosome Aberration Detection (UCAD) method, with exploratory analysis of minimal residual disease (MRD) detection in patients with no evidence of disease on imaging. Fifty patients with histologically confirmed solid tumors who underwent UCAD testing between January 2023 and March 2024 were enrolled. UCAD uses low-depth (1×) whole-genome sequencing of plasma cfDNA to detect genome-wide copy number variations (CNVs). Tumor-derived CNVs are distinguished from germline variation through normalization against healthy donor controls, with statistically significant deviations identified as somatic events reflecting tumor-associated CIN. A tumor fraction index (TFx) is derived as a quantitative metric of the aggregate CNV burden. Patients were stratified by imaging status into no-evidence-of-disease (NED, n=41) and residual lesions (RL, n=9) subgroups. Outcomes included TFx correlation with clinical status and exploratory MRD-recurrence associations within the NED subgroup. TFx values ranged from 0.021% to 10.12% (median 0.065%) across the cohort. TFx positively correlated with tumor stage (ρ=0.463, P<0.001) and negatively correlated with treatment response (P<0.01). Among 41 NED patients (median follow-up 22 months), elevated TFx (≥0.1%) was observed in patients with subsequent recurrence, including one case with TFx of 0.102% preceding bone metastasis by 3 months. In 9 RL patients, TFx tracked with disease burden and decreased following effective therapy. The findings indicate that the UCAD method showed preliminary feasibility across the evaluated cancer types in this pilot cohort, and the TFx value serves as a quantitative indicator of tumor burden and treatment efficacy, warranting further prospective validation in larger cohorts.",
-      "journal": "Cancer management and research",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Oral and Maxillofacial Surgery, Zhuzhou Hospital Affiliated to Xiangya School of Medicine, Central South University, Zhuzhou, Hunan, 412000, People's Republic of China.",
-        "Department of Breast Surgery, Zhuzhou Hospital Affiliated to Xiangya School of Medicine, Central South University, Zhuzhou, Hunan, 412000, People's Republic of China.",
-        "Department of Cosmetic Medicine, Zhuzhou Hospital Affiliated to Xiangya School of Medicine, Central South University, Zhuzhou, Hunan, 412000, People's Republic of China.",
-        "Department of Stomatology, Zhuzhou Hospital Affiliated to Xiangya School of Medicine, Central South University, Zhuzhou, Hunan, 412000, People's Republic of China.",
-        "Department of Oncology, Zhuzhou Hospital Affiliated to Xiangya School of Medicine, Central South University, Zhuzhou, Hunan, 412000, People's Republic of China.",
-        "Translational Medicine Center, Zhuzhou Hospital Affiliated to Xiangya School of Medicine, Central South University, Zhuzhou, Hunan, 412000, People's Republic of China."
-      ],
-      "doi": "10.2147/CMAR.S601702",
-      "date": "2026-08-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42633289/"
-    },
-    {
-      "pmid": "42633083",
-      "title": "Next-Generation Sequencing (NGS) Utility in Advanced Solid Tumors in Low- and Middle-Income Country (LMIC) Setting.",
-      "abstract": "Introduction Advancements in DNA sequencing have revolutionized our understanding of cancer biology, enabling comprehensive analysis of genetic alterations driving tumorigenesis. Next-generation sequencing (NGS) is increasingly integrated into oncology practice to identify actionable mutations and personalize therapy. However, its clinical utility in low- and middle-income countries (LMICs), where access to sequencing technologies and targeted treatments remains limited, is not well established. Methods This was a retrospective, single-center cohort study involving adult patients with advanced metastatic solid tumors who underwent NGS testing using either tumor tissue or liquid biopsy (Illumina platform, 560-gene panel, 1000X coverage). The primary endpoint was to evaluate the proportion of patients who received NGS-guided targeted therapy. The secondary endpoint was progression-free survival (PFS) in patients treated based on NGS findings. Data analysis was performed using Microsoft Excel 2016 (Microsoft Corp., Redmond, WA, USA). Results Over an 18-month period (January 2021 to June 2022), 93 patients were included. Genomic alterations were detected in 45% (n=42) of patients. Among these, 33% (n=31) had a potentially actionable mutation with an available targeted therapy or clinical trial option. Despite this, only 19% (n=18) received NGS-directed treatment. Of these, 44% (n=8) achieved a PFS of six months or more. Conclusion NGS can identify clinically relevant mutations in a significant proportion of advanced cancer patients in LMIC settings. However, real-world application is hindered by limited access to targeted therapies and clinical trials. Strategies to improve access and infrastructure are essential to realize the full potential of precision oncology in these regions.",
-      "journal": "Cureus",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Medical Oncology, Asian Institute of Medical Sciences, Faridabad, IND.",
-        "Biochemistry, Gautam Buddha Chikitsa Mahavidyalaya, Dehradun, IND.",
-        "Medical Oncology, Max Super Speciality Hospital, Dehradun, IND.",
-        "Paediatrics, Shri Guru Ram Rai (SGRR) Institute of Medical and Health Sciences, Dehradun, IND."
-      ],
-      "doi": "10.7759/cureus.113197",
-      "date": "2026-07-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42633083/"
-    },
-    {
-      "pmid": "42632117",
-      "title": "Peptide-functionalized magnetic nanobeads for EpCAM-targeted CTC isolation and immunotherapy efficacy evaluation in liver cancer.",
-      "abstract": "Primary liver cancer lacks robust biomarkers for anti-PD-1/PD-L1 therapy. Methods: We engineered peptide-functionalized magnetic nanobeads (Pep@MNPs) for high-efficiency, EpCAM-dependent capture of circulating tumor cells (CTCs). This nanotechnology-based platform enabled a precise fluorescence quantitative system (cTPS) associate with immunotherapy outcomes in hepatocellular carcinoma and intrahepatic cholangiocarcinoma. The Pep@MNPs system revealed a significant correlation between high CTC PD-L1 expression and therapeutic response. Patients with baseline cTPShigh (≥20%) achieved a superior objective response rate compared to the low-expression group (40% vs. 0%; P = 0.005). Utilizing this nanobead-enabled quantification, cTPShigh patients demonstrated significantly prolonged progression-free survival (median 48.29 vs. 5.86 weeks, P = 0.005) and overall survival (median undefined vs. 25.71 weeks, P = 0.004). Furthermore, multivariate Cox regression confirmed cTPShigh as a robust independent predictor for both PFS and OS (both P = 0.005) after adjusting for clinical variables. This peptide-nanobead liquid biopsy strategy effectively stratifies patients benefiting from PD-1 inhibitors, highlighting its potential as a precise theranostic tool for clinical monitoring.",
-      "journal": "Talanta",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety, CAS Key Laboratory of Standardization and Measurement for Nanotechnology, CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology, Beijing, 100190, China; University of Chinese Academy of Sciences, Beijing, 100049, China.",
-        "Longshan County People's Hospital, Xiangxi, Hunan Province, China.",
-        "CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety, CAS Key Laboratory of Standardization and Measurement for Nanotechnology, CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology, Beijing, 100190, China.",
-        "Fujian Provincial Key Laboratory of Brain Aging and Neurodegenerative Diseases, School of Basic Medical Sciences, Fujian Medical University, Fuzhou, Fujian, 350108, China.",
-        "CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety, CAS Key Laboratory of Standardization and Measurement for Nanotechnology, CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology, Beijing, 100190, China; Fujian Provincial Key Laboratory of Brain Aging and Neurodegenerative Diseases, School of Basic Medical Sciences, Fujian Medical University, Fuzhou, Fujian, 350108, China.",
-        "Department of Clinical Lab, Zhejiang Cancer Hospital, No. 1, East Banshan Road, Gongshu District, Hangzhou, 310022, China.",
-        "CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety, CAS Key Laboratory of Standardization and Measurement for Nanotechnology, CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology, Beijing, 100190, China; School of Nanoscience and Technology, Sino-Danish College, University of Chinese Academy of Sciences, Beijing, 100049, China; Fujian Provincial Key Laboratory of Brain Aging and Neurodegenerative Diseases, School of Basic Medical Sciences, Fujian Medical University, Fuzhou, Fujian, 350108, China; School of Future Medicine, Beijing University of Chinese Medicine, No. 6, Wangjing Middle Ring South Road, Chaoyang District, Beijing, 100102, China. Electronic address: huzy@nanoctr.cn.",
-        "Department of Digestive Diseases 1, Cancer Hospital of China Medical University, Cancer Hospital of Dalian University of Technology, Liaoning Cancer Hospital & Institute, No. 44 Xiaoheyan Road, Dadong District, Shenyang, Liaoning Province, 110042, China. Electronic address: wangzhe@cmu.edu.cn.",
-        "Department of Clinical Lab, Zhejiang Cancer Hospital, No. 1, East Banshan Road, Gongshu District, Hangzhou, 310022, China. Electronic address: xuxh@zjcc.org.cn.",
-        "Department of Clinical Lab, Zhejiang Cancer Hospital, No. 1, East Banshan Road, Gongshu District, Hangzhou, 310022, China. Electronic address: yongyichen13@fudan.edu.cn."
-      ],
-      "doi": "10.1016/j.talanta.2026.130466",
-      "date": "2026-08-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632117/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42636112",
+      "date": "2026-08-24",
+      "title": "Protocol for preparing small, fragile samples from Schistosoma mansoni and Drosophila melanogaster brains for MALDI mass spectrometry imaging.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636112/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42636112。",
+      "report": "Mass spectrometry imaging is a routine tool for investigating biological samples with high spatial and mass resolution. However, sample preparation, especially when dealing with very small samples, can be challenging. Here, we describe a sample preparation pro...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42636109",
+      "date": "2026-08-24",
+      "title": "Hepatocellular carcinoma organoids enable drug discovery and combination therapy across heterogeneous tumors.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636109/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell reports，PMID 为 42636109。",
+      "report": "Hepatocellular carcinoma (HCC) remains a leading cause of cancer mortality, with limited therapeutic options and poor clinical outcomes. Tumor heterogeneity is a defining feature of HCC and a major barrier to effective treatment. To address this, we establishe...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42635953",
+      "date": "2026-08-24",
+      "title": "Single-Dose TACE-Like Injection of Sustained-Release Panobinostat/IL-12 Polymeric Microparticles is Effective in Preclinical Liver Cancer Models.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635953/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42635953。",
+      "report": "Primary liver cancer is the third leading cause of cancer death worldwide, and about 70% of hepatocellular carcinomas (HCCs) do not respond to systemic immunotherapies. Transarterial chemoembolization (TACE) remains standard treatment for intermediate-stage HC...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42635894",
+      "date": "2026-08-24",
+      "title": "cGAS-STING Modulates the NF-κB Pathway to Influence the Occurrence of Ulcerative Colitis-Associated Colorectal Cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635894/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Digestive diseases and sciences，PMID 为 42635894。",
+      "report": "Ulcerative colitis (UC) is a well-established high-risk contributor for the pathogenesis of colitis-associated colorectal cancer (CAC), with patients exhibiting a markedly increased risk of CAC compared with the general population. However, the underlying mech...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42635882",
+      "date": "2026-08-24",
+      "title": "Chemotherapy-induced CAF-associated stromal remodeling in a humanized stroma pancreatic ductal adenocarcinoma organoid xenograft model: a comparison between GP and GS.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635882/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Human cell，PMID 为 42635882。",
+      "report": "Pancreatic ductal adenocarcinoma features a dense, desmoplastic tumor microenvironment (TME) dominated by cancer-associated fibroblasts (CAFs). While gemcitabine plus nab-paclitaxel (approximated as gemcitabine plus paclitaxel [GP]) and gemcitabine plus S-1 (G...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42635834",
+      "date": "2026-08-24",
+      "title": "Evolutionary co-option of endogenous retroviruses: syncytins as regulators of placental development and disease.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635834/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular biology reports，PMID 为 42635834。",
+      "report": "Syncytins are envelope proteins of retroviral origin that have been evolutionarily co-opted to play essential roles in placental biology. Primarily recognized for mediating the fusion of cytotrophoblasts into the syncytiotrophoblast, a multinucleated epitheliu...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42635847",
+      "date": "2026-08-24",
+      "title": "Minimal Residual Disease in Head and Neck Cancer: Molecular Surveillance and Clinical Action.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635847/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Current oncology reports，PMID 为 42635847。",
+      "report": "Recurrence following curative-intent treatment for head and neck squamous cell carcinoma (HNSCC) approaches 50% in locally advanced disease, yet conventional surveillance detects relapse only after anatomical or metabolic thresholds are reached. Minimal residu...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42635711",
+      "date": "2026-08-24",
+      "title": "Role of liquid biopsy in the multimodal assessment and treatment of esophageal cancer: a surgical perspective.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635711/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Updates in surgery，PMID 为 42635711。",
+      "report": "Esophageal cancer (EC) remains a highly lethal malignancy, characterized by late diagnosis, early systemic dissemination, and high recurrence rates. Conventional diagnostic and surveillance strategies have limited sensitivity for early disease detection and mi...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42635710",
+      "date": "2026-08-24",
+      "title": "Liquid biopsy in colorectal cancer: redefining surgical decision-making.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635710/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Updates in surgery，PMID 为 42635710。",
+      "report": "Liquid biopsy (LB) has rapidly emerged as a minimally invasive approach to detecting tumor-derived material in the bloodstream, including circulating tumor DNA (ctDNA), circulating tumor cells, and extracellular vesicles. For colorectal surgeons, LB offers a d...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42633869",
       "date": "2026-08-23",
@@ -561,167 +837,6 @@
       "fact": "PubMed 记录显示该文献收录于 Methods (San Diego, Calif.)，PMID 为 42633865。",
       "report": "Early diagnosis of cholangiocarcinoma (CCA) remains challenging because existing diagnostic approaches often lack sufficient sensitivity for reliable detection of early-stage disease. Circulating tumor cells (CTCs) in blood and exfoliated tumor cells (ETCs) in...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42632864",
-      "date": "2026-08-22",
-      "title": "Dual-oxygen pancreatic cancer organoids recapitulate basal-classical heterogeneity validated by spatial transcriptomics.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632864/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 British journal of cancer，PMID 为 42632864。",
-      "report": "Pancreatic ductal adenocarcinoma (PDAC) comprises heterogeneous classical and basal-like subtypes. Although pancreatic cancer organoids (PCOs) are widely used, normoxic cultures preferentially maintain the classical subtype, limiting their ability to represent...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42632580",
-      "date": "2026-08-22",
-      "title": "The synergy of artificial intelligence and organ-on-a-chip: building a next-generation intelligent engine for drug development.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632580/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of pharmaceutics，PMID 为 42632580。",
-      "report": "Drug development has long been constrained by high costs, lengthy timelines, and low success rates, primarily due to the insufficient human physiological fidelity of traditional preclinical models. Artificial intelligence (AI) has accelerated computational dru...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42632302",
-      "date": "2026-08-22",
-      "title": "The peptide Ac2-26 preserves mitochondrial function and neuronal survival in human retinal cells and organoids under hyperglycemic and inflammatory stress.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632302/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie，PMID 为 42632302。",
-      "report": "Diabetic retinopathy (DR) is a neurodegenerative disease characterized by hyperglycemia-induced inflammation, mitochondrial dysfunction, and progressive neuronal cell death, leading to irreversible vision loss. Retinal ganglion cells (RGCs) are particularly vu...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42632279",
-      "date": "2026-08-22",
-      "title": "Parishin degrades CXCL2 via ubiquitination to limit myeloid-derived suppressor cells and potentiate antitumor immunity after incomplete radiofrequency ablation in hepatocellular carcinoma.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632279/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International immunopharmacology，PMID 为 42632279。",
-      "report": "Radiofrequency ablation (RFA) is a standard curative therapy for early-stage hepatocellular carcinoma (HCC). However, some patients experience incomplete RFA (iRFA), and the chemokines and cytokines released subsequent to iRFA can promote tumor progression. Ba...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42632056",
-      "date": "2026-08-22",
-      "title": "Precision Pancreatic Cancer Care: From Early Detection to Adaptive Precision Oncology.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632056/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer investigation，PMID 为 42632056。",
-      "report": "Pancreatic ductal adenocarcinoma (PDAC) remains highly lethal, and genome-centric precision oncology shows limited impact due to low actionable alterations and high heterogeneity. A broader \"Precision Pancreatic Cancer Care\" (PPCC) framework integrates multi-o...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -874,66 +989,6 @@
       "fact": "PubMed 记录显示该文献收录于 Cancer management and research，PMID 为 42634815。",
       "report": "Estrogen receptor-positive (ER+) breast cancer accounts for 70-80% of all invasive breast malignancies worldwide and remains the dominant subtype driving rising global breast cancer incidence, representing a major clinical burden in China with a 2.84% annual a...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42633289",
-      "date": "2026-08-18",
-      "title": "The Application Value of Liquid Biopsy in Cancer MRD Detection and the Preliminary Clinical Significance of the TFx Value.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42633289/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer management and research，PMID 为 42633289。",
-      "report": "Plasma cell-free DNA (cfDNA)-based chromosomal instability (CIN) profiling is a non-invasive approach for tumor burden monitoring and treatment response assessment. This pilot study included 50 cancer patients (breast, oral, gastric, lung, and other cancers) t...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42632117",
-      "date": "2026-08-18",
-      "title": "Peptide-functionalized magnetic nanobeads for EpCAM-targeted CTC isolation and immunotherapy efficacy evaluation in liver cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632117/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Talanta，PMID 为 42632117。",
-      "report": "Primary liver cancer lacks robust biomarkers for anti-PD-1/PD-L1 therapy. Methods: We engineered peptide-functionalized magnetic nanobeads (Pep@MNPs) for high-efficiency, EpCAM-dependent capture of circulating tumor cells (CTCs). This nanotechnology-based plat...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1173,76 +1228,6 @@
       "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42498177。",
       "report": "Drug discovery for complex diseases has long been constrained by high developmental costs and suboptimal clinical transition rates. To bridge the \"translational gap\" between in vitro target screening and in vivo therapeutic efficacy, life science and pharmacol...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models, AI-enabled Discovery, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42633083",
-      "date": "2026-07-22",
-      "title": "Next-Generation Sequencing (NGS) Utility in Advanced Solid Tumors in Low- and Middle-Income Country (LMIC) Setting.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42633083/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [
-        "illumina"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Cureus，PMID 为 42633083。",
-      "report": "Introduction Advancements in DNA sequencing have revolutionized our understanding of cancer biology, enabling comprehensive analysis of genetic alterations driving tumorigenesis. Next-generation sequencing (NGS) is increasingly integrated into oncology practic...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42634461",
-      "date": "2026-06-20",
-      "title": "[Standardized Construction of Lung Cancer Organoids and Their Application Progress in the Precise Treatment of Lung Cancer].",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42634461/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Zhongguo fei ai za zhi = Chinese journal of lung cancer，PMID 为 42634461。",
-      "report": "Lung cancer is the malignancy with the highest incidence and mortality rates in China. Although significant progress has been made in its treatment due to the application of various novel therapeutic approaches, challenges remain in early diagnosis, as more th...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
