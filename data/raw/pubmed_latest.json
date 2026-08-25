@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-25T07:11:02.297863+00:00",
+  "capturedAt": "2026-08-25T13:13:55.483386+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-25"
   },
   "pmids": [
+    "42638372",
+    "42638344",
+    "42638130",
+    "42638069",
+    "42637759",
     "42636947",
-    "42636811",
-    "42636797",
-    "42636112",
-    "42636109",
-    "42635953",
     "42600555",
     "42580899",
     "42559559",
@@ -32,14 +32,112 @@
     "42625221",
     "42624861",
     "42624264",
+    "42638446",
     "42636799",
     "42635847",
     "42635711",
     "42635710",
-    "42635246",
-    "42634815"
+    "42635246"
   ],
   "records": [
+    {
+      "pmid": "42638372",
+      "title": "Evaluating EndoC βH5 pseudoislets as a model for human islet transplantation.",
+      "abstract": "The EndoC βH5 cell line represents a promising human β-cell model for preclinical diabetes research. Indeed, EndoC βH5 cells aggregate into islet-like organoids, secrete insulin in a glucose-dependent manner, and express a variety of β-cell functional markers. However, EndoC βH5 cell survival and functionality in vivo have not yet been investigated. Here, we have transplanted EndoC βH5 pseudoislets under the kidney capsule in SCID mice and analysed their capacity to regulate whole body blood glucose concentrations. EndoC βH5 pseudoislets were formed in agar microwells. Oxygen consumption rate and glucose-stimulated insulin secretion were quantified in vitro. After 31 days, groups of 1000 EndoC βH5 pseudoislets were transplanted under the kidney capsule in SCID mice. To selectively ablate endogenous β-cells, streptozotocin was administered 1 month after transplantation, and EndoC βH5 graft function was analysed through quantification of blood glucose and human plasma insulin. EndoC βH5 pseudoislets exhibited glucose-induced insulin secretion at 15 days, which was maintained at 31 days of culture. Human insulin was detectable in mouse plasma at 1 week post-transplantation. Despite this, streptozotocin administration led to overt diabetes in transplant recipients. EndoC βH5 pseudoislets secrete insulin in a glucose-responsive manner in vitro, remain viable in vivo, and secrete insulin. Despite this, transplantation of 1000 pseudoislets is not sufficient to maintain glycaemia when endogenous β-cells are destroyed. Nonetheless, EndoC βH5 pseudoislets represent a useful tool for preclinical islet transplantation studies where graft control of systemic glycaemia is not a requirement.",
+      "journal": "Diabetic medicine : a journal of the British Diabetic Association",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Diabetes and Obesity, School of Cardiovascular and Metabolic Medicine and Sciences, King's College London, London, UK."
+      ],
+      "doi": "10.1111/dme.70454",
+      "date": "2026-08-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638372/"
+    },
+    {
+      "pmid": "42638344",
+      "title": "Optimization of a Canine Colon Organoid Platform for Modeling Intestinal Injury and Mesenchymal Stem Cell-Mediated Regeneration.",
+      "abstract": "Canine chronic enteropathy (CE) is characterized by persistent mucosal inflammation and impaired barrier function. Despite its high clinical prevalence, research has been hindered by a lack of host-specific intestinal models. Here, we present an optimized canine-derived colon organoid (cCO) culture platform designed for assessing drug toxicity and regenerative potential. Combining Wnt/EGF activation with TGF-β/p38 MAPK inhibition supported the long-term maintenance of stem cell-enriched organoids. Upon maturation, differentiated cCOs exhibited both absorptive and secretory cells, validated by lineage-specific marker expression and functional P-glycoprotein efflux activity. While pro-inflammatory cytokines exerted non-specific toxicity, diclofenac-induced injury was significantly more pronounced in differentiated organoids than in expanding counterparts. This indicates that our platform effectively recapitulates the cell type-specific sensitivity of the intestinal epithelium to pharmacological insults. Next, to determine whether the cCOs could model epithelial repair process, we examined the therapeutic effects of canine mesenchymal stem cells (MSCs), a representative cell-based therapy for CE, on damaged organoids. Notably, treatment with MSC-conditioned media (MSC-CM) triggered a morphological transition into cystic spheroids with the upregulation of pro-regenerative stem cell markers, suggesting the induction of a fetal-like regenerative reprogramming. Indeed, MSC-CM treatment restored growth and proliferation while preserving barrier integrity in diclofenac-treated organoids. Collectively, these findings demonstrate the advantages of cCO system for modeling intestinal injury and repair, supporting the development of targeted therapeutic strategies for canine gastrointestinal disorders.",
+      "journal": "International journal of stem cells",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Oral Biochemistry, Dental and Life Science Institute, School of Dentistry, Pusan National University, Yangsan, Korea.",
+        "Department of Life Science in Dentistry, School of Dentistry, Pusan National University, Yangsan, Korea.",
+        "Education and Research Team for Life Science on Dentistry, Pusan National University, Yangsan, Korea.",
+        "Department of Otorhinolaryngology-Head and Neck Surgery, Biomedical Research Institute, Yangsan Pusan National University Hospital, Pusan National University School of Medicine, Yangsan, Korea.",
+        "Department of Veterinary Surgery, College of Veterinary Medicine, Kyungpook National University, Daegu, Korea."
+      ],
+      "doi": "10.15283/ijsc26011",
+      "date": "2026-08-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638344/"
+    },
+    {
+      "pmid": "42638130",
+      "title": "Alisol A 23,24-diacetate improves LPS-induced acute lung injury through the IL-17A/NF-κB signaling pathway.",
+      "abstract": "This study utilized the multi-model validation method to confirm that Alisol A 23,24-diacetate (AAD) can improve LPS-induced acute lung injury (ALI) through the IL-17A/NF-κB signaling pathway, providing experimental data support for preclinical research. Mice were given drugs by gavage continuously for 3 days, and then LPS was instilled into trachea to establish the model of acute lung injury. Subsequently, the lung pathological sections, lung function, the levels of oxidative stress and apoptosis, the metabolic levels in lung tissue and serum, and the levels of immune cells and inflammatory factors in each group of mice were detected. Then, the differentially expressed genes were screened based on the GEO database, and molecular docking combined with PCR technology was employed to investigate the potential pathogenesis of acute lung injury. Next, in vivo mouse models and in vitro lung organoid models were utilized, combined with Western blot and immunofluorescence techniques, to validate the proteins associated with the IL-17A/NF-κB signaling pathway. The binding of AAD to IL-17A protein was detected by cellular thermal shift assay (CETSA). Finally, the Beas-2B cell model combined with IL-17 agonist (SR0987) and IL-17 antagonist (Brodalumab), as well as the zebrafish model coupled with the methods of IL-17A gene silencing and overexpression, were employed to validate the mechanism of action underlying the intervention of AAD in LPS-induced ALI. AAD significantly ameliorated lung injury and lung function in a mouse model of LPS-induced ALI, modulated metabolic and immune disorders in ALI mice, and suppressed the release of inflammatory factors. The results from GEO database analysis, molecular docking, PCR, WB, immunofluorescence and CETSA, demonstrated that AAD ameliorates LPS-induced ALI via the IL-17A/NF-κB signaling pathway. In Beas-2B cells, AAD significantly suppressed the LPS-induced elevation of ROS and apoptosis levels, reduced the protein expression of IL-17A and p-NF-κB p65, and decreased the levels of inflammatory factors, exerting a comparable therapeutic effect to that of the IL-17 antagonist. However, the therapeutic efficacy of AAD was abrogated following the addition of an IL-17 agonist. In the experiment of zebrafish, AAD significantly enhanced the sports activity of zebrafish and inhibited the levels of IL-17A and inflammatory factor RNA. However, the therapeutic efficacy of AAD was abrogated following IL-17A gene overexpression. AAD improves LPS-induced ALI through the IL-17A/NF-κB signaling pathway.",
+      "journal": "Chinese medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "College of Pharmacy, Henan University of Chinese Medicine, Zhengzhou, China.",
+        "The Engineering and Technology Center for Chinese Medicine Development of Henan Province, Zhengzhou, China.",
+        "College of Pharmacy, Henan University of Chinese Medicine, Zhengzhou, China. fwsh@hactcm.edu.cn.",
+        "The Engineering and Technology Center for Chinese Medicine Development of Henan Province, Zhengzhou, China. fwsh@hactcm.edu.cn.",
+        "College of Pharmacy, Henan University of Chinese Medicine, Zhengzhou, China. zhengxk.2006@163.com.",
+        "The Engineering and Technology Center for Chinese Medicine Development of Henan Province, Zhengzhou, China. zhengxk.2006@163.com."
+      ],
+      "doi": "10.1186/s13020-026-01487-w",
+      "date": "2026-08-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638130/"
+    },
+    {
+      "pmid": "42638069",
+      "title": "[Decellularized scaffolds derived from porcine testes for culture of primary testicular cells and organoids].",
+      "abstract": "Decellularized extracellular matrix can well preserve the biomimetic ultrastructure of native tissue, providing a suitable three-dimensional biomimetic microenvironment for the in vitro culture of cells and organoids. The aim of this study is to prepare a porcine testicular decellularized extracellular matrix (PT-dECM) scaffold that fully preserves the natural ultrastructure and bioactive components, thereby providing a highly biomimetic three-dimensional microenvironment for the adhesion and proliferation of primary testicular cells and the in vitro construction of testicular organoids. In this study, we optimized a combined physicochemical decellularization protocol and, after screening, obtained a PT-dECM scaffold that could effectively remove immunogenic substances and fully preserve the natural ultrastructure and bioactive components. This scaffold not only supported uniform cell adhesion and directed proliferation but also provided primary testicular cells with a three-dimensional biomimetic environment that maintained structural and functional integrity. Testicular organoids constructed on this scaffold exhibited the typical physiological structure of native testes, and the four core functional cell types-Sertoli cells, Leydig cells, germ cells, and peritubular myoid cells-were reliably detected, with their spatial distribution being highly consistent with that of native tissue. The PT-dECM scaffold optimized in this study mimicked the natural testicular microenvironment, overcoming the limitations of existing models. It provides a new tool for advancing research into the functions of the testicular microenvironment and has significant application potential in the field of reproductive tissue engineering.",
+      "journal": "Sheng wu gong cheng xue bao = Chinese journal of biotechnology",
+      "publicationTypes": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Key Laboratory of Animal Cellular and Genetic Engineering of Heilongjiang Province, Northeast Agricultural University, Harbin 150030, Heilongjiang, China.",
+        "College of Life Science, Northeast Agricultural University, Harbin 150030, Heilongjiang, China.",
+        "Key Laboratory of Animal Cellular and Genetic Engineering of Heilongjiang Province, Northeast Agricultural University, Harbin 150030, Heilongjiang, China. yantingsheng@neau.edu.cn.",
+        "College of Life Science, Northeast Agricultural University, Harbin 150030, Heilongjiang, China. yantingsheng@neau.edu.cn."
+      ],
+      "doi": "10.13345/j.cjb.260311",
+      "date": "2026-08-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638069/"
+    },
+    {
+      "pmid": "42637759",
+      "title": "In vitro multi-organ invasion model for exploring cardiac resistance to cancer metastasis.",
+      "abstract": "Despite the systemic spread of cancer, the ventricular myocardium is one of the least common sites of metastasis-a phenomenon that remains poorly understood. To examine this, we develop the Multi-organ Invasion Device (MInD), an organ-on-a-chip platform that enables multi-organ culture under flow. Organ compartments are connected in MInD using PermeoTubes-3D-printed porous conduits that support cancer cell intravasation, migration, and extravasation. In dual-organ devices, where highly aggressive breast cancer cells are co-cultured with either hepatic or cardiac tissue, invasion into cardiac tissue is significantly suppressed relative to hepatic co-culture. Importantly, in cardiac-hepatic-cancer tri-culture, the presence of cardiac tissue reduces overall invasion, with cancer cells preferentially migrating toward hepatic compartments. Cytokine profiling and RNA sequencing reveal that cardiac co-culture suppresses cell metastasis and invasion, while inducing immune activation. Overall, this platform presents an approach for uncovering organ-specific drivers of metastasis, accelerating future discovery of metastasis-inhibiting therapies.",
+      "journal": "Nature communications",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Institute of Biomedical Engineering, University of Toronto, 27 King's College Circle, Toronto, ON, Canada.",
+        "Toronto General Hospital Research Institute, University Health Network, 200 Elizabeth Street, Toronto, ON, Canada.",
+        "Terrence Donnelly Centre for Cellular & Biomolecular Research, 160 College St, Toronto, ON, Canada.",
+        "Department of Chemical Engineering and Applied Chemistry, University of Toronto, 27 King's College Circle, Toronto, ON, Canada.",
+        "Department of Laboratory Medicine and Pathobiology, University of Toronto, Toronto, ON, Canada.",
+        "Institute of Medical Science, University of Toronto, Toronto, ON, Canada.",
+        "Institute of Biomedical Engineering, University of Toronto, 27 King's College Circle, Toronto, ON, Canada. m.radisic@utoronto.ca.",
+        "Toronto General Hospital Research Institute, University Health Network, 200 Elizabeth Street, Toronto, ON, Canada. m.radisic@utoronto.ca.",
+        "Terrence Donnelly Centre for Cellular & Biomolecular Research, 160 College St, Toronto, ON, Canada. m.radisic@utoronto.ca.",
+        "Department of Chemical Engineering and Applied Chemistry, University of Toronto, 27 King's College Circle, Toronto, ON, Canada. m.radisic@utoronto.ca.",
+        "Acceleration Consortium, University of Toronto, Toronto, ON, Canada. m.radisic@utoronto.ca."
+      ],
+      "doi": "10.1038/s41467-026-75833-9",
+      "date": "2026-07-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42637759/"
+    },
     {
       "pmid": "42636947",
       "title": "Cancer-associated fibroblast-derived vascular endothelial growth factor a promotes gastric cancer organoid growth and chemotherapy resistance via paracrine signaling.",
@@ -56,121 +154,6 @@
       "doi": "10.1016/j.cellsig.2026.112837",
       "date": "2026-08-24",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636947/"
-    },
-    {
-      "pmid": "42636811",
-      "title": "DDIAS shields single-stranded DNA in mitosis and promotes vertebrate brain development.",
-      "abstract": "DNA double-strand breaks and unresolved DNA replication intermediates are particularly dangerous during mitosis. Paradoxically, cells inactivate canonical DNA repair mechanisms during chromosome segregation in favor of alternative pathways that depend on TOPBP1 and CIP2A, but how these pathways function is still poorly defined. Here, we describe the identification of DDIAS as a mitosis-specific DNA damage response protein. We establish DDIAS as a phosphorylation-dependent component and effector of the TOPBP1-CIP2A complex, and we demonstrate that DDIAS protects single-stranded DNA from aberrant nucleolytic processing to safeguard chromosome integrity during mitosis, particularly in BRCA1-/BRCA2-deficient cells. We also identify biallelic inactivating mutations in DDIAS in patients with a severe neurodevelopmental disorder and, using human cerebral organoids and zebrafish, we show that DDIAS plays a critical and evolutionarily conserved role in limiting DNA damage specifically in neural progenitor cells. These findings demonstrate a physiological role for the DNA damage response in mitosis during vertebrate neurodevelopment.",
-      "journal": "Cell",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; Center for Chromosome Stability, University of Copenhagen, Copenhagen, Denmark.",
-        "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; Center for Gene Expression, University of Copenhagen, Copenhagen, Denmark.",
-        "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark.",
-        "Department of Cancer and Genomic Sciences, College of Medicine and Health, University of Birmingham, Birmingham, UK.",
-        "Genome Damage and Stability Centre, School of Life Sciences, University of Sussex, Brighton, UK.",
-        "Department of Oncology, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford, UK.",
-        "Department of Biological and Biomedical Sciences, Aga Khan University, Karachi, Pakistan.",
-        "Department of Paediatrics and Child Health, Aga Khan University, Karachi, Pakistan.",
-        "Department of Neurology, Oslo University Hospital, Oslo, Norway; Institute of Clinical Medicine, University of Oslo, Oslo, Norway.",
-        "Department of Neurology, Oslo University Hospital, Oslo, Norway.",
-        "Department of Biological and Biomedical Sciences, Aga Khan University, Karachi, Pakistan; Centre for Regenerative Medicine and Stem Cell Research, Aga Khan University, Karachi, Pakistan.",
-        "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; College of Health Sciences, VinUniversity, Hanoi, Vietnam.",
-        "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; Center for Gene Expression, University of Copenhagen, Copenhagen, Denmark. Electronic address: fenaochs@sund.ku.dk.",
-        "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; Center for Chromosome Stability, University of Copenhagen, Copenhagen, Denmark; Department of Oncology, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford, UK. Electronic address: ablackford@sund.ku.dk."
-      ],
-      "doi": "10.1016/j.cell.2026.07.041",
-      "date": "2026-08-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636811/"
-    },
-    {
-      "pmid": "42636797",
-      "title": "Targeting addiction to HMGB2-driven transcriptional programs in pancreatic cancer.",
-      "abstract": "Pancreatic cancer remains at a stagnant 5-year survival of <13%, attributed to the high heterogeneity and plasticity of these tumors. To circumvent this, we focus on the abundant nuclear protein high mobility group-box protein 2 (HMGB2). HMGB2 depletion is key for establishing replicative senescence in normal cells, but it is significantly overexpressed across multiple cancer types. Here, we combine single-cell and spatial genomics with patient-derived organoids and tumor samples to show how increased HMGB2 availability represents a transcriptional addiction that fuels cell-cycle progression and growth. We repurpose a small molecule inhibitor targeting HMGB2 to interfere with its binding to DNA, restrict chromatin accessibility at promoters, and constrain tumor growth both in vitro and in vivo. 3D chromatin interactions involving HMGB2-bound enhancers and promoters also collapse upon drug treatment. Thus, pharmacological HMGB2 targeting represents a universal strategy for managing cancer progression irrespective of its genetic or molecular characteristics.",
-      "journal": "Cell reports",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Institute of Pathology, University Medical Center Göttingen, 37075 Göttingen, Germany; Clinical Research Unit (CRU) 5002, University Medical Center Göttingen, 37075 Göttingen, Germany.",
-        "Institute of Pathology, University Medical Center Göttingen, 37075 Göttingen, Germany.",
-        "Clinical Research Unit (CRU) 5002, University Medical Center Göttingen, 37075 Göttingen, Germany; Department of General, Visceral and Pediatric Surgery, University Medical Center Göttingen, 37075 Göttingen, Germany.",
-        "Regensburg Center for Biochemistry (RCB), University of Regensburg, 93053 Regensburg, Germany.",
-        "Clinical Research Unit (CRU) 5002, University Medical Center Göttingen, 37075 Göttingen, Germany; Department of Gastroenterology, Gastrointestinal Oncology and Endocrinology, University Medical Center Göttingen, 37075 Göttingen, Germany.",
-        "Genome Organization and Regulation, Max Planck Institute for Multidisciplinary Sciences, 37077 Göttingen, Germany.",
-        "NGS Facility for Integrative Genomics (NIG), University Medical Center Göttingen, 37075 Göttingen, Germany.",
-        "Clinical Research Unit (CRU) 5002, University Medical Center Göttingen, 37075 Göttingen, Germany; Department of Molecular Oncology, Göttingen Center of Molecular Biosciences (GZMB), University Medical Center Göttingen, 37077 Göttingen, Germany.",
-        "Clinical Research Unit (CRU) 5002, University Medical Center Göttingen, 37075 Göttingen, Germany; Department of Molecular Oncology, Göttingen Center of Molecular Biosciences (GZMB), University Medical Center Göttingen, 37077 Göttingen, Germany; Max Planck Institute for Multidisciplinary Sciences, 37077 Göttingen, Germany; Center for Cancer Genome Dynamics, University Medical Center Göttingen, 37075 Göttingen, Germany.",
-        "Clinical Research Unit (CRU) 5002, University Medical Center Göttingen, 37075 Göttingen, Germany; NGS Facility for Integrative Genomics (NIG), University Medical Center Göttingen, 37075 Göttingen, Germany; Center for Cancer Genome Dynamics, University Medical Center Göttingen, 37075 Göttingen, Germany.",
-        "Clinical Research Unit (CRU) 5002, University Medical Center Göttingen, 37075 Göttingen, Germany; Department of Gastroenterology, Gastrointestinal Oncology and Endocrinology, University Medical Center Göttingen, 37075 Göttingen, Germany; Center for Cancer Genome Dynamics, University Medical Center Göttingen, 37075 Göttingen, Germany.",
-        "Clinical Research Unit (CRU) 5002, University Medical Center Göttingen, 37075 Göttingen, Germany; Department of General, Visceral and Pediatric Surgery, University Medical Center Göttingen, 37075 Göttingen, Germany; Center for Cancer Genome Dynamics, University Medical Center Göttingen, 37075 Göttingen, Germany.",
-        "Institute of Pathology, University Medical Center Göttingen, 37075 Göttingen, Germany; Clinical Research Unit (CRU) 5002, University Medical Center Göttingen, 37075 Göttingen, Germany; Center for Cancer Genome Dynamics, University Medical Center Göttingen, 37075 Göttingen, Germany. Electronic address: argyris.papantonis@med.uni-goettingen.de."
-      ],
-      "doi": "10.1016/j.celrep.2026.117649",
-      "date": "2026-08-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636797/"
-    },
-    {
-      "pmid": "42636112",
-      "title": "Protocol for preparing small, fragile samples from Schistosoma mansoni and Drosophila melanogaster brains for MALDI mass spectrometry imaging.",
-      "abstract": "Mass spectrometry imaging is a routine tool for investigating biological samples with high spatial and mass resolution. However, sample preparation, especially when dealing with very small samples, can be challenging. Here, we describe a sample preparation protocol for small and fragile samples based on examples of Schistosoma mansoni parasites and dissected Drosophila melanogaster brains. We describe steps for cryosectioning, matrix application, measurement, and data analysis to enable the acquisition of high-quality spatial lipidomics and metabolomics data from small samples. For complete details on the use and execution of this protocol, please refer to Mokosch et al. and Rorsman et al., respectively.1,2.",
-      "journal": "STAR protocols",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Institute of Inorganic and Analytical Chemistry, Justus Liebig University Giessen, 35392 Giessen, Germany. Electronic address: annika.s.mokosch@anorg.chemie.uni-giessen.de.",
-        "TransMIT GmbH, 35392 Giessen, Germany. Electronic address: max.a.mueller@transmit.de.",
-        "Centre for Neural Circuits and Behaviour, University of Oxford, Oxford, UK.",
-        "TransMIT GmbH, 35392 Giessen, Germany.",
-        "Institute of Inorganic and Analytical Chemistry, Justus Liebig University Giessen, 35392 Giessen, Germany; TransMIT GmbH, 35392 Giessen, Germany. Electronic address: bernhard.spengler@anorg.chemie.uni-giessen.de."
-      ],
-      "doi": "10.1016/j.xpro.2026.104789",
-      "date": "2026-08-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636112/"
-    },
-    {
-      "pmid": "42636109",
-      "title": "Hepatocellular carcinoma organoids enable drug discovery and combination therapy across heterogeneous tumors.",
-      "abstract": "Hepatocellular carcinoma (HCC) remains a leading cause of cancer mortality, with limited therapeutic options and poor clinical outcomes. Tumor heterogeneity is a defining feature of HCC and a major barrier to effective treatment. To address this, we established a biobank of patient-derived HCC organoids generated from diagnostic biopsies, capturing the diversity of clinical features across disease stages. Using a high-throughput phenotypic screening platform, we tested more than 1,600 compounds and identified multiple agents with strong antitumor activity, including candidates suitable for drug repurposing. To further improve therapeutic responses, we systematically evaluated rationally designed doublet and triplet combinations anchored on regorafenib. Several combinations showed enhanced efficacy across HCCOs while maintaining selectivity over non-tumoral cells. In vivo validation of a selected triplet confirmed improved tumor control and tolerability. Together, these findings establish patient-derived organoids as a scalable platform for functional drug discovery and support combination strategies improving response across heterogeneous HCC.",
-      "journal": "Cell reports",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Biomedicine, Hepatology Laboratory, University of Basel, University Hospital Basel, 4031 Basel, Switzerland. Electronic address: sandro.nuciforo@unibas.ch.",
-        "Department of Biomedicine, Hepatology Laboratory, University of Basel, University Hospital Basel, 4031 Basel, Switzerland.",
-        "Department of Biomedicine, Hepatology Laboratory, University of Basel, University Hospital Basel, 4031 Basel, Switzerland; University Digestive Health Care Center Basel - Clarunis, 4002 Basel, Switzerland.",
-        "NEXUS Personalized Health Technologies, ETH Zurich, 8093 Zurich, Switzerland.",
-        "Department of Biomedicine, Hepatology Laboratory, University of Basel, University Hospital Basel, 4031 Basel, Switzerland; sciCORE Center for Scientific Computing and Center for Data Analytics, University of Basel, 4056 Basel, Switzerland.",
-        "Institute of Pathology, University Hospital Basel, 4031 Basel, Switzerland.",
-        "Department of Biomedicine, Hepatology Laboratory, University of Basel, University Hospital Basel, 4031 Basel, Switzerland; Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA 92037, USA.",
-        "Department of Biomedicine, Hepatology Laboratory, University of Basel, University Hospital Basel, 4031 Basel, Switzerland; University Digestive Health Care Center Basel - Clarunis, 4002 Basel, Switzerland. Electronic address: markus.heim@unibas.ch."
-      ],
-      "doi": "10.1016/j.celrep.2026.117895",
-      "date": "2026-08-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636109/"
-    },
-    {
-      "pmid": "42635953",
-      "title": "Single-Dose TACE-Like Injection of Sustained-Release Panobinostat/IL-12 Polymeric Microparticles is Effective in Preclinical Liver Cancer Models.",
-      "abstract": "Primary liver cancer is the third leading cause of cancer death worldwide, and about 70% of hepatocellular carcinomas (HCCs) do not respond to systemic immunotherapies. Transarterial chemoembolization (TACE) remains standard treatment for intermediate-stage HCC, but long-term survival is poor. We aimed to develop a polymeric TACE-like platform to sensitize liver cancer to checkpoint inhibitors by enabling sustained co-delivery of panobinostat and IL-12. Patient-derived liver cancer organoids were used to screen drugs and identify panobinostat as a cytotoxic agent. We then formulated sustained-release microparticles from anionic poly(lactic-co-glycolic acid) (PLGA) and cationic poly(beta-amino ester) (PBAE) for combined delivery of panobinostat and IL-12, and tested the system in three liver cancer models. The microparticles achieved tumor-specific retention and sustained release for two weeks following a single intratumoral or intrahepatic arterial injection. This led to tumor inhibition and prolonged survival in orthotopic liver cancer models. Mechanistically, treatment promoted tertiary lymphoid structure formation, increased infiltration of immune cells, and elevated pro-inflammatory cytokines, triggering innate and adaptive antitumor immune responses. A PLGA/PBAE sustained-release microparticle platform was successfully developed for TACE-like co-delivery of panobinostat and IL-12. This combined chemoimmunotherapy strategy shows promise for overcoming immune suppression and improving liver cancer treatment.",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Biomedical Engineering, Translational Tissue Engineering Center, Johns Hopkins Translational ImmunoEngineering Center, and the Institute for Nanobiotechnology, Johns Hopkins University, Baltimore, Maryland, USA.",
-        "Division of Gastroenterology and Hepatology, Department of Medicine, Johns Hopkins University, Baltimore, Maryland, USA.",
-        "Department of Dermatology, Johns Hopkins University, Baltimore, Maryland, USA.",
-        "Department of Oncology, Bloomberg-Kimmel Institute for Cancer Immunotherapy and Sidney Kimmel Comprehensive Cancer Center, Baltimore, Maryland, USA.",
-        "Departments of Materials Science and Engineering, Chemical and Biomolecular Engineering, Ophthalmology, and Neurosurgery, Johns Hopkins University, Baltimore, Maryland, USA."
-      ],
-      "doi": "10.1002/advs.77223",
-      "date": "2026-08-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635953/"
     },
     {
       "pmid": "42600555",
@@ -405,6 +388,25 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624264/"
     },
     {
+      "pmid": "42638446",
+      "title": "Saliva Liquid Biopsy for Detection of Oral and Systemic Diseases.",
+      "abstract": "Saliva has emerged as a compelling liquid biopsy for the non-invasive diagnosis and monitoring of both oral and systemic diseases. Secreted by major and minor salivary glands and enriched by gingival crevicular fluid, epithelial turnover, immune mediators, microbial products, and plasma-derived constituents, saliva reflects a biologically integrated interface between local oral environments and systemic physiology. This dual origin enables detection of disease-associated signals across multiple molecular layers, including extracellular RNA, cell-free DNA, genomic and epigenetic material, proteins, metabolites, microbial signatures, and hormones. Advances in high-throughput sequencing, mass spectrometry, and ultrasensitive immunoassays have revealed that salivary analytes can capture dynamic pathological processes ranging from periodontal inflammation and dental caries to oral and head and neck cancers, as well as systemic conditions such as non-oral cancers and autoimmune, cardiometabolic, infectious, endocrine, and neurodegenerative diseases. In particular, extracellular vesicle-encapsulated RNA, cfDNA fragmentomics, and methylation patterns have expanded the diagnostic reach of saliva beyond conventional protein-based biomarkers, while integrated multi-omics approaches increasingly improve diagnostic performance. Despite this progress, clinical translation remains constrained by biological complexity, including variable glandular contributions, oral microbiome interactions, and pre-analytical variability in collection and processing. Emerging point-of-care technologies, microfluidic platforms, and artificial intelligence-driven multi-omic integration are beginning to address these limitations, enabling higher analytical sensitivity and improved disease stratification. Regulatory pathways, including in vitro diagnostic frameworks and laboratory-developed test structures, are progressively accommodating salivary assays, as demonstrated during the COVID-19 pandemic. However, widespread clinical adoption will require rigorous standardization, large-scale validation, and demonstration of clinical utility. Together, saliva-based liquid biopsy represents a rapidly evolving diagnostic paradigm with the potential to shift disease detection towards earlier, minimally invasive, and data-rich precision medicine approaches across dentistry and systemic healthcare.",
+      "journal": "Journal of periodontal research",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "School of Dentistry, University of California, Los Angeles, Los Angeles, California, USA.",
+        "School of Dental Medicine, Rutgers University, Newark, New Jersey, USA.",
+        "New York University, New York, New York, USA.",
+        "Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+      ],
+      "doi": "10.1111/jre.70152",
+      "date": "2026-08-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638446/"
+    },
+    {
       "pmid": "42636799",
       "title": "Cell-free DNA genomic and fragmentomic features for early outcome prediction in large B cell lymphoma.",
       "abstract": "Curative-intent immunochemotherapy fails in ∼30% of patients with large B cell lymphoma (LBCL), yet no validated molecular tool enables early identification of high-risk individuals to guide treatment intensification. Using shallow whole-genome sequencing (sWGS) of plasma cell-free DNA from 190 LBCL patients, we develop and validate the ACT score (aberrations, composition of fragments, and terminal motif analyses), a composite classifier integrating genomic and fragmentomic features from a single post-cycle-1 sample. ACT-positive patients have worse 2-year outcomes versus ACT-negative patients: time-to-progression 29% vs. 83% (hazard ratio [HR]: 4.4, 95% confidence interval [CI]: 1.9-10.0; p = 1.5 × 10-4) and overall survival 47% vs. 93% (HR: 8.7, 95% CI: 3.0-25.4; p = 1.8 × 10-6). The ACT score is independently prognostic of the International Prognostic Index, and their combination identifies the highest risk patients. Unlike mutation-based approaches, this assay requires neither tumor tissue, germline control, nor a baseline plasma sample. Built on open-source tools and sWGS, the ACT score offers a feasible, scalable strategy for early risk stratification in aggressive LBCL.",
@@ -522,25 +524,163 @@
       "doi": "10.1093/bioinformatics/btag491",
       "date": "2026-08-01",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635246/"
-    },
-    {
-      "pmid": "42634815",
-      "title": "Recent Advances (2020-2025) in Estrogen and ER-Positive Breast Cancer: Receptor Signaling, Tumor Microenvironment, Endocrine Therapy Resistance and Innovative Treatment Strategies-A Comprehensive Review.",
-      "abstract": "Estrogen receptor-positive (ER+) breast cancer accounts for 70-80% of all invasive breast malignancies worldwide and remains the dominant subtype driving rising global breast cancer incidence, representing a major clinical burden in China with a 2.84% annual age-standardized incidence increase. Endocrine therapy serves as the cornerstone intervention for ER+ disease, yet primary and acquired drug resistance severely undermine long-term therapeutic efficacy, creating an urgent demand for systematic integration of updated mechanistic and translational evidence. This comprehensive review systematically summarizes high-quality literature published from 2020 to 2025, focusing on estrogen biosynthesis and metabolic dysregulation, dual genomic/non-genomic estrogen receptor signaling mediated by ERα, ERβ and GPER1, epigenetic regulatory networks, and bidirectional crosstalk between estrogen signaling and the breast tumor microenvironment (TME). We further dissect multi-layered mechanisms underlying endocrine resistance, including ESR1 mutations/fusions, aberrant activation of PI3K/AKT/mTOR and MAPK pathways, dysregulated ER co-regulators, and expansion of breast cancer stem cells. Current mainstream endocrine agents (AIs, SERMs, SERDs), CDK4/6 inhibitors, and innovative combinatorial regimens targeting drug-resistant clones are also thoroughly discussed. Core consensus from the included literature indicates that ERα acts as a major oncogenic driver while ERβ exerts tumor-suppressive functions; GPER1-mediated non-genomic signaling frequently fuels metastasis and tamoxifen resistance. ESR1 genetic alterations and TME immunosuppressive remodeling constitute the two leading causes of therapeutic failure. Emerging therapeutic candidates, including GPER1 antagonists, ESRRA modulators and epigenetic regulators, have only demonstrated context-dependent anti-endocrine resistance effects in preclinical cell and animal models; substantial contradictory mechanistic data and a complete lack of large-scale human clinical trials restrict their immediate clinical application. Throughout this review, we systematically stratify all interventions by evidence strength to distinguish standard clinical regimens from purely experimental preclinical strategies and thoroughly discuss unresolved limitations and conflicting research observations for each investigational target. Translational approaches with robust clinical validation include liquid biopsy for real-time ESR1 mutation surveillance and standardized lifestyle preventive interventions for high-risk groups, while single cell/spatial multi-omics and gut microbiome modulation remain exploratory analytical or preventive tools with unresolved technical and population variability barriers.",
-      "journal": "Cancer management and research",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Thyroid Breast Surgery, Affiliated Hospital of Inner Mongolia Medical University, Hohhot, 010050, People's Republic of China."
-      ],
-      "doi": "10.2147/CMAR.S622575",
-      "date": "2026-08-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42634815/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42638344",
+      "date": "2026-08-25",
+      "title": "Optimization of a Canine Colon Organoid Platform for Modeling Intestinal Injury and Mesenchymal Stem Cell-Mediated Regeneration.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638344/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of stem cells，PMID 为 42638344。",
+      "report": "Canine chronic enteropathy (CE) is characterized by persistent mucosal inflammation and impaired barrier function. Despite its high clinical prevalence, research has been hindered by a lack of host-specific intestinal models. Here, we present an optimized cani...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42638069",
+      "date": "2026-08-25",
+      "title": "[Decellularized scaffolds derived from porcine testes for culture of primary testicular cells and organoids].",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638069/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Sheng wu gong cheng xue bao = Chinese journal of biotechnology，PMID 为 42638069。",
+      "report": "Decellularized extracellular matrix can well preserve the biomimetic ultrastructure of native tissue, providing a suitable three-dimensional biomimetic microenvironment for the in vitro culture of cells and organoids. The aim of this study is to prepare a porc...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42638446",
+      "date": "2026-08-25",
+      "title": "Saliva Liquid Biopsy for Detection of Oral and Systemic Diseases.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638446/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of periodontal research，PMID 为 42638446。",
+      "report": "Saliva has emerged as a compelling liquid biopsy for the non-invasive diagnosis and monitoring of both oral and systemic diseases. Secreted by major and minor salivary glands and enriched by gingival crevicular fluid, epithelial turnover, immune mediators, mic...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42638372",
+      "date": "2026-08-24",
+      "title": "Evaluating EndoC βH5 pseudoislets as a model for human islet transplantation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638372/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Diabetic medicine : a journal of the British Diabetic Association，PMID 为 42638372。",
+      "report": "The EndoC βH5 cell line represents a promising human β-cell model for preclinical diabetes research. Indeed, EndoC βH5 cells aggregate into islet-like organoids, secrete insulin in a glucose-dependent manner, and express a variety of β-cell functional markers....",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42638130",
+      "date": "2026-08-24",
+      "title": "Alisol A 23,24-diacetate improves LPS-induced acute lung injury through the IL-17A/NF-κB signaling pathway.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638130/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Chinese medicine，PMID 为 42638130。",
+      "report": "This study utilized the multi-model validation method to confirm that Alisol A 23,24-diacetate (AAD) can improve LPS-induced acute lung injury (ALI) through the IL-17A/NF-κB signaling pathway, providing experimental data support for preclinical research. Mice...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42636947",
       "date": "2026-08-24",
@@ -570,168 +710,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Cellular signalling，PMID 为 42636947。",
       "report": "Cancer-associated fibroblasts (CAFs) are key components of the tumor microenvironment and can influence tumor progression and therapeutic response. However, whether functional heterogeneity of CAFs contributes to 5-fluorouracil (5-FU) resistance in gastric can...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42636811",
-      "date": "2026-08-24",
-      "title": "DDIAS shields single-stranded DNA in mitosis and promotes vertebrate brain development.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636811/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell，PMID 为 42636811。",
-      "report": "DNA double-strand breaks and unresolved DNA replication intermediates are particularly dangerous during mitosis. Paradoxically, cells inactivate canonical DNA repair mechanisms during chromosome segregation in favor of alternative pathways that depend on TOPBP...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42636797",
-      "date": "2026-08-24",
-      "title": "Targeting addiction to HMGB2-driven transcriptional programs in pancreatic cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636797/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Longevity",
-        "Biomarkers",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "衰老",
-        "biomarker",
-        "longevity",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell reports，PMID 为 42636797。",
-      "report": "Pancreatic cancer remains at a stagnant 5-year survival of <13%, attributed to the high heterogeneity and plasticity of these tumors. To circumvent this, we focus on the abundant nuclear protein high mobility group-box protein 2 (HMGB2). HMGB2 depletion is key...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42636112",
-      "date": "2026-08-24",
-      "title": "Protocol for preparing small, fragile samples from Schistosoma mansoni and Drosophila melanogaster brains for MALDI mass spectrometry imaging.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636112/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Multi-omics"
-      ],
-      "tags": [
-        "biotech",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42636112。",
-      "report": "Mass spectrometry imaging is a routine tool for investigating biological samples with high spatial and mass resolution. However, sample preparation, especially when dealing with very small samples, can be challenging. Here, we describe a sample preparation pro...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42636109",
-      "date": "2026-08-24",
-      "title": "Hepatocellular carcinoma organoids enable drug discovery and combination therapy across heterogeneous tumors.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636109/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell reports，PMID 为 42636109。",
-      "report": "Hepatocellular carcinoma (HCC) remains a leading cause of cancer mortality, with limited therapeutic options and poor clinical outcomes. Tumor heterogeneity is a defining feature of HCC and a major barrier to effective treatment. To address this, we establishe...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42635953",
-      "date": "2026-08-24",
-      "title": "Single-Dose TACE-Like Injection of Sustained-Release Panobinostat/IL-12 Polymeric Microparticles is Effective in Preclinical Liver Cancer Models.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635953/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42635953。",
-      "report": "Primary liver cancer is the third leading cause of cancer death worldwide, and about 70% of hepatocellular carcinomas (HCCs) do not respond to systemic immunotherapies. Transarterial chemoembolization (TACE) remains standard treatment for intermediate-stage HC...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -996,42 +974,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42634815",
-      "date": "2026-08-19",
-      "title": "Recent Advances (2020-2025) in Estrogen and ER-Positive Breast Cancer: Receptor Signaling, Tumor Microenvironment, Endocrine Therapy Resistance and Innovative Treatment Strategies-A Comprehensive Review.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42634815/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer management and research，PMID 为 42634815。",
-      "report": "Estrogen receptor-positive (ER+) breast cancer accounts for 70-80% of all invasive breast malignancies worldwide and remains the dominant subtype driving rising global breast cancer incidence, representing a major clinical burden in China with a 2.84% annual a...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42600555",
       "date": "2026-08-08",
       "title": "Sparse integrative dictionary learning resolves conserved drug-response states in multiple myeloma (MM).",
@@ -1268,6 +1210,36 @@
       "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42498177。",
       "report": "Drug discovery for complex diseases has long been constrained by high developmental costs and suboptimal clinical transition rates. To bridge the \"translational gap\" between in vitro target screening and in vivo therapeutic efficacy, life science and pharmacol...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models, AI-enabled Discovery, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42637759",
+      "date": "2026-07-22",
+      "title": "In vitro multi-organ invasion model for exploring cardiac resistance to cancer metastasis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42637759/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42637759。",
+      "report": "Despite the systemic spread of cancer, the ventricular myocardium is one of the least common sites of metastasis-a phenomenon that remains poorly understood. To examine this, we develop the Multi-organ Invasion Device (MInD), an organ-on-a-chip platform that e...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

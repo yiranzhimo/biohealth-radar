@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-08-25T07:11:06.141220+00:00",
+  "capturedAt": "2026-08-25T13:13:59.455580+00:00",
   "summary": {
-    "mentionCount": 665,
-    "candidateCount": 594,
+    "mentionCount": 664,
+    "candidateCount": 593,
     "corroboratedCount": 2,
     "identifiedCount": 585,
-    "needsReviewCount": 7,
+    "needsReviewCount": 6,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 3,
+      "ClinicalTrials": 2,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 59,
@@ -20,82 +20,57 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-84c39611d7d66a07",
-      "observedName": "CEN Biotech",
-      "normalizedName": "cen biotech",
+      "id": "mention-clinicaltrials-20667be77af2190c",
+      "observedName": "A2 Biotherapeutics Inc.",
+      "normalizedName": "a2 biotherapeutics",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06186375",
-      "sourceDate": "2025-08-06",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06186375",
+      "sourceRecordId": "NCT06682793",
+      "sourceDate": "2025-09-09",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06682793",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Healthcare AI",
-        "Medical AI",
+        "Oncology",
+        "Precision Oncology",
         "Recruiting",
-        "临床决策支持",
         "临床试验",
-        "医疗 AI"
+        "乳腺癌",
+        "肿瘤"
       ],
       "activitySignals": [
         "active_trial",
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Performance of PEAR 2.0 Software in Prescribing Biotherapy in Patients With Rheumatoid Arthritis"
+      "contextTitle": "A Study to Evaluate the Safety and Efficacy of A2B395, an Allogeneic Logic-gated CAR T, in Participants With Solid Tumors That Express EGFR and Have Lost HLA-A*02 Expression"
     },
     {
-      "id": "mention-clinicaltrials-b974584abcdd7c9e",
-      "observedName": "R&G Pharma Studies Co.,Ltd.",
-      "normalizedName": "r and g pharma studies",
+      "id": "mention-clinicaltrials-f0ff1656b35f0fd6",
+      "observedName": "AGECURVE LIMITED",
+      "normalizedName": "agecurve",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT05552781",
-      "sourceDate": "2024-04-11",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05552781",
+      "sourceRecordId": "NCT05004220",
+      "sourceDate": "2023-09-06",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05004220",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
+        "Biomarkers",
         "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "中国",
+        "Longevity",
+        "biomarker",
         "临床试验",
-        "肿瘤"
+        "衰老"
       ],
       "activitySignals": [
-        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "H002 in Patients With EGFR Mutation Locally Advanced or Metastatic NSCLC"
-    },
-    {
-      "id": "mention-clinicaltrials-dac35e32aa7a23d2",
-      "observedName": "UroGen Pharma Ltd.",
-      "normalizedName": "urogen pharma",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT05136898",
-      "sourceDate": "2024-09-19",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05136898",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "临床试验",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Feasibility of Home Instillation of UGN-102 for Treatment of Low-Grade (LG) Non-Muscle Invasive Bladder Cancer (NMIBC)"
+      "contextTitle": "Effects of Plasmapheresis on Aging Biomarkers"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -44241,90 +44216,36 @@
       ]
     },
     {
-      "id": "candidate-cen-biotech",
-      "name": "CEN Biotech",
+      "id": "candidate-a2-biotherapeutics",
+      "name": "A2 Biotherapeutics Inc.",
       "aliases": [
-        "CEN Biotech"
+        "A2 Biotherapeutics Inc."
       ],
-      "normalizedName": "cen biotech",
+      "normalizedName": "a2 biotherapeutics",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2025-08-06",
-      "lastSeenAt": "2025-08-06",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Healthcare AI",
-          "Medical AI",
-          "Recruiting",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Healthcare AI",
-          "Medical AI",
-          "Recruiting",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-84c39611d7d66a07"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2025-08-06",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06186375",
-          "externalId": "NCT06186375",
-          "contextTitle": "Performance of PEAR 2.0 Software in Prescribing Biotherapy in Patients With Rheumatoid Arthritis"
-        }
-      ]
-    },
-    {
-      "id": "candidate-urogen-pharma",
-      "name": "UroGen Pharma Ltd.",
-      "aliases": [
-        "UroGen Pharma Ltd."
-      ],
-      "normalizedName": "urogen pharma",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2024-09-19",
-      "lastSeenAt": "2024-09-19",
+      "firstSeenAt": "2025-09-09",
+      "lastSeenAt": "2025-09-09",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
           "Oncology",
           "Precision Oncology",
+          "Recruiting",
           "临床试验",
+          "乳腺癌",
           "肿瘤"
         ],
         "themes": [
           "Clinical Trials",
           "Oncology",
           "Precision Oncology",
+          "Recruiting",
           "临床试验",
+          "乳腺癌",
           "肿瘤"
         ],
         "tags": []
@@ -44338,17 +44259,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-dac35e32aa7a23d2"
+        "mention-clinicaltrials-20667be77af2190c"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2024-09-19",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT05136898",
-          "externalId": "NCT05136898",
-          "contextTitle": "Feasibility of Home Instillation of UGN-102 for Treatment of Low-Grade (LG) Non-Muscle Invasive Bladder Cancer (NMIBC)"
+          "sourceDate": "2025-09-09",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06682793",
+          "externalId": "NCT06682793",
+          "contextTitle": "A Study to Evaluate the Safety and Efficacy of A2B395, an Allogeneic Logic-gated CAR T, in Participants With Solid Tumors That Express EGFR and Have Lost HLA-A*02 Expression"
         }
       ]
     },
@@ -47459,35 +47380,35 @@
       ]
     },
     {
-      "id": "candidate-r-and-g-pharma-studies",
-      "name": "R&G Pharma Studies Co.,Ltd.",
+      "id": "candidate-agecurve",
+      "name": "Agecurve Limited",
       "aliases": [
-        "R&G Pharma Studies Co.,Ltd."
+        "AGECURVE LIMITED"
       ],
-      "normalizedName": "r and g pharma studies",
+      "normalizedName": "agecurve",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2024-04-11",
-      "lastSeenAt": "2024-04-11",
+      "firstSeenAt": "2023-09-06",
+      "lastSeenAt": "2023-09-06",
       "identifiers": {},
       "classificationHints": {
         "directions": [
+          "Biomarkers",
           "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "中国",
+          "Longevity",
+          "biomarker",
           "临床试验",
-          "肿瘤"
+          "衰老"
         ],
         "themes": [
+          "Biomarkers",
           "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "中国",
+          "Longevity",
+          "biomarker",
           "临床试验",
-          "肿瘤"
+          "衰老"
         ],
         "tags": []
       },
@@ -47500,17 +47421,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-b974584abcdd7c9e"
+        "mention-clinicaltrials-f0ff1656b35f0fd6"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2024-04-11",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT05552781",
-          "externalId": "NCT05552781",
-          "contextTitle": "H002 in Patients With EGFR Mutation Locally Advanced or Metastatic NSCLC"
+          "sourceDate": "2023-09-06",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT05004220",
+          "externalId": "NCT05004220",
+          "contextTitle": "Effects of Plasmapheresis on Aging Biomarkers"
         }
       ]
     }

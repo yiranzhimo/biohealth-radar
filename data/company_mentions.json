@@ -4,82 +4,57 @@
   "asOfDate": "2026-08-25",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-84c39611d7d66a07",
-      "observedName": "CEN Biotech",
-      "normalizedName": "cen biotech",
+      "id": "mention-clinicaltrials-20667be77af2190c",
+      "observedName": "A2 Biotherapeutics Inc.",
+      "normalizedName": "a2 biotherapeutics",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06186375",
-      "sourceDate": "2025-08-06",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06186375",
+      "sourceRecordId": "NCT06682793",
+      "sourceDate": "2025-09-09",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06682793",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Healthcare AI",
-        "Medical AI",
+        "Oncology",
+        "Precision Oncology",
         "Recruiting",
-        "临床决策支持",
         "临床试验",
-        "医疗 AI"
+        "乳腺癌",
+        "肿瘤"
       ],
       "activitySignals": [
         "active_trial",
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Performance of PEAR 2.0 Software in Prescribing Biotherapy in Patients With Rheumatoid Arthritis"
+      "contextTitle": "A Study to Evaluate the Safety and Efficacy of A2B395, an Allogeneic Logic-gated CAR T, in Participants With Solid Tumors That Express EGFR and Have Lost HLA-A*02 Expression"
     },
     {
-      "id": "mention-clinicaltrials-b974584abcdd7c9e",
-      "observedName": "R&G Pharma Studies Co.,Ltd.",
-      "normalizedName": "r and g pharma studies",
+      "id": "mention-clinicaltrials-f0ff1656b35f0fd6",
+      "observedName": "AGECURVE LIMITED",
+      "normalizedName": "agecurve",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT05552781",
-      "sourceDate": "2024-04-11",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05552781",
+      "sourceRecordId": "NCT05004220",
+      "sourceDate": "2023-09-06",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05004220",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
+        "Biomarkers",
         "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "中国",
+        "Longevity",
+        "biomarker",
         "临床试验",
-        "肿瘤"
+        "衰老"
       ],
       "activitySignals": [
-        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "H002 in Patients With EGFR Mutation Locally Advanced or Metastatic NSCLC"
-    },
-    {
-      "id": "mention-clinicaltrials-dac35e32aa7a23d2",
-      "observedName": "UroGen Pharma Ltd.",
-      "normalizedName": "urogen pharma",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT05136898",
-      "sourceDate": "2024-09-19",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05136898",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "临床试验",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Feasibility of Home Instillation of UGN-102 for Treatment of Low-Grade (LG) Non-Muscle Invasive Bladder Cancer (NMIBC)"
+      "contextTitle": "Effects of Plasmapheresis on Aging Biomarkers"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
