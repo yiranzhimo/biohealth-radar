@@ -20047,6 +20047,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001651308-000165130826000025",
           "evidence-company-beone-medicines-official-f6d717853551",
           "evidence-company-beone-medicines-pipeline-cad9773572ea",
           "evidence-company-beone-medicines-investor_relations-60394f02563f",
@@ -20057,6 +20058,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001651308-000165130826000025",
+            "date": "2026-08-26",
+            "title": "BeOne Medicines filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001651308-000165130826000025",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1651308/000165130826000025/bgne-20260826.htm"
+          },
           {
             "id": "event-evidence-company-beone-medicines-official-f6d717853551",
             "date": "2026-08-26",
@@ -20100,17 +20112,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001651308-000162828026052878",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1651308/000162828026052878/bgne-20260630.htm"
-          },
-          {
-            "id": "event-sec-0001651308-000162828026052877",
-            "date": "2026-08-05",
-            "title": "BeOne Medicines filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001651308-000162828026052877",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1651308/000162828026052877/bgne-20260805.htm"
           }
         ],
         "inferences": [],
@@ -20120,10 +20121,10 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 5,
+        "evidenceCount": 6,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 2
+          "Filing": 3
         },
         "lastEvidenceDate": "2026-08-26",
         "programCandidateCount": 0,
@@ -20133,6 +20134,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001651308-000165130826000025",
+          "date": "2026-08-26",
+          "title": "BeOne Medicines filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001651308-000165130826000025",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1651308/000165130826000025/bgne-20260826.htm"
+        },
         {
           "id": "event-evidence-company-beone-medicines-official-f6d717853551",
           "date": "2026-08-26",
@@ -31531,7 +31543,9 @@
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "Pharmaceutical Preparations"
+          "Clinical Trials",
+          "Pharmaceutical Preparations",
+          "临床试验"
         ],
         "modalities": [],
         "watchTier": "Discovery"

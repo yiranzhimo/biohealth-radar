@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-26T07:11:13.384475+00:00",
+  "capturedAt": "2026-08-26T13:19:33.330198+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-26"
   },
   "pmids": [
+    "42642991",
+    "42642783",
     "42641931",
     "42641898",
     "42641766",
     "42641569",
-    "42641318",
-    "42640736",
     "42600555",
     "42580899",
     "42559559",
@@ -40,6 +40,42 @@
     "42638446"
   ],
   "records": [
+    {
+      "pmid": "42642991",
+      "title": "Decoding host-microbial dynamics in peri-implantitis: Ecosystem-specific experimental models.",
+      "abstract": "Peri-implantitis is an inflammatory disease arising within a unique host-microbial-biomaterial ecosystem. Unlike periodontitis, peri-implant tissues lack a periodontal ligament and epithelial junction integrity and interface with metal oxides on titanium surfaces. The inflammatory changes in peri-implant disease not only affect the host but also extend to the implant surfaces, which undergo corrosion and particle release. These specific ecological features must be accurately captured in preclinical experimental models to provide mechanistic insight and enable translational success. This review evaluates preclinical and microengineered models of peri-implantitis, focusing on how well they recapitulate the peri-implant mucosal barrier, the biomaterial interface, and systemic modifiers. We propose minimum criteria for \"true\" peri-implantitis models and outline ecosystem-specific platforms for translational research. A literature search for this narrative review was conducted in PubMed, prioritizing in vivo peri-implantitis models and their use in assessing systemic comorbidities (e.g., diabetes) and local risk factors on peri-implant disease. Furthermore, emerging implant-specific organ-on-a-chip systems for 3D peri-implant mucosa are reviewed. Ligature- and infection-based rodent and large-animal models have elucidated key bacterial-driven inflammatory pathways around dental implants, but careful consideration is needed to ensure long-term chronicity and to account for titanium degradation as a costimulatory pathogenic factor. Comorbidity-integrated models demonstrate that diabetes, vascular disease, and antiresorptive therapy amplify peri-implant bone loss and can precipitate MRONJ-like lesions. Organ-on-a-chip peri-implant mucosa platforms now enable controlled bacterial and titanium exposure, biomechanical strain, and human-relevant barrier readouts, aligned with reduction principles and prioritizing Human-Centered models. Ecosystem-specific models that incorporate microrough titanium, inflammatory biomaterial corrosion, barrier biology, and systemic risk factors are essential to advance the study of peri-implantitis. Such models provide a strong foundation for implant-specific investigations that move peri-implantitis management beyond biofilm-centric debridement into the management of host-microbial-biomaterial equilibrium.",
+      "journal": "Periodontology 2000",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Oral Biology and Clinical Research Center, Rutgers School of Dental Medicine, Newark, New Jersey, USA.",
+        "UCLA School of Dentistry, University of California, Los Angeles, California, USA.",
+        "Department of Periodontology, Hadassah Medical Center, Faculty of Dental Medicine, Hebrew University of Jerusalem, Jerusalem, Israel.",
+        "Department of Biochemistry and Molecular and Cellular Biology, Georgetown University, Washington, DC, USA."
+      ],
+      "doi": "10.1111/prd.70076",
+      "date": "2026-08-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42642991/"
+    },
+    {
+      "pmid": "42642783",
+      "title": "Considerations for selecting immunodeficient mouse strains for cancer xenograft models.",
+      "abstract": "Preclinical (in vivo) experiments for efficacy and toxicity are predominantly conducted in mice. Nevertheless, human-derived cells, tissues, and organoids are generally rejected by the immune system of mice. Thus, immunodeficient mice are used as xenograft models to overcome immune rejection in cancer research. Xenograft mouse models are divided into ectopic, orthotopic, and metastatic models based on the transplant sites. Xenograft mouse models are established by transplanting cancer cells, tissues, or organoids derived from patients. These models show diverse success rates and production times depending on the transplant materials and recipient mice. In this review, mouse strains for the establishment of xenograft models in cancer research are introduced. Genetic engineering of immune cells, such as T cells, B cells, and natural killer cells, shows specific properties. To select an immunodeficient mouse strain, the differences in the characteristics of the models must be understood. Optimized mouse models can provide information to investigate cancer progression and evaluate anticancer drugs.",
+      "journal": "Laboratory animal research",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "College of Pharmacy, Duksung Women's University, Seoul, Republic of Korea.",
+        "College of Pharmacy, Duksung Women's University, Seoul, Republic of Korea. joohee@duksung.ac.kr."
+      ],
+      "doi": "10.1186/s42826-026-00292-8",
+      "date": "2026-08-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42642783/"
+    },
     {
       "pmid": "42641931",
       "title": "Targeting the ALDH-RA Axis with RE-Exo@HA hydrogel to achieve scarless endometrial regeneration and fertility restoration in intrauterine adhesions.",
@@ -119,43 +155,6 @@
       "doi": "10.1016/j.ejcb.2026.151565",
       "date": "2026-08-20",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641569/"
-    },
-    {
-      "pmid": "42641318",
-      "title": "Looping patchworks and imaginations in a concept: Building the patchwork of \"organoid\" in contemporary biotechnology.",
-      "abstract": "Organoids have become a central but contested notion across developmental biology, stem cell research, tissue engineering and regenerative medicine. I argue that the term organoid functions not as a single, well-defined scientific kind but as a special kind of patchwork concept that I call looping patchwork concept: a coordination device whose stability depends on overlapping inferential patches distributed across material practices, ethical deliberations, and promissory imaginaries. Drawing on Hacking's looping kinds, Jasanoff's co-production framework, and recent philosophical work on patchwork concepts; I show how the same label anchors different research agendas while enabling interdisciplinary collaboration and governance. I illustrate this analysis with brief comparisons of the U.S. Multicellular Engineered Living Systems (MCELS) initiative and the Germany based REBIRTH (REgenerative BIology to Reconstructive Therapy) excellence cluster, showing how divergent emphases on engineering, therapy, and regulation produce different weightings of the concept's registers. Conceptualizing organoids as looping patchwork concepts with ethical and social relevance reframes definitional instability as an epistemic resource: conceptual flexibility facilitates coordination, legitimation, and the co-constitution of objects in the making. This way I propose the usage of a multilayer approach in concepts that are building entities of biotechnology.",
-      "journal": "Studies in history and philosophy of science",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Prince Mohammad bin Fahd University, College of Sciences and Human Studies, Humanities & Social Sciences, Center for Futuristic Studies, Kingdom of Saudi Arabia; University of Johannesburg, The African Centre for Epistemology and Philosophy of Science, South Africa; University of Freiburg, Institute for Advanced Studies, Young Academy for Cultures and Societies Research, Freiburg, Germany. Electronic address: oaltinok@uj.ac.za."
-      ],
-      "doi": "10.1016/j.shpsa.2026.102208",
-      "date": "2026-08-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641318/"
-    },
-    {
-      "pmid": "42640736",
-      "title": "MANF clears mutant uromodulin in human kidney organoids of autosomal dominant tubulointerstitial kidney disease.",
-      "abstract": "",
-      "journal": "The Journal of clinical investigation",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Medicine, Washington University School of Medicine, St Louis, United States of America.",
-        "Institute of Materials Science and Engineering, Washington University School of Medicine, St. Louis, United States of America.",
-        "Genome Technology Access Center, Washington University School of Medicine, St. Louis, United States of America.",
-        "Department of Medicine, Wake Forest University, Winston-Salem, United States of America.",
-        "Shanghai General Hospital, Shanghai, China.",
-        "Institute of Biotechnlogy, University of Helsinki, Helsinki, Finland.",
-        "Department of Medicine, Wake Forest School of Medicine, Winston-Salem, United States of America.",
-        "Department of Biological Sciences, The University of Texas at Dallas, Richardson, United States of America."
-      ],
-      "doi": "10.1172/JCI205631",
-      "date": "2026-08-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42640736/"
     },
     {
       "pmid": "42600555",
@@ -508,6 +507,64 @@
   ],
   "signals": [
     {
+      "id": "pubmed-42642991",
+      "date": "2026-08-25",
+      "title": "Decoding host-microbial dynamics in peri-implantitis: Ecosystem-specific experimental models.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42642991/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Periodontology 2000，PMID 为 42642991。",
+      "report": "Peri-implantitis is an inflammatory disease arising within a unique host-microbial-biomaterial ecosystem. Unlike periodontitis, peri-implant tissues lack a periodontal ligament and epithelial junction integrity and interface with metal oxides on titanium surfa...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42642783",
+      "date": "2026-08-25",
+      "title": "Considerations for selecting immunodeficient mouse strains for cancer xenograft models.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42642783/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Laboratory animal research，PMID 为 42642783。",
+      "report": "Preclinical (in vivo) experiments for efficacy and toxicity are predominantly conducted in mice. Nevertheless, human-derived cells, tissues, and organoids are generally rejected by the immune system of mice. Thus, immunodeficient mice are used as xenograft mod...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42641931",
       "date": "2026-08-25",
       "title": "Targeting the ALDH-RA Axis with RE-Exo@HA hydrogel to achieve scarless endometrial regeneration and fertility restoration in intrauterine adhesions.",
@@ -592,62 +649,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Ageing research reviews，PMID 为 42641766。",
       "report": "In vitro cell-line models are essential for investigating the complex, interconnected mechanisms of Alzheimer's disease (AD). While offering high tractability for mechanism-focused screening, their translational utility depends on the precise alignment of the...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42641318",
-      "date": "2026-08-25",
-      "title": "Looping patchworks and imaginations in a concept: Building the patchwork of \"organoid\" in contemporary biotechnology.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641318/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Studies in history and philosophy of science，PMID 为 42641318。",
-      "report": "Organoids have become a central but contested notion across developmental biology, stem cell research, tissue engineering and regenerative medicine. I argue that the term organoid functions not as a single, well-defined scientific kind but as a special kind of...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42640736",
-      "date": "2026-08-25",
-      "title": "MANF clears mutant uromodulin in human kidney organoids of autosomal dominant tubulointerstitial kidney disease.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42640736/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The Journal of clinical investigation，PMID 为 42640736。",
-      "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },

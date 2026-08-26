@@ -4,57 +4,101 @@
   "asOfDate": "2026-08-26",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-20667be77af2190c",
-      "observedName": "A2 Biotherapeutics Inc.",
-      "normalizedName": "a2 biotherapeutics",
+      "id": "mention-clinicaltrials-4a01c806e45140b7",
+      "observedName": "CervoMed, Inc.",
+      "normalizedName": "cervomed",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT05869669",
+      "sourceDate": "2026-05-06",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05869669",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "临床试验"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "RewinD-LB - Clinical Study of Neflamapimod in Patients With Dementia With Lewy Bodies"
+    },
+    {
+      "id": "mention-clinicaltrials-a4d8b3bc5561990e",
+      "observedName": "Huede Healthtech Co., Ltd.",
+      "normalizedName": "huede healthtech",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06682793",
-      "sourceDate": "2025-09-09",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06682793",
+      "sourceRecordId": "NCT06685367",
+      "sourceDate": "2024-11-12",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06685367",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Healthcare AI",
+        "Medical AI",
+        "Recruiting",
+        "临床决策支持",
+        "临床试验",
+        "医疗 AI"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "The Cost-effectiveness of Artificial Intelligence Acute Kidney Injury Prediction Auxiliary Software (Acura AKI)"
+    },
+    {
+      "id": "mention-clinicaltrials-c32b3ca6d916ea9b",
+      "observedName": "Sunshine Lake Pharma Co., Ltd.",
+      "normalizedName": "sunshine lake pharma",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT03888092",
+      "sourceDate": "2023-03-21",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03888092",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
         "Oncology",
         "Precision Oncology",
-        "Recruiting",
+        "中国",
         "临床试验",
-        "乳腺癌",
         "肿瘤"
       ],
       "activitySignals": [
-        "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Study to Evaluate the Safety and Efficacy of A2B395, an Allogeneic Logic-gated CAR T, in Participants With Solid Tumors That Express EGFR and Have Lost HLA-A*02 Expression"
+      "contextTitle": "Z650 in Advanced Esophageal Squamous Cell Carcinoma With EGFR Over Expression or Gene Amplification"
     },
     {
-      "id": "mention-clinicaltrials-f0ff1656b35f0fd6",
-      "observedName": "AGECURVE LIMITED",
-      "normalizedName": "agecurve",
+      "id": "mention-clinicaltrials-e125bfd361bc2638",
+      "observedName": "EIP Pharma Inc",
+      "normalizedName": "eip pharma",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT05004220",
-      "sourceDate": "2023-09-06",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05004220",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT05869669",
+      "sourceDate": "2026-05-06",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05869669",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Biomarkers",
         "Clinical Trials",
-        "Longevity",
-        "biomarker",
-        "临床试验",
-        "衰老"
+        "临床试验"
       ],
       "activitySignals": [
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Effects of Plasmapheresis on Aging Biomarkers"
+      "contextTitle": "RewinD-LB - Clinical Study of Neflamapimod in Patients With Dementia With Lewy Bodies"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
