@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-26T02:00:38.030018+00:00",
+  "capturedAt": "2026-08-26T07:11:13.384475+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-26"
   },
   "pmids": [
+    "42641931",
+    "42641898",
+    "42641766",
+    "42641569",
+    "42641318",
     "42640736",
-    "42640702",
-    "42639847",
-    "42638372",
-    "42638344",
-    "42638130",
     "42600555",
     "42580899",
     "42559559",
@@ -32,14 +32,109 @@
     "42631415",
     "42625221",
     "42624861",
+    "42641935",
+    "42641282",
     "42640608",
     "42640174",
     "42639369",
-    "42638446",
-    "42636799",
-    "42635847"
+    "42638446"
   ],
   "records": [
+    {
+      "pmid": "42641931",
+      "title": "Targeting the ALDH-RA Axis with RE-Exo@HA hydrogel to achieve scarless endometrial regeneration and fertility restoration in intrauterine adhesions.",
+      "abstract": "Intrauterine adhesions (IUA), a leading cause of uterine infertility, are characterized by endometrial fibrosis and a loss of functional regeneration. The impairment of endometrial mesenchymal stem/stromal cells (eMSCs) is central to IUA pathogenesis; however, the absence of reliable markers correlating with disease severity and fibrosis has hindered the understanding of their pathological mechanisms and the development of targeted therapies. Here, ALDH1A1 and ALDH1A2 were identified as novel eMSC markers significantly downregulated in IUA patient samples and scar tissue. ALDHHigh eMSCs exhibited superior self-renewal capability, proliferative capacity, decidualization potential, and angiogenic capability, alongside reduced fibrotic characteristics compared to ALDHLow eMSCs. Transplantation of ALDHHigh eMSCs promoted endometrial regeneration in a murine IUA model. Mechanistically, ALDHHigh eMSCs secreted higher levels of ATRA (all-trans retinoic acid), and their pro-regenerative effect was mediated through the ALDH-RA-RAR (RA Receptor) axis. ATRA and E2 (Estradiol) acted synergistically to promote glandular organoid growth and reprogram ALDHLow eMSCs towards a regenerative phenotype. The RE-Exo@HA hydrogel, composed of ATRA and E2 encapsulated in exosomes embedded within a hyaluronic acid hydrogel, effectively facilitated scarless endometrial repair, demonstrated by restored endometrial architecture, increased gland number, reduced fibrosis, and significantly improved pregnancy outcomes in vivo. Our findings establish ALDH1A1/ALDH1A2 as key functional markers of a regenerative eMSC subpopulation depleted in IUA and highlight the ALDH-RA axis as a critical mechanism governing endometrial repair.",
+      "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Shenzhen University Medical School, Shenzhen University, Shenzhen 518000, PR China.",
+        "Women and Children's Hospital, Qingdao University, Qingdao 266034, PR China.",
+        "Science and Technology Service Platform, Qilu University of Technology (Shandong Academy of Sciences), Jinan 250000, PR China.",
+        "Key Laboratory of Animal Cellular and Genetic Engineering of Heilongjiang Province, College of Life Science, Northeast Agricultural University, Harbin 150000, PR China.",
+        "Shenzhen Key Laboratory of Reproductive Immunology for Peri-implantation, Shenzhen Zhongshan Institute for Reproduction and Genetics, Shenzhen Zhongshan Obstetrics & Gynecology Hospital, Shenzhen 518000, PR China; Guangdong Engineering Technology Research Center of Reproductive Immunology for Peri-implantation, Shenzhen 518000, PR China.",
+        "Shenzhen Key Laboratory of Reproductive Immunology for Peri-implantation, Shenzhen Zhongshan Institute for Reproduction and Genetics, Shenzhen Zhongshan Obstetrics & Gynecology Hospital, Shenzhen 518000, PR China; Guangdong Engineering Technology Research Center of Reproductive Immunology for Peri-implantation, Shenzhen 518000, PR China. Electronic address: xujianyong@szu.edu.cn."
+      ],
+      "doi": "10.1016/j.jconrel.2026.115266",
+      "date": "2026-08-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641931/"
+    },
+    {
+      "pmid": "42641898",
+      "title": "Phytolacca acinosa Roxb. induces intestinal toxicity through the histamine-MLCK-tight junction axis: Integrated evidence from proteomics, metabolomics, intestinal organoids and epithelial barrier validation.",
+      "abstract": "Phytolacca acinosa Roxb. (PR) is a saponin-rich medicinal plant associated with gastrointestinal toxicity, but the mechanisms underlying PR-induced intestinal barrier injury remain unclear. In this study, raw PR extract was analytically characterized by UPLC-ZenoTOF-MS/MS, confirming triterpenoid saponins as the predominant constituents. C57BL/6J mice were orally exposed to characterized PR extract (1.20 or 12.0g/kg for 5h), and Caco-2 cells and mouse intestinal organoids were used to assess epithelial toxicity and barrier disruption. Histopathology, ELISA, FITC-dextran permeability assays, immunofluorescence, CCK-8, LDH release, western blotting, DIA-based proteomics and untargeted metabolomics were integrated to define toxicological mechanisms. PR induced dose-dependent intestinal inflammation and barrier dysfunction, with the ileum as the most sensitive target. PR increased serum DAO and D-lactate and intestinal TNF-α and IL-1β, disrupted organoid morphology, enhanced epithelial permeability, and reduced ZO-1 expression. Proteomics revealed changes in inflammatory, lipid-metabolic, cytoskeletal and tight-junction pathways, including upregulation of MLCK3 and phospholipase-related proteins and downregulation of ZO-1 and ZO-2. Metabolomics identified histidine metabolism disturbance and histamine accumulation. Integrated multi-omics and pharmacological validation indicated that histamine activated the PLC/IP₃/Ca²⁺/CaM/MLCK cascade, promoting MLC phosphorylation, tight-junction disassembly and epithelial leakiness. MLCK inhibition partially restored ZO-1/ZO-2 expression and attenuated PR-induced epithelial injury. These findings identify the histamine-MLCK-tight junction axis as a key mechanism of PR-induced intestinal toxicity and support hazard identification of saponin-rich PR exposure.",
+      "journal": "Toxicology letters",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Nanjing University of Chinese Medicine. Electronic address: 202410975@njucm.edu.cn.",
+        "Nanjing University of Chinese Medicine. Electronic address: 1945947476@qq.com.",
+        "Nanjing University of Chinese Medicine. Electronic address: yyhuangyangyi@126.com.",
+        "Nanjing University of Chinese Medicine. Electronic address: zhangkou03@njucm.edu.cn.",
+        "Nanjing University of Chinese Medicine. Electronic address: 20223109@njucm.edu.cn.",
+        "Nanjing University of Chinese Medicine. Electronic address: 2268163402@qq.com.",
+        "Nanjing University of Chinese Medicine. Electronic address: xiaobingcui@163.com.",
+        "Nanjing University of Chinese Medicine. Electronic address: xingde2293@126.com.",
+        "Nanjing University of Chinese Medicine. Electronic address: xinzhiWang@njucm.edu.cn.",
+        "Nanjing University of Chinese Medicine. Electronic address: whao5795@njucm.edu.cn.",
+        "Nanjing University of Chinese Medicine, CHINA. Electronic address: yhl@njucm.edu.cn."
+      ],
+      "doi": "10.1016/j.toxlet.2026.113181",
+      "date": "2026-08-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641898/"
+    },
+    {
+      "pmid": "42641766",
+      "title": "In Vitro Cell-Line Models of Alzheimer's Disease: A Systematic Review and Mechanism-Based Evidence Map of Induction Paradigms, Targeted Mechanisms, and Validation Requirements.",
+      "abstract": "In vitro cell-line models are essential for investigating the complex, interconnected mechanisms of Alzheimer's disease (AD). While offering high tractability for mechanism-focused screening, their translational utility depends on the precise alignment of the biological inquiry with the appropriate cellular system, induction strategy, and experimental readouts. This systematic review and mechanism-based evidence map searched PubMed (inception to 1 May 2026), capturing 93 original experimental studies across neuronal, glial, endothelial, and higher-fidelity multicellular systems. Extracted data were structured by cellular model, induction paradigm, targeted mechanism, and interpretive scope. The synthesized evidence indicates that AD-relevant in vitro systems are not interchangeable whole-disease models, but mechanism-based tools. SH-SY5Y cells are primarily suited for Aβ-associated neuronal toxicity and general screening. Neuro-2a (N2a) systems are optimized for evaluating APP processing and amyloidogenesis. HT-22 cells specifically model oxidative glutamate toxicity and ferroptosis-related injury, while PC12 cells are strictly reserved for NGF-dependent neurite biology and neuroprotection. While classical cell lines remain essential for initial mechanistic screening, establishing disease-level relevance requires validation through orthogonal readouts and high-fidelity human models, such as multicellular organoids or blood-brain barrier systems.",
+      "journal": "Ageing research reviews",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of pharmacy practice, College of Pharmacy, University of Hafr Al Batin, Hafr Al Batin, Saudi Arabia. Electronic address: hajarm@uhb.edu.sa."
+      ],
+      "doi": "10.1016/j.arr.2026.103322",
+      "date": "2026-08-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641766/"
+    },
+    {
+      "pmid": "42641569",
+      "title": "TCF3 safeguards tumor-intrinsic interferon competence to restrain prostate cancer progression and immune escape.",
+      "abstract": "Prostate cancer commonly remains refractory to checkpoint blockade, consistent with an immune-cold microenvironment and tumor-intrinsic defects in interferon signaling. We report that loss of the basic helix-loop-helix transcription factor TCF3 defines a tumor-intrinsic mechanism that simultaneously drives aggressive progression and immune evasion. TCF3 expression is reduced in advanced and metastatic prostate cancer across multiple cohorts and in a Pten-driven model. In androgen-independent prostate cancer cells and organoids, TCF3 depletion enhances proliferation, clonogenicity, migration, and EMT-associated programs, while overexpression of TCF3 isoforms suppresses these malignant phenotypes. Transcriptomic profiling further shows that TCF3 loss profoundly downregulates interferon-α/γ response programs. Mechanistically, TCF3 promotes transcription of STAT2, preserving basal and inducible interferon signaling and downstream ISG expression; TCF3-deficient tumors exhibit reduced immune infiltration and impaired CD8+ T cell effector function in vivo. Notably, therapeutic innate immune activation partially restores interferon responses, and poly(I:C) plus PD-1 blockade reinvigorates cytotoxic T cell activity and markedly suppresses tumor growth. These data support TCF3 as a biomarker of interferon competence and a rational basis for selecting patients for innate agonist-checkpoint combinations.",
+      "journal": "European journal of cell biology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "MOE Key Laboratory of Metabolism and Molecular Medicine & Department of Biochemistry and Molecular Biology of School of Basic Medical Sciences, and Fudan University Shanghai Cancer Center, Shanghai Medical College of Fudan University, Shanghai, China.",
+        "State Key Laboratory of Common Mechanism Research for Major Diseases, Suzhou Institute of Systems Medicine, Chinese Academy of Medical Sciences & Peking Union Medical College, Suzhou, Jiangsu, China; Disease Networks Research Unit, Faculty of Biochemistry and Molecular Medicine, Biocenter Oulu, University of Oulu, Finland.",
+        "State Key Laboratory of Common Mechanism Research for Major Diseases, Suzhou Institute of Systems Medicine, Chinese Academy of Medical Sciences & Peking Union Medical College, Suzhou, Jiangsu, China.",
+        "MOE Key Laboratory of Metabolism and Molecular Medicine & Department of Biochemistry and Molecular Biology of School of Basic Medical Sciences, and Fudan University Shanghai Cancer Center, Shanghai Medical College of Fudan University, Shanghai, China; State Key Laboratory of Common Mechanism Research for Major Diseases, Suzhou Institute of Systems Medicine, Chinese Academy of Medical Sciences & Peking Union Medical College, Suzhou, Jiangsu, China.",
+        "MOE Key Laboratory of Metabolism and Molecular Medicine & Department of Biochemistry and Molecular Biology of School of Basic Medical Sciences, and Fudan University Shanghai Cancer Center, Shanghai Medical College of Fudan University, Shanghai, China; State Key Laboratory of Common Mechanism Research for Major Diseases, Suzhou Institute of Systems Medicine, Chinese Academy of Medical Sciences & Peking Union Medical College, Suzhou, Jiangsu, China. Electronic address: gonghong_wei@fudan.edu.cn."
+      ],
+      "doi": "10.1016/j.ejcb.2026.151565",
+      "date": "2026-08-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641569/"
+    },
+    {
+      "pmid": "42641318",
+      "title": "Looping patchworks and imaginations in a concept: Building the patchwork of \"organoid\" in contemporary biotechnology.",
+      "abstract": "Organoids have become a central but contested notion across developmental biology, stem cell research, tissue engineering and regenerative medicine. I argue that the term organoid functions not as a single, well-defined scientific kind but as a special kind of patchwork concept that I call looping patchwork concept: a coordination device whose stability depends on overlapping inferential patches distributed across material practices, ethical deliberations, and promissory imaginaries. Drawing on Hacking's looping kinds, Jasanoff's co-production framework, and recent philosophical work on patchwork concepts; I show how the same label anchors different research agendas while enabling interdisciplinary collaboration and governance. I illustrate this analysis with brief comparisons of the U.S. Multicellular Engineered Living Systems (MCELS) initiative and the Germany based REBIRTH (REgenerative BIology to Reconstructive Therapy) excellence cluster, showing how divergent emphases on engineering, therapy, and regulation produce different weightings of the concept's registers. Conceptualizing organoids as looping patchwork concepts with ethical and social relevance reframes definitional instability as an epistemic resource: conceptual flexibility facilitates coordination, legitimation, and the co-constitution of objects in the making. This way I propose the usage of a multilayer approach in concepts that are building entities of biotechnology.",
+      "journal": "Studies in history and philosophy of science",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Prince Mohammad bin Fahd University, College of Sciences and Human Studies, Humanities & Social Sciences, Center for Futuristic Studies, Kingdom of Saudi Arabia; University of Johannesburg, The African Centre for Epistemology and Philosophy of Science, South Africa; University of Freiburg, Institute for Advanced Studies, Young Academy for Cultures and Societies Research, Freiburg, Germany. Electronic address: oaltinok@uj.ac.za."
+      ],
+      "doi": "10.1016/j.shpsa.2026.102208",
+      "date": "2026-08-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641318/"
+    },
     {
       "pmid": "42640736",
       "title": "MANF clears mutant uromodulin in human kidney organoids of autosomal dominant tubulointerstitial kidney disease.",
@@ -61,96 +156,6 @@
       "doi": "10.1172/JCI205631",
       "date": "2026-08-25",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42640736/"
-    },
-    {
-      "pmid": "42640702",
-      "title": "SynNotch Receptors for Visualizing Immunoreceptor Force Transmission and Downstream Signaling In Vivo.",
-      "abstract": "Immunoreceptors experience forces that modulate their activities; however, demonstrating this in vivo has been limited by technical challenges. As a first step toward meeting this challenge, we adapted a synthetic Notch (SynNotch) receptor system to report force transmission through immunoreceptors in vivo by replacing the native ligand-binding domain with a receptor-specific antibody and rewiring Notch signaling to drive enhanced green fluorescent protein or luciferase expression. We expressed SynNotch on Jurkat cells targeting CD40 or T cell receptor (TCR) and characterized their activation in coculture with B or T cells, defining the requirements, optimal conditions, and kinetics of activation. Using complementary mechanobiology approaches, we quantified the exogenous force required for reporter activation and verified that activation depends on forces generated by receptor-expressing sender cells rather than SynNotch-expressing receiver cells. By implanting sensors and targets into immunocompromised mice, we visualized mechanically activated reporter expression on CD40 and TCR-targeting SynNotch cells in vivo. Furthermore, CD40 and TCR signaling was amplified when the receptor bore force against mechanical support from immobilized ligand, indicating that force functions as a biologically relevant co-stimulus. Together, our results establish mechanically activated SynNotch reporters as a useful strategy for detecting receptor-associated mechanical signaling across two-dimensional coculture, three-dimensional organoid, and in vivo systems.",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology, Atlanta, Georgia, USA.",
-        "Parker H. Petit Institute for Bioengineering and Biosciences, Georgia Institute of Technology, Atlanta, Georgia, USA.",
-        "George W. Woodruff School of Mechanical Engineering, Georgia Institute of Technology, Atlanta, Georgia, USA.",
-        "Department of Biochemistry, College of Life Science and Biotechnology, Yonsei University, Seoul, South Korea."
-      ],
-      "doi": "10.1002/advs.77318",
-      "date": "2026-08-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42640702/"
-    },
-    {
-      "pmid": "42639847",
-      "title": "Fine-Needle Aspiration of Salivary Gland Tumors With Low-Grade Oncocytic Features: Focusing on Oncocytoma Versus Oncocytic Mucoepidermoid Carcinoma.",
-      "abstract": "Salivary gland fine-needle aspirates (FNAs) with low-grade oncocytic features are diagnostically challenging due to the substantial morphologic overlap between benign oncocytic tumors and their malignant mimickers. This study evaluates the diagnostic discriminators, performance, and risk of malignancy of these lesions using the Milan System for Reporting Salivary Gland Cytopathology (MSRSGC). We retrospectively reviewed salivary gland FNA cases (2021-2025) categorized as Milan IVa: Benign neoplasm with oncocytic features, including Warthin tumor and oncocytoma/nodular oncocytic hyperplasia (NOH), and Milan IVb: Salivary gland neoplasm of uncertain malignant potential (SUMP) with oncocytic features, with surgical follow-up. Cytomorphological analysis was performed on liquid-based cytology (LBC), direct smears, and cell blocks. Features including architectural patterns, cytological details, and background were correlated with histology. Forty-nine cases were included. All 43 cases diagnosed as Milan IVa were confirmed as Warthin tumor or oncocytoma/nodular oncocytic hyperplasia. Warthin tumor shows cohesive, flat clusters of oncocytes along with a cystic debris-like background, while oncocytoma/NOH shows compact globoid clusters of oncocytes with a \"bunch of grapes\" pattern and clean background. In the six Milan IVb cases, follow-up histology included oncocytic mucoepidermoid carcinoma (OMEC, n = 2), oncocytoma/nodular oncocytic hyperplasia (n = 2), oncocytic lipoadenoma (n = 1), and spindle cell lipoma (n = 1). The OMEC cases form discohesive clusters and single cells. Cell block preparations revealed focal glandular structures and rare intracytoplasmic mucin. The MSRSGC effectively risk-stratifies low-grade oncocytic salivary gland lesions. While cohesive, organoid architecture supports a benign diagnosis, the presence of isolated cells and discohesive clusters is better classified as SUMP. Cell block preparation is useful for identifying mucin and glandular differentiation.",
-      "journal": "Diagnostic cytopathology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Rizal Medical Center, Pasig City, Metro Manila, Philippines.",
-        "Chinese General Hospital, College of Medicine, Manila, Philippines.",
-        "Department of Pathology and Laboratory Medicine, Taipei Veterans General Hospital, Taipei, Taiwan.",
-        "Department of Pathology, School of Medicine, National Yang Ming Chiao Tung University, Taipei, Taiwan."
-      ],
-      "doi": "10.1002/dc.70202",
-      "date": "2026-08-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42639847/"
-    },
-    {
-      "pmid": "42638372",
-      "title": "Evaluating EndoC βH5 pseudoislets as a model for human islet transplantation.",
-      "abstract": "The EndoC βH5 cell line represents a promising human β-cell model for preclinical diabetes research. Indeed, EndoC βH5 cells aggregate into islet-like organoids, secrete insulin in a glucose-dependent manner, and express a variety of β-cell functional markers. However, EndoC βH5 cell survival and functionality in vivo have not yet been investigated. Here, we have transplanted EndoC βH5 pseudoislets under the kidney capsule in SCID mice and analysed their capacity to regulate whole body blood glucose concentrations. EndoC βH5 pseudoislets were formed in agar microwells. Oxygen consumption rate and glucose-stimulated insulin secretion were quantified in vitro. After 31 days, groups of 1000 EndoC βH5 pseudoislets were transplanted under the kidney capsule in SCID mice. To selectively ablate endogenous β-cells, streptozotocin was administered 1 month after transplantation, and EndoC βH5 graft function was analysed through quantification of blood glucose and human plasma insulin. EndoC βH5 pseudoislets exhibited glucose-induced insulin secretion at 15 days, which was maintained at 31 days of culture. Human insulin was detectable in mouse plasma at 1 week post-transplantation. Despite this, streptozotocin administration led to overt diabetes in transplant recipients. EndoC βH5 pseudoislets secrete insulin in a glucose-responsive manner in vitro, remain viable in vivo, and secrete insulin. Despite this, transplantation of 1000 pseudoislets is not sufficient to maintain glycaemia when endogenous β-cells are destroyed. Nonetheless, EndoC βH5 pseudoislets represent a useful tool for preclinical islet transplantation studies where graft control of systemic glycaemia is not a requirement.",
-      "journal": "Diabetic medicine : a journal of the British Diabetic Association",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Diabetes and Obesity, School of Cardiovascular and Metabolic Medicine and Sciences, King's College London, London, UK."
-      ],
-      "doi": "10.1111/dme.70454",
-      "date": "2026-08-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638372/"
-    },
-    {
-      "pmid": "42638344",
-      "title": "Optimization of a Canine Colon Organoid Platform for Modeling Intestinal Injury and Mesenchymal Stem Cell-Mediated Regeneration.",
-      "abstract": "Canine chronic enteropathy (CE) is characterized by persistent mucosal inflammation and impaired barrier function. Despite its high clinical prevalence, research has been hindered by a lack of host-specific intestinal models. Here, we present an optimized canine-derived colon organoid (cCO) culture platform designed for assessing drug toxicity and regenerative potential. Combining Wnt/EGF activation with TGF-β/p38 MAPK inhibition supported the long-term maintenance of stem cell-enriched organoids. Upon maturation, differentiated cCOs exhibited both absorptive and secretory cells, validated by lineage-specific marker expression and functional P-glycoprotein efflux activity. While pro-inflammatory cytokines exerted non-specific toxicity, diclofenac-induced injury was significantly more pronounced in differentiated organoids than in expanding counterparts. This indicates that our platform effectively recapitulates the cell type-specific sensitivity of the intestinal epithelium to pharmacological insults. Next, to determine whether the cCOs could model epithelial repair process, we examined the therapeutic effects of canine mesenchymal stem cells (MSCs), a representative cell-based therapy for CE, on damaged organoids. Notably, treatment with MSC-conditioned media (MSC-CM) triggered a morphological transition into cystic spheroids with the upregulation of pro-regenerative stem cell markers, suggesting the induction of a fetal-like regenerative reprogramming. Indeed, MSC-CM treatment restored growth and proliferation while preserving barrier integrity in diclofenac-treated organoids. Collectively, these findings demonstrate the advantages of cCO system for modeling intestinal injury and repair, supporting the development of targeted therapeutic strategies for canine gastrointestinal disorders.",
-      "journal": "International journal of stem cells",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Oral Biochemistry, Dental and Life Science Institute, School of Dentistry, Pusan National University, Yangsan, Korea.",
-        "Department of Life Science in Dentistry, School of Dentistry, Pusan National University, Yangsan, Korea.",
-        "Education and Research Team for Life Science on Dentistry, Pusan National University, Yangsan, Korea.",
-        "Department of Otorhinolaryngology-Head and Neck Surgery, Biomedical Research Institute, Yangsan Pusan National University Hospital, Pusan National University School of Medicine, Yangsan, Korea.",
-        "Department of Veterinary Surgery, College of Veterinary Medicine, Kyungpook National University, Daegu, Korea."
-      ],
-      "doi": "10.15283/ijsc26011",
-      "date": "2026-08-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638344/"
-    },
-    {
-      "pmid": "42638130",
-      "title": "Alisol A 23,24-diacetate improves LPS-induced acute lung injury through the IL-17A/NF-κB signaling pathway.",
-      "abstract": "This study utilized the multi-model validation method to confirm that Alisol A 23,24-diacetate (AAD) can improve LPS-induced acute lung injury (ALI) through the IL-17A/NF-κB signaling pathway, providing experimental data support for preclinical research. Mice were given drugs by gavage continuously for 3 days, and then LPS was instilled into trachea to establish the model of acute lung injury. Subsequently, the lung pathological sections, lung function, the levels of oxidative stress and apoptosis, the metabolic levels in lung tissue and serum, and the levels of immune cells and inflammatory factors in each group of mice were detected. Then, the differentially expressed genes were screened based on the GEO database, and molecular docking combined with PCR technology was employed to investigate the potential pathogenesis of acute lung injury. Next, in vivo mouse models and in vitro lung organoid models were utilized, combined with Western blot and immunofluorescence techniques, to validate the proteins associated with the IL-17A/NF-κB signaling pathway. The binding of AAD to IL-17A protein was detected by cellular thermal shift assay (CETSA). Finally, the Beas-2B cell model combined with IL-17 agonist (SR0987) and IL-17 antagonist (Brodalumab), as well as the zebrafish model coupled with the methods of IL-17A gene silencing and overexpression, were employed to validate the mechanism of action underlying the intervention of AAD in LPS-induced ALI. AAD significantly ameliorated lung injury and lung function in a mouse model of LPS-induced ALI, modulated metabolic and immune disorders in ALI mice, and suppressed the release of inflammatory factors. The results from GEO database analysis, molecular docking, PCR, WB, immunofluorescence and CETSA, demonstrated that AAD ameliorates LPS-induced ALI via the IL-17A/NF-κB signaling pathway. In Beas-2B cells, AAD significantly suppressed the LPS-induced elevation of ROS and apoptosis levels, reduced the protein expression of IL-17A and p-NF-κB p65, and decreased the levels of inflammatory factors, exerting a comparable therapeutic effect to that of the IL-17 antagonist. However, the therapeutic efficacy of AAD was abrogated following the addition of an IL-17 agonist. In the experiment of zebrafish, AAD significantly enhanced the sports activity of zebrafish and inhibited the levels of IL-17A and inflammatory factor RNA. However, the therapeutic efficacy of AAD was abrogated following IL-17A gene overexpression. AAD improves LPS-induced ALI through the IL-17A/NF-κB signaling pathway.",
-      "journal": "Chinese medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "College of Pharmacy, Henan University of Chinese Medicine, Zhengzhou, China.",
-        "The Engineering and Technology Center for Chinese Medicine Development of Henan Province, Zhengzhou, China.",
-        "College of Pharmacy, Henan University of Chinese Medicine, Zhengzhou, China. fwsh@hactcm.edu.cn.",
-        "The Engineering and Technology Center for Chinese Medicine Development of Henan Province, Zhengzhou, China. fwsh@hactcm.edu.cn.",
-        "College of Pharmacy, Henan University of Chinese Medicine, Zhengzhou, China. zhengxk.2006@163.com.",
-        "The Engineering and Technology Center for Chinese Medicine Development of Henan Province, Zhengzhou, China. zhengxk.2006@163.com."
-      ],
-      "doi": "10.1186/s13020-026-01487-w",
-      "date": "2026-08-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638130/"
     },
     {
       "pmid": "42600555",
@@ -384,6 +389,45 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624861/"
     },
     {
+      "pmid": "42641935",
+      "title": "MicroRNA profiles as diagnostic tools in pediatric acute lymphoblastic leukemia.",
+      "abstract": "Acute lymphoblastic leukemia (ALL) represents the most common malignancy diagnosed in children, accounting for approximately 25-30% of all pediatric cancers. Despite remarkable improvements in survival rates over recent decades, with cure rates exceeding 90% in developed countries, the diagnosis and monitoring of ALL continue to rely on invasive bone marrow aspiration and morphological assessment. MicroRNAs (miRNAs), small non-coding RNA molecules that regulate gene expression post-transcriptionally, have emerged as promising biomarkers for cancer diagnosis and prognosis due to their stability in biological fluids, tissue-specific expression patterns, and regulatory roles in oncogenesis. This comprehensive review systematically examines the current evidence regarding miRNA expression profiles in pediatric ALL, focusing on their diagnostic potential, prognostic value, and applicability as non-invasive biomarkers. Aberrant miRNA expression has been consistently demonstrated in pediatric ALL, with specific signatures distinguishing B-cell precursor ALL from T-cell ALL, identifying cytogenetic subtypes, and predicting treatment response. Circulating miRNAs, particularly those packaged within exosomes, offer non-invasive alternatives for minimal residual disease monitoring and early relapse detection. Machine learning approaches integrating multi-miRNA panels have achieved high diagnostic accuracy, with several miRNAs, including miR-128-3p, miR-181a, miR-196b, miR-200c, and miR-326, demonstrating significant clinical utility. MicroRNA profiling represents a transformative approach to pediatric ALL management, offering enhanced diagnostic precision, improved risk stratification, and non-invasive monitoring capabilities. While challenges remain in standardizing detection methodologies and establishing clinically validated thresholds, the integration of miRNA biomarkers into clinical practice holds substantial promise for personalized medicine in childhood leukemia.",
+      "journal": "Clinica chimica acta; international journal of clinical chemistry",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Pharmaceutics and Pharmaceutical Technology, School of Pharmacy, University of Jordan, Amman 11942, Jordan.",
+        "Faculty of Allied Medical Sciences, Hourani Center for Applied Scientific Research, Al-Ahliyya Amman University, Amman, Jordan. Electronic address: mutazjamalalkhreisat1@atomicmail.io.",
+        "College of Pharmacy, Alnoor University, Mosul, Iraq.",
+        "Department of Maxillofacial Surgery, Samarkand State Medical University, 18 Amir Temur Street, Samarkand 140100, Uzbekistan.",
+        "Department of Medicine, Termez University of Economics and Service, Termez, Uzbekistan.",
+        "Al-Zahrawi University College, Karbala, Iraq.",
+        "Pharmacy college, Al-Farahidi University, Baghdad, Iraq."
+      ],
+      "doi": "10.1016/j.cca.2026.121299",
+      "date": "2026-08-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641935/"
+    },
+    {
+      "pmid": "42641282",
+      "title": "Cascade-coupled colorimetric-fluorescent dual-signal detection of EGFR-positive extracellular vesicles via bifunctional MOF@Pt nanozyme integrated with a CHA-CRISPR system.",
+      "abstract": "Extracellular vesicle (EV)-based liquid biopsy holds great promise for glioma diagnosis, but its clinical translation remains hindered by inefficient isolation of disease-relevant EV subpopulations and insufficiently integrated signal validation. Herein, we develop a platform that integrates a bifunctional nanozyme system (phosphatase-like MOF and peroxidase-like Pt) with a CHA-CRISPR/Cas12a cascade, achieving selective isolation and ultrasensitive detection of EGFR-positive glioma-derived EVs. Defective UiO-66-NH2 loaded with Pt nanoparticles and functionalized with EGFR aptamers (UiO@Pt@Apt) is immobilized on Hook strand-modified glass 96-well plates via Apt-Hook hybridization. Upon introduction of EGFR-positive EVs, they specifically bind to aptamers on UiO@Pt@Apt and induce the release of UiO@Pt@Apt-EV complexes through perturbation and destabilization of the Apt-Hook interface. After EV lysis, EV-derived miRNA-21 activates the CHA-CRISPR/Cas12a cascade to generate a fluorescent signal, while the nucleotide fragments produced by Cas12a trans-cleavage are proposed to be hydrolyzed by phosphatase-like defective UiO-66-NH2 to generate PO43-. The PO43- may contribute to Pt-mediated TMB oxidation, thereby supporting colorimetric signal amplification. The platform achieved a colorimetric EV detection limit of 427 particles/μL after coupling with the CHA-CRISPR system, representing a 6.9-fold improvement over the UiO@Pt@Apt system alone, and enabled a miRNA-21 detection limit of 87.0 fM. In plasma samples from 25 glioma patients and 20 healthy donors, the combined readout achieved an AUC of 0.968, showing numerically better discriminatory performance than either single readout, although the improvement was not statistically significant by DeLong analysis. This work provides a promising strategy for EV-based glioma liquid biopsy and offers a potentially adaptable framework for cascade-coupled dual-signal biosensing.",
+      "journal": "Biosensors & bioelectronics",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Guangdong Provincial Key Laboratory of New Drug Screening and the Guangdong-HongKong-Macau-Joint-Laboratory of New Drug Screening, School of Pharmaceutical Sciences, Southern Medical University, Guangzhou, 510515, PR China.",
+        "Guangdong Provincial Key Laboratory of New Drug Screening and the Guangdong-HongKong-Macau-Joint-Laboratory of New Drug Screening, School of Pharmaceutical Sciences, Southern Medical University, Guangzhou, 510515, PR China. Electronic address: chenj258@smu.edu.cn.",
+        "Guangdong Provincial Key Laboratory of New Drug Screening and the Guangdong-HongKong-Macau-Joint-Laboratory of New Drug Screening, School of Pharmaceutical Sciences, Southern Medical University, Guangzhou, 510515, PR China. Electronic address: jxchen@smu.edu.cn."
+      ],
+      "doi": "10.1016/j.bios.2026.119149",
+      "date": "2026-08-23",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641282/"
+    },
+    {
       "pmid": "42640608",
       "title": "Integrated Molecular, Epigenetic, Microbial, and Liquid Biopsy Biomarkers in Colorectal Cancer: Implications for Prognosis and Precision Therapy.",
       "abstract": "BackgroundColorectal cancer (CRC) is a biologically diverse malignancy driven by a complex interplay of genetic mutations, epigenetic changes, tumour microenvironmental factors, and host-microbial interactions. Foundational molecular events including APC-associated Wnt/β-catenin dysregulation, TP53 inactivation, KRAS and BRAF mutations, and aberrant PI3K/AKT signalling due to PIK3CA and PTEN alterations, contribute significantly to disease initiation, progression, and therapeutic resistance. Microsatellite instability (MSI), arising from defective DNA mismatch repair, defines a distinct subset of CRC with characteristic biological and therapeutic behaviour.ObjectiveThis review critically evaluates established and emerging molecular biomarkers for CRC, highlighting their mechanistic significance and translational relevance in the evolving precision oncology landscape.MethodsA comprehensive narrative evaluation of the literature was conducted, focusing on pathways regulating oncogenes, regulatory microRNAs, gut microbiota dysbiosis, and liquid biopsy approaches, particularly circulating tumour cells (CTCs) and circulating free DNA (cfDNA).ResultsCore molecular alterations remain central to CRC pathogenesis and influence treatment responsiveness. Increasing evidence also supports the role of microRNA dysregulation and microbiome imbalance in modulating tumour progression and immune escape. Liquid biopsy technologies offer minimally invasive, real-time assessment of tumour development.DiscussionAn integrated understanding of molecular drivers and emerging biomarker platforms is essential for advancing personalised CRC management.",
@@ -460,70 +504,125 @@
       "doi": "10.1111/jre.70152",
       "date": "2026-08-25",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638446/"
-    },
-    {
-      "pmid": "42636799",
-      "title": "Cell-free DNA genomic and fragmentomic features for early outcome prediction in large B cell lymphoma.",
-      "abstract": "Curative-intent immunochemotherapy fails in ∼30% of patients with large B cell lymphoma (LBCL), yet no validated molecular tool enables early identification of high-risk individuals to guide treatment intensification. Using shallow whole-genome sequencing (sWGS) of plasma cell-free DNA from 190 LBCL patients, we develop and validate the ACT score (aberrations, composition of fragments, and terminal motif analyses), a composite classifier integrating genomic and fragmentomic features from a single post-cycle-1 sample. ACT-positive patients have worse 2-year outcomes versus ACT-negative patients: time-to-progression 29% vs. 83% (hazard ratio [HR]: 4.4, 95% confidence interval [CI]: 1.9-10.0; p = 1.5 × 10-4) and overall survival 47% vs. 93% (HR: 8.7, 95% CI: 3.0-25.4; p = 1.8 × 10-6). The ACT score is independently prognostic of the International Prognostic Index, and their combination identifies the highest risk patients. Unlike mutation-based approaches, this assay requires neither tumor tissue, germline control, nor a baseline plasma sample. Built on open-source tools and sWGS, the ACT score offers a feasible, scalable strategy for early risk stratification in aggressive LBCL.",
-      "journal": "Cell reports. Medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Amsterdam UMC Location Vrije Universiteit Amsterdam, Hematology, Amsterdam, the Netherlands; Amsterdam UMC Location Vrije Universiteit Amsterdam, Pathology, Amsterdam, the Netherlands; Cancer Center Amsterdam, Imaging and Biomarkers, Amsterdam, the Netherlands.",
-        "Amsterdam UMC Location Vrije Universiteit Amsterdam, Pathology, Amsterdam, the Netherlands; Cancer Center Amsterdam, Imaging and Biomarkers, Amsterdam, the Netherlands; Institute for Molecular Medicine Finland (FIMM), HiLIFE, University of Helsinki, Helsinki, Finland.",
-        "Amsterdam UMC Location Vrije Universiteit Amsterdam, Pathology, Amsterdam, the Netherlands; Cancer Center Amsterdam, Imaging and Biomarkers, Amsterdam, the Netherlands.",
-        "Cancer Research UK National Biomarker Centre, University of Manchester, Manchester, UK.",
-        "Hemato-Oncology Foundation for Adults in the Netherlands (HOVON), Rotterdam, the Netherlands.",
-        "Amsterdam UMC Location Vrije Universiteit Amsterdam, Pathology, Amsterdam, the Netherlands.",
-        "Amsterdam UMC Location Vrije Universiteit Amsterdam, Hematology, Amsterdam, the Netherlands.",
-        "Netherlands Comprehensive Cancer Organization (IKNL), Utrecht, the Netherlands.",
-        "Dijklander Hospital, Hoorn, the Netherlands.",
-        "Gelre Ziekenhuis, Zutphen, the Netherlands.",
-        "Maasstad Ziekenhuis, Rotterdam, the Netherlands.",
-        "Amphia Ziekenhuis, Breda, the Netherlands.",
-        "St. Antonius Ziekenhuis, Nieuwegein, the Netherlands.",
-        "Jeroen Bosch Ziekenhuis, 's-Hertogenbosch, the Netherlands.",
-        "Flevoziekenhuis, Almere, the Netherlands.",
-        "Medical Center Leeuwarden, Leeuwarden, the Netherlands.",
-        "Adrz, Goes, the Netherlands.",
-        "Albert Schweitzer Ziekenhuis, Dordrecht, the Netherlands.",
-        "University Medical Center Groningen, Groningen, the Netherlands.",
-        "Maastricht University Medical Center, Maastricht, the Netherlands.",
-        "VieCuri Medical Center, Venlo, the Netherlands.",
-        "Maxima Medical Center, Eindhoven, the Netherlands.",
-        "Meander Medical Center, Amersfoort, the Netherlands.",
-        "Spaarne Gasthuis, Hoofddorp, the Netherlands.",
-        "University Medical Center Utrecht, Utrecht, the Netherlands.",
-        "University Hospitals Leuven, Leuven, Belgium.",
-        "Leiden University Medical Center, Leiden, the Netherlands.",
-        "Amsterdam UMC Location Vrije Universiteit Amsterdam, Hematology, Amsterdam, the Netherlands; Cancer Center Amsterdam, Imaging and Biomarkers, Amsterdam, the Netherlands.",
-        "Amsterdam UMC Location Vrije Universiteit Amsterdam, Pathology, Amsterdam, the Netherlands; Cancer Center Amsterdam, Imaging and Biomarkers, Amsterdam, the Netherlands; Cancer Research UK National Biomarker Centre, University of Manchester, Manchester, UK. Electronic address: florent.mouliere@cruk.manchester.ac.uk."
-      ],
-      "doi": "10.1016/j.xcrm.2026.103006",
-      "date": "2026-08-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636799/"
-    },
-    {
-      "pmid": "42635847",
-      "title": "Minimal Residual Disease in Head and Neck Cancer: Molecular Surveillance and Clinical Action.",
-      "abstract": "Recurrence following curative-intent treatment for head and neck squamous cell carcinoma (HNSCC) approaches 50% in locally advanced disease, yet conventional surveillance detects relapse only after anatomical or metabolic thresholds are reached. Minimal residual disease (MRD) monitoring, using circulating tumor DNA (ctDNA) and viral DNA biomarkers, offers an earlier, molecularly informed framework for post-treatment surveillance. This structured narrative review synthesizes contemporary evidence on MRD in HNSCC, drawing on a search of PubMed and Scopus covering January 2020 to March 2026, and defines its role as a clinical instrument for risk-adapted surveillance and decision-making. Across prospective cohorts and platform-validation studies, MRD positivity is independently associated with recurrence risk, with hazard ratios ranging from 3- to tenfold across tumor-informed ctDNA platforms, and molecular relapse frequently precedes radiologic detection by months. Viral DNA assays demonstrate specificities exceeding 95% in virally mediated subtypes. Early interventional data suggest potential for MRD-guided treatment adaptation, but results have been mixed: a recent HPV ctDNA-guided de-escalation trial closed early due to an unacceptable recurrence rate, underscoring that standardized thresholds, optimal testing intervals, and definitive evidence of clinical utility remain unresolved. MRD should currently be integrated as an adjunct to established surveillance modalities rather than a standalone trigger for intervention. Results are best interpreted longitudinally, and an early post-treatment molecular checkpoint at 2-6 weeks represents a high-yield decision point where confirmed positivity may justify intensified evaluation and multidisciplinary review.",
-      "journal": "Current oncology reports",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "School of Medicine, Program Delivered By University of Nicosia at the Chaim Sheba Medical Center, City St. George's University of London, Ramat Gan, Israel. sholemhack1@gmail.com.",
-        "Department of Otolaryngology, Sheba Medical Center, Ramat Gan, Israel.",
-        "Gray Faculty of Medical & Health Sciences, Tel-Aviv University, Tel Aviv, Israel."
-      ],
-      "doi": "10.1007/s11912-026-01816-0",
-      "date": "2026-08-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635847/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42641931",
+      "date": "2026-08-25",
+      "title": "Targeting the ALDH-RA Axis with RE-Exo@HA hydrogel to achieve scarless endometrial regeneration and fertility restoration in intrauterine adhesions.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641931/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of controlled release : official journal of the Controlled Release Society，PMID 为 42641931。",
+      "report": "Intrauterine adhesions (IUA), a leading cause of uterine infertility, are characterized by endometrial fibrosis and a loss of functional regeneration. The impairment of endometrial mesenchymal stem/stromal cells (eMSCs) is central to IUA pathogenesis; however,...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42641898",
+      "date": "2026-08-25",
+      "title": "Phytolacca acinosa Roxb. induces intestinal toxicity through the histamine-MLCK-tight junction axis: Integrated evidence from proteomics, metabolomics, intestinal organoids and epithelial barrier validation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641898/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Toxicology letters，PMID 为 42641898。",
+      "report": "Phytolacca acinosa Roxb. (PR) is a saponin-rich medicinal plant associated with gastrointestinal toxicity, but the mechanisms underlying PR-induced intestinal barrier injury remain unclear. In this study, raw PR extract was analytically characterized by UPLC-Z...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42641766",
+      "date": "2026-08-25",
+      "title": "In Vitro Cell-Line Models of Alzheimer's Disease: A Systematic Review and Mechanism-Based Evidence Map of Induction Paradigms, Targeted Mechanisms, and Validation Requirements.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641766/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Ageing research reviews，PMID 为 42641766。",
+      "report": "In vitro cell-line models are essential for investigating the complex, interconnected mechanisms of Alzheimer's disease (AD). While offering high tractability for mechanism-focused screening, their translational utility depends on the precise alignment of the...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42641318",
+      "date": "2026-08-25",
+      "title": "Looping patchworks and imaginations in a concept: Building the patchwork of \"organoid\" in contemporary biotechnology.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641318/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Studies in history and philosophy of science，PMID 为 42641318。",
+      "report": "Organoids have become a central but contested notion across developmental biology, stem cell research, tissue engineering and regenerative medicine. I argue that the term organoid functions not as a single, well-defined scientific kind but as a special kind of...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42640736",
       "date": "2026-08-25",
@@ -549,92 +648,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 The Journal of clinical investigation，PMID 为 42640736。",
       "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42640702",
-      "date": "2026-08-25",
-      "title": "SynNotch Receptors for Visualizing Immunoreceptor Force Transmission and Downstream Signaling In Vivo.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42640702/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42640702。",
-      "report": "Immunoreceptors experience forces that modulate their activities; however, demonstrating this in vivo has been limited by technical challenges. As a first step toward meeting this challenge, we adapted a synthetic Notch (SynNotch) receptor system to report for...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42639847",
-      "date": "2026-08-25",
-      "title": "Fine-Needle Aspiration of Salivary Gland Tumors With Low-Grade Oncocytic Features: Focusing on Oncocytoma Versus Oncocytic Mucoepidermoid Carcinoma.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42639847/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Diagnostic cytopathology，PMID 为 42639847。",
-      "report": "Salivary gland fine-needle aspirates (FNAs) with low-grade oncocytic features are diagnostically challenging due to the substantial morphologic overlap between benign oncocytic tumors and their malignant mimickers. This study evaluates the diagnostic discrimin...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42638344",
-      "date": "2026-08-25",
-      "title": "Optimization of a Canine Colon Organoid Platform for Modeling Intestinal Injury and Mesenchymal Stem Cell-Mediated Regeneration.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638344/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of stem cells，PMID 为 42638344。",
-      "report": "Canine chronic enteropathy (CE) is characterized by persistent mucosal inflammation and impaired barrier function. Despite its high clinical prevalence, research has been hindered by a lack of host-specific intestinal models. Here, we present an optimized cani...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -669,6 +682,36 @@
       "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42640372。",
       "report": "Radiotherapy-triggered drug delivery systems (RDDS) promise to integrate the spatial precision of ionizing radiation with controllable pharmacological activation. However, clinical translation remains constrained by its reliance on supra-clinical irradiation d...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42641935",
+      "date": "2026-08-25",
+      "title": "MicroRNA profiles as diagnostic tools in pediatric acute lymphoblastic leukemia.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641935/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Clinica chimica acta; international journal of clinical chemistry，PMID 为 42641935。",
+      "report": "Acute lymphoblastic leukemia (ALL) represents the most common malignancy diagnosed in children, accounting for approximately 25-30% of all pediatric cancers. Despite remarkable improvements in survival rates over recent decades, with cure rates exceeding 90% i...",
+      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -772,120 +815,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42638372",
-      "date": "2026-08-24",
-      "title": "Evaluating EndoC βH5 pseudoislets as a model for human islet transplantation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638372/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Diabetic medicine : a journal of the British Diabetic Association，PMID 为 42638372。",
-      "report": "The EndoC βH5 cell line represents a promising human β-cell model for preclinical diabetes research. Indeed, EndoC βH5 cells aggregate into islet-like organoids, secrete insulin in a glucose-dependent manner, and express a variety of β-cell functional markers....",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42638130",
-      "date": "2026-08-24",
-      "title": "Alisol A 23,24-diacetate improves LPS-induced acute lung injury through the IL-17A/NF-κB signaling pathway.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638130/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Chinese medicine，PMID 为 42638130。",
-      "report": "This study utilized the multi-model validation method to confirm that Alisol A 23,24-diacetate (AAD) can improve LPS-induced acute lung injury (ALI) through the IL-17A/NF-κB signaling pathway, providing experimental data support for preclinical research. Mice...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42636799",
-      "date": "2026-08-24",
-      "title": "Cell-free DNA genomic and fragmentomic features for early outcome prediction in large B cell lymphoma.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636799/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42636799。",
-      "report": "Curative-intent immunochemotherapy fails in ∼30% of patients with large B cell lymphoma (LBCL), yet no validated molecular tool enables early identification of high-risk individuals to guide treatment intensification. Using shallow whole-genome sequencing (sWG...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42635847",
-      "date": "2026-08-24",
-      "title": "Minimal Residual Disease in Head and Neck Cancer: Molecular Surveillance and Clinical Action.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635847/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Current oncology reports，PMID 为 42635847。",
-      "report": "Recurrence following curative-intent treatment for head and neck squamous cell carcinoma (HNSCC) approaches 50% in locally advanced disease, yet conventional surveillance detects relapse only after anatomical or metabolic thresholds are reached. Minimal residu...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42633869",
       "date": "2026-08-23",
       "title": "Peptide barcoding: an alternative to the phenotype-genotype problem.",
@@ -911,6 +840,36 @@
       "fact": "PubMed 记录显示该文献收录于 New biotechnology，PMID 为 42633869。",
       "report": "Barcoding methods are powerful tools for screening large libraries and have successfully been employed using DNA-centric approaches for over two decades. Yet despite the central role of proteins in most biological processes, protein-based barcoding methods hav...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42641282",
+      "date": "2026-08-23",
+      "title": "Cascade-coupled colorimetric-fluorescent dual-signal detection of EGFR-positive extracellular vesicles via bifunctional MOF@Pt nanozyme integrated with a CHA-CRISPR system.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641282/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42641282。",
+      "report": "Extracellular vesicle (EV)-based liquid biopsy holds great promise for glioma diagnosis, but its clinical translation remains hindered by inefficient isolation of disease-relevant EV subpopulations and insufficiently integrated signal validation. Herein, we de...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -942,6 +901,38 @@
       "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42631415。",
       "report": "Photodynamic therapy (PDT) is a clinically promising, minimally invasive cancer treatment offering precise spatiotemporal control. However, achieving preferential tumor accumulation remains a critical challenge, which limits therapeutic efficacy and induces of...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42641569",
+      "date": "2026-08-20",
+      "title": "TCF3 safeguards tumor-intrinsic interferon competence to restrain prostate cancer progression and immune escape.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641569/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 European journal of cell biology，PMID 为 42641569。",
+      "report": "Prostate cancer commonly remains refractory to checkpoint blockade, consistent with an immune-cold microenvironment and tumor-intrinsic defects in interferon signaling. We report that loss of the basic helix-loop-helix transcription factor TCF3 defines a tumor...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

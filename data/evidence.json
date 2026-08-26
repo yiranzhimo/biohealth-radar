@@ -4,6 +4,122 @@
   "asOfDate": "2026-08-26",
   "evidence": [
     {
+      "id": "evidence-pubmed-42641931",
+      "signalId": "pubmed-42641931",
+      "companyIds": [],
+      "publishedAt": "2026-08-25",
+      "snapshotDate": "2026-08-26",
+      "title": "Targeting the ALDH-RA Axis with RE-Exo@HA hydrogel to achieve scarless endometrial regeneration and fertility restoration in intrauterine adhesions.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641931/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Journal of controlled release : official journal of the Controlled Release Society，PMID 为 42641931。",
+      "report": "Intrauterine adhesions (IUA), a leading cause of uterine infertility, are characterized by endometrial fibrosis and a loss of functional regeneration. The impairment of endometrial mesenchymal stem/stromal cells (eMSCs) is central to IUA pathogenesis; however,...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42641898",
+      "signalId": "pubmed-42641898",
+      "companyIds": [],
+      "publishedAt": "2026-08-25",
+      "snapshotDate": "2026-08-26",
+      "title": "Phytolacca acinosa Roxb. induces intestinal toxicity through the histamine-MLCK-tight junction axis: Integrated evidence from proteomics, metabolomics, intestinal organoids and epithelial barrier validation.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641898/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Toxicology letters，PMID 为 42641898。",
+      "report": "Phytolacca acinosa Roxb. (PR) is a saponin-rich medicinal plant associated with gastrointestinal toxicity, but the mechanisms underlying PR-induced intestinal barrier injury remain unclear. In this study, raw PR extract was analytically characterized by UPLC-Z...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42641766",
+      "signalId": "pubmed-42641766",
+      "companyIds": [],
+      "publishedAt": "2026-08-25",
+      "snapshotDate": "2026-08-26",
+      "title": "In Vitro Cell-Line Models of Alzheimer's Disease: A Systematic Review and Mechanism-Based Evidence Map of Induction Paradigms, Targeted Mechanisms, and Validation Requirements.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641766/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Ageing research reviews，PMID 为 42641766。",
+      "report": "In vitro cell-line models are essential for investigating the complex, interconnected mechanisms of Alzheimer's disease (AD). While offering high tractability for mechanism-focused screening, their translational utility depends on the precise alignment of the...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42641318",
+      "signalId": "pubmed-42641318",
+      "companyIds": [],
+      "publishedAt": "2026-08-25",
+      "snapshotDate": "2026-08-26",
+      "title": "Looping patchworks and imaginations in a concept: Building the patchwork of \"organoid\" in contemporary biotechnology.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641318/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Studies in history and philosophy of science，PMID 为 42641318。",
+      "report": "Organoids have become a central but contested notion across developmental biology, stem cell research, tissue engineering and regenerative medicine. I argue that the term organoid functions not as a single, well-defined scientific kind but as a special kind of...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-pubmed-42640736",
       "signalId": "pubmed-42640736",
       "companyIds": [],
@@ -28,92 +144,6 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 The Journal of clinical investigation，PMID 为 42640736。",
       "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42640702",
-      "signalId": "pubmed-42640702",
-      "companyIds": [],
-      "publishedAt": "2026-08-25",
-      "snapshotDate": "2026-08-26",
-      "title": "SynNotch Receptors for Visualizing Immunoreceptor Force Transmission and Downstream Signaling In Vivo.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42640702/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42640702。",
-      "report": "Immunoreceptors experience forces that modulate their activities; however, demonstrating this in vivo has been limited by technical challenges. As a first step toward meeting this challenge, we adapted a synthetic Notch (SynNotch) receptor system to report for...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42639847",
-      "signalId": "pubmed-42639847",
-      "companyIds": [],
-      "publishedAt": "2026-08-25",
-      "snapshotDate": "2026-08-26",
-      "title": "Fine-Needle Aspiration of Salivary Gland Tumors With Low-Grade Oncocytic Features: Focusing on Oncocytoma Versus Oncocytic Mucoepidermoid Carcinoma.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42639847/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Diagnostic cytopathology，PMID 为 42639847。",
-      "report": "Salivary gland fine-needle aspirates (FNAs) with low-grade oncocytic features are diagnostically challenging due to the substantial morphologic overlap between benign oncocytic tumors and their malignant mimickers. This study evaluates the diagnostic discrimin...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42638344",
-      "signalId": "pubmed-42638344",
-      "companyIds": [],
-      "publishedAt": "2026-08-25",
-      "snapshotDate": "2026-08-26",
-      "title": "Optimization of a Canine Colon Organoid Platform for Modeling Intestinal Injury and Mesenchymal Stem Cell-Mediated Regeneration.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638344/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 International journal of stem cells，PMID 为 42638344。",
-      "report": "Canine chronic enteropathy (CE) is characterized by persistent mucosal inflammation and impaired barrier function. Despite its high clinical prevalence, research has been hindered by a lack of host-specific intestinal models. Here, we present an optimized cani...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -148,6 +178,36 @@
       "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42640372。",
       "report": "Radiotherapy-triggered drug delivery systems (RDDS) promise to integrate the spatial precision of ionizing radiation with controllable pharmacological activation. However, clinical translation remains constrained by its reliance on supra-clinical irradiation d...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42641935",
+      "signalId": "pubmed-42641935",
+      "companyIds": [],
+      "publishedAt": "2026-08-25",
+      "snapshotDate": "2026-08-26",
+      "title": "MicroRNA profiles as diagnostic tools in pediatric acute lymphoblastic leukemia.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641935/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Clinica chimica acta; international journal of clinical chemistry，PMID 为 42641935。",
+      "report": "Acute lymphoblastic leukemia (ALL) represents the most common malignancy diagnosed in children, accounting for approximately 25-30% of all pediatric cancers. Despite remarkable improvements in survival rates over recent decades, with cure rates exceeding 90% i...",
+      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -251,120 +311,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42638372",
-      "signalId": "pubmed-42638372",
-      "companyIds": [],
-      "publishedAt": "2026-08-24",
-      "snapshotDate": "2026-08-26",
-      "title": "Evaluating EndoC βH5 pseudoislets as a model for human islet transplantation.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638372/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Diabetic medicine : a journal of the British Diabetic Association，PMID 为 42638372。",
-      "report": "The EndoC βH5 cell line represents a promising human β-cell model for preclinical diabetes research. Indeed, EndoC βH5 cells aggregate into islet-like organoids, secrete insulin in a glucose-dependent manner, and express a variety of β-cell functional markers....",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42638130",
-      "signalId": "pubmed-42638130",
-      "companyIds": [],
-      "publishedAt": "2026-08-24",
-      "snapshotDate": "2026-08-26",
-      "title": "Alisol A 23,24-diacetate improves LPS-induced acute lung injury through the IL-17A/NF-κB signaling pathway.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638130/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Chinese medicine，PMID 为 42638130。",
-      "report": "This study utilized the multi-model validation method to confirm that Alisol A 23,24-diacetate (AAD) can improve LPS-induced acute lung injury (ALI) through the IL-17A/NF-κB signaling pathway, providing experimental data support for preclinical research. Mice...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42636799",
-      "signalId": "pubmed-42636799",
-      "companyIds": [],
-      "publishedAt": "2026-08-24",
-      "snapshotDate": "2026-08-26",
-      "title": "Cell-free DNA genomic and fragmentomic features for early outcome prediction in large B cell lymphoma.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636799/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42636799。",
-      "report": "Curative-intent immunochemotherapy fails in ∼30% of patients with large B cell lymphoma (LBCL), yet no validated molecular tool enables early identification of high-risk individuals to guide treatment intensification. Using shallow whole-genome sequencing (sWG...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42635847",
-      "signalId": "pubmed-42635847",
-      "companyIds": [],
-      "publishedAt": "2026-08-24",
-      "snapshotDate": "2026-08-26",
-      "title": "Minimal Residual Disease in Head and Neck Cancer: Molecular Surveillance and Clinical Action.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635847/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Current oncology reports，PMID 为 42635847。",
-      "report": "Recurrence following curative-intent treatment for head and neck squamous cell carcinoma (HNSCC) approaches 50% in locally advanced disease, yet conventional surveillance detects relapse only after anatomical or metabolic thresholds are reached. Minimal residu...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-pubmed-42633869",
       "signalId": "pubmed-42633869",
       "companyIds": [],
@@ -390,6 +336,36 @@
       "fact": "PubMed 记录显示该文献收录于 New biotechnology，PMID 为 42633869。",
       "report": "Barcoding methods are powerful tools for screening large libraries and have successfully been employed using DNA-centric approaches for over two decades. Yet despite the central role of proteins in most biological processes, protein-based barcoding methods hav...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42641282",
+      "signalId": "pubmed-42641282",
+      "companyIds": [],
+      "publishedAt": "2026-08-23",
+      "snapshotDate": "2026-08-26",
+      "title": "Cascade-coupled colorimetric-fluorescent dual-signal detection of EGFR-positive extracellular vesicles via bifunctional MOF@Pt nanozyme integrated with a CHA-CRISPR system.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641282/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42641282。",
+      "report": "Extracellular vesicle (EV)-based liquid biopsy holds great promise for glioma diagnosis, but its clinical translation remains hindered by inefficient isolation of disease-relevant EV subpopulations and insufficiently integrated signal validation. Herein, we de...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -421,6 +397,38 @@
       "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42631415。",
       "report": "Photodynamic therapy (PDT) is a clinically promising, minimally invasive cancer treatment offering precise spatiotemporal control. However, achieving preferential tumor accumulation remains a critical challenge, which limits therapeutic efficacy and induces of...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42641569",
+      "signalId": "pubmed-42641569",
+      "companyIds": [],
+      "publishedAt": "2026-08-20",
+      "snapshotDate": "2026-08-26",
+      "title": "TCF3 safeguards tumor-intrinsic interferon competence to restrain prostate cancer progression and immune escape.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641569/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 European journal of cell biology，PMID 为 42641569。",
+      "report": "Prostate cancer commonly remains refractory to checkpoint blockade, consistent with an immune-cold microenvironment and tumor-intrinsic defects in interferon signaling. We report that loss of the basic helix-loop-helix transcription factor TCF3 defines a tumor...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
