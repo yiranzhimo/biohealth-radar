@@ -41,7 +41,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     "withEvidenceCount": 623,
     "withProductClaimsCount": 518,
     "withFuturePlansCount": 3,
-    "failedSourceCount": 101,
+    "failedSourceCount": 53,
     "identityLinkCount": 0
   },
   "profiles": [
@@ -6590,15 +6590,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Akeso 推进 IO2.0 + ADC2.0 战略：第一位患者已在 TROP2/Nectin-4 双特异性 ADC（AK146D1）与 Ivonescimab 联合治疗乳腺癌的 II 期研究中接受用药。",
-        "summaryOriginal": "Akeso Advances IO2.0 + ADC2.0 Strategy: First Patient Dosed in Phase II Study of TROP2/Nectin-4 Bispecific ADC (AK146D1) Combined with Ivonescimab in Breast Cancer",
+        "summary": "公司官方页面表述：公司创建了一个独特的集成研发创新系统，包括全面的端到端药物开发平台（ACE平台）和基于人工智能的制药研发、四体BsAb/MsAb、双盾ADC、双锁TCE、组织智能siRNA、细胞疗法和灵活纳米mRNA…",
+        "summaryOriginal": "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
             "textOriginal": "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
-            "text": "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
-            "evidenceId": "evidence-company-akeso-official-b4abb2fbe250",
+            "text": "公司创建了一个独特的集成研发创新系统，包括全面的端到端药物开发平台（ACE平台）和基于人工智能的制药研发、四体BsAb/MsAb、双盾ADC、双锁TCE、组织智能siRNA、细胞疗法和灵活纳米mRNA…",
+            "evidenceId": "evidence-company-akeso-official-2f3653fb45ba",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -6606,7 +6606,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HK) is a biopharmaceutical company founded by a team of scientists with rich experience in global drug development and focuses on the unmet clinical needs worldwide in major diseases.",
             "text": "HK) is a biopharmaceutical company founded by a team of scientists with rich experience in global drug development and focuses on the unmet clinical needs worldwide in major diseases.",
-            "evidenceId": "evidence-company-akeso-official-b4abb2fbe250",
+            "evidenceId": "evidence-company-akeso-official-2f3653fb45ba",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -6614,7 +6614,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Akeso's AK157D1 (B7-H3 ADC) Cleared for Phase I Trial in Solid Tumors, Adding a Third Differentiated ADC to Its Pipeline",
             "text": "Akeso's AK157D1 (B7-H3 ADC) Cleared for Phase I Trial in Solid Tumors, Adding a Third Differentiated ADC to Its Pipeline",
-            "evidenceId": "evidence-company-akeso-official-b4abb2fbe250",
+            "evidenceId": "evidence-company-akeso-official-2f3653fb45ba",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -6622,15 +6622,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform).",
             "text": "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform).",
-            "evidenceId": "evidence-company-akeso-official-b4abb2fbe250",
-            "sourceUrl": "https://www.akesobio.com/en/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Akeso Advances IO2.0 + ADC2.0 Strategy: First Patient Dosed in Phase II Study of TROP2/Nectin-4 Bispecific ADC (AK146D1) Combined with Ivonescimab in Breast Cancer",
-            "text": "Akeso 推进 IO2.0 + ADC2.0 战略：第一位患者已在 TROP2/Nectin-4 双特异性 ADC（AK146D1）与 Ivonescimab 联合治疗乳腺癌的 II 期研究中接受用药。",
-            "evidenceId": "evidence-company-akeso-official-b4abb2fbe250",
+            "evidenceId": "evidence-company-akeso-official-2f3653fb45ba",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -6638,21 +6630,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-akeso-official-b4abb2fbe250"
+          "evidence-company-akeso-official-2f3653fb45ba"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-akeso-official-b4abb2fbe250",
-            "date": "2026-08-23",
+            "id": "event-evidence-company-akeso-official-2f3653fb45ba",
+            "date": "2026-08-26",
             "title": "Akeso, Inc | Home",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-akeso-official-b4abb2fbe250",
+            "evidenceId": "evidence-company-akeso-official-2f3653fb45ba",
             "sourceUrl": "https://www.akesobio.com/en/"
           }
         ],
@@ -6667,7 +6659,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-08-23",
+        "lastEvidenceDate": "2026-08-26",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -6676,14 +6668,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-akeso-official-b4abb2fbe250",
-          "date": "2026-08-23",
+          "id": "event-evidence-company-akeso-official-2f3653fb45ba",
+          "date": "2026-08-26",
           "title": "Akeso, Inc | Home",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-akeso-official-b4abb2fbe250",
+          "evidenceId": "evidence-company-akeso-official-2f3653fb45ba",
           "sourceUrl": "https://www.akesobio.com/en/"
         }
       ]
@@ -20049,7 +20041,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "BeOne is advancing a broad and deep pipeline, accelerating development through rigorous science to deliver transformative medicines to more people around the world.",
             "text": "BeOne is advancing a broad and deep pipeline, accelerating development through rigorous science to deliver transformative medicines to more people around the world.",
-            "evidenceId": "evidence-company-beone-medicines-official-23a05e385b5d",
+            "evidenceId": "evidence-company-beone-medicines-official-f6d717853551",
             "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -20057,7 +20049,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "BeOne Medicines Highlights Accelerating Solid Tumor Pipeline with New Data at ASCO…",
             "text": "BeOne Medicines Highlights Accelerating Solid Tumor Pipeline with New Data at ASCO…",
-            "evidenceId": "evidence-company-beone-medicines-official-23a05e385b5d",
+            "evidenceId": "evidence-company-beone-medicines-official-f6d717853551",
             "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -20065,7 +20057,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "See how BeOne brings together innovative science, an accelerated pipeline, and a commitment to access to make more saves possible.",
             "text": "See how BeOne brings together innovative science, an accelerated pipeline, and a commitment to access to make more saves possible.",
-            "evidenceId": "evidence-company-beone-medicines-official-23a05e385b5d",
+            "evidenceId": "evidence-company-beone-medicines-official-f6d717853551",
             "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -20073,7 +20065,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "BeOne Medicines and Revolution Medicines Announce Clinical Development and Regional Commercialization Collaboration",
             "text": "BeOne Medicines and Revolution Medicines Announce Clinical Development and Regional Commercialization Collaboration",
-            "evidenceId": "evidence-company-beone-medicines-official-23a05e385b5d",
+            "evidenceId": "evidence-company-beone-medicines-official-f6d717853551",
             "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -20081,7 +20073,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "BeOne Medicines is building the world’s leading oncology company – driven by scientific excellence and exceptional speed – to reach more patients than ever before.",
             "text": "BeOne Medicines is building the world’s leading oncology company – driven by scientific excellence and exceptional speed – to reach more patients than ever before.",
-            "evidenceId": "evidence-company-beone-medicines-official-23a05e385b5d",
+            "evidenceId": "evidence-company-beone-medicines-official-f6d717853551",
             "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -20089,7 +20081,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Explore how BeOne Medicines advances global cancer care through an integrated model of discovery, development, and delivery, bringing transformative therapies to patients worldwide.",
             "text": "探索BeOne Medicines如何通过综合的发现、开发和交付模型推动全球癌症护理，为全球患者带来变革性疗法。",
-            "evidenceId": "evidence-company-beone-medicines-official-23a05e385b5d",
+            "evidenceId": "evidence-company-beone-medicines-official-f6d717853551",
             "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -20097,7 +20089,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-beone-medicines-official-23a05e385b5d",
+          "evidence-company-beone-medicines-official-f6d717853551",
           "evidence-company-beone-medicines-pipeline-cad9773572ea",
           "evidence-company-beone-medicines-investor_relations-60394f02563f",
           "evidence-sec-0001651308-000162828026052878",
@@ -20108,14 +20100,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-beone-medicines-official-23a05e385b5d",
-            "date": "2026-08-19",
+            "id": "event-evidence-company-beone-medicines-official-f6d717853551",
+            "date": "2026-08-26",
             "title": "Transforming Cancer Care Through Science and Speed | BeOne Medicines",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-beone-medicines-official-23a05e385b5d",
+            "evidenceId": "evidence-company-beone-medicines-official-f6d717853551",
             "sourceUrl": "https://beonemedicines.com/"
           },
           {
@@ -20175,7 +20167,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 2
         },
-        "lastEvidenceDate": "2026-08-19",
+        "lastEvidenceDate": "2026-08-26",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -20184,14 +20176,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-beone-medicines-official-23a05e385b5d",
-          "date": "2026-08-19",
+          "id": "event-evidence-company-beone-medicines-official-f6d717853551",
+          "date": "2026-08-26",
           "title": "Transforming Cancer Care Through Science and Speed | BeOne Medicines",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-beone-medicines-official-23a05e385b5d",
+          "evidenceId": "evidence-company-beone-medicines-official-f6d717853551",
           "sourceUrl": "https://beonemedicines.com/"
         },
         {
@@ -44413,7 +44405,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Doing Business With Us MyIllumina Platform",
             "text": "Doing Business With Us MyIllumina Platform",
-            "evidenceId": "evidence-company-illumina-official-5303d3fd6d28",
+            "evidenceId": "evidence-company-illumina-official-9a2d0013515e",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -44421,15 +44413,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Software & Analysis Illumina BioInsight Platform",
             "text": "Software & Analysis Illumina BioInsight Platform",
-            "evidenceId": "evidence-company-illumina-official-5303d3fd6d28",
-            "sourceUrl": "https://www.illumina.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Illumina STEM Scholars Program helps students imagine what’s next",
-            "text": "Illumina STEM Scholars Program helps students imagine what’s next",
-            "evidenceId": "evidence-company-illumina-official-5303d3fd6d28",
+            "evidenceId": "evidence-company-illumina-official-9a2d0013515e",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -44437,7 +44421,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "One platform for complete biological insights",
             "text": "One platform for complete biological insights",
-            "evidenceId": "evidence-company-illumina-official-5303d3fd6d28",
+            "evidenceId": "evidence-company-illumina-official-9a2d0013515e",
+            "sourceUrl": "https://www.illumina.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Data Analysis & Informatics Infrastructure & Pipeline Setup",
+            "text": "Data Analysis & Informatics Infrastructure & Pipeline Setup",
+            "evidenceId": "evidence-company-illumina-official-9a2d0013515e",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -44445,7 +44437,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
             "text": "Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
-            "evidenceId": "evidence-company-illumina-official-5303d3fd6d28",
+            "evidenceId": "evidence-company-illumina-official-9a2d0013515e",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -44453,7 +44445,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Illumina innovative sequencing and array technologies are fueling groundbreaking advancements in life science research, translational and consumer genomics, and molecular diagnostics.",
             "text": "Illumina innovative sequencing and array technologies are fueling groundbreaking advancements in life science research, translational and consumer genomics, and molecular diagnostics.",
-            "evidenceId": "evidence-company-illumina-official-5303d3fd6d28",
+            "evidenceId": "evidence-company-illumina-official-9a2d0013515e",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -44461,7 +44453,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-illumina-official-5303d3fd6d28",
+          "evidence-company-illumina-official-9a2d0013515e",
           "evidence-sec-0001110803-000119312526354010",
           "evidence-sec-0001110803-000095015726000888",
           "evidence-sec-0001110803-000119312526346923",
@@ -44477,14 +44469,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-illumina-official-5303d3fd6d28",
-            "date": "2026-08-21",
+            "id": "event-evidence-company-illumina-official-9a2d0013515e",
+            "date": "2026-08-26",
             "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-illumina-official-5303d3fd6d28",
+            "evidenceId": "evidence-company-illumina-official-9a2d0013515e",
             "sourceUrl": "https://www.illumina.com/"
           },
           {
@@ -44544,7 +44536,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 2,
           "Filing": 8
         },
-        "lastEvidenceDate": "2026-08-21",
+        "lastEvidenceDate": "2026-08-26",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -44553,14 +44545,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-illumina-official-5303d3fd6d28",
-          "date": "2026-08-21",
+          "id": "event-evidence-company-illumina-official-9a2d0013515e",
+          "date": "2026-08-26",
           "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-illumina-official-5303d3fd6d28",
+          "evidenceId": "evidence-company-illumina-official-9a2d0013515e",
           "sourceUrl": "https://www.illumina.com/"
         },
         {
@@ -48213,7 +48205,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The genetic basis of human disease continues to inspire our science and technology as we expand to new therapeutic approaches, while our industry-leading chemistry helps us target the right medicine to the right disease – providing a rich source for future breakthroughs and…",
             "text": "The genetic basis of human disease continues to inspire our science and technology as we expand to new therapeutic approaches, while our industry-leading chemistry helps us target the right medicine to the right disease – providing a rich source for future breakthroughs and…",
-            "evidenceId": "evidence-company-ionis-official-0938a1cbb82f",
+            "evidenceId": "evidence-company-ionis-official-e92eac1694fd",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -48221,7 +48213,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
             "text": "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
-            "evidenceId": "evidence-company-ionis-official-0938a1cbb82f",
+            "evidenceId": "evidence-company-ionis-official-e92eac1694fd",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -48229,7 +48221,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Ionis has been recognized as one of the San Diego Business Journal's Best Places to Work for the third consecutive year.",
             "text": "Ionis has been recognized as one of the San Diego Business Journal's Best Places to Work for the third consecutive year.",
-            "evidenceId": "evidence-company-ionis-official-0938a1cbb82f",
+            "evidenceId": "evidence-company-ionis-official-e92eac1694fd",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -48237,7 +48229,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Ionis is unlocking the rapidly expanding potential of RNA- and DNA-targeted medicines to enable better futures for people living with serious diseases.",
             "text": "Ionis is unlocking the rapidly expanding potential of RNA- and DNA-targeted medicines to enable better futures for people living with serious diseases.",
-            "evidenceId": "evidence-company-ionis-official-0938a1cbb82f",
+            "evidenceId": "evidence-company-ionis-official-e92eac1694fd",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -48245,7 +48237,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "For the latest on Ionis news and developments",
             "text": "For the latest on Ionis news and developments",
-            "evidenceId": "evidence-company-ionis-official-0938a1cbb82f",
+            "evidenceId": "evidence-company-ionis-official-e92eac1694fd",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -48261,7 +48253,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-ionis-official-0938a1cbb82f",
+          "evidence-company-ionis-official-e92eac1694fd",
           "evidence-company-ionis-pipeline-3987692c42b2",
           "evidence-sec-0000874015-000114036126029960",
           "evidence-sec-0000874015-000087401526000251",
@@ -48273,14 +48265,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-ionis-official-0938a1cbb82f",
-            "date": "2026-08-21",
+            "id": "event-evidence-company-ionis-official-e92eac1694fd",
+            "date": "2026-08-26",
             "title": "Innovating to Change the Course of Human Health | IONIS",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-ionis-official-0938a1cbb82f",
+            "evidenceId": "evidence-company-ionis-official-e92eac1694fd",
             "sourceUrl": "https://ionis.com/"
           },
           {
@@ -48340,7 +48332,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 2,
           "Filing": 4
         },
-        "lastEvidenceDate": "2026-08-21",
+        "lastEvidenceDate": "2026-08-26",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -48349,14 +48341,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-ionis-official-0938a1cbb82f",
-          "date": "2026-08-21",
+          "id": "event-evidence-company-ionis-official-e92eac1694fd",
+          "date": "2026-08-26",
           "title": "Innovating to Change the Course of Human Health | IONIS",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-ionis-official-0938a1cbb82f",
+          "evidenceId": "evidence-company-ionis-official-e92eac1694fd",
           "sourceUrl": "https://ionis.com/"
         },
         {
@@ -58027,6 +58019,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -58039,6 +58032,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -59213,7 +59207,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
             "text": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-4d4c43b52b58",
+            "evidenceId": "evidence-company-oxford-nanopore-official-f060b7b183c5",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59221,7 +59215,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Oxford Nanopore Technologies products are RUO.",
             "text": "Oxford Nanopore Technologies products are RUO.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-4d4c43b52b58",
+            "evidenceId": "evidence-company-oxford-nanopore-official-f060b7b183c5",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59229,7 +59223,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
             "text": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-4d4c43b52b58",
+            "evidenceId": "evidence-company-oxford-nanopore-official-f060b7b183c5",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59237,7 +59231,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
             "text": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
-            "evidenceId": "evidence-company-oxford-nanopore-official-4d4c43b52b58",
+            "evidenceId": "evidence-company-oxford-nanopore-official-f060b7b183c5",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59245,7 +59239,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
             "text": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
-            "evidenceId": "evidence-company-oxford-nanopore-official-4d4c43b52b58",
+            "evidenceId": "evidence-company-oxford-nanopore-official-f060b7b183c5",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59261,7 +59255,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-oxford-nanopore-official-4d4c43b52b58",
+          "evidence-company-oxford-nanopore-official-f060b7b183c5",
           "evidence-company-oxford-nanopore-pipeline-cc2146b5a187"
         ]
       },
@@ -59269,14 +59263,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-oxford-nanopore-official-4d4c43b52b58",
-            "date": "2026-08-20",
+            "id": "event-evidence-company-oxford-nanopore-official-f060b7b183c5",
+            "date": "2026-08-26",
             "title": "Welcome to Oxford Nanopore Technologies",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-oxford-nanopore-official-4d4c43b52b58",
+            "evidenceId": "evidence-company-oxford-nanopore-official-f060b7b183c5",
             "sourceUrl": "https://nanoporetech.com/"
           },
           {
@@ -59302,7 +59296,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-08-20",
+        "lastEvidenceDate": "2026-08-26",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -59311,14 +59305,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-oxford-nanopore-official-4d4c43b52b58",
-          "date": "2026-08-20",
+          "id": "event-evidence-company-oxford-nanopore-official-f060b7b183c5",
+          "date": "2026-08-26",
           "title": "Welcome to Oxford Nanopore Technologies",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-oxford-nanopore-official-4d4c43b52b58",
+          "evidenceId": "evidence-company-oxford-nanopore-official-f060b7b183c5",
           "sourceUrl": "https://nanoporetech.com/"
         },
         {
@@ -63068,11 +63062,43 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：探索 Recursion 持续发展的药物发现管线，了解其发展历程中的创新与突破，并进一步深入了解公司。；公司官方页面表述：深入了解 Recursion 解码生物学的创新方法。加入我们的使命，探索人工智能药物发现公司能够做什么。立即联系我们！",
-        "summaryOriginal": "Explore Recursion's dynamic drug discovery pipeline. Witness the innovations and breakthroughs in our journey. Dive deeper with us today! Dive into Recursion's innovative approach to decoding biology. Join our mission & explore what AI drug discovery companies can do. Contact us today!",
+        "summary": "公司官方页面表述：深入了解 Recursion 解码生物学的创新方法。加入我们的使命，探索人工智能药物发现公司能够做什么。立即联系我们！；公司官方页面表述：探索 Recursion 持续发展的药物发现管线，了解其发展历程中的创新与突破，并进一步深入了解公司。",
+        "summaryOriginal": "Dive into Recursion's innovative approach to decoding biology. Join our mission & explore what AI drug discovery companies can do. Contact us today! Explore Recursion's dynamic drug discovery pipeline. Witness the innovations and breakthroughs in our journey. Dive deeper with us today!",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
+          {
+            "textOriginal": "The Recursion OS drug discovery and development platform has yielded an advanced pipeline of potential first-in-class and best-in-class treatments for conditions with high unmet need including aggressive cancers and rare diseases.",
+            "text": "The Recursion OS drug discovery and development platform has yielded an advanced pipeline of potential first-in-class and best-in-class treatments for conditions with high unmet need including aggressive cancers and rare diseases.",
+            "evidenceId": "evidence-company-recursion-official-6b10de4653ce",
+            "sourceUrl": "https://recursion.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Join our mission & explore what AI drug discovery companies can do.",
+            "text": "Join our mission & explore what AI drug discovery companies can do.",
+            "evidenceId": "evidence-company-recursion-official-6b10de4653ce",
+            "sourceUrl": "https://recursion.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Recursion was founded more than a decade ago on the idea that we could take images of cells and use these images to train artificial intelligence to understand the vast unknown biological space – the cellular disruptions driving disease – to use AI-drug discovery to reduce the…",
+            "text": "Recursion was founded more than a decade ago on the idea that we could take images of cells and use these images to train artificial intelligence to understand the vast unknown biological space – the cellular disruptions driving disease – to use AI-drug discovery to reduce the…",
+            "evidenceId": "evidence-company-recursion-official-6b10de4653ce",
+            "sourceUrl": "https://recursion.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Take a look inside the automated labs that form our AI-native data factory to see our end-to-end drug discovery and development engine work as one connected system.",
+            "text": "Take a look inside the automated labs that form our AI-native data factory to see our end-to-end drug discovery and development engine work as one connected system.",
+            "evidenceId": "evidence-company-recursion-official-6b10de4653ce",
+            "sourceUrl": "https://recursion.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
           {
             "textOriginal": "Explore Recursion's dynamic drug discovery pipeline.",
             "text": "Explore Recursion's dynamic drug discovery pipeline.",
@@ -63088,44 +63114,12 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://recursion.com/pipeline",
             "needsReview": true,
             "claimType": "Report"
-          },
-          {
-            "textOriginal": "Our leading AI-driven drug discovery pipeline",
-            "text": "Our leading AI-driven drug discovery pipeline",
-            "evidenceId": "evidence-company-recursion-pipeline-e8e3bff64a35",
-            "sourceUrl": "https://recursion.com/pipeline",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Leveraging the power of the Recursion OS, we are building an industry-leading pipeline of potential best-in-class and first-in-class therapeutic assets.",
-            "text": "Leveraging the power of the Recursion OS, we are building an industry-leading pipeline of potential best-in-class and first-in-class therapeutic assets.",
-            "evidenceId": "evidence-company-recursion-pipeline-e8e3bff64a35",
-            "sourceUrl": "https://recursion.com/pipeline",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Our data and the Recursion OS enable us to train intelligent machine learning models for AI drug discovery and development, which help us rapidly identify new targets and design highly optimized molecules that fuel our pipeline of potential first-in-class and best-in-class…",
-            "text": "Our data and the Recursion OS enable us to train intelligent machine learning models for AI drug discovery and development, which help us rapidly identify new targets and design highly optimized molecules that fuel our pipeline of potential first-in-class and best-in-class…",
-            "evidenceId": "evidence-company-recursion-official-430beaf73caf",
-            "sourceUrl": "https://recursion.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "The Recursion OS drug discovery and development platform has yielded an advanced pipeline of potential first-in-class and best-in-class treatments for conditions with high unmet need including aggressive cancers and rare diseases.",
-            "text": "The Recursion OS drug discovery and development platform has yielded an advanced pipeline of potential first-in-class and best-in-class treatments for conditions with high unmet need including aggressive cancers and rare diseases.",
-            "evidenceId": "evidence-company-recursion-official-430beaf73caf",
-            "sourceUrl": "https://recursion.com/",
-            "needsReview": true,
-            "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-recursion-official-6b10de4653ce",
           "evidence-company-recursion-pipeline-e8e3bff64a35",
-          "evidence-company-recursion-official-430beaf73caf",
           "evidence-company-recursion-investor_relations-885ef40aa332",
           "evidence-sec-0001601830-000160183026000098",
           "evidence-sec-0001601830-000160183026000097"
@@ -63134,6 +63128,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-recursion-official-6b10de4653ce",
+            "date": "2026-08-26",
+            "title": "Pioneering AI Drug Discovery | Recursion",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-recursion-official-6b10de4653ce",
+            "sourceUrl": "https://recursion.com/"
+          },
           {
             "id": "event-evidence-company-recursion-pipeline-e8e3bff64a35",
             "date": "2026-08-10",
@@ -63144,17 +63149,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-recursion-pipeline-e8e3bff64a35",
             "sourceUrl": "https://recursion.com/pipeline"
-          },
-          {
-            "id": "event-evidence-company-recursion-official-430beaf73caf",
-            "date": "2026-08-10",
-            "title": "Pioneering AI Drug Discovery | Recursion",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-recursion-official-430beaf73caf",
-            "sourceUrl": "https://recursion.com/"
           },
           {
             "id": "event-evidence-company-recursion-investor_relations-885ef40aa332",
@@ -63203,7 +63197,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 2
         },
-        "lastEvidenceDate": "2026-08-10",
+        "lastEvidenceDate": "2026-08-26",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -63212,6 +63206,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-recursion-official-6b10de4653ce",
+          "date": "2026-08-26",
+          "title": "Pioneering AI Drug Discovery | Recursion",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-recursion-official-6b10de4653ce",
+          "sourceUrl": "https://recursion.com/"
+        },
         {
           "id": "event-evidence-company-recursion-pipeline-e8e3bff64a35",
           "date": "2026-08-10",
@@ -63222,17 +63227,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-recursion-pipeline-e8e3bff64a35",
           "sourceUrl": "https://recursion.com/pipeline"
-        },
-        {
-          "id": "event-evidence-company-recursion-official-430beaf73caf",
-          "date": "2026-08-10",
-          "title": "Pioneering AI Drug Discovery | Recursion",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-recursion-official-430beaf73caf",
-          "sourceUrl": "https://recursion.com/"
         },
         {
           "id": "event-evidence-company-recursion-investor_relations-885ef40aa332",
@@ -75315,7 +75309,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -75328,7 +75321,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -75419,7 +75411,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -75432,7 +75423,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -75523,7 +75513,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -75536,7 +75525,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -75627,7 +75615,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -75640,7 +75627,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -75731,7 +75717,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -75744,7 +75729,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -75835,7 +75819,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -75848,7 +75831,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -75939,7 +75921,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -75952,7 +75933,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76043,7 +76023,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76056,7 +76035,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76147,7 +76125,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76160,7 +76137,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76251,7 +76227,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76264,7 +76239,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76355,7 +76329,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76368,7 +76341,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76459,7 +76431,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76472,7 +76443,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76563,7 +76533,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76576,7 +76545,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76667,7 +76635,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76680,7 +76647,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76771,7 +76737,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76784,7 +76749,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76875,7 +76839,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76888,7 +76851,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76979,7 +76941,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76992,7 +76953,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77083,7 +77043,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77096,7 +77055,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77187,7 +77145,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77200,7 +77157,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77291,7 +77247,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77304,7 +77259,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77395,7 +77349,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77408,7 +77361,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77499,7 +77451,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77512,7 +77463,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77603,7 +77553,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77616,7 +77565,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77707,7 +77655,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77720,7 +77667,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77811,7 +77757,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77824,7 +77769,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77915,7 +77859,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77928,7 +77871,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78019,7 +77961,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78032,7 +77973,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78123,7 +78063,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78136,7 +78075,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78227,7 +78165,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78240,7 +78177,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78331,7 +78267,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78344,7 +78279,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78435,7 +78369,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78448,7 +78381,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78539,7 +78471,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78552,7 +78483,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78643,7 +78573,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78656,7 +78585,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78747,7 +78675,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78760,7 +78687,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78851,7 +78777,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78864,7 +78789,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78955,7 +78879,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78968,7 +78891,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79059,7 +78981,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79072,7 +78993,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79163,7 +79083,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79176,7 +79095,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79267,7 +79185,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79280,7 +79197,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79371,7 +79287,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79384,7 +79299,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79475,7 +79389,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79488,7 +79401,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79579,7 +79491,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79592,7 +79503,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79683,7 +79593,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79696,7 +79605,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79787,7 +79695,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79800,7 +79707,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79891,7 +79797,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79904,7 +79809,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79995,7 +79899,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80008,7 +79911,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80099,7 +80001,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80112,7 +80013,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80203,7 +80103,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80216,7 +80115,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80307,7 +80205,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80320,7 +80217,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },

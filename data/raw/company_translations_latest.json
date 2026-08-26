@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_source_translations",
-  "capturedAt": "2026-08-18T05:06:58+00:00",
-  "sourceCapturedAt": "2026-08-18T05:04:41+00:00",
+  "capturedAt": "2026-08-26T05:08:48+00:00",
+  "sourceCapturedAt": "2026-08-26T05:07:56+00:00",
   "translationPolicyVersion": "company-source-zh-cn-v1",
   "translations": [
     {
@@ -811,6 +811,11 @@
       "sourceText": "RePORT ⟩ RePORTER",
       "sourceUses": [
         {
+          "companyId": "candidate-acebio",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-aldatu-biosciences",
           "sourceRole": "official",
           "field": "business_summary"
@@ -841,6 +846,11 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-colliga-apps",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-corvion",
           "sourceRole": "official",
           "field": "business_summary"
@@ -866,7 +876,17 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-gordon-research-conferences",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-greenstone-biosciences",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-harlingene-life-sciences",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -882,6 +902,11 @@
         },
         {
           "companyId": "candidate-hesperos",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-hydronovo",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -907,6 +932,11 @@
         },
         {
           "companyId": "candidate-kovina-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-lighthouse-pharmaceuticals",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -966,12 +996,22 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-obatala-sciences",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-objective-biotechnology",
           "sourceRole": "official",
           "field": "business_summary"
         },
         {
           "companyId": "candidate-ossium-health",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-owic-technologies",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -986,6 +1026,11 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-peak-diagnostic-partners",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-physical-sciences",
           "sourceRole": "official",
           "field": "business_summary"
@@ -996,7 +1041,27 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-plurexa",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-pop-biotechnologies",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-pranions",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-psychogenics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-quantumbio",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -1041,6 +1106,11 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-silphion-life-sciences",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-sylvatica-biotech",
           "sourceRole": "official",
           "field": "business_summary"
@@ -1051,12 +1121,27 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-synvect",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-taxis-pharmaceuticals",
           "sourceRole": "official",
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-tezcat-biosciences",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-tiba-biotech",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-translucence-biosystems",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -1156,6 +1241,24 @@
       "translatedAt": "2026-08-11T05:38:11+00:00",
       "translationPolicyVersion": "company-source-zh-cn-v1",
       "responseId": "resp_07705d72cf2daf00006a7ab54ea23c819285ca40e498d8a4b8"
+    },
+    {
+      "id": "translation-75cf7f9e89c832bc",
+      "sourceTextHash": "75cf7f9e89c832bc7c40f17d6b7578f1bfcc4b830a2754e67b577f5e3208d66a",
+      "sourceText": "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
+      "sourceUses": [
+        {
+          "companyId": "akeso",
+          "sourceRole": "official",
+          "field": "business_summary"
+        }
+      ],
+      "translationCn": "公司创建了一个独特的集成研发创新系统，包括全面的端到端药物开发平台（ACE平台）和基于人工智能的制药研发、四体BsAb/MsAb、双盾ADC、双锁TCE、组织智能siRNA、细胞疗法和灵活纳米mRNA…",
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "translatedAt": "2026-08-26T05:08:48+00:00",
+      "translationPolicyVersion": "company-source-zh-cn-v1",
+      "responseId": "resp_0ff1d15a828f1afc006a8e74e1af9087d1b03a2b26d22db61f"
     },
     {
       "id": "translation-790eae1dc87dec53",
