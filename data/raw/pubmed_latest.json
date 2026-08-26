@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-26T13:19:33.330198+00:00",
+  "capturedAt": "2026-08-26T20:07:28.281224+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,32 +14,76 @@
     "end": "2026-08-26"
   },
   "pmids": [
+    "42643951",
+    "42643393",
     "42642991",
     "42642783",
     "42641931",
     "42641898",
-    "42641766",
-    "42641569",
     "42600555",
     "42580899",
     "42559559",
     "42509463",
     "42498177",
     "42497867",
+    "42644609",
     "42640372",
     "42635224",
     "42633869",
     "42631415",
     "42625221",
-    "42624861",
+    "42643932",
     "42641935",
     "42641282",
     "42640608",
     "42640174",
-    "42639369",
-    "42638446"
+    "42639369"
   ],
   "records": [
+    {
+      "pmid": "42643951",
+      "title": "Lactobacillus rhamnosus GG-Derived Extracellular Vesicles Accumulated Lung Tissue to Attenuate Sepsis-Induced Acute Lung Injury by Suppressing Inflammation and Restoring Barrier Integrity.",
+      "abstract": "Sepsis-induced acute lung injury (SALI) is a lethal disorder driven by cytokine storm, immune paralysis, and alveolar barrier collapse. Probiotic-derived extracellular vesicles (EVs), particularly nano-sized vesicles from Lactobacillus rhamnosus GG (LGG-EVs), represent promising nanotherapeutics against inflammatory lung injury. However, the specific effects and underlying mechanisms of LGG-EVs on SALI remain unclear. After isolating and analyzing LGG-EVs, we used a CLP-induced sepsis model of mouse and an LPS-injured lung organoid model. We tracked the distribution and uptake of LGG-EVs using in vivo imaging and fluorescence microscopy. By using techniques including HE staining, ELISA, qPCR, WB, and IF, the effects of LGG-EVs on sepsis-induced lung injury were explored from the perspectives of pathology, inflammatory factor secretion, and key molecule expression. Utilizing a murine CLP model alongside LPS-stimulated lung organoids, which replicate the alveolar niche, we demonstrated that orally administered LGG-EVs preferentially accumulate in the lungs. These vesicles were found to mitigate tissue injury, suppress systemic inflammation, and restore barrier integrity. Through transcriptomic analyses and mechanistic investigations, it was demonstrated that LGG-EVs target hypoxia-inducible factor 1-alpha (HIF-1α), thereby restoring barrier function by reorganizing tight junctions. Collectively, we identify probiotic-derived EVs as promising pulmonary nanotherapeutics, with oral LGG-EVs emerging as a clinically viable SALI treatment strategy through HIF-1α targeting. This work provides comprehensive preclinical evidence to accelerate the translation of EV-based therapies for critical care applications.",
+      "journal": "Journal of inflammation research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Geriatric Diseases Institute of Chengdu, Department of Geriatrics, Chengdu Fifth People's Hospital, Chengdu, People's Republic of China.",
+        "Center for Medicine Research and Translation, Chengdu Fifth People's Hospital, Chengdu, People's Republic of China.",
+        "Sichuan Industrial Institute of Antibiotics, School of Pharmacy, Chengdu University, Chengdu, People's Republic of China.",
+        "State Key Laboratory of Southwestern Chinese Medicine Resources, School of Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu, People's Republic of China.",
+        "School of Medicine and Life Sciences, Chengdu University of Traditional Chinese Medicine, Chengdu, People's Republic of China."
+      ],
+      "doi": "10.2147/JIR.S575596",
+      "date": "2026-08-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42643951/"
+    },
+    {
+      "pmid": "42643393",
+      "title": "Photodynamic priming enhances anti-PD1 therapy responses in patient-derived pancreatic cancer organoid immune cocultures.",
+      "abstract": "Photodynamic priming (PDP), a fallout of photodynamic therapy, transiently modulates the tumor microenvironment (TME), enhances therapeutic susceptibility, and promotes immunogenic cell death through the release of damage-associated molecular patterns (DAMPs). Pancreatic ductal adenocarcinoma (PDAC) remains non-responsive to current therapies with a desmoplastic and immunosuppressive TME that limits drug delivery and blunts responses to immune checkpoint blockade. We investigated whether PDP could enhance anti-PD1 therapy responses in PDAC using patient-derived organoids (PDOs). PDOs were treated with Visudyne and red light (25, 75, and 100 J/cm²), followed by assessment of cytotoxicity, DAMP expression (HSP60, calreticulin, HMGB1), and transcriptomic changes. Monocyte-derived dendritic cells (mDCs) from healthy donors were cocultured with PDP-treated (25 J/cm2) PDOs, then with matched naïve T cells. mDC and T cell activation markers were analyzed. Pembrolizumab (anti-PD1) was added to PDO-mDC-T cell cocultures to evaluate combined effects on PDO viability and T cell activation. PDP induced dose-dependent cytotoxicity and upregulated DAMPs. Gene profiling in PDOs showed increased IFN-γ, TNF-α, and CXCL12, with reduced PD-L1, TGF-β1, and FOXP1 expression. mDCs exposed to PDP-treated PDOs upregulated CD40, CD86, and MHC-II, driving activation of CD4+ and CD8+ T cells, evidenced by elevated PD1 expression. Addition of pembrolizumab further decreased PDO viability and amplified effector cytokines (IFN-γ, TNF-α, FASLG, granzyme B, IL-2, IL-21). PDP was associated with modulation of the PDAC TME toward a more immunogenic phenotype by enhancing tumor immunogenicity, activating dendritic cells and T cells, and potentiating PD1 blockade. These findings provide mechanistic support for further preclinical and clinical evaluation of PDP combined with checkpoint inhibition in PDAC.",
+      "journal": "Frontiers in immunology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Wellman Center for Photomedicine, Massachusetts General Hospital and Harvard Medical School, Boston, MA, United States.",
+        "Amsterdam University Medical Center (UMC), Academic Medical Centre, University of Amsterdam, Amsterdam, Netherlands.",
+        "Rush University Medical College, Rush University, Chicago, IL, United States.",
+        "Yale University School of Medicine, New Haven, CT, United States.",
+        "Stanford Law School, Stanford, CA, United States.",
+        "Department of Surgery, Massachusetts General Hospital, and Harvard Medical School, Boston, MA, United States.",
+        "Massachusetts General Hospital Cancer Center and Harvard Medical School, Boston, MA, United States.",
+        "Laboratory of Pharmacology and Harvard Medical School, Boston, MA, United States.",
+        "Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN, United States.",
+        "Department of Biomedical Engineering, Lerner Research Institute, Cleveland Clinic, Cleveland, OH, United States.",
+        "Harvard-Massachusetts Institute of Technology (MIT) Health Sciences and Technology, Cambridge, MA, United States."
+      ],
+      "doi": "10.3389/fimmu.2026.1805948",
+      "date": "2026-08-11",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42643393/"
+    },
     {
       "pmid": "42642991",
       "title": "Decoding host-microbial dynamics in peri-implantitis: Ecosystem-specific experimental models.",
@@ -120,41 +164,6 @@
       "doi": "10.1016/j.toxlet.2026.113181",
       "date": "2026-08-25",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641898/"
-    },
-    {
-      "pmid": "42641766",
-      "title": "In Vitro Cell-Line Models of Alzheimer's Disease: A Systematic Review and Mechanism-Based Evidence Map of Induction Paradigms, Targeted Mechanisms, and Validation Requirements.",
-      "abstract": "In vitro cell-line models are essential for investigating the complex, interconnected mechanisms of Alzheimer's disease (AD). While offering high tractability for mechanism-focused screening, their translational utility depends on the precise alignment of the biological inquiry with the appropriate cellular system, induction strategy, and experimental readouts. This systematic review and mechanism-based evidence map searched PubMed (inception to 1 May 2026), capturing 93 original experimental studies across neuronal, glial, endothelial, and higher-fidelity multicellular systems. Extracted data were structured by cellular model, induction paradigm, targeted mechanism, and interpretive scope. The synthesized evidence indicates that AD-relevant in vitro systems are not interchangeable whole-disease models, but mechanism-based tools. SH-SY5Y cells are primarily suited for Aβ-associated neuronal toxicity and general screening. Neuro-2a (N2a) systems are optimized for evaluating APP processing and amyloidogenesis. HT-22 cells specifically model oxidative glutamate toxicity and ferroptosis-related injury, while PC12 cells are strictly reserved for NGF-dependent neurite biology and neuroprotection. While classical cell lines remain essential for initial mechanistic screening, establishing disease-level relevance requires validation through orthogonal readouts and high-fidelity human models, such as multicellular organoids or blood-brain barrier systems.",
-      "journal": "Ageing research reviews",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of pharmacy practice, College of Pharmacy, University of Hafr Al Batin, Hafr Al Batin, Saudi Arabia. Electronic address: hajarm@uhb.edu.sa."
-      ],
-      "doi": "10.1016/j.arr.2026.103322",
-      "date": "2026-08-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641766/"
-    },
-    {
-      "pmid": "42641569",
-      "title": "TCF3 safeguards tumor-intrinsic interferon competence to restrain prostate cancer progression and immune escape.",
-      "abstract": "Prostate cancer commonly remains refractory to checkpoint blockade, consistent with an immune-cold microenvironment and tumor-intrinsic defects in interferon signaling. We report that loss of the basic helix-loop-helix transcription factor TCF3 defines a tumor-intrinsic mechanism that simultaneously drives aggressive progression and immune evasion. TCF3 expression is reduced in advanced and metastatic prostate cancer across multiple cohorts and in a Pten-driven model. In androgen-independent prostate cancer cells and organoids, TCF3 depletion enhances proliferation, clonogenicity, migration, and EMT-associated programs, while overexpression of TCF3 isoforms suppresses these malignant phenotypes. Transcriptomic profiling further shows that TCF3 loss profoundly downregulates interferon-α/γ response programs. Mechanistically, TCF3 promotes transcription of STAT2, preserving basal and inducible interferon signaling and downstream ISG expression; TCF3-deficient tumors exhibit reduced immune infiltration and impaired CD8+ T cell effector function in vivo. Notably, therapeutic innate immune activation partially restores interferon responses, and poly(I:C) plus PD-1 blockade reinvigorates cytotoxic T cell activity and markedly suppresses tumor growth. These data support TCF3 as a biomarker of interferon competence and a rational basis for selecting patients for innate agonist-checkpoint combinations.",
-      "journal": "European journal of cell biology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "MOE Key Laboratory of Metabolism and Molecular Medicine & Department of Biochemistry and Molecular Biology of School of Basic Medical Sciences, and Fudan University Shanghai Cancer Center, Shanghai Medical College of Fudan University, Shanghai, China.",
-        "State Key Laboratory of Common Mechanism Research for Major Diseases, Suzhou Institute of Systems Medicine, Chinese Academy of Medical Sciences & Peking Union Medical College, Suzhou, Jiangsu, China; Disease Networks Research Unit, Faculty of Biochemistry and Molecular Medicine, Biocenter Oulu, University of Oulu, Finland.",
-        "State Key Laboratory of Common Mechanism Research for Major Diseases, Suzhou Institute of Systems Medicine, Chinese Academy of Medical Sciences & Peking Union Medical College, Suzhou, Jiangsu, China.",
-        "MOE Key Laboratory of Metabolism and Molecular Medicine & Department of Biochemistry and Molecular Biology of School of Basic Medical Sciences, and Fudan University Shanghai Cancer Center, Shanghai Medical College of Fudan University, Shanghai, China; State Key Laboratory of Common Mechanism Research for Major Diseases, Suzhou Institute of Systems Medicine, Chinese Academy of Medical Sciences & Peking Union Medical College, Suzhou, Jiangsu, China.",
-        "MOE Key Laboratory of Metabolism and Molecular Medicine & Department of Biochemistry and Molecular Biology of School of Basic Medical Sciences, and Fudan University Shanghai Cancer Center, Shanghai Medical College of Fudan University, Shanghai, China; State Key Laboratory of Common Mechanism Research for Major Diseases, Suzhou Institute of Systems Medicine, Chinese Academy of Medical Sciences & Peking Union Medical College, Suzhou, Jiangsu, China. Electronic address: gonghong_wei@fudan.edu.cn."
-      ],
-      "doi": "10.1016/j.ejcb.2026.151565",
-      "date": "2026-08-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641569/"
     },
     {
       "pmid": "42600555",
@@ -266,6 +275,22 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42497867/"
     },
     {
+      "pmid": "42644609",
+      "title": "Engineering peptides into antibodies-opportunities and strategies for therapeutic innovation.",
+      "abstract": "Peptides and antibodies occupy complementary therapeutic niches. Peptides offer compact size and high-affinity recognition of difficult targets, whereas antibodies provide exquisite specificity, long serum half-life, and effector functions. Here we review strategies that merge these modalities by engineering peptides into immunoglobulins and antibody fragments. We discuss peptide grafting into hypervariable and framework loops, terminal fusion to antibody chains, Fc-peptide fusion proteins, and bioconjugation approaches. Across these formats, we examine examples that illustrate the importance of insertion site, peptide topology, and linker design for folding, activity, and developability. We highlight how antibody fusion and conjugation with natural and engineered peptides can confer novel target binding, conditional activation, altered biodistribution, improved pharmacokinetics, or intracellular delivery, and we discuss how disulfide-rich and macrocyclic peptides have enriched the design space. Finally, we also point out key translational challenges, including manufacturability, stability, heterogeneity, and immunogenicity, and propose that advances in protein design and chemical bioconjugation will enable next-generation therapeutics at the interface of antibodies and peptides.",
+      "journal": "FEBS letters",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Biopharmaceutical Technology, TUM School of Life Sciences, Technical University of Munich, Freising, Germany."
+      ],
+      "doi": "10.1002/1873-3468.70430",
+      "date": "2026-08-26",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42644609/"
+    },
+    {
       "pmid": "42640372",
       "title": "Precision Oncology via Radiotherapy-Triggered Drug Delivery: Mechanisms, Molecular Engineering, and Clinical Translation.",
       "abstract": "Radiotherapy-triggered drug delivery systems (RDDS) promise to integrate the spatial precision of ionizing radiation with controllable pharmacological activation. However, clinical translation remains constrained by its reliance on supra-clinical irradiation doses. Here, we present a unifying framework redefining RDDS through two distinct paradigms: structural disassembly and molecular actuation. We delineate their radiochemical foundations, highlighting reductive and electron-driven mechanisms as more robust and tumor-selective than stochastic reactive oxygen species-mediated pathways. Furthermore, we position radiation-driven gas therapy as a distinct modality based on in situ molecular generation. Critically, we identify the dose-response mismatch between radiolytic chemistry and clinical radiation as the central translational bottleneck. To overcome this, we propose a design paradigm centered on highly predictable, dose-matched activation, where mechanisms directly coupling radiation energy to molecular transformation offer superior predictability. Finally, we explore the integration of RDDS with imaging and artificial intelligence to create closed-loop, feedback-controlled systems. This review establishes a conceptual and translational roadmap, envisioning the evolution of radiotherapy from a purely cytotoxic modality into a programmable actuator for precision oncology.",
@@ -357,35 +382,19 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42625221/"
     },
     {
-      "pmid": "42624861",
-      "title": "AI-enabled discovery and biochemical optimization of minibinders targeting cancer cell-surface proteins.",
-      "abstract": "Experimental validation and functional optimization remain bottlenecks in AI-based protein design. We present a scalable workflow for developing AI-designed minibinders against cancer-associated surface proteins. Screening thousands of designs using mammalian cell-surface display identifies several high-affinity PD-L1 minibinders but far fewer for CD276 (B7-H3) and VTCN1 (B7-H4), highlighting substantial target dependence. Interface predicted template modeling (ipTM) scores generated by Chai-1 with ESM embeddings correlate with binding success and capture deleterious effects of interface mutations. Fluorophore-labeled AI-minibinders enable flow-cytometric staining comparable to conventional antibodies. However, when incorporated into chimeric antigen receptors (CAR), some show poor cell-surface trafficking and limited functionality. Redesign through a genetic algorithm-based diversification strategy that preserves the binding interface while changing non-binding surfaces experimentally reveals an isoelectric point (pI) window that improves CAR expression and enhances target-selective tumor cell killing. Our findings identify biochemical optimization beyond the binding interface as a critical requirement for translating AI-minibinders into functional applications.",
-      "journal": "Nature communications",
+      "pmid": "42643932",
+      "title": "Correction: HPV-specific innovations and controversies in therapeutic strategies for HPV-associated oropharyngeal carcinoma.",
+      "abstract": "[This corrects the article DOI: 10.3389/fimmu.2026.1818274.].",
+      "journal": "Frontiers in immunology",
       "publicationTypes": [
-        "Journal Article"
+        "Published Erratum"
       ],
       "affiliations": [
-        "Institute for Experimental Oncology, University of Bonn, University Hospital Bonn, Bonn, Germany.",
-        "Institute of Structural Biology, University of Bonn, University Hospital Bonn, Bonn, Germany.",
-        "Institute for Clinical Chemistry and Clinical Pharmacology, University of Bonn, University Hospital Bonn, Bonn, Germany.",
-        "Core Facility Nanobodies, University of Bonn, University Hospital Bonn, Bonn, Germany.",
-        "Institute for Experimental Hematology and Transfusion Medicine, University of Bonn, University Hospital Bonn, Bonn, Germany.",
-        "Institute for Clinical Hemostaseology and Transfusion Medicine, Saarland University, Homburg, Germany.",
-        "Department of Surgery, University of Bonn, University Hospital Bonn, Bonn, Germany.",
-        "Department of General and Visceral Surgery, Charité - University Medicine Berlin, Campus Benjamin Franklin, Berlin, Germany.",
-        "Institute for Pathology, University of Bonn, University Hospital Bonn, Bonn, Germany.",
-        "Institute for Molecular Medicine and Experimental Immunology, University of Bonn, University Hospital Bonn, Bonn, Germany.",
-        "Institute of Clinical Pharmacology, LMU University Hospital, LMU Munich, Munich, Germany.",
-        "German Cancer Consortium (DKTK), Partner Site Munich, A Partnership Between the DKFZ Heidelberg and the LMU University Hospital, LMU Munich, Munich, Germany.",
-        "Einheit für Klinische Pharmakologie (EKLiP), Helmholtz Zentrum München - German Research Center for Environmental Health Neuherberg, Munich, Germany.",
-        "German Center for Lung Research (DZL), Partner site Munich, Munich, Germany.",
-        "Institute for Innate Immunity, University of Bonn, University Hospital Bonn, Bonn, Germany.",
-        "Institute of Structural Biology, University of Bonn, University Hospital Bonn, Bonn, Germany. michael.hoelzel@ukbonn.de.",
-        "Institute for Experimental Oncology, University of Bonn, University Hospital Bonn, Bonn, Germany. hagelueken@uni-bonn.de."
+        "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, National Clinical Research Center for Oral Diseases, Shaanxi Key Laboratory of Stomatology, Department of Oral and Maxillofacial Surgery, School of Stomatology, The Fourth Military Medical University, Xi'an, Shaanxi, China."
       ],
-      "doi": "10.1038/s41467-026-76760-5",
-      "date": "2026-08-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624861/"
+      "doi": "10.3389/fimmu.2026.1948255",
+      "date": "2026-08-11",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42643932/"
     },
     {
       "pmid": "42641935",
@@ -484,28 +493,38 @@
       "doi": "10.3389/fonc.2026.1806868",
       "date": "2026-08-10",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42639369/"
-    },
-    {
-      "pmid": "42638446",
-      "title": "Saliva Liquid Biopsy for Detection of Oral and Systemic Diseases.",
-      "abstract": "Saliva has emerged as a compelling liquid biopsy for the non-invasive diagnosis and monitoring of both oral and systemic diseases. Secreted by major and minor salivary glands and enriched by gingival crevicular fluid, epithelial turnover, immune mediators, microbial products, and plasma-derived constituents, saliva reflects a biologically integrated interface between local oral environments and systemic physiology. This dual origin enables detection of disease-associated signals across multiple molecular layers, including extracellular RNA, cell-free DNA, genomic and epigenetic material, proteins, metabolites, microbial signatures, and hormones. Advances in high-throughput sequencing, mass spectrometry, and ultrasensitive immunoassays have revealed that salivary analytes can capture dynamic pathological processes ranging from periodontal inflammation and dental caries to oral and head and neck cancers, as well as systemic conditions such as non-oral cancers and autoimmune, cardiometabolic, infectious, endocrine, and neurodegenerative diseases. In particular, extracellular vesicle-encapsulated RNA, cfDNA fragmentomics, and methylation patterns have expanded the diagnostic reach of saliva beyond conventional protein-based biomarkers, while integrated multi-omics approaches increasingly improve diagnostic performance. Despite this progress, clinical translation remains constrained by biological complexity, including variable glandular contributions, oral microbiome interactions, and pre-analytical variability in collection and processing. Emerging point-of-care technologies, microfluidic platforms, and artificial intelligence-driven multi-omic integration are beginning to address these limitations, enabling higher analytical sensitivity and improved disease stratification. Regulatory pathways, including in vitro diagnostic frameworks and laboratory-developed test structures, are progressively accommodating salivary assays, as demonstrated during the COVID-19 pandemic. However, widespread clinical adoption will require rigorous standardization, large-scale validation, and demonstration of clinical utility. Together, saliva-based liquid biopsy represents a rapidly evolving diagnostic paradigm with the potential to shift disease detection towards earlier, minimally invasive, and data-rich precision medicine approaches across dentistry and systemic healthcare.",
-      "journal": "Journal of periodontal research",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "School of Dentistry, University of California, Los Angeles, Los Angeles, California, USA.",
-        "School of Dental Medicine, Rutgers University, Newark, New Jersey, USA.",
-        "New York University, New York, New York, USA.",
-        "Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
-      ],
-      "doi": "10.1111/jre.70152",
-      "date": "2026-08-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638446/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42644609",
+      "date": "2026-08-26",
+      "title": "Engineering peptides into antibodies-opportunities and strategies for therapeutic innovation.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42644609/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 42644609。",
+      "report": "Peptides and antibodies occupy complementary therapeutic niches. Peptides offer compact size and high-affinity recognition of difficult targets, whereas antibodies provide exquisite specificity, long serum half-life, and effector functions. Here we review stra...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42642991",
       "date": "2026-08-25",
@@ -619,36 +638,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Toxicology letters，PMID 为 42641898。",
       "report": "Phytolacca acinosa Roxb. (PR) is a saponin-rich medicinal plant associated with gastrointestinal toxicity, but the mechanisms underlying PR-induced intestinal barrier injury remain unclear. In this study, raw PR extract was analytically characterized by UPLC-Z...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42641766",
-      "date": "2026-08-25",
-      "title": "In Vitro Cell-Line Models of Alzheimer's Disease: A Systematic Review and Mechanism-Based Evidence Map of Induction Paradigms, Targeted Mechanisms, and Validation Requirements.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641766/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Ageing research reviews，PMID 为 42641766。",
-      "report": "In vitro cell-line models are essential for investigating the complex, interconnected mechanisms of Alzheimer's disease (AD). While offering high tractability for mechanism-focused screening, their translational utility depends on the precise alignment of the...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -780,42 +769,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42638446",
-      "date": "2026-08-25",
-      "title": "Saliva Liquid Biopsy for Detection of Oral and Systemic Diseases.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638446/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of periodontal research，PMID 为 42638446。",
-      "report": "Saliva has emerged as a compelling liquid biopsy for the non-invasive diagnosis and monitoring of both oral and systemic diseases. Secreted by major and minor salivary glands and enriched by gingival crevicular fluid, epithelial turnover, immune mediators, mic...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42633869",
       "date": "2026-08-23",
       "title": "Peptide barcoding: an alternative to the phenotype-genotype problem.",
@@ -905,68 +858,33 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42641569",
-      "date": "2026-08-20",
-      "title": "TCF3 safeguards tumor-intrinsic interferon competence to restrain prostate cancer progression and immune escape.",
+      "id": "pubmed-42643951",
+      "date": "2026-08-21",
+      "title": "Lactobacillus rhamnosus GG-Derived Extracellular Vesicles Accumulated Lung Tissue to Attenuate Sepsis-Induced Acute Lung Injury by Suppressing Inflammation and Restoring Barrier Integrity.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641569/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42643951/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Precision Oncology",
         "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "肿瘤",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 European journal of cell biology，PMID 为 42641569。",
-      "report": "Prostate cancer commonly remains refractory to checkpoint blockade, consistent with an immune-cold microenvironment and tumor-intrinsic defects in interferon signaling. We report that loss of the basic helix-loop-helix transcription factor TCF3 defines a tumor...",
+      "fact": "PubMed 记录显示该文献收录于 Journal of inflammation research，PMID 为 42643951。",
+      "report": "Sepsis-induced acute lung injury (SALI) is a lethal disorder driven by cytokine storm, immune paralysis, and alveolar barrier collapse. Probiotic-derived extracellular vesicles (EVs), particularly nano-sized vesicles from Lactobacillus rhamnosus GG (LGG-EVs),...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42624861",
-      "date": "2026-08-20",
-      "title": "AI-enabled discovery and biochemical optimization of minibinders targeting cancer cell-surface proteins.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624861/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42624861。",
-      "report": "Experimental validation and functional optimization remain bottlenecks in AI-based protein design. We present a scalable workflow for developing AI-designed minibinders against cancer-associated surface proteins. Screening thousands of designs using mammalian...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -992,6 +910,66 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Journal of cheminformatics，PMID 为 42625221。",
       "report": "Inverse molecular design imposes multiple property constraints, requiring them to be combined into a scalar reward for reinforcement-learning (RL) fine-tuning; a step that can be highly sensitive to the reward formulation. Here, we systematically analyze how s...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42643393",
+      "date": "2026-08-11",
+      "title": "Photodynamic priming enhances anti-PD1 therapy responses in patient-derived pancreatic cancer organoid immune cocultures.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42643393/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42643393。",
+      "report": "Photodynamic priming (PDP), a fallout of photodynamic therapy, transiently modulates the tumor microenvironment (TME), enhances therapeutic susceptibility, and promotes immunogenic cell death through the release of damage-associated molecular patterns (DAMPs)....",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42643932",
+      "date": "2026-08-11",
+      "title": "Correction: HPV-specific innovations and controversies in therapeutic strategies for HPV-associated oropharyngeal carcinoma.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42643932/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42643932。",
+      "report": "[This corrects the article DOI: 10.3389/fimmu.2026.1818274.].",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
