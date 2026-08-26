@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-08-26",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -821,6 +821,144 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42640736",
+      "date": "2026-08-25",
+      "title": "MANF clears mutant uromodulin in human kidney organoids of autosomal dominant tubulointerstitial kidney disease.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42640736/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 The Journal of clinical investigation，PMID 为 42640736。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_08fb853fd7ce9462006a8e48d1a75c87d18a8c3dde089cbd96",
+        "reviewedAt": "2026-08-26T02:00:48.340117+00:00",
+        "inputHash": "386f27be756eb4efb800cb5c8b6480d4be6a9eb78c4e2ac56573b05bcb861802",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人类评审以确保信息准确性和完整性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平低，应重新评估分类。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平被评估为低，需考虑来源和研究质量。"
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 The Journal of clinical investigation，PMID 为 42640736。",
+          "report": "PubMed 记录未提供摘要。",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42640702",
+      "date": "2026-08-25",
+      "title": "SynNotch Receptors for Visualizing Immunoreceptor Force Transmission and Downstream Signaling In Vivo.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42640702/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42640702。",
+      "report": "Immunoreceptors experience forces that modulate their activities; however, demonstrating this in vivo has been limited by technical challenges. As a first step toward meeting this challenge, we adapted a synthetic Notch (SynNotch) receptor system to report for...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0892eab9f3b25673006a8e48db94d087d1ba265eb80d807a55",
+        "reviewedAt": "2026-08-26T02:00:48.340117+00:00",
+        "inputHash": "ee9dcc4088043a0e813740746df55393296aff5c60f2161fb758c2a9efc09d56",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信息卡片符合发布标准，内容准确且中立。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别和子类别适当，与文献内容一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论区分明确，增强了信息卡的可靠性。"
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42640702。",
+          "report": "Immunoreceptors experience forces that modulate their activities; however, demonstrating this in vivo has been limited by technical challenges. As a first step toward meeting this challenge, we adapted a synthetic Notch (SynNotch) receptor system to report for...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42639847",
       "date": "2026-08-25",
       "title": "Fine-Needle Aspiration of Salivary Gland Tumors With Low-Grade Oncocytic Features: Focusing on Oncocytoma Versus Oncocytic Mucoepidermoid Carcinoma.",
@@ -962,78 +1100,164 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42638069",
+      "id": "pubmed-42640372",
       "date": "2026-08-25",
-      "title": "[Decellularized scaffolds derived from porcine testes for culture of primary testicular cells and organoids].",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "title": "Precision Oncology via Radiotherapy-Triggered Drug Delivery: Mechanisms, Molecular Engineering, and Clinical Translation.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638069/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42640372/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening",
+        "AI for Biology",
+        "Drug Discovery",
+        "Precision Oncology",
         "Multi-omics"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "肿瘤",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Sheng wu gong cheng xue bao = Chinese journal of biotechnology，PMID 为 42638069。",
-      "report": "Decellularized extracellular matrix can well preserve the biomimetic ultrastructure of native tissue, providing a suitable three-dimensional biomimetic microenvironment for the in vitro culture of cells and organoids. The aim of this study is to prepare a porc...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42640372。",
+      "report": "Radiotherapy-triggered drug delivery systems (RDDS) promise to integrate the spatial precision of ionizing radiation with controllable pharmacological activation. However, clinical translation remains constrained by its reliance on supra-clinical irradiation d...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_046b1c0ed4e47cf9006a8d95243e7c87d08479acf791babf7a",
-        "reviewedAt": "2026-08-25T13:14:04.366011+00:00",
-        "inputHash": "4c61fa9b54a726af927eb980119a1f649668941dcd2e03c1e751df72b760ddd4",
+        "responseId": "resp_0f205bd88a9445fd006a8e48e184e487d1b00e62c53fa5b403",
+        "reviewedAt": "2026-08-26T02:00:48.340117+00:00",
+        "inputHash": "f1e269db9126c2109321874d62056e2259a457e468edbe54e0cdd0242bfb8e62",
         "status": "pass",
         "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该条信号具备中立性与数据一致性，适合发布。",
+        "reviewSummaryCn": "该文献的内容与学习领域的相关性强，元数据支持其分类，未存在临床建议或不当结论。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "类别与证据级别合理"
+          "notesCn": "主要类别和子类别合理，且与文献内容一致。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论明确分开"
+          "notesCn": "文献来源可靠，支持有效的信息分离，证据级别适中。"
         },
         "riskFlags": [
-          "weak_classification"
+          "clinical_claim",
+          "insufficient_source"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
+          "primaryCategory": "AI Drug Discovery",
+          "subCategory": "AI-enabled Discovery",
           "evidenceLevel": "Medium",
           "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Drug Screening",
+            "AI for Biology",
+            "Drug Discovery",
+            "Precision Oncology",
             "Multi-omics"
           ],
           "tags": [
-            "类器官",
-            "疾病模型",
-            "药筛",
+            "AI 制药",
+            "蛋白设计",
+            "分子生成",
+            "肿瘤",
             "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Sheng wu gong cheng xue bao = Chinese journal of biotechnology，PMID 为 42638069。",
-          "report": "Decellularized extracellular matrix can well preserve the biomimetic ultrastructure of native tissue, providing a suitable three-dimensional biomimetic microenvironment for the in vitro culture of cells and organoids. The aim of this study is to prepare a porc...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42640372。",
+          "report": "Radiotherapy-triggered drug delivery systems (RDDS) promise to integrate the spatial precision of ionizing radiation with controllable pharmacological activation. However, clinical translation remains constrained by its reliance on supra-clinical irradiation d...",
+          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42640608",
+      "date": "2026-08-25",
+      "title": "Integrated Molecular, Epigenetic, Microbial, and Liquid Biopsy Biomarkers in Colorectal Cancer: Implications for Prognosis and Precision Therapy.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42640608/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biomarkers : biochemical indicators of exposure, response, and susceptibility to chemicals，PMID 为 42640608。",
+      "report": "BackgroundColorectal cancer (CRC) is a biologically diverse malignancy driven by a complex interplay of genetic mutations, epigenetic changes, tumour microenvironmental factors, and host-microbial interactions. Foundational molecular events including APC-assoc...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_020d55cb6c7b15d0006a8e48e6bc4087d1982b7bf214dfc8cf",
+        "reviewedAt": "2026-08-26T02:00:48.340117+00:00",
+        "inputHash": "3f44b3cf42b195763c2504575a4a4f12eeb8df0fd0c8a8c588d2730f46ea78a1",
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人类审查，因存在潜在的临床依据不足。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类不够强，建议重新审视证据水平和主题准确性。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "引用的文献中缺乏对研究质量和样本量的评估。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source",
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "临床",
+            "监管",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Biomarkers : biochemical indicators of exposure, response, and susceptibility to chemicals，PMID 为 42640608。",
+          "report": "BackgroundColorectal cancer (CRC) is a biologically diverse malignancy driven by a complex interplay of genetic mutations, epigenetic changes, tumour microenvironmental factors, and host-microbial interactions. Foundational molecular events including APC-assoc...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1483,80 +1707,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42635711",
-      "date": "2026-08-24",
-      "title": "Role of liquid biopsy in the multimodal assessment and treatment of esophageal cancer: a surgical perspective.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635711/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Updates in surgery，PMID 为 42635711。",
-      "report": "Esophageal cancer (EC) remains a highly lethal malignancy, characterized by late diagnosis, early systemic dissemination, and high recurrence rates. Conventional diagnostic and surveillance strategies have limited sensitivity for early disease detection and mi...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0e21d756343d0936006a8cf616b8c087d08c269b2c610d27b2",
-        "reviewedAt": "2026-08-25T01:54:51.828594+00:00",
-        "inputHash": "469d3d49b216fa7c6943416f023f40260fbc7537472c700ee28c2f8d18a77d3b",
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献涉及食道癌的液体活检，但没有充分支持其诊断有效性的结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类符合提供的元数据，但需要更多信息支持研究质量。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平为中等且缺乏研究质量信息，未满足要求。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Updates in surgery，PMID 为 42635711。",
-          "report": "Esophageal cancer (EC) remains a highly lethal malignancy, characterized by late diagnosis, early systemic dissemination, and high recurrence rates. Conventional diagnostic and surveillance strategies have limited sensitivity for early disease detection and mi...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42633869",
       "date": "2026-08-23",
       "title": "Peptide barcoding: an alternative to the phenotype-genotype problem.",
@@ -1774,69 +1924,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42624861。",
           "report": "Experimental validation and functional optimization remain bottlenecks in AI-based protein design. We present a scalable workflow for developing AI-designed minibinders against cancer-associated surface proteins. Screening thousands of designs using mammalian...",
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42624264",
-      "date": "2026-08-20",
-      "title": "Co-evolution-guided engineering of monensin biosynthetic monooxygenase MonCI reveals mechanistic basis for concurrent stability and catalytic enhancement.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624264/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of biological macromolecules，PMID 为 42624264。",
-      "report": "Improving enzyme stability without compromising catalytic activity remains a major challenge in protein engineering. Here, we present a co-evolution-guided strategy to enhance both thermostability and catalytic performance of the flavin-dependent monooxygenase...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_072ece83fa661863006a87fa0463fc87d2ad7111ecf0065eb3",
-        "reviewedAt": "2026-08-21T07:10:14.759941+00:00",
-        "inputHash": "ca97d2258049ffe58ff76fd57b1fe02769c975cfd7d94f7e7b001530ded1fbac",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号记录清晰，信息中立且来源可靠，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Biotech"
-          ],
-          "tags": [
-            "biotech"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 International journal of biological macromolecules，PMID 为 42624264。",
-          "report": "Improving enzyme stability without compromising catalytic activity remains a major challenge in protein engineering. Here, we present a co-evolution-guided strategy to enhance both thermostability and catalytic performance of the flavin-dependent monooxygenase...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -5993,79 +6080,6 @@ window.BHR_DATA = {
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         },
         "inputHash": "c3b44f10f2ad7ba73516930c7f1b313c2bb1cfbb86bd47ab3a09aec8ce415709"
-      }
-    },
-    {
-      "id": "pubmed-42637759",
-      "date": "2026-07-22",
-      "title": "In vitro multi-organ invasion model for exploring cardiac resistance to cancer metastasis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42637759/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42637759。",
-      "report": "Despite the systemic spread of cancer, the ventricular myocardium is one of the least common sites of metastasis-a phenomenon that remains poorly understood. To examine this, we develop the Multi-organ Invasion Device (MInD), an organ-on-a-chip platform that e...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0d2e0d9214c33e18006a8d9545b99487d0889d03efa38f8c3e",
-        "reviewedAt": "2026-08-25T13:14:04.366011+00:00",
-        "inputHash": "92b87db039691d71eb6d6d37b11d05912f41526189b7a6103ddcaa043097f9e9",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献可顺利发布，内容符合中立情报记录的标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，反映了文献的主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断均得到明确区分，证据等级合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42637759。",
-          "report": "Despite the systemic spread of cancer, the ventricular myocardium is one of the least common sites of metastasis-a phenomenon that remains poorly understood. To examine this, we develop the Multi-organ Invasion Device (MInD), an organ-on-a-chip platform that e...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
       }
     },
     {

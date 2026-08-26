@@ -1,109 +1,153 @@
 {
-  "capturedAt": "2026-08-25T19:00:14.704155+00:00",
+  "capturedAt": "2026-08-26T02:00:48.340117+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42639847",
-      "responseId": "resp_0436a7d814246ae6006a8de64021a487d1be5b934db956477a",
+      "signalId": "pubmed-42640736",
+      "responseId": "resp_08fb853fd7ce9462006a8e48d1a75c87d18a8c3dde089cbd96",
       "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录有效且合理，信息分离清晰，适合发表。",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人类评审以确保信息准确性和完整性。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类与文献内容一致。"
+          "isSupported": false,
+          "notesCn": "证据水平低，应重新评估分类。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据等级和分类合理，与源材料相符。"
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平被评估为低，需考虑来源和研究质量。"
         },
-        "riskFlags": [],
+        "riskFlags": [
+          "weak_classification"
+        ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
           "subCategory": "Organoids & Advanced Disease Models",
           "evidenceLevel": "Medium",
           "themes": [
             "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
+            "Advanced Disease Models"
           ],
           "tags": [
             "类器官",
-            "疾病模型",
-            "肿瘤"
+            "疾病模型"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Diagnostic cytopathology，PMID 为 42639847。",
-          "report": "Salivary gland fine-needle aspirates (FNAs) with low-grade oncocytic features are diagnostically challenging due to the substantial morphologic overlap between benign oncocytic tumors and their malignant mimickers. This study evaluates the diagnostic discrimin...",
+          "fact": "PubMed 记录显示该文献收录于 The Journal of clinical investigation，PMID 为 42640736。",
+          "report": "PubMed 记录未提供摘要。",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42640702",
+      "responseId": "resp_0892eab9f3b25673006a8e48db94d087d1ba265eb80d807a55",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信息卡片符合发布标准，内容准确且中立。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别和子类别适当，与文献内容一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论区分明确，增强了信息卡的可靠性。"
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42640702。",
+          "report": "Immunoreceptors experience forces that modulate their activities; however, demonstrating this in vivo has been limited by technical challenges. As a first step toward meeting this challenge, we adapted a synthetic Notch (SynNotch) receptor system to report for...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42640174",
-      "responseId": "resp_09217fcff8ff7051006a8de6487ef887d19ce314eb8b6fb5dc",
+      "signalId": "pubmed-42640372",
+      "responseId": "resp_0f205bd88a9445fd006a8e48e184e487d1b00e62c53fa5b403",
       "review": {
         "status": "pass",
-        "confidence": 0.95,
+        "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录符合出版要求，内部一致性良好。",
+        "reviewSummaryCn": "该文献的内容与学习领域的相关性强，元数据支持其分类，未存在临床建议或不当结论。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": ""
+          "notesCn": "主要类别和子类别合理，且与文献内容一致。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": ""
+          "notesCn": "文献来源可靠，支持有效的信息分离，证据级别适中。"
         },
         "riskFlags": [
           "clinical_claim",
-          "regulatory_claim"
+          "insufficient_source"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
+          "primaryCategory": "AI Drug Discovery",
+          "subCategory": "AI-enabled Discovery",
           "evidenceLevel": "Medium",
           "themes": [
-            "Biotech",
+            "AI for Biology",
+            "Drug Discovery",
             "Precision Oncology",
             "Multi-omics"
           ],
           "tags": [
-            "biotech",
+            "AI 制药",
+            "蛋白设计",
+            "分子生成",
             "肿瘤",
             "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Cancer science，PMID 为 42640174。",
-          "report": "Alterations in the PI3K signaling pathway are common in hormone receptor-positive (HR+)/HER2-negative metastatic breast cancer (MBC) and are associated with response to PI3K and AKT inhibitor-targeted therapies. When metastasis biopsy is unavailable for geneti...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42640372。",
+          "report": "Radiotherapy-triggered drug delivery systems (RDDS) promise to integrate the spatial precision of ionizing radiation with controllable pharmacological activation. However, clinical translation remains constrained by its reliance on supra-clinical irradiation d...",
+          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42639369",
-      "responseId": "resp_0d9d1958bdd22be0006a8de652ae3087d1a2d9816a68bdf258",
+      "signalId": "pubmed-42640608",
+      "responseId": "resp_020d55cb6c7b15d0006a8e48e6bc4087d1982b7bf214dfc8cf",
       "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息清晰分离，符合发布标准。",
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人类审查，因存在潜在的临床依据不足。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合主题。"
+          "isSupported": false,
+          "notesCn": "分类不够强，建议重新审视证据水平和主题准确性。"
         },
         "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平标记为中等，信息准确。"
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "引用的文献中缺乏对研究质量和样本量的评估。"
         },
         "riskFlags": [
+          "weak_classification",
+          "insufficient_source",
           "clinical_claim"
         ],
         "suggestedEdits": {
@@ -113,18 +157,20 @@
           "themes": [
             "Diagnostics",
             "Precision Medicine",
-            "Precision Oncology",
-            "Multi-omics"
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology"
           ],
           "tags": [
             "诊断",
             "精准医疗",
-            "肿瘤",
-            "多组学"
+            "临床",
+            "监管",
+            "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42639369。",
-          "report": "Therapy resistance remains a leading cause of treatment failure and mortality in thoracic malignancies, despite major advances in targeted therapies and immunotherapies. Resistance evolves through heterogeneous, patient-specific mechanisms, including genetic a...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Biomarkers : biochemical indicators of exposure, response, and susceptibility to chemicals，PMID 为 42640608。",
+          "report": "BackgroundColorectal cancer (CRC) is a biologically diverse malignancy driven by a complex interplay of genetic mutations, epigenetic changes, tumour microenvironmental factors, and host-microbial interactions. Foundational molecular events including APC-assoc...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
