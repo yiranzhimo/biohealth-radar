@@ -31543,9 +31543,7 @@
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "Clinical Trials",
-          "Pharmaceutical Preparations",
-          "临床试验"
+          "Pharmaceutical Preparations"
         ],
         "modalities": [],
         "watchTier": "Discovery"

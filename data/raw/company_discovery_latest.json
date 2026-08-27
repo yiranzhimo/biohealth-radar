@@ -1,13 +1,13 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-08-27T14:15:38+00:00",
+  "capturedAt": "2026-08-27T22:18:53.892224+00:00",
   "summary": {
     "mentionCount": 667,
-    "candidateCount": 595,
-    "corroboratedCount": 3,
-    "identifiedCount": 585,
-    "needsReviewCount": 7,
+    "candidateCount": 596,
+    "corroboratedCount": 2,
+    "identifiedCount": 586,
+    "needsReviewCount": 8,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
@@ -20,71 +20,45 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-4a01c806e45140b7",
-      "observedName": "CervoMed, Inc.",
-      "normalizedName": "cervomed",
+      "id": "mention-clinicaltrials-3ce1ad3acbc7a1a0",
+      "observedName": "UniQure Biopharma B.V.",
+      "normalizedName": "uniqure biopharma b v",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT05869669",
-      "sourceDate": "2026-05-06",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05869669",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT06270316",
+      "sourceDate": "2025-10-23",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06270316",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
+        "Recruiting",
         "临床试验"
       ],
       "activitySignals": [
+        "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "RewinD-LB - Clinical Study of Neflamapimod in Patients With Dementia With Lewy Bodies"
+      "contextTitle": "Safety, PK/PD, and Exploratory Efficacy Study of AMT-191 in Classic Fabry Disease"
     },
     {
-      "id": "mention-clinicaltrials-a4d8b3bc5561990e",
-      "observedName": "Huede Healthtech Co., Ltd.",
-      "normalizedName": "huede healthtech",
+      "id": "mention-clinicaltrials-4f55a663cca3eba9",
+      "observedName": "Ligand Pharmaceuticals",
+      "normalizedName": "ligand pharmaceuticals",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06685367",
-      "sourceDate": "2024-11-12",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06685367",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Healthcare AI",
-        "Medical AI",
-        "Recruiting",
-        "临床决策支持",
-        "临床试验",
-        "医疗 AI"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "The Cost-effectiveness of Artificial Intelligence Acute Kidney Injury Prediction Auxiliary Software (Acura AKI)"
-    },
-    {
-      "id": "mention-clinicaltrials-c32b3ca6d916ea9b",
-      "observedName": "Sunshine Lake Pharma Co., Ltd.",
-      "normalizedName": "sunshine lake pharma",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT03888092",
-      "sourceDate": "2023-03-21",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03888092",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT00211198",
+      "sourceDate": "2008-03-05",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00211198",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
         "Oncology",
         "Precision Oncology",
-        "中国",
         "临床试验",
         "肿瘤"
       ],
@@ -92,29 +66,61 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Z650 in Advanced Esophageal Squamous Cell Carcinoma With EGFR Over Expression or Gene Amplification"
+      "contextTitle": "Study of ONTAK® to Treat Cutaneous T-Cell Lymphoma (CTCL)"
     },
     {
-      "id": "mention-clinicaltrials-e125bfd361bc2638",
-      "observedName": "EIP Pharma Inc",
-      "normalizedName": "eip pharma",
+      "id": "mention-clinicaltrials-8f42c8436c8a8f96",
+      "observedName": "Eisai Inc.",
+      "normalizedName": "eisai",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT05869669",
-      "sourceDate": "2026-05-06",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05869669",
+      "sourceRecordId": "NCT00211198",
+      "sourceDate": "2008-03-05",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00211198",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "临床试验"
+        "Oncology",
+        "Precision Oncology",
+        "临床试验",
+        "肿瘤"
       ],
       "activitySignals": [
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "RewinD-LB - Clinical Study of Neflamapimod in Patients With Dementia With Lewy Bodies"
+      "contextTitle": "Study of ONTAK® to Treat Cutaneous T-Cell Lymphoma (CTCL)"
+    },
+    {
+      "id": "mention-clinicaltrials-94012fd858c309a2",
+      "observedName": "Hamilton Health Sciences Corporation",
+      "normalizedName": "hamilton health sciences",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT06648239",
+      "sourceDate": "2026-05-11",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06648239",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Diagnostics",
+        "Healthcare AI",
+        "Medical AI",
+        "Precision Medicine",
+        "临床决策支持",
+        "临床试验",
+        "医疗 AI",
+        "精准医疗",
+        "诊断"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "CCTA to Optimize Diagnostic Yield of Invasive Angiography With AI"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -26692,14 +26698,13 @@
       "id": "candidate-cervomed",
       "name": "CervoMed Inc.",
       "aliases": [
-        "CervoMed Inc.",
-        "CervoMed, Inc."
+        "CervoMed Inc."
       ],
       "normalizedName": "cervomed",
-      "status": "corroborated",
+      "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.98,
-      "autoPromotionEligible": true,
+      "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
       "lastSeenAt": "2026-08-27",
       "identifiers": {
@@ -26712,30 +26717,22 @@
       },
       "classificationHints": {
         "directions": [
-          "Clinical Trials",
-          "Pharmaceutical Preparations",
-          "临床试验"
+          "Pharmaceutical Preparations"
         ],
         "themes": [
-          "Clinical Trials",
-          "Pharmaceutical Preparations",
-          "临床试验"
+          "Pharmaceutical Preparations"
         ],
         "tags": []
       },
       "discoveryReasons": [
-        "SEC EDGAR 将该实体列为 biotech 相关 SIC 行业的注册主体。",
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。",
-        "2 个独立官方来源出现了可归一化到同一名称的记录。"
+        "SEC EDGAR 将该实体列为 biotech 相关 SIC 行业的注册主体。"
       ],
       "sourceTypes": [
-        "ClinicalTrials",
         "SEC"
       ],
-      "sourceCount": 2,
-      "mentionCount": 2,
+      "sourceCount": 1,
+      "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-4a01c806e45140b7",
         "mention-sec-386cbf1db10e61f3"
       ],
       "sources": [
@@ -26747,15 +26744,6 @@
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001053691&owner=exclude&hidefilings=0",
           "externalId": "0001053691",
           "contextTitle": "Pharmaceutical Preparations"
-        },
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "collaborator",
-          "sourceDate": "2026-05-06",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT05869669",
-          "externalId": "NCT05869669",
-          "contextTitle": "RewinD-LB - Clinical Study of Neflamapimod in Patients With Dementia With Lewy Bodies"
         }
       ]
     },
@@ -44354,131 +44342,24 @@
       ]
     },
     {
-      "id": "candidate-eip-pharma",
-      "name": "EIP Pharma Inc",
+      "id": "candidate-eisai",
+      "name": "Eisai Inc.",
       "aliases": [
-        "EIP Pharma Inc"
+        "Eisai Inc."
       ],
-      "normalizedName": "eip pharma",
+      "normalizedName": "eisai",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-05-06",
-      "lastSeenAt": "2026-05-06",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "临床试验"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "临床试验"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-e125bfd361bc2638"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2026-05-06",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT05869669",
-          "externalId": "NCT05869669",
-          "contextTitle": "RewinD-LB - Clinical Study of Neflamapimod in Patients With Dementia With Lewy Bodies"
-        }
-      ]
-    },
-    {
-      "id": "candidate-huede-healthtech",
-      "name": "Huede Healthtech Co., Ltd.",
-      "aliases": [
-        "Huede Healthtech Co., Ltd."
-      ],
-      "normalizedName": "huede healthtech",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2024-11-12",
-      "lastSeenAt": "2024-11-12",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Healthcare AI",
-          "Medical AI",
-          "Recruiting",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Healthcare AI",
-          "Medical AI",
-          "Recruiting",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-a4d8b3bc5561990e"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2024-11-12",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06685367",
-          "externalId": "NCT06685367",
-          "contextTitle": "The Cost-effectiveness of Artificial Intelligence Acute Kidney Injury Prediction Auxiliary Software (Acura AKI)"
-        }
-      ]
-    },
-    {
-      "id": "candidate-sunshine-lake-pharma",
-      "name": "Sunshine Lake Pharma Co., Ltd.",
-      "aliases": [
-        "Sunshine Lake Pharma Co., Ltd."
-      ],
-      "normalizedName": "sunshine lake pharma",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2023-03-21",
-      "lastSeenAt": "2023-03-21",
+      "firstSeenAt": "2008-03-05",
+      "lastSeenAt": "2008-03-05",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
           "Oncology",
           "Precision Oncology",
-          "中国",
           "临床试验",
           "肿瘤"
         ],
@@ -44486,7 +44367,6 @@
           "Clinical Trials",
           "Oncology",
           "Precision Oncology",
-          "中国",
           "临床试验",
           "肿瘤"
         ],
@@ -44501,17 +44381,131 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-c32b3ca6d916ea9b"
+        "mention-clinicaltrials-8f42c8436c8a8f96"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2023-03-21",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT03888092",
-          "externalId": "NCT03888092",
-          "contextTitle": "Z650 in Advanced Esophageal Squamous Cell Carcinoma With EGFR Over Expression or Gene Amplification"
+          "sourceDate": "2008-03-05",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT00211198",
+          "externalId": "NCT00211198",
+          "contextTitle": "Study of ONTAK® to Treat Cutaneous T-Cell Lymphoma (CTCL)"
+        }
+      ]
+    },
+    {
+      "id": "candidate-hamilton-health-sciences",
+      "name": "Hamilton Health Sciences Corporation",
+      "aliases": [
+        "Hamilton Health Sciences Corporation"
+      ],
+      "normalizedName": "hamilton health sciences",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.86,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-05-11",
+      "lastSeenAt": "2026-05-11",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Diagnostics",
+          "Healthcare AI",
+          "Medical AI",
+          "Precision Medicine",
+          "临床决策支持",
+          "临床试验",
+          "医疗 AI",
+          "精准医疗",
+          "诊断"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Diagnostics",
+          "Healthcare AI",
+          "Medical AI",
+          "Precision Medicine",
+          "临床决策支持",
+          "临床试验",
+          "医疗 AI",
+          "精准医疗",
+          "诊断"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-94012fd858c309a2"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "lead_sponsor",
+          "sourceDate": "2026-05-11",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06648239",
+          "externalId": "NCT06648239",
+          "contextTitle": "CCTA to Optimize Diagnostic Yield of Invasive Angiography With AI"
+        }
+      ]
+    },
+    {
+      "id": "candidate-uniqure-biopharma-b-v",
+      "name": "UniQure Biopharma B.V.",
+      "aliases": [
+        "UniQure Biopharma B.V."
+      ],
+      "normalizedName": "uniqure biopharma b v",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.86,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2025-10-23",
+      "lastSeenAt": "2025-10-23",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Recruiting",
+          "临床试验"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Recruiting",
+          "临床试验"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-3ce1ad3acbc7a1a0"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "lead_sponsor",
+          "sourceDate": "2025-10-23",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06270316",
+          "externalId": "NCT06270316",
+          "contextTitle": "Safety, PK/PD, and Exploratory Efficacy Study of AMT-191 in Classic Fabry Disease"
         }
       ]
     },
@@ -47618,6 +47612,60 @@
           "sourceUrl": "https://reporter.nih.gov/project-details/11316567",
           "externalId": "11316567",
           "contextTitle": "Integrated High-Throughput Microfluidic-Mass Spectrometry for Enhanced Biomedical Data Generation and AI Model Training"
+        }
+      ]
+    },
+    {
+      "id": "candidate-ligand-pharmaceuticals",
+      "name": "Ligand Pharmaceuticals",
+      "aliases": [
+        "Ligand Pharmaceuticals"
+      ],
+      "normalizedName": "ligand pharmaceuticals",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2008-03-05",
+      "lastSeenAt": "2008-03-05",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-4f55a663cca3eba9"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2008-03-05",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT00211198",
+          "externalId": "NCT00211198",
+          "contextTitle": "Study of ONTAK® to Treat Cutaneous T-Cell Lymphoma (CTCL)"
         }
       ]
     }
