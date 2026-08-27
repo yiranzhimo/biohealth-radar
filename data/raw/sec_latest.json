@@ -1,9 +1,9 @@
 {
-  "capturedAt": "2026-08-26T20:07:36.451561+00:00",
+  "capturedAt": "2026-08-27T09:55:56.835479+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
-    "start": "2026-08-12",
-    "end": "2026-08-26"
+    "start": "2026-08-13",
+    "end": "2026-08-27"
   },
   "forms": [
     "10-K",
@@ -142,7 +142,7 @@
     {
       "filingDate": "2026-08-26",
       "reportDate": "2026-08-26",
-      "acceptanceDateTime": "2026-08-26T06:14:58.000Z",
+      "acceptanceDateTime": "2026-08-26T10:14:58.000Z",
       "act": "34",
       "form": "8-K",
       "fileNumber": "001-37686",
@@ -239,81 +239,6 @@
       "cik": "0001110803",
       "secName": "ILLUMINA, INC.",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000095015726000888/form8-k.htm"
-    },
-    {
-      "filingDate": "2026-08-12",
-      "reportDate": "",
-      "acceptanceDateTime": "2026-08-12T20:22:10.000Z",
-      "act": "33",
-      "form": "424B2",
-      "fileNumber": "333-281921",
-      "filmNumber": "261267830",
-      "items": "",
-      "size": 652404,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "d173650d424b2.htm",
-      "primaryDocDescription": "424B2",
-      "accessionNumber": "0001193125-26-346923",
-      "companyId": "illumina",
-      "companyName": "Illumina",
-      "companyDirections": [
-        "Sequencing & Research Tools"
-      ],
-      "secTicker": "ILMN",
-      "cik": "0001110803",
-      "secName": "ILLUMINA, INC.",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526346923/d173650d424b2.htm"
-    },
-    {
-      "filingDate": "2026-08-12",
-      "reportDate": "2026-08-12",
-      "acceptanceDateTime": "2026-08-12T13:49:15.000Z",
-      "act": "34",
-      "form": "6-K",
-      "fileNumber": "001-38976",
-      "filmNumber": "261265651",
-      "items": "",
-      "size": 245865,
-      "isXBRL": 0,
-      "isInlineXBRL": 0,
-      "primaryDocument": "gmab_20260812x6k.htm",
-      "primaryDocDescription": "6-K",
-      "accessionNumber": "0001434265-26-000113",
-      "companyId": "genmab",
-      "companyName": "Genmab",
-      "companyDirections": [
-        "Antibody / ADC"
-      ],
-      "secTicker": "GMAB",
-      "cik": "0001434265",
-      "secName": "GENMAB A/S",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000113/gmab_20260812x6k.htm"
-    },
-    {
-      "filingDate": "2026-08-12",
-      "reportDate": "2026-08-10",
-      "acceptanceDateTime": "2026-08-12T12:00:29.000Z",
-      "act": "34",
-      "form": "8-K",
-      "fileNumber": "001-35406",
-      "filmNumber": "261265379",
-      "items": "8.01,9.01",
-      "size": 310409,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "d141344d8k.htm",
-      "primaryDocDescription": "8-K",
-      "accessionNumber": "0001193125-26-345802",
-      "companyId": "illumina",
-      "companyName": "Illumina",
-      "companyDirections": [
-        "Sequencing & Research Tools"
-      ],
-      "secTicker": "ILMN",
-      "cik": "0001110803",
-      "secName": "ILLUMINA, INC.",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526345802/d141344d8k.htm"
     }
   ],
   "signals": [
@@ -439,99 +364,6 @@
       ],
       "fact": "SEC EDGAR lists accession 0000950157-26-000888 for Illumina, Form 8-K, filed on 2026-08-13.",
       "report": "SEC metadata describes the primary document as: CURRENT REPORT.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001110803-000119312526346923",
-      "date": "2026-08-12",
-      "title": "Illumina filed Form 424B2",
-      "entity": "Illumina",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Prospectus",
-      "eventType": "Offering",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526346923/d173650d424b2.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "Sequencing & Research Tools"
-      ],
-      "tags": [
-        "SEC",
-        "424B2",
-        "ILMN"
-      ],
-      "companyIds": [
-        "illumina"
-      ],
-      "fact": "SEC EDGAR lists accession 0001193125-26-346923 for Illumina, Form 424B2, filed on 2026-08-12.",
-      "report": "SEC metadata describes the primary document as: 424B2.",
-      "inference": "The event was automatically routed as Offering from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001434265-000143426526000113",
-      "date": "2026-08-12",
-      "title": "Genmab filed Form 6-K",
-      "entity": "Genmab",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000113/gmab_20260812x6k.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "Antibody / ADC"
-      ],
-      "tags": [
-        "SEC",
-        "6-K",
-        "GMAB"
-      ],
-      "companyIds": [
-        "genmab"
-      ],
-      "fact": "SEC EDGAR lists accession 0001434265-26-000113 for Genmab, Form 6-K, filed on 2026-08-12.",
-      "report": "SEC metadata describes the primary document as: 6-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001110803-000119312526345802",
-      "date": "2026-08-12",
-      "title": "Illumina filed Form 8-K",
-      "entity": "Illumina",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526345802/d141344d8k.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "Sequencing & Research Tools"
-      ],
-      "tags": [
-        "SEC",
-        "8-K",
-        "ILMN"
-      ],
-      "companyIds": [
-        "illumina"
-      ],
-      "fact": "SEC EDGAR lists accession 0001193125-26-345802 for Illumina, Form 8-K, filed on 2026-08-12.",
-      "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     }
