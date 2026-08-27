@@ -3456,7 +3456,7 @@
       "publishedAt": "2026-08-26",
       "snapshotDate": "2026-08-26",
       "title": "Akeso, Inc | Home",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Akeso — Official Website",
@@ -3486,7 +3486,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "2f3653fb45ba8c06649089fcde42adc29ff7a534f29a0598f73e038152dfd1bf",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
@@ -4379,7 +4379,7 @@
       "publishedAt": "2026-08-26",
       "snapshotDate": "2026-08-26",
       "title": "Transforming Cancer Care Through Science and Speed | BeOne Medicines",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "BeOne Medicines — Official Website",
@@ -4409,7 +4409,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "f6d717853551da350df4be4403280949bfabe66726b9366747fd7267e66edff9",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "BeOne Medicines and Revolution Medicines Announce Clinical Development and Regional Commercialization Collaboration",
@@ -33309,6 +33309,62 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-sb-technology-holdings-official-c644ef580088",
+      "signalId": null,
+      "companyIds": [
+        "candidate-sb-technology-holdings"
+      ],
+      "publishedAt": "2026-08-27",
+      "snapshotDate": "2026-08-27",
+      "title": "EDGAR Entity Landing Page",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "SB Technology Holdings, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56.",
+      "report": "公司官方页面表述：该公司的交易法注册已被撤销",
+      "reportOriginal": "This company's Exchange Act registration has been revoked",
+      "reportCn": "该公司的交易法注册已被撤销",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-16T05:03:27+00:00",
+        "sourceTextHash": "92c3fd51c55f3fedbdda36081e002f7fe4734d8fd0cbdd03142df7450929811c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "businessExcerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-sbp-group-official-f8d781aee7ac",
       "signalId": null,
       "companyIds": [
@@ -38281,13 +38337,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-illumina-official-9a2d0013515e",
+      "id": "evidence-company-illumina-official-23430f80b296",
       "signalId": null,
       "companyIds": [
         "illumina"
       ],
-      "publishedAt": "2026-08-26",
-      "snapshotDate": "2026-08-26",
+      "publishedAt": "2026-08-27",
+      "snapshotDate": "2026-08-27",
       "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -38305,7 +38361,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 9a2d0013515e87e80f0a36188f1a1403af48dd21681f1b6c68f8a2106563f8e8.",
+      "fact": "The official page was captured with normalized-content hash 23430f80b296d7139184d0088fe737c8b18c55f50e513d8a66663c3dd6c169cd.",
       "report": "公司官方页面表述：Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
       "reportOriginal": "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
       "reportCn": "Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
@@ -38318,7 +38374,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "9a2d0013515e87e80f0a36188f1a1403af48dd21681f1b6c68f8a2106563f8e8",
+      "contentHash": "23430f80b296d7139184d0088fe737c8b18c55f50e513d8a66663c3dd6c169cd",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -38693,7 +38749,7 @@
       "publishedAt": "2026-08-26",
       "snapshotDate": "2026-08-26",
       "title": "Innovating to Change the Course of Human Health | IONIS",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Ionis Pharmaceuticals — Official Website",
@@ -38723,7 +38779,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "e92eac1694fd9154f4e69f7bc433084e214954635eb643676faa6d11118e01ae",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
@@ -39293,15 +39349,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-natera-official-d1334c7d255b",
+      "id": "evidence-company-natera-official-da4a7b5427c5",
       "signalId": null,
       "companyIds": [
         "natera"
       ],
-      "publishedAt": "2026-08-13",
-      "snapshotDate": "2026-08-13",
+      "publishedAt": "2026-08-27",
+      "snapshotDate": "2026-08-27",
       "title": "Natera: A global leader in cell-free DNA testing",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Natera — Official Website",
@@ -39317,7 +39373,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash d1334c7d255b8a38a891927f7ce30ae78269a0ab30819298eb56b759bc8a2bb9.",
+      "fact": "The official page was captured with normalized-content hash da4a7b5427c5dc6431ed5e66e004ad0807eafa68c8b030c3fb1719f8e6adf6df.",
       "report": "公司官方页面表述：致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
       "reportOriginal": "Dedicated to oncology, women’s health, and organ health. Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
       "reportCn": "致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
@@ -39330,8 +39386,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "d1334c7d255b8a38a891927f7ce30ae78269a0ab30819298eb56b759bc8a2bb9",
-      "changeType": "unchanged",
+      "contentHash": "da4a7b5427c5dc6431ed5e66e004ad0807eafa68c8b030c3fb1719f8e6adf6df",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
@@ -39343,7 +39399,7 @@
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care."
       ],
       "productExcerpts": [
-        "Natera Submits Signatera™ to Japan’s PMDA for Approval as a Companion Diagnostic in Muscle-Invasive Bladder Cancer"
+        "Natera and Angiex Partner to Assess Response to Investigational Nuclear-Delivered Antibody-Drug Conjugate™ Using Signatera™"
       ],
       "planExcerpts": []
     },
@@ -39576,15 +39632,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-nykode-therapeutics-official-33353a2a9df2",
+      "id": "evidence-company-nykode-therapeutics-official-1e470a88cf9f",
       "signalId": null,
       "companyIds": [
         "nykode-therapeutics"
       ],
-      "publishedAt": "2026-08-23",
-      "snapshotDate": "2026-08-23",
+      "publishedAt": "2026-08-27",
+      "snapshotDate": "2026-08-27",
       "title": "Home - Nykode",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Nykode Therapeutics — Official Website",
@@ -39600,7 +39656,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 33353a2a9df2199fe1f68352bb6e9befb04d58141d917c2fa172d628f352c550.",
+      "fact": "The official page was captured with normalized-content hash 1e470a88cf9f8ab45606db429b166ab71f49eecdee44ebdb556e11df994f3b92.",
       "report": "公司官方页面表述：Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
       "reportOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
       "reportCn": "Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
@@ -39613,9 +39669,9 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "33353a2a9df2199fe1f68352bb6e9befb04d58141d917c2fa172d628f352c550",
-      "changeType": "unchanged",
-      "lastCheckStatus": "failed",
+      "contentHash": "1e470a88cf9f8ab45606db429b166ab71f49eecdee44ebdb556e11df994f3b92",
+      "changeType": "updated",
+      "lastCheckStatus": "success",
       "excerpts": [
         "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
         "Nykode Therapeutics Presents Comprehensive Preclinical Data, Optimized Manufacturing, and ...",
@@ -39691,13 +39747,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-oxford-nanopore-official-f060b7b183c5",
+      "id": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
       "signalId": null,
       "companyIds": [
         "oxford-nanopore"
       ],
-      "publishedAt": "2026-08-26",
-      "snapshotDate": "2026-08-26",
+      "publishedAt": "2026-08-27",
+      "snapshotDate": "2026-08-27",
       "title": "Welcome to Oxford Nanopore Technologies",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -39715,7 +39771,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash f060b7b183c51b8d0a5bb7fdd533efbd5a97cc2ea974dd529f591e4eb2974d18.",
+      "fact": "The official page was captured with normalized-content hash b5a006d4fd7e86315fa9f0f9ab18724b0d37d937b55c6f15a16569677978dc9e.",
       "report": "公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
       "reportOriginal": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
       "reportCn": "发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
@@ -39728,7 +39784,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "f060b7b183c51b8d0a5bb7fdd533efbd5a97cc2ea974dd529f591e4eb2974d18",
+      "contentHash": "b5a006d4fd7e86315fa9f0f9ab18724b0d37d937b55c6f15a16569677978dc9e",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -39858,7 +39914,7 @@
       "publishedAt": "2026-08-26",
       "snapshotDate": "2026-08-26",
       "title": "Pioneering AI Drug Discovery | Recursion",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Recursion Pharmaceuticals — Official Website",
@@ -39888,7 +39944,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6b10de4653cef07940a813c519f7d901d22eb56ef960dd1478125656051122aa",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "The Recursion OS drug discovery and development platform has yielded an advanced pipeline of potential first-in-class and best-in-class treatments for conditions with high unmet need including aggressive cancers and rare diseases.",
@@ -40127,15 +40183,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-sumitomo-pharma-official-05b9c9332255",
+      "id": "evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
       "signalId": null,
       "companyIds": [
         "sumitomo-pharma"
       ],
-      "publishedAt": "2026-08-13",
-      "snapshotDate": "2026-08-13",
+      "publishedAt": "2026-08-27",
+      "snapshotDate": "2026-08-27",
       "title": "Sumitomo Pharma Co., Ltd.",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Sumitomo Pharma — Official Website",
@@ -40151,7 +40207,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 05b9c9332255a8d772564c33bc3f74a4e2b54353f5ff0add48ea706a4f685377.",
+      "fact": "The official page was captured with normalized-content hash 2e7c79d2d95e9e0898f6c69fffcae4b7bb41b489b9e46cc9b253a7a373c8a2a8.",
       "report": "公司官方页面表述：为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
       "reportOriginal": "For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd.",
       "reportCn": "为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
@@ -40164,8 +40220,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "05b9c9332255a8d772564c33bc3f74a4e2b54353f5ff0add48ea706a4f685377",
-      "changeType": "unchanged",
+      "contentHash": "2e7c79d2d95e9e0898f6c69fffcae4b7bb41b489b9e46cc9b253a7a373c8a2a8",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",

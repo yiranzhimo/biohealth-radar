@@ -3,7 +3,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
   "asOfDate": "2026-08-27",
   "summary": {
     "profileCount": 624,
-    "evidenceCount": 787,
+    "evidenceCount": 788,
     "programCandidateCount": 0,
     "companyCandidateCount": 595,
     "companyMentionCount": 667,
@@ -37,11 +37,11 @@ window.BHR_COMPANY_INTELLIGENCE = {
   },
   "profileCoverage": {
     "profileCount": 624,
-    "companyReportedCount": 622,
-    "withEvidenceCount": 623,
-    "withProductClaimsCount": 518,
+    "companyReportedCount": 623,
+    "withEvidenceCount": 624,
+    "withProductClaimsCount": 519,
     "withFuturePlansCount": 3,
-    "failedSourceCount": 53,
+    "failedSourceCount": 52,
     "identityLinkCount": 0
   },
   "profiles": [
@@ -6640,7 +6640,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-akeso-official-2f3653fb45ba",
             "date": "2026-08-26",
             "title": "Akeso, Inc | Home",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -6671,7 +6671,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-akeso-official-2f3653fb45ba",
           "date": "2026-08-26",
           "title": "Akeso, Inc | Home",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -20115,7 +20115,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-beone-medicines-official-f6d717853551",
             "date": "2026-08-26",
             "title": "Transforming Cancer Care Through Science and Speed | BeOne Medicines",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -20191,7 +20191,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-beone-medicines-official-f6d717853551",
           "date": "2026-08-26",
           "title": "Transforming Cancer Care Through Science and Speed | BeOne Medicines",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -44419,7 +44419,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Doing Business With Us MyIllumina Platform",
             "text": "Doing Business With Us MyIllumina Platform",
-            "evidenceId": "evidence-company-illumina-official-9a2d0013515e",
+            "evidenceId": "evidence-company-illumina-official-23430f80b296",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -44427,7 +44427,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Software & Analysis Illumina BioInsight Platform",
             "text": "Software & Analysis Illumina BioInsight Platform",
-            "evidenceId": "evidence-company-illumina-official-9a2d0013515e",
+            "evidenceId": "evidence-company-illumina-official-23430f80b296",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -44435,7 +44435,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "One platform for complete biological insights",
             "text": "One platform for complete biological insights",
-            "evidenceId": "evidence-company-illumina-official-9a2d0013515e",
+            "evidenceId": "evidence-company-illumina-official-23430f80b296",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -44443,7 +44443,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Data Analysis & Informatics Infrastructure & Pipeline Setup",
             "text": "Data Analysis & Informatics Infrastructure & Pipeline Setup",
-            "evidenceId": "evidence-company-illumina-official-9a2d0013515e",
+            "evidenceId": "evidence-company-illumina-official-23430f80b296",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -44451,7 +44451,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
             "text": "Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
-            "evidenceId": "evidence-company-illumina-official-9a2d0013515e",
+            "evidenceId": "evidence-company-illumina-official-23430f80b296",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -44459,7 +44459,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Illumina innovative sequencing and array technologies are fueling groundbreaking advancements in life science research, translational and consumer genomics, and molecular diagnostics.",
             "text": "Illumina innovative sequencing and array technologies are fueling groundbreaking advancements in life science research, translational and consumer genomics, and molecular diagnostics.",
-            "evidenceId": "evidence-company-illumina-official-9a2d0013515e",
+            "evidenceId": "evidence-company-illumina-official-23430f80b296",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -44467,7 +44467,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-illumina-official-9a2d0013515e",
+          "evidence-company-illumina-official-23430f80b296",
           "evidence-sec-0001110803-000119312526354010",
           "evidence-sec-0001110803-000095015726000888",
           "evidence-sec-0001110803-000119312526346923",
@@ -44483,14 +44483,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-illumina-official-9a2d0013515e",
-            "date": "2026-08-26",
+            "id": "event-evidence-company-illumina-official-23430f80b296",
+            "date": "2026-08-27",
             "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-illumina-official-9a2d0013515e",
+            "evidenceId": "evidence-company-illumina-official-23430f80b296",
             "sourceUrl": "https://www.illumina.com/"
           },
           {
@@ -44550,7 +44550,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 2,
           "Filing": 8
         },
-        "lastEvidenceDate": "2026-08-26",
+        "lastEvidenceDate": "2026-08-27",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -44559,14 +44559,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-illumina-official-9a2d0013515e",
-          "date": "2026-08-26",
+          "id": "event-evidence-company-illumina-official-23430f80b296",
+          "date": "2026-08-27",
           "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-illumina-official-9a2d0013515e",
+          "evidenceId": "evidence-company-illumina-official-23430f80b296",
           "sourceUrl": "https://www.illumina.com/"
         },
         {
@@ -48282,7 +48282,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-ionis-official-e92eac1694fd",
             "date": "2026-08-26",
             "title": "Innovating to Change the Course of Human Health | IONIS",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -48358,7 +48358,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-ionis-official-e92eac1694fd",
           "date": "2026-08-26",
           "title": "Innovating to Change the Course of Human Health | IONIS",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -56141,9 +56141,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "Natera Submits Signatera™ to Japan’s PMDA for Approval as a Companion Diagnostic in Muscle-Invasive Bladder Cancer",
-            "text": "Natera Submits Signatera™ to Japan’s PMDA for Approval as a Companion Diagnostic in Muscle-Invasive Bladder Cancer",
-            "evidenceId": "evidence-company-natera-official-d1334c7d255b",
+            "textOriginal": "Natera and Angiex Partner to Assess Response to Investigational Nuclear-Delivered Antibody-Drug Conjugate™ Using Signatera™",
+            "text": "Natera and Angiex Partner to Assess Response to Investigational Nuclear-Delivered Antibody-Drug Conjugate™ Using Signatera™",
+            "evidenceId": "evidence-company-natera-official-da4a7b5427c5",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56151,7 +56151,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
             "text": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
-            "evidenceId": "evidence-company-natera-official-d1334c7d255b",
+            "evidenceId": "evidence-company-natera-official-da4a7b5427c5",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56159,7 +56159,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Natera to Support New Clinical Trial Assessing ctDNA Dynamics with Latitude™ in Advanced Skin Cancers",
             "text": "Natera to Support New Clinical Trial Assessing ctDNA Dynamics with Latitude™ in Advanced Skin Cancers",
-            "evidenceId": "evidence-company-natera-official-d1334c7d255b",
+            "evidenceId": "evidence-company-natera-official-da4a7b5427c5",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56167,7 +56167,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
             "text": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
-            "evidenceId": "evidence-company-natera-official-d1334c7d255b",
+            "evidenceId": "evidence-company-natera-official-da4a7b5427c5",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56175,7 +56175,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Clinical Resources Oncology CLINICAL RESOURCES Signatera™",
             "text": "Clinical Resources Oncology CLINICAL RESOURCES Signatera™",
-            "evidenceId": "evidence-company-natera-official-d1334c7d255b",
+            "evidenceId": "evidence-company-natera-official-da4a7b5427c5",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56191,7 +56191,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-natera-official-d1334c7d255b",
+          "evidence-company-natera-official-da4a7b5427c5",
           "evidence-company-natera-pipeline-d6265767b3d9",
           "evidence-company-natera-investor_relations-57a971bfd0f7",
           "evidence-sec-0001604821-000162828026054525",
@@ -56203,14 +56203,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-natera-official-d1334c7d255b",
-            "date": "2026-08-13",
+            "id": "event-evidence-company-natera-official-da4a7b5427c5",
+            "date": "2026-08-27",
             "title": "Natera: A global leader in cell-free DNA testing",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-natera-official-d1334c7d255b",
+            "evidenceId": "evidence-company-natera-official-da4a7b5427c5",
             "sourceUrl": "https://www.natera.com/"
           },
           {
@@ -56270,7 +56270,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 3
         },
-        "lastEvidenceDate": "2026-08-13",
+        "lastEvidenceDate": "2026-08-27",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -56279,14 +56279,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-natera-official-d1334c7d255b",
-          "date": "2026-08-13",
+          "id": "event-evidence-company-natera-official-da4a7b5427c5",
+          "date": "2026-08-27",
           "title": "Natera: A global leader in cell-free DNA testing",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-natera-official-d1334c7d255b",
+          "evidenceId": "evidence-company-natera-official-da4a7b5427c5",
           "sourceUrl": "https://www.natera.com/"
         },
         {
@@ -57932,55 +57932,55 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：我们很自豪地在我们的产品线中拥有多个由Nykode开发的候选产品。查看最近的进展！；公司官方页面表述：Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
-        "summaryOriginal": "We are proud to have multiple product candidates developed by Nykode in our pipeline.See what's going on! The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
+        "summary": "公司官方页面表述：Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。；公司官方页面表述：我们很自豪地在我们的产品线中拥有多个由Nykode开发的候选产品。查看最近的进展！",
+        "summaryOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine. We are proud to have multiple product candidates developed by Nykode in our pipeline.See what's going on!",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "Nykode's wholly owned lead product candidate, abi-suva (formerly VB10.16), is a DNA-based therapeutic vaccine targeting cancers caused by Human Papillomavirus 16 (HPV16).",
-            "text": "Nykode's wholly owned lead product candidate, abi-suva (formerly VB10.16), is a DNA-based therapeutic vaccine targeting cancers caused by Human Papillomavirus 16 (HPV16).",
-            "evidenceId": "evidence-company-nykode-therapeutics-pipeline-264341e4f3ed",
-            "sourceUrl": "https://nykode.com/pipeline/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "We are proud to have multiple product candidates developed by Nykode in our pipeline.See what's going on!",
-            "text": "我们很自豪地在我们的产品线中拥有多个由Nykode开发的候选产品。查看最近的进展！",
-            "evidenceId": "evidence-company-nykode-therapeutics-pipeline-264341e4f3ed",
-            "sourceUrl": "https://nykode.com/pipeline/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "We are proud to have multiple product candidates developed by Nykode in our pipeline",
-            "text": "We are proud to have multiple product candidates developed by Nykode in our pipeline",
-            "evidenceId": "evidence-company-nykode-therapeutics-pipeline-264341e4f3ed",
-            "sourceUrl": "https://nykode.com/pipeline/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Abi-suva's clinical program spans four trials.",
-            "text": "Abi-suva's clinical program spans four trials.",
-            "evidenceId": "evidence-company-nykode-therapeutics-pipeline-264341e4f3ed",
-            "sourceUrl": "https://nykode.com/pipeline/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Headquarter, Norway Nykode Therapeutics ASA Oslo Science Park, Gaustadalléen 21 0349 Oslo Norway Phone +47 22 95 81 93",
-            "text": "Headquarter, Norway Nykode Therapeutics ASA Oslo Science Park, Gaustadalléen 21 0349 Oslo Norway Phone +47 22 95 81 93",
-            "evidenceId": "evidence-company-nykode-therapeutics-pipeline-264341e4f3ed",
-            "sourceUrl": "https://nykode.com/pipeline/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
             "textOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
             "text": "Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-33353a2a9df2",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-1e470a88cf9f",
+            "sourceUrl": "https://nykode.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule.",
+            "text": "The Nykode Therapeutics platform is built around the Vaccibody molecule.",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-1e470a88cf9f",
+            "sourceUrl": "https://nykode.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "An immunotherapy platform that unlocks unlimited possibilities for the future of medicine",
+            "text": "An immunotherapy platform that unlocks unlimited possibilities for the future of medicine",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-1e470a88cf9f",
+            "sourceUrl": "https://nykode.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Offering an unrivalled modular platform and tailored hyper-targeting is how we stand apart",
+            "text": "Offering an unrivalled modular platform and tailored hyper-targeting is how we stand apart",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-1e470a88cf9f",
+            "sourceUrl": "https://nykode.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Nykode Therapeutics Presents Comprehensive Preclinical Data, Optimized Manufacturing, and ...",
+            "text": "Nykode Therapeutics Presents Comprehensive Preclinical Data, Optimized Manufacturing, and ...",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-1e470a88cf9f",
+            "sourceUrl": "https://nykode.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Nykode Therapeutics Presents AI-Powered Immunotherapy Design Capabilities at BioPharma ...",
+            "text": "Nykode Therapeutics Presents AI-Powered Immunotherapy Design Capabilities at BioPharma ...",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-1e470a88cf9f",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -57988,14 +57988,25 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-nykode-therapeutics-official-1e470a88cf9f",
           "evidence-company-nykode-therapeutics-pipeline-264341e4f3ed",
-          "evidence-company-nykode-therapeutics-official-33353a2a9df2",
           "evidence-company-nykode-therapeutics-investor_relations-d8d12c464eb4"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-nykode-therapeutics-official-1e470a88cf9f",
+            "date": "2026-08-27",
+            "title": "Home - Nykode",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-nykode-therapeutics-official-1e470a88cf9f",
+            "sourceUrl": "https://nykode.com/"
+          },
           {
             "id": "event-evidence-company-nykode-therapeutics-pipeline-264341e4f3ed",
             "date": "2026-08-25",
@@ -58006,17 +58017,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-nykode-therapeutics-pipeline-264341e4f3ed",
             "sourceUrl": "https://nykode.com/pipeline/"
-          },
-          {
-            "id": "event-evidence-company-nykode-therapeutics-official-33353a2a9df2",
-            "date": "2026-08-23",
-            "title": "Home - Nykode",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-nykode-therapeutics-official-33353a2a9df2",
-            "sourceUrl": "https://nykode.com/"
           },
           {
             "id": "event-evidence-company-nykode-therapeutics-investor_relations-d8d12c464eb4",
@@ -58033,7 +58033,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -58042,15 +58041,25 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 3
         },
-        "lastEvidenceDate": "2026-08-25",
+        "lastEvidenceDate": "2026-08-27",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-nykode-therapeutics-official-1e470a88cf9f",
+          "date": "2026-08-27",
+          "title": "Home - Nykode",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-nykode-therapeutics-official-1e470a88cf9f",
+          "sourceUrl": "https://nykode.com/"
+        },
         {
           "id": "event-evidence-company-nykode-therapeutics-pipeline-264341e4f3ed",
           "date": "2026-08-25",
@@ -58061,17 +58070,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-nykode-therapeutics-pipeline-264341e4f3ed",
           "sourceUrl": "https://nykode.com/pipeline/"
-        },
-        {
-          "id": "event-evidence-company-nykode-therapeutics-official-33353a2a9df2",
-          "date": "2026-08-23",
-          "title": "Home - Nykode",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-nykode-therapeutics-official-33353a2a9df2",
-          "sourceUrl": "https://nykode.com/"
         },
         {
           "id": "event-evidence-company-nykode-therapeutics-investor_relations-d8d12c464eb4",
@@ -59221,7 +59219,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
             "text": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-f060b7b183c5",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59229,7 +59227,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Oxford Nanopore Technologies products are RUO.",
             "text": "Oxford Nanopore Technologies products are RUO.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-f060b7b183c5",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59237,7 +59235,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
             "text": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-f060b7b183c5",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59245,7 +59243,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
             "text": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
-            "evidenceId": "evidence-company-oxford-nanopore-official-f060b7b183c5",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59253,7 +59251,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
             "text": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
-            "evidenceId": "evidence-company-oxford-nanopore-official-f060b7b183c5",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59269,7 +59267,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-oxford-nanopore-official-f060b7b183c5",
+          "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
           "evidence-company-oxford-nanopore-pipeline-cc2146b5a187"
         ]
       },
@@ -59277,14 +59275,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-oxford-nanopore-official-f060b7b183c5",
-            "date": "2026-08-26",
+            "id": "event-evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+            "date": "2026-08-27",
             "title": "Welcome to Oxford Nanopore Technologies",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-oxford-nanopore-official-f060b7b183c5",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "sourceUrl": "https://nanoporetech.com/"
           },
           {
@@ -59310,7 +59308,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-08-26",
+        "lastEvidenceDate": "2026-08-27",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -59319,14 +59317,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-oxford-nanopore-official-f060b7b183c5",
-          "date": "2026-08-26",
+          "id": "event-evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+          "date": "2026-08-27",
           "title": "Welcome to Oxford Nanopore Technologies",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-oxford-nanopore-official-f060b7b183c5",
+          "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
           "sourceUrl": "https://nanoporetech.com/"
         },
         {
@@ -63146,7 +63144,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-recursion-official-6b10de4653ce",
             "date": "2026-08-26",
             "title": "Pioneering AI Drug Discovery | Recursion",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -63224,7 +63222,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-recursion-official-6b10de4653ce",
           "date": "2026-08-26",
           "title": "Pioneering AI Drug Discovery | Recursion",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -65097,7 +65095,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-sb-technology-holdings",
       "name": "SB Technology Holdings, Inc.",
       "asOfDate": "2026-08-27",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
         "ticker": "BIOM",
@@ -65128,40 +65126,97 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Pharmaceutical Preparations；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
+        "summaryOriginal": "This company's Exchange Act registration has been revoked",
+        "translationStatus": "translated",
         "businessModel": [],
-        "commercialProducts": [],
+        "commercialProducts": [
+          {
+            "textOriginal": "This company's Exchange Act registration has been revoked",
+            "text": "该公司的交易法注册已被撤销",
+            "evidenceId": "evidence-company-candidate-sb-technology-holdings-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "evidenceId": "evidence-company-candidate-sb-technology-holdings-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
+            "evidenceId": "evidence-company-candidate-sb-technology-holdings-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "No 8-K filing data for this company in last days",
+            "text": "No 8-K filing data for this company in last days",
+            "evidenceId": "evidence-company-candidate-sb-technology-holdings-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326",
+            "needsReview": true,
+            "claimType": "Report"
+          }
+        ],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-sb-technology-holdings-official-c644ef580088"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-sb-technology-holdings-official-c644ef580088",
+            "date": "2026-08-27",
+            "title": "EDGAR Entity Landing Page",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-sb-technology-holdings-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-08-27",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-sb-technology-holdings-official-c644ef580088",
+          "date": "2026-08-27",
+          "title": "EDGAR Entity Landing Page",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-sb-technology-holdings-official-c644ef580088",
+          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326"
+        }
+      ]
     },
     {
       "companyId": "candidate-sbp-group",
@@ -67377,55 +67432,55 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：为住友制药的股东和投资者提供信息，如董事长致辞、投资者关系资料库，以及关于股份和股东的信息。；公司官方页面表述：为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
-        "summaryOriginal": "Information for Sumitomo Pharma's shareholders and investors, such as the Message from the President, IR Library, and information regarding shares and shareholders. For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd.",
+        "summary": "公司官方页面表述：为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。；公司官方页面表述：为住友制药的股东和投资者提供信息，如董事长致辞、投资者关系资料库，以及关于股份和股东的信息。",
+        "summaryOriginal": "For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd. Information for Sumitomo Pharma's shareholders and investors, such as the Message from the President, IR Library, and information regarding shares and shareholders.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "Sumitomo Pharma America Announces First Patient Receives Treatment in Phase 1/2a Study for its Investigational Therapy DSP-3077 for Retinitis Pigmentosa（PDF/137KB）",
-            "text": "Sumitomo Pharma America Announces First Patient Receives Treatment in Phase 1/2a Study for its Investigational Therapy DSP-3077 for Retinitis Pigmentosa（PDF/137KB）",
-            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-ccb124fe59e2",
-            "sourceUrl": "https://www.sumitomo-pharma.com/ir/",
+            "textOriginal": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
+            "text": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
+            "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "External Evaluation of Our Sustainability Program",
-            "text": "External Evaluation of Our Sustainability Program",
-            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-ccb124fe59e2",
-            "sourceUrl": "https://www.sumitomo-pharma.com/ir/",
+            "textOriginal": "13, 2026 Sumitomo Pharma America Announces First Patient Receives Treatment in Phase 1/2a Study for its Investigational Therapy DSP-3077 for Retinitis Pigmentosa（PDF/137KB） R&D",
+            "text": "13, 2026 Sumitomo Pharma America Announces First Patient Receives Treatment in Phase 1/2a Study for its Investigational Therapy DSP-3077 for Retinitis Pigmentosa（PDF/137KB） R&D",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
+            "sourceUrl": "https://www.sumitomo-pharma.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "iPS Cell-Derived Product Transportation Project",
+            "text": "iPS Cell-Derived Product Transportation Project",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
+            "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
             "text": "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
-            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-ccb124fe59e2",
-            "sourceUrl": "https://www.sumitomo-pharma.com/ir/",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
+            "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "To this end , Sumitomo Pharma is pursuing Sustainability Management through a variety of initiatives, including the development of innovative products and healthcare solutions, and contribution to the development of science.",
             "text": "To this end , Sumitomo Pharma is pursuing Sustainability Management through a variety of initiatives, including the development of innovative products and healthcare solutions, and contribution to the development of science.",
-            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-ccb124fe59e2",
-            "sourceUrl": "https://www.sumitomo-pharma.com/ir/",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
+            "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Information for Sumitomo Pharma's shareholders and investors, such as the Message from the President, IR Library, and information regarding shares and shareholders.",
-            "text": "为住友制药的股东和投资者提供信息，如董事长致辞、投资者关系资料库，以及关于股份和股东的信息。",
-            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-ccb124fe59e2",
-            "sourceUrl": "https://www.sumitomo-pharma.com/ir/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
-            "text": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-05b9c9332255",
+            "textOriginal": "Here you can search for the strengths of Sumitomo Pharma’s business, Sumitomo Pharma’s initiatives, and other information that interests you by selecting tags.",
+            "text": "Here you can search for the strengths of Sumitomo Pharma’s business, Sumitomo Pharma’s initiatives, and other information that interests you by selecting tags.",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -67433,13 +67488,24 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-sumitomo-pharma-investor_relations-ccb124fe59e2",
-          "evidence-company-sumitomo-pharma-official-05b9c9332255"
+          "evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
+          "evidence-company-sumitomo-pharma-investor_relations-ccb124fe59e2"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
+            "date": "2026-08-27",
+            "title": "Sumitomo Pharma Co., Ltd.",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
+            "sourceUrl": "https://www.sumitomo-pharma.com/"
+          },
           {
             "id": "event-evidence-company-sumitomo-pharma-investor_relations-ccb124fe59e2",
             "date": "2026-08-18",
@@ -67450,17 +67516,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-ccb124fe59e2",
             "sourceUrl": "https://www.sumitomo-pharma.com/ir/"
-          },
-          {
-            "id": "event-evidence-company-sumitomo-pharma-official-05b9c9332255",
-            "date": "2026-08-13",
-            "title": "Sumitomo Pharma Co., Ltd.",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-sumitomo-pharma-official-05b9c9332255",
-            "sourceUrl": "https://www.sumitomo-pharma.com/"
           }
         ],
         "inferences": [],
@@ -67474,7 +67529,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-08-18",
+        "lastEvidenceDate": "2026-08-27",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -67482,6 +67537,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
+          "date": "2026-08-27",
+          "title": "Sumitomo Pharma Co., Ltd.",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
+          "sourceUrl": "https://www.sumitomo-pharma.com/"
+        },
         {
           "id": "event-evidence-company-sumitomo-pharma-investor_relations-ccb124fe59e2",
           "date": "2026-08-18",
@@ -67492,17 +67558,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-ccb124fe59e2",
           "sourceUrl": "https://www.sumitomo-pharma.com/ir/"
-        },
-        {
-          "id": "event-evidence-company-sumitomo-pharma-official-05b9c9332255",
-          "date": "2026-08-13",
-          "title": "Sumitomo Pharma Co., Ltd.",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-sumitomo-pharma-official-05b9c9332255",
-          "sourceUrl": "https://www.sumitomo-pharma.com/"
         }
       ]
     },
