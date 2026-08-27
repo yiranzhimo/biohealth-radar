@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-08-26T04:06:12+00:00",
-  "count": 591,
+  "capturedAt": "2026-08-27T14:17:35+00:00",
+  "count": 592,
   "items": [
     {
       "companyId": "candidate-3sbio",
@@ -3918,7 +3918,9 @@
         ]
       },
       "sourceTypes": [
-        "Pharmaceutical Preparations"
+        "Clinical Trials",
+        "Pharmaceutical Preparations",
+        "临床试验"
       ],
       "status": "needs_official_domain"
     },
@@ -7996,6 +7998,23 @@
         "AI Drug Discovery",
         "Precision Diagnostics",
         "drug discovery"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-sb-technology-holdings",
+      "name": "SB Technology Holdings, Inc.",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326",
+      "identifiers": {
+        "cik": [
+          "0001091326"
+        ],
+        "ticker": [
+          "BIOM"
+        ]
+      },
+      "sourceTypes": [
+        "Pharmaceutical Preparations"
       ],
       "status": "needs_official_domain"
     },
