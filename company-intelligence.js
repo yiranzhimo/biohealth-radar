@@ -6590,15 +6590,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：公司创建了一个独特的集成研发创新系统，包括全面的端到端药物开发平台（ACE平台）和基于人工智能的制药研发、四体BsAb/MsAb、双盾ADC、双锁TCE、组织智能siRNA、细胞疗法和灵活纳米mRNA…",
-        "summaryOriginal": "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
+        "summary": "公司官方页面表述：Akeso 2026年中期业绩：强劲的商业化势头；IO2.0+全球战略重新定义临床标准；在ADC、免疫与炎症（I&I）及阿尔茨海默病方面的双特异性进展。",
+        "summaryOriginal": "Akeso 2026 Interim Results: Strong Commercialization Momentum; IO2.0+ Global Strategy Redefining Clinical Standards; Bispecific Advancement in ADC, I&I and Alzheimer's",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
             "textOriginal": "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
             "text": "公司创建了一个独特的集成研发创新系统，包括全面的端到端药物开发平台（ACE平台）和基于人工智能的制药研发、四体BsAb/MsAb、双盾ADC、双锁TCE、组织智能siRNA、细胞疗法和灵活纳米mRNA…",
-            "evidenceId": "evidence-company-akeso-official-2f3653fb45ba",
+            "evidenceId": "evidence-company-akeso-official-5f6e3e585856",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -6606,7 +6606,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HK) is a biopharmaceutical company founded by a team of scientists with rich experience in global drug development and focuses on the unmet clinical needs worldwide in major diseases.",
             "text": "HK) is a biopharmaceutical company founded by a team of scientists with rich experience in global drug development and focuses on the unmet clinical needs worldwide in major diseases.",
-            "evidenceId": "evidence-company-akeso-official-2f3653fb45ba",
+            "evidenceId": "evidence-company-akeso-official-5f6e3e585856",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -6614,7 +6614,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Akeso's AK157D1 (B7-H3 ADC) Cleared for Phase I Trial in Solid Tumors, Adding a Third Differentiated ADC to Its Pipeline",
             "text": "Akeso's AK157D1 (B7-H3 ADC) Cleared for Phase I Trial in Solid Tumors, Adding a Third Differentiated ADC to Its Pipeline",
-            "evidenceId": "evidence-company-akeso-official-2f3653fb45ba",
+            "evidenceId": "evidence-company-akeso-official-5f6e3e585856",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -6622,7 +6622,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform).",
             "text": "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform).",
-            "evidenceId": "evidence-company-akeso-official-2f3653fb45ba",
+            "evidenceId": "evidence-company-akeso-official-5f6e3e585856",
+            "sourceUrl": "https://www.akesobio.com/en/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Akeso 2026 Interim Results: Strong Commercialization Momentum; IO2.0+ Global Strategy Redefining Clinical Standards; Bispecific Advancement in ADC, I&I and Alzheimer's",
+            "text": "Akeso 2026年中期业绩：强劲的商业化势头；IO2.0+全球战略重新定义临床标准；在ADC、免疫与炎症（I&I）及阿尔茨海默病方面的双特异性进展。",
+            "evidenceId": "evidence-company-akeso-official-5f6e3e585856",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -6630,21 +6638,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-akeso-official-2f3653fb45ba"
+          "evidence-company-akeso-official-5f6e3e585856"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-akeso-official-2f3653fb45ba",
-            "date": "2026-08-26",
+            "id": "event-evidence-company-akeso-official-5f6e3e585856",
+            "date": "2026-08-28",
             "title": "Akeso, Inc | Home",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-akeso-official-2f3653fb45ba",
+            "evidenceId": "evidence-company-akeso-official-5f6e3e585856",
             "sourceUrl": "https://www.akesobio.com/en/"
           }
         ],
@@ -6659,7 +6667,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-08-26",
+        "lastEvidenceDate": "2026-08-28",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -6668,14 +6676,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-akeso-official-2f3653fb45ba",
-          "date": "2026-08-26",
+          "id": "event-evidence-company-akeso-official-5f6e3e585856",
+          "date": "2026-08-28",
           "title": "Akeso, Inc | Home",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-akeso-official-2f3653fb45ba",
+          "evidenceId": "evidence-company-akeso-official-5f6e3e585856",
           "sourceUrl": "https://www.akesobio.com/en/"
         }
       ]
@@ -35307,47 +35315,31 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：描述：一种自体、体外 CRISPR/Cas9 基因编辑疗法，旨在编辑患者自身的造血干细胞，使红细胞产生胎儿血红蛋白。；公司官方页面表述：CASGEVY™（exagamglogene autotemcel）是一种源于公司与 Vertex Pharmaceuticals Incorporated 合作的 CRISPR/Cas9 基因编辑疗法；该疗法已在部分国家获批，用于某些符合条件的镰状细胞病或输血依赖型 β 地中海贫血患者。",
-        "summaryOriginal": "Description: Autologous, ex vivo CRISPR/Cas9 gene-edited therapy in which aims to edit a patient’s own hematopoietic stem cells to produce fetal hemoglobin in red blood cells. CASGEVY™ (exagamglogene autotemcel), a CRISPR/Cas9 gene-edited therapy arising out of our collaboration with Vertex Pharmaceuticals Incorporated, is approved in some countries for certain eligible patients with sickle cell disease or transfusion-dependent beta thalassemia.",
+        "summary": "公司官方页面表述：CASGEVY™（exagamglogene autotemcel）是一种源于公司与 Vertex Pharmaceuticals Incorporated 合作的 CRISPR/Cas9 基因编辑疗法；该疗法已在部分国家获批，用于某些符合条件的镰状细胞病或输血依赖型 β 地中海贫血患者。；公司官方页面表述：描述：一种自体、体外 CRISPR/Cas9 基因编辑疗法，旨在编辑患者自身的造血干细胞，使红细胞产生胎儿血红蛋白。",
+        "summaryOriginal": "CASGEVY™ (exagamglogene autotemcel), a CRISPR/Cas9 gene-edited therapy arising out of our collaboration with Vertex Pharmaceuticals Incorporated, is approved in some countries for certain eligible patients with sickle cell disease or transfusion-dependent beta thalassemia. Description: Autologous, ex vivo CRISPR/Cas9 gene-edited therapy in which aims to edit a patient’s own hematopoietic stem cells to produce fetal hemoglobin in red blood cells.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "Description: Autologous, ex vivo CRISPR/Cas9 gene-edited therapy in which aims to edit a patient’s own hematopoietic stem cells to produce fetal hemoglobin in red blood cells.",
-            "text": "描述：一种自体、体外 CRISPR/Cas9 基因编辑疗法，旨在编辑患者自身的造血干细胞，使红细胞产生胎儿血红蛋白。",
-            "evidenceId": "evidence-company-crispr-therapeutics-pipeline-e66f97e46e12",
-            "sourceUrl": "https://crisprtx.com/pipeline",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Description: Enabling delivery of CRISPR/Cas9 to hematopoietic stem cells (HSCs) in vivo to bypass the need for ex vivo gene editing and hematopoietic stem cell transplant",
-            "text": "Description: Enabling delivery of CRISPR/Cas9 to hematopoietic stem cells (HSCs) in vivo to bypass the need for ex vivo gene editing and hematopoietic stem cell transplant",
-            "evidenceId": "evidence-company-crispr-therapeutics-pipeline-e66f97e46e12",
-            "sourceUrl": "https://crisprtx.com/pipeline",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Description: Investigational allogeneic CRISPR/Cas9 gene-edited CAR T cell therapy in development for the treatment of CD19+ malignancies and autoimmune diseases that incorporates novel edits designed to enhance CAR T potency and reduce CAR T exhaustion",
-            "text": "Description: Investigational allogeneic CRISPR/Cas9 gene-edited CAR T cell therapy in development for the treatment of CD19+ malignancies and autoimmune diseases that incorporates novel edits designed to enhance CAR T potency and reduce CAR T exhaustion",
-            "evidenceId": "evidence-company-crispr-therapeutics-pipeline-e66f97e46e12",
-            "sourceUrl": "https://crisprtx.com/pipeline",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Exa-cel, a CRISPR/Cas9 gene-edited therapy arising out of our collaboration with Vertex Pharmaceuticals Incorporated, has now been approved in some countries for certain eligible patients with sickle cell disease or transfusion-dependent beta thalassemia.",
-            "text": "Exa-cel, a CRISPR/Cas9 gene-edited therapy arising out of our collaboration with Vertex Pharmaceuticals Incorporated, has now been approved in some countries for certain eligible patients with sickle cell disease or transfusion-dependent beta thalassemia.",
-            "evidenceId": "evidence-company-crispr-therapeutics-pipeline-e66f97e46e12",
-            "sourceUrl": "https://crisprtx.com/pipeline",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
             "textOriginal": "CASGEVY™ (exagamglogene autotemcel), a CRISPR/Cas9 gene-edited therapy arising out of our collaboration with Vertex Pharmaceuticals Incorporated, is approved in some countries for certain eligible patients with sickle cell disease or transfusion-dependent beta thalassemia.",
             "text": "CASGEVY™（exagamglogene autotemcel）是一种源于公司与 Vertex Pharmaceuticals Incorporated 合作的 CRISPR/Cas9 基因编辑疗法；该疗法已在部分国家获批，用于某些符合条件的镰状细胞病或输血依赖型 β 地中海贫血患者。",
-            "evidenceId": "evidence-company-crispr-therapeutics-official-7ba3b421ca59",
+            "evidenceId": "evidence-company-crispr-therapeutics-official-4896d033c3d0",
+            "sourceUrl": "https://crisprtx.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "CTX310, an investigational in vivo CRISPR therapy, lowered cholesterol and triglycerides through one year in early trials.",
+            "text": "CTX310, an investigational in vivo CRISPR therapy, lowered cholesterol and triglycerides through one year in early trials.",
+            "evidenceId": "evidence-company-crispr-therapeutics-official-4896d033c3d0",
+            "sourceUrl": "https://crisprtx.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "First-Ever Approved CRISPR-Based Therapy",
+            "text": "First-Ever Approved CRISPR-Based Therapy",
+            "evidenceId": "evidence-company-crispr-therapeutics-official-4896d033c3d0",
             "sourceUrl": "https://crisprtx.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -35355,16 +35347,32 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "CRISPR Therapeutics Corporate Presentation",
             "text": "CRISPR Therapeutics Corporate Presentation",
-            "evidenceId": "evidence-company-crispr-therapeutics-official-7ba3b421ca59",
+            "evidenceId": "evidence-company-crispr-therapeutics-official-4896d033c3d0",
             "sourceUrl": "https://crisprtx.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Creating the next generation of cell therapies for cancer enabled by gene editing.",
+            "text": "Creating the next generation of cell therapies for cancer enabled by gene editing.",
+            "evidenceId": "evidence-company-crispr-therapeutics-official-4896d033c3d0",
+            "sourceUrl": "https://crisprtx.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Description: Autologous, ex vivo CRISPR/Cas9 gene-edited therapy in which aims to edit a patient’s own hematopoietic stem cells to produce fetal hemoglobin in red blood cells.",
+            "text": "描述：一种自体、体外 CRISPR/Cas9 基因编辑疗法，旨在编辑患者自身的造血干细胞，使红细胞产生胎儿血红蛋白。",
+            "evidenceId": "evidence-company-crispr-therapeutics-pipeline-e66f97e46e12",
+            "sourceUrl": "https://crisprtx.com/pipeline",
             "needsReview": true,
             "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-crispr-therapeutics-official-4896d033c3d0",
           "evidence-company-crispr-therapeutics-pipeline-e66f97e46e12",
-          "evidence-company-crispr-therapeutics-official-7ba3b421ca59",
           "evidence-company-crispr-therapeutics-investor_relations-89b42325d494",
           "evidence-sec-0001674416-000119312526330672",
           "evidence-sec-0001674416-000119312526330644"
@@ -35373,6 +35381,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-crispr-therapeutics-official-4896d033c3d0",
+            "date": "2026-08-28",
+            "title": "Home | CRISPR Therapeutics",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-crispr-therapeutics-official-4896d033c3d0",
+            "sourceUrl": "https://crisprtx.com/"
+          },
           {
             "id": "event-evidence-company-crispr-therapeutics-pipeline-e66f97e46e12",
             "date": "2026-08-10",
@@ -35383,17 +35402,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-crispr-therapeutics-pipeline-e66f97e46e12",
             "sourceUrl": "https://crisprtx.com/pipeline"
-          },
-          {
-            "id": "event-evidence-company-crispr-therapeutics-official-7ba3b421ca59",
-            "date": "2026-08-10",
-            "title": "Home | CRISPR Therapeutics",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-crispr-therapeutics-official-7ba3b421ca59",
-            "sourceUrl": "https://crisprtx.com/"
           },
           {
             "id": "event-evidence-company-crispr-therapeutics-investor_relations-89b42325d494",
@@ -35442,7 +35450,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 2
         },
-        "lastEvidenceDate": "2026-08-10",
+        "lastEvidenceDate": "2026-08-28",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -35451,6 +35459,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-crispr-therapeutics-official-4896d033c3d0",
+          "date": "2026-08-28",
+          "title": "Home | CRISPR Therapeutics",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-crispr-therapeutics-official-4896d033c3d0",
+          "sourceUrl": "https://crisprtx.com/"
+        },
         {
           "id": "event-evidence-company-crispr-therapeutics-pipeline-e66f97e46e12",
           "date": "2026-08-10",
@@ -35461,17 +35480,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-crispr-therapeutics-pipeline-e66f97e46e12",
           "sourceUrl": "https://crisprtx.com/pipeline"
-        },
-        {
-          "id": "event-evidence-company-crispr-therapeutics-official-7ba3b421ca59",
-          "date": "2026-08-10",
-          "title": "Home | CRISPR Therapeutics",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-crispr-therapeutics-official-7ba3b421ca59",
-          "sourceUrl": "https://crisprtx.com/"
         },
         {
           "id": "event-evidence-company-crispr-therapeutics-investor_relations-89b42325d494",
@@ -44484,7 +44492,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-illumina-official-23430f80b296",
             "date": "2026-08-27",
             "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -44560,7 +44568,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-illumina-official-23430f80b296",
           "date": "2026-08-27",
           "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -56141,7 +56149,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Natera and Angiex Partner to Assess Response to Investigational Nuclear-Delivered Antibody-Drug Conjugate™ Using Signatera™",
             "text": "Natera and Angiex Partner to Assess Response to Investigational Nuclear-Delivered Antibody-Drug Conjugate™ Using Signatera™",
-            "evidenceId": "evidence-company-natera-official-da4a7b5427c5",
+            "evidenceId": "evidence-company-natera-official-5a3f354ee77a",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56149,7 +56157,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
             "text": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
-            "evidenceId": "evidence-company-natera-official-da4a7b5427c5",
+            "evidenceId": "evidence-company-natera-official-5a3f354ee77a",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56157,7 +56165,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Natera to Support New Clinical Trial Assessing ctDNA Dynamics with Latitude™ in Advanced Skin Cancers",
             "text": "Natera to Support New Clinical Trial Assessing ctDNA Dynamics with Latitude™ in Advanced Skin Cancers",
-            "evidenceId": "evidence-company-natera-official-da4a7b5427c5",
+            "evidenceId": "evidence-company-natera-official-5a3f354ee77a",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56165,7 +56173,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
             "text": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
-            "evidenceId": "evidence-company-natera-official-da4a7b5427c5",
+            "evidenceId": "evidence-company-natera-official-5a3f354ee77a",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56173,7 +56181,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Clinical Resources Oncology CLINICAL RESOURCES Signatera™",
             "text": "Clinical Resources Oncology CLINICAL RESOURCES Signatera™",
-            "evidenceId": "evidence-company-natera-official-da4a7b5427c5",
+            "evidenceId": "evidence-company-natera-official-5a3f354ee77a",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56189,7 +56197,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-natera-official-da4a7b5427c5",
+          "evidence-company-natera-official-5a3f354ee77a",
           "evidence-company-natera-pipeline-d6265767b3d9",
           "evidence-company-natera-investor_relations-57a971bfd0f7",
           "evidence-sec-0001604821-000162828026054525",
@@ -56201,14 +56209,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-natera-official-da4a7b5427c5",
-            "date": "2026-08-27",
+            "id": "event-evidence-company-natera-official-5a3f354ee77a",
+            "date": "2026-08-28",
             "title": "Natera: A global leader in cell-free DNA testing",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-natera-official-da4a7b5427c5",
+            "evidenceId": "evidence-company-natera-official-5a3f354ee77a",
             "sourceUrl": "https://www.natera.com/"
           },
           {
@@ -56268,7 +56276,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 3
         },
-        "lastEvidenceDate": "2026-08-27",
+        "lastEvidenceDate": "2026-08-28",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -56277,14 +56285,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-natera-official-da4a7b5427c5",
-          "date": "2026-08-27",
+          "id": "event-evidence-company-natera-official-5a3f354ee77a",
+          "date": "2026-08-28",
           "title": "Natera: A global leader in cell-free DNA testing",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-natera-official-da4a7b5427c5",
+          "evidenceId": "evidence-company-natera-official-5a3f354ee77a",
           "sourceUrl": "https://www.natera.com/"
         },
         {
@@ -57998,7 +58006,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-nykode-therapeutics-official-1e470a88cf9f",
             "date": "2026-08-27",
             "title": "Home - Nykode",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -58051,7 +58059,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-nykode-therapeutics-official-1e470a88cf9f",
           "date": "2026-08-27",
           "title": "Home - Nykode",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -59276,7 +59284,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "date": "2026-08-27",
             "title": "Welcome to Oxford Nanopore Technologies",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -59318,7 +59326,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-oxford-nanopore-official-b5a006d4fd7e",
           "date": "2026-08-27",
           "title": "Welcome to Oxford Nanopore Technologies",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -67438,7 +67446,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
             "text": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-2377fdcdf73d",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -67446,7 +67454,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "13, 2026 Sumitomo Pharma America Announces First Patient Receives Treatment in Phase 1/2a Study for its Investigational Therapy DSP-3077 for Retinitis Pigmentosa（PDF/137KB） R&D",
             "text": "13, 2026 Sumitomo Pharma America Announces First Patient Receives Treatment in Phase 1/2a Study for its Investigational Therapy DSP-3077 for Retinitis Pigmentosa（PDF/137KB） R&D",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-2377fdcdf73d",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -67454,7 +67462,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "iPS Cell-Derived Product Transportation Project",
             "text": "iPS Cell-Derived Product Transportation Project",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-2377fdcdf73d",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -67462,7 +67470,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
             "text": "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-2377fdcdf73d",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -67470,7 +67478,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "To this end , Sumitomo Pharma is pursuing Sustainability Management through a variety of initiatives, including the development of innovative products and healthcare solutions, and contribution to the development of science.",
             "text": "To this end , Sumitomo Pharma is pursuing Sustainability Management through a variety of initiatives, including the development of innovative products and healthcare solutions, and contribution to the development of science.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-2377fdcdf73d",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -67478,7 +67486,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Here you can search for the strengths of Sumitomo Pharma’s business, Sumitomo Pharma’s initiatives, and other information that interests you by selecting tags.",
             "text": "Here you can search for the strengths of Sumitomo Pharma’s business, Sumitomo Pharma’s initiatives, and other information that interests you by selecting tags.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-2377fdcdf73d",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -67486,7 +67494,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
+          "evidence-company-sumitomo-pharma-official-2377fdcdf73d",
           "evidence-company-sumitomo-pharma-investor_relations-ccb124fe59e2"
         ]
       },
@@ -67494,14 +67502,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
-            "date": "2026-08-27",
+            "id": "event-evidence-company-sumitomo-pharma-official-2377fdcdf73d",
+            "date": "2026-08-28",
             "title": "Sumitomo Pharma Co., Ltd.",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-2377fdcdf73d",
             "sourceUrl": "https://www.sumitomo-pharma.com/"
           },
           {
@@ -67527,7 +67535,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-08-27",
+        "lastEvidenceDate": "2026-08-28",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -67536,14 +67544,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
-          "date": "2026-08-27",
+          "id": "event-evidence-company-sumitomo-pharma-official-2377fdcdf73d",
+          "date": "2026-08-28",
           "title": "Sumitomo Pharma Co., Ltd.",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
+          "evidenceId": "evidence-company-sumitomo-pharma-official-2377fdcdf73d",
           "sourceUrl": "https://www.sumitomo-pharma.com/"
         },
         {

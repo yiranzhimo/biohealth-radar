@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_source_translations",
-  "capturedAt": "2026-08-26T05:08:48+00:00",
-  "sourceCapturedAt": "2026-08-26T05:07:56+00:00",
+  "capturedAt": "2026-08-28T16:54:22+00:00",
+  "sourceCapturedAt": "2026-08-28T16:53:44+00:00",
   "translationPolicyVersion": "company-source-zh-cn-v1",
   "translations": [
     {
@@ -586,6 +586,24 @@
       "translatedAt": "2026-08-11T05:38:11+00:00",
       "translationPolicyVersion": "company-source-zh-cn-v1",
       "responseId": "resp_0b29899af36cf068006a7ab558587881a3bd97bd35619c5946"
+    },
+    {
+      "id": "translation-3c1612e1eef6579a",
+      "sourceTextHash": "3c1612e1eef6579a9c87ec73da657554c1bb7617282e2c5fd47c7f7d28138a99",
+      "sourceText": "Akeso 2026 Interim Results: Strong Commercialization Momentum; IO2.0+ Global Strategy Redefining Clinical Standards; Bispecific Advancement in ADC, I&I and Alzheimer's",
+      "sourceUses": [
+        {
+          "companyId": "akeso",
+          "sourceRole": "official",
+          "field": "business_summary"
+        }
+      ],
+      "translationCn": "Akeso 2026年中期业绩：强劲的商业化势头；IO2.0+全球战略重新定义临床标准；在ADC、免疫与炎症（I&I）及阿尔茨海默病方面的双特异性进展。",
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "translatedAt": "2026-08-28T16:54:22+00:00",
+      "translationPolicyVersion": "company-source-zh-cn-v1",
+      "responseId": "resp_054a2d3dd47eb660006a91bd3f611c87d1ac0c14505c357c57"
     },
     {
       "id": "translation-3cff827f06d74551",
@@ -3349,6 +3367,11 @@
         },
         {
           "companyId": "candidate-sangamo-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-sb-technology-holdings",
           "sourceRole": "official",
           "field": "business_summary"
         },

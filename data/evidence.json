@@ -3449,15 +3449,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-akeso-official-2f3653fb45ba",
+      "id": "evidence-company-akeso-official-5f6e3e585856",
       "signalId": null,
       "companyIds": [
         "akeso"
       ],
-      "publishedAt": "2026-08-26",
-      "snapshotDate": "2026-08-26",
+      "publishedAt": "2026-08-28",
+      "snapshotDate": "2026-08-28",
       "title": "Akeso, Inc | Home",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Akeso — Official Website",
@@ -3473,27 +3473,27 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 2f3653fb45ba8c06649089fcde42adc29ff7a534f29a0598f73e038152dfd1bf.",
-      "report": "公司官方页面表述：公司创建了一个独特的集成研发创新系统，包括全面的端到端药物开发平台（ACE平台）和基于人工智能的制药研发、四体BsAb/MsAb、双盾ADC、双锁TCE、组织智能siRNA、细胞疗法和灵活纳米mRNA…",
-      "reportOriginal": "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
-      "reportCn": "公司创建了一个独特的集成研发创新系统，包括全面的端到端药物开发平台（ACE平台）和基于人工智能的制药研发、四体BsAb/MsAb、双盾ADC、双锁TCE、组织智能siRNA、细胞疗法和灵活纳米mRNA…",
+      "fact": "The official page was captured with normalized-content hash 5f6e3e5858569a6114f0dd9240f5af914832b0a5e832ff941eef59e7943fab5a.",
+      "report": "公司官方页面表述：Akeso 2026年中期业绩：强劲的商业化势头；IO2.0+全球战略重新定义临床标准；在ADC、免疫与炎症（I&I）及阿尔茨海默病方面的双特异性进展。",
+      "reportOriginal": "Akeso 2026 Interim Results: Strong Commercialization Momentum; IO2.0+ Global Strategy Redefining Clinical Standards; Bispecific Advancement in ADC, I&I and Alzheimer's",
+      "reportCn": "Akeso 2026年中期业绩：强劲的商业化势头；IO2.0+全球战略重新定义临床标准；在ADC、免疫与炎症（I&I）及阿尔茨海默病方面的双特异性进展。",
       "translation": {
         "status": "translated",
         "provider": "openai",
         "model": "gpt-4o-mini",
-        "translatedAt": "2026-08-26T05:08:48+00:00",
-        "sourceTextHash": "75cf7f9e89c832bc7c40f17d6b7578f1bfcc4b830a2754e67b577f5e3208d66a"
+        "translatedAt": "2026-08-28T16:54:22+00:00",
+        "sourceTextHash": "3c1612e1eef6579a9c87ec73da657554c1bb7617282e2c5fd47c7f7d28138a99"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "2f3653fb45ba8c06649089fcde42adc29ff7a534f29a0598f73e038152dfd1bf",
-      "changeType": "unchanged",
+      "contentHash": "5f6e3e5858569a6114f0dd9240f5af914832b0a5e832ff941eef59e7943fab5a",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
+        "Akeso 2026 Interim Results: Strong Commercialization Momentum; IO2.0+ Global Strategy Redefining Clinical Standards; Bispecific Advancement in ADC, I&I and Alzheimer's",
         "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
         "HK) is a biopharmaceutical company founded by a team of scientists with rich experience in global drug development and focuses on the unmet clinical needs worldwide in major diseases.",
-        "Akeso's AK157D1 (B7-H3 ADC) Cleared for Phase I Trial in Solid Tumors, Adding a Third Differentiated ADC to Its Pipeline",
-        "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform)."
+        "Akeso's AK157D1 (B7-H3 ADC) Cleared for Phase I Trial in Solid Tumors, Adding a Third Differentiated ADC to Its Pipeline"
       ],
       "businessExcerpts": [
         "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
@@ -37865,15 +37865,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-crispr-therapeutics-official-7ba3b421ca59",
+      "id": "evidence-company-crispr-therapeutics-official-4896d033c3d0",
       "signalId": null,
       "companyIds": [
         "crispr-therapeutics"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-08-28",
+      "snapshotDate": "2026-08-28",
       "title": "Home | CRISPR Therapeutics",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "CRISPR Therapeutics — Official Website",
@@ -37889,7 +37889,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 7ba3b421ca59a94251e0d7ab8b2529dbcf386ddceb68c08495bcfc00e6b920fa.",
+      "fact": "The official page was captured with normalized-content hash 4896d033c3d04a97fd8f4e6ce455cc03db940c0a9c2f7d454abb4f48683808d2.",
       "report": "公司官方页面表述：CASGEVY™（exagamglogene autotemcel）是一种源于公司与 Vertex Pharmaceuticals Incorporated 合作的 CRISPR/Cas9 基因编辑疗法；该疗法已在部分国家获批，用于某些符合条件的镰状细胞病或输血依赖型 β 地中海贫血患者。",
       "reportOriginal": "CASGEVY™ (exagamglogene autotemcel), a CRISPR/Cas9 gene-edited therapy arising out of our collaboration with Vertex Pharmaceuticals Incorporated, is approved in some countries for certain eligible patients with sickle cell disease or transfusion-dependent beta thalassemia.",
       "reportCn": "CASGEVY™（exagamglogene autotemcel）是一种源于公司与 Vertex Pharmaceuticals Incorporated 合作的 CRISPR/Cas9 基因编辑疗法；该疗法已在部分国家获批，用于某些符合条件的镰状细胞病或输血依赖型 β 地中海贫血患者。",
@@ -37902,17 +37902,24 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "7ba3b421ca59a94251e0d7ab8b2529dbcf386ddceb68c08495bcfc00e6b920fa",
-      "changeType": "unchanged",
+      "contentHash": "4896d033c3d04a97fd8f4e6ce455cc03db940c0a9c2f7d454abb4f48683808d2",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "CASGEVY™ (exagamglogene autotemcel), a CRISPR/Cas9 gene-edited therapy arising out of our collaboration with Vertex Pharmaceuticals Incorporated, is approved in some countries for certain eligible patients with sickle cell disease or transfusion-dependent beta thalassemia.",
         "CRISPR Therapeutics Corporate Presentation",
-        "Creating the next generation of cell therapies for cancer enabled by gene editing.",
-        "Broadening the applications of stem cells through gene editing."
+        "CTX310, an investigational in vivo CRISPR therapy, lowered cholesterol and triglycerides through one year in early trials.",
+        "Creating the next generation of cell therapies for cancer enabled by gene editing."
       ],
-      "businessExcerpts": [],
-      "productExcerpts": [],
+      "businessExcerpts": [
+        "View our corporate presentation to learn more about our company.",
+        "We are pioneers of the CRISPR technology and at the forefront of what’s next"
+      ],
+      "productExcerpts": [
+        "CASGEVY™ (exagamglogene autotemcel), a CRISPR/Cas9 gene-edited therapy arising out of our collaboration with Vertex Pharmaceuticals Incorporated, is approved in some countries for certain eligible patients with sickle cell disease or transfusion-dependent beta thalassemia.",
+        "CTX310, an investigational in vivo CRISPR therapy, lowered cholesterol and triglycerides through one year in early trials.",
+        "First-Ever Approved CRISPR-Based Therapy"
+      ],
       "planExcerpts": []
     },
     {
@@ -38346,7 +38353,7 @@
       "publishedAt": "2026-08-27",
       "snapshotDate": "2026-08-27",
       "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Illumina — Official Website",
@@ -38376,7 +38383,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "23430f80b296d7139184d0088fe737c8b18c55f50e513d8a66663c3dd6c169cd",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
@@ -39350,13 +39357,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-natera-official-da4a7b5427c5",
+      "id": "evidence-company-natera-official-5a3f354ee77a",
       "signalId": null,
       "companyIds": [
         "natera"
       ],
-      "publishedAt": "2026-08-27",
-      "snapshotDate": "2026-08-27",
+      "publishedAt": "2026-08-28",
+      "snapshotDate": "2026-08-28",
       "title": "Natera: A global leader in cell-free DNA testing",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -39374,7 +39381,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash da4a7b5427c5dc6431ed5e66e004ad0807eafa68c8b030c3fb1719f8e6adf6df.",
+      "fact": "The official page was captured with normalized-content hash 5a3f354ee77a4cb3668f8ebca6457098ca6546bcd3cfed6fcb644ac81038ef93.",
       "report": "公司官方页面表述：致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
       "reportOriginal": "Dedicated to oncology, women’s health, and organ health. Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
       "reportCn": "致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
@@ -39387,7 +39394,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "da4a7b5427c5dc6431ed5e66e004ad0807eafa68c8b030c3fb1719f8e6adf6df",
+      "contentHash": "5a3f354ee77a4cb3668f8ebca6457098ca6546bcd3cfed6fcb644ac81038ef93",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -39641,7 +39648,7 @@
       "publishedAt": "2026-08-27",
       "snapshotDate": "2026-08-27",
       "title": "Home - Nykode",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Nykode Therapeutics — Official Website",
@@ -39671,7 +39678,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "1e470a88cf9f8ab45606db429b166ab71f49eecdee44ebdb556e11df994f3b92",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
@@ -39756,7 +39763,7 @@
       "publishedAt": "2026-08-27",
       "snapshotDate": "2026-08-27",
       "title": "Welcome to Oxford Nanopore Technologies",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Oxford Nanopore Technologies — Official Website",
@@ -39786,7 +39793,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "b5a006d4fd7e86315fa9f0f9ab18724b0d37d937b55c6f15a16569677978dc9e",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
@@ -40184,13 +40191,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-sumitomo-pharma-official-2e7c79d2d95e",
+      "id": "evidence-company-sumitomo-pharma-official-2377fdcdf73d",
       "signalId": null,
       "companyIds": [
         "sumitomo-pharma"
       ],
-      "publishedAt": "2026-08-27",
-      "snapshotDate": "2026-08-27",
+      "publishedAt": "2026-08-28",
+      "snapshotDate": "2026-08-28",
       "title": "Sumitomo Pharma Co., Ltd.",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -40208,7 +40215,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 2e7c79d2d95e9e0898f6c69fffcae4b7bb41b489b9e46cc9b253a7a373c8a2a8.",
+      "fact": "The official page was captured with normalized-content hash 2377fdcdf73d56551a9f9ac46ba113df5d13f16f9825a56ebb45107c9194cd92.",
       "report": "公司官方页面表述：为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
       "reportOriginal": "For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd.",
       "reportCn": "为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
@@ -40221,7 +40228,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "2e7c79d2d95e9e0898f6c69fffcae4b7bb41b489b9e46cc9b253a7a373c8a2a8",
+      "contentHash": "2377fdcdf73d56551a9f9ac46ba113df5d13f16f9825a56ebb45107c9194cd92",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
