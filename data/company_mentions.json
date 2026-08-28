@@ -4,39 +4,15 @@
   "asOfDate": "2026-08-28",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-3ce1ad3acbc7a1a0",
-      "observedName": "UniQure Biopharma B.V.",
-      "normalizedName": "uniqure biopharma b v",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06270316",
-      "sourceDate": "2025-10-23",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06270316",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Recruiting",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Safety, PK/PD, and Exploratory Efficacy Study of AMT-191 in Classic Fabry Disease"
-    },
-    {
-      "id": "mention-clinicaltrials-4f55a663cca3eba9",
-      "observedName": "Ligand Pharmaceuticals",
-      "normalizedName": "ligand pharmaceuticals",
+      "id": "mention-clinicaltrials-651d869e7ddfa102",
+      "observedName": "Roche Pharma AG",
+      "normalizedName": "roche pharma",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT00211198",
-      "sourceDate": "2008-03-05",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT00211198",
+      "sourceRecordId": "NCT00335595",
+      "sourceDate": "2013-02-20",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00335595",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -50,61 +26,104 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Study of ONTAK® to Treat Cutaneous T-Cell Lymphoma (CTCL)"
+      "contextTitle": "Study of Bevacizumab Alone or Combined With Capecitabine and Oxaliplatin as Support Therapy in Metastatic Colorectal Cancer Patients"
     },
     {
-      "id": "mention-clinicaltrials-8f42c8436c8a8f96",
-      "observedName": "Eisai Inc.",
-      "normalizedName": "eisai",
+      "id": "mention-clinicaltrials-7a6d6e94feaca828",
+      "observedName": "Beijing Esmile Technology Co. Ltd.",
+      "normalizedName": "beijing esmile technology",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT00211198",
-      "sourceDate": "2008-03-05",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT00211198",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT05741047",
+      "sourceDate": "2023-10-19",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05741047",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "临床试验",
-        "肿瘤"
+        "中国",
+        "临床试验"
       ],
       "activitySignals": [
-        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Study of ONTAK® to Treat Cutaneous T-Cell Lymphoma (CTCL)"
+      "contextTitle": "Comparative Effects of a2 Skim Milk on Mild Cognitive Impairment in Older Adults"
     },
     {
-      "id": "mention-clinicaltrials-94012fd858c309a2",
-      "observedName": "Hamilton Health Sciences Corporation",
-      "normalizedName": "hamilton health sciences",
+      "id": "mention-clinicaltrials-ab30e9f1d613a56a",
+      "observedName": "Edanz Group Japan Ltd",
+      "normalizedName": "edanz group japan",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06648239",
-      "sourceDate": "2026-05-11",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06648239",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT05741047",
+      "sourceDate": "2023-10-19",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05741047",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
+        "Clinical Trials",
+        "中国",
+        "临床试验"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Comparative Effects of a2 Skim Milk on Mild Cognitive Impairment in Older Adults"
+    },
+    {
+      "id": "mention-clinicaltrials-eb96d041f2c2f729",
+      "observedName": "a2 Milk Company Ltd.",
+      "normalizedName": "a2 milk",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT05741047",
+      "sourceDate": "2023-10-19",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05741047",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "中国",
+        "临床试验"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Comparative Effects of a2 Skim Milk on Mild Cognitive Impairment in Older Adults"
+    },
+    {
+      "id": "mention-clinicaltrials-fcc2831918838086",
+      "observedName": "Guangzhou Burning Rock Dx Co., Ltd.",
+      "normalizedName": "guangzhou burning rock dx",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT06001099",
+      "sourceDate": "2023-09-29",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06001099",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
         "Clinical Trials",
         "Diagnostics",
-        "Healthcare AI",
-        "Medical AI",
+        "Longevity",
+        "Oncology",
         "Precision Medicine",
-        "临床决策支持",
+        "Precision Oncology",
+        "biomarker",
+        "中国",
         "临床试验",
-        "医疗 AI",
         "精准医疗",
+        "肿瘤",
+        "衰老",
         "诊断"
       ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "CCTA to Optimize Diagnostic Yield of Invasive Angiography With AI"
+      "activitySignals": [],
+      "contextTitle": "PERformance of Multi-Cancer Early-detectIon Based on Various Biomarkers in fEmale Cancers, PERCEIVE-II"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
