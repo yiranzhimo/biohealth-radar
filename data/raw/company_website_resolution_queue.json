@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-08-27T14:17:35+00:00",
+  "capturedAt": "2026-08-28T15:27:11+00:00",
   "count": 592,
   "items": [
     {
@@ -3918,9 +3918,7 @@
         ]
       },
       "sourceTypes": [
-        "Clinical Trials",
-        "Pharmaceutical Preparations",
-        "临床试验"
+        "Pharmaceutical Preparations"
       ],
       "status": "needs_official_domain"
     },
