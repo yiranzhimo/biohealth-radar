@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-28T22:25:20.470255+00:00",
+  "capturedAt": "2026-08-29T07:08:41.079911+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,36 +10,79 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-08-28",
-    "end": "2026-08-28"
+    "start": "2025-08-29",
+    "end": "2026-08-29"
   },
   "pmids": [
+    "42664955",
+    "42664871",
     "42664235",
     "42662732",
     "42662550",
     "42662118",
-    "42661999",
-    "42660654",
     "42656114",
     "42653123",
     "42648290",
     "42600555",
     "42580899",
     "42559559",
+    "42665456",
     "42660893",
     "42655993",
     "42653766",
     "42653762",
     "42649115",
-    "42644609",
+    "42664958",
+    "42664764",
     "42664476",
     "42663722",
     "42662884",
-    "42662181",
-    "42661856",
-    "42660516"
+    "42662181"
   ],
   "records": [
+    {
+      "pmid": "42664955",
+      "title": "Tumor-on-chip as a personalized platform for rapid drug testing in breast cancer.",
+      "abstract": "Breast cancer (BC) continues to pose major therapeutic challenges, emphasizing the need for functional models that can rapidly inform treatment selection. Patient-derived xenografts (PDXs) and organoids (PDOs) are valuable tools for precision oncology, but their clinical utility is limited by inconsistent success rates and lengthy timelines. Here, we develop a tumor-on-chip (ToC) platform enabling functional drug sensitivity profiling within 4 days. ToC models show high reproducibility and a strong concordance with in vivo PDX responses. Drug sensitivity is correctly identified in 88% of PDX-responsive cases, while resistance was detected in 91%, with no false positives at clinically relevant concentrations. We design a chip compatible with minimal BC biopsy material. Proof-of-concept studies on patient samples show that the platform can distinguish sensitive and resistant profiles. These findings support the translational potential of ToC models for rapid personalized drug profiling in BC, laying the ground for their integration into clinical decision-making workflows.",
+      "journal": "Cell reports. Medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Institut Curie, CNRS UMR168, Laboratoire Physico Chimie Curie, Institut Pierre-Gilles de Gennes, PSL Research University, 75005 Paris, France; Institut Curie, Medical Oncology Department, 75005 Paris, France.",
+        "Institut Curie, CNRS UMR168, Laboratoire Physico Chimie Curie, Institut Pierre-Gilles de Gennes, PSL Research University, 75005 Paris, France.",
+        "Institut Curie, INSERM U1339, CNRS UMR3666, Stress and Cancer Laboratory, PSL Research University, 26 rue d'Ulm, 75005 Paris, France.",
+        "Institut Curie, Laboratory of Preclinical Investigation, Translational Research Department, 75005 Paris, France.",
+        "Université Paris Cité, Thoracic Oncology Department and CIC INSERM 1425, Hôpital Bichat-Claude Bernard, 75018 Paris, France.",
+        "Institut Curie, Children's Oncology Research Unit U1330, Paris, France.",
+        "Institut Curie, Pathology Department, 75005 Paris, France.",
+        "Institut Curie, Radiology Department, 75005 Paris, France.",
+        "Institut Curie, INSERM U1339, CNRS UMR3666, Stress and Cancer Laboratory, PSL Research University, 26 rue d'Ulm, 75005 Paris, France. Electronic address: maria-carla.parrini@curie.fr.",
+        "Institut Curie, Medical Oncology Department, 75005 Paris, France. Electronic address: luc.cabel@curie.fr.",
+        "Institut Curie, CNRS UMR168, Laboratoire Physico Chimie Curie, Institut Pierre-Gilles de Gennes, PSL Research University, 75005 Paris, France. Electronic address: stephanie.descroix@curie.fr."
+      ],
+      "doi": "10.1016/j.xcrm.2026.103011",
+      "date": "2026-08-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42664955/"
+    },
+    {
+      "pmid": "42664871",
+      "title": "Bisphenol mixture impairs offspring social memory via an H4K8 Lactylation-Fyn-Microglial synaptic pruning axis.",
+      "abstract": "Bisphenol A (BPA) and its structural analogs, i.e., bisphenol S (BPS) and bisphenol F (BPF), are commonly incorporated into consumer products, resulting in simultaneous human exposure to multiple bisphenols. Prospective cohort studies have linked prenatal exposure to individual bisphenols to disrupted neurodevelopment and cognitive dysfunction; however, the mechanisms by which bisphenol mixtures affect neural health remain underexplored. Here, we show that maternal exposure to an environmentally relevant bisphenol mixture during pregnancy and lactation elicits aberrant microglial activation in male offspring, mediated by estrogen receptor β-dependent metabolic reprogramming. This exposure enhances microglial glycolytic activity and histone H4K8 lactylation, thereby directly boosting Fyn transcription. Elevated Fyn expression accelerates microglia-mediated synaptic pruning, leading to decreased hippocampal synaptic density and subsequent deficits in social memory. Notably, genetic and pharmacological suppression of microglial activity, including microglial ablation and selective Fyn inhibition during the exposure period, substantially alleviates these synaptic deficits and behavioral impairments. Similar microglia-dependent synaptic abnormalities are further validated in cell-based and human brain organoid co-culture models. Together, these results reveal a previously unrecognized metabolic-epigenetic pathway by which chemical mixtures disrupt neurodevelopment, emphasizing the critical importance of examining the neurodevelopmental consequences of exposure to real-world chemical mixture during early development.",
+      "journal": "Environment international",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "The Key Laboratory of Modern Toxicology of Ministry of Education, Department of Toxicology, School of Public Health, Nanjing Medical University, Nanjing 211166, China.",
+        "The First Clinical Medical College, Nanjing Medical University, Nanjing 211166, China.",
+        "School of Medical Imaging, Nanjing Medical University, Nanjing 211166, China.",
+        "The Key Laboratory of Modern Toxicology of Ministry of Education, Department of Toxicology, School of Public Health, Nanjing Medical University, Nanjing 211166, China. Electronic address: sunmk@njmu.edu.cn."
+      ],
+      "doi": "10.1016/j.envint.2026.110482",
+      "date": "2026-08-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42664871/"
+    },
     {
       "pmid": "42664235",
       "title": "Germ cell-containing testicular tubule-like structures form within murine assembloids using defined material constraints.",
@@ -108,39 +151,6 @@
       "doi": "10.1016/j.mtbio.2026.103549",
       "date": "2026-08-14",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42662118/"
-    },
-    {
-      "pmid": "42661999",
-      "title": "Oncolytic viruses in cancer therapy development: the evolution of cell culture models in preclinical research.",
-      "abstract": "Cancer immunotherapy has transformed oncology; however, its efficacy remains limited in immunologically \"cold\" tumors with poor immune infiltration. Oncolytic virotherapy (OVT) offers a promising solution through dual mechanisms of selective tumor lysis and immune activation, with advances in genetic engineering further enhancing specificity and therapeutic potency. Despite encouraging clinical progress, the translation of OVT remains constrained by the limited predictive capacity of preclinical models. The concept of translational fidelity refers to the extent to which preclinical models accurately replicate human tumor biology and reliably predict clinical therapeutic responses. This review provides a systematic evaluation of OVT through a four-dimensional framework encompassing structural complexity, immune representation, microenvironmental gradients, and translational predictivity. Using this framework as an integrative lens, we compare conventional and advanced platforms, including three-dimensional organoids, hydrogels, and patient-derived xenografts, highlighting their ability to recapitulate tumor architecture and heterogeneity. However, persistent limitations such as incomplete immune integration, inadequate characterization of physicochemical gradients, and species-specific discrepancies continue to hinder reliable clinical translation and may lead to overestimation of therapeutic efficacy. We further examine emerging engineering strategies in oncolytic viruses and emphasize the need to incorporate immune dynamics, delivery constraints, and patient-specific variability into model design. Future directions focus on developing humanized, multi-dimensional platforms integrating bioengineering, artificial intelligence, and real-time microenvironmental monitoring. Collectively, this review underscores that improving translational fidelity through integrative modeling frameworks is critical for bridging the gap between preclinical findings and clinical outcomes, thereby advancing OVT as a reliable modality in cancer immunotherapy.",
-      "journal": "Virusdisease",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Viral Research and Diagnostic Laboratory (VRDL), Department of Microbiology, AIIMS, Rajkot, Gujarat India.",
-        "Department of Microbiology, AIIMS, Rajkot, Gujarat India."
-      ],
-      "doi": "10.1007/s13337-026-00964-y",
-      "date": "2026-06-02",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42661999/"
-    },
-    {
-      "pmid": "42660654",
-      "title": "Proliferation and differentiation in intestinal organoids are balanced by ligand-modulated EGFR trafficking.",
-      "abstract": "Epidermal growth factor (EGF) signaling is associated with proliferation and tumorigenesis. Conversely, EGF-family ligands can also trigger a differentiation program, an effect attributed to ligand affinity and EGF receptor (EGFR) activity. Most of these observations have been made in immortalized cell culture experiments, whereas the mechanisms underlying EGF/EGFR-driven proliferation-differentiation dynamics in complex development and tissue self-renewal have not been addressed. We show that culturing mouse small intestinal organoids (mSIOs) without EGF enhanced EGFR expression and basal phosphorylation while maintaining a balanced development of proliferative crypts and differentiated villi. Addition of EGF or Epiregulin (EREG) triggered receptor endocytosis, reducing cell-surface levels and expression. While EGF promoted crypt proliferation, EREG promoted both proliferation and villus differentiation compared with untreated controls. Removal or re-introduction of EGF or EREG proved sufficient to induce development comparable to the constant presence of ligands over 96 h. Sub-saturating concentrations of EGF led to increased villus differentiation, resembling EREG treatments, suggesting that control over EGFR endocytic cycle regulates its plasma membrane localization shaping the balance of proliferation and differentiation in mSIOs.",
-      "journal": "Life science alliance",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Systemic Cell Biology, Max Planck Institute for Molecular Physiology, Dortmund, Germany marionicolas.caraccioporto@mpi-dortmund.mpg.de.",
-        "Department of Systemic Cell Biology, Max Planck Institute for Molecular Physiology, Dortmund, Germany."
-      ],
-      "doi": "10.26508/lsa.202603733",
-      "date": "2026-08-27",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42660654/"
     },
     {
       "pmid": "42656114",
@@ -244,6 +254,24 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42559559/"
     },
     {
+      "pmid": "42665456",
+      "title": "Minimal-alphabet proteins by evolution, engineering, and design.",
+      "abstract": "Research on the structural and functional potential of minimal amino acid alphabets is shifting from reductive 'pruning' of extant proteins to bottom-up exploration of combinatorial sequence space. This review highlights the experimental and computational toolkits driving this transition. We discuss how solid-phase peptide synthesis, genetically encoded libraries, and high-throughput selection and screening enable systematic exploration of vast, noncanonical landscapes largely inaccessible to traditional engineering. Integrating these approaches with generative machine learning and de novo protein design allows researchers to move beyond observing what evolution produced toward exploring what chemistry permits. Together, these advances are redirecting the field from simplifying extant proteins to uncovering the physicochemical principles governing protein foldability, while expanding the design space beyond the constraints imposed by biological evolution.",
+      "journal": "Trends in biochemical sciences",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Cell Biology, Charles University, 12843 Prague, Czech Republic; Department of Biochemistry, Charles University, 12843 Prague, Czech Republic.",
+        "Department of Cell Biology, Charles University, 12843 Prague, Czech Republic; Institute of Organic Chemistry and Biochemistry, Czech Academy of Sciences, 16000 Prague, Czech Republic.",
+        "Department of Cell Biology, Charles University, 12843 Prague, Czech Republic; Institute of Organic Chemistry and Biochemistry, Czech Academy of Sciences, 16000 Prague, Czech Republic. Electronic address: klara.hlouchova@natur.cuni.cz."
+      ],
+      "doi": "10.1016/j.tibs.2026.08.002",
+      "date": "2026-08-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42665456/"
+    },
+    {
       "pmid": "42660893",
       "title": "Mol-CADiff: text-conditional molecule generation via causality-aware autoregressive diffusion.",
       "abstract": "The design of molecules with desired properties is a key challenge in drug discovery and materials science. Traditional methods rely on trial-and-error, while recent deep-learning approaches accelerate molecular generation. However, existing models struggle with generating molecules based on specific textual descriptions. We introduce Mol-CADiff, a diffusion-based framework that uses causal attention mechanisms for text-conditional molecular generation. Our approach explicitly models the causal relationship between textual prompts and molecular structures, overcoming limitations in existing methods. We enhance dependency modeling both within and across modalities, enabling precise control over the generation process. While primarily designed for text-guided tasks, this architecture inherently supports unconditional generation, providing the added capability to autonomously sample the broader chemical space without explicit constraints. Here we show that Mol-CADiff outperforms alternative methods in generating diverse, chemically valid molecules, with better alignment to specified properties, enabling more intuitive language-driven molecular design. By bridging these modalities, our framework provides a versatile method for drug discovery.",
@@ -331,20 +359,47 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42649115/"
     },
     {
-      "pmid": "42644609",
-      "title": "Engineering peptides into antibodies-opportunities and strategies for therapeutic innovation.",
-      "abstract": "Peptides and antibodies occupy complementary therapeutic niches. Peptides offer compact size and high-affinity recognition of difficult targets, whereas antibodies provide exquisite specificity, long serum half-life, and effector functions. Here we review strategies that merge these modalities by engineering peptides into immunoglobulins and antibody fragments. We discuss peptide grafting into hypervariable and framework loops, terminal fusion to antibody chains, Fc-peptide fusion proteins, and bioconjugation approaches. Across these formats, we examine examples that illustrate the importance of insertion site, peptide topology, and linker design for folding, activity, and developability. We highlight how antibody fusion and conjugation with natural and engineered peptides can confer novel target binding, conditional activation, altered biodistribution, improved pharmacokinetics, or intracellular delivery, and we discuss how disulfide-rich and macrocyclic peptides have enriched the design space. Finally, we also point out key translational challenges, including manufacturability, stability, heterogeneity, and immunogenicity, and propose that advances in protein design and chemical bioconjugation will enable next-generation therapeutics at the interface of antibodies and peptides.",
-      "journal": "FEBS letters",
+      "pmid": "42664958",
+      "title": "Development and validation of a serum peptidomic signature for early detection of asymptomatic ovarian cancer: A multi-center prospective study.",
+      "abstract": "Early detection of asymptomatic ovarian cancer (asym-OC) remains a critical challenge, the failure of which underlies its high mortality. Performing serum peptidomic profiling of 843 participants in the cohort SOCFCP, we distill 1,081 initial features into a 7-marker panel for asym-OC detection via a biology-informed machine-learning (ML)-based feature selection strategy. Three markers significantly revert toward non-OC levels after surgery. Integrating the panel with age, CA125, and HE4, we develop and externally validate (n = 159) a LightGBM model, ProMS+. For early-stage OC detection, ProMS+ shows a specificity of 92.6% at 95.0% sensitivity, outperforming CA125 (44.7%), HE4 (11.2%), and Risk of Ovarian Malignancy Algorithm (ROMA) (24.0%), with an area under the curve (AUC) of 0.993. In a simulated high-risk population (n = 100,000; OC prevalence = 1%), ProMS+ yields a high AUC (0.983) and a higher positive predictive value than CA125, HE4, and Age + CA125 + HE4 combined model (0.201 vs. 0.027, 0.090, and 0.064). ProMS+ offers a promising, non-invasive, and interpretable approach for the early detection of asym-OC.",
+      "journal": "Cell reports. Medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Clinical Research Unit, Shanghai Key Laboratory of Maternal Fetal Medicine, Shanghai Institute of Maternal-Fetal Medicine and Gynecologic Oncology, Shanghai First Maternity and Infant Hospital, School of Medicine, Tongji University, Shanghai 200092, China.",
+        "National Engineering Research Center for Biomaterials, Sichuan University, Chengdu 610064, China.",
+        "Department of Gynecology, Shanghai Key Laboratory of Maternal Fetal Medicine, Shanghai Institute of Maternal-Fetal Medicine and Gynecologic Oncology, Shanghai First Maternity and Infant Hospital, School of Medicine, Tongji University, Shanghai 200092, China.",
+        "Department of Gynecological Oncology, Fudan University Shanghai Cancer Center, Fudan University, Shanghai 200032, China.",
+        "Gronbio Technology, Shanghai 201802, China.",
+        "Shanghai Key Laboratory of Maternal Fetal Medicine, Shanghai Institute of Maternal-Fetal Medicine and Gynecologic Oncology, Shanghai First Maternity and Infant Hospital, School of Medicine, Tongji University, Shanghai 200092, China.",
+        "Department of Gynecology, Shanghai Key Laboratory of Maternal Fetal Medicine, Shanghai Institute of Maternal-Fetal Medicine and Gynecologic Oncology, Shanghai First Maternity and Infant Hospital, School of Medicine, Tongji University, Shanghai 200092, China; Shanghai Key Laboratory of Maternal Fetal Medicine, Shanghai Institute of Maternal-Fetal Medicine and Gynecologic Oncology, Shanghai First Maternity and Infant Hospital, School of Medicine, Tongji University, Shanghai 200092, China. Electronic address: renjiwangyu@126.com."
+      ],
+      "doi": "10.1016/j.xcrm.2026.103014",
+      "date": "2026-08-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42664958/"
+    },
+    {
+      "pmid": "42664764",
+      "title": "Ovarian borderline tumors and minimally invasive surgery: a narrative review.",
+      "abstract": "Borderline ovarian tumors (BOTs) are a distinct subgroup of epithelial ovarian neoplasms that commonly affect women of reproductive age and are associated with excellent overall survival. Management is primarily surgical and requires balancing oncologic considerations with fertility preservation. This narrative review summarizes current evidence regarding pathology, molecular features, surgical management, recurrence patterns, and emerging future directions in BOT care, with a focus on minimally invasive surgery (MIS). Recent observational studies suggest that MIS may offer significant perioperative benefits, including reduced blood loss, shorter hospital stay, and faster recovery, while demonstrating apparently comparable recurrence and survival outcomes in appropriately selected patients. However, the available evidence is predominantly retrospective and subject to selection bias and other limitations; therefore, definitive conclusions regarding the oncologic safety or equivalence of MIS cannot yet be made. Fertility-sparing surgery remains an important option for younger women, although it is associated with higher recurrence rates compared with radical surgery. Prognosis is largely influenced by established clinicopathologic factors such as stage, histologic subtype, invasive implants, and completeness of staging rather than surgical approach alone. Emerging advances in molecular profiling, artificial intelligence, and liquid biopsy may further improve risk stratification and personalized management. Overall, current observational data suggests that minimally invasive and fertility-preserving approaches may be appropriate in carefully selected patients, with potential perioperative advantages and apparently comparable oncologic outcomes. Nevertheless, the low level of evidence and predominantly retrospective nature of the available literature preclude definitive conclusions regarding oncologic safety, and further prospective studies with long-term follow-up are needed to define optimal management strategies.",
+      "journal": "European journal of obstetrics, gynecology, and reproductive biology",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Biopharmaceutical Technology, TUM School of Life Sciences, Technical University of Munich, Freising, Germany."
+        "USOR - Texas Oncology-Austin, Austin, TX, USA. Electronic address: tiffany.redfern@usoncology.com.",
+        "Department of Gynecology at Sanatorio Británico de Rosario, Argentina.",
+        "Fundación Universitaria de Ciencias de la Salud (FUCS), Bogotá, Colombia.",
+        "Aga Khan University Hospital, Nairobi, Kenya.",
+        "Dr. Suliman Alhabib Alkhober, Saudi Arabia.",
+        "Fortis Memorial Research Institute, Gurugram, Haryana, India.",
+        "India University of Benin Teaching Hospital, Department of Obstetrics and Gynaecology, Benin City, Edo State, Nigeria."
       ],
-      "doi": "10.1002/1873-3468.70430",
-      "date": "2026-08-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42644609/"
+      "doi": "10.1016/j.ejogrb.2026.115396",
+      "date": "2026-08-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42664764/"
     },
     {
       "pmid": "42664476",
@@ -433,68 +488,41 @@
       "doi": "10.1177/17588359261481795",
       "date": "2026-08-26",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42662181/"
-    },
-    {
-      "pmid": "42661856",
-      "title": "Predictive biomarkers for cetuximab-based rechallenge therapy in metastatic colorectal cancer: a pooled analysis of the CAVE and CAVE-2 GOIM studies.",
-      "abstract": "Anti-epidermal growth factor receptor (EGFR) therapy is a therapeutic option in patients with molecularly selected metastatic colorectal cancer (mCRC). However, the identification of predictive factors represents an unmet need. We conducted a pooled analysis of individual patient data from the CAVE-GOIM (NCT04561336) and CAVE-2 GOIM (NCT05291156) studies to investigate the impact of several clinical variables on rechallenge with cetuximab with and without avelumab in circulating tumor DNA RAS/BRAF/EGFR-extracellular domain wild-type mCRC. Overall, 180 patients met the eligibility criteria: 136 received cetuximab-avelumab and 44 cetuximab. In patients receiving cetuximab monotherapy, median progression-free survival (mPFS) was 4.80 months [95% confidence interval (CI) 3.90-5.90] and median overall survival (mOS) 12.9 months (95% CI 11.1-not evaluable). Cetuximab activity was retained regardless of clinical factors. Patients treated with cetuximab-avelumab showed an mPFS of 5.00 months (95% CI 4.30-5.90) and mOS of 15.7 months (95% CI 13.0-19.9). In univariable analysis, a shorter progression-free survival was observed in patients with liver involvement [hazard ratio (HR) 2.19, 95% CI 1.51-3.20, P < 0.001] and anti-EGFR-free interval ≤16 months (HR 1.62, 95% CI 1.13-2.31, P < 0.008). Both variables retained statistical significance in multivariable analysis. In univariable analysis, lower overall survival was observed among patients treated with cetuximab-avelumab with >3 metastatic sites (HR 1.79, 95% CI 1.16-2.77, P < 0.009) and liver (HR 1.82, 95% CI 1.15-2.88, P < 0.011) and peritoneal metastases (HR 1.9, 95% CI 1.23-2.93, P < 0.004). In multivariable analysis, only liver and peritoneal metastases maintained statistical significance. Single-agent cetuximab activity is not influenced by clinical factors. In cetuximab-avelumab therapy, the absence of liver metastases and longer anti-EGFR-free interval might represent potential biomarkers.",
-      "journal": "ESMO gastrointestinal oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Division of Gastrointestinal Medical Oncology and Neuroendocrine Tumors, European Institute of Oncology, IEO, IRCCS, Milan, Italy.",
-        "Department of Precision Medicine, University of Campania Luigi Vanvitelli, Naples, Italy.",
-        "Department of Medical Oncology, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy.",
-        "Experimental Clinical Abdominal Oncology Unit, Istituto Nazionale Tumori-IRCCS-Fondazione G. Pascale, Naples, Italy.",
-        "Medical Oncology Unit, San Giuseppe Moscati Hospital, Statte, Italy.",
-        "Medical Oncology Unit, San Giuseppe Moscati Hospital, Avellino, Italy.",
-        "Medical Oncology Unit, Fondazione IRCCS Casa Sollievo della Sofferenza, San Giovanni Rotondo, Italy.",
-        "Medical Oncology, Università Cattolica del Sacro Cuore, Rome, Italy.",
-        "Medical Oncology, Comprehensive Cancer Center, Fondazione Policlinico Universitario Agostino Gemelli, IRCCS, Rome, Italy.",
-        "Department of Oncology and Hemato-Oncology, University of Milan, Milan, Italy.",
-        "Department of Hematology, Oncology and Molecular Medicine, Grande Ospedale Metropolitano Niguarda, Milan, Italy.",
-        "Unit of Medical Oncology 2, Azienda Ospedaliero-Universitaria Pisana, Pisa, Italy.",
-        "Department of Translational Research and New Technology in Medicine and Surgery, University of Pisa, Pisa, Italy.",
-        "Medical Oncology Unit, A.R.N.A.S. Ospedali Civico di Cristina Benfratelli (PA), Palermo, Italy.",
-        "Unit of Medical Oncology and Cancer Prevention, Department of Medical Oncology, Centro di Riferimento Oncologico di Aviano (CRO), IRCCS, Aviano, Italy.",
-        "Medical Oncology Unit, Comprehensive Cancer Centre, AUSL-IRCCS di Reggio Emilia, Reggio Emilia, Italy.",
-        "Medical Oncology Unit, Fondazione Poliambulanza, Brescia, Italy.",
-        "Department of Experimental and Clinical Medicine, University of Florence, Florence, Italy.",
-        "Medical Oncology Unit, Careggi University Hospital, Florence, Italy.",
-        "IRCCS Istituto Romagnolo per lo Studio dei Tumori (IRST) 'Dino Amadori', Mendola, Italy.",
-        "Department of Medical Oncology, Università Politecnica delle Marche - AOU Marche, Ancona, Italy.",
-        "Medical Oncology Unit, University Hospital (AOU) of Sassari, Sassari, Italy.",
-        "Medical Oncology Unit, National Institute of Gastroenterology, IRCCS de Bellis Research Hospital, Castellana Grotte, Italy.",
-        "Medical Oncology Unit, Azienda Ospedaliera ARNAS Garibaldi, Catania, Italy.",
-        "Division of New Drugs and Early Drug Development for Innovative Therapies, European Institute of Oncology, IRCCS, Milan, Italy."
-      ],
-      "doi": "10.1016/j.esmogo.2026.100398",
-      "date": "2026-08-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42661856/"
-    },
-    {
-      "pmid": "42660516",
-      "title": "Cancer Research and Development in South Korea, 2006-2024: A Text-Mining Analysis of National Science & Technology Information Service (NTIS) Records.",
-      "abstract": "To characterize trends and structural patterns in government-funded cancer research and development (R&D) in South Korea using National Science & Technology Information Service (NTIS) records. We analyzed all NTIS projects during 2006-2024 (n=519,618), extracted via the NTIS OpenAPI. A bilingual regular-expression lexicon applied to Korean and English titles and keywords classified projects as definite (C2), possibly (C1), or unrelated (C0) to cancer, validated by two independent physicians on stratified samples. Outcomes included annual cancer-related project counts and funding, research-stage composition, and keyword dynamics. The lexicon identified 18,833 definite and 381 possible cancer-related projects, with high validated accuracy (κ=0.997). Cancer-related projects rose from 905 in 2006 (2.85% of NTIS projects) to a peak of 4,008 in 2021 (5.42%) and then plateaued (3,753 in 2023). In 2024, amid a government-wide R&D reduction, counts declined to 3,386 (5.67%), though cancer-related R&D was relatively protected as its NTIS share rose. Funding peaked at approximately 673 billion KRW in 2023 (1.9%-3.3% of annual government R&D). Basic research accounted for 71.7% of projects, whereas funding was more evenly distributed (basic 51.4%, development 23.0%, applied 17.5%). Keywords shifted from anticancer drugs and metastasis toward microenvironment, biomarkers, immunotherapy, liquid biopsy, organoids, and artificial intelligence. Government-funded cancer R&D in South Korea expanded through 2021 and was subsequently sustained-including relative protection during the 2024 government-wide R&D reduction-while retaining a basic-research backbone and shifting toward precision- and data-intensive oncology. NTIS-based monitoring may help guide strategic allocation of public cancer R&D.",
-      "journal": "Cancer research and treatment",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Preventive Medicine, Seoul National University College of Medicine, Seoul, Korea.",
-        "National Cancer Control Institute, National Cancer Center Hospital, National Cancer Center, Goyang, Korea.",
-        "Department of Preventive Medicine, Seoul National University College of Medicine, Seoul, Korea. shinaesun@snu.ac.kr.",
-        "Integrated Major in Innovative Medical Science, Seoul National University Graduate School, Seoul, Korea. shinaesun@snu.ac.kr.",
-        "Cancer Research Institute, Seoul National University, Seoul, Korea. shinaesun@snu.ac.kr.",
-        "Interdisciplinary Program in Cancer Biology Major, Seoul National University College of Medicine, Seoul, Korea. shinaesun@snu.ac.kr."
-      ],
-      "doi": "10.4143/crt.2026.0481",
-      "date": "2026-08-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42660516/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42664955",
+      "date": "2026-08-28",
+      "title": "Tumor-on-chip as a personalized platform for rapid drug testing in breast cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42664955/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42664955。",
+      "report": "Breast cancer (BC) continues to pose major therapeutic challenges, emphasizing the need for functional models that can rapidly inform treatment selection. Patient-derived xenografts (PDXs) and organoids (PDOs) are valuable tools for precision oncology, but the...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42664235",
       "date": "2026-08-28",
@@ -521,6 +549,65 @@
       "fact": "PubMed 记录显示该文献收录于 Biology of reproduction，PMID 为 42664235。",
       "report": "Testicular tissue cryopreservation (TTC) is currently the only option to preserve fertility in pre-pubertal individuals with testes. However, reimplantation of tissue collected during TTC has yet to result in a live human birth, despite recent progress in rhes...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42665456",
+      "date": "2026-08-28",
+      "title": "Minimal-alphabet proteins by evolution, engineering, and design.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42665456/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Drug Screening"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Trends in biochemical sciences，PMID 为 42665456。",
+      "report": "Research on the structural and functional potential of minimal amino acid alphabets is shifting from reductive 'pruning' of extant proteins to bottom-up exploration of combinatorial sequence space. This review highlights the experimental and computational tool...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42664958",
+      "date": "2026-08-28",
+      "title": "Development and validation of a serum peptidomic signature for early detection of asymptomatic ovarian cancer: A multi-center prospective study.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42664958/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42664958。",
+      "report": "Early detection of asymptomatic ovarian cancer (asym-OC) remains a critical challenge, the failure of which underlies its high mortality. Performing serum peptidomic profiling of 843 participants in the cohort SOCFCP, we distill 1,081 initial features into a 7...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -598,33 +685,37 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42660654",
+      "id": "pubmed-42664764",
       "date": "2026-08-27",
-      "title": "Proliferation and differentiation in intestinal organoids are balanced by ligand-modulated EGFR trafficking.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "title": "Ovarian borderline tumors and minimally invasive surgery: a narrative review.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42660654/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42664764/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
         "Precision Oncology"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Life science alliance，PMID 为 42660654。",
-      "report": "Epidermal growth factor (EGF) signaling is associated with proliferation and tumorigenesis. Conversely, EGF-family ligands can also trigger a differentiation program, an effect attributed to ligand affinity and EGF receptor (EGFR) activity. Most of these obser...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 European journal of obstetrics, gynecology, and reproductive biology，PMID 为 42664764。",
+      "report": "Borderline ovarian tumors (BOTs) are a distinct subgroup of epithelial ovarian neoplasms that commonly affect women of reproductive age and are associated with excellent overall survival. Management is primarily surgical and requires balancing oncologic consid...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -689,35 +780,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42644609",
-      "date": "2026-08-26",
-      "title": "Engineering peptides into antibodies-opportunities and strategies for therapeutic innovation.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42644609/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 42644609。",
-      "report": "Peptides and antibodies occupy complementary therapeutic niches. Peptides offer compact size and high-affinity recognition of difficult targets, whereas antibodies provide exquisite specificity, long serum half-life, and effector functions. Here we review stra...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42662181",
       "date": "2026-08-26",
       "title": "DNA methylation features and diagnostic model establishment of MET amplification in lung adenocarcinoma.",
@@ -747,6 +809,34 @@
       "fact": "PubMed 记录显示该文献收录于 Therapeutic advances in medical oncology，PMID 为 42662181。",
       "report": "Accurate detection of MET amplification is essential for guiding targeted therapy in lung adenocarcinoma (LUAD). Conventional methods such as FISH are limited by tissue availability, and ctDNA-based liquid biopsy shows limited sensitivity for amplification det...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42664871",
+      "date": "2026-08-25",
+      "title": "Bisphenol mixture impairs offspring social memory via an H4K8 Lactylation-Fyn-Microglial synaptic pruning axis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42664871/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Environment international，PMID 为 42664871。",
+      "report": "Bisphenol A (BPA) and its structural analogs, i.e., bisphenol S (BPS) and bisphenol F (BPF), are commonly incorporated into consumer products, resulting in simultaneous human exposure to multiple bisphenols. Prospective cohort studies have linked prenatal expo...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -845,40 +935,6 @@
       "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42662884。",
       "report": "Liquid biopsy is a transformative tool for precision oncology, yet its clinical use remains variable across healthcare systems, and barriers to its implementation are poorly characterized. This survey aims to assess perceptions and practices related to liquid...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42660516",
-      "date": "2026-08-18",
-      "title": "Cancer Research and Development in South Korea, 2006-2024: A Text-Mining Analysis of National Science & Technology Information Service (NTIS) Records.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42660516/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer research and treatment，PMID 为 42660516。",
-      "report": "To characterize trends and structural patterns in government-funded cancer research and development (R&D) in South Korea using National Science & Technology Information Service (NTIS) records. We analyzed all NTIS projects during 2006-2024 (n=519,618), extract...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1001,34 +1057,6 @@
       "fact": "PubMed 记录显示该文献收录于 Pharmaceuticals (Basel, Switzerland)，PMID 为 42653762。",
       "report": "Advances in computational methods have significantly impacted protein design and drug development by offering innovative ways to accelerate the discovery and optimization of therapeutics [...].",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42661856",
-      "date": "2026-08-10",
-      "title": "Predictive biomarkers for cetuximab-based rechallenge therapy in metastatic colorectal cancer: a pooled analysis of the CAVE and CAVE-2 GOIM studies.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42661856/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 ESMO gastrointestinal oncology，PMID 为 42661856。",
-      "report": "Anti-epidermal growth factor receptor (EGFR) therapy is a therapeutic option in patients with molecularly selected metastatic colorectal cancer (mCRC). However, the identification of predictive factors represents an unmet need. We conducted a pooled analysis o...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1181,36 +1209,6 @@
       "fact": "PubMed 记录显示该文献收录于 Briefings in bioinformatics，PMID 为 42649115。",
       "report": "Evolution-guided protein design remains one of the most effective strategies for engineering proteins with enhanced stability, activity, or specificity. To make these approaches more accessible, we previously developed FireProtASR-a fully automated pipeline fo...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42661999",
-      "date": "2026-06-02",
-      "title": "Oncolytic viruses in cancer therapy development: the evolution of cell culture models in preclinical research.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42661999/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Virusdisease，PMID 为 42661999。",
-      "report": "Cancer immunotherapy has transformed oncology; however, its efficacy remains limited in immunologically \"cold\" tumors with poor immune infiltration. Oncolytic virotherapy (OVT) offers a promising solution through dual mechanisms of selective tumor lysis and im...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
