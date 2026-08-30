@@ -6648,7 +6648,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-akeso-official-5f6e3e585856",
             "date": "2026-08-28",
             "title": "Akeso, Inc | Home",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -6679,7 +6679,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-akeso-official-5f6e3e585856",
           "date": "2026-08-28",
           "title": "Akeso, Inc | Home",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -35385,7 +35385,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-crispr-therapeutics-official-4896d033c3d0",
             "date": "2026-08-28",
             "title": "Home | CRISPR Therapeutics",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -35463,7 +35463,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-crispr-therapeutics-official-4896d033c3d0",
           "date": "2026-08-28",
           "title": "Home | CRISPR Therapeutics",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -38639,7 +38639,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Backed by a uniquely close collaboration with the FDA—including the first and only Organ‑Chip accepted into the ISTAND program for DILI evaluation 3 —Emulate is the partner positioned to help you meet tomorrow’s regulatory standards, accelerate development timelines, and bring…",
             "text": "Backed by a uniquely close collaboration with the FDA—including the first and only Organ‑Chip accepted into the ISTAND program for DILI evaluation 3 —Emulate is the partner positioned to help you meet tomorrow’s regulatory standards, accelerate development timelines, and bring…",
-            "evidenceId": "evidence-company-emulate-official-4e2211d55c8e",
+            "evidenceId": "evidence-company-emulate-official-8d0814680e62",
             "sourceUrl": "https://emulatebio.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -38647,7 +38647,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The future of drug development is human.",
             "text": "The future of drug development is human.",
-            "evidenceId": "evidence-company-emulate-official-4e2211d55c8e",
+            "evidenceId": "evidence-company-emulate-official-8d0814680e62",
             "sourceUrl": "https://emulatebio.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -38655,7 +38655,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The AVATAR Program: Modeling Human Bone Marrow Beyond Earth’s Orbit",
             "text": "The AVATAR Program: Modeling Human Bone Marrow Beyond Earth’s Orbit",
-            "evidenceId": "evidence-company-emulate-official-4e2211d55c8e",
+            "evidenceId": "evidence-company-emulate-official-8d0814680e62",
             "sourceUrl": "https://emulatebio.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -38663,7 +38663,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Emulate Launches Brain-Chip R1 to Advance Neurological Drug Development, in Partnership with FUJIFILM Cellular Dynamics",
             "text": "Emulate Launches Brain-Chip R1 to Advance Neurological Drug Development, in Partnership with FUJIFILM Cellular Dynamics",
-            "evidenceId": "evidence-company-emulate-official-4e2211d55c8e",
+            "evidenceId": "evidence-company-emulate-official-8d0814680e62",
             "sourceUrl": "https://emulatebio.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -38671,7 +38671,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response.",
             "text": "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response.",
-            "evidenceId": "evidence-company-emulate-official-4e2211d55c8e",
+            "evidenceId": "evidence-company-emulate-official-8d0814680e62",
             "sourceUrl": "https://emulatebio.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -38679,7 +38679,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Building a Human-Centric Future for Biologics Development with Organ-on-a-Chip Technology",
             "text": "Building a Human-Centric Future for Biologics Development with Organ-on-a-Chip Technology",
-            "evidenceId": "evidence-company-emulate-official-4e2211d55c8e",
+            "evidenceId": "evidence-company-emulate-official-8d0814680e62",
             "sourceUrl": "https://emulatebio.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -38687,7 +38687,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-emulate-official-4e2211d55c8e",
+          "evidence-company-emulate-official-8d0814680e62",
           "evidence-company-emulate-pipeline-c40a3b65d6e4"
         ]
       },
@@ -38695,14 +38695,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-emulate-official-4e2211d55c8e",
-            "date": "2026-08-23",
+            "id": "event-evidence-company-emulate-official-8d0814680e62",
+            "date": "2026-08-30",
             "title": "Emulate | Organ-Chips for Research & Development",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-emulate-official-4e2211d55c8e",
+            "evidenceId": "evidence-company-emulate-official-8d0814680e62",
             "sourceUrl": "https://emulatebio.com/"
           },
           {
@@ -38728,7 +38728,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-08-23",
+        "lastEvidenceDate": "2026-08-30",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -38737,14 +38737,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-emulate-official-4e2211d55c8e",
-          "date": "2026-08-23",
+          "id": "event-evidence-company-emulate-official-8d0814680e62",
+          "date": "2026-08-30",
           "title": "Emulate | Organ-Chips for Research & Development",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-emulate-official-4e2211d55c8e",
+          "evidenceId": "evidence-company-emulate-official-8d0814680e62",
           "sourceUrl": "https://emulatebio.com/"
         },
         {
@@ -56212,7 +56212,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-natera-official-5a3f354ee77a",
             "date": "2026-08-28",
             "title": "Natera: A global leader in cell-free DNA testing",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -56288,7 +56288,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-natera-official-5a3f354ee77a",
           "date": "2026-08-28",
           "title": "Natera: A global leader in cell-free DNA testing",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -59225,7 +59225,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
             "text": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59233,7 +59233,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Oxford Nanopore Technologies products are RUO.",
             "text": "Oxford Nanopore Technologies products are RUO.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59241,15 +59241,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
             "text": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
-            "sourceUrl": "https://nanoporetech.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
-            "text": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
-            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59257,8 +59249,16 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
             "text": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
-            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
             "sourceUrl": "https://nanoporetech.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
+            "text": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
+            "evidenceId": "evidence-company-oxford-nanopore-pipeline-cc2146b5a187",
+            "sourceUrl": "https://nanoporetech.com/platform",
             "needsReview": true,
             "claimType": "Report"
           },
@@ -59273,7 +59273,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+          "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
           "evidence-company-oxford-nanopore-pipeline-cc2146b5a187"
         ]
       },
@@ -59281,14 +59281,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-oxford-nanopore-official-b5a006d4fd7e",
-            "date": "2026-08-27",
+            "id": "event-evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+            "date": "2026-08-30",
             "title": "Welcome to Oxford Nanopore Technologies",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
             "sourceUrl": "https://nanoporetech.com/"
           },
           {
@@ -59314,7 +59314,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-08-27",
+        "lastEvidenceDate": "2026-08-30",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -59323,14 +59323,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-oxford-nanopore-official-b5a006d4fd7e",
-          "date": "2026-08-27",
+          "id": "event-evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+          "date": "2026-08-30",
           "title": "Welcome to Oxford Nanopore Technologies",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+          "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
           "sourceUrl": "https://nanoporetech.com/"
         },
         {
@@ -67505,7 +67505,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-sumitomo-pharma-official-2377fdcdf73d",
             "date": "2026-08-28",
             "title": "Sumitomo Pharma Co., Ltd.",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -67547,7 +67547,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-sumitomo-pharma-official-2377fdcdf73d",
           "date": "2026-08-28",
           "title": "Sumitomo Pharma Co., Ltd.",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,

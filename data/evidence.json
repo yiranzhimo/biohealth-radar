@@ -3508,7 +3508,7 @@
       "publishedAt": "2026-08-28",
       "snapshotDate": "2026-08-28",
       "title": "Akeso, Inc | Home",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Akeso — Official Website",
@@ -3538,7 +3538,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "5f6e3e5858569a6114f0dd9240f5af914832b0a5e832ff941eef59e7943fab5a",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Akeso 2026 Interim Results: Strong Commercialization Momentum; IO2.0+ Global Strategy Redefining Clinical Standards; Bispecific Advancement in ADC, I&I and Alzheimer's",
@@ -37924,7 +37924,7 @@
       "publishedAt": "2026-08-28",
       "snapshotDate": "2026-08-28",
       "title": "Home | CRISPR Therapeutics",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "CRISPR Therapeutics — Official Website",
@@ -37954,7 +37954,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "4896d033c3d04a97fd8f4e6ce455cc03db940c0a9c2f7d454abb4f48683808d2",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "CASGEVY™ (exagamglogene autotemcel), a CRISPR/Cas9 gene-edited therapy arising out of our collaboration with Vertex Pharmaceuticals Incorporated, is approved in some countries for certain eligible patients with sickle cell disease or transfusion-dependent beta thalassemia.",
@@ -38025,15 +38025,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-emulate-official-4e2211d55c8e",
+      "id": "evidence-company-emulate-official-8d0814680e62",
       "signalId": null,
       "companyIds": [
         "emulate"
       ],
-      "publishedAt": "2026-08-23",
-      "snapshotDate": "2026-08-23",
+      "publishedAt": "2026-08-30",
+      "snapshotDate": "2026-08-30",
       "title": "Emulate | Organ-Chips for Research & Development",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Emulate — Official Website",
@@ -38049,7 +38049,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 4e2211d55c8e2dd7ec8dda71dcecea24b161f244b2015528db43f4905055b59c.",
+      "fact": "The official page was captured with normalized-content hash 8d0814680e622fb6200e9a49aee6b3c1957007b4e1b3851bf15c3c308b323bd6.",
       "report": "公司官方页面表述：下一代器官芯片技术使研究人员能够模拟生物学并预测人类反应。立即开始。",
       "reportOriginal": "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response. Get started today.",
       "reportCn": "下一代器官芯片技术使研究人员能够模拟生物学并预测人类反应。立即开始。",
@@ -38062,8 +38062,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "4e2211d55c8e2dd7ec8dda71dcecea24b161f244b2015528db43f4905055b59c",
-      "changeType": "unchanged",
+      "contentHash": "8d0814680e622fb6200e9a49aee6b3c1957007b4e1b3851bf15c3c308b323bd6",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response.",
@@ -39416,7 +39416,7 @@
       "publishedAt": "2026-08-28",
       "snapshotDate": "2026-08-28",
       "title": "Natera: A global leader in cell-free DNA testing",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Natera — Official Website",
@@ -39446,7 +39446,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "5a3f354ee77a4cb3668f8ebca6457098ca6546bcd3cfed6fcb644ac81038ef93",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
@@ -39806,15 +39806,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+      "id": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
       "signalId": null,
       "companyIds": [
         "oxford-nanopore"
       ],
-      "publishedAt": "2026-08-27",
-      "snapshotDate": "2026-08-27",
+      "publishedAt": "2026-08-30",
+      "snapshotDate": "2026-08-30",
       "title": "Welcome to Oxford Nanopore Technologies",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Oxford Nanopore Technologies — Official Website",
@@ -39830,7 +39830,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash b5a006d4fd7e86315fa9f0f9ab18724b0d37d937b55c6f15a16569677978dc9e.",
+      "fact": "The official page was captured with normalized-content hash ae4e03d0fba07710844aa320dbca27149745e368be42c17c07d1fa90a363a51c.",
       "report": "公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
       "reportOriginal": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
       "reportCn": "发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
@@ -39843,14 +39843,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "b5a006d4fd7e86315fa9f0f9ab18724b0d37d937b55c6f15a16569677978dc9e",
-      "changeType": "unchanged",
+      "contentHash": "ae4e03d0fba07710844aa320dbca27149745e368be42c17c07d1fa90a363a51c",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
         "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-        "Search Oxford Nanopore Technologies Which site do you wish to search in?",
-        "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology"
+        "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
+        "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling."
       ],
       "businessExcerpts": [],
       "productExcerpts": [
@@ -40250,7 +40250,7 @@
       "publishedAt": "2026-08-28",
       "snapshotDate": "2026-08-28",
       "title": "Sumitomo Pharma Co., Ltd.",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Sumitomo Pharma — Official Website",
@@ -40280,7 +40280,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "2377fdcdf73d56551a9f9ac46ba113df5d13f16f9825a56ebb45107c9194cd92",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
