@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-29T20:57:57.896055+00:00",
+  "capturedAt": "2026-08-30T05:29:34.026459+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-08-29",
-    "end": "2026-08-29"
+    "start": "2025-08-30",
+    "end": "2026-08-30"
   },
   "pmids": [
+    "42668049",
+    "42667948",
+    "42667716",
+    "42667643",
     "42667215",
     "42667147",
-    "42667089",
-    "42665862",
-    "42665637",
-    "42664955",
     "42667121",
     "42656114",
     "42653123",
@@ -40,6 +40,81 @@
     "42664476"
   ],
   "records": [
+    {
+      "pmid": "42668049",
+      "title": "Engineering considerations for 3D cell culture and disease modelling on-chip platforms: A review.",
+      "abstract": "In the era of miniaturization, the advent of sensors and chips is rapidly increasing for systematic investigation, monitoring and diagnosing unprecedented diseases in preclinical and clinical research. Early-stage detection demands a miniaturized platform/ artificial model in clinical laboratories and healthcare centers. This enables us to investigate and study the physiological processes of the samples and the drug's efficacy on them in a cost-effective and time-efficient manner. The technology of chip systems is rapidly evolving in an attempt to bridge the gaps between preclinical and clinical studies, as well as their wide applications in research laboratories in low-resource settings. Emerging research is focusing on 3D cell culture in microfluidic devices in order to facilitate the uniform distribution of nutrients and in-vitro investigation for assessing various biological processes and phenomena due to limitations in conventional 2D cell culture. It is crucial to understand extensively the significant parameters associated with the development of microfluidic chips for culturing and forming uniform 3D cell masses. The goal of this review is to highlight the various on-chip models that offer precise control over the size of 3D aggregates and their respective microenvironment, making them suitable for drug screening and delivery in therapeutic applications. Additionally, the manuscript discusses the design considerations and feasible microfabrication techniques for generating tumor models, organoids, or organ-on-chips, and the respective computational parameters that govern nutrient flow and permeation, growth conditions, and the microenvironment, cultivating the state-of-the-art microfluidic chips for 3D cell culture.",
+      "journal": "Methods (San Diego, Calif.)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "OBMS Lab, Department of Biotechnology and Medical Engineering, National Institute of Technology Rourkela, Rourkela, Odisha, India.",
+        "The Laboratory of Biomimetic Engineering, Department of Chemical Engineering, UCT Prague, Technická 3, Prague 6 16000, Czech Republic.",
+        "BDMD and BMISP Lab, Department of Biotechnology and Medical Engineering, National Institute of Technology Rourkela, Rourkela, Odisha, India.",
+        "McGill University, Faculty of Engineering, Department of Bioengineering, Montreal, Quebec H3A 0C3, Canada.",
+        "OBMS Lab, Department of Biotechnology and Medical Engineering, National Institute of Technology Rourkela, Rourkela, Odisha, India. Electronic address: banothe@nitrkl.ac.in."
+      ],
+      "doi": "10.1016/j.ymeth.2026.08.009",
+      "date": "2026-08-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42668049/"
+    },
+    {
+      "pmid": "42667948",
+      "title": "XPO1 inhibition enhances the efficacy and durability of RAS-targeted therapy in preclinical models of KRASG12D mutant pancreatic ductal adenocarcinoma.",
+      "abstract": "KRASG12D-selective and pan-RAS inhibitors have shown promise in pancreatic ductal adenocarcinoma (PDAC), yet adaptive resistance is anticipated to limit durability of response. Exportin 1 (XPO1), a nuclear export protein frequently overexpressed in PDAC, represents a potential vulnerability in KRAS-mutant cancers. We evaluated whether pharmacologic inhibition of XPO1 enhances therapeutic efficacy and durability of KRAS pathway inhibition. KRASG12D inhibitor- and pan-RAS inhibitor-resistant PDAC cellular models were generated and assessed for sensitivity to the second-generation XPO1 inhibitor Eltanexor. Antiproliferative synergistic effects of Eltanexor combined with MRTX1133, Zoldonrasib (RMC9805), or Daraxonrasib (RMC6236) were evaluated in PDAC 2D cultures, 3D spheroids, patient-derived organoids, and tumor-fibroblast co-culture models. Eltanexor sensitized KRAS inhibitor-resistant PDAC cells and synergistically enhanced growth suppression across multiple KRASG12D-mutant models. Combination treatment reduced clonogenic survival, disrupted 3D spheroid integrity, and significantly inhibited viability of patient-derived organoids. The in vivo efficacy of the combination was tested in PDAC cell-derived xenograft/allograft and patient-derived xenograft models. Combining sub-therapeutic doses of Eltanexor with allele-specific inhibitors or pan-RASi resulted in significant tumor regression, prevention of metastatic spread and prolonged survival in vivo. Notably, Eltanexor maintenance therapy suppressed tumor regrowth following RAS inhibitor withdrawal and preserved responsiveness upon re-challenge. Mechanistically, molecular and phosphokinome profiling showed that the combination broadened suppression of MAPK- and mTOR-associated signaling and reduced activity of multiple oncogenic kinases. In conclusion, XPO1 inhibitor Eltanexor enhances the efficacy and durability of KRAS and pan-RAS inhibition in PDAC models. These findings provide a preclinical rationale for clinically evaluating Eltanexor in combination with RAS-targeted therapies to delay or overcome adaptive resistance in KRAS-mutant PDAC.",
+      "journal": "Cancer letters",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Oncology, Wayne State University School of Medicine, Barbara Ann Karmanos Cancer Institute, Detroit, MI 48201, USA.",
+        "Department of Pathology, Wayne State University School of Medicine, Barbara Ann Karmanos Cancer Institute, Detroit, MI 48201 USA.",
+        "University of California Irvine School of Medicine, Orange, CA, USA.",
+        "Henry Ford Cancer Institute - Henry Ford Health System, Detroit, MI, 48202, USA.",
+        "Department of Hematology and Oncology, University of California San Diego, Moores Comprehensive Cancer Center, San Diego, CA, 92037, USA.",
+        "Department of Hematology and Oncology, University of Alabama at Birmingham, O'Neill Comprehensive Cancer Center, Birmingham, AL, 48009 USA.",
+        "Department of Oncology, Wayne State University School of Medicine, Barbara Ann Karmanos Cancer Institute, Detroit, MI 48201, USA. Electronic address: azmia@karmanos.org."
+      ],
+      "doi": "10.1016/j.canlet.2026.218804",
+      "date": "2026-08-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667948/"
+    },
+    {
+      "pmid": "42667716",
+      "title": "Benzo[a]pyrene-induced AHR activation in human ESCs primes premature neurogenesis in cerebral organoids.",
+      "abstract": "Benzo[a]pyrene (BaP), a representative polycyclic aromatic hydrocarbon (PAH), is a widespread environmental toxicant and potent ligand of the aryl hydrocarbon receptor (AHR). Yet, how early developmental exposure to BaP influences human neurodevelopment remains poorly understood. To identify an appropriate exposure window, we characterized AHR expression during human embryonic stem cell (ESC)-derived cerebral organoid development and observed the highest expression at the ESC stage, followed by a decline during subsequent differentiation, highlighting the ESC stage as a potentially vulnerable stage for AHR-mediated environmental perturbation. Based on this observation, ESCs were exposed to BaP (0.1, 1 μM) for 7 days prior to organoid generation. BaP exposure did not alter pluripotency, proliferation, cell death, or global transcription of ESCs but increased expression of a subset of AHR target genes. Remarkably, however, organoids derived from BaP-exposed ESCs exhibited profound morphological defects resulting from premature neurogenesis, characterized by disrupted neural rosette organization, reduced EOMES⁺ intermediate progenitors, and increased BCL11B⁺ neurons. Pharmacological inhibition of AHR with CH-223191 attenuated AHR activation and rescued the progenitor-neuron imbalance. These findings identify AHR signaling as a critical upstream mediator of BaP-induced developmental neurotoxicity and highlight the vulnerability of early pluripotent stages to environmental insults.",
+      "journal": "Journal of hazardous materials",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, 262 Danny Thomas Place, Memphis, TN 38105, USA.",
+        "Department of Chemical Biology and Therapeutics, St. Jude Children's Research Hospital, 262 Danny Thomas Place, Memphis, TN 38105, USA.",
+        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, 262 Danny Thomas Place, Memphis, TN 38105, USA. Electronic address: Young-Goo.Han@stjude.org."
+      ],
+      "doi": "10.1016/j.jhazmat.2026.143419",
+      "date": "2026-08-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667716/"
+    },
+    {
+      "pmid": "42667643",
+      "title": "Impact of Highly Effective Modulator Therapy on Olfactory-Specific Gene Expression in People With Cystic Fibrosis.",
+      "abstract": "Chronic rhinosinusitis is common in people with cystic fibrosis (PwCF). Highly effective modulator therapy (HEMT) has been shown to improve sinonasal outcomes. However, prior studies failed to show improvement in objective olfaction with HEMT, and the impact of HEMT on olfactory-specific quality of life has yet to be studied. Furthermore, the underlying changes in gene expression within the olfactory epithelium (OE) of PwCF remains poorly understood. Single-center cross-sectional cohort study of PwCF. Patients with no history of cystic fibrosis (CF) or comorbid sinus disease were used as controls. Olfactory-specific quality-of-life (QOD-NS) and objective olfactory testing (Sniffin' Sticks comprehensive test) were collected. Cytology brushings from the OE were obtained to isolate RNA for olfactory-specific gene expression (OMP, TUJ1, KRT5, SOX2, OR9K2, and OR5AN1). Fifty PwCF were enrolled (HEMT n = 32, non-HEMT n = 18, and control n = 17). A significant difference was found for QOD-NS (p = 0.041) but not for objective olfaction (p = 0.72) by HEMT status. There was a significant difference between HEMT and non-HEMT cohorts for SOX2 gene expression (p = 0.016); there were no significant differences observed in other markers. Comparing PwCF to controls, significant differences were found in gene expression across all markers. HEMT is associated with QOD-NS but not objective olfaction in PwCF. HEMT may impact gene expression of support cells in the OE but does not appear to affect olfactory neuronal gene expression. This suggests PwCF have early and irreversible damage to the OE. Further studies are necessary to better understand CF-induced changes to the OE.",
+      "journal": "International forum of allergy & rhinology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Otorhinolaryngology-Head and Neck Surgery, University of Pennsylvania, Philadelphia, Pennsylvania, USA.",
+        "Division of Pulmonary, Allergy and Critical Care, Department of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, USA.",
+        "Corporal Michael J. Crescenz Veterans Affairs Medical Center, Philadelphia, Pennsylvania, USA.",
+        "Monell Chemical Senses Center, Philadelphia, Pennsylvania, USA."
+      ],
+      "doi": "10.1002/alr.70253",
+      "date": "2026-08-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667643/"
+    },
     {
       "pmid": "42667215",
       "title": "An Engineering-Editable Hybrid Membrane‑Camouflaged DNA Origami Drug Enables Checkpoint Blockade and Immune Activation for Triple-Negative Breast Cancer Immunotherapy.",
@@ -73,83 +148,6 @@
       "doi": "10.1002/advs.77397",
       "date": "2026-08-29",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667147/"
-    },
-    {
-      "pmid": "42667089",
-      "title": "Organization from cell to tissue derived delivery systems for immunotherapy.",
-      "abstract": "Dysregulation of the immune system drives a broad spectrum of diseases, including cancers, autoimmune disorders, and neuro-immune conditions. Immunotherapy has advanced from small-molecule drugs to biomacromolecular agents and living cell therapies, yet conventional synthetic delivery platforms struggle to preserve the structural integrity, bioactivity, and long-term viability of these complex payloads in vivo. Biologically derived drug delivery systems (BDDS) have emerged as a promising class of carriers that harness natural organelles, cells, and tissues to achieve high loading capacity, inherent biocompatibility, bioresponsive targeting, and controlled release. This review systematically examines the hierarchical organization of BDDS across nanoscale, microscale, and macroscale levels and emphasizes their distinct biological advantages, engineering features, and translational potential. We detail the material sourcing, isolation techniques, drug-loading, surface modification, and genetic engineering strategies, as well as considerations for scalable manufacturing. Representative platforms are highlighted for their ability to cross biological barriers, modulate immune microenvironment, and treat cancers, autoimmune diseases, and neuroinflammation. In addition, the emerging biosynthetic alternatives including membraneless organelle condensates, artificial cells, and advanced organoids, are discussed as next-generation platforms that may overcome the limitations of natural BDDS. Finally, we outline current challenges in the heterogeneity, large-scale production, and clinical translation, while proposing future directions including the reasonable administration routes, cross-scale hierarchical integrated platform designs and emerging computational and engineering technologies to accelerate the development of BDDS-based immunotherapies.",
-      "journal": "Materials today. Bio",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "State Key Laboratory of Advanced Drug Delivery and Release Systems, School of Pharmacy, Zhejiang University, Hangzhou, China.",
-        "Jinhua Institute of Zhejiang University, Jinhua, China.",
-        "Department of Hepatobiliary and Pancreatic Surgery, The Second Affiliated Hospital, School of Medicine, Zhejiang University, Hangzhou, China."
-      ],
-      "doi": "10.1016/j.mtbio.2026.103570",
-      "date": "2026-08-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667089/"
-    },
-    {
-      "pmid": "42665862",
-      "title": "A Receptor-Mediated Endolysosomal Recycling Chimera Enables Catalytic TNF-α Degradation for Sustained Treatment of Mucosal Inflammation.",
-      "abstract": "Mucosal inflammatory disorders such as dry eye disease (DED) and inflammatory bowel disease (IBD), driven by TNF-α-mediated immune-epithelial crosstalk, remain therapeutically challenging. Conventional inhibitors often suffer from poor mucosal permeability and transient efficacy with 1:1 binding. Although extracellular protein degradation (eTPD) technologies can eliminate pathogenic proteins, most of them operate stoichiometrically, limiting dosage efficiency and durability. Here, we report a receptor-mediated endolysosomal recycling chimera (RECYC) platform that enables catalytic, recyclable degradation of TNF-α with multiple turnovers, achieving sustained suppression of mucosal inflammation. RECYC integrates a pH-responsive peptide that binds TNF-α at physiological pH and releases it in acidic endosomes, with a CI-M6PR-targeting aptamer that remains pH-stable to drive continuous recycling. The anti-TNF-α RECYC achieved efficient uptake and recyclable clearance of extracellular TNF-α across conjunctival and colonic epithelial cells and macrophages, achieving superstoichiometric TNF-α clearance with up to 7.5 catalytic turnovers. The ∼30 kDa RECYC exhibited superior tissue penetration in murine cornea and colon compared to inhibitory antibodies. In murine DED and IBD models, RECYC restored ocular surface homeostasis and reduced colon inflammation with low-dose, infrequent administration. Human corneal limbus organoids further confirmed prolonged anti-inflammatory activity. Together, RECYC establishes a modular, recyclable eTPD platform for sustained treatment of TNF-α-driven mucosal inflammation.",
-      "journal": "Advanced materials (Deerfield Beach, Fla.)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Institute of Chemical Biology and Nanomedicine, State Key Laboratory of Chemo and Biosensing, Hunan Provincial Key Laboratory of Biomacromolecular Chemical Biology, College of Chemistry and Chemical Engineering, Hunan University, Changsha, China.",
-        "Department of Ophthalmology, Eye & ENT Hospital, State Key Laboratory of Brain Function and Disorders, MOE Frontiers Center for Brain Science, Fudan University, Shanghai, China.",
-        "Department of Ophthalmology, Mianyang 404 Hospital, Sichuan, China.",
-        "Research Institute of Hunan University in Chongqing, Chongqing, China.",
-        "Shanghai Key Laboratory of Gene Editing and Cell Therapy for Rare Diseases；Shanghai Engineering Research Center of Synthetic Immunology, Fudan University, Shanghai, China.",
-        "NHC Key Laboratory of Myopia and Related Eye Diseases, Shanghai, China.",
-        "Department of Ophthalmology, Children's Hospital of Fudan University, National Pediatric Medical Center of China, Shanghai, China.",
-        "Department of Ophthalmology, Jinjiang Second Hospital, Fujian Province, China."
-      ],
-      "doi": "10.1002/adma.74818",
-      "date": "2026-08-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42665862/"
-    },
-    {
-      "pmid": "42665637",
-      "title": "What 5-year-old brain organoids can teach us.",
-      "abstract": "",
-      "journal": "Nature medicine",
-      "publicationTypes": [
-        "News"
-      ],
-      "affiliations": [],
-      "doi": "10.1038/d41591-026-00044-0",
-      "date": "2026-08-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42665637/"
-    },
-    {
-      "pmid": "42664955",
-      "title": "Tumor-on-chip as a personalized platform for rapid drug testing in breast cancer.",
-      "abstract": "Breast cancer (BC) continues to pose major therapeutic challenges, emphasizing the need for functional models that can rapidly inform treatment selection. Patient-derived xenografts (PDXs) and organoids (PDOs) are valuable tools for precision oncology, but their clinical utility is limited by inconsistent success rates and lengthy timelines. Here, we develop a tumor-on-chip (ToC) platform enabling functional drug sensitivity profiling within 4 days. ToC models show high reproducibility and a strong concordance with in vivo PDX responses. Drug sensitivity is correctly identified in 88% of PDX-responsive cases, while resistance was detected in 91%, with no false positives at clinically relevant concentrations. We design a chip compatible with minimal BC biopsy material. Proof-of-concept studies on patient samples show that the platform can distinguish sensitive and resistant profiles. These findings support the translational potential of ToC models for rapid personalized drug profiling in BC, laying the ground for their integration into clinical decision-making workflows.",
-      "journal": "Cell reports. Medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Institut Curie, CNRS UMR168, Laboratoire Physico Chimie Curie, Institut Pierre-Gilles de Gennes, PSL Research University, 75005 Paris, France; Institut Curie, Medical Oncology Department, 75005 Paris, France.",
-        "Institut Curie, CNRS UMR168, Laboratoire Physico Chimie Curie, Institut Pierre-Gilles de Gennes, PSL Research University, 75005 Paris, France.",
-        "Institut Curie, INSERM U1339, CNRS UMR3666, Stress and Cancer Laboratory, PSL Research University, 26 rue d'Ulm, 75005 Paris, France.",
-        "Institut Curie, Laboratory of Preclinical Investigation, Translational Research Department, 75005 Paris, France.",
-        "Université Paris Cité, Thoracic Oncology Department and CIC INSERM 1425, Hôpital Bichat-Claude Bernard, 75018 Paris, France.",
-        "Institut Curie, Children's Oncology Research Unit U1330, Paris, France.",
-        "Institut Curie, Pathology Department, 75005 Paris, France.",
-        "Institut Curie, Radiology Department, 75005 Paris, France.",
-        "Institut Curie, INSERM U1339, CNRS UMR3666, Stress and Cancer Laboratory, PSL Research University, 26 rue d'Ulm, 75005 Paris, France. Electronic address: maria-carla.parrini@curie.fr.",
-        "Institut Curie, Medical Oncology Department, 75005 Paris, France. Electronic address: luc.cabel@curie.fr.",
-        "Institut Curie, CNRS UMR168, Laboratoire Physico Chimie Curie, Institut Pierre-Gilles de Gennes, PSL Research University, 75005 Paris, France. Electronic address: stephanie.descroix@curie.fr."
-      ],
-      "doi": "10.1016/j.xcrm.2026.103011",
-      "date": "2026-08-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42664955/"
     },
     {
       "pmid": "42667121",
@@ -389,7 +387,8 @@
       "journal": "Journal of translational medicine",
       "publicationTypes": [
         "Journal Article",
-        "Review"
+        "Review",
+        "Research Support, Non-U.S. Gov't"
       ],
       "affiliations": [
         "Third Department of Hepatic Surgery, Shanghai Eastern Hepatobiliary Surgery Hospital, Shanghai, 200438, China.",
@@ -487,6 +486,94 @@
   ],
   "signals": [
     {
+      "id": "pubmed-42668049",
+      "date": "2026-08-29",
+      "title": "Engineering considerations for 3D cell culture and disease modelling on-chip platforms: A review.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42668049/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Methods (San Diego, Calif.)，PMID 为 42668049。",
+      "report": "In the era of miniaturization, the advent of sensors and chips is rapidly increasing for systematic investigation, monitoring and diagnosing unprecedented diseases in preclinical and clinical research. Early-stage detection demands a miniaturized platform/ art...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42667948",
+      "date": "2026-08-29",
+      "title": "XPO1 inhibition enhances the efficacy and durability of RAS-targeted therapy in preclinical models of KRASG12D mutant pancreatic ductal adenocarcinoma.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667948/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42667948。",
+      "report": "KRASG12D-selective and pan-RAS inhibitors have shown promise in pancreatic ductal adenocarcinoma (PDAC), yet adaptive resistance is anticipated to limit durability of response. Exportin 1 (XPO1), a nuclear export protein frequently overexpressed in PDAC, repre...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42667643",
+      "date": "2026-08-29",
+      "title": "Impact of Highly Effective Modulator Therapy on Olfactory-Specific Gene Expression in People With Cystic Fibrosis.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667643/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International forum of allergy & rhinology，PMID 为 42667643。",
+      "report": "Chronic rhinosinusitis is common in people with cystic fibrosis (PwCF). Highly effective modulator therapy (HEMT) has been shown to improve sinonasal outcomes. However, prior studies failed to show improvement in objective olfaction with HEMT, and the impact o...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42667215",
       "date": "2026-08-29",
       "title": "An Engineering-Editable Hybrid Membrane‑Camouflaged DNA Origami Drug Enables Checkpoint Blockade and Immune Activation for Triple-Negative Breast Cancer Immunotherapy.",
@@ -581,16 +668,16 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42665862",
+      "id": "pubmed-42667716",
       "date": "2026-08-28",
-      "title": "A Receptor-Mediated Endolysosomal Recycling Chimera Enables Catalytic TNF-α Degradation for Sustained Treatment of Mucosal Inflammation.",
+      "title": "Benzo[a]pyrene-induced AHR activation in human ESCs primes premature neurogenesis in cerebral organoids.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42665862/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667716/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -603,68 +690,8 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced materials (Deerfield Beach, Fla.)，PMID 为 42665862。",
-      "report": "Mucosal inflammatory disorders such as dry eye disease (DED) and inflammatory bowel disease (IBD), driven by TNF-α-mediated immune-epithelial crosstalk, remain therapeutically challenging. Conventional inhibitors often suffer from poor mucosal permeability and...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42665637",
-      "date": "2026-08-28",
-      "title": "What 5-year-old brain organoids can teach us.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42665637/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature medicine，PMID 为 42665637。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42664955",
-      "date": "2026-08-28",
-      "title": "Tumor-on-chip as a personalized platform for rapid drug testing in breast cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42664955/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42664955。",
-      "report": "Breast cancer (BC) continues to pose major therapeutic challenges, emphasizing the need for functional models that can rapidly inform treatment selection. Patient-derived xenografts (PDXs) and organoids (PDOs) are valuable tools for precision oncology, but the...",
+      "fact": "PubMed 记录显示该文献收录于 Journal of hazardous materials，PMID 为 42667716。",
+      "report": "Benzo[a]pyrene (BaP), a representative polycyclic aromatic hydrocarbon (PAH), is a widespread environmental toxicant and potent ligand of the aryl hydrocarbon receptor (AHR). Yet, how early developmental exposure to BaP influences human neurodevelopment remain...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1009,36 +1036,6 @@
       "fact": "PubMed 记录显示该文献收录于 Sheng wu yi xue gong cheng xue za zhi = Journal of biomedical engineering = Shengwu yixue gongchengxue zazhi，PMID 为 42656114。",
       "report": "In order to accurately identify tumor boundaries and improve diagnostic efficiency, this study proposes a multi-modal tumor boundary identification method based on artificial intelligence virtual cells and saliency near-infrared spectrum imaging, and uses this...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42667089",
-      "date": "2026-08-14",
-      "title": "Organization from cell to tissue derived delivery systems for immunotherapy.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667089/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Materials today. Bio，PMID 为 42667089。",
-      "report": "Dysregulation of the immune system drives a broad spectrum of diseases, including cancers, autoimmune disorders, and neuro-immune conditions. Immunotherapy has advanced from small-molecule drugs to biomacromolecular agents and living cell therapies, yet conven...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

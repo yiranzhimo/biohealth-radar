@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-08-29",
+  "updatedAt": "2026-08-30",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -821,6 +821,224 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42668049",
+      "date": "2026-08-29",
+      "title": "Engineering considerations for 3D cell culture and disease modelling on-chip platforms: A review.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42668049/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Methods (San Diego, Calif.)，PMID 为 42668049。",
+      "report": "In the era of miniaturization, the advent of sensors and chips is rapidly increasing for systematic investigation, monitoring and diagnosing unprecedented diseases in preclinical and clinical research. Early-stage detection demands a miniaturized platform/ art...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_08b1dd92eed3a904006a93bfc6ee0c87d2a5dcd3541b1d6815",
+        "reviewedAt": "2026-08-30T05:29:41.566914+00:00",
+        "inputHash": "117fe906d3e7e9de19a65bd4b0bebebff816d7b66b18297064b8d18c936936cf",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录中信息清晰，符合出版标准，没有提出未经支持的疗效或安全性结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要和次要类别与学术内容合理匹配。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "报告和推论部分清晰，有助于提供背景信息。"
+        },
+        "riskFlags": [
+          "commercial_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Methods (San Diego, Calif.)，PMID 为 42668049。",
+          "report": "In the era of miniaturization, the advent of sensors and chips is rapidly increasing for systematic investigation, monitoring and diagnosing unprecedented diseases in preclinical and clinical research. Early-stage detection demands a miniaturized platform/ art...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42667948",
+      "date": "2026-08-29",
+      "title": "XPO1 inhibition enhances the efficacy and durability of RAS-targeted therapy in preclinical models of KRASG12D mutant pancreatic ductal adenocarcinoma.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667948/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42667948。",
+      "report": "KRASG12D-selective and pan-RAS inhibitors have shown promise in pancreatic ductal adenocarcinoma (PDAC), yet adaptive resistance is anticipated to limit durability of response. Exportin 1 (XPO1), a nuclear export protein frequently overexpressed in PDAC, repre...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_070f113bc3b591ba006a93bfcb89a887d2aa66310ef5c4146c",
+        "reviewedAt": "2026-08-30T05:29:41.566914+00:00",
+        "inputHash": "2acb400920889100f0ddcfab5f6ab923c6bfeb200a66aae552a1e2a1a0e23dd3",
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号在结论上包含潜在的临床含义和未验证的效果，因此需要人工评审。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "虽然分类明确，但根据内容可能引发误解。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据级别与报告内容一致性不足。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42667948。",
+          "report": "KRASG12D-selective and pan-RAS inhibitors have shown promise in pancreatic ductal adenocarcinoma (PDAC), yet adaptive resistance is anticipated to limit durability of response. Exportin 1 (XPO1), a nuclear export protein frequently overexpressed in PDAC, repre...",
+          "inference": "该研究可能存在的临床应用和效果未得到验证。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42667643",
+      "date": "2026-08-29",
+      "title": "Impact of Highly Effective Modulator Therapy on Olfactory-Specific Gene Expression in People With Cystic Fibrosis.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667643/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International forum of allergy & rhinology，PMID 为 42667643。",
+      "report": "Chronic rhinosinusitis is common in people with cystic fibrosis (PwCF). Highly effective modulator therapy (HEMT) has been shown to improve sinonasal outcomes. However, prior studies failed to show improvement in objective olfaction with HEMT, and the impact o...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_03890a2838d5f7d1006a93bfd2a35887d296eba776018563bd",
+        "reviewedAt": "2026-08-30T05:29:41.566914+00:00",
+        "inputHash": "6298dfb37aa06d2e86d95ab40f6388959834ee448cc170b207fe7b226dbccee0",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人类审核，报告中存在对疗效的隐含推断。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类不合适，未能准确反映研究的范围和影响。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "尽管信息源可靠，但报告内容引入了结论性推断，未进行明确区分。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Biotech"
+          ],
+          "tags": [
+            "biotech"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 International forum of allergy & rhinology，PMID 为 42667643。",
+          "report": "Chronic rhinosinusitis is common in people with cystic fibrosis (PwCF). Highly effective modulator therapy (HEMT) has been shown to improve sinonasal outcomes. However, prior studies failed to show improvement in objective olfaction with HEMT, and the impact o...",
+          "inference": "目前的推论和结论未明确区分，应避免对疗效的隐含暗示。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42667215",
       "date": "2026-08-29",
       "title": "An Engineering-Editable Hybrid Membrane‑Camouflaged DNA Origami Drug Enables Checkpoint Blockade and Immune Activation for Triple-Negative Breast Cancer Immunotherapy.",
@@ -1047,16 +1265,16 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42665862",
+      "id": "pubmed-42667716",
       "date": "2026-08-28",
-      "title": "A Receptor-Mediated Endolysosomal Recycling Chimera Enables Catalytic TNF-α Degradation for Sustained Treatment of Mucosal Inflammation.",
+      "title": "Benzo[a]pyrene-induced AHR activation in human ESCs primes premature neurogenesis in cerebral organoids.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42665862/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667716/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -1069,108 +1287,38 @@ window.BHR_DATA = {
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced materials (Deerfield Beach, Fla.)，PMID 为 42665862。",
-      "report": "Mucosal inflammatory disorders such as dry eye disease (DED) and inflammatory bowel disease (IBD), driven by TNF-α-mediated immune-epithelial crosstalk, remain therapeutically challenging. Conventional inhibitors often suffer from poor mucosal permeability and...",
+      "fact": "PubMed 记录显示该文献收录于 Journal of hazardous materials，PMID 为 42667716。",
+      "report": "Benzo[a]pyrene (BaP), a representative polycyclic aromatic hydrocarbon (PAH), is a widespread environmental toxicant and potent ligand of the aryl hydrocarbon receptor (AHR). Yet, how early developmental exposure to BaP influences human neurodevelopment remain...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0aff7c8ed3dead12006a930ce7205087d1be893deda29f7c99",
-        "reviewedAt": "2026-08-29T16:46:13.155926+00:00",
-        "inputHash": "026492c3530bc3f5fd20f5b22be167f685dc69c34e7d52697678909f93ad353e",
+        "responseId": "resp_0684ef8c80322fd2006a93bfd5cbbc87d29a1af799aee375e0",
+        "reviewedAt": "2026-08-30T05:29:41.566914+00:00",
+        "inputHash": "ef33f339115ccfea48cb4cfdda6e903b97164a4dd6bf008178f21fe247899e29",
         "status": "needs_human",
-        "confidence": 0.8,
+        "confidence": 0.75,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "未能充分支持收集到的临床和商业化声称，需进一步审核。",
+        "reviewSummaryCn": "该文献的研究质量、样本量、临床阶段及商业化状态未知，需要人工判断。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "分类与研究主题不匹配，可能产生误导。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论未合理区分，影响出版质量。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Advanced materials (Deerfield Beach, Fla.)，PMID 为 42665862。",
-          "report": "Mucosal inflammatory disorders such as dry eye disease (DED) and inflammatory bowel disease (IBD), driven by TNF-α-mediated immune-epithelial crosstalk, remain therapeutically challenging. Conventional inhibitors often suffer from poor mucosal permeability and...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42665637",
-      "date": "2026-08-28",
-      "title": "What 5-year-old brain organoids can teach us.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42665637/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature medicine，PMID 为 42665637。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0bc55dc022902ae1006a930cebd05c87d1a67c3d9174ac7dab",
-        "reviewedAt": "2026-08-29T16:46:13.155926+00:00",
-        "inputHash": "846f6d87c817d8f54f848a775bba008970c0686c7c5e62c9557df3240f97d4e2",
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "文献的证据等级低，需判断研究质量及样本量等因素。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类可能存在问题，未能适当反映文献的内容和质量。"
+          "notesCn": "分类支持不足，文献中可能暗示了影响神经发育的临床结论。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "证据等级被标记为低，并且未提供详细信息，影响稳定性和可靠性。"
+          "notesCn": "证据水平为中等，但报告暗示潜在的临床影响，可能导致误解。"
         },
         "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
+          "clinical_claim",
+          "weak_classification"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
           "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
+          "evidenceLevel": "Medium",
           "themes": [
             "Organoids",
             "Advanced Disease Models"
@@ -1179,83 +1327,8 @@ window.BHR_DATA = {
             "类器官",
             "疾病模型"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Nature medicine，PMID 为 42665637。",
-          "report": "PubMed 记录未提供摘要。",
-          "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "研究质量、样本量、利益冲突、临床阶段或商业化状态信息不足。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42664955",
-      "date": "2026-08-28",
-      "title": "Tumor-on-chip as a personalized platform for rapid drug testing in breast cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42664955/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42664955。",
-      "report": "Breast cancer (BC) continues to pose major therapeutic challenges, emphasizing the need for functional models that can rapidly inform treatment selection. Patient-derived xenografts (PDXs) and organoids (PDOs) are valuable tools for precision oncology, but the...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_08284b12e42f636a006a928583b0ac87d1b2c85a0a797d7d30",
-        "reviewedAt": "2026-08-29T07:08:50.666712+00:00",
-        "inputHash": "9ad7f80df7f4ab6ad7f44d78d89d9a099c65d73209e62492d5b230cf88a35485",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录合理，并符合中立情报的要求。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42664955。",
-          "report": "Breast cancer (BC) continues to pose major therapeutic challenges, emphasizing the need for functional models that can rapidly inform treatment selection. Patient-derived xenografts (PDXs) and organoids (PDOs) are valuable tools for precision oncology, but the...",
+          "fact": "PubMed 记录显示该文献收录于 Journal of hazardous materials，PMID 为 42667716。",
+          "report": "Benzo[a]pyrene (BaP), a representative polycyclic aromatic hydrocarbon (PAH), is a widespread environmental toxicant and potent ligand of the aryl hydrocarbon receptor (AHR). Yet, how early developmental exposure to BaP influences human neurodevelopment remain...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
@@ -2308,79 +2381,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42667089",
-      "date": "2026-08-14",
-      "title": "Organization from cell to tissue derived delivery systems for immunotherapy.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667089/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Materials today. Bio，PMID 为 42667089。",
-      "report": "Dysregulation of the immune system drives a broad spectrum of diseases, including cancers, autoimmune disorders, and neuro-immune conditions. Immunotherapy has advanced from small-molecule drugs to biomacromolecular agents and living cell therapies, yet conven...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_05742af3bf0135ac006a930cfdbad087d1adee10f4eae8b810",
-        "reviewedAt": "2026-08-29T16:46:13.155926+00:00",
-        "inputHash": "ab6fa85de51b7648ea63c31fb4d377995c6ed9a2bbc7ab10ec17bed346531d73",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "数据清晰，分类合理，无临床建议或不当推论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Materials today. Bio，PMID 为 42667089。",
-          "report": "Dysregulation of the immune system drives a broad spectrum of diseases, including cancers, autoimmune disorders, and neuro-immune conditions. Immunotherapy has advanced from small-molecule drugs to biomacromolecular agents and living cell therapies, yet conven...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
