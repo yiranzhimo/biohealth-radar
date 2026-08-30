@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-30T05:29:34.026459+00:00",
+  "capturedAt": "2026-08-30T11:59:03.970393+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-08-30"
   },
   "pmids": [
+    "42668271",
     "42668049",
     "42667948",
     "42667716",
     "42667643",
     "42667215",
-    "42667147",
     "42667121",
     "42656114",
     "42653123",
@@ -32,14 +32,37 @@
     "42655993",
     "42653766",
     "42653762",
+    "42669007",
+    "42668443",
     "42666617",
     "42665811",
     "42665699",
-    "42664958",
-    "42664764",
-    "42664476"
+    "42664958"
   ],
   "records": [
+    {
+      "pmid": "42668271",
+      "title": "Spatial lipidomics of the human brain: systematic review of current state and future perspectives.",
+      "abstract": "Lipids represent a significant component of the human brain, exerting crucial functions in both physiological and pathological conditions. Mapping brain lipids distribution is an emerging area of research, with mass spectrometry imaging allowing the detection of lipid species and their localization within tissue sections. However, comprehensive spatial mapping of lipids in the human brain remains to be achieved. This systematic review addresses this gap by critically synthesizing the available literature in the field. A bibliographic search on PubMed, Scopus and Web of Science for original articles employing mass spectrometry imaging to analyze lipids and their distribution in the human brain was performed. The included articles were grouped according to the clinical characteristics of the studied populations, including healthy subjects and selected neurological and psychiatric disorders. Studies on human brain tissue from tumoral specimens, animals, or in vitro models such as organoids were excluded to maintain focus on translational findings directly applicable to human neurological and psychiatric diseases. Following the inclusion criteria, 34 articles were selected. Alzheimer's disease, schizophrenia and multiple sclerosis were the most frequently investigated conditions, alongside studies in healthy subjects describing lipid distribution under physiological conditions. We observed considerable heterogeneity across studies in terms of research questions and methodological approaches. Nevertheless, our critical synthesis allowed us to identify both consistencies and discrepancies in experimental strategies and in the lipid signatures reported. Studying lipids by mass spectrometry imaging enables the identification of spatially defined profiles in distinct brain areas, providing valuable insights into both human neurobiology and brain disorders' pathophysiology. In this context, spatial information is crucial for linking lipid alterations to specific structures or lesions, thereby supporting translational applications. Finally, we identified key methodological issues that must be addressed to advance this emerging field.",
+      "journal": "Molecular psychiatry",
+      "publicationTypes": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "affiliations": [
+        "Department of Neurosciences and Mental Health, Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, 20122, Milan, Italy.",
+        "Department of Pathophysiology and Transplantation, University of Milan, 20122, Milan, Italy.",
+        "Epilepsy Unit, Fondazione IRCCS Istituto Neurologico Carlo Besta, 20133, Milan, Italy.",
+        "Department of Diagnostic Innovation, Fondazione IRCCS Istituto Nazionale dei Tumori, 20133, Milan, Italy.",
+        "Neurology Unit, Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, 20122, Milan, Italy.",
+        "Stem Cell Laboratory, Department of Pathophysiology and Transplantation, Dino Ferrari Center, University of Milan, 20122, Milan, Italy.",
+        "Department of Neurosciences and Mental Health, Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, 20122, Milan, Italy. paolo.brambilla1@unimi.it.",
+        "Department of Pathophysiology and Transplantation, University of Milan, 20122, Milan, Italy. paolo.brambilla1@unimi.it."
+      ],
+      "doi": "10.1038/s41380-026-03793-z",
+      "date": "2026-08-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42668271/"
+    },
     {
       "pmid": "42668049",
       "title": "Engineering considerations for 3D cell culture and disease modelling on-chip platforms: A review.",
@@ -129,25 +152,6 @@
       "doi": "10.1002/anie.7162372",
       "date": "2026-08-29",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667215/"
-    },
-    {
-      "pmid": "42667147",
-      "title": "Sequential Patterning of Photoresponsive Hydrogels Directs Crypt Fission and Reveals the Role of Epithelial Curvature on Fission Symmetry.",
-      "abstract": "Fission increases the number of crypts in the intestine during neonatal growth and also restores crypt density after injury by bifurcation of a pre-existing parent crypt into daughter crypts. While fission is typically symmetric in healthy crypts, it is more asymmetric in diseases, and the relationship between parent crypt shape and daughter crypt (a)symmetry is difficult to study as crypt budding and fission are stochastic in organoid models and difficult to control in vivo. Here, a photoresponsive hydrogel is introduced to spatiotemporally control daughter crypt emergence from mature parent crypts in intestinal organoids, enabling longitudinal tracking of crypt bifurcation in vitro. Variation of the photopatterned dimensions tunes parent crypt shape and reveals that both fission efficiency and crypt symmetry depend on parent crypt geometry. Epithelial boundary analysis identified parent crypt curvature as a key factor influencing daughter crypt symmetry. High-curvature or narrow crypts yielded symmetric daughter crypts, whereas wider parent crypts with lower epithelial curvature generated progressively more asymmetric crypts. Mechanistically, non-muscle myosin IIA acts as one key regulator of crypt symmetry. Overall, this work introduces a reproducible and spatiotemporally controllable in vitro model of crypt fission, allowing identification of mechanical determinants of fission that influence intestinal regeneration and development.",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Chemical and Biological Engineering, University of Colorado Boulder, Boulder, Colorado, USA.",
-        "BioFrontiers Institute, University of Colorado Boulder, Boulder, Colorado, USA.",
-        "Section of Developmental Biology, Department of Pediatrics, University of Colorado, Denver, Colorado, USA.",
-        "Program in Craniofacial Biology and Department of Orofacial Sciences, University of California, San Francisco, California, USA.",
-        "Department of Pediatrics, Cedars-Sinai Guerin Children's, Los Angeles, California, USA."
-      ],
-      "doi": "10.1002/advs.77397",
-      "date": "2026-08-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667147/"
     },
     {
       "pmid": "42667121",
@@ -365,6 +369,43 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42653762/"
     },
     {
+      "pmid": "42669007",
+      "title": "Method Matters: A Proteomics-Informed Framework for Selecting Extracellular Vesicle Isolation Methods for Plasma.",
+      "abstract": "Extracellular vesicles (EVs) hold significant promise as biomarkers, but their clinical application is constrained by variability in pre-analytical handling and isolation. EV isolation methods directly shape which plasma-derived EV-containing preparations are captured, yet systematic method comparisons across multiple analytical dimensions are limited. We comprehensively evaluated eleven EV isolation methods in pooled platelet-poor plasma (5 donors; 6 technical replicates/method). We further evaluated selected methods using five individual donors. EVs were quantified by NanoFCM, profiled for tetraspanins (CD9, CD63, CD81) via MSD assays, and further characterized by LC-MS/MS proteomics. We show that different EV isolation methods for plasma produce different EV containing preparation. EV isolation methods broadened proteome coverage in plasma but showed divergent performance. While all methods captured EVs in the 50-150 nm range, centrifugation and ultracentrifugation identified the broadest proteomes (up to 1093 proteins) driven by higher plasma protein carryover. Conversely, ExoEasy and qEV 70 isolated larger EVs and achieved stronger depletion of abundant plasma proteins but showed lower proteome coverage. A total of 117 proteins were detected across all isolation methods. Pre-clearing of samples removed contaminants but at the cost of protein identifications. We demonstrate that method selection must align with the specific analytical goal: centrifugation for comprehensive proteome profiling, affinity/size-exclusion methods for contaminant-sensitive assays, and precipitation for high-throughput applications. This systematic characterization provides an evidence-based framework and look-up resource for matching isolation strategies to downstream applications and research questions.",
+      "journal": "Journal of extracellular biology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Novo Nordisk A/S Måløv Denmark.",
+        "Gastro Unit Copenhagen University Hospital, Amager and Hvidovre Hospital Hvidovre Denmark.",
+        "Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences University of Copenhagen Copenhagen Denmark.",
+        "Department of Clinical Medicine, Faculty of Health and Medical Sciences Copenhagen University Copenhagen Denmark."
+      ],
+      "doi": "10.1002/jex2.70180",
+      "date": "2026-08-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669007/"
+    },
+    {
+      "pmid": "42668443",
+      "title": "Impact of methodological variability on the prognostic performance of circulating tumor DNA in colorectal cancer: A systematic review and meta-analysis.",
+      "abstract": "Circulating tumor DNA (ctDNA) has demonstrated utility for treatment monitoring, risk stratification, and prognostication in colorectal cancer (CRC). However, substantial methodological heterogeneity across studies may influence its reported prognostic performance. Here, we systematically searched four databases up to October 2025. Eligible studies included patients with CRC who underwent mutation-based plasma ctDNA analysis reported as a binary variable (positive/negative) and provided hazard ratios (HRs) with 95% confidence intervals (95%CIs) for recurrence-free survival (RFS), disease-free survival (DFS), progression-free survival (PFS), or overall survival (OS). Pooled HRs were synthesized using random-effects meta-analysis. Thirty-seven studies met the inclusion criteria. ctDNA positivity was consistently associated with inferior outcomes across all survival endpoints, including OS (HR 3.52; 95%CI 2.42-5.13; p < 0.001; I2 = 74.4%), RFS (HR 4.90; 95%CI 3.54-6.79; p < 0.001; I2 = 83.5%), DFS (HR 4.41; 95%CI 2.96-6.55; p < 0.001; I2 = 84.7%), and PFS (HR 2.46; 95%CI 1.88-3.21; p < 0.001; I2 = 39.2%). The prognostic value of ctDNA was greatest in localized (stage I-III) disease, where it most likely reflects minimal residual disease (MRD). Post-treatment ctDNA demonstrated substantially greater prognostic value than baseline ctDNA, supporting its role in MRD assessment. Persistent ctDNA positivity following surgery and adjuvant chemotherapy identified patients at the highest risk of recurrence and death. Methodological factors were associated with differences in reported prognostic performance: tumor-informed assays outperformed tumor-agnostic assays, particularly in localized disease, while NGS-based approaches showed stronger prognostic performance than dPCR or qPCR. In conclusion, ctDNA positivity is strongly associated with adverse survival outcomes across CRC stages and clinical settings, supporting its role as a clinically relevant biomarker. However, methodological variability significantly influences the reported magnitude of this association, underscoring the need for standardized protocols and transparent reporting to facilitate comparison across studies and support reliable clinical implementation of ctDNA-guided management.",
+      "journal": "The journal of liquid biopsy",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Cancer Research Program, Research Institute of the McGill University Health Centre, Montreal, QC, Canada.",
+        "Department of Pathology, McGill University, Montreal, QC, Canada.",
+        "Biostatistics Consulting Unit, Research Institute of the McGill University Health Centre, Montreal, QC, Canada.",
+        "Gerald Bronfman Department of Oncology, McGill University, Montreal, QC, Canada."
+      ],
+      "doi": "10.1016/j.jlb.2026.100487",
+      "date": "2026-08-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42668443/"
+    },
+    {
       "pmid": "42666617",
       "title": "Perioperative treatment for muscle invasive bladder cancer in the era of immunotherapy.",
       "abstract": "Muscle-invasive bladder cancer (MIBC) remains associated with high recurrence and mortality despite radical cystectomy and cisplatin-based neoadjuvant chemotherapy (NAC). For decades, perioperative therapy was defined by platinum-based regimens, which improve survival but are limited to fewer than half of patients due to comorbidities. Recent advances in the past year have redefined this landscape. Multiple pivotal phase III trials have demonstrated the efficacy of immune checkpoint inhibitors (ICIs) in both neoadjuvant and adjuvant settings. The phase III trials, KEYNOTE-905/EV-303 and KEYNOTE-B15/EV-304 have established perioperative enfortumab vedotin plus pembrolizumab as a new standard of care for neoadjuvant therapy. Parallel translational research has identified biomarkers that may refine patient selection and optimize therapy. PD-L1 expression, DNA damage repair gene alterations, molecular subtyping, and circulating tumor DNA (ctDNA) have all emerged as predictive and prognostic tools. Liquid biopsy approaches may guide adjuvant therapy decisions and facilitate real-time monitoring of minimal residual disease. This review synthesizes the evolving role of perioperative therapies in MIBC, from the historical reliance on cisplatin-based chemotherapy to the transformative integration of immunotherapy, ADCs, and biomarker-guided approaches. Together, these advances represent a significant progress in perioperative bladder cancer care, heralding a shift toward individualized, biomarker-driven strategies that promise improved survival and broader treatment applicability.",
@@ -444,47 +485,41 @@
       "doi": "10.1016/j.xcrm.2026.103014",
       "date": "2026-08-28",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42664958/"
-    },
-    {
-      "pmid": "42664764",
-      "title": "Ovarian borderline tumors and minimally invasive surgery: a narrative review.",
-      "abstract": "Borderline ovarian tumors (BOTs) are a distinct subgroup of epithelial ovarian neoplasms that commonly affect women of reproductive age and are associated with excellent overall survival. Management is primarily surgical and requires balancing oncologic considerations with fertility preservation. This narrative review summarizes current evidence regarding pathology, molecular features, surgical management, recurrence patterns, and emerging future directions in BOT care, with a focus on minimally invasive surgery (MIS). Recent observational studies suggest that MIS may offer significant perioperative benefits, including reduced blood loss, shorter hospital stay, and faster recovery, while demonstrating apparently comparable recurrence and survival outcomes in appropriately selected patients. However, the available evidence is predominantly retrospective and subject to selection bias and other limitations; therefore, definitive conclusions regarding the oncologic safety or equivalence of MIS cannot yet be made. Fertility-sparing surgery remains an important option for younger women, although it is associated with higher recurrence rates compared with radical surgery. Prognosis is largely influenced by established clinicopathologic factors such as stage, histologic subtype, invasive implants, and completeness of staging rather than surgical approach alone. Emerging advances in molecular profiling, artificial intelligence, and liquid biopsy may further improve risk stratification and personalized management. Overall, current observational data suggests that minimally invasive and fertility-preserving approaches may be appropriate in carefully selected patients, with potential perioperative advantages and apparently comparable oncologic outcomes. Nevertheless, the low level of evidence and predominantly retrospective nature of the available literature preclude definitive conclusions regarding oncologic safety, and further prospective studies with long-term follow-up are needed to define optimal management strategies.",
-      "journal": "European journal of obstetrics, gynecology, and reproductive biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "USOR - Texas Oncology-Austin, Austin, TX, USA. Electronic address: tiffany.redfern@usoncology.com.",
-        "Department of Gynecology at Sanatorio Británico de Rosario, Argentina.",
-        "Fundación Universitaria de Ciencias de la Salud (FUCS), Bogotá, Colombia.",
-        "Aga Khan University Hospital, Nairobi, Kenya.",
-        "Dr. Suliman Alhabib Alkhober, Saudi Arabia.",
-        "Fortis Memorial Research Institute, Gurugram, Haryana, India.",
-        "India University of Benin Teaching Hospital, Department of Obstetrics and Gynaecology, Benin City, Edo State, Nigeria."
-      ],
-      "doi": "10.1016/j.ejogrb.2026.115396",
-      "date": "2026-08-27",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42664764/"
-    },
-    {
-      "pmid": "42664476",
-      "title": "The emerging roles of non-coding RNAs in cancer.",
-      "abstract": "Non-coding RNAs (ncRNAs) regulate gene expression through transcriptional, post-transcriptional, and epigenetic mechanisms, shaping hallmarks of cancer, including metastasis, therapy resistance, and relapse. Carcinogenesis arises when aberrant ncRNA networks initiate malignant transformation and sustain oncogenic changes through epigenetic modifications, shifts in cell identity, failures in genome protection, metabolic changes, and alterations in the tumour microenvironment. Environmental exposures, combined with chronic inflammation, reorganise these networks early on, leading to the formation of premalignant fields and persistent epigenetic changes. The four major ncRNA classes, microRNAs (miRNAs), long non-coding RNAs (lncRNAs), circular RNAs (circRNAs), and PIWI-interacting RNAs (piRNAs) function as either oncogenes or tumour suppressors depending on the specific cancer type. Their stability, cell-type-specific expression, and presence in biofluids make them suitable candidates for biomarker discovery and liquid biopsy applications. Therapeutic strategies now include antisense oligonucleotides, small interfering RNAs, synthetic miRNA mimics, RNA aptamers, and aptamer-siRNA conjugates, which can either inhibit oncogenic ncRNAs or restore tumour-suppressive regulatory networks. CRISPR-based ncRNA modulation, including Cas9-mediated locus editing, CRISPR interference/activation, and Cas13-mediated transcript targeting, remains largely investigational because delivery, off-target activity, and an incomplete understanding of ncRNA context dependence continue to limit translation. High-throughput sequencing, single-cell transcriptomics, and computational modelling have accelerated the identification of cancer-related ncRNAs and elucidated their biological functions. This review examines how different types of ncRNAs contribute to cancer initiation, progression, and treatment resistance, and assesses their potential as diagnostic markers, prognostic factors, and therapeutic targets.",
-      "journal": "Carcinogenesis",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Translational Molecular Pathology Department, MD Anderson Cancer Center, University of Texas, Houston, TX 77030, USA.",
-        "Cancer Biology Department, MD Anderson Cancer Center, University of Texas, Houston, TX 77030, USA."
-      ],
-      "doi": "10.1093/carcin/bgag053",
-      "date": "2026-08-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42664476/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42668271",
+      "date": "2026-08-29",
+      "title": "Spatial lipidomics of the human brain: systematic review of current state and future perspectives.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42668271/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular psychiatry，PMID 为 42668271。",
+      "report": "Lipids represent a significant component of the human brain, exerting crucial functions in both physiological and pathological conditions. Mapping brain lipids distribution is an emerging area of research, with mass spectrometry imaging allowing the detection...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42668049",
       "date": "2026-08-29",
@@ -606,34 +641,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42667147",
-      "date": "2026-08-29",
-      "title": "Sequential Patterning of Photoresponsive Hydrogels Directs Crypt Fission and Reveals the Role of Epithelial Curvature on Fission Symmetry.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667147/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42667147。",
-      "report": "Fission increases the number of crypts in the intestine during neonatal growth and also restores crypt density after injury by bifurcation of a pre-existing parent crypt into daughter crypts. While fission is typically symmetric in healthy crypts, it is more a...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42667121",
       "date": "2026-08-29",
       "title": "Predicting Single-Cell Perturbation Responses Across Biological Contexts With a Deep Generative Model Integrating Optimal Transport.",
@@ -665,6 +672,32 @@
       "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42667121。",
       "report": "Predicting how single cells respond to perturbations is a central problem in computational biology, with potential relevance to emerging artificial intelligence virtual cell (AIVC) research and drug-discovery efforts. However, substantial variation in perturba...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42669007",
+      "date": "2026-08-29",
+      "title": "Method Matters: A Proteomics-Informed Framework for Selecting Extracellular Vesicle Isolation Methods for Plasma.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669007/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of extracellular biology，PMID 为 42669007。",
+      "report": "Extracellular vesicles (EVs) hold significant promise as biomarkers, but their clinical application is constrained by variability in pre-analytical handling and isolation. EV isolation methods directly shape which plasma-derived EV-containing preparations are...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -846,42 +879,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42664476",
-      "date": "2026-08-28",
-      "title": "The emerging roles of non-coding RNAs in cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42664476/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Carcinogenesis，PMID 为 42664476。",
-      "report": "Non-coding RNAs (ncRNAs) regulate gene expression through transcriptional, post-transcriptional, and epigenetic mechanisms, shaping hallmarks of cancer, including metastasis, therapy resistance, and relapse. Carcinogenesis arises when aberrant ncRNA networks i...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42666617",
       "date": "2026-08-27",
       "title": "Perioperative treatment for muscle invasive bladder cancer in the era of immunotherapy.",
@@ -909,40 +906,6 @@
       "fact": "PubMed 记录显示该文献收录于 Therapeutic advances in urology，PMID 为 42666617。",
       "report": "Muscle-invasive bladder cancer (MIBC) remains associated with high recurrence and mortality despite radical cystectomy and cisplatin-based neoadjuvant chemotherapy (NAC). For decades, perioperative therapy was defined by platinum-based regimens, which improve...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42664764",
-      "date": "2026-08-27",
-      "title": "Ovarian borderline tumors and minimally invasive surgery: a narrative review.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42664764/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 European journal of obstetrics, gynecology, and reproductive biology，PMID 为 42664764。",
-      "report": "Borderline ovarian tumors (BOTs) are a distinct subgroup of epithelial ovarian neoplasms that commonly affect women of reproductive age and are associated with excellent overall survival. Management is primarily surgical and requires balancing oncologic consid...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1036,6 +999,34 @@
       "fact": "PubMed 记录显示该文献收录于 Sheng wu yi xue gong cheng xue za zhi = Journal of biomedical engineering = Shengwu yixue gongchengxue zazhi，PMID 为 42656114。",
       "report": "In order to accurately identify tumor boundaries and improve diagnostic efficiency, this study proposes a multi-modal tumor boundary identification method based on artificial intelligence virtual cells and saliency near-infrared spectrum imaging, and uses this...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42668443",
+      "date": "2026-08-18",
+      "title": "Impact of methodological variability on the prognostic performance of circulating tumor DNA in colorectal cancer: A systematic review and meta-analysis.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42668443/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42668443。",
+      "report": "Circulating tumor DNA (ctDNA) has demonstrated utility for treatment monitoring, risk stratification, and prognostication in colorectal cancer (CRC). However, substantial methodological heterogeneity across studies may influence its reported prognostic perform...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

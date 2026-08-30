@@ -1,30 +1,30 @@
 {
-  "capturedAt": "2026-08-30T05:29:41.566914+00:00",
+  "capturedAt": "2026-08-30T11:59:12.178684+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42668049",
-      "responseId": "resp_08b1dd92eed3a904006a93bfc6ee0c87d2a5dcd3541b1d6815",
+      "signalId": "pubmed-42668271",
+      "responseId": "resp_09d07fb433dbe68e006a941b110d7087d1ad094d7032cd6c02",
       "review": {
         "status": "pass",
-        "confidence": 0.85,
+        "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录中信息清晰，符合出版标准，没有提出未经支持的疗效或安全性结论。",
+        "reviewSummaryCn": "该文献记录在源数据中是中立且清晰的，未包含临床建议或强烈的结论。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "主要和次要类别与学术内容合理匹配。"
+          "notesCn": "分类合理，与企业的观察一致。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "报告和推论部分清晰，有助于提供背景信息。"
+          "notesCn": "来源信息明确分离，证据水平适中。"
         },
         "riskFlags": [
-          "commercial_claim",
-          "insufficient_source"
+          "clinical_claim",
+          "commercial_claim"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -34,83 +34,41 @@
             "Organoids",
             "Advanced Disease Models",
             "Precision Oncology",
-            "Drug Screening"
+            "Multi-omics"
           ],
           "tags": [
             "类器官",
             "疾病模型",
             "肿瘤",
-            "药筛"
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Methods (San Diego, Calif.)，PMID 为 42668049。",
-          "report": "In the era of miniaturization, the advent of sensors and chips is rapidly increasing for systematic investigation, monitoring and diagnosing unprecedented diseases in preclinical and clinical research. Early-stage detection demands a miniaturized platform/ art...",
+          "fact": "PubMed 记录显示该文献收录于 Molecular psychiatry，PMID 为 42668271。",
+          "report": "Lipids represent a significant component of the human brain, exerting crucial functions in both physiological and pathological conditions. Mapping brain lipids distribution is an emerging area of research, with mass spectrometry imaging allowing the detection...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42667948",
-      "responseId": "resp_070f113bc3b591ba006a93bfcb89a887d2aa66310ef5c4146c",
+      "signalId": "pubmed-42669007",
+      "responseId": "resp_078077eabe5c0985006a941b1568a487d1a637450e035dd69d",
       "review": {
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该信号在结论上包含潜在的临床含义和未验证的效果，因此需要人工评审。",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该条目符合发布标准，信息分离明确，无临床建议。 ",
         "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "虽然分类明确，但根据内容可能引发误解。"
+          "isSupported": true,
+          "notesCn": "分类合理，符合科学研究的主题。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据级别与报告内容一致性不足。"
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平适中，来源可靠。"
         },
         "riskFlags": [
           "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42667948。",
-          "report": "KRASG12D-selective and pan-RAS inhibitors have shown promise in pancreatic ductal adenocarcinoma (PDAC), yet adaptive resistance is anticipated to limit durability of response. Exportin 1 (XPO1), a nuclear export protein frequently overexpressed in PDAC, repre...",
-          "inference": "该研究可能存在的临床应用和效果未得到验证。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42667643",
-      "responseId": "resp_03890a2838d5f7d1006a93bfd2a35887d296eba776018563bd",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人类审核，报告中存在对疗效的隐含推断。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类不合适，未能准确反映研究的范围和影响。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
-          "evidenceLevelReasonable": false,
-          "notesCn": "尽管信息源可靠，但报告内容引入了结论性推断，未进行明确区分。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
+          "insufficient_source"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -122,49 +80,49 @@
           "tags": [
             "biotech"
           ],
-          "fact": "PubMed 记录显示该文献收录于 International forum of allergy & rhinology，PMID 为 42667643。",
-          "report": "Chronic rhinosinusitis is common in people with cystic fibrosis (PwCF). Highly effective modulator therapy (HEMT) has been shown to improve sinonasal outcomes. However, prior studies failed to show improvement in objective olfaction with HEMT, and the impact o...",
-          "inference": "目前的推论和结论未明确区分，应避免对疗效的隐含暗示。",
+          "fact": "PubMed 记录显示该文献收录于 Journal of extracellular biology，PMID 为 42669007。",
+          "report": "Extracellular vesicles (EVs) hold significant promise as biomarkers, but their clinical application is constrained by variability in pre-analytical handling and isolation. EV isolation methods directly shape which plasma-derived EV-containing preparations are...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42667716",
-      "responseId": "resp_0684ef8c80322fd2006a93bfd5cbbc87d29a1af799aee375e0",
+      "signalId": "pubmed-42668443",
+      "responseId": "resp_00b66e5d5321f832006a941b19a97487d18d9f2bcbe921beac",
       "review": {
         "status": "needs_human",
-        "confidence": 0.75,
+        "confidence": 0.8,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献的研究质量、样本量、临床阶段及商业化状态未知，需要人工判断。",
+        "reviewSummaryCn": "文献中存在方法学异质性对结论的影响，因此需人工审查以确保信息准确性。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "分类支持不足，文献中可能暗示了影响神经发育的临床结论。"
+          "notesCn": "分类不完全支持文献内容，有可能误导阅读者。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "证据水平为中等，但报告暗示潜在的临床影响，可能导致误解。"
+          "notesCn": "虽然文章的主题是重要的，但其证据水平标注为中等，与所描述的内容不符。"
         },
         "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
+          "weak_classification",
+          "insufficient_source"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Low",
           "themes": [
-            "Organoids",
-            "Advanced Disease Models"
+            "Biotech",
+            "Precision Oncology"
           ],
           "tags": [
-            "类器官",
-            "疾病模型"
+            "biotech",
+            "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of hazardous materials，PMID 为 42667716。",
-          "report": "Benzo[a]pyrene (BaP), a representative polycyclic aromatic hydrocarbon (PAH), is a widespread environmental toxicant and potent ligand of the aryl hydrocarbon receptor (AHR). Yet, how early developmental exposure to BaP influences human neurodevelopment remain...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42668443。",
+          "report": "Circulating tumor DNA (ctDNA) has demonstrated utility for treatment monitoring, risk stratification, and prognostication in colorectal cancer (CRC). However, substantial methodological heterogeneity across studies may influence its reported prognostic perform...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
