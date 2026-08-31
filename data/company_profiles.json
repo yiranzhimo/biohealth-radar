@@ -56441,14 +56441,17 @@
             "claimType": "Report"
           }
         ],
-        "programCandidateIds": [],
+        "programCandidateIds": [
+          "program-candidate-natera-multi-platform-profiling-with-organoid-drug-sensitivity-screening-and-ctdna-monitoring"
+        ],
         "evidenceIds": [
           "evidence-company-natera-official-5a3f354ee77a",
           "evidence-company-natera-pipeline-d6265767b3d9",
           "evidence-company-natera-investor_relations-57a971bfd0f7",
           "evidence-sec-0001604821-000162828026054525",
           "evidence-sec-0001604821-000160482126000015",
-          "evidence-sec-0001604821-000160482126000005"
+          "evidence-sec-0001604821-000160482126000005",
+          "evidence-clinicaltrials-NCT04561453"
         ]
       },
       "futureDirection": {
@@ -56512,20 +56515,19 @@
         ],
         "inferences": [],
         "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 6,
+        "evidenceCount": 7,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 3
+          "Filing": 3,
+          "Registry": 1
         },
         "lastEvidenceDate": "2026-08-28",
-        "programCandidateCount": 0,
+        "programCandidateCount": 1,
         "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -56595,6 +56597,17 @@
           "needsReview": false,
           "evidenceId": "evidence-sec-0001604821-000160482126000005",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1604821/000160482126000005/ntra-20260701.htm"
+        },
+        {
+          "id": "event-clinicaltrials-NCT04561453",
+          "date": "2025-07-10",
+          "title": "Feasibility Study of Multi-Platform Profiling of Resected Biliary Tract Cancer",
+          "eventType": "Clinical Trial",
+          "sourceType": "Registry",
+          "evidenceLevel": "Low",
+          "needsReview": true,
+          "evidenceId": "evidence-clinicaltrials-NCT04561453",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT04561453"
         }
       ]
     },

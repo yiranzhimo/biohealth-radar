@@ -2,5 +2,34 @@
   "schemaVersion": "1.0",
   "kind": "program_candidates",
   "asOfDate": "2026-08-31",
-  "programs": []
+  "programs": [
+    {
+      "id": "program-candidate-natera-multi-platform-profiling-with-organoid-drug-sensitivity-screening-and-ctdna-monitoring",
+      "companyId": "natera",
+      "name": "Multi-Platform Profiling with Organoid Drug Sensitivity Screening and ctDNA Monitoring",
+      "verificationStatus": "candidate",
+      "relationship": "trial_intervention",
+      "ownershipVerified": false,
+      "trialIds": [
+        "NCT04561453"
+      ],
+      "indications": [
+        "Biliary Tract Cancer",
+        "Cholangiocarcinoma",
+        "Distal Bile Duct Cancer",
+        "Extrahepatic Cholangiocarcinoma",
+        "Gallbladder Cancer",
+        "Hilar Cholangiocarcinoma",
+        "Intrahepatic Cholangiocarcinoma",
+        "Perihilar Cholangiocarcinoma"
+      ],
+      "phases": [],
+      "trialStatuses": [
+        "TERMINATED"
+      ],
+      "evidenceUrls": [
+        "https://clinicaltrials.gov/study/NCT04561453"
+      ]
+    }
+  ]
 }
