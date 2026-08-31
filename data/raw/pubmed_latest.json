@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-30T21:11:27.037441+00:00",
+  "capturedAt": "2026-08-31T05:43:10.161045+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-08-30",
-    "end": "2026-08-30"
+    "start": "2025-08-31",
+    "end": "2026-08-31"
   },
   "pmids": [
+    "42669624",
+    "42669342",
+    "42669170",
     "42668271",
     "42668049",
     "42667948",
-    "42667716",
-    "42667643",
-    "42667215",
     "42667121",
     "42656114",
     "42653123",
@@ -32,14 +32,76 @@
     "42655993",
     "42653766",
     "42653762",
+    "42669321",
+    "42669262",
     "42669007",
     "42668443",
     "42666617",
-    "42665811",
-    "42665699",
-    "42664958"
+    "42665811"
   ],
   "records": [
+    {
+      "pmid": "42669624",
+      "title": "Space Jam-Ming: Generating Interstitial Space Using Fragmented Granular GelMA to Investigate Novel Paradigms of Cancer Metastasis.",
+      "abstract": "The tumor microenvironment undergoes extensive remodeling during cancer progression, resulting in increased collagen, altered tissue mechanics, and the formation of collagen tracks that permit migration. However, how the extracellular matrix (ECM) regulates cellular plasticity remains less known. Cellular plasticity is essential for successful metastasis, as cells undergo epithelial-to-mesenchymal transition and adherent-to-suspension transition (AST). Studies have begun to use 3D photo-crosslinkable hydrogels, but, unlike in vivo ECM, hydrogel stiffness is inextricably linked to porosity. In this study, we propose a fragmented gelatin methacryloyl (GelMA) scaffold that controls stiffness independently from porosity. When encapsulated as single cells, non-metastatic breast cancer cells do not exhibit growth restriction, whilst pre-engineered metastatic breast cancer cells show altered mechanosensitivity and enhanced migration (p < 0.05). We next study the role of AST in cellular migration and observe similar velocity to invasive metastatic cells. Interestingly, non-metastatic cells showed AST-dependent migration within interstitial spaces, which was enhanced in the stiff scaffold (p < 0.05). AST induction significantly increased Lamin A/C (associated with providing nuclear stability for circulating tumor cells) and reduced nuclear yes-associated protein (YAP) (necessary for cell detachment). Our data highlights the importance of incorporating micro-scale porosity and presents a promising platform for the study of cellular growth and migration.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Human Sciences, The University of Western Australia, Perth, Australia.",
+        "Medical School, The University of Western Australia, Perth, Australia.",
+        "Department of Biochemistry, Yonsei University, Seoul, Republic of Korea.",
+        "BRITElab, Harry Perkins Institute of Medical Research, Perth, Australia.",
+        "Department of Electrical, Electronic and Computer Engineering, School of Engineering, The University of Western Australia, Perth, Australia.",
+        "Soonchunhyang Institute of Medi-Bio Science, Soonchunhyang University, Chungcheongnam-do, Republic of Korea.",
+        "Institute of Physics, Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University in Toruń, Toruń, Poland.",
+        "School of Medical Sciences, University of Sydney, Sydney, Australia.",
+        "Division of Gastroenterology, Department of Internal Medicine, College of Medicine, Yonsei University, Seoul, Republic of Korea."
+      ],
+      "doi": "10.1002/advs.77478",
+      "date": "2026-08-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669624/"
+    },
+    {
+      "pmid": "42669342",
+      "title": "An Immune-Activated Co-culture Model of Patient-Derived Gastric Cancer Organoids and Peripheral Blood Mononuclear Cells for Personalized Chemotherapy Screening.",
+      "abstract": "Selecting effective chemotherapy after immunotherapy remains a major clinical challenge in advanced gastric cancer because patient responses are highly heterogeneous. A major obstacle is the lack of personalized preclinical models that faithfully recapitulate the immune-activated tumor microenvironment (TME) following immunotherapy and enable evaluation of subsequent chemotherapy responses while preserving immune-tumor interactions. Here, we developed an immune-activated co-culture model comprising patient-derived gastric cancer organoids and autologous peripheral blood mononuclear cells (PBMCs). Immune activation was achieved using anti-PD-1-loaded gold nanocages (aPD-1@Au NCs), which integrate near-infrared-triggered photothermal tumor ablation with sustained anti-PD-1-mediated immune modulation. The resulting model recapitulates key features of the post-immunotherapy TME, including enhanced immune-cell infiltration, increased tumor-cell apoptosis, and CD8+ T-cell activation. We then applied this model to evaluate five clinically relevant chemotherapeutic agents, including oxaliplatin, irinotecan, fluorouracil, doxorubicin, and docetaxel, for personalized chemotherapy screening after immunotherapy. Compared with monoculture organoids or non-activated co-cultures, the immune-activated model revealed drug-specific differences in tumor-killing efficacy, immune-mediated chemosensitization, and PBMC toxicity. Among the tested agents, oxaliplatin showed the strongest immune-mediated chemosensitization, whereas docetaxel achieved favorable tumor cell killing with relatively low immunotoxicity. These findings demonstrate that chemotherapy responses after immune activation are highly drug-specific, underscoring the importance of personalized chemotherapy selection following immunotherapy. As a proof-of-concept study, this work establishes an immune-activated patient-derived gastric cancer organoid-PBMC co-culture model that partially recapitulates the post-immunotherapy TME. This model provides a promising framework for developing personalized chemotherapy screening strategies after immunotherapy. STATEMENT OF SIGNIFICANCE: Selecting effective chemotherapy after immunotherapy remains a major challenge in advanced gastric cancer because of substantial interpatient heterogeneity. Progress in personalized treatment is limited by the lack of preclinical models that faithfully recapitulate the post-immunotherapy tumor microenvironment (TME). Here, we developed an immune-activated co-culture model integrating patient-derived gastric cancer organoids with autologous peripheral blood mononuclear cells (PBMCs). Immune activation was achieved using anti-PD-1-loaded gold nanocages (aPD-1@Au NCs), which combine near-infrared-triggered photothermal tumor ablation with sustained aPD-1-mediated immune modulation. This platform preserves patient-specific tumor characteristics while capturing key immune-tumor interactions following immunotherapy. Using this model, we evaluated five clinically relevant chemotherapeutic agents and identified distinct drug-specific differences in tumor-killing efficacy, immune-mediated chemosensitization, and immunotoxicity. As a proof-of-concept study, this work establishes a promising framework for personalized chemotherapy screening after immunotherapy and supports the development of precision treatment strategies for gastric cancer.",
+      "journal": "Acta biomaterialia",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Biomedical Engineering, Sun Yat-Sen University, Shenzhen 518107, China.",
+        "Digestive Diseases Center, Guangdong Provincial Key Laboratory of Digestive Cancer Research, The Seventh Affiliated Hospital of Sun Yat-sen University, Shenzhen 518107, China.",
+        "Digestive Diseases Center, Guangdong Provincial Key Laboratory of Digestive Cancer Research, The Seventh Affiliated Hospital of Sun Yat-sen University, Shenzhen 518107, China; Department of Scientific Research Center, Department of Critical Care Medicine, The Seventh Affiliated Hospital of Sun Yat-Sen University, Shenzhen, 518107, China.",
+        "Department of Gynaecology, First Affiliated Hospital of Sun Yat-Sen University, Guangzhou 510070, China. Electronic address: caotf3@mail.sysu.edu.cn.",
+        "Department of Neurosurgery, Shenzhen Second People's Hospital, Shenzhen 518035, China.",
+        "3B's Research Group, I3Bs-Research Institute on Biomaterials, Biodegradables and Biomimetics, University of Minho, Headquarters of the European Institute of Excellence on Tissue Engineering and Regenerative Medicine, Avepark - Parque de Ciência e Tecnologia, Rua Ave 1, Edifício 1 (Sede), Barco, Guimarães, 4805-694, Portugal; ICVS/3B's, Associate PT Government Laboratory, Braga, 4710-057, Portugal.",
+        "Digestive Diseases Center, Guangdong Provincial Key Laboratory of Digestive Cancer Research, The Seventh Affiliated Hospital of Sun Yat-sen University, Shenzhen 518107, China; Department of Scientific Research Center, Department of Critical Care Medicine, The Seventh Affiliated Hospital of Sun Yat-Sen University, Shenzhen, 518107, China. Electronic address: yanlp3@mail.sysu.edu.cn.",
+        "School of Biomedical Engineering, Sun Yat-Sen University, Shenzhen 518107, China. Electronic address: xiaolin23@mail.sysu.edu.cn."
+      ],
+      "doi": "10.1016/j.actbio.2026.08.053",
+      "date": "2026-08-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669342/"
+    },
+    {
+      "pmid": "42669170",
+      "title": "Primary Renal Neuroendocrine Tumors Presenting as a Complex Cystic Mass and Arising in a Horseshoe Kidney: A Report of Two Cases.",
+      "abstract": "Primary renal neuroendocrine tumors (PRNETs) are exceptionally rare neoplasms that account for less than 1% of genitourinary neuroendocrine neoplasms and pose considerable diagnostic difficulty because of their non-specific clinicoradiological presentations and diverse histomorphology, which frequently mimics conventional renal epithelial tumors. We describe two adult patients with well-differentiated PRNET managed by partial nephrectomy including a 41-year-old male with a complex bosniak category IV cystic renal lesion, and another 43-year-old female with a tumor arising from the isthmus of a horse-shoe kidney. Both tumors showed organoid, trabecular, nested, tubulocystic, and focal cribriform architecture with low mitotic activity. Case 1 additionally showed focal capsular and perineural invasion despite of low-grade morphology. Tumor cells were diffusely positive for synaptophysin, chromogranin, and CD99, and negative for PAX8, CK7, CK20, WT1, TTF1, and CDX2, with a Ki-67 index below 2% in both. Electron microscopy confirmed dense-core neurosecretory granules, and both patients remain disease-free on radioimaging based follow-up. These cases illustrate that PRNET should be considered whenever a renal mass, including a complex cystic lesion or arising in a congenital anomalous kidney, not confirming thetypical epithelial morphology, and a combined histomorphological, immunohistochemical, and ultrastructural approach with prolonged surveillance is essential for accurate diagnosis and management.",
+      "journal": "Ultrastructural pathology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Histopathology, Post Graduate Institute of Medical Education and Research, Chandigarh, India.",
+        "Department of Radiodiagnosis and Imaging, Post Graduate Institute of Medical Education and Research, Chandigarh, India.",
+        "Department of Urology, Post Graduate Institute of Medical Education and Research, Chandigarh, India."
+      ],
+      "doi": "10.1080/01913123.2026.2724937",
+      "date": "2026-08-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669170/"
+    },
     {
       "pmid": "42668271",
       "title": "Spatial lipidomics of the human brain: systematic review of current state and future perspectives.",
@@ -102,56 +164,6 @@
       "doi": "10.1016/j.canlet.2026.218804",
       "date": "2026-08-29",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667948/"
-    },
-    {
-      "pmid": "42667716",
-      "title": "Benzo[a]pyrene-induced AHR activation in human ESCs primes premature neurogenesis in cerebral organoids.",
-      "abstract": "Benzo[a]pyrene (BaP), a representative polycyclic aromatic hydrocarbon (PAH), is a widespread environmental toxicant and potent ligand of the aryl hydrocarbon receptor (AHR). Yet, how early developmental exposure to BaP influences human neurodevelopment remains poorly understood. To identify an appropriate exposure window, we characterized AHR expression during human embryonic stem cell (ESC)-derived cerebral organoid development and observed the highest expression at the ESC stage, followed by a decline during subsequent differentiation, highlighting the ESC stage as a potentially vulnerable stage for AHR-mediated environmental perturbation. Based on this observation, ESCs were exposed to BaP (0.1, 1 μM) for 7 days prior to organoid generation. BaP exposure did not alter pluripotency, proliferation, cell death, or global transcription of ESCs but increased expression of a subset of AHR target genes. Remarkably, however, organoids derived from BaP-exposed ESCs exhibited profound morphological defects resulting from premature neurogenesis, characterized by disrupted neural rosette organization, reduced EOMES⁺ intermediate progenitors, and increased BCL11B⁺ neurons. Pharmacological inhibition of AHR with CH-223191 attenuated AHR activation and rescued the progenitor-neuron imbalance. These findings identify AHR signaling as a critical upstream mediator of BaP-induced developmental neurotoxicity and highlight the vulnerability of early pluripotent stages to environmental insults.",
-      "journal": "Journal of hazardous materials",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, 262 Danny Thomas Place, Memphis, TN 38105, USA.",
-        "Department of Chemical Biology and Therapeutics, St. Jude Children's Research Hospital, 262 Danny Thomas Place, Memphis, TN 38105, USA.",
-        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, 262 Danny Thomas Place, Memphis, TN 38105, USA. Electronic address: Young-Goo.Han@stjude.org."
-      ],
-      "doi": "10.1016/j.jhazmat.2026.143419",
-      "date": "2026-08-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667716/"
-    },
-    {
-      "pmid": "42667643",
-      "title": "Impact of Highly Effective Modulator Therapy on Olfactory-Specific Gene Expression in People With Cystic Fibrosis.",
-      "abstract": "Chronic rhinosinusitis is common in people with cystic fibrosis (PwCF). Highly effective modulator therapy (HEMT) has been shown to improve sinonasal outcomes. However, prior studies failed to show improvement in objective olfaction with HEMT, and the impact of HEMT on olfactory-specific quality of life has yet to be studied. Furthermore, the underlying changes in gene expression within the olfactory epithelium (OE) of PwCF remains poorly understood. Single-center cross-sectional cohort study of PwCF. Patients with no history of cystic fibrosis (CF) or comorbid sinus disease were used as controls. Olfactory-specific quality-of-life (QOD-NS) and objective olfactory testing (Sniffin' Sticks comprehensive test) were collected. Cytology brushings from the OE were obtained to isolate RNA for olfactory-specific gene expression (OMP, TUJ1, KRT5, SOX2, OR9K2, and OR5AN1). Fifty PwCF were enrolled (HEMT n = 32, non-HEMT n = 18, and control n = 17). A significant difference was found for QOD-NS (p = 0.041) but not for objective olfaction (p = 0.72) by HEMT status. There was a significant difference between HEMT and non-HEMT cohorts for SOX2 gene expression (p = 0.016); there were no significant differences observed in other markers. Comparing PwCF to controls, significant differences were found in gene expression across all markers. HEMT is associated with QOD-NS but not objective olfaction in PwCF. HEMT may impact gene expression of support cells in the OE but does not appear to affect olfactory neuronal gene expression. This suggests PwCF have early and irreversible damage to the OE. Further studies are necessary to better understand CF-induced changes to the OE.",
-      "journal": "International forum of allergy & rhinology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Otorhinolaryngology-Head and Neck Surgery, University of Pennsylvania, Philadelphia, Pennsylvania, USA.",
-        "Division of Pulmonary, Allergy and Critical Care, Department of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, USA.",
-        "Corporal Michael J. Crescenz Veterans Affairs Medical Center, Philadelphia, Pennsylvania, USA.",
-        "Monell Chemical Senses Center, Philadelphia, Pennsylvania, USA."
-      ],
-      "doi": "10.1002/alr.70253",
-      "date": "2026-08-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667643/"
-    },
-    {
-      "pmid": "42667215",
-      "title": "An Engineering-Editable Hybrid Membrane‑Camouflaged DNA Origami Drug Enables Checkpoint Blockade and Immune Activation for Triple-Negative Breast Cancer Immunotherapy.",
-      "abstract": "The clinical response to immunotherapy in triple-negative breast cancer (TNBC) is often limited by the immunosuppressive microenvironment, immune cell exhaustion, and multidrug resistance. Through a high-throughput screen of 2,500 FDA-approved drugs using a three-dimensional tumor organoid platform, we identified thonzonium bromide (THO) as an inducer of gasdermin D (GSDMD)-mediated pyroptosis, which results in the release of damage-associated molecular patterns (DAMPs) to activate antitumor immunity. To achieve targeted delivery, we designed a core-shell-structured biomimetic nanoparticle (THO/AMT-si NP) consisting of a core formed by tetrahedral DNA (TDN NPs) constructed using DNA origami technology, which is loaded with THO and P-gp siRNA, and an outer layer coated with a programmatically designed hybrid membrane (AREP). These findings indicate that THO/AMT-Si NPs can effectively target TNBC tumors, convert \"cold\" tumors into \"hot\" tumors by inducing pyroptosis in cancer cells, reverse immune cell exhaustion, and simultaneously overcome cancer cell multidrug resistance, thereby achieving synergistic inhibition of tumor growth and metastasis. In summary, this biomimetic nanomedicine enhances immunotherapy for TNBC by combining synergistic cascade targeting, immune checkpoint blockade, and thermosis-mediated immune activation.",
-      "journal": "Angewandte Chemie (International ed. in English)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Pharmacy, Anhui Medical University, Hefei, China."
-      ],
-      "doi": "10.1002/anie.7162372",
-      "date": "2026-08-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667215/"
     },
     {
       "pmid": "42667121",
@@ -369,6 +381,42 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42653762/"
     },
     {
+      "pmid": "42669321",
+      "title": "Molecular Mechanisms of Exosome-Mediated Drug Resistance in Central Nervous System Tumours.",
+      "abstract": "Exosomes are 30-150nm extracellular vesicles released via fusion of multivesicular bodies with the plasma membrane and enriched in selectively sorted proteins, lipids and nucleic acids that reflect both donor-cell state and regulated packaging pathways. In central nervous system (CNS) tumours, exosome-mediated communication is increasingly recognised as a scalable mechanism by which malignant cells coordinate adaptation to therapy across cellular and anatomical barriers, including the blood-brain barrier. This review synthesises current evidence linking exosome biogenesis and cargo selection (ESCRT-associated factors, tetraspanins, Rab GTPases, RNA-binding proteins) with key resistance phenotypes in glioblastoma and other CNS tumour entities. We outline four convergent routes by which exosomes blunt therapeutic efficacy: horizontal transfer of resistance determinants, rapid activation of pro-survival signalling hubs, tumour-microenvironment remodeling, vesicle-enabled \"drug scavenging\", where cytotoxic agents and/or efflux machinery are sequestered and exported, lowering effective intracellular drug exposure. Finally, we discuss translational opportunities and constraints, highlighting exosome-based liquid biopsy strategies in CSF and blood and therapeutic concepts targeting vesicle biogenesis, release or uptake, while emphasizing the need for rigorous EV characterization and reporting standards to accelerate clinical implementation.",
+      "journal": "Critical reviews in oncology/hematology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Faculty of Medicine, Wroclaw Medical University, 50-367 Wroclaw, Poland; Student Research Group No. SKN148, Faculty of Pharmacy, Wroclaw Medical University, Wroclaw, Poland. Electronic address: mateusz.mamala@student.umw.edu.pl.",
+        "Faculty of Medicine, Wroclaw Medical University, 50-367 Wroclaw, Poland; Student Research Group No. SKN148, Faculty of Pharmacy, Wroclaw Medical University, Wroclaw, Poland. Electronic address: karolina.marczuk@student.umw.edu.pl.",
+        "Department of Molecular and Cellular Biology, Faculty of Pharmacy, Wroclaw Medical University, Wroclaw, Poland. Electronic address: nina.rembialkowska@umw.edu.pl."
+      ],
+      "doi": "10.1016/j.critrevonc.2026.105571",
+      "date": "2026-08-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669321/"
+    },
+    {
+      "pmid": "42669262",
+      "title": "One-pot dual-toehold RCA-Cas12a biosensor driven by a preassembled three-arm toehold-gated DNA template for sequence-selective miRNA liquid biopsy.",
+      "abstract": "MicroRNAs (miRNAs) in blood are promising liquid biopsy biomarkers, yet their short length, low abundance, and high intra-family homology hinder sensitive and specific detection. Combining rolling circle amplification (RCA) with CRISPR-Cas12a enables isothermal detection, but existing methods typically depend on auxiliary enzymes or in-assay ligation and rarely encode sequence discrimination within the template itself. Here, we report a one-pot dual-toehold RCA (dtRCA)-Cas12a biosensor driven by a preassembled three-arm toehold-gated (3TG) DNA template for ultrasensitive and selective miRNA detection. The 3TG template adopts a three-arm dumbbell conformation, eliminating the need for a ligase during the assay, and presents two target-complementary toehold domains with a Cas12a-recognition sequence. Target binding triggers strand displacement, initiating dtRCA via a single polymerase. The resulting amplicons activate Cas12a trans-cleavage for fluorescence or lateral flow assay (LFA) readouts. Crucially, a single-base mismatch within the toehold suppressed amplification, whereas a topology-matched circular template lacking the toehold gate failed to distinguish the target, demonstrating that selectivity arises from the template structure. The one-pot dtRCA-Cas12a system achieved attomolar sensitivity, detecting miR-21, miR-375, and let-7a at 2.5, 114.9, and 8.0 aM, respectively. The paper-based LFA maintained femtomolar sensitivity and enabled an instrument-light readout. In plasma, this platform discriminated breast cancer patients (n = 17) from healthy donors (n = 10) with AUC values of 0.97-0.98. Three-marker classification demonstrated robust performance in leave-one-out cross-validation and correctly classified 30 samples in an independent validation cohort, showing performance comparable to RT-qPCR. By embedding selectivity into a preassembled template, this 3TG-driven dtRCA-Cas12a platform provides a highly sensitive and specific strategy for multi-marker miRNA analysis with simplified readout.",
+      "journal": "Biosensors & bioelectronics",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Bioengineering & Nano-Bioengineering, Research Center for Bio Materials and Process Development, Incheon National University, Incheon, 22012, Republic of Korea.",
+        "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Daejeon, 34141, Republic of Korea; Department of Nanobiotechnology, KRIBB School of Biotechnology, University of Science and Technology, Daejeon, 34113, Republic of Korea.",
+        "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Daejeon, 34141, Republic of Korea; Department of Nanobiotechnology, KRIBB School of Biotechnology, University of Science and Technology, Daejeon, 34113, Republic of Korea; School of Pharmacy, Sungkyunkwan University, Suwon, 16419, Republic of Korea. Electronic address: eklim1112@kribb.re.kr.",
+        "Department of Bioengineering & Nano-Bioengineering, Research Center for Bio Materials and Process Development, Incheon National University, Incheon, 22012, Republic of Korea; Division of Bioengineering, Incheon National University, Incheon, 22012, Republic of Korea. Electronic address: e.kim@inu.ac.kr."
+      ],
+      "doi": "10.1016/j.bios.2026.119170",
+      "date": "2026-08-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669262/"
+    },
+    {
       "pmid": "42669007",
       "title": "Method Matters: A Proteomics-Informed Framework for Selecting Extracellular Vesicle Isolation Methods for Plasma.",
       "abstract": "Extracellular vesicles (EVs) hold significant promise as biomarkers, but their clinical application is constrained by variability in pre-analytical handling and isolation. EV isolation methods directly shape which plasma-derived EV-containing preparations are captured, yet systematic method comparisons across multiple analytical dimensions are limited. We comprehensively evaluated eleven EV isolation methods in pooled platelet-poor plasma (5 donors; 6 technical replicates/method). We further evaluated selected methods using five individual donors. EVs were quantified by NanoFCM, profiled for tetraspanins (CD9, CD63, CD81) via MSD assays, and further characterized by LC-MS/MS proteomics. We show that different EV isolation methods for plasma produce different EV containing preparation. EV isolation methods broadened proteome coverage in plasma but showed divergent performance. While all methods captured EVs in the 50-150 nm range, centrifugation and ultracentrifugation identified the broadest proteomes (up to 1093 proteins) driven by higher plasma protein carryover. Conversely, ExoEasy and qEV 70 isolated larger EVs and achieved stronger depletion of abundant plasma proteins but showed lower proteome coverage. A total of 117 proteins were detected across all isolation methods. Pre-clearing of samples removed contaminants but at the cost of protein identifications. We demonstrate that method selection must align with the specific analytical goal: centrifugation for comprehensive proteome profiling, affinity/size-exclusion methods for contaminant-sensitive assays, and precipitation for high-throughput applications. This systematic characterization provides an evidence-based framework and look-up resource for matching isolation strategies to downstream applications and research questions.",
@@ -445,49 +493,159 @@
       "doi": "10.1186/s12967-026-08829-0",
       "date": "2026-08-28",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42665811/"
-    },
-    {
-      "pmid": "42665699",
-      "title": "Liquid Biopsy in Resected Pancreatic Ductal Adenocarcinoma: A Systematic Review and Meta-Analysis.",
-      "abstract": "Distinct liquid biopsy modalities are emerging as promising tumor-specific biomarkers to monitor treatment response and predict survival in pancreatic ductal adenocarcinoma (PDAC). Circulating tumor DNA (ctDNA), circulating tumor cells (CTCs), and extracellular vesicles (EVs) may reflect underlying systemic disease burden and complement conventional imaging or CA19-9 assessment. This systematic review and meta-analysis evaluated the prognostic significance of liquid biopsy biomarkers in patients with resected PDAC. A systematic review and meta-analysis was performed in accordance with PRISMA guidelines. Studies published until 1 July 2025 evaluating ctDNA, CTCs, or EVs in patients with resected PDAC, with or without neoadjuvant therapy, were evaluated. Primary outcomes were overall survival (OS) and recurrence-free survival (RFS). Study quality was assessed using the QUADAS-2 tool. The meta-analysis included 44 studies (26 ctDNA, 12 CTC, and 6 EV studies; >2,500 patients). Preoperative ctDNA positivity was associated with worse OS (pooled hazard ratio [HR], 2.53; 95% confidence interval [CI], 1.86-3.44) and RFS (HR, 2.28; 95% CI, 1.67-3.11), with low-to-moderate heterogeneity. Postoperative ctDNA positivity demonstrated stronger associations with worse OS (HR, 5.15; 95% CI, 1.57-16.88) and RFS (HR, 3.12; 95% CI, 2.01-4.82), with moderate-to-substantial heterogeneity. Preoperative CTC positivity was associated with inferior RFS (HR, 2.70; 95% CI, 1.32-5.52), with substantial heterogeneity. In individual studies, EV-based biomarkers demonstrated consistent adverse outcomes. However, quantitative pooling was not feasible due to marked heterogeneity. In resected PDAC, preoperative ctDNA is a robust predictor of recurrence and survival. Both CTCs and EVs show biologically compelling but assay-dependent prognostic signals.",
-      "journal": "Annals of surgical oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Surgery, Division of GI Surgical Oncology, UPMC Pancreatic Cancer Center, University of Pittsburgh Medical Center, UPMC Cancer Pavilion, Pittsburgh, USA.",
-        "Department of Surgery, Erasmus Medical Center, Rotterdam, Rotterdam, The Netherlands.",
-        "Department of Biomedical engineering, Carnegie Mellon University, Pittsburgh, USA.",
-        "Health Sciences Library System, University of Pittsburgh, Pittsburgh, USA.",
-        "Department of Surgery, Division of GI Surgical Oncology, UPMC Pancreatic Cancer Center, University of Pittsburgh Medical Center, UPMC Cancer Pavilion, Pittsburgh, USA. panicciaa2@upmc.edu."
-      ],
-      "doi": "10.1245/s10434-026-20413-w",
-      "date": "2026-08-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42665699/"
-    },
-    {
-      "pmid": "42664958",
-      "title": "Development and validation of a serum peptidomic signature for early detection of asymptomatic ovarian cancer: A multi-center prospective study.",
-      "abstract": "Early detection of asymptomatic ovarian cancer (asym-OC) remains a critical challenge, the failure of which underlies its high mortality. Performing serum peptidomic profiling of 843 participants in the cohort SOCFCP, we distill 1,081 initial features into a 7-marker panel for asym-OC detection via a biology-informed machine-learning (ML)-based feature selection strategy. Three markers significantly revert toward non-OC levels after surgery. Integrating the panel with age, CA125, and HE4, we develop and externally validate (n = 159) a LightGBM model, ProMS+. For early-stage OC detection, ProMS+ shows a specificity of 92.6% at 95.0% sensitivity, outperforming CA125 (44.7%), HE4 (11.2%), and Risk of Ovarian Malignancy Algorithm (ROMA) (24.0%), with an area under the curve (AUC) of 0.993. In a simulated high-risk population (n = 100,000; OC prevalence = 1%), ProMS+ yields a high AUC (0.983) and a higher positive predictive value than CA125, HE4, and Age + CA125 + HE4 combined model (0.201 vs. 0.027, 0.090, and 0.064). ProMS+ offers a promising, non-invasive, and interpretable approach for the early detection of asym-OC.",
-      "journal": "Cell reports. Medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Clinical Research Unit, Shanghai Key Laboratory of Maternal Fetal Medicine, Shanghai Institute of Maternal-Fetal Medicine and Gynecologic Oncology, Shanghai First Maternity and Infant Hospital, School of Medicine, Tongji University, Shanghai 200092, China.",
-        "National Engineering Research Center for Biomaterials, Sichuan University, Chengdu 610064, China.",
-        "Department of Gynecology, Shanghai Key Laboratory of Maternal Fetal Medicine, Shanghai Institute of Maternal-Fetal Medicine and Gynecologic Oncology, Shanghai First Maternity and Infant Hospital, School of Medicine, Tongji University, Shanghai 200092, China.",
-        "Department of Gynecological Oncology, Fudan University Shanghai Cancer Center, Fudan University, Shanghai 200032, China.",
-        "Gronbio Technology, Shanghai 201802, China.",
-        "Shanghai Key Laboratory of Maternal Fetal Medicine, Shanghai Institute of Maternal-Fetal Medicine and Gynecologic Oncology, Shanghai First Maternity and Infant Hospital, School of Medicine, Tongji University, Shanghai 200092, China.",
-        "Department of Gynecology, Shanghai Key Laboratory of Maternal Fetal Medicine, Shanghai Institute of Maternal-Fetal Medicine and Gynecologic Oncology, Shanghai First Maternity and Infant Hospital, School of Medicine, Tongji University, Shanghai 200092, China; Shanghai Key Laboratory of Maternal Fetal Medicine, Shanghai Institute of Maternal-Fetal Medicine and Gynecologic Oncology, Shanghai First Maternity and Infant Hospital, School of Medicine, Tongji University, Shanghai 200092, China. Electronic address: renjiwangyu@126.com."
-      ],
-      "doi": "10.1016/j.xcrm.2026.103014",
-      "date": "2026-08-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42664958/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42669624",
+      "date": "2026-08-30",
+      "title": "Space Jam-Ming: Generating Interstitial Space Using Fragmented Granular GelMA to Investigate Novel Paradigms of Cancer Metastasis.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669624/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42669624。",
+      "report": "The tumor microenvironment undergoes extensive remodeling during cancer progression, resulting in increased collagen, altered tissue mechanics, and the formation of collagen tracks that permit migration. However, how the extracellular matrix (ECM) regulates ce...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42669342",
+      "date": "2026-08-30",
+      "title": "An Immune-Activated Co-culture Model of Patient-Derived Gastric Cancer Organoids and Peripheral Blood Mononuclear Cells for Personalized Chemotherapy Screening.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669342/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Acta biomaterialia，PMID 为 42669342。",
+      "report": "Selecting effective chemotherapy after immunotherapy remains a major clinical challenge in advanced gastric cancer because patient responses are highly heterogeneous. A major obstacle is the lack of personalized preclinical models that faithfully recapitulate...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42669170",
+      "date": "2026-08-30",
+      "title": "Primary Renal Neuroendocrine Tumors Presenting as a Complex Cystic Mass and Arising in a Horseshoe Kidney: A Report of Two Cases.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669170/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Ultrastructural pathology，PMID 为 42669170。",
+      "report": "Primary renal neuroendocrine tumors (PRNETs) are exceptionally rare neoplasms that account for less than 1% of genitourinary neuroendocrine neoplasms and pose considerable diagnostic difficulty because of their non-specific clinicoradiological presentations an...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42669321",
+      "date": "2026-08-30",
+      "title": "Molecular Mechanisms of Exosome-Mediated Drug Resistance in Central Nervous System Tumours.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669321/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Critical reviews in oncology/hematology，PMID 为 42669321。",
+      "report": "Exosomes are 30-150nm extracellular vesicles released via fusion of multivesicular bodies with the plasma membrane and enriched in selectively sorted proteins, lipids and nucleic acids that reflect both donor-cell state and regulated packaging pathways. In cen...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42669262",
+      "date": "2026-08-30",
+      "title": "One-pot dual-toehold RCA-Cas12a biosensor driven by a preassembled three-arm toehold-gated DNA template for sequence-selective miRNA liquid biopsy.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669262/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42669262。",
+      "report": "MicroRNAs (miRNAs) in blood are promising liquid biopsy biomarkers, yet their short length, low abundance, and high intra-family homology hinder sensitive and specific detection. Combining rolling circle amplification (RCA) with CRISPR-Cas12a enables isotherma...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42668271",
       "date": "2026-08-29",
@@ -583,64 +741,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42667643",
-      "date": "2026-08-29",
-      "title": "Impact of Highly Effective Modulator Therapy on Olfactory-Specific Gene Expression in People With Cystic Fibrosis.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667643/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International forum of allergy & rhinology，PMID 为 42667643。",
-      "report": "Chronic rhinosinusitis is common in people with cystic fibrosis (PwCF). Highly effective modulator therapy (HEMT) has been shown to improve sinonasal outcomes. However, prior studies failed to show improvement in objective olfaction with HEMT, and the impact o...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42667215",
-      "date": "2026-08-29",
-      "title": "An Engineering-Editable Hybrid Membrane‑Camouflaged DNA Origami Drug Enables Checkpoint Blockade and Immune Activation for Triple-Negative Breast Cancer Immunotherapy.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667215/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42667215。",
-      "report": "The clinical response to immunotherapy in triple-negative breast cancer (TNBC) is often limited by the immunosuppressive microenvironment, immune cell exhaustion, and multidrug resistance. Through a high-throughput screen of 2,500 FDA-approved drugs using a th...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42667121",
       "date": "2026-08-29",
       "title": "Predicting Single-Cell Perturbation Responses Across Biological Contexts With a Deep Generative Model Integrating Optimal Transport.",
@@ -698,34 +798,6 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of extracellular biology，PMID 为 42669007。",
       "report": "Extracellular vesicles (EVs) hold significant promise as biomarkers, but their clinical application is constrained by variability in pre-analytical handling and isolation. EV isolation methods directly shape which plasma-derived EV-containing preparations are...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42667716",
-      "date": "2026-08-28",
-      "title": "Benzo[a]pyrene-induced AHR activation in human ESCs primes premature neurogenesis in cerebral organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667716/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of hazardous materials，PMID 为 42667716。",
-      "report": "Benzo[a]pyrene (BaP), a representative polycyclic aromatic hydrocarbon (PAH), is a widespread environmental toxicant and potent ligand of the aryl hydrocarbon receptor (AHR). Yet, how early developmental exposure to BaP influences human neurodevelopment remain...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -818,64 +890,6 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42665811。",
       "report": "Digital pathology supports whole-slide imaging, remote review, and computational analysis. Most pathology AI systems, however, remain restricted to predefined tasks. Agentic architectures coordinate perception models, language-based reasoning, external tools,...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42665699",
-      "date": "2026-08-28",
-      "title": "Liquid Biopsy in Resected Pancreatic Ductal Adenocarcinoma: A Systematic Review and Meta-Analysis.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42665699/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Annals of surgical oncology，PMID 为 42665699。",
-      "report": "Distinct liquid biopsy modalities are emerging as promising tumor-specific biomarkers to monitor treatment response and predict survival in pancreatic ductal adenocarcinoma (PDAC). Circulating tumor DNA (ctDNA), circulating tumor cells (CTCs), and extracellula...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42664958",
-      "date": "2026-08-28",
-      "title": "Development and validation of a serum peptidomic signature for early detection of asymptomatic ovarian cancer: A multi-center prospective study.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42664958/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42664958。",
-      "report": "Early detection of asymptomatic ovarian cancer (asym-OC) remains a critical challenge, the failure of which underlies its high mortality. Performing serum peptidomic profiling of 843 participants in the cohort SOCFCP, we distill 1,081 initial features into a 7...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

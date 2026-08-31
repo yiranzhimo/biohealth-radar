@@ -1,8 +1,216 @@
 {
-  "capturedAt": "2026-08-30T21:11:36.500366+00:00",
+  "capturedAt": "2026-08-31T05:43:17.491323+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
-  "reviews": []
+  "reviews": [
+    {
+      "signalId": "pubmed-42669624",
+      "responseId": "resp_0e1b18ecfc8a06d1006a951476939c87d197e524d9a4db376d",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查以评估研究质量和临床结论。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类不够明确，缺乏足够的支持。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平被认为不充分。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Biotech",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "biotech",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42669624。",
+          "report": "The tumor microenvironment undergoes extensive remodeling during cancer progression, resulting in increased collagen, altered tissue mechanics, and the formation of collagen tracks that permit migration.",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42669342",
+      "responseId": "resp_02d4789a272a608d006a95147f87cc87d1a6d5026041dc183e",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献提到个体化化疗筛选的临床挑战，可能暗示治疗有效性，但缺乏具体支持。需要人类审核以确认文献质量和潜在偏见。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "个体化化疗有效性尚未确认，分类需要改进。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "系列证据支持程度不足，报告与推断未能清晰区分。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "研究与开发",
+          "subCategory": "个性化医疗",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "肿瘤",
+            "个性化治疗",
+            "药物筛选"
+          ],
+          "tags": [
+            "类器官",
+            "胃癌",
+            "化疗"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Acta biomaterialia，PMID 为 42669342。",
+          "report": "Selecting effective chemotherapy after immunotherapy remains a major clinical challenge in advanced gastric cancer because patient responses are highly heterogeneous.",
+          "inference": "该分类仅用于信息分流，不应表示研究的临床有效性。",
+          "unknown": "缺乏关于研究质量、样本量和潜在利益冲突的具体信息。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42669170",
+      "responseId": "resp_0fc6e966fe5bc08b006a951485759887d1968d0231b02bda1d",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "信息需求人工审核，因不明确研究质量和临床结论。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "文献支持的分类与研究真实性无关，存在推断和不确定性的混合。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "尽管文献可靠性高，但证据等级中等且缺乏对研究质量的判断。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Ultrastructural pathology，PMID 为 42669170。",
+          "report": "Primary renal neuroendocrine tumors (PRNETs) are exceptionally rare neoplasms that account for less than 1% of genitourinary neuroendocrine neoplasms and pose considerable diagnostic difficulty because of their non-specific clinicoradiological presentations.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42669321",
+      "responseId": "resp_03778d7df97cbc07006a95148951c087d19fa36056b7dc7b78",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该卡片信息一致，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Critical reviews in oncology/hematology，PMID 为 42669321。",
+          "report": "Exosomes are 30-150nm extracellular vesicles released via fusion of multivesicular bodies with the plasma membrane and enriched in selectively sorted proteins, lipids and nucleic acids that reflect both donor-cell state and regulated packaging pathways. In cen...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42669262",
+      "responseId": "resp_06c28283e5652ea1006a95148d318087d194382359bee750d5",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号整合了文献的基本信息和研究发现，但没有做出未支持的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断已清晰分离，证据水平适中。"
+        },
+        "riskFlags": [
+          "insufficient_source",
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42669262。",
+          "report": "MicroRNAs (miRNAs) in blood are promising liquid biopsy biomarkers, yet their short length, low abundance, and high intra-family homology hinder sensitive and specific detection. Combining rolling circle amplification (RCA) with CRISPR-Cas12a enables isotherma...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    }
+  ]
 }

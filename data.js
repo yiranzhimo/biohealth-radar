@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-08-30",
+  "updatedAt": "2026-08-31",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -821,6 +821,373 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42669624",
+      "date": "2026-08-30",
+      "title": "Space Jam-Ming: Generating Interstitial Space Using Fragmented Granular GelMA to Investigate Novel Paradigms of Cancer Metastasis.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669624/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42669624。",
+      "report": "The tumor microenvironment undergoes extensive remodeling during cancer progression, resulting in increased collagen, altered tissue mechanics, and the formation of collagen tracks that permit migration. However, how the extracellular matrix (ECM) regulates ce...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0e1b18ecfc8a06d1006a951476939c87d197e524d9a4db376d",
+        "reviewedAt": "2026-08-31T05:43:17.491323+00:00",
+        "inputHash": "f0e5875080abcad14ca70c98ac57c88cbb4209c17ff35c005852f928f733d930",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查以评估研究质量和临床结论。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类不够明确，缺乏足够的支持。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平被认为不充分。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Biotech",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "biotech",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42669624。",
+          "report": "The tumor microenvironment undergoes extensive remodeling during cancer progression, resulting in increased collagen, altered tissue mechanics, and the formation of collagen tracks that permit migration.",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42669342",
+      "date": "2026-08-30",
+      "title": "An Immune-Activated Co-culture Model of Patient-Derived Gastric Cancer Organoids and Peripheral Blood Mononuclear Cells for Personalized Chemotherapy Screening.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669342/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Acta biomaterialia，PMID 为 42669342。",
+      "report": "Selecting effective chemotherapy after immunotherapy remains a major clinical challenge in advanced gastric cancer because patient responses are highly heterogeneous. A major obstacle is the lack of personalized preclinical models that faithfully recapitulate...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_02d4789a272a608d006a95147f87cc87d1a6d5026041dc183e",
+        "reviewedAt": "2026-08-31T05:43:17.491323+00:00",
+        "inputHash": "2f3652523b81facdcc1ef7e02f77624a51a6a047407bf890f2849d890b115afa",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献提到个体化化疗筛选的临床挑战，可能暗示治疗有效性，但缺乏具体支持。需要人类审核以确认文献质量和潜在偏见。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "个体化化疗有效性尚未确认，分类需要改进。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "系列证据支持程度不足，报告与推断未能清晰区分。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "研究与开发",
+          "subCategory": "个性化医疗",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "肿瘤",
+            "个性化治疗",
+            "药物筛选"
+          ],
+          "tags": [
+            "类器官",
+            "胃癌",
+            "化疗"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Acta biomaterialia，PMID 为 42669342。",
+          "report": "Selecting effective chemotherapy after immunotherapy remains a major clinical challenge in advanced gastric cancer because patient responses are highly heterogeneous.",
+          "inference": "该分类仅用于信息分流，不应表示研究的临床有效性。",
+          "unknown": "缺乏关于研究质量、样本量和潜在利益冲突的具体信息。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42669170",
+      "date": "2026-08-30",
+      "title": "Primary Renal Neuroendocrine Tumors Presenting as a Complex Cystic Mass and Arising in a Horseshoe Kidney: A Report of Two Cases.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669170/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Ultrastructural pathology，PMID 为 42669170。",
+      "report": "Primary renal neuroendocrine tumors (PRNETs) are exceptionally rare neoplasms that account for less than 1% of genitourinary neuroendocrine neoplasms and pose considerable diagnostic difficulty because of their non-specific clinicoradiological presentations an...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0fc6e966fe5bc08b006a951485759887d1968d0231b02bda1d",
+        "reviewedAt": "2026-08-31T05:43:17.491323+00:00",
+        "inputHash": "8d42545c981f42a95c99a7db4d2cdb0a4ed341f8b496a5bdcea36645143c1a88",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "信息需求人工审核，因不明确研究质量和临床结论。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "文献支持的分类与研究真实性无关，存在推断和不确定性的混合。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "尽管文献可靠性高，但证据等级中等且缺乏对研究质量的判断。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Ultrastructural pathology，PMID 为 42669170。",
+          "report": "Primary renal neuroendocrine tumors (PRNETs) are exceptionally rare neoplasms that account for less than 1% of genitourinary neuroendocrine neoplasms and pose considerable diagnostic difficulty because of their non-specific clinicoradiological presentations.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42669321",
+      "date": "2026-08-30",
+      "title": "Molecular Mechanisms of Exosome-Mediated Drug Resistance in Central Nervous System Tumours.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669321/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Critical reviews in oncology/hematology，PMID 为 42669321。",
+      "report": "Exosomes are 30-150nm extracellular vesicles released via fusion of multivesicular bodies with the plasma membrane and enriched in selectively sorted proteins, lipids and nucleic acids that reflect both donor-cell state and regulated packaging pathways. In cen...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_03778d7df97cbc07006a95148951c087d19fa36056b7dc7b78",
+        "reviewedAt": "2026-08-31T05:43:17.491323+00:00",
+        "inputHash": "03d7e304155042a33d512f583edcfd67789ca4de16729c77d290ec5e9ebf68d9",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该卡片信息一致，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Critical reviews in oncology/hematology，PMID 为 42669321。",
+          "report": "Exosomes are 30-150nm extracellular vesicles released via fusion of multivesicular bodies with the plasma membrane and enriched in selectively sorted proteins, lipids and nucleic acids that reflect both donor-cell state and regulated packaging pathways. In cen...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42669262",
+      "date": "2026-08-30",
+      "title": "One-pot dual-toehold RCA-Cas12a biosensor driven by a preassembled three-arm toehold-gated DNA template for sequence-selective miRNA liquid biopsy.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669262/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42669262。",
+      "report": "MicroRNAs (miRNAs) in blood are promising liquid biopsy biomarkers, yet their short length, low abundance, and high intra-family homology hinder sensitive and specific detection. Combining rolling circle amplification (RCA) with CRISPR-Cas12a enables isotherma...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_06c28283e5652ea1006a95148d318087d194382359bee750d5",
+        "reviewedAt": "2026-08-31T05:43:17.491323+00:00",
+        "inputHash": "597f39838f700b02d24f3b7eedca677b612a118163033b5b1430e393fa83c56d",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号整合了文献的基本信息和研究发现，但没有做出未支持的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断已清晰分离，证据水平适中。"
+        },
+        "riskFlags": [
+          "insufficient_source",
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42669262。",
+          "report": "MicroRNAs (miRNAs) in blood are promising liquid biopsy biomarkers, yet their short length, low abundance, and high intra-family homology hinder sensitive and specific detection. Combining rolling circle amplification (RCA) with CRISPR-Cas12a enables isotherma...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42668271",
       "date": "2026-08-29",
       "title": "Spatial lipidomics of the human brain: systematic review of current state and future perspectives.",
@@ -1051,150 +1418,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42667643",
-      "date": "2026-08-29",
-      "title": "Impact of Highly Effective Modulator Therapy on Olfactory-Specific Gene Expression in People With Cystic Fibrosis.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667643/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International forum of allergy & rhinology，PMID 为 42667643。",
-      "report": "Chronic rhinosinusitis is common in people with cystic fibrosis (PwCF). Highly effective modulator therapy (HEMT) has been shown to improve sinonasal outcomes. However, prior studies failed to show improvement in objective olfaction with HEMT, and the impact o...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_03890a2838d5f7d1006a93bfd2a35887d296eba776018563bd",
-        "reviewedAt": "2026-08-30T05:29:41.566914+00:00",
-        "inputHash": "6298dfb37aa06d2e86d95ab40f6388959834ee448cc170b207fe7b226dbccee0",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人类审核，报告中存在对疗效的隐含推断。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类不合适，未能准确反映研究的范围和影响。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
-          "evidenceLevelReasonable": false,
-          "notesCn": "尽管信息源可靠，但报告内容引入了结论性推断，未进行明确区分。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Biotech"
-          ],
-          "tags": [
-            "biotech"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 International forum of allergy & rhinology，PMID 为 42667643。",
-          "report": "Chronic rhinosinusitis is common in people with cystic fibrosis (PwCF). Highly effective modulator therapy (HEMT) has been shown to improve sinonasal outcomes. However, prior studies failed to show improvement in objective olfaction with HEMT, and the impact o...",
-          "inference": "目前的推论和结论未明确区分，应避免对疗效的隐含暗示。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42667215",
-      "date": "2026-08-29",
-      "title": "An Engineering-Editable Hybrid Membrane‑Camouflaged DNA Origami Drug Enables Checkpoint Blockade and Immune Activation for Triple-Negative Breast Cancer Immunotherapy.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667215/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42667215。",
-      "report": "The clinical response to immunotherapy in triple-negative breast cancer (TNBC) is often limited by the immunosuppressive microenvironment, immune cell exhaustion, and multidrug resistance. Through a high-throughput screen of 2,500 FDA-approved drugs using a th...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_09cdf43e14defa80006a930cd623b887d18d6ecccdd6a6f28c",
-        "reviewedAt": "2026-08-29T16:46:13.155926+00:00",
-        "inputHash": "0cbb4fa1016b155eb03062972fbdda8527408cc09d50accb0b9d1a393eeeb45e",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录符合发布标准，信息清晰、归类合理。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别与文献内容相符。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告与推断分离清晰，证据等级合理。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42667215。",
-          "report": "The clinical response to immunotherapy in triple-negative breast cancer (TNBC) is often limited by the immunosuppressive microenvironment, immune cell exhaustion, and multidrug resistance. Through a high-throughput screen of 2,500 FDA-approved drugs using a th...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42667121",
       "date": "2026-08-29",
       "title": "Predicting Single-Cell Perturbation Responses Across Biological Contexts With a Deep Generative Model Integrating Optimal Transport.",
@@ -1335,76 +1558,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Journal of extracellular biology，PMID 为 42669007。",
           "report": "Extracellular vesicles (EVs) hold significant promise as biomarkers, but their clinical application is constrained by variability in pre-analytical handling and isolation. EV isolation methods directly shape which plasma-derived EV-containing preparations are...",
           "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42667716",
-      "date": "2026-08-28",
-      "title": "Benzo[a]pyrene-induced AHR activation in human ESCs primes premature neurogenesis in cerebral organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667716/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of hazardous materials，PMID 为 42667716。",
-      "report": "Benzo[a]pyrene (BaP), a representative polycyclic aromatic hydrocarbon (PAH), is a widespread environmental toxicant and potent ligand of the aryl hydrocarbon receptor (AHR). Yet, how early developmental exposure to BaP influences human neurodevelopment remain...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0684ef8c80322fd2006a93bfd5cbbc87d29a1af799aee375e0",
-        "reviewedAt": "2026-08-30T05:29:41.566914+00:00",
-        "inputHash": "ef33f339115ccfea48cb4cfdda6e903b97164a4dd6bf008178f21fe247899e29",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献的研究质量、样本量、临床阶段及商业化状态未知，需要人工判断。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类支持不足，文献中可能暗示了影响神经发育的临床结论。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平为中等，但报告暗示潜在的临床影响，可能导致误解。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of hazardous materials，PMID 为 42667716。",
-          "report": "Benzo[a]pyrene (BaP), a representative polycyclic aromatic hydrocarbon (PAH), is a widespread environmental toxicant and potent ligand of the aryl hydrocarbon receptor (AHR). Yet, how early developmental exposure to BaP influences human neurodevelopment remain...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1629,150 +1782,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42665811。",
           "report": "Digital pathology supports whole-slide imaging, remote review, and computational analysis. Most pathology AI systems, however, remain restricted to predefined tasks. Agentic architectures coordinate perception models, language-based reasoning, external tools,...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42665699",
-      "date": "2026-08-28",
-      "title": "Liquid Biopsy in Resected Pancreatic Ductal Adenocarcinoma: A Systematic Review and Meta-Analysis.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42665699/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Annals of surgical oncology，PMID 为 42665699。",
-      "report": "Distinct liquid biopsy modalities are emerging as promising tumor-specific biomarkers to monitor treatment response and predict survival in pancreatic ductal adenocarcinoma (PDAC). Circulating tumor DNA (ctDNA), circulating tumor cells (CTCs), and extracellula...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0ba28cabc5ca1f69006a930cf62fec87d199b6546cd5012024",
-        "reviewedAt": "2026-08-29T16:46:13.155926+00:00",
-        "inputHash": "d51bdf4e9b921db85d10383657c398ff1715e3b3a6c9e66010428066509944c3",
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该研究以液体活检为主题，需判断其临床结论的支持性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类可能未充分依据文献内容支持。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平为中等，但未反映研究质量和其他重要信息，可能误导读者。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Annals of surgical oncology，PMID 为 42665699。",
-          "report": "Distinct liquid biopsy modalities are emerging as promising tumor-specific biomarkers to monitor treatment response and predict survival in pancreatic ductal adenocarcinoma (PDAC). Circulating tumor DNA (ctDNA), circulating tumor cells (CTCs), and extracellula...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42664958",
-      "date": "2026-08-28",
-      "title": "Development and validation of a serum peptidomic signature for early detection of asymptomatic ovarian cancer: A multi-center prospective study.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42664958/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42664958。",
-      "report": "Early detection of asymptomatic ovarian cancer (asym-OC) remains a critical challenge, the failure of which underlies its high mortality. Performing serum peptidomic profiling of 843 participants in the cohort SOCFCP, we distill 1,081 initial features into a 7...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_06c1463faf7649f9006a92858f5dd487d18637eb6b9a18f390",
-        "reviewedAt": "2026-08-29T07:08:50.666712+00:00",
-        "inputHash": "18630ef43209ff67bbeca371848d12ec9e1eeb522b112fec6c34d53f13435134",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献标题为早期检测无症状卵巢癌的血清肽组学特征的开发和验证，但报告中涉及临床结论。需要人类审查以确保不对研究结果做出不支持的临床推断。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类与提供的证据水平不符，证据水平为中等，但报告中含有临床推论。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
-          "evidenceLevelReasonable": false,
-          "notesCn": "事实、报告和推论之间的区分不清晰，导致无法独立判断。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Biotech",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "biotech",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42664958。",
-          "report": "Early detection of asymptomatic ovarian cancer (asym-OC) remains a critical challenge, the failure of which underlies its high mortality. Performing serum peptidomic profiling of 843 participants in the cohort SOCFCP, we distill 1,081 initial features into a 7...",
-          "inference": "此推论尚未得到明确支持，需进一步验证研究结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
