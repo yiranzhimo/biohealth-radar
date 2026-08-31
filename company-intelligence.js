@@ -3,7 +3,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
   "asOfDate": "2026-08-31",
   "summary": {
     "profileCount": 625,
-    "evidenceCount": 788,
+    "evidenceCount": 797,
     "programCandidateCount": 0,
     "companyCandidateCount": 597,
     "companyMentionCount": 668,
@@ -37,8 +37,8 @@ window.BHR_COMPANY_INTELLIGENCE = {
   },
   "profileCoverage": {
     "profileCount": 625,
-    "companyReportedCount": 615,
-    "withEvidenceCount": 616,
+    "companyReportedCount": 624,
+    "withEvidenceCount": 625,
     "withProductClaimsCount": 519,
     "withFuturePlansCount": 3,
     "failedSourceCount": 52,
@@ -12715,7 +12715,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-aquinnah-pharmaceuticals",
       "name": "Aquinnah Pharmaceuticals, Inc.",
       "asOfDate": "2026-08-31",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -12749,40 +12749,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, RNA Therapeutics, cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-aquinnah-pharmaceuticals-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-aquinnah-pharmaceuticals-official-6701336049be",
+            "date": "2026-08-31",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-aquinnah-pharmaceuticals-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11374534"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-08-31",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-aquinnah-pharmaceuticals-official-6701336049be",
+          "date": "2026-08-31",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-aquinnah-pharmaceuticals-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11374534"
+        }
+      ]
     },
     {
       "companyId": "candidate-arbutus-biopharma",
@@ -16108,7 +16132,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-astrocyte-pharmaceuticals",
       "name": "Astrocyte Pharmaceuticals, Inc.",
       "asOfDate": "2026-08-31",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -16140,40 +16164,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, cell therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-astrocyte-pharmaceuticals-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-astrocyte-pharmaceuticals-official-6701336049be",
+            "date": "2026-08-31",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-astrocyte-pharmaceuticals-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11349693"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-08-31",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-astrocyte-pharmaceuticals-official-6701336049be",
+          "date": "2026-08-31",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-astrocyte-pharmaceuticals-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11349693"
+        }
+      ]
     },
     {
       "companyId": "candidate-ataibeckley",
@@ -20193,7 +20241,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "BeOne is advancing a broad and deep pipeline, accelerating development through rigorous science to deliver transformative medicines to more people around the world.",
             "text": "BeOne is advancing a broad and deep pipeline, accelerating development through rigorous science to deliver transformative medicines to more people around the world.",
-            "evidenceId": "evidence-company-beone-medicines-official-f6d717853551",
+            "evidenceId": "evidence-company-beone-medicines-official-ec9d79d6fac4",
             "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -20201,7 +20249,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "BeOne Medicines Highlights Accelerating Solid Tumor Pipeline with New Data at ASCO…",
             "text": "BeOne Medicines Highlights Accelerating Solid Tumor Pipeline with New Data at ASCO…",
-            "evidenceId": "evidence-company-beone-medicines-official-f6d717853551",
+            "evidenceId": "evidence-company-beone-medicines-official-ec9d79d6fac4",
             "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -20209,7 +20257,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "See how BeOne brings together innovative science, an accelerated pipeline, and a commitment to access to make more saves possible.",
             "text": "See how BeOne brings together innovative science, an accelerated pipeline, and a commitment to access to make more saves possible.",
-            "evidenceId": "evidence-company-beone-medicines-official-f6d717853551",
+            "evidenceId": "evidence-company-beone-medicines-official-ec9d79d6fac4",
             "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -20217,7 +20265,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "BeOne Medicines and Revolution Medicines Announce Clinical Development and Regional Commercialization Collaboration",
             "text": "BeOne Medicines and Revolution Medicines Announce Clinical Development and Regional Commercialization Collaboration",
-            "evidenceId": "evidence-company-beone-medicines-official-f6d717853551",
+            "evidenceId": "evidence-company-beone-medicines-official-ec9d79d6fac4",
             "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -20225,7 +20273,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "BeOne Medicines is building the world’s leading oncology company – driven by scientific excellence and exceptional speed – to reach more patients than ever before.",
             "text": "BeOne Medicines is building the world’s leading oncology company – driven by scientific excellence and exceptional speed – to reach more patients than ever before.",
-            "evidenceId": "evidence-company-beone-medicines-official-f6d717853551",
+            "evidenceId": "evidence-company-beone-medicines-official-ec9d79d6fac4",
             "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -20233,7 +20281,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Explore how BeOne Medicines advances global cancer care through an integrated model of discovery, development, and delivery, bringing transformative therapies to patients worldwide.",
             "text": "探索BeOne Medicines如何通过综合的发现、开发和交付模型推动全球癌症护理，为全球患者带来变革性疗法。",
-            "evidenceId": "evidence-company-beone-medicines-official-f6d717853551",
+            "evidenceId": "evidence-company-beone-medicines-official-ec9d79d6fac4",
             "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -20241,8 +20289,8 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-beone-medicines-official-ec9d79d6fac4",
           "evidence-sec-0001651308-000165130826000025",
-          "evidence-company-beone-medicines-official-f6d717853551",
           "evidence-company-beone-medicines-pipeline-cad9773572ea",
           "evidence-company-beone-medicines-investor_relations-60394f02563f",
           "evidence-sec-0001651308-000162828026052878",
@@ -20253,6 +20301,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
+            "id": "event-evidence-company-beone-medicines-official-ec9d79d6fac4",
+            "date": "2026-08-31",
+            "title": "Transforming Cancer Care Through Science and Speed | BeOne Medicines",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-beone-medicines-official-ec9d79d6fac4",
+            "sourceUrl": "https://beonemedicines.com/"
+          },
+          {
             "id": "event-sec-0001651308-000165130826000025",
             "date": "2026-08-26",
             "title": "BeOne Medicines filed Form 8-K",
@@ -20262,17 +20321,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": false,
             "evidenceId": "evidence-sec-0001651308-000165130826000025",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1651308/000165130826000025/bgne-20260826.htm"
-          },
-          {
-            "id": "event-evidence-company-beone-medicines-official-f6d717853551",
-            "date": "2026-08-26",
-            "title": "Transforming Cancer Care Through Science and Speed | BeOne Medicines",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-beone-medicines-official-f6d717853551",
-            "sourceUrl": "https://beonemedicines.com/"
           },
           {
             "id": "event-evidence-company-beone-medicines-pipeline-cad9773572ea",
@@ -20320,7 +20368,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 3
         },
-        "lastEvidenceDate": "2026-08-26",
+        "lastEvidenceDate": "2026-08-31",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -20328,6 +20376,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-beone-medicines-official-ec9d79d6fac4",
+          "date": "2026-08-31",
+          "title": "Transforming Cancer Care Through Science and Speed | BeOne Medicines",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-beone-medicines-official-ec9d79d6fac4",
+          "sourceUrl": "https://beonemedicines.com/"
+        },
         {
           "id": "event-sec-0001651308-000165130826000025",
           "date": "2026-08-26",
@@ -20338,17 +20397,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": false,
           "evidenceId": "evidence-sec-0001651308-000165130826000025",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1651308/000165130826000025/bgne-20260826.htm"
-        },
-        {
-          "id": "event-evidence-company-beone-medicines-official-f6d717853551",
-          "date": "2026-08-26",
-          "title": "Transforming Cancer Care Through Science and Speed | BeOne Medicines",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-beone-medicines-official-f6d717853551",
-          "sourceUrl": "https://beonemedicines.com/"
         },
         {
           "id": "event-evidence-company-beone-medicines-pipeline-cad9773572ea",
@@ -34306,7 +34354,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-cobio-diagnostics",
       "name": "Cobio Diagnostics Inc.",
       "asOfDate": "2026-08-31",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -34338,40 +34386,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, biotechnology；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-cobio-diagnostics-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-cobio-diagnostics-official-6701336049be",
+            "date": "2026-08-31",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-cobio-diagnostics-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11315023"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-08-31",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-cobio-diagnostics-official-6701336049be",
+          "date": "2026-08-31",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-cobio-diagnostics-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11315023"
+        }
+      ]
     },
     {
       "companyId": "candidate-cocrystal-pharma",
@@ -37067,7 +37139,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-cytocybernetics",
       "name": "Cytocybernetics, Inc.",
       "asOfDate": "2026-08-31",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -37100,40 +37172,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Cell Therapy, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-cytocybernetics-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-cytocybernetics-official-6701336049be",
+            "date": "2026-08-31",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-cytocybernetics-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11404831"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-08-31",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-cytocybernetics-official-6701336049be",
+          "date": "2026-08-31",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-cytocybernetics-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11404831"
+        }
+      ]
     },
     {
       "companyId": "candidate-dbv-technologies-s-a",
@@ -38896,7 +38992,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-emulate-official-8d0814680e62",
             "date": "2026-08-30",
             "title": "Emulate | Organ-Chips for Research & Development",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -38938,7 +39034,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-emulate-official-8d0814680e62",
           "date": "2026-08-30",
           "title": "Emulate | Organ-Chips for Research & Development",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -40858,7 +40954,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-gentibio",
       "name": "Gentibio, Inc.",
       "asOfDate": "2026-08-31",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -40890,40 +40986,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-gentibio-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-gentibio-official-6701336049be",
+            "date": "2026-08-31",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-gentibio-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11400166"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-08-31",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-gentibio-official-6701336049be",
+          "date": "2026-08-31",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-gentibio-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11400166"
+        }
+      ]
     },
     {
       "companyId": "candidate-gilead-sciences",
@@ -48540,7 +48660,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-jaan-biotherapeutics",
       "name": "Jaan Biotherapeutics, Inc.",
       "asOfDate": "2026-08-31",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -48571,40 +48691,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，cell therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-jaan-biotherapeutics-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-jaan-biotherapeutics-official-6701336049be",
+            "date": "2026-08-31",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-jaan-biotherapeutics-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11418988"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-08-31",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-jaan-biotherapeutics-official-6701336049be",
+          "date": "2026-08-31",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-jaan-biotherapeutics-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11418988"
+        }
+      ]
     },
     {
       "companyId": "candidate-jacobio",
@@ -55437,7 +55581,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-molecular-targeting-technologies",
       "name": "Molecular Targeting Technologies, Inc.",
       "asOfDate": "2026-08-31",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -55469,40 +55613,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, cell therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-molecular-targeting-technologies-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-molecular-targeting-technologies-official-6701336049be",
+            "date": "2026-08-31",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-molecular-targeting-technologies-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11108548"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-08-31",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-molecular-targeting-technologies-official-6701336049be",
+          "date": "2026-08-31",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-molecular-targeting-technologies-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11108548"
+        }
+      ]
     },
     {
       "companyId": "candidate-monod-bio",
@@ -59345,7 +59513,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
             "text": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59353,7 +59521,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Oxford Nanopore Technologies products are RUO.",
             "text": "Oxford Nanopore Technologies products are RUO.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59361,15 +59529,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
             "text": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
-            "sourceUrl": "https://nanoporetech.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
-            "text": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
-            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59377,8 +59537,16 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
             "text": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-cc2146b5a187",
-            "sourceUrl": "https://nanoporetech.com/platform",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+            "sourceUrl": "https://nanoporetech.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
+            "text": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+            "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
           },
@@ -59393,7 +59561,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+          "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
           "evidence-company-oxford-nanopore-pipeline-cc2146b5a187"
         ]
       },
@@ -59401,14 +59569,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-oxford-nanopore-official-ae4e03d0fba0",
-            "date": "2026-08-30",
+            "id": "event-evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+            "date": "2026-08-31",
             "title": "Welcome to Oxford Nanopore Technologies",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "sourceUrl": "https://nanoporetech.com/"
           },
           {
@@ -59434,7 +59602,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-08-30",
+        "lastEvidenceDate": "2026-08-31",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -59443,14 +59611,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-oxford-nanopore-official-ae4e03d0fba0",
-          "date": "2026-08-30",
+          "id": "event-evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+          "date": "2026-08-31",
           "title": "Welcome to Oxford Nanopore Technologies",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+          "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
           "sourceUrl": "https://nanoporetech.com/"
         },
         {
@@ -67276,7 +67444,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
             "text": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-2377fdcdf73d",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-b4283aada487",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -67284,7 +67452,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "13, 2026 Sumitomo Pharma America Announces First Patient Receives Treatment in Phase 1/2a Study for its Investigational Therapy DSP-3077 for Retinitis Pigmentosa（PDF/137KB） R&D",
             "text": "13, 2026 Sumitomo Pharma America Announces First Patient Receives Treatment in Phase 1/2a Study for its Investigational Therapy DSP-3077 for Retinitis Pigmentosa（PDF/137KB） R&D",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-2377fdcdf73d",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-b4283aada487",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -67292,7 +67460,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "iPS Cell-Derived Product Transportation Project",
             "text": "iPS Cell-Derived Product Transportation Project",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-2377fdcdf73d",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-b4283aada487",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -67300,7 +67468,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
             "text": "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-2377fdcdf73d",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-b4283aada487",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -67308,7 +67476,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "To this end , Sumitomo Pharma is pursuing Sustainability Management through a variety of initiatives, including the development of innovative products and healthcare solutions, and contribution to the development of science.",
             "text": "To this end , Sumitomo Pharma is pursuing Sustainability Management through a variety of initiatives, including the development of innovative products and healthcare solutions, and contribution to the development of science.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-2377fdcdf73d",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-b4283aada487",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -67316,7 +67484,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Here you can search for the strengths of Sumitomo Pharma’s business, Sumitomo Pharma’s initiatives, and other information that interests you by selecting tags.",
             "text": "Here you can search for the strengths of Sumitomo Pharma’s business, Sumitomo Pharma’s initiatives, and other information that interests you by selecting tags.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-2377fdcdf73d",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-b4283aada487",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -67324,7 +67492,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-sumitomo-pharma-official-2377fdcdf73d",
+          "evidence-company-sumitomo-pharma-official-b4283aada487",
           "evidence-company-sumitomo-pharma-investor_relations-ccb124fe59e2"
         ]
       },
@@ -67332,14 +67500,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-sumitomo-pharma-official-2377fdcdf73d",
-            "date": "2026-08-28",
+            "id": "event-evidence-company-sumitomo-pharma-official-b4283aada487",
+            "date": "2026-08-31",
             "title": "Sumitomo Pharma Co., Ltd.",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-sumitomo-pharma-official-2377fdcdf73d",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-b4283aada487",
             "sourceUrl": "https://www.sumitomo-pharma.com/"
           },
           {
@@ -67365,7 +67533,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-08-28",
+        "lastEvidenceDate": "2026-08-31",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -67374,14 +67542,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-sumitomo-pharma-official-2377fdcdf73d",
-          "date": "2026-08-28",
+          "id": "event-evidence-company-sumitomo-pharma-official-b4283aada487",
+          "date": "2026-08-31",
           "title": "Sumitomo Pharma Co., Ltd.",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-sumitomo-pharma-official-2377fdcdf73d",
+          "evidenceId": "evidence-company-sumitomo-pharma-official-b4283aada487",
           "sourceUrl": "https://www.sumitomo-pharma.com/"
         },
         {
@@ -68114,7 +68282,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-tango-biosciences",
       "name": "Tango Biosciences, Inc.",
       "asOfDate": "2026-08-31",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -68149,40 +68317,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Antibody / ADC, Precision Diagnostics, Targeted Protein Degradation, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-tango-biosciences-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-tango-biosciences-official-6701336049be",
+            "date": "2026-08-31",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-tango-biosciences-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11409637"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-08-31",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-tango-biosciences-official-6701336049be",
+          "date": "2026-08-31",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-tango-biosciences-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11409637"
+        }
+      ]
     },
     {
       "companyId": "candidate-target-group",
@@ -72036,7 +72228,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-vincere-biosciences",
       "name": "Vincere Biosciences, Inc.",
       "asOfDate": "2026-08-31",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -72068,40 +72260,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-vincere-biosciences-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-vincere-biosciences-official-6701336049be",
+            "date": "2026-08-31",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-vincere-biosciences-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11256218"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-08-31",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-vincere-biosciences-official-6701336049be",
+          "date": "2026-08-31",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-vincere-biosciences-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11256218"
+        }
+      ]
     },
     {
       "companyId": "candidate-vir-biotechnology",
@@ -72419,7 +72635,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "evidenceLevel": "Medium",
             "needsReview": true,
             "evidenceId": "evidence-company-candidate-virtici-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11253459"
+            "sourceUrl": "https://reporter.nih.gov/project-details/11313110"
           }
         ],
         "inferences": [],
@@ -72450,7 +72666,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "evidenceLevel": "Medium",
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-virtici-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11253459"
+          "sourceUrl": "https://reporter.nih.gov/project-details/11313110"
         }
       ]
     },

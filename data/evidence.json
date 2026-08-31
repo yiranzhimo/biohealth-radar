@@ -4417,15 +4417,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-beone-medicines-official-f6d717853551",
+      "id": "evidence-company-beone-medicines-official-ec9d79d6fac4",
       "signalId": null,
       "companyIds": [
         "beone-medicines"
       ],
-      "publishedAt": "2026-08-26",
-      "snapshotDate": "2026-08-26",
+      "publishedAt": "2026-08-31",
+      "snapshotDate": "2026-08-31",
       "title": "Transforming Cancer Care Through Science and Speed | BeOne Medicines",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "BeOne Medicines — Official Website",
@@ -4441,7 +4441,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash f6d717853551da350df4be4403280949bfabe66726b9366747fd7267e66edff9.",
+      "fact": "The official page was captured with normalized-content hash ec9d79d6fac4047b53fd0c19790fcb588779fe44cca1250a156aa2d0967f3159.",
       "report": "公司官方页面表述：探索BeOne Medicines如何通过综合的发现、开发和交付模型推动全球癌症护理，为全球患者带来变革性疗法。",
       "reportOriginal": "Explore how BeOne Medicines advances global cancer care through an integrated model of discovery, development, and delivery, bringing transformative therapies to patients worldwide.",
       "reportCn": "探索BeOne Medicines如何通过综合的发现、开发和交付模型推动全球癌症护理，为全球患者带来变革性疗法。",
@@ -4454,8 +4454,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "f6d717853551da350df4be4403280949bfabe66726b9366747fd7267e66edff9",
-      "changeType": "unchanged",
+      "contentHash": "ec9d79d6fac4047b53fd0c19790fcb588779fe44cca1250a156aa2d0967f3159",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "BeOne Medicines and Revolution Medicines Announce Clinical Development and Regional Commercialization Collaboration",
@@ -7249,7 +7249,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -11577,6 +11577,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-aquinnah-pharmaceuticals-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-aquinnah-pharmaceuticals"
+      ],
+      "publishedAt": "2026-08-31",
+      "snapshotDate": "2026-08-31",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Aquinnah Pharmaceuticals, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11374534",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-arbutus-biopharma-official-c644ef580088",
       "signalId": null,
       "companyIds": [
@@ -12903,6 +12949,52 @@
         "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
         "No 8-K filing data for this company in last days"
       ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-astrocyte-pharmaceuticals-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-astrocyte-pharmaceuticals"
+      ],
+      "publishedAt": "2026-08-31",
+      "snapshotDate": "2026-08-31",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Astrocyte Pharmaceuticals, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11349693",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
       "productExcerpts": [],
       "planExcerpts": []
     },
@@ -20513,6 +20605,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-cobio-diagnostics-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-cobio-diagnostics"
+      ],
+      "publishedAt": "2026-08-31",
+      "snapshotDate": "2026-08-31",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Cobio Diagnostics Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11315023",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-cocrystal-pharma-official-c644ef580088",
       "signalId": null,
       "companyIds": [
@@ -20775,7 +20913,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -21621,6 +21759,52 @@
         "This company's Exchange Act registration as a Municipal Advisor has been revoked",
         "This company's Exchange Act registration as a Municipal Advisor has been cancelled"
       ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-cytocybernetics-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-cytocybernetics"
+      ],
+      "publishedAt": "2026-08-31",
+      "snapshotDate": "2026-08-31",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Cytocybernetics, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11404831",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
       "productExcerpts": [],
       "planExcerpts": []
     },
@@ -23602,6 +23786,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-gentibio-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-gentibio"
+      ],
+      "publishedAt": "2026-08-31",
+      "snapshotDate": "2026-08-31",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Gentibio, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11400166",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-gilead-sciences-official-c644ef580088",
       "signalId": null,
       "companyIds": [
@@ -23864,7 +24094,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -24301,7 +24531,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -25007,7 +25237,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -26528,6 +26758,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-jaan-biotherapeutics-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-jaan-biotherapeutics"
+      ],
+      "publishedAt": "2026-08-31",
+      "snapshotDate": "2026-08-31",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Jaan Biotherapeutics, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11418988",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-jacobio-official-9c4d7bc6b10e",
       "signalId": null,
       "companyIds": [
@@ -27848,7 +28124,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -29233,6 +29509,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-molecular-targeting-technologies-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-molecular-targeting-technologies"
+      ],
+      "publishedAt": "2026-08-31",
+      "snapshotDate": "2026-08-31",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Molecular Targeting Technologies, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11108548",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-monod-bio-official-6701336049be",
       "signalId": null,
       "companyIds": [
@@ -30334,7 +30656,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -30811,7 +31133,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -31117,7 +31439,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -31485,7 +31807,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -31633,7 +31955,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -31959,7 +32281,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -32117,7 +32439,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -33936,7 +34258,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -34764,6 +35086,52 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "unchanged",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-tango-biosciences-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-tango-biosciences"
+      ],
+      "publishedAt": "2026-08-31",
+      "snapshotDate": "2026-08-31",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Tango Biosciences, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11409637",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
       "changeType": "new",
       "lastCheckStatus": "success",
       "excerpts": [],
@@ -35251,7 +35619,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -35573,7 +35941,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -36472,6 +36840,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-vincere-biosciences-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-vincere-biosciences"
+      ],
+      "publishedAt": "2026-08-31",
+      "snapshotDate": "2026-08-31",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Vincere Biosciences, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11256218",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-vir-biotechnology-official-c644ef580088",
       "signalId": null,
       "companyIds": [
@@ -36597,7 +37011,7 @@
       "sourceType": "Company",
       "sourceName": "Virtici, LLC — Official Website",
       "sourceRole": "official",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11253459",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11313110",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -38027,7 +38441,7 @@
       "publishedAt": "2026-08-30",
       "snapshotDate": "2026-08-30",
       "title": "Emulate | Organ-Chips for Research & Development",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Emulate — Official Website",
@@ -38057,7 +38471,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "8d0814680e622fb6200e9a49aee6b3c1957007b4e1b3851bf15c3c308b323bd6",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response.",
@@ -39800,13 +40214,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+      "id": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
       "signalId": null,
       "companyIds": [
         "oxford-nanopore"
       ],
-      "publishedAt": "2026-08-30",
-      "snapshotDate": "2026-08-30",
+      "publishedAt": "2026-08-31",
+      "snapshotDate": "2026-08-31",
       "title": "Welcome to Oxford Nanopore Technologies",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -39824,7 +40238,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash ae4e03d0fba07710844aa320dbca27149745e368be42c17c07d1fa90a363a51c.",
+      "fact": "The official page was captured with normalized-content hash b5a006d4fd7e86315fa9f0f9ab18724b0d37d937b55c6f15a16569677978dc9e.",
       "report": "公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
       "reportOriginal": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
       "reportCn": "发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
@@ -39837,14 +40251,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "ae4e03d0fba07710844aa320dbca27149745e368be42c17c07d1fa90a363a51c",
+      "contentHash": "b5a006d4fd7e86315fa9f0f9ab18724b0d37d937b55c6f15a16569677978dc9e",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
         "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-        "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
-        "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling."
+        "Search Oxford Nanopore Technologies Which site do you wish to search in?",
+        "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology"
       ],
       "businessExcerpts": [],
       "productExcerpts": [
@@ -40236,15 +40650,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-sumitomo-pharma-official-2377fdcdf73d",
+      "id": "evidence-company-sumitomo-pharma-official-b4283aada487",
       "signalId": null,
       "companyIds": [
         "sumitomo-pharma"
       ],
-      "publishedAt": "2026-08-28",
-      "snapshotDate": "2026-08-28",
+      "publishedAt": "2026-08-31",
+      "snapshotDate": "2026-08-31",
       "title": "Sumitomo Pharma Co., Ltd.",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Sumitomo Pharma — Official Website",
@@ -40260,7 +40674,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 2377fdcdf73d56551a9f9ac46ba113df5d13f16f9825a56ebb45107c9194cd92.",
+      "fact": "The official page was captured with normalized-content hash b4283aada4874bf247658ded205b88232ed817ddd9c36dff0b29cb77727715bc.",
       "report": "公司官方页面表述：为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
       "reportOriginal": "For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd.",
       "reportCn": "为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
@@ -40273,8 +40687,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "2377fdcdf73d56551a9f9ac46ba113df5d13f16f9825a56ebb45107c9194cd92",
-      "changeType": "unchanged",
+      "contentHash": "b4283aada4874bf247658ded205b88232ed817ddd9c36dff0b29cb77727715bc",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
