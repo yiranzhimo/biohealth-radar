@@ -4,44 +4,15 @@
   "asOfDate": "2026-09-01",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-24c27740b58da437",
-      "observedName": "Merck Sharp & Dohme LLC",
-      "normalizedName": "merck sharp and dohme",
+      "id": "mention-clinicaltrials-664f47b5dd5708db",
+      "observedName": "Sarepta Therapeutics, Inc.",
+      "normalizedName": "sarepta therapeutics",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT00860535",
-      "sourceDate": "2015-09-30",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT00860535",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Longevity",
-        "Oncology",
-        "Precision Oncology",
-        "biomarker",
-        "临床试验",
-        "肿瘤",
-        "衰老"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Growth Factor Signature (GFS) Pilot Study (MK0000-098)(COMPLETED)"
-    },
-    {
-      "id": "mention-clinicaltrials-6856443878b51b02",
-      "observedName": "Orthogonal Neuroscience Inc.",
-      "normalizedName": "orthogonal neuroscience",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06769620",
-      "sourceDate": "2025-01-15",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06769620",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT00159250",
+      "sourceDate": "2019-12-05",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00159250",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -52,131 +23,34 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A First in Human Study of ORT247 in Healthy Volunteers"
+      "contextTitle": "Safety and Efficacy Study of Antisense Oligonucleotides in Duchenne Muscular Dystrophy"
     },
     {
-      "id": "mention-clinicaltrials-9f9a075b8d0efa1e",
-      "observedName": "SEngine Precision Medicine, Inc.",
-      "normalizedName": "sengine precision medicine",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT04561453",
-      "sourceDate": "2025-07-10",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04561453",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Advanced Disease Models",
-        "Biomarkers",
-        "Clinical Trials",
-        "Diagnostics",
-        "Longevity",
-        "Oncology",
-        "Organoids",
-        "Precision Medicine",
-        "Precision Oncology",
-        "biomarker",
-        "临床试验",
-        "疾病模型",
-        "类器官",
-        "精准医疗",
-        "肿瘤",
-        "衰老",
-        "诊断"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "Feasibility Study of Multi-Platform Profiling of Resected Biliary Tract Cancer"
-    },
-    {
-      "id": "mention-clinicaltrials-a593a2505e0c3ea4",
-      "observedName": "Smart Matrix Limited",
-      "normalizedName": "smart matrix",
+      "id": "mention-clinicaltrials-8d492670ce333e4c",
+      "observedName": "Peerbridge Health, Inc",
+      "normalizedName": "peerbridge health",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT03742726",
-      "sourceDate": "2021-02-21",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03742726",
+      "sourceRecordId": "NCT06699056",
+      "sourceDate": "2026-06-01",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06699056",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
+        "Healthcare AI",
+        "Medical AI",
+        "Recruiting",
+        "临床决策支持",
         "临床试验",
-        "肿瘤"
+        "医疗 AI"
       ],
       "activitySignals": [
+        "active_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Study Assessing the Safety and Performance of Smart Matrix®"
-    },
-    {
-      "id": "mention-clinicaltrials-c8defbbc90bd94a3",
-      "observedName": "PalmTree Clinical Research Inc.",
-      "normalizedName": "palmtree clinical research",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT02572323",
-      "sourceDate": "2026-03-12",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT02572323",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Longevity",
-        "biomarker",
-        "临床试验",
-        "衰老"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Phase II Trial of Tesamorelin for Cognition in Aging HIV-Infected Persons"
-    },
-    {
-      "id": "mention-clinicaltrials-d452c5d797ec573c",
-      "observedName": "Natera, Inc.",
-      "normalizedName": "natera",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT04561453",
-      "sourceDate": "2025-07-10",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04561453",
-      "knownCompanyIds": [
-        "natera"
-      ],
-      "identifiers": {},
-      "biotechHints": [
-        "Advanced Disease Models",
-        "Biomarkers",
-        "Clinical Trials",
-        "Diagnostics",
-        "Longevity",
-        "Oncology",
-        "Organoids",
-        "Precision Medicine",
-        "Precision Oncology",
-        "biomarker",
-        "临床试验",
-        "疾病模型",
-        "类器官",
-        "精准医疗",
-        "肿瘤",
-        "衰老",
-        "诊断"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "Feasibility Study of Multi-Platform Profiling of Resected Biliary Tract Cancer"
+      "contextTitle": "AI-Enabled Direct-from-ECG Ejection Fraction (EF) Severity Assessment Using COR ECG Wearable Monitor"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
