@@ -1,9 +1,9 @@
 {
-  "capturedAt": "2026-08-31T22:54:09.044236+00:00",
+  "capturedAt": "2026-09-01T05:16:36.518463+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
-    "start": "2026-08-17",
-    "end": "2026-08-31"
+    "start": "2026-08-18",
+    "end": "2026-09-01"
   },
   "forms": [
     "10-K",
@@ -189,31 +189,6 @@
       "cik": "0001801198",
       "secName": "Legend Biotech Corp",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326005623/f6k_081826.htm"
-    },
-    {
-      "filingDate": "2026-08-17",
-      "reportDate": "2026-08-17",
-      "acceptanceDateTime": "2026-08-17T20:02:44.000Z",
-      "act": "34",
-      "form": "8-K",
-      "fileNumber": "001-35406",
-      "filmNumber": "261286631",
-      "items": "8.01,9.01",
-      "size": 327671,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "d51146d8k.htm",
-      "primaryDocDescription": "8-K",
-      "accessionNumber": "0001193125-26-354010",
-      "companyId": "illumina",
-      "companyName": "Illumina",
-      "companyDirections": [
-        "Sequencing & Research Tools"
-      ],
-      "secTicker": "ILMN",
-      "cik": "0001110803",
-      "secName": "ILLUMINA, INC.",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526354010/d51146d8k.htm"
     }
   ],
   "signals": [
@@ -277,37 +252,6 @@
       ],
       "fact": "SEC EDGAR lists accession 0001171843-26-005623 for Legend Biotech, Form 6-K, filed on 2026-08-18.",
       "report": "SEC metadata describes the primary document as: FORM 6-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001110803-000119312526354010",
-      "date": "2026-08-17",
-      "title": "Illumina filed Form 8-K",
-      "entity": "Illumina",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526354010/d51146d8k.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "Sequencing & Research Tools"
-      ],
-      "tags": [
-        "SEC",
-        "8-K",
-        "ILMN"
-      ],
-      "companyIds": [
-        "illumina"
-      ],
-      "fact": "SEC EDGAR lists accession 0001193125-26-354010 for Illumina, Form 8-K, filed on 2026-08-17.",
-      "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     }
