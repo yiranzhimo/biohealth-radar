@@ -102,6 +102,37 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "evidence-sec-0001682852-000119312526378505",
+      "signalId": "sec-0001682852-000119312526378505",
+      "companyIds": [
+        "moderna"
+      ],
+      "publishedAt": "2026-09-01",
+      "snapshotDate": "2026-09-01",
+      "title": "Moderna filed Form 8-K",
+      "eventType": "Corporate Update",
+      "evidenceKind": "Corporate Filing",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000119312526378505/d108896d8k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "RNA Therapeutics"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "MRNA"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-378505 for Moderna, Form 8-K, filed on 2026-09-01.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
       "id": "evidence-pubmed-42673661",
       "signalId": "pubmed-42673661",
       "companyIds": [],

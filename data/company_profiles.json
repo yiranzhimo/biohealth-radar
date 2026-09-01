@@ -55382,6 +55382,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001682852-000119312526378505",
           "evidence-company-moderna-official-b5666c799ba1",
           "evidence-company-moderna-pipeline-0a111596e2a2",
           "evidence-company-moderna-investor_relations-7a5ab762d10c",
@@ -55393,6 +55394,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001682852-000119312526378505",
+            "date": "2026-09-01",
+            "title": "Moderna filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-sec-0001682852-000119312526378505",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000119312526378505/d108896d8k.htm"
+          },
           {
             "id": "event-evidence-company-moderna-official-b5666c799ba1",
             "date": "2026-08-20",
@@ -55436,17 +55448,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001682852-000168285226000150",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000150/mrna-20260630.htm"
-          },
-          {
-            "id": "event-sec-0001682852-000168285226000147",
-            "date": "2026-07-31",
-            "title": "Moderna filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001682852-000168285226000147",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000147/mrna-20260731.htm"
           }
         ],
         "inferences": [],
@@ -55456,12 +55457,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 6,
+        "evidenceCount": 7,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 3
+          "Filing": 4
         },
-        "lastEvidenceDate": "2026-08-20",
+        "lastEvidenceDate": "2026-09-01",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -55469,6 +55470,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001682852-000119312526378505",
+          "date": "2026-09-01",
+          "title": "Moderna filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-sec-0001682852-000119312526378505",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000119312526378505/d108896d8k.htm"
+        },
         {
           "id": "event-evidence-company-moderna-official-b5666c799ba1",
           "date": "2026-08-20",

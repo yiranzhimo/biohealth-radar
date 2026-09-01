@@ -1058,6 +1058,79 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "sec-0001682852-000119312526378505",
+      "date": "2026-09-01",
+      "title": "Moderna filed Form 8-K",
+      "entity": "Moderna",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000119312526378505/d108896d8k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "RNA Therapeutics"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "MRNA"
+      ],
+      "companyIds": [
+        "moderna"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-378505 for Moderna, Form 8-K, filed on 2026-09-01.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_04f0c546a1397c5f006a973e3e596887d288dbff03421e266b",
+        "reviewedAt": "2026-09-01T21:06:05.528066+00:00",
+        "inputHash": "a40863e0595c78c1d3033de1c10ede241f375bb8fa5dd9c10a97a222cc79f2e2",
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查，因缺乏关键信息。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据级别和分类不一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "缺乏详细的署名报告和有效的证据级别。"
+        },
+        "riskFlags": [
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "RNA Therapeutics"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "MRNA"
+          ],
+          "fact": "SEC EDGAR lists accession 0001193125-26-378505 for Moderna, Form 8-K, filed on 2026-09-01.",
+          "report": "The primary document is categorized as a Form 8-K.",
+          "inference": "The event was identified from the SEC filing but lacks substantive content for analysis.",
+          "unknown": "Details on financial impact, pipeline changes, and specific claims from the filing are not yet available."
+        }
+      }
+    },
+    {
       "id": "pubmed-42673661",
       "date": "2026-08-31",
       "title": "Design of programmable molecular interfaces for synthetic biology and therapeutic applications.",
