@@ -3544,13 +3544,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-alnylam-investor_relations-9a211972cdf4",
+      "id": "evidence-company-alnylam-investor_relations-54f16182c3fe",
       "signalId": null,
       "companyIds": [
         "alnylam"
       ],
-      "publishedAt": "2026-08-25",
-      "snapshotDate": "2026-08-25",
+      "publishedAt": "2026-09-01",
+      "snapshotDate": "2026-09-01",
       "title": "Information and Resources for Investors | Alnylam",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -3568,7 +3568,7 @@
         "Official Source",
         "Investor Relations Page"
       ],
-      "fact": "The official page was captured with normalized-content hash 9a211972cdf4dd917953935d07acdd37953c63632f602fd56b2709df2beaa20f.",
+      "fact": "The official page was captured with normalized-content hash 54f16182c3fe4ae875c13f79afdd7fbd5c6b6b6ef4d2fdd94696912960c98f4d.",
       "report": "公司官方页面表述：投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。",
       "reportOriginal": "The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
       "reportCn": "投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。",
@@ -3581,14 +3581,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "9a211972cdf4dd917953935d07acdd37953c63632f602fd56b2709df2beaa20f",
+      "contentHash": "54f16182c3fe4ae875c13f79afdd7fbd5c6b6b6ef4d2fdd94696912960c98f4d",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
+        "Alnylam Presents New Data at ESC Congress 2026 Reinforcing Strength in RNAi-Powered TTR Silencing Across ATTR-CM Patient Populations and Treatment Settings",
         "Alnylam to Present New Data Reinforcing Strength in RNAi-Powered TTR Silencing and Continued Progress in Hypertension at ESC Congress 2026",
-        "Alnylam Pharmaceuticals Q2 2026 Earnings Conference Call",
-        "RNAi Roundtable: ALN-6400, Targeting Plasminogen to Address Rare Bleeding Disorders"
+        "Alnylam Pharmaceuticals Q2 2026 Earnings Conference Call"
       ],
       "businessExcerpts": [
         "The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
@@ -4082,7 +4082,7 @@
       "publishedAt": "2026-08-25",
       "snapshotDate": "2026-08-25",
       "title": "Pipeline | Arvinas",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Arvinas — Pipeline Page",
@@ -4112,7 +4112,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "8a55bb71890123ca1e81e62d128b0d4dee8524c7f24449024218d6ce321cce73",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Arvinas' pipeline of PROTAC degraders are designed to harness the body’s own natural protein disposal system.",
@@ -6520,7 +6520,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7",
       "changeType": "unchanged",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
@@ -8353,6 +8353,62 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
       "changeType": "unchanged",
+      "lastCheckStatus": "success",
+      "excerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "businessExcerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-adlai-nortye-group-official-c644ef580088",
+      "signalId": null,
+      "companyIds": [
+        "candidate-adlai-nortye-group"
+      ],
+      "publishedAt": "2026-09-01",
+      "snapshotDate": "2026-09-01",
+      "title": "EDGAR Entity Landing Page",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Adlai Nortye Group Ltd. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001944552",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56.",
+      "report": "公司官方页面表述：该公司的交易法注册已被撤销",
+      "reportOriginal": "This company's Exchange Act registration has been revoked",
+      "reportCn": "该公司的交易法注册已被撤销",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-16T05:03:27+00:00",
+        "sourceTextHash": "92c3fd51c55f3fedbdda36081e002f7fe4734d8fd0cbdd03142df7450929811c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
+      "changeType": "new",
       "lastCheckStatus": "success",
       "excerpts": [
         "This company's Exchange Act registration has been revoked",
@@ -16031,6 +16087,62 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-biomolecular-life-holdings-official-c644ef580088",
+      "signalId": null,
+      "companyIds": [
+        "candidate-biomolecular-life-holdings"
+      ],
+      "publishedAt": "2026-09-01",
+      "snapshotDate": "2026-09-01",
+      "title": "EDGAR Entity Landing Page",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Biomolecular Life Holdings, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56.",
+      "report": "公司官方页面表述：该公司的交易法注册已被撤销",
+      "reportOriginal": "This company's Exchange Act registration has been revoked",
+      "reportCn": "该公司的交易法注册已被撤销",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-16T05:03:27+00:00",
+        "sourceTextHash": "92c3fd51c55f3fedbdda36081e002f7fe4734d8fd0cbdd03142df7450929811c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "businessExcerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-biomx-official-c644ef580088",
       "signalId": null,
       "companyIds": [
@@ -22796,6 +22908,62 @@
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-electra-therapeutics-official-c644ef580088",
+      "signalId": null,
+      "companyIds": [
+        "candidate-electra-therapeutics"
+      ],
+      "publishedAt": "2026-09-01",
+      "snapshotDate": "2026-09-01",
+      "title": "EDGAR Entity Landing Page",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Electra Therapeutics, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002088082",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56.",
+      "report": "公司官方页面表述：该公司的交易法注册已被撤销",
+      "reportOriginal": "This company's Exchange Act registration has been revoked",
+      "reportCn": "该公司的交易法注册已被撤销",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-16T05:03:27+00:00",
+        "sourceTextHash": "92c3fd51c55f3fedbdda36081e002f7fe4734d8fd0cbdd03142df7450929811c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "businessExcerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
       "productExcerpts": [],
       "planExcerpts": []
     },
@@ -38372,15 +38540,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-crispr-therapeutics-pipeline-e66f97e46e12",
+      "id": "evidence-company-crispr-therapeutics-pipeline-3b78d87ebe36",
       "signalId": null,
       "companyIds": [
         "crispr-therapeutics"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-09-01",
+      "snapshotDate": "2026-09-01",
       "title": "Pipeline | CRISPR Therapeutics",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "CRISPR Therapeutics — Pipeline Page",
@@ -38396,7 +38564,7 @@
         "Official Source",
         "Pipeline Page"
       ],
-      "fact": "The official page was captured with normalized-content hash e66f97e46e1208108d2e690b2372958061b17628e87dedbc1d82c27f44795f26.",
+      "fact": "The official page was captured with normalized-content hash 3b78d87ebe3669688e2b36855b216477dc320f1654f1fb855c14b7604fc8d3b6.",
       "report": "公司官方页面表述：描述：一种自体、体外 CRISPR/Cas9 基因编辑疗法，旨在编辑患者自身的造血干细胞，使红细胞产生胎儿血红蛋白。",
       "reportOriginal": "Description: Autologous, ex vivo CRISPR/Cas9 gene-edited therapy in which aims to edit a patient’s own hematopoietic stem cells to produce fetal hemoglobin in red blood cells.",
       "reportCn": "描述：一种自体、体外 CRISPR/Cas9 基因编辑疗法，旨在编辑患者自身的造血干细胞，使红细胞产生胎儿血红蛋白。",
@@ -38409,8 +38577,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "e66f97e46e1208108d2e690b2372958061b17628e87dedbc1d82c27f44795f26",
-      "changeType": "unchanged",
+      "contentHash": "3b78d87ebe3669688e2b36855b216477dc320f1654f1fb855c14b7604fc8d3b6",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Description: Autologous, ex vivo CRISPR/Cas9 gene-edited therapy in which aims to edit a patient’s own hematopoietic stem cells to produce fetal hemoglobin in red blood cells.",
@@ -38419,7 +38587,12 @@
         "Exa-cel, a CRISPR/Cas9 gene-edited therapy arising out of our collaboration with Vertex Pharmaceuticals Incorporated, has now been approved in some countries for certain eligible patients with sickle cell disease or transfusion-dependent beta thalassemia."
       ],
       "businessExcerpts": [],
-      "productExcerpts": [],
+      "productExcerpts": [
+        "Description: Autologous, ex vivo CRISPR/Cas9 gene-edited therapy in which aims to edit a patient’s own hematopoietic stem cells to produce fetal hemoglobin in red blood cells.",
+        "Description: Investigational allogeneic CRISPR/Cas9 gene-edited CAR T cell therapy in development for the treatment of CD19+ malignancies and autoimmune diseases that incorporates novel edits designed to enhance CAR T potency and reduce CAR T exhaustion",
+        "Exa-cel, a CRISPR/Cas9 gene-edited therapy arising out of our collaboration with Vertex Pharmaceuticals Incorporated, has now been approved in some countries for certain eligible patients with sickle cell disease or transfusion-dependent beta thalassemia.",
+        "Description: In vivo gene-editing therapy using lipid nanoparticle (LNP) delivery of Cas9 mRNA and gRNA to the liver to reduce expression of ANGPTL3"
+      ],
       "planExcerpts": []
     },
     {
@@ -40153,7 +40326,7 @@
       "publishedAt": "2026-08-25",
       "snapshotDate": "2026-08-25",
       "title": "Pipeline - See what's going on | Nykode",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Nykode Therapeutics — Pipeline Page",
@@ -40183,7 +40356,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "264341e4f3ed13c9a9e2e6f56c2a87736fb55f7054f596098224b52c4793175a",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Nykode's wholly owned lead product candidate, abi-suva (formerly VB10.16), is a DNA-based therapeutic vaccine targeting cancers caused by Human Papillomavirus 16 (HPV16).",
@@ -40257,15 +40430,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-oxford-nanopore-pipeline-cc2146b5a187",
+      "id": "evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
       "signalId": null,
       "companyIds": [
         "oxford-nanopore"
       ],
-      "publishedAt": "2026-08-18",
-      "snapshotDate": "2026-08-18",
+      "publishedAt": "2026-09-01",
+      "snapshotDate": "2026-09-01",
       "title": "Oxford Nanopore Technologies Platform Solution",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Oxford Nanopore Technologies — Pipeline Page",
@@ -40281,7 +40454,7 @@
         "Official Source",
         "Pipeline Page"
       ],
-      "fact": "The official page was captured with normalized-content hash cc2146b5a187ab24aa81fffa4e8ceb72e4fd5286267d39c58ec30e4167993555.",
+      "fact": "The official page was captured with normalized-content hash f611c963a9b52ad6c829e873506f6d6aae2c84c66b443e739a405d4851d27af1.",
       "report": "公司官方页面表述：发现纳米孔测序的优势，并找出哪种测序设备适合您的输出需求。",
       "reportOriginal": "Discover the benefits of nanopore sequencing and find out which sequencing device is right for your output requirements.",
       "reportCn": "发现纳米孔测序的优势，并找出哪种测序设备适合您的输出需求。",
@@ -40294,8 +40467,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "cc2146b5a187ab24aa81fffa4e8ceb72e4fd5286267d39c58ec30e4167993555",
-      "changeType": "unchanged",
+      "contentHash": "f611c963a9b52ad6c829e873506f6d6aae2c84c66b443e739a405d4851d27af1",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
@@ -40583,15 +40756,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-sumitomo-pharma-investor_relations-ccb124fe59e2",
+      "id": "evidence-company-sumitomo-pharma-investor_relations-860b69212532",
       "signalId": null,
       "companyIds": [
         "sumitomo-pharma"
       ],
-      "publishedAt": "2026-08-18",
-      "snapshotDate": "2026-08-18",
+      "publishedAt": "2026-09-01",
+      "snapshotDate": "2026-09-01",
       "title": "Investor Relations (Security Code :4506 TSE Prime) | Sumitomo Pharma",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Sumitomo Pharma — Investor Relations Page",
@@ -40607,7 +40780,7 @@
         "Official Source",
         "Investor Relations Page"
       ],
-      "fact": "The official page was captured with normalized-content hash ccb124fe59e22375b628d58585fb265977405848029eb79dda4b61c614801ed6.",
+      "fact": "The official page was captured with normalized-content hash 860b69212532011e62bd1534fca4c250d03cf9a97c775c1c2134a19dc4002560.",
       "report": "公司官方页面表述：为住友制药的股东和投资者提供信息，如董事长致辞、投资者关系资料库，以及关于股份和股东的信息。",
       "reportOriginal": "Information for Sumitomo Pharma's shareholders and investors, such as the Message from the President, IR Library, and information regarding shares and shareholders.",
       "reportCn": "为住友制药的股东和投资者提供信息，如董事长致辞、投资者关系资料库，以及关于股份和股东的信息。",
@@ -40620,8 +40793,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "ccb124fe59e22375b628d58585fb265977405848029eb79dda4b61c614801ed6",
-      "changeType": "unchanged",
+      "contentHash": "860b69212532011e62bd1534fca4c250d03cf9a97c775c1c2134a19dc4002560",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
@@ -40631,7 +40804,8 @@
       ],
       "businessExcerpts": [
         "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
-        "Regarding a Report Concerning Sumitomo Pharma (The Company's Views on “Sumitomo Chemical and Sumitomo Pharmaceutical: Part II - CiRA, Dr."
+        "Regarding a Report Concerning Sumitomo Pharma (The Company's Views on “Sumitomo Chemical and Sumitomo Pharmaceutical: Part II - CiRA, Dr.",
+        "Notice Concerning Gain on Return of Retirement Benefit Trust (Extraordinary Income) Recorded in the Company’s Non-Consolidated Financial Statements (Japanese GAAP)"
       ],
       "productExcerpts": [
         "Sumitomo Pharma America Announces First Patient Receives Treatment in Phase 1/2a Study for its Investigational Therapy DSP-3077 for Retinitis Pigmentosa（PDF/137KB）",

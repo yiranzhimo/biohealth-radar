@@ -3,7 +3,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
   "asOfDate": "2026-09-01",
   "summary": {
     "profileCount": 625,
-    "evidenceCount": 797,
+    "evidenceCount": 800,
     "programCandidateCount": 1,
     "companyCandidateCount": 598,
     "companyMentionCount": 669,
@@ -37,11 +37,11 @@ window.BHR_COMPANY_INTELLIGENCE = {
   },
   "profileCoverage": {
     "profileCount": 625,
-    "companyReportedCount": 621,
-    "withEvidenceCount": 622,
-    "withProductClaimsCount": 516,
+    "companyReportedCount": 624,
+    "withEvidenceCount": 625,
+    "withProductClaimsCount": 519,
     "withFuturePlansCount": 3,
-    "failedSourceCount": 52,
+    "failedSourceCount": 53,
     "identityLinkCount": 0
   },
   "profiles": [
@@ -923,6 +923,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -935,6 +936,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -4889,7 +4891,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-adlai-nortye-group",
       "name": "Adlai Nortye Group Ltd.",
       "asOfDate": "2026-09-01",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
         "ticker": "ANL",
@@ -4920,40 +4922,97 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Pharmaceutical Preparations；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
+        "summaryOriginal": "This company's Exchange Act registration has been revoked",
+        "translationStatus": "translated",
         "businessModel": [],
-        "commercialProducts": [],
+        "commercialProducts": [
+          {
+            "textOriginal": "This company's Exchange Act registration has been revoked",
+            "text": "该公司的交易法注册已被撤销",
+            "evidenceId": "evidence-company-candidate-adlai-nortye-group-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001944552",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "evidenceId": "evidence-company-candidate-adlai-nortye-group-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001944552",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
+            "evidenceId": "evidence-company-candidate-adlai-nortye-group-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001944552",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "No 8-K filing data for this company in last days",
+            "text": "No 8-K filing data for this company in last days",
+            "evidenceId": "evidence-company-candidate-adlai-nortye-group-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001944552",
+            "needsReview": true,
+            "claimType": "Report"
+          }
+        ],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-adlai-nortye-group-official-c644ef580088"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-adlai-nortye-group-official-c644ef580088",
+            "date": "2026-09-01",
+            "title": "EDGAR Entity Landing Page",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-adlai-nortye-group-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001944552"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-01",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-adlai-nortye-group-official-c644ef580088",
+          "date": "2026-09-01",
+          "title": "EDGAR Entity Landing Page",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-adlai-nortye-group-official-c644ef580088",
+          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001944552"
+        }
+      ]
     },
     {
       "companyId": "candidate-adma-biologics",
@@ -7971,7 +8030,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
             "text": "投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。",
-            "evidenceId": "evidence-company-alnylam-investor_relations-9a211972cdf4",
+            "evidenceId": "evidence-company-alnylam-investor_relations-54f16182c3fe",
+            "sourceUrl": "https://investors.alnylam.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Alnylam Presents New Data at ESC Congress 2026 Reinforcing Strength in RNAi-Powered TTR Silencing Across ATTR-CM Patient Populations and Treatment Settings",
+            "text": "Alnylam Presents New Data at ESC Congress 2026 Reinforcing Strength in RNAi-Powered TTR Silencing Across ATTR-CM Patient Populations and Treatment Settings",
+            "evidenceId": "evidence-company-alnylam-investor_relations-54f16182c3fe",
             "sourceUrl": "https://investors.alnylam.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -7979,7 +8046,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Alnylam to Present New Data Reinforcing Strength in RNAi-Powered TTR Silencing and Continued Progress in Hypertension at ESC Congress 2026",
             "text": "Alnylam to Present New Data Reinforcing Strength in RNAi-Powered TTR Silencing and Continued Progress in Hypertension at ESC Congress 2026",
-            "evidenceId": "evidence-company-alnylam-investor_relations-9a211972cdf4",
+            "evidenceId": "evidence-company-alnylam-investor_relations-54f16182c3fe",
             "sourceUrl": "https://investors.alnylam.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -7987,15 +8054,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Alnylam Pharmaceuticals Q2 2026 Earnings Conference Call",
             "text": "Alnylam Pharmaceuticals Q2 2026 Earnings Conference Call",
-            "evidenceId": "evidence-company-alnylam-investor_relations-9a211972cdf4",
-            "sourceUrl": "https://investors.alnylam.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "RNAi Roundtable: ALN-6400, Targeting Plasminogen to Address Rare Bleeding Disorders",
-            "text": "RNAi Roundtable: ALN-6400, Targeting Plasminogen to Address Rare Bleeding Disorders",
-            "evidenceId": "evidence-company-alnylam-investor_relations-9a211972cdf4",
+            "evidenceId": "evidence-company-alnylam-investor_relations-54f16182c3fe",
             "sourceUrl": "https://investors.alnylam.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -8019,7 +8078,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-alnylam-investor_relations-9a211972cdf4",
+          "evidence-company-alnylam-investor_relations-54f16182c3fe",
           "evidence-company-alnylam-pipeline-77914bacd5b2",
           "evidence-company-alnylam-official-e8c13028abe2",
           "evidence-sec-0001178670-000117867026000062",
@@ -8030,14 +8089,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-alnylam-investor_relations-9a211972cdf4",
-            "date": "2026-08-25",
+            "id": "event-evidence-company-alnylam-investor_relations-54f16182c3fe",
+            "date": "2026-09-01",
             "title": "Information and Resources for Investors | Alnylam",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-alnylam-investor_relations-9a211972cdf4",
+            "evidenceId": "evidence-company-alnylam-investor_relations-54f16182c3fe",
             "sourceUrl": "https://investors.alnylam.com/"
           },
           {
@@ -8097,7 +8156,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 2
         },
-        "lastEvidenceDate": "2026-08-25",
+        "lastEvidenceDate": "2026-09-01",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -8106,14 +8165,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-alnylam-investor_relations-9a211972cdf4",
-          "date": "2026-08-25",
+          "id": "event-evidence-company-alnylam-investor_relations-54f16182c3fe",
+          "date": "2026-09-01",
           "title": "Information and Resources for Investors | Alnylam",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-alnylam-investor_relations-9a211972cdf4",
+          "evidenceId": "evidence-company-alnylam-investor_relations-54f16182c3fe",
           "sourceUrl": "https://investors.alnylam.com/"
         },
         {
@@ -14642,7 +14701,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-arvinas-pipeline-8a55bb718901",
             "date": "2026-08-25",
             "title": "Pipeline | Arvinas",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -14720,7 +14779,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-arvinas-pipeline-8a55bb718901",
           "date": "2026-08-25",
           "title": "Pipeline | Arvinas",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -23862,7 +23921,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-biomolecular-life-holdings",
       "name": "Biomolecular Life Holdings, Inc.",
       "asOfDate": "2026-09-01",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
         "ticker": "BIOM",
@@ -23893,40 +23952,97 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Pharmaceutical Preparations；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
+        "summaryOriginal": "This company's Exchange Act registration has been revoked",
+        "translationStatus": "translated",
         "businessModel": [],
-        "commercialProducts": [],
+        "commercialProducts": [
+          {
+            "textOriginal": "This company's Exchange Act registration has been revoked",
+            "text": "该公司的交易法注册已被撤销",
+            "evidenceId": "evidence-company-candidate-biomolecular-life-holdings-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "evidenceId": "evidence-company-candidate-biomolecular-life-holdings-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
+            "evidenceId": "evidence-company-candidate-biomolecular-life-holdings-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "No 8-K filing data for this company in last days",
+            "text": "No 8-K filing data for this company in last days",
+            "evidenceId": "evidence-company-candidate-biomolecular-life-holdings-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326",
+            "needsReview": true,
+            "claimType": "Report"
+          }
+        ],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-biomolecular-life-holdings-official-c644ef580088"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-biomolecular-life-holdings-official-c644ef580088",
+            "date": "2026-09-01",
+            "title": "EDGAR Entity Landing Page",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-biomolecular-life-holdings-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-01",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-biomolecular-life-holdings-official-c644ef580088",
+          "date": "2026-09-01",
+          "title": "EDGAR Entity Landing Page",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-biomolecular-life-holdings-official-c644ef580088",
+          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326"
+        }
+      ]
     },
     {
       "companyId": "candidate-biomx",
@@ -35494,11 +35610,51 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：CASGEVY™（exagamglogene autotemcel）是一种源于公司与 Vertex Pharmaceuticals Incorporated 合作的 CRISPR/Cas9 基因编辑疗法；该疗法已在部分国家获批，用于某些符合条件的镰状细胞病或输血依赖型 β 地中海贫血患者。；公司官方页面表述：描述：一种自体、体外 CRISPR/Cas9 基因编辑疗法，旨在编辑患者自身的造血干细胞，使红细胞产生胎儿血红蛋白。",
-        "summaryOriginal": "CASGEVY™ (exagamglogene autotemcel), a CRISPR/Cas9 gene-edited therapy arising out of our collaboration with Vertex Pharmaceuticals Incorporated, is approved in some countries for certain eligible patients with sickle cell disease or transfusion-dependent beta thalassemia. Description: Autologous, ex vivo CRISPR/Cas9 gene-edited therapy in which aims to edit a patient’s own hematopoietic stem cells to produce fetal hemoglobin in red blood cells.",
+        "summary": "公司官方页面表述：描述：一种自体、体外 CRISPR/Cas9 基因编辑疗法，旨在编辑患者自身的造血干细胞，使红细胞产生胎儿血红蛋白。；公司官方页面表述：CASGEVY™（exagamglogene autotemcel）是一种源于公司与 Vertex Pharmaceuticals Incorporated 合作的 CRISPR/Cas9 基因编辑疗法；该疗法已在部分国家获批，用于某些符合条件的镰状细胞病或输血依赖型 β 地中海贫血患者。",
+        "summaryOriginal": "Description: Autologous, ex vivo CRISPR/Cas9 gene-edited therapy in which aims to edit a patient’s own hematopoietic stem cells to produce fetal hemoglobin in red blood cells. CASGEVY™ (exagamglogene autotemcel), a CRISPR/Cas9 gene-edited therapy arising out of our collaboration with Vertex Pharmaceuticals Incorporated, is approved in some countries for certain eligible patients with sickle cell disease or transfusion-dependent beta thalassemia.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
+          {
+            "textOriginal": "Description: Autologous, ex vivo CRISPR/Cas9 gene-edited therapy in which aims to edit a patient’s own hematopoietic stem cells to produce fetal hemoglobin in red blood cells.",
+            "text": "描述：一种自体、体外 CRISPR/Cas9 基因编辑疗法，旨在编辑患者自身的造血干细胞，使红细胞产生胎儿血红蛋白。",
+            "evidenceId": "evidence-company-crispr-therapeutics-pipeline-3b78d87ebe36",
+            "sourceUrl": "https://crisprtx.com/pipeline",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Description: Investigational allogeneic CRISPR/Cas9 gene-edited CAR T cell therapy in development for the treatment of CD19+ malignancies and autoimmune diseases that incorporates novel edits designed to enhance CAR T potency and reduce CAR T exhaustion",
+            "text": "Description: Investigational allogeneic CRISPR/Cas9 gene-edited CAR T cell therapy in development for the treatment of CD19+ malignancies and autoimmune diseases that incorporates novel edits designed to enhance CAR T potency and reduce CAR T exhaustion",
+            "evidenceId": "evidence-company-crispr-therapeutics-pipeline-3b78d87ebe36",
+            "sourceUrl": "https://crisprtx.com/pipeline",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Exa-cel, a CRISPR/Cas9 gene-edited therapy arising out of our collaboration with Vertex Pharmaceuticals Incorporated, has now been approved in some countries for certain eligible patients with sickle cell disease or transfusion-dependent beta thalassemia.",
+            "text": "Exa-cel, a CRISPR/Cas9 gene-edited therapy arising out of our collaboration with Vertex Pharmaceuticals Incorporated, has now been approved in some countries for certain eligible patients with sickle cell disease or transfusion-dependent beta thalassemia.",
+            "evidenceId": "evidence-company-crispr-therapeutics-pipeline-3b78d87ebe36",
+            "sourceUrl": "https://crisprtx.com/pipeline",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Description: In vivo gene-editing therapy using lipid nanoparticle (LNP) delivery of Cas9 mRNA and gRNA to the liver to reduce expression of ANGPTL3",
+            "text": "Description: In vivo gene-editing therapy using lipid nanoparticle (LNP) delivery of Cas9 mRNA and gRNA to the liver to reduce expression of ANGPTL3",
+            "evidenceId": "evidence-company-crispr-therapeutics-pipeline-3b78d87ebe36",
+            "sourceUrl": "https://crisprtx.com/pipeline",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Description: Enabling delivery of CRISPR/Cas9 to hematopoietic stem cells (HSCs) in vivo to bypass the need for ex vivo gene editing and hematopoietic stem cell transplant",
+            "text": "Description: Enabling delivery of CRISPR/Cas9 to hematopoietic stem cells (HSCs) in vivo to bypass the need for ex vivo gene editing and hematopoietic stem cell transplant",
+            "evidenceId": "evidence-company-crispr-therapeutics-pipeline-3b78d87ebe36",
+            "sourceUrl": "https://crisprtx.com/pipeline",
+            "needsReview": true,
+            "claimType": "Report"
+          },
           {
             "textOriginal": "CASGEVY™ (exagamglogene autotemcel), a CRISPR/Cas9 gene-edited therapy arising out of our collaboration with Vertex Pharmaceuticals Incorporated, is approved in some countries for certain eligible patients with sickle cell disease or transfusion-dependent beta thalassemia.",
             "text": "CASGEVY™（exagamglogene autotemcel）是一种源于公司与 Vertex Pharmaceuticals Incorporated 合作的 CRISPR/Cas9 基因编辑疗法；该疗法已在部分国家获批，用于某些符合条件的镰状细胞病或输血依赖型 β 地中海贫血患者。",
@@ -35506,52 +35662,12 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://crisprtx.com/",
             "needsReview": true,
             "claimType": "Report"
-          },
-          {
-            "textOriginal": "CTX310, an investigational in vivo CRISPR therapy, lowered cholesterol and triglycerides through one year in early trials.",
-            "text": "CTX310, an investigational in vivo CRISPR therapy, lowered cholesterol and triglycerides through one year in early trials.",
-            "evidenceId": "evidence-company-crispr-therapeutics-official-4896d033c3d0",
-            "sourceUrl": "https://crisprtx.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "First-Ever Approved CRISPR-Based Therapy",
-            "text": "First-Ever Approved CRISPR-Based Therapy",
-            "evidenceId": "evidence-company-crispr-therapeutics-official-4896d033c3d0",
-            "sourceUrl": "https://crisprtx.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "CRISPR Therapeutics Corporate Presentation",
-            "text": "CRISPR Therapeutics Corporate Presentation",
-            "evidenceId": "evidence-company-crispr-therapeutics-official-4896d033c3d0",
-            "sourceUrl": "https://crisprtx.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Creating the next generation of cell therapies for cancer enabled by gene editing.",
-            "text": "Creating the next generation of cell therapies for cancer enabled by gene editing.",
-            "evidenceId": "evidence-company-crispr-therapeutics-official-4896d033c3d0",
-            "sourceUrl": "https://crisprtx.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Description: Autologous, ex vivo CRISPR/Cas9 gene-edited therapy in which aims to edit a patient’s own hematopoietic stem cells to produce fetal hemoglobin in red blood cells.",
-            "text": "描述：一种自体、体外 CRISPR/Cas9 基因编辑疗法，旨在编辑患者自身的造血干细胞，使红细胞产生胎儿血红蛋白。",
-            "evidenceId": "evidence-company-crispr-therapeutics-pipeline-e66f97e46e12",
-            "sourceUrl": "https://crisprtx.com/pipeline",
-            "needsReview": true,
-            "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-crispr-therapeutics-pipeline-3b78d87ebe36",
           "evidence-company-crispr-therapeutics-official-4896d033c3d0",
-          "evidence-company-crispr-therapeutics-pipeline-e66f97e46e12",
           "evidence-company-crispr-therapeutics-investor_relations-89b42325d494",
           "evidence-sec-0001674416-000119312526330672",
           "evidence-sec-0001674416-000119312526330644"
@@ -35560,6 +35676,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-crispr-therapeutics-pipeline-3b78d87ebe36",
+            "date": "2026-09-01",
+            "title": "Pipeline | CRISPR Therapeutics",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-crispr-therapeutics-pipeline-3b78d87ebe36",
+            "sourceUrl": "https://crisprtx.com/pipeline"
+          },
           {
             "id": "event-evidence-company-crispr-therapeutics-official-4896d033c3d0",
             "date": "2026-08-28",
@@ -35570,17 +35697,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-crispr-therapeutics-official-4896d033c3d0",
             "sourceUrl": "https://crisprtx.com/"
-          },
-          {
-            "id": "event-evidence-company-crispr-therapeutics-pipeline-e66f97e46e12",
-            "date": "2026-08-10",
-            "title": "Pipeline | CRISPR Therapeutics",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-crispr-therapeutics-pipeline-e66f97e46e12",
-            "sourceUrl": "https://crisprtx.com/pipeline"
           },
           {
             "id": "event-evidence-company-crispr-therapeutics-investor_relations-89b42325d494",
@@ -35629,7 +35745,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 2
         },
-        "lastEvidenceDate": "2026-08-28",
+        "lastEvidenceDate": "2026-09-01",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -35638,6 +35754,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-crispr-therapeutics-pipeline-3b78d87ebe36",
+          "date": "2026-09-01",
+          "title": "Pipeline | CRISPR Therapeutics",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-crispr-therapeutics-pipeline-3b78d87ebe36",
+          "sourceUrl": "https://crisprtx.com/pipeline"
+        },
         {
           "id": "event-evidence-company-crispr-therapeutics-official-4896d033c3d0",
           "date": "2026-08-28",
@@ -35648,17 +35775,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-crispr-therapeutics-official-4896d033c3d0",
           "sourceUrl": "https://crisprtx.com/"
-        },
-        {
-          "id": "event-evidence-company-crispr-therapeutics-pipeline-e66f97e46e12",
-          "date": "2026-08-10",
-          "title": "Pipeline | CRISPR Therapeutics",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-crispr-therapeutics-pipeline-e66f97e46e12",
-          "sourceUrl": "https://crisprtx.com/pipeline"
         },
         {
           "id": "event-evidence-company-crispr-therapeutics-investor_relations-89b42325d494",
@@ -38528,7 +38644,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-electra-therapeutics",
       "name": "Electra Therapeutics, Inc.",
       "asOfDate": "2026-09-01",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
         "ticker": "ETRA",
@@ -38559,40 +38675,97 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Biological Products, Except Diagnostic Substances；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
+        "summaryOriginal": "This company's Exchange Act registration has been revoked",
+        "translationStatus": "translated",
         "businessModel": [],
-        "commercialProducts": [],
+        "commercialProducts": [
+          {
+            "textOriginal": "This company's Exchange Act registration has been revoked",
+            "text": "该公司的交易法注册已被撤销",
+            "evidenceId": "evidence-company-candidate-electra-therapeutics-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002088082",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "evidenceId": "evidence-company-candidate-electra-therapeutics-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002088082",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
+            "evidenceId": "evidence-company-candidate-electra-therapeutics-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002088082",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "No 8-K filing data for this company in last days",
+            "text": "No 8-K filing data for this company in last days",
+            "evidenceId": "evidence-company-candidate-electra-therapeutics-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002088082",
+            "needsReview": true,
+            "claimType": "Report"
+          }
+        ],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-electra-therapeutics-official-c644ef580088"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-electra-therapeutics-official-c644ef580088",
+            "date": "2026-09-01",
+            "title": "EDGAR Entity Landing Page",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-electra-therapeutics-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002088082"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-01",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-electra-therapeutics-official-c644ef580088",
+          "date": "2026-09-01",
+          "title": "EDGAR Entity Landing Page",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-electra-therapeutics-official-c644ef580088",
+          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002088082"
+        }
+      ]
     },
     {
       "companyId": "candidate-eloxx-pharmaceuticals",
@@ -58274,7 +58447,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-nykode-therapeutics-pipeline-264341e4f3ed",
             "date": "2026-08-25",
             "title": "Pipeline - See what's going on | Nykode",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -58327,7 +58500,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-nykode-therapeutics-pipeline-264341e4f3ed",
           "date": "2026-08-25",
           "title": "Pipeline - See what's going on | Nykode",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -59474,40 +59647,48 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。；公司官方页面表述：发现纳米孔测序的优势，并找出哪种测序设备适合您的输出需求。",
-        "summaryOriginal": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads. Discover the benefits of nanopore sequencing and find out which sequencing device is right for your output requirements.",
+        "summary": "公司官方页面表述：发现纳米孔测序的优势，并找出哪种测序设备适合您的输出需求。；公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
+        "summaryOriginal": "Discover the benefits of nanopore sequencing and find out which sequencing device is right for your output requirements. Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
             "textOriginal": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
             "text": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
-            "sourceUrl": "https://nanoporetech.com/",
+            "evidenceId": "evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
+            "sourceUrl": "https://nanoporetech.com/platform",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "Oxford Nanopore Technologies products are RUO.",
             "text": "Oxford Nanopore Technologies products are RUO.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
-            "sourceUrl": "https://nanoporetech.com/",
+            "evidenceId": "evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
+            "sourceUrl": "https://nanoporetech.com/platform",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
             "text": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
-            "sourceUrl": "https://nanoporetech.com/",
+            "evidenceId": "evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
+            "sourceUrl": "https://nanoporetech.com/platform",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
             "text": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
-            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
-            "sourceUrl": "https://nanoporetech.com/",
+            "evidenceId": "evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
+            "sourceUrl": "https://nanoporetech.com/platform",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Choose from pocket-sized to benchtop devices with plug-and-play setup, intuitive workflows, and simple analysis tools that keep the focus on your research.",
+            "text": "Choose from pocket-sized to benchtop devices with plug-and-play setup, intuitive workflows, and simple analysis tools that keep the focus on your research.",
+            "evidenceId": "evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
+            "sourceUrl": "https://nanoporetech.com/platform",
             "needsReview": true,
             "claimType": "Report"
           },
@@ -59518,25 +59699,28 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
-          },
-          {
-            "textOriginal": "Choose from pocket-sized to benchtop devices with plug-and-play setup, intuitive workflows, and simple analysis tools that keep the focus on your research.",
-            "text": "Choose from pocket-sized to benchtop devices with plug-and-play setup, intuitive workflows, and simple analysis tools that keep the focus on your research.",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-cc2146b5a187",
-            "sourceUrl": "https://nanoporetech.com/platform",
-            "needsReview": true,
-            "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
-          "evidence-company-oxford-nanopore-pipeline-cc2146b5a187"
+          "evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
+          "evidence-company-oxford-nanopore-official-b5a006d4fd7e"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
+            "date": "2026-09-01",
+            "title": "Oxford Nanopore Technologies Platform Solution",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
+            "sourceUrl": "https://nanoporetech.com/platform"
+          },
           {
             "id": "event-evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "date": "2026-08-31",
@@ -59547,17 +59731,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "sourceUrl": "https://nanoporetech.com/"
-          },
-          {
-            "id": "event-evidence-company-oxford-nanopore-pipeline-cc2146b5a187",
-            "date": "2026-08-18",
-            "title": "Oxford Nanopore Technologies Platform Solution",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-cc2146b5a187",
-            "sourceUrl": "https://nanoporetech.com/platform"
           }
         ],
         "inferences": [],
@@ -59571,7 +59744,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-08-31",
+        "lastEvidenceDate": "2026-09-01",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -59579,6 +59752,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
+          "date": "2026-09-01",
+          "title": "Oxford Nanopore Technologies Platform Solution",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
+          "sourceUrl": "https://nanoporetech.com/platform"
+        },
         {
           "id": "event-evidence-company-oxford-nanopore-official-b5a006d4fd7e",
           "date": "2026-08-31",
@@ -59589,17 +59773,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
           "sourceUrl": "https://nanoporetech.com/"
-        },
-        {
-          "id": "event-evidence-company-oxford-nanopore-pipeline-cc2146b5a187",
-          "date": "2026-08-18",
-          "title": "Oxford Nanopore Technologies Platform Solution",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-oxford-nanopore-pipeline-cc2146b5a187",
-          "sourceUrl": "https://nanoporetech.com/platform"
         }
       ]
     },
@@ -67278,54 +67451,54 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。；公司官方页面表述：为住友制药的股东和投资者提供信息，如董事长致辞、投资者关系资料库，以及关于股份和股东的信息。",
-        "summaryOriginal": "For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd. Information for Sumitomo Pharma's shareholders and investors, such as the Message from the President, IR Library, and information regarding shares and shareholders.",
+        "summary": "公司官方页面表述：为住友制药的股东和投资者提供信息，如董事长致辞、投资者关系资料库，以及关于股份和股东的信息。；公司官方页面表述：为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
+        "summaryOriginal": "Information for Sumitomo Pharma's shareholders and investors, such as the Message from the President, IR Library, and information regarding shares and shareholders. For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
-            "text": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-b4283aada487",
-            "sourceUrl": "https://www.sumitomo-pharma.com/",
+            "textOriginal": "Sumitomo Pharma America Announces First Patient Receives Treatment in Phase 1/2a Study for its Investigational Therapy DSP-3077 for Retinitis Pigmentosa（PDF/137KB）",
+            "text": "Sumitomo Pharma America Announces First Patient Receives Treatment in Phase 1/2a Study for its Investigational Therapy DSP-3077 for Retinitis Pigmentosa（PDF/137KB）",
+            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-860b69212532",
+            "sourceUrl": "https://www.sumitomo-pharma.com/ir/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "13, 2026 Sumitomo Pharma America Announces First Patient Receives Treatment in Phase 1/2a Study for its Investigational Therapy DSP-3077 for Retinitis Pigmentosa（PDF/137KB） R&D",
-            "text": "13, 2026 Sumitomo Pharma America Announces First Patient Receives Treatment in Phase 1/2a Study for its Investigational Therapy DSP-3077 for Retinitis Pigmentosa（PDF/137KB） R&D",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-b4283aada487",
-            "sourceUrl": "https://www.sumitomo-pharma.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "iPS Cell-Derived Product Transportation Project",
-            "text": "iPS Cell-Derived Product Transportation Project",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-b4283aada487",
-            "sourceUrl": "https://www.sumitomo-pharma.com/",
+            "textOriginal": "External Evaluation of Our Sustainability Program",
+            "text": "External Evaluation of Our Sustainability Program",
+            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-860b69212532",
+            "sourceUrl": "https://www.sumitomo-pharma.com/ir/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
             "text": "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-b4283aada487",
-            "sourceUrl": "https://www.sumitomo-pharma.com/",
+            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-860b69212532",
+            "sourceUrl": "https://www.sumitomo-pharma.com/ir/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "To this end , Sumitomo Pharma is pursuing Sustainability Management through a variety of initiatives, including the development of innovative products and healthcare solutions, and contribution to the development of science.",
             "text": "To this end , Sumitomo Pharma is pursuing Sustainability Management through a variety of initiatives, including the development of innovative products and healthcare solutions, and contribution to the development of science.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-b4283aada487",
-            "sourceUrl": "https://www.sumitomo-pharma.com/",
+            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-860b69212532",
+            "sourceUrl": "https://www.sumitomo-pharma.com/ir/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Here you can search for the strengths of Sumitomo Pharma’s business, Sumitomo Pharma’s initiatives, and other information that interests you by selecting tags.",
-            "text": "Here you can search for the strengths of Sumitomo Pharma’s business, Sumitomo Pharma’s initiatives, and other information that interests you by selecting tags.",
+            "textOriginal": "Information for Sumitomo Pharma's shareholders and investors, such as the Message from the President, IR Library, and information regarding shares and shareholders.",
+            "text": "为住友制药的股东和投资者提供信息，如董事长致辞、投资者关系资料库，以及关于股份和股东的信息。",
+            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-860b69212532",
+            "sourceUrl": "https://www.sumitomo-pharma.com/ir/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
+            "text": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
             "evidenceId": "evidence-company-sumitomo-pharma-official-b4283aada487",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
@@ -67334,13 +67507,24 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-sumitomo-pharma-official-b4283aada487",
-          "evidence-company-sumitomo-pharma-investor_relations-ccb124fe59e2"
+          "evidence-company-sumitomo-pharma-investor_relations-860b69212532",
+          "evidence-company-sumitomo-pharma-official-b4283aada487"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-sumitomo-pharma-investor_relations-860b69212532",
+            "date": "2026-09-01",
+            "title": "Investor Relations (Security Code :4506 TSE Prime) | Sumitomo Pharma",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-860b69212532",
+            "sourceUrl": "https://www.sumitomo-pharma.com/ir/"
+          },
           {
             "id": "event-evidence-company-sumitomo-pharma-official-b4283aada487",
             "date": "2026-08-31",
@@ -67351,17 +67535,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-sumitomo-pharma-official-b4283aada487",
             "sourceUrl": "https://www.sumitomo-pharma.com/"
-          },
-          {
-            "id": "event-evidence-company-sumitomo-pharma-investor_relations-ccb124fe59e2",
-            "date": "2026-08-18",
-            "title": "Investor Relations (Security Code :4506 TSE Prime) | Sumitomo Pharma",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-ccb124fe59e2",
-            "sourceUrl": "https://www.sumitomo-pharma.com/ir/"
           }
         ],
         "inferences": [],
@@ -67375,7 +67548,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-08-31",
+        "lastEvidenceDate": "2026-09-01",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -67383,6 +67556,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-sumitomo-pharma-investor_relations-860b69212532",
+          "date": "2026-09-01",
+          "title": "Investor Relations (Security Code :4506 TSE Prime) | Sumitomo Pharma",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-860b69212532",
+          "sourceUrl": "https://www.sumitomo-pharma.com/ir/"
+        },
         {
           "id": "event-evidence-company-sumitomo-pharma-official-b4283aada487",
           "date": "2026-08-31",
@@ -67393,17 +67577,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-sumitomo-pharma-official-b4283aada487",
           "sourceUrl": "https://www.sumitomo-pharma.com/"
-        },
-        {
-          "id": "event-evidence-company-sumitomo-pharma-investor_relations-ccb124fe59e2",
-          "date": "2026-08-18",
-          "title": "Investor Relations (Security Code :4506 TSE Prime) | Sumitomo Pharma",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-ccb124fe59e2",
-          "sourceUrl": "https://www.sumitomo-pharma.com/ir/"
         }
       ]
     },
