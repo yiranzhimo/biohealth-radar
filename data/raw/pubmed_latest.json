@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-01T05:16:26.771789+00:00",
+  "capturedAt": "2026-09-01T11:44:06.678166+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-09-01"
   },
   "pmids": [
+    "42675788",
+    "42675178",
+    "42675137",
+    "42675115",
+    "42675041",
     "42674939",
-    "42674783",
-    "42674710",
-    "42673931",
-    "42672065",
-    "42671729",
     "42667121",
     "42656114",
     "42653123",
@@ -32,14 +32,116 @@
     "42660893",
     "42655993",
     "42653766",
+    "42676027",
+    "42675644",
+    "42675621",
     "42674031",
     "42669654",
-    "42669321",
-    "42669262",
-    "42669007",
-    "42668443"
+    "42669321"
   ],
   "records": [
+    {
+      "pmid": "42675788",
+      "title": "Niche-Mediated Neural Priming Enables Robust and Scalable Generation of Human Choroid Plexus Organoids.",
+      "abstract": "The choroid plexus (ChP) secretes cerebrospinal fluid (CSF) and forms the blood-CSF barrier (BCSFB), playing indispensable roles in brain development and homeostasis. However, tractable human ChP models remain limited, with current organoid protocols largely overlooking the stem cell niche as a determinant of lineage commitment. Here, we report that a small number of ChP organoids sporadically emerge during skin organoid induction, and switching human embryonic stem cells (hESCs) culture from E8 to mTeSR1 medium-preconditioning cells toward a neural-primed state-substantially enhances ChP organoid induction efficiency from <3% to ∼68%. Mechanistically, mTeSR1 culture suppresses BMP and WNT activity while upregulating neuroepithelial programs, thereby enabling robust ChP differentiation upon BMP4 exposure. The resulting organoids recapitulate key structural and functional attributes of native ChP, including polarized epithelium and CSF-like fluid (iCSF) secretion. Notably, iCSF-derived exosomes closely mirror the protein composition of native CSF exosomes. Furthermore, expression of the early ChP markers OTX2 and MSX1 suggest progressive specification toward the ChP fate. These ChP organoids likely represent a mixed ventricular identity with predominant hindbrain characteristics and exhibit selective susceptibility to SARS-CoV-2 infection, validating their physiological relevance. This niche-driven priming strategy provides a scalable platform for modeling ChP development, barrier transport, and neurological disorders.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Center For Tissue Engineering and Stem Cell Research, Translation Medicine Research Center, Guizhou Biomanufacturing Laboratory, Guizhou Medical University, Guiyang, China.",
+        "Department of Neurosurgery, The Affiliated Hospital of Guizhou Medical University, Guiyang, China.",
+        "Guizhou Provincial Key Laboratory of Pathogenesis and Prevention of Common Chronic Diseases, Guizhou Medical University, Guiyang, China.",
+        "Department of Physiology & Pathophysiology, School of Basic Medicine, Guizhou Medical University, Guiyang, China.",
+        "Department of Rehabilitation Medicine, The Affiliated Hospital of Guizhou Medical University, Guiyang, China.",
+        "Department of Rehabilitation Medicine, Clinical Medical College, Guizhou Medical University, Guiyang, China.",
+        "Department of Endocrinology, Central Hospital of Wuhan, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+        "Gansu Key Laboratory of Biomonitoring and Bioremediation for Environmental Pollution, and Ministry of Education Key Laboratory of Cell Activities and Stress Adaptations, School of Life Sciences, Lanzhou University, Lanzhou, China.",
+        "Key Laboratory of Environmental Pollution Monitoring and Disease Control, Ministry of Education, School of Public Health, Guizhou Medical University, Guiyang, China.",
+        "Collaborative Innovation Center For Prevention and Control of Endemic and Ethnic Regional Diseases Co-Constructed By the Province and Ministry, Guizhou Medical University, Guiyang, China."
+      ],
+      "doi": "10.1002/advs.77512",
+      "date": "2026-08-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42675788/"
+    },
+    {
+      "pmid": "42675178",
+      "title": "Organoid intelligence: a promising paradigm for autism spectrum disorder research.",
+      "abstract": "Autism spectrum disorder (ASD) is a multifactorial neurodevelopmental condition marked by heterogeneity in its clinical presentations, which complicates both its diagnosis and treatment. Despite advancements, the molecular mechanisms underlying ASD remain largely unclear. In recent years, two independent yet highly promising technological domains have made significant advancements: organoids and artificial intelligence (AI). Brain organoids can simulate critical processes of human neurodevelopment in both physiological and pathological states, providing an unprecedented window into the mechanisms and potential therapeutics of ASD. Simultaneously, AI has demonstrated formidable capabilities for processing and analyzing large-scale, high-dimensional biomedical data, and has been effectively applied to ASD imaging analysis, genomics research, and behavioral data interpretation. However, these two fields have developed mainly in parallel, leaving their potential for cross-disciplinary integration untapped in ASD research. This review aims to fill this gap by reviewing the current status and limitations of both fields in the context of ASD, and to elucidate a promising research paradigm that integrates AI with brain organoids, called \"organoid intelligence\", to enhance our understanding of predictive models, unravel ASD pathogenesis, and develop more effective and individualized therapies.",
+      "journal": "Molecular psychiatry",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Military Cognitive Psychology, School of Psychology, Army Medical University, Chongqing, 400038, China.",
+        "Army 953 Hospital, Shigatse Branch of Xinqiao Hospital, Army Medical University, Shigatse, 857000, China.",
+        "Department of Anesthesiology, The Affiliated Yongchuan Hospital of Chongqing Medical University, Chongqing, 402160, China. mayuan21991@126.com.",
+        "Department of Neurology and Centre for Clinical Neuroscience, Daping Hospital, Army Medical University, Chongqing, 400042, China. mayuan21991@126.com.",
+        "Department of Military Cognitive Psychology, School of Psychology, Army Medical University, Chongqing, 400038, China. fanxiaotang@tmmu.edu.cn."
+      ],
+      "doi": "10.1038/s41380-026-03850-7",
+      "date": "2026-08-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42675178/"
+    },
+    {
+      "pmid": "42675137",
+      "title": "ATR inhibitors synergise with mitomycin C to enhance cytotoxicity in patient-derived non-muscle invasive bladder cancer organoids.",
+      "abstract": "There is a high recurrence rate in non-muscle invasive bladder cancer (NMIBC) patients treated with intravesical chemotherapy or BCG, indicating the need for novel treatment options. Synergy between DNA damage response inhibitors and chemotherapy has been shown for different solid tumours. Here, we explore whether combining chemotherapeutic agents with Ataxia telangiectasia and Rad3-related (ATR) kinase inhibitors is a suitable strategy to reduce recurrence in NMIBC. NMIBC patient-derived organoids (PDOs; n = 6) were exposed to mitomycin C (MMC) for 2 h, to mimic intravesical instillation, and subsequently to ATR inhibitors (berzosertib, ceralasertib, tuvusertib) for 72 h. Additionally, combination treatments with gemcitabine/epirubicin were analysed (n = 1 PDO). Cell viability and PDO regrowth potential were determined by microscopy and CellTiter-Glo luminescence assays 6 weeks post-treatment. PDO viability was severely impaired after combination treatment with chemotherapy and ATR inhibitors. This effect was maintained for 6 weeks after drug exposure. In contrast, PDOs treated with only chemotherapy or ATR inhibitors showed similar proliferation rates as untreated controls in week 6. This study demonstrates synergy between ATR inhibitors and chemotherapy in NMIBC PDOs. Combining intravesical chemotherapy instillations with DNA damage response inhibitors should be further evaluated as a promising strategy to reduce recurrence rates for NMIBC.",
+      "journal": "British journal of cancer",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department Oncological Urology, Division Imaging and Oncology, University Medical Center Utrecht, Utrecht, The Netherlands.",
+        "Laboratory Translational Oncology, Division Imaging and Oncology, University Medical Center Utrecht, Utrecht, The Netherlands.",
+        "Department Surgical Oncology, University Medical Center Utrecht, Utrecht, The Netherlands.",
+        "Utrecht Platform for Organoid Technology, Utrecht University, Utrecht, The Netherlands.",
+        "Department Oncological Urology, Division Imaging and Oncology, University Medical Center Utrecht, Utrecht, The Netherlands. rmeijer6@umcutrecht.nl.",
+        "Laboratory Translational Oncology, Division Imaging and Oncology, University Medical Center Utrecht, Utrecht, The Netherlands. rmeijer6@umcutrecht.nl."
+      ],
+      "doi": "10.1038/s41416-026-03581-0",
+      "date": "2026-08-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42675137/"
+    },
+    {
+      "pmid": "42675115",
+      "title": "Immune-mediated rheumatoid arthritis: from single-cell genomics to new therapies.",
+      "abstract": "The recent application of single-cell genomics to the investigation of immune-mediated arthritis has resulted in an explosion of information, including the discovery of lymphocyte, myeloid and fibroblast cell subsets proposed to be pathogenic. A challenge in the field is how to leverage these exciting but largely descriptive and correlative datasets to gain insights into causality and mechanisms of disease. In this Perspective, I describe emerging data and discuss ideas about how spatial transcriptomics, ex vivo mechanistic and organoid studies, and improved use of animal models based on human disease data can advance the understanding of immune-mediated arthritis pathogenesis, with a focus on rheumatoid arthritis. These insights can form the basis for designing new therapeutic strategies and implementing clinical trials. The concepts and approaches described here for arthritis may have broader applicability to other tissues and immune-mediated diseases.",
+      "journal": "Nature immunology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Research Institute and David Z. Rosensweig Genomics Research Center, Hospital for Special Surgery, New York, NY, USA. ivashkivl@hss.edu.",
+        "Division of Rheumatology, Hospital for Special Surgery and Weill Cornell Medicine, New York, NY, USA. ivashkivl@hss.edu.",
+        "Immunology and Microbial Pathogenesis Graduate Program, Weill Cornell Medicine, New York, NY, USA. ivashkivl@hss.edu."
+      ],
+      "doi": "10.1038/s41590-026-02639-8",
+      "date": "2026-08-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42675115/"
+    },
+    {
+      "pmid": "42675041",
+      "title": "Fructose induces PERK-dependent ER stress and mitochondrial dysfunction via nucleotide depletion in clear cell renal cell carcinoma.",
+      "abstract": "Clear cell renal cell carcinoma (ccRCC) exhibits a paradoxical fructose metabolism signature characterized by upregulation of the fructose transporter GLUT5 alongside downregulation of the catabolic enzymes (ketohexokinase, aldolase B, and triokinase), a pattern associated with poor prognosis. Functionally, unlike the pro-survival effect of fructose under glucose deprivation, in the presence of glucose, fructose co-treatment suppresses ccRCC cell proliferation, and induces profound mitochondrial dysfunction, including impaired oxidative phosphorylation, loss of membrane potential, excessive mitochondrial superoxide production, reduced mtDNA copy number, and downregulation of mitochondria-encoded electron transport chain subunits (notably ND2 and ND4 of complex I). Mechanistically, co-treatment with glucose and fructose creates a metabolic trap resulting in fructose-1-phosphate accumulation and ATP depletion. This energy crisis drives profound depletion of purine and pyrimidine nucleotide pools, which selectively triggers the PERK-eIF2S1-ATF4-CHOP axis of the integrated stress response, thereby mediating mitochondrial impairment and ultimately sensitizing ccRCC cells to intrinsic apoptosis via BID cleavage and caspase-3 activation under nutrient stress. Pharmacological treatment with the chemical chaperone 4-phenylbutyric acid (4-PBA) or nucleoside supplementation reverses mitochondrial dysfunction and fructose-induced cytotoxicity. The tumor-suppressive effect of fructose is validated in patient-derived organoids and xenograft mouse models, where fructose administration significantly attenuates tumor growth via ER stress. These findings reveal fructose-driven nucleotide depletion and PERK-dependent ER stress leading to mitochondrial dysfunction, which underlies the tumor-suppressive toxicity of fructose and exposes a targetable metabolic vulnerability in ccRCC.",
+      "journal": "Cell death & disease",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "First Affiliated Hospital, Weifang People's Hospital, Shandong Second Medical University, Weifang, 261041, China.",
+        "Key Laboratory of Immune Microenvironment and Inflammatory Disease Research in Universities of Shandong Province, School of Basic Medical Sciences, Shandong Second Medical University, Weifang, 261053, China.",
+        "Frontier Medical Center, Tianfu Jincheng Laboratory, Chengdu, 611730, China.",
+        "West China School of Basic Medical Sciences and Forensic Medicine, Sichuan University, Chengdu, 610041, China.",
+        "Department of Biomedical Sciences, College of Biomedicine, Institute of Digital Medicine, Tung Biomedical Science Center, The Shenzhen Research Institute and Futian Research Institute, City University of Hong Kong, Hong Kong, China.",
+        "First Affiliated Hospital, Weifang People's Hospital, Shandong Second Medical University, Weifang, 261041, China. rmyywangnn@sdsmu.edu.cn."
+      ],
+      "doi": "10.1038/s41419-026-09157-3",
+      "date": "2026-08-07",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42675041/"
+    },
     {
       "pmid": "42674939",
       "title": "Three current approaches to preclinical oral squamous cell carcinoma research: a practical, stepwise framework integrating cell lines, organoids, and animal models.",
@@ -56,96 +158,6 @@
       "doi": "10.1016/j.ijom.2026.08.027",
       "date": "2026-08-31",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42674939/"
-    },
-    {
-      "pmid": "42674783",
-      "title": "Temporal mapping of radiation-induced neural injury and mitigation in human cortical organoids.",
-      "abstract": "Radiation therapy is a standard-of-care oncological treatment for central nervous system (CNS) malignancies. However, as survival outcomes improve, radiation-induced injury to normal brain tissue has increased in clinical significance. CNS radiation injury is a delayed, multifactorial process characterized by impaired neurogenesis, reactive gliosis, and persistent functional deficits. Mechanistic exploration and development of effective radiation mitigators have been limited by the lack of scalable, human-relevant models. Mature human iPSC-derived cortical organoids were exposed to single-dose or clinically relevant fractionated radiation (5 × 2 Gy). DNA damage, apoptosis, and growth dynamics were assessed longitudinally. Structural organization, synaptic integrity, and neuroinflammatory responses were evaluated by immunofluorescence and real-time PCR. Transcriptomic profiling was performed at 72 hours and 2 weeks after fractionated radiation to capture acute and delayed effects. Two candidate radiation mitigators, NSPP and amisulpride, were tested for their therapeutic effects within the organoid system. Cortical organoids exhibited partial recovery following single doses up to 4 Gy or fractioned irradiation. Transcriptomic analyses revealed that radiation not only reduced overall cell viability but also reshaped lineage trajectories, characterized by depletion of neural stem/progenitor populations, loss of neuronal identity, enhanced gliogenesis, increased inflammatory cytokines, and disrupted cortical layering and synaptic integrity. Treatment with NSPP or amisulpride attenuated injury-associated transcriptional and structural alterations. Human cortical organoids recapitulate key features of radiation-induced neural injury, recovery, and therapeutic modulation, providing a robust, scalable, and human-relevant platform for studying CNS radiation biology and preclinical screening of candidate radiation mitigators.",
-      "journal": "Stem cells translational medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Radiation Oncology, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, United States.",
-        "Department of Psychiatry and Human Behavior, University of California, Los Angeles, Los Angeles, CA 90095, United States.",
-        "Jonsson Comprehensive Cancer Center, University of California, Los Angeles, Los Angeles, CA 90095, United States.",
-        "Department of Biological Chemistry, University of California, Los Angeles, Los Angeles, CA 90095, United States.",
-        "Department of Neurosurgery, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, United States."
-      ],
-      "doi": "10.1093/stcltm/szag071",
-      "date": "2026-08-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42674783/"
-    },
-    {
-      "pmid": "42674710",
-      "title": "Integrating Patient-derived Organoid and Patient-derived Xenograft Models to Guide Precision Chemotherapy for Gastric Cancer.",
-      "abstract": "The present study aimed to establish patient-derived organoid (PDO) and patient-derived xenograft (PDX) models from clinical gastric cancer (GC) tissue samples and analyze their drug sensitivity data to evaluate their translational value in GC research. The present study investigated the integrated construction of PDOs and PDXs from the same patient and evaluated their utility in individualized drug sensitivity prediction and clinical translation. By constructing GC PDOs and PDXs, drug sensitivity assays with multiple agents were performed and validated results against clinical therapeutic responses. Endoscopic and surgical GC specimens were synchronously processed to generate paired PDO and PDX models from identical patient tissues. Model fidelity was validated using hematoxylin and zeosin (H&E) staining, immunohistochemistry (IHC) and short tandem repeat (STR) profiling. In vitro drug sensitivity testing and in vivo PDX pharmacodynamic validation were performed and predicted outcomes were compared to clinical treatment responses. The findings demonstrated that PDOs and PDXs effectively preserve key histopathological and genetic features of the original tumors, with high concordance between drug sensitivity profiles and actual clinical outcomes, providing a platform for precision therapy in GC. Both PDOs and PDXs recapitulated the histological features of primary tumors. IHC confirmed their consistency with the original tissue profiles, while STR analysis demonstrated >90% genetic matching between the models and the source tissues. The integrated PDO-PDX platform showed a high correlation in predicting drug sensitivity. The integrated PDO-PDX platform achieved clinical concordance in predicting drug sensitivity, providing a platform for precision therapy in GC.",
-      "journal": "Anticancer research",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Gastroenterology, The 901 Hospital of Joint Logistics Support Force, Hefei, P.R. China.",
-        "Department of Surgery, The 901 Hospital of Joint Logistics Support Force, Hefei, P.R. China.",
-        "Department of Gastroenterology, The 901 Hospital of Joint Logistics Support Force, Hefei, P.R. China; tangjun1974@163.com."
-      ],
-      "doi": "10.21873/anticanres.18341",
-      "date": "2026-09-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42674710/"
-    },
-    {
-      "pmid": "42673931",
-      "title": "Polyphyllin I in malignant tumors: molecular mechanisms and advances.",
-      "abstract": "Natural products derived from traditional Chinese medicine have become an important focus in anticancer drug discovery due to their favorable safety profiles and multi-target properties. Polyphyllin I (PPI), a major bioactive constituent of Rhizoma Paridis (Chong-lou), represents the key pharmacological basis for its traditional uses, including heat-clearing, detoxification, and anti-inflammatory effects. Extensive pharmacological studies have shown that PPI exhibits a variety of biological activities, such as anti-inflammatory and immunomodulatory effects. Among these, its broad-spectrum antitumor activity has received particular attention. This review systematically summarizes the structure-activity relationships, multi-target antitumor mechanisms, and druggability of PPI. It also aims to provide a reference for future research on structural optimization, deeper mechanistic exploration, novel formulation development, and combination therapy strategies. A systematic literature search was performed in PubMed, Web of Science, and CNKI from database inception to March 2026. The search strategy used combinations of the following keywords: \"Polyphyllin I,\" \"tumor,\" \"apoptosis,\" \"autophagy,\" \"migration and invasion,\" \"oxidative stress,\" \"ferroptosis,\" \"epithelial-mesenchymal transition,\" \"drug resistance reversal,\" \"drug synergy,\" \"druggability,\" and \"pharmacokinetics.\" Studies were eligible for inclusion if they were original research articles investigating PPI and fulfilled at least one of the following criteria: (1) analysis of structure-activity relationships; (2) pharmacodynamic evaluation using cell, animal, or organoid models; (3) investigation of the molecular mechanisms underlying its antitumor effects; or (4) assessment of its druggability. Studies were excluded if they met any of the following criteria: (1) non-peer-reviewed publications, conference abstracts, editorials, letters to the editor, or duplicate reports; (2) studies that did not investigate the antitumor effects of PPI; or (3) studies based solely on bioinformatic predictions from public databases without experimental validation in cellular or animal models. Preclinical studies have shown that PPI exerts broad-spectrum antitumor effects through multiple mechanisms. These include induction of apoptosis and autophagy, suppression of tumor cell migration, invasion, and epithelial-mesenchymal transition, regulation of oxidative stress homeostasis, induction of ferroptosis, reversal of multidrug resistance, and synergistic effects with chemotherapeutic agents. Overall, this review systematically summarizes the structure-activity relationships, antitumor mechanisms, and druggability of PPI, providing a reference for future research on this promising natural compound. This review fills a gap in the existing literature by providing a systematic overview of PPI from three perspectives: structure-activity relationships, antitumor mechanisms, and druggability. It offers a theoretical basis for the development of novel PPI-derived anticancer lead compounds and for the design of multimodal combination therapeutic strategies. At present, research on PPI remains at the preclinical stage. Further studies are needed to clarify its molecular targets, evaluate its safety profile, and characterize its pharmacokinetics. These efforts will be essential for advancing PPI toward the development of preclinical lead candidates.",
-      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "School of Chinese Materia Medica, Beijing University of Chinese Medicine, Beijing, 100029, China.",
-        "Dongfang Hospital, Beijing University of Chinese Medicine, Beijing, 100078, China.",
-        "School of Chinese Materia Medica, Beijing University of Chinese Medicine, Beijing, 100029, China. Electronic address: chunguowang@bucm.edu.cn.",
-        "School of Chinese Materia Medica, Beijing University of Chinese Medicine, Beijing, 100029, China. Electronic address: exogamy@163.com."
-      ],
-      "doi": "10.1016/j.phymed.2026.158762",
-      "date": "2026-08-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42673931/"
-    },
-    {
-      "pmid": "42672065",
-      "title": "Podocyte injury damages podocytes in chimeric organoids.",
-      "abstract": "We have previously shown that injury to a subset of podocytes can trigger indirect damage in neighboring podocytes, but whether this phenomenon depends on direct intercellular interaction is unknown. To address this, kidney organoids were generated from nephron progenitor cells of two mouse lines: one expressing a receptor for a podocyte-specific immunotoxin and another expressing a tagged ribosomal protein. In chimeric organoids containing a mosaic of these podocyte types, immunotoxin exposure selectively injured the targeted podocytes and also induced indirect injury in adjacent, non-targeted podocytes. This was evidenced by reduced podocin staining and decreased expression of podocyte-specific genes in the non-targeted podocytes. The indirect injury was absent when organoids of each type were cultured separately but in close proximity, indicating that direct cell-to-cell contact within the same glomerular structure is required. These findings show that podocyte injury can propagate locally within kidney organoids, independent of glomerular filtration or other glomerular cell types, and suggest that local podocyte interactions may contribute to the progression of chronic kidney disease.",
-      "journal": "PloS one",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Physiology, Tokai University School of Medicine, Isehara, Japan.",
-        "Department of Pediatrics and Developmental Biology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Japan.",
-        "Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto, Japan."
-      ],
-      "doi": "10.1371/journal.pone.0337677",
-      "date": "2026-08-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42672065/"
-    },
-    {
-      "pmid": "42671729",
-      "title": "Developmental Extracellular Matrix as a Bioactive Niche for Spinal Cord Organoid Maturation and SCI Repair.",
-      "abstract": "Spinal cord injury (SCI) causes permanent sensorimotor deficits due to the inhibitory extracellular microenvironment that forms post-injury, hindering regeneration. The extracellular matrix (ECM) plays a critical role in neural development and repair, with the developmental spinal cord ECM being enriched in pro-regenerative molecules and containing relatively low levels of inhibitory components. In contrast, the ECM of the adult injured spinal cord is characterized by an abundance of growth-inhibitory molecules. Human pluripotent stem cell-derived spinal cord organoids have emerged as promising in vitro models for studying spinal cord development and disease; however, their application is limited by incomplete structural and functional maturation. The incorporation of developmental ECM components into organoid cultures has been shown to promote maturation, neuronal connectivity, and functional integration. This review provides a comprehensive overview of the regenerative properties of developmental spinal cord ECM and discusses its applications in organoid engineering and SCI repair, including decellularized ECM biomaterials, hydrogels, synthetic analogs, and combinatorial approaches. Collectively, developmental ECM-based strategies represent a promising platform for the development of precision regenerative therapies aimed at enhancing functional recovery after SCI.",
-      "journal": "Molecular neurobiology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Biotechnology, Yeungnam University, Gyeongsan, 38541, Republic of Korea. atif.ali@yu.ac.kr.",
-        "Department of Pharmaceutical Toxicology, School of Pharmacy, Istanbul Medipol University, Istanbul, Türkiye.",
-        "Department of Pharmacy, Shaheed Benazir Bhutto University, Sheringal, Dir, Khyber Pakhtunkhwa, Pakistan."
-      ],
-      "doi": "10.1007/s12035-026-06170-7",
-      "date": "2026-08-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42671729/"
     },
     {
       "pmid": "42667121",
@@ -365,6 +377,68 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42653766/"
     },
     {
+      "pmid": "42676027",
+      "title": "High-Dimensional SERS Mapping of Single Circulating Tumor Cells Deciphers the Phenotypic Landscape and Stratifies Metastatic Risk in Pancreatic Cancer.",
+      "abstract": "The profound phenotypic heterogeneity of circulating tumor cells (CTCs) presents a major analytical challenge, demanding technologies capable of high-plex, quantitative single-cell profiling. Here, we introduce PRISM (Phenotypic Resolution via Immuno-SERS Mapping), a biosensing platform engineered to meet this challenge. The platform integrates a high-efficiency dual-antibody (anti-EpCAM/anti-CSV) capture substrate with a suite of seven spectrally orthogonal SERS nanoprobes, enabling crosstalk-free, multiplexed quantification of epithelial, mesenchymal, and stem-like (E-M-S) markers. We demonstrate the platform's robust analytical performance, including high capture efficiency for heterogeneous cell lines and excellent linearity. Its superior phenotypic resolving power was validated by quantitatively distinguishing canonical cell line archetypes and tracking dynamic protein expression shifts during induced epithelial-mesenchymal transition. Applying PRISM to CTCs from pancreatic cancer patients, we introduce a novel data analysis framework, including a 'Metastasis Potential Score' (MPS), to translate high-dimensional spectral data into a clinically relevant metric for risk stratification. Furthermore, longitudinal analysis of patient samples demonstrates the platform's utility as a dynamic monitoring tool, capable of tracking therapy-induced phenotypic shifts. PRISM establishes a powerful analytical methodology for high-dimensional single-cell analysis, providing a robust tool for both fundamental cancer biology research and translational clinical applications.",
+      "journal": "ACS sensors",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Nuclear Medicine, Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing210008, China.",
+        "State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing211198, China.",
+        "Physics and Chemistry Test Center of Jiangsu Province, Nanjing210042, China.",
+        "Department of General Surgery, Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing210008, China."
+      ],
+      "doi": "10.1021/acssensors.6c01742",
+      "date": "2026-08-26",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42676027/"
+    },
+    {
+      "pmid": "42675644",
+      "title": "Extracellular Vesicle-Based Approaches in Acute Myeloid Leukemia: Therapeutic Potential and Translational Challenges.",
+      "abstract": "Acute myeloid leukemia (AML) is an aggressive and heterogeneous hematological malignancy in which treatment resistance and relapse remain major causes of mortality. Extracellular vesicles (EVs) contribute to AML progression by mediating communication among leukemic blasts, leukemia stem cells, hematopoietic stem and progenitor cells, stromal and endothelial cells, and immune-cell populations. Experimental studies indicate that AML-associated EVs can remodel the bone marrow niche, suppress normal hematopoiesis, impair antileukemic immune responses, promote leukemic-cell survival, and facilitate drug resistance. Their surface markers and molecular cargo, including proteins, miRNAs, mRNAs, DNA, lipids, and metabolites, have also prompted investigation into their use as liquid-biopsy biomarkers. Candidate EV-based markers include particle abundance, blast-associated antigens, TGF-β1, FLT3-ITD and NPM1 alterations, and several circulating miRNAs. However, most biomarker studies remain small, heterogeneous, and insufficiently compared with established measurable residual disease assays. Therapeutic strategies involving inhibition of EV release or uptake, EV-based immunotherapy, and engineered EVs for drug or RNA delivery are also being explored, but current evidence is predominantly preclinical. Clinical translation is further limited by inconsistent terminology, variable isolation and characterization methods, contamination by non-vesicular particles, and a lack of prospective multicenter validation. This review summarizes the biological roles, biomarker potential, therapeutic applications, and methodological challenges of EVs in AML and highlights the priorities required for their future clinical development.",
+      "journal": "European journal of haematology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Faculty of Allied Medical Sciences, Hourani Center for Applied Scientific Research, Al-Ahliyya Amman University, Amman, Jordan.",
+        "College of Pharmacy, The Islamic University, Najaf, Iraq.",
+        "Department of Medical Analysis, Medical Laboratory Technique College, The Islamic University of Al Diwaniyah, Al Diwaniyah, Iraq.",
+        "Department of Medicinal Chemistry, Al-Turath University, Baghdad, Iraq.",
+        "Department of Biotechnology and Genetics, School of Sciences, JAIN (Deemed to be University), Bangalore, Karnataka, India.",
+        "Department of General Medicine, IMS and SUM Hospital, Siksha 'O' Anusandhan, Bhubaneswar, Odisha, India.",
+        "Department of Nursing, Sathyabama Institute of Science and Technology, Chennai, Tamil Nadu, India.",
+        "Department of Physiotherapy, University Institute of Allied Health Sciences, Chandigarh University, Mohali, Punjab, India.",
+        "School of Applied and Life Sciences, Division of Research and Innovation, Uttaranchal University, Dehradun, Uttarakhand, India.",
+        "General Internal Medicine, The National Ribat University, Khartoum, Sudan."
+      ],
+      "doi": "10.1111/ejh.70308",
+      "date": "2026-08-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42675644/"
+    },
+    {
+      "pmid": "42675621",
+      "title": "Cell-Free DNA Sequencing Captures Tumor Dynamics, Microenvironment Interactions, and Treatment Pressures in Glioblastoma.",
+      "abstract": "Glioblastoma (GBM) is a highly aggressive brain tumor for which cell-free DNA (cfDNA) has shown promise as a minimally invasive biomarker, yet the biological processes governing cfDNA release and composition in GBM remain incompletely understood. We investigated cfDNA release dynamics, fragmentation patterns, variant allele frequencies (VAF), and copy number profiles under controlled experimental conditions using patient-derived GBM cultures. Longitudinal sampling of conditioned media from monocultures revealed progressive increases in cfDNA yield that correlated more strongly with viable cell numbers than with cell death, suggesting that cfDNA production in these models is not solely driven by apoptosis. In co-culture experiments combining GBM cells with normal human astrocytes (NHA), distinct tumor- and astrocyte-specific variants enabled deconvolution of mixed-cell populations, and cfDNA composition shifted over time, consistent with increasing astrocyte death under competitive co-culture conditions. Temozolomide (TMZ) treatment altered cfDNA release dynamics, shifting the dominant source from viable cells to cell-death-associated pathways, accompanied by increased cfDNA yield, nucleosomal fragmentation, and evidence of reduced variant diversity under therapeutic pressure. Tumor-derived cfDNA was also detected and deconvolved from plasma in GBM orthotopic xenograft models, with copy number profiles recapitulating those of the parental tumor cells. These findings suggest that cfDNA composition is shaped by tumor proliferation, microenvironmental context, and therapeutic stress, establishing a preclinical foundation for interpreting cfDNA-based liquid biopsy signals in GBM.",
+      "journal": "Neuro-oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Translational Genomics Research Institute, Phoenix, AZ 85004.",
+        "Department of Molecular and Cellular Biology, School of Life Sciences, Arizona State University, Tempe, AZ 85281.",
+        "Mayo Clinic Alix School of Medicine, Phoenix, AZ 85054.",
+        "Department of Cancer Biology, Mayo Clinic Arizona, Phoenix, AZ 85054.",
+        "Department of Neurological Surgery, Mayo Clinic Arizona, Phoenix, AZ 85054."
+      ],
+      "doi": "10.1093/neuonc/noag204",
+      "date": "2026-08-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42675621/"
+    },
+    {
       "pmid": "42674031",
       "title": "Blocker Primer-Assisted LAMP Coupled with Pyrococcus furiosus Argonaute Enables Specific and Sensitive Detection of EGFR Mutations in NSCLC.",
       "abstract": "Sensitive and specific detection of low-frequency mutations in circulating tumor DNA (ctDNA) remains a major challenge because mutant alleles typically constitute less than 1% of the total cell-free DNA in plasma. Herein, we present a blocker primer-assisted loop-mediated isothermal amplification (LAMP) assay coupled with Pyrococcus furiosus Argonaute (PfAgo) for detection of EGFR mutations associated with nonsmall cell lung cancer (NSCLC). A blocker primer was incorporated into the LAMP reaction to selectively suppress wild-type (WT) amplification and enrich the mutant-derived amplicons. The mutant amplicons were subsequently recognized and cleaved by PfAgo. The resulting cleavage fragments acted as secondary guides to trigger cleavage of fluorogenic probes, enabling cascade signal amplification. The assay detected the EGFR L858R, T790 M and 19del at mutant allele frequencies as low as 0.05% in a strong WT background (1 × 106 copies/μL total DNA) and reliably detected target mutations in lung cancer cell lines. In clinical plasma samples, the assay detected EGFR L858R with 84.62% sensitivity and 100% specificity relative to next-generation sequencing (NGS). These results demonstrate that the blocker primer-assisted LAMP coupled with PfAgo assay is a specific and sensitive approach for ctDNA mutation analysis and shows promise for liquid biopsy applications.",
@@ -416,94 +490,127 @@
       "doi": "10.1016/j.critrevonc.2026.105571",
       "date": "2026-08-30",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669321/"
-    },
-    {
-      "pmid": "42669262",
-      "title": "One-pot dual-toehold RCA-Cas12a biosensor driven by a preassembled three-arm toehold-gated DNA template for sequence-selective miRNA liquid biopsy.",
-      "abstract": "MicroRNAs (miRNAs) in blood are promising liquid biopsy biomarkers, yet their short length, low abundance, and high intra-family homology hinder sensitive and specific detection. Combining rolling circle amplification (RCA) with CRISPR-Cas12a enables isothermal detection, but existing methods typically depend on auxiliary enzymes or in-assay ligation and rarely encode sequence discrimination within the template itself. Here, we report a one-pot dual-toehold RCA (dtRCA)-Cas12a biosensor driven by a preassembled three-arm toehold-gated (3TG) DNA template for ultrasensitive and selective miRNA detection. The 3TG template adopts a three-arm dumbbell conformation, eliminating the need for a ligase during the assay, and presents two target-complementary toehold domains with a Cas12a-recognition sequence. Target binding triggers strand displacement, initiating dtRCA via a single polymerase. The resulting amplicons activate Cas12a trans-cleavage for fluorescence or lateral flow assay (LFA) readouts. Crucially, a single-base mismatch within the toehold suppressed amplification, whereas a topology-matched circular template lacking the toehold gate failed to distinguish the target, demonstrating that selectivity arises from the template structure. The one-pot dtRCA-Cas12a system achieved attomolar sensitivity, detecting miR-21, miR-375, and let-7a at 2.5, 114.9, and 8.0 aM, respectively. The paper-based LFA maintained femtomolar sensitivity and enabled an instrument-light readout. In plasma, this platform discriminated breast cancer patients (n = 17) from healthy donors (n = 10) with AUC values of 0.97-0.98. Three-marker classification demonstrated robust performance in leave-one-out cross-validation and correctly classified 30 samples in an independent validation cohort, showing performance comparable to RT-qPCR. By embedding selectivity into a preassembled template, this 3TG-driven dtRCA-Cas12a platform provides a highly sensitive and specific strategy for multi-marker miRNA analysis with simplified readout.",
-      "journal": "Biosensors & bioelectronics",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Bioengineering & Nano-Bioengineering, Research Center for Bio Materials and Process Development, Incheon National University, Incheon, 22012, Republic of Korea.",
-        "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Daejeon, 34141, Republic of Korea; Department of Nanobiotechnology, KRIBB School of Biotechnology, University of Science and Technology, Daejeon, 34113, Republic of Korea.",
-        "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Daejeon, 34141, Republic of Korea; Department of Nanobiotechnology, KRIBB School of Biotechnology, University of Science and Technology, Daejeon, 34113, Republic of Korea; School of Pharmacy, Sungkyunkwan University, Suwon, 16419, Republic of Korea. Electronic address: eklim1112@kribb.re.kr.",
-        "Department of Bioengineering & Nano-Bioengineering, Research Center for Bio Materials and Process Development, Incheon National University, Incheon, 22012, Republic of Korea; Division of Bioengineering, Incheon National University, Incheon, 22012, Republic of Korea. Electronic address: e.kim@inu.ac.kr."
-      ],
-      "doi": "10.1016/j.bios.2026.119170",
-      "date": "2026-08-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669262/"
-    },
-    {
-      "pmid": "42669007",
-      "title": "Method Matters: A Proteomics-Informed Framework for Selecting Extracellular Vesicle Isolation Methods for Plasma.",
-      "abstract": "Extracellular vesicles (EVs) hold significant promise as biomarkers, but their clinical application is constrained by variability in pre-analytical handling and isolation. EV isolation methods directly shape which plasma-derived EV-containing preparations are captured, yet systematic method comparisons across multiple analytical dimensions are limited. We comprehensively evaluated eleven EV isolation methods in pooled platelet-poor plasma (5 donors; 6 technical replicates/method). We further evaluated selected methods using five individual donors. EVs were quantified by NanoFCM, profiled for tetraspanins (CD9, CD63, CD81) via MSD assays, and further characterized by LC-MS/MS proteomics. We show that different EV isolation methods for plasma produce different EV containing preparation. EV isolation methods broadened proteome coverage in plasma but showed divergent performance. While all methods captured EVs in the 50-150 nm range, centrifugation and ultracentrifugation identified the broadest proteomes (up to 1093 proteins) driven by higher plasma protein carryover. Conversely, ExoEasy and qEV 70 isolated larger EVs and achieved stronger depletion of abundant plasma proteins but showed lower proteome coverage. A total of 117 proteins were detected across all isolation methods. Pre-clearing of samples removed contaminants but at the cost of protein identifications. We demonstrate that method selection must align with the specific analytical goal: centrifugation for comprehensive proteome profiling, affinity/size-exclusion methods for contaminant-sensitive assays, and precipitation for high-throughput applications. This systematic characterization provides an evidence-based framework and look-up resource for matching isolation strategies to downstream applications and research questions.",
-      "journal": "Journal of extracellular biology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Novo Nordisk A/S Måløv Denmark.",
-        "Gastro Unit Copenhagen University Hospital, Amager and Hvidovre Hospital Hvidovre Denmark.",
-        "Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences University of Copenhagen Copenhagen Denmark.",
-        "Department of Clinical Medicine, Faculty of Health and Medical Sciences Copenhagen University Copenhagen Denmark."
-      ],
-      "doi": "10.1002/jex2.70180",
-      "date": "2026-08-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669007/"
-    },
-    {
-      "pmid": "42668443",
-      "title": "Impact of methodological variability on the prognostic performance of circulating tumor DNA in colorectal cancer: A systematic review and meta-analysis.",
-      "abstract": "Circulating tumor DNA (ctDNA) has demonstrated utility for treatment monitoring, risk stratification, and prognostication in colorectal cancer (CRC). However, substantial methodological heterogeneity across studies may influence its reported prognostic performance. Here, we systematically searched four databases up to October 2025. Eligible studies included patients with CRC who underwent mutation-based plasma ctDNA analysis reported as a binary variable (positive/negative) and provided hazard ratios (HRs) with 95% confidence intervals (95%CIs) for recurrence-free survival (RFS), disease-free survival (DFS), progression-free survival (PFS), or overall survival (OS). Pooled HRs were synthesized using random-effects meta-analysis. Thirty-seven studies met the inclusion criteria. ctDNA positivity was consistently associated with inferior outcomes across all survival endpoints, including OS (HR 3.52; 95%CI 2.42-5.13; p < 0.001; I2 = 74.4%), RFS (HR 4.90; 95%CI 3.54-6.79; p < 0.001; I2 = 83.5%), DFS (HR 4.41; 95%CI 2.96-6.55; p < 0.001; I2 = 84.7%), and PFS (HR 2.46; 95%CI 1.88-3.21; p < 0.001; I2 = 39.2%). The prognostic value of ctDNA was greatest in localized (stage I-III) disease, where it most likely reflects minimal residual disease (MRD). Post-treatment ctDNA demonstrated substantially greater prognostic value than baseline ctDNA, supporting its role in MRD assessment. Persistent ctDNA positivity following surgery and adjuvant chemotherapy identified patients at the highest risk of recurrence and death. Methodological factors were associated with differences in reported prognostic performance: tumor-informed assays outperformed tumor-agnostic assays, particularly in localized disease, while NGS-based approaches showed stronger prognostic performance than dPCR or qPCR. In conclusion, ctDNA positivity is strongly associated with adverse survival outcomes across CRC stages and clinical settings, supporting its role as a clinically relevant biomarker. However, methodological variability significantly influences the reported magnitude of this association, underscoring the need for standardized protocols and transparent reporting to facilitate comparison across studies and support reliable clinical implementation of ctDNA-guided management.",
-      "journal": "The journal of liquid biopsy",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Cancer Research Program, Research Institute of the McGill University Health Centre, Montreal, QC, Canada.",
-        "Department of Pathology, McGill University, Montreal, QC, Canada.",
-        "Biostatistics Consulting Unit, Research Institute of the McGill University Health Centre, Montreal, QC, Canada.",
-        "Gerald Bronfman Department of Oncology, McGill University, Montreal, QC, Canada."
-      ],
-      "doi": "10.1016/j.jlb.2026.100487",
-      "date": "2026-08-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42668443/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42674710",
-      "date": "2026-09-01",
-      "title": "Integrating Patient-derived Organoid and Patient-derived Xenograft Models to Guide Precision Chemotherapy for Gastric Cancer.",
+      "id": "pubmed-42675788",
+      "date": "2026-08-31",
+      "title": "Niche-Mediated Neural Priming Enables Robust and Scalable Generation of Human Choroid Plexus Organoids.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42674710/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42675788/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42675788。",
+      "report": "The choroid plexus (ChP) secretes cerebrospinal fluid (CSF) and forms the blood-CSF barrier (BCSFB), playing indispensable roles in brain development and homeostasis. However, tractable human ChP models remain limited, with current organoid protocols largely o...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42675178",
+      "date": "2026-08-31",
+      "title": "Organoid intelligence: a promising paradigm for autism spectrum disorder research.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42675178/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular psychiatry，PMID 为 42675178。",
+      "report": "Autism spectrum disorder (ASD) is a multifactorial neurodevelopmental condition marked by heterogeneity in its clinical presentations, which complicates both its diagnosis and treatment. Despite advancements, the molecular mechanisms underlying ASD remain larg...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42675137",
+      "date": "2026-08-31",
+      "title": "ATR inhibitors synergise with mitomycin C to enhance cytotoxicity in patient-derived non-muscle invasive bladder cancer organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42675137/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
+        "Precision Oncology"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "肿瘤",
-        "药筛"
+        "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Anticancer research，PMID 为 42674710。",
-      "report": "The present study aimed to establish patient-derived organoid (PDO) and patient-derived xenograft (PDX) models from clinical gastric cancer (GC) tissue samples and analyze their drug sensitivity data to evaluate their translational value in GC research. The pr...",
+      "fact": "PubMed 记录显示该文献收录于 British journal of cancer，PMID 为 42675137。",
+      "report": "There is a high recurrence rate in non-muscle invasive bladder cancer (NMIBC) patients treated with intravesical chemotherapy or BCG, indicating the need for novel treatment options. Synergy between DNA damage response inhibitors and chemotherapy has been show...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42675115",
+      "date": "2026-08-31",
+      "title": "Immune-mediated rheumatoid arthritis: from single-cell genomics to new therapies.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42675115/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature immunology，PMID 为 42675115。",
+      "report": "The recent application of single-cell genomics to the investigation of immune-mediated arthritis has resulted in an explosion of information, including the discovery of lymphocyte, myeloid and fibroblast cell subsets proposed to be pathogenic. A challenge in t...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -541,62 +648,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42672065",
-      "date": "2026-08-31",
-      "title": "Podocyte injury damages podocytes in chimeric organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42672065/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 PloS one，PMID 为 42672065。",
-      "report": "We have previously shown that injury to a subset of podocytes can trigger indirect damage in neighboring podocytes, but whether this phenomenon depends on direct intercellular interaction is unknown. To address this, kidney organoids were generated from nephro...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42671729",
-      "date": "2026-08-31",
-      "title": "Developmental Extracellular Matrix as a Bioactive Niche for Spinal Cord Organoid Maturation and SCI Repair.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42671729/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular neurobiology，PMID 为 42671729。",
-      "report": "Spinal cord injury (SCI) causes permanent sensorimotor deficits due to the inhibitory extracellular microenvironment that forms post-injury, hindering regeneration. The extracellular matrix (ECM) plays a critical role in neural development and repair, with the...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42673661",
       "date": "2026-08-31",
       "title": "Design of programmable molecular interfaces for synthetic biology and therapeutic applications.",
@@ -629,6 +680,64 @@
       "fact": "PubMed 记录显示该文献收录于 Current opinion in chemical biology，PMID 为 42673661。",
       "report": "De novo protein design is reshaping how synthetic biology specifies and controls molecular function. Recent advances in generative modeling, sequence design and structure prediction enable molecular interactions to be created from scratch, reducing reliance on...",
       "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42675644",
+      "date": "2026-08-31",
+      "title": "Extracellular Vesicle-Based Approaches in Acute Myeloid Leukemia: Therapeutic Potential and Translational Challenges.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42675644/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 European journal of haematology，PMID 为 42675644。",
+      "report": "Acute myeloid leukemia (AML) is an aggressive and heterogeneous hematological malignancy in which treatment resistance and relapse remain major causes of mortality. Extracellular vesicles (EVs) contribute to AML progression by mediating communication among leu...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42675621",
+      "date": "2026-08-31",
+      "title": "Cell-Free DNA Sequencing Captures Tumor Dynamics, Microenvironment Interactions, and Treatment Pressures in Glioblastoma.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42675621/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Neuro-oncology，PMID 为 42675621。",
+      "report": "Glioblastoma (GBM) is a highly aggressive brain tumor for which cell-free DNA (cfDNA) has shown promise as a minimally invasive biomarker, yet the biological processes governing cfDNA release and composition in GBM remain incompletely understood. We investigat...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -688,36 +797,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42669262",
-      "date": "2026-08-30",
-      "title": "One-pot dual-toehold RCA-Cas12a biosensor driven by a preassembled three-arm toehold-gated DNA template for sequence-selective miRNA liquid biopsy.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669262/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42669262。",
-      "report": "MicroRNAs (miRNAs) in blood are promising liquid biopsy biomarkers, yet their short length, low abundance, and high intra-family homology hinder sensitive and specific detection. Combining rolling circle amplification (RCA) with CRISPR-Cas12a enables isotherma...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42667121",
       "date": "2026-08-29",
       "title": "Predicting Single-Cell Perturbation Responses Across Biological Contexts With a Deep Generative Model Integrating Optimal Transport.",
@@ -749,32 +828,6 @@
       "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42667121。",
       "report": "Predicting how single cells respond to perturbations is a central problem in computational biology, with potential relevance to emerging artificial intelligence virtual cell (AIVC) research and drug-discovery efforts. However, substantial variation in perturba...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42669007",
-      "date": "2026-08-29",
-      "title": "Method Matters: A Proteomics-Informed Framework for Selecting Extracellular Vesicle Isolation Methods for Plasma.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669007/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of extracellular biology，PMID 为 42669007。",
-      "report": "Extracellular vesicles (EVs) hold significant promise as biomarkers, but their clinical application is constrained by variability in pre-analytical handling and isolation. EV isolation methods directly shape which plasma-derived EV-containing preparations are...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -835,45 +888,6 @@
       "fact": "PubMed 记录显示该文献收录于 Trends in biochemical sciences，PMID 为 42665456。",
       "report": "Research on the structural and functional potential of minimal amino acid alphabets is shifting from reductive 'pruning' of extant proteins to bottom-up exploration of combinatorial sequence space. This review highlights the experimental and computational tool...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42673931",
-      "date": "2026-08-26",
-      "title": "Polyphyllin I in malignant tumors: molecular mechanisms and advances.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42673931/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Phytomedicine : international journal of phytotherapy and phytopharmacology，PMID 为 42673931。",
-      "report": "Natural products derived from traditional Chinese medicine have become an important focus in anticancer drug discovery due to their favorable safety profiles and multi-target properties. Polyphyllin I (PPI), a major bioactive constituent of Rhizoma Paridis (Ch...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -938,6 +952,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42676027",
+      "date": "2026-08-26",
+      "title": "High-Dimensional SERS Mapping of Single Circulating Tumor Cells Deciphers the Phenotypic Landscape and Stratifies Metastatic Risk in Pancreatic Cancer.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42676027/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 ACS sensors，PMID 为 42676027。",
+      "report": "The profound phenotypic heterogeneity of circulating tumor cells (CTCs) presents a major analytical challenge, demanding technologies capable of high-plex, quantitative single-cell profiling. Here, we introduce PRISM (Phenotypic Resolution via Immuno-SERS Mapp...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42656114",
       "date": "2026-08-25",
       "title": "[Multi-modal tumor boundary clustering recognition based on artificial intelligence virtual cells and near-infrared surgical field].",
@@ -997,68 +1041,6 @@
       "fact": "PubMed 记录显示该文献收录于 Analytical chemistry，PMID 为 42674031。",
       "report": "Sensitive and specific detection of low-frequency mutations in circulating tumor DNA (ctDNA) remains a major challenge because mutant alleles typically constitute less than 1% of the total cell-free DNA in plasma. Herein, we present a blocker primer-assisted l...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42674783",
-      "date": "2026-08-18",
-      "title": "Temporal mapping of radiation-induced neural injury and mitigation in human cortical organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42674783/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cells translational medicine，PMID 为 42674783。",
-      "report": "Radiation therapy is a standard-of-care oncological treatment for central nervous system (CNS) malignancies. However, as survival outcomes improve, radiation-induced injury to normal brain tissue has increased in clinical significance. CNS radiation injury is...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42668443",
-      "date": "2026-08-18",
-      "title": "Impact of methodological variability on the prognostic performance of circulating tumor DNA in colorectal cancer: A systematic review and meta-analysis.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42668443/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42668443。",
-      "report": "Circulating tumor DNA (ctDNA) has demonstrated utility for treatment monitoring, risk stratification, and prognostication in colorectal cancer (CRC). However, substantial methodological heterogeneity across studies may influence its reported prognostic perform...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1150,6 +1132,36 @@
       "fact": "PubMed 记录显示该文献收录于 Cancer genetics，PMID 为 42600555。",
       "report": "Multiple myeloma (MM) is a severe plasma-cell malignancy that continues to cause substantial morbidity and mortality despite major therapeutic advances. Although current therapies target distinct molecular processes, many patients eventually relapse, raising t...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42675041",
+      "date": "2026-08-07",
+      "title": "Fructose induces PERK-dependent ER stress and mitochondrial dysfunction via nucleotide depletion in clear cell renal cell carcinoma.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42675041/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell death & disease，PMID 为 42675041。",
+      "report": "Clear cell renal cell carcinoma (ccRCC) exhibits a paradoxical fructose metabolism signature characterized by upregulation of the fructose transporter GLUT5 alongside downregulation of the catabolic enzymes (ketohexokinase, aldolase B, and triokinase), a patte...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
