@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-08-31T09:50:16+00:00",
+  "capturedAt": "2026-09-01T08:43:27+00:00",
   "count": 593,
   "items": [
     {
@@ -618,8 +618,8 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-adlai-nortye",
-      "name": "Adlai Nortye Ltd.",
+      "companyId": "candidate-adlai-nortye-group",
+      "name": "Adlai Nortye Group Ltd.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001944552",
       "identifiers": {
         "cik": [
@@ -2937,6 +2937,23 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-biomolecular-life-holdings",
+      "name": "Biomolecular Life Holdings, Inc.",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326",
+      "identifiers": {
+        "cik": [
+          "0001091326"
+        ],
+        "ticker": [
+          "BIOM"
+        ]
+      },
+      "sourceTypes": [
+        "Pharmaceutical Preparations"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-biomx",
       "name": "BiomX Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001739174",
@@ -2985,23 +3002,6 @@
       "sourceTypes": [
         "biotechnology",
         "gene therapy"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-bioquest",
-      "name": "Bioquest Corp",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001568628",
-      "identifiers": {
-        "cik": [
-          "0001568628"
-        ],
-        "ticker": [
-          "BQST"
-        ]
-      },
-      "sourceTypes": [
-        "Pharmaceutical Preparations"
       ],
       "status": "needs_official_domain"
     },
@@ -4836,6 +4836,23 @@
       },
       "sourceTypes": [
         "biotechnology"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-electra-therapeutics",
+      "name": "Electra Therapeutics, Inc.",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0002088082",
+      "identifiers": {
+        "cik": [
+          "0002088082"
+        ],
+        "ticker": [
+          "ETRA"
+        ]
+      },
+      "sourceTypes": [
+        "Biological Products, Except Diagnostic Substances"
       ],
       "status": "needs_official_domain"
     },
@@ -8012,23 +8029,6 @@
         "AI Drug Discovery",
         "Precision Diagnostics",
         "drug discovery"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-sb-technology-holdings",
-      "name": "SB Technology Holdings, Inc.",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326",
-      "identifiers": {
-        "cik": [
-          "0001091326"
-        ],
-        "ticker": [
-          "BIOM"
-        ]
-      },
-      "sourceTypes": [
-        "Pharmaceutical Preparations"
       ],
       "status": "needs_official_domain"
     },

@@ -4844,10 +4844,10 @@
       ]
     },
     {
-      "companyId": "candidate-adlai-nortye",
-      "name": "Adlai Nortye Ltd.",
+      "companyId": "candidate-adlai-nortye-group",
+      "name": "Adlai Nortye Group Ltd.",
       "asOfDate": "2026-09-01",
-      "profileStatus": "partial",
+      "profileStatus": "seed_only",
       "identity": {
         "ownership": "Public",
         "ticker": "ANL",
@@ -4878,97 +4878,40 @@
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
-        "summaryOriginal": "This company's Exchange Act registration has been revoked",
-        "translationStatus": "translated",
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Pharmaceutical Preparations；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
         "businessModel": [],
-        "commercialProducts": [
-          {
-            "textOriginal": "This company's Exchange Act registration has been revoked",
-            "text": "该公司的交易法注册已被撤销",
-            "evidenceId": "evidence-company-candidate-adlai-nortye-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001944552",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "evidenceId": "evidence-company-candidate-adlai-nortye-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001944552",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
-            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
-            "evidenceId": "evidence-company-candidate-adlai-nortye-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001944552",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "No 8-K filing data for this company in last days",
-            "text": "No 8-K filing data for this company in last days",
-            "evidenceId": "evidence-company-candidate-adlai-nortye-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001944552",
-            "needsReview": true,
-            "claimType": "Report"
-          }
-        ],
+        "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-adlai-nortye-official-c644ef580088"
-        ]
+        "evidenceIds": []
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-adlai-nortye-official-c644ef580088",
-            "date": "2026-08-18",
-            "title": "EDGAR Entity Landing Page",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-adlai-nortye-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001944552"
-          }
-        ],
+        "observedMoves": [],
         "inferences": [],
         "unknowns": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-08-18",
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
         "programCandidateCount": 0,
         "gaps": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-adlai-nortye-official-c644ef580088",
-          "date": "2026-08-18",
-          "title": "EDGAR Entity Landing Page",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-adlai-nortye-official-c644ef580088",
-          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001944552"
-        }
-      ]
+      "recentEvents": []
     },
     {
       "companyId": "candidate-adma-biologics",
@@ -23874,6 +23817,76 @@
       ]
     },
     {
+      "companyId": "candidate-biomolecular-life-holdings",
+      "name": "Biomolecular Life Holdings, Inc.",
+      "asOfDate": "2026-09-01",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": "Public",
+        "ticker": "BIOM",
+        "exchange": "SEC",
+        "headquarters": null,
+        "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "cik": [
+            "0001091326"
+          ],
+          "ticker": [
+            "BIOM"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "Pharmaceutical Preparations"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Pharmaceutical Preparations；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-biomx",
       "name": "BiomX Inc.",
       "asOfDate": "2026-09-01",
@@ -24219,133 +24232,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-bioprovar-official-6701336049be",
           "sourceUrl": "https://reporter.nih.gov/project-details/11417998"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-bioquest",
-      "name": "Bioquest Corp",
-      "asOfDate": "2026-09-01",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": "Public",
-        "ticker": "BQST",
-        "exchange": "SEC",
-        "headquarters": null,
-        "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0001568628",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "cik": [
-            "0001568628"
-          ],
-          "ticker": [
-            "BQST"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "Pharmaceutical Preparations"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
-        "summaryOriginal": "This company's Exchange Act registration has been revoked",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [
-          {
-            "textOriginal": "This company's Exchange Act registration has been revoked",
-            "text": "该公司的交易法注册已被撤销",
-            "evidenceId": "evidence-company-candidate-bioquest-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001568628",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "evidenceId": "evidence-company-candidate-bioquest-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001568628",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
-            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
-            "evidenceId": "evidence-company-candidate-bioquest-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001568628",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "No 8-K filing data for this company in last days",
-            "text": "No 8-K filing data for this company in last days",
-            "evidenceId": "evidence-company-candidate-bioquest-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001568628",
-            "needsReview": true,
-            "claimType": "Report"
-          }
-        ],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-bioquest-official-c644ef580088"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-bioquest-official-c644ef580088",
-            "date": "2026-08-18",
-            "title": "EDGAR Entity Landing Page",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-bioquest-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001568628"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-08-18",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-bioquest-official-c644ef580088",
-          "date": "2026-08-18",
-          "title": "EDGAR Entity Landing Page",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-bioquest-official-c644ef580088",
-          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001568628"
         }
       ]
     },
@@ -38595,6 +38481,76 @@
           "sourceUrl": "https://reporter.nih.gov/project-details/11424457"
         }
       ]
+    },
+    {
+      "companyId": "candidate-electra-therapeutics",
+      "name": "Electra Therapeutics, Inc.",
+      "asOfDate": "2026-09-01",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": "Public",
+        "ticker": "ETRA",
+        "exchange": "SEC",
+        "headquarters": null,
+        "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0002088082",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "cik": [
+            "0002088082"
+          ],
+          "ticker": [
+            "ETRA"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "Biological Products, Except Diagnostic Substances"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Biological Products, Except Diagnostic Substances；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
     },
     {
       "companyId": "candidate-eloxx-pharmaceuticals",
@@ -65158,133 +65114,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-sansimeon-official-6701336049be",
           "sourceUrl": "https://reporter.nih.gov/project-details/11389440"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-sb-technology-holdings",
-      "name": "SB Technology Holdings, Inc.",
-      "asOfDate": "2026-09-01",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": "Public",
-        "ticker": "BIOM",
-        "exchange": "SEC",
-        "headquarters": null,
-        "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "cik": [
-            "0001091326"
-          ],
-          "ticker": [
-            "BIOM"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "Pharmaceutical Preparations"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
-        "summaryOriginal": "This company's Exchange Act registration has been revoked",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [
-          {
-            "textOriginal": "This company's Exchange Act registration has been revoked",
-            "text": "该公司的交易法注册已被撤销",
-            "evidenceId": "evidence-company-candidate-sb-technology-holdings-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "evidenceId": "evidence-company-candidate-sb-technology-holdings-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
-            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
-            "evidenceId": "evidence-company-candidate-sb-technology-holdings-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "No 8-K filing data for this company in last days",
-            "text": "No 8-K filing data for this company in last days",
-            "evidenceId": "evidence-company-candidate-sb-technology-holdings-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326",
-            "needsReview": true,
-            "claimType": "Report"
-          }
-        ],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-sb-technology-holdings-official-c644ef580088"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-sb-technology-holdings-official-c644ef580088",
-            "date": "2026-08-27",
-            "title": "EDGAR Entity Landing Page",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-sb-technology-holdings-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-08-27",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-sb-technology-holdings-official-c644ef580088",
-          "date": "2026-08-27",
-          "title": "EDGAR Entity Landing Page",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-sb-technology-holdings-official-c644ef580088",
-          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001091326"
         }
       ]
     },
