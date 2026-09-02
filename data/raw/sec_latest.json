@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-02T04:41:48.567636+00:00",
+  "capturedAt": "2026-09-02T11:25:12.071415+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-08-19",
@@ -142,7 +142,7 @@
     {
       "filingDate": "2026-09-01",
       "reportDate": "2026-08-27",
-      "acceptanceDateTime": "2026-09-01T16:37:04.000Z",
+      "acceptanceDateTime": "2026-09-01T20:37:04.000Z",
       "act": "34",
       "form": "8-K",
       "fileNumber": "001-38753",

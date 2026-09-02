@@ -59659,7 +59659,8 @@
         "programCandidateIds": [],
         "evidenceIds": [
           "evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
-          "evidence-company-oxford-nanopore-official-b5a006d4fd7e"
+          "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+          "evidence-pubmed-42681330"
         ]
       },
       "futureDirection": {
@@ -59686,6 +59687,17 @@
             "needsReview": true,
             "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "sourceUrl": "https://nanoporetech.com/"
+          },
+          {
+            "id": "event-pubmed-42681330",
+            "date": "2026-01-01",
+            "title": "The Yenos/MinION Multi-Cancer Early Detection Liquid Biopsy Test: An Innovative Approach to MicroRNA Quantification.",
+            "eventType": "Research",
+            "sourceType": "Paper",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-pubmed-42681330",
+            "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42681330/"
           }
         ],
         "inferences": [],
@@ -59695,9 +59707,10 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 2,
+        "evidenceCount": 3,
         "evidenceBySourceType": {
-          "Company": 2
+          "Company": 2,
+          "Paper": 1
         },
         "lastEvidenceDate": "2026-09-01",
         "programCandidateCount": 0,
@@ -59728,6 +59741,17 @@
           "needsReview": true,
           "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
           "sourceUrl": "https://nanoporetech.com/"
+        },
+        {
+          "id": "event-pubmed-42681330",
+          "date": "2026-01-01",
+          "title": "The Yenos/MinION Multi-Cancer Early Detection Liquid Biopsy Test: An Innovative Approach to MicroRNA Quantification.",
+          "eventType": "Research",
+          "sourceType": "Paper",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-pubmed-42681330",
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42681330/"
         }
       ]
     },
