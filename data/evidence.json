@@ -4035,15 +4035,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-arvinas-official-cbd8ea5a7fa6",
+      "id": "evidence-company-arvinas-official-2dd3803f1c4b",
       "signalId": null,
       "companyIds": [
         "arvinas"
       ],
-      "publishedAt": "2026-08-23",
-      "snapshotDate": "2026-08-23",
+      "publishedAt": "2026-09-02",
+      "snapshotDate": "2026-09-02",
       "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Arvinas — Official Website",
@@ -4059,7 +4059,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash cbd8ea5a7fa68fd40f928af9b44b45b1f54858c5ac01074eb95bfff3e0d2d949.",
+      "fact": "The official page was captured with normalized-content hash 2dd3803f1c4bfa751a013f6f359e81d085083656f64d7455f35681de283e6ec2.",
       "report": "公司官方页面表述：Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
       "reportOriginal": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
       "reportCn": "Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
@@ -4072,8 +4072,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "cbd8ea5a7fa68fd40f928af9b44b45b1f54858c5ac01074eb95bfff3e0d2d949",
-      "changeType": "unchanged",
+      "contentHash": "2dd3803f1c4bfa751a013f6f359e81d085083656f64d7455f35681de283e6ec2",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
@@ -4429,13 +4429,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-beone-medicines-official-ec9d79d6fac4",
+      "id": "evidence-company-beone-medicines-official-7b97d50e4ea5",
       "signalId": null,
       "companyIds": [
         "beone-medicines"
       ],
-      "publishedAt": "2026-08-31",
-      "snapshotDate": "2026-08-31",
+      "publishedAt": "2026-09-02",
+      "snapshotDate": "2026-09-02",
       "title": "Transforming Cancer Care Through Science and Speed | BeOne Medicines",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -4453,7 +4453,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash ec9d79d6fac4047b53fd0c19790fcb588779fe44cca1250a156aa2d0967f3159.",
+      "fact": "The official page was captured with normalized-content hash 7b97d50e4ea5e06ba97f5087bf36328895d1d792d7e81d4e21187a7f74ffdf6f.",
       "report": "公司官方页面表述：探索BeOne Medicines如何通过综合的发现、开发和交付模型推动全球癌症护理，为全球患者带来变革性疗法。",
       "reportOriginal": "Explore how BeOne Medicines advances global cancer care through an integrated model of discovery, development, and delivery, bringing transformative therapies to patients worldwide.",
       "reportCn": "探索BeOne Medicines如何通过综合的发现、开发和交付模型推动全球癌症护理，为全球患者带来变革性疗法。",
@@ -4466,7 +4466,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "ec9d79d6fac4047b53fd0c19790fcb588779fe44cca1250a156aa2d0967f3159",
+      "contentHash": "7b97d50e4ea5e06ba97f5087bf36328895d1d792d7e81d4e21187a7f74ffdf6f",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -4483,7 +4483,6 @@
       ],
       "productExcerpts": [
         "BeOne is advancing a broad and deep pipeline, accelerating development through rigorous science to deliver transformative medicines to more people around the world.",
-        "BeOne Medicines Highlights Accelerating Solid Tumor Pipeline with New Data at ASCO…",
         "See how BeOne brings together innovative science, an accelerated pipeline, and a commitment to access to make more saves possible."
       ],
       "planExcerpts": []
@@ -6542,7 +6541,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7",
       "changeType": "unchanged",
-      "lastCheckStatus": "failed",
+      "lastCheckStatus": "success",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
@@ -38930,15 +38929,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-hub-organoids-official-a1de5108f02c",
+      "id": "evidence-company-hub-organoids-official-1eeafe45faa0",
       "signalId": null,
       "companyIds": [
         "hub-organoids"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-09-02",
+      "snapshotDate": "2026-09-02",
       "title": "Patient-derived organoids CRO | Drug discovery | Organoid development services - HUB Organoids",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "HUB Organoids — Official Website",
@@ -38954,7 +38953,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash a1de5108f02c3b42aec3a0ddf48156425fb2d2671614a7da528817c208e25750.",
+      "fact": "The official page was captured with normalized-content hash 1eeafe45faa06424a0dbe5eb645967342a08cabbd9c4bf2f22e22a3a582b6ab9.",
       "report": "公司官方页面表述：实验室中的患者®中心类器官预测患者对治疗的反应。我们的专利技术允许从健康和疾病组织中开发出患者来源的“盘中迷你器官”，以缩小实验室与临床之间的差距。",
       "reportOriginal": "A PATIENT IN THE LAB® HUB Organoids predict patient response to treatment. Our patented technology allows the development of patient-derived “mini-organs in a dish” from both healthy and diseased tissues to close the gap between the lab and the clinic.",
       "reportCn": "实验室中的患者®中心类器官预测患者对治疗的反应。我们的专利技术允许从健康和疾病组织中开发出患者来源的“盘中迷你器官”，以缩小实验室与临床之间的差距。",
@@ -38967,37 +38966,36 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "a1de5108f02c3b42aec3a0ddf48156425fb2d2671614a7da528817c208e25750",
-      "changeType": "unchanged",
+      "contentHash": "1eeafe45faa06424a0dbe5eb645967342a08cabbd9c4bf2f22e22a3a582b6ab9",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Unless otherwise stated in our catalog or other company documentation accompanying the product(s), our products are intended for research use only and are not to be used for any other purpose, which includes but is not limited to, unauthorized commercial uses, in vitro…",
         "Our patented technology allows the development of patient-derived “mini-organs in a dish” from both healthy and diseased tissues to close the gap between the lab and the clinic.",
-        "The Life Science business of Merck KGaA, Darmstadt, Germany Acquires HUB Organoids Holding B.V., Expands Next-Gen Biology Portfolio",
-        "De-risk Clinical Investment and Optimize Portfolio Returns with HUB Organoids"
+        "De-risk Clinical Investment and Optimize Portfolio Returns with HUB Organoids",
+        "HUB Organoids is now part of the Life Science Business of Merck KGaA, Darmstadt, Germany"
       ],
       "businessExcerpts": [
         "Unless otherwise stated in our catalog or other company documentation accompanying the product(s), our products are intended for research use only and are not to be used for any other purpose, which includes but is not limited to, unauthorized commercial uses, in vitro…",
-        "The Life Science business of Merck KGaA, Darmstadt, Germany Acquires HUB Organoids Holding B.V., Expands Next-Gen Biology Portfolio",
         "HUB Organoids is now part of the Life Science Business of Merck KGaA, Darmstadt, Germany"
       ],
       "productExcerpts": [
         "Unless otherwise stated in our catalog or other company documentation accompanying the product(s), our products are intended for research use only and are not to be used for any other purpose, which includes but is not limited to, unauthorized commercial uses, in vitro…",
-        "Awarded Frost & Sullivan’s 2024 Technology Innovation Leadership Award for Transforming Drug Development with Highly Advanced Organoid Technology",
+        "Predict therapeutic effects of antibody-drug conjugates (ADCs) with patient-specific organoid models.",
         "Reduce drug attrition and predict patient response with our preclinical services and clinical trials in a dish Link"
       ],
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-illumina-official-23430f80b296",
+      "id": "evidence-company-illumina-official-92c5feeb0e79",
       "signalId": null,
       "companyIds": [
         "illumina"
       ],
-      "publishedAt": "2026-08-27",
-      "snapshotDate": "2026-08-27",
+      "publishedAt": "2026-09-02",
+      "snapshotDate": "2026-09-02",
       "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Illumina — Official Website",
@@ -39013,7 +39011,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 23430f80b296d7139184d0088fe737c8b18c55f50e513d8a66663c3dd6c169cd.",
+      "fact": "The official page was captured with normalized-content hash 92c5feeb0e7952e7cfcd01448920a2bbc32449029b08d883a3feacd82a813dde.",
       "report": "公司官方页面表述：Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
       "reportOriginal": "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
       "reportCn": "Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
@@ -39026,8 +39024,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "23430f80b296d7139184d0088fe737c8b18c55f50e513d8a66663c3dd6c169cd",
-      "changeType": "unchanged",
+      "contentHash": "92c5feeb0e7952e7cfcd01448920a2bbc32449029b08d883a3feacd82a813dde",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
@@ -39560,15 +39558,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-legend-biotech-official-c50498fdf046",
+      "id": "evidence-company-legend-biotech-official-e7b531757355",
       "signalId": null,
       "companyIds": [
         "legend-biotech"
       ],
-      "publishedAt": "2026-08-12",
-      "snapshotDate": "2026-08-12",
+      "publishedAt": "2026-09-02",
+      "snapshotDate": "2026-09-02",
       "title": "HOME - Legend Biotech",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Legend Biotech — Official Website",
@@ -39584,7 +39582,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash c50498fdf046d92519de5da6e42d281247ddc576d3bce27a2bcd70861a6ed713.",
+      "fact": "The official page was captured with normalized-content hash e7b53175735563b322fced2e4368b225992143588b72a9c5b281a2d2670cfbf7.",
       "report": "公司官方页面表述：Legend Biotech 是一家处于商业化阶段的全球生物技术公司，开发和生产创新疗法。公司探索并应用创新技术，为全球患者提供前沿治疗选择。",
       "reportOriginal": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies. We explore and apply innovative technologies to deliver cutting-edge options for patients around the world.",
       "reportCn": "Legend Biotech 是一家处于商业化阶段的全球生物技术公司，开发和生产创新疗法。公司探索并应用创新技术，为全球患者提供前沿治疗选择。",
@@ -39597,14 +39595,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "c50498fdf046d92519de5da6e42d281247ddc576d3bce27a2bcd70861a6ed713",
-      "changeType": "unchanged",
+      "contentHash": "e7b53175735563b322fced2e4368b225992143588b72a9c5b281a2d2670cfbf7",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
-        "Legend Biotech Establishes Clinical Proof-of-Concept for LB2501, a Potential First-in-Class In Vivo CD19/CD20 Dual-Targeting CAR-T, in Relapsed/Refractory B-Cell Non-Hodgkin Lymphoma",
         "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
         "Legend Biotech to Host Investor Conference Call on Second Quarter 2026 Results",
-        "We are an end-to-end cell therapy company."
+        "We are an end-to-end cell therapy company.",
+        "Our pipeline of cell therapies includes agents across hematologic and solid tumors."
       ],
       "businessExcerpts": [
         "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
@@ -40001,15 +39999,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-natera-official-5a3f354ee77a",
+      "id": "evidence-company-natera-official-4269dd66f7b7",
       "signalId": null,
       "companyIds": [
         "natera"
       ],
-      "publishedAt": "2026-08-28",
-      "snapshotDate": "2026-08-28",
+      "publishedAt": "2026-09-02",
+      "snapshotDate": "2026-09-02",
       "title": "Natera: A global leader in cell-free DNA testing",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Natera — Official Website",
@@ -40025,7 +40023,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 5a3f354ee77a4cb3668f8ebca6457098ca6546bcd3cfed6fcb644ac81038ef93.",
+      "fact": "The official page was captured with normalized-content hash 4269dd66f7b7915b59ab89b9c78925b453a63f5f569e5c3ed222f0816455aaf0.",
       "report": "公司官方页面表述：致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
       "reportOriginal": "Dedicated to oncology, women’s health, and organ health. Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
       "reportCn": "致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
@@ -40038,12 +40036,12 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "5a3f354ee77a4cb3668f8ebca6457098ca6546bcd3cfed6fcb644ac81038ef93",
-      "changeType": "unchanged",
+      "contentHash": "4269dd66f7b7915b59ab89b9c78925b453a63f5f569e5c3ed222f0816455aaf0",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
+        "New Publication Establishes Strong Clinical Validation of Signatera™ for MRD Assessment in Lymphoma",
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
-        "Natera to Support New Clinical Trial Assessing ctDNA Dynamics with Latitude™ in Advanced Skin Cancers",
         "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
         "Clinical Resources Oncology CLINICAL RESOURCES Signatera™"
       ],
@@ -40111,15 +40109,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-nurix-official-ea44f706cf69",
+      "id": "evidence-company-nurix-official-98d74e163d88",
       "signalId": null,
       "companyIds": [
         "nurix"
       ],
-      "publishedAt": "2026-08-21",
-      "snapshotDate": "2026-08-21",
+      "publishedAt": "2026-09-02",
+      "snapshotDate": "2026-09-02",
       "title": "Nurix | Medicines to Outmatch Disease",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Nurix Therapeutics — Official Website",
@@ -40135,7 +40133,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash ea44f706cf697cb2f6b0dbfd3d4be1eb9b11f7e381b4734218cc741775c0c609.",
+      "fact": "The official page was captured with normalized-content hash 98d74e163d881debbf2d2fb4d341bfa07f5a0cce3204ff4c2786d27e8776f56e.",
       "report": "公司官方页面表述：探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。",
       "reportOriginal": "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
       "reportCn": "探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。",
@@ -40148,8 +40146,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "ea44f706cf697cb2f6b0dbfd3d4be1eb9b11f7e381b4734218cc741775c0c609",
-      "changeType": "unchanged",
+      "contentHash": "98d74e163d881debbf2d2fb4d341bfa07f5a0cce3204ff4c2786d27e8776f56e",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
@@ -40407,7 +40405,7 @@
       "publishedAt": "2026-08-31",
       "snapshotDate": "2026-08-31",
       "title": "Welcome to Oxford Nanopore Technologies",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Oxford Nanopore Technologies — Official Website",
@@ -40437,7 +40435,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "b5a006d4fd7e86315fa9f0f9ab18724b0d37d937b55c6f15a16569677978dc9e",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
@@ -40836,13 +40834,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-sumitomo-pharma-official-b4283aada487",
+      "id": "evidence-company-sumitomo-pharma-official-b7507b87f26a",
       "signalId": null,
       "companyIds": [
         "sumitomo-pharma"
       ],
-      "publishedAt": "2026-08-31",
-      "snapshotDate": "2026-08-31",
+      "publishedAt": "2026-09-02",
+      "snapshotDate": "2026-09-02",
       "title": "Sumitomo Pharma Co., Ltd.",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -40860,7 +40858,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash b4283aada4874bf247658ded205b88232ed817ddd9c36dff0b29cb77727715bc.",
+      "fact": "The official page was captured with normalized-content hash b7507b87f26a7e2a34e219574289b793fe8ad47e0d774ec5caea5c3799f913fd.",
       "report": "公司官方页面表述：为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
       "reportOriginal": "For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd.",
       "reportCn": "为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
@@ -40873,7 +40871,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "b4283aada4874bf247658ded205b88232ed817ddd9c36dff0b29cb77727715bc",
+      "contentHash": "b7507b87f26a7e2a34e219574289b793fe8ad47e0d774ec5caea5c3799f913fd",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
