@@ -4,53 +4,110 @@
   "asOfDate": "2026-09-02",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-664f47b5dd5708db",
-      "observedName": "Sarepta Therapeutics, Inc.",
-      "normalizedName": "sarepta therapeutics",
+      "id": "mention-clinicaltrials-0f72102e26065fd4",
+      "observedName": "Żelazna Medical Centre, LLC",
+      "normalizedName": "żelazna medical centre",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT00159250",
-      "sourceDate": "2019-12-05",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT00159250",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT05318989",
+      "sourceDate": "2023-07-12",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05318989",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Longevity",
+        "biomarker",
+        "临床试验",
+        "衰老"
+      ],
+      "activitySignals": [],
+      "contextTitle": "Genetic Aspects of Vaginal Aging"
+    },
+    {
+      "id": "mention-clinicaltrials-919ec221f9a7b44e",
+      "observedName": "Kanglin Biotechnology (Hangzhou) Co., Ltd.",
+      "normalizedName": "kanglin biotechnology hangzhou",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT06280378",
+      "sourceDate": "2025-03-10",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06280378",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "临床试验"
+        "Oncology",
+        "Precision Oncology",
+        "Recruiting",
+        "中国",
+        "临床试验",
+        "肿瘤"
       ],
       "activitySignals": [
+        "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Safety and Efficacy Study of Antisense Oligonucleotides in Duchenne Muscular Dystrophy"
+      "contextTitle": "Β-Thalassemia Treatment with KL003 Cell Injection"
     },
     {
-      "id": "mention-clinicaltrials-8d492670ce333e4c",
-      "observedName": "Peerbridge Health, Inc",
-      "normalizedName": "peerbridge health",
+      "id": "mention-clinicaltrials-b451dd53c36e426c",
+      "observedName": "AI Labs Group S.L",
+      "normalizedName": "ai labs group s l",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06699056",
-      "sourceDate": "2026-06-01",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06699056",
+      "sourceRecordId": "NCT07429123",
+      "sourceDate": "2026-02-24",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07429123",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
         "Healthcare AI",
         "Medical AI",
-        "Recruiting",
+        "Oncology",
+        "Precision Oncology",
         "临床决策支持",
         "临床试验",
-        "医疗 AI"
+        "医疗 AI",
+        "肿瘤"
       ],
       "activitySignals": [
-        "active_trial",
         "trial_intervention"
       ],
-      "contextTitle": "AI-Enabled Direct-from-ECG Ejection Fraction (EF) Severity Assessment Using COR ECG Wearable Monitor"
+      "contextTitle": "Using an Artificial Intelligence Medical Device to Help Primary Care Practitioners Identify and Manage Skin Conditions (Tumor, Inflammatory, and Infectious Diseases) in Adult Patients at Pozuelo and Majadahonda Health Centers"
+    },
+    {
+      "id": "mention-clinicaltrials-ff0508643a830314",
+      "observedName": "Precedo Pharmaceuticals Co. Ltd.",
+      "normalizedName": "precedo pharmaceuticals",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT06100003",
+      "sourceDate": "2024-02-07",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06100003",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Advanced Disease Models",
+        "Clinical Trials",
+        "Oncology",
+        "Organoids",
+        "Precision Oncology",
+        "中国",
+        "临床试验",
+        "疾病模型",
+        "类器官",
+        "肿瘤"
+      ],
+      "activitySignals": [],
+      "contextTitle": "A Clinical Study Aims to Assess the Consistency of Clinical Efficacy in Gastric Cancer Treatment and Drug Susceptibility Outcomes Using a Novel Drug Susceptibility Testing Method"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",

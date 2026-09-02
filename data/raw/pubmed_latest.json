@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-02T11:25:03.894716+00:00",
+  "capturedAt": "2026-09-02T16:38:51.518162+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-09-02"
   },
   "pmids": [
+    "42683494",
+    "42683414",
+    "42683148",
+    "42682878",
+    "42682687",
     "42681755",
-    "42681655",
-    "42681466",
-    "42681465",
-    "42681394",
-    "42681299",
     "42667121",
     "42656114",
     "42653123",
@@ -32,14 +32,98 @@
     "42673661",
     "42665581",
     "42665456",
+    "42682629",
+    "42682436",
     "42682348",
     "42681848",
     "42681330",
-    "42681308",
-    "42679926",
-    "42679775"
+    "42682816"
   ],
   "records": [
+    {
+      "pmid": "42683494",
+      "title": "Using Organoids to Unlock the Potential of Human Torpor for Spaceflight.",
+      "abstract": "This paper reviews the current understanding of the potential for humans to enter a state of torpor/hibernation, and discusses the possibility of inducing torpor in astronauts for long-duration space travel, including some of the physiological, technological, and ethical considerations associated with its implementation. By exploring means to induce torpor in various human organoid systems, we hope such research can provides insights to comprehensive solutions to overcome some of the major hurdles that limit the potential for human to enter a state of torpor during long-duration deep-space missions, and contribute to the ongoing efforts to make such missions more feasible and safer for astronauts. On future deep space missions such as NASA's planned missions to the Moon, Mars, and near-Earth asteroids, astronauts will be continuously exposed to environments that are radically different from those on Earth, each presenting multiple logistical and physiological challenges. Beyond the well-documented physiological effects of microgravity, space travelers will encounter a complex radiation environment that may contribute to significant short- and long-term adverse effects on human physiology and increase the risk of cancer and other diseases. Besides these physical challenges, life support systems must also be designed to mitigate psychological impacts of long-term isolation and confinement - all of which collectively pose formidable engineering problems. Hibernation/torpor is a state of prolonged inactivity and metabolic depression used by a wide variety of mammals to survive periods of cold temperatures and food scarcity, including some primates and perhaps even an extinct early line of hominins that lived nearly half a million years ago. Since modern humans share common ancestry with these hominins and hibernating primates, it is likely the human genome encodes the necessary genetic information to hibernate, or at least enter the similar, more transient state of torpor. The reduced body activity, lowered metabolism, and decreased energy requirements that characterize torpor suggest that developing means of inducing such a state in astronauts could address these challenges, including providing a degree of radioprotection. This review explores the potential application of human torpor as a countermeasure to address the many challenges posed by long-duration spaceflight beyond low-Earth orbit (LEO), discusses various natural hibernating model systems for studying means of inducing a torpor-like state in humans, and highlights the vast potential of using human organoids to test and validate mechanisms that govern induction and maintenance of torpor to identify the means to one day safely induce this state in astronauts to provide additional protection from the myriad stressors of spaceflight.",
+      "journal": "Current stem cell reports",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Wake Forest Institute for Regenerative Medicine (WFIRM), 391 Technology Way, Winston-Salem, NC, USA.",
+        "Pacific Northwest National Laboratory, 902 Battelle Boulevard, Richland, WA, USA."
+      ],
+      "doi": "10.1007/s40778-026-00257-6",
+      "date": "2026-06-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42683494/"
+    },
+    {
+      "pmid": "42683414",
+      "title": "The neuro-immune-vascular landscape of lung cancer brain metastasis: insights from organoid models.",
+      "abstract": "Lung cancer brain metastasis (LCBM) is a major cause of cancer-related mortality, driven by the restrictive blood-brain barrier (BBB), an immunosuppressive microenvironment, and dynamic metabolic reprogramming. Increasing evidence suggests that LCBM is governed by coordinated interactions among neural, immune, and vascular components that regulate metastatic colonization, progression, and immune evasion. However, conventional models fail to recapitulate this multicellular, spatially organized ecosystem, limiting mechanistic understanding. Recent advances in organoid technology provide a new paradigm for modeling LCBM. Integrative platforms, including cerebral organoid assembloids, vascularized microfluidic systems, and BBB models, enable reconstruction of key components and dynamic interactions within the brain metastatic niche. These systems have uncovered critical regulatory axes, such as astrocyte-driven colonization, neurovascular remodeling, and metabolic-immune coupling. Beyond structural modeling, organoid platforms enable functional interrogation of patient-specific therapeutic responses in physiologically relevant contexts, facilitating drug sensitivity testing, immunotherapy optimization, and multi-modal treatment modeling. Despite current limitations, organoid-based models provide a critical framework for dissecting the neuro-immune-vascular landscape of LCBM and bridging mechanistic insights with clinical translation, offering new opportunities for therapeutic innovation and personalized treatment.",
+      "journal": "Frontiers in immunology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Oncology, Harbin Medical University Cancer Hospital, Harbin, China."
+      ],
+      "doi": "10.3389/fimmu.2026.1886585",
+      "date": "2026-08-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42683414/"
+    },
+    {
+      "pmid": "42683148",
+      "title": "Organ-on-a-Chip Technology: Advances in Modeling Inflammation, Neurovascularization and Nociception in Human Intervertebral Disc Degeneration.",
+      "abstract": "An organ-on-a-chip platform has emerged as an advanced in vitro model that replicates organ-level structures within physiologically relevant human microenvironments. In this review, we focus on intervertebral disc (IVD) degeneration, a leading cause of chronic low back pain, providing a comprehensive overview of the current understanding of IVD anatomy, physiology, and pathogenesis. We review conventional in vitro, ex vivo, and in vivo models, which have expanded our understanding; however, they inadequately reproduce the human phenotype, heterogeneous disc composition and anatomy, which comprises nucleus pulposus (NP) and annulus fibrosus (AF) with neovascularization and sensory innervation within the three-dimensional (3D) degenerative microenvironment. We emphasize a disc-on-a-chip platform to address these limitations, which integrates microfluidics and biomimetic ECM-based hydrogels within a controlled microenvironment to miniaturize the disc. It offers a promising platform to simulate the pathological disc milieu by incorporating gradient control of key signaling molecules implicated in disc degeneration. These include a disintegrin and metalloproteinase with thrombospondin motifs (ADAMTS) and matrix metalloproteinase (MMP)-mediated extracellular matrix (ECM) degradation; tumor necrosis factor alpha (TNF-α) and interleukin-1 beta (IL-1β)-driven inflammation via nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB); vascular endothelial growth factor (VEGF)-promoted angiogenesis; and nerve growth factor (NGF)- and brain-derived neurotrophic factor (BDNF)-mediated sensory innervation and sensitization, thus contributing to nociception. Collectively, disc-on-a-chip offers a next-generation in vitro model for investigating mechanisms relating to ECM degradation, inflammation, innervation, vascularization, and nociception underlying IVD degeneration, enabling precision preclinical therapeutic evaluations.",
+      "journal": "Smart medicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "CÚRAM Research Ireland Centre for Medical Devices University of Galway Galway Ireland.",
+        "Department of Anatomy Faculty of Medicine Universiti Kebangsaan Malaysia Kuala Lumpur Malaysia.",
+        "Pharmacology and Therapeutics University of Galway Galway Ireland."
+      ],
+      "doi": "10.1002/smmd.70051",
+      "date": "2026-08-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42683148/"
+    },
+    {
+      "pmid": "42682878",
+      "title": "Emerging molecular mechanisms of the ECM-exosome growth-plate axis in idiopathic short stature.",
+      "abstract": "Idiopathic short stature (ISS) remains a clinically heterogeneous diagnosis in which impaired linear growth is often defined by exclusion rather than by mechanism. Increasing evidence suggests that ISS and related short-stature phenotypes may converge on overlapping growth-plate abnormalities characterised by disrupted chondrocyte proliferation, hypertrophic differentiation, extracellular matrix (ECM) maturation, mineralisation, and endochondral ossification. In this narrative review, we synthesize current evidence relevant to a proposed ECM-exosome growth-plate axis as a hypothesis-generating framework for ISS. The reviewed studies suggest that exosomal RNA dysregulation, ECM structural abnormalities, growth-hormone and insulin-like growth factor signalling variation, environmental and inflammatory exposures, and altered local signalling pathways may each contribute to impaired growth-plate output in specific experimental or clinical contexts. However, these diverse upstream routes appear to be associated with overlapping downstream abnormalities in chondrocyte state transition and cartilage-to-bone conversion. We propose that the cartilage ECM may function as a regulatory niche that could influence exosome diffusion, retention, uptake, spatial exposure, and RNA signalling activity within growth-plate chondrocytes. Conversely, exosomal miRNAs, lncRNAs, and circRNAs may regulate ECM synthesis, matrix remodelling, hypertrophy, and ossification. Accordingly, the axis is presented here as a hypothesis-generating model rather than as an established causal mechanism in ISS. Nevertheless, direct causal evidence remains limited, particularly regarding whether ECM composition, stiffness, proteoglycan density, collagen organisation, or mineralisation state governs exosome-mediated RNA delivery in human growth-plate models. Future studies should combine paediatric cohorts, human chondrocytes, growth-plate organoids, hPSC-derived cartilage systems, engineered exosomes, and ECM perturbation-rescue experiments to validate this axis. Defining ECM-exosome signatures may enable mechanism-based ISS subclassification, prediction of GH responsiveness, liquid-biopsy biomarker development, and growth-plate-targeted therapeutic strategies. Overall, the proposed ECM-exosome growth-plate axis may help frame ISS as a potentially molecularly stratifiable disorder involving chondrocyte state-transition failure, rather than solely as an endocrine diagnosis of exclusion.",
+      "journal": "Frontiers in cell and developmental biology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Pediatrics, China-Japan Union Hospital of Jilin University, Changchun, China.",
+        "Department of Pediatrics, Kailu County Hospital, Tongliao, China."
+      ],
+      "doi": "10.3389/fcell.2026.1898879",
+      "date": "2026-08-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42682878/"
+    },
+    {
+      "pmid": "42682687",
+      "title": "Advanced three-dimensional culture technologies in reproductive medicine: A narrative review.",
+      "abstract": "Recent advancements in 3-dimensional (3D) in vitro culture systems for follicles, oocytes, and embryos represent a paradigm shift in assisted reproductive technologies and reproductive biology. By mimicking the native physiological microenvironment more faithfully than conventional 2-dimensional systems, these innovative platforms directly address critical limitations of current in vitro embryo production protocols, including low blastocyst development rates, compromised embryo quality, and concerning epigenetic aberrations. This comprehensive review examines a spectrum of emerging 3D strategies, microfluidic devices, dynamic culture conditions, spheroid/organoid models, and advanced co-culture systems with supportive somatic and stem cells. Accumulating evidence demonstrates that these technologies (by preserving 3D follicular and embryonic architecture, enhancing nutrient and gas exchange, and restoring vital cell-cell and cell-matrix interactions) significantly improve oocyte maturation rates, embryo developmental competence, and overall in vitro fertilization outcomes. Nevertheless, challenges such as species-specific optimization, scalability, high costs, and the imperative for clinical standardization remain significant hurdles. Future directions to overcome these obstacles involve the development of smart, physiologically responsive biomaterials, the integration of cutting-edge technologies, such as artificial intelligence and organ-on-a-chip platforms, and the creation of cost-effective systems for widespread application. This review underscores the transformative potential of 3D culture systems as a foundational new approach in reproductive research and fertility treatments.",
+      "journal": "International journal of reproductive biomedicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Animal Science, Agricultural Sciences and Natural Resources, University of Khuzestan, Ahvaz, Iran.",
+        "Department of Agriculture, Iranian Research Organization for Science and Technology (IROST), Tehran, Iran."
+      ],
+      "doi": "10.18502/ijrm.v24i6.21456",
+      "date": "2026-08-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42682687/"
+    },
     {
       "pmid": "42681755",
       "title": "Molecular Glue Degraders Enhance CAPRIN1-Dependent Lysosomal Degradation of APP and Reduce Amyloid β in Alzheimer's Disease.",
@@ -61,94 +145,6 @@
       "doi": "10.1002/advs.77575",
       "date": "2026-09-01",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42681755/"
-    },
-    {
-      "pmid": "42681655",
-      "title": "Human iPSC-derived bone marrow organoids with integrated hematopoietic and T cell-supportive niches.",
-      "abstract": "The anatomical separation of bone marrow and thymus limits the efficient generation of human immune cells in vitro and constrains experimental platforms for modeling integrated hematopoiesis. We investigated whether a synthetic human bone marrow could be engineered to support both hematopoietic and T-lineage-associated functions. We generated human induced pluripotent stem cell-derived bone marrow organoids (iBMOs) that self-organize into stromal, vascular, and hematopoietic compartments and provide microenvironmental cues supportive of T cell differentiation. iBMOs produced hematopoietic progenitors and yielded stable stromal stem cell lines (iBOSS) that expressed Notch-associated molecules and supported the differentiation of iPSC-derived hematopoietic progenitors toward T-lineage and dendritic cell-associated populations in vitro. Following transplantation into immunodeficient mice, iBMOs sustained human erythropoiesis and underwent bone formation, demonstrating autonomous niche activity in vivo. This integrated bone marrow organoid platform provides a physiologically relevant system for studying human hematopoietic development and immune cell differentiation and offers a scalable foundation for regenerative medicine and immunotherapy applications.",
-      "journal": "Stem cell research & therapy",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Center for Regenerative Medicine, National Center for Child Health and Development, Tokyo, 157-8535, Japan.",
-        "Department of Human Genetics, National Center for Child Health and Development, Tokyo, 157-8535, Japan.",
-        "Division of Cell Regulation, Center for Experimental Medicine and Systems Biology, The Institute of Medical Science, The University of Tokyo, Tokyo, Japan.",
-        "Center for Regenerative Medicine, National Center for Child Health and Development, Tokyo, 157-8535, Japan. akutsu-h@ncchd.go.jp."
-      ],
-      "doi": "10.1186/s13287-026-05249-1",
-      "date": "2026-08-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42681655/"
-    },
-    {
-      "pmid": "42681466",
-      "title": "RNAscope™ In Situ Hybridization for the Detection of a Long Noncoding RNA in an Organ-on-a-Chip.",
-      "abstract": "RNAscope™ is a highly sensitive technique for detecting RNA molecules within cells, offering superior specificity and signal amplification compared with traditional in situ hybridization methods. This technique enables the visualization of gene expression patterns at the single-cell level, making it particularly advantageous for studies involving complex tissues or 3D culture systems. In this study, RNAscope™ was used to investigate gene expression within an organ-on-a-chip (OoC), a system that usually encompasses a limited number of cells making the application of standard gene expression analysis techniques, such as qPCR, difficult. In this study, human articular chondrocytes (Chs) isolated from the knee joints of both osteoarthritic patients and heathy donors' cells were encapsulated in a hyaluronic acid (HA)-based hydrogels and injected in a three-channels microfluidic device. RNAscope™ technique was employed directly within the OoC device to study the expression of a long noncoding transcript, FOXCUT, together with FOXC1 and IL-6 in healthy and diseased chondrocytes and there was a correlation between the methylation profile of FOXCUT and osteoarthritis (OA). RNAscope™ enabled the visualization of the spatial localization of target transcripts, including those with low expression levels, such as FOXC1 and FOXCUT. The standard protocol, originally designed for fixed-frozen tissue samples, required optimization to accommodate the unique properties of the OoC environment. Key adaptations included the fixation step using paraformaldehyde, permeabilization with Triton X-100 and an adjusted protease treatment. These modifications were essential to ensure efficient probe penetration and accurate signal detection within the HA 3D matrix. A detailed protocol is herein provided for the detection of RNA within a microfluidic device by using the RNAscope™ technology.",
-      "journal": "Methods in molecular biology (Clifton, N.J.)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Regenerative Medicine Division, Institute for Translational Research (IRT), Ente Ospedaliero Cantonale (EOC)-Università della Svizzera Italiana (USI), Via Chiesa, 6500, Bellinzona, Switzerland. dalila.petta@eoc.ch.",
-        "Regenerative Medicine Division, Institute for Translational Research (IRT), Ente Ospedaliero Cantonale (EOC)-Università della Svizzera Italiana (USI), Via Chiesa, 6500, Bellinzona, Switzerland.",
-        "Department of Chemistry, Materials and Chemical Engineering \"G. Natta\", Politecnico di Milano, Via Mancinelli, Milan, 20131, Italy.",
-        "Faculty of Biomedical Sciences, Università della Svizzera italiana (USI), via Buffi, 6900, Lugano, Switzerland, Switzerland.",
-        "Cell and Tissue Engineering Laboratory, IRCCS Istituto Ortopedico Galeazzi, via Galeazzi, 20161, Milan, Italy."
-      ],
-      "doi": "10.1007/978-1-0716-5272-5_13",
-      "date": "2026-01-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42681466/"
-    },
-    {
-      "pmid": "42681465",
-      "title": "LNA-Probe-Based MicroRNA In Situ Hybridization in Brain Organoids.",
-      "abstract": "MicroRNAs (miRNAs) are short regulatory RNAs that take part in posttranscriptional regulation. Their mature and active form is limited to 18-24 nucleotides and therefore sets demands on probe design for specific detection by in situ hybridization (ISH) analysis. Locked nucleic acids (LNA) are synthetic RNA analogs that augment binding affinity when incorporated into antisense oligos. In this ISH protocol, we applied LNA-enhanced probes in an automated set-up using a Ventana Discovery Ultra instrument for detection of miRNAs in formalin-fixed and paraffin embedded (FFPE) iPSC-derived brain organoids. In brain, several miRNAs take part in neuronal differentiation from immature neuronal precursors to fully differentiated neurons. As a model to study miRNA expression in the developing brain, we prepared cortical brain organoids. The brain organoids comprise rosette structures at early development stages and thus show the different levels of differentiation from precursor neurons to mature neurons. miRNA examples include miR-9, miR-17, and miR-124, and it is discussed how to modify protocol settings for best output.",
-      "journal": "Methods in molecular biology (Clifton, N.J.)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department for Veterinary and Animal Science, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.",
-        "Bioneer A/S, Molecular Histology, Hørsholm, Denmark.",
-        "Bioneer A/S, Molecular Histology, Hørsholm, Denmark. bsn@bioneer.dk."
-      ],
-      "doi": "10.1007/978-1-0716-5272-5_12",
-      "date": "2026-01-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42681465/"
-    },
-    {
-      "pmid": "42681394",
-      "title": "Modeling Early Human Embryo Implantation Using Human Endometrial Organoids and Embryo Surrogate Co-cultures for microRNA Transfection.",
-      "abstract": "In vitro models of human implantation offer a powerful approach to studying the molecular and cellular events critical for a successful pregnancy. In this chapter, we describe a method that combines human endometrial epithelial organoids with human embryo surrogate co-cultures to model the early stages of implantation. Endometrial epithelial organoids, derived from primary tissue, are co-cultured with human cytotrophoblast progenitor cells to simulate the uterine microenvironment during implantation. This model enables a focused study of embryo adhesion and key signaling pathways, offering insights into the molecular mechanisms underlying implantation and reproductive disorders such as infertility.",
-      "journal": "Methods in molecular biology (Clifton, N.J.)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Obstetrics, Gynecology and Newborn Health, University of Melbourne, Parkville, VIC, 3010, Australia.",
-        "Gynaecology Research Centre, Royal Women's Hospital, Parkville, VIC, 3052, Australia.",
-        "Department of Obstetrics, Gynecology and Newborn Health, University of Melbourne, Parkville, VIC, 3010, Australia. evdokia.dimitriadis@unimelb.edu.au.",
-        "Gynaecology Research Centre, Royal Women's Hospital, Parkville, VIC, 3052, Australia. evdokia.dimitriadis@unimelb.edu.au."
-      ],
-      "doi": "10.1007/978-1-0716-5292-3_21",
-      "date": "2026-01-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42681394/"
-    },
-    {
-      "pmid": "42681299",
-      "title": "Network Analysis Pipeline for Neuronal 2D and 3D Organoid Multielectrode Recordings.",
-      "abstract": "Multielectrode recordings from 2D or 3D cultures are commonly used to assess neuronal activity including action potential firing and burst rates. Yet, multielectrode recordings, which carry parallel time series, can also be used to infer functional connectivity and to compare network features from neuronal networks within neuronal 2D cultures or 3D organoids. This chapter provides a protocol for using the microelectrode array network analysis pipeline (MEA-NAP). With MEA-NAP, users with limited computational experience can easily evaluate network activity in their microelectrode array (MEA) recordings. Users with more computational experience can customize this open-source tool. Analysis of the functional connectivity and network features in MEA-NAP can provide insight into the development of neural circuits and how disruption of neuronal function, for example, in neurologic and psychiatric disorders, alters network function.",
-      "journal": "Methods in molecular biology (Clifton, N.J.)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Sainsbury Wellcome Centre, University College London, London, UK.",
-        "Division of Cognitive and Behavioral Neurology, Brigham & Women's Hospital, Boston, MA, USA. smierau@bwh.harvard.edu."
-      ],
-      "doi": "10.1007/978-1-0716-5440-8_8",
-      "date": "2026-01-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42681299/"
     },
     {
       "pmid": "42667121",
@@ -367,6 +363,39 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42665456/"
     },
     {
+      "pmid": "42682629",
+      "title": "Exosomes as a biomarker in postoperative complications: a literature review.",
+      "abstract": "Surgery remains a common treatment, but it can lead to various potential complications. The incidence of complications after major surgery, in particular, is notably high. Postoperative complications contribute to increased patient morbidity and mortality. Timely and effective identification of these complications is essential for appropriate clinical management and improved patient outcomes. Exosomes are nano-sized membrane vesicles released by a variety of cell types, and play important roles in intercellular communications. Exosomal proteins and nucleic acids are involved in numerous physiological and pathological processes and are increasingly recognized as valuable biomarkers for disease diagnosis. Exosomes are present in all body fluids, which underlies their considerable potential as novel biomarkers in liquid biopsy. Previous research has reported that exosomes can serve as predictive biomarkers for several common postoperative complications, including neurocognitive disorders, allograft rejection, septic shock, atrial fibrillation, and sleep disturbance. These findings suggested that exosomes hold potential for application in the prevention and management of postoperative complications, representing an emerging direction in the investigation of postoperative biomarkers. Therefore, this review highlights the roles of exosomes in postoperative complications and discusses the challenges and opportunities of exosome-based diagnosis for these conditions.",
+      "journal": "Frontiers in cell and developmental biology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Anesthesiology, Dazhou Integrated TCM and Western Medicine Hospital, Dazhou Second People's Hospital, Dazhou, China.",
+        "Department of Rehabilitation Medicine, Clinical Medical College and The First Affiliated Hospital of Chengdu Medical College, Chengdu, Sichuan, China.",
+        "Department of Orthopedics, Dazhou Integrated TCM and Western Medicine Hospital, Dazhou Second People's Hospital, Dazhou, China."
+      ],
+      "doi": "10.3389/fcell.2026.1921951",
+      "date": "2026-08-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42682629/"
+    },
+    {
+      "pmid": "42682436",
+      "title": "NED-oriented oncology in metastatic breast cancer: a hypothesis-driven framework integrating the tumor immune microenvironment, antibody-drug conjugates, and metastasis-directed therapy.",
+      "abstract": "Metastatic breast cancer (MBC) has traditionally been managed as an incurable systemic disease in which the main goals are survival extension, symptom control, and preservation of quality of life. This principle remains appropriate for most patients. However, contemporary systemic therapies, high-resolution imaging, antibody-drug conjugates (ADCs), immune checkpoint inhibition, liquid biopsy, and metastasis-directed therapy (MDT) have made prolonged no evidence of disease (NED) clinically recognizable in selected patients. This Hypothesis and Theory article proposes NED-oriented oncology as a testable framework for carefully selected patients with MBC. The central premise is that complete response and NED should be separated conceptually: complete response is a radiological treatment-response category, whereas NED is a clinical state produced by the integration of systemic disease control, biological remodeling of the tumor immune microenvironment (TIME), and local eradication of all residual visible lesions. We propose a Clinical NED Score to structure candidate selection, a TIME-modifiability layer to estimate biological convertibility, and a five-step algorithm in which systemic therapy is used to generate deep response and immune-ecological remodeling before MDT is considered at maximal response. ADCs are discussed as potential tumor-ecosystem engineering tools because their effects may extend beyond direct cytotoxicity to bystander killing, immunogenic cell death, antigen release, and immune reconfiguration. This framework does not imply that MBC is broadly curable. Rather, it argues that durable NED is a clinically meaningful, prospectively testable state that should be distinguished from transient radiological response and evaluated using endpoints such as NED interval, polymetastatic progression-free survival, systemic therapy switch-free survival, ctDNA-negative duration, and quality-of-life preservation.",
+      "journal": "Frontiers in oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Breast Surgical Oncology, Osaka Metropolitan University Graduate School of Medicine, Osaka, Japan."
+      ],
+      "doi": "10.3389/fonc.2026.1895475",
+      "date": "2026-08-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42682436/"
+    },
+    {
       "pmid": "42682348",
       "title": "Diagnostic performance of artificial intelligence-based imaging and liquid biopsy combined with clinical evaluation for distinguishing benign and malignant pulmonary nodules: a diagnostic network meta-analysis.",
       "abstract": "The incidence of pulmonary nodules is rising. In the United States alone, approximately 1.57 million cases are detected annually via low-dose CT screening. This growing number has created an urgent need for accurately differentiating malignant lesions. The current standard methods rely on radiologist interpretation. However, these methods show variable accuracy, with a sensitivity range of 62%-79%. Invasive biopsies, which are often used for further diagnosis, carry complication risks ranging from 15% to 28%. Emerging technologies, such as artificial intelligence (AI) imaging analysis and liquid biopsy platforms, show promising capabilities in pulmonary nodule characterization. Nevertheless, there is a lack of a rigorous methodology for their comparative evaluation. We systematically evaluated 20 comparative studies that were published between 2015 and 2024. These studies assessed AI-based imaging methods, which included deep learning architectures and radiomics analysis, as well as liquid biopsy methods, such as ctDNA mutation profiling and methylation-based assays, for the characterization of pulmonary nodules. Bayesian hierarchical modeling was employed to account for the interdependencies among different tests. Evidence certainty was assessed via the GRADE framework. The CT-Deep approach, when integrated with clinical information, demonstrated the highest sensitivity, with a value of 97.1% and a 90.8%-99.6% credible interval. However, it showed relatively lower specificity, with a value of 67.4% and a 74.4%-92.9% credible interval. Stand-alone liquid biopsy exhibited more balanced operating characteristics, with a sensitivity of 63.1% and a specificity of 82.8%. The hybrid clinical-liquid biopsy strategy showed optimal performance in the summary receiver operating characteristic analysis, with an area under the curve of 0.903. Substantial heterogeneity was observed across studies, with an I2 > 50%. Additionally, there were wide confidence intervals for some diagnostic odds ratio estimates, which means that the comparative performance should be interpreted with caution. AI-enhanced imaging techniques are particularly valuable for high-sensitivity screening applications, where the risk of false negatives is the greatest. On the other hand, liquid biopsy approaches or their combination with clinical assessment may be more suitable for situations that require high specificity. The findings highlight the need for standardized validation protocols and prospective evaluation of combined modality strategies to address the current limitations in pulmonary nodule characterization.",
@@ -416,60 +445,20 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42681330/"
     },
     {
-      "pmid": "42681308",
-      "title": "Beyond Zolbetuximab: Next-Generation Targeting Strategies for CLDN18.2.",
-      "abstract": "Claudin 18 isoform 2 (CLDN18.2) has emerged as a clinically actionable target in gastric and gastroesophageal junction adenocarcinoma. Zolbetuximab plus chemotherapy established the first validated CLDN18.2-directed strategy, but also highlighted clinically important limitations: incomplete primary sensitivity, spatial and temporal heterogeneity of antigen expression, gastrointestinal toxicity, uncertain biomarker persistence after treatment, and the absence of an evidence-based sequence after progression. These limitations have accelerated development of antibody-drug conjugates (ADCs), chimeric antigen receptor (CAR) T-cell therapy, bispecific antibodies, T-cell engagers, and rational combinations with chemotherapy or immune checkpoint blockade. This review summarizes current evidence through July 2026, examines plausible mechanisms of resistance and biomarker evolution, and proposes a cautious, modality-specific framework for future clinical development. Updated clinical data support proof of concept across multiple modalities. IBI343, an exatecan-based ADC, has shown antitumor activity with predominantly hematologic toxicity; vedotin-based ADCs demonstrate a different linker-payload profile with additional concern for microtubule-related cumulative toxicity. Randomized phase II data with satricabtagene autoleucel have established progression-free survival benefit over treatment of physician's choice in previously treated disease, although lymphodepletion-related cytopenias and cytokine-release syndrome require specialized infrastructure. Early studies of givastomig and IBI389 further support immune-engaging approaches. Tissue immunohistochemistry remains the reference method for treatment selection; circulating tumor DNA cannot currently reproduce membranous protein intensity or spatial distribution, and liquid-biopsy approaches for CLDN18.2 reassessment remain investigational.",
-      "journal": "Journal of gastrointestinal cancer",
+      "pmid": "42682816",
+      "title": "Deep learning and generative AI for medical imaging and clinical decision support systems: a structured critical review.",
+      "abstract": "Deep learning (DL) and generative artificial intelligence (generative AI) are changing how medical data are analysed and used at the point of care. Our evidence base comprises 80 sources 37 screened studies and 43 landmark primary studies, architectural papers and clinical-AI reporting standards published between 2014 and 2026, across two related domains: medical image analysis and clinical decision support systems (CDSS). We trace the evolution from convolutional neural networks (CNNs) to U-Net and encoder-decoder networks, then to Vision Transformers (ViTs), generative adversarial networks (GANs), diffusion models, large language models (LLMs) and retrieval-augmented generation (RAG). Each model family is compared across nine dimensions: input modality, task, data requirements, validation level, interpretability, failure modes, clinical readiness, regulatory considerations and human-oversight need. Supervised DL reaches clinically useful performance across CT, MRI and pathology on well-scoped detection, segmentation and classification tasks, though results are task-, dataset- and site-dependent and prospective evidence is limited. To address data scarcity, generative models can produce synthetic images or cross-modality translations, but may amplify hidden dataset biases and generate anatomically incorrect images. LLM-based CDSS show promise for guideline-concordant reasoning and medication-safety checks, yet still face hallucination, calibration and regulatory uncertainty. For each technology we provide a deployment-readiness map, review the reporting standards needed for credible clinical evaluation (CONSORT-AI, SPIRIT-AI, TRIPOD + AI, CLAIM, DECIDE-AI, STARD-AI, PROBAST + AI, FUTURE-AI) and set out a research agenda centred on validation, governance and human-in-the-loop deployment. Unlike prior surveys, which treat imaging AI or clinical LLMs separately, we assess both, add an explicit evidence-quality appraisal and link each technology to the reporting standards. On current evidence, we argue that LLM-based CDSS are not supported for routine autonomous use and require clinician supervision. This is not a PRISMA-style systematic review but a structured critical narrative review built on a curated, transparently reported evidence base.",
+      "journal": "Frontiers in digital health",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Department of Gastroenterology, National Hospital Organization Hokkaido Cancer Center, 3-54 Kikusui 4-jo 2-chome, Shiroishi-ku, Sapporo, Hokkaido, 003-0804, Japan. stamotsu@jk9.so-net.ne.jp.",
-        "Department of Gastroenterology, National Hospital Organization Hokkaido Cancer Center, 3-54 Kikusui 4-jo 2-chome, Shiroishi-ku, Sapporo, Hokkaido, 003-0804, Japan."
+        "School of Computer Science and Engineering, Vellore Institute of Technology, Vellore, India."
       ],
-      "doi": "10.1007/s12029-026-01577-w",
-      "date": "2026-09-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42681308/"
-    },
-    {
-      "pmid": "42679926",
-      "title": "Novel insights into Retinoblastoma: From Oncogenic Circuitry to Precision Diagnosis and Eye-Preserving Therapies.",
-      "abstract": "Retinoblastoma (RB) represents the most common primary intraocular malignancy in childhood and stands as a paradigm for translating molecular oncology into precision clinical management. This review synthesizes the comprehensive evolution in the understanding and treatment of RB. First, we deconstruct the intricate oncogenic circuitry that extends far beyond Knudson's classic \"two-hit\" RB1 inactivation model, describing non-classical MYCN-driven pathogenesis, multi-layered epigenetic reprogramming (including chromatin, RNA and histone changes), and distinct histological subtypes with defined clinical correlates, such as the favorable-prognosis cavitary RB. Single-cell genomics has elucidated the cellular origin from cone precursor cells and intratumoral heterogeneity. Risk stratification has been refined through well-defined classification systems, from the therapy-guiding International Intraocular Retinoblastoma Classification (IIRC) to the comprehensive American Joint Committee on Cancer Tumor-Node-metastasis (AJCC TNM) staging.Furthermore, the diagnostic paradigm has advanced from conventional anatomical imaging to liquid biopsies, enabling non-invasive molecular staging and monitoring via tumor-derived cell-free DNA analysis. Concurrently, the therapeutic landscape has undergone a radical shift, moving from enucleation and external-beam radiotherapy to an era dominated by local sight-preserving strategies. We provide a critical synthesis of the evidence for intravenous chemotherapy and the transformative role of super-selective intra-arterial chemotherapy (IAC), and describe essential randomized controlled trials, technical innovations, and optimized drug regimens. Finally, we explore emerging targeted molecular therapies and future directions. By integrating cutting-edge molecular insights with robust, high-level clinical evidence, this review offers the framework for achieving patient and eye survival as well as vision preservation in children with Retinoblastoma.",
-      "journal": "Progress in retinal and eye research",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "State Key Laboratory of Eye Health, Department of Ophthalmology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China; Shanghai Key Laboratory of Orbital Diseases and Ocular Oncology, Shanghai, China.",
-        "Department of Ophthalmology, Leiden University Medical Center (LUMC), Leiden, The Netherlands.",
-        "State Key Laboratory of Eye Health, Department of Ophthalmology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China; Shanghai Key Laboratory of Orbital Diseases and Ocular Oncology, Shanghai, China. Electronic address: qingyang@sjtu.edu.cn.",
-        "State Key Laboratory of Eye Health, Department of Ophthalmology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China; Shanghai Key Laboratory of Orbital Diseases and Ocular Oncology, Shanghai, China. Electronic address: renbingjia@sjtu.edu.cn.",
-        "State Key Laboratory of Eye Health, Department of Ophthalmology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China; Shanghai Key Laboratory of Orbital Diseases and Ocular Oncology, Shanghai, China. Electronic address: chaipeiwei123@sjtu.edu.cn.",
-        "State Key Laboratory of Eye Health, Department of Ophthalmology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China; Shanghai Key Laboratory of Orbital Diseases and Ocular Oncology, Shanghai, China. Electronic address: fanxq@sjtu.edu.cn."
-      ],
-      "doi": "10.1016/j.preteyeres.2026.101514",
-      "date": "2026-09-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42679926/"
-    },
-    {
-      "pmid": "42679775",
-      "title": "Double-end blocker and split input mediated CRISPR-Cas12a system for modular single-base mutation detection with low abundance.",
-      "abstract": "Traditional CRISPR-Cas12a mutation detection systems are limited by poor single-base specificity, target-specific crRNA redesign, and insufficient sensitivity for low-abundance mutations, restricting their clinical liquid biopsy applications. Herein, we developed a crRNA-universal, sensitive and specific CRISPR-Cas12a detection platform, termed DESIC (double-end blocker and split-input mediated CRISPR-Cas12a system), for single-base mutation detection. The DESIC system adopts two key structural designs: double-end blocker (DEB) and duplicated split-input (SIN). The DEB spatially isolates crRNA recognition and target-binding regions, enabling universal detection of various mutation sites without crRNA redesign. The SIN strategy amplifies thermodynamic differences from single-base mismatches, greatly improving single-nucleotide discrimination. We targeted four prevalent pancreatic cancer KRAS mutations (G12D, G12R, G12V, Q61H) and optimized the system to achieve optimal discrimination. The optimized DESIC system exhibited ultra-low limits of detection down to 0.01% mutant allele fraction with reliable linear quantitative performance. Clinical validation using 15 pairs of pancreatic cancer tissue and peripheral blood samples confirmed that DESIC results were highly consistent with gold-standard NGS data. With a flexible modular design, this low-cost, easy-operated platform can be readily extended to multiple tumor mutations, holding great potential for tumor liquid biopsy and early molecular diagnosis.",
-      "journal": "Biosensors & bioelectronics",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China.",
-        "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China. Electronic address: 2013tj0574@hust.edu.cn.",
-        "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China. Electronic address: zfjch1977@163.com.",
-        "Division of Hepato-Pancreato-Biliary Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China. Electronic address: ryqin@tjh.tjmu.edu.cn."
-      ],
-      "doi": "10.1016/j.bios.2026.119176",
-      "date": "2026-08-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42679775/"
+      "doi": "10.3389/fdgth.2026.1890072",
+      "date": "2026-08-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42682816/"
     }
   ],
   "signals": [
@@ -560,66 +549,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42681308",
-      "date": "2026-09-01",
-      "title": "Beyond Zolbetuximab: Next-Generation Targeting Strategies for CLDN18.2.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Clinical Study",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42681308/",
-      "reliability": "High",
-      "evidenceLevel": "High",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of gastrointestinal cancer，PMID 为 42681308。",
-      "report": "Claudin 18 isoform 2 (CLDN18.2) has emerged as a clinically actionable target in gastric and gastroesophageal junction adenocarcinoma. Zolbetuximab plus chemotherapy established the first validated CLDN18.2-directed strategy, but also highlighted clinically im...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42679926",
-      "date": "2026-09-01",
-      "title": "Novel insights into Retinoblastoma: From Oncogenic Circuitry to Precision Diagnosis and Eye-Preserving Therapies.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Clinical Study",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42679926/",
-      "reliability": "High",
-      "evidenceLevel": "High",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Progress in retinal and eye research，PMID 为 42679926。",
-      "report": "Retinoblastoma (RB) represents the most common primary intraocular malignancy in childhood and stands as a paradigm for translating molecular oncology into precision clinical management. This review synthesizes the comprehensive evolution in the understanding...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42673661",
       "date": "2026-08-31",
       "title": "Design of programmable molecular interfaces for synthetic biology and therapeutic applications.",
@@ -655,38 +584,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42679775",
-      "date": "2026-08-31",
-      "title": "Double-end blocker and split input mediated CRISPR-Cas12a system for modular single-base mutation detection with low abundance.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42679775/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42679775。",
-      "report": "Traditional CRISPR-Cas12a mutation detection systems are limited by poor single-base specificity, target-specific crRNA redesign, and insufficient sensitivity for low-abundance mutations, restricting their clinical liquid biopsy applications. Herein, we develo...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42667121",
       "date": "2026-08-29",
       "title": "Predicting Single-Cell Perturbation Responses Across Biological Contexts With a Deep Generative Model Integrating Optimal Transport.",
@@ -718,6 +615,36 @@
       "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42667121。",
       "report": "Predicting how single cells respond to perturbations is a central problem in computational biology, with potential relevance to emerging artificial intelligence virtual cell (AIVC) research and drug-discovery efforts. However, substantial variation in perturba...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42683148",
+      "date": "2026-08-28",
+      "title": "Organ-on-a-Chip Technology: Advances in Modeling Inflammation, Neurovascularization and Nociception in Human Intervertebral Disc Degeneration.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42683148/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Smart medicine，PMID 为 42683148。",
+      "report": "An organ-on-a-chip platform has emerged as an advanced in vitro model that replicates organ-level structures within physiologically relevant human microenvironments. In this review, we focus on intervertebral disc (IVD) degeneration, a leading cause of chronic...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -876,16 +803,88 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42681655",
-      "date": "2026-08-19",
-      "title": "Human iPSC-derived bone marrow organoids with integrated hematopoietic and T cell-supportive niches.",
+      "id": "pubmed-42683414",
+      "date": "2026-08-18",
+      "title": "The neuro-immune-vascular landscape of lung cancer brain metastasis: insights from organoid models.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42681655/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42683414/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42683414。",
+      "report": "Lung cancer brain metastasis (LCBM) is a major cause of cancer-related mortality, driven by the restrictive blood-brain barrier (BBB), an immunosuppressive microenvironment, and dynamic metabolic reprogramming. Increasing evidence suggests that LCBM is governe...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42682878",
+      "date": "2026-08-18",
+      "title": "Emerging molecular mechanisms of the ECM-exosome growth-plate axis in idiopathic short stature.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42682878/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42682878。",
+      "report": "Idiopathic short stature (ISS) remains a clinically heterogeneous diagnosis in which impaired linear growth is often defined by exclusion rather than by mechanism. Increasing evidence suggests that ISS and related short-stature phenotypes may converge on overl...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42682687",
+      "date": "2026-08-18",
+      "title": "Advanced three-dimensional culture technologies in reproductive medicine: A narrative review.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42682687/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -898,9 +897,106 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cell research & therapy，PMID 为 42681655。",
-      "report": "The anatomical separation of bone marrow and thymus limits the efficient generation of human immune cells in vitro and constrains experimental platforms for modeling integrated hematopoiesis. We investigated whether a synthetic human bone marrow could be engin...",
+      "fact": "PubMed 记录显示该文献收录于 International journal of reproductive biomedicine，PMID 为 42682687。",
+      "report": "Recent advancements in 3-dimensional (3D) in vitro culture systems for follicles, oocytes, and embryos represent a paradigm shift in assisted reproductive technologies and reproductive biology. By mimicking the native physiological microenvironment more faithf...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42682629",
+      "date": "2026-08-18",
+      "title": "Exosomes as a biomarker in postoperative complications: a literature review.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42682629/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42682629。",
+      "report": "Surgery remains a common treatment, but it can lead to various potential complications. The incidence of complications after major surgery, in particular, is notably high. Postoperative complications contribute to increased patient morbidity and mortality. Tim...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42682436",
+      "date": "2026-08-18",
+      "title": "NED-oriented oncology in metastatic breast cancer: a hypothesis-driven framework integrating the tumor immune microenvironment, antibody-drug conjugates, and metastasis-directed therapy.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42682436/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42682436。",
+      "report": "Metastatic breast cancer (MBC) has traditionally been managed as an incurable systemic disease in which the main goals are survival extension, symptom control, and preservation of quality of life. This principle remains appropriate for most patients. However,...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42682816",
+      "date": "2026-08-18",
+      "title": "Deep learning and generative AI for medical imaging and clinical decision support systems: a structured critical review.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42682816/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Healthcare AI",
+        "Medical LLM",
+        "Drug Screening"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "临床",
+        "监管",
+        "医疗 AI",
+        "临床决策支持",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in digital health，PMID 为 42682816。",
+      "report": "Deep learning (DL) and generative artificial intelligence (generative AI) are changing how medical data are analysed and used at the point of care. Our evidence base comprises 80 sources 37 screened studies and 43 landmark primary studies, architectural papers...",
+      "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -998,6 +1094,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42683494",
+      "date": "2026-06-12",
+      "title": "Using Organoids to Unlock the Potential of Human Torpor for Spaceflight.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42683494/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Current stem cell reports，PMID 为 42683494。",
+      "report": "This paper reviews the current understanding of the potential for humans to enter a state of torpor/hibernation, and discusses the possibility of inducing torpor in astronauts for long-duration space travel, including some of the physiological, technological,...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42682348",
       "date": "2026-04-28",
       "title": "Diagnostic performance of artificial intelligence-based imaging and liquid biopsy combined with clinical evaluation for distinguishing benign and malignant pulmonary nodules: a diagnostic network meta-analysis.",
@@ -1025,124 +1151,6 @@
       "fact": "PubMed 记录显示该文献收录于 International journal of surgery (London, England)，PMID 为 42682348。",
       "report": "The incidence of pulmonary nodules is rising. In the United States alone, approximately 1.57 million cases are detected annually via low-dose CT screening. This growing number has created an urgent need for accurately differentiating malignant lesions. The cur...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42681466",
-      "date": "2026-01-01",
-      "title": "RNAscope™ In Situ Hybridization for the Detection of a Long Noncoding RNA in an Organ-on-a-Chip.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42681466/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Methods in molecular biology (Clifton, N.J.)，PMID 为 42681466。",
-      "report": "RNAscope™ is a highly sensitive technique for detecting RNA molecules within cells, offering superior specificity and signal amplification compared with traditional in situ hybridization methods. This technique enables the visualization of gene expression patt...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42681465",
-      "date": "2026-01-01",
-      "title": "LNA-Probe-Based MicroRNA In Situ Hybridization in Brain Organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42681465/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Methods in molecular biology (Clifton, N.J.)，PMID 为 42681465。",
-      "report": "MicroRNAs (miRNAs) are short regulatory RNAs that take part in posttranscriptional regulation. Their mature and active form is limited to 18-24 nucleotides and therefore sets demands on probe design for specific detection by in situ hybridization (ISH) analysi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42681394",
-      "date": "2026-01-01",
-      "title": "Modeling Early Human Embryo Implantation Using Human Endometrial Organoids and Embryo Surrogate Co-cultures for microRNA Transfection.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42681394/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Methods in molecular biology (Clifton, N.J.)，PMID 为 42681394。",
-      "report": "In vitro models of human implantation offer a powerful approach to studying the molecular and cellular events critical for a successful pregnancy. In this chapter, we describe a method that combines human endometrial epithelial organoids with human embryo surr...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42681299",
-      "date": "2026-01-01",
-      "title": "Network Analysis Pipeline for Neuronal 2D and 3D Organoid Multielectrode Recordings.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42681299/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Methods in molecular biology (Clifton, N.J.)，PMID 为 42681299。",
-      "report": "Multielectrode recordings from 2D or 3D cultures are commonly used to assess neuronal activity including action potential firing and burst rates. Yet, multielectrode recordings, which carry parallel time series, can also be used to infer functional connectivit...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

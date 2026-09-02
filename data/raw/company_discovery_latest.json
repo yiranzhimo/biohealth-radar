@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-09-02T11:25:07.800816+00:00",
+  "capturedAt": "2026-09-02T16:38:55.370356+00:00",
   "summary": {
-    "mentionCount": 665,
-    "candidateCount": 595,
+    "mentionCount": 667,
+    "candidateCount": 596,
     "corroboratedCount": 3,
     "identifiedCount": 586,
-    "needsReviewCount": 6,
+    "needsReviewCount": 7,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 2,
+      "ClinicalTrials": 4,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 59,
@@ -20,53 +20,110 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-664f47b5dd5708db",
-      "observedName": "Sarepta Therapeutics, Inc.",
-      "normalizedName": "sarepta therapeutics",
+      "id": "mention-clinicaltrials-0f72102e26065fd4",
+      "observedName": "Żelazna Medical Centre, LLC",
+      "normalizedName": "żelazna medical centre",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT00159250",
-      "sourceDate": "2019-12-05",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT00159250",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT05318989",
+      "sourceDate": "2023-07-12",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05318989",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Longevity",
+        "biomarker",
+        "临床试验",
+        "衰老"
+      ],
+      "activitySignals": [],
+      "contextTitle": "Genetic Aspects of Vaginal Aging"
+    },
+    {
+      "id": "mention-clinicaltrials-919ec221f9a7b44e",
+      "observedName": "Kanglin Biotechnology (Hangzhou) Co., Ltd.",
+      "normalizedName": "kanglin biotechnology hangzhou",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT06280378",
+      "sourceDate": "2025-03-10",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06280378",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "临床试验"
+        "Oncology",
+        "Precision Oncology",
+        "Recruiting",
+        "中国",
+        "临床试验",
+        "肿瘤"
       ],
       "activitySignals": [
+        "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Safety and Efficacy Study of Antisense Oligonucleotides in Duchenne Muscular Dystrophy"
+      "contextTitle": "Β-Thalassemia Treatment with KL003 Cell Injection"
     },
     {
-      "id": "mention-clinicaltrials-8d492670ce333e4c",
-      "observedName": "Peerbridge Health, Inc",
-      "normalizedName": "peerbridge health",
+      "id": "mention-clinicaltrials-b451dd53c36e426c",
+      "observedName": "AI Labs Group S.L",
+      "normalizedName": "ai labs group s l",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06699056",
-      "sourceDate": "2026-06-01",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06699056",
+      "sourceRecordId": "NCT07429123",
+      "sourceDate": "2026-02-24",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07429123",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
         "Healthcare AI",
         "Medical AI",
-        "Recruiting",
+        "Oncology",
+        "Precision Oncology",
         "临床决策支持",
         "临床试验",
-        "医疗 AI"
+        "医疗 AI",
+        "肿瘤"
       ],
       "activitySignals": [
-        "active_trial",
         "trial_intervention"
       ],
-      "contextTitle": "AI-Enabled Direct-from-ECG Ejection Fraction (EF) Severity Assessment Using COR ECG Wearable Monitor"
+      "contextTitle": "Using an Artificial Intelligence Medical Device to Help Primary Care Practitioners Identify and Manage Skin Conditions (Tumor, Inflammatory, and Infectious Diseases) in Adult Patients at Pozuelo and Majadahonda Health Centers"
+    },
+    {
+      "id": "mention-clinicaltrials-ff0508643a830314",
+      "observedName": "Precedo Pharmaceuticals Co. Ltd.",
+      "normalizedName": "precedo pharmaceuticals",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT06100003",
+      "sourceDate": "2024-02-07",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06100003",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Advanced Disease Models",
+        "Clinical Trials",
+        "Oncology",
+        "Organoids",
+        "Precision Oncology",
+        "中国",
+        "临床试验",
+        "疾病模型",
+        "类器官",
+        "肿瘤"
+      ],
+      "activitySignals": [],
+      "contextTitle": "A Clinical Study Aims to Assess the Consistency of Clinical Efficacy in Gastric Cancer Treatment and Drug Susceptibility Outcomes Using a Novel Drug Susceptibility Testing Method"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -44306,37 +44363,41 @@
       ]
     },
     {
-      "id": "candidate-peerbridge-health",
-      "name": "Peerbridge Health, Inc",
+      "id": "candidate-ai-labs-group-s-l",
+      "name": "AI Labs Group S.L",
       "aliases": [
-        "Peerbridge Health, Inc"
+        "AI Labs Group S.L"
       ],
-      "normalizedName": "peerbridge health",
+      "normalizedName": "ai labs group s l",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-06-01",
-      "lastSeenAt": "2026-06-01",
+      "firstSeenAt": "2026-02-24",
+      "lastSeenAt": "2026-02-24",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
           "Healthcare AI",
           "Medical AI",
-          "Recruiting",
+          "Oncology",
+          "Precision Oncology",
           "临床决策支持",
           "临床试验",
-          "医疗 AI"
+          "医疗 AI",
+          "肿瘤"
         ],
         "themes": [
           "Clinical Trials",
           "Healthcare AI",
           "Medical AI",
-          "Recruiting",
+          "Oncology",
+          "Precision Oncology",
           "临床决策支持",
           "临床试验",
-          "医疗 AI"
+          "医疗 AI",
+          "肿瘤"
         ],
         "tags": []
       },
@@ -44349,17 +44410,75 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-8d492670ce333e4c"
+        "mention-clinicaltrials-b451dd53c36e426c"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2026-06-01",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06699056",
-          "externalId": "NCT06699056",
-          "contextTitle": "AI-Enabled Direct-from-ECG Ejection Fraction (EF) Severity Assessment Using COR ECG Wearable Monitor"
+          "sourceDate": "2026-02-24",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07429123",
+          "externalId": "NCT07429123",
+          "contextTitle": "Using an Artificial Intelligence Medical Device to Help Primary Care Practitioners Identify and Manage Skin Conditions (Tumor, Inflammatory, and Infectious Diseases) in Adult Patients at Pozuelo and Majadahonda Health Centers"
+        }
+      ]
+    },
+    {
+      "id": "candidate-kanglin-biotechnology-hangzhou",
+      "name": "Kanglin Biotechnology (Hangzhou) Co., Ltd.",
+      "aliases": [
+        "Kanglin Biotechnology (Hangzhou) Co., Ltd."
+      ],
+      "normalizedName": "kanglin biotechnology hangzhou",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.86,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2025-03-10",
+      "lastSeenAt": "2025-03-10",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
+          "中国",
+          "临床试验",
+          "肿瘤"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
+          "中国",
+          "临床试验",
+          "肿瘤"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-919ec221f9a7b44e"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "lead_sponsor",
+          "sourceDate": "2025-03-10",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06280378",
+          "externalId": "NCT06280378",
+          "contextTitle": "Β-Thalassemia Treatment with KL003 Cell Injection"
         }
       ]
     },
@@ -47225,6 +47344,62 @@
       ]
     },
     {
+      "id": "candidate-elazna-medical-centre",
+      "name": "Żelazna Medical Centre, LLC",
+      "aliases": [
+        "Żelazna Medical Centre, LLC"
+      ],
+      "normalizedName": "żelazna medical centre",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.78,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2023-07-12",
+      "lastSeenAt": "2023-07-12",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Longevity",
+          "biomarker",
+          "临床试验",
+          "衰老"
+        ],
+        "themes": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Longevity",
+          "biomarker",
+          "临床试验",
+          "衰老"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-0f72102e26065fd4"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "lead_sponsor",
+          "sourceDate": "2023-07-12",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT05318989",
+          "externalId": "NCT05318989",
+          "contextTitle": "Genetic Aspects of Vaginal Aging"
+        }
+      ]
+    },
+    {
       "id": "candidate-gordon-research-conferences",
       "name": "Gordon Research Conferences",
       "aliases": [
@@ -47489,54 +47664,6 @@
           "sourceUrl": "https://reporter.nih.gov/project-details/11316567",
           "externalId": "11316567",
           "contextTitle": "Integrated High-Throughput Microfluidic-Mass Spectrometry for Enhanced Biomedical Data Generation and AI Model Training"
-        }
-      ]
-    },
-    {
-      "id": "candidate-sarepta-therapeutics",
-      "name": "Sarepta Therapeutics, Inc.",
-      "aliases": [
-        "Sarepta Therapeutics, Inc."
-      ],
-      "normalizedName": "sarepta therapeutics",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.66,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2019-12-05",
-      "lastSeenAt": "2019-12-05",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "临床试验"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "临床试验"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-664f47b5dd5708db"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "collaborator",
-          "sourceDate": "2019-12-05",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT00159250",
-          "externalId": "NCT00159250",
-          "contextTitle": "Safety and Efficacy Study of Antisense Oligonucleotides in Duchenne Muscular Dystrophy"
         }
       ]
     }
