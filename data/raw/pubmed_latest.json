@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-02T21:06:38.486627+00:00",
+  "capturedAt": "2026-09-03T04:38:19.092674+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,8 +10,8 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-09-02",
-    "end": "2026-09-02"
+    "start": "2025-09-03",
+    "end": "2026-09-03"
   },
   "pmids": [
     "42683494",
@@ -37,7 +37,7 @@
     "42682348",
     "42681848",
     "42681330",
-    "42682816"
+    "42683894"
   ],
   "records": [
     {
@@ -445,23 +445,69 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42681330/"
     },
     {
-      "pmid": "42682816",
-      "title": "Deep learning and generative AI for medical imaging and clinical decision support systems: a structured critical review.",
-      "abstract": "Deep learning (DL) and generative artificial intelligence (generative AI) are changing how medical data are analysed and used at the point of care. Our evidence base comprises 80 sources 37 screened studies and 43 landmark primary studies, architectural papers and clinical-AI reporting standards published between 2014 and 2026, across two related domains: medical image analysis and clinical decision support systems (CDSS). We trace the evolution from convolutional neural networks (CNNs) to U-Net and encoder-decoder networks, then to Vision Transformers (ViTs), generative adversarial networks (GANs), diffusion models, large language models (LLMs) and retrieval-augmented generation (RAG). Each model family is compared across nine dimensions: input modality, task, data requirements, validation level, interpretability, failure modes, clinical readiness, regulatory considerations and human-oversight need. Supervised DL reaches clinically useful performance across CT, MRI and pathology on well-scoped detection, segmentation and classification tasks, though results are task-, dataset- and site-dependent and prospective evidence is limited. To address data scarcity, generative models can produce synthetic images or cross-modality translations, but may amplify hidden dataset biases and generate anatomically incorrect images. LLM-based CDSS show promise for guideline-concordant reasoning and medication-safety checks, yet still face hallucination, calibration and regulatory uncertainty. For each technology we provide a deployment-readiness map, review the reporting standards needed for credible clinical evaluation (CONSORT-AI, SPIRIT-AI, TRIPOD + AI, CLAIM, DECIDE-AI, STARD-AI, PROBAST + AI, FUTURE-AI) and set out a research agenda centred on validation, governance and human-in-the-loop deployment. Unlike prior surveys, which treat imaging AI or clinical LLMs separately, we assess both, add an explicit evidence-quality appraisal and link each technology to the reporting standards. On current evidence, we argue that LLM-based CDSS are not supported for routine autonomous use and require clinician supervision. This is not a PRISMA-style systematic review but a structured critical narrative review built on a curated, transparently reported evidence base.",
-      "journal": "Frontiers in digital health",
+      "pmid": "42683894",
+      "title": "Toward harmonized reporting of Alzheimer's disease biomarkers in clinical practice.",
+      "abstract": "Cerebrospinal fluid biomarkers, and more recently blood-based biomarkers, are playing a pivotal role in reshaping the clinical management of neurodegenerative diseases, supporting early detection, biological diagnosis, patient stratification, prognostic assessment, therapeutic decision-making, and longitudinal disease monitoring. To effectively support clinical decision-making, biomarker measurements must be communicated in a standardized, transparent, and clinically interpretable manner. Despite international quality standards, considerable heterogeneity persists in reporting practices, including differences in terminology, units of measurement, analytical descriptions, reference frameworks, and interpretative comments, limiting comparability across laboratories and potentially affecting clinical decision-making. In this article, we discuss the principles of harmonized reporting for Alzheimer's disease biomarkers and propose a structured framework for standardized clinical neurochemistry reports. We describe the essential components of a harmonized report, including report identification, analytical information, specification of analytical method and platform, standardized units of measurement, appropriate use of reference intervals and clinical decision thresholds, documentation of pre-analytical and quality-related factors, and evidence-based interpretative comments. We further discuss the importance of structured multimarker interpretation and the need to contextualize biomarker findings within the clinical scenario. Finally, we examine the role of harmonized reporting in promoting interoperability across healthcare systems, facilitating longitudinal patient monitoring, supporting electronic health records and standardized terminologies, and enabling artificial intelligence-driven clinical decision support. As neurodegenerative disease diagnostics continue to evolve and novel biomarkers and technologies emerge, harmonized reporting should be regarded as a critical component of laboratory quality, ensuring that analytical advances translate into consistent, clinically meaningful, and interoperable information that ultimately improves patient care.",
+      "journal": "Clinical chemistry and laboratory medicine",
       "publicationTypes": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ],
       "affiliations": [
-        "School of Computer Science and Engineering, Vellore Institute of Technology, Vellore, India."
+        "Department of Biomedicine, Neurosciences, and Advanced Diagnostics, Institute of Clinical Biochemistry, Clinical Molecular Medicine, and Clinical Laboratory Medicine, University of Palermo, Palermo, Italy.",
+        "Department of Laboratory Medicine, University Hospital \"Paolo Giaccone\", Palermo, Italy.",
+        "Neurology Unit, Department of Clinical and Experimental Sciences, University of Brescia, Brescia, Italy.",
+        "Laboratory of Digital Neurology and Biosensors, University of Brescia, Brescia, Italy.",
+        "Neurology Unit, Department of Continuity of Care and Frailty, ASST Spedali Civili Brescia Hospital, Brescia, Italy.",
+        "Section of Neurology, Department of Medicine and Surgery, University of Perugia, Perugia, Italy.",
+        "Department of Life Science, Health, and Health Professions, Link Campus University, Rome, Italy.",
+        "Department of Biomedical, Experimental, and Clinical Sciences \"Mario Serio\", University of Florence, Florence, Italy.",
+        "Nuclear Medicine Unit, Azienda Ospedaliero-Universitaria Careggi, Florence, Italy.",
+        "Rita Levi Montalcini Department of Neuroscience, University of Torino, Turin, Italy.",
+        "Department of Neuroscience (DNS) and Padua Neuroscience Centre (PNC), University of Padova, Padua, Italy.",
+        "Neurology Clinic, Department of Biomedicine, Neuroscience, and Advanced Diagnostic (BIND), University of Palermo, Palermo, Italy.",
+        "Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, Maternal and Child Health (DINOGMI), University of Genoa, Genoa, Italy; IRCCS Ospedale Policlinico San Martino, Genoa, Italy.",
+        "Department of Medical Biotechnology and Translational Medicine, University of Milan, Milan, Italy.",
+        "Unit of Laboratory Medicine, Laboratory of Clinical Pathology, Fondazione IRCCS Istituto Neurologico Carlo Besta, Milan, Italy.",
+        "Department of Medicine-DIMED, University of Padua, Padua, Italy.",
+        "Laboratory Medicine, University-Hospital of Padua, Padua, Italy.",
+        "Department of Clinical and Behavioural Neurology, IRCCS Santa Lucia Foundation, Rome, Italy.",
+        "Neurology and Neurophysiology Section, Department Clinical and Experimental Sciences, University of Brescia, Brescia, Italy.",
+        "Hospital Department of Continuità di Cura e Fragilità, ASST Spedali Civili di Brescia, Brescia, Italy."
       ],
-      "doi": "10.3389/fdgth.2026.1890072",
-      "date": "2026-08-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42682816/"
+      "doi": "10.1515/cclm-2026-1113",
+      "date": "2026-09-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42683894/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42683894",
+      "date": "2026-09-03",
+      "title": "Toward harmonized reporting of Alzheimer's disease biomarkers in clinical practice.",
+      "entity": "Healthcare AI Research",
+      "primaryCategory": "Healthcare AI",
+      "subCategory": "Medical AI",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42683894/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Healthcare AI",
+        "Medical LLM"
+      ],
+      "tags": [
+        "医疗 AI",
+        "临床决策支持"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Clinical chemistry and laboratory medicine，PMID 为 42683894。",
+      "report": "Cerebrospinal fluid biomarkers, and more recently blood-based biomarkers, are playing a pivotal role in reshaping the clinical management of neurodegenerative diseases, supporting early detection, biological diagnosis, patient stratification, prognostic assess...",
+      "inference": "自动分类命中规则：Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42681755",
       "date": "2026-09-01",
@@ -958,45 +1004,6 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42682436。",
       "report": "Metastatic breast cancer (MBC) has traditionally been managed as an incurable systemic disease in which the main goals are survival extension, symptom control, and preservation of quality of life. This principle remains appropriate for most patients. However,...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42682816",
-      "date": "2026-08-18",
-      "title": "Deep learning and generative AI for medical imaging and clinical decision support systems: a structured critical review.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42682816/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Healthcare AI",
-        "Medical LLM",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "临床",
-        "监管",
-        "医疗 AI",
-        "临床决策支持",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in digital health，PMID 为 42682816。",
-      "report": "Deep learning (DL) and generative artificial intelligence (generative AI) are changing how medical data are analysed and used at the point of care. Our evidence base comprises 80 sources 37 screened studies and 43 landmark primary studies, architectural papers...",
-      "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

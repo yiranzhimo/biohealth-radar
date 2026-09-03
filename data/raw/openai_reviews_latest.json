@@ -1,8 +1,49 @@
 {
-  "capturedAt": "2026-09-02T21:06:45.964246+00:00",
+  "capturedAt": "2026-09-03T04:38:29.245306+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
-  "reviews": []
+  "reviews": [
+    {
+      "signalId": "pubmed-42683894",
+      "responseId": "resp_0c6f854289ed53ca006a98f9c6457087d0a2ede70806340ce0",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号提供的信息中包含未明确支持的临床结论和推断，需要人工审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类不够明确，需审查以确保与研究内容一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "报告中所涉及的生物标志物的应用和影响需要更具体的证据支持。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Healthcare AI",
+          "subCategory": "Medical AI",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Healthcare AI",
+            "Medical LLM"
+          ],
+          "tags": [
+            "医疗 AI",
+            "临床决策支持"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Clinical chemistry and laboratory medicine，PMID 为 42683894。",
+          "report": "Cerebrospinal fluid biomarkers, and more recently blood-based biomarkers, are playing a pivotal role in reshaping the clinical management of neurodegenerative diseases, supporting early detection, biological diagnosis, patient stratification, prognostic assessment...",
+          "inference": "自动分类命中规则：Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    }
+  ]
 }

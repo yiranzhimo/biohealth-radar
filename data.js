@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-09-02",
+  "updatedAt": "2026-09-03",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -820,6 +820,76 @@ window.BHR_DATA = {
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42683894",
+      "date": "2026-09-03",
+      "title": "Toward harmonized reporting of Alzheimer's disease biomarkers in clinical practice.",
+      "entity": "Healthcare AI Research",
+      "primaryCategory": "Healthcare AI",
+      "subCategory": "Medical AI",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42683894/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Healthcare AI",
+        "Medical LLM"
+      ],
+      "tags": [
+        "医疗 AI",
+        "临床决策支持"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Clinical chemistry and laboratory medicine，PMID 为 42683894。",
+      "report": "Cerebrospinal fluid biomarkers, and more recently blood-based biomarkers, are playing a pivotal role in reshaping the clinical management of neurodegenerative diseases, supporting early detection, biological diagnosis, patient stratification, prognostic assess...",
+      "inference": "自动分类命中规则：Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0c6f854289ed53ca006a98f9c6457087d0a2ede70806340ce0",
+        "reviewedAt": "2026-09-03T04:38:29.245306+00:00",
+        "inputHash": "0d705d7c93ec0134778b6a5b4fb7061ebbc0a0cde006588030c6443bd4114661",
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号提供的信息中包含未明确支持的临床结论和推断，需要人工审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类不够明确，需审查以确保与研究内容一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "报告中所涉及的生物标志物的应用和影响需要更具体的证据支持。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Healthcare AI",
+          "subCategory": "Medical AI",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Healthcare AI",
+            "Medical LLM"
+          ],
+          "tags": [
+            "医疗 AI",
+            "临床决策支持"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Clinical chemistry and laboratory medicine，PMID 为 42683894。",
+          "report": "Cerebrospinal fluid biomarkers, and more recently blood-based biomarkers, are playing a pivotal role in reshaping the clinical management of neurodegenerative diseases, supporting early detection, biological diagnosis, patient stratification, prognostic assessment...",
+          "inference": "自动分类命中规则：Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
     {
       "id": "pubmed-42681755",
       "date": "2026-09-01",
@@ -2173,98 +2243,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42682436。",
           "report": "Metastatic breast cancer (MBC) has traditionally been managed as an incurable systemic disease in which the main goals are survival extension, symptom control, and preservation of quality of life. This principle remains appropriate for most patients. However,…",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42682816",
-      "date": "2026-08-18",
-      "title": "Deep learning and generative AI for medical imaging and clinical decision support systems: a structured critical review.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42682816/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Healthcare AI",
-        "Medical LLM",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "临床",
-        "监管",
-        "医疗 AI",
-        "临床决策支持",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in digital health，PMID 为 42682816。",
-      "report": "Deep learning (DL) and generative artificial intelligence (generative AI) are changing how medical data are analysed and used at the point of care. Our evidence base comprises 80 sources 37 screened studies and 43 landmark primary studies, architectural papers...",
-      "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0ee9e5373d1e0dda006a985145dd5087d196e0e12b498ecdcb",
-        "reviewedAt": "2026-09-02T16:39:01.838136+00:00",
-        "inputHash": "a091541888f0b61b0c00fcffd56548b35a3449c0e9bb4237c19011d17afb487a",
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息源可靠，内容中立，未存在临床建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，与文献主题一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "报告和推论清晰分离，证据水平适中。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "AI for Biology",
-            "Drug Discovery",
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Healthcare AI",
-            "Medical LLM",
-            "Drug Screening"
-          ],
-          "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成",
-            "临床",
-            "监管",
-            "医疗 AI",
-            "临床决策支持",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in digital health，PMID 为 42682816。",
-          "report": "Deep learning (DL) and generative artificial intelligence (generative AI) are changing how medical data are analysed and used at the point of care. Our evidence base comprises 80 sources 37 screened studies and 43 landmark primary studies, architectural papers...",
-          "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
