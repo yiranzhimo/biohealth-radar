@@ -3525,15 +3525,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-akeso-official-5f6e3e585856",
+      "id": "evidence-company-akeso-official-b6b4a503a2c5",
       "signalId": null,
       "companyIds": [
         "akeso"
       ],
-      "publishedAt": "2026-08-28",
-      "snapshotDate": "2026-08-28",
+      "publishedAt": "2026-09-03",
+      "snapshotDate": "2026-09-03",
       "title": "Akeso, Inc | Home",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Akeso — Official Website",
@@ -3549,7 +3549,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 5f6e3e5858569a6114f0dd9240f5af914832b0a5e832ff941eef59e7943fab5a.",
+      "fact": "The official page was captured with normalized-content hash b6b4a503a2c57f071c616bc1c5e58e3847e2885f1c6694a883fa6c89ab4e8c31.",
       "report": "公司官方页面表述：Akeso 2026年中期业绩：强劲的商业化势头；IO2.0+全球战略重新定义临床标准；在ADC、免疫与炎症（I&I）及阿尔茨海默病方面的双特异性进展。",
       "reportOriginal": "Akeso 2026 Interim Results: Strong Commercialization Momentum; IO2.0+ Global Strategy Redefining Clinical Standards; Bispecific Advancement in ADC, I&I and Alzheimer's",
       "reportCn": "Akeso 2026年中期业绩：强劲的商业化势头；IO2.0+全球战略重新定义临床标准；在ADC、免疫与炎症（I&I）及阿尔茨海默病方面的双特异性进展。",
@@ -3562,14 +3562,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "5f6e3e5858569a6114f0dd9240f5af914832b0a5e832ff941eef59e7943fab5a",
-      "changeType": "unchanged",
+      "contentHash": "b6b4a503a2c57f071c616bc1c5e58e3847e2885f1c6694a883fa6c89ab4e8c31",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Akeso 2026 Interim Results: Strong Commercialization Momentum; IO2.0+ Global Strategy Redefining Clinical Standards; Bispecific Advancement in ADC, I&I and Alzheimer's",
         "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
         "HK) is a biopharmaceutical company founded by a team of scientists with rich experience in global drug development and focuses on the unmet clinical needs worldwide in major diseases.",
-        "Akeso's AK157D1 (B7-H3 ADC) Cleared for Phase I Trial in Solid Tumors, Adding a Third Differentiated ADC to Its Pipeline"
+        "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform)."
       ],
       "businessExcerpts": [
         "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
@@ -3579,8 +3579,8 @@
       "productExcerpts": [
         "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
         "HK) is a biopharmaceutical company founded by a team of scientists with rich experience in global drug development and focuses on the unmet clinical needs worldwide in major diseases.",
-        "Akeso's AK157D1 (B7-H3 ADC) Cleared for Phase I Trial in Solid Tumors, Adding a Third Differentiated ADC to Its Pipeline",
-        "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform)."
+        "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform).",
+        "Through efficient and breakthrough R&D innovation, Akeso always integrates superior global resources, develops the first-in-class and best-in-class new drugs, provides affordable therapeutic antibodies for patients worldwide, and continuously creates more commercial and social…"
       ],
       "planExcerpts": []
     },
@@ -4062,7 +4062,7 @@
       "publishedAt": "2026-09-02",
       "snapshotDate": "2026-09-02",
       "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Arvinas — Official Website",
@@ -4092,7 +4092,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "2dd3803f1c4bfa751a013f6f359e81d085083656f64d7455f35681de283e6ec2",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
@@ -4456,7 +4456,7 @@
       "publishedAt": "2026-09-02",
       "snapshotDate": "2026-09-02",
       "title": "Transforming Cancer Care Through Science and Speed | BeOne Medicines",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "BeOne Medicines — Official Website",
@@ -4486,7 +4486,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "7b97d50e4ea5e06ba97f5087bf36328895d1d792d7e81d4e21187a7f74ffdf6f",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "BeOne Medicines and Revolution Medicines Announce Clinical Development and Regional Commercialization Collaboration",
@@ -38956,7 +38956,7 @@
       "publishedAt": "2026-09-02",
       "snapshotDate": "2026-09-02",
       "title": "Patient-derived organoids CRO | Drug discovery | Organoid development services - HUB Organoids",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "HUB Organoids — Official Website",
@@ -38986,7 +38986,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "1eeafe45faa06424a0dbe5eb645967342a08cabbd9c4bf2f22e22a3a582b6ab9",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Unless otherwise stated in our catalog or other company documentation accompanying the product(s), our products are intended for research use only and are not to be used for any other purpose, which includes but is not limited to, unauthorized commercial uses, in vitro…",
@@ -39014,7 +39014,7 @@
       "publishedAt": "2026-09-02",
       "snapshotDate": "2026-09-02",
       "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Illumina — Official Website",
@@ -39044,7 +39044,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "92c5feeb0e7952e7cfcd01448920a2bbc32449029b08d883a3feacd82a813dde",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
@@ -39585,7 +39585,7 @@
       "publishedAt": "2026-09-02",
       "snapshotDate": "2026-09-02",
       "title": "HOME - Legend Biotech",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Legend Biotech — Official Website",
@@ -39615,7 +39615,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "e7b53175735563b322fced2e4368b225992143588b72a9c5b281a2d2670cfbf7",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
@@ -40026,7 +40026,7 @@
       "publishedAt": "2026-09-02",
       "snapshotDate": "2026-09-02",
       "title": "Natera: A global leader in cell-free DNA testing",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Natera — Official Website",
@@ -40056,7 +40056,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "4269dd66f7b7915b59ab89b9c78925b453a63f5f569e5c3ed222f0816455aaf0",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "New Publication Establishes Strong Clinical Validation of Signatera™ for MRD Assessment in Lymphoma",
@@ -40136,7 +40136,7 @@
       "publishedAt": "2026-09-02",
       "snapshotDate": "2026-09-02",
       "title": "Nurix | Medicines to Outmatch Disease",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Nurix Therapeutics — Official Website",
@@ -40166,7 +40166,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "98d74e163d881debbf2d2fb4d341bfa07f5a0cce3204ff4c2786d27e8776f56e",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
@@ -40416,15 +40416,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+      "id": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
       "signalId": null,
       "companyIds": [
         "oxford-nanopore"
       ],
-      "publishedAt": "2026-08-31",
-      "snapshotDate": "2026-08-31",
+      "publishedAt": "2026-09-03",
+      "snapshotDate": "2026-09-03",
       "title": "Welcome to Oxford Nanopore Technologies",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Oxford Nanopore Technologies — Official Website",
@@ -40440,7 +40440,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash b5a006d4fd7e86315fa9f0f9ab18724b0d37d937b55c6f15a16569677978dc9e.",
+      "fact": "The official page was captured with normalized-content hash ae4e03d0fba07710844aa320dbca27149745e368be42c17c07d1fa90a363a51c.",
       "report": "公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
       "reportOriginal": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
       "reportCn": "发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
@@ -40453,14 +40453,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "b5a006d4fd7e86315fa9f0f9ab18724b0d37d937b55c6f15a16569677978dc9e",
-      "changeType": "unchanged",
+      "contentHash": "ae4e03d0fba07710844aa320dbca27149745e368be42c17c07d1fa90a363a51c",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
         "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-        "Search Oxford Nanopore Technologies Which site do you wish to search in?",
-        "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology"
+        "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
+        "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling."
       ],
       "businessExcerpts": [],
       "productExcerpts": [
@@ -40861,7 +40861,7 @@
       "publishedAt": "2026-09-02",
       "snapshotDate": "2026-09-02",
       "title": "Sumitomo Pharma Co., Ltd.",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Sumitomo Pharma — Official Website",
@@ -40891,7 +40891,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "b7507b87f26a7e2a34e219574289b793fe8ad47e0d774ec5caea5c3799f913fd",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
