@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-03T11:21:18.672664+00:00",
+  "capturedAt": "2026-09-03T16:30:05.759358+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-09-03"
   },
   "pmids": [
-    "42687517",
-    "42687243",
-    "42687164",
-    "42687118",
-    "42687014",
-    "42686982",
+    "42689334",
+    "42689286",
+    "42688965",
+    "42688653",
+    "42688369",
+    "42688076",
     "42667121",
     "42656114",
     "42653123",
@@ -32,130 +32,120 @@
     "42679818",
     "42679202",
     "42673661",
+    "42688475",
+    "42688382",
     "42687443",
     "42687281",
     "42686803",
-    "42686225",
-    "42685840",
-    "42685611"
+    "42686225"
   ],
   "records": [
     {
-      "pmid": "42687517",
-      "title": "The expression of stemness markers in organoids according to histological subtypes of gastric cancer.",
-      "abstract": "Gastric cancer is a heterogeneous disease in which cancer stem cell-associated properties may contribute to tumor heterogeneity and progression. This study aimed to establish paired normal and tumor gastric organoids, characterize stemness-related gene expression, and explore its association with organoid formation. Normal and tumor tissues were obtained from 12 patients with advanced gastric cancer. A total of 28 independent organoid cultures were established from 24 tissue specimens (12 normal and 12 tumor), with selected serial strip specimens divided into segments and cultured independently. Expression of stemness-associated markers (AQP5, CD44, ALDH1A, STMN1, and SOX2) was evaluated by quantitative real-time polymerase chain reaction and compared according to tissue origin, histological subtype, and organoid formation status. Normal organoids tended to exhibit higher CD44 expression, whereas tumor-derived organoids showed relatively higher ALDH1A expression, although these differences were not statistically significant. Margin-derived normal organoids tended to show higher expression of multiple stemness-associated markers than those derived from tissue adjacent to tumors. Diffuse-type organoids tended to show higher CD44 expression, whereas AQP5, ALDH1A, STMN1, and SOX2 tended to be higher in intestinal-type organoids. Organoid-forming cultures consistently showed higher stemness-marker expression than non-forming cultures, particularly among tumor-derived organoids. Stemness-associated gene expression varied according to tissue origin, histological subtype, and organoid formation status. Higher stemness-marker expression in organoid-forming cultures suggests a potential association between stemness-related programs and organoid-forming capacity.",
-      "journal": "Korean journal of clinical oncology",
+      "pmid": "42689334",
+      "title": "3-Dimensional Human iPSC-Derived Cardiac Organoids for Antifibrotic Drug Screening.",
+      "abstract": "",
+      "journal": "Circulation research",
       "publicationTypes": [
-        "Journal Article"
+        "Letter"
       ],
       "affiliations": [
-        "Cancer Research Institute, Seoul National University, Seoul, Korea.",
-        "Department of Surgery, Seoul National University Hospital, Seoul, Korea.",
-        "Department of Surgery, Seoul National University College of Medicine, Seoul, Korea.",
-        "Department of Surgery, Seoul National University Bundang Hospital, Seongnam, Korea.",
-        "National Cancer Center, Goyang, Korea.",
-        "Cancer Research Institute, Seoul National University, Seoul, Korea. djparkmd@snu.ac.kr.",
-        "Department of Surgery, Seoul National University Hospital, Seoul, Korea. djparkmd@snu.ac.kr.",
-        "Department of Surgery, Seoul National University College of Medicine, Seoul, Korea. djparkmd@snu.ac.kr.",
-        "Department of Surgery, Seoul National University Bundang Hospital, Seongnam, Korea. djparkmd@snu.ac.kr."
+        "Stanford Cardiovascular Institute (H.Z., R.H., L.R., W.Z., Y.D., W.L., M.X., X.L., R.T., X.Y., X.C., X.W., J.C.W.).",
+        "Department of Physiology, David Geffen School of Medicine at UCLA, Los Angeles, CA (H.Z., P.N.T.).",
+        "Aerys Biosciences, Palo Alto, CA (R.V.S.).",
+        "Greenstone Biosciences, Palo Alto, CA (R.V.S., M.A.W.).",
+        "Sarafan ChEM-H Nucleus, High-Throughput Screening and Innovative Medicines Accelerator (IMA; C.C., D.S.-C.), Stanford University School of Medicine, CA."
       ],
-      "doi": "10.14216/kjco.26404",
-      "date": "2026-08-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42687517/"
+      "doi": "10.1161/CIRCRESAHA.126.328797",
+      "date": "2026-09-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42689334/"
     },
     {
-      "pmid": "42687243",
-      "title": "Detection of Time-Dependent Uptake of Microplastics by Joint Utilization of Hepatic Organoids and a 3D-Printed Carrier.",
-      "abstract": "Microplastics (MPs, <5 mm) are pervasive in foods, the environment, and humans, posing emerging health risks. Traditional two-dimensional (2D) cell models inadequately replicate micron-scale MP uptake, whereas three-dimensional (3D) organoids better mimic tissue complexity. Here, we developed a hepatic organoids (HOs)-in-cage system using human pluripotent stem cell-derived HOs and a 3D-printed porous poly(ε-caprolactone) carrier for efficient organoid retrieval. We established a label-free Nile Red (NR)-based spatiotemporal imaging and flow cytometric quantification pipeline to investigate the uptake dynamics and hepatotoxicity of UV-aged, size-mixed polypropylene (PP, 1 to 20 μm), as well as to colocalize the MP and potential biomarkers within HOs. Contrary to 2D models where >5 μm particles show negligible internalization, 3D HOs exhibited significant accumulation of intact micron-scale MPs via tissue-layer penetration and paracellular retention, with PP uptake peaking at ∼40% within 48 h and ∼18% retained long-term. This triggered dose- and time-dependent hepatotoxicity (40-4000 ng/mL), marked by CD36 upregulation from 8 h, mitochondrial impairment, and elevated LDH and AST levels. Notably, NR fluorescence intensity was governed by polymer chemistry rather than surface roughness, enabling material-specific detection. This work provides novel label-free techniques within 3D in vitro models to explore the depot and effective concentration of micron-scale MPs, advancing understanding of MP-induced cellular damage upon uptake and deposition.",
-      "journal": "ACS applied materials & interfaces",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Public Health, Shanghai Jiao Tong University, Shanghai201318, China.",
-        "School of Medicine, Chongqing University, Chongqing400030, China.",
-        "Shanghai Jiao Tong University School of Medicine , Shanghai201318, China.",
-        "Department of Plastic and Reconstructive Surgery, Department of Cardiology, Shanghai Key Lab of Tissue Engineering, Ninth People's Hospital of Shanghai Jiao Tong University School of Medicine, Shanghai200011, China.",
-        "Ninth People's Hospital of Shanghai Jiao Tong University School of Medicine, Shanghai200011, China."
-      ],
-      "doi": "10.1021/acsami.6c10955",
-      "date": "2026-08-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42687243/"
-    },
-    {
-      "pmid": "42687164",
-      "title": "Clinical features and imaging diagnostic challenges of fetus-in-fetu associated with abdominal cryptorchidism: a case report.",
-      "abstract": "Fetus-in-fetu (FIF) is a rare congenital anomaly in which a malformed monozygotic twin is incorporated within its host twin. FIF is usually retroperitoneal, whereas association with an intra-abdominal undescended testis is exceptionally uncommon. Because imaging may show a heterogeneous mass containing soft tissue, fat and calcified elements, FIF can be difficult to distinguish preoperatively from mature teratoma, especially when cryptorchidism is also present. A 3-day-old male neonate was admitted because of jaundice and a palpable right abdominal mass. Physical examination revealed an underdeveloped right hemiscrotum without a palpable right testis; the left testis was palpable and a left hydrocele was suspected. Prenatal ultrasound demonstrated a mixed echogenic mass in the right lower abdomen and raised the possibility of FIF. Fetal magnetic resonance imaging (MRI) and postnatal contrast-enhanced computed tomography (CT) showed a well-circumscribed cystic-solid abdominal mass with fat-like signal/density and multiple calcified stripe-like components, leading to diagnostic uncertainty between FIF and teratoma. Serum alpha-fetoprotein (AFP) and human chorionic gonadotropin (HCG) showed no abnormal elevation after interpretation according to neonatal age. Exploratory laparotomy revealed a 5.0 cm x 4.0 cm x 4.0 cm encapsulated cystic-solid mass arising from the right intra-abdominal undescended testis, without identifiable viable right testicular parenchyma. The mass and the atrophic right testicular/epididymal tissue were excised. Gross and histopathological examination demonstrated an organized axial skeleton/spinal structure and multiple differentiated tissues, including brain, intestine, liver, bone, skeletal muscle, skin, and epididymal duct tissue, fulfilling the Willis criterion for FIF. This case highlights a very rare presentation of FIF associated with abdominal cryptorchidism. Recognition of calcified axial skeletal elements, fat components, organoid structures and the relationship to the spermatic cord/testicular structures may help pediatric surgeons and radiologists anticipate FIF rather than misdiagnosing the lesion as a testicular or abdominal teratoma. Complete surgical excision and long-term follow-up with ultrasonography and tumor markers are recommended.",
-      "journal": "BMC pediatrics",
+      "pmid": "42689286",
+      "title": "Engineered Nanozymes for Colorectal Cancer Therapy: Catalytic Reprogramming of the Tumor Microenvironment.",
+      "abstract": "Colorectal cancer (CRC) remains difficult to treat because redox adaptation, metabolic plasticity, mucin-associated delivery barriers, immune exclusion, and microbiota-dependent signaling jointly limit conventional therapy. Engineered nanozymes provide a reaction-centered strategy for exploiting these CRC-specific vulnerabilities. This review critically compares metal, metal-oxide, carbon-based, porous-framework, and single-atom nanozymes with respect to catalytic mechanism, enzyme-mimicking activity, substrate dependence, controllability, biosafety, and translational suitability. We examine how acidity, hydrogen peroxide, hypoxia, glutathione enrichment, metabolic dysregulation, mucin barriers, and the gut microbiota influence catalytic performance. We further evaluate evidence for chemotherapy sensitization, chemodynamic, photothermal, photodynamic, sonodynamic, immunotherapeutic, and multimodal treatment, emphasizing both mechanistic synergy and limitations of the available preclinical models. Major translational barriers include non-standardized catalytic assays, heterogeneous intratumoral substrates, off-target reactive oxygen species toxicity, uncertain degradation and long-term fate, microbiome disruption, manufacturing reproducibility, and limited validation in orthotopic, immunocompetent, organoid, and patient-derived systems. We therefore position CRC nanozyme therapy as a disease-oriented catalytic medicine platform whose clinical value will depend on biomarker-guided selection, programmable activation, and degradable, locally controllable designs.",
+      "journal": "International journal of nanomedicine",
       "publicationTypes": [
         "Journal Article",
-        "Case Reports"
+        "Review"
       ],
       "affiliations": [
-        "Department of Pediatric Surgery, Quanzhou Maternity and Children's Hospital, No.700 Fengze Street, Quanzhou, Fujian Province, 362000, China.",
-        "Department of Pediatric Surgery, Quanzhou Maternity and Children's Hospital, No.700 Fengze Street, Quanzhou, Fujian Province, 362000, China. 649458756@qq.com."
+        "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, People's Republic of China.",
+        "Department of Critical Care Medicine, Peking University First Hospital, Beijing, 100034, People's Republic of China.",
+        "Department of Oncology, Shanghai Tenth People's Hospital, Tongji University, Shanghai, 200072, People's Republic of China."
       ],
-      "doi": "10.1186/s12887-026-07405-1",
-      "date": "2026-07-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42687164/"
+      "doi": "10.2147/IJN.S640248",
+      "date": "2026-08-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42689286/"
     },
     {
-      "pmid": "42687118",
-      "title": "IL-22 Increases Proglucagon-expressing Enteroendocrine Cells via STAT3 in Human iPSC-derived Intestinal Epithelium.",
-      "abstract": "Intestinal epithelial differentiation is tightly regulated to maintain tissue homeostasis and systemic metabolic function. Although the intrinsic transcriptional programs governing enteroendocrine cell (EEC) development have been characterized extensively, the role of extrinsic immune signals in directing lineage specification is not completely understood. In particular, how cytokine signaling influences differentiation of EEC subtypes remains unclear. Here, we investigated the role of interleukin-22 (IL-22) in EEC differentiation using human induced pluripotent stem cell-derived intestinal organoids and in vivo models. IL-22 selectively increased proglucagon (GCG) expression and the number of glucagon-like peptide-1 (GLP-1)-positive EECs without affecting other EEC markers. This effect was associated with enhanced expression of the lineage-related transcription factors neurogenin 3 and forkhead box A2. Pharmacological inhibition of signal transducer and activator of transcription 3 (STAT3) signaling attenuated the IL-22-induced increases in GCG expression and GLP-1-positive cell abundance, indicating a role of STAT3 in mediating these effects. Mechanistically, relatively high expression of IL-22 receptor subunit alpha 1 in undifferentiated epithelial cells was associated with STAT3 activation induced by IL-22. Consistent with these findings, in vivo IL-22 administration increased intestinal GCG expression and GLP-1 levels in the circulation and intestinal tissue. Importantly, our findings indicate that IL-22 does not globally promote EEC differentiation but rather selectively directs epithelial lineage commitment toward the GCG-positive EEC fate. These results suggest that IL-22/STAT3 signaling induces human intestinal epithelial differentiation into GCG-positive EECs and may represent a strategy for modulating epithelial cell fate to influence systemic metabolic homeostasis.",
-      "journal": "Endocrinology",
+      "pmid": "42688965",
+      "title": "Isoform-resolved 14-3-3/YWHA networks in colorectal cancer: phospho-adaptor mechanisms, biomarker contexts and therapeutic opportunities.",
+      "abstract": "YWHA/14-3-3 proteins are conserved phosphoserine/phosphothreonine-binding adaptors that coordinate signaling-complex assembly, subcellular localization, stress responses and cell-state transitions. Although often discussed as a single adaptor family, colorectal cancer (CRC) studies suggest that individual YWHA isoforms act through distinct clients, RNA-associated layers and tumor-state contexts. In this narrative and mechanistic review, we synthesized PubMed-indexed CRC literature through 18 May 2026 and appraised CRC-relevant mechanistic modules using an explicit evidence-maturity rubric developed by the authors distinct from formal GRADE assessment. We propose an isoform-client-context framework for interpreting 14-3-3 biology in CRC. YWHAG has been linked to CTTN-dependent Wnt/β-catenin activation, whereas YWHAE/14-3-3ϵ protein has been associated with extracellular-vesicle secretion and EV-associated β-catenin/Wnt outputs. Separately, the YWHAE-encoded lncRNA, hereafter referred to as YWHAE lncRNA, has been proposed to activate KRAS/ERK and PI3K/AKT signaling through a competing endogenous RNA mechanism. YWHAZ participates in epithelial-mesenchymal and G2/M transitions through miR-1-3p- and TRIP13-associated mechanisms. YWHAB supports PIK3R2-dependent PI3K/AKT signaling, whereas YWHAH connects NAT10/ac4C regulation, CD8+ T-cell exhaustion and MAPK/ERK-dependent autophagy-associated invasion. SFN illustrates context-dependent tumor-suppressive or stress-adaptive functions. Overall, total 14-3-3 abundance is insufficient for mechanistic or translational interpretation. Interactomics, phosphoproteomics, spatial profiling, extracellular-vesicle analysis and patient-derived models should be used to prioritize YWHA-dependent candidate mechanisms for functional validation. These modules should currently be regarded as testable biomarker and therapeutic hypotheses, not as clinically validated CRC biomarkers or targets.",
+      "journal": "Frontiers in oncology",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "affiliations": [
-        "Wellness Science Labs, Meiji Holdings Co., Ltd., Tokyo, 192-0919, Japan."
+        "Department of Respiratory and Critical Care Medicine, Shandong Provincial Third Hospital, Shandong University, Jinan, Shandong, China.",
+        "Department of Gastrointestinal Nutrition and Hernia Surgery, The Second Hospital of Jilin University, Changchun, Jilin, China."
       ],
-      "doi": "10.1210/endocr/bqag101",
-      "date": "2026-09-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42687118/"
+      "doi": "10.3389/fonc.2026.1906093",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42688965/"
     },
     {
-      "pmid": "42687014",
-      "title": "Human stewardship in the age of organoids.",
-      "abstract": "",
-      "journal": "Nature methods",
+      "pmid": "42688653",
+      "title": "Unveiling Particulate Matter-Lung Interactions from Static Models to Dynamic Lung-on-Chips.",
+      "abstract": "The pervasive inhalable particulate matter (PM) in the environment poses a marked threat to pulmonary health. However, the underlying pathogenic mechanisms remain poorly understood, largely due to the limitations of existing in vitro models in accurately mimicking the complex biological processes. This review critically examines the spectrum of in vitro models employed in PM research, spanning from traditional 2-dimensional models to advanced 3-dimensional (3D) constructs, including 3D bioprinted models and organoids, as well as the burgeoning field of lung-on-chips (LOCs). Each model type is meticulously assessed for its unique strengths and the challenges. A particular emphasis is placed on the innovative use of LOCs technology to replicate the dynamic nature of respiratory motion. The review delves into how integrating breath-mimicking stimuli can modulate the intricate interactions between PM and cellular/tissue interfaces. Ultimately, it unveils an innovative, highly integrated, and intelligent LOCs platform, offering a forward-looking insight into its evolution.",
+      "journal": "Research (Washington, D.C.)",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "affiliations": [
-        "Department of Cellular and Molecular Medicine, University of California San Diego, La Jolla, CA, USA. prghosh@ucsd.edu.",
-        "Department of Medicine, University of California San Diego, La Jolla, CA, USA. prghosh@ucsd.edu.",
-        "UC San Diego HUMANOID Center of Research Excellence, San Diego, CA, USA. prghosh@ucsd.edu.",
-        "UC San Diego-LifeShare Research Program, San Diego, CA, USA. prghosh@ucsd.edu.",
-        "Division of Infectious Diseases and Global Public Health, UC San Diego School of Medicine, La Jolla, CA, USA.",
-        "UC San Diego Last Gift Program, La Jolla, CA, USA.",
-        "Department of Cellular and Molecular Medicine, University of California San Diego, La Jolla, CA, USA.",
-        "UC San Diego HUMANOID Center of Research Excellence, San Diego, CA, USA.",
-        "Division of Infectious Diseases and Global Public Health, UC San Diego School of Medicine, La Jolla, CA, USA. kdube@health.ucsd.edu.",
-        "UC San Diego Last Gift Program, La Jolla, CA, USA. kdube@health.ucsd.edu."
+        "Department of Biomedical Engineering, Research Center for Nano-biomaterials & Regenerative Medicine, Shanxi Key Laboratory of Functional Proteins, College of Artificial Intelligence, Taiyuan University of Technology, Taiyuan 030024, China.",
+        "Institute of Biomedical Engineering, Shanxi Key Laboratory of Materials Strength & Structural Impact, Taiyuan University of Technology, Taiyuan 030024, China.",
+        "NHC Key Laboratory of Pneumoconiosis, Shanxi Key Laboratory of Respiratory Diseases, Department of Pulmonary and Critical Care Medicine, The First Hospital of Shanxi Medical University, Taiyuan 030001, China.",
+        "Henan Tuoren Medical Device Co., Ltd., Xinxiang 453431, China."
       ],
-      "doi": "10.1038/s41592-026-03228-1",
+      "doi": "10.34133/research.1414",
       "date": "2026-09-02",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42687014/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42688653/"
     },
     {
-      "pmid": "42686982",
-      "title": "Multi-stromal organoid co-culture modelling reveals epithelial-fibroblast heterogeneity in pancreatic cancer and pancreatitis.",
-      "abstract": "Interactions between epithelial cells and fibroblasts influence disease progression and treatment response in pancreatic ductal adenocarcinoma (PDAC). While the diversity of fibroblasts in PDAC is increasingly recognized, it remains unclear how these cells differ from fibroblasts found in pancreatic inflammation. Chronic pancreatitis is a stroma-rich inflammatory disease and a risk factor for PDAC, making it a useful setting to study how epithelial cells and fibroblasts change during disease. Here we compare fibroblast diversity and epithelial-stromal interactions in pancreatitis and PDAC using human samples, mouse models and mouse pancreatitis-derived epithelial organoids. We also developed pancreatitis and PDAC organoid co-cultures containing pancreatic stellate cells, fibroblasts and mesothelial cells. Combining in vitro and in vivo models better reflected human disease than mouse models alone. Overall, our findings reveal distinct epithelial and fibroblast features in pancreatitis and PDAC and provide models to identify disease-specific markers and therapeutic vulnerabilities.",
-      "journal": "Nature cell biology",
+      "pmid": "42688369",
+      "title": "Morphine-induced μ-opioid receptor isoform MOR-1X amplifies dependence-related signaling.",
+      "abstract": "Clinically used opioids, such as morphine, primarily act through the μ-opioid receptor (MOR), encoded by the OPRM1 gene, which undergoes extensive alternative splicing. More than 20 OPRM1 isoforms have been identified, yet functional characterization has largely focused on the canonical MOR-1 variant. With the emergence of three-dimensional human cerebral organoids (hCOs) derived from induced pluripotent stem cells (iPSCs), it is now possible to model human-specific neuronal responses to opioids more accurately. In this study, we established hCOs as a functional platform to investigate the impact of morphine on OPRM1 pre-mRNA splicing and opioid signaling. We generated iPSC-derived hCOs and neurons, after which they were treated with or without morphine and screened using cellular and molecular/biochemical assays. Our results revealed that morphine exposure selectively induced the MOR-1X isoform in hCOs and iPSC-derived neurons in a dose-dependent manner as revealed by RT-PCR and RT-qPCR. We utilized CRE/CREB overexpression plasmid and lentiviral constructs to measure effects of morphine on cyclic AMP (cAMP) signaling. Upon morphine withdrawal, cells expressing MOR-1X exhibited markedly enhanced cAMP superactivation, a molecular hallmark of opioid dependence, compared with MOR-1. Furthermore, isoform-specific knockdown of MOR-1X by a short hairpin RNA (shRNA) effectively abolished this cAMP overshoot in iPSC-derived neurons. Collectively, these findings identify MOR-1X as a morphine-inducible isoform with a potential key role in the molecular mechanisms underlying opioid signaling, adaptation, and dependence in the brain.",
+      "journal": "Frontiers in neuroscience",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "University of Cambridge, Cancer Research UK Cambridge Institute, Li Ka Shing Centre, Cambridge, UK.",
-        "Cambridge University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge, UK.",
-        "University of Cambridge, Department of Oncology, Cambridge, UK.",
-        "MRC Biostatistics Unit, Cambridge Institute of Public Health, University of Cambridge, Cambridge, UK.",
-        "University of Cambridge, Cancer Research UK Cambridge Institute, Li Ka Shing Centre, Cambridge, UK. Giulia.Biffi@cruk.cam.ac.uk."
+        "Department of Microbiology, Immunology, and Inflammation, Center for Neurovirology and Gene Editing, Temple University Lewis Katz School of Medicine, Philadelphia, PA, United States.",
+        "Institute of NeuroImmune Pharmacology, Seton Hall University, South Orange, NJ, United States."
       ],
-      "doi": "10.1038/s41556-026-02057-w",
-      "date": "2026-09-02",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42686982/"
+      "doi": "10.3389/fnins.2026.1907881",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42688369/"
+    },
+    {
+      "pmid": "42688076",
+      "title": "IBD-related inflammatory memory and colorectal cancer: epigenetic mechanisms and microbiome interventions.",
+      "abstract": "Colitis-associated cancer (CAC) develops within chronically inflamed mucosa and differs from sporadic colorectal cancer in its field effects, multifocality, and sequence of molecular events. In addition to ongoing inflammation and mutation, experimental studies indicate that epithelial, immune, and stromal compartments can retain altered states after an initiating inflammatory stimulus has subsided. In this review, inflammatory memory is used operationally for a persistent molecular, cellular, tissue, or microbial state that changes the response to a later challenge. This definition distinguishes epithelial epigenetic memory from trained innate immunity, adaptive lymphocyte memory or exhaustion, and chronic signaling that depends on continued stimulation. We synthesize evidence for persistent chromatin accessibility, histone modification, DNA methylation, enhancer activity and three-dimensional organization, epithelial plasticity, immune-stromal circuits, and microbiota-derived metabolites. These responses can support mucosal repair, but repeated activation within a genetically altered field may facilitate clonal expansion and tumor development. We also assess emerging methylation, circulating tumor DNA, stool DNA, single-cell, and spatial biomarkers and grade proposed interventions according to evidence from cell culture, organoids, animal models, human tissues, and clinical studies. Because chromatin- and microbiome-directed interventions remain largely preclinical, selective modulation of pathological persistence-not complete \"memory erasure\"-is the appropriate translational objective.",
+      "journal": "Frontiers in immunology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review",
+        "Systematic Review"
+      ],
+      "affiliations": [
+        "School of Medical Technology, Shaanxi University of Chinese Medicine, Xianyang, Shaanxi, China.",
+        "Department of Immunology, School of Basic Medicine, Air Force Medical University, Xi'an, Shaanxi, China."
+      ],
+      "doi": "10.3389/fimmu.2026.1912351",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42688076/"
     },
     {
       "pmid": "42667121",
@@ -403,6 +393,50 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42673661/"
     },
     {
+      "pmid": "42688475",
+      "title": "Extracellular vesicles at the immune-metabolic crossroads of Hashimoto's thyroiditis and diabetes mellitus.",
+      "abstract": "Hashimoto's thyroiditis (HT) and diabetes mellitus are highly prevalent chronic immune-mediated disorders that frequently co-occur and share genetic susceptibility, T-helper (Th) 1/Th17 skewing, and regulatory T-cell (Treg) dysfunction. Among individuals with type 1 diabetes mellitus (T1DM), autoimmune thyroiditis is the most common comorbid autoimmune disease. Extracellular vesicles (EVs) have emerged as important mediators linking autoimmune and metabolic inflammation. This review compares how EVs remodel the immune microenvironment in HT, type 2 diabetes mellitus (T2DM), and related disease contexts, with attention to donor cells, cargo, recipient pathways, biomarkers, and therapeutic implications. In HT and T1DM, EVs can deliver organ-specific autoantigens, whereas in classical T2DM current evidence more strongly supports EVs as carriers of stress signals, chemokines, and immunoregulatory miRNAs that shape islet inflammation and insulin resistance rather than autoantigen presentation; latent autoimmune diabetes in adults is considered separately. Across these diseases, recurrent EV-miRNA programs and DAMP/NLRP3 signaling converge on Treg/Th17 imbalance and M1/M2 macrophage polarization. We also emphasize the marked asymmetry of evidence maturity, with substantially stronger in-vivo and clinical support on the T2DM side than on the HT side. This asymmetry is treated as an explicit interpretive boundary throughout the review. We assess circulating and urinary EV cargoes as liquid-biopsy candidates and discuss EV-based drug delivery, engineered immunomodulatory EVs, and modulation of EV biogenesis. Translational claims remain limited by heterogeneity, manufacturing, and safety challenges, particularly in organ-specific autoimmune disease. In this review, the term \"immune-metabolic crossroads\" refers to shared mechanisms, shared biomarker opportunities, and partially overlapping therapeutic entry points.",
+      "journal": "Frontiers in immunology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Liaoning University of Traditional Chinese Medicine, Shenyang, China.",
+        "Liaoning Provincial Academy of Traditional Chinese Medicine, Shenyang, China.",
+        "The Second Hospital Affiliated to Liaoning University of Traditional Chinese Medicine, Shenyang, China.",
+        "The Affiliated Hospital of Liaoning University of Traditional Chinese Medicine, Shenyang, China."
+      ],
+      "doi": "10.3389/fimmu.2026.1914528",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42688475/"
+    },
+    {
+      "pmid": "42688382",
+      "title": "The role of circulating tumor DNA (ctDNA) to detect minimal residual disease in locally advanced gastroesophageal carcinoma: the BUTTERFLY study.",
+      "abstract": "Despite advances in perioperative and neoadjuvant strategies, patients with locally advanced gastroesophageal cancers remain at high risk of recurrence after curative intent treatment. No validated biomarkers are available to detect minimal residual disease (MRD) or to guide post-operative risk-adapted management. Circulating tumor DNA (ctDNA) has emerged as a noninvasive tool for disease monitoring; single-parameter or tumor-informed assays, however, may lack sensitivity in low-tumor burden settings. Multimodal, tumor-agnostic approaches may overcome these limitations. The BUTTERFLY study is a prospective, multicenter observational study enrolling patients with stage II-III gastric, gastroesophageal junction, or esophageal cancer treated with perioperative chemotherapy or neoadjuvant chemoradiotherapy followed by surgery. It evaluates the diagnostic performance and prognostic value of an academic, tumor-agnostic, multimodal ctDNA assay for MRD detection and prognostic stratification. Serial plasma samples are collected from baseline through post-operative follow-up and at relapse. Cell-free DNA is analyzed using the Agnostic Liquid Biopsy Multimodal Advancement (ALMA) platform, integrating tumor fraction estimation, somatic copy number alterations, fragmentomic features, single-nucleotide variants, and whole-genome methylation profiling. Multimodal features are combined with clinical variables using machine learning-based models to enhance MRD detection and relapse risk stratification. The primary endpoint includes sensitivity and specificity of ALMA-defined ctDNA/MRD status at the 4-8 weeks after surgery landmark, whereas secondary endpoints assess diagnostic performance at other time points and associations between ctDNA status and dynamics with disease-free survival, overall survival, treatment response, and lead time to recurrence. If validated, this tumor-agnostic, multimodal ctDNA approach may enable earlier molecular relapse detection and support personalized post-operative management strategies.",
+      "journal": "ESMO gastrointestinal oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Biomedical Sciences, Humanitas University, Milan, Italy.",
+        "Medical Oncology and Hematology Unit, Humanitas Cancer Center, IRCCS Humanitas Research Hospital, Milan, Italy.",
+        "Laboratory of Cancer Pharmacology, IRCCS Humanitas Research Hospital, Rozzano, Italy.",
+        "Upper Gastrointestinal Surgery Unit, IRCCS Humanitas Research Hospital, Milan, Italy.",
+        "Hepatobiliary Immunopathology Lab, IRCCS Humanitas Research Hospital, Rozzano, Milan, Italy.",
+        "Endoscopy Unit, IRCCS Humanitas Research Hospital, Milan, Italy.",
+        "Department of Radiotherapy and Radiosurgery, IRCCS Humanitas Research Hospital, Milan, Italy.",
+        "Department of Radiology, Humanitas Research Hospital-IRCCS, Milan, Italy.",
+        "Pathology Unit, IRCCS Humanitas Research Hospital, Milan, Italy.",
+        "Humanitas Hospital Biological Resources Center, Humanitas Cancer Center, IRCCS Humanitas Research Hospital, Milan, Italy.",
+        "Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, USA."
+      ],
+      "doi": "10.1016/j.esmogo.2026.100407",
+      "date": "2026-08-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42688382/"
+    },
+    {
       "pmid": "42687443",
       "title": "Implementing liquid biopsy in HR+/HER2- metastatic breast cancer: challenges and opportunities.",
       "abstract": "Liquid biopsy (LB) is rapidly transforming the management of hormone receptor-positive/HER2-negative (HR+/HER2-) metastatic breast cancer (mBC). In this review, we discuss the most recent findings on circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs), exploring their roles across the treatment continuum, from treatment selection to resistance monitoring. ctDNA-based detection of actionable mutations - including ESR1 and PIK3CA - achieved regulatory validation as a primary predictive biomarker for treatment selection, supporting the approval of novel endocrine agents and targeted therapies in HR+/HER2- mBC. Serial ctDNA monitoring demonstrated the ability to intercept emerging resistance mechanisms ahead of radiological progression, opening a window for preemptive therapeutic adaptation. CTCs enumeration maintains robust independent prognostic value, with emerging evidence supporting its role in guiding treatment escalation and de-escalation decisions. Integrated multiparametric LB approaches combining CTCs and ctDNA are crucial to improve prognostic accuracy and clinical decision-making. LB is progressively shifting from a research tool to a clinical decision-making instrument in HR+/HER2- mBC. Prospective interventional trials, methodological standardization, and integrated strategies are needed to fully translate its potential into improved patient outcomes.",
@@ -489,68 +523,36 @@
       "doi": "10.1021/acsami.6c12149",
       "date": "2026-08-31",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42686225/"
-    },
-    {
-      "pmid": "42685840",
-      "title": "Soluble PD-1/PD-L1 biomarkers in NSCLC: prognostic and diagnostic value.",
-      "abstract": "Tissue-based immunohistochemistry (IHC) for programmed death-ligand 1 (PD-L1) remains the clinical standard for guiding immunotherapy selection in non-small cell lung cancer (NSCLC) but is constrained by intratumoral spatial heterogeneity and procedural sampling risks. Circulating soluble PD-1 (sPD-1) and soluble PD-L1 (sPD-L1) generated either through alternative mRNA splicing or by ADAM10/17-mediated proteolytic shedding offer minimally invasive liquid-biopsy alternatives that capture systemic immune dynamics in real time. This review synthesizes clinical and translational data from prospective validation cohorts, surgical trials, and multi-center meta-analyses to evaluate the stage-stratified diagnostic utility, prognostic reliability, and treatment-response predictive value of sPD-1 and sPD-L1 across diverse therapeutic contexts. Cross-sectional baseline assessments show modest standalone diagnostic sensitivity due to significant absolute concentration overlaps between oncological cohorts and healthy controls. However, elevated pre-treatment sPD-L1 functions as a robust independent negative prognostic indicator of overall survival (OS) and a predictor of primary resistance to immune checkpoint inhibitors (ICIs) across advanced stages, while demonstrating no prognostic relevance under conventional cytotoxic chemotherapy. Longitudinally, an acute postoperative sPD-L1 increase of ≥20% at four months marks micro-metastatic persistence and predicts disease recurrence in early-stage surgical cohorts (Odds Ratio = 10.29). Conversely, sPD-1 demonstrates distinct stage-specific volatility; pre-treatment profiles lack stable prognostic indicators, but an early on-treatment plasma surge during anti-PD-1 monotherapy independently maps to prolonged progression-free survival and superior OS (Hazard Ratio = 0.24). Finally, composite liquid biosignatures (e.g., sCombo or joint bsPD-L1/MMP screening) significantly optimize predictive resolution over single-analyte measurements. Circulating sPD-L1 serves as a reliable negative indicator of therapeutic efficacy and surgical durability, whereas on-treatment tracking of sPD-1 captures protective host T-cell clonal reactivation. Cross-platform assay standardization and predefined cutoff validation remain essential thresholds before these liquid biomarkers can be implemented into standard clinical practice and thoracic surgery. Integrating these circulating checkpoints into high-throughput multi-omics platforms and AI-based analytics is a promising next step toward reproducible predictive signatures that could guide personalized treatment in thoracic oncology.",
-      "journal": "Molecular and cellular probes",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Thoracic Surgery, Sotiria Chest Hospital, Athens, Greece.",
-        "Institute of Bioinnovation, Biomedical Sciences Research Center \"Alexander Fleming,\" Vari, Greece. Electronic address: fatouros@fleming.gr."
-      ],
-      "doi": "10.1016/j.mcp.2026.102087",
-      "date": "2026-09-02",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42685840/"
-    },
-    {
-      "pmid": "42685611",
-      "title": "Decoding cancer with artificial intelligence: Transforming research, diagnosis, and therapy with future insights.",
-      "abstract": "Cancer remains one of the leading global health burdens, with increasing complexity in genomic, imaging, and clinical datasets presenting significant challenges for effective management. Artificial intelligence (AI) has emerged as a powerful tool to address these challenges by enabling pattern recognition, knowledge integration, and data-driven decision-making. This review highlights recent advances in the application of AI across cancer research, diagnosis, and therapy. In research, AI accelerates drug discovery and repurposing, enhances genomic data interpretation, and facilitates biomarker identification through multi-omics integration. In diagnosis, AI has demonstrated high technical performance in radiology for lesion detection and image segmentation, in pathology for tumour grading and molecular prediction, and in liquid biopsy for non-invasive biomarker analysis. In therapy, AI supports precision medicine by predicting treatment responses, monitoring disease progression, and optimizing clinical trial design. Despite these advances, barriers such as data heterogeneity, algorithmic bias, interpretability, and regulatory challenges remain. Future directions, including explainable AI, federated learning, multimodal modelling, and digital twins, hold promise for translating AI-driven innovations into routine oncology practice. Significance Statement This review provides a timely synthesis of recent (2020-2025) advances in artificial intelligence across cancer research, diagnosis, and therapy, highlighting applications in drug discovery, genomics, multi-omics biomarker identification, and clinical decision-making. By integrating technological progress with translational and clinical relevance, this work serves as a valuable resource for bridging AI innovation with precision oncology practice. As a narrative review, the literature was identified through targeted PubMed, Scopus, and Google Scholar searches, combining terms for artificial intelligence, machine learning, and deep learning with cancer-related keywords, with priority given to peer-reviewed studies published between 2020 and 2025, seminal earlier works, and official regulatory or guideline documents. Within each domain, representative studies were selected to illustrate methodological diversity, clinical context, and current translational readiness rather than to provide exhaustive coverage of an extremely rapidly evolving field.",
-      "journal": "Translational oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "School of Pharmacy and Medical Sciences, Griffith University, Queensland, Australia. Electronic address: muneera.anwer@griffithuni.edu.au.",
-        "School of Pharmacy and Medical Sciences, Griffith University, Queensland, Australia."
-      ],
-      "doi": "10.1016/j.tranon.2026.103006",
-      "date": "2026-09-02",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42685611/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42687118",
+      "id": "pubmed-42689334",
       "date": "2026-09-03",
-      "title": "IL-22 Increases Proglucagon-expressing Enteroendocrine Cells via STAT3 in Human iPSC-derived Intestinal Epithelium.",
+      "title": "3-Dimensional Human iPSC-Derived Cardiac Organoids for Antifibrotic Drug Screening.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42687118/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42689334/",
       "reliability": "High",
-      "evidenceLevel": "Medium",
+      "evidenceLevel": "Low",
       "needsReview": true,
       "themes": [
         "Organoids",
-        "Advanced Disease Models"
+        "Advanced Disease Models",
+        "Drug Screening"
       ],
       "tags": [
         "类器官",
-        "疾病模型"
+        "疾病模型",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Endocrinology，PMID 为 42687118。",
-      "report": "Intestinal epithelial differentiation is tightly regulated to maintain tissue homeostasis and systemic metabolic function. Although the intrinsic transcriptional programs governing enteroendocrine cell (EEC) development have been characterized extensively, the...",
+      "fact": "PubMed 记录显示该文献收录于 Circulation research，PMID 为 42689334。",
+      "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -589,18 +591,18 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42687014",
+      "id": "pubmed-42688653",
       "date": "2026-09-02",
-      "title": "Human stewardship in the age of organoids.",
+      "title": "Unveiling Particulate Matter-Lung Interactions from Static Models to Dynamic Lung-on-Chips.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42687014/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42688653/",
       "reliability": "High",
-      "evidenceLevel": "Low",
+      "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
@@ -611,38 +613,8 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature methods，PMID 为 42687014。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42686982",
-      "date": "2026-09-02",
-      "title": "Multi-stromal organoid co-culture modelling reveals epithelial-fibroblast heterogeneity in pancreatic cancer and pancreatitis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42686982/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature cell biology，PMID 为 42686982。",
-      "report": "Interactions between epithelial cells and fibroblasts influence disease progression and treatment response in pancreatic ductal adenocarcinoma (PDAC). While the diversity of fibroblasts in PDAC is increasingly recognized, it remains unclear how these cells dif...",
+      "fact": "PubMed 记录显示该文献收录于 Research (Washington, D.C.)，PMID 为 42688653。",
+      "report": "The pervasive inhalable particulate matter (PM) in the environment poses a marked threat to pulmonary health. However, the underlying pathogenic mechanisms remain poorly understood, largely due to the limitations of existing in vitro models in accurately mimic...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -715,79 +687,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42685840",
-      "date": "2026-09-02",
-      "title": "Soluble PD-1/PD-L1 biomarkers in NSCLC: prognostic and diagnostic value.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42685840/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular and cellular probes，PMID 为 42685840。",
-      "report": "Tissue-based immunohistochemistry (IHC) for programmed death-ligand 1 (PD-L1) remains the clinical standard for guiding immunotherapy selection in non-small cell lung cancer (NSCLC) but is constrained by intratumoral spatial heterogeneity and procedural sampli...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42685611",
-      "date": "2026-09-02",
-      "title": "Decoding cancer with artificial intelligence: Transforming research, diagnosis, and therapy with future insights.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42685611/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Translational oncology，PMID 为 42685611。",
-      "report": "Cancer remains one of the leading global health burdens, with increasing complexity in genomic, imaging, and clinical datasets presenting significant challenges for effective management. Artificial intelligence (AI) has emerged as a powerful tool to address th...",
-      "inference": "自动分类命中规则：AI-enabled Discovery, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42679818",
       "date": "2026-09-01",
       "title": "De novo pan-rhodamine binders for fluorescence microscopy from mammalian cells to extremophiles.",
@@ -811,64 +710,6 @@
       "fact": "PubMed 记录显示该文献收录于 Cell，PMID 为 42679818。",
       "report": "Fluorescent imaging in live cells is a cornerstone of life sciences. While natural fluorescent proteins have been engineered to enhance individual features, no existing tag combines ideal properties into a single system: high brightness, reversible binding, co...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42687517",
-      "date": "2026-08-31",
-      "title": "The expression of stemness markers in organoids according to histological subtypes of gastric cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42687517/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Korean journal of clinical oncology，PMID 为 42687517。",
-      "report": "Gastric cancer is a heterogeneous disease in which cancer stem cell-associated properties may contribute to tumor heterogeneity and progression. This study aimed to establish paired normal and tumor gastric organoids, characterize stemness-related gene express...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42687243",
-      "date": "2026-08-31",
-      "title": "Detection of Time-Dependent Uptake of Microplastics by Joint Utilization of Hepatic Organoids and a 3D-Printed Carrier.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42687243/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 ACS applied materials & interfaces，PMID 为 42687243。",
-      "report": "Microplastics (MPs, <5 mm) are pervasive in foods, the environment, and humans, posing emerging health risks. Traditional two-dimensional (2D) cell models inadequately replicate micron-scale MP uptake, whereas three-dimensional (3D) organoids better mimic tiss...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -934,6 +775,40 @@
       "fact": "PubMed 记录显示该文献收录于 ACS applied materials & interfaces，PMID 为 42686225。",
       "report": "Extracellular vesicles (EVs) are lipid bilayer nanovesicles that mediate intercellular communication and hold significant potential for clinical applications. Although material-based isolation strategies offer promising alternatives to conventional methods, th...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42689286",
+      "date": "2026-08-29",
+      "title": "Engineered Nanozymes for Colorectal Cancer Therapy: Catalytic Reprogramming of the Tumor Microenvironment.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42689286/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of nanomedicine，PMID 为 42689286。",
+      "report": "Colorectal cancer (CRC) remains difficult to treat because redox adaptation, metabolic plasticity, mucin-associated delivery barriers, immune exclusion, and microbiota-dependent signaling jointly limit conventional therapy. Engineered nanozymes provide a react...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1124,6 +999,156 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42688382",
+      "date": "2026-08-25",
+      "title": "The role of circulating tumor DNA (ctDNA) to detect minimal residual disease in locally advanced gastroesophageal carcinoma: the BUTTERFLY study.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42688382/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 ESMO gastrointestinal oncology，PMID 为 42688382。",
+      "report": "Despite advances in perioperative and neoadjuvant strategies, patients with locally advanced gastroesophageal cancers remain at high risk of recurrence after curative intent treatment. No validated biomarkers are available to detect minimal residual disease (M...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42688965",
+      "date": "2026-08-19",
+      "title": "Isoform-resolved 14-3-3/YWHA networks in colorectal cancer: phospho-adaptor mechanisms, biomarker contexts and therapeutic opportunities.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42688965/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42688965。",
+      "report": "YWHA/14-3-3 proteins are conserved phosphoserine/phosphothreonine-binding adaptors that coordinate signaling-complex assembly, subcellular localization, stress responses and cell-state transitions. Although often discussed as a single adaptor family, colorecta...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42688369",
+      "date": "2026-08-19",
+      "title": "Morphine-induced μ-opioid receptor isoform MOR-1X amplifies dependence-related signaling.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42688369/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in neuroscience，PMID 为 42688369。",
+      "report": "Clinically used opioids, such as morphine, primarily act through the μ-opioid receptor (MOR), encoded by the OPRM1 gene, which undergoes extensive alternative splicing. More than 20 OPRM1 isoforms have been identified, yet functional characterization has large...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42688076",
+      "date": "2026-08-19",
+      "title": "IBD-related inflammatory memory and colorectal cancer: epigenetic mechanisms and microbiome interventions.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42688076/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42688076。",
+      "report": "Colitis-associated cancer (CAC) develops within chronically inflamed mucosa and differs from sporadic colorectal cancer in its field effects, multifocality, and sequence of molecular events. In addition to ongoing inflammation and mutation, experimental studie...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42688475",
+      "date": "2026-08-19",
+      "title": "Extracellular vesicles at the immune-metabolic crossroads of Hashimoto's thyroiditis and diabetes mellitus.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42688475/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42688475。",
+      "report": "Hashimoto's thyroiditis (HT) and diabetes mellitus are highly prevalent chronic immune-mediated disorders that frequently co-occur and share genetic susceptibility, T-helper (Th) 1/Th17 skewing, and regulatory T-cell (Treg) dysfunction. Among individuals with...",
+      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42653123",
       "date": "2026-08-08",
       "title": "Single-Cell and Spatial Omics Technologies in Rice Abiotic Stress Biology: A Methodological Review.",
@@ -1215,36 +1240,6 @@
       "fact": "PubMed 记录显示该文献收录于 Science bulletin，PMID 为 42580899。",
       "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42687164",
-      "date": "2026-07-25",
-      "title": "Clinical features and imaging diagnostic challenges of fetus-in-fetu associated with abdominal cryptorchidism: a case report.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42687164/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 BMC pediatrics，PMID 为 42687164。",
-      "report": "Fetus-in-fetu (FIF) is a rare congenital anomaly in which a malformed monozygotic twin is incorporated within its host twin. FIF is usually retroperitoneal, whereas association with an intra-abdominal undescended testis is exceptionally uncommon. Because imagi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

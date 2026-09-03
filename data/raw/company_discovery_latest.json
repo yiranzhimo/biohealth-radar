@@ -1,9 +1,9 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-09-03T11:21:21.601117+00:00",
+  "capturedAt": "2026-09-03T16:30:08.837442+00:00",
   "summary": {
-    "mentionCount": 667,
+    "mentionCount": 666,
     "candidateCount": 596,
     "corroboratedCount": 3,
     "identifiedCount": 586,
@@ -11,7 +11,7 @@
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 4,
+      "ClinicalTrials": 3,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 59,
@@ -20,110 +20,105 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-0f72102e26065fd4",
-      "observedName": "Żelazna Medical Centre, LLC",
-      "normalizedName": "żelazna medical centre",
+      "id": "mention-clinicaltrials-cdbd942455172a3f",
+      "observedName": "Guangzhou Burning Rock Bioengineering Ltd.",
+      "normalizedName": "guangzhou burning rock bioengineering",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT05318989",
-      "sourceDate": "2023-07-12",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05318989",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT06979921",
+      "sourceDate": "2025-08-14",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06979921",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Biomarkers",
         "Clinical Trials",
+        "Diagnostics",
         "Longevity",
-        "biomarker",
-        "临床试验",
-        "衰老"
-      ],
-      "activitySignals": [],
-      "contextTitle": "Genetic Aspects of Vaginal Aging"
-    },
-    {
-      "id": "mention-clinicaltrials-919ec221f9a7b44e",
-      "observedName": "Kanglin Biotechnology (Hangzhou) Co., Ltd.",
-      "normalizedName": "kanglin biotechnology hangzhou",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06280378",
-      "sourceDate": "2025-03-10",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06280378",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
         "Oncology",
+        "Precision Medicine",
         "Precision Oncology",
         "Recruiting",
+        "biomarker",
         "中国",
         "临床试验",
-        "肿瘤"
+        "乳腺癌",
+        "精准医疗",
+        "肿瘤",
+        "衰老",
+        "诊断"
       ],
       "activitySignals": [
         "active_trial",
-        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Β-Thalassemia Treatment with KL003 Cell Injection"
+      "contextTitle": "PERformance of Multi-Cancer Early-detectIon Based on Various Biomarkers in fEmale BREAST Cancers, PERCEIVE-BREAST"
     },
     {
-      "id": "mention-clinicaltrials-b451dd53c36e426c",
-      "observedName": "AI Labs Group S.L",
-      "normalizedName": "ai labs group s l",
+      "id": "mention-clinicaltrials-e55d0f255d90d44e",
+      "observedName": "Oncoliq US Inc",
+      "normalizedName": "oncoliq us",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07429123",
-      "sourceDate": "2026-02-24",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07429123",
+      "sourceRecordId": "NCT06439940",
+      "sourceDate": "2024-06-07",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06439940",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
+        "Biomarkers",
         "Clinical Trials",
         "Healthcare AI",
+        "Longevity",
         "Medical AI",
         "Oncology",
         "Precision Oncology",
+        "biomarker",
         "临床决策支持",
         "临床试验",
+        "乳腺癌",
         "医疗 AI",
-        "肿瘤"
+        "肿瘤",
+        "衰老"
       ],
       "activitySignals": [
         "trial_intervention"
       ],
-      "contextTitle": "Using an Artificial Intelligence Medical Device to Help Primary Care Practitioners Identify and Manage Skin Conditions (Tumor, Inflammatory, and Infectious Diseases) in Adult Patients at Pozuelo and Majadahonda Health Centers"
+      "contextTitle": "Oncoliq: Early Breast Cancer Detection Based on Liquid Biopsies and microRNAs"
     },
     {
-      "id": "mention-clinicaltrials-ff0508643a830314",
-      "observedName": "Precedo Pharmaceuticals Co. Ltd.",
-      "normalizedName": "precedo pharmaceuticals",
+      "id": "mention-clinicaltrials-f1f5c72f91c8ca72",
+      "observedName": "Union Strong（Beijing）Technology Co.Ltd.",
+      "normalizedName": "union strong beijing technology",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT06100003",
-      "sourceDate": "2024-02-07",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06100003",
+      "sourceRecordId": "NCT07749404",
+      "sourceDate": "2026-08-06",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07749404",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Advanced Disease Models",
+        "Biomarkers",
         "Clinical Trials",
-        "Oncology",
-        "Organoids",
-        "Precision Oncology",
+        "Healthcare AI",
+        "Longevity",
+        "Medical AI",
+        "Recruiting",
+        "biomarker",
         "中国",
+        "临床决策支持",
         "临床试验",
-        "疾病模型",
-        "类器官",
-        "肿瘤"
+        "医疗 AI",
+        "衰老"
       ],
-      "activitySignals": [],
-      "contextTitle": "A Clinical Study Aims to Assess the Consistency of Clinical Efficacy in Gastric Cancer Treatment and Drug Susceptibility Outcomes Using a Novel Drug Susceptibility Testing Method"
+      "activitySignals": [
+        "active_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Intelligent Microcatheter Shaping for Intracranial Aneurysm Coil Embolization"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -44363,41 +44358,51 @@
       ]
     },
     {
-      "id": "candidate-ai-labs-group-s-l",
-      "name": "AI Labs Group S.L",
+      "id": "candidate-oncoliq-us",
+      "name": "Oncoliq US Inc",
       "aliases": [
-        "AI Labs Group S.L"
+        "Oncoliq US Inc"
       ],
-      "normalizedName": "ai labs group s l",
+      "normalizedName": "oncoliq us",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-02-24",
-      "lastSeenAt": "2026-02-24",
+      "firstSeenAt": "2024-06-07",
+      "lastSeenAt": "2024-06-07",
       "identifiers": {},
       "classificationHints": {
         "directions": [
+          "Biomarkers",
           "Clinical Trials",
           "Healthcare AI",
+          "Longevity",
           "Medical AI",
           "Oncology",
           "Precision Oncology",
+          "biomarker",
           "临床决策支持",
           "临床试验",
+          "乳腺癌",
           "医疗 AI",
-          "肿瘤"
+          "肿瘤",
+          "衰老"
         ],
         "themes": [
+          "Biomarkers",
           "Clinical Trials",
           "Healthcare AI",
+          "Longevity",
           "Medical AI",
           "Oncology",
           "Precision Oncology",
+          "biomarker",
           "临床决策支持",
           "临床试验",
+          "乳腺癌",
           "医疗 AI",
-          "肿瘤"
+          "肿瘤",
+          "衰老"
         ],
         "tags": []
       },
@@ -44410,75 +44415,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-b451dd53c36e426c"
+        "mention-clinicaltrials-e55d0f255d90d44e"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2026-02-24",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT07429123",
-          "externalId": "NCT07429123",
-          "contextTitle": "Using an Artificial Intelligence Medical Device to Help Primary Care Practitioners Identify and Manage Skin Conditions (Tumor, Inflammatory, and Infectious Diseases) in Adult Patients at Pozuelo and Majadahonda Health Centers"
-        }
-      ]
-    },
-    {
-      "id": "candidate-kanglin-biotechnology-hangzhou",
-      "name": "Kanglin Biotechnology (Hangzhou) Co., Ltd.",
-      "aliases": [
-        "Kanglin Biotechnology (Hangzhou) Co., Ltd."
-      ],
-      "normalizedName": "kanglin biotechnology hangzhou",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2025-03-10",
-      "lastSeenAt": "2025-03-10",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "Recruiting",
-          "中国",
-          "临床试验",
-          "肿瘤"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "Recruiting",
-          "中国",
-          "临床试验",
-          "肿瘤"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-919ec221f9a7b44e"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2025-03-10",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06280378",
-          "externalId": "NCT06280378",
-          "contextTitle": "Β-Thalassemia Treatment with KL003 Cell Injection"
+          "sourceDate": "2024-06-07",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06439940",
+          "externalId": "NCT06439940",
+          "contextTitle": "Oncoliq: Early Breast Cancer Detection Based on Liquid Biopsies and microRNAs"
         }
       ]
     },
@@ -47344,62 +47291,6 @@
       ]
     },
     {
-      "id": "candidate-elazna-medical-centre",
-      "name": "Żelazna Medical Centre, LLC",
-      "aliases": [
-        "Żelazna Medical Centre, LLC"
-      ],
-      "normalizedName": "żelazna medical centre",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.78,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2023-07-12",
-      "lastSeenAt": "2023-07-12",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Longevity",
-          "biomarker",
-          "临床试验",
-          "衰老"
-        ],
-        "themes": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Longevity",
-          "biomarker",
-          "临床试验",
-          "衰老"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-0f72102e26065fd4"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2023-07-12",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT05318989",
-          "externalId": "NCT05318989",
-          "contextTitle": "Genetic Aspects of Vaginal Aging"
-        }
-      ]
-    },
-    {
       "id": "candidate-gordon-research-conferences",
       "name": "Gordon Research Conferences",
       "aliases": [
@@ -47664,6 +47555,150 @@
           "sourceUrl": "https://reporter.nih.gov/project-details/11316567",
           "externalId": "11316567",
           "contextTitle": "Integrated High-Throughput Microfluidic-Mass Spectrometry for Enhanced Biomedical Data Generation and AI Model Training"
+        }
+      ]
+    },
+    {
+      "id": "candidate-guangzhou-burning-rock-bioengineering",
+      "name": "Guangzhou Burning Rock Bioengineering Ltd.",
+      "aliases": [
+        "Guangzhou Burning Rock Bioengineering Ltd."
+      ],
+      "normalizedName": "guangzhou burning rock bioengineering",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2025-08-14",
+      "lastSeenAt": "2025-08-14",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Diagnostics",
+          "Longevity",
+          "Oncology",
+          "Precision Medicine",
+          "Precision Oncology",
+          "Recruiting",
+          "biomarker",
+          "中国",
+          "临床试验",
+          "乳腺癌",
+          "精准医疗",
+          "肿瘤",
+          "衰老",
+          "诊断"
+        ],
+        "themes": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Diagnostics",
+          "Longevity",
+          "Oncology",
+          "Precision Medicine",
+          "Precision Oncology",
+          "Recruiting",
+          "biomarker",
+          "中国",
+          "临床试验",
+          "乳腺癌",
+          "精准医疗",
+          "肿瘤",
+          "衰老",
+          "诊断"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-cdbd942455172a3f"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2025-08-14",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06979921",
+          "externalId": "NCT06979921",
+          "contextTitle": "PERformance of Multi-Cancer Early-detectIon Based on Various Biomarkers in fEmale BREAST Cancers, PERCEIVE-BREAST"
+        }
+      ]
+    },
+    {
+      "id": "candidate-union-strong-beijing-technology",
+      "name": "Union Strong（Beijing）Technology Co.Ltd.",
+      "aliases": [
+        "Union Strong（Beijing）Technology Co.Ltd."
+      ],
+      "normalizedName": "union strong beijing technology",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-08-06",
+      "lastSeenAt": "2026-08-06",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Healthcare AI",
+          "Longevity",
+          "Medical AI",
+          "Recruiting",
+          "biomarker",
+          "中国",
+          "临床决策支持",
+          "临床试验",
+          "医疗 AI",
+          "衰老"
+        ],
+        "themes": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Healthcare AI",
+          "Longevity",
+          "Medical AI",
+          "Recruiting",
+          "biomarker",
+          "中国",
+          "临床决策支持",
+          "临床试验",
+          "医疗 AI",
+          "衰老"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-f1f5c72f91c8ca72"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2026-08-06",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07749404",
+          "externalId": "NCT07749404",
+          "contextTitle": "Intelligent Microcatheter Shaping for Intracranial Aneurysm Coil Embolization"
         }
       ]
     }
