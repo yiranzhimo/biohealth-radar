@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-09-04T11:24:37.107611+00:00",
+  "capturedAt": "2026-09-04T16:26:11.388832+00:00",
   "summary": {
     "mentionCount": 666,
     "candidateCount": 596,
@@ -20,105 +20,91 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-cdbd942455172a3f",
-      "observedName": "Guangzhou Burning Rock Bioengineering Ltd.",
-      "normalizedName": "guangzhou burning rock bioengineering",
+      "id": "mention-clinicaltrials-01f19f749698c7e9",
+      "observedName": "Genentech, Inc.",
+      "normalizedName": "genentech",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT06979921",
-      "sourceDate": "2025-08-14",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06979921",
+      "sourceRecordId": "NCT02203773",
+      "sourceDate": "2023-05-16",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT02203773",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "临床试验",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Study of ABT-199 (GDC-0199) in Combination With Azacitidine or Decitabine (Chemo Combo) in Subjects With Acute Myelogenous Leukemia (AML)"
+    },
+    {
+      "id": "mention-clinicaltrials-2251a033b5d12cd6",
+      "observedName": "MediLink Therapeutics (Suzhou) Co., Ltd.",
+      "normalizedName": "medilink therapeutics suzhou",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT06107686",
+      "sourceDate": "2025-11-26",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06107686",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "Recruiting",
+        "中国",
+        "临床试验",
+        "乳腺癌",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "A Study of YL202 in Selected Patients With Advanced Solid Tumors"
+    },
+    {
+      "id": "mention-clinicaltrials-a917cc2751770c57",
+      "observedName": "Peerbridge Health, Inc",
+      "normalizedName": "peerbridge health",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT07775976",
+      "sourceDate": "2026-08-21",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07775976",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Biomarkers",
         "Clinical Trials",
         "Diagnostics",
+        "Healthcare AI",
         "Longevity",
-        "Oncology",
+        "Medical AI",
         "Precision Medicine",
-        "Precision Oncology",
-        "Recruiting",
         "biomarker",
-        "中国",
+        "临床决策支持",
         "临床试验",
-        "乳腺癌",
+        "医疗 AI",
         "精准医疗",
-        "肿瘤",
         "衰老",
         "诊断"
       ],
       "activitySignals": [
-        "active_trial",
         "trial_intervention"
       ],
-      "contextTitle": "PERformance of Multi-Cancer Early-detectIon Based on Various Biomarkers in fEmale BREAST Cancers, PERCEIVE-BREAST"
-    },
-    {
-      "id": "mention-clinicaltrials-e55d0f255d90d44e",
-      "observedName": "Oncoliq US Inc",
-      "normalizedName": "oncoliq us",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06439940",
-      "sourceDate": "2024-06-07",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06439940",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Healthcare AI",
-        "Longevity",
-        "Medical AI",
-        "Oncology",
-        "Precision Oncology",
-        "biomarker",
-        "临床决策支持",
-        "临床试验",
-        "乳腺癌",
-        "医疗 AI",
-        "肿瘤",
-        "衰老"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "Oncoliq: Early Breast Cancer Detection Based on Liquid Biopsies and microRNAs"
-    },
-    {
-      "id": "mention-clinicaltrials-f1f5c72f91c8ca72",
-      "observedName": "Union Strong（Beijing）Technology Co.Ltd.",
-      "normalizedName": "union strong beijing technology",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT07749404",
-      "sourceDate": "2026-08-06",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07749404",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Healthcare AI",
-        "Longevity",
-        "Medical AI",
-        "Recruiting",
-        "biomarker",
-        "中国",
-        "临床决策支持",
-        "临床试验",
-        "医疗 AI",
-        "衰老"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Intelligent Microcatheter Shaping for Intracranial Aneurysm Coil Embolization"
+      "contextTitle": "Cor360: Clinician-Facing Broad-Spectrum Cardiac Phenotyping and Risk Assessment Using COR® Wearable ECG to Inform Outcomes-Oriented Care Pathways"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -44358,51 +44344,39 @@
       ]
     },
     {
-      "id": "candidate-oncoliq-us",
-      "name": "Oncoliq US Inc",
+      "id": "candidate-medilink-therapeutics-suzhou",
+      "name": "MediLink Therapeutics (Suzhou) Co., Ltd.",
       "aliases": [
-        "Oncoliq US Inc"
+        "MediLink Therapeutics (Suzhou) Co., Ltd."
       ],
-      "normalizedName": "oncoliq us",
+      "normalizedName": "medilink therapeutics suzhou",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2024-06-07",
-      "lastSeenAt": "2024-06-07",
+      "firstSeenAt": "2025-11-26",
+      "lastSeenAt": "2025-11-26",
       "identifiers": {},
       "classificationHints": {
         "directions": [
-          "Biomarkers",
           "Clinical Trials",
-          "Healthcare AI",
-          "Longevity",
-          "Medical AI",
           "Oncology",
           "Precision Oncology",
-          "biomarker",
-          "临床决策支持",
+          "Recruiting",
+          "中国",
           "临床试验",
           "乳腺癌",
-          "医疗 AI",
-          "肿瘤",
-          "衰老"
+          "肿瘤"
         ],
         "themes": [
-          "Biomarkers",
           "Clinical Trials",
-          "Healthcare AI",
-          "Longevity",
-          "Medical AI",
           "Oncology",
           "Precision Oncology",
-          "biomarker",
-          "临床决策支持",
+          "Recruiting",
+          "中国",
           "临床试验",
           "乳腺癌",
-          "医疗 AI",
-          "肿瘤",
-          "衰老"
+          "肿瘤"
         ],
         "tags": []
       },
@@ -44415,17 +44389,89 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-e55d0f255d90d44e"
+        "mention-clinicaltrials-2251a033b5d12cd6"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2024-06-07",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06439940",
-          "externalId": "NCT06439940",
-          "contextTitle": "Oncoliq: Early Breast Cancer Detection Based on Liquid Biopsies and microRNAs"
+          "sourceDate": "2025-11-26",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06107686",
+          "externalId": "NCT06107686",
+          "contextTitle": "A Study of YL202 in Selected Patients With Advanced Solid Tumors"
+        }
+      ]
+    },
+    {
+      "id": "candidate-peerbridge-health",
+      "name": "Peerbridge Health, Inc",
+      "aliases": [
+        "Peerbridge Health, Inc"
+      ],
+      "normalizedName": "peerbridge health",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.86,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-08-21",
+      "lastSeenAt": "2026-08-21",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Diagnostics",
+          "Healthcare AI",
+          "Longevity",
+          "Medical AI",
+          "Precision Medicine",
+          "biomarker",
+          "临床决策支持",
+          "临床试验",
+          "医疗 AI",
+          "精准医疗",
+          "衰老",
+          "诊断"
+        ],
+        "themes": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Diagnostics",
+          "Healthcare AI",
+          "Longevity",
+          "Medical AI",
+          "Precision Medicine",
+          "biomarker",
+          "临床决策支持",
+          "临床试验",
+          "医疗 AI",
+          "精准医疗",
+          "衰老",
+          "诊断"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-a917cc2751770c57"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "lead_sponsor",
+          "sourceDate": "2026-08-21",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07775976",
+          "externalId": "NCT07775976",
+          "contextTitle": "Cor360: Clinician-Facing Broad-Spectrum Cardiac Phenotyping and Risk Assessment Using COR® Wearable ECG to Inform Outcomes-Oriented Care Pathways"
         }
       ]
     },
@@ -47559,55 +47605,33 @@
       ]
     },
     {
-      "id": "candidate-guangzhou-burning-rock-bioengineering",
-      "name": "Guangzhou Burning Rock Bioengineering Ltd.",
+      "id": "candidate-genentech",
+      "name": "Genentech, Inc.",
       "aliases": [
-        "Guangzhou Burning Rock Bioengineering Ltd."
+        "Genentech, Inc."
       ],
-      "normalizedName": "guangzhou burning rock bioengineering",
+      "normalizedName": "genentech",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2025-08-14",
-      "lastSeenAt": "2025-08-14",
+      "firstSeenAt": "2023-05-16",
+      "lastSeenAt": "2023-05-16",
       "identifiers": {},
       "classificationHints": {
         "directions": [
-          "Biomarkers",
           "Clinical Trials",
-          "Diagnostics",
-          "Longevity",
           "Oncology",
-          "Precision Medicine",
           "Precision Oncology",
-          "Recruiting",
-          "biomarker",
-          "中国",
           "临床试验",
-          "乳腺癌",
-          "精准医疗",
-          "肿瘤",
-          "衰老",
-          "诊断"
+          "肿瘤"
         ],
         "themes": [
-          "Biomarkers",
           "Clinical Trials",
-          "Diagnostics",
-          "Longevity",
           "Oncology",
-          "Precision Medicine",
           "Precision Oncology",
-          "Recruiting",
-          "biomarker",
-          "中国",
           "临床试验",
-          "乳腺癌",
-          "精准医疗",
-          "肿瘤",
-          "衰老",
-          "诊断"
+          "肿瘤"
         ],
         "tags": []
       },
@@ -47620,85 +47644,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-cdbd942455172a3f"
+        "mention-clinicaltrials-01f19f749698c7e9"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2025-08-14",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06979921",
-          "externalId": "NCT06979921",
-          "contextTitle": "PERformance of Multi-Cancer Early-detectIon Based on Various Biomarkers in fEmale BREAST Cancers, PERCEIVE-BREAST"
-        }
-      ]
-    },
-    {
-      "id": "candidate-union-strong-beijing-technology",
-      "name": "Union Strong（Beijing）Technology Co.Ltd.",
-      "aliases": [
-        "Union Strong（Beijing）Technology Co.Ltd."
-      ],
-      "normalizedName": "union strong beijing technology",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.66,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-08-06",
-      "lastSeenAt": "2026-08-06",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Healthcare AI",
-          "Longevity",
-          "Medical AI",
-          "Recruiting",
-          "biomarker",
-          "中国",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI",
-          "衰老"
-        ],
-        "themes": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Healthcare AI",
-          "Longevity",
-          "Medical AI",
-          "Recruiting",
-          "biomarker",
-          "中国",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI",
-          "衰老"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-f1f5c72f91c8ca72"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "collaborator",
-          "sourceDate": "2026-08-06",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT07749404",
-          "externalId": "NCT07749404",
-          "contextTitle": "Intelligent Microcatheter Shaping for Intracranial Aneurysm Coil Embolization"
+          "sourceDate": "2023-05-16",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT02203773",
+          "externalId": "NCT02203773",
+          "contextTitle": "Study of ABT-199 (GDC-0199) in Combination With Azacitidine or Decitabine (Chemo Combo) in Subjects With Acute Myelogenous Leukemia (AML)"
         }
       ]
     }
