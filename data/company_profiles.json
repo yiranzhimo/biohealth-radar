@@ -47962,6 +47962,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001652130-000119312526383645",
           "evidence-company-intellia-pipeline-bbcfc2db2053",
           "evidence-company-intellia-official-1cca8fbc302f",
           "evidence-company-intellia-investor_relations-7de05bb26624",
@@ -47972,6 +47973,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001652130-000119312526383645",
+            "date": "2026-09-04",
+            "title": "Intellia Therapeutics filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001652130-000119312526383645",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526383645/d110798d8k.htm"
+          },
           {
             "id": "event-evidence-company-intellia-pipeline-bbcfc2db2053",
             "date": "2026-08-10",
@@ -48015,17 +48027,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001652130-000119312526337952",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526337952/ntla-20260630.htm"
-          },
-          {
-            "id": "event-sec-0001652130-000119312526336772",
-            "date": "2026-08-06",
-            "title": "Intellia Therapeutics filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001652130-000119312526336772",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526336772/ntla-20260806.htm"
           }
         ],
         "inferences": [],
@@ -48036,12 +48037,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 5,
+        "evidenceCount": 6,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 2
+          "Filing": 3
         },
-        "lastEvidenceDate": "2026-08-10",
+        "lastEvidenceDate": "2026-09-04",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -48050,6 +48051,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001652130-000119312526383645",
+          "date": "2026-09-04",
+          "title": "Intellia Therapeutics filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001652130-000119312526383645",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526383645/d110798d8k.htm"
+        },
         {
           "id": "event-evidence-company-intellia-pipeline-bbcfc2db2053",
           "date": "2026-08-10",
