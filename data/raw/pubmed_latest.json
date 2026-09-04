@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-04T04:39:58.661542+00:00",
+  "capturedAt": "2026-09-04T11:24:33.172268+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,137 +14,140 @@
     "end": "2026-09-04"
   },
   "pmids": [
-    "42693041",
-    "42692554",
-    "42692440",
-    "42692358",
-    "42692260",
-    "42692235",
+    "42693960",
+    "42693840",
+    "42693695",
+    "42693564",
+    "42693239",
+    "42693236",
     "42693007",
     "42667121",
     "42656114",
     "42653123",
     "42648290",
     "42600555",
+    "42693314",
     "42691096",
     "42689962",
     "42686908",
     "42686780",
     "42681358",
-    "42679818",
+    "42693869",
     "42692900",
     "42692838",
     "42692176",
     "42692100",
-    "42691509",
-    "42691057"
+    "42691509"
   ],
   "records": [
     {
-      "pmid": "42693041",
-      "title": "[Construction and application of organoid models in traditional Chinese medicine research].",
-      "abstract": "Traditional Chinese medicine(TCM) research has long faced technical bottlenecks, including the complexity of chemical composition, multi-target mechanisms of action, and the difficulty of deeply elucidating holistic effects. There is an urgent need to establish novel research models and platforms that more closely recapitulate in vivo physiological and pathological states. In recent years, organoids, as emerging three-dimensional culture systems, have been widely applied in drug screening, toxicity evaluation, and personalized medicine, offering new technical tools and perspectives for TCM research. However, the application of organoid models in TCM research is still in its early stage, and relevant case studies and systematic summaries remain insufficient. This article systematically reviews the construction characteristics of different types of organoid models and their application value in TCM research, with a focus on the applications of organoids in the studies of medicinal herbs, TCM formulas, and TCM toxicity and safety evaluation. These applications include elucidation of mechanisms of action, screening of active components, toxicity and safety assessment, exploration of formula compatibility patterns, and development of novel TCM drugs. In view of the current challenges and limitations of organoid technology in standardized construction, simulation of complex microenvironments, maintenance of functional stability, adaptation to the complexity of TCM systems, and particularly the development of disease-syndrome combination models, this paper proposes corresponding solutions. Furthermore, this paper envisions the application prospects of integrating organoids with cutting-edge technologies such as microfluidics, artificial intelligence, 3D bioprinting, and multi-omics analysis to address the complexities of TCM research, aiming to provide a systematic reference and a theoretical basis for advancing the modernization of TCM.",
-      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "pmid": "42693960",
+      "title": "New Studies Showcase Capabilities of Organoids.",
+      "abstract": "Three recent papers show the potential benefits of several hundred new organoids, spheroids, and other cancer models. One study demonstrates that more than 600 of the models mirror their parent tumors. A second study uses organoids to uncover new cancer dependencies, or essential genes, in 147 organoids from 10 cancer types. The third study also identifies new cancer dependencies and shows that organoids from individual patients might lead to new treatment choices.",
+      "journal": "Cancer discovery",
       "publicationTypes": [
-        "Journal Article",
-        "Review",
-        "English Abstract"
+        "Journal Article"
       ],
-      "affiliations": [
-        "School of Pharmacy,Henan University of Chinese Medicine Zhengzhou 450046,China.",
-        "Academy of Chinese Medical Sciences,Henan University of Chinese Medicine Zhengzhou 450046,China.",
-        "School of Pharmacy,Henan University of Chinese Medicine Zhengzhou 450046,China Academy of Chinese Medical Sciences,Henan University of Chinese Medicine Zhengzhou 450046,China."
-      ],
-      "doi": "10.19540/j.cnki.cjcmm.20260509.362",
-      "date": "2026-08-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693041/"
+      "affiliations": [],
+      "doi": "10.1158/2159-8290.CD-NW2026-0086",
+      "date": "2026-09-04",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693960/"
     },
     {
-      "pmid": "42692554",
-      "title": "Real-time tracking of cell death in human intestinal organoids: A quantitative imaging approach.",
-      "abstract": "Organoids are self-renewing three-dimensional tissue models that can be derived from patient samples. Their recapitulation of the structure and function of native tissues makes them powerful tools for studying development, physiology, disease mechanisms and personalized medicine in vitro. However, quantitative assessment of cell death in organoid systems remains challenging due to their structural complexity and dynamic responses. Here, we present a robust pipeline combining real-time Incucyte® live-cell imaging with ImageJ-based quantitative analysis to measure cell death kinetics in human intestinal organoids. Organoids are cultured in the low-viscosity matrix suspension culture method, labelled with cell death-specific Incucyte® Cytotox Red Dye, and imaged via brightfield and fluorescence channels. A custom ImageJ analysis pipeline enables calculation of cell death overtime with high sensitivity and reproducibility. This approach overcomes the limitations of endpoint assays, delivering precise kinetic quantification of organoid cell death in response to cytokine stimulation, drug treatments, or genetic perturbations. The workflow is broadly applicable across diverse organoid systems and offers a scalable, standardized platform for interrogating cell death dynamics in basic and translational research.",
-      "journal": "Methods in cell biology",
+      "pmid": "42693840",
+      "title": "Mesenchymal Stem Cells Attenuate Acute Lung Injury Through the NF-κB/STAT3-Ntrk2 Axis to Promote Alveolar Epithelial Regeneration.",
+      "abstract": "Mesenchymal stem cells (MSCs) possess immunomodulatory and tissuereparative properties and have shown therapeutic potential in acute lung injury (ALI). However, the mechanisms underlying their protective effects remain unclear. This study aimed to evaluate the effects of MSCs on bleomycin-induced ALI and to explore the underlying molecular mechanisms. A bleomycin-induced ALI mouse model was established, followed by human umbilical cord-derived MSC administration. Lung injury, pulmonary edema, neutrophil infiltration, and apoptosis of alveolar type II epithelial cells (AT2) were assessed. RNA-seq and molecular validation were performed using sorted AT2 cells to investigate the underlying mechanism. In vitro assays were carried out to examine the role of Ntrk2 in MSC-mediated epithelial repair. MSC treatment alleviated lung injury, improved alveolar structure, reduced pulmonary edema, and decreased neutrophil infiltration and AT2 cell apoptosis. RNA-seq and molecular analyses indicated that MSCs regulated Ntrk2 expression by suppressing NF-κB signaling and enhancing STAT3 signaling, thereby promoting alveolar epithelial regeneration. In vitro, inhibition of Ntrk2 impaired the promotive effects of MSCs on A549 cell migration and alveolar organoid repair. These findings suggest that MSCs protect against ALI by attenuating inflammatory injury and promoting alveolar epithelial repair, with the NF-κB/STAT3-Ntrk2 axis contributing to this process. MSC treatment ameliorated bleomycin-induced ALI and promoted alveolar epithelial regeneration, at least partly through the NF-κB/STAT3-Ntrk2 axis. These results provide further mechanistic support for MSC-based therapy in ALI.",
+      "journal": "Current stem cell research & therapy",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "The Walter and Eliza Hall Institute of Medical Research, Parkville, Australia; Department of Medical Biology, University of Melbourne, Parkville, Australia. Electronic address: pang.ji@wehi.edu.au.",
-        "Department of Biochemistry & Pharmacology & Biological Optical Microscopy Platform, The University of Melbourne, Parkville, VIC, Australia.",
-        "The Walter and Eliza Hall Institute of Medical Research, Parkville, Australia; Department of Medical Biology, University of Melbourne, Parkville, Australia.",
-        "The Walter and Eliza Hall Institute of Medical Research, Parkville, Australia; Department of Medical Biology, University of Melbourne, Parkville, Australia. Electronic address: vince@wehi.edu.au."
+        "State Key Laboratory of Experimental Hematology, National Clinical Research Center for Blood Diseases, Haihe Laboratory of Cell Ecosystem, Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Tianjin 300020, China.",
+        "Tianjin Institutes of Health Science, Tianjin 301600, China.",
+        "Department of Obstetrics, Tianjin Medical University, Baodi Hospital, Tianjin 301800, China."
       ],
-      "doi": "10.1016/bs.mcb.2026.05.004",
-      "date": "2026-06-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42692554/"
+      "doi": "10.2174/011574888X491069260820054606",
+      "date": "2026-08-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693840/"
     },
     {
-      "pmid": "42692440",
-      "title": "Patient-derived intestinal organoids in pediatric inflammatory bowel disease: applications in disease modeling and therapeutic response prediction.",
-      "abstract": "The incidence of pediatric inflammatory bowel disease (PIBD) has risen worldwide, creating significant challenges for healthcare professionals. Compared with adult-onset inflammatory bowel disease, PIBD often presents with more extensive intestinal involvement, a more aggressive course, and complications affecting growth and puberty, making timely disease control critical for PIBD. However, treatment selection remains largely empirical, and many patients fail to respond to initial therapy. Additionally, conventional experimental models, including 2-dimensional cell culture and animal systems, often fail to reproduce the complexities of human intestinal tissues. These limitations highlight the need for human-relevant experimental platforms capable of capturing patient-specific disease biology and supporting precise therapeutic decision-making in PIBD. In this context, patient-derived intestinal organoids have emerged as valuable tools for studying disease mechanisms and evaluating therapeutic responsiveness in patients with PIBD. Organoid-based systems enable direct investigations of epithelial barrier dysfunction, inflammatory signaling, metabolic alterations, and genotype-associated molecular features that provide insight into tissue-level disease heterogeneity. Emerging data suggest that ex vivo drug responses observed in patient-derived intestinal organoids may parallel clinical treatment outcomes, indicating their potential to support more informed therapy selection in PIBD. Despite these advances, current organoid models have important limitations including the absence of immune, stromal, and vascular components as well as challenges related to standardization, scalability, and cost-effectiveness. To overcome these limitations, next-generation platforms incorporating immune cell coculture systems, microbiota, and microfluidic technologies are being developed to better replicate the complexity of the host intestinal microenvironment. As these integrated systems evolve, intestinalorganoids are expected to become increasingly powerful tools for disease modeling, biomarker discovery, and therapeutic response prediction, ultimately supporting the development of personalized and effective treatment strategies for PIBD.",
-      "journal": "Clinical and experimental pediatrics",
+      "pmid": "42693695",
+      "title": "Organoids as an emerging platform for osteoarthritis drug development.",
+      "abstract": "",
+      "journal": "Clinical and translational medicine",
       "publicationTypes": [
-        "Journal Article"
+        "Letter"
       ],
       "affiliations": [
-        "Department of Pediatrics, Hallym University Kangnam Sacred Heart Hospital, Seoul, Korea. choky96@hallym.or.kr."
+        "Department of Orthopedics, Xinhua Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Trauma Orthopedics Center, Xinhua Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Institute of Musculoskeletal Injury and Translational Medicine of Organoids, Xinhua Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China."
       ],
-      "doi": "10.3345/cep.2026.00913",
+      "doi": "10.1002/ctm2.70806",
       "date": "2026-09-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42692440/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693695/"
     },
     {
-      "pmid": "42692358",
-      "title": "High-fat diet remodels plasma membrane rigidity to potentiate colonocyte stemness in mice.",
-      "abstract": "Obesity and consumption of a high-fat diet (HFD) are established risk factors for colorectal cancer (CRC). However, the cellular mechanisms linking dietary lipid exposure to intestinal stem cell (ISC) dysregulation remain incompletely defined. We therefore investigated whether HFD perturbs plasma membrane homeostasis to potentiate colonocyte stemness in mice. Mice were placed on a chronic 12-week HFD or control (low-fat diet; LFD) feeding regimen, or a short-term 1-week HFD exposure. In addition, genetically obese leptin receptor-deficient (db/db) versus (db/+) wildtype mice were examined. Membrane free cholesterol and rigidity were quantified in colonic crypts and Lgr5+ ISCs utilizing Filipin III and Di-4-ANEPPDHQ dyes, respectively. Membrane receptor nanoclustering of epidermal growth factor receptor (EGFR) and low-density lipoprotein receptor-related protein 6 (LRP6) was assessed by super-resolution microscopy. β-catenin activation, stem cell frequency, proliferation, and organoid-forming efficiency were also evaluated by immunostaining, flow cytometry, and ex vivo organoid assays. Chronic HFD feeding in mice increased membrane free cholesterol content and rigidity in colonic stem cells, and enhanced EGFR and LRP6 receptor nanoclustering. This alteration in plasma membrane homeostasis resulted in the overactivation of β-catenin and expansion of the ISC niche, e.g., stem cell proliferation and organoid-forming efficiency. Notably, genetically induced obesity in db/db mice did not recapitulate the HFD membrane phenotype, highlighting a diet-specific effect. Collectively, these findings identify plasma membrane remodeling as a previously unrecognized mechanism linking dietary lipids to aberrant ISC homeostasis and CRC risk.",
-      "journal": "Cellular and molecular gastroenterology and hepatology",
+      "pmid": "42693564",
+      "title": "Magnetically Driven Biofabrication for Tissue Engineering: From Nanoparticle Design to Mag-ATMP Translation.",
+      "abstract": "Magnetically driven biofabrication is emerging as a materials-enabled extension of tissue engineering, integrating advances in magnetic nanoparticle (MNP) design with cells, spheroids, and biomaterial scaffolds to engineer responsive and remotely controllable living systems. Progress in nanoparticle engineering has yielded biocompatible and tunable MNP formulations that can be incorporated into hydrogels, spheroids, organoids, and scaffolds, where they influence cellular behavior, extracellular matrix organization, and mechanotransduction. Externally applied magnetic fields further enable non-contact control over cell positioning, microtissue assembly, matrix alignment, and dynamic mechanical stimulation, expanding the design space of 3D and 4D biofabrication. This Review critically maps and unifies the multiscale design principles underlying magnetically driven biofabrication, spanning nanoparticle design, magnetic actuation strategies, and biological responses. We compare approaches ranging from single-cell manipulation and magnetoactive bioinks to spheroid fusion and microfluidic systems with embedded magnetic actuation. We further discuss how physics-based modeling, data-informed optimization, and emerging digital twin concepts may help connect material properties, magnetic field design, and biological response. Finally, we examine translational considerations, including Good Manufacturing Practice (GMP)-compatible nanoparticle formulations, mechanistic clarity, long-term safety evaluation, and regulatory alignment, converging toward magnetically enabled tissue-engineered advanced therapy medicinal products (Mag-TE ATMPs).",
+      "journal": "Advanced healthcare materials",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Program in Integrative Nutrition and Complex Diseases; Department of Nutrition; CPRIT Single Cell Data Science Core.",
-        "Program in Integrative Nutrition and Complex Diseases; Department of Nutrition; Interdisciplinary Faculty of Toxicology Program.",
-        "Program in Integrative Nutrition and Complex Diseases; Department of Nutrition.",
-        "Department of Chemistry.",
-        "CPRIT Single Cell Data Science Core; Department of Veterinary Integrative Biosciences; Department of Electrical and Computer Engineering.",
-        "Program in Integrative Nutrition and Complex Diseases; Department of Nutrition; Interdisciplinary Faculty of Toxicology Program; Regional Center of Excellence in Cancer, Texas A&M University, College Station, Texas, 77843, USA. Electronic address: r-chapkin@tamu.edu."
+        "Prometheus, Division of Skeletal Tissue Engineering, KU Leuven, Leuven, Belgium.",
+        "Skeletal Biology and Engineering Research Center, KU Leuven, Leuven, Belgium.",
+        "Biosystems Department, MeBioS, KU Leuven, Leuven, Belgium.",
+        "Membrane Separations, Adsorption, Catalysis, and Spectroscopy for Sustainable Solutions (cMACS), KU Leuven, Leuven, Belgium.",
+        "Department of Physical Chemistry, CINBIO, Materials Chemistry and Physics Group, Universidade De Vigo, Vigo, Spain."
       ],
-      "doi": "10.1016/j.jcmgh.2026.101878",
+      "doi": "10.1002/adhm.71669",
       "date": "2026-09-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42692358/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693564/"
     },
     {
-      "pmid": "42692260",
-      "title": "Paragangliomas and Pheochromocytomas: Integrating Developmental Biology With Translational Technologies. A Narrative Review.",
-      "abstract": "Pheochromocytomas and paragangliomas (PGLs) are rare neural crest-derived neuroendocrine neoplasms with highly variable clinical behavior and limited therapeutic options in metastatic disease. From a pathology perspective, diagnosis and risk assessment have traditionally relied on histomorphology and immunohistochemistry. However, conventional parameters remain insufficient to reliably predict biological behavior. Over the past decade, genomic and transcriptomic profiling have refined molecular classification, yet genotype-based stratification alone does not fully explain heterogeneity in tumor progression, immune composition, or treatment response. This review examines the evolution of experimental and analytical approaches to PGLs through a pathology-centered lens. We first discuss how advances in developmental biology and molecular classification have reshaped understanding of tumor heterogeneity beyond morphology. We then highlight the growing recognition of the tumor microenvironment as a critical determinant of tumor behavior. In this context, spatially resolved protein profiling, including multiplex immunofluorescence (mIF), has emerged as an important extension of traditional immunohistochemistry, enabling simultaneous visualization of immune and tumor cell populations within preserved tissue architecture. These approaches provide functional insight that cannot be derived from bulk genomic analyses alone. Despite these advances, translation into therapeutic innovations has been hampered by the lack of physiologically relevant human model systems. Early two-dimensional cell cultures and rodent models provided foundational mechanistic insights but fail to recapitulate human tumor architecture and microenvironmental interactions. The recent establishment of patient-derived PGL organoids represents a significant step forward, preserving chromaffin lineage features and enabling ex vivo pharmacologic interrogation. Taken together, the progression from histopathological assessment to spatial immune profiling and advanced three-dimensional human modeling defines a conceptual framework in which functional therapeutic testing may become integrated into future pathology-driven translational research in PGLs.",
-      "journal": "Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Vascular Surgery, University Utrecht Medical Center, Utrecht, The Netherlands.",
-        "Department of Pathology, University Medical Centre, Utrecht, The Netherlands; Princess Máxima Center for Pediatric Oncology, Utrecht, The Netherlands. Electronic address: r.r.dekrijger@umcutrecht.nl."
-      ],
-      "doi": "10.1016/j.modpat.2026.101051",
-      "date": "2026-09-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42692260/"
-    },
-    {
-      "pmid": "42692235",
-      "title": "Transient Calcium Signaling Reprograms YAP Mechanosensitivity through Actin Remodeling.",
-      "abstract": "YAP is a central regulator of cell fate, proliferation, and tissue homeostasis that integrates physical cues from the extracellular matrix (ECM). While stiff environments canonically drive YAP nuclear localization and soft environments promote cytoplasmic sequestration, the logic by which cells integrate mechanical inputs with transient biochemical signals remains poorly defined. Here, we examine how intracellular calcium transients interact with substrate compliance to regulate YAP dynamics and transcriptional outputs across epithelial, myoblast, and fibroblast lineages. Using collagen-coated polyacrylamide hydrogels with tunable mechanics, we show that substrate compliance shapes the kinetics of calcium signaling, calcium-mediated actin remodeling, and YAP nuclear shuttling. We demonstrate that calcium signaling can transiently relax baseline mechanical constraints on YAP activity, triggering nuclear translocation and transcriptional activation even on compliant or non-adhesive substrates where YAP is classically suppressed. We identify substrate compliance as a biophysical regulator that filters the transduction of calcium transients into gene-specific programs. Targets such as CYR61 are induced across all mechanical contexts tested, whereas targets like CTGF and AREG require permissive mechanical conditions. These results suggest a preliminary model in which the mechanical state of the cell tunes the activation barrier for YAP-dependent transcription, enabling context-dependent responses to universal biochemical triggers. We show that destabilizing the F-actin cytoskeleton by promoting depolymerization or sequestering actin monomers results in attenuation of the calcium-mediated YAP activity, while stabilizing F-actin results in amplification YAP activity in response to calcium stimulation. This work reveals a fundamental mechanism by which transient signals integrate with matrix mechanics to produce distinct YAP-dependent outcomes, suggesting new strategies for controlling cell fate in regenerative medicine and engineered tissues. STATEMENT OF SIGNIFICANCE: Although YAP regulation by steady-state mechanical cues is well established, how these cues interact with dynamic biochemical signals such as calcium transients to control gene-specific transcription remains unclear. We show that intracellular calcium transients act as rapid, tunable inputs that promote YAP nuclear localization and target gene expression, even on soft substrates that normally suppress YAP activity. Low-threshold gene targets are activated broadly, whereas high-threshold targets require stiffer environments, positioning substrate mechanics as a biophysical gate that shapes the magnitude, kinetics, and gene specificity of calcium-mediated YAP responses. These findings provide insights into how cells integrate transient calcium signals with steady-state matrix mechanics to regulate proliferation, differentiation, and tissue behavior, and provide a framework for guiding cell fate in engineered tissues, organoids, and regenerative medicine.",
-      "journal": "Acta biomaterialia",
+      "pmid": "42693239",
+      "title": "Pleura organoid transplantation facilitates visceral pleural repair through CD133+ progenitor cell-mediated regeneration.",
+      "abstract": "Persistent pulmonary air leakage following thoracic surgery remains a major clinical challenge. Here we establish murine and human pleura organoids as a novel regenerative therapy. Morphological and functional analyses confirm that these organoids retain mesothelial markers and secretory activity critical for pleural homeostasis. Xenotransplantation beneath the renal capsule of immunodeficient mice generates pleura-like structures with a mesothelial monolayer and collagen-elastin networks. In vitro wound healing and precision-cut lung slice models demonstrate enhanced mesothelial migration and organoid integration at injury sites. In vivo, transplantation into a murine pleural rupture model facilitates dynamic structural restoration, with continuous mesothelial layer reformation and sustained recovery of pleural barrier function, and attenuates acute inflammation and fibrosis. Transcriptomic and functional studies, notably human lung single-cell RNA sequencing analysis, identify CD133+ cells as a key subpopulation, exhibiting enhanced organoid-forming capacity and multilineage differentiation in vitro. Critically, CD133+ organoid transplantation significantly alleviates murine pleural rupture. This pioneers a biologically precise interventions, elucidating the important role of CD133+ cells in pleura repair, with transformative potential for thoracic regenerative medicine.",
+      "journal": "Experimental & molecular medicine",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Bioengineering, UC San Diego, La Jolla USA.",
-        "School of Biological Sciences, UC San Diego, La Jolla USA.",
-        "Department of Bioengineering, UC San Diego, La Jolla USA. Electronic address: sifraley@ucsd.edu."
+        "Department of Thoracic, Affiliated Hospital of Guangdong Medical University, Zhanjiang, China.",
+        "GDMU-JingKe Biotech Joint Laboratory of Organoids, Affiliated Hospital of Guangdong Medical University, Zhanjiang, China.",
+        "Chengdu OrganoidMed Medical Laboratory, West China Health Valley, Chengdu, China.",
+        "Department of Pathology, Affiliated Hospital of Guangdong Medical University, Zhanjiang, China. wuyanxia2005@126.com.",
+        "Chengdu OrganoidMed Medical Laboratory, West China Health Valley, Chengdu, China. luzhenghao2007@126.com.",
+        "Department of Thoracic, Affiliated Hospital of Guangdong Medical University, Zhanjiang, China. liangzhuwsh@163.com.",
+        "GDMU-JingKe Biotech Joint Laboratory of Organoids, Affiliated Hospital of Guangdong Medical University, Zhanjiang, China. liangzhuwsh@163.com."
       ],
-      "doi": "10.1016/j.actbio.2026.09.002",
+      "doi": "10.1038/s12276-026-01825-w",
       "date": "2026-09-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42692235/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693239/"
+    },
+    {
+      "pmid": "42693236",
+      "title": "Generation of the functionally enhanced proximal tubular cells from human iPSC-derived kidney organoids.",
+      "abstract": "Human renal proximal tubular epithelial cells (RPPTCs) are crucial for exploring the molecular and cellular mechanisms underlying the pathophysiology of kidney injuries. In this study, we generated the functionally enhanced kidney organoid-derived proximal tubule cells (FEKOPTCs) from human induced pluripotent stem cells. Heparan sulfate proteoglycans and transforming growth factor-β receptor inhibitor enhanced the functionality of PTCs isolated from the kidney organoids of which the vascularization and maturation were improved by heparan sulfate proteoglycans and vascular endothelial growth factor. FEKOPTCs showed significantly enhanced epithelial barrier function, polarization state, and transporter function, compared with primary human RPTECs, which led to improve the function of drug uptake. Transcriptomic characterization of FEKOPTCs revealed high similarity to PTCs of native human adult kidney. FEKOPTCs-on-chip are more sensitive predictors than RPTECs-on-chip for nephrotoxicity testing. By using CRISPR-Cas9 genetic mutation of alpha-galactosidase A, the causative gene of Fabry disease, alpha-galactosidase A-mutant FEKOPTCs, recapitulated the functional phenotype of Fabry disease. When FEKOPTCs were transplanted into the kidney parenchyma of NOD-SCID mice, they reassembled and regenerated proximal tubular structures with intact lumens and functional transporters. Taken together, our results suggest that FEKOPTCs are functionally enhanced PTCs and can be applied for nephrotoxicity testing, disease modeling, and regenerative medicine.",
+      "journal": "Experimental & molecular medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Cell Death Disease Research Center, College of Medicine, The Catholic University of Korea, Seoul, Korea.",
+        "Rgenorgano Biotechnology, Seoul, Korea.",
+        "School of Life Sciences, Gwangju Institute of Science and Technology (GIST), Gwangju, Korea.",
+        "Department of Intelligent Precision Healthcare Convergence, Institute for Cross-disciplinary Studies (ICS), Sungkyunkwan University (SKKU), Suwon, Korea.",
+        "Department of Internal Medicine, The Catholic University of Korea, St Vincent's Hospital, Seoul, Korea.",
+        "Cell Death Disease Research Center, College of Medicine, The Catholic University of Korea, Seoul, Korea. drkimyk@catholic.ac.kr.",
+        "Rgenorgano Biotechnology, Seoul, Korea. drkimyk@catholic.ac.kr.",
+        "Department of Internal Medicine, The Catholic University of Korea, St Vincent's Hospital, Seoul, Korea. drkimyk@catholic.ac.kr."
+      ],
+      "doi": "10.1038/s12276-026-01821-0",
+      "date": "2026-09-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693236/"
     },
     {
       "pmid": "42693007",
@@ -250,6 +253,23 @@
       "doi": "10.1016/j.cancergen.2026.08.002",
       "date": "2026-08-08",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42600555/"
+    },
+    {
+      "pmid": "42693314",
+      "title": "De novo generation and computational screening of dual-targeting short peptide inhibitors against PBP2b and PBP2x in drug-resistant Streptococcus Pneumoniae.",
+      "abstract": "Deep learning has greatly advanced de novo protein design, yet its application to rational short peptide design remains underexplored. Here, we developed SPB-Seeker (Short Peptide Binder Seeker), an integrated pipeline combining deep learning-based generative models with computational chemistry screening to discover dual-target short peptide inhibitors. Using penicillin-binding proteins PBP2b and PBP2x from drug-resistant Streptococcus pneumoniae as targets, AFDesign, RFdiffusion, and BoltzGen were employed to generate an initial library of 1101 candidate sequences. Subsequently, ESM2 was employed to extract sequence embeddings for diversity analysis, which revealed distinct algorithmic biases among the three generative models, and was then used as the feature extractor of a prediction framework for early-stage toxicity screening. Candidates were further prioritized through molecular docking, tiered molecular dynamics simulations, and MM/PB(GB)SA binding free energy calculations. Three peptides, AFD1, BG3, and RFD2, showed high binding stability, with BG3 displaying the strongest dual-target binding, achieving binding free energies of - 52.777 kcal/mol for PBP2b and - 74.071 kcal/mol for PBP2x. Interestingly, quantum chemical calculations using cluster model and the Interaction Region Indicator (IRI) method analyses indicated that BG3 adopts a stable cyclic-like conformation when bound to PBP2x, driven by proline-induced turns, intramolecular hydrogen bonds, and terminal C-H···π interactions. Overall, SPB-Seeker provides an extensible computational framework for targeted short peptide binder discovery and offers a basis for subsequent affinity optimization and stability enhancement.",
+      "journal": "Molecular diversity",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Life Science and Engineering, Southwest Jiaotong University, Chengdu, 610031, China.",
+        "Department of Clinical Laboratory, University-Town Hospital of Chongqing Medical University, Chongqing, 401331, China.",
+        "School of Life Science and Engineering, Southwest Jiaotong University, Chengdu, 610031, China. tulwar@home.swjtu.edu.cn."
+      ],
+      "doi": "10.1007/s11030-026-11714-z",
+      "date": "2026-09-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693314/"
     },
     {
       "pmid": "42691096",
@@ -367,26 +387,19 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42681358/"
     },
     {
-      "pmid": "42679818",
-      "title": "De novo pan-rhodamine binders for fluorescence microscopy from mammalian cells to extremophiles.",
-      "abstract": "Fluorescent imaging in live cells is a cornerstone of life sciences. While natural fluorescent proteins have been engineered to enhance individual features, no existing tag combines ideal properties into a single system: high brightness, reversible binding, compact size, and stability across diverse conditions. Here, we achieve this through de novo design of rhodamine binders (Rhobin). To harness the broad repertoire of rhodamine fluorophores, we developed a generalizable design strategy for a pan-rhodamine binder compatible with diverse wavelengths and applications. Rhobin enables live- and fixed-cell imaging of various subcellular targets in mammalian cells, showing brightness surpassing existing tags. Its reversible fluorophore binding supports super-resolution stimulated emission depletion (STED) and live-cell single-molecule imaging for extended durations compared with HaloTag. Beyond conventional systems, Rhobin enables live imaging of the extremophile Sulfolobus acidocaldarius at 75°C, previously inaccessible with current tags. Together, these results establish Rhobin as a versatile platform for next-generation imaging and biosensor design.",
-      "journal": "Cell",
+      "pmid": "42693869",
+      "title": "The Role of Biomarkers in Personalized Treatment of Gastrointestinal Cancers.",
+      "abstract": "Gastrointestinal (GI) cancers-including colorectal, gastric, pancreatic, and esophageal malignancies- remain among the most prevalent and lethal cancers worldwide, largely due to their biological complexity and late-stage diagnosis. This narrative review examines the critical role of biomarkers in advancing personalized treatment strategies for GI cancers. Key diagnostic, prognostic, and predictive biomarkers, such as KRAS, HER2, PD-L1, microsatellite instability (MSI), and circulating tumor DNA (ctDNA), are discussed about their application in clinical decision-making. The review highlights biomarker-driven approaches across different GI cancer types, demonstrating how molecular profiling informs early detection, treatment selection, and monitoring of therapeutic response. Recent technological advances-including liquid biopsy, next-generation sequencing, and multi-omics integration- have expanded biomarker discovery and enhanced clinical utility. Challenges in implementing biomarker testing, such as variability in expression, lack of standardization, and limited accessibility, are also addressed. Overall, this article emphasizes the transformative potential of biomarkers to tailor therapy, improve patient outcomes, and shape the future of precision oncology in gastrointestinal cancers.",
+      "journal": "Anti-cancer agents in medicinal chemistry",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA, USA; Cardiovascular Research Institute, University of California, San Francisco, San Francisco, CA, USA.",
-        "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA, USA.",
-        "Department of Cellular and Molecular Pharmacology, Howard Hughes Medical Institute, University of California, San Francisco, San Francisco, CA, USA.",
-        "Department of Cellular and Molecular Pharmacology, Howard Hughes Medical Institute, University of California, San Francisco, San Francisco, CA, USA; Department of Microbiology and Molecular Genetics, University of California, Davis, Davis, CA, USA.",
-        "Department of Chemistry, University of California, Riverside, Riverside, CA, USA.",
-        "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA.",
-        "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA, USA; Cardiovascular Research Institute, University of California, San Francisco, San Francisco, CA, USA; Department of Molecular and Chemical Sciences, Tohoku University, Sendai, Japan. Electronic address: bill.degrado@ucsf.edu.",
-        "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA, USA; Department of Biochemistry and Biophysics, University of California, San Francisco, San Francisco, CA, USA; Biohub San Francisco, San Francisco, CA, USA. Electronic address: bo.huang@ucsf.edu."
+        "Department of Medical Physiology, Faculty of Medicine, Neyshabur University of Medical Sciences, Neyshabur, Iran."
       ],
-      "doi": "10.1016/j.cell.2026.08.007",
-      "date": "2026-09-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42679818/"
+      "doi": "10.2174/0118715206400800251128055423",
+      "date": "2026-08-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693869/"
     },
     {
       "pmid": "42692900",
@@ -469,40 +482,20 @@
       "doi": "10.1016/j.tranon.2026.103021",
       "date": "2026-09-03",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42691509/"
-    },
-    {
-      "pmid": "42691057",
-      "title": "MicroRNAs as Biomarkers of Germ Cell Tumors-Focus on Impact and Limitations in Current Clinical Practice Paradigms.",
-      "abstract": "Testicular germ cell tumors (TGCTs) are the most common malignancies in young-adult males and represent a biologically heterogeneous group of neoplasms. Despite excellent overall prognosis, conventional serum tumor markers lack sufficient sensitivity and specificity in several key clinical settings, including early metastatic disease, postchemotherapy residual masses, and surveillance. Over the past decade, microRNAs of the miR-371~373 cluster have emerged as highly accurate biomarkers in this setting. Among them, circulating miR-371a-3p has demonstrated sensitivity and specificity exceeding 90% for viable, nonteratomatous TGCTs across multiple cohorts, consistently outperforming traditional markers. miR-371a-3p levels closely reflect tumor burden, showing rapid decline after orchiectomy and during effective chemotherapy, and rising at relapse, enabling near real-time disease monitoring. Importantly, miR-371~373 is differentiation-dependent (which can be used as readout for studies on the pathobiology of TGCT phenotypes). It is present in nonteratomatous germ cell components, uniformly absent in teratoma and absent/low in somatic-type malignancies, a feature that both underpins its clinical utility and defines one of its main limitations. This review summarizes the biological rationale underlying miR-371~373 expression in TGCTs and examines current clinical applications of miR-371a-3p across diagnosis, staging, surveillance, and postchemotherapy assessment. Moreover, we discuss analytical considerations, health-economic implications, and emerging data in the biologically related ovarian and extragonadal germ cell tumors. Remaining challenges and future directions for standardized clinical implementation are also addressed.",
-      "journal": "Advances in anatomic pathology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Pathology Unit, DIAP-Dipartimento Interaziendale Anatomia Patologica di Bologna, Maggiore Hospital-AUSL Bologna, Bologna, Italy.",
-        "Cancer Biology and Epigenetics Group, Research Center of IPO Porto (GEBC CI-IPOP) Portuguese Oncology Institute of Porto (IPO Porto)/Porto Comprehensive Cancer Center Raquel Seruca (P.CCC) & CI-IPOP @ RISE (Health Research Network).",
-        "School of Medicine and Biomedical Sciences- University of Porto (ICBAS-UP).",
-        "Doctoral Programme in Pathology and Molecular Genetics, School of Medicine and Biomedical Sciences- University of Porto (ICBAS-UP).",
-        "Department of Pathology and Molecular Immunology, ICBAS-School of Medicine and Biomedical Sciences, University of Porto (ICBAS-UP), Porto, Portugal.",
-        "Department of Pathology, Portuguese Oncology Institute of Porto (IPO Porto)/Porto Comprehensive Cancer Center (P.CCC), Porto, Portugal."
-      ],
-      "doi": "10.1097/PAP.0000000000000552",
-      "date": "2026-09-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42691057/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42692358",
-      "date": "2026-09-03",
-      "title": "High-fat diet remodels plasma membrane rigidity to potentiate colonocyte stemness in mice.",
+      "id": "pubmed-42693960",
+      "date": "2026-09-04",
+      "title": "New Studies Showcase Capabilities of Organoids.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42692358/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693960/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -517,69 +510,134 @@
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cellular and molecular gastroenterology and hepatology，PMID 为 42692358。",
-      "report": "Obesity and consumption of a high-fat diet (HFD) are established risk factors for colorectal cancer (CRC). However, the cellular mechanisms linking dietary lipid exposure to intestinal stem cell (ISC) dysregulation remain incompletely defined. We therefore inv...",
+      "fact": "PubMed 记录显示该文献收录于 Cancer discovery，PMID 为 42693960。",
+      "report": "Three recent papers show the potential benefits of several hundred new organoids, spheroids, and other cancer models. One study demonstrates that more than 600 of the models mirror their parent tumors. A second study uses organoids to uncover new cancer depend...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42692260",
+      "id": "pubmed-42693564",
       "date": "2026-09-03",
-      "title": "Paragangliomas and Pheochromocytomas: Integrating Developmental Biology With Translational Technologies. A Narrative Review.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42692260/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc，PMID 为 42692260。",
-      "report": "Pheochromocytomas and paragangliomas (PGLs) are rare neural crest-derived neuroendocrine neoplasms with highly variable clinical behavior and limited therapeutic options in metastatic disease. From a pathology perspective, diagnosis and risk assessment have tr...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42692235",
-      "date": "2026-09-03",
-      "title": "Transient Calcium Signaling Reprograms YAP Mechanosensitivity through Actin Remodeling.",
+      "title": "Magnetically Driven Biofabrication for Tissue Engineering: From Nanoparticle Design to Mag-ATMP Translation.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42692235/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693564/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
-        "Advanced Disease Models"
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
       ],
       "tags": [
         "类器官",
-        "疾病模型"
+        "疾病模型",
+        "临床",
+        "监管",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Acta biomaterialia，PMID 为 42692235。",
-      "report": "YAP is a central regulator of cell fate, proliferation, and tissue homeostasis that integrates physical cues from the extracellular matrix (ECM). While stiff environments canonically drive YAP nuclear localization and soft environments promote cytoplasmic sequ...",
+      "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42693564。",
+      "report": "Magnetically driven biofabrication is emerging as a materials-enabled extension of tissue engineering, integrating advances in magnetic nanoparticle (MNP) design with cells, spheroids, and biomaterial scaffolds to engineer responsive and remotely controllable...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42693239",
+      "date": "2026-09-03",
+      "title": "Pleura organoid transplantation facilitates visceral pleural repair through CD133+ progenitor cell-mediated regeneration.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693239/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Experimental & molecular medicine，PMID 为 42693239。",
+      "report": "Persistent pulmonary air leakage following thoracic surgery remains a major clinical challenge. Here we establish murine and human pleura organoids as a novel regenerative therapy. Morphological and functional analyses confirm that these organoids retain mesot...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42693236",
+      "date": "2026-09-03",
+      "title": "Generation of the functionally enhanced proximal tubular cells from human iPSC-derived kidney organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693236/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Experimental & molecular medicine，PMID 为 42693236。",
+      "report": "Human renal proximal tubular epithelial cells (RPPTCs) are crucial for exploring the molecular and cellular mechanisms underlying the pathophysiology of kidney injuries. In this study, we generated the functionally enhanced kidney organoid-derived proximal tub...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42693314",
+      "date": "2026-09-03",
+      "title": "De novo generation and computational screening of dual-targeting short peptide inhibitors against PBP2b and PBP2x in drug-resistant Streptococcus Pneumoniae.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693314/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Drug Screening"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular diversity，PMID 为 42693314。",
+      "report": "Deep learning has greatly advanced de novo protein design, yet its application to rational short peptide design remains underexplored. Here, we developed SPB-Seeker (Short Peptide Binder Seeker), an integrated pipeline combining deep learning-based generative...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -773,34 +831,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42691057",
-      "date": "2026-09-03",
-      "title": "MicroRNAs as Biomarkers of Germ Cell Tumors-Focus on Impact and Limitations in Current Clinical Practice Paradigms.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42691057/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advances in anatomic pathology，PMID 为 42691057。",
-      "report": "Testicular germ cell tumors (TGCTs) are the most common malignancies in young-adult males and represent a biologically heterogeneous group of neoplasms. Despite excellent overall prognosis, conventional serum tumor markers lack sufficient sensitivity and speci...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42686908",
       "date": "2026-09-02",
       "title": "Creating bottom-up RNA transfer vehicles from synthetic protein assemblies.",
@@ -869,59 +899,31 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42692440",
+      "id": "pubmed-42693695",
       "date": "2026-09-01",
-      "title": "Patient-derived intestinal organoids in pediatric inflammatory bowel disease: applications in disease modeling and therapeutic response prediction.",
+      "title": "Organoids as an emerging platform for osteoarthritis drug development.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42692440/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693695/",
       "reliability": "High",
-      "evidenceLevel": "Medium",
+      "evidenceLevel": "Low",
       "needsReview": true,
       "themes": [
         "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
+        "Advanced Disease Models"
       ],
       "tags": [
         "类器官",
-        "疾病模型",
-        "药筛"
+        "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Clinical and experimental pediatrics，PMID 为 42692440。",
-      "report": "The incidence of pediatric inflammatory bowel disease (PIBD) has risen worldwide, creating significant challenges for healthcare professionals. Compared with adult-onset inflammatory bowel disease, PIBD often presents with more extensive intestinal involvement...",
+      "fact": "PubMed 记录显示该文献收录于 Clinical and translational medicine，PMID 为 42693695。",
+      "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42679818",
-      "date": "2026-09-01",
-      "title": "De novo pan-rhodamine binders for fluorescence microscopy from mammalian cells to extremophiles.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42679818/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell，PMID 为 42679818。",
-      "report": "Fluorescent imaging in live cells is a cornerstone of life sciences. While natural fluorescent proteins have been engineered to enhance individual features, no existing tag combines ideal properties into a single system: high brightness, reversible binding, co...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1021,6 +1023,66 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42693840",
+      "date": "2026-08-24",
+      "title": "Mesenchymal Stem Cells Attenuate Acute Lung Injury Through the NF-κB/STAT3-Ntrk2 Axis to Promote Alveolar Epithelial Regeneration.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693840/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Current stem cell research & therapy，PMID 为 42693840。",
+      "report": "Mesenchymal stem cells (MSCs) possess immunomodulatory and tissuereparative properties and have shown therapeutic potential in acute lung injury (ALI). However, the mechanisms underlying their protective effects remain unclear. This study aimed to evaluate the...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42693869",
+      "date": "2026-08-24",
+      "title": "The Role of Biomarkers in Personalized Treatment of Gastrointestinal Cancers.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693869/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Anti-cancer agents in medicinal chemistry，PMID 为 42693869。",
+      "report": "Gastrointestinal (GI) cancers-including colorectal, gastric, pancreatic, and esophageal malignancies- remain among the most prevalent and lethal cancers worldwide, largely due to their biological complexity and late-stage diagnosis. This narrative review exami...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42653123",
       "date": "2026-08-08",
       "title": "Single-Cell and Spatial Omics Technologies in Rice Abiotic Stress Biology: A Methodological Review.",
@@ -1081,42 +1143,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42693041",
-      "date": "2026-08-01",
-      "title": "[Construction and application of organoid models in traditional Chinese medicine research].",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693041/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica，PMID 为 42693041。",
-      "report": "Traditional Chinese medicine(TCM) research has long faced technical bottlenecks, including the complexity of chemical composition, multi-target mechanisms of action, and the difficulty of deeply elucidating holistic effects. There is an urgent need to establis...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42693007",
       "date": "2026-08-01",
       "title": "[TCM digital human: an innovation engine driving TCM integrative pharmacology 2.0].",
@@ -1144,34 +1170,6 @@
       "fact": "PubMed 记录显示该文献收录于 Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica，PMID 为 42693007。",
       "report": "As the primary carrier of clinical treatment in traditional Chinese medicine(TCM), TCM formulae require elucidation of the interaction laws between their chemical substance basis and biological activities, which represents a key scientific issue in TCM researc...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42692554",
-      "date": "2026-06-08",
-      "title": "Real-time tracking of cell death in human intestinal organoids: A quantitative imaging approach.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42692554/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Methods in cell biology，PMID 为 42692554。",
-      "report": "Organoids are self-renewing three-dimensional tissue models that can be derived from patient samples. Their recapitulation of the structure and function of native tissues makes them powerful tools for studying development, physiology, disease mechanisms and pe...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

@@ -48459,6 +48459,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0000874015-000114036126035657",
           "evidence-company-ionis-official-e92eac1694fd",
           "evidence-company-ionis-pipeline-3987692c42b2",
           "evidence-sec-0000874015-000114036126029960",
@@ -48470,6 +48471,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0000874015-000114036126035657",
+            "date": "2026-09-04",
+            "title": "Ionis Pharmaceuticals filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-sec-0000874015-000114036126035657",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126035657/ef20081649_8k.htm"
+          },
           {
             "id": "event-evidence-company-ionis-official-e92eac1694fd",
             "date": "2026-08-26",
@@ -48513,17 +48525,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0000874015-000087401526000251",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000087401526000251/form10q.htm"
-          },
-          {
-            "id": "event-sec-0000874015-000114036126028154",
-            "date": "2026-07-10",
-            "title": "Ionis Pharmaceuticals filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0000874015-000114036126028154",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126028154/ef20077783_8k.htm"
           }
         ],
         "inferences": [],
@@ -48533,12 +48534,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 6,
+        "evidenceCount": 7,
         "evidenceBySourceType": {
           "Company": 2,
-          "Filing": 4
+          "Filing": 5
         },
-        "lastEvidenceDate": "2026-08-26",
+        "lastEvidenceDate": "2026-09-04",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -48546,6 +48547,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0000874015-000114036126035657",
+          "date": "2026-09-04",
+          "title": "Ionis Pharmaceuticals filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-sec-0000874015-000114036126035657",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126035657/ef20081649_8k.htm"
+        },
         {
           "id": "event-evidence-company-ionis-official-e92eac1694fd",
           "date": "2026-08-26",
