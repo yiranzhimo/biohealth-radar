@@ -6648,7 +6648,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-akeso-official-b6b4a503a2c5",
             "date": "2026-09-03",
             "title": "Akeso, Inc | Home",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -6679,7 +6679,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-akeso-official-b6b4a503a2c5",
           "date": "2026-09-03",
           "title": "Akeso, Inc | Home",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -14625,7 +14625,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "We are a biotechnology company that developed the first FDA-approved PROTAC, a type of heterobifunctional protein degrader therapy, and are advancing targeted protein degradation therapeutics in neurology and oncology.",
             "text": "We are a biotechnology company that developed the first FDA-approved PROTAC, a type of heterobifunctional protein degrader therapy, and are advancing targeted protein degradation therapeutics in neurology and oncology.",
-            "evidenceId": "evidence-company-arvinas-official-2dd3803f1c4b",
+            "evidenceId": "evidence-company-arvinas-official-ee3f5eb0321f",
             "sourceUrl": "https://www.arvinas.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -14633,7 +14633,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "With multiple products in development, we are exploring how PROTAC protein degraders bridge our preclinical platform into the clinic.",
             "text": "With multiple products in development, we are exploring how PROTAC protein degraders bridge our preclinical platform into the clinic.",
-            "evidenceId": "evidence-company-arvinas-official-2dd3803f1c4b",
+            "evidenceId": "evidence-company-arvinas-official-ee3f5eb0321f",
             "sourceUrl": "https://www.arvinas.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -14641,7 +14641,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Our Mission is to improve the lives of patients with serious diseases by pioneering therapies created with our revolutionary PROTAC protein degradation platform.",
             "text": "Our Mission is to improve the lives of patients with serious diseases by pioneering therapies created with our revolutionary PROTAC protein degradation platform.",
-            "evidenceId": "evidence-company-arvinas-official-2dd3803f1c4b",
+            "evidenceId": "evidence-company-arvinas-official-ee3f5eb0321f",
             "sourceUrl": "https://www.arvinas.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -14649,7 +14649,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Partnerships are a Pivotal Part of Our Process We partner with leading drug companies, academic experts, and innovative partners to further broaden and accelerate our clinical programs.",
             "text": "Partnerships are a Pivotal Part of Our Process We partner with leading drug companies, academic experts, and innovative partners to further broaden and accelerate our clinical programs.",
-            "evidenceId": "evidence-company-arvinas-official-2dd3803f1c4b",
+            "evidenceId": "evidence-company-arvinas-official-ee3f5eb0321f",
             "sourceUrl": "https://www.arvinas.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -14657,7 +14657,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
             "text": "Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
-            "evidenceId": "evidence-company-arvinas-official-2dd3803f1c4b",
+            "evidenceId": "evidence-company-arvinas-official-ee3f5eb0321f",
             "sourceUrl": "https://www.arvinas.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -14673,7 +14673,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-arvinas-official-2dd3803f1c4b",
+          "evidence-company-arvinas-official-ee3f5eb0321f",
           "evidence-company-arvinas-pipeline-8a55bb718901",
           "evidence-company-arvinas-investor_relations-f6268a29f016",
           "evidence-sec-0001655759-000162828026052554",
@@ -14696,14 +14696,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "observedMoves": [
           {
-            "id": "event-evidence-company-arvinas-official-2dd3803f1c4b",
-            "date": "2026-09-02",
+            "id": "event-evidence-company-arvinas-official-ee3f5eb0321f",
+            "date": "2026-09-05",
             "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-arvinas-official-2dd3803f1c4b",
+            "evidenceId": "evidence-company-arvinas-official-ee3f5eb0321f",
             "sourceUrl": "https://www.arvinas.com/"
           },
           {
@@ -14764,7 +14764,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 2
         },
-        "lastEvidenceDate": "2026-09-02",
+        "lastEvidenceDate": "2026-09-05",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -14774,14 +14774,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-arvinas-official-2dd3803f1c4b",
-          "date": "2026-09-02",
+          "id": "event-evidence-company-arvinas-official-ee3f5eb0321f",
+          "date": "2026-09-05",
           "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-arvinas-official-2dd3803f1c4b",
+          "evidenceId": "evidence-company-arvinas-official-ee3f5eb0321f",
           "sourceUrl": "https://www.arvinas.com/"
         },
         {
@@ -27768,15 +27768,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Learn About Targeted Protein Degradation",
             "text": "了解靶向蛋白降解。",
-            "evidenceId": "evidence-company-c4-therapeutics-official-021448976d88",
+            "evidenceId": "evidence-company-c4-therapeutics-official-c14b7471f7ba",
             "sourceUrl": "https://c4therapeutics.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Recent News C4 Therapeutics Reports Second Quarter 2026 Financial Results and Recent Business Highlights",
-            "text": "Recent News C4 Therapeutics Reports Second Quarter 2026 Financial Results and Recent Business Highlights",
-            "evidenceId": "evidence-company-c4-therapeutics-official-021448976d88",
+            "textOriginal": "Recent News C4 Therapeutics to Present New Biomarker Data on the Immunomodulatory Effects of Cemsidomide in Combination with Dexamethasone from its Phase 1 Relapsed/Refractory Multiple Myeloma Trial at the 23rd International Myeloma Society (IMS) Annual Meeting",
+            "text": "Recent News C4 Therapeutics to Present New Biomarker Data on the Immunomodulatory Effects of Cemsidomide in Combination with Dexamethasone from its Phase 1 Relapsed/Refractory Multiple Myeloma Trial at the 23rd International Myeloma Society (IMS) Annual Meeting",
+            "evidenceId": "evidence-company-c4-therapeutics-official-c14b7471f7ba",
             "sourceUrl": "https://c4therapeutics.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -27784,7 +27784,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "490 Arsenal Way, Suite 120 Watertown, MA 02472 © 2026 C4 Therapeutics, Inc.",
             "text": "490 Arsenal Way, Suite 120 Watertown, MA 02472 © 2026 C4 Therapeutics, Inc.",
-            "evidenceId": "evidence-company-c4-therapeutics-official-021448976d88",
+            "evidenceId": "evidence-company-c4-therapeutics-official-c14b7471f7ba",
             "sourceUrl": "https://c4therapeutics.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -27792,7 +27792,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-c4-therapeutics-official-021448976d88",
+          "evidence-company-c4-therapeutics-official-c14b7471f7ba",
           "evidence-sec-0001662579-000162828026055494",
           "evidence-sec-0001662579-000162828026055490"
         ]
@@ -27801,14 +27801,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-c4-therapeutics-official-021448976d88",
-            "date": "2026-08-12",
+            "id": "event-evidence-company-c4-therapeutics-official-c14b7471f7ba",
+            "date": "2026-09-05",
             "title": "Home - C4 Therapeutics",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-c4-therapeutics-official-021448976d88",
+            "evidenceId": "evidence-company-c4-therapeutics-official-c14b7471f7ba",
             "sourceUrl": "https://c4therapeutics.com/"
           },
           {
@@ -27846,7 +27846,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 1,
           "Filing": 2
         },
-        "lastEvidenceDate": "2026-08-12",
+        "lastEvidenceDate": "2026-09-05",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -27855,14 +27855,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-c4-therapeutics-official-021448976d88",
-          "date": "2026-08-12",
+          "id": "event-evidence-company-c4-therapeutics-official-c14b7471f7ba",
+          "date": "2026-09-05",
           "title": "Home - C4 Therapeutics",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-c4-therapeutics-official-021448976d88",
+          "evidenceId": "evidence-company-c4-therapeutics-official-c14b7471f7ba",
           "sourceUrl": "https://c4therapeutics.com/"
         },
         {
@@ -42089,11 +42089,51 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Guardant Complete 是一套综合性的液体和组织精准肿瘤检测产品组合，并配套一流的客户服务。；公司官方页面表述：Guardant Health 是一家领先的精准医疗公司，专注于利用数据改变患者诊疗并应对癌症。",
-        "summaryOriginal": "Guardant Complete, a comprehensive portfolio of liquid and tissue precision oncology tests combined with best-in-class customer service. Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data.",
+        "summary": "公司官方页面表述：Guardant Health 是一家领先的精准医疗公司，专注于利用数据改变患者诊疗并应对癌症。；公司官方页面表述：Guardant Complete 是一套综合性的液体和组织精准肿瘤检测产品组合，并配套一流的客户服务。",
+        "summaryOriginal": "Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data. Guardant Complete, a comprehensive portfolio of liquid and tissue precision oncology tests combined with best-in-class customer service.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
+          {
+            "textOriginal": "September 4, 2026 Guardant Health Announces Landmark FDA Approval of Guardant360® CDx as Companion Diagnostic for AstraZeneca’s ETCAMAH™ (camizestrant) in Advanced Breast Cancer",
+            "text": "September 4, 2026 Guardant Health Announces Landmark FDA Approval of Guardant360® CDx as Companion Diagnostic for AstraZeneca’s ETCAMAH™ (camizestrant) in Advanced Breast Cancer",
+            "evidenceId": "evidence-company-guardant-health-official-154ad6ac896b",
+            "sourceUrl": "https://guardanthealth.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data.",
+            "text": "Guardant Health 是一家领先的精准医疗公司，专注于利用数据改变患者诊疗并应对癌症。",
+            "evidenceId": "evidence-company-guardant-health-official-154ad6ac896b",
+            "sourceUrl": "https://guardanthealth.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "At Guardant Health, every team member plays a vital role in a mission that impacts countless lives: conquering cancer through data.",
+            "text": "At Guardant Health, every team member plays a vital role in a mission that impacts countless lives: conquering cancer through data.",
+            "evidenceId": "evidence-company-guardant-health-official-154ad6ac896b",
+            "sourceUrl": "https://guardanthealth.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "View all of our screening, early-stage cancer, and advanced cancer clinical studies.",
+            "text": "View all of our screening, early-stage cancer, and advanced cancer clinical studies.",
+            "evidenceId": "evidence-company-guardant-health-official-154ad6ac896b",
+            "sourceUrl": "https://guardanthealth.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Get to know Guardant Health, our story, and our mission.",
+            "text": "Get to know Guardant Health, our story, and our mission.",
+            "evidenceId": "evidence-company-guardant-health-official-154ad6ac896b",
+            "sourceUrl": "https://guardanthealth.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
           {
             "textOriginal": "Guardant Complete, a comprehensive portfolio of liquid and tissue precision oncology tests combined with best-in-class customer service.",
             "text": "Guardant Complete 是一套综合性的液体和组织精准肿瘤检测产品组合，并配套一流的客户服务。",
@@ -42101,52 +42141,12 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://guardanthealth.com/products/tests-for-patients-with-early-and-advanced-stage-cancer/",
             "needsReview": true,
             "claimType": "Report"
-          },
-          {
-            "textOriginal": "View all of our screening, early-stage cancer, and advanced cancer clinical studies.",
-            "text": "View all of our screening, early-stage cancer, and advanced cancer clinical studies.",
-            "evidenceId": "evidence-company-guardant-health-pipeline-a2e78138ba78",
-            "sourceUrl": "https://guardanthealth.com/products/tests-for-patients-with-early-and-advanced-stage-cancer/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Get to know Guardant Health, our story, and our mission.",
-            "text": "Get to know Guardant Health, our story, and our mission.",
-            "evidenceId": "evidence-company-guardant-health-pipeline-a2e78138ba78",
-            "sourceUrl": "https://guardanthealth.com/products/tests-for-patients-with-early-and-advanced-stage-cancer/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "A comprehensive portfolio of liquid and tissue precision oncology tests for patients diagnosed with early or advanced-stage cancer.",
-            "text": "A comprehensive portfolio of liquid and tissue precision oncology tests for patients diagnosed with early or advanced-stage cancer.",
-            "evidenceId": "evidence-company-guardant-health-pipeline-a2e78138ba78",
-            "sourceUrl": "https://guardanthealth.com/products/tests-for-patients-with-early-and-advanced-stage-cancer/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data.",
-            "text": "Guardant Health 是一家领先的精准医疗公司，专注于利用数据改变患者诊疗并应对癌症。",
-            "evidenceId": "evidence-company-guardant-health-official-5be7acfee35a",
-            "sourceUrl": "https://guardanthealth.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "July 1, 2026 UnitedHealth Group Now Covers Guardant Health’s Shield Blood Test for Colorectal Cancer Screening",
-            "text": "July 1, 2026 UnitedHealth Group Now Covers Guardant Health’s Shield Blood Test for Colorectal Cancer Screening",
-            "evidenceId": "evidence-company-guardant-health-official-5be7acfee35a",
-            "sourceUrl": "https://guardanthealth.com/",
-            "needsReview": true,
-            "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-guardant-health-official-154ad6ac896b",
           "evidence-company-guardant-health-pipeline-a2e78138ba78",
-          "evidence-company-guardant-health-official-5be7acfee35a",
           "evidence-company-guardant-health-investor_relations-f157425f10df",
           "evidence-sec-0001576280-000157628026000037",
           "evidence-sec-0001576280-000157628026000036"
@@ -42155,6 +42155,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-guardant-health-official-154ad6ac896b",
+            "date": "2026-09-05",
+            "title": "Guardant Health | Conquering Cancer With Data",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-guardant-health-official-154ad6ac896b",
+            "sourceUrl": "https://guardanthealth.com/"
+          },
           {
             "id": "event-evidence-company-guardant-health-pipeline-a2e78138ba78",
             "date": "2026-08-10",
@@ -42165,17 +42176,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-guardant-health-pipeline-a2e78138ba78",
             "sourceUrl": "https://guardanthealth.com/products/tests-for-patients-with-early-and-advanced-stage-cancer/"
-          },
-          {
-            "id": "event-evidence-company-guardant-health-official-5be7acfee35a",
-            "date": "2026-08-10",
-            "title": "Guardant Health | Conquering Cancer With Data",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-guardant-health-official-5be7acfee35a",
-            "sourceUrl": "https://guardanthealth.com/"
           },
           {
             "id": "event-evidence-company-guardant-health-investor_relations-f157425f10df",
@@ -42223,7 +42223,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 2
         },
-        "lastEvidenceDate": "2026-08-10",
+        "lastEvidenceDate": "2026-09-05",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -42231,6 +42231,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-guardant-health-official-154ad6ac896b",
+          "date": "2026-09-05",
+          "title": "Guardant Health | Conquering Cancer With Data",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-guardant-health-official-154ad6ac896b",
+          "sourceUrl": "https://guardanthealth.com/"
+        },
         {
           "id": "event-evidence-company-guardant-health-pipeline-a2e78138ba78",
           "date": "2026-08-10",
@@ -42241,17 +42252,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-guardant-health-pipeline-a2e78138ba78",
           "sourceUrl": "https://guardanthealth.com/products/tests-for-patients-with-early-and-advanced-stage-cancer/"
-        },
-        {
-          "id": "event-evidence-company-guardant-health-official-5be7acfee35a",
-          "date": "2026-08-10",
-          "title": "Guardant Health | Conquering Cancer With Data",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-guardant-health-official-5be7acfee35a",
-          "sourceUrl": "https://guardanthealth.com/"
         },
         {
           "id": "event-evidence-company-guardant-health-investor_relations-f157425f10df",
@@ -44526,7 +44526,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Doing Business With Us MyIllumina Platform",
             "text": "Doing Business With Us MyIllumina Platform",
-            "evidenceId": "evidence-company-illumina-official-92c5feeb0e79",
+            "evidenceId": "evidence-company-illumina-official-bb85914b1108",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -44534,7 +44534,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Software & Analysis Illumina BioInsight Platform",
             "text": "Software & Analysis Illumina BioInsight Platform",
-            "evidenceId": "evidence-company-illumina-official-92c5feeb0e79",
+            "evidenceId": "evidence-company-illumina-official-bb85914b1108",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -44542,7 +44542,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "One platform for complete biological insights",
             "text": "One platform for complete biological insights",
-            "evidenceId": "evidence-company-illumina-official-92c5feeb0e79",
+            "evidenceId": "evidence-company-illumina-official-bb85914b1108",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -44550,7 +44550,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Data Analysis & Informatics Infrastructure & Pipeline Setup",
             "text": "Data Analysis & Informatics Infrastructure & Pipeline Setup",
-            "evidenceId": "evidence-company-illumina-official-92c5feeb0e79",
+            "evidenceId": "evidence-company-illumina-official-bb85914b1108",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -44558,7 +44558,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
             "text": "Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
-            "evidenceId": "evidence-company-illumina-official-92c5feeb0e79",
+            "evidenceId": "evidence-company-illumina-official-bb85914b1108",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -44566,7 +44566,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Illumina innovative sequencing and array technologies are fueling groundbreaking advancements in life science research, translational and consumer genomics, and molecular diagnostics.",
             "text": "Illumina innovative sequencing and array technologies are fueling groundbreaking advancements in life science research, translational and consumer genomics, and molecular diagnostics.",
-            "evidenceId": "evidence-company-illumina-official-92c5feeb0e79",
+            "evidenceId": "evidence-company-illumina-official-bb85914b1108",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -44574,7 +44574,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-illumina-official-92c5feeb0e79",
+          "evidence-company-illumina-official-bb85914b1108",
           "evidence-sec-0001110803-000119312526354010",
           "evidence-sec-0001110803-000095015726000888",
           "evidence-sec-0001110803-000119312526346923",
@@ -44590,14 +44590,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-illumina-official-92c5feeb0e79",
-            "date": "2026-09-02",
+            "id": "event-evidence-company-illumina-official-bb85914b1108",
+            "date": "2026-09-05",
             "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-illumina-official-92c5feeb0e79",
+            "evidenceId": "evidence-company-illumina-official-bb85914b1108",
             "sourceUrl": "https://www.illumina.com/"
           },
           {
@@ -44657,7 +44657,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 2,
           "Filing": 8
         },
-        "lastEvidenceDate": "2026-09-02",
+        "lastEvidenceDate": "2026-09-05",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -44666,14 +44666,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-illumina-official-92c5feeb0e79",
-          "date": "2026-09-02",
+          "id": "event-evidence-company-illumina-official-bb85914b1108",
+          "date": "2026-09-05",
           "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-illumina-official-92c5feeb0e79",
+          "evidenceId": "evidence-company-illumina-official-bb85914b1108",
           "sourceUrl": "https://www.illumina.com/"
         },
         {
@@ -47821,11 +47821,43 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Intellia正在建立一个体内和体外疗法的管道，并继续开发创新的模块化平台能力。；公司官方页面表述：Intellia Therapeutics是一家领先的临床阶段基因编辑公司，正在利用基于CRISPR的技术开发新的潜在治愈疗法。",
-        "summaryOriginal": "Intellia is building a pipeline of in vivo and ex vivo therapies, as well as continuing to develop innovative modular platform capabilities. Intellia Therapeutics, a leading clinical-stage genome editing company, is developing novel, potentially curative therapeutics leveraging CRISPR-based technologies.",
+        "summary": "公司官方页面表述：Intellia Therapeutics是一家领先的临床阶段基因编辑公司，正在利用基于CRISPR的技术开发新的潜在治愈疗法。；公司官方页面表述：Intellia正在建立一个体内和体外疗法的管道，并继续开发创新的模块化平台能力。",
+        "summaryOriginal": "Intellia Therapeutics, a leading clinical-stage genome editing company, is developing novel, potentially curative therapeutics leveraging CRISPR-based technologies. Intellia is building a pipeline of in vivo and ex vivo therapies, as well as continuing to develop innovative modular platform capabilities.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
+          {
+            "textOriginal": "Intellia Therapeutics, a leading clinical-stage genome editing company, is developing novel, potentially curative therapeutics leveraging CRISPR-based technologies.",
+            "text": "Intellia Therapeutics是一家领先的临床阶段基因编辑公司，正在利用基于CRISPR的技术开发新的潜在治愈疗法。",
+            "evidenceId": "evidence-company-intellia-official-0cf87e76359a",
+            "sourceUrl": "https://www.intelliatx.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "You are leaving the Intellia Therapeutics, Inc.",
+            "text": "You are leaving the Intellia Therapeutics, Inc.",
+            "evidenceId": "evidence-company-intellia-official-0cf87e76359a",
+            "sourceUrl": "https://www.intelliatx.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "September 4, 2026 Intellia Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+            "text": "September 4, 2026 Intellia Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+            "evidenceId": "evidence-company-intellia-official-0cf87e76359a",
+            "sourceUrl": "https://www.intelliatx.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "September 4, 2026 Intellia Therapeutics Secures Non-Dilutive Debt Facility with OrbiMed for up to $400 Million",
+            "text": "September 4, 2026 Intellia Therapeutics Secures Non-Dilutive Debt Facility with OrbiMed for up to $400 Million",
+            "evidenceId": "evidence-company-intellia-official-0cf87e76359a",
+            "sourceUrl": "https://www.intelliatx.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
           {
             "textOriginal": "Intellia is building a pipeline of in vivo and ex vivo therapies, as well as continuing to develop innovative modular platform capabilities.",
             "text": "Intellia正在建立一个体内和体外疗法的管道，并继续开发创新的模块化平台能力。",
@@ -47841,45 +47873,13 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://www.intelliatx.com/pipeline/",
             "needsReview": true,
             "claimType": "Report"
-          },
-          {
-            "textOriginal": "Nex-z (nexiguran ziclumeran), formerly referred to as NTLA-2001; Regeneron shares 25% of worldwide development costs and commercial profits for the ATTR program and has an option to enter into a co-promotion agreement for the U.S.",
-            "text": "Nex-z (nexiguran ziclumeran), formerly referred to as NTLA-2001; Regeneron shares 25% of worldwide development costs and commercial profits for the ATTR program and has an option to enter into a co-promotion agreement for the U.S.",
-            "evidenceId": "evidence-company-intellia-pipeline-bbcfc2db2053",
-            "sourceUrl": "https://www.intelliatx.com/pipeline/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "*** Hemophilia A program is in the research stage.",
-            "text": "*** Hemophilia A program is in the research stage.",
-            "evidenceId": "evidence-company-intellia-pipeline-bbcfc2db2053",
-            "sourceUrl": "https://www.intelliatx.com/pipeline/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "You are leaving the Intellia Therapeutics, Inc.",
-            "text": "You are leaving the Intellia Therapeutics, Inc.",
-            "evidenceId": "evidence-company-intellia-pipeline-bbcfc2db2053",
-            "sourceUrl": "https://www.intelliatx.com/pipeline/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Intellia Therapeutics, a leading clinical-stage genome editing company, is developing novel, potentially curative therapeutics leveraging CRISPR-based technologies.",
-            "text": "Intellia Therapeutics是一家领先的临床阶段基因编辑公司，正在利用基于CRISPR的技术开发新的潜在治愈疗法。",
-            "evidenceId": "evidence-company-intellia-official-1cca8fbc302f",
-            "sourceUrl": "https://www.intelliatx.com/",
-            "needsReview": true,
-            "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-intellia-official-0cf87e76359a",
           "evidence-sec-0001652130-000119312526383645",
           "evidence-company-intellia-pipeline-bbcfc2db2053",
-          "evidence-company-intellia-official-1cca8fbc302f",
           "evidence-company-intellia-investor_relations-7de05bb26624",
           "evidence-sec-0001652130-000119312526337952",
           "evidence-sec-0001652130-000119312526336772"
@@ -47888,6 +47888,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-intellia-official-0cf87e76359a",
+            "date": "2026-09-05",
+            "title": "Intellia Therapeutics - Revolutionize the course of medicine",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-intellia-official-0cf87e76359a",
+            "sourceUrl": "https://www.intelliatx.com/"
+          },
           {
             "id": "event-sec-0001652130-000119312526383645",
             "date": "2026-09-04",
@@ -47909,17 +47920,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-intellia-pipeline-bbcfc2db2053",
             "sourceUrl": "https://www.intelliatx.com/pipeline/"
-          },
-          {
-            "id": "event-evidence-company-intellia-official-1cca8fbc302f",
-            "date": "2026-08-10",
-            "title": "Intellia Therapeutics - Revolutionize the course of medicine",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-intellia-official-1cca8fbc302f",
-            "sourceUrl": "https://www.intelliatx.com/"
           },
           {
             "id": "event-evidence-company-intellia-investor_relations-7de05bb26624",
@@ -47957,7 +47957,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 3
         },
-        "lastEvidenceDate": "2026-09-04",
+        "lastEvidenceDate": "2026-09-05",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -47966,6 +47966,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-intellia-official-0cf87e76359a",
+          "date": "2026-09-05",
+          "title": "Intellia Therapeutics - Revolutionize the course of medicine",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-intellia-official-0cf87e76359a",
+          "sourceUrl": "https://www.intelliatx.com/"
+        },
         {
           "id": "event-sec-0001652130-000119312526383645",
           "date": "2026-09-04",
@@ -47987,17 +47998,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-intellia-pipeline-bbcfc2db2053",
           "sourceUrl": "https://www.intelliatx.com/pipeline/"
-        },
-        {
-          "id": "event-evidence-company-intellia-official-1cca8fbc302f",
-          "date": "2026-08-10",
-          "title": "Intellia Therapeutics - Revolutionize the course of medicine",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-intellia-official-1cca8fbc302f",
-          "sourceUrl": "https://www.intelliatx.com/"
         },
         {
           "id": "event-evidence-company-intellia-investor_relations-7de05bb26624",
@@ -48338,7 +48338,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The genetic basis of human disease continues to inspire our science and technology as we expand to new therapeutic approaches, while our industry-leading chemistry helps us target the right medicine to the right disease – providing a rich source for future breakthroughs and…",
             "text": "The genetic basis of human disease continues to inspire our science and technology as we expand to new therapeutic approaches, while our industry-leading chemistry helps us target the right medicine to the right disease – providing a rich source for future breakthroughs and…",
-            "evidenceId": "evidence-company-ionis-official-e92eac1694fd",
+            "evidenceId": "evidence-company-ionis-official-bd57cac371dd",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -48346,7 +48346,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
             "text": "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
-            "evidenceId": "evidence-company-ionis-official-e92eac1694fd",
+            "evidenceId": "evidence-company-ionis-official-bd57cac371dd",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -48354,7 +48354,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Ionis has been recognized as one of the San Diego Business Journal's Best Places to Work for the third consecutive year.",
             "text": "Ionis has been recognized as one of the San Diego Business Journal's Best Places to Work for the third consecutive year.",
-            "evidenceId": "evidence-company-ionis-official-e92eac1694fd",
+            "evidenceId": "evidence-company-ionis-official-bd57cac371dd",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -48362,7 +48362,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Ionis is unlocking the rapidly expanding potential of RNA- and DNA-targeted medicines to enable better futures for people living with serious diseases.",
             "text": "Ionis is unlocking the rapidly expanding potential of RNA- and DNA-targeted medicines to enable better futures for people living with serious diseases.",
-            "evidenceId": "evidence-company-ionis-official-e92eac1694fd",
+            "evidenceId": "evidence-company-ionis-official-bd57cac371dd",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -48370,7 +48370,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "For the latest on Ionis news and developments",
             "text": "For the latest on Ionis news and developments",
-            "evidenceId": "evidence-company-ionis-official-e92eac1694fd",
+            "evidenceId": "evidence-company-ionis-official-bd57cac371dd",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -48386,9 +48386,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-ionis-official-bd57cac371dd",
           "evidence-sec-0000874015-000114036126035802",
           "evidence-sec-0000874015-000114036126035657",
-          "evidence-company-ionis-official-e92eac1694fd",
           "evidence-company-ionis-pipeline-3987692c42b2",
           "evidence-sec-0000874015-000114036126029960",
           "evidence-sec-0000874015-000087401526000251",
@@ -48399,6 +48399,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-ionis-official-bd57cac371dd",
+            "date": "2026-09-05",
+            "title": "Innovating to Change the Course of Human Health | IONIS",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-ionis-official-bd57cac371dd",
+            "sourceUrl": "https://ionis.com/"
+          },
           {
             "id": "event-sec-0000874015-000114036126035802",
             "date": "2026-09-04",
@@ -48420,17 +48431,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-sec-0000874015-000114036126035657",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126035657/ef20081649_8k.htm"
-          },
-          {
-            "id": "event-evidence-company-ionis-official-e92eac1694fd",
-            "date": "2026-08-26",
-            "title": "Innovating to Change the Course of Human Health | IONIS",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-ionis-official-e92eac1694fd",
-            "sourceUrl": "https://ionis.com/"
           },
           {
             "id": "event-evidence-company-ionis-pipeline-3987692c42b2",
@@ -48467,7 +48467,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 2,
           "Filing": 6
         },
-        "lastEvidenceDate": "2026-09-04",
+        "lastEvidenceDate": "2026-09-05",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -48475,6 +48475,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-ionis-official-bd57cac371dd",
+          "date": "2026-09-05",
+          "title": "Innovating to Change the Course of Human Health | IONIS",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-ionis-official-bd57cac371dd",
+          "sourceUrl": "https://ionis.com/"
+        },
         {
           "id": "event-sec-0000874015-000114036126035802",
           "date": "2026-09-04",
@@ -48496,17 +48507,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-sec-0000874015-000114036126035657",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126035657/ef20081649_8k.htm"
-        },
-        {
-          "id": "event-evidence-company-ionis-official-e92eac1694fd",
-          "date": "2026-08-26",
-          "title": "Innovating to Change the Course of Human Health | IONIS",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-ionis-official-e92eac1694fd",
-          "sourceUrl": "https://ionis.com/"
         },
         {
           "id": "event-evidence-company-ionis-pipeline-3987692c42b2",
@@ -58282,7 +58282,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
             "text": "Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-1e470a88cf9f",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-442e020dc1f4",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -58290,7 +58290,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule.",
             "text": "The Nykode Therapeutics platform is built around the Vaccibody molecule.",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-1e470a88cf9f",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-442e020dc1f4",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -58298,7 +58298,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "An immunotherapy platform that unlocks unlimited possibilities for the future of medicine",
             "text": "An immunotherapy platform that unlocks unlimited possibilities for the future of medicine",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-1e470a88cf9f",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-442e020dc1f4",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -58306,7 +58306,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Offering an unrivalled modular platform and tailored hyper-targeting is how we stand apart",
             "text": "Offering an unrivalled modular platform and tailored hyper-targeting is how we stand apart",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-1e470a88cf9f",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-442e020dc1f4",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -58314,15 +58314,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Nykode Therapeutics Presents Comprehensive Preclinical Data, Optimized Manufacturing, and ...",
             "text": "Nykode Therapeutics Presents Comprehensive Preclinical Data, Optimized Manufacturing, and ...",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-1e470a88cf9f",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-442e020dc1f4",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Nykode Therapeutics Presents AI-Powered Immunotherapy Design Capabilities at BioPharma ...",
-            "text": "Nykode Therapeutics Presents AI-Powered Immunotherapy Design Capabilities at BioPharma ...",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-1e470a88cf9f",
+            "textOriginal": "Nykode Therapeutics ASA – Private Placement Completed",
+            "text": "Nykode Therapeutics ASA – Private Placement Completed",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-442e020dc1f4",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -58330,7 +58330,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-nykode-therapeutics-official-1e470a88cf9f",
+          "evidence-company-nykode-therapeutics-official-442e020dc1f4",
           "evidence-company-nykode-therapeutics-pipeline-264341e4f3ed",
           "evidence-company-nykode-therapeutics-investor_relations-d8d12c464eb4"
         ]
@@ -58339,14 +58339,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-nykode-therapeutics-official-1e470a88cf9f",
-            "date": "2026-08-27",
+            "id": "event-evidence-company-nykode-therapeutics-official-442e020dc1f4",
+            "date": "2026-09-05",
             "title": "Home - Nykode",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-nykode-therapeutics-official-1e470a88cf9f",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-442e020dc1f4",
             "sourceUrl": "https://nykode.com/"
           },
           {
@@ -58383,7 +58383,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 3
         },
-        "lastEvidenceDate": "2026-08-27",
+        "lastEvidenceDate": "2026-09-05",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -58392,14 +58392,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-nykode-therapeutics-official-1e470a88cf9f",
-          "date": "2026-08-27",
+          "id": "event-evidence-company-nykode-therapeutics-official-442e020dc1f4",
+          "date": "2026-09-05",
           "title": "Home - Nykode",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-nykode-therapeutics-official-1e470a88cf9f",
+          "evidenceId": "evidence-company-nykode-therapeutics-official-442e020dc1f4",
           "sourceUrl": "https://nykode.com/"
         },
         {
@@ -59561,7 +59561,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
             "text": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59569,7 +59569,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Oxford Nanopore Technologies products are RUO.",
             "text": "Oxford Nanopore Technologies products are RUO.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59577,15 +59577,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
             "text": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
-            "sourceUrl": "https://nanoporetech.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
-            "text": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
-            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59593,8 +59585,16 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
             "text": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
-            "sourceUrl": "https://nanoporetech.com/platform",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+            "sourceUrl": "https://nanoporetech.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
+            "text": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+            "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
           },
@@ -59609,7 +59609,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+          "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
           "evidence-company-oxford-nanopore-pipeline-f611c963a9b5"
         ]
       },
@@ -59617,14 +59617,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-oxford-nanopore-official-ae4e03d0fba0",
-            "date": "2026-09-03",
+            "id": "event-evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+            "date": "2026-09-05",
             "title": "Welcome to Oxford Nanopore Technologies",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "sourceUrl": "https://nanoporetech.com/"
           },
           {
@@ -59650,7 +59650,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-09-03",
+        "lastEvidenceDate": "2026-09-05",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -59659,14 +59659,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-oxford-nanopore-official-ae4e03d0fba0",
-          "date": "2026-09-03",
+          "id": "event-evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+          "date": "2026-09-05",
           "title": "Welcome to Oxford Nanopore Technologies",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+          "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
           "sourceUrl": "https://nanoporetech.com/"
         },
         {

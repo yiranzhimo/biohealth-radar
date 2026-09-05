@@ -3621,7 +3621,7 @@
       "publishedAt": "2026-09-03",
       "snapshotDate": "2026-09-03",
       "title": "Akeso, Inc | Home",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Akeso — Official Website",
@@ -3651,7 +3651,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "b6b4a503a2c57f071c616bc1c5e58e3847e2885f1c6694a883fa6c89ab4e8c31",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Akeso 2026 Interim Results: Strong Commercialization Momentum; IO2.0+ Global Strategy Redefining Clinical Standards; Bispecific Advancement in ADC, I&I and Alzheimer's",
@@ -4142,15 +4142,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-arvinas-official-2dd3803f1c4b",
+      "id": "evidence-company-arvinas-official-ee3f5eb0321f",
       "signalId": null,
       "companyIds": [
         "arvinas"
       ],
-      "publishedAt": "2026-09-02",
-      "snapshotDate": "2026-09-02",
+      "publishedAt": "2026-09-05",
+      "snapshotDate": "2026-09-05",
       "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Arvinas — Official Website",
@@ -4166,7 +4166,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 2dd3803f1c4bfa751a013f6f359e81d085083656f64d7455f35681de283e6ec2.",
+      "fact": "The official page was captured with normalized-content hash ee3f5eb0321fb7a994ad3bca056715f79101a94ff768122255bb500b3e8b06f8.",
       "report": "公司官方页面表述：Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
       "reportOriginal": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
       "reportCn": "Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
@@ -4179,8 +4179,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "2dd3803f1c4bfa751a013f6f359e81d085083656f64d7455f35681de283e6ec2",
-      "changeType": "unchanged",
+      "contentHash": "ee3f5eb0321fb7a994ad3bca056715f79101a94ff768122255bb500b3e8b06f8",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
@@ -4653,15 +4653,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-c4-therapeutics-official-021448976d88",
+      "id": "evidence-company-c4-therapeutics-official-c14b7471f7ba",
       "signalId": null,
       "companyIds": [
         "c4-therapeutics"
       ],
-      "publishedAt": "2026-08-12",
-      "snapshotDate": "2026-08-12",
+      "publishedAt": "2026-09-05",
+      "snapshotDate": "2026-09-05",
       "title": "Home - C4 Therapeutics",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "C4 Therapeutics — Official Website",
@@ -4677,7 +4677,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 021448976d882fad2560802f0e68e9e64a11b113b72659d2505bc2d8609067ce.",
+      "fact": "The official page was captured with normalized-content hash c14b7471f7ba159a99581b9364fea506414d0ca2c9eefaeabf6d0ba2a5eb29c4.",
       "report": "公司官方页面表述：了解靶向蛋白降解。",
       "reportOriginal": "Learn About Targeted Protein Degradation",
       "reportCn": "了解靶向蛋白降解。",
@@ -4690,17 +4690,16 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "021448976d882fad2560802f0e68e9e64a11b113b72659d2505bc2d8609067ce",
-      "changeType": "unchanged",
+      "contentHash": "c14b7471f7ba159a99581b9364fea506414d0ca2c9eefaeabf6d0ba2a5eb29c4",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Learn About Targeted Protein Degradation",
-        "Recent News C4 Therapeutics Reports Second Quarter 2026 Financial Results and Recent Business Highlights",
+        "Recent News C4 Therapeutics to Present New Biomarker Data on the Immunomodulatory Effects of Cemsidomide in Combination with Dexamethasone from its Phase 1 Relapsed/Refractory Multiple Myeloma Trial at the 23rd International Myeloma Society (IMS) Annual Meeting",
         "490 Arsenal Way, Suite 120 Watertown, MA 02472 © 2026 C4 Therapeutics, Inc."
       ],
       "businessExcerpts": [
-        "Learn About Targeted Protein Degradation",
-        "Recent News C4 Therapeutics Reports Second Quarter 2026 Financial Results and Recent Business Highlights"
+        "Learn About Targeted Protein Degradation"
       ],
       "productExcerpts": [],
       "planExcerpts": []
@@ -38934,15 +38933,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-guardant-health-official-5be7acfee35a",
+      "id": "evidence-company-guardant-health-official-154ad6ac896b",
       "signalId": null,
       "companyIds": [
         "guardant-health"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-09-05",
+      "snapshotDate": "2026-09-05",
       "title": "Guardant Health | Conquering Cancer With Data",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Guardant Health — Official Website",
@@ -38958,7 +38957,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 5be7acfee35a78d95194ca9d63e32ca04403bb24d3b3ef1c13809a45de93c027.",
+      "fact": "The official page was captured with normalized-content hash 154ad6ac896b2002a6cfca7076d5e67460a1c4f2cd2d4ea6bfab15335a8e9e53.",
       "report": "公司官方页面表述：Guardant Health 是一家领先的精准医疗公司，专注于利用数据改变患者诊疗并应对癌症。",
       "reportOriginal": "Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data.",
       "reportCn": "Guardant Health 是一家领先的精准医疗公司，专注于利用数据改变患者诊疗并应对癌症。",
@@ -38971,17 +38970,24 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "5be7acfee35a78d95194ca9d63e32ca04403bb24d3b3ef1c13809a45de93c027",
-      "changeType": "unchanged",
+      "contentHash": "154ad6ac896b2002a6cfca7076d5e67460a1c4f2cd2d4ea6bfab15335a8e9e53",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data.",
-        "July 1, 2026 UnitedHealth Group Now Covers Guardant Health’s Shield Blood Test for Colorectal Cancer Screening",
         "At Guardant Health, every team member plays a vital role in a mission that impacts countless lives: conquering cancer through data.",
-        "View all of our screening, early-stage cancer, and advanced cancer clinical studies."
+        "View all of our screening, early-stage cancer, and advanced cancer clinical studies.",
+        "Get to know Guardant Health, our story, and our mission."
       ],
-      "businessExcerpts": [],
-      "productExcerpts": [],
+      "businessExcerpts": [
+        "Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data.",
+        "At Guardant Health, every team member plays a vital role in a mission that impacts countless lives: conquering cancer through data.",
+        "Get to know Guardant Health, our story, and our mission.",
+        "Learn how we are changing the future of cancer care."
+      ],
+      "productExcerpts": [
+        "September 4, 2026 Guardant Health Announces Landmark FDA Approval of Guardant360® CDx as Companion Diagnostic for AstraZeneca’s ETCAMAH™ (camizestrant) in Advanced Breast Cancer"
+      ],
       "planExcerpts": []
     },
     {
@@ -39094,15 +39100,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-illumina-official-92c5feeb0e79",
+      "id": "evidence-company-illumina-official-bb85914b1108",
       "signalId": null,
       "companyIds": [
         "illumina"
       ],
-      "publishedAt": "2026-09-02",
-      "snapshotDate": "2026-09-02",
+      "publishedAt": "2026-09-05",
+      "snapshotDate": "2026-09-05",
       "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Illumina — Official Website",
@@ -39118,7 +39124,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 92c5feeb0e7952e7cfcd01448920a2bbc32449029b08d883a3feacd82a813dde.",
+      "fact": "The official page was captured with normalized-content hash bb85914b110809ef05796c22be368c55473cad1c646b7fec5453c809f6fa86f0.",
       "report": "公司官方页面表述：Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
       "reportOriginal": "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
       "reportCn": "Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
@@ -39131,8 +39137,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "92c5feeb0e7952e7cfcd01448920a2bbc32449029b08d883a3feacd82a813dde",
-      "changeType": "unchanged",
+      "contentHash": "bb85914b110809ef05796c22be368c55473cad1c646b7fec5453c809f6fa86f0",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
@@ -39386,15 +39392,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-intellia-official-1cca8fbc302f",
+      "id": "evidence-company-intellia-official-0cf87e76359a",
       "signalId": null,
       "companyIds": [
         "intellia"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-09-05",
+      "snapshotDate": "2026-09-05",
       "title": "Intellia Therapeutics - Revolutionize the course of medicine",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Intellia Therapeutics — Official Website",
@@ -39410,7 +39416,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 1cca8fbc302f5f0f8b3d9ee5483f8efbb8a2151b6fdf6bf6e9f280566c4ae971.",
+      "fact": "The official page was captured with normalized-content hash 0cf87e76359a0b910752cb7e95ae06c607bdc8d0a11070ca0f8d5490ac7629a5.",
       "report": "公司官方页面表述：Intellia Therapeutics是一家领先的临床阶段基因编辑公司，正在利用基于CRISPR的技术开发新的潜在治愈疗法。",
       "reportOriginal": "Intellia Therapeutics, a leading clinical-stage genome editing company, is developing novel, potentially curative therapeutics leveraging CRISPR-based technologies.",
       "reportCn": "Intellia Therapeutics是一家领先的临床阶段基因编辑公司，正在利用基于CRISPR的技术开发新的潜在治愈疗法。",
@@ -39423,18 +39429,17 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "1cca8fbc302f5f0f8b3d9ee5483f8efbb8a2151b6fdf6bf6e9f280566c4ae971",
-      "changeType": "unchanged",
+      "contentHash": "0cf87e76359a0b910752cb7e95ae06c607bdc8d0a11070ca0f8d5490ac7629a5",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Intellia Therapeutics, a leading clinical-stage genome editing company, is developing novel, potentially curative therapeutics leveraging CRISPR-based technologies.",
-        "August 6, 2026 Intellia Therapeutics Announces Second Quarter 2026 Financial Results and Business Updates",
         "You are leaving the Intellia Therapeutics, Inc.",
-        "August 7, 2026 Intellia Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)"
+        "September 4, 2026 Intellia Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+        "September 4, 2026 Intellia Therapeutics Secures Non-Dilutive Debt Facility with OrbiMed for up to $400 Million"
       ],
       "businessExcerpts": [
-        "Intellia Therapeutics, a leading clinical-stage genome editing company, is developing novel, potentially curative therapeutics leveraging CRISPR-based technologies.",
-        "August 6, 2026 Intellia Therapeutics Announces Second Quarter 2026 Financial Results and Business Updates"
+        "Intellia Therapeutics, a leading clinical-stage genome editing company, is developing novel, potentially curative therapeutics leveraging CRISPR-based technologies."
       ],
       "productExcerpts": [],
       "planExcerpts": []
@@ -39498,15 +39503,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-ionis-official-e92eac1694fd",
+      "id": "evidence-company-ionis-official-bd57cac371dd",
       "signalId": null,
       "companyIds": [
         "ionis"
       ],
-      "publishedAt": "2026-08-26",
-      "snapshotDate": "2026-08-26",
+      "publishedAt": "2026-09-05",
+      "snapshotDate": "2026-09-05",
       "title": "Innovating to Change the Course of Human Health | IONIS",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Ionis Pharmaceuticals — Official Website",
@@ -39522,7 +39527,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash e92eac1694fd9154f4e69f7bc433084e214954635eb643676faa6d11118e01ae.",
+      "fact": "The official page was captured with normalized-content hash bd57cac371ddb9f35453502659e411c1ea77309989ae9ed8e05b46c5836bef33.",
       "report": "公司官方页面表述：探索我们如何通过突破性创新为生活在严重疾病中的人们开启更美好的未来。了解我们的使命。",
       "reportOriginal": "Discover how we are enabling better futures for people living with serious disease through groundbreaking innovations. Learn about our mission here.",
       "reportCn": "探索我们如何通过突破性创新为生活在严重疾病中的人们开启更美好的未来。了解我们的使命。",
@@ -39535,8 +39540,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "e92eac1694fd9154f4e69f7bc433084e214954635eb643676faa6d11118e01ae",
-      "changeType": "unchanged",
+      "contentHash": "bd57cac371ddb9f35453502659e411c1ea77309989ae9ed8e05b46c5836bef33",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
@@ -40389,15 +40394,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-nykode-therapeutics-official-1e470a88cf9f",
+      "id": "evidence-company-nykode-therapeutics-official-442e020dc1f4",
       "signalId": null,
       "companyIds": [
         "nykode-therapeutics"
       ],
-      "publishedAt": "2026-08-27",
-      "snapshotDate": "2026-08-27",
+      "publishedAt": "2026-09-05",
+      "snapshotDate": "2026-09-05",
       "title": "Home - Nykode",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Nykode Therapeutics — Official Website",
@@ -40413,7 +40418,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 1e470a88cf9f8ab45606db429b166ab71f49eecdee44ebdb556e11df994f3b92.",
+      "fact": "The official page was captured with normalized-content hash 442e020dc1f45e1ad5e8da249af3996c0838e5ca7ee6bb3bf5fedd1bad8e11cc.",
       "report": "公司官方页面表述：Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
       "reportOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
       "reportCn": "Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
@@ -40426,14 +40431,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "1e470a88cf9f8ab45606db429b166ab71f49eecdee44ebdb556e11df994f3b92",
-      "changeType": "unchanged",
+      "contentHash": "442e020dc1f45e1ad5e8da249af3996c0838e5ca7ee6bb3bf5fedd1bad8e11cc",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
         "Nykode Therapeutics Presents Comprehensive Preclinical Data, Optimized Manufacturing, and ...",
-        "Nykode Therapeutics Presents AI-Powered Immunotherapy Design Capabilities at BioPharma ...",
-        "The Nykode Therapeutics platform is built around the Vaccibody molecule."
+        "The Nykode Therapeutics platform is built around the Vaccibody molecule.",
+        "Nykode Therapeutics ASA – Private Placement Completed"
       ],
       "businessExcerpts": [],
       "productExcerpts": [
@@ -40504,13 +40509,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+      "id": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
       "signalId": null,
       "companyIds": [
         "oxford-nanopore"
       ],
-      "publishedAt": "2026-09-03",
-      "snapshotDate": "2026-09-03",
+      "publishedAt": "2026-09-05",
+      "snapshotDate": "2026-09-05",
       "title": "Welcome to Oxford Nanopore Technologies",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -40528,7 +40533,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash ae4e03d0fba07710844aa320dbca27149745e368be42c17c07d1fa90a363a51c.",
+      "fact": "The official page was captured with normalized-content hash b5a006d4fd7e86315fa9f0f9ab18724b0d37d937b55c6f15a16569677978dc9e.",
       "report": "公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
       "reportOriginal": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
       "reportCn": "发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
@@ -40541,14 +40546,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "ae4e03d0fba07710844aa320dbca27149745e368be42c17c07d1fa90a363a51c",
+      "contentHash": "b5a006d4fd7e86315fa9f0f9ab18724b0d37d937b55c6f15a16569677978dc9e",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
         "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-        "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
-        "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling."
+        "Search Oxford Nanopore Technologies Which site do you wish to search in?",
+        "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology"
       ],
       "businessExcerpts": [],
       "productExcerpts": [
