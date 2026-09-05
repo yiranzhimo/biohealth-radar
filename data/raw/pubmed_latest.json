@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-05T04:36:07.712587+00:00",
+  "capturedAt": "2026-09-05T10:41:01.362922+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-09-05"
   },
   "pmids": [
+    "42698344",
+    "42698073",
+    "42697987",
     "42697778",
     "42697696",
     "42697694",
-    "42697385",
-    "42697347",
-    "42697162",
     "42696754",
     "42693007",
     "42667121",
@@ -40,6 +40,63 @@
     "42694519"
   ],
   "records": [
+    {
+      "pmid": "42698344",
+      "title": "AI-Driven Rational Design of Nanotherapeutics for Pancreatic Ductal Adenocarcinoma.",
+      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains a formidable malignancy characterized by late diagnosis, high recurrence rates, and pronounced chemoresistance. While nanoparticle-based drug delivery systems (NDDS) offer theoretical advantages over conventional therapies, their clinical translation in PDAC has been severely limited. The dense desmoplastic stroma, elevated interstitial fluid pressure, and hypovascularity effectively neutralize the enhanced permeability and retention (EPR) effect, restricting passive nanoparticle penetration. Consequently, the therapeutic paradigm is shifting from indiscriminate stromal depletion-which paradoxically accelerates metastasis-to stromal normalization and immune microenvironment reprogramming. This review comprehensively evaluates advanced NDDS platforms, highlighting transcytosis-triggering active targeting, stimuli-responsive carriers, and multimodal theranostic systems designed to bypass physical barriers and convert immunologically \"cold\" tumors to \"hot.\" Furthermore, we analyze the expanding role of artificial intelligence (AI) and machine learning in predicting synergistic drug combinations and optimizing nanoparticle physicochemical properties. Crucially, we critique current epistemic limitations in AI-driven nanomedicine, particularly data sparsity and the reliance on 2D preclinical models, emphasizing the necessity of 3D patient-derived organoid validation. By integrating rational NDDS design with AI and biomarker-driven strategies, this review maps the essential pathways toward personalized nanotherapeutics for PDAC.",
+      "journal": "Medicinal research reviews",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Biomedical Engineering, Dongguk University, Seoul, South Korea."
+      ],
+      "doi": "10.1002/med.70105",
+      "date": "2026-09-05",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42698344/"
+    },
+    {
+      "pmid": "42698073",
+      "title": "Current smoking and COPD are associated with differentiation-dependent secretory and inflammatory programs in airway basal cells.",
+      "abstract": "Persistent airway epithelial abnormalities contribute to chronic obstructive pulmonary disease (COPD), but it remains unclear whether smoking- and COPD-associated epithelial remodeling is retained in airway basal cells and transmitted during differentiation. We determined whether current smoking and COPD are associated with methylation-linked regulatory programs in airway basal cells that shape epithelial differentiation in patient-derived bronchial organoids. We integrated DNA methylation profiling and bulk transcriptomics in patient-derived airway basal cells and matched three-dimensional bronchial organoids. Methylation-defined gene sets were mapped to organoid epithelial cell states using single-cell RNA-seq and contextualized with publicly available airway epithelial datasets. In this exploratory cohort, current smoking was associated with a predominant shift toward promoter hypomethylation in airway basal cells and matched organoids. Hypomethylated promoters were enriched for genes preferentially expressed in secretory epithelial cells, including BPIFB1, BPIFA2, MSMB and GALNT6. These genes showed little smoking-associated expression difference in basal-cell culture but were upregulated after organoid differentiation, indicating a differentiation-dependent epithelial memory of smoking. In COPD-derived basal cells, promoter methylation changes involved reduced xenobiotic metabolism and enhanced immune- and infection-related programs. Consistently, COPD-derived organoids showed reduced expression of detoxification-associated pathways and increased lysosomal, endocytic and host-defense programs. Current smoking and COPD are associated with persistent methylation-linked regulatory alterations in airway basal cells that become functionally apparent during epithelial differentiation. These findings support a model in which airway basal-cell memory contributes to secretory, inflammatory and host-defense remodeling in chronic airway disease.",
+      "journal": "Respiratory research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Internal Medicine V-Pulmonology, Allergology and Respiratory Critical Care Medicine, Saarland University, Homburg, 66421, Germany.",
+        "Microbial Natural Products (MINS), Helmholtz-Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for Infection Research (HZI), Saarland University Campus, Saarbrücken, 66123, Germany.",
+        "Department of Genetics, Saarland University, Saarbrücken, Germany.",
+        "Department of Thoracic Surgery, Saarland University Hospital, Homburg/Saar, Germany.",
+        "Molecular Pharmacology, Center for Molecular Signaling (PZMS), Center for Gender-specific Biology and Medicine (CGBM), Pharma Science Hub (PSH), Saarland University, Homburg, 66421, Germany.",
+        "Department of Internal Medicine V-Pulmonology, Allergology and Respiratory Critical Care Medicine, Saarland University, Homburg, 66421, Germany. Christoph.beisswenger@uks.eu."
+      ],
+      "doi": "10.1186/s12931-026-03847-4",
+      "date": "2026-08-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42698073/"
+    },
+    {
+      "pmid": "42697987",
+      "title": "Large-scale single-molecule analysis of tau proteoforms.",
+      "abstract": "Proteins exist as diverse proteoforms resulting from a combination of genetic variation, alternative splicing and post-translational modifications. Current methods struggle to capture this complexity at the single-molecule level. Here we introduce Iterative Mapping of proteoforms, a method that enables massively parallel interrogation of millions to billions of single-protein molecules through iterative probing with fluorescently labeled antibodies. We applied Iterative Mapping to tau, a key protein in neurodegenerative diseases, using 12 site-specific antibodies. The tau proteoform assay demonstrates high sensitivity (detecting proteoforms at 0.1% abundance), high reproducibility (median coefficient of variation <5.5%) and broad dynamic range (>3 orders of magnitude), outperforming conventional techniques in resolving closely related proteoform groups. Analysis of relevant biological samples, including organoids, mouse brains and human Alzheimer's disease samples, revealed 130 distinct tau proteoform groups with as many as six phosphorylation events. The nonrandom distribution of these phosphorylation events suggests ordered and site-specific modification processes rather than random, stochastic accumulation. Iterative Mapping provides insights into proteoform complexity at the single-molecule level, with implications for understanding protein regulation in neurodegenerative diseases and beyond.",
+      "journal": "Nature methods",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Nautilus Biotechnology, San Carlos, CA, USA.",
+        "Genentech, South San Francisco, CA, USA.",
+        "Neural Stem Cell Institute, Albany, NY, USA.",
+        "The Ronald Loeb Center for Alzheimer's Disease at Mt. Sinai, New York, NY, USA.",
+        "Nautilus Biotechnology, San Carlos, CA, USA. karaj@nautilus.bio.",
+        "Nautilus Biotechnology, San Carlos, CA, USA. publications@nautilus.bio.",
+        "Stanford University School of Medicine, Palo Alto, CA, USA. publications@nautilus.bio."
+      ],
+      "doi": "10.1038/s41592-026-03188-6",
+      "date": "2026-09-04",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42697987/"
+    },
     {
       "pmid": "42697778",
       "title": "Corrigendum to \"Wang X, Wang R, Lin X et al. Comparative evaluation of chemotherapy and CAR-T cell therapy in genetically engineered self-sustaining primary pancreatic cancer organoids\" [Pancreatology (2026), 26(6), 896-907].",
@@ -97,62 +154,6 @@
       "doi": "10.1101/cshperspect.a041919",
       "date": "2026-09-04",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42697694/"
-    },
-    {
-      "pmid": "42697385",
-      "title": "HIF-1 signaling contributes to lenvatinib resistance in patient-derived HCC organoids.",
-      "abstract": "Resistance to lenvatinib remains an important limitation in hepatocellular carcinoma treatment. Six patient-derived organoid lines were established and classified as sensitive or resistant according to ex vivo drug responses, retaining histological and immunophenotypic features of matched parental tumors. Resistant organoids showed unchanged ATP activity, whereas sensitive ones exhibited pronounced morphological changes and reduced ATP activity at higher concentrations. Transcriptome sequencing identified 408 upregulated and 269 downregulated genes in resistant versus sensitive organoids, with HIF-1 signaling among altered pathways. In resistant organoids, lenvatinib increased HIF-1α, ANGPT2, and HK3 mRNA, whereas comparable changes were not detected in sensitive organoids. KC7F2 reduced these transcripts and further decreased ATP activity when combined with lenvatinib. In organoid-derived xenografts, this combination suppressed tumor growth and HIF-1 target expression more than lenvatinib alone, indicating HIF-1 signaling contributes to the resistant phenotype and its inhibition may enhance response.",
-      "journal": "Genomics",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Hepatobiliary Surgery, The Affiliated Panyu Central Hospital, Guangzhou Medical University, Guangzhou 511400, China.",
-        "Department of Radiology, The Affiliated Panyu Central Hospital, Guangzhou Medical University, Guangzhou 511400, China.",
-        "Department of Oncology, The Affiliated Panyu Central Hospital, Guangzhou Medical University, Guangzhou 511400, China. Electronic address: huangsenmiao@163.com."
-      ],
-      "doi": "10.1016/j.ygeno.2026.111310",
-      "date": "2026-09-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42697385/"
-    },
-    {
-      "pmid": "42697347",
-      "title": "Cycloechinulin inhibits breast cancer progression via the SGOL2/METTL3/ICAM2 signaling axis and suppresses the growth of breast cancer patient-derived organoids.",
-      "abstract": "Breast cancer (BC) is a notoriously difficult malignancy to treat due to its high molecular heterogeneity and drug resistance. The vast structural diversity of marine-derived compounds remains underutilized in oncology drug development. This study investigates the anti-tumor potential and underlying molecular mechanism of cycloechinulin (CCL), a novel diketopiperazine alkaloid isolated from the marine-derived fungus Aspergillus ochraceus against BC. The anti-cancer efficacy of CCL was evaluated using in vitro phenotypic assays in BC cell lines and validated in patient-derived organoids (PDOs). Global transcriptional changes were profiled via RNA sequencing (RNA-seq), and the clinical significance of downstream targets was analyzed using public patient databases. CCL significantly reduced BC cell viability, suppressed DNA replication, and restricted migration and invasion while inducing cellular apoptosis. CCL treatment also led to robust growth inhibition and morphological degradation across multiple patient-derived breast cancer models. Transcriptomic profiling and bioinformatic validation identified Shugoshin 2 (SGOL2) as a key oncogenic biomarker significantly correlated with advanced clinical stages and poor patient survival. At the molecular level, CCL downregulated the protein expression of SGOL2 as well as its downstream effectors METTL3 and ICAM2. Furthermore, knockdown of SGOL2 reproduced CCL-mediated anti-tumor effects and suppressed METTL3 and ICAM2 expression. In conclusion, CCL suppresses breast cancer progression by inhibiting the novel SGOL2/METTL3/ICAM2 signaling axis. These results present CCL as a promising natural lead compound and a novel chemical scaffold for targeted BC therapeutics.",
-      "journal": "Cellular signalling",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Research Centre of Basic Integrative Medicine, School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China.",
-        "Department of General Practice, Shenzhen Luohu People's Hospital, the 3rd Affiliated Hospital of Shenzhen University, Shenzhen 518001, China; Luohu Clinical College of Shantou University Medical College, Shantou University, Shantou 515000, Guangdong, China.",
-        "Department of Breast and Thyroid Surgery, Peking University Shenzhen Hospital, Shenzhen 518036, Guangdong, China.",
-        "Wuya College of Innovation, Shenyang pharmaceutical University, Shenyang 110016, Liaoning, China.",
-        "Department of General Practice, Shenzhen Luohu People's Hospital, the 3rd Affiliated Hospital of Shenzhen University, Shenzhen 518001, China; Luohu Clinical College of Shantou University Medical College, Shantou University, Shantou 515000, Guangdong, China. Electronic address: lhyytp@163.com.",
-        "Wuya College of Innovation, Shenyang pharmaceutical University, Shenyang 110016, Liaoning, China. Electronic address: xj110121@126.com.",
-        "Department of General Practice, Shenzhen Luohu People's Hospital, the 3rd Affiliated Hospital of Shenzhen University, Shenzhen 518001, China; Luohu Clinical College of Shantou University Medical College, Shantou University, Shantou 515000, Guangdong, China. Electronic address: he_jingjin@hotmail.com."
-      ],
-      "doi": "10.1016/j.cellsig.2026.112875",
-      "date": "2026-09-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42697347/"
-    },
-    {
-      "pmid": "42697162",
-      "title": "Two iPSC lines with frameshift mutations in FTSJ1 as models for X-linked non-syndromic intellectual disability.",
-      "abstract": "CRISPR/Cas9 was used to introduce two different FTSJ1 frameshift mutations into an existing human male iPSC line (UMGWi004-B). No additional genomic or chromosomal changes were detected. The modified iPSC express different stem cell markers and can be induced to differentiate into cells from all three germ layers. FTSJ1 is ubiquitously expressed and mutations in this X-chromosomal gene are involved in an intellectual developmental disorder (OMIM: #309549). These cells can be used to model the disease at the cellular and organoid level in their original state or after differentiation into cell types of interest.",
-      "journal": "Stem cell research",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Human Molecular Genetics Group, Department of Functional Genomics, Interfaculty Institute for Genetics and Functional Genomics, University Medicine Greifswald, Greifswald, Germany.",
-        "Human Molecular Genetics Group, Department of Functional Genomics, Interfaculty Institute for Genetics and Functional Genomics, University Medicine Greifswald, Greifswald, Germany; Institute of Bioinformatics, University Medicine Greifswald, Greifswald, Germany.",
-        "SensID GmbH, Rostock, Germany.",
-        "Human Molecular Genetics Group, Department of Functional Genomics, Interfaculty Institute for Genetics and Functional Genomics, University Medicine Greifswald, Greifswald, Germany. Electronic address: kussa@uni-greifswald.de."
-      ],
-      "doi": "10.1016/j.scr.2026.104092",
-      "date": "2026-09-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42697162/"
     },
     {
       "pmid": "42696754",
@@ -505,6 +506,64 @@
   ],
   "signals": [
     {
+      "id": "pubmed-42698344",
+      "date": "2026-09-05",
+      "title": "AI-Driven Rational Design of Nanotherapeutics for Pancreatic Ductal Adenocarcinoma.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42698344/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Medicinal research reviews，PMID 为 42698344。",
+      "report": "Pancreatic ductal adenocarcinoma (PDAC) remains a formidable malignancy characterized by late diagnosis, high recurrence rates, and pronounced chemoresistance. While nanoparticle-based drug delivery systems (NDDS) offer theoretical advantages over conventional...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42697987",
+      "date": "2026-09-04",
+      "title": "Large-scale single-molecule analysis of tau proteoforms.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42697987/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature methods，PMID 为 42697987。",
+      "report": "Proteins exist as diverse proteoforms resulting from a combination of genetic variation, alternative splicing and post-translational modifications. Current methods struggle to capture this complexity at the single-molecule level. Here we introduce Iterative Ma...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42697778",
       "date": "2026-09-04",
       "title": "Corrigendum to \"Wang X, Wang R, Lin X et al. Comparative evaluation of chemotherapy and CAR-T cell therapy in genetically engineered self-sustaining primary pancreatic cancer organoids\" [Pancreatology (2026), 26(6), 896-907].",
@@ -566,100 +625,6 @@
       "fact": "PubMed 记录显示该文献收录于 Cold Spring Harbor perspectives in biology，PMID 为 42697694。",
       "report": "The human Hippo pathway restricts tissue growth primarily through mammalian Ste20-like kinase 1/2 (MST1/2) and large tumor suppressor 1/2 (LATS1/2)-mediated regulation of transcriptional activators Yes-associated protein (YAP)/transcriptional coactivator with...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42697385",
-      "date": "2026-09-04",
-      "title": "HIF-1 signaling contributes to lenvatinib resistance in patient-derived HCC organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42697385/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Genomics，PMID 为 42697385。",
-      "report": "Resistance to lenvatinib remains an important limitation in hepatocellular carcinoma treatment. Six patient-derived organoid lines were established and classified as sensitive or resistant according to ex vivo drug responses, retaining histological and immunop...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42697347",
-      "date": "2026-09-04",
-      "title": "Cycloechinulin inhibits breast cancer progression via the SGOL2/METTL3/ICAM2 signaling axis and suppresses the growth of breast cancer patient-derived organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42697347/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cellular signalling，PMID 为 42697347。",
-      "report": "Breast cancer (BC) is a notoriously difficult malignancy to treat due to its high molecular heterogeneity and drug resistance. The vast structural diversity of marine-derived compounds remains underutilized in oncology drug development. This study investigates...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42697162",
-      "date": "2026-09-04",
-      "title": "Two iPSC lines with frameshift mutations in FTSJ1 as models for X-linked non-syndromic intellectual disability.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42697162/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cell research，PMID 为 42697162。",
-      "report": "CRISPR/Cas9 was used to introduce two different FTSJ1 frameshift mutations into an existing human male iPSC line (UMGWi004-B). No additional genomic or chromosomal changes were detected. The modified iPSC express different stem cell markers and can be induced...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -938,6 +903,40 @@
       "fact": "PubMed 记录显示该文献收录于 Briefings in bioinformatics，PMID 为 42696754。",
       "report": "Large-scale single-cell and spatial transcriptomic atlases enable the study of developmental processes at high resolution. However, most datasets capture only static snapshots of cells, making it difficult to infer continuous biological time from transcriptomi...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42698073",
+      "date": "2026-08-29",
+      "title": "Current smoking and COPD are associated with differentiation-dependent secretory and inflammatory programs in airway basal cells.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42698073/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Respiratory research，PMID 为 42698073。",
+      "report": "Persistent airway epithelial abnormalities contribute to chronic obstructive pulmonary disease (COPD), but it remains unclear whether smoking- and COPD-associated epithelial remodeling is retained in airway basal cells and transmitted during differentiation. W...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
