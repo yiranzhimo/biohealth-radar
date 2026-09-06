@@ -27555,7 +27555,7 @@
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
-        "ticker": "CXXIF",
+        "ticker": "CWLXF",
         "exchange": "SEC",
         "headquarters": null,
         "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0000831609",
@@ -27566,7 +27566,7 @@
             "0000831609"
           ],
           "ticker": [
-            "CXXIF"
+            "CWLXF"
           ]
         },
         "websiteStatus": "market_page_pending_official_domain",
