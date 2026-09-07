@@ -1,73 +1,28 @@
 {
-  "capturedAt": "2026-09-07T12:42:01.721269+00:00",
+  "capturedAt": "2026-09-07T21:34:03.933109+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42703096",
-      "responseId": "resp_035b0aaee4ae0a39006a9eb11adcd487d282c05a35ad6bc473",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献涉及BCG治疗膀胱癌的生物标志物，但对治疗效果的推断缺乏支持，需人工审核以确保信息准确性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类与文献名义不一致，可能存在误导性。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
-          "evidenceLevelReasonable": false,
-          "notesCn": "报告未能清晰分离事实、报告与推断，且证据级别与事实支持不符。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Molecular oncology，PMID 为 42703096。",
-          "report": "高风险的非肌肉浸润性膀胱癌(NMIBC)是一种常见的泌尿系统恶性肿瘤，尽管接受了BCG灌注治疗，但仍具有30-40%的复发率。识别可能对治疗有反应的患者...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42702884",
-      "responseId": "resp_00c194c68062eaf3006a9eb1211e6c87d2bb495983ab5bb0a8",
+      "signalId": "pubmed-42704227",
+      "responseId": "resp_0f28673144ae601f006a9f2dcd40ec87d2ab1b6478a5b79788",
       "review": {
         "status": "pass",
         "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录符合发布要求，内容中立且分离明确。",
+        "reviewSummaryCn": "该信号清晰地分离了事实、报告和推论，内容规范，无不支持的临床结论。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "主要类别和子类别符合文献内容。"
+          "notesCn": ""
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "证据等级为中等，符合来源一致性。"
+          "notesCn": ""
         },
         "riskFlags": [
-          "clinical_claim",
           "insufficient_source"
         ],
         "suggestedEdits": {
@@ -77,158 +32,40 @@
           "themes": [
             "Organoids",
             "Advanced Disease Models",
-            "Multi-omics"
+            "Precision Oncology"
           ],
           "tags": [
             "类器官",
             "疾病模型",
-            "多组学"
+            "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42702884。",
-          "report": "Acute kidney injury (AKI) is sustained by reciprocal amplification of oxidative stress, innate immune signaling, and maladaptive immune-parenchymal crosstalk. Here, we developed a lipid nanoparticle containing a ceria nanozyme and a STING-targeting CasRx plasm...",
+          "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42704227。",
+          "report": "The Akt family of serine/threonine kinases plays a crucial role in various cellular processes, including proliferation, survival, and metabolism. Three Akt isoforms (Akt1, Akt2, and Akt3) have distinct physiological roles, and while individual isoform dysregul...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42702779",
-      "responseId": "resp_0c796a4354ea54fd006a9eb126cfa487d2856dfa2fb006e702",
-      "review": {
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号的信息清晰、合理，不包含不支持的临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合提供的元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推理得到了良好的分离，证据水平合理。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42702779。",
-          "report": "EV-miRNAs are promising gastric cancer (GC) biomarkers for early diagnosis, yet their clinical application is limited by major detection challenges arising from the low abundance and high sequence homology of EV-miRNAs. Herein, we developed a dual-mode platfor...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42703189",
-      "responseId": "resp_0949e0621fb8eda5006a9eb12aa53487d29fa2aef2ac4b58d1",
+      "signalId": "pubmed-42704047",
+      "responseId": "resp_0e25c5f564be82cc006a9f2dd09f2887d2b6933f68921e97d2",
       "review": {
         "status": "pass",
         "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录符合发布标准，内容基于高可靠性来源。",
+        "reviewSummaryCn": "信息结构清晰，符合发布标准。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，符合主题和内容的描述。"
+          "notesCn": ""
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断明确区分，证据水平合理。"
+          "notesCn": ""
         },
         "riskFlags": [
+          "clinical_claim",
           "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Cytotechnology，PMID 为 42703189。",
-          "report": "Kidney organoids are a type of three-dimensional cellular aggregates derived from primary tissues or stem cells cultured in vitro. Under specific induction conditions, these cell aggregates can differentiate into complex renal nephron structures, including glo...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42703554",
-      "responseId": "resp_0613f11820a477ff006a9eb12e14f087d28b00aa921aa1d73d",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "此文献缺乏关于研究质量和样本量的支持信息，可能需要人工审阅以确保准确性和完整性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类未充分反映研究质量，存在不确定性。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据等级中等，但未详细阐明研究质量，存在信息缺口。"
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Healthcare AI",
-          "subCategory": "Medical AI",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Healthcare AI",
-            "Medical LLM"
-          ],
-          "tags": [
-            "医疗 AI",
-            "临床决策支持"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Drug design, development and therapy，PMID 为 42703554。",
-          "report": "Monoclonal antibodies have greatly changed the treatment of pediatric immune-mediated diseases (PIMDs) and have become the main treatment method for patients who do not respond to conventional therapy.",
-          "inference": "自动分类命中规则：Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42703482",
-      "responseId": "resp_028b8faf97215baf006a9eb13376b487d28ea3a8f8cca8fffc",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录信息准确，分类合理。未包含未支持的临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理且符合文献内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论清晰分离，且证据水平合适。"
-        },
-        "riskFlags": [
-          "clinical_claim"
         ],
         "suggestedEdits": {
           "primaryCategory": "Diagnostics & Precision Medicine",
@@ -244,9 +81,94 @@
             "精准医疗",
             "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of gastrointestinal oncology，PMID 为 42703482。",
-          "report": "Targeted therapies directed at specific genomic alterations have transformed the management of gastrointestinal (GI) cancers; however, acquired resistance remains inevitable. Circulating tumor DNA (ctDNA) analysis via liquid biopsy provides a non-invasive appr...",
+          "fact": "PubMed 记录显示该文献收录于 Bioscience reports，PMID 为 42704047。",
+          "report": "Breast cancer (BC) remains a major health issue worldwide. Immuno-oncology has recently garnered much attention with unprecedented bench-to-bedside revolutions in cancer diagnosis and treatment. The PD-1/PD-L1 pathway is an adaptive mechanism in cancer immune...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42703967",
+      "responseId": "resp_0e22fedcab80de51006a9f2dd4699487d29c791a8310c33a8b",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合出版标准，信息清晰可靠。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合研究主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "来源信息充分，报告和推论明确分开。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 European journal of immunology，PMID 为 42703967。",
+          "report": "Small extracellular vesicles (sEV) released by T cells play a key role in immune regulation. Immune capture with anti-CD3 antibodies was used to isolate and study T cell-derived CD3(+)sEV from the plasma of patients with melanoma (MPs) or healthy donors (HDs)...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42704205",
+      "responseId": "resp_090eae63db455fd6006a9f2dd7b7b087d2a837760831619373",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审核以验证研究有效性和结论的支持情况。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "虽然分类为临床证据，但有效性声明未得到足够支持。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "文献的有效性声明缺乏足够的证据支持。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Evidence",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "临床",
+            "监管",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 JMIR formative research，PMID 为 42704205。",
+          "report": "The prospective prescription review system can improve prescription rationality, but its effectiveness in high-volume specialty care settings is not well established. We aimed to evaluate the effectiveness of the prospective prescription review system in reduc...",
+          "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }

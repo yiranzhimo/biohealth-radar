@@ -821,6 +821,153 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42704227",
+      "date": "2026-09-07",
+      "title": "Isoform-Selective Targeting of Akt Through Covalent Allosteric Inhibition.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42704227/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42704227。",
+      "report": "The Akt family of serine/threonine kinases plays a crucial role in various cellular processes, including proliferation, survival, and metabolism. Three Akt isoforms (Akt1, Akt2, and Akt3) have distinct physiological roles, and while individual isoform dysregul...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0f28673144ae601f006a9f2dcd40ec87d2ab1b6478a5b79788",
+        "reviewedAt": "2026-09-07T21:34:03.933109+00:00",
+        "inputHash": "66ded5f5adb550e8a83d51ba13155a39ccc717002614005111f9b0ecd6d6e1b0",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号清晰地分离了事实、报告和推论，内容规范，无不支持的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42704227。",
+          "report": "The Akt family of serine/threonine kinases plays a crucial role in various cellular processes, including proliferation, survival, and metabolism. Three Akt isoforms (Akt1, Akt2, and Akt3) have distinct physiological roles, and while individual isoform dysregul...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42704047",
+      "date": "2026-09-07",
+      "title": "The Interplay of the LncRNA AFAP1-AS1 and the Soluble Immune Checkpoint Proteins sPD-1/sPD-L1 in Breast Cancer: Tumor-Immune Crosstalk.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42704047/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Bioscience reports，PMID 为 42704047。",
+      "report": "Breast cancer (BC) remains a major health issue worldwide. Immuno-oncology has recently garnered much attention with unprecedented bench-to-bedside revolutions in cancer diagnosis and treatment. The PD-1/PD-L1 pathway is an adaptive mechanism in cancer immune...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0e25c5f564be82cc006a9f2dd09f2887d2b6933f68921e97d2",
+        "reviewedAt": "2026-09-07T21:34:03.933109+00:00",
+        "inputHash": "95cd430c7f3a629a10393b5afb9afe4c1db45be8255d8bd6251e8a8012d4befd",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信息结构清晰，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Bioscience reports，PMID 为 42704047。",
+          "report": "Breast cancer (BC) remains a major health issue worldwide. Immuno-oncology has recently garnered much attention with unprecedented bench-to-bedside revolutions in cancer diagnosis and treatment. The PD-1/PD-L1 pathway is an adaptive mechanism in cancer immune...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42703096",
       "date": "2026-09-07",
       "title": "Predictive and prognostic biomarkers of Bacillus Calmette-Guérin therapy failure in bladder cancer patients: A systematic review.",
@@ -1050,75 +1197,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Clinica chimica acta; international journal of clinical chemistry，PMID 为 42702327。",
           "report": "Triple-negative breast cancer (TNBC) is a highly aggressive subtype with no specific therapeutic targets and a high risk of early metastases. Liquid biopsy has emerged as a promising method for real-time monitoring using biomarkers like microRNAs, circulating...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42702314",
-      "date": "2026-09-06",
-      "title": "Geometric interface-guided self-formation of hollow multicellular spheroids in engineered composite structured hyaluronic acid (HA) hydrogels: Experiment and modeling.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42702314/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of biological macromolecules，PMID 为 42702314。",
-      "report": "The extracellular matrix (ECM) is a noncellular structure component that provides mechanical support and mediates chemical and physical guidance for cellular behaviors. Hydrogels are typical ECM-mimicking materials, which are intricately associated with cellul...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0919fe2ddd33391f006a9e425efb6887d0b20a52cf97c2610a",
-        "reviewedAt": "2026-09-07T04:49:28.961692+00:00",
-        "inputHash": "0fa22b02073866ba5786406c6bdb755ab67832341a31f9f500e4c858112643b1",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献的内容清晰地分离了事实、报告和推断，没有不当的临床结论，因此可以发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "选择的分类与文献主题一致，支持发布。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "所提供的证据水平与文献内容合理，信息分离明确。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 International journal of biological macromolecules，PMID 为 42702314。",
-          "report": "The extracellular matrix (ECM) is a noncellular structure component that provides mechanical support and mediates chemical and physical guidance for cellular behaviors. Hydrogels are typical ECM-mimicking materials, which are intricately associated with cellul...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1487,88 +1565,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Antiviral research，PMID 为 42700916。",
           "report": "Viral diseases pose a serious threat to global public health, agriculture, and biosecurity. Conventional antiviral strategies are often limited by an incomplete understanding of disease mechanisms, poor targeting precision, and slow response times. Emerging te...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42701198",
-      "date": "2026-09-05",
-      "title": "Integrating molecular subtypes, genomics and functional dependencies to identify context-specific therapeutic vulnerabilities in small cell lung cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42701198/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomarker research，PMID 为 42701198。",
-      "report": "Small cell lung cancer is one of the most aggressive malignancies, characterized by rapid tumor growth, early metastatic spread and extremely poor survival. Although most patients initially respond to platinum-based chemotherapy, relapse is almost inevitable a...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_08846e0ca6393742006a9d48926de087d186662516d9d14229",
-        "reviewedAt": "2026-09-06T11:03:16.182714+00:00",
-        "inputHash": "90fa496de8ca9489404545cca0bdc4b64ff999b69f93868612beb8e9e33cd9da",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该卡片内容一致，记录可安全发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类与主题一致，适合科学交流。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "文献源可靠，证据水平合理。"
-        },
-        "riskFlags": [
-          "diagnostics_claim",
-          "precision_medicine_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology",
-            "Drug Screening",
-            "Multi-omics"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤",
-            "药筛",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Biomarker research，PMID 为 42701198。",
-          "report": "Small cell lung cancer is one of the most aggressive malignancies, characterized by rapid tumor growth, early metastatic spread and extremely poor survival. Although most patients initially respond to platinum-based chemotherapy, relapse is almost inevitable a...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -2019,75 +2015,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42703554",
-      "date": "2026-09-02",
-      "title": "Dose Exploration Based on Quantitative Pharmacokinetic Analysis of Monoclonal Antibodies for Pediatric Immune-Mediated Diseases: Current Evidence and Future Directions.",
-      "entity": "Healthcare AI Research",
-      "primaryCategory": "Healthcare AI",
-      "subCategory": "Medical AI",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42703554/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Healthcare AI",
-        "Medical LLM"
-      ],
-      "tags": [
-        "医疗 AI",
-        "临床决策支持"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Drug design, development and therapy，PMID 为 42703554。",
-      "report": "Monoclonal antibodies have greatly changed the treatment of pediatric immune-mediated diseases (PIMDs) and have become the main treatment method for patients who do not respond to conventional therapy. However, there are many challenges in developing pediatric...",
-      "inference": "自动分类命中规则：Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0613f11820a477ff006a9eb12e14f087d28b00aa921aa1d73d",
-        "reviewedAt": "2026-09-07T12:42:01.721269+00:00",
-        "inputHash": "e71848e27eb7ff1308bee16f0bca9954b318c56b9b52b7bec358cdce63a19d60",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "此文献缺乏关于研究质量和样本量的支持信息，可能需要人工审阅以确保准确性和完整性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类未充分反映研究质量，存在不确定性。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据等级中等，但未详细阐明研究质量，存在信息缺口。"
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Healthcare AI",
-          "subCategory": "Medical AI",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Healthcare AI",
-            "Medical LLM"
-          ],
-          "tags": [
-            "医疗 AI",
-            "临床决策支持"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Drug design, development and therapy，PMID 为 42703554。",
-          "report": "Monoclonal antibodies have greatly changed the treatment of pediatric immune-mediated diseases (PIMDs) and have become the main treatment method for patients who do not respond to conventional therapy.",
-          "inference": "自动分类命中规则：Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42696754",
       "date": "2026-09-01",
       "title": "Gene-Chronos: parameter-efficient developmental time inference using a pretrained single-cell foundation model.",
@@ -2161,16 +2088,16 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42700637",
+      "id": "pubmed-42703967",
       "date": "2026-09-01",
-      "title": "Ag NPs@MXene-mediated electrochemical-SERS dual-mode microfluidic array for multiplexed breast cancer-associated miRNAs detection.",
+      "title": "Functional and Proteomic Profiles of CD3(+) Plasma-Derived Small Extracellular Vesicles Differentiate Cancer Patients From Healthy Donors.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42700637/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42703967/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
@@ -2185,32 +2112,34 @@ window.BHR_DATA = {
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bioelectrochemistry (Amsterdam, Netherlands)，PMID 为 42700637。",
-      "report": "Breast cancer-associated miRNAs are promising liquid-biopsy biomarkers, but their low serum abundance, short sequences and matrix interference hinder sensitive and multiplexed detection. Herein, we developed an Ag NPs@MXene-mediated electrochemical-surface-enh...",
+      "fact": "PubMed 记录显示该文献收录于 European journal of immunology，PMID 为 42703967。",
+      "report": "Small extracellular vesicles (sEV) released by T cells play a key role in immune regulation. Immune capture with anti-CD3 antibodies was used to isolate and study T cell-derived CD3(+)sEV from the plasma of patients with melanoma (MPs) or healthy donors (HDs)....",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0875180245286455006a9d48968d8c87d1bdbfbbe962e1b572",
-        "reviewedAt": "2026-09-06T11:03:16.182714+00:00",
-        "inputHash": "6f4febc106f17c8b51377b389ec7879e64d42c46c6f3660ea46525150b1187f6",
+        "responseId": "resp_0e22fedcab80de51006a9f2dd4699487d29c791a8310c33a8b",
+        "reviewedAt": "2026-09-07T21:34:03.933109+00:00",
+        "inputHash": "34db543300fbdc633ee6c2d7a8aa88e01b4dcab60f466ecf4c4ec0786b8de8b1",
         "status": "pass",
         "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号的分类和证据水平合理，事实、报告、推论和未知信息清晰分隔。",
+        "reviewSummaryCn": "该记录符合出版标准，信息清晰可靠。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，符合主题。"
+          "notesCn": "分类合理，符合研究主题。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "来源信息充分，支持性的报告合理。"
+          "notesCn": "来源信息充分，报告和推论明确分开。"
         },
         "riskFlags": [
-          "diagnostic_claim"
+          "clinical_claim",
+          "insufficient_source",
+          "regulatory_claim"
         ],
         "suggestedEdits": {
           "primaryCategory": "Diagnostics & Precision Medicine",
@@ -2226,8 +2155,8 @@ window.BHR_DATA = {
             "精准医疗",
             "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Bioelectrochemistry (Amsterdam, Netherlands)，PMID 为 42700637。",
-          "report": "Breast cancer-associated miRNAs are promising liquid-biopsy biomarkers, but their low serum abundance, short sequences and matrix interference hinder sensitive and multiplexed detection.",
+          "fact": "PubMed 记录显示该文献收录于 European journal of immunology，PMID 为 42703967。",
+          "report": "Small extracellular vesicles (sEV) released by T cells play a key role in immune regulation. Immune capture with anti-CD3 antibodies was used to isolate and study T cell-derived CD3(+)sEV from the plasma of patients with melanoma (MPs) or healthy donors (HDs)...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
@@ -2381,6 +2310,80 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42667121。",
           "report": "Predicting how single cells respond to perturbations is a central problem in computational biology, with potential relevance to emerging artificial intelligence virtual cell (AIVC) research and drug-discovery efforts. However, substantial variation in perturbations...",
           "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42704205",
+      "date": "2026-08-27",
+      "title": "Effectiveness of the Prospective Prescription Review System in Reducing Irrational Prescriptions at a Tertiary Specialty Hospital: Retrospective Cohort Study.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42704205/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 JMIR formative research，PMID 为 42704205。",
+      "report": "The prospective prescription review system can improve prescription rationality, but its effectiveness in high-volume specialty care settings is not well established. We aimed to evaluate the effectiveness of the prospective prescription review system in reduc...",
+      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_090eae63db455fd6006a9f2dd7b7b087d2a837760831619373",
+        "reviewedAt": "2026-09-07T21:34:03.933109+00:00",
+        "inputHash": "90e1701fadfebe0c2213a580fa8ff727b389321befd707c2aca83c01546eefa9",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审核以验证研究有效性和结论的支持情况。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "虽然分类为临床证据，但有效性声明未得到足够支持。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "文献的有效性声明缺乏足够的证据支持。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Evidence",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "临床",
+            "监管",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 JMIR formative research，PMID 为 42704205。",
+          "report": "The prospective prescription review system can improve prescription rationality, but its effectiveness in high-volume specialty care settings is not well established. We aimed to evaluate the effectiveness of the prospective prescription review system in reduc...",
+          "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
