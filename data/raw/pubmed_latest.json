@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-06T20:28:24.625699+00:00",
+  "capturedAt": "2026-09-07T04:49:19.258864+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-09-06",
-    "end": "2026-09-06"
+    "start": "2025-09-07",
+    "end": "2026-09-07"
   },
   "pmids": [
+    "42702375",
+    "42702369",
+    "42702327",
+    "42702314",
+    "42702147",
     "42701476",
-    "42701144",
-    "42701107",
-    "42700916",
-    "42700517",
-    "42699681",
     "42699656",
     "42696754",
     "42693007",
@@ -28,6 +28,7 @@
     "42653123",
     "42701174",
     "42701117",
+    "42700916",
     "42697290",
     "42693314",
     "42691096",
@@ -36,10 +37,103 @@
     "42699801",
     "42699789",
     "42699720",
-    "42699236",
     "42701503"
   ],
   "records": [
+    {
+      "pmid": "42702375",
+      "title": "[Current status and challenges of artificial intelligence and organoid technologies in precision diagnosis and treatment of gastrointestinal stromal tumors].",
+      "abstract": "Gastrointestinal stromal tumor (GIST) is the most common mesenchymal tumor of the gastrointestinal tract. Current diagnostic and therapeutic approaches mainly rely on surgical resection and targeted therapy. However, early clinical diagnosis and resistance to targeted drugs remain the most challenging issues, severely compromising patient outcomes. Organoid technology can preserve patient-specific genotypic characteristics and drug sensitivity profiles in vitro, providing a novel platform for drug screening and investigation of resistance mechanisms; however, its application in GIST research remains at an early stage. Artificial intelligence (AI)-based radiomics, pathomics, large language models, and intelligent agents have demonstrated substantial potential in GIST risk stratification, genotype prediction, treatment response evaluation, and whole-lifecycle disease management. Integrating organoid model-derived data with multimodal clinical data through AI approaches and advancing the development of personalized decision-support systems represent emerging directions in precision diagnosis and treatment of GIST. The establishment of GIST organoid models is currently limited to case reports, with low culture success rates and prolonged drug sensitivity testing periods, making it difficult to meet the requirements of timely clinical decision-making. In contrast, AI applications in GIST imaging-based risk stratification and pathology-based genotype prediction have demonstrated preliminary high performance; however, most models still lack multicenter external validation, and their generalizability remains uncertain. Currently, the integration of AI and organoid technologies, including morphological quantitative assessment and virtual drug screening, relies mainly on methodological approaches developed in pan-cancer studies, with no studies directly investigating these approaches in GIST. Moreover, the development of multimodal decision-support systems faces major challenges, including data silos, insufficient algorithm interpretability, and the absence of clear regulatory pathways. Therefore, future efforts should focus on establishing standardized databases through multicenter collaboration and validating the clinical utility of integrated platforms through real-world studies, thereby facilitating the transition of these technologies from conceptual frameworks to clinical practice.",
+      "journal": "Zhong nan da xue xue bao. Yi xue ban = Journal of Central South University. Medical sciences",
+      "publicationTypes": [
+        "Journal Article",
+        "Review",
+        "English Abstract"
+      ],
+      "affiliations": [
+        "School of Medicine, University of Electronic Science and Technology of China, Chengdu 610054. 18161275069@163.com.",
+        "School of Clinical Medicine, North Sichuan Medical College, Nanchong 637100.",
+        "Department of Gastrointestinal Surgery, Affiliated Hospital of Southwest Medical University, Luzhou 646000.",
+        "School of Medicine, University of Electronic Science and Technology of China, Chengdu 610054.",
+        "Geriatric General Surgery, Sichuan Academy of Medical Sciences·Sichuan Provincial People's Hospital (Affiliated Hospital of University of Electronic Science and Technology of China), Chengdu 610072, China.",
+        "School of Medicine, University of Electronic Science and Technology of China, Chengdu 610054. mhpang@uestc.edu.cn.",
+        "Geriatric General Surgery, Sichuan Academy of Medical Sciences·Sichuan Provincial People's Hospital (Affiliated Hospital of University of Electronic Science and Technology of China), Chengdu 610072, China. mhpang@uestc.edu.cn."
+      ],
+      "doi": "10.11817/j.issn.1672-7347.2026.260197",
+      "date": "2026-06-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42702375/"
+    },
+    {
+      "pmid": "42702369",
+      "title": "Modeling inflammation and inflammatory diseases in organoids.",
+      "abstract": "Organoids are 3D cellular structures that self-establish from stem cells and faithfully recapitulate key features of the tissue of interest. Organoids have emerged as powerful tools for disease modeling by maintaining pathology- and patient-specific characteristics, offering a highly valuable substitute for traditional cellular and animal models that often lack translational accuracy to model complex in vivo disease conditions. Despite its strong power, organoid cultures do not reconstruct the in vivo inflammatory microenvironment and thus do not maintain the imposed inflammatory state, making it challenging to model inflammation-linked diseases. PubMed was used as database and source of information. Organoids represent powerful tools to unravel disease mechanisms and eventually screen and identify new therapeutic approaches. Organoid models represent reliable but still reductionist representations of the in vivo tissue/organ, lacking the complex cell composition. Co-cultures with microenvironmental cell types or nearby impacting signaling factors are required to recapitulate the full disease phenotype, including the inflammatory state of the tissue. To obtain more representative inflammatory disease research models, exposure of organoids to inflammatory stimuli such as cytokines and co-cultures with immune cells or microbiota are being established. Implementation of advanced cellular complexity and inflammation in organoid models will enable the study of inflammatory disease-driving mechanisms in an accurate and relevant setting, and result in advanced clinical translation of research findings.",
+      "journal": "British medical bulletin",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Laboratory of Tissue Plasticity in Health and Disease, Cluster of Stem Cell and Developmental Biology, Department of Development and Regeneration, Katholieke Universiteit Leuven, Herestraat 49, Leuven 3000, Flemish Brabant, Belgium.",
+        "Department of Chronic Diseases and Metabolism, Translational Research Center for Gastrointestinal Disorders, Katholieke Universiteit Leuven, Herestraat 49, Leuven 3000, Flemish Brabant, Belgium."
+      ],
+      "doi": "10.1093/bmb/ldag028",
+      "date": "2026-07-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42702369/"
+    },
+    {
+      "pmid": "42702327",
+      "title": "Translational optical and electrochemical biosensing strategies for liquid biopsy in triple-negative breast Cancer: advances, challenges, and clinical implementation.",
+      "abstract": "Triple-negative breast cancer (TNBC) is a highly aggressive subtype with no specific therapeutic targets and a high risk of early metastases. Liquid biopsy has emerged as a promising method for real-time monitoring using biomarkers like microRNAs, circulating tumor DNA (ctDNA), circulating tumor cells (CTCs), and Extracellular vesicles. However, current analytical methods face challenges such as low sensitivity, high costs, and a lack of adaptability for point-of-care use, highlighting the need for new biosensing technologies. This review presents a comprehensive and critical examination of recent optical and electrochemical biosensors for TNBC liquid biopsy, focusing on current breakthroughs in detection techniques, signal transduction mechanisms, and clinical applications. Optical platforms such as fluorescence, electrochemiluminescence, surface plasmon resonance, and surface-enhanced Raman scattering offer ultrahigh sensitivity and multiplexing capabilities, enabling attomolar detection limits through nanomaterial integration and nucleic acid amplification methods. Electrochemical biosensors, such as voltammetric (DPV, SWV), electrochemical impedance spectroscopy (EIS), field-effect transistor, and photoelectrochemical systems, provide comparable sensitivity while being more portable, cost-effective, and point-of-care applicable. This review systematically correlates TNBC biomarkers with optimal sensing technologies, emphasizing how biomolecular properties affect sensor selection and performance. It also underscores the translational gap, as most platforms are still limited to proof-of-concept studies validated in TNBC cell line models or spiked samples, with limited clinical cohorts. Key challenges, such as biofouling, lack of standardization, assay complexity, and scalability, are highlighted in regard to real-world deployment. Finally, this review emphasizes future integration of biosensors with CTC-derived organoids, microfluidics, AI, and multiplexed detection to enable portable, clinically deployable systems.",
+      "journal": "Clinica chimica acta; international journal of clinical chemistry",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Biochemistry and Molecular Biotechnology Division, Chemistry Department, Faculty of Science, Capital University, Cairo, Egypt. Electronic address: kareem.gomaa@science.capu.edu.eg.",
+        "Biochemistry and Molecular Biotechnology Division, Chemistry Department, Faculty of Science, Innovative Cellular, Organoids, Spheroids and Tumoroids Microenvironment Optimization Platform (ICMOP), Precision Therapy Unit, Capital University, Cairo, Egypt.",
+        "Chemistry Department, College of Science, Imam Mohammad Ibn Saud Islamic University (IMSIU), Riyadh 11623, Saudi Arabia."
+      ],
+      "doi": "10.1016/j.cca.2026.121326",
+      "date": "2026-09-06",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42702327/"
+    },
+    {
+      "pmid": "42702314",
+      "title": "Geometric interface-guided self-formation of hollow multicellular spheroids in engineered composite structured hyaluronic acid (HA) hydrogels: Experiment and modeling.",
+      "abstract": "The extracellular matrix (ECM) is a noncellular structure component that provides mechanical support and mediates chemical and physical guidance for cellular behaviors. Hydrogels are typical ECM-mimicking materials, which are intricately associated with cellular self-organization. This study pioneers a composite hyaluronic acid (HA) hydrogel system with micropatterned interfaces that directs mesenchymal cells to self-organize into 3D hollow spheroids-unachievable in conventional homogeneous hydrogels. By designing rectangular groove interfaces between stiffness-differentiated hydrogel domains (cell-laden soft gel within grooves of cell-free stiff gel), we establish a spatiotemporally regulated niche for multicellular morphogenesis. The experimental findings reveal that 3D hollow multicellular spheroids with large internal cavities (100-250 μm in diameter) preferentially form adjacent to the engineered groove interfaces. Computational simulations reveal that the self-formation of hollow spheroids is mediated by the designed geometry of the hydrogel interface separating the sub-domains with differing stiffness. Hydrogel sub-domains with distinct mechanical properties and tailored sizes exhibit differential biomolecular diffusion and cell migration kinetics, thereby establishing a complex spatiotemporal regulation of the reaction and diffusion processes of biomolecules and cells. Experimental data align with our activator-inhibitor-substrate (AIS) model, demonstrating that interfacial geometry controls reaction-diffusion dynamics to induce cavity formation. This platform enables the on-demand fabrication of 3D tissue analogues with luminal structures, laying a foundation for advancing organoid engineering and pathological modeling.",
+      "journal": "International journal of biological macromolecules",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "College of Mechanical & Electrical Engineering, Hohai University, Changzhou, Jiangsu, 213200, China; Condas (Nanjing) Technology Co., Ltd., Nanjing, 210036, China. Electronic address: zhuxiaolu@hhu.edu.cn.",
+        "College of Mechanical & Electrical Engineering, Hohai University, Changzhou, Jiangsu, 213200, China.",
+        "Department of Gynaecology and Obstetrics, Nanjing Maternity and Child Health Care Hospital, Nanjing Medical University, Nanjing, 210004, China. Electronic address: tfang109@njmu.edu.cn."
+      ],
+      "doi": "10.1016/j.ijbiomac.2026.154360",
+      "date": "2026-09-06",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42702314/"
+    },
+    {
+      "pmid": "42702147",
+      "title": "Patient-derived organoids as predictor of clinical response in ovarian cancer: a systematic review.",
+      "abstract": "Patient-derived organoids (PDOs) have emerged as promising preclinical models for functional drug testing in ovarian cancer, with potential to support personalized treatment selection. However, their predictive value for clinical treatment response remains unclear. This systematic review evaluated the predictive accuracy of ovarian cancer PDOs for treatment efficacy. A systematic search of was conducted from inception to January 29, 2026. Eligible studies included patients with high-grade epithelial ovarian, fallopian tube, or primary peritoneal cancer from whom PDOs were generated for in vitro drug testing and directly correlated with clinical outcomes. The primary outcome was predictive accuracy, defined as concordance/ correlation between in vitro PDO drug response and in vivo patient outcomes. Because of substantial heterogeneity, a narrative synthesis was performed. Twelve studies published between 2019 and 2026 were included. Cohort sizes ranged from 6 to 61 patients and comprised two prospective validation studies and ten retrospective translational or feasibility studies. Clinical endpoints were heterogeneous and included radiologic, biochemical and histopathologic response, progression-free survival, and descriptive clinical course. Four studies reported statistically significant associations between PDO drug response and clinical outcome, six reported concordant findings without formal statistical testing, two showed limited or mixed concordance, and one relied on descriptive comparison only. The strongest evidence came from two prospective studies, which reported accuracies of 89% and 91.7%. Ovarian cancer PDOs show promise as functional predictors of treatment response, but current evidence is limited by small cohorts, methodological heterogeneity, and scarce prospective validation. Standardized prospective studies are needed to define their clinical applicability.",
+      "journal": "Translational oncology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Gynecologic Oncology, Erasmus MC Cancer Institute, University Medical Center Rotterdam, the Netherlands. Electronic address: m.vegter@erasmusmc.nl.",
+        "Department of Gynecologic Oncology, Erasmus MC Cancer Institute, University Medical Center Rotterdam, the Netherlands.",
+        "Department of Gynecologic Oncology, Erasmus MC Cancer Institute, University Medical Center Rotterdam, the Netherlands; Department of Obstetrics and Gynecology, Albert Schweitzer Hospital, Dordrecht, the Netherlands.",
+        "Department of Medical Oncology, Erasmus MC Cancer Institute, University Medical Center Rotterdam, the Netherlands."
+      ],
+      "doi": "10.1016/j.tranon.2026.103017",
+      "date": "2026-09-06",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42702147/"
+    },
     {
       "pmid": "42701476",
       "title": "Targeting the neuro-immune-skin axis: Advanced functional biomaterials for intelligent wound management and regeneration.",
@@ -64,118 +158,6 @@
       "doi": "10.1016/j.mtbio.2026.103584",
       "date": "2026-08-19",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42701476/"
-    },
-    {
-      "pmid": "42701144",
-      "title": "Culture media alter retinal organoid physiology promoting AAV transduction and retinal ganglion cell survival.",
-      "abstract": "Human iPSC-derived retinal organoids offer a human-relevant platform for inherited retinal disease (IRD) gene therapy, yet robust AAV transduction in vitro remains challenging. Here we show that culture in BrainPhys™ (BP) medium markedly enhances AAV-mediated gene delivery. Brief BP exposure during the transduction window improves uptake, whereas continuous BP culture yields the strongest effects, indicating contributions from acute entry processes and longer-term cellular remodelling. Quantitative proteomics reveal coordinated upregulation of viral entry and trafficking mediators, including integrins that form αVβ5, and the trans-Golgi entry factor GPR108, together with enrichment of endosomal/ER-Golgi transport proteins, providing a mechanistic basis for enhanced vector processing. BP concurrently promotes neuronal maturation and metabolism, with pronounced increases in neurotrophic and synaptic proteins and broad enhancement of oxidative phosphorylation components. Functional calcium imaging demonstrates comparable neuronal dynamics across conditions but reveals robust, recurrent network-level bursts under BP, consistent with strengthened connectivity. BP also preserves retinal ganglion cells and maintains expression of canonical markers, aligning with a BDNF-centred interactome and improved circuit integration. Collectively, these findings identify the culture environment as a critical determinant of AAV efficacy in human retinal tissue models and position BP as a simple, scalable strategy to reduce vector requirements, enhance retinal cells targeting, and increase the fidelity of organoid-based non-animal testing for IRD gene therapy development.",
-      "journal": "Gene therapy",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Stem Cell Medicine Unit, Children's Medical Research Institute, University of Sydney, Westmead, 2145, NSW, Australia.",
-        "School of Medical Sciences, Faculty of Medicine and Health, University of Sydney, Camperdown, 2006, NSW, Australia.",
-        "Institute for Photonics and Optical Sciences (IPOS), School of Physics, The University of Sydney, Camperdown, 2006, NSW, Australia.",
-        "Neuroscience Research Australia, Sydney, 2031, NSW, Australia.",
-        "Gene Therapy Unit, Children's Medical Research Institute, University of Sydney, Westmead, 2145, NSW, Australia.",
-        "Bioinformatics Group, Children's Medical Research Institute, University of Sydney, Westmead, 2145, NSW, Australia.",
-        "Department of Cell Biology, Blavatnik Institute, Harvard Medical School, Boston, MA, 02115, USA.",
-        "Macquarie Medical School, Faculty of Medicine, Health and Human Sciences, Macquarie University, Sydney, NSW, Australia.",
-        "ProHeme Diagnostics Pty Ltd, Sydney, NSW, Australia.",
-        "Stem Cell Medicine Unit, Children's Medical Research Institute, University of Sydney, Westmead, 2145, NSW, Australia. agonzalez-cordero@cmri.org.au.",
-        "School of Medical Sciences, Faculty of Medicine and Health, University of Sydney, Camperdown, 2006, NSW, Australia. agonzalez-cordero@cmri.org.au."
-      ],
-      "doi": "10.1038/s41434-026-00642-0",
-      "date": "2026-09-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42701144/"
-    },
-    {
-      "pmid": "42701107",
-      "title": "A pancreatic cancer organoid-macrophage co-culture using starPEG-heparin hydrogel deciphers tumor-immune cell interactions.",
-      "abstract": "Macrophages are among the most abundant immune cells in the pancreatic ductal adenocarcinoma (PDAC) tumor microenvironment (TME) and play a key role in regulating the immunosuppressive niche that facilitates tumor growth. Although recent three-dimensional (3D) culture systems using patient-derived materials have advanced our understanding of tumor biology, most models lack key cellular TME components and thus fail to capture tumor-immune cell interactions. To address this gap, we developed an in-vitro 3D co-culture model incorporating PDAC patient-derived organoids (PDOs) and macrophages within a synthetic hydrogel matrix. We optimized culture conditions by tuning medium and matrix conditions to support both cell lineages. Flow cytometry and transcriptomic analyses revealed that initially undifferentiated macrophages adopt an M2-like profile upon exposure to PDAC PDOs in starPEG-heparin hydrogels, mirroring the macrophage phenotypes observed by multiplex immunohistochemistry in the matched primary PDAC tissues. Cytokine secretome profiling revealed PDO-specific differences, indicating distinct underlying macrophage polarization subtypes. Collectively, our starPEG-heparin hydrogel-based 3D co-culture enables hypothesis-driven and physiologically relevant studies of tumor-macrophage interactions and may advance immune-modulatory treatment strategies in patients with PDAC.",
-      "journal": "NPJ precision oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Visceral, Thoracic and Vascular Surgery, Medical Faculty and University Hospital Carl Gustav Carus, TUD Dresden University of Technology, Dresden, Germany.",
-        "Leibniz Institute of Polymer Research Dresden, Max Bergmann Center of Biomaterials, Dresden, Germany.",
-        "Biomedical Genomics, Biotechnology Center, Center for Molecular and Cellular Bioengineering, TUD Dresden University of Technology, Dresden, Germany.",
-        "Institute of Immunology, Faculty of Medicine Carl Gustav Carus, TUD Dresden University of Technology, Dresden, Germany.",
-        "Institute of Pathology and Tumor- and Normal Tissue Bank of the University Cancer Center (UCC), University Hospital Carl Gustav Carus, Medical Faculty, TUD Dresden University of Technology, Dresden, Germany.",
-        "Institute of Legal Medicine, Medizinische Fakultät, TUD Dresden University of Technology, Dresden, Germany.",
-        "Core Unit for Molecular Tumor Diagnostics (CMTD), National Center for Tumor Diseases Dresden (NCT/UCC), Dresden, Germany.",
-        "National Center for Tumor Diseases (NCT), NCT/UCC Dresden, a partnership between DKFZ, Faculty of Medicine and University Hospital Carl Gustav Carus, TUD Dresden University of Technology and Helmholtz-Zentrum Dresden-Rossendorf (HZDR), Dresden, Germany.",
-        "German Cancer Consortium (DKTK), Partner Site Dresden, and German Cancer Research Center (DKFZ), Heidelberg, Germany.",
-        "Else Kröner Clinician Scientist Professor for Translational Tumor Immunological Research, TUD Dresden University of Technology, Dresden, Germany.",
-        "Medical Clinic I, University Hospital Carl Gustav Carus, TUD Dresden University of Technology, Dresden, Germany.",
-        "Center for Regenerative Therapies Dresden (CRTD) and Cluster of Excellence Physics of Life (PoL), TUD Dresden University of Technology, Dresden, Germany.",
-        "Department of Chemical and Biological Engineering and Department of Materials Science and Engineering, Faculty of Engineering, Monash University, Melbourne, VIC, Australia.",
-        "Department of Anatomy and Developmental Biology, Biomedicine Discovery Institute, Faculty of Medicine, Nursing and Health Sciences, Monash University, Melbourne, VIC, Australia.",
-        "Institute for Genetics, University of Cologne, Cologne, Germany.",
-        "Cologne Excellence Cluster for Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany.",
-        "Institute for Genome Stability in Aging and Disease, University of Cologne, Cologne, Germany.",
-        "Department of Visceral, Thoracic and Vascular Surgery, Medical Faculty and University Hospital Carl Gustav Carus, TUD Dresden University of Technology, Dresden, Germany. Franziska.Baenke@ukdd.de.",
-        "Core Unit for Molecular Tumor Diagnostics (CMTD), National Center for Tumor Diseases Dresden (NCT/UCC), Dresden, Germany. Franziska.Baenke@ukdd.de.",
-        "Center for Regenerative Therapies Dresden (CRTD) and Cluster of Excellence Physics of Life (PoL), TUD Dresden University of Technology, Dresden, Germany. Franziska.Baenke@ukdd.de."
-      ],
-      "doi": "10.1038/s41698-026-01678-6",
-      "date": "2026-09-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42701107/"
-    },
-    {
-      "pmid": "42700916",
-      "title": "Application of Emerging Technologies in the Antiviral Field.",
-      "abstract": "Viral diseases pose a serious threat to global public health, agriculture, and biosecurity. Conventional antiviral strategies are often limited by an incomplete understanding of disease mechanisms, poor targeting precision, and slow response times. Emerging technologies are now reshaping the landscape of antiviral research. This review examines the roles of four key frontiers, including organoid models, gene editing, AI-driven molecular design, and synthetic biology. Organoids provide physiologically relevant platforms that model virus-host interactions and disease progression. Viral infections remain a major challenge to human and animal health, agriculture, and biosecurity. Progress in antiviral research is constrained by the complexity of viral pathogenesis, the diversity and rapid evolution of viruses, and the limited translational relevance of some traditional model systems. Recent advances in organoid technology, gene editing, artificial intelligence, and synthetic biology are expanding the toolkit available for antiviral research and development. In this review, we discuss how these four technological frontiers contribute to disease modeling, target discovery, molecular design, and translational innovation. Organoids, in particular, provide physiologically relevant systems for investigating viral infection, tissue tropism, host responses, and pathogenesis. Gene editing tools, such as CRISPR, enable precise manipulation of host and viral genomes, facilitating the development of resistant organisms and next-generation vaccine platforms. AI technologies, including AlphaFold for structure prediction and platforms for de novo protein design, address long-standing bottlenecks in structural biology and offer powerful means to engineer antiviral proteins, antibodies, and vaccine antigens. Synthetic biology, guided by the Design-Build-Test-Learn cycle, integrates computational design, genetic assembly, and functional validation into a cohesive pipeline. Together, these technologies form a synergistic workflow that spans disease modeling, target discovery, molecular design, construction, testing, and iterative optimization. This integrated approach is shifting antiviral development from traditional empirical methods toward more precise, intelligent strategies. The review also highlights ongoing challenges in integration and scalability, stressing that high-quality biological datasets and stronger interdisciplinary collaboration are essential for realizing translational potential. By presenting a cohesive view of these converging methodologies, this review offers a framework to guide the intelligent evolution of antiviral strategies in both human and animal health.",
-      "journal": "Antiviral research",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China.",
-        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China. Electronic address: wenjuandu111@163.com.",
-        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China. Electronic address: shengwang@henau.edu.cn.",
-        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China. Electronic address: yongtaole@126.com."
-      ],
-      "doi": "10.1016/j.antiviral.2026.106529",
-      "date": "2026-09-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42700916/"
-    },
-    {
-      "pmid": "42700517",
-      "title": "Brain organoids, high-density MEAs, and deep learning: A new paradigm for functional neurobiomarker discovery.",
-      "abstract": "Biomarker discovery, essential in neuroscience research, has traditionally been based on static molecular omics, which frequently reveal established pathogenesis at the network level when irreversible structural damage occurs. In this review, the paradigm shift of functional \"digital phenotyping\" is discussed, along with its implementation by combining human induced pluripotent stem cell (hiPSC)-derived brain organoids with high-density multielectrode arrays (HD-MEAs). Researchers can use advanced architecture deep learning (DL) algorithms, such as Convolutional and Graph Neural Networks, to identify predictive signatures of diseases at the network level by separating complex spatiotemporal dynamics in firing patterns. These digital functional biomarkers can their ability to detect abnormal burst kinetics, abnormal oscillatory coupling, and abnormal functional connectomes before the onset of structural cell loss. Moreover, we discuss the underlying methods of artificial intelligence (AI) analysis and advances in phenotypic drug discovery using organoid electrophysiology, changing the paradigm of therapeutic targeting from the clearance of molecular aggregates to the functional recuperation of neural circuit health. In conclusion, a combination of powerful 3D culture technology, state-of-the-art microelectronics, and machine learning offers an extensive novel translational platform for dissecting early neurodevelopmental and neurodegenerative diseases, ultimately driving precision therapeutic approaches for the brain and other organs.",
-      "journal": "Computers in biology and medicine",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Allied Health Sciences, Chitkara School of Health Sciences, Chitkara University, Rajpura, Punjab, 140401, India. Electronic address: krishnameesala6@gmail.com."
-      ],
-      "doi": "10.1016/j.compbiomed.2026.111921",
-      "date": "2026-09-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42700517/"
-    },
-    {
-      "pmid": "42699681",
-      "title": "BMP-2-driven osteo-organoid formation retains key osteogenic-support features and promotes bone repair following total-body irradiation.",
-      "abstract": "Irradiation stress causes persistent skeletal injury by disrupting marrow homeostasis, stromal function, and bone repair. However, the temporal remodeling of the native bone microenvironment and the capacity of a biomaterial-induced osteogenic environment to sustain regeneration under systemic irradiation remain unclear. Using 6 Gy total body irradiation (TBI), we characterized time-resolved changes in the native femur and evaluated BMP-2-loaded hyaluronic acid methacryloyl (BMP-2/HAMA)-induced osteo-organoids relative to their corresponding non-irradiated controls. TBI caused progressive femoral deterioration, including trabecular bone loss, persistent B-cell depletion, neutrophil-associated myeloid expansion, Type-H endothelial-cell decline, and accumulation of senescence-associated mesenchymal stromal cells (MSCs). Single-cell RNA sequencing further resolved mature B-cell loss and enrichment of inflammatory and mature neutrophil states. In osteo-organoids, irradiation delayed but did not abolish tissue maturation. By 6 weeks, irradiated osteo-organoids approached the tissue and cellular features of non-irradiated osteo-organoids at the mature 3-week stage, while the MSC-associated stromal compartment remained relatively stable. Osteo-organoid-derived MSCs exhibited less pronounced irradiation-associated dysfunction and retained clonogenic, osteogenic, and immunomodulatory capacities. In an irradiation-impaired femoral defect model, BMP-2/HAMA enhanced mineralized tissue formation, mechanical competence, and gait function. These findings support BMP-2/HAMA as a biomaterial-assisted strategy for functional bone regeneration under irradiation-impaired conditions.",
-      "journal": "Bioactive materials",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "State Key Laboratory of Green Chemical Engineering and Industrial Catalysis, East China University of Science and Technology, Shanghai, 200237, PR China.",
-        "Engineering Research Center for Biomedical Materials of the Ministry of Education, East China University of Science and Technology, Shanghai, 200237, PR China.",
-        "Key Laboratory for Ultrafine Materials of Ministry of Education, East China University of Science and Technology, Shanghai, 200237, PR China.",
-        "Frontiers Science Center for Materiobiology and Dynamic Chemistry, East China University of Science and Technology, Shanghai, 200237, PR China."
-      ],
-      "doi": "10.1016/j.bioactmat.2026.08.042",
-      "date": "2026-08-27",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42699681/"
     },
     {
       "pmid": "42699656",
@@ -322,6 +304,25 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42701117/"
     },
     {
+      "pmid": "42700916",
+      "title": "Application of Emerging Technologies in the Antiviral Field.",
+      "abstract": "Viral diseases pose a serious threat to global public health, agriculture, and biosecurity. Conventional antiviral strategies are often limited by an incomplete understanding of disease mechanisms, poor targeting precision, and slow response times. Emerging technologies are now reshaping the landscape of antiviral research. This review examines the roles of four key frontiers, including organoid models, gene editing, AI-driven molecular design, and synthetic biology. Organoids provide physiologically relevant platforms that model virus-host interactions and disease progression. Viral infections remain a major challenge to human and animal health, agriculture, and biosecurity. Progress in antiviral research is constrained by the complexity of viral pathogenesis, the diversity and rapid evolution of viruses, and the limited translational relevance of some traditional model systems. Recent advances in organoid technology, gene editing, artificial intelligence, and synthetic biology are expanding the toolkit available for antiviral research and development. In this review, we discuss how these four technological frontiers contribute to disease modeling, target discovery, molecular design, and translational innovation. Organoids, in particular, provide physiologically relevant systems for investigating viral infection, tissue tropism, host responses, and pathogenesis. Gene editing tools, such as CRISPR, enable precise manipulation of host and viral genomes, facilitating the development of resistant organisms and next-generation vaccine platforms. AI technologies, including AlphaFold for structure prediction and platforms for de novo protein design, address long-standing bottlenecks in structural biology and offer powerful means to engineer antiviral proteins, antibodies, and vaccine antigens. Synthetic biology, guided by the Design-Build-Test-Learn cycle, integrates computational design, genetic assembly, and functional validation into a cohesive pipeline. Together, these technologies form a synergistic workflow that spans disease modeling, target discovery, molecular design, construction, testing, and iterative optimization. This integrated approach is shifting antiviral development from traditional empirical methods toward more precise, intelligent strategies. The review also highlights ongoing challenges in integration and scalability, stressing that high-quality biological datasets and stronger interdisciplinary collaboration are essential for realizing translational potential. By presenting a cohesive view of these converging methodologies, this review offers a framework to guide the intelligent evolution of antiviral strategies in both human and animal health.",
+      "journal": "Antiviral research",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China.",
+        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China. Electronic address: wenjuandu111@163.com.",
+        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China. Electronic address: shengwang@henau.edu.cn.",
+        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China. Electronic address: yongtaole@126.com."
+      ],
+      "doi": "10.1016/j.antiviral.2026.106529",
+      "date": "2026-09-05",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42700916/"
+    },
+    {
       "pmid": "42697290",
       "title": "Extremozymes for food fermentation: Integrating AI, metagenomics, and protein engineering.",
       "abstract": "Climate change-induced fluctuations in temperature, pH, salinity, and water activity are increasingly compromising microbial metabolism and fermentation efficiency, exposing the limitations of conventional mesophilic enzymes in maintaining process stability and product consistency. Extremozymes, derived from extremophilic microorganisms, exhibit exceptional structural stability and catalytic activity under harsh physicochemical conditions, making them promising biocatalysts for climate-resilient food fermentation. Although considerable progress has been achieved in extremozyme discovery and engineering, challenges remain in bridging computational prediction with experimental validation, functional characterization, large-scale production, and industrial deployment. This review critically examines the diversity, biochemical properties, and functional roles of extremozymes in food fermentation while evaluating the influence of climate-induced process stresses on microbial performance, enzyme functionality, and fermentation outcomes. It further synthesizes recent advances in Artificial Intelligence (AI)-assisted metagenomics, machine learning, transformer-based protein modelling, generative protein design, multi-omics (MO) integration, and high-throughput screening platforms, including microfluidics, droplet-based systems, and cell-free expression technologies, that are accelerating enzyme discovery, engineering, and validation. Particular emphasis is placed on the integration of computational and experimental workflows to improve the accuracy, scalability, and industrial translation of next-generation extremozymes. Unlike previous reviews that primarily describe individual enzyme classes or AI methodologies, this review provides a comprehensive and critical framework linking climate-driven fermentation challenges with emerging computational and biotechnological solutions. It identifies current knowledge gaps, technological bottlenecks, and future research priorities for developing robust, programmable, and energy-efficient fermentation systems capable of sustaining product quality, process reliability, and sustainable food production under increasingly variable environmental conditions.",
@@ -463,23 +464,6 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42699720/"
     },
     {
-      "pmid": "42699236",
-      "title": "Exposure-aware multi-omics and artificial intelligence for biomarker discovery and precision prevention in diffuse glioma.",
-      "abstract": "Diffuse gliomas are now diagnosed and studied through integrated molecular classification, radiomics, single-cell biology, spatial profiling, proteogenomics, metabolomics, and artificial intelligence. Yet many precision-medicine models still begin at diagnosis and emphasize tumor-intrinsic molecular features, leaving environmental, occupational, lifestyle, microbiome, metabolic, immune, and treatment-related exposures at the margins. This review develops an exposome-informed view of diffuse glioma biomarker discovery. Biomarker discovery is separated from clinical prevention: current evidence does not justify population-level glioma screening based on environmental exposures, but it does support systematic integration of external exposures and internal exposure-related molecular states with tumor and host biology. The synthesis focuses on five linked dimensions: the limits of current artificial intelligence and multi-omics models when exposure biology is excluded; glioma-relevant exposure domains stratified by evidence strength and measurability; genotoxic, epigenetic, vascular, neuroimmune, and immunometabolic conduits through which exposures may shape tumor ecology; computational strategies for temporally anchored integration of geospatial, occupational, clinical, liquid-biopsy, imaging, tumor-omic, single-cell, spatial, microbiome, and metabolomic data; and clinically realistic applications in high-risk surveillance, recurrence-aware monitoring, treatment-toxicity reduction, and biomarker-guided trial stratification. By aligning exposome science with systems neuro-oncology, the review outlines a translational agenda for exposure-aware glioma biomarkers while maintaining a conservative boundary between established evidence, mechanistic hypotheses, and future clinical implementation.",
-      "journal": "Frontiers in immunology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Radiology, Key Laboratory of Obstetric & Gynecologic and Pediatric Disease and Birth Defects of Ministry of Education, West China Second University Hospital, Sichuan University, Chengdu, Sichuan, China.",
-        "Department of Clinical Laboratory, Suining First People's Hospital, Suining, Sichuan, China."
-      ],
-      "doi": "10.3389/fimmu.2026.1874861",
-      "date": "2026-08-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42699236/"
-    },
-    {
       "pmid": "42701503",
       "title": "Multichannel deep learning-based MRI model for predicting breast cancer axillary lymph node invasion: a comparative study to Node-RADS.",
       "abstract": "The accurate evaluation of axillary lymph node (ALN) status before surgery is critical to formulate appropriate surgical strategies and determine whether axillary lymph node dissection (ALND) should be performed in breast cancer (BC) patients. This study aimed to develop a multichannel multiscale deep learning (DL) model for the preoperative prediction of ALN metastasis for BC patients using dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) and to compare its performance with that of the Node Reporting and Data System (Node-RADS). A total of 735 patients were included in this two-center retrospective study. A DL framework integrating features from axial, sagittal, coronal, and multiplanar reformat DCE-MRI images was constructed. ResNet101 served as the feature extractor, followed by a transformer-based fusion module. Model interpretability was enhanced with gradient-weighted class activation mapping (Grad-CAM) and SHapley additive exPlanations (SHAP). Diagnostic performance was evaluated using the area under the curve (AUC), sensitivity, and specificity, and compared with the Node-RADS in an external validation cohort (n=148). The proposed model achieved promising results with AUC values of 0.959 [95% confidence interval (CI): 0.942-0.976] in the training cohort, 0.885 (95% CI: 0.839-0.931) in the internal validation cohort, and 0.908 (95% CI: 0.862-0.954) in the external validation cohort. The predictive ability of the model remained stable across diverse patient subgroups stratified by age, tumor size, and Breast Imaging Reporting and Data System (BI-RADS) category. In the external validation cohort, the model demonstrated diagnostic accuracy comparable to that of the Node-RADS (AUC: 0.908 vs. 0.909, P=0.971), with no significant differences in sensitivity, specificity, or accuracy (all P>0.05). Agreement between the two approaches was moderate (kappa =0.523). The developed DL model provides accurate and robust preoperative prediction of ALN metastasis and its performance was comparable to that of the Node-RADS. It could serve as a clinical decision-support tool to reduce unnecessary ALN dissections.",
@@ -500,16 +484,50 @@
   ],
   "signals": [
     {
-      "id": "pubmed-42701144",
-      "date": "2026-09-05",
-      "title": "Culture media alter retinal organoid physiology promoting AAV transduction and retinal ganglion cell survival.",
+      "id": "pubmed-42702327",
+      "date": "2026-09-06",
+      "title": "Translational optical and electrochemical biosensing strategies for liquid biopsy in triple-negative breast Cancer: advances, challenges, and clinical implementation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42702327/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Clinica chimica acta; international journal of clinical chemistry，PMID 为 42702327。",
+      "report": "Triple-negative breast cancer (TNBC) is a highly aggressive subtype with no specific therapeutic targets and a high risk of early metastases. Liquid biopsy has emerged as a promising method for real-time monitoring using biomarkers like microRNAs, circulating...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42702314",
+      "date": "2026-09-06",
+      "title": "Geometric interface-guided self-formation of hollow multicellular spheroids in engineered composite structured hyaluronic acid (HA) hydrogels: Experiment and modeling.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42701144/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42702314/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -522,22 +540,22 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Gene therapy，PMID 为 42701144。",
-      "report": "Human iPSC-derived retinal organoids offer a human-relevant platform for inherited retinal disease (IRD) gene therapy, yet robust AAV transduction in vitro remains challenging. Here we show that culture in BrainPhys™ (BP) medium markedly enhances AAV-mediated...",
+      "fact": "PubMed 记录显示该文献收录于 International journal of biological macromolecules，PMID 为 42702314。",
+      "report": "The extracellular matrix (ECM) is a noncellular structure component that provides mechanical support and mediates chemical and physical guidance for cellular behaviors. Hydrogels are typical ECM-mimicking materials, which are intricately associated with cellul...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42701107",
-      "date": "2026-09-05",
-      "title": "A pancreatic cancer organoid-macrophage co-culture using starPEG-heparin hydrogel deciphers tumor-immune cell interactions.",
+      "id": "pubmed-42702147",
+      "date": "2026-09-06",
+      "title": "Patient-derived organoids as predictor of clinical response in ovarian cancer: a systematic review.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42701107/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42702147/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -545,84 +563,18 @@
         "Organoids",
         "Advanced Disease Models",
         "Precision Oncology",
-        "Multi-omics"
+        "Drug Screening"
       ],
       "tags": [
         "类器官",
         "疾病模型",
         "肿瘤",
-        "多组学"
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 NPJ precision oncology，PMID 为 42701107。",
-      "report": "Macrophages are among the most abundant immune cells in the pancreatic ductal adenocarcinoma (PDAC) tumor microenvironment (TME) and play a key role in regulating the immunosuppressive niche that facilitates tumor growth. Although recent three-dimensional (3D)...",
+      "fact": "PubMed 记录显示该文献收录于 Translational oncology，PMID 为 42702147。",
+      "report": "Patient-derived organoids (PDOs) have emerged as promising preclinical models for functional drug testing in ovarian cancer, with potential to support personalized treatment selection. However, their predictive value for clinical treatment response remains unc...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42700916",
-      "date": "2026-09-05",
-      "title": "Application of Emerging Technologies in the Antiviral Field.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42700916/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Antiviral research，PMID 为 42700916。",
-      "report": "Viral diseases pose a serious threat to global public health, agriculture, and biosecurity. Conventional antiviral strategies are often limited by an incomplete understanding of disease mechanisms, poor targeting precision, and slow response times. Emerging te...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42700517",
-      "date": "2026-09-05",
-      "title": "Brain organoids, high-density MEAs, and deep learning: A new paradigm for functional neurobiomarker discovery.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42700517/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Computers in biology and medicine，PMID 为 42700517。",
-      "report": "Biomarker discovery, essential in neuroscience research, has traditionally been based on static molecular omics, which frequently reveal established pathogenesis at the network level when irreversible structural damage occurs. In this review, the paradigm shif...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -683,6 +635,39 @@
       "fact": "PubMed 记录显示该文献收录于 Communications chemistry，PMID 为 42701117。",
       "report": "Three-dimensional molecular generative models have emerged that produce de novo molecules both unconditionally and conditionally, e.g., within protein pockets. However, steering those models in a specific region of the chemical space that satisfies a set of de...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42700916",
+      "date": "2026-09-05",
+      "title": "Application of Emerging Technologies in the Antiviral Field.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42700916/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Antiviral research，PMID 为 42700916。",
+      "report": "Viral diseases pose a serious threat to global public health, agriculture, and biosecurity. Conventional antiviral strategies are often limited by an incomplete understanding of disease mechanisms, poor targeting precision, and slow response times. Emerging te...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -935,41 +920,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42699681",
-      "date": "2026-08-27",
-      "title": "BMP-2-driven osteo-organoid formation retains key osteogenic-support features and promotes bone repair following total-body irradiation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42699681/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Longevity",
-        "Biomarkers",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "衰老",
-        "biomarker",
-        "longevity",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bioactive materials，PMID 为 42699681。",
-      "report": "Irradiation stress causes persistent skeletal injury by disrupting marrow homeostasis, stromal function, and bone repair. However, the temporal remodeling of the native bone microenvironment and the capacity of a biomaterial-induced osteogenic environment to s...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42699656",
       "date": "2026-08-26",
       "title": "Artificial intelligence virtual bone organoids (AIVBOs).",
@@ -1039,38 +989,6 @@
       "fact": "PubMed 记录显示该文献收录于 Sheng wu yi xue gong cheng xue za zhi = Journal of biomedical engineering = Shengwu yixue gongchengxue zazhi，PMID 为 42656114。",
       "report": "In order to accurately identify tumor boundaries and improve diagnostic efficiency, this study proposes a multi-modal tumor boundary identification method based on artificial intelligence virtual cells and saliency near-infrared spectrum imaging, and uses this...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42699236",
-      "date": "2026-08-21",
-      "title": "Exposure-aware multi-omics and artificial intelligence for biomarker discovery and precision prevention in diffuse glioma.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42699236/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42699236。",
-      "report": "Diffuse gliomas are now diagnosed and studied through integrated molecular classification, radiomics, single-cell biology, spatial profiling, proteogenomics, metabolomics, and artificial intelligence. Yet many precision-medicine models still begin at diagnosis...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1249,6 +1167,76 @@
       "fact": "PubMed 记录显示该文献收录于 Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica，PMID 为 42693007。",
       "report": "As the primary carrier of clinical treatment in traditional Chinese medicine(TCM), TCM formulae require elucidation of the interaction laws between their chemical substance basis and biological activities, which represents a key scientific issue in TCM researc...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42702369",
+      "date": "2026-07-03",
+      "title": "Modeling inflammation and inflammatory diseases in organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42702369/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 British medical bulletin，PMID 为 42702369。",
+      "report": "Organoids are 3D cellular structures that self-establish from stem cells and faithfully recapitulate key features of the tissue of interest. Organoids have emerged as powerful tools for disease modeling by maintaining pathology- and patient-specific characteri...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42702375",
+      "date": "2026-06-28",
+      "title": "[Current status and challenges of artificial intelligence and organoid technologies in precision diagnosis and treatment of gastrointestinal stromal tumors].",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42702375/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Healthcare AI",
+        "Medical LLM",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "医疗 AI",
+        "临床决策支持",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Zhong nan da xue xue bao. Yi xue ban = Journal of Central South University. Medical sciences，PMID 为 42702375。",
+      "report": "Gastrointestinal stromal tumor (GIST) is the most common mesenchymal tumor of the gastrointestinal tract. Current diagnostic and therapeutic approaches mainly rely on surgical resection and targeted therapy. However, early clinical diagnosis and resistance to...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
