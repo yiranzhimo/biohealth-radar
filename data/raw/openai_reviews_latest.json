@@ -1,29 +1,147 @@
 {
-  "capturedAt": "2026-09-07T21:34:03.933109+00:00",
+  "capturedAt": "2026-09-08T04:45:06.102631+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42704227",
-      "responseId": "resp_0f28673144ae601f006a9f2dcd40ec87d2ab1b6478a5b79788",
+      "signalId": "pubmed-42705609",
+      "responseId": "resp_00c7870ce5289a01006a9f92d3190087d0b2f15a2c043f3587",
       "review": {
         "status": "pass",
         "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号清晰地分离了事实、报告和推论，内容规范，无不支持的临床结论。",
+        "reviewSummaryCn": "通过。信息记录中明确区分了事实、报告和推断，且未包含临床结论或治疗建议。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": ""
+          "notesCn": "分类合理，符合主题内容。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": ""
+          "notesCn": "证据水平合理，信息来源清晰。"
         },
         "riskFlags": [
-          "insufficient_source"
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of lipid research，PMID 为 42705609。",
+          "report": "Lipid droplets (LDs) are dynamic organelles that regulate lipid storage, metabolism, and organelle crosstalk. In renal tubular cells, which rely heavily on fatty acid oxidation for energy, LDs play a dual role. The transient accumulation of LDs during acute st...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42705593",
+      "responseId": "resp_091bd2072c4f4e92006a9f92d89b8887d0a42fede15ac4e787",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献报告中存在对研究质量等信息的缺失，需进行人工审核。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "文章的分类存在不当之处，需与研究内容核对。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据等级标记为中等，但提供的信息不足以支持这一判断。"
+        },
+        "riskFlags": [
+          "insufficient_source",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Molecular and cellular endocrinology，PMID 为 42705593。",
+          "report": "Intestinal epithelial cells are highly sensitive to nutritional cues within the gut lumen. Although numerous studies have linked high-fat diets (HFD) to intestinal dysfunction, the mechanisms by which these diets alter epithelial cell composition to contribute...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42705424",
+      "responseId": "resp_0b8d76246f7cf2a0006a9f92dc48e087d095c6d2a020d0c3fc",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信息的分类和证据水平合理，信息分离清晰，无临床建议或结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合研究内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "信息来源可靠且所选证据水平合理。"
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Fish & shellfish immunology，PMID 为 42705424。",
+          "report": "The intestinal tract maintains animal health directly (barrier integrity, nutrient absorption, etc.) and indirectly (microenvironment for commensal organisms). Due to its close interactions with the internal and external environment, the intestinal tract is th...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42704980",
+      "responseId": "resp_097a8c8ee7a92a3e006a9f92e110d087d09acbff990ed0c1b5",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信号来自高可靠性的PubMed记录，信息清晰分离，未作出临床结论，适合发布。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别和子类别与文献内容一致，符合标准。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献来源可靠性高，证据水平合理。"
+        },
+        "riskFlags": [
+          "clinical_claim"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -32,39 +150,50 @@
           "themes": [
             "Organoids",
             "Advanced Disease Models",
-            "Precision Oncology"
+            "Diagnostics",
+            "Precision Medicine",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology",
+            "Drug Screening"
           ],
           "tags": [
             "类器官",
             "疾病模型",
-            "肿瘤"
+            "诊断",
+            "精准医疗",
+            "临床",
+            "监管",
+            "肿瘤",
+            "药筛"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42704227。",
-          "report": "The Akt family of serine/threonine kinases plays a crucial role in various cellular processes, including proliferation, survival, and metabolism. Three Akt isoforms (Akt1, Akt2, and Akt3) have distinct physiological roles, and while individual isoform dysregul...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Pharmacological research，PMID 为 42704980。",
+          "report": "Precision oncology faces three systemic bottlenecks: static molecular snapshots fail to capture tumor dynamics, patient‑derived organoids lack physiological reconstruction of the tumor microenvironment (TME), and artificial intelligence (AI) remains a \"black box\" for many clinical applications.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42704047",
-      "responseId": "resp_0e25c5f564be82cc006a9f2dd09f2887d2b6933f68921e97d2",
+      "signalId": "pubmed-42705053",
+      "responseId": "resp_027f8063788b6d86006a9f92e5783087d0a84ed058d246b3fa",
       "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息结构清晰，符合发布标准。",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献引用中未提供对研究质量及临床评估的详细信息，需要更人类评审以判断内容的有效性。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": ""
+          "notesCn": "分类名称合理，但缺乏质量判断信息。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平标记为中等，但文献的详细评估未充分支持此水平。"
         },
         "riskFlags": [
           "clinical_claim",
+          "weak_classification",
           "insufficient_source"
         ],
         "suggestedEdits": {
@@ -81,33 +210,32 @@
             "精准医疗",
             "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Bioscience reports，PMID 为 42704047。",
-          "report": "Breast cancer (BC) remains a major health issue worldwide. Immuno-oncology has recently garnered much attention with unprecedented bench-to-bedside revolutions in cancer diagnosis and treatment. The PD-1/PD-L1 pathway is an adaptive mechanism in cancer immune...",
+          "fact": "PubMed 记录显示该文献收录于 Molecular aspects of medicine，PMID 为 42705053。",
+          "report": "Circulating tumor DNA (ctDNA) is a key component of liquid biopsy and has emerged as one of the most promising biomarkers. However, the clinical value of ctDNA depends directly on the biological mechanisms that govern its release and persistence within the cir...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42703967",
-      "responseId": "resp_0e22fedcab80de51006a9f2dd4699487d29c791a8310c33a8b",
+      "signalId": "pubmed-42704571",
+      "responseId": "resp_09957d933c237652006a9f92e9ef1087d0bcbb54009ca57a28",
       "review": {
         "status": "pass",
-        "confidence": 0.9,
+        "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录符合出版标准，信息清晰可靠。",
+        "reviewSummaryCn": "该信号内容符合发布标准，信息来源清晰明确，未涉及臆断结论。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，符合研究主题。"
+          "notesCn": "分类合理，符合提供的元数据。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "来源信息充分，报告和推论明确分开。"
+          "notesCn": "事实、报告和推断之间的分离明确，证据水平合理。"
         },
         "riskFlags": [
           "clinical_claim",
-          "insufficient_source",
           "regulatory_claim"
         ],
         "suggestedEdits": {
@@ -124,51 +252,169 @@
             "精准医疗",
             "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 European journal of immunology，PMID 为 42703967。",
-          "report": "Small extracellular vesicles (sEV) released by T cells play a key role in immune regulation. Immune capture with anti-CD3 antibodies was used to isolate and study T cell-derived CD3(+)sEV from the plasma of patients with melanoma (MPs) or healthy donors (HDs)...",
+          "fact": "PubMed 记录显示该文献收录于 Molecular biomedicine，PMID 为 42704571。",
+          "report": "Noninvasive differentiation of malignant and benign renal masses remains a major clinical challenge, particularly for radiologically indeterminate lesions. Here, we developed and validated a plasma cell-free DNA (cfDNA) fragmentomics-based machine learning classifier.",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42704205",
-      "responseId": "resp_090eae63db455fd6006a9f2dd7b7b087d2a837760831619373",
+      "signalId": "pubmed-42704556",
+      "responseId": "resp_0a8cfee69e6cb50d006a9f92edfd2087d0b546936afc84d2eb",
       "review": {
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审核以验证研究有效性和结论的支持情况。",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信息一致且中立，适合发布。",
         "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "虽然分类为临床证据，但有效性声明未得到足够支持。"
+          "isSupported": true,
+          "notesCn": "分类合理，符合文献内容。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "文献的有效性声明缺乏足够的证据支持。"
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平中等，与所提供的信息相符。"
         },
         "riskFlags": [
           "clinical_claim",
           "insufficient_source"
         ],
         "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Molecular biomedicine，PMID 为 42704556。",
+          "report": "This review starts with the historical background and biological features to classify mainly the liquid biopsy biomarkers, such as circulating tumor DNA, circulating tumor cells, extracellular vesicles, non-coding RNAs, tumor-educated platelets and tumor-assoc...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42705161",
+      "responseId": "resp_01b1b0e9dcd6a06f006a9f92f17f4487d0945c127447e57c84",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号的事实、报告和推论明确分离，符合发表标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "类别和证据水平合理，符合来源元数据的支持。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献来源可靠，且推论不超出来源信息。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Animal reproduction science，PMID 为 42705161。",
+          "report": "This study reports, for the first time, the establishment of endometrial organoids (EOs) from the Arabian camel (Camelus dromedarius) and evaluates their suitability as an in vitro model for embryo-maternal interactions during implantation. Endometrial tissues...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42706088",
+      "responseId": "resp_00647263a0b37d12006a9f92f4c72c87d0b202dd3fd3f30481",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献报告人工智能在结直肠癌管理中的应用，但缺乏研究质量和临床结论的明确判断，需人工审核。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "主分类为临床与监管，但文献质量判断不足。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "虽然信息分离明确，但中等证据水平未能支持特定临床结论。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
           "primaryCategory": "Clinical & Regulatory",
           "subCategory": "Clinical Evidence",
-          "evidenceLevel": "Medium",
+          "evidenceLevel": "Low",
           "themes": [
             "Clinical Evidence",
             "Regulatory Watch",
+            "Healthcare AI"
+          ],
+          "tags": [
+            "医疗 AI",
+            "临床决策支持"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Zhonghua wei chang wai ke za zhi = Chinese journal of gastrointestinal surgery，PMID 为 42706088。",
+          "report": "Artificial intelligence (AI) technologies are rapidly being applied across all segments of colorectal cancer management, including cancer screening, endoscopic diagnosis and treatment, imaging and pathological analysis, therapeutic decision-making, intraoperat...",
+          "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42705853",
+      "responseId": "resp_016f2713654c77a8006a9f92f84dd487d0a4f4ed73118049f4",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号记录清晰分离了事实、报告和推论，符合出版要求。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别和子类别与提供的元数据合理匹配。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献来源可靠，证据水平高。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "High",
+          "themes": [
+            "Biotech",
             "Precision Oncology"
           ],
           "tags": [
-            "临床",
-            "监管",
+            "biotech",
             "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 JMIR formative research，PMID 为 42704205。",
-          "report": "The prospective prescription review system can improve prescription rationality, but its effectiveness in high-volume specialty care settings is not well established. We aimed to evaluate the effectiveness of the prospective prescription review system in reduc...",
-          "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Zhongguo fei ai za zhi = Chinese journal of lung cancer，PMID 为 42705853。",
+          "report": "Circulating tumor DNA (ctDNA) enables minimally invasive, repeatable assessment of tumor burden and molecular evolution and is an important candidate biomarker for precision management of non-small cell lung cancer (NSCLC). This review summarizes current evidence...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
