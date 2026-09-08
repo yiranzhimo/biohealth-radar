@@ -821,6 +821,161 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42706986",
+      "date": "2026-09-08",
+      "title": "Immune-Epidermal Dual Targeting in Psoriasis: Emerging Technologies and Translational Therapeutic Strategies.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42706986/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 The British journal of dermatology，PMID 为 42706986。",
+      "report": "Although immune-targeted therapies, particularly agents targeting the IL-23/IL-17 axis, have markedly improved short-term disease control in psoriasis, inadequate responses in a subset of patients and relapse after treatment discontinuation remain unresolved c...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0d809dc0c08646c0006a9ff09defe887d0abd9d3ae7ecb36a3",
+        "reviewedAt": "2026-09-08T11:25:17.011720+00:00",
+        "inputHash": "23b28f3f1fb72b101e8861ab2880355908f3d14bc2366ac09145071f0a5ba67f",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录信息清晰，且未包含临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要分类和子分类合理，符合文献主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献及其内容的来源可靠，证据水平适中。"
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 The British journal of dermatology，PMID 为 42706986。",
+          "report": "Although immune-targeted therapies, particularly agents targeting the IL-23/IL-17 axis, have markedly improved short-term disease control in psoriasis, inadequate responses in a subset of patients and relapse after treatment discontinuation remain unresolved c...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42706771",
+      "date": "2026-09-07",
+      "title": "A Self-Assembling Janus Dendron-Modified Phthalocyanine Enables Deep Tumor-Targeted Therapy for Gastric Cancer Peritoneal Metastases.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42706771/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42706771。",
+      "report": "Peritoneal metastasis is a leading cause of mortality in end-stage gastric cancer and remains poorly responsive to conventional chemotherapy. To address this unmet need, Janus dendron-modified phthalocyanines were developed as tumor-targeted photosensitizers f...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_00f8716a0fc39b1d006a9ff0a18b3487d0af5cd884727623a3",
+        "reviewedAt": "2026-09-08T11:25:17.011720+00:00",
+        "inputHash": "fbf64d4b00349bf1bd3eb0c65af9cc6e47cae6054e8c0a54c621b054ae78fd08",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "此记录适合发布，内容清晰，分类合理。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别和子类别与文献主题相关，证据级别合理。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论明确分离。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42706771。",
+          "report": "Peritoneal metastasis is a leading cause of mortality in end-stage gastric cancer and remains poorly responsive to conventional chemotherapy. To address this unmet need, Janus dendron-modified phthalocyanines were developed as tumor-targeted photosensitizers f...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42705609",
       "date": "2026-09-07",
       "title": "Impact of renal lipid droplet dynamics on tubular health.",
@@ -1029,6 +1184,158 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "pubmed-42706837",
+      "date": "2026-09-07",
+      "title": "Spatiotemporal CD8+ T-Cell Dynamics: Clonal Replacement and Expansion as Determinants of Sustainable Antitumor Response.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42706837/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer science，PMID 为 42706837。",
+      "report": "The clinical success of immune checkpoint inhibitors (ICI) has shifted the paradigm of cancer treatment, yet the fundamental mechanisms governing the long-term sustainability of antitumor T-cell responses remain elusive. Emerging evidence suggests that the eff...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0782eabc3c4d789d006a9ff0a5696c87d0a7634968fcffd65f",
+        "reviewedAt": "2026-09-08T11:25:17.011720+00:00",
+        "inputHash": "21d6969557278bd421a94e97f5b8746077b1db3c89dfa782812bcedd36118241",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录的信息清楚且符合出版要求。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cancer science，PMID 为 42706837。",
+          "report": "The clinical success of immune checkpoint inhibitors (ICI) has shifted the paradigm of cancer treatment, yet the fundamental mechanisms governing the long-term sustainability of antitumor T-cell responses remain elusive. Emerging evidence suggests that the eff...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42705053",
+      "date": "2026-09-07",
+      "title": "Decoding ctDNA: biological insights for accurate clinical interpretation.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42705053/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular aspects of medicine，PMID 为 42705053。",
+      "report": "Circulating tumor DNA (ctDNA) is a key component of liquid biopsy and has emerged as one of the most promising biomarkers. However, the clinical value of ctDNA depends directly on the biological mechanisms that govern its release and persistence within the cir...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_027f8063788b6d86006a9f92e5783087d0a84ed058d246b3fa",
+        "reviewedAt": "2026-09-08T04:45:06.102631+00:00",
+        "inputHash": "4ad0c7fb9f09c2a689553d7aba937f53a98ec60169a02d7b27797812f67b4366",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献引用中未提供对研究质量及临床评估的详细信息，需要更人类评审以判断内容的有效性。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类名称合理，但缺乏质量判断信息。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平标记为中等，但文献的详细评估未充分支持此水平。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Molecular aspects of medicine，PMID 为 42705053。",
+          "report": "Circulating tumor DNA (ctDNA) is a key component of liquid biopsy and has emerged as one of the most promising biomarkers. However, the clinical value of ctDNA depends directly on the biological mechanisms that govern its release and persistence within the cir...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42704980",
       "date": "2026-09-07",
       "title": "A closed-loop paradigm for precision oncology: Integrating dynamic monitoring, organoid models, and explainable AI.",
@@ -1122,154 +1429,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42704227",
-      "date": "2026-09-07",
-      "title": "Isoform-Selective Targeting of Akt Through Covalent Allosteric Inhibition.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42704227/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42704227。",
-      "report": "The Akt family of serine/threonine kinases plays a crucial role in various cellular processes, including proliferation, survival, and metabolism. Three Akt isoforms (Akt1, Akt2, and Akt3) have distinct physiological roles, and while individual isoform dysregul...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0f28673144ae601f006a9f2dcd40ec87d2ab1b6478a5b79788",
-        "reviewedAt": "2026-09-07T21:34:03.933109+00:00",
-        "inputHash": "66ded5f5adb550e8a83d51ba13155a39ccc717002614005111f9b0ecd6d6e1b0",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号清晰地分离了事实、报告和推论，内容规范，无不支持的临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42704227。",
-          "report": "The Akt family of serine/threonine kinases plays a crucial role in various cellular processes, including proliferation, survival, and metabolism. Three Akt isoforms (Akt1, Akt2, and Akt3) have distinct physiological roles, and while individual isoform dysregul...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42705053",
-      "date": "2026-09-07",
-      "title": "Decoding ctDNA: biological insights for accurate clinical interpretation.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42705053/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular aspects of medicine，PMID 为 42705053。",
-      "report": "Circulating tumor DNA (ctDNA) is a key component of liquid biopsy and has emerged as one of the most promising biomarkers. However, the clinical value of ctDNA depends directly on the biological mechanisms that govern its release and persistence within the cir...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_027f8063788b6d86006a9f92e5783087d0a84ed058d246b3fa",
-        "reviewedAt": "2026-09-08T04:45:06.102631+00:00",
-        "inputHash": "4ad0c7fb9f09c2a689553d7aba937f53a98ec60169a02d7b27797812f67b4366",
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献引用中未提供对研究质量及临床评估的详细信息，需要更人类评审以判断内容的有效性。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类名称合理，但缺乏质量判断信息。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平标记为中等，但文献的详细评估未充分支持此水平。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Molecular aspects of medicine，PMID 为 42705053。",
-          "report": "Circulating tumor DNA (ctDNA) is a key component of liquid biopsy and has emerged as one of the most promising biomarkers. However, the clinical value of ctDNA depends directly on the biological mechanisms that govern its release and persistence within the cir...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42704571",
       "date": "2026-09-07",
       "title": "A cfDNA fragmentomics classifier for noninvasive differentiation of benign and malignant renal masses.",
@@ -1338,158 +1497,6 @@ window.BHR_DATA = {
           ],
           "fact": "PubMed 记录显示该文献收录于 Molecular biomedicine，PMID 为 42704571。",
           "report": "Noninvasive differentiation of malignant and benign renal masses remains a major clinical challenge, particularly for radiologically indeterminate lesions. Here, we developed and validated a plasma cell-free DNA (cfDNA) fragmentomics-based machine learning classifier.",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42704556",
-      "date": "2026-09-07",
-      "title": "Liquid biopsy: current applications and future directions.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42704556/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular biomedicine，PMID 为 42704556。",
-      "report": "This review starts with the historical background and biological features to classify mainly the liquid biopsy biomarkers, such as circulating tumor DNA, circulating tumor cells, extracellular vesicles, non-coding RNAs, tumor-educated platelets and tumor-assoc...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0a8cfee69e6cb50d006a9f92edfd2087d0b546936afc84d2eb",
-        "reviewedAt": "2026-09-08T04:45:06.102631+00:00",
-        "inputHash": "2d1ddb5bbb33b92df0f8c161b82d776ba25d57e7765a16e90b493e4ba0b3089d",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息一致且中立，适合发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平中等，与所提供的信息相符。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Molecular biomedicine，PMID 为 42704556。",
-          "report": "This review starts with the historical background and biological features to classify mainly the liquid biopsy biomarkers, such as circulating tumor DNA, circulating tumor cells, extracellular vesicles, non-coding RNAs, tumor-educated platelets and tumor-assoc...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42704047",
-      "date": "2026-09-07",
-      "title": "The Interplay of the LncRNA AFAP1-AS1 and the Soluble Immune Checkpoint Proteins sPD-1/sPD-L1 in Breast Cancer: Tumor-Immune Crosstalk.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42704047/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bioscience reports，PMID 为 42704047。",
-      "report": "Breast cancer (BC) remains a major health issue worldwide. Immuno-oncology has recently garnered much attention with unprecedented bench-to-bedside revolutions in cancer diagnosis and treatment. The PD-1/PD-L1 pathway is an adaptive mechanism in cancer immune...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0e25c5f564be82cc006a9f2dd09f2887d2b6933f68921e97d2",
-        "reviewedAt": "2026-09-07T21:34:03.933109+00:00",
-        "inputHash": "95cd430c7f3a629a10393b5afb9afe4c1db45be8255d8bd6251e8a8012d4befd",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息结构清晰，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Bioscience reports，PMID 为 42704047。",
-          "report": "Breast cancer (BC) remains a major health issue worldwide. Immuno-oncology has recently garnered much attention with unprecedented bench-to-bedside revolutions in cancer diagnosis and treatment. The PD-1/PD-L1 pathway is an adaptive mechanism in cancer immune...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
@@ -2167,73 +2174,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42705161",
-      "date": "2026-09-02",
-      "title": "Revealing the cytokine-mediated embryo-maternal crosstalk during extended in vitro culture in the Arabian camel (Camelus dromedarius).",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42705161/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Animal reproduction science，PMID 为 42705161。",
-      "report": "This study reports, for the first time, the establishment of endometrial organoids (EOs) from the Arabian camel (Camelus dromedarius) and evaluates their suitability as an in vitro model for embryo-maternal interactions during implantation. Endometrial tissues...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_01b1b0e9dcd6a06f006a9f92f17f4487d0945c127447e57c84",
-        "reviewedAt": "2026-09-08T04:45:06.102631+00:00",
-        "inputHash": "c6fe19bd37cc421265c24dd02c1409a5a3cdadbcec0c53087ef3a5ac88272a62",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号的事实、报告和推论明确分离，符合发表标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类别和证据水平合理，符合来源元数据的支持。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "文献来源可靠，且推论不超出来源信息。"
-        },
-        "riskFlags": [],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Animal reproduction science，PMID 为 42705161。",
-          "report": "This study reports, for the first time, the establishment of endometrial organoids (EOs) from the Arabian camel (Camelus dromedarius) and evaluates their suitability as an in vitro model for embryo-maternal interactions during implantation. Endometrial tissues...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42696754",
       "date": "2026-09-01",
       "title": "Gene-Chronos: parameter-efficient developmental time inference using a pretrained single-cell foundation model.",
@@ -2700,86 +2640,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42706088",
-      "date": "2026-08-25",
-      "title": "[Expert consensus on evaluation standards for artificial intelligence applications in colorectal cancer (2026 edition)].",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42706088/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Healthcare AI",
-        "Medical LLM",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "临床",
-        "监管",
-        "医疗 AI",
-        "临床决策支持",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Zhonghua wei chang wai ke za zhi = Chinese journal of gastrointestinal surgery，PMID 为 42706088。",
-      "report": "Artificial intelligence (AI) technologies are rapidly being applied across all segments of colorectal cancer management, including cancer screening, endoscopic diagnosis and treatment, imaging and pathological analysis, therapeutic decision-making, intraoperat...",
-      "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_00647263a0b37d12006a9f92f4c72c87d0b202dd3fd3f30481",
-        "reviewedAt": "2026-09-08T04:45:06.102631+00:00",
-        "inputHash": "a0b4de103f7454bd06e07d5caaabf6811fbf8c6892bd031f359e1edb6b8c0e40",
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "文献报告人工智能在结直肠癌管理中的应用，但缺乏研究质量和临床结论的明确判断，需人工审核。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "主分类为临床与监管，但文献质量判断不足。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "虽然信息分离明确，但中等证据水平未能支持特定临床结论。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Evidence",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Healthcare AI"
-          ],
-          "tags": [
-            "医疗 AI",
-            "临床决策支持"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Zhonghua wei chang wai ke za zhi = Chinese journal of gastrointestinal surgery，PMID 为 42706088。",
-          "report": "Artificial intelligence (AI) technologies are rapidly being applied across all segments of colorectal cancer management, including cancer screening, endoscopic diagnosis and treatment, imaging and pathological analysis, therapeutic decision-making, intraoperat...",
-          "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "clinicaltrials-NCT07775976",
       "date": "2026-08-21",
       "title": "Cor360: Clinician-Facing Broad-Spectrum Cardiac Phenotyping and Risk Assessment Using COR® Wearable ECG to Inform Outcomes-Oriented Care Pathways",
@@ -2866,6 +2726,81 @@ window.BHR_DATA = {
           "report": "Cor360 is an observational study evaluating whether extended wearable electrocardiogram (ECG) data can support broad-spectrum cardiac phenotyping and risk assessment beyond conventional single-purpose ambulatory rhythm monitoring.",
           "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Diagnostics, Precision Medicine, Healthcare AI, Medical AI, Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42707077",
+      "date": "2026-08-20",
+      "title": "Application of PathoChip to urine-derived nucleic acids for broad microbial profiling in men with suspected prostate cancer: setup of a methodological workflow and pilot feasibility study.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42707077/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42707077。",
+      "report": "Urine-based liquid biopsy is an attractive non-invasive source of prostate cancer (PCa) biomarkers, but urinary microbiome studies have mainly relied on 16S rRNA sequencing or shotgun metagenomics. This pilot study optimized and evaluated a practical workflow...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0860f5d52b06f7ad006a9ff0a8956087d0be3c507c4d9328fc",
+        "reviewedAt": "2026-09-08T11:25:17.011720+00:00",
+        "inputHash": "a57a4635880057f3cf405961c51387e520be3dffd645582225ba957fd0de01da",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录中信息清晰，分类合理，未涉及未经证实的临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合文献主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告与推论清晰分开，证据等级适当。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology",
+            "Drug Screening"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42707077。",
+          "report": "Urine-based liquid biopsy is an attractive non-invasive source of prostate cancer (PCa) biomarkers, but urinary microbiome studies have mainly relied on 16S rRNA sequencing or shotgun metagenomics. This pilot study optimized and evaluated a practical workflow...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -7688,6 +7623,98 @@ window.BHR_DATA = {
           "report": "The goal of this observational study is to describe the natural course of vascular Ehlers-Danlos syndrome, in particular the order of appearance of different types of complications (arterial, digestive, pulmonary and uterine).",
           "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42707078",
+      "date": "2026-01-07",
+      "title": "The role of stem cells in the pharmacological assessment of nanoparticles.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42707078/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "临床",
+        "监管",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of pharmaceutical analysis，PMID 为 42707078。",
+      "report": "Stem cells aid in the pharmacological assessment of nanoparticles by serving as a human-relevant, dynamic, and scalable model. Their integration into nanoparticle research enhances toxicity screening and therapeutic optimization by evaluating absorption, distr...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0c9aaeb437174ad0006a9ff0abf8b887d0afcc8f25a31d713c",
+        "reviewedAt": "2026-09-08T11:25:17.011720+00:00",
+        "inputHash": "ffa5ec58050c73d91473fecfe7042c3f5fbacc1ef0520164c4091575cac6c078",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录清晰地分离了事实、报告和推断，无治疗建议或未支持的临床结论，符合发布要求。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别和子类别合理，证据水平适中。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "信息基于可靠来源，未包含不合理的推断。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "AI for Biology",
+            "Drug Discovery",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "AI 制药",
+            "蛋白设计",
+            "分子生成",
+            "临床",
+            "监管",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of pharmaceutical analysis，PMID 为 42707078。",
+          "report": "Stem cells aid in the pharmacological assessment of nanoparticles by serving as a human-relevant, dynamic, and scalable model. Their integration into nanoparticle research enhances toxicity screening and therapeutic optimization by evaluating absorption, distribution, and excretion.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
