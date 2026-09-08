@@ -68831,7 +68831,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "evidenceLevel": "Medium",
             "needsReview": true,
             "evidenceId": "evidence-company-candidate-tango-biosciences-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11409637"
+            "sourceUrl": "https://reporter.nih.gov/project-details/11314361"
           }
         ],
         "inferences": [],
@@ -68862,7 +68862,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "evidenceLevel": "Medium",
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-tango-biosciences-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11409637"
+          "sourceUrl": "https://reporter.nih.gov/project-details/11314361"
         }
       ]
     },
@@ -73021,7 +73021,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "evidenceLevel": "Medium",
             "needsReview": true,
             "evidenceId": "evidence-company-candidate-virtici-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11313110"
+            "sourceUrl": "https://reporter.nih.gov/project-details/11181079"
           }
         ],
         "inferences": [],
@@ -73052,7 +73052,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "evidenceLevel": "Medium",
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-virtici-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11313110"
+          "sourceUrl": "https://reporter.nih.gov/project-details/11181079"
         }
       ]
     },
