@@ -4,15 +4,15 @@
   "asOfDate": "2026-09-08",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-01f19f749698c7e9",
-      "observedName": "Genentech, Inc.",
-      "normalizedName": "genentech",
+      "id": "mention-clinicaltrials-1c4b5491b05e3838",
+      "observedName": "CTI BioPharma",
+      "normalizedName": "cti biopharma",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT02203773",
-      "sourceDate": "2023-05-16",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT02203773",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT00004026",
+      "sourceDate": "2020-10-19",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00004026",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -26,69 +26,51 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Study of ABT-199 (GDC-0199) in Combination With Azacitidine or Decitabine (Chemo Combo) in Subjects With Acute Myelogenous Leukemia (AML)"
+      "contextTitle": "CT-2584 in Treating Patients With Metastatic Prostate Cancer That Has Not Responded to Previous Therapy"
     },
     {
-      "id": "mention-clinicaltrials-2251a033b5d12cd6",
-      "observedName": "MediLink Therapeutics (Suzhou) Co., Ltd.",
-      "normalizedName": "medilink therapeutics suzhou",
+      "id": "mention-clinicaltrials-d54e336510b8ce8e",
+      "observedName": "Eetho Brands, Inc",
+      "normalizedName": "eetho brands",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06107686",
-      "sourceDate": "2025-11-26",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06107686",
+      "sourceRecordId": "NCT06899243",
+      "sourceDate": "2025-03-27",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06899243",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
         "Recruiting",
-        "中国",
-        "临床试验",
-        "乳腺癌",
-        "肿瘤"
+        "临床试验"
       ],
       "activitySignals": [
         "active_trial",
-        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Study of YL202 in Selected Patients With Advanced Solid Tumors"
+      "contextTitle": "Efficacy of CL22205 on Bone Mineral Density and Menopausal Symptoms"
     },
     {
-      "id": "mention-clinicaltrials-a917cc2751770c57",
-      "observedName": "Peerbridge Health, Inc",
-      "normalizedName": "peerbridge health",
+      "id": "mention-clinicaltrials-d819831215aede5d",
+      "observedName": "The Emmes Company, LLC",
+      "normalizedName": "emmes",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07775976",
-      "sourceDate": "2026-08-21",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07775976",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT02117596",
+      "sourceDate": "2014-04-21",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT02117596",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Biomarkers",
         "Clinical Trials",
-        "Diagnostics",
-        "Healthcare AI",
-        "Longevity",
-        "Medical AI",
-        "Precision Medicine",
-        "biomarker",
-        "临床决策支持",
-        "临床试验",
-        "医疗 AI",
-        "精准医疗",
-        "衰老",
-        "诊断"
+        "临床试验"
       ],
       "activitySignals": [
         "trial_intervention"
       ],
-      "contextTitle": "Cor360: Clinician-Facing Broad-Spectrum Cardiac Phenotyping and Risk Assessment Using COR® Wearable ECG to Inform Outcomes-Oriented Care Pathways"
+      "contextTitle": "Calcineurin Inhibitor Based Immunosuppression Withdrawal"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
