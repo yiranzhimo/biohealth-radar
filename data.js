@@ -1053,6 +1053,79 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "sec-0001652130-000119312526385194",
+      "date": "2026-09-08",
+      "title": "Intellia Therapeutics filed Form 8-K",
+      "entity": "Intellia Therapeutics",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526385194/ntla-20260908.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Corporate Filings",
+        "Gene Editing"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "NTLA"
+      ],
+      "companyIds": [
+        "intellia"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-385194 for Intellia Therapeutics, Form 8-K, filed on 2026-09-08.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_07a162eb2145083c006aa07a7d220487d2978c352380b7ab7c",
+        "reviewedAt": "2026-09-08T21:13:31.960850+00:00",
+        "inputHash": "3cf3f6a0a78dccaea6c05d942761bca1476dc9ab21ea234945238f26e46b0400",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "报告内容符合出版标准，信息清晰且无临床建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "类别和证据水平与提供的元数据合理相符。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论已经清晰地分开，且证据水平合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Gene Editing"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "NTLA"
+          ],
+          "fact": "SEC EDGAR lists accession 0001193125-26-385194 for Intellia Therapeutics, Form 8-K, filed on 2026-09-08.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
       "id": "sec-0001434265-000143426526000116",
       "date": "2026-09-08",
       "title": "Genmab filed Form 6-K",
