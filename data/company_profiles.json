@@ -41726,6 +41726,14 @@
             "label": "半年报/临时报告",
             "date": "2026-09-09",
             "title": "Genmab filed Form 6-K",
+            "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000123/gmab_20260909x6k.htm",
+            "source": "SEC EDGAR"
+          },
+          {
+            "form": "6-K",
+            "label": "半年报/临时报告",
+            "date": "2026-09-09",
+            "title": "Genmab filed Form 6-K",
             "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000120/gmab_20260908x6k2.htm",
             "source": "SEC EDGAR"
           },
@@ -41794,6 +41802,7 @@
         "commercialProducts": [],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001434265-000143426526000123",
           "evidence-sec-0001434265-000143426526000120",
           "evidence-sec-0001434265-000143426526000116",
           "evidence-sec-0001434265-000143426526000113",
@@ -41806,6 +41815,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001434265-000143426526000123",
+            "date": "2026-09-09",
+            "title": "Genmab filed Form 6-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001434265-000143426526000123",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000123/gmab_20260909x6k.htm"
+          },
           {
             "id": "event-sec-0001434265-000143426526000120",
             "date": "2026-09-09",
@@ -41849,17 +41869,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001434265-000143426526000111",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000111/gmab_20260811x6k.htm"
-          },
-          {
-            "id": "event-evidence-company-genmab-official-36144661ef9d",
-            "date": "2026-08-10",
-            "title": "Welcome to Genmab",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-genmab-official-36144661ef9d",
-            "sourceUrl": "https://www.genmab.com/"
           }
         ],
         "inferences": [],
@@ -41869,10 +41878,10 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 7,
+        "evidenceCount": 8,
         "evidenceBySourceType": {
           "Company": 1,
-          "Filing": 6
+          "Filing": 7
         },
         "lastEvidenceDate": "2026-09-09",
         "programCandidateCount": 0,
@@ -41882,6 +41891,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001434265-000143426526000123",
+          "date": "2026-09-09",
+          "title": "Genmab filed Form 6-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001434265-000143426526000123",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000123/gmab_20260909x6k.htm"
+        },
         {
           "id": "event-sec-0001434265-000143426526000120",
           "date": "2026-09-09",

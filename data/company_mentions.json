@@ -4,21 +4,22 @@
   "asOfDate": "2026-09-09",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-1c4b5491b05e3838",
-      "observedName": "CTI BioPharma",
-      "normalizedName": "cti biopharma",
+      "id": "mention-clinicaltrials-191fe1f0bc634ff5",
+      "observedName": "Shanghai Cell Therapy Group Co.,Ltd",
+      "normalizedName": "shanghai cell therapy group",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT00004026",
-      "sourceDate": "2020-10-19",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT00004026",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT04489862",
+      "sourceDate": "2020-07-28",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04489862",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
         "Oncology",
         "Precision Oncology",
+        "中国",
         "临床试验",
         "肿瘤"
       ],
@@ -26,51 +27,112 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "CT-2584 in Treating Patients With Metastatic Prostate Cancer That Has Not Responded to Previous Therapy"
+      "contextTitle": "αPD1-MSLN-CAR T Cells for the Treatment of MSLN-positive Advanced Solid Tumors"
     },
     {
-      "id": "mention-clinicaltrials-d54e336510b8ce8e",
-      "observedName": "Eetho Brands, Inc",
-      "normalizedName": "eetho brands",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06899243",
-      "sourceDate": "2025-03-27",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06899243",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Recruiting",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Efficacy of CL22205 on Bone Mineral Density and Menopausal Symptoms"
-    },
-    {
-      "id": "mention-clinicaltrials-d819831215aede5d",
-      "observedName": "The Emmes Company, LLC",
-      "normalizedName": "emmes",
+      "id": "mention-clinicaltrials-8ffe2d40d40ab649",
+      "observedName": "Dong-A Pharmaceutical",
+      "normalizedName": "dong a pharmaceutical",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT02117596",
-      "sourceDate": "2014-04-21",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT02117596",
+      "sourceRecordId": "NCT04871321",
+      "sourceDate": "2025-08-26",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04871321",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
+        "Biomarkers",
         "Clinical Trials",
-        "临床试验"
+        "Longevity",
+        "Oncology",
+        "Precision Oncology",
+        "biomarker",
+        "临床试验",
+        "肿瘤",
+        "衰老"
       ],
       "activitySignals": [
         "trial_intervention"
       ],
-      "contextTitle": "Calcineurin Inhibitor Based Immunosuppression Withdrawal"
+      "contextTitle": "Biomarker Discovery in Patients With Advanced Biliary Tract Cancer"
+    },
+    {
+      "id": "mention-clinicaltrials-a02ee34aa90beb9e",
+      "observedName": "Ascentage Pharma Group Inc.",
+      "normalizedName": "ascentage pharma group",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT04284488",
+      "sourceDate": "2026-01-08",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04284488",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "中国",
+        "临床试验",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Dose-escalation Study of APG-1387 and Toripalimab in Solid Tumors"
+    },
+    {
+      "id": "mention-clinicaltrials-be653fd9fb842035",
+      "observedName": "Jazz Pharmaceuticals",
+      "normalizedName": "jazz pharmaceuticals",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT01241344",
+      "sourceDate": "2021-07-21",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01241344",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Cell Therapy",
+        "Clinical Trials",
+        "Oncology",
+        "临床试验",
+        "细胞治疗",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Phase 2 Study to Evaluate Brincidofovir for the Prevention of Adenovirus Disease"
+    },
+    {
+      "id": "mention-clinicaltrials-bec522df042bf375",
+      "observedName": "AgeLess Sciences Inc.",
+      "normalizedName": "ageless sciences",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT05262036",
+      "sourceDate": "2023-10-23",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05262036",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Longevity",
+        "biomarker",
+        "临床试验",
+        "衰老"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "The Effects of a Longevity Supplement on Aging and Photoaging"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",

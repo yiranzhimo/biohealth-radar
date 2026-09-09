@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-09T11:30:25.982658+00:00",
+  "capturedAt": "2026-09-09T16:43:05.253929+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-09-09"
   },
   "pmids": [
+    "42714339",
+    "42714221",
+    "42712807",
+    "42712523",
     "42711723",
     "42711263",
-    "42710856",
-    "42710618",
-    "42710247",
-    "42709582",
     "42699656",
     "42696754",
     "42693007",
@@ -32,14 +32,85 @@
     "42697290",
     "42693314",
     "42691096",
+    "42713910",
     "42711582",
     "42710648",
     "42710536",
     "42710275",
-    "42709984",
-    "42709393"
+    "42709984"
   ],
   "records": [
+    {
+      "pmid": "42714339",
+      "title": "High-viscosity hydrogels in cartilage injury and osteochondral defect repair: mechanisms, design strategies, and clinical translation.",
+      "abstract": "Cartilage injury and osteochondral defects remain major clinical challenges owing to the limited intrinsic regenerative capacity of cartilage and the inability of current treatments to restore durable hyaline tissue. Conventional hydrogels often fail under joint loading because of insufficient mechanical stability, poor interfacial integration, and limited biological responsiveness. In this review, high-viscosity hydrogels (HVHs) are considered within a performance-based framework that integrates post-deployment cohesion and structural retention, viscoelastic energy dissipation, and reversible network reconfiguration to provide both mechanical support and biological regulation. Through multilevel design strategies, including double-network structures, reversible crosslinking, nanocomposite reinforcement, and stimuli-responsive modules, HVHs establish highly cohesive yet reconfigurable matrices capable of stress dissipation, self-adaptation, and sustained bioactive factor delivery. Beyond structural functions, HVHs actively regulate mechanobiological signaling by modulating matrix stiffness, stress relaxation, immune responses, and stem-cell fate, thereby promoting chondrogenic differentiation, suppressing hypertrophy, and facilitating extracellular matrix deposition. Recent advances in gradient and biphasic HVH systems further enable coordinated regeneration of cartilage and subchondral bone, supporting functional osteochondral integration through spatially controlled mechanical and biochemical cues. Emerging technologies such as 3D/4D printing, artificial intelligence-assisted material optimization, and organoid-based validation are accelerating the development of personalized and adaptive regenerative platforms. Although challenges remain regarding long-term mechanical durability, degradation-regeneration matching, and clinical standardization, HVHs represent a promising paradigm that integrates dynamic network engineering, mechanobiological regulation, osteochondral reconstruction, and translational adaptability. This review summarizes recent advances in HVH design and application, highlighting their potential to reshape future strategies for cartilage and osteochondral regeneration through intelligent, biomimetic, and clinically translatable material systems.",
+      "journal": "Biomaterials science",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Tianjin Medical University, Tianjin 300070, China. wjren1966@163.com.",
+        "Clinical Medical Center of Tissue Engineering and Regeneration, Henan Medical University, Xinxiang 453003, China. liangzhuo@xxmu.edu.cn.",
+        "Department of Emergency Critical Care Medicine, The First Hospital of Lanzhou University, Lanzhou, Gansu, China.",
+        "Department of Plastic and Reconstructive Surgery, Shanghai Key Laboratory of Tissue Engineering, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200011, P. R. China.",
+        "Department of Plastic Surgery, The Second Affiliated Hospital of Zhejiang University College of Medicine, Hangzhou, 310000, China."
+      ],
+      "doi": "10.1039/d6bm00992a",
+      "date": "2026-09-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42714339/"
+    },
+    {
+      "pmid": "42714221",
+      "title": "A Protoplast-based method to visualize early cell biological events in plant cellular reprogramming and regeneration.",
+      "abstract": "Plant developmental biology lacks cell-based experimental systems comparable to the organoids and live-imaging platforms that have transformed mechanistic discovery in animal research. To address this gap, we present a robust, trackable protoplast regeneration platform in Arabidopsis thaliana that enables high-resolution, time-resolved analysis from the single-cell stage through microcolony formation and early regenerative development. Protoplasts are embedded in thin alginate matrices containing fluorescent fiducial beads, maintaining physical separation and allowing repeated return to the same cells over days to weeks. This design supports long-term imaging using epifluorescence, confocal, and lattice light sheet microscopy, enabling visualization of cell-cycle re-entry, asymmetric division, organelle dynamics, dedifferentiation, redifferentiation, and regenerative competence. Fluorescent reporters for nuclei, membranes, microtubules, Golgi, and hormone signaling further permit observation of subcellular organization and signaling heterogeneity during early reprogramming. Together, this platform provides an accessible, scalable system for studying plant cellular plasticity at single-cell resolution and offers a foundation for plant organoid-like models. By enabling high-resolution study of regeneration from single cells, this method expands the experimental toolkit and supports efforts to overcome species- and genotype-dependent barriers to transformation and plant biotechnology.",
+      "journal": "Development (Cambridge, England)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Plant and Environmental Sciences, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA.",
+        "Facility for Advanced Imaging and Microscopy, Fralin Life Sciences Institute, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA.",
+        "Donald Danforth Plant Sciences Center, St Louis, MO, USA."
+      ],
+      "doi": "10.1242/dev.205715",
+      "date": "2026-09-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42714221/"
+    },
+    {
+      "pmid": "42712807",
+      "title": "Decoding age-stratified clinical and molecular heterogeneity in male breast cancer through multiomic profiling.",
+      "abstract": "Age-associated molecular heterogeneity is well described in female breast cancer but remains insufficiently characterized in male breast cancer (MBC). We profiled age-stratified clinical and molecular differences between younger (≤55 years) male breast cancer (YMBC) and older (>55 years) male breast cancer (OMBC). We retrospectively analyzed 347 patients with MBC diagnosed at Fudan University Shanghai Cancer Center by integrating clinicopathological data, RNA sequencing, and whole-exome sequencing (WES). Survival, differential expression, and mutational signature analyses were performed. Tumor microenvironment features were inferred using xCell and ESTIMATE, and weighted gene co-expression network analysis (WGCNA) was conducted to identify age-associated co-expression modules. Candidate therapeutics were prioritized using the Genomics of Drug Sensitivity in Cancer (GDSC) resource and evaluated using patient-derived organoids (PDOs). Compared with OMBC, YMBC more frequently had human epidermal growth factor receptor 2 (HER2)-positive status (14.91% vs. 4.02%) and triple-negative tumors (4.92% vs. 1.78%), and had worse 5-year recurrence-free survival (hazard ratio=2.19, P=0.018). Transcriptomic analyses indicated enrichment of neural-related programs and reduced immune-related signaling in YMBC, and xCell/ESTIMATE supported lower immune infiltration. Consistently, WGCNA identified age-associated modules linking neural-related programs with reduced immune infiltration. Immunohistochemistry supported increased perineural invasion and lower CD8+ T cell infiltration in YMBC. GDSC-guided prioritization with PDO testing nominated sepantronium bromide (YM155) as a candidate vulnerability in YMBC. WES showed a higher NBPF10 mutation frequency in YMBC (54.5% vs. 14.3%, P<0.05). Integrated multi-omics profiling revealed age-stratified clinical and molecular heterogeneity in MBC. YMBC patients demonstrated inferior recurrence-free survival, neural signaling enrichment, an immune-cold microenvironment, and enriched NBPF10 mutations. These findings support age as a meaningful stratification variable in MBC risk assessment and treatment planning, and highlight the need for caution when considering treatment de-escalation in younger patients, while nominating YM155 as a candidate agent for prospective evaluation.",
+      "journal": "Chinese journal of cancer research = Chung-kuo yen cheng yen chiu",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Breast Surgery, Key Laboratory of Breast Cancer, Fudan University Shanghai Cancer Center, Shanghai 200032, China.",
+        "Department of Oncology, Shanghai Medical College, Fudan University, Shanghai 200032, China."
+      ],
+      "doi": "10.21147/j.issn.1000-9604.2026.04.07",
+      "date": "2026-08-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42712807/"
+    },
+    {
+      "pmid": "42712523",
+      "title": "An hiPSC-derived multi-lineage lung model exhibiting proximal-distal epithelial features for modeling pulmonary fibrosis.",
+      "abstract": "Idiopathic pulmonary fibrosis (IPF) is a progressive and irreversible interstitial lung disease with limited therapeutic options. Existing hiPSC-derived lung organoid models are largely restricted to single epithelial lineages and cannot endogenously integrate multiple pulmonary cell types, limiting mechanistic studies and drug screening. We established a staged directed differentiation protocol to sequentially differentiate hiPSCs into definitive endoderm, anterior foregut endoderm, and lung progenitor cells, ultimately generating a multi-lineage lung model on Transwell inserts. The model was characterized by bright-field microscopy, hematoxylin-eosin (H&E) staining, scanning and transmission electron microscopy, immunofluorescence, quantitative real-time PCR (qRT-PCR), enzyme-linked immunosorbent assay (ELISA), and single-cell RNA sequencing. Fibrosis-like phenotypes were induced by transforming growth factor-beta 1 (TGF-β1) stimulation. Transcriptomic similarity to human IPF was assessed by RNA sequencing (RNA-seq) combined with bidirectional gene set enrichment analysis (GSEA), and drug responsiveness was validated with pirfenidone. Without genetic editing or exogenous cell supplementation, the model endogenously generated proximal duct-like epithelium, distal alveolar epithelium, fibroblasts, endothelial cells, and CD68+ macrophage-like cells confirmed by immunofluorescence. Single-cell sequencing identified 13 transcriptional subclusters and revealed epithelial-mesenchymal co-development. TGF-β1 stimulation induced epithelial barrier disruption, ferroptosis-like mitochondrial ultrastructural alterations, extracellular matrix (ECM) remodeling, and aberrant secretion of multiple IPF-associated biomarkers. Transcriptomic analysis showed that upregulated genes in the fibrosis model group were significantly enriched in ECM organization, cell adhesion, and the PI3K-Akt pathway. Protein-protein interaction (PPI) network analysis identified COL1A1, FN1, and integrin family members as central hubs. Bidirectional GSEA validation confirmed that the transcriptomic signature of the model was highly similar to human IPF, with differentially expressed genes significantly enriched in three independent IPF cohorts. Pirfenidone reversed TGF-β1-induced ECM deposition and myofibroblast activation, and partially restored type II alveolar epithelial (AT2) cell marker expression. We successfully established a humanized multi-lineage lung model that captures epithelial-mesenchymal co-development in vitro. Its responsiveness to TGF-β1 stimulation and sensitivity to pirfenidone highlight its potential for antifibrotic drug screening. This platform offers a humanized tool with the potential to be standardized for investigating cell fate determination during early lung development and the pathogenesis of IPF.",
+      "journal": "Frontiers in cell and developmental biology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Key Laboratory of Tobacco Chemistry, Zhengzhou Tobacco Research Institute of CNTC, Zhengzhou, China.",
+        "Beijing Life Science Academy, Beijing, China.",
+        "Department of Respiratory and Critical Care Medicine, The Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou, China.",
+        "Henan Institute of Medical and Pharmaceutical Sciences, Zhengzhou University, Zhengzhou, China."
+      ],
+      "doi": "10.3389/fcell.2026.1914941",
+      "date": "2026-08-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42712523/"
+    },
     {
       "pmid": "42711723",
       "title": "Three-dimensional spheroid models in breast cancer: tumor microenvironment complexity, cancer stem cell-driven resistance, and translational model integration.",
@@ -72,88 +143,6 @@
       "doi": "10.1093/molehr/gaag054",
       "date": "2026-09-08",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42711263/"
-    },
-    {
-      "pmid": "42710856",
-      "title": "Reduced mechanical shear is associated with early cortical differentiation and GDNF-GFRA1/RET signalling in human brain organoids.",
-      "abstract": "Early cortical differentiation in human brain organoids is a critical step of corticogenesis, but remains poorly coordinated under conventional culture conditions. In a standard orbital shaker system, mechanical shear and variability in extracellular matrix support, can disrupt neuroepithelial organisation, leading to inconsistent early cortical differentiation. Here, we investigated how ClinoStar-associated low-shear culture conditions affect early corticogenic marker expression in brain organoids and examined GFRA1/RET-related signaling as a candidate pathway associated with these culture-related effects. Using a low-shear ClinoStar bioreactor, we observed improved neuroepithelial-like expansion, enhanced tissue organisation, and promoted early cortical differentiation during the neuroepithelial expansion stage. Compared with conventional conditions, low-mechanical shear in ClinoStar was associated with increased proliferation capacity and supported the number of TBR2+ intermediate progenitors and TBR1+ early cortical neurons. Transcriptomic analysis revealed enrichment of neuronal differentiation and neuroactive ligand-receptor interaction pathways, with increased upregulation of GDNF signalling components under reduced mechanical shear. Functional experiments showed that GDNF supplementation increased TBR2+ intermediate progenitor-associated and TBR1+ early neuronal marker-related populations in brain organoids, suggesting a positive effect on early corticogenic marker expression. Consistent with this, GFRA1/RET levels were elevated in organoids in the ClinoStar culture with low-mechanical shear stress, and manipulation of GFRA1 affected early cortical differentiation outcomes. These findings suggest that ClinoStar low-shear culture promoted early corticogenic marker expression, potentially associated with GDNF-GFRA1/RET signalling. Collectively, this study provides a refined culture framework for improving the reproducibility and structural organisation of human brain organoid models of early cortical differentiation.",
-      "journal": "Stem cells translational medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Shenzhen Traditional Chinese Medicine Hospital, Affiliated to Nanjing University of Chinese Medicine, Shenzhen, 518033, China.",
-        "Department of Geriatrics, The Fourth Clinical Medical College of Guangzhou University of Chinese Medicine, Shenzhen Traditional Chinese Medicine Hospital, Shenzhen, 518033, China.",
-        "Department of Obstetrics and Gynecology, The Seventh Affiliated Hospital of Sun Yat-sen University, Shenzhen, 518107, China.",
-        "Yangzhou Maternal and Child Health Care Hospital Affiliated to Yangzhou University, Yangzhou, 225006, China.",
-        "Department of Anatomy, School of Medicine (Shenzhen), Sun Yat-sen University, Shenzhen, 518107, China.",
-        "School of Life Sciences, Faculty of Science, University of Technology Sydney, Ultimo, NSW, 2007, Australia.",
-        "Department of Geriatrics, The Seventh Affiliated Hospital of Sun Yat-sen University, Shenzhen, 518107, China.",
-        "Guangdong Provincial Key Laboratory of Digestive Cancer Research, Shenzhen, 518107, China.",
-        "Shenzhen Key Laboratory of Chinese Medicine Active Substance Screening and Translational Research, Shenzhen, 518107, China."
-      ],
-      "doi": "10.1093/stcltm/szag070",
-      "date": "2026-08-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42710856/"
-    },
-    {
-      "pmid": "42710618",
-      "title": "Bcl-xL Promotes Gastric Tumorigenesis via Apoptosis-Independent Wnt/β-Catenin Activation and PPARγ Suppression.",
-      "abstract": "The Wnt/β-catenin and YAP pathways cooperatively drive gastrointestinal tumor progression. BCL2L1, a YAP target gene, encodes the anti-apoptotic isoform Bcl-xL, which is highly expressed in multiple cancers, but its role in gastric cancer remains unclear. We generated Mist1-CreERT; Apcflox/flox and bcl-xlflox/flox mice to study gastric tumorigenesis with or without Bcl-xL. Gastric organoids and xenografts were used to assess proliferation and downstream signaling, and findings were validated in human gastric cancer tissues and databases. Deletion of Bcl-xL significantly reduced tumor growth and proliferation in Apc-deficient tumors, organoids, and xenografts. Nuclear β-catenin and Wnt target gene expression were attenuated, partly through derepression of Hnf4a and Pparg, indicating that Bcl-xL promotes Wnt signaling. Concurrently, downregulation of Hnf4a and Pparg contributes to the inhibition of multiple metabolic pathways. In human gastric cancer, high BCL2L1 expression correlated with elevated Wnt target genes and poor prognosis, whereas PPARG expression inversely correlated with BCL2L1 and associated with favorable outcomes. Epidemiological analysis suggested that pioglitazone, a PPARγ agonist, reduced gastric cancer incidence in diabetic patients. Bcl-xL promotes gastric tumorigenesis through dual mechanisms-enhancing Wnt signaling and suppressing PPARγ-and highlight Bcl-xL as a potential therapeutic target while suggesting PPARγ activation may be protective.",
-      "journal": "Cellular and molecular gastroenterology and hepatology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Gastroenterology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan.",
-        "Department of Gastroenterology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan; Division of Gastroenterology, The Institute of Medical Science, Asahi Life Foundation, Tokyo, Japan; Division of Digestive and Liver Disease, Department of Medicine, Columbia University, New York, USA.",
-        "Department of Gastroenterology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan. Electronic address: yhayakawa-tky@umin.ac.jp.",
-        "Department of Gastroenterology, Graduate School of Medicine, The University of Osaka, Osaka, Japan.",
-        "Division of Digestive and Liver Disease, Department of Medicine, Columbia University, New York, USA."
-      ],
-      "doi": "10.1016/j.jcmgh.2026.101880",
-      "date": "2026-09-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42710618/"
-    },
-    {
-      "pmid": "42710247",
-      "title": "Effects of microplastics and nanoplastics on the brain and behavior: Evidence from rodent and human studies.",
-      "abstract": "Microplastics (MPs) and nanoplastics (NPs) pose serious environmental and health risks and have made plastic pollution a major concern worldwide. They have been detected in terrestrial and aquatic species, including humans, and have been linked to increased risks of cardiovascular, respiratory and metabolic diseases. However, a critical question remains regarding whether plastic pollution also affects brain function and behavior. This review summarizes the current state of knowledge on the neurotoxic effects of MPs and NPs (MNPs) in the brain and their impact on behavior in both humans and rodents. We analyzed recent studies across multiple experimental approaches, including in vitro assays, animal models, human biomonitoring, and emerging technologies (i.e., brain organoids) to provide a comprehensive overview of MNP-induced effects. Findings are organized and discussed in terms of their influence on behavior, brain neurotransmission and function, and mechanistic pathways underlying neurotoxicity. We conclude that clarifying how MNPs affect neural systems and behavior, and exploring strategies to prevent or reverse their neurotoxic effects, will be crucial for safeguarding brain health in an increasingly plastic-contaminated world.",
-      "journal": "Neuroscience and biobehavioral reviews",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "CNR Institute of Neuroscience-Cagliari, National Research, Italy. Electronic address: liana.fattore@in.cnr.it.",
-        "Florey Institute of Neuroscience and Mental Health, Melbourne, Australia; Florey Department of Neuroscience and Mental Health, University of Melbourne, Melbourne, Australia. Electronic address: thibault.renoir@unimelb.edu.au.",
-        "Florey Institute of Neuroscience and Mental Health, Melbourne, Australia; Florey Department of Neuroscience and Mental Health, University of Melbourne, Melbourne, Australia. Electronic address: anthony.hannan@florey.edu.au.",
-        "Department of Biomedical Sciences, University of Cagliari, Cagliari, Italy. Electronic address: ankit.siwach@unica.it.",
-        "Department of Biochemistry, Faculty of Science, Alexandria University, Alexandria, Egypt. Electronic address: Fayza.nasr_PG@alexu.edu.eg.",
-        "Department of Biochemistry, Faculty of Science, Alexandria University, Alexandria, Egypt. Electronic address: amzakyha@alexu.edu.eg.",
-        "College of Medicine, Korea University, Seoul 02841, Republic of Korea; Department of Medical and Surgical Sciences, University of Magna Graecia, Catanzaro, Italy. Electronic address: giuseppe.digiovanni@unicz.it.",
-        "University of Bordeaux, CNRS, Institute of Neurodegenerative Diseases, UMR 5293, Bordeaux, France. Electronic address: marc.landry@u-bordeaux.fr."
-      ],
-      "doi": "10.1016/j.neubiorev.2026.106946",
-      "date": "2026-09-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42710247/"
-    },
-    {
-      "pmid": "42709582",
-      "title": "Kidney-on-Chip and Organoid Models: Harnessing Mechanical Forces for Translational Kidney Biology.",
-      "abstract": "The FDA Modernization Act and the subsequent federal policy changes in 2025 have signaled a shift towards the use of non-animal, human-centered models for preclinical drug development and toxicity screening, emphasizing 3D cell-based, organ-on-chip, and organoid platforms as alternatives to animal models. While animal models have been instrumental in improving our understanding of disease mechanisms, they do not allow decoupling of biomechanical and biochemical effects during pathogenesis. Standard in vitro systems offer improved accessibility but often lack physiologically relevant microenvironments. In this review, we discuss how kidney-on-chip and iPSC-derived kidney organoid models serve as physiologically relevant platforms for modeling nephrotoxicity, kidney development, and pathophysiology. Kidney-on-chip models can recapitulate in vivo mechanical forces, such as fluid shear stress and mechanical strain, experienced by cells, enabling real-time functional readouts of glomerular filtration, tubular reabsorption, and potential nephrotoxic response. Integrating on-chip platforms with patient-derived iPSCs and differentiated kidney cell types allows human-relevant responses unavailable in static culture. iPSC-derived kidney organoids recapitulate the 3D architecture of nephron segments and ureteric bud branching patterns, demonstrating selective transport, toxicity responses, and structural stability over months in culture. We detail how bioengineering approaches, including organoid-on-chip models, bioprinting, and multi-organ-on-chip integration, could address the current limitations of these systems, like maturity, scalability and vascularization. We further discuss how integrating publicly available clinical databases and machine learning approaches with on-chip validation can improve translational relevance. We conclude that interdisciplinary collaboration between engineers, biologists, and physician scientists will be essential to translate bioengineered kidney models into clinical and therapeutic applications.",
-      "journal": "Journal of the American Society of Nephrology : JASN",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Barbara T. Murphy Division of Nephrology, Icahn School of Medicine at Mount Sinai, New York, NY.",
-        "Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY.",
-        "Windreich Department of Artificial Intelligence and Human Health, Icahn School of Medicine at Mount Sinai, New York, NY."
-      ],
-      "doi": "10.1681/ASN.0000001272",
-      "date": "2026-09-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42709582/"
     },
     {
       "pmid": "42699656",
@@ -371,6 +360,34 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42691096/"
     },
     {
+      "pmid": "42713910",
+      "title": "Early stage nonsmall cell lung cancer: Toward a risk-adaptive paradigm in the era of biologic precision.",
+      "abstract": "The clinical landscape of early stage nonsmall cell lung cancer is at transformative crossroads. Driven by the widespread adoption of low-dose computed tomography screening, the frequent detection of ground-glass opacities, and a rising incidence among never-smokers, the diagnostic center of gravity has shifted toward earlier, potentially curable disease. This shift has been accompanied by equally important therapeutic advances, including parenchyma-sparing surgical techniques, minimally invasive platforms enhanced by digital navigation, and the transformative integration of perioperative immunotherapy and targeted agents. Concurrently, noninvasive monitoring approaches, such as liquid biopsy, have emerged as powerful tools to guide precision management. Despite this progress, substantial barriers to achieving a universal cure persist. Clinicians continue to face uncertainty in the management of ground-glass opacities, the anatomy-based TNM staging system fails to capture the biologic heterogeneity of early tumors, and global disparities in access to innovation remain unresolved. To address these challenges, the authors propose a shift toward a risk-adaptive management paradigm that harnesses artificial intelligence-driven analytics and multi-omics profiling to tailor treatment intensity according to each patient's biologic risk. Such an approach would enable appropriate escalation for high-risk individuals while permitting safe de-escalation for those at low risk. This holistic, lifespan-oriented strategy must be embraced to deliver equitable and durable cures for patients with early stage nonsmall cell lung cancer.",
+      "journal": "CA: a cancer journal for clinicians",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Thoracic Surgery, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+        "Department of Radiation Oncology, The Affiliated Cancer Hospital of Zhengzhou University and Henan Cancer Hospital, Zhengzhou, China.",
+        "Department of Pathology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+        "Department of Medicine, International College of Medicine and Pharmacy, Changsha Medical University, Changsha, Hunan, China.",
+        "State Key Laboratory of Molecular Oncology, Beijing Key Laboratory, CAMS Key Laboratory of Translational Research on Lung Cancer, Department of Medical Oncology, Cancer Hospital, Chinese Academy of Medical Sciences, Beijing, China.",
+        "Department of Clinical Laboratory, National Clinical Research Center for Cancer/Cancer Hospital, National Cancer Center, Chinese Academy of Medical Sciences, Peking Union Medical College, Beijing, China.",
+        "Department of Radiation Oncology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+        "Department of Cancer Epidemiology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+        "Office of Cancer Screening, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+        "Department of Cancer Prevention and Control, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+        "Department of Thoracic Surgery, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital and Shenzhen Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Shenzhen, China.",
+        "Department of Thoracic Surgery, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Langfang Campus, Langfang, China.",
+        "Institute of Cancer Research, Henan Academy of Innovations in Medical Sciences, Zhengzhou, Henan, China."
+      ],
+      "doi": "10.3322/caac.70100",
+      "date": "2026-01-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42713910/"
+    },
+    {
       "pmid": "42711582",
       "title": "Systemic metastases in a BRAF V600E-mutant pleomorphic xanthoastrocytoma classified by DNA methylation: treatment with BRAF/MEK inhibitors and liquid biopsy monitoring.",
       "abstract": "",
@@ -462,25 +479,69 @@
       "doi": "10.1021/acsabm.6c00841",
       "date": "2026-09-08",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42709984/"
-    },
-    {
-      "pmid": "42709393",
-      "title": "Beyond a Surface Marker: The Multifaceted Role of CD38 in Metabolic Disruption and Tumor Progression.",
-      "abstract": "CD38 is a type II transmembrane glycoprotein and serves as the primary ectoenzyme responsible for regulating cellular nicotinamide adenine dinucleotide (NAD+) levels in mammalian tissues. Initially identified as a lymphocyte activation marker, recent research has revealed its significant role in immunosuppression within oncological processes, NAD+ depletion associated with aging, and exosomal signaling. This review provides a comprehensive analysis of the enzymatic functions of CD38, its pathophysiological impacts on both hematological and solid tumors, and the mechanisms of resistance that emerge against anti-CD38 therapies. Furthermore, the potential of CD38 as an exosomal biomarker in liquid biopsy procedures and its function as a \"metabolic resetter\" for promoting healthy aging are explored.",
-      "journal": "Cell biochemistry and biophysics",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Biophysics, Faculty of Medicine, Çanakkale Onsekiz Mart University, Çanakkale, Türkiye. ozlemcoskun@comu.edu.tr."
-      ],
-      "doi": "10.1007/s12013-026-02133-w",
-      "date": "2026-09-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42709393/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42714339",
+      "date": "2026-09-09",
+      "title": "High-viscosity hydrogels in cartilage injury and osteochondral defect repair: mechanisms, design strategies, and clinical translation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42714339/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biomaterials science，PMID 为 42714339。",
+      "report": "Cartilage injury and osteochondral defects remain major clinical challenges owing to the limited intrinsic regenerative capacity of cartilage and the inability of current treatments to restore durable hyaline tissue. Conventional hydrogels often fail under joi...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42714221",
+      "date": "2026-09-09",
+      "title": "A Protoplast-based method to visualize early cell biological events in plant cellular reprogramming and regeneration.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42714221/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Development (Cambridge, England)，PMID 为 42714221。",
+      "report": "Plant developmental biology lacks cell-based experimental systems comparable to the organoids and live-imaging platforms that have transformed mechanistic discovery in animal research. To address this gap, we present a robust, trackable protoplast regeneration...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42711582",
       "date": "2026-09-09",
@@ -536,94 +597,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Molecular human reproduction，PMID 为 42711263。",
       "report": "Proper trophoblast development is essential for placental function and is a key determinant of pregnancy outcomes. Three-dimensional spheroid and organoid cultures using cells from placental tissues or trophoblast stem cells have emerged as models that recapit...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42710618",
-      "date": "2026-09-08",
-      "title": "Bcl-xL Promotes Gastric Tumorigenesis via Apoptosis-Independent Wnt/β-Catenin Activation and PPARγ Suppression.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42710618/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cellular and molecular gastroenterology and hepatology，PMID 为 42710618。",
-      "report": "The Wnt/β-catenin and YAP pathways cooperatively drive gastrointestinal tumor progression. BCL2L1, a YAP target gene, encodes the anti-apoptotic isoform Bcl-xL, which is highly expressed in multiple cancers, but its role in gastric cancer remains unclear. We g...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42710247",
-      "date": "2026-09-08",
-      "title": "Effects of microplastics and nanoplastics on the brain and behavior: Evidence from rodent and human studies.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42710247/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neuroscience and biobehavioral reviews，PMID 为 42710247。",
-      "report": "Microplastics (MPs) and nanoplastics (NPs) pose serious environmental and health risks and have made plastic pollution a major concern worldwide. They have been detected in terrestrial and aquatic species, including humans, and have been linked to increased ri...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42709582",
-      "date": "2026-09-08",
-      "title": "Kidney-on-Chip and Organoid Models: Harnessing Mechanical Forces for Translational Kidney Biology.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42709582/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of the American Society of Nephrology : JASN，PMID 为 42709582。",
-      "report": "The FDA Modernization Act and the subsequent federal policy changes in 2025 have signaled a shift towards the use of non-animal, human-centered models for preclinical drug development and toxicity screening, emphasizing 3D cell-based, organ-on-chip, and organo...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -755,36 +728,6 @@
       "fact": "PubMed 记录显示该文献收录于 ACS applied bio materials，PMID 为 42709984。",
       "report": "Extracellular vesicles (EVs) are increasingly recognized as valuable diagnostic biomarkers due to their disease-specific cargo and key role in intercellular communication and tissue homeostasis. However, their isolation and purification from complex biofluids...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42709393",
-      "date": "2026-09-08",
-      "title": "Beyond a Surface Marker: The Multifaceted Role of CD38 in Metabolic Disruption and Tumor Progression.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42709393/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell biochemistry and biophysics，PMID 为 42709393。",
-      "report": "CD38 is a type II transmembrane glycoprotein and serves as the primary ectoenzyme responsible for regulating cellular nicotinamide adenine dinucleotide (NAD+) levels in mammalian tissues. Initially identified as a lymphocyte activation marker, recent research...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1004,6 +947,40 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42712807",
+      "date": "2026-08-30",
+      "title": "Decoding age-stratified clinical and molecular heterogeneity in male breast cancer through multiomic profiling.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42712807/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Chinese journal of cancer research = Chung-kuo yen cheng yen chiu，PMID 为 42712807。",
+      "report": "Age-associated molecular heterogeneity is well described in female breast cancer but remains insufficiently characterized in male breast cancer (MBC). We profiled age-stratified clinical and molecular differences between younger (≤55 years) male breast cancer...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42667121",
       "date": "2026-08-29",
       "title": "Predicting Single-Cell Perturbation Responses Across Biological Contexts With a Deep Generative Model Integrating Optimal Transport.",
@@ -1078,6 +1055,38 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42712523",
+      "date": "2026-08-25",
+      "title": "An hiPSC-derived multi-lineage lung model exhibiting proximal-distal epithelial features for modeling pulmonary fibrosis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42712523/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42712523。",
+      "report": "Idiopathic pulmonary fibrosis (IPF) is a progressive and irreversible interstitial lung disease with limited therapeutic options. Existing hiPSC-derived lung organoid models are largely restricted to single epithelial lineages and cannot endogenously integrate...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42656114",
       "date": "2026-08-25",
       "title": "[Multi-modal tumor boundary clustering recognition based on artificial intelligence virtual cells and near-infrared surgical field].",
@@ -1107,36 +1116,6 @@
       "fact": "PubMed 记录显示该文献收录于 Sheng wu yi xue gong cheng xue za zhi = Journal of biomedical engineering = Shengwu yixue gongchengxue zazhi，PMID 为 42656114。",
       "report": "In order to accurately identify tumor boundaries and improve diagnostic efficiency, this study proposes a multi-modal tumor boundary identification method based on artificial intelligence virtual cells and saliency near-infrared spectrum imaging, and uses this...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42710856",
-      "date": "2026-08-18",
-      "title": "Reduced mechanical shear is associated with early cortical differentiation and GDNF-GFRA1/RET signalling in human brain organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42710856/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cells translational medicine，PMID 为 42710856。",
-      "report": "Early cortical differentiation in human brain organoids is a critical step of corticogenesis, but remains poorly coordinated under conventional culture conditions. In a standard orbital shaker system, mechanical shear and variability in extracellular matrix su...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1227,6 +1206,40 @@
       "fact": "PubMed 记录显示该文献收录于 Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica，PMID 为 42693007。",
       "report": "As the primary carrier of clinical treatment in traditional Chinese medicine(TCM), TCM formulae require elucidation of the interaction laws between their chemical substance basis and biological activities, which represents a key scientific issue in TCM researc...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42713910",
+      "date": "2026-01-01",
+      "title": "Early stage nonsmall cell lung cancer: Toward a risk-adaptive paradigm in the era of biologic precision.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42713910/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 CA: a cancer journal for clinicians，PMID 为 42713910。",
+      "report": "The clinical landscape of early stage nonsmall cell lung cancer is at transformative crossroads. Driven by the widespread adoption of low-dose computed tomography screening, the frequent detection of ground-glass opacities, and a rising incidence among never-s...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
