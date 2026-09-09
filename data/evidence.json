@@ -3723,13 +3723,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-alnylam-investor_relations-54f16182c3fe",
+      "id": "evidence-company-alnylam-investor_relations-70f17c566f62",
       "signalId": null,
       "companyIds": [
         "alnylam"
       ],
-      "publishedAt": "2026-09-01",
-      "snapshotDate": "2026-09-01",
+      "publishedAt": "2026-09-09",
+      "snapshotDate": "2026-09-09",
       "title": "Information and Resources for Investors | Alnylam",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -3747,7 +3747,7 @@
         "Official Source",
         "Investor Relations Page"
       ],
-      "fact": "The official page was captured with normalized-content hash 54f16182c3fe4ae875c13f79afdd7fbd5c6b6b6ef4d2fdd94696912960c98f4d.",
+      "fact": "The official page was captured with normalized-content hash 70f17c566f623119ed8eaf235af58644ce9a0d14cd1cf43d5d79d9f043e25c74.",
       "report": "公司官方页面表述：投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。",
       "reportOriginal": "The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
       "reportCn": "投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。",
@@ -3760,7 +3760,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "54f16182c3fe4ae875c13f79afdd7fbd5c6b6b6ef4d2fdd94696912960c98f4d",
+      "contentHash": "70f17c566f623119ed8eaf235af58644ce9a0d14cd1cf43d5d79d9f043e25c74",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -6697,7 +6697,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7",
       "changeType": "unchanged",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
@@ -8631,7 +8631,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "This company's Exchange Act registration has been revoked",
@@ -9136,7 +9136,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7",
       "changeType": "unchanged",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
@@ -14647,7 +14647,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "72a96e715eafdc73b17226ee7f00fc422fa1df8bf60ea148ae453017a34635d0",
       "changeType": "unchanged",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
@@ -16670,7 +16670,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "This company's Exchange Act registration has been revoked",
@@ -18149,7 +18149,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7",
       "changeType": "unchanged",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
@@ -18915,7 +18915,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7",
       "changeType": "unchanged",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
@@ -20745,7 +20745,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265",
       "changeType": "unchanged",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
@@ -21140,7 +21140,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7",
       "changeType": "unchanged",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
@@ -21258,7 +21258,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265",
       "changeType": "unchanged",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
@@ -23863,7 +23863,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "This company's Exchange Act registration has been revoked",
@@ -27243,7 +27243,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7",
       "changeType": "unchanged",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
@@ -27907,7 +27907,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265",
       "changeType": "unchanged",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
@@ -28443,7 +28443,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "f8d781aee7acec74336ba0c7d1ab76ee3a873c6c88194538a31b50adb03d7265",
       "changeType": "unchanged",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
@@ -28617,7 +28617,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7",
       "changeType": "unchanged",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
@@ -41255,7 +41255,7 @@
       "publishedAt": "2026-09-01",
       "snapshotDate": "2026-09-01",
       "title": "Pipeline | CRISPR Therapeutics",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "CRISPR Therapeutics — Pipeline Page",
@@ -41285,7 +41285,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "3b78d87ebe3669688e2b36855b216477dc320f1654f1fb855c14b7604fc8d3b6",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Description: Autologous, ex vivo CRISPR/Cas9 gene-edited therapy in which aims to edit a patient’s own hematopoietic stem cells to produce fetal hemoglobin in red blood cells.",
@@ -42083,15 +42083,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-ionis-official-bd57cac371dd",
+      "id": "evidence-company-ionis-official-36511aa297ac",
       "signalId": null,
       "companyIds": [
         "ionis"
       ],
-      "publishedAt": "2026-09-05",
-      "snapshotDate": "2026-09-05",
+      "publishedAt": "2026-09-09",
+      "snapshotDate": "2026-09-09",
       "title": "Innovating to Change the Course of Human Health | IONIS",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Ionis Pharmaceuticals — Official Website",
@@ -42107,7 +42107,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash bd57cac371ddb9f35453502659e411c1ea77309989ae9ed8e05b46c5836bef33.",
+      "fact": "The official page was captured with normalized-content hash 36511aa297ac209dbb3251c3402d5835286cd22beef8bc62cf42d5743637e97d.",
       "report": "公司官方页面表述：探索我们如何通过突破性创新为生活在严重疾病中的人们开启更美好的未来。了解我们的使命。",
       "reportOriginal": "Discover how we are enabling better futures for people living with serious disease through groundbreaking innovations. Learn about our mission here.",
       "reportCn": "探索我们如何通过突破性创新为生活在严重疾病中的人们开启更美好的未来。了解我们的使命。",
@@ -42120,8 +42120,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "bd57cac371ddb9f35453502659e411c1ea77309989ae9ed8e05b46c5836bef33",
-      "changeType": "unchanged",
+      "contentHash": "36511aa297ac209dbb3251c3402d5835286cd22beef8bc62cf42d5743637e97d",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
@@ -43089,15 +43089,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+      "id": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
       "signalId": null,
       "companyIds": [
         "oxford-nanopore"
       ],
-      "publishedAt": "2026-09-05",
-      "snapshotDate": "2026-09-05",
+      "publishedAt": "2026-09-09",
+      "snapshotDate": "2026-09-09",
       "title": "Welcome to Oxford Nanopore Technologies",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Oxford Nanopore Technologies — Official Website",
@@ -43113,7 +43113,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash b5a006d4fd7e86315fa9f0f9ab18724b0d37d937b55c6f15a16569677978dc9e.",
+      "fact": "The official page was captured with normalized-content hash ae4e03d0fba07710844aa320dbca27149745e368be42c17c07d1fa90a363a51c.",
       "report": "公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
       "reportOriginal": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
       "reportCn": "发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
@@ -43126,14 +43126,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "b5a006d4fd7e86315fa9f0f9ab18724b0d37d937b55c6f15a16569677978dc9e",
-      "changeType": "unchanged",
+      "contentHash": "ae4e03d0fba07710844aa320dbca27149745e368be42c17c07d1fa90a363a51c",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
         "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-        "Search Oxford Nanopore Technologies Which site do you wish to search in?",
-        "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology"
+        "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
+        "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling."
       ],
       "businessExcerpts": [],
       "productExcerpts": [
@@ -43150,7 +43150,7 @@
       "publishedAt": "2026-09-01",
       "snapshotDate": "2026-09-01",
       "title": "Oxford Nanopore Technologies Platform Solution",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Oxford Nanopore Technologies — Pipeline Page",
@@ -43180,7 +43180,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "f611c963a9b52ad6c829e873506f6d6aae2c84c66b443e739a405d4851d27af1",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
@@ -43468,13 +43468,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-sumitomo-pharma-investor_relations-860b69212532",
+      "id": "evidence-company-sumitomo-pharma-investor_relations-c50215e8919e",
       "signalId": null,
       "companyIds": [
         "sumitomo-pharma"
       ],
-      "publishedAt": "2026-09-01",
-      "snapshotDate": "2026-09-01",
+      "publishedAt": "2026-09-09",
+      "snapshotDate": "2026-09-09",
       "title": "Investor Relations (Security Code :4506 TSE Prime) | Sumitomo Pharma",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -43492,7 +43492,7 @@
         "Official Source",
         "Investor Relations Page"
       ],
-      "fact": "The official page was captured with normalized-content hash 860b69212532011e62bd1534fca4c250d03cf9a97c775c1c2134a19dc4002560.",
+      "fact": "The official page was captured with normalized-content hash c50215e8919e9a5c6fb15b451c6330a4d0d68a333dc3bd005ba3b90445a11953.",
       "report": "公司官方页面表述：为住友制药的股东和投资者提供信息，如董事长致辞、投资者关系资料库，以及关于股份和股东的信息。",
       "reportOriginal": "Information for Sumitomo Pharma's shareholders and investors, such as the Message from the President, IR Library, and information regarding shares and shareholders.",
       "reportCn": "为住友制药的股东和投资者提供信息，如董事长致辞、投资者关系资料库，以及关于股份和股东的信息。",
@@ -43505,7 +43505,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "860b69212532011e62bd1534fca4c250d03cf9a97c775c1c2134a19dc4002560",
+      "contentHash": "c50215e8919e9a5c6fb15b451c6330a4d0d68a333dc3bd005ba3b90445a11953",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [

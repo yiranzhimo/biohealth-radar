@@ -41,7 +41,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     "withEvidenceCount": 628,
     "withProductClaimsCount": 518,
     "withFuturePlansCount": 3,
-    "failedSourceCount": 51,
+    "failedSourceCount": 63,
     "identityLinkCount": 0
   },
   "profiles": [
@@ -923,6 +923,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -935,6 +936,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -6140,6 +6142,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -6152,6 +6155,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -8218,7 +8222,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
             "text": "投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。",
-            "evidenceId": "evidence-company-alnylam-investor_relations-54f16182c3fe",
+            "evidenceId": "evidence-company-alnylam-investor_relations-70f17c566f62",
             "sourceUrl": "https://investors.alnylam.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -8226,7 +8230,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Alnylam Presents New Data at ESC Congress 2026 Reinforcing Strength in RNAi-Powered TTR Silencing Across ATTR-CM Patient Populations and Treatment Settings",
             "text": "Alnylam Presents New Data at ESC Congress 2026 Reinforcing Strength in RNAi-Powered TTR Silencing Across ATTR-CM Patient Populations and Treatment Settings",
-            "evidenceId": "evidence-company-alnylam-investor_relations-54f16182c3fe",
+            "evidenceId": "evidence-company-alnylam-investor_relations-70f17c566f62",
             "sourceUrl": "https://investors.alnylam.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -8234,7 +8238,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Alnylam to Present New Data Reinforcing Strength in RNAi-Powered TTR Silencing and Continued Progress in Hypertension at ESC Congress 2026",
             "text": "Alnylam to Present New Data Reinforcing Strength in RNAi-Powered TTR Silencing and Continued Progress in Hypertension at ESC Congress 2026",
-            "evidenceId": "evidence-company-alnylam-investor_relations-54f16182c3fe",
+            "evidenceId": "evidence-company-alnylam-investor_relations-70f17c566f62",
             "sourceUrl": "https://investors.alnylam.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -8242,7 +8246,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Alnylam Pharmaceuticals Q2 2026 Earnings Conference Call",
             "text": "Alnylam Pharmaceuticals Q2 2026 Earnings Conference Call",
-            "evidenceId": "evidence-company-alnylam-investor_relations-54f16182c3fe",
+            "evidenceId": "evidence-company-alnylam-investor_relations-70f17c566f62",
             "sourceUrl": "https://investors.alnylam.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -8266,7 +8270,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-alnylam-investor_relations-54f16182c3fe",
+          "evidence-company-alnylam-investor_relations-70f17c566f62",
           "evidence-company-alnylam-pipeline-77914bacd5b2",
           "evidence-company-alnylam-official-e8c13028abe2",
           "evidence-sec-0001178670-000117867026000062",
@@ -8277,14 +8281,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-alnylam-investor_relations-54f16182c3fe",
-            "date": "2026-09-01",
+            "id": "event-evidence-company-alnylam-investor_relations-70f17c566f62",
+            "date": "2026-09-09",
             "title": "Information and Resources for Investors | Alnylam",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-alnylam-investor_relations-54f16182c3fe",
+            "evidenceId": "evidence-company-alnylam-investor_relations-70f17c566f62",
             "sourceUrl": "https://investors.alnylam.com/"
           },
           {
@@ -8344,7 +8348,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 2
         },
-        "lastEvidenceDate": "2026-09-01",
+        "lastEvidenceDate": "2026-09-09",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -8353,14 +8357,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-alnylam-investor_relations-54f16182c3fe",
-          "date": "2026-09-01",
+          "id": "event-evidence-company-alnylam-investor_relations-70f17c566f62",
+          "date": "2026-09-09",
           "title": "Information and Resources for Investors | Alnylam",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-alnylam-investor_relations-54f16182c3fe",
+          "evidenceId": "evidence-company-alnylam-investor_relations-70f17c566f62",
           "sourceUrl": "https://investors.alnylam.com/"
         },
         {
@@ -19358,6 +19362,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -19370,6 +19375,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -27418,6 +27424,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -27430,6 +27437,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -29391,6 +29399,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -29403,6 +29412,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -33452,6 +33462,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -33464,6 +33475,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -34355,6 +34367,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -34367,6 +34380,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -34637,6 +34651,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -34649,6 +34664,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -36017,7 +36033,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-crispr-therapeutics-pipeline-3b78d87ebe36",
             "date": "2026-09-01",
             "title": "Pipeline | CRISPR Therapeutics",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -36095,7 +36111,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-crispr-therapeutics-pipeline-3b78d87ebe36",
           "date": "2026-09-01",
           "title": "Pipeline | CRISPR Therapeutics",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -46909,6 +46925,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -46921,6 +46938,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -48332,6 +48350,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -48344,6 +48363,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -49223,7 +49243,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The genetic basis of human disease continues to inspire our science and technology as we expand to new therapeutic approaches, while our industry-leading chemistry helps us target the right medicine to the right disease – providing a rich source for future breakthroughs and…",
             "text": "The genetic basis of human disease continues to inspire our science and technology as we expand to new therapeutic approaches, while our industry-leading chemistry helps us target the right medicine to the right disease – providing a rich source for future breakthroughs and…",
-            "evidenceId": "evidence-company-ionis-official-bd57cac371dd",
+            "evidenceId": "evidence-company-ionis-official-36511aa297ac",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -49231,7 +49251,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
             "text": "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
-            "evidenceId": "evidence-company-ionis-official-bd57cac371dd",
+            "evidenceId": "evidence-company-ionis-official-36511aa297ac",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -49239,7 +49259,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Ionis has been recognized as one of the San Diego Business Journal's Best Places to Work for the third consecutive year.",
             "text": "Ionis has been recognized as one of the San Diego Business Journal's Best Places to Work for the third consecutive year.",
-            "evidenceId": "evidence-company-ionis-official-bd57cac371dd",
+            "evidenceId": "evidence-company-ionis-official-36511aa297ac",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -49247,7 +49267,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Ionis is unlocking the rapidly expanding potential of RNA- and DNA-targeted medicines to enable better futures for people living with serious diseases.",
             "text": "Ionis is unlocking the rapidly expanding potential of RNA- and DNA-targeted medicines to enable better futures for people living with serious diseases.",
-            "evidenceId": "evidence-company-ionis-official-bd57cac371dd",
+            "evidenceId": "evidence-company-ionis-official-36511aa297ac",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -49255,7 +49275,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "For the latest on Ionis news and developments",
             "text": "For the latest on Ionis news and developments",
-            "evidenceId": "evidence-company-ionis-official-bd57cac371dd",
+            "evidenceId": "evidence-company-ionis-official-36511aa297ac",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -49271,7 +49291,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-ionis-official-bd57cac371dd",
+          "evidence-company-ionis-official-36511aa297ac",
           "evidence-sec-0000874015-000114036126035802",
           "evidence-sec-0000874015-000114036126035657",
           "evidence-company-ionis-pipeline-3987692c42b2",
@@ -49285,14 +49305,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-ionis-official-bd57cac371dd",
-            "date": "2026-09-05",
+            "id": "event-evidence-company-ionis-official-36511aa297ac",
+            "date": "2026-09-09",
             "title": "Innovating to Change the Course of Human Health | IONIS",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-ionis-official-bd57cac371dd",
+            "evidenceId": "evidence-company-ionis-official-36511aa297ac",
             "sourceUrl": "https://ionis.com/"
           },
           {
@@ -49352,7 +49372,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 2,
           "Filing": 6
         },
-        "lastEvidenceDate": "2026-09-05",
+        "lastEvidenceDate": "2026-09-09",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -49361,14 +49381,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-ionis-official-bd57cac371dd",
-          "date": "2026-09-05",
+          "id": "event-evidence-company-ionis-official-36511aa297ac",
+          "date": "2026-09-09",
           "title": "Innovating to Change the Course of Human Health | IONIS",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-ionis-official-bd57cac371dd",
+          "evidenceId": "evidence-company-ionis-official-36511aa297ac",
           "sourceUrl": "https://ionis.com/"
         },
         {
@@ -49957,6 +49977,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -49969,6 +49990,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -50366,6 +50388,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -50378,6 +50401,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -60355,7 +60379,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
             "text": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -60363,7 +60387,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Oxford Nanopore Technologies products are RUO.",
             "text": "Oxford Nanopore Technologies products are RUO.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -60371,15 +60395,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
             "text": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
-            "sourceUrl": "https://nanoporetech.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
-            "text": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
-            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -60387,8 +60403,16 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
             "text": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
-            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
             "sourceUrl": "https://nanoporetech.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
+            "text": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
+            "evidenceId": "evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
+            "sourceUrl": "https://nanoporetech.com/platform",
             "needsReview": true,
             "claimType": "Report"
           },
@@ -60403,7 +60427,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+          "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
           "evidence-company-oxford-nanopore-pipeline-f611c963a9b5"
         ]
       },
@@ -60411,21 +60435,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-oxford-nanopore-official-b5a006d4fd7e",
-            "date": "2026-09-05",
+            "id": "event-evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+            "date": "2026-09-09",
             "title": "Welcome to Oxford Nanopore Technologies",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
             "sourceUrl": "https://nanoporetech.com/"
           },
           {
             "id": "event-evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
             "date": "2026-09-01",
             "title": "Oxford Nanopore Technologies Platform Solution",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -60444,7 +60468,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-09-05",
+        "lastEvidenceDate": "2026-09-09",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -60453,21 +60477,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-oxford-nanopore-official-b5a006d4fd7e",
-          "date": "2026-09-05",
+          "id": "event-evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+          "date": "2026-09-09",
           "title": "Welcome to Oxford Nanopore Technologies",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+          "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
           "sourceUrl": "https://nanoporetech.com/"
         },
         {
           "id": "event-evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
           "date": "2026-09-01",
           "title": "Oxford Nanopore Technologies Platform Solution",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -68152,54 +68176,54 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。；公司官方页面表述：为住友制药的股东和投资者提供信息，如董事长致辞、投资者关系资料库，以及关于股份和股东的信息。",
-        "summaryOriginal": "For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd. Information for Sumitomo Pharma's shareholders and investors, such as the Message from the President, IR Library, and information regarding shares and shareholders.",
+        "summary": "公司官方页面表述：为住友制药的股东和投资者提供信息，如董事长致辞、投资者关系资料库，以及关于股份和股东的信息。；公司官方页面表述：为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
+        "summaryOriginal": "Information for Sumitomo Pharma's shareholders and investors, such as the Message from the President, IR Library, and information regarding shares and shareholders. For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
-            "text": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-b7507b87f26a",
-            "sourceUrl": "https://www.sumitomo-pharma.com/",
+            "textOriginal": "Sumitomo Pharma America Announces First Patient Receives Treatment in Phase 1/2a Study for its Investigational Therapy DSP-3077 for Retinitis Pigmentosa（PDF/137KB）",
+            "text": "Sumitomo Pharma America Announces First Patient Receives Treatment in Phase 1/2a Study for its Investigational Therapy DSP-3077 for Retinitis Pigmentosa（PDF/137KB）",
+            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-c50215e8919e",
+            "sourceUrl": "https://www.sumitomo-pharma.com/ir/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "13, 2026 Sumitomo Pharma America Announces First Patient Receives Treatment in Phase 1/2a Study for its Investigational Therapy DSP-3077 for Retinitis Pigmentosa（PDF/137KB） R&D",
-            "text": "13, 2026 Sumitomo Pharma America Announces First Patient Receives Treatment in Phase 1/2a Study for its Investigational Therapy DSP-3077 for Retinitis Pigmentosa（PDF/137KB） R&D",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-b7507b87f26a",
-            "sourceUrl": "https://www.sumitomo-pharma.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "iPS Cell-Derived Product Transportation Project",
-            "text": "iPS Cell-Derived Product Transportation Project",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-b7507b87f26a",
-            "sourceUrl": "https://www.sumitomo-pharma.com/",
+            "textOriginal": "External Evaluation of Our Sustainability Program",
+            "text": "External Evaluation of Our Sustainability Program",
+            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-c50215e8919e",
+            "sourceUrl": "https://www.sumitomo-pharma.com/ir/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
             "text": "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-b7507b87f26a",
-            "sourceUrl": "https://www.sumitomo-pharma.com/",
+            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-c50215e8919e",
+            "sourceUrl": "https://www.sumitomo-pharma.com/ir/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "To this end , Sumitomo Pharma is pursuing Sustainability Management through a variety of initiatives, including the development of innovative products and healthcare solutions, and contribution to the development of science.",
             "text": "To this end , Sumitomo Pharma is pursuing Sustainability Management through a variety of initiatives, including the development of innovative products and healthcare solutions, and contribution to the development of science.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-b7507b87f26a",
-            "sourceUrl": "https://www.sumitomo-pharma.com/",
+            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-c50215e8919e",
+            "sourceUrl": "https://www.sumitomo-pharma.com/ir/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Here you can search for the strengths of Sumitomo Pharma’s business, Sumitomo Pharma’s initiatives, and other information that interests you by selecting tags.",
-            "text": "Here you can search for the strengths of Sumitomo Pharma’s business, Sumitomo Pharma’s initiatives, and other information that interests you by selecting tags.",
+            "textOriginal": "Information for Sumitomo Pharma's shareholders and investors, such as the Message from the President, IR Library, and information regarding shares and shareholders.",
+            "text": "为住友制药的股东和投资者提供信息，如董事长致辞、投资者关系资料库，以及关于股份和股东的信息。",
+            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-c50215e8919e",
+            "sourceUrl": "https://www.sumitomo-pharma.com/ir/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
+            "text": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
             "evidenceId": "evidence-company-sumitomo-pharma-official-b7507b87f26a",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
@@ -68208,13 +68232,24 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-sumitomo-pharma-official-b7507b87f26a",
-          "evidence-company-sumitomo-pharma-investor_relations-860b69212532"
+          "evidence-company-sumitomo-pharma-investor_relations-c50215e8919e",
+          "evidence-company-sumitomo-pharma-official-b7507b87f26a"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-sumitomo-pharma-investor_relations-c50215e8919e",
+            "date": "2026-09-09",
+            "title": "Investor Relations (Security Code :4506 TSE Prime) | Sumitomo Pharma",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-c50215e8919e",
+            "sourceUrl": "https://www.sumitomo-pharma.com/ir/"
+          },
           {
             "id": "event-evidence-company-sumitomo-pharma-official-b7507b87f26a",
             "date": "2026-09-02",
@@ -68225,17 +68260,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-sumitomo-pharma-official-b7507b87f26a",
             "sourceUrl": "https://www.sumitomo-pharma.com/"
-          },
-          {
-            "id": "event-evidence-company-sumitomo-pharma-investor_relations-860b69212532",
-            "date": "2026-09-01",
-            "title": "Investor Relations (Security Code :4506 TSE Prime) | Sumitomo Pharma",
-            "eventType": "Official Source Update",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-860b69212532",
-            "sourceUrl": "https://www.sumitomo-pharma.com/ir/"
           }
         ],
         "inferences": [],
@@ -68249,7 +68273,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-09-02",
+        "lastEvidenceDate": "2026-09-09",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -68257,6 +68281,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-sumitomo-pharma-investor_relations-c50215e8919e",
+          "date": "2026-09-09",
+          "title": "Investor Relations (Security Code :4506 TSE Prime) | Sumitomo Pharma",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-c50215e8919e",
+          "sourceUrl": "https://www.sumitomo-pharma.com/ir/"
+        },
         {
           "id": "event-evidence-company-sumitomo-pharma-official-b7507b87f26a",
           "date": "2026-09-02",
@@ -68267,17 +68302,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-sumitomo-pharma-official-b7507b87f26a",
           "sourceUrl": "https://www.sumitomo-pharma.com/"
-        },
-        {
-          "id": "event-evidence-company-sumitomo-pharma-investor_relations-860b69212532",
-          "date": "2026-09-01",
-          "title": "Investor Relations (Security Code :4506 TSE Prime) | Sumitomo Pharma",
-          "eventType": "Official Source Update",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-860b69212532",
-          "sourceUrl": "https://www.sumitomo-pharma.com/ir/"
         }
       ]
     },
