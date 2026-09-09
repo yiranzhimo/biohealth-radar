@@ -4,6 +4,65 @@
   "asOfDate": "2026-09-09",
   "evidence": [
     {
+      "id": "evidence-pubmed-42711582",
+      "signalId": "pubmed-42711582",
+      "companyIds": [],
+      "publishedAt": "2026-09-09",
+      "snapshotDate": "2026-09-09",
+      "title": "Systemic metastases in a BRAF V600E-mutant pleomorphic xanthoastrocytoma classified by DNA methylation: treatment with BRAF/MEK inhibitors and liquid biopsy monitoring.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42711582/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology，PMID 为 42711582。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-sec-0001434265-000143426526000120",
+      "signalId": "sec-0001434265-000143426526000120",
+      "companyIds": [
+        "genmab"
+      ],
+      "publishedAt": "2026-09-09",
+      "snapshotDate": "2026-09-09",
+      "title": "Genmab filed Form 6-K",
+      "eventType": "Corporate Update",
+      "evidenceKind": "Corporate Filing",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000120/gmab_20260908x6k2.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Corporate Filings",
+        "Antibody / ADC"
+      ],
+      "tags": [
+        "SEC",
+        "6-K",
+        "GMAB"
+      ],
+      "fact": "SEC EDGAR lists accession 0001434265-26-000120 for Genmab, Form 6-K, filed on 2026-09-09.",
+      "report": "SEC metadata describes the primary document as: 6-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
       "id": "evidence-pubmed-42711263",
       "signalId": "pubmed-42711263",
       "companyIds": [],
@@ -118,36 +177,6 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Journal of the American Society of Nephrology : JASN，PMID 为 42709582。",
       "report": "The FDA Modernization Act and the subsequent federal policy changes in 2025 have signaled a shift towards the use of non-animal, human-centered models for preclinical drug development and toxicity screening, emphasizing 3D cell-based, organ-on-chip, and organo...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42709471",
-      "signalId": "pubmed-42709471",
-      "companyIds": [],
-      "publishedAt": "2026-09-08",
-      "snapshotDate": "2026-09-09",
-      "title": "Cellular modifiers of TDP-43 phase transition and cytoplasmic aggregation.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42709471/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 eLife，PMID 为 42709471。",
-      "report": "RNA-binding protein TAR DNA-binding protein 43 (TDP-43) can form liquid-like nuclear assemblies whose phase behavior is thought to influence its aggregation propensity and neurotoxic activity. The mechanisms that govern the liquid-to-solid phase transition of...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -308,36 +337,6 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Cell biochemistry and biophysics，PMID 为 42709393。",
       "report": "CD38 is a type II transmembrane glycoprotein and serves as the primary ectoenzyme responsible for regulating cellular nicotinamide adenine dinucleotide (NAD+) levels in mammalian tissues. Initially identified as a lymphocyte activation marker, recent research...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42709183",
-      "signalId": "pubmed-42709183",
-      "companyIds": [],
-      "publishedAt": "2026-09-08",
-      "snapshotDate": "2026-09-09",
-      "title": "Nitrogen-doped carbon nanodots-based \"off-on\" fluorescent sensor for the detection of breast cancer-derived exosomes and early diagnosis.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42709183/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Analytical and bioanalytical chemistry，PMID 为 42709183。",
-      "report": "Breast cancer is a leading cause of cancer death in women, requiring non-invasive early diagnostic tools. Exosomes are promising liquid biopsy biomarkers that reflect tumor-derived molecular information. Here, we developed an \"off-on\" fluorescent sensor using...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -972,6 +971,36 @@
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "evidence-pubmed-42711723",
+      "signalId": "pubmed-42711723",
+      "companyIds": [],
+      "publishedAt": "2026-08-13",
+      "snapshotDate": "2026-09-09",
+      "title": "Three-dimensional spheroid models in breast cancer: tumor microenvironment complexity, cancer stem cell-driven resistance, and translational model integration.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42711723/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42711723。",
+      "report": "The limited clinical success of anticancer therapies highlights the need for preclinical models that more accurately recapitulate tumor complexity, therapeutic response, and patient-specific heterogeneity. Conventional two-dimensional (2D) culture systems fail...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
       "id": "evidence-sec-0001110803-000095015726000888",

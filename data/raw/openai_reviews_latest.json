@@ -1,235 +1,30 @@
 {
-  "capturedAt": "2026-09-09T04:48:54.064663+00:00",
+  "capturedAt": "2026-09-09T11:30:34.373101+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42711263",
-      "responseId": "resp_0c0474e88dc932cd006aa0e536eecc87d0a950db279482b917",
-      "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录自信且客观，未违规涉及临床建议或未经证实的结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献主题"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "文献支持了声明，证据水平合理"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Molecular human reproduction，PMID 为 42711263。",
-          "report": "Proper trophoblast development is essential for placental function and is a key determinant of pregnancy outcomes. Three-dimensional spheroid and organoid cultures using cells from placental tissues or trophoblast stem cells have emerged as models that recapit...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42710618",
-      "responseId": "resp_0cf3c41f61366f75006aa0e53abb3487d0b7fdf7e21ff65895",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审核以确定支持的证据和分类的可靠性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类不明确，因为研究质量未得到评估。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平为中等，但缺乏对研究质量和样本量的评估，可能导致不可靠的结论。"
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Cellular and molecular gastroenterology and hepatology，PMID 为 42710618。",
-          "report": "The Wnt/β-catenin and YAP pathways cooperatively drive gastrointestinal tumor progression...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42710247",
-      "responseId": "resp_07f9a2bc4f4c869e006aa0e53eb1e087d09ca12ed22799c8b9",
+      "signalId": "pubmed-42711582",
+      "responseId": "resp_092e1809bdeb5c52006aa1435be3bc87d0bca68b41d90a6021",
       "review": {
         "status": "needs_human",
         "confidence": 0.7,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审核。报告中的健康风险信息未明确标注来源，可能含有未支持的结论。",
+        "reviewSummaryCn": "该记录缺乏重要细节，如研究质量及相关结论，需人工审核。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "分类结果缺乏足够支持，需进一步确认研究质量与背景。"
+          "notesCn": "证据水平低，不符合已标注的诊断和精准医学分类。"
         },
         "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
+          "factReportInferenceSeparated": false,
           "evidenceLevelReasonable": false,
-          "notesCn": "证据水平标记为中等，但报告中的健康风险信息支持力度不足。"
+          "notesCn": "缺乏对研究质量及其结论的清晰分离，需进一步验证。"
         },
         "riskFlags": [
-          "medical_advice_risk",
+          "insufficient_source",
           "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Neuroscience and biobehavioral reviews，PMID 为 42710247。",
-          "report": "Microplastics (MPs) and nanoplastics (NPs) pose serious environmental and health risks and have made plastic pollution a major concern worldwide. They have been detected in terrestrial and aquatic species, including humans, and have been linked to increased risk of health issues.",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42709582",
-      "responseId": "resp_098eaa83e328d88d006aa0e542800c87d0a36bf39e666df5ea",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号基于可靠的来源，在分类和证据水平上合理，未包含 unsupported 临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别与文献主题一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "文献来源和信息分类明确，且未超越文献的支持结论。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of the American Society of Nephrology : JASN，PMID 为 42709582。",
-          "report": "The FDA Modernization Act and the subsequent federal policy changes in 2025 have signaled a shift towards the use of non-animal, human-centered models for preclinical drug development and toxicity screening, emphasizing 3D cell-based, organ-on-chip, and organo...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42709471",
-      "responseId": "resp_0e23680a9e921635006aa0e546ada087d09ad45b6af9d2b835",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献审查符合标准，信息准确，无临床建议或未支持的结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主分类和子分类合理，符合信号内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平和事实、报告、推理区分明确。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 eLife，PMID 为 42709471。",
-          "report": "RNA-binding protein TAR DNA-binding protein 43 (TDP-43) can form liquid-like nuclear assemblies whose phase behavior is thought to influence its aggregation propensity and neurotoxic activity. The mechanisms that govern the liquid-to-solid phase transition of...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42710648",
-      "responseId": "resp_0312bcdaa6faf244006aa0e54d703c87d0acc8412fc28c4912",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献涉及PD-1/PD-L1抑制剂在肝细胞癌治疗中的应用，但未能支持其临床结论或效果的推广。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类依赖于源信息，需评估文献具体内容以确认。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "文献的证据水平不支持推广的临床结论。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
         ],
         "suggestedEdits": {
           "primaryCategory": "Diagnostics & Precision Medicine",
@@ -237,256 +32,75 @@
           "evidenceLevel": "Low",
           "themes": [
             "Diagnostics",
-            "Precision Medicine",
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Precision Oncology"
+            "Precision Medicine"
           ],
           "tags": [
             "诊断",
-            "精准医疗",
-            "临床",
-            "监管",
-            "肿瘤"
+            "精准医疗"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Critical reviews in oncology/hematology，PMID 为 42710648。",
-          "report": "Immune checkpoint inhibitors (ICIs) targeting the PD-1/PD-L1 axis have transformed hepatocellular carcinoma (HCC) treatment, with frontline combination regimens now reaching 25-35% objective response rates. This has fueled interest in using ICIs as a bridge be...",
-          "inference": "该文献的分类适用于情报分析，但不能作为治疗建议的基础。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42710536",
-      "responseId": "resp_08bf2a4d7116c233006aa0e550c80487d0b1a4a2d980120156",
-      "review": {
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号在元数据上清晰分离了事实、报告、推断与未知信息，适合发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of the American Veterinary Medical Association，PMID 为 42710536。",
-          "report": "Electrochemotherapy (ECT) is a well-established local cancer treatment that combines the administration of chemotherapeutic drugs with the application of short electric pulses to enhance intracellular drug uptake. Over the past 3 decades, ECT has become an acc...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42710275",
-      "responseId": "resp_0e98039a004708ab006aa0e553f81c87d099bae60056c587b3",
-      "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该卡片的分类和证据水平合理，事实、报告、推论和未知信息分离明确，没有不当治疗建议或未支持的临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平符合实际来源，信息分隔明确。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Precision Oncology",
-            "Drug Screening",
-            "Multi-omics"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "临床",
-            "监管",
-            "肿瘤",
-            "药筛",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 ESMO open，PMID 为 42710275。",
-          "report": "The Breast Cancer Susceptibility Gene (BRCA)-associated tumors represent a constantly evolving and intriguing scenario in oncology, in which the availability of novel systemic treatment, mainly including the poly (ADP-ribose) polymerase (PARP) inhibitors, has...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42709984",
-      "responseId": "resp_0af3c881cc227a61006aa0e557fecc87d081343160104c0b3b",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号记录了文献的基本信息，未涉及具体的临床结论或建议。所有信息均来源于可靠的出版物。无须人工审核。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论分离清晰，证据水平符合现有数据。"
-        },
-        "riskFlags": [],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Biotech",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "biotech",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 ACS applied bio materials，PMID 为 42709984。",
-          "report": "Extracellular vesicles (EVs) are increasingly recognized as valuable diagnostic biomarkers due to their disease-specific cargo and key role in intercellular communication and tissue homeostasis. However, their isolation and purification from complex biofluids...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42709393",
-      "responseId": "resp_03f6e0d3d5767127006aa0e55b278087d0b68c1227f61eff0d",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献的分类和证据水平合理，信息分离清晰，无临床建议或不支持的结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合主题"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "材料支持的事实、报告与推论分开，且证据水平合理"
-        },
-        "riskFlags": [
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Cell biochemistry and biophysics，PMID 为 42709393。",
-          "report": "CD38 is a type II transmembrane glycoprotein and serves as the primary ectoenzyme responsible for regulating cellular nicotinamide adenine dinucleotide (NAD+) levels in mammalian tissues. Initially identified as a lymphocyte activation marker, recent research...",
+          "fact": "PubMed 记录显示该文献收录于 Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology，PMID 为 42711582。",
+          "report": "PubMed 记录未提供摘要。",
           "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42709183",
-      "responseId": "resp_0c0b1138c6180b4f006aa0e55e102487d096280d8f3ec9cfbd",
+      "signalId": "sec-0001434265-000143426526000120",
+      "responseId": "resp_00d5044c21bfe8d3006aa1435fd7dc87d098468ae0a6d5d441",
       "review": {
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "存在断言的临床结论，需要人工判断和修正。",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "已通过审核，信息满足发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Antibody / ADC"
+          ],
+          "tags": [
+            "SEC",
+            "6-K",
+            "GMAB"
+          ],
+          "fact": "SEC EDGAR lists accession 0001434265-26-000120 for Genmab, Form 6-K, filed on 2026-09-09.",
+          "report": "SEC metadata describes the primary document as: 6-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42711723",
+      "responseId": "resp_02dbf1ff28c7f220006aa14363117887d0945c1e8809dd2308",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录中信息已正确分离，满足发布要求。",
         "classificationAssessment": {
           "isSupported": true,
           "notesCn": "分类合理，符合文献主题。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "缺少关于研究质量和临床应用的具体证据，导致证据级别不合理。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed记录显示该文献收录于Analytical and bioanalytical chemistry，PMID为42709183。",
-          "report": "Breast cancer is a leading cause of cancer death in women, requiring non-invasive early diagnostic tools. Exosomes are promising liquid biopsy biomarkers that reflect tumor-derived molecular information. Here, we developed an \"off-on\" fluorescent sensor using...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42710856",
-      "responseId": "resp_0e8b7e96f6aaf541006aa0e561bf7c87d08831c92281a08250",
-      "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录内部一致，较好地分离了事实、报告和推论，适合发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类与源数据一致，合理。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "证据水平适中，符合源数据。"
+          "notesCn": "证据水平合理，信息分隔清晰。"
         },
-        "riskFlags": [
-          "weak_classification"
-        ],
+        "riskFlags": [],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
           "subCategory": "Organoids & Advanced Disease Models",
@@ -494,15 +108,15 @@
           "themes": [
             "Organoids",
             "Advanced Disease Models",
-            "Multi-omics"
+            "Precision Oncology"
           ],
           "tags": [
             "类器官",
             "疾病模型",
-            "多组学"
+            "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Stem cells translational medicine，PMID 为 42710856。",
-          "report": "Early cortical differentiation in human brain organoids is a critical step of corticogenesis, but remains poorly coordinated under conventional culture conditions. In a standard orbital shaker system, mechanical shear and variability in extracellular matrix su...",
+          "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42711723。",
+          "report": "The limited clinical success of anticancer therapies highlights the need for preclinical models that more accurately recapitulate tumor complexity, therapeutic response, and patient-specific heterogeneity. Conventional two-dimensional (2D) culture systems fail...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
