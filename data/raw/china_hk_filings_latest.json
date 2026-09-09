@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "capturedAt": "2026-09-08T08:13:42.358507+00:00",
+  "capturedAt": "2026-09-09T08:11:46.422537+00:00",
   "source": "HKEXnews/CNINFO",
   "records": [
     {
@@ -725,10 +725,31 @@
       "status": "portal_only"
     },
     {
+      "companyId": "candidate-abf14cfdd734",
+      "companyName": "三生国健",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688336",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-ffc870755755",
+      "companyName": "上海谊众",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688091",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
       "companyId": "candidate-23395bd4136e",
       "companyName": "亚辉龙",
       "source": "CNINFO",
       "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688575",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-445f23b51274",
+      "companyName": "佰仁医疗",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688198",
       "status": "portal_reachable_no_report_links"
     },
     {
@@ -760,10 +781,24 @@
       "status": "portal_reachable_no_report_links"
     },
     {
+      "companyId": "candidate-2237daacb53b",
+      "companyName": "博瑞医药",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688166",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
       "companyId": "candidate-04217823c4ab",
       "companyName": "君实生物",
       "source": "CNINFO",
       "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688180",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-56e3097c1baa",
+      "companyName": "圣湘生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688289",
       "status": "portal_reachable_no_report_links"
     },
     {
@@ -795,6 +830,20 @@
       "status": "portal_reachable_no_report_links"
     },
     {
+      "companyId": "candidate-819bfbc1d0f2",
+      "companyName": "微电生理",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688351",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-5ea2006c4a5f",
+      "companyName": "微芯生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688321",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
       "companyId": "candidate-9a455318ea07",
       "companyName": "心脉医疗",
       "source": "CNINFO",
@@ -809,10 +858,31 @@
       "status": "portal_reachable_no_report_links"
     },
     {
+      "companyId": "candidate-ddcce1f0d702",
+      "companyName": "悦康药业",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688658",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-46bf883ce905",
+      "companyName": "惠泰医疗",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688617",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
       "companyId": "candidate-3c92f1178f55",
       "companyName": "成大生物",
       "source": "CNINFO",
       "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688739",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-98af7e3aff90",
+      "companyName": "成都先导",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688222",
       "status": "portal_reachable_no_report_links"
     },
     {
@@ -830,6 +900,13 @@
       "status": "portal_reachable_no_report_links"
     },
     {
+      "companyId": "candidate-817afffebd32",
+      "companyName": "汇宇制药",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688553",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
       "companyId": "candidate-5a89d199d059",
       "companyName": "泽璟制药",
       "source": "CNINFO",
@@ -841,6 +918,34 @@
       "companyName": "浩欧博",
       "source": "CNINFO",
       "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688656",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-cd80b661fe40",
+      "companyName": "海尔生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688139",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-38dcb219a359",
+      "companyName": "热景生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688068",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-5dd44c475880",
+      "companyName": "爱博医疗",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688050",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-2ecb4514d497",
+      "companyName": "特宝生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688278",
       "status": "portal_reachable_no_report_links"
     },
     {
@@ -872,6 +977,20 @@
       "status": "portal_reachable_no_report_links"
     },
     {
+      "companyId": "candidate-1338e6c1b759",
+      "companyName": "益方生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688382",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-fec21b7f896b",
+      "companyName": "神州细胞",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688520",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
       "companyId": "candidate-ef758b23173e",
       "companyName": "禾元生物",
       "source": "CNINFO",
@@ -893,6 +1012,13 @@
       "status": "portal_reachable_no_report_links"
     },
     {
+      "companyId": "candidate-9fc8ecbf25c5",
+      "companyName": "联影医疗",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688271",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
       "companyId": "candidate-512e83582c00",
       "companyName": "艾力斯",
       "source": "CNINFO",
@@ -900,10 +1026,24 @@
       "status": "portal_reachable_no_report_links"
     },
     {
+      "companyId": "candidate-868d4e3c4dbe",
+      "companyName": "苑东生物",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688513",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
       "companyId": "candidate-51ebce2d9596",
       "companyName": "荣昌生物",
       "source": "CNINFO",
       "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688331",
+      "status": "portal_reachable_no_report_links"
+    },
+    {
+      "companyId": "candidate-e0840e21be78",
+      "companyName": "诺唯赞",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688105",
       "status": "portal_reachable_no_report_links"
     },
     {
@@ -928,166 +1068,5 @@
       "status": "portal_reachable_no_report_links"
     }
   ],
-  "failures": [
-    {
-      "companyId": "candidate-abf14cfdd734",
-      "companyName": "三生国健",
-      "source": "CNINFO",
-      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688336",
-      "status": "failed",
-      "error": "TimeoutError"
-    },
-    {
-      "companyId": "candidate-ffc870755755",
-      "companyName": "上海谊众",
-      "source": "CNINFO",
-      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688091",
-      "status": "failed",
-      "error": "TimeoutError"
-    },
-    {
-      "companyId": "candidate-445f23b51274",
-      "companyName": "佰仁医疗",
-      "source": "CNINFO",
-      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688198",
-      "status": "failed",
-      "error": "TimeoutError"
-    },
-    {
-      "companyId": "candidate-2237daacb53b",
-      "companyName": "博瑞医药",
-      "source": "CNINFO",
-      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688166",
-      "status": "failed",
-      "error": "TimeoutError"
-    },
-    {
-      "companyId": "candidate-56e3097c1baa",
-      "companyName": "圣湘生物",
-      "source": "CNINFO",
-      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688289",
-      "status": "failed",
-      "error": "TimeoutError"
-    },
-    {
-      "companyId": "candidate-819bfbc1d0f2",
-      "companyName": "微电生理",
-      "source": "CNINFO",
-      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688351",
-      "status": "failed",
-      "error": "TimeoutError"
-    },
-    {
-      "companyId": "candidate-5ea2006c4a5f",
-      "companyName": "微芯生物",
-      "source": "CNINFO",
-      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688321",
-      "status": "failed",
-      "error": "TimeoutError"
-    },
-    {
-      "companyId": "candidate-ddcce1f0d702",
-      "companyName": "悦康药业",
-      "source": "CNINFO",
-      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688658",
-      "status": "failed",
-      "error": "TimeoutError"
-    },
-    {
-      "companyId": "candidate-46bf883ce905",
-      "companyName": "惠泰医疗",
-      "source": "CNINFO",
-      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688617",
-      "status": "failed",
-      "error": "TimeoutError"
-    },
-    {
-      "companyId": "candidate-98af7e3aff90",
-      "companyName": "成都先导",
-      "source": "CNINFO",
-      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688222",
-      "status": "failed",
-      "error": "TimeoutError"
-    },
-    {
-      "companyId": "candidate-817afffebd32",
-      "companyName": "汇宇制药",
-      "source": "CNINFO",
-      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688553",
-      "status": "failed",
-      "error": "TimeoutError"
-    },
-    {
-      "companyId": "candidate-cd80b661fe40",
-      "companyName": "海尔生物",
-      "source": "CNINFO",
-      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688139",
-      "status": "failed",
-      "error": "TimeoutError"
-    },
-    {
-      "companyId": "candidate-38dcb219a359",
-      "companyName": "热景生物",
-      "source": "CNINFO",
-      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688068",
-      "status": "failed",
-      "error": "TimeoutError"
-    },
-    {
-      "companyId": "candidate-5dd44c475880",
-      "companyName": "爱博医疗",
-      "source": "CNINFO",
-      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688050",
-      "status": "failed",
-      "error": "TimeoutError"
-    },
-    {
-      "companyId": "candidate-2ecb4514d497",
-      "companyName": "特宝生物",
-      "source": "CNINFO",
-      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688278",
-      "status": "failed",
-      "error": "TimeoutError"
-    },
-    {
-      "companyId": "candidate-1338e6c1b759",
-      "companyName": "益方生物",
-      "source": "CNINFO",
-      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688382",
-      "status": "failed",
-      "error": "TimeoutError"
-    },
-    {
-      "companyId": "candidate-fec21b7f896b",
-      "companyName": "神州细胞",
-      "source": "CNINFO",
-      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688520",
-      "status": "failed",
-      "error": "TimeoutError"
-    },
-    {
-      "companyId": "candidate-9fc8ecbf25c5",
-      "companyName": "联影医疗",
-      "source": "CNINFO",
-      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688271",
-      "status": "failed",
-      "error": "TimeoutError"
-    },
-    {
-      "companyId": "candidate-868d4e3c4dbe",
-      "companyName": "苑东生物",
-      "source": "CNINFO",
-      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688513",
-      "status": "failed",
-      "error": "TimeoutError"
-    },
-    {
-      "companyId": "candidate-e0840e21be78",
-      "companyName": "诺唯赞",
-      "source": "CNINFO",
-      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688105",
-      "status": "failed",
-      "error": "TimeoutError"
-    }
-  ]
+  "failures": []
 }
