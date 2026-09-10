@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-09-10T11:27:02.838210+00:00",
+  "capturedAt": "2026-09-10T16:29:09.131624+00:00",
   "summary": {
     "mentionCount": 668,
     "candidateCount": 601,
@@ -20,15 +20,42 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-191fe1f0bc634ff5",
-      "observedName": "Shanghai Cell Therapy Group Co.,Ltd",
-      "normalizedName": "shanghai cell therapy group",
+      "id": "mention-clinicaltrials-284af91d62f62718",
+      "observedName": "K2 Oncology, Inc.",
+      "normalizedName": "k2 oncology",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT04489862",
-      "sourceDate": "2020-07-28",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04489862",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT03453307",
+      "sourceDate": "2018-03-05",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03453307",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Advanced Disease Models",
+        "Clinical Trials",
+        "Oncology",
+        "Organoids",
+        "Precision Oncology",
+        "中国",
+        "临床试验",
+        "疾病模型",
+        "类器官",
+        "肿瘤"
+      ],
+      "activitySignals": [],
+      "contextTitle": "Drug Sensitivity Correlation Between Patient-Derived Organoid Model and Clinical Response in NSCLC Patients"
+    },
+    {
+      "id": "mention-clinicaltrials-61380cd670fd3599",
+      "observedName": "Binhui Biopharmaceutical Co., Ltd.",
+      "normalizedName": "binhui biopharmaceutical",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT05232136",
+      "sourceDate": "2024-08-12",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05232136",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -43,18 +70,49 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "αPD1-MSLN-CAR T Cells for the Treatment of MSLN-positive Advanced Solid Tumors"
+      "contextTitle": "OH2 Oncolytic Viral Therapy in Non-Muscle-Invasive Bladder Cancer"
     },
     {
-      "id": "mention-clinicaltrials-8ffe2d40d40ab649",
-      "observedName": "Dong-A Pharmaceutical",
-      "normalizedName": "dong a pharmaceutical",
+      "id": "mention-clinicaltrials-72bd4de20c562d7f",
+      "observedName": "Accurate International Biotechnology (Guangzhou) Co., Ltd.",
+      "normalizedName": "accurate international biotechnology guangzhou",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT04871321",
-      "sourceDate": "2025-08-26",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04871321",
+      "sourceRecordId": "NCT07054086",
+      "sourceDate": "2025-07-08",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07054086",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Advanced Disease Models",
+        "Clinical Trials",
+        "Oncology",
+        "Organoids",
+        "Precision Oncology",
+        "Recruiting",
+        "中国",
+        "临床试验",
+        "疾病模型",
+        "类器官",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Patient Derived Organoids (PDOs) to Observe the Clinical Consistency of Personalized Neoadjuvant Therapy for Resectable Esophageal Squamous Cell Carcinoma"
+    },
+    {
+      "id": "mention-clinicaltrials-957615c61203d8b0",
+      "observedName": "Astellas Pharma Global Development, Inc.",
+      "normalizedName": "astellas pharma global development",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT06171178",
+      "sourceDate": "2026-08-27",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06171178",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -69,27 +127,27 @@
         "衰老"
       ],
       "activitySignals": [
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Biomarker Discovery in Patients With Advanced Biliary Tract Cancer"
+      "contextTitle": "A Study of ASP1012 in Adults With Solid Tumors"
     },
     {
-      "id": "mention-clinicaltrials-a02ee34aa90beb9e",
-      "observedName": "Ascentage Pharma Group Inc.",
-      "normalizedName": "ascentage pharma group",
+      "id": "mention-clinicaltrials-994af98ca4b8554f",
+      "observedName": "Shandong New Time Pharmaceutical Co., LTD",
+      "normalizedName": "shandong new time pharmaceutical",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT04284488",
-      "sourceDate": "2026-01-08",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04284488",
+      "sourceRecordId": "NCT05178836",
+      "sourceDate": "2022-01-05",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05178836",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
         "Oncology",
         "Precision Oncology",
-        "中国",
         "临床试验",
         "肿瘤"
       ],
@@ -97,58 +155,7 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Dose-escalation Study of APG-1387 and Toripalimab in Solid Tumors"
-    },
-    {
-      "id": "mention-clinicaltrials-be653fd9fb842035",
-      "observedName": "Jazz Pharmaceuticals",
-      "normalizedName": "jazz pharmaceuticals",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT01241344",
-      "sourceDate": "2021-07-21",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01241344",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Cell Therapy",
-        "Clinical Trials",
-        "Oncology",
-        "临床试验",
-        "细胞治疗",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Phase 2 Study to Evaluate Brincidofovir for the Prevention of Adenovirus Disease"
-    },
-    {
-      "id": "mention-clinicaltrials-bec522df042bf375",
-      "observedName": "AgeLess Sciences Inc.",
-      "normalizedName": "ageless sciences",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT05262036",
-      "sourceDate": "2023-10-23",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05262036",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Longevity",
-        "biomarker",
-        "临床试验",
-        "衰老"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "The Effects of a Longevity Supplement on Aging and Photoaging"
+      "contextTitle": "A Phase II Study to Evaluate the Efficacy and Safety of F520 Combined With F007 in Patients With RR DLBCL"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -44304,35 +44311,41 @@
       ]
     },
     {
-      "id": "candidate-ascentage-pharma-group",
-      "name": "Ascentage Pharma Group Inc.",
+      "id": "candidate-astellas-pharma-global-development",
+      "name": "Astellas Pharma Global Development, Inc.",
       "aliases": [
-        "Ascentage Pharma Group Inc."
+        "Astellas Pharma Global Development, Inc."
       ],
-      "normalizedName": "ascentage pharma group",
+      "normalizedName": "astellas pharma global development",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-01-08",
-      "lastSeenAt": "2026-01-08",
+      "firstSeenAt": "2026-08-27",
+      "lastSeenAt": "2026-08-27",
       "identifiers": {},
       "classificationHints": {
         "directions": [
+          "Biomarkers",
           "Clinical Trials",
+          "Longevity",
           "Oncology",
           "Precision Oncology",
-          "中国",
+          "biomarker",
           "临床试验",
-          "肿瘤"
+          "肿瘤",
+          "衰老"
         ],
         "themes": [
+          "Biomarkers",
           "Clinical Trials",
+          "Longevity",
           "Oncology",
           "Precision Oncology",
-          "中国",
+          "biomarker",
           "临床试验",
-          "肿瘤"
+          "肿瘤",
+          "衰老"
         ],
         "tags": []
       },
@@ -44345,49 +44358,49 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-a02ee34aa90beb9e"
+        "mention-clinicaltrials-957615c61203d8b0"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2026-01-08",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT04284488",
-          "externalId": "NCT04284488",
-          "contextTitle": "Dose-escalation Study of APG-1387 and Toripalimab in Solid Tumors"
+          "sourceDate": "2026-08-27",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06171178",
+          "externalId": "NCT06171178",
+          "contextTitle": "A Study of ASP1012 in Adults With Solid Tumors"
         }
       ]
     },
     {
-      "id": "candidate-jazz-pharmaceuticals",
-      "name": "Jazz Pharmaceuticals",
+      "id": "candidate-binhui-biopharmaceutical",
+      "name": "Binhui Biopharmaceutical Co., Ltd.",
       "aliases": [
-        "Jazz Pharmaceuticals"
+        "Binhui Biopharmaceutical Co., Ltd."
       ],
-      "normalizedName": "jazz pharmaceuticals",
+      "normalizedName": "binhui biopharmaceutical",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2021-07-21",
-      "lastSeenAt": "2021-07-21",
+      "firstSeenAt": "2024-08-12",
+      "lastSeenAt": "2024-08-12",
       "identifiers": {},
       "classificationHints": {
         "directions": [
-          "Cell Therapy",
           "Clinical Trials",
           "Oncology",
+          "Precision Oncology",
+          "中国",
           "临床试验",
-          "细胞治疗",
           "肿瘤"
         ],
         "themes": [
-          "Cell Therapy",
           "Clinical Trials",
           "Oncology",
+          "Precision Oncology",
+          "中国",
           "临床试验",
-          "细胞治疗",
           "肿瘤"
         ],
         "tags": []
@@ -44401,17 +44414,71 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-be653fd9fb842035"
+        "mention-clinicaltrials-61380cd670fd3599"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2021-07-21",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT01241344",
-          "externalId": "NCT01241344",
-          "contextTitle": "Phase 2 Study to Evaluate Brincidofovir for the Prevention of Adenovirus Disease"
+          "sourceDate": "2024-08-12",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT05232136",
+          "externalId": "NCT05232136",
+          "contextTitle": "OH2 Oncolytic Viral Therapy in Non-Muscle-Invasive Bladder Cancer"
+        }
+      ]
+    },
+    {
+      "id": "candidate-shandong-new-time-pharmaceutical",
+      "name": "Shandong New Time Pharmaceutical Co., LTD",
+      "aliases": [
+        "Shandong New Time Pharmaceutical Co., LTD"
+      ],
+      "normalizedName": "shandong new time pharmaceutical",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.86,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2022-01-05",
+      "lastSeenAt": "2022-01-05",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-994af98ca4b8554f"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "lead_sponsor",
+          "sourceDate": "2022-01-05",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT05178836",
+          "externalId": "NCT05178836",
+          "contextTitle": "A Phase II Study to Evaluate the Efficacy and Safety of F520 Combined With F007 in Patients With RR DLBCL"
         }
       ]
     },
@@ -47731,152 +47798,42 @@
       ]
     },
     {
-      "id": "candidate-ageless-sciences",
-      "name": "AgeLess Sciences Inc.",
+      "id": "candidate-k2-oncology",
+      "name": "K2 Oncology, Inc.",
       "aliases": [
-        "AgeLess Sciences Inc."
+        "K2 Oncology, Inc."
       ],
-      "normalizedName": "ageless sciences",
+      "normalizedName": "k2 oncology",
       "status": "needs_review",
       "candidateType": "Biotech Company",
-      "discoveryScore": 0.66,
+      "discoveryScore": 0.78,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2023-10-23",
-      "lastSeenAt": "2023-10-23",
+      "firstSeenAt": "2018-03-05",
+      "lastSeenAt": "2018-03-05",
       "identifiers": {},
       "classificationHints": {
         "directions": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Longevity",
-          "biomarker",
-          "临床试验",
-          "衰老"
-        ],
-        "themes": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Longevity",
-          "biomarker",
-          "临床试验",
-          "衰老"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-bec522df042bf375"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "collaborator",
-          "sourceDate": "2023-10-23",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT05262036",
-          "externalId": "NCT05262036",
-          "contextTitle": "The Effects of a Longevity Supplement on Aging and Photoaging"
-        }
-      ]
-    },
-    {
-      "id": "candidate-dong-a-pharmaceutical",
-      "name": "Dong-A Pharmaceutical",
-      "aliases": [
-        "Dong-A Pharmaceutical"
-      ],
-      "normalizedName": "dong a pharmaceutical",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.66,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2025-08-26",
-      "lastSeenAt": "2025-08-26",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Longevity",
-          "Oncology",
-          "Precision Oncology",
-          "biomarker",
-          "临床试验",
-          "肿瘤",
-          "衰老"
-        ],
-        "themes": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Longevity",
-          "Oncology",
-          "Precision Oncology",
-          "biomarker",
-          "临床试验",
-          "肿瘤",
-          "衰老"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-8ffe2d40d40ab649"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "collaborator",
-          "sourceDate": "2025-08-26",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT04871321",
-          "externalId": "NCT04871321",
-          "contextTitle": "Biomarker Discovery in Patients With Advanced Biliary Tract Cancer"
-        }
-      ]
-    },
-    {
-      "id": "candidate-shanghai-cell-therapy-group",
-      "name": "Shanghai Cell Therapy Group Co.,Ltd",
-      "aliases": [
-        "Shanghai Cell Therapy Group Co.,Ltd"
-      ],
-      "normalizedName": "shanghai cell therapy group",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.66,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2020-07-28",
-      "lastSeenAt": "2020-07-28",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
+          "Advanced Disease Models",
           "Clinical Trials",
           "Oncology",
+          "Organoids",
           "Precision Oncology",
           "中国",
           "临床试验",
+          "疾病模型",
+          "类器官",
           "肿瘤"
         ],
         "themes": [
+          "Advanced Disease Models",
           "Clinical Trials",
           "Oncology",
+          "Organoids",
           "Precision Oncology",
           "中国",
           "临床试验",
+          "疾病模型",
+          "类器官",
           "肿瘤"
         ],
         "tags": []
@@ -47890,17 +47847,83 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-191fe1f0bc634ff5"
+        "mention-clinicaltrials-284af91d62f62718"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "lead_sponsor",
+          "sourceDate": "2018-03-05",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT03453307",
+          "externalId": "NCT03453307",
+          "contextTitle": "Drug Sensitivity Correlation Between Patient-Derived Organoid Model and Clinical Response in NSCLC Patients"
+        }
+      ]
+    },
+    {
+      "id": "candidate-accurate-international-biotechnology-guangzhou",
+      "name": "Accurate International Biotechnology (Guangzhou) Co., Ltd.",
+      "aliases": [
+        "Accurate International Biotechnology (Guangzhou) Co., Ltd."
+      ],
+      "normalizedName": "accurate international biotechnology guangzhou",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2025-07-08",
+      "lastSeenAt": "2025-07-08",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Advanced Disease Models",
+          "Clinical Trials",
+          "Oncology",
+          "Organoids",
+          "Precision Oncology",
+          "Recruiting",
+          "中国",
+          "临床试验",
+          "疾病模型",
+          "类器官",
+          "肿瘤"
+        ],
+        "themes": [
+          "Advanced Disease Models",
+          "Clinical Trials",
+          "Oncology",
+          "Organoids",
+          "Precision Oncology",
+          "Recruiting",
+          "中国",
+          "临床试验",
+          "疾病模型",
+          "类器官",
+          "肿瘤"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-72bd4de20c562d7f"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2020-07-28",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT04489862",
-          "externalId": "NCT04489862",
-          "contextTitle": "αPD1-MSLN-CAR T Cells for the Treatment of MSLN-positive Advanced Solid Tumors"
+          "sourceDate": "2025-07-08",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07054086",
+          "externalId": "NCT07054086",
+          "contextTitle": "Patient Derived Organoids (PDOs) to Observe the Clinical Consistency of Personalized Neoadjuvant Therapy for Resectable Esophageal Squamous Cell Carcinoma"
         }
       ]
     }
