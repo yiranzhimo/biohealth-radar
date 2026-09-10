@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-10T04:49:58.178119+00:00",
+  "capturedAt": "2026-09-10T11:26:58.779216+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,32 +14,120 @@
     "end": "2026-09-10"
   },
   "pmids": [
+    "42717251",
+    "42717098",
+    "42716955",
     "42715669",
     "42715556",
     "42715132",
-    "42714795",
-    "42714339",
-    "42714221",
     "42715312",
     "42699656",
     "42696754",
     "42693007",
     "42667121",
-    "42656114",
+    "42716964",
     "42716354",
     "42701174",
     "42701117",
     "42700916",
     "42697290",
-    "42693314",
     "42716838",
     "42716240",
     "42715652",
     "42715227",
     "42713910",
-    "42711582"
+    "42711582",
+    "42716737"
   ],
   "records": [
+    {
+      "pmid": "42717251",
+      "title": "A single-nucleus transcriptomic atlas of human inner ear development.",
+      "abstract": "Hearing and balance rely on coordinated activity of multiple inner ear cell types, yet the mechanisms governing their development and specification in humans remain unclear. Consequently, this limits our understanding of how disease genes affect cell type formation and function, limiting the development of targeted treatments, including gene therapies. Here we present the Human Inner Ear Development snRNA-seq Atlas (HIEDRA), a single-nucleus transcriptomic atlas of the human inner ear spanning the first and second trimesters. HIEDRA maps sensory and nonsensory epithelia, neurons and mesenchyme-associated populations, including undercharacterized secretory cells required for ion homeostasis. We identify selective vulnerability in sensory and secretory lineages to disease-associated genes, infer regulatory networks and show that Hedgehog signaling suppression is required for secretory cell specification. We validate this mechanism in human inner ear organoids, expanding the model to include all major cell types. Altogether, these findings provide insights into human inner ear cell type specification, improve in vitro models and establish HIEDRA as a resource for investigating human inner ear development.",
+      "journal": "Nature neuroscience",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "OtoBiology Leiden, Department of Otorhinolaryngology and Head and Neck Surgery, Leiden University Medical Center, Leiden, the Netherlands. w.h.van_der_valk@lumc.nl.",
+        "The Novo Nordisk Foundation Center for Stem Cell Medicine (reNEW), Leiden University Medical Center, Leiden, the Netherlands. w.h.van_der_valk@lumc.nl.",
+        "OtoBiology Leiden, Department of Otorhinolaryngology and Head and Neck Surgery, Leiden University Medical Center, Leiden, the Netherlands.",
+        "The Novo Nordisk Foundation Center for Stem Cell Medicine (reNEW), Leiden University Medical Center, Leiden, the Netherlands.",
+        "Unicle Biomedical Data Science, Leuven, Belgium.",
+        "Leiden Genome Technology Center, Department of Human Genetics, Leiden University Medical Center, Leiden, the Netherlands.",
+        "Department of Otolaryngology, Department of Dermatology, Department of Plastic and Oral Surgery, F.M. Kirby Neurobiology Center, Boston Children's Hospital, Boston, MA, USA.",
+        "Department of Otolaryngology-Head and Neck Surgery, Department of Dermatology, Harvard Medical School, Boston, MA, USA."
+      ],
+      "doi": "10.1038/s41593-026-02432-8",
+      "date": "2026-09-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42717251/"
+    },
+    {
+      "pmid": "42717098",
+      "title": "An operational perturbation proteomics-based virtual cell model.",
+      "abstract": "Artificial intelligence-empowered virtual cell models represent an emerging approach for in silico drug discovery1-3, yet most existing approaches lack large-scale, time-resolved perturbation proteomics data and interpretable frameworks for predicting therapeutic responses. Here we generated more than 38 million temporal protein-abundance measurements from systematically perturbed breast cancer cell lines, and developed ProteinTalks, a virtual cell model. Central to ProteinTalks is the synergy of this large-scale dynamic proteomic resource and the model architecture, enabling a new pretraining framework that learns transferable dynamical latent representations from temporal proteome trajectories. By modelling how proteins respond conditionally to different perturbations, this approach enables the model to function as an operational tool for diverse drug discovery tasks: predicting drug efficacy and synergy, discovering new drug combinations, probing proteins associated with drug resistance, stratifying patient responses and prioritizing drug candidates for patient organoids. It also shows robust transferability, extending beyond cell lines to patient-derived organoids and clinical biopsies, generally achieving higher performance than the selected benchmark implementations under the evaluated protocols. Together, ProteinTalks shows how scalable pretraining of transferable dynamic representations enables operational, dynamics-aware, proteomics-based virtual cell models to advance in silico drug discovery.",
+      "journal": "Nature",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Affiliated Hangzhou First People's Hospital, State Key Laboratory of Medical Proteomics, School of Medicine, School of Future Biomedicine, Westlake University, Hangzhou, China.",
+        "Westlake Center for Intelligent Proteomics, Westlake Laboratory of Life Sciences and Biomedicine, Hangzhou, China.",
+        "Research Center for Industries of the Future, School of Life Sciences, Westlake University, Hangzhou, China.",
+        "DP Technology Co., Ltd, Beijing, China.",
+        "Department of Surgical Oncology, Harbin Medical University Cancer Hospital, Harbin, China.",
+        "NHC Key Laboratory of Cell Transplantation, The First Affiliated Hospital of Harbin Medical University, Harbin, China.",
+        "Center for Machine Learning Research, Peking University, Beijing, China.",
+        "Westlake Omics Co., Ltd, Hangzhou, China.",
+        "Department of Big Data and Biomedical AI, College of Future Technology, Peking University, Beijing, China.",
+        "Department of Breast Surgery, Harbin Medical University Cancer Hospital, Harbin, China.",
+        "Department of Pathology, Harbin Medical University Cancer Hospital, Harbin, China.",
+        "Department of Pathology, School of Basic Medical Sciences, Harbin Medical University, Harbin, China.",
+        "Department of Biomedical Engineering, College of Future Technology, Peking University, Beijing, China.",
+        "School of Mathematical Sciences, Peking University, Beijing, China.",
+        "Center for Machine Learning Research, Peking University, Beijing, China. pjzhou@pku.edu.cn.",
+        "AI for Science Institute, Beijing, China. pjzhou@pku.edu.cn.",
+        "Center for Quantitative Biology, Peking University, Beijing, China. pjzhou@pku.edu.cn.",
+        "National Engineering Laboratory for Big Data Analysis and Applications, Beijing, China. pjzhou@pku.edu.cn.",
+        "DP Technology Co., Ltd, Beijing, China. wenh@aisi.ac.cn.",
+        "AI for Science Institute, Beijing, China. wenh@aisi.ac.cn.",
+        "Beijing Advanced Center of RNA Biology (BEACON), Peking University, Beijing, China. wenh@aisi.ac.cn.",
+        "State Key Laboratory of Medical Proteomics, Beijing, China. wenh@aisi.ac.cn.",
+        "Affiliated Hangzhou First People's Hospital, State Key Laboratory of Medical Proteomics, School of Medicine, School of Future Biomedicine, Westlake University, Hangzhou, China. zhuyi@westlake.edu.cn.",
+        "Westlake Center for Intelligent Proteomics, Westlake Laboratory of Life Sciences and Biomedicine, Hangzhou, China. zhuyi@westlake.edu.cn.",
+        "Research Center for Industries of the Future, School of Life Sciences, Westlake University, Hangzhou, China. zhuyi@westlake.edu.cn.",
+        "Affiliated Hangzhou First People's Hospital, State Key Laboratory of Medical Proteomics, School of Medicine, School of Future Biomedicine, Westlake University, Hangzhou, China. guotiannan@westlake.edu.cn.",
+        "Westlake Center for Intelligent Proteomics, Westlake Laboratory of Life Sciences and Biomedicine, Hangzhou, China. guotiannan@westlake.edu.cn.",
+        "Research Center for Industries of the Future, School of Life Sciences, Westlake University, Hangzhou, China. guotiannan@westlake.edu.cn."
+      ],
+      "doi": "10.1038/s41586-026-11001-9",
+      "date": "2026-09-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42717098/"
+    },
+    {
+      "pmid": "42716955",
+      "title": "KRAS/ERK2-driven stabilization of AARS1 reprograms tumor metabolism and confers Sorafenib resistance in lung adenocarcinoma.",
+      "abstract": "KRAS is the most frequently mutated oncogene in human cancers, and its G12C variant is highly prevalent in lung adenocarcinoma (LUAD) and predicts poor clinical outcomes. However, the metabolic mechanisms underlying KRAS-driven malignancy and therapeutic resistance remain incompletely understood. Here, we identify alanyl-tRNA synthetase 1 (AARS1) as a previously unrecognized metabolic effector of KRAS signaling. AARS1 protein-but not its mRNA-is markedly upregulated in LUAD tissues, owing to impaired selective autophagic degradation mediated by the E3 ligase TRIM21. Mechanistically, KRAS G12C activates ERK2-dependent phosphorylation of AARS1 at Ser882, disrupting its interaction with TRIM21 and preventing autophagic turnover. Stabilized AARS1 drives metabolic reprogramming by catalyzing lysine lactylation of PDHA1 (K336) and ENO1 (K71), thereby suppressing OXPHOS, enhancing glycolysis, and promoting tumor progression. Importantly, KRAS G12C-induced AARS1 phosphorylation confers resistance to Sorafenib. Blocking AARS1 phosphorylation using the natural compound Hypericin restores autophagic degradation of AARS1, reverses metabolic reprogramming, and markedly sensitizes KRAS-mutant LUAD organoids and PDX models to Sorafenib. These findings uncover AARS1 as a lactate-sensing oncogenic effector downstream of KRAS G12C and highlight the therapeutic potential of targeting AARS1 phosphorylation to overcome drug resistance in LUAD.",
+      "journal": "Cell death and differentiation",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Institute of Thoracic Surgery, The First Affiliated Hospital of Soochow University, Suzhou, China. wenxuanhuu@163.com.",
+        "Department of Thoracic Surgery, The First Affiliated Hospital of Soochow University, Suzhou, China. wenxuanhuu@163.com.",
+        "Institute of Thoracic Surgery, The First Affiliated Hospital of Soochow University, Suzhou, China.",
+        "Department of Thoracic Surgery, The First Affiliated Hospital of Soochow University, Suzhou, China.",
+        "Department of Neurology and Clinical Research Center of Neurological Disease, Second Affiliated Hospital of Soochow University, Suzhou, China. wangyin@suda.edu.cn.",
+        "Institution of Neuroscience, Soochow University, Suzhou, China. wangyin@suda.edu.cn.",
+        "Institute of Thoracic Surgery, The First Affiliated Hospital of Soochow University, Suzhou, China. junzhao@suda.edu.cn.",
+        "Department of Thoracic Surgery, The First Affiliated Hospital of Soochow University, Suzhou, China. junzhao@suda.edu.cn.",
+        "Institute of Thoracic Surgery, The First Affiliated Hospital of Soochow University, Suzhou, China. xuchun@suda.edu.cn.",
+        "Department of Thoracic Surgery, The First Affiliated Hospital of Soochow University, Suzhou, China. xuchun@suda.edu.cn."
+      ],
+      "doi": "10.1038/s41418-026-01862-y",
+      "date": "2026-09-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42716955/"
+    },
     {
       "pmid": "42715669",
       "title": "HIF-1α-associated macrophage metabolic reprogramming mediates intestinal injury induced by acrylamide and 5-hydroxymethylfurfural co-exposure.",
@@ -85,68 +173,6 @@
       "doi": "10.1159/nef/adtag003",
       "date": "2026-09-09",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42715132/"
-    },
-    {
-      "pmid": "42714795",
-      "title": "Targeting KRAS reprograms a Treg-dominant immunosuppressive microenvironment and sensitizes KRAS-mutant gastric adenocarcinoma to CTLA-4 immunotherapy.",
-      "abstract": "Oncogenic KRAS mutations define a distinct molecular subset of gastric adenocarcinoma (GA), yet their impact on the tumor immune microenvironment remains incompletely understood. In this study, we established a genetically faithful and immunocompetent KRASG12D-driven mouse model of GA, together with matched organoids and cell lines, to investigate how oncogenic KRAS shapes tumor-immune interactions. KRAS-mutant tumors consistently developed an immunosuppressive microenvironment characterized by enrichment of regulatory T cells (Tregs), accompanied by reduced cytotoxic lymphocyte infiltration and intrinsic resistance to PD-1 blockade. Although pharmacologic targeting of KRAS effectively suppressed tumor growth and increased immune cell infiltration, functional immune analyses revealed persistent Treg-mediated immunosuppression that limited effective antitumor immunity. Mechanistically, TGF-β signaling was required to maintain Treg dominance and suppress effector T cell function in KRAS-driven tumors. Importantly, disruption of this suppressive axis through combined KRAS inhibition and CTLA-4 blockade attenuated TGF-β activity, impaired Treg function, and enhanced antitumor immune responses in vivo. Collectively, these findings identify oncogenic KRAS as a key regulator of TGF-β-dependent immune suppression in GA and provide mechanistic insight into immune evasion within this molecular subtype.",
-      "journal": "Science China. Life sciences",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education/Beijing), Ward I, Gastrointestinal Cancer Center, Peking University Cancer Hospital & Institute, Beijing, 100142, China.",
-        "Department of Radiation Oncology, Peking University Third Hospital, Beijing, 100191, China.",
-        "Biological sample bank, Peking University Cancer Hospital & Institute, Beijing, 100142, China.",
-        "Department of Radiation Oncology, China-Japan Friendship Hospital, Beijing, 100142, China.",
-        "Department of Cancer Biology and Molecular Medicine, Cancer Center and Beckman Research Institute, City of Hope, Duarte, CA, 91010, USA.",
-        "Department of Gastrointestinal Surgery, Graduate School of Medicine, The University of Tokyo, Tokyo, 113-8654, Japan.",
-        "Department of Pathology, Peking University Cancer Hospital & Institute, Beijing, 100142, China.",
-        "Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education/Beijing), Ward I, Gastrointestinal Cancer Center, Peking University Cancer Hospital & Institute, Beijing, 100142, China. xiangyugao@hsc.pku.edu.cn.",
-        "State Key Laboratory of Molecular Oncology, Frontiers Science Center for Cancer Integrative Omics, Peking University Cancer Hospital & Institute, Peking University International Cancer Institute, Peking University Health Science Center, Beijing, 100191, China. chuanhui.han@bjmu.edu.cn.",
-        "School of Basic Medical Sciences, Peking University Health Science Center, Beijing, 100191, China. chuanhui.han@bjmu.edu.cn.",
-        "Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education/Beijing), Ward I, Gastrointestinal Cancer Center, Peking University Cancer Hospital & Institute, Beijing, 100142, China. ziyu_li@hsc.pku.edu.cn."
-      ],
-      "doi": "10.1007/s11427-026-3438-4",
-      "date": "2026-09-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42714795/"
-    },
-    {
-      "pmid": "42714339",
-      "title": "High-viscosity hydrogels in cartilage injury and osteochondral defect repair: mechanisms, design strategies, and clinical translation.",
-      "abstract": "Cartilage injury and osteochondral defects remain major clinical challenges owing to the limited intrinsic regenerative capacity of cartilage and the inability of current treatments to restore durable hyaline tissue. Conventional hydrogels often fail under joint loading because of insufficient mechanical stability, poor interfacial integration, and limited biological responsiveness. In this review, high-viscosity hydrogels (HVHs) are considered within a performance-based framework that integrates post-deployment cohesion and structural retention, viscoelastic energy dissipation, and reversible network reconfiguration to provide both mechanical support and biological regulation. Through multilevel design strategies, including double-network structures, reversible crosslinking, nanocomposite reinforcement, and stimuli-responsive modules, HVHs establish highly cohesive yet reconfigurable matrices capable of stress dissipation, self-adaptation, and sustained bioactive factor delivery. Beyond structural functions, HVHs actively regulate mechanobiological signaling by modulating matrix stiffness, stress relaxation, immune responses, and stem-cell fate, thereby promoting chondrogenic differentiation, suppressing hypertrophy, and facilitating extracellular matrix deposition. Recent advances in gradient and biphasic HVH systems further enable coordinated regeneration of cartilage and subchondral bone, supporting functional osteochondral integration through spatially controlled mechanical and biochemical cues. Emerging technologies such as 3D/4D printing, artificial intelligence-assisted material optimization, and organoid-based validation are accelerating the development of personalized and adaptive regenerative platforms. Although challenges remain regarding long-term mechanical durability, degradation-regeneration matching, and clinical standardization, HVHs represent a promising paradigm that integrates dynamic network engineering, mechanobiological regulation, osteochondral reconstruction, and translational adaptability. This review summarizes recent advances in HVH design and application, highlighting their potential to reshape future strategies for cartilage and osteochondral regeneration through intelligent, biomimetic, and clinically translatable material systems.",
-      "journal": "Biomaterials science",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Tianjin Medical University, Tianjin 300070, China. wjren1966@163.com.",
-        "Clinical Medical Center of Tissue Engineering and Regeneration, Henan Medical University, Xinxiang 453003, China. liangzhuo@xxmu.edu.cn.",
-        "Department of Emergency Critical Care Medicine, The First Hospital of Lanzhou University, Lanzhou, Gansu, China.",
-        "Department of Plastic and Reconstructive Surgery, Shanghai Key Laboratory of Tissue Engineering, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200011, P. R. China.",
-        "Department of Plastic Surgery, The Second Affiliated Hospital of Zhejiang University College of Medicine, Hangzhou, 310000, China."
-      ],
-      "doi": "10.1039/d6bm00992a",
-      "date": "2026-09-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42714339/"
-    },
-    {
-      "pmid": "42714221",
-      "title": "A Protoplast-based method to visualize early cell biological events in plant cellular reprogramming and regeneration.",
-      "abstract": "Plant developmental biology lacks cell-based experimental systems comparable to the organoids and live-imaging platforms that have transformed mechanistic discovery in animal research. To address this gap, we present a robust, trackable protoplast regeneration platform in Arabidopsis thaliana that enables high-resolution, time-resolved analysis from the single-cell stage through microcolony formation and early regenerative development. Protoplasts are embedded in thin alginate matrices containing fluorescent fiducial beads, maintaining physical separation and allowing repeated return to the same cells over days to weeks. This design supports long-term imaging using epifluorescence, confocal, and lattice light sheet microscopy, enabling visualization of cell-cycle re-entry, asymmetric division, organelle dynamics, dedifferentiation, redifferentiation, and regenerative competence. Fluorescent reporters for nuclei, membranes, microtubules, Golgi, and hormone signaling further permit observation of subcellular organization and signaling heterogeneity during early reprogramming. Together, this platform provides an accessible, scalable system for studying plant cellular plasticity at single-cell resolution and offers a foundation for plant organoid-like models. By enabling high-resolution study of regeneration from single cells, this method expands the experimental toolkit and supports efforts to overcome species- and genotype-dependent barriers to transformation and plant biotechnology.",
-      "journal": "Development (Cambridge, England)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Plant and Environmental Sciences, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA.",
-        "Facility for Advanced Imaging and Microscopy, Fralin Life Sciences Institute, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA.",
-        "Donald Danforth Plant Sciences Center, St Louis, MO, USA."
-      ],
-      "doi": "10.1242/dev.205715",
-      "date": "2026-09-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42714221/"
     },
     {
       "pmid": "42715312",
@@ -251,21 +277,20 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667121/"
     },
     {
-      "pmid": "42656114",
-      "title": "[Multi-modal tumor boundary clustering recognition based on artificial intelligence virtual cells and near-infrared surgical field].",
-      "abstract": "In order to accurately identify tumor boundaries and improve diagnostic efficiency, this study proposes a multi-modal tumor boundary identification method based on artificial intelligence virtual cells and saliency near-infrared spectrum imaging, and uses this to construct the \"Golden Eyes 3.0\" intelligent navigation system. The system integrates the artificial intelligence virtual cell model constructed by the graph convolution network and introduces a loop iterative calibration mechanism to improve prediction accuracy. At the same time, this study also uses adaptive spectral discrimination weighted to optimize spectral feature extraction, realizes multi-modal data fusion through a gated attention mechanism, and finally builds a tumor boundary recognition model based on recurrent neural networks. The test results showed that on the intraoperative data sets of glioma and thyroid cancer, the prediction accuracy of artificial intelligence virtual cells was 98.8% and 98.9% respectively, the sensitivity of saliency detection is 0.1 pmol/L, and the \"Golden Eyes 3.0\" system's recognition accuracy of tumor boundaries could reach 96.2%. The above results prove that the multi-modal tumor boundary identification method proposed in this study can accurately identify tumor boundaries in patients and improve the accuracy of early tumor diagnosis.",
-      "journal": "Sheng wu yi xue gong cheng xue za zhi = Journal of biomedical engineering = Shengwu yixue gongchengxue zazhi",
+      "pmid": "42716964",
+      "title": "Sequence and structural determinants of efficacious de novo chimaeric antigen receptors.",
+      "abstract": "Advances in generative protein design using artificial intelligence (AI) have enabled the rapid development of binders against heterogeneous targets, including tumour-associated antigens. Despite extensive biochemical characterization, these novel protein binders have had limited evaluation in candidate therapeutics, including chimaeric antigen receptor (CAR) T cells. Here we synthesize generative protein design workflows to screen 1,758 newly designed protein binders targeting BCMA, CD19 and CD22 for efficacy in scalable protein-binding, T-cell activation and in vivo killing assays. We characterize three main challenges that hinder the utility of de novo protein binders as CARs, including tonic signalling, occluded epitope engagement and off-target activity. We develop computational and experimental heuristics to overcome these limitations, including screens of sequence variants of individual parental structures, that retain on-target CAR activation while mitigating liabilities. Together, our framework accelerates the development of AI-designed proteins for future preclinical therapeutic screening, helping enable a new generation of cellular therapies.",
+      "journal": "Nature biomedical engineering",
       "publicationTypes": [
-        "English Abstract",
         "Journal Article"
       ],
       "affiliations": [
-        "School of Robotics and Embodied Intelligence, Chang'an University, Xi'an 710064, P. R. China.",
-        "Xijing Hospital, Air Force Medical University, Xi'an 710032, P. R. China."
+        "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
+        "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA. lareauc@mskcc.org."
       ],
-      "doi": "10.7507/1001-5515.202512069",
-      "date": "2026-08-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42656114/"
+      "doi": "10.1038/s41551-026-01790-9",
+      "date": "2026-09-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42716964/"
     },
     {
       "pmid": "42716354",
@@ -358,23 +383,6 @@
       "doi": "10.1016/j.ijbiomac.2026.154351",
       "date": "2026-09-04",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42697290/"
-    },
-    {
-      "pmid": "42693314",
-      "title": "De novo generation and computational screening of dual-targeting short peptide inhibitors against PBP2b and PBP2x in drug-resistant Streptococcus Pneumoniae.",
-      "abstract": "Deep learning has greatly advanced de novo protein design, yet its application to rational short peptide design remains underexplored. Here, we developed SPB-Seeker (Short Peptide Binder Seeker), an integrated pipeline combining deep learning-based generative models with computational chemistry screening to discover dual-target short peptide inhibitors. Using penicillin-binding proteins PBP2b and PBP2x from drug-resistant Streptococcus pneumoniae as targets, AFDesign, RFdiffusion, and BoltzGen were employed to generate an initial library of 1101 candidate sequences. Subsequently, ESM2 was employed to extract sequence embeddings for diversity analysis, which revealed distinct algorithmic biases among the three generative models, and was then used as the feature extractor of a prediction framework for early-stage toxicity screening. Candidates were further prioritized through molecular docking, tiered molecular dynamics simulations, and MM/PB(GB)SA binding free energy calculations. Three peptides, AFD1, BG3, and RFD2, showed high binding stability, with BG3 displaying the strongest dual-target binding, achieving binding free energies of - 52.777 kcal/mol for PBP2b and - 74.071 kcal/mol for PBP2x. Interestingly, quantum chemical calculations using cluster model and the Interaction Region Indicator (IRI) method analyses indicated that BG3 adopts a stable cyclic-like conformation when bound to PBP2x, driven by proline-induced turns, intramolecular hydrogen bonds, and terminal C-H···π interactions. Overall, SPB-Seeker provides an extensible computational framework for targeted short peptide binder discovery and offers a basis for subsequent affinity optimization and stability enhancement.",
-      "journal": "Molecular diversity",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Life Science and Engineering, Southwest Jiaotong University, Chengdu, 610031, China.",
-        "Department of Clinical Laboratory, University-Town Hospital of Chongqing Medical University, Chongqing, 401331, China.",
-        "School of Life Science and Engineering, Southwest Jiaotong University, Chengdu, 610031, China. tulwar@home.swjtu.edu.cn."
-      ],
-      "doi": "10.1007/s11030-026-11714-z",
-      "date": "2026-09-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693314/"
     },
     {
       "pmid": "42716838",
@@ -504,9 +512,129 @@
       "doi": "10.1007/s10072-026-09380-y",
       "date": "2026-09-09",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42711582/"
+    },
+    {
+      "pmid": "42716737",
+      "title": "Artificial intelligence in dental clinical decision support: Concept, challenges, and progress.",
+      "abstract": "In this review, we propose and elaborate on the conceptual framework of \"decision support intelligence\" (DSI) in dentistry. We aimed to define DSI as the intelligent execution of evidence-based clinical decision trees, outline a preliminary implementation pathway, identify key technical challenges hindering its development, and summarize the current research progress across major dental specialties to guide future artificial intelligence (AI) integration in clinical decision-making. We searched for studies using major databases including PubMed, Web of Science, and IEEE Xplore, to construct a coherent conceptual framework and illustrate the key arguments. The transition toward intelligent dentistry remains incomplete, with \"operational intelligence\" maturing while DSI lags. This review is the first to report the core concept of DSI as an intelligent execution of decision trees that simulate clinical reasoning. It outlines the preliminary implementation strategies and key developmental challenges. This review may accelerate the translation of AI from research to practical clinical tools, ultimately supporting dentists in making more standardized, efficient, and evidence-based decisions, reducing workload, and minimizing errors, particularly in resource-variable settings.",
+      "journal": "Journal of prosthodontic research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Hospital of Stomatology, Guanghua School of Stomatology, Sun Yat-sen University, Guangdong Provincial Key Laboratory of Stomatology, and Guangdong Provincial Clinical Research Center of Oral Diseases, Guangzhou, China.",
+        "Faculty of Dentistry, University of Hong Kong, Hong Kong, China."
+      ],
+      "doi": "10.2186/jpr.JPR_D_26_00138",
+      "date": "2026-09-08",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42716737/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42717251",
+      "date": "2026-09-09",
+      "title": "A single-nucleus transcriptomic atlas of human inner ear development.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42717251/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature neuroscience，PMID 为 42717251。",
+      "report": "Hearing and balance rely on coordinated activity of multiple inner ear cell types, yet the mechanisms governing their development and specification in humans remain unclear. Consequently, this limits our understanding of how disease genes affect cell type form...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42717098",
+      "date": "2026-09-09",
+      "title": "An operational perturbation proteomics-based virtual cell model.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42717098/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Virtual Cell",
+        "AI for Biology",
+        "Multi-omics",
+        "Drug Discovery",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "虚拟细胞",
+        "细胞基础模型",
+        "多组学",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature，PMID 为 42717098。",
+      "report": "Artificial intelligence-empowered virtual cell models represent an emerging approach for in silico drug discovery1-3, yet most existing approaches lack large-scale, time-resolved perturbation proteomics data and interpretable frameworks for predicting therapeu...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42716955",
+      "date": "2026-09-09",
+      "title": "KRAS/ERK2-driven stabilization of AARS1 reprograms tumor metabolism and confers Sorafenib resistance in lung adenocarcinoma.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42716955/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell death and differentiation，PMID 为 42716955。",
+      "report": "KRAS is the most frequently mutated oncogene in human cancers, and its G12C variant is highly prevalent in lung adenocarcinoma (LUAD) and predicts poor clinical outcomes. However, the metabolic mechanisms underlying KRAS-driven malignancy and therapeutic resis...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42715556",
       "date": "2026-09-09",
@@ -566,66 +694,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42714339",
-      "date": "2026-09-09",
-      "title": "High-viscosity hydrogels in cartilage injury and osteochondral defect repair: mechanisms, design strategies, and clinical translation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42714339/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomaterials science，PMID 为 42714339。",
-      "report": "Cartilage injury and osteochondral defects remain major clinical challenges owing to the limited intrinsic regenerative capacity of cartilage and the inability of current treatments to restore durable hyaline tissue. Conventional hydrogels often fail under joi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42714221",
-      "date": "2026-09-09",
-      "title": "A Protoplast-based method to visualize early cell biological events in plant cellular reprogramming and regeneration.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42714221/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Development (Cambridge, England)，PMID 为 42714221。",
-      "report": "Plant developmental biology lacks cell-based experimental systems comparable to the organoids and live-imaging platforms that have transformed mechanistic discovery in animal research. To address this gap, we present a robust, trackable protoplast regeneration...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42715312",
       "date": "2026-09-09",
       "title": "A systematic comparison of single-cell perturbation response prediction models.",
@@ -651,6 +719,39 @@
       "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42715312。",
       "report": "Predicting single-cell transcriptional responses to perturbations is central to dissecting gene regulation and accelerating therapeutic design, yet the field lacks a rigorous, task-spanning assessment of model behavior. We present a large-scale benchmark of 13...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42716964",
+      "date": "2026-09-09",
+      "title": "Sequence and structural determinants of efficacious de novo chimaeric antigen receptors.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42716964/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature biomedical engineering，PMID 为 42716964。",
+      "report": "Advances in generative protein design using artificial intelligence (AI) have enabled the rapid development of binders against heterogeneous targets, including tumour-associated antigens. Despite extensive biochemical characterization, these novel protein bind...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -807,6 +908,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42716737",
+      "date": "2026-09-08",
+      "title": "Artificial intelligence in dental clinical decision support: Concept, challenges, and progress.",
+      "entity": "Healthcare AI Research",
+      "primaryCategory": "Healthcare AI",
+      "subCategory": "Medical AI",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42716737/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Healthcare AI",
+        "Medical LLM"
+      ],
+      "tags": [
+        "医疗 AI",
+        "临床决策支持"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of prosthodontic research，PMID 为 42716737。",
+      "report": "In this review, we propose and elaborate on the conceptual framework of \"decision support intelligence\" (DSI) in dentistry. We aimed to define DSI as the intelligent execution of evidence-based clinical decision trees, outline a preliminary implementation path...",
+      "inference": "自动分类命中规则：Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42701174",
       "date": "2026-09-05",
       "title": "A dynamic fusion diffusion model for molecular generation.",
@@ -929,71 +1058,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 International journal of biological macromolecules，PMID 为 42697290。",
       "report": "Climate change-induced fluctuations in temperature, pH, salinity, and water activity are increasingly compromising microbial metabolism and fermentation efficiency, exposing the limitations of conventional mesophilic enzymes in maintaining process stability an...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42714795",
-      "date": "2026-09-03",
-      "title": "Targeting KRAS reprograms a Treg-dominant immunosuppressive microenvironment and sensitizes KRAS-mutant gastric adenocarcinoma to CTLA-4 immunotherapy.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42714795/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Science China. Life sciences，PMID 为 42714795。",
-      "report": "Oncogenic KRAS mutations define a distinct molecular subset of gastric adenocarcinoma (GA), yet their impact on the tumor immune microenvironment remains incompletely understood. In this study, we established a genetically faithful and immunocompetent KRASG12D...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42693314",
-      "date": "2026-09-03",
-      "title": "De novo generation and computational screening of dual-targeting short peptide inhibitors against PBP2b and PBP2x in drug-resistant Streptococcus Pneumoniae.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693314/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular diversity，PMID 为 42693314。",
-      "report": "Deep learning has greatly advanced de novo protein design, yet its application to rational short peptide design remains underexplored. Here, we developed SPB-Seeker (Short Peptide Binder Seeker), an integrated pipeline combining deep learning-based generative...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1127,38 +1191,6 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of orthopaedic translation，PMID 为 42699656。",
       "report": "Global population aging has made skeletal disorders a major threat to human health. Solid bone organoids reproduce skeletal physiology and pathology more faithfully than traditional models, yet remain limited in standardisation, real-time monitoring, and high-...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42656114",
-      "date": "2026-08-25",
-      "title": "[Multi-modal tumor boundary clustering recognition based on artificial intelligence virtual cells and near-infrared surgical field].",
-      "entity": "Virtual Cell Model",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "Virtual Cell / Cell Foundation Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42656114/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Virtual Cell",
-        "AI for Biology",
-        "Multi-omics",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "虚拟细胞",
-        "细胞基础模型",
-        "多组学",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Sheng wu yi xue gong cheng xue za zhi = Journal of biomedical engineering = Shengwu yixue gongchengxue zazhi，PMID 为 42656114。",
-      "report": "In order to accurately identify tumor boundaries and improve diagnostic efficiency, this study proposes a multi-modal tumor boundary identification method based on artificial intelligence virtual cells and saliency near-infrared spectrum imaging, and uses this...",
-      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
