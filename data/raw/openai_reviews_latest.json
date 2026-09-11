@@ -1,8 +1,348 @@
 {
-  "capturedAt": "2026-09-10T20:55:41.486870+00:00",
+  "capturedAt": "2026-09-11T04:47:12.226987+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
-  "reviews": []
+  "reviews": [
+    {
+      "signalId": "pubmed-42722241",
+      "responseId": "resp_068bb28918f996a1006aa387d156e087d28477b5382500ff77",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "本信号需人工审核，因缺乏对研究质量和临床影响的判断。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类未能充分反映研究质量及潜在临床影响。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "中等证据水平不足以支持如此复杂的医学主题。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Pharmacological research，PMID 为 42722241。",
+          "report": "Ulcerative colitis (UC) is a chronic relapsing inflammatory disease with limited efficacy in achieving durable mucosal healing and preventing dysplasia. Macrophage-intestinal stem cell (ISC) crosstalk plays a central role in epithelial regeneration and tumorig...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42721974",
+      "responseId": "resp_0fb4da4b6416877d006aa387d6647087d2984000ca83dd0e11",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "记录符合出版要求，信息清晰且中立，无临床建议或支持性陈述。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "research_evidence"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cell systems，PMID 为 42721974。",
+          "report": "Although patient-derived tumor organoids are widely applied for evaluating anti-tumor drugs, the lack of a physiologically relevant environment limits drug assessment. Intestinal absorption and liver metabolism are critical for drug efficacy but cannot be reca...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42721963",
+      "responseId": "resp_04156df488c10b23006aa387da16ec87d2a4ee48a8e4dbac8f",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审核以判断研究质量和相关临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合研究主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平较低，需验证研究的质量。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Drug Screening",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "药筛",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cell，PMID 为 42721963。",
+          "report": "Mitochondria are four-dimensional (4D: x, y, z, and time) organelles essential for cellular function. Characterizing their 4D phenotypic landscape across diverse cellular states requires both 4D imaging and analytical frameworks. We present MitoSpace, a self-s...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42721961",
+      "responseId": "resp_073fa35800ea6c30006aa387dec61087d2bfb9525578fd2ab9",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献中涉及ATF6和视网膜疾病，但缺乏对研究质量的评估，需进一步判断。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "研究质量和临床相关性评估不足，类别分类过于宽泛。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "中等证据水平，但缺乏对研究质量和样本量的描述。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42721961。",
+          "report": "Activating transcription factor 6 (ATF6) controls a signal transduction pathway of the unfolded protein response (UPR). Loss-of-function ATF6 mutations cause inherited photoreceptor diseases. Ceapin-A7 is a non-toxic, cell-permeable small molecule that selecti...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42721204",
+      "responseId": "resp_0948b32f279e2b54006aa387e331b487d29ef9c656d464979b",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查以确保没有不当的临床结论。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "类别可能需要调整以匹配研究内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平标记为中等，但根据内容应重新评估。"
+        },
+        "riskFlags": [
+          "insufficient_source",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "AI Drug Discovery",
+          "subCategory": "Research",
+          "evidenceLevel": "Low",
+          "themes": [
+            "AI for Biology",
+            "Drug Discovery"
+          ],
+          "tags": [
+            "AI 制药",
+            "肿瘤",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 PLoS computational biology，PMID 为 42721204。",
+          "report": "Gene expression profiles capture system-level drug responses and offer a promising basis for de novo molecular generation. However, their application is limited by data sparsity and experimental noise, which hinder the reliable mapping between disease-associated...",
+          "inference": "研究的临床影响未得到验证，需谨慎评估。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42722112",
+      "responseId": "resp_0fbf730982281c73006aa387e6926487d29c5580efcaa12937",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审核以核实论文本身的质量和详细信息。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类可能不充分，尤其是有关临床证据的准确性。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "尽管来源可靠，但证据等级为中等可能不足以支持强有力的临床结论。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Biomarkers",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Clinical Evidence",
+            "Biomarkers"
+          ],
+          "tags": [
+            "生物标志物",
+            "神经退行性疾病"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Neurobiology of disease，PMID 为 42722112。",
+          "report": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease characterized by central nervous system (CNS) neuroglial TAR DNA-binding protein 43 (TDP-43) pathology in ~90-95% of cases. Non-invasive biomarkers are critically needed to reduce diagnos...",
+          "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "需要补充研究质量、样本量、利益冲突、临床阶段或商业化状态的信息。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42721785",
+      "responseId": "resp_07168c7e331770a4006aa387eb9bd487d2b51a9a7e38c874ca",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录符合出版要求，信息明确且无未经支持的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Environment international，PMID 为 42721785。",
+          "report": "Micro- and nano-plastics (MNPs) have emerged as ubiquitous environmental contaminants and are increasingly implicated in adverse cardiovascular outcomes, yet their induced cardiotoxicity and potential mechanisms remain poorly understood. This study integrated...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42721885",
+      "responseId": "resp_0f8083293544b543006aa387ef8a1087d2b9632d8830e20b12",
+      "review": {
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献的分类和证据水平合理，信息分隔清晰，未提供治疗建议或未支持的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合文献内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "信息分隔清晰，包括事实、报告和推论。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Drug Screening",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "药筛",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cancer treatment reviews，PMID 为 42721885。",
+          "report": "Therapy resistance remains a major cause of relapse and cancer-related mortality, arising from dynamic interactions between tumor-intrinsic programs and microenvironmental constraints. Genetic and epigenetic alterations, transcriptional rewiring, metabolic ada...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    }
+  ]
 }

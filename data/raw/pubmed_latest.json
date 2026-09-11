@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-10T20:55:31.478059+00:00",
+  "capturedAt": "2026-09-11T04:47:04.733027+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,139 +10,154 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-09-10",
-    "end": "2026-09-10"
+    "start": "2025-09-11",
+    "end": "2026-09-11"
   },
   "pmids": [
-    "42720495",
-    "42719207",
-    "42718928",
-    "42718737",
-    "42718670",
-    "42718611",
+    "42722241",
+    "42721974",
+    "42721963",
+    "42721961",
+    "42721885",
+    "42721785",
     "42717098",
     "42715312",
     "42699656",
     "42696754",
     "42693007",
     "42667121",
+    "42721204",
     "42720471",
     "42716964",
     "42716354",
     "42701174",
     "42701117",
-    "42700916",
+    "42722112",
     "42720694",
     "42719702",
     "42719676",
     "42718847",
-    "42716838",
-    "42716240"
+    "42716838"
   ],
   "records": [
     {
-      "pmid": "42720495",
-      "title": "Discovery of a Covalent NLRP3 LRR-Domain Probe: Reversing Renal Fibrosis via Immunometabolic Reprogramming in Organoid and Murine Models.",
-      "abstract": "Targeting the NLRP3 inflammasome is critical for treating fibrotic diseases; however, current NACHT domain inhibitors face mutational escape and limited isoform specificity. The autoinhibitory leucine-rich repeat (LRR) domain represents an underexplored pharmacological target. Here, we report QX-31, a novel covalent probe selectively engaging the LRR domain. QX-31 covalently binds to Cysteine 838, stabilizing NLRP3 in an inactive conformation and preventing inflammasome assembly with high selectivity over AIM2 and NLRC4. Furthermore, QX-31 reverses maladaptive immunometabolic reprogramming within the renal microenvironment by blunting the PI3K/AKT/HIF-1α axis, suppressing aberrant glycolysis and glutaminolysis. Evaluated in human kidney organoids and murine models of renal injury (UUO and IRI), QX-31 demonstrated potent antifibrotic efficacy comparable to reference drugs, alongside a favorable safety profile. Collectively, QX-31 serves as a valuable chemical tool, demonstrating that covalent targeting of this conformational regulatory domain is a viable therapeutic strategy for fibrotic diseases.",
-      "journal": "Journal of medicinal chemistry",
+      "pmid": "42722241",
+      "title": "Dioscin activates myeloid AMPK to restore Lgr5⁺ stem cell homeostasis and promote mucosal repair in ulcerative colitis.",
+      "abstract": "Ulcerative colitis (UC) is a chronic relapsing inflammatory disease with limited efficacy in achieving durable mucosal healing and preventing dysplasia. Macrophage-intestinal stem cell (ISC) crosstalk plays a central role in epithelial regeneration and tumorigenic transition but remains therapeutically underexplored. Here, we show that Dioscin, a natural steroidal saponin from Dioscoreae Rhizoma, alleviates DSS-induced acute colitis and AOM/DSS-induced chronic colitis-associated dysplasia by reprogramming macrophage-dependent ISC homeostasis. Dioscin significantly reduced disease severity, suppressed inflammatory macrophage infiltration, and restored Lgr5⁺ ISC compartments, whereas macrophage depletion abolished these protective effects. In vitro, Dioscin inhibited M1 polarization of LPS/IFN-γ-stimulated macrophages, improved epithelial barrier integrity, and enhanced ISC proliferation in organoid systems via modulation of macrophage-conditioned signaling. Mechanistically, IL-1β was identified as a key macrophage-derived mediator linking inflammatory activation to ISC dysfunction. Importantly, Dioscin directly interacted with catalytic α1 subunit of AMP-activated protein kinase (AMPKα1), activated AMPK/Raptor signaling, and suppressed mTORC1-dependent inflammatory responses, while pharmacological inhibition with Compound C or myeloid-specific deletion of AMPKα1 (Prkaa1ᶠˡ/ᶠˡ, nLysM-Cre) abrogated its effects. Collectively, Dioscin ameliorates experimental colitis and dysplasia by activating myeloid AMPK signaling, inhibiting IL-1β-driven macrophage-ISC dysregulation, and restoring epithelial regeneration, highlighting macrophage metabolic reprogramming as a therapeutic strategy and identifying myeloid AMPK as a potential target for UC intervention.",
+      "journal": "Pharmacological research",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Medicinal Chemistry, School of Pharmacy, China Pharmaceutical University, Nanjing210009, China.",
-        "Department of Cardiology, School of Traditional Chinese Pharmacy, China Pharmaceutical University, Nanjing211198, China.",
-        "Department of Nephrology, Jiangsu Province Hospital, The First Affiliated Hospital of Nanjing Medical University, Nanjing210029, China.",
-        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing211189, China.",
-        "School of Life Science and Biopharmaceutics, Shenyang Pharmaceutical University, Shenyang110016, China."
+        "School of Phmaceutical Science, State Key Laboratory of Traditional Chinese Medicine Syndrome, State Key Laboratory of Dampness Syndrome, Guangdong Provincial Academy of Chinese Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China, 510006; Pharmacy Department, Zhongshan Hospital of Traditional Chinese Medicine, No.3 Kangxin Road, West District, Zhongshan, Guangdong, China.",
+        "School of Phmaceutical Science, State Key Laboratory of Traditional Chinese Medicine Syndrome, State Key Laboratory of Dampness Syndrome, Guangdong Provincial Academy of Chinese Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China, 510006; The Tenth Affiliated Hospital, Southern Medical University (Dongguan People's Hospital), Dongguan, Guangdong, China.",
+        "School of Phmaceutical Science, State Key Laboratory of Traditional Chinese Medicine Syndrome, State Key Laboratory of Dampness Syndrome, Guangdong Provincial Academy of Chinese Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China, 510006.",
+        "School of Phmaceutical Science, State Key Laboratory of Traditional Chinese Medicine Syndrome, State Key Laboratory of Dampness Syndrome, Guangdong Provincial Academy of Chinese Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China, 510006; Shenzhen Bao'an Authentic TCM Therapy Hospital, Shenzhen, China.",
+        "School of Phmaceutical Science, State Key Laboratory of Traditional Chinese Medicine Syndrome, State Key Laboratory of Dampness Syndrome, Guangdong Provincial Academy of Chinese Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China, 510006; The First Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangdong Province Lingnan Characteristic Hospital Preparation Transformation Engineering Technology Research Center, Guangzhou, China.",
+        "State Key Laboratory of Chinese Medicine, The Second Affiliated Hospital of Guangzhou University of Chinese Medicine, Guangzhou, China. Electronic address: doctliu@gzucm.edu.cn.",
+        "Pharmacy Department, Zhongshan Hospital of Traditional Chinese Medicine, No.3 Kangxin Road, West District, Zhongshan, Guangdong, China. Electronic address: 64460266@qq.com.",
+        "School of Phmaceutical Science, State Key Laboratory of Traditional Chinese Medicine Syndrome, State Key Laboratory of Dampness Syndrome, Guangdong Provincial Academy of Chinese Medical Sciences, Guangzhou University of Chinese Medicine, Guangzhou, China, 510006; Pharmacy Department, Zhongshan Hospital of Traditional Chinese Medicine, No.3 Kangxin Road, West District, Zhongshan, Guangdong, China. Electronic address: zhangxj@gzucm.edu.cn."
       ],
-      "doi": "10.1021/acs.jmedchem.6c01482",
+      "doi": "10.1016/j.phrs.2026.108447",
       "date": "2026-09-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42720495/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42722241/"
     },
     {
-      "pmid": "42719207",
-      "title": "State of the industry: integration of 3Rs principles and new approach methodologies in non-clinical product development through fit-for-purpose.",
-      "abstract": "Regulators, such as the FDA and EMA, are increasingly signaling expectations for broader and earlier adoption of New Approach Methodologies (NAMs) to reduce, refine, and, where justified, replace animal studies (3Rs principle)-particularly where NAMs can deliver improved human relevance, clearer mechanistic insight, or more efficient regulatory decision-making. This creates both an opportunity and a responsibility for drug developers: NAMs should no longer be viewed solely as exploratory tools, but as strategic components of an integrated pivotal non-clinical data package. This is already enshrined in various regulatory guidelines, roadmaps and position papers, but there is no single \"approved list\" of NAMs for pharmaceutical safety and efficacy assessment that applies across all products and agencies. Regulators explicitly support NAM adoption when scientifically sound, qualified for a defined context of use (COU), and integrated under a weight-of-evidence (WoE) approach. To support drug developers in responding to these expectations, a stepwise approach to expand the use of scientifically validated NAMs, such as in vitro human-based systems (human-organ-on-chip/ microphysiological systems, complex multicellular models, organoids, other 3D systems, and high-throughput screening), in silico methods (e.g., physiologically based pharmacokinetic (PBPK) modeling, machine learning, and computer modeling), and other innovative technologies is provided by authorities. This stepwise approach translates regulatory principles into an actionable pathway for qualifying, implementing, and defending NAMs in safety assessment. Such an approach should define the intended decision and COU, establish pre-specified acceptance criteria and performance expectations, integrate outputs under a transparent WoE framework, and incorporate early health authority engagement to de-risk adoption. The objective is not to promote NAMs as a universal substitute for animal studies but to provide a credible, regulator-aligned route to deploy NAMs where they can meaningfully improve decision quality while reducing animal use. Regulators recommend positioning NAMs as question-driven tools with clearly defined roles, enabling replacement, where performance and regulatory confidence are established, and reduction/refinement, where they optimize study design, dose selection, endpoints, and study sequencing.",
-      "journal": "Frontiers in medicine",
+      "pmid": "42721974",
+      "title": "Evaluation of anti-tumor drugs by simulating physiological absorption and metabolism with a multi-organoid system.",
+      "abstract": "Although patient-derived tumor organoids are widely applied for evaluating anti-tumor drugs, the lack of a physiologically relevant environment limits drug assessment. Intestinal absorption and liver metabolism are critical for drug efficacy but cannot be recapitulated in single-organoid models. Here, we establish an intestine-liver-tumor multi-organoid system to simulate in vivo absorption and metabolism, which allows for more physiologically relevant evaluations of drug efficacy and toxicity. Under fluidic conditions, the system maintains the viability of intestinal cells and liver organoids, which exhibit superior cellular diversity and close transcriptional resemblance to native tissues, with enhanced differentiation and metabolism. The system reveals the decreased effectiveness of the liver-deactivated drugs docetaxel and 5-FU, and the increased efficacy of the liver-activated drugs capecitabine and ifosfamide, on tumor organoids, which cannot be revealed by tumor organoid models alone. With gravity-driven flow and multi-organ interactions, this system recapitulates drug absorption and metabolism, thus providing a platform for accurate evaluations of metabolism-dependent drugs and advancing precision medicine.",
+      "journal": "Cell systems",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Membrane Biology, Tsinghua-Peking Center for Life Sciences, School of Life Sciences, Tsinghua University, Beijing 100084, China.",
+        "Division of Biotechnology, Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian 116023, China.",
+        "Guangzhou National Laboratory, Guangzhou 510700, China.",
+        "MOE Basic Research and Innovation Center for the Targeted Therapeutics of Solid Tumors, School of Basic Medical Sciences, Institute of Organoid Research, Jiangxi Medical College, Nanchang University, Nanchang 330031, China.",
+        "Department of Hepatobiliary-Pancreatic-Splenic Surgery, the Third Affiliated Hospital, Sun Yat-Sen University, Guangzhou 510630, China.",
+        "Department of General Surgery, the First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang 330006, Jiangxi, China.",
+        "Division of Biotechnology, Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian 116023, China. Electronic address: jhqin@dicp.ac.cn.",
+        "State Key Laboratory of Membrane Biology, Tsinghua-Peking Center for Life Sciences, School of Life Sciences, Tsinghua University, Beijing 100084, China; MOE Basic Research and Innovation Center for the Targeted Therapeutics of Solid Tumors, School of Basic Medical Sciences, Institute of Organoid Research, Jiangxi Medical College, Nanchang University, Nanchang 330031, China. Electronic address: ygchen@tsinghua.edu.cn."
+      ],
+      "doi": "10.1016/j.cels.2026.101734",
+      "date": "2026-09-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721974/"
+    },
+    {
+      "pmid": "42721963",
+      "title": "4D spatiotemporal landscape of mitochondrial phenotypes across cellular states unlocked through representation learning.",
+      "abstract": "Mitochondria are four-dimensional (4D: x, y, z, and time) organelles essential for cellular function. Characterizing their 4D phenotypic landscape across diverse cellular states requires both 4D imaging and analytical frameworks. We present MitoSpace, a self-supervised deep learning model trained without labels on terabytes of single-cell lattice light-sheet microscopy data of mitochondria under mechanistically distinct perturbations. MitoSpace learns latent representations that outperform predefined features in drug classification and capture interpretable variation in mitochondrial morphology and dynamics. Regression probes predict mitochondrial membrane potential from the learned representations (R2 = 0.91), establishing a quantitative mapping between form and function at the single-cell level. MitoSpace also generalizes zero-shot to unseen perturbations and human lung organoids. Dimensionality ablation reveals that representation quality improves monotonically from 2D to 3D to 4D, demonstrating the importance of volumetric and temporal information. The model, dataset, and interactive explorer are publicly available, providing a foundation for 4D phenotypic screening.",
+      "journal": "Cell",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Pharmacology, University of California, San Diego, San Diego, CA 92093, USA; Department of Biochemistry and Molecular Biophysics, University of California, San Diego, San Diego, CA 92093, USA.",
+        "Department of Pharmacology, University of California, San Diego, San Diego, CA 92093, USA; Department of Biochemistry and Molecular Biophysics, University of California, San Diego, San Diego, CA 92093, USA. Electronic address: jschoeneberg@health.ucsd.edu."
+      ],
+      "doi": "10.1016/j.cell.2026.08.028",
+      "date": "2026-09-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721963/"
+    },
+    {
+      "pmid": "42721961",
+      "title": "Chemical induction and reversal of photoreceptor dystrophy in retinal organoids.",
+      "abstract": "Activating transcription factor 6 (ATF6) controls a signal transduction pathway of the unfolded protein response (UPR). Loss-of-function ATF6 mutations cause inherited photoreceptor diseases. Ceapin-A7 is a non-toxic, cell-permeable small molecule that selectively inhibits ATF6. We investigated how ATF6 inhibition impacts photoreceptors by treating wild-type human retinal organoids with Ceapin-A7 and evaluating the effects via single-nucleus RNA sequencing (snRNA-seq) and microscopy after 2 months. Ceapin-A7 administration effectively suppressed ATF6-dependent and UPR-related gene expression and led to fewer rod and cone inner/outer segments, malformed/stunted cone segments, and Müller gliosis, while no photoreceptor cell death was observed. When Ceapin-A7 was removed from retinal organoid media after extended exposure, photoreceptor segment quantity increased, indicating that photoreceptors were able to restore segments. These findings demonstrate that ATF6 is selectively required for photoreceptor inner/outer segment integrity. Furthermore, chemically restoring ATF6 activity promotes photoreceptor segment growth, identifying ATF6/UPR signaling as an attractive pathway to treat photoreceptor diseases.",
+      "journal": "Stem cell reports",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Pathology, School of Medicine, Stanford University, Palo Alto, CA, USA; Department of Ophthalmology, School of Medicine, Stanford University, Palo Alto, CA, USA; VA Palo Alto Health Care System, Department of Veterans Affairs, Veterans Health Administration, Palo Alto, CA, USA.",
+        "Department of Pathology, School of Medicine, Stanford University, Palo Alto, CA, USA; Department of Ophthalmology, School of Medicine, Stanford University, Palo Alto, CA, USA.",
+        "Department of Ophthalmology, School of Medicine, Stanford University, Palo Alto, CA, USA.",
+        "Department of Pathology, School of Medicine, Stanford University, Palo Alto, CA, USA; Department of Ophthalmology, School of Medicine, Stanford University, Palo Alto, CA, USA; VA Palo Alto Health Care System, Department of Veterans Affairs, Veterans Health Administration, Palo Alto, CA, USA. Electronic address: jonathan.h.lin@stanford.edu."
+      ],
+      "doi": "10.1016/j.stemcr.2026.103078",
+      "date": "2026-09-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721961/"
+    },
+    {
+      "pmid": "42721885",
+      "title": "From drug response to resistance evolution: Leveraging 3D cancer models for functional precision oncology.",
+      "abstract": "Therapy resistance remains a major cause of relapse and cancer-related mortality, arising from dynamic interactions between tumor-intrinsic programs and microenvironmental constraints. Genetic and epigenetic alterations, transcriptional rewiring, metabolic adaptation, extracellular matrix signalling, hypoxia and limited drug penetration shape resistant phenotypes and therapeutic failure. Accurately modelling these processes is essential for identifying actionable resistance mechanisms and guide patient treatment. Conventional 2D cultures provide valuable mechanistic insights and scalable drug screening platforms, but fail to recapitulate the spatial organization, diffusion gradients and heterogeneous drug exposure characteristic of solid tumors. In contrast, advanced 3D preclinical models capture key aspects of tumor architecture and microenvironmental complexity that influence therapy response and resistance evolution. This review provides a comparative analysis of current 3D cancer models and proposes a conceptual framework linking mechanisms of therapeutic adaptation to the experimental platforms that most faithfully recapitulate them, with particular emphasis on patient-derived organoids (PDOs). By retaining clinically relevant features of the tumor of origin, PDOs enable the investigation of resistance evolution in both treatment-naïve and clinically treated tumors, as well as modelling experimentally acquired resistance through controlled therapeutic selection. These features enable mechanistic studies with high translational relevance, while supporting the development of precision oncology strategies. Finally, we propose practical recommendations for experimental design, model selection and reporting to improve reproducibility and facilitate cross-study comparisons. Collectively, advanced 3D cancer models represent a promising translational framework for uncovering mechanisms of therapy resistance and identifying actionable vulnerabilities that may guide more effective and personalized treatment strategies.",
+      "journal": "Cancer treatment reviews",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "SSI Strategy, Morristown, NJ, United States."
+        "INOC - Istituto Nazionale Oncologico Candiolo; IRCCS, Candiolo (TO), Italy.",
+        "INOC - Istituto Nazionale Oncologico Candiolo; IRCCS, Candiolo (TO), Italy; Department of Oncology, University of Turin, Turin, Italy.",
+        "INOC - Istituto Nazionale Oncologico Candiolo; IRCCS, Candiolo (TO), Italy; Department of Oncology, University of Turin, Turin, Italy. Electronic address: sabrina.arena@unito.it."
       ],
-      "doi": "10.3389/fmed.2026.1887169",
-      "date": "2026-08-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42719207/"
+      "doi": "10.1016/j.ctrv.2026.103202",
+      "date": "2026-08-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721885/"
     },
     {
-      "pmid": "42718928",
-      "title": "Editorial: 3D models in cancer research: bridging tumor biology and personalized medicine.",
-      "abstract": "",
-      "journal": "Frontiers in cell and developmental biology",
-      "publicationTypes": [
-        "Editorial"
-      ],
-      "affiliations": [
-        "Department of Medicine, School of Medicine and Surgery, University of Padua, Padua, Italy.",
-        "Department of Cancer Prevention and Control, Fox Chase Cancer Center, Philadelphia, PA, United States.",
-        "Department of Pharmaceutical and Pharmacological Sciences, University of Padua, Padua, Italy.",
-        "Cell Screening Laboratory, UCD School of Biology & Environmental Science, University College Dublin, Dublin, Ireland."
-      ],
-      "doi": "10.3389/fcell.2026.1949643",
-      "date": "2026-08-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42718928/"
-    },
-    {
-      "pmid": "42718737",
-      "title": "Editorial: Proceedings of anatomy 2024 - tripartite meeting: the role of medical embryology for interdisciplinary research.",
-      "abstract": "",
-      "journal": "Frontiers in cell and developmental biology",
-      "publicationTypes": [
-        "Editorial"
-      ],
-      "affiliations": [
-        "Division for Cell and Developmental Biology, Center for Anatomy and Cell Biology, Medical University of Vienna, Vienna, Austria.",
-        "Department of Anatomy and Molecular Embryology, Institute of Anatomy, Ruhr University Bochum, Bochum, Germany.",
-        "Division of Anatomy, Center for Anatomy and Cell Biology, Medical University of Vienna, Vienna, Austria."
-      ],
-      "doi": "10.3389/fcell.2026.1929789",
-      "date": "2026-08-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42718737/"
-    },
-    {
-      "pmid": "42718670",
-      "title": "Editorial: Organoids and 3D culture: bridging tissue complexity in biomedical research.",
-      "abstract": "",
-      "journal": "Frontiers in medicine",
-      "publicationTypes": [
-        "Editorial"
-      ],
-      "affiliations": [
-        "Department of Integrative Biology and Physiology, University of Minnesota, Minneapolis, MN, United States.",
-        "Department of Medicine and Surgery, University of Parma, Parma, Italy.",
-        "Departmental Faculty of Medicine UniCamillus-Saint Camillus International University of Health Sciences, Rome, Italy."
-      ],
-      "doi": "10.3389/fmed.2026.1959510",
-      "date": "2026-08-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42718670/"
-    },
-    {
-      "pmid": "42718611",
-      "title": "Traditional Chinese Medicine-derived berberine-loaded herbzyme ameliorates ulcerative colitis by regulating IL10 and TMAO.",
-      "abstract": "Ulcerative colitis (UC) is a common inflammatory bowel disease. The traditional Chinese medicine (TCM) formula Zanglian Wan has demonstrated promising therapeutic effects in clinical practice, yet the synergistic mechanisms among its active components remain to be fully elucidated. Inspired by this formula, this study successfully constructed a novel nanocomplex, BLCDs, through the self-assembly of Sanguisorba officinalis L.-derived carbon dots (LCDs) and berberine (BBR) via electrostatic interactions and hydrogen bonding. Characterization results showed that LCDs possessed a uniform size distribution and were rich in oxygen-containing functional groups (carboxyl, hydroxyl, carbonyl) on their surface. Their SOD-like activity was dependent on these groups and was retained after BBR conjugation. In LPS-stimulated NCM460 cells, RNA-seq identified IL10 as the most significantly upregulated gene upon BLCDs treatment. Mechanistically, BLCDs promoted the phosphorylation of STAT3 (p-STAT3), which transcriptionally upregulated IL10 expression, leading to inhibition of the NLRP3 inflammasome pathway and its downstream inflammatory cytokines. In DSS-induced mouse model, BLCDs significantly ameliorated intestinal inflammation, oxidative stress, and barrier dysfunction. This therapeutic advantage was attributed to enhanced intestinal retention conferred by their larger particle size and charge switching properties. 16S rDNA sequencing indicated that BLCDs increased gut microbiota abundance and diversity, suppressed the growth of harmful bacteria such as Klebsiella, and reduced the generation of trimethylamine N-oxide (TMAO). Colorectal normal organoids (CNOs) experiments further confirmed that BLCDs reversed TMAO-induced inflammatory lesions through an IL10-dependent mechanism. Both in vitro and in vivo safety evaluations demonstrated that BLCDs possess good biocompatibility. Taken together, this study successfully constructed BLCDs nanocomplexes integrating the antioxidant activity of LCDs and the anti-inflammatory properties of BBR. By modulating p-STAT3-IL10-NLRP3 pathway and the Klebsiella-TMAO axis to ameliorate UC, this work establishes a foundation for the development of nanomedicines based on active TCM components.",
-      "journal": "Materials today. Bio",
+      "pmid": "42721785",
+      "title": "Polystyrene nanoplastics induce cardiotoxicity by driving myocardial metabolic reprogramming via the SDHA/Succinate/HIF-1α axis.",
+      "abstract": "Micro- and nano-plastics (MNPs) have emerged as ubiquitous environmental contaminants and are increasingly implicated in adverse cardiovascular outcomes, yet their induced cardiotoxicity and potential mechanisms remain poorly understood. This study integrated in vivo mouse models, AC16 cardiomyocytes and a human cardiac organoid-on-a-chip (COoC) platform to multi-dimensionally evaluate polystyrene nanoparticles (PS-NPs)-induced cardiac injury and clarify its key molecular mechanisms. We found that PS-NPs exposure induced pronounced structural and functional cardiac injury in mice and caused impaired myocardial contraction, disrupted calcium transients and increased injury biomarkers in vitro. Notably, PS-NPs exposure perturbed myocardial energy metabolism, producing a metabolic reprogramming profile characterized by suppressed fatty acid oxidation (FAO) and enhanced glycolytic activity. Metabolic interventions further showed that activation of FAO or promotion of mitochondrial pyruvate oxidation improved myocardial energy status and alleviated cardiotoxicity, whereas direct inhibition of glycolysis aggravated energy depletion and cellular injury, suggesting that enhanced glycolysis provided partial energetic compensation but was insufficient to offset impaired oxidative metabolism. Mechanistically, our findings indicated a functional role of the SDHA/succinate/HIF-1α signaling axis in this metabolic reprogramming. PS-NPs-induced SDHA downregulation promoted succinate accumulation and HIF-1α stabilization, thereby rewiring myocardial energy metabolism and contributing to cardiac dysfunction. Collectively, we revealed myocardial metabolic reprogramming as an important mechanism underlying PS-NPs-induced cardiotoxicity and identified the SDHA/succinate/HIF-1α axis as a potential molecular link between PS-NPs exposure and cardiac injury.",
+      "journal": "Environment international",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Nanjing Hospital of Chinese Medicine, Nanjing University of Chinese Medicine, Nanjing, 210000, China.",
-        "Department of Neurosurgery, The Second Affiliated Hospital, Shantou University Medical College, Shantou, 515000, China.",
-        "Hepatopancreatobiliary Surgery, Xuzhou Central Hospital, Southeast University, Xuzhou, 221000, China."
+        "Key Laboratory of Environmental Medicine Engineering, Ministry of Education, School of Public Health, Southeast University, Nanjing, Jiangsu 210009, China; Institute of Biomedical Devices (Suzhou), Southeast University, Suzhou 215163, China. Electronic address: tyi_zhang@163.com.",
+        "Key Laboratory of Environmental Medicine Engineering, Ministry of Education, School of Public Health, Southeast University, Nanjing, Jiangsu 210009, China; Institute of Biomedical Devices (Suzhou), Southeast University, Suzhou 215163, China. Electronic address: niuyiru666@163.com.",
+        "Key Laboratory of Environmental Medicine Engineering, Ministry of Education, School of Public Health, Southeast University, Nanjing, Jiangsu 210009, China; Institute of Biomedical Devices (Suzhou), Southeast University, Suzhou 215163, China. Electronic address: 220234019@seu.edu.cn.",
+        "Key Laboratory of Environmental Medicine Engineering, Ministry of Education, School of Public Health, Southeast University, Nanjing, Jiangsu 210009, China. Electronic address: geyiling11@163.com.",
+        "Key Laboratory of Environmental Medicine Engineering, Ministry of Education, School of Public Health, Southeast University, Nanjing, Jiangsu 210009, China. Electronic address: lhyin@seu.edu.cn.",
+        "Key Laboratory of Environmental Medicine Engineering, Ministry of Education, School of Public Health, Southeast University, Nanjing, Jiangsu 210009, China. Electronic address: yppu@seu.edu.cn.",
+        "Key Laboratory of Environmental Medicine Engineering, Ministry of Education, School of Public Health, Southeast University, Nanjing, Jiangsu 210009, China; Institute of Biomedical Devices (Suzhou), Southeast University, Suzhou 215163, China. Electronic address: 1024227634@qq.com.",
+        "State Key Laboratory of Bioelectronics, School of Biological Science and Medical Engineering, Southeast University, Nanjing, Jiangsu 210096, China; Institute of Microphysiological Systems, Southeast University, Nanjing 211189, China. Electronic address: 101012282@seu.edu.cn.",
+        "Key Laboratory of Environmental Medicine Engineering, Ministry of Education, School of Public Health, Southeast University, Nanjing, Jiangsu 210009, China; Institute of Microphysiological Systems, Southeast University, Nanjing 211189, China. Electronic address: lianggeyu@163.com."
       ],
-      "doi": "10.1016/j.mtbio.2026.103615",
-      "date": "2026-08-27",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42718611/"
+      "doi": "10.1016/j.envint.2026.110497",
+      "date": "2026-09-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721785/"
     },
     {
       "pmid": "42717098",
@@ -289,6 +304,28 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667121/"
     },
     {
+      "pmid": "42721204",
+      "title": "AET5: A transcriptome-guided molecular generation framework with contrastive self-supervised learning.",
+      "abstract": "Gene expression profiles capture system-level drug responses and offer a promising basis for de novo molecular generation. However, their application is limited by data sparsity and experimental noise, which hinder the reliable mapping between disease-associated transcriptomic perturbations and chemically valid therapeutic molecules. Here, we present AET5, a de novo molecular generation framework that conditions molecular design on disease-reversal gene expression profiles. AET5 integrates contrastive self-supervised learning with pre-trained sequence-to-sequence models to learn robust associations between transcriptomic signatures and molecular structures by deriving noise-tolerant transcriptomic representations and aligning them with molecular sequence space. Across the L1000 dataset, AET5 outperforms existing expression-guided generation methods in generation quality and distributional characteristics, while maintaining favorable physicochemical and drug-related properties. We further apply AET5 to generate candidate compounds for SARS-CoV-2 infection and prostate cancer. Molecular docking and dynamics simulations indicate stable target binding, supporting the biological relevance of the generated molecules. These results demonstrate that disease-reversal expression profiles can effectively guide de novo molecular generation, providing a general framework for biologically informed drug design under noisy transcriptomic conditions.",
+      "journal": "PLoS computational biology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Electronic and Information Engineering, Suzhou University of Science and Technology, Suzhou, Jiangsu, China.",
+        "Hangzhou Institute of Medicine, Chinese Academy of Sciences, Hangzhou, Zhejiang, China.",
+        "School of Computer Science and Technology, Zhejiang Normal University, Jinhua, Zhejiang, China.",
+        "Yangtze Delta Region Institute (Quzhou), University of Electronic Science and Technology of China, Quzhou, Zhejiang, China.",
+        "University of Oxford, Oxford, Oxfordshire, United Kingdom.",
+        "Faculty of Computing, Harbin Institute of Technology, Harbin, Heilongjiang, China.",
+        "School of Information Technology, Halmstad University, Halmstad, Sweden.",
+        "Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China."
+      ],
+      "doi": "10.1371/journal.pcbi.1014703",
+      "date": "2026-09-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721204/"
+    },
+    {
       "pmid": "42720471",
       "title": "AI-Guided Discovery of Natural-Product-Inspired Scaffolds as Dual P-gp/BCRP Inhibitors to Overcome Cancer Multidrug Resistance.",
       "abstract": "ATP-binding cassette (ABC) transporters ABCB1/P-glycoprotein (P-gp) and ABCG2/breast cancer resistance protein (BCRP) drive multidrug resistance (MDR) by limiting intracellular chemotherapy accumulation, and are coexpressed in cancers with overlapping substrates. Here, we combine marine natural product fragment mining, artificial intelligence (AI)-based molecular generation, and structure-guided prioritization to design a natural-product-inspired library. Two optimized analogs, Ib18 and It12, reversed P-gp/BCRP-mediated resistance in overexpressing cells, outperforming reference inhibitors. Mechanistic studies confirmed target engagement without expression downregulation. Docking and molecular dynamics simulations provided the structural rationales for dual transporter engagement. Transcriptomics showed Ib18 avoided stress responses triggered by reference inhibitors, supporting an expression-independent MDR-sensitizing mechanism with limited cytotoxicity. In xenografts, Ib18 enhanced the antitumor activity and tumor accumulation of mitoxantrone without detectably increasing systemic toxicity. Together, these findings demonstrate the utility of AI-guided molecular design for overcoming MDR and establish a promising natural-product-inspired chemotype for dual P-gp/BCRP inhibitor.",
@@ -378,23 +415,26 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42701117/"
     },
     {
-      "pmid": "42700916",
-      "title": "Application of emerging technologies in the antiviral field.",
-      "abstract": "Viral diseases pose a serious threat to global public health, agriculture, and biosecurity. Conventional antiviral strategies are often limited by an incomplete understanding of disease mechanisms, poor targeting precision, and slow response times. Emerging technologies are now reshaping the landscape of antiviral research. This review examines the roles of four key frontiers, including organoid models, gene editing, AI-driven molecular design, and synthetic biology. Organoids provide physiologically relevant platforms that model virus-host interactions and disease progression. Viral infections remain a major challenge to human and animal health, agriculture, and biosecurity. Progress in antiviral research is constrained by the complexity of viral pathogenesis, the diversity and rapid evolution of viruses, and the limited translational relevance of some traditional model systems. Recent advances in organoid technology, gene editing, artificial intelligence, and synthetic biology are expanding the toolkit available for antiviral research and development. In this review, we discuss how these four technological frontiers contribute to disease modeling, target discovery, molecular design, and translational innovation. Organoids, in particular, provide physiologically relevant systems for investigating viral infection, tissue tropism, host responses, and pathogenesis. Gene editing tools, such as CRISPR, enable precise manipulation of host and viral genomes, facilitating the development of resistant organisms and next-generation vaccine platforms. AI technologies, including AlphaFold for structure prediction and platforms for de novo protein design, address long-standing bottlenecks in structural biology and offer powerful means to engineer antiviral proteins, antibodies, and vaccine antigens. Synthetic biology, guided by the Design-Build-Test-Learn cycle, integrates computational design, genetic assembly, and functional validation into a cohesive pipeline. Together, these technologies form a synergistic workflow that spans disease modeling, target discovery, molecular design, construction, testing, and iterative optimization. This integrated approach is shifting antiviral development from traditional empirical methods toward more precise, intelligent strategies. The review also highlights ongoing challenges in integration and scalability, stressing that high-quality biological datasets and stronger interdisciplinary collaboration are essential for realizing translational potential. By presenting a cohesive view of these converging methodologies, this review offers a framework to guide the intelligent evolution of antiviral strategies in both human and animal health.",
-      "journal": "Antiviral research",
+      "pmid": "42722112",
+      "title": "Astrocyte-derived extracellular vesicle phosphorylated TDP-43 as a blood-based biomarker for amyotrophic lateral sclerosis.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease characterized by central nervous system (CNS) neuroglial TAR DNA-binding protein 43 (TDP-43) pathology in ~90-95% of cases. Non-invasive biomarkers are critically needed to reduce diagnostic delay, enable patient stratification, and assess treatment efficacy in clinical trials. Astrocyte-derived extracellular vesicles (ADEVs) represent promising CNS liquid biopsy biomarkers, given astrocyte involvement in ALS pathogenesis and the ability of ADEVs to cross the blood-brain barrier and carry TDP-43. Here, we assessed the diagnostic performance of TDP-43 and its hyperphosphorylated pathological form, phospho-Ser409 (pTDP-43), quantified in ADEVs, for distinguishing ALS cases from matched healthy controls. ADEVs were immunoisolated from whole blood (n = 76) and plasma (n = 86) across three ALS biorepositories/cohorts. ADEV quality and enrichment were validated in accordance with minimal information for studies of extracellular vesicles guidelines, and protein levels were normalized by ratio to tetraspanin cluster of differentiation 81 (CD81). Diagnostic accuracy was evaluated by logistic regression and random forest models with cross-validation, adjusting for age and sex across 100 random seeds. Plasma ADEV pTDP-43/CD81 ratio best predicted ALS case status, with a mean AUC of 0.89 (95% CI: 0.75-0.99) from logistic models, corresponding to a mean sensitivity and specificity of 87% and 89%, respectively, and a mean AUC of 0.86 (95% CI: 0.82-0.90) from random forest models. Although the specificity of ADEV pTDP-43 relative to disease mimics and associations with disease progression require further investigation, these findings support its potential as a biomarker candidate for ALS and for patient stratification in TDP-43-targeted clinical trials.",
+      "journal": "Neurobiology of disease",
       "publicationTypes": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ],
       "affiliations": [
-        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, China.",
-        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, China. Electronic address: wenjuandu111@163.com.",
-        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, China. Electronic address: shengwang@henau.edu.cn.",
-        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, China. Electronic address: yongtaole@126.com."
+        "Department of Environmental Health Sciences, Mailman School of Public Health, Columbia University, New York, NY, USA. Electronic address: tanyahbutt@gmail.com.",
+        "Department of Environmental Health Sciences, Mailman School of Public Health, Columbia University, New York, NY, USA.",
+        "Office of Analytics and Innovation, Agency for Toxic Substances and Disease Registry, Centers for Disease Control and Prevention, Atlanta, GA, USA.",
+        "Department of Neurology, Columbia University Irving Medical Center, New York, NY, USA.",
+        "Department of Epidemiology, Mailman School of Public Health, Columbia University, New York, NY, USA.",
+        "Department of Neurology, Columbia University Irving Medical Center, New York, NY, USA; Center for Motor Neuron Biology and Disease, Columbia University, New York, NY, USA.",
+        "Department of Environmental Health Sciences, Mailman School of Public Health, Columbia University, New York, NY, USA; Department of Epidemiology, School of Public Health, Brown University, Providence, RI, USA.",
+        "Department of Environmental Health Sciences, Mailman School of Public Health, Columbia University, New York, NY, USA; Center for Motor Neuron Biology and Disease, Columbia University, New York, NY, USA."
       ],
-      "doi": "10.1016/j.antiviral.2026.106529",
-      "date": "2026-09-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42700916/"
+      "doi": "10.1016/j.nbd.2026.107601",
+      "date": "2026-09-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42722112/"
     },
     {
       "pmid": "42720694",
@@ -482,62 +522,166 @@
       "doi": "10.1016/j.clgc.2026.102651",
       "date": "2026-08-18",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42716838/"
-    },
-    {
-      "pmid": "42716240",
-      "title": "Phage-based biosensors for Cancer biomarker detection and diagnosis.",
-      "abstract": "Early cancer identification is necessary to reduce mortality. Traditional methods for identifying cancers can be problematic. Tissue biopsies are invasive procedures, and immunoassays vary widely in their sensitivity while requiring complex laboratory instrumentation. Therefore, there is a need for portable, rapid, and noninvasive point-of-care stations. Phage-based biosensors have emerged as a means to satisfy the requirements for these types of tools. This article examines phage-based biosensors in three categories: electrochemical, optical, and acoustic. Electrochemical sensors utilize label-free (EIS, SWV) methodologies to achieve highly sensitive detection of circulating tumor cells and cancer biomarkers. Optical biosensors utilizing either quantum dots or liquid crystals can provide up to 20-fold greater sensitivity than ELISA tests. Acoustic biosensors utilizing piezoelectric resonators can deliver results rapidly (< 5 min) and portably. In addition, arrays of phage can be utilized in conjunction with deep learning technologies to facilitate early and noninvasive detection of lung cancer through breath analysis of volatile organic compounds. Additional advantages of using phage-based biosensors include: very high stability, low cost of production, genetically tailorability, and usability across different applications, which would provide viable alternatives to liquid biopsy as well as point-of-care testing techniques for early identification of cancers. While clinical validation and multiplexing are currently recognized as areas that require further refinement/development within this field, phage-based sensors have great potential for use in the early identification of disease.",
-      "journal": "Clinica chimica acta; international journal of clinical chemistry",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Pharmaceutics and Pharmaceutical Technology, School of Pharmacy, University of Jordan, Amman 11942, Jordan.",
-        "Faculty of Allied Medical Sciences, Hourani Center for Applied Scientific Research, Al-Ahliyya Amman University, Amman, Jordan. Electronic address: qriequatghaleb@gmail.com.",
-        "Department of Chemistry and Biochemistry, School of Sciences, JAIN (Deemed to be University), Bangalore, Karnataka, India. Electronic address: g.subbulakshmi@jainuniversity.ac.in.",
-        "Department of Biochemistry, IMS and SUM Hospital, Siksha 'O' Anusandhan, Bhubaneswar, Odisha 751003, India. Electronic address: subhashreeray@soa.ac.in.",
-        "Department of Biotechnology, Sathyabama Institute of Science and Technology, Chennai, Tamil Nadu, India. Electronic address: rameshkumar.biotech@sathyabama.ac.in.",
-        "Department of Biotechnology, University Institute of Biotechnology, Chandigarh University, Mohali, Punjab, India.",
-        "Uttaranchal Institute of Pharmaceutical Sciences, Division of research and innovation, Uttaranchal University, Dehradun, Uttarakhand, India.",
-        "Department of Medicine, Termez University of Economics and Service, Termez, Uzbekistan."
-      ],
-      "doi": "10.1016/j.cca.2026.121332",
-      "date": "2026-09-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42716240/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42720495",
+      "id": "pubmed-42722241",
       "date": "2026-09-10",
-      "title": "Discovery of a Covalent NLRP3 LRR-Domain Probe: Reversing Renal Fibrosis via Immunometabolic Reprogramming in Organoid and Murine Models.",
+      "title": "Dioscin activates myeloid AMPK to restore Lgr5⁺ stem cell homeostasis and promote mucosal repair in ulcerative colitis.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42720495/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42722241/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
+        "Precision Oncology"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "临床",
-        "监管"
+        "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of medicinal chemistry，PMID 为 42720495。",
-      "report": "Targeting the NLRP3 inflammasome is critical for treating fibrotic diseases; however, current NACHT domain inhibitors face mutational escape and limited isoform specificity. The autoinhibitory leucine-rich repeat (LRR) domain represents an underexplored pharma...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Pharmacological research，PMID 为 42722241。",
+      "report": "Ulcerative colitis (UC) is a chronic relapsing inflammatory disease with limited efficacy in achieving durable mucosal healing and preventing dysplasia. Macrophage-intestinal stem cell (ISC) crosstalk plays a central role in epithelial regeneration and tumorig...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42721974",
+      "date": "2026-09-10",
+      "title": "Evaluation of anti-tumor drugs by simulating physiological absorption and metabolism with a multi-organoid system.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721974/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell systems，PMID 为 42721974。",
+      "report": "Although patient-derived tumor organoids are widely applied for evaluating anti-tumor drugs, the lack of a physiologically relevant environment limits drug assessment. Intestinal absorption and liver metabolism are critical for drug efficacy but cannot be reca...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42721963",
+      "date": "2026-09-10",
+      "title": "4D spatiotemporal landscape of mitochondrial phenotypes across cellular states unlocked through representation learning.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721963/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell，PMID 为 42721963。",
+      "report": "Mitochondria are four-dimensional (4D: x, y, z, and time) organelles essential for cellular function. Characterizing their 4D phenotypic landscape across diverse cellular states requires both 4D imaging and analytical frameworks. We present MitoSpace, a self-s...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42721961",
+      "date": "2026-09-10",
+      "title": "Chemical induction and reversal of photoreceptor dystrophy in retinal organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721961/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42721961。",
+      "report": "Activating transcription factor 6 (ATF6) controls a signal transduction pathway of the unfolded protein response (UPR). Loss-of-function ATF6 mutations cause inherited photoreceptor diseases. Ceapin-A7 is a non-toxic, cell-permeable small molecule that selecti...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42721204",
+      "date": "2026-09-10",
+      "title": "AET5: A transcriptome-guided molecular generation framework with contrastive self-supervised learning.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721204/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 PLoS computational biology，PMID 为 42721204。",
+      "report": "Gene expression profiles capture system-level drug responses and offer a promising basis for de novo molecular generation. However, their application is limited by data sparsity and experimental noise, which hinder the reliable mapping between disease-associat...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -571,6 +715,38 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of medicinal chemistry，PMID 为 42720471。",
       "report": "ATP-binding cassette (ABC) transporters ABCB1/P-glycoprotein (P-gp) and ABCG2/breast cancer resistance protein (BCRP) drive multidrug resistance (MDR) by limiting intracellular chemotherapy accumulation, and are coexpressed in cancers with overlapping substrat...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42722112",
+      "date": "2026-09-10",
+      "title": "Astrocyte-derived extracellular vesicle phosphorylated TDP-43 as a blood-based biomarker for amyotrophic lateral sclerosis.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42722112/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Neurobiology of disease，PMID 为 42722112。",
+      "report": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease characterized by central nervous system (CNS) neuroglial TAR DNA-binding protein 43 (TDP-43) pathology in ~90-95% of cases. Non-invasive biomarkers are critically needed to reduce diagnos...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -734,36 +910,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42716240",
-      "date": "2026-09-09",
-      "title": "Phage-based biosensors for Cancer biomarker detection and diagnosis.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42716240/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Clinica chimica acta; international journal of clinical chemistry，PMID 为 42716240。",
-      "report": "Early cancer identification is necessary to reduce mortality. Traditional methods for identifying cancers can be problematic. Tissue biopsies are invasive procedures, and immunoassays vary widely in their sensitivity while requiring complex laboratory instrume...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42701174",
       "date": "2026-09-05",
       "title": "A dynamic fusion diffusion model for molecular generation.",
@@ -824,36 +970,31 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42700916",
-      "date": "2026-09-05",
-      "title": "Application of emerging technologies in the antiviral field.",
+      "id": "pubmed-42721785",
+      "date": "2026-09-02",
+      "title": "Polystyrene nanoplastics induce cardiotoxicity by driving myocardial metabolic reprogramming via the SDHA/Succinate/HIF-1α axis.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42700916/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721785/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery"
+        "Advanced Disease Models"
       ],
       "tags": [
         "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
+        "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Antiviral research，PMID 为 42700916。",
-      "report": "Viral diseases pose a serious threat to global public health, agriculture, and biosecurity. Conventional antiviral strategies are often limited by an incomplete understanding of disease mechanisms, poor targeting precision, and slow response times. Emerging te...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Environment international，PMID 为 42721785。",
+      "report": "Micro- and nano-plastics (MNPs) have emerged as ubiquitous environmental contaminants and are increasingly implicated in adverse cardiovascular outcomes, yet their induced cardiotoxicity and potential mechanisms remain poorly understood. This study integrated...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -918,154 +1059,6 @@
       "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42667121。",
       "report": "Predicting how single cells respond to perturbations is a central problem in computational biology, with potential relevance to emerging artificial intelligence virtual cell (AIVC) research and drug-discovery efforts. However, substantial variation in perturba...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42718611",
-      "date": "2026-08-27",
-      "title": "Traditional Chinese Medicine-derived berberine-loaded herbzyme ameliorates ulcerative colitis by regulating IL10 and TMAO.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42718611/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Materials today. Bio，PMID 为 42718611。",
-      "report": "Ulcerative colitis (UC) is a common inflammatory bowel disease. The traditional Chinese medicine (TCM) formula Zanglian Wan has demonstrated promising therapeutic effects in clinical practice, yet the synergistic mechanisms among its active components remain t...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42719207",
-      "date": "2026-08-26",
-      "title": "State of the industry: integration of 3Rs principles and new approach methodologies in non-clinical product development through fit-for-purpose.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42719207/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in medicine，PMID 为 42719207。",
-      "report": "Regulators, such as the FDA and EMA, are increasingly signaling expectations for broader and earlier adoption of New Approach Methodologies (NAMs) to reduce, refine, and, where justified, replace animal studies (3Rs principle)-particularly where NAMs can deliv...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42718928",
-      "date": "2026-08-26",
-      "title": "Editorial: 3D models in cancer research: bridging tumor biology and personalized medicine.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42718928/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42718928。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42718737",
-      "date": "2026-08-26",
-      "title": "Editorial: Proceedings of anatomy 2024 - tripartite meeting: the role of medical embryology for interdisciplinary research.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42718737/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42718737。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42718670",
-      "date": "2026-08-26",
-      "title": "Editorial: Organoids and 3D culture: bridging tissue complexity in biomedical research.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42718670/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in medicine，PMID 为 42718670。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1168,6 +1161,40 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42719676。",
       "report": "Circulating tumor DNA (ctDNA), a core component of liquid biopsy, demonstrates significant potential in the field of neoadjuvant therapy for solid tumors. This review systematically examines the role of ctDNA across the pre-, intra-, and post-neoadjuvant treat...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42721885",
+      "date": "2026-08-18",
+      "title": "From drug response to resistance evolution: Leveraging 3D cancer models for functional precision oncology.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721885/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer treatment reviews，PMID 为 42721885。",
+      "report": "Therapy resistance remains a major cause of relapse and cancer-related mortality, arising from dynamic interactions between tumor-intrinsic programs and microenvironmental constraints. Genetic and epigenetic alterations, transcriptional rewiring, metabolic ada...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
