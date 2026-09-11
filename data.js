@@ -1055,71 +1055,77 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42721961",
+      "id": "pubmed-42723155",
       "date": "2026-09-10",
-      "title": "Chemical induction and reversal of photoreceptor dystrophy in retinal organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "A Site-Aware Representation Learning Framework For Unified Molecular Interaction Modeling and Generative Design.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721961/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42723155/",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": true,
+      "needsReview": false,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models"
+        "AI for Biology",
+        "Drug Discovery",
+        "Drug Screening"
       ],
       "tags": [
-        "类器官",
-        "疾病模型"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42721961。",
-      "report": "Activating transcription factor 6 (ATF6) controls a signal transduction pathway of the unfolded protein response (UPR). Loss-of-function ATF6 mutations cause inherited photoreceptor diseases. Ceapin-A7 is a non-toxic, cell-permeable small molecule that selecti...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42723155。",
+      "report": "Unifying drug-target affinity prediction and targeted molecular design within a single interpretable framework remains challenging. Many sequence-based affinity and design methods rely on global target representations without explicitly modeling binding region...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_073fa35800ea6c30006aa387dec61087d2bfb9525578fd2ab9",
-        "reviewedAt": "2026-09-11T04:47:12.226987+00:00",
-        "inputHash": "27b62f906105d1e36234ab302e424008b1f87931bc064b5f30e0769bbd3561ad",
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "文献中涉及ATF6和视网膜疾病，但缺乏对研究质量的评估，需进一步判断。",
+        "responseId": "resp_08a036c551e36d18006aa3e5f1956887d1b50bb2b5c6bc485d",
+        "reviewedAt": "2026-09-11T11:28:48.406154+00:00",
+        "inputHash": "e3b5dce5797d917a5f7e87c7368a04acf912dfef93ab0c7b3b45c7ac5928c316",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录符合发布标准。所有信息分类明确，未包含未证实的临床结论。",
         "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "研究质量和临床相关性评估不足，类别分类过于宽泛。"
+          "isSupported": true,
+          "notesCn": "分类合理，符合文献内容。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "中等证据水平，但缺乏对研究质量和样本量的描述。"
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断分开清晰，证据水平合理。"
         },
         "riskFlags": [
           "weak_classification",
           "insufficient_source"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
+          "primaryCategory": "AI Drug Discovery",
+          "subCategory": "AI-enabled Discovery",
+          "evidenceLevel": "Medium",
           "themes": [
-            "Organoids",
-            "Advanced Disease Models"
+            "AI for Biology",
+            "Drug Discovery",
+            "Drug Screening"
           ],
           "tags": [
-            "类器官",
-            "疾病模型"
+            "AI 制药",
+            "蛋白设计",
+            "分子生成",
+            "药筛"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42721961。",
-          "report": "Activating transcription factor 6 (ATF6) controls a signal transduction pathway of the unfolded protein response (UPR). Loss-of-function ATF6 mutations cause inherited photoreceptor diseases. Ceapin-A7 is a non-toxic, cell-permeable small molecule that selecti...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42723155。",
+          "report": "Unifying drug-target affinity prediction and targeted molecular design within a single interpretable framework remains challenging. Many sequence-based affinity and design methods rely on global target representations without explicitly modeling binding region...",
+          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1422,6 +1428,85 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Medical molecular morphology，PMID 为 42720694。",
           "report": "The pathogenesis of cancer is characterized by the acceleration of tumor growth, inhibition of tumor suppression, genetic and epigenetic alteration, lubricative transformation and tumor microenvironment. Extramammary Paget's disease (EMPD) is a rare skin cancer.",
           "inference": "报告的内容包含潜在的临床结论，但缺乏支持性证据。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42723059",
+      "date": "2026-09-09",
+      "title": "Real-time monitoring of CAR T cell dynamics in tumor patient-derived organoids using the OrganoIDNet algorithm.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42723059/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42723059。",
+      "report": "Patient-derived organoids (PDOs) provide physiologically relevant 3D tumor models for preclinical drug testing, yet robust and automated methods to quantify dynamic responses to immunotherapies remain limited. OrganoIDNet is a deep learning-based image analysi...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0a2ac76ccdcde4ed006aa3e5f6a95087d1a557ee777daac19e",
+        "reviewedAt": "2026-09-11T11:28:48.406154+00:00",
+        "inputHash": "e8877f832dbebb534cf8de1450e5ba6be3c89b10c78bd483f70e4f89cf4d9c25",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号根据所提供的元数据符合出版标准，内容中立，未包含未经证实的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断区分清晰，证据水平合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "research",
+          "biotech"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42723059。",
+          "report": "Patient-derived organoids (PDOs) provide physiologically relevant 3D tumor models for preclinical drug testing, yet robust and automated methods to quantify dynamic responses to immunotherapies remain limited. OrganoIDNet is a deep learning-based image analysi...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -2109,77 +2194,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42701117",
-      "date": "2026-09-05",
-      "title": "Controllable molecular generation with fine-tuned flow-matching model.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42701117/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Communications chemistry，PMID 为 42701117。",
-      "report": "Three-dimensional molecular generative models have emerged that produce de novo molecules both unconditionally and conditionally, e.g., within protein pockets. However, steering those models in a specific region of the chemical space that satisfies a set of de...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0fad042ce40b037e006a9d488e3d6887d19f9aae8cab907ac9",
-        "reviewedAt": "2026-09-06T11:03:16.182714+00:00",
-        "inputHash": "f25cba1f2bcded39bdcda5b9e11da3903c46c2a3877e76248a82611acaa2c984",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "文献支持的信息清晰且分类合理，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "AI for Biology",
-            "Drug Discovery"
-          ],
-          "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Communications chemistry，PMID 为 42701117。",
-          "report": "Three-dimensional molecular generative models have emerged that produce de novo molecules both unconditionally and conditionally, e.g., within protein pockets. However, steering those models in a specific region of the chemical space that satisfies a set of de...",
-          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "sec-0000874015-000114036126035802",
       "date": "2026-09-04",
       "title": "Ionis Pharmaceuticals filed Form 8-K",
@@ -2400,55 +2414,58 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42721785",
-      "date": "2026-09-02",
-      "title": "Polystyrene nanoplastics induce cardiotoxicity by driving myocardial metabolic reprogramming via the SDHA/Succinate/HIF-1α axis.",
+      "id": "pubmed-42723218",
+      "date": "2026-09-01",
+      "title": "Organoids in Precision Radiotherapy: Methodological Foundations, Tumor-Specific Evidence, and Translational Roadmaps.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721785/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42723218/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
       "themes": [
         "Organoids",
-        "Advanced Disease Models"
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
       ],
       "tags": [
         "类器官",
-        "疾病模型"
+        "疾病模型",
+        "肿瘤",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Environment international，PMID 为 42721785。",
-      "report": "Micro- and nano-plastics (MNPs) have emerged as ubiquitous environmental contaminants and are increasingly implicated in adverse cardiovascular outcomes, yet their induced cardiotoxicity and potential mechanisms remain poorly understood. This study integrated...",
+      "fact": "PubMed 记录显示该文献收录于 Cancer medicine，PMID 为 42723218。",
+      "report": "Radiotherapy remains a cornerstone of cancer treatment, while its efficacy is often limited by tumor radioresistance and the risk of normal tissue toxicity. Conventional preclinical models, including two-dimensional (2D) cell cultures and murine xenografts, ex...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_07168c7e331770a4006aa387eb9bd487d2b51a9a7e38c874ca",
-        "reviewedAt": "2026-09-11T04:47:12.226987+00:00",
-        "inputHash": "b2487d00037e76bfd37729f00dba30f4817f5c2f96174f7fb02e7d1900298dd2",
+        "responseId": "resp_0e798fe777004dd0006aa3e5fe23d487d1904767c28ad8bc0a",
+        "reviewedAt": "2026-09-11T11:28:48.406154+00:00",
+        "inputHash": "ef91c6b18184aa344720f555b37819880adc97347c74ba7d0b830725759f2008",
         "status": "pass",
-        "confidence": 0.95,
+        "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录符合出版要求，信息明确且无未经支持的临床结论。",
+        "reviewSummaryCn": "该记录符合发布标准，所有信息明确分类，且未包含未经支持的临床结论。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": ""
+          "notesCn": "主要分类和证据水平合理。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": ""
+          "notesCn": "事实、报告和推论清晰分离。"
         },
         "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
+          "weak_classification"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -2456,14 +2473,18 @@ window.BHR_DATA = {
           "evidenceLevel": "Medium",
           "themes": [
             "Organoids",
-            "Advanced Disease Models"
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Drug Screening"
           ],
           "tags": [
             "类器官",
-            "疾病模型"
+            "疾病模型",
+            "肿瘤",
+            "药筛"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Environment international，PMID 为 42721785。",
-          "report": "Micro- and nano-plastics (MNPs) have emerged as ubiquitous environmental contaminants and are increasingly implicated in adverse cardiovascular outcomes, yet their induced cardiotoxicity and potential mechanisms remain poorly understood. This study integrated...",
+          "fact": "PubMed 记录显示该文献收录于 Cancer medicine，PMID 为 42723218。",
+          "report": "Radiotherapy remains a cornerstone of cancer treatment, while its efficacy is often limited by tumor radioresistance and the risk of normal tissue toxicity. Conventional preclinical models, including two-dimensional (2D) cell cultures and murine xenografts, ex...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
@@ -3092,88 +3113,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42721885",
-      "date": "2026-08-18",
-      "title": "From drug response to resistance evolution: Leveraging 3D cancer models for functional precision oncology.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721885/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer treatment reviews，PMID 为 42721885。",
-      "report": "Therapy resistance remains a major cause of relapse and cancer-related mortality, arising from dynamic interactions between tumor-intrinsic programs and microenvironmental constraints. Genetic and epigenetic alterations, transcriptional rewiring, metabolic ada...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0f8083293544b543006aa387ef8a1087d2b9632d8830e20b12",
-        "reviewedAt": "2026-09-11T04:47:12.226987+00:00",
-        "inputHash": "81abb7fcd1a53c1a396cb1845fcb28199439d532bb15cfdc7befe6993ebf2a71",
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献的分类和证据水平合理，信息分隔清晰，未提供治疗建议或未支持的临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "信息分隔清晰，包括事实、报告和推论。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
-            "Drug Screening",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "药筛",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Cancer treatment reviews，PMID 为 42721885。",
-          "report": "Therapy resistance remains a major cause of relapse and cancer-related mortality, arising from dynamic interactions between tumor-intrinsic programs and microenvironmental constraints. Genetic and epigenetic alterations, transcriptional rewiring, metabolic ada...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42716838",
       "date": "2026-08-18",
       "title": "Prognostic Value of Androgen Receptor (AR) Gene Alterations Detected in Circulating Tumor DNA (ctDNA) in Patients With Metastatic Castration-Resistant Prostate Cancer: A Systematic Review and Meta-analysis.",
@@ -3386,6 +3325,79 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "pubmed-42722640",
+      "date": "2026-08-13",
+      "title": "Modeling reptile virus infection in vitro using Python regius airway organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42722640/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42722640。",
+      "report": "Zoonoses pose substantial global health risks, highlighting the need to better understand animal-to-human transmission. Reptiles are increasingly recognized as hosts of diverse pathogens, including numerous viruses, yet the diversity and prevalence of reptile...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_085c3df8d47f2217006aa3e605bf8c87d181a9b822874bead6",
+        "reviewedAt": "2026-09-11T11:28:48.406154+00:00",
+        "inputHash": "2e59c3b38adb4329c4c6ee7b6592bd7871d6ba6b3f110621d2ca2bcf349325b2",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该卡片信息清晰，符合发布标准，无需人类审查。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42722640。",
+          "report": "Zoonoses pose substantial global health risks, highlighting the need to better understand animal-to-human transmission. Reptiles are increasingly recognized as hosts of diverse pathogens, including numerous viruses, yet the diversity and prevalence of reptile...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },

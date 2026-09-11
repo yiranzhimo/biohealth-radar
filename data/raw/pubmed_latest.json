@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-11T04:47:04.733027+00:00",
+  "capturedAt": "2026-09-11T11:28:38.631563+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,24 +14,24 @@
     "end": "2026-09-11"
   },
   "pmids": [
+    "42723218",
+    "42723059",
+    "42722640",
     "42722241",
     "42721974",
     "42721963",
-    "42721961",
-    "42721885",
-    "42721785",
     "42717098",
     "42715312",
     "42699656",
     "42696754",
     "42693007",
     "42667121",
+    "42723155",
     "42721204",
     "42720471",
     "42716964",
     "42716354",
     "42701174",
-    "42701117",
     "42722112",
     "42720694",
     "42719702",
@@ -40,6 +40,62 @@
     "42716838"
   ],
   "records": [
+    {
+      "pmid": "42723218",
+      "title": "Organoids in Precision Radiotherapy: Methodological Foundations, Tumor-Specific Evidence, and Translational Roadmaps.",
+      "abstract": "Radiotherapy remains a cornerstone of cancer treatment, while its efficacy is often limited by tumor radioresistance and the risk of normal tissue toxicity. Conventional preclinical models, including two-dimensional (2D) cell cultures and murine xenografts, exhibit significant limitations in recapitulating human tumor pathophysiology, thereby impeding the clinical translation of novel radiotherapeutic strategies. Patient-derived organoids (PDOs) have emerged as transformative three-dimensional (3D) ex vivo models that recapitulate key aspects of original tumor heterogeneity and are increasingly applied in oncology research. This article provides a comprehensive review of the literature on the application of PDOs in radiation oncology, with a focused analysis of their pathway toward clinical translation. PDOs demonstrate significant utility in predicting radiosensitivity, elucidating radioresistance mechanisms, optimizing combination therapies, modeling radiation injury, and screening targeted drugs. The integration of organoid technology with microfluidic organ-on-a-chip (OoC) platforms also offers unprecedented capability to dynamically simulate the tumor microenvironment and conduct high-throughput dose-response studies. A translational roadmap is presented for leveraging these biomimetic systems to advance personalized radiotherapy, ultimately aiming to accelerate the clinical translational application of organoids. Despite challenges in standardization and immune component recapitulation, PDOs represent a powerful platform for advancing personalized radiotherapy.",
+      "journal": "Cancer medicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Radiation Oncology, The First Affiliated Hospital of Soochow University, Suzhou, Jiangsu, China."
+      ],
+      "doi": "10.1002/cam4.72251",
+      "date": "2026-09-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42723218/"
+    },
+    {
+      "pmid": "42723059",
+      "title": "Real-time monitoring of CAR T cell dynamics in tumor patient-derived organoids using the OrganoIDNet algorithm.",
+      "abstract": "Patient-derived organoids (PDOs) provide physiologically relevant 3D tumor models for preclinical drug testing, yet robust and automated methods to quantify dynamic responses to immunotherapies remain limited. OrganoIDNet is a deep learning-based image analysis framework that enables automated, label-free segmentation and longitudinal quantification of organoid morphology. Here, we extend the application of OrganoIDNet to evaluate chimeric antigen receptor (CAR) T cell activity against pancreatic ductal adenocarcinoma (PDAC) PDOs targeting the tumor-associated antigen CD318. CD318-directed CAR T cells were co-cultured with PDAC PDOs using a Matrigel-based sandwich system and monitored by time-lapse bright-field imaging. OrganoIDNet enabled accurate single-organoid segmentation and continuous quantification of organoid number and area across multiple effector-to-target ratios. CAR-318 T cells induced robust, antigen-dependent cytotoxicity, characterized by progressive reductions in organoid number and size and were accompanied by increased T cell activation marker expression and changes in TIM-3 expression at the endpoint. Dynamic imaging and T cell spatial analysis, further revealed close T cell-organoid interactions and early tumor cell elimination, providing time-resolved information on organoid responses and T cell proximity that complements conventional endpoint assays. By integrating organoid-immune co-cultures with OrganoIDNet-driven live-cell imaging, we established an automated longitudinal imaging assay for assessing CAR T cell-mediated responses in PDAC PDOs. The assay enabled continuous quantification of organoid number and area, together with image-based assessment of T cell proximity, across multiple effector-to-target ratios. These measurements provide time-resolved information on antigen-dependent cytotoxicity and spatial association during the observation period, supporting its potential utility as a preclinical platform for CAR T cell development and future personalized immunotherapy studies.",
+      "journal": "Journal of translational medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Translational Molecular Imaging, Max-Planck-Institute for Multidisciplinary Sciences, 37075, Göttingen, Germany.",
+        "Miltenyi Biotec B.V. & Co. KG, 51429, Bergisch Gladbach, Germany.",
+        "Clinic of Hematology and Medical Oncology, University Medical Center Göttingen, 37075, Göttingen, Germany.",
+        "Institute of Pathology, University Medical Center Göttingen, 37075, Göttingen, Germany.",
+        "Translational Molecular Imaging, Max-Planck-Institute for Multidisciplinary Sciences, 37075, Göttingen, Germany. falves@gwdg.de.",
+        "Clinic of Hematology and Medical Oncology, University Medical Center Göttingen, 37075, Göttingen, Germany. falves@gwdg.de.",
+        "Institute for Clinical and Interventional Radiology, University Medical Center Göttingen, 37075, Göttingen, Germany. falves@gwdg.de."
+      ],
+      "doi": "10.1186/s12967-026-08929-x",
+      "date": "2026-09-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42723059/"
+    },
+    {
+      "pmid": "42722640",
+      "title": "Modeling reptile virus infection in vitro using Python regius airway organoids.",
+      "abstract": "Zoonoses pose substantial global health risks, highlighting the need to better understand animal-to-human transmission. Reptiles are increasingly recognized as hosts of diverse pathogens, including numerous viruses, yet the diversity and prevalence of reptile pathogens, as well as their potential risk to humans, remain poorly understood. Here, we establish and characterize airway organoids derived from Python regius, providing an in vitro model to study reptile airway infection. Through de novo assembly of a Python regius reference genome, we characterize airway organoids at single-cell resolution, which suggests the presence of diverse cell populations including ionocytes, ciliated, secretory, goblet, endocrine, tuft, and basal cells. The organoids support productive infection with Ball Python Nidovirus (BPNV) and mount a robust epithelial antiviral response through the induction of interferon-stimulated genes, cytokines, and genes involved in chemical defense. As a proof-of-concept, treating organoids with antiviral drugs during infection reduces BPNV levels, highlighting the model's utility for drug testing. By providing a reductionist system of the serpentes airway, these organoids constitute a physiologically relevant in vitro model to study reptile viruses and host-pathogen interactions in their native host.",
+      "journal": "Nature communications",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Hubrecht Institute, Royal Netherlands Academy of Arts and Sciences, Utrecht, The Netherlands University Medical Centre Utrecht, Utrecht, The Netherlands Oncode Institute, Utrecht, The Netherlands.",
+        "The Princess Máxima Center for Pediatric Oncology, Utrecht, The Netherlands.",
+        "Viroscience Department, Erasmus University Medical Centre, Rotterdam, The Netherlands.",
+        "Hubrecht Institute, Royal Netherlands Academy of Arts and Sciences, Utrecht, The Netherlands University Medical Centre Utrecht, Utrecht, The Netherlands Oncode Institute, Utrecht, The Netherlands. h.clevers@hubrecht.eu.",
+        "The Princess Máxima Center for Pediatric Oncology, Utrecht, The Netherlands. h.clevers@hubrecht.eu."
+      ],
+      "doi": "10.1038/s41467-026-76411-9",
+      "date": "2026-08-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42722640/"
+    },
     {
       "pmid": "42722241",
       "title": "Dioscin activates myeloid AMPK to restore Lgr5⁺ stem cell homeostasis and promote mucosal repair in ulcerative colitis.",
@@ -99,65 +155,6 @@
       "doi": "10.1016/j.cell.2026.08.028",
       "date": "2026-09-10",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721963/"
-    },
-    {
-      "pmid": "42721961",
-      "title": "Chemical induction and reversal of photoreceptor dystrophy in retinal organoids.",
-      "abstract": "Activating transcription factor 6 (ATF6) controls a signal transduction pathway of the unfolded protein response (UPR). Loss-of-function ATF6 mutations cause inherited photoreceptor diseases. Ceapin-A7 is a non-toxic, cell-permeable small molecule that selectively inhibits ATF6. We investigated how ATF6 inhibition impacts photoreceptors by treating wild-type human retinal organoids with Ceapin-A7 and evaluating the effects via single-nucleus RNA sequencing (snRNA-seq) and microscopy after 2 months. Ceapin-A7 administration effectively suppressed ATF6-dependent and UPR-related gene expression and led to fewer rod and cone inner/outer segments, malformed/stunted cone segments, and Müller gliosis, while no photoreceptor cell death was observed. When Ceapin-A7 was removed from retinal organoid media after extended exposure, photoreceptor segment quantity increased, indicating that photoreceptors were able to restore segments. These findings demonstrate that ATF6 is selectively required for photoreceptor inner/outer segment integrity. Furthermore, chemically restoring ATF6 activity promotes photoreceptor segment growth, identifying ATF6/UPR signaling as an attractive pathway to treat photoreceptor diseases.",
-      "journal": "Stem cell reports",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Pathology, School of Medicine, Stanford University, Palo Alto, CA, USA; Department of Ophthalmology, School of Medicine, Stanford University, Palo Alto, CA, USA; VA Palo Alto Health Care System, Department of Veterans Affairs, Veterans Health Administration, Palo Alto, CA, USA.",
-        "Department of Pathology, School of Medicine, Stanford University, Palo Alto, CA, USA; Department of Ophthalmology, School of Medicine, Stanford University, Palo Alto, CA, USA.",
-        "Department of Ophthalmology, School of Medicine, Stanford University, Palo Alto, CA, USA.",
-        "Department of Pathology, School of Medicine, Stanford University, Palo Alto, CA, USA; Department of Ophthalmology, School of Medicine, Stanford University, Palo Alto, CA, USA; VA Palo Alto Health Care System, Department of Veterans Affairs, Veterans Health Administration, Palo Alto, CA, USA. Electronic address: jonathan.h.lin@stanford.edu."
-      ],
-      "doi": "10.1016/j.stemcr.2026.103078",
-      "date": "2026-09-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721961/"
-    },
-    {
-      "pmid": "42721885",
-      "title": "From drug response to resistance evolution: Leveraging 3D cancer models for functional precision oncology.",
-      "abstract": "Therapy resistance remains a major cause of relapse and cancer-related mortality, arising from dynamic interactions between tumor-intrinsic programs and microenvironmental constraints. Genetic and epigenetic alterations, transcriptional rewiring, metabolic adaptation, extracellular matrix signalling, hypoxia and limited drug penetration shape resistant phenotypes and therapeutic failure. Accurately modelling these processes is essential for identifying actionable resistance mechanisms and guide patient treatment. Conventional 2D cultures provide valuable mechanistic insights and scalable drug screening platforms, but fail to recapitulate the spatial organization, diffusion gradients and heterogeneous drug exposure characteristic of solid tumors. In contrast, advanced 3D preclinical models capture key aspects of tumor architecture and microenvironmental complexity that influence therapy response and resistance evolution. This review provides a comparative analysis of current 3D cancer models and proposes a conceptual framework linking mechanisms of therapeutic adaptation to the experimental platforms that most faithfully recapitulate them, with particular emphasis on patient-derived organoids (PDOs). By retaining clinically relevant features of the tumor of origin, PDOs enable the investigation of resistance evolution in both treatment-naïve and clinically treated tumors, as well as modelling experimentally acquired resistance through controlled therapeutic selection. These features enable mechanistic studies with high translational relevance, while supporting the development of precision oncology strategies. Finally, we propose practical recommendations for experimental design, model selection and reporting to improve reproducibility and facilitate cross-study comparisons. Collectively, advanced 3D cancer models represent a promising translational framework for uncovering mechanisms of therapy resistance and identifying actionable vulnerabilities that may guide more effective and personalized treatment strategies.",
-      "journal": "Cancer treatment reviews",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "INOC - Istituto Nazionale Oncologico Candiolo; IRCCS, Candiolo (TO), Italy.",
-        "INOC - Istituto Nazionale Oncologico Candiolo; IRCCS, Candiolo (TO), Italy; Department of Oncology, University of Turin, Turin, Italy.",
-        "INOC - Istituto Nazionale Oncologico Candiolo; IRCCS, Candiolo (TO), Italy; Department of Oncology, University of Turin, Turin, Italy. Electronic address: sabrina.arena@unito.it."
-      ],
-      "doi": "10.1016/j.ctrv.2026.103202",
-      "date": "2026-08-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721885/"
-    },
-    {
-      "pmid": "42721785",
-      "title": "Polystyrene nanoplastics induce cardiotoxicity by driving myocardial metabolic reprogramming via the SDHA/Succinate/HIF-1α axis.",
-      "abstract": "Micro- and nano-plastics (MNPs) have emerged as ubiquitous environmental contaminants and are increasingly implicated in adverse cardiovascular outcomes, yet their induced cardiotoxicity and potential mechanisms remain poorly understood. This study integrated in vivo mouse models, AC16 cardiomyocytes and a human cardiac organoid-on-a-chip (COoC) platform to multi-dimensionally evaluate polystyrene nanoparticles (PS-NPs)-induced cardiac injury and clarify its key molecular mechanisms. We found that PS-NPs exposure induced pronounced structural and functional cardiac injury in mice and caused impaired myocardial contraction, disrupted calcium transients and increased injury biomarkers in vitro. Notably, PS-NPs exposure perturbed myocardial energy metabolism, producing a metabolic reprogramming profile characterized by suppressed fatty acid oxidation (FAO) and enhanced glycolytic activity. Metabolic interventions further showed that activation of FAO or promotion of mitochondrial pyruvate oxidation improved myocardial energy status and alleviated cardiotoxicity, whereas direct inhibition of glycolysis aggravated energy depletion and cellular injury, suggesting that enhanced glycolysis provided partial energetic compensation but was insufficient to offset impaired oxidative metabolism. Mechanistically, our findings indicated a functional role of the SDHA/succinate/HIF-1α signaling axis in this metabolic reprogramming. PS-NPs-induced SDHA downregulation promoted succinate accumulation and HIF-1α stabilization, thereby rewiring myocardial energy metabolism and contributing to cardiac dysfunction. Collectively, we revealed myocardial metabolic reprogramming as an important mechanism underlying PS-NPs-induced cardiotoxicity and identified the SDHA/succinate/HIF-1α axis as a potential molecular link between PS-NPs exposure and cardiac injury.",
-      "journal": "Environment international",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Key Laboratory of Environmental Medicine Engineering, Ministry of Education, School of Public Health, Southeast University, Nanjing, Jiangsu 210009, China; Institute of Biomedical Devices (Suzhou), Southeast University, Suzhou 215163, China. Electronic address: tyi_zhang@163.com.",
-        "Key Laboratory of Environmental Medicine Engineering, Ministry of Education, School of Public Health, Southeast University, Nanjing, Jiangsu 210009, China; Institute of Biomedical Devices (Suzhou), Southeast University, Suzhou 215163, China. Electronic address: niuyiru666@163.com.",
-        "Key Laboratory of Environmental Medicine Engineering, Ministry of Education, School of Public Health, Southeast University, Nanjing, Jiangsu 210009, China; Institute of Biomedical Devices (Suzhou), Southeast University, Suzhou 215163, China. Electronic address: 220234019@seu.edu.cn.",
-        "Key Laboratory of Environmental Medicine Engineering, Ministry of Education, School of Public Health, Southeast University, Nanjing, Jiangsu 210009, China. Electronic address: geyiling11@163.com.",
-        "Key Laboratory of Environmental Medicine Engineering, Ministry of Education, School of Public Health, Southeast University, Nanjing, Jiangsu 210009, China. Electronic address: lhyin@seu.edu.cn.",
-        "Key Laboratory of Environmental Medicine Engineering, Ministry of Education, School of Public Health, Southeast University, Nanjing, Jiangsu 210009, China. Electronic address: yppu@seu.edu.cn.",
-        "Key Laboratory of Environmental Medicine Engineering, Ministry of Education, School of Public Health, Southeast University, Nanjing, Jiangsu 210009, China; Institute of Biomedical Devices (Suzhou), Southeast University, Suzhou 215163, China. Electronic address: 1024227634@qq.com.",
-        "State Key Laboratory of Bioelectronics, School of Biological Science and Medical Engineering, Southeast University, Nanjing, Jiangsu 210096, China; Institute of Microphysiological Systems, Southeast University, Nanjing 211189, China. Electronic address: 101012282@seu.edu.cn.",
-        "Key Laboratory of Environmental Medicine Engineering, Ministry of Education, School of Public Health, Southeast University, Nanjing, Jiangsu 210009, China; Institute of Microphysiological Systems, Southeast University, Nanjing 211189, China. Electronic address: lianggeyu@163.com."
-      ],
-      "doi": "10.1016/j.envint.2026.110497",
-      "date": "2026-09-02",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721785/"
     },
     {
       "pmid": "42717098",
@@ -304,6 +301,23 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667121/"
     },
     {
+      "pmid": "42723155",
+      "title": "A Site-Aware Representation Learning Framework For Unified Molecular Interaction Modeling and Generative Design.",
+      "abstract": "Unifying drug-target affinity prediction and targeted molecular design within a single interpretable framework remains challenging. Many sequence-based affinity and design methods rely on global target representations without explicitly modeling binding regions, leading to site-level ambiguity in both screening and design. By contrast, structure-based methods require high-quality structural data and are poorly suited to dynamic targets. In this study, a new model named MolDBG is proposed as a unified site-aware framework that combines affinity prediction, binding-site identification, and affinity-conditioned molecular generation within a single architecture. With binding-site supervision, MolDBG prioritizes interaction-critical residues before learning drug-target representations, reducing false positives from misaligned binding sites and improving interpretability. MolDBG achieves competitive performance across all three tasks while enabling site-specific affinity prediction and interpretable binding-site discovery. The framework generalizes to structurally elusive targets, including cryptic pockets and intrinsically disordered proteins. Overall, these results demonstrate that MolDBG is a promising framework for molecular design and screening.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Computer Science and Engineering, Central South University, Changsha, China.",
+        "Sai Ling Pharmaceutical Technology Group Co., Ltd., Yuxi, China.",
+        "Research Program in Systems Oncology, Faculty of Medicine, University of Helsinki, Helsinki, Finland."
+      ],
+      "doi": "10.1002/advs.77238",
+      "date": "2026-09-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42723155/"
+    },
+    {
       "pmid": "42721204",
       "title": "AET5: A transcriptome-guided molecular generation framework with contrastive self-supervised learning.",
       "abstract": "Gene expression profiles capture system-level drug responses and offer a promising basis for de novo molecular generation. However, their application is limited by data sparsity and experimental noise, which hinder the reliable mapping between disease-associated transcriptomic perturbations and chemically valid therapeutic molecules. Here, we present AET5, a de novo molecular generation framework that conditions molecular design on disease-reversal gene expression profiles. AET5 integrates contrastive self-supervised learning with pre-trained sequence-to-sequence models to learn robust associations between transcriptomic signatures and molecular structures by deriving noise-tolerant transcriptomic representations and aligning them with molecular sequence space. Across the L1000 dataset, AET5 outperforms existing expression-guided generation methods in generation quality and distributional characteristics, while maintaining favorable physicochemical and drug-related properties. We further apply AET5 to generate candidate compounds for SARS-CoV-2 infection and prostate cancer. Molecular docking and dynamics simulations indicate stable target binding, supporting the biological relevance of the generated molecules. These results demonstrate that disease-reversal expression profiles can effectively guide de novo molecular generation, providing a general framework for biologically informed drug design under noisy transcriptomic conditions.",
@@ -397,22 +411,6 @@
       "doi": "10.1007/s11030-026-11718-9",
       "date": "2026-09-05",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42701174/"
-    },
-    {
-      "pmid": "42701117",
-      "title": "Controllable molecular generation with fine-tuned flow-matching model.",
-      "abstract": "Three-dimensional molecular generative models have emerged that produce de novo molecules both unconditionally and conditionally, e.g., within protein pockets. However, steering those models in a specific region of the chemical space that satisfies a set of desired properties remains challenging. In this study, we introduce a flexible reinforcement learning method for flow-matching based generative models, allowing the velocity field to be refined according to a user-defined reward function. In contrast to a pure conditional generation setup, where the set of conditions must be decided a priori, this framework allows fine-tuning of any unconditional or conditional model, reflecting a more realistic scenario where the target properties to be optimized often vary and are typically case-specific. This also enables joint optimization of continuous and discrete features in flow-matching models for the first time. Through extensive experiments across diverse optimization scenarios, we demonstrate that models trained with this strategy (agents) consistently outperform baseline approaches (priors) when evaluated against the target design criteria.",
-      "journal": "Communications chemistry",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Molecular AI, Discovery Sciences, R&D, AstraZeneca, Gothenburg, Sweden. kunyu.wang@astrazeneca.com.",
-        "Molecular AI, Discovery Sciences, R&D, AstraZeneca, Gothenburg, Sweden."
-      ],
-      "doi": "10.1038/s42004-026-02188-z",
-      "date": "2026-09-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42701117/"
     },
     {
       "pmid": "42722112",
@@ -622,31 +620,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42721961",
+      "id": "pubmed-42723155",
       "date": "2026-09-10",
-      "title": "Chemical induction and reversal of photoreceptor dystrophy in retinal organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "A Site-Aware Representation Learning Framework For Unified Molecular Interaction Modeling and Generative Design.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721961/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42723155/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models"
+        "AI for Biology",
+        "Drug Discovery",
+        "Drug Screening"
       ],
       "tags": [
-        "类器官",
-        "疾病模型"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42721961。",
-      "report": "Activating transcription factor 6 (ATF6) controls a signal transduction pathway of the unfolded protein response (UPR). Loss-of-function ATF6 mutations cause inherited photoreceptor diseases. Ceapin-A7 is a non-toxic, cell-permeable small molecule that selecti...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42723155。",
+      "report": "Unifying drug-target affinity prediction and targeted molecular design within a single interpretable framework remains challenging. Many sequence-based affinity and design methods rely on global target representations without explicitly modeling binding region...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -775,6 +776,38 @@
       "fact": "PubMed 记录显示该文献收录于 Medical molecular morphology，PMID 为 42720694。",
       "report": "The pathogenesis of cancer is characterized by the acceleration of tumor growth, inhibition of tumor suppression, genetic and epigenetic alteration, lubricative transformation and tumor microenvironment. Extramammary Paget's disease (EMPD) is a rare skin cance...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42723059",
+      "date": "2026-09-09",
+      "title": "Real-time monitoring of CAR T cell dynamics in tumor patient-derived organoids using the OrganoIDNet algorithm.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42723059/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42723059。",
+      "report": "Patient-derived organoids (PDOs) provide physiologically relevant 3D tumor models for preclinical drug testing, yet robust and automated methods to quantify dynamic responses to immunotherapies remain limited. OrganoIDNet is a deep learning-based image analysi...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -941,59 +974,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42701117",
-      "date": "2026-09-05",
-      "title": "Controllable molecular generation with fine-tuned flow-matching model.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42701117/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Communications chemistry，PMID 为 42701117。",
-      "report": "Three-dimensional molecular generative models have emerged that produce de novo molecules both unconditionally and conditionally, e.g., within protein pockets. However, steering those models in a specific region of the chemical space that satisfies a set of de...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42721785",
-      "date": "2026-09-02",
-      "title": "Polystyrene nanoplastics induce cardiotoxicity by driving myocardial metabolic reprogramming via the SDHA/Succinate/HIF-1α axis.",
+      "id": "pubmed-42723218",
+      "date": "2026-09-01",
+      "title": "Organoids in Precision Radiotherapy: Methodological Foundations, Tumor-Specific Evidence, and Translational Roadmaps.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721785/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42723218/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
-        "Advanced Disease Models"
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
       ],
       "tags": [
         "类器官",
-        "疾病模型"
+        "疾病模型",
+        "肿瘤",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Environment international，PMID 为 42721785。",
-      "report": "Micro- and nano-plastics (MNPs) have emerged as ubiquitous environmental contaminants and are increasingly implicated in adverse cardiovascular outcomes, yet their induced cardiotoxicity and potential mechanisms remain poorly understood. This study integrated...",
+      "fact": "PubMed 记录显示该文献收录于 Cancer medicine，PMID 为 42723218。",
+      "report": "Radiotherapy remains a cornerstone of cancer treatment, while its efficacy is often limited by tumor radioresistance and the risk of normal tissue toxicity. Conventional preclinical models, including two-dimensional (2D) cell cultures and murine xenografts, ex...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1164,40 +1172,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42721885",
-      "date": "2026-08-18",
-      "title": "From drug response to resistance evolution: Leveraging 3D cancer models for functional precision oncology.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721885/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer treatment reviews，PMID 为 42721885。",
-      "report": "Therapy resistance remains a major cause of relapse and cancer-related mortality, arising from dynamic interactions between tumor-intrinsic programs and microenvironmental constraints. Genetic and epigenetic alterations, transcriptional rewiring, metabolic ada...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42716838",
       "date": "2026-08-18",
       "title": "Prognostic Value of Androgen Receptor (AR) Gene Alterations Detected in Circulating Tumor DNA (ctDNA) in Patients With Metastatic Castration-Resistant Prostate Cancer: A Systematic Review and Meta-analysis.",
@@ -1223,6 +1197,36 @@
       "fact": "PubMed 记录显示该文献收录于 Clinical genitourinary cancer，PMID 为 42716838。",
       "report": "Circulating tumor DNA (ctDNA) has emerged as a novel detection technique that provides molecular profiles without invasive procedures. This study assessed the prognostic value of ctDNA-based androgen receptor (AR) gene alterations in metastatic castration-resi...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42722640",
+      "date": "2026-08-13",
+      "title": "Modeling reptile virus infection in vitro using Python regius airway organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42722640/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42722640。",
+      "report": "Zoonoses pose substantial global health risks, highlighting the need to better understand animal-to-human transmission. Reptiles are increasingly recognized as hosts of diverse pathogens, including numerous viruses, yet the diversity and prevalence of reptile...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
