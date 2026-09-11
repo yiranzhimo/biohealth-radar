@@ -49201,7 +49201,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-ionis-official-36511aa297ac",
             "date": "2026-09-09",
             "title": "Innovating to Change the Course of Human Health | IONIS",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -49277,7 +49277,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-ionis-official-36511aa297ac",
           "date": "2026-09-09",
           "title": "Innovating to Change the Course of Human Health | IONIS",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -52417,9 +52417,25 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "businessModel": [],
         "commercialProducts": [
           {
+            "textOriginal": "Our news Legend Biotech to Present Updated Long-Term and Real-World Evidence from CARVYKTI Clinical Program at the International Myeloma Society Annual Meeting",
+            "text": "Our news Legend Biotech to Present Updated Long-Term and Real-World Evidence from CARVYKTI Clinical Program at the International Myeloma Society Annual Meeting",
+            "evidenceId": "evidence-company-legend-biotech-official-fb4044f3a898",
+            "sourceUrl": "https://legendbiotech.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "We are dedicated to fostering the next generation of scientific leaders in cellular therapy by accelerating innovation and research to create a future where cancers and intractable diseases are curable.",
+            "text": "We are dedicated to fostering the next generation of scientific leaders in cellular therapy by accelerating innovation and research to create a future where cancers and intractable diseases are curable.",
+            "evidenceId": "evidence-company-legend-biotech-official-fb4044f3a898",
+            "sourceUrl": "https://legendbiotech.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
             "textOriginal": "We are an end-to-end cell therapy company.",
             "text": "We are an end-to-end cell therapy company.",
-            "evidenceId": "evidence-company-legend-biotech-official-e7b531757355",
+            "evidenceId": "evidence-company-legend-biotech-official-fb4044f3a898",
             "sourceUrl": "https://legendbiotech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -52427,15 +52443,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Our pipeline of cell therapies includes agents across hematologic and solid tumors.",
             "text": "Our pipeline of cell therapies includes agents across hematologic and solid tumors.",
-            "evidenceId": "evidence-company-legend-biotech-official-e7b531757355",
-            "sourceUrl": "https://legendbiotech.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Our pipeline is comprised of investigational agents and innovative technologies in personalized medicine.",
-            "text": "Our pipeline is comprised of investigational agents and innovative technologies in personalized medicine.",
-            "evidenceId": "evidence-company-legend-biotech-official-e7b531757355",
+            "evidenceId": "evidence-company-legend-biotech-official-fb4044f3a898",
             "sourceUrl": "https://legendbiotech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -52443,7 +52451,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
             "text": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
-            "evidenceId": "evidence-company-legend-biotech-official-e7b531757355",
+            "evidenceId": "evidence-company-legend-biotech-official-fb4044f3a898",
             "sourceUrl": "https://legendbiotech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -52451,23 +52459,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Legend Biotech to Host Investor Conference Call on Second Quarter 2026 Results",
             "text": "Legend Biotech to Host Investor Conference Call on Second Quarter 2026 Results",
-            "evidenceId": "evidence-company-legend-biotech-official-e7b531757355",
+            "evidenceId": "evidence-company-legend-biotech-official-fb4044f3a898",
             "sourceUrl": "https://legendbiotech.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Our pipeline of cell therapies is made up of novel agents and innovative technologies in personalized medicine.",
-            "text": "公司的细胞治疗管线由个性化医疗领域的创新药物和创新技术组成。",
-            "evidenceId": "evidence-company-legend-biotech-pipeline-ff06a79c40a1",
-            "sourceUrl": "https://legendbiotech.com/research-development/pipeline/",
             "needsReview": true,
             "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-legend-biotech-official-e7b531757355",
+          "evidence-company-legend-biotech-official-fb4044f3a898",
           "evidence-sec-0001801198-000117184326005623",
           "evidence-sec-0001801198-000180119826000022",
           "evidence-company-legend-biotech-pipeline-ff06a79c40a1",
@@ -52498,14 +52498,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "observedMoves": [
           {
-            "id": "event-evidence-company-legend-biotech-official-e7b531757355",
-            "date": "2026-09-02",
+            "id": "event-evidence-company-legend-biotech-official-fb4044f3a898",
+            "date": "2026-09-11",
             "title": "HOME - Legend Biotech",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-legend-biotech-official-e7b531757355",
+            "evidenceId": "evidence-company-legend-biotech-official-fb4044f3a898",
             "sourceUrl": "https://legendbiotech.com/"
           },
           {
@@ -52566,7 +52566,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 5
         },
-        "lastEvidenceDate": "2026-09-02",
+        "lastEvidenceDate": "2026-09-11",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -52576,14 +52576,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-legend-biotech-official-e7b531757355",
-          "date": "2026-09-02",
+          "id": "event-evidence-company-legend-biotech-official-fb4044f3a898",
+          "date": "2026-09-11",
           "title": "HOME - Legend Biotech",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-legend-biotech-official-e7b531757355",
+          "evidenceId": "evidence-company-legend-biotech-official-fb4044f3a898",
           "sourceUrl": "https://legendbiotech.com/"
         },
         {
@@ -58991,7 +58991,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
             "text": "Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-442e020dc1f4",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-29672d512436",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -58999,7 +58999,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule.",
             "text": "The Nykode Therapeutics platform is built around the Vaccibody molecule.",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-442e020dc1f4",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-29672d512436",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59007,7 +59007,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "An immunotherapy platform that unlocks unlimited possibilities for the future of medicine",
             "text": "An immunotherapy platform that unlocks unlimited possibilities for the future of medicine",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-442e020dc1f4",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-29672d512436",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59015,7 +59015,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Offering an unrivalled modular platform and tailored hyper-targeting is how we stand apart",
             "text": "Offering an unrivalled modular platform and tailored hyper-targeting is how we stand apart",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-442e020dc1f4",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-29672d512436",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59023,15 +59023,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Nykode Therapeutics Presents Comprehensive Preclinical Data, Optimized Manufacturing, and ...",
             "text": "Nykode Therapeutics Presents Comprehensive Preclinical Data, Optimized Manufacturing, and ...",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-442e020dc1f4",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-29672d512436",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Nykode Therapeutics ASA – Private Placement Completed",
-            "text": "Nykode Therapeutics ASA – Private Placement Completed",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-442e020dc1f4",
+            "textOriginal": "Nykode Therapeutics to Present at the H.C.",
+            "text": "Nykode Therapeutics to Present at the H.C.",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-29672d512436",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59039,7 +59039,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-nykode-therapeutics-official-442e020dc1f4",
+          "evidence-company-nykode-therapeutics-official-29672d512436",
           "evidence-company-nykode-therapeutics-pipeline-264341e4f3ed",
           "evidence-company-nykode-therapeutics-investor_relations-d8d12c464eb4"
         ]
@@ -59048,14 +59048,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-nykode-therapeutics-official-442e020dc1f4",
-            "date": "2026-09-05",
+            "id": "event-evidence-company-nykode-therapeutics-official-29672d512436",
+            "date": "2026-09-11",
             "title": "Home - Nykode",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-nykode-therapeutics-official-442e020dc1f4",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-29672d512436",
             "sourceUrl": "https://nykode.com/"
           },
           {
@@ -59092,7 +59092,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 3
         },
-        "lastEvidenceDate": "2026-09-05",
+        "lastEvidenceDate": "2026-09-11",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -59101,14 +59101,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-nykode-therapeutics-official-442e020dc1f4",
-          "date": "2026-09-05",
+          "id": "event-evidence-company-nykode-therapeutics-official-29672d512436",
+          "date": "2026-09-11",
           "title": "Home - Nykode",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-nykode-therapeutics-official-442e020dc1f4",
+          "evidenceId": "evidence-company-nykode-therapeutics-official-29672d512436",
           "sourceUrl": "https://nykode.com/"
         },
         {
@@ -60268,7 +60268,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
             "text": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -60276,7 +60276,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Oxford Nanopore Technologies products are RUO.",
             "text": "Oxford Nanopore Technologies products are RUO.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -60284,15 +60284,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
             "text": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
-            "sourceUrl": "https://nanoporetech.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
-            "text": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
-            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -60300,8 +60292,16 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
             "text": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
-            "sourceUrl": "https://nanoporetech.com/platform",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+            "sourceUrl": "https://nanoporetech.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
+            "text": "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+            "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
           },
@@ -60316,7 +60316,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+          "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
           "evidence-company-oxford-nanopore-pipeline-f611c963a9b5"
         ]
       },
@@ -60324,14 +60324,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-oxford-nanopore-official-ae4e03d0fba0",
-            "date": "2026-09-09",
+            "id": "event-evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+            "date": "2026-09-11",
             "title": "Welcome to Oxford Nanopore Technologies",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+            "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
             "sourceUrl": "https://nanoporetech.com/"
           },
           {
@@ -60357,7 +60357,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-09-09",
+        "lastEvidenceDate": "2026-09-11",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -60366,14 +60366,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-oxford-nanopore-official-ae4e03d0fba0",
-          "date": "2026-09-09",
+          "id": "event-evidence-company-oxford-nanopore-official-b5a006d4fd7e",
+          "date": "2026-09-11",
           "title": "Welcome to Oxford Nanopore Technologies",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+          "evidenceId": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
           "sourceUrl": "https://nanoporetech.com/"
         },
         {

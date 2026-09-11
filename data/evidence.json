@@ -42170,7 +42170,7 @@
       "publishedAt": "2026-09-09",
       "snapshotDate": "2026-09-09",
       "title": "Innovating to Change the Course of Human Health | IONIS",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Ionis Pharmaceuticals — Official Website",
@@ -42200,7 +42200,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "36511aa297ac209dbb3251c3402d5835286cd22beef8bc62cf42d5743637e97d",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
@@ -42329,15 +42329,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-legend-biotech-official-e7b531757355",
+      "id": "evidence-company-legend-biotech-official-fb4044f3a898",
       "signalId": null,
       "companyIds": [
         "legend-biotech"
       ],
-      "publishedAt": "2026-09-02",
-      "snapshotDate": "2026-09-02",
+      "publishedAt": "2026-09-11",
+      "snapshotDate": "2026-09-11",
       "title": "HOME - Legend Biotech",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Legend Biotech — Official Website",
@@ -42353,7 +42353,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash e7b53175735563b322fced2e4368b225992143588b72a9c5b281a2d2670cfbf7.",
+      "fact": "The official page was captured with normalized-content hash fb4044f3a89884e2933db8ab36b8d29cef327d0273fa18d5fdd75166f85ff641.",
       "report": "公司官方页面表述：Legend Biotech 是一家处于商业化阶段的全球生物技术公司，开发和生产创新疗法。公司探索并应用创新技术，为全球患者提供前沿治疗选择。",
       "reportOriginal": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies. We explore and apply innovative technologies to deliver cutting-edge options for patients around the world.",
       "reportCn": "Legend Biotech 是一家处于商业化阶段的全球生物技术公司，开发和生产创新疗法。公司探索并应用创新技术，为全球患者提供前沿治疗选择。",
@@ -42366,25 +42366,26 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "e7b53175735563b322fced2e4368b225992143588b72a9c5b281a2d2670cfbf7",
-      "changeType": "unchanged",
+      "contentHash": "fb4044f3a89884e2933db8ab36b8d29cef327d0273fa18d5fdd75166f85ff641",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
-        "Legend Biotech to Host Investor Conference Call on Second Quarter 2026 Results",
-        "We are an end-to-end cell therapy company.",
-        "Our pipeline of cell therapies includes agents across hematologic and solid tumors."
+        "Our news Legend Biotech to Present Updated Long-Term and Real-World Evidence from CARVYKTI Clinical Program at the International Myeloma Society Annual Meeting",
+        "We are dedicated to fostering the next generation of scientific leaders in cellular therapy by accelerating innovation and research to create a future where cancers and intractable diseases are curable.",
+        "Legend Biotech to Host Investor Conference Call on Second Quarter 2026 Results"
       ],
       "businessExcerpts": [
         "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
+        "We are dedicated to fostering the next generation of scientific leaders in cellular therapy by accelerating innovation and research to create a future where cancers and intractable diseases are curable.",
         "We are an end-to-end cell therapy company.",
-        "Dedicated to quality and driven by excellence, we are committed to improving the lives of patients worldwide.",
-        "We focus on diseases that are considered intractable and incurable."
+        "Dedicated to quality and driven by excellence, we are committed to improving the lives of patients worldwide."
       ],
       "productExcerpts": [
+        "Our news Legend Biotech to Present Updated Long-Term and Real-World Evidence from CARVYKTI Clinical Program at the International Myeloma Society Annual Meeting",
+        "We are dedicated to fostering the next generation of scientific leaders in cellular therapy by accelerating innovation and research to create a future where cancers and intractable diseases are curable.",
         "We are an end-to-end cell therapy company.",
-        "Our pipeline of cell therapies includes agents across hematologic and solid tumors.",
-        "Our pipeline is comprised of investigational agents and innovative technologies in personalized medicine."
+        "Our pipeline of cell therapies includes agents across hematologic and solid tumors."
       ],
       "planExcerpts": []
     },
@@ -43053,15 +43054,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-nykode-therapeutics-official-442e020dc1f4",
+      "id": "evidence-company-nykode-therapeutics-official-29672d512436",
       "signalId": null,
       "companyIds": [
         "nykode-therapeutics"
       ],
-      "publishedAt": "2026-09-05",
-      "snapshotDate": "2026-09-05",
+      "publishedAt": "2026-09-11",
+      "snapshotDate": "2026-09-11",
       "title": "Home - Nykode",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Nykode Therapeutics — Official Website",
@@ -43077,7 +43078,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 442e020dc1f45e1ad5e8da249af3996c0838e5ca7ee6bb3bf5fedd1bad8e11cc.",
+      "fact": "The official page was captured with normalized-content hash 29672d512436d3f4febaca59264304b08db18b5434f23f83f38e0ff1b6363b19.",
       "report": "公司官方页面表述：Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
       "reportOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
       "reportCn": "Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
@@ -43090,14 +43091,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "442e020dc1f45e1ad5e8da249af3996c0838e5ca7ee6bb3bf5fedd1bad8e11cc",
-      "changeType": "unchanged",
+      "contentHash": "29672d512436d3f4febaca59264304b08db18b5434f23f83f38e0ff1b6363b19",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
         "Nykode Therapeutics Presents Comprehensive Preclinical Data, Optimized Manufacturing, and ...",
         "The Nykode Therapeutics platform is built around the Vaccibody molecule.",
-        "Nykode Therapeutics ASA – Private Placement Completed"
+        "Nykode Therapeutics to Present at the H.C."
       ],
       "businessExcerpts": [],
       "productExcerpts": [
@@ -43168,13 +43169,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-oxford-nanopore-official-ae4e03d0fba0",
+      "id": "evidence-company-oxford-nanopore-official-b5a006d4fd7e",
       "signalId": null,
       "companyIds": [
         "oxford-nanopore"
       ],
-      "publishedAt": "2026-09-09",
-      "snapshotDate": "2026-09-09",
+      "publishedAt": "2026-09-11",
+      "snapshotDate": "2026-09-11",
       "title": "Welcome to Oxford Nanopore Technologies",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -43192,7 +43193,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash ae4e03d0fba07710844aa320dbca27149745e368be42c17c07d1fa90a363a51c.",
+      "fact": "The official page was captured with normalized-content hash b5a006d4fd7e86315fa9f0f9ab18724b0d37d937b55c6f15a16569677978dc9e.",
       "report": "公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
       "reportOriginal": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
       "reportCn": "发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
@@ -43205,14 +43206,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "ae4e03d0fba07710844aa320dbca27149745e368be42c17c07d1fa90a363a51c",
+      "contentHash": "b5a006d4fd7e86315fa9f0f9ab18724b0d37d937b55c6f15a16569677978dc9e",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
         "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-        "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
-        "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling."
+        "Search Oxford Nanopore Technologies Which site do you wish to search in?",
+        "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology"
       ],
       "businessExcerpts": [],
       "productExcerpts": [
