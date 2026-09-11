@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-09-09T08:11:46+00:00",
-  "count": 596,
+  "capturedAt": "2026-09-11T08:06:12+00:00",
+  "count": 595,
   "items": [
     {
       "companyId": "candidate-3sbio",
@@ -3038,23 +3038,6 @@
       },
       "sourceTypes": [
         "Pharmaceutical Preparations"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-biomx",
-      "name": "BiomX Inc.",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001739174",
-      "identifiers": {
-        "cik": [
-          "0001739174"
-        ],
-        "ticker": [
-          "PHGE"
-        ]
-      },
-      "sourceTypes": [
-        "Biological Products, Except Diagnostic Substances"
       ],
       "status": "needs_official_domain"
     },
