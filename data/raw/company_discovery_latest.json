@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-09-11T11:28:43.270328+00:00",
+  "capturedAt": "2026-09-11T16:33:11.683110+00:00",
   "summary": {
-    "mentionCount": 667,
-    "candidateCount": 600,
+    "mentionCount": 664,
+    "candidateCount": 597,
     "corroboratedCount": 2,
     "identifiedCount": 593,
-    "needsReviewCount": 5,
+    "needsReviewCount": 2,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 5,
+      "ClinicalTrials": 2,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 60,
@@ -20,142 +20,57 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-284af91d62f62718",
-      "observedName": "K2 Oncology, Inc.",
-      "normalizedName": "k2 oncology",
+      "id": "mention-clinicaltrials-148abb0596000744",
+      "observedName": "ExcellaBio LLC",
+      "normalizedName": "excellabio",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT03453307",
-      "sourceDate": "2018-03-05",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03453307",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Advanced Disease Models",
-        "Clinical Trials",
-        "Oncology",
-        "Organoids",
-        "Precision Oncology",
-        "中国",
-        "临床试验",
-        "疾病模型",
-        "类器官",
-        "肿瘤"
-      ],
-      "activitySignals": [],
-      "contextTitle": "Drug Sensitivity Correlation Between Patient-Derived Organoid Model and Clinical Response in NSCLC Patients"
-    },
-    {
-      "id": "mention-clinicaltrials-61380cd670fd3599",
-      "observedName": "Binhui Biopharmaceutical Co., Ltd.",
-      "normalizedName": "binhui biopharmaceutical",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT05232136",
-      "sourceDate": "2024-08-12",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05232136",
+      "sourceRecordId": "NCT03342417",
+      "sourceDate": "2021-11-09",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03342417",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
         "Oncology",
         "Precision Oncology",
-        "中国",
         "临床试验",
+        "乳腺癌",
         "肿瘤"
       ],
       "activitySignals": [
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "OH2 Oncolytic Viral Therapy in Non-Muscle-Invasive Bladder Cancer"
+      "contextTitle": "Combination of Nivolumab and Ipilimumab in Breast, Ovarian and Gastric Cancer Patients"
     },
     {
-      "id": "mention-clinicaltrials-72bd4de20c562d7f",
-      "observedName": "Accurate International Biotechnology (Guangzhou) Co., Ltd.",
-      "normalizedName": "accurate international biotechnology guangzhou",
+      "id": "mention-clinicaltrials-8d492670ce333e4c",
+      "observedName": "Peerbridge Health, Inc",
+      "normalizedName": "peerbridge health",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT07054086",
-      "sourceDate": "2025-07-08",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07054086",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT06699056",
+      "sourceDate": "2026-06-01",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06699056",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Advanced Disease Models",
         "Clinical Trials",
-        "Oncology",
-        "Organoids",
-        "Precision Oncology",
+        "Healthcare AI",
+        "Medical AI",
         "Recruiting",
-        "中国",
+        "临床决策支持",
         "临床试验",
-        "疾病模型",
-        "类器官",
-        "肿瘤"
+        "医疗 AI"
       ],
       "activitySignals": [
         "active_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Patient Derived Organoids (PDOs) to Observe the Clinical Consistency of Personalized Neoadjuvant Therapy for Resectable Esophageal Squamous Cell Carcinoma"
-    },
-    {
-      "id": "mention-clinicaltrials-957615c61203d8b0",
-      "observedName": "Astellas Pharma Global Development, Inc.",
-      "normalizedName": "astellas pharma global development",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06171178",
-      "sourceDate": "2026-08-27",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06171178",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Longevity",
-        "Oncology",
-        "Precision Oncology",
-        "biomarker",
-        "临床试验",
-        "肿瘤",
-        "衰老"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "A Study of ASP1012 in Adults With Solid Tumors"
-    },
-    {
-      "id": "mention-clinicaltrials-994af98ca4b8554f",
-      "observedName": "Shandong New Time Pharmaceutical Co., LTD",
-      "normalizedName": "shandong new time pharmaceutical",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT05178836",
-      "sourceDate": "2022-01-05",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05178836",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "临床试验",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "A Phase II Study to Evaluate the Efficacy and Safety of F520 Combined With F007 in Patients With RR DLBCL"
+      "contextTitle": "AI-Enabled Direct-from-ECG Ejection Fraction (EF) Severity Assessment Using COR ECG Wearable Monitor"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -44235,41 +44150,35 @@
       ]
     },
     {
-      "id": "candidate-astellas-pharma-global-development",
-      "name": "Astellas Pharma Global Development, Inc.",
+      "id": "candidate-excellabio",
+      "name": "ExcellaBio LLC",
       "aliases": [
-        "Astellas Pharma Global Development, Inc."
+        "ExcellaBio LLC"
       ],
-      "normalizedName": "astellas pharma global development",
+      "normalizedName": "excellabio",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-08-27",
-      "lastSeenAt": "2026-08-27",
+      "firstSeenAt": "2021-11-09",
+      "lastSeenAt": "2021-11-09",
       "identifiers": {},
       "classificationHints": {
         "directions": [
-          "Biomarkers",
           "Clinical Trials",
-          "Longevity",
           "Oncology",
           "Precision Oncology",
-          "biomarker",
           "临床试验",
-          "肿瘤",
-          "衰老"
+          "乳腺癌",
+          "肿瘤"
         ],
         "themes": [
-          "Biomarkers",
           "Clinical Trials",
-          "Longevity",
           "Oncology",
           "Precision Oncology",
-          "biomarker",
           "临床试验",
-          "肿瘤",
-          "衰老"
+          "乳腺癌",
+          "肿瘤"
         ],
         "tags": []
       },
@@ -44282,50 +44191,52 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-957615c61203d8b0"
+        "mention-clinicaltrials-148abb0596000744"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2026-08-27",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06171178",
-          "externalId": "NCT06171178",
-          "contextTitle": "A Study of ASP1012 in Adults With Solid Tumors"
+          "sourceDate": "2021-11-09",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT03342417",
+          "externalId": "NCT03342417",
+          "contextTitle": "Combination of Nivolumab and Ipilimumab in Breast, Ovarian and Gastric Cancer Patients"
         }
       ]
     },
     {
-      "id": "candidate-binhui-biopharmaceutical",
-      "name": "Binhui Biopharmaceutical Co., Ltd.",
+      "id": "candidate-peerbridge-health",
+      "name": "Peerbridge Health, Inc",
       "aliases": [
-        "Binhui Biopharmaceutical Co., Ltd."
+        "Peerbridge Health, Inc"
       ],
-      "normalizedName": "binhui biopharmaceutical",
+      "normalizedName": "peerbridge health",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2024-08-12",
-      "lastSeenAt": "2024-08-12",
+      "firstSeenAt": "2026-06-01",
+      "lastSeenAt": "2026-06-01",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "中国",
+          "Healthcare AI",
+          "Medical AI",
+          "Recruiting",
+          "临床决策支持",
           "临床试验",
-          "肿瘤"
+          "医疗 AI"
         ],
         "themes": [
           "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "中国",
+          "Healthcare AI",
+          "Medical AI",
+          "Recruiting",
+          "临床决策支持",
           "临床试验",
-          "肿瘤"
+          "医疗 AI"
         ],
         "tags": []
       },
@@ -44338,71 +44249,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-61380cd670fd3599"
+        "mention-clinicaltrials-8d492670ce333e4c"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2024-08-12",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT05232136",
-          "externalId": "NCT05232136",
-          "contextTitle": "OH2 Oncolytic Viral Therapy in Non-Muscle-Invasive Bladder Cancer"
-        }
-      ]
-    },
-    {
-      "id": "candidate-shandong-new-time-pharmaceutical",
-      "name": "Shandong New Time Pharmaceutical Co., LTD",
-      "aliases": [
-        "Shandong New Time Pharmaceutical Co., LTD"
-      ],
-      "normalizedName": "shandong new time pharmaceutical",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2022-01-05",
-      "lastSeenAt": "2022-01-05",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "临床试验",
-          "肿瘤"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "临床试验",
-          "肿瘤"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-994af98ca4b8554f"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2022-01-05",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT05178836",
-          "externalId": "NCT05178836",
-          "contextTitle": "A Phase II Study to Evaluate the Efficacy and Safety of F520 Combined With F007 in Patients With RR DLBCL"
+          "sourceDate": "2026-06-01",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06699056",
+          "externalId": "NCT06699056",
+          "contextTitle": "AI-Enabled Direct-from-ECG Ejection Fraction (EF) Severity Assessment Using COR ECG Wearable Monitor"
         }
       ]
     },
@@ -47718,136 +47575,6 @@
           "sourceUrl": "https://reporter.nih.gov/project-details/11181079",
           "externalId": "11181079",
           "contextTitle": "A Novel Preventative and Treatment for Klebsiella Pneumoniae Infection"
-        }
-      ]
-    },
-    {
-      "id": "candidate-k2-oncology",
-      "name": "K2 Oncology, Inc.",
-      "aliases": [
-        "K2 Oncology, Inc."
-      ],
-      "normalizedName": "k2 oncology",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.78,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2018-03-05",
-      "lastSeenAt": "2018-03-05",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Advanced Disease Models",
-          "Clinical Trials",
-          "Oncology",
-          "Organoids",
-          "Precision Oncology",
-          "中国",
-          "临床试验",
-          "疾病模型",
-          "类器官",
-          "肿瘤"
-        ],
-        "themes": [
-          "Advanced Disease Models",
-          "Clinical Trials",
-          "Oncology",
-          "Organoids",
-          "Precision Oncology",
-          "中国",
-          "临床试验",
-          "疾病模型",
-          "类器官",
-          "肿瘤"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-284af91d62f62718"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2018-03-05",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT03453307",
-          "externalId": "NCT03453307",
-          "contextTitle": "Drug Sensitivity Correlation Between Patient-Derived Organoid Model and Clinical Response in NSCLC Patients"
-        }
-      ]
-    },
-    {
-      "id": "candidate-accurate-international-biotechnology-guangzhou",
-      "name": "Accurate International Biotechnology (Guangzhou) Co., Ltd.",
-      "aliases": [
-        "Accurate International Biotechnology (Guangzhou) Co., Ltd."
-      ],
-      "normalizedName": "accurate international biotechnology guangzhou",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.66,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2025-07-08",
-      "lastSeenAt": "2025-07-08",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Advanced Disease Models",
-          "Clinical Trials",
-          "Oncology",
-          "Organoids",
-          "Precision Oncology",
-          "Recruiting",
-          "中国",
-          "临床试验",
-          "疾病模型",
-          "类器官",
-          "肿瘤"
-        ],
-        "themes": [
-          "Advanced Disease Models",
-          "Clinical Trials",
-          "Oncology",
-          "Organoids",
-          "Precision Oncology",
-          "Recruiting",
-          "中国",
-          "临床试验",
-          "疾病模型",
-          "类器官",
-          "肿瘤"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-72bd4de20c562d7f"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "collaborator",
-          "sourceDate": "2025-07-08",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT07054086",
-          "externalId": "NCT07054086",
-          "contextTitle": "Patient Derived Organoids (PDOs) to Observe the Clinical Consistency of Personalized Neoadjuvant Therapy for Resectable Esophageal Squamous Cell Carcinoma"
         }
       ]
     }

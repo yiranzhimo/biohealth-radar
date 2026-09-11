@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-11T11:28:38.631563+00:00",
+  "capturedAt": "2026-09-11T16:33:07.536188+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,32 +14,51 @@
     "end": "2026-09-11"
   },
   "pmids": [
+    "42724647",
     "42723218",
     "42723059",
     "42722640",
     "42722241",
     "42721974",
-    "42721963",
     "42717098",
     "42715312",
     "42699656",
     "42696754",
     "42693007",
     "42667121",
+    "42724935",
     "42723155",
     "42721204",
     "42720471",
     "42716964",
     "42716354",
-    "42701174",
-    "42722112",
-    "42720694",
-    "42719702",
-    "42719676",
-    "42718847",
-    "42716838"
+    "42724635",
+    "42724581",
+    "42724455",
+    "42724399",
+    "42723806",
+    "42723745"
   ],
   "records": [
+    {
+      "pmid": "42724647",
+      "title": "Safety and toxicity assessment of antisense oligonucleotides in brain-relevant human cellular models.",
+      "abstract": "Antisense oligonucleotides (ASOs) have become an established therapeutic modality for central nervous system (CNS) disorders, enabling selective modulation of gene expression through splice-switching or steric-hindrance mechanisms. Backbone and sugar chemistry modifications improved nuclease resistance, tissue retention, and pharmacodynamic durability, facilitating clinical translation of intrathecally delivered ASOs. This review summarizes current in vitro approaches for assessing safety and toxicity of CNS-targeted ASOs, alongside the evolving regulatory landscape shaping their preclinical evaluation. Human-relevant platforms-induced pluripotent stem cell (iPSC)-derived neurons, astrocytes, microglia, and brain organoids-enable evaluation of target engagement, cytotoxicity, and immune activation in disease-relevant genetic backgrounds, though each carries distinct trade-offs in throughput, maturity, and translational fidelity. Delivery strategies and cytotoxicity assays, including calcium imaging, lactate dehydrogenase release, metabolic activity measurements, apoptosis markers, and transcriptomic and proteomic profiling, allow detection of sequence- and chemistry-dependent liabilities, including off-target and neuroexcitability effects. Emerging evidence demonstrates sequence and chemical modifications predicting acute neurotoxicity, highlighting the value of systematic in vitro screening. As personalized \"n-of-1\" ASO therapies expand, robust and standardized in vitro safety profiling becomes increasingly critical. Comprehensive evaluation in relevant CNS models will be essential to minimize risk and improve translational predictability for developing safe and effective ASO treatments for neurological diseases.",
+      "journal": "Molecular therapy. Nucleic acids",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "BioTalentum Ltd, Aulich L u 26, 2100 Gödöllő, Hungary.",
+        "Department of Physiology and Animal Health, Institute of Physiology and Animal Nutrition, Hungarian University of Agriculture and Life Sciences, 2100 Gödöllő, Hungary.",
+        "Department of Human Genetics, Leiden University Medical Center, 2300RC Leiden, the Netherlands.",
+        "Central Animal Facility, Leiden University Medical Center, 2300RC Leiden, the Netherlands."
+      ],
+      "doi": "10.1016/j.omtn.2026.103062",
+      "date": "2026-08-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42724647/"
+    },
     {
       "pmid": "42723218",
       "title": "Organoids in Precision Radiotherapy: Methodological Foundations, Tumor-Specific Evidence, and Translational Roadmaps.",
@@ -62,7 +81,8 @@
       "abstract": "Patient-derived organoids (PDOs) provide physiologically relevant 3D tumor models for preclinical drug testing, yet robust and automated methods to quantify dynamic responses to immunotherapies remain limited. OrganoIDNet is a deep learning-based image analysis framework that enables automated, label-free segmentation and longitudinal quantification of organoid morphology. Here, we extend the application of OrganoIDNet to evaluate chimeric antigen receptor (CAR) T cell activity against pancreatic ductal adenocarcinoma (PDAC) PDOs targeting the tumor-associated antigen CD318. CD318-directed CAR T cells were co-cultured with PDAC PDOs using a Matrigel-based sandwich system and monitored by time-lapse bright-field imaging. OrganoIDNet enabled accurate single-organoid segmentation and continuous quantification of organoid number and area across multiple effector-to-target ratios. CAR-318 T cells induced robust, antigen-dependent cytotoxicity, characterized by progressive reductions in organoid number and size and were accompanied by increased T cell activation marker expression and changes in TIM-3 expression at the endpoint. Dynamic imaging and T cell spatial analysis, further revealed close T cell-organoid interactions and early tumor cell elimination, providing time-resolved information on organoid responses and T cell proximity that complements conventional endpoint assays. By integrating organoid-immune co-cultures with OrganoIDNet-driven live-cell imaging, we established an automated longitudinal imaging assay for assessing CAR T cell-mediated responses in PDAC PDOs. The assay enabled continuous quantification of organoid number and area, together with image-based assessment of T cell proximity, across multiple effector-to-target ratios. These measurements provide time-resolved information on antigen-dependent cytotoxicity and spatial association during the observation period, supporting its potential utility as a preclinical platform for CAR T cell development and future personalized immunotherapy studies.",
       "journal": "Journal of translational medicine",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
       ],
       "affiliations": [
         "Translational Molecular Imaging, Max-Planck-Institute for Multidisciplinary Sciences, 37075, Göttingen, Germany.",
@@ -139,22 +159,6 @@
       "doi": "10.1016/j.cels.2026.101734",
       "date": "2026-09-10",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721974/"
-    },
-    {
-      "pmid": "42721963",
-      "title": "4D spatiotemporal landscape of mitochondrial phenotypes across cellular states unlocked through representation learning.",
-      "abstract": "Mitochondria are four-dimensional (4D: x, y, z, and time) organelles essential for cellular function. Characterizing their 4D phenotypic landscape across diverse cellular states requires both 4D imaging and analytical frameworks. We present MitoSpace, a self-supervised deep learning model trained without labels on terabytes of single-cell lattice light-sheet microscopy data of mitochondria under mechanistically distinct perturbations. MitoSpace learns latent representations that outperform predefined features in drug classification and capture interpretable variation in mitochondrial morphology and dynamics. Regression probes predict mitochondrial membrane potential from the learned representations (R2 = 0.91), establishing a quantitative mapping between form and function at the single-cell level. MitoSpace also generalizes zero-shot to unseen perturbations and human lung organoids. Dimensionality ablation reveals that representation quality improves monotonically from 2D to 3D to 4D, demonstrating the importance of volumetric and temporal information. The model, dataset, and interactive explorer are publicly available, providing a foundation for 4D phenotypic screening.",
-      "journal": "Cell",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Pharmacology, University of California, San Diego, San Diego, CA 92093, USA; Department of Biochemistry and Molecular Biophysics, University of California, San Diego, San Diego, CA 92093, USA.",
-        "Department of Pharmacology, University of California, San Diego, San Diego, CA 92093, USA; Department of Biochemistry and Molecular Biophysics, University of California, San Diego, San Diego, CA 92093, USA. Electronic address: jschoeneberg@health.ucsd.edu."
-      ],
-      "doi": "10.1016/j.cell.2026.08.028",
-      "date": "2026-09-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721963/"
     },
     {
       "pmid": "42717098",
@@ -301,6 +305,23 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667121/"
     },
     {
+      "pmid": "42724935",
+      "title": "Humanizing Antibodies and Nanobodies From Scratch With HuDiff.",
+      "abstract": "Antibody (Ab) and nanobody (Nb) humanization is essential for reducing immunogenicity in therapeutic applications. HuDiff is an adaptive autoregressive diffusion approach that generates humanized antibodies and nanobodies from scratch using only complementarity-determining region sequences as input, eliminating the need for preexisting human templates. The method follows a two-stage training pipeline: pretraining on human antibody sequences to learn framework region patterns, followed by fine-tuning on target-species sequences. HuDiff-Ab processes paired heavy and light chains for conventional antibodies, while HuDiff-Nb can incorporate a specialized inpainting mode to preserve critical nanobody framework residues. This protocol provides a complete step-by-step guide for implementing HuDiff, covering data preparation, model training, and sequence generation. Key features • Requires only CDR sequences as input and does not require human template selection. • Uses a two-stage training strategy, with pretraining on human antibody sequences and fine-tuning on target-species sequences guided by humanness scores. • HuDiff-Ab humanizes paired heavy and light chains simultaneously, whereas HuDiff-Nb provides an inpainting mode to preserve key framework residues. • Generates multiple diverse humanized candidates for downstream experimental screening.",
+      "journal": "Bio-protocol",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Basic Medical Sciences, Lanzhou University, Lanzhou 730000, China.",
+        "Key Laboratory of Environmental Ecology and Population Health in Northwest Minority Areas, State Ethnic Affairs Commission, Northwest Minzu University, No.1 Xibeixincun, Chengguan District, Lanzhou, Gansu 730030, China.",
+        "College of Basic Medicine, Gansu University of Chinese Medicine, Lanzhou, China."
+      ],
+      "doi": "10.21769/BioProtoc.5816",
+      "date": "2026-09-05",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42724935/"
+    },
+    {
       "pmid": "42723155",
       "title": "A Site-Aware Representation Learning Framework For Unified Molecular Interaction Modeling and Generative Design.",
       "abstract": "Unifying drug-target affinity prediction and targeted molecular design within a single interpretable framework remains challenging. Many sequence-based affinity and design methods rely on global target representations without explicitly modeling binding regions, leading to site-level ambiguity in both screening and design. By contrast, structure-based methods require high-quality structural data and are poorly suited to dynamic targets. In this study, a new model named MolDBG is proposed as a unified site-aware framework that combines affinity prediction, binding-site identification, and affinity-conditioned molecular generation within a single architecture. With binding-site supervision, MolDBG prioritizes interaction-critical residues before learning drug-target representations, reducing false positives from misaligned binding sites and improving interpretability. MolDBG achieves competitive performance across all three tasks while enabling site-specific affinity prediction and interpretable binding-site discovery. The framework generalizes to structurally elusive targets, including cryptic pockets and intrinsically disordered proteins. Overall, these results demonstrate that MolDBG is a promising framework for molecular design and screening.",
@@ -396,130 +417,114 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42716354/"
     },
     {
-      "pmid": "42701174",
-      "title": "A dynamic fusion diffusion model for molecular generation.",
-      "abstract": "Molecular generation aims to construct valid, diverse, and novel molecular graphs by transforming noise into structured atom and bond representations through reverse diffusion. Because each reverse step relies on accurate denoising, the denoising network must recover both local chemical connectivity and global graph topology across noise levels. We propose DFDM, a dynamic fusion diffusion model for 2D molecular graph generation. DFDM combines a GINE-based spatial branch with a Chebyshev spectral branch and uses signal-to-noise-ratio-guided, layer-specific weights to adapt their contributions during reverse generation. Across three independent seeded generation-and-evaluation runs on QM9 and ZINC250k, DFDM achieved the lowest mean Frechet ChemNet Distance and the highest mean validity without correction among the compared methods. Ablations on both datasets showed that dynamic fusion provided a better overall metric balance than fixed weighting, while QM9 noise-stratified analysis revealed a systematic transition from spectral emphasis at high noise to spatial emphasis near the final denoising stage. DFDM therefore links noise-dependent denoising with molecular graph quality by integrating complementary local and global representations throughout generation.",
-      "journal": "Molecular diversity",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Artificial Intelligence and Computer Science, Shaanxi Normal University, Xi'an, 710119, China.",
-        "School of Artificial Intelligence and Computer Science, Shaanxi Normal University, Xi'an, 710119, China. xjlei@snnu.edu.cn.",
-        "School of Mathematics and Statistics, Qinghai Normal University, Xining, 810000, Qinghai, China."
-      ],
-      "doi": "10.1007/s11030-026-11718-9",
-      "date": "2026-09-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42701174/"
-    },
-    {
-      "pmid": "42722112",
-      "title": "Astrocyte-derived extracellular vesicle phosphorylated TDP-43 as a blood-based biomarker for amyotrophic lateral sclerosis.",
-      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease characterized by central nervous system (CNS) neuroglial TAR DNA-binding protein 43 (TDP-43) pathology in ~90-95% of cases. Non-invasive biomarkers are critically needed to reduce diagnostic delay, enable patient stratification, and assess treatment efficacy in clinical trials. Astrocyte-derived extracellular vesicles (ADEVs) represent promising CNS liquid biopsy biomarkers, given astrocyte involvement in ALS pathogenesis and the ability of ADEVs to cross the blood-brain barrier and carry TDP-43. Here, we assessed the diagnostic performance of TDP-43 and its hyperphosphorylated pathological form, phospho-Ser409 (pTDP-43), quantified in ADEVs, for distinguishing ALS cases from matched healthy controls. ADEVs were immunoisolated from whole blood (n = 76) and plasma (n = 86) across three ALS biorepositories/cohorts. ADEV quality and enrichment were validated in accordance with minimal information for studies of extracellular vesicles guidelines, and protein levels were normalized by ratio to tetraspanin cluster of differentiation 81 (CD81). Diagnostic accuracy was evaluated by logistic regression and random forest models with cross-validation, adjusting for age and sex across 100 random seeds. Plasma ADEV pTDP-43/CD81 ratio best predicted ALS case status, with a mean AUC of 0.89 (95% CI: 0.75-0.99) from logistic models, corresponding to a mean sensitivity and specificity of 87% and 89%, respectively, and a mean AUC of 0.86 (95% CI: 0.82-0.90) from random forest models. Although the specificity of ADEV pTDP-43 relative to disease mimics and associations with disease progression require further investigation, these findings support its potential as a biomarker candidate for ALS and for patient stratification in TDP-43-targeted clinical trials.",
-      "journal": "Neurobiology of disease",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Environmental Health Sciences, Mailman School of Public Health, Columbia University, New York, NY, USA. Electronic address: tanyahbutt@gmail.com.",
-        "Department of Environmental Health Sciences, Mailman School of Public Health, Columbia University, New York, NY, USA.",
-        "Office of Analytics and Innovation, Agency for Toxic Substances and Disease Registry, Centers for Disease Control and Prevention, Atlanta, GA, USA.",
-        "Department of Neurology, Columbia University Irving Medical Center, New York, NY, USA.",
-        "Department of Epidemiology, Mailman School of Public Health, Columbia University, New York, NY, USA.",
-        "Department of Neurology, Columbia University Irving Medical Center, New York, NY, USA; Center for Motor Neuron Biology and Disease, Columbia University, New York, NY, USA.",
-        "Department of Environmental Health Sciences, Mailman School of Public Health, Columbia University, New York, NY, USA; Department of Epidemiology, School of Public Health, Brown University, Providence, RI, USA.",
-        "Department of Environmental Health Sciences, Mailman School of Public Health, Columbia University, New York, NY, USA; Center for Motor Neuron Biology and Disease, Columbia University, New York, NY, USA."
-      ],
-      "doi": "10.1016/j.nbd.2026.107601",
-      "date": "2026-09-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42722112/"
-    },
-    {
-      "pmid": "42720694",
-      "title": "The mechanism of malignant progression in extramammary Paget's disease (EMPD): hallmarks of EMPD.",
-      "abstract": "The pathogenesis of cancer is characterized by the acceleration of tumor growth, inhibition of tumor suppression, genetic and epigenetic alteration, lubricative transformation and tumor microenvironment. Extramammary Paget's disease (EMPD) is a rare skin cancer that originates from apocrine glands in genital and axillary area. Although the pathogenesis of EMPD is still poorly understood, increasing evidence reveals that the mechanism of EMPD progression is regulated by the acquired ability of EMPD cells and tumor microenvironment. HER2/PI3K/AKT signaling and hormone receptor pathways are activated. Whereas tumor mutation burden is low, numerous driver genes such as ERBB2 and PIK3CA are detected. Tumor evolution in EMPD is characterized by high genetic intratumor heterogeneity with shared background factors. Tumor microenvironment in EMPD promotes immune evasion through the reduction of reduced CD4 + and CD8 + T cells and the increase of Treg cells and CD163 + macrophages. Enhanced Warburg effect and S. aureus contribute to the suppression of antitumor immunity. This review focuses on the mechanism of malignant progression in EMPD (hallmarks of EMPD).",
-      "journal": "Medical molecular morphology",
+      "pmid": "42724635",
+      "title": "Advanced and underlying therapeutic strategies in transformed small cell lung cancer.",
+      "abstract": "Transformed small-cell lung cancer (T-SCLC) is a clinically important form of histologic transformation and a mechanism of acquired resistance in non-small-cell lung cancer (NSCLC). It is associated with poor prognosis, with a median overall survival of only about 9-13 months. This review summarizes recent advances in the mechanisms, diagnosis, monitoring, and treatment of T-SCLC. Repeat biopsy remains the gold standard for confirming histologic transformation, whereas molecular profiling and liquid biopsy may facilitate early detection and longitudinal disease monitoring. Platinum-etoposide remains the most commonly used clinical standard after transformation, but its benefit is typically transient and durable disease control remains uncommon. Continuation of EGFR tyrosine kinase inhibitors combined with chemotherapy may prolong progression-free survival in selected patients but has not consistently improved overall survival. Anti-angiogenic therapy, particularly anlotinib, and chemo-immunotherapy have shown encouraging activity in selected patients, while emerging strategies targeting DLL3, MYC, SOX2, and epigenetic regulators may broaden the therapeutic landscape. Prospective studies integrating repeat tissue sampling, comprehensive genomic profiling, biomarker-guided patient stratification, pharmacogenomics, functional drug-sensitivity testing where feasible, and integrated multi-omics approaches are needed to advance molecularly guided and individualized treatment for T-SCLC.",
+      "journal": "Frontiers in medicine",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Department of Dermatology and Plastic Surgery, Faculty of Life Sciences, Kumamoto University, 1-1-1 Honjo, Kumamoto, Japan. kajiderma@gmail.com."
+        "Shanghai Key Laboratory of Clinical Geriatric Medicine, Affiliated Huadong Hospital, Fudan University, Shanghai, China."
       ],
-      "doi": "10.1007/s00795-026-00474-2",
-      "date": "2026-09-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42720694/"
+      "doi": "10.3389/fmed.2026.1865050",
+      "date": "2026-08-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42724635/"
     },
     {
-      "pmid": "42719702",
-      "title": "How advances in machine learning drive early detection and risk prediction of early-onset colorectal cancer.",
-      "abstract": "Early-onset colorectal cancer (EOCRC), defined as colorectal cancer diagnosed before age 50, is rising across high- and middle-income settings whilst organised screening stays anchored to older age thresholds. Blood-based liquid biopsy, combined with machine learning, is the most plausible route to early detection in this group because it does not depend on bowel preparation, endoscopy capacity, or adherence to stool-based testing. The gap is structural: incidence climbs fastest in the population below the age at which any guideline-endorsed modality is offered. The analytical challenge is that early-stage tumour-derived signals in plasma are low in abundance and distributed across heterogeneous molecular layers: circulating tumour DNA mutations, aberrant methylation, cfDNA fragmentomics, and small non-coding RNA. Machine learning converts these into a single calibrated probability. This review examines where artificial intelligence (AI)-driven liquid biopsy genuinely adds diagnostic value in EOCRC, distinguishes components in which learned models are decorative from those in which they are mechanistically necessary, and identifies the validation deficit separating research cohorts from deployable clinical tools. It summarises the first-generation tools used clinically for early detection and post-treatment monitoring, then considers analytes from exosome-bound microRNAs to long-read whole-genome sequencing of circulating plasma DNA, which reads cytosine modification natively, resolves methylation and fragmentation on single molecules, and characterises structural events short reads cannot anchor. Any analyte can feed a learned model, but more diverse input yields better discrimination. The central argument is that approved, guideline-included blood tests were validated in populations aged 45 and above, and their performance in younger patients cannot be assumed.",
+      "pmid": "42724581",
+      "title": "Epigenetic profiling of circulating cell-free DNA for early detection and minimal residual disease assessment in lung cancer: a focus on DNA methylation.",
+      "abstract": "Lung Cancer (LC) continues to be the biggest cause of cancer-related deaths around the world, mostly because of delayed diagnosis. Even if tissue biopsies and circulating tumor DNA (ctDNA) tests have revolutionized clinical management of LC patients, their effectiveness is restricted in settings with lower tumor burden, molecular heterogeneity, and bias in sampling approaches. In this scenario, the epigenetic profiling of cell-free DNA (cfDNA) stands out as a promising, less invasive approach, accurately detect cancer traces. Evidence from stage I-II disease and CT-detected pulmonary nodules supports the diagnostic potential of cfDNA methylation, although further validation in prospective screening cohorts remains necessary. Beyond genomic alterations, cfDNA epigenetic changes, including DNA methylation, chromatin organization, nucleosome positioning, and fragmentation patterns, reflect multi-dimensional complexity of tumor biology. These properties convey both the functional status and the origin of the circulating DNA fragments, accelerating for tumor integrating genomic analysis. Within this group, DNA methylation is the biologically robust and clinically well-established epigenetic marker, as alterations in methylation linked to cancer often occur in the early stages of tumorigenesis and are commonly found across different cancer cell types. Here, we explored the biological and clinical relevance of the epigenetic landscape of cfDNA in LC patients, particularly focusing on DNA methylation-based biomarkers and their evolving applications towards early diagnosis and post-surgical monitoring of minimal residual disease (MRD). We aimed to comprehensively overview analytical approaches for cfDNA methylation analysis, including targeted and genome-wide profiling strategies, and discuss their integration with machine learning (ML) and multi-omics frameworks in order to improve diagnostic performance and clinical applicability in LC management.",
       "journal": "Frontiers in oncology",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Department of Histopathology and Molecular Oncology, Krishna Institute of Medical Sciences (KIMS), Hyderabad, India.",
-        "Department of Oncology, University of Oxford, Oxford, United Kingdom."
+        "Department of Precision Medicine in Medical, Surgical and Critical Care (Me.Pre.C.C.), Section of Medical Oncology, University of Palermo, Palermo, Italy.",
+        "Division of Medical Oncology, Department of Internal Medicine, The Ohio State University Comprehensive Cancer Center - Arthur G. James Cancer Hospital and Richard J. Solove Research Institute, Columbus, OH, United States.",
+        "Medical Oncology Unit, Fondazione Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS) Casa Sollievo della Sofferenza, San Giovanni Rotondo, FG, Italy.",
+        "Catholic University of the Sacred Heart, Rome, Italy.",
+        "Lung Cancer Research Unit, Fondazione Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS) Casa Sollievo della Sofferenza, San Giovanni Rotondo, FG, Italy.",
+        "Medical Oncology Unit, Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS) Sacro Cuore Don Calabria Hospital, Negrar di Valpolicella, Verona, Italy.",
+        "Sbarro Institute for Cancer Research and Molecular Medicine and Center of Biotechnology, College of Science and Technology, Temple University, St. Philadelphia, PA, United States.",
+        "Department of Medical Biotechnology, University of Siena, Siena, Italy.",
+        "Department of Public Health, University Federico II of Naples, Naples, Italy.",
+        "Department of Medicine and Surgery, University of Enna \"Kore\", Enna, Italy."
       ],
-      "doi": "10.3389/fonc.2026.1916796",
-      "date": "2026-08-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42719702/"
+      "doi": "10.3389/fonc.2026.1919279",
+      "date": "2026-08-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42724581/"
     },
     {
-      "pmid": "42719676",
-      "title": "Circulating tumor DNA in neoadjuvant therapy for solid tumors.",
-      "abstract": "Circulating tumor DNA (ctDNA), a core component of liquid biopsy, demonstrates significant potential in the field of neoadjuvant therapy for solid tumors. This review systematically examines the role of ctDNA across the pre-, intra-, and post-neoadjuvant treatment phases, with a focus on its value in predicting therapeutic efficacy, assessing early treatment response, detecting minimal residual disease (MRD), and monitoring for recurrence. By synthesizing the latest clinical research data and advancements in molecular detection technologies, this article aims to elucidate how ctDNA is facilitating a shift towards more precise, dynamic, and individualized paradigms in neoadjuvant therapy for solid tumors. Furthermore, it analyzes the current challenges and future directions for integrating ctDNA analysis into clinical practice to optimize patient management and outcomes. Throughout, clinically validated applications are explicitly distinguished from those that remain investigational, and key unresolved questions are highlighted.",
-      "journal": "Frontiers in oncology",
+      "pmid": "42724455",
+      "title": "Radiation biomarkers in body fluids: translational perspectives for precision radiotherapy-a narrative review.",
+      "abstract": "Radiotherapy and radionuclide therapy are essential components of modern cancer treatment. Despite substantial advances in radiation delivery and treatment planning, considerable interindividual variability remains in therapeutic response and radiation-induced toxicity. Conventional monitoring approaches, including imaging and routine laboratory tests, often provide limited insight into early or systemic biological responses. Body fluid-based biomarkers may provide accessible molecular readouts of radiation-induced damage, host response, and treatment-related toxicity. This narrative review summarizes radiation biomarkers detectable in body fluids, with emphasis on oxidative stress and cellular damage markers, circulating RNAs and extracellular vesicles, and metabolomic and lipidomic signatures relevant to precision radiation medicine. A targeted literature search was conducted using PubMed/MEDLINE and Web of Science. Priority was given to primary experimental and clinical studies reporting specific molecular findings, longitudinal biomarker changes, or associations with treatment response and radiation-induced toxicity. Ionizing radiation induces oxidative stress, DNA damage, inflammatory signaling, metabolic reprogramming, and intercellular communication, generating measurable signals in blood, plasma, serum, and urine. Oxidative DNA damage products such as 8-hydroxy-2'-deoxyguanosine and γ-H2AX-related responses may reflect cellular injury and toxicity risk. Circulating microRNAs and extracellular vesicle-associated cargo may capture transcriptional responses, bystander signaling, and treatment-related systemic changes. Metabolomic and lipidomic studies have identified multimetabolite signatures associated with radiation exposure and normal tissue toxicity. However, most candidate biomarkers remain exploratory, and clinical implementation is limited by variability in sampling, analytical platforms, normalization, and external validation. Integrated longitudinal assessment of complementary biomarker classes, together with clinical and dosimetric information, may improve toxicity monitoring and treatment personalization. Prospective validation and methodological standardization are required before these biomarkers can support routine treatment adaptation.",
+      "journal": "Translational cancer research",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Hemodialysis Center, Department of Nephrology, West China Hospital, Sichuan University, Chengdu, China.",
-        "Department of Thoracic Surgery, West China Hospital, Sichuan University, Chengdu, China.",
-        "Department of Thoracic Surgery, West China School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China."
+        "Department of Radiation Science, Hirosaki University Graduate School of Health Sciences, Hirosaki, Japan.",
+        "Research Center for Biomedical Sciences, Hirosaki University, Hirosaki, Japan.",
+        "Department of Nursing, Faculty of Medical Technology, Teikyo University, Tokyo, Japan.",
+        "Department of Molecular Biosciences, The Wenner-Gren Institute, Stockholm University, Stockholm, Sweden.",
+        "Department of Radiology, Aomori Rosai Hospital, Hachinohe, Japan."
       ],
-      "doi": "10.3389/fonc.2026.1909934",
-      "date": "2026-08-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42719676/"
+      "doi": "10.21037/tcr-2026-0096",
+      "date": "2026-08-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42724455/"
     },
     {
-      "pmid": "42718847",
-      "title": "Individualized pharmacotherapy: background and development.",
-      "abstract": "Most drug prescriptions are still based on empiricism and not on solid biological data, which often results in considerable patient variability and, sometimes, low patient benefits. Although variability in patient response to pharmacotherapy has long been recognized, only in recent decades have new molecule analytical methods provided insight into some of the causes, which are often related to somatic or germline genetic variations. Based on this insight, different predictive biomarker tests have been developed to optimize and individualize pharmacotherapy. These biomarker tests are classified as companion diagnostic (CDx) or pharmacogenetic (PGx) tests. In both the United States and Europe, CDx and PGx information is part of the regulatory drug labeling and is included in the Prescribing Information for the individual drugs and biologics. In the United States, this type of information is found in the labeling of more than 400 regulatory-approved drugs and biological products. Despite these measures and the documented clinical utility of CDx and PGx testing, clinical implementation is lagging, especially with regard to PGx. There are various reasons for the lack of testing, such as insufficient education and awareness among healthcare professionals, inadequate access to biomarker testing, regulatory hurdles, and insufficient reimbursements. Although progress has been made in recent years, further efforts are needed to fully realize the potential of individualized pharmacotherapy by integrating the use of predictive biomarkers into routine clinical practice.",
-      "journal": "Annals of translational medicine",
+      "pmid": "42724399",
+      "title": "Non-small cell lung cancer and tumor-educated platelets: screening of biomarkers and construction of a prognostic model.",
+      "abstract": "Lung cancer is a leading cause of cancer-related mortality worldwide, emphasizing the urgent need for effective early detection strategies. Traditional Chinese medicine (TCM) provides a unique perspective on tumor pathogenesis, focusing on concepts such as \"long-term stasis leading to accumulation\". Tumor-educated platelets (TEPs) offer potential as biomarkers due to their ability to reflect cancer heterogeneity and facilitate less invasive diagnostic approaches. This study aims to identify TEP-related prognostic biomarkers for non-small cell lung cancer (NSCLC) and to construct and validate a multigene prognostic model by integrating platelet transcriptomic data with tumor tissue datasets. We performed comprehensive analysis of gene expression datasets obtained from The Cancer Genome Atlas (TCGA) and Gene Expression Omnibus (GEO) repositories to characterize transcriptomic differences among lung cancer specimens, normal tissue samples, and TEPs. Using R software, we identified Differentially expressed genes (DEGs) and subsequently applied a multi-stage analytical pipeline to TEP-associated DEGs, incorporating univariate Cox proportional hazards regression, least absolute shrinkage and selection operator (LASSO) regression, multivariate Cox regression, and stepwise regression modeling to pinpoint genes with prognostic significance. These prognostically relevant genes served as the foundation for developing a risk stratification model. We computed individual risk scores across both training and validation cohorts, enabling patient stratification into high- and low-risk categories. Model robustness was assessed through internal cross-validation and external validation procedures, while predictive performance was quantified using risk calibration metrics and receiver operating characteristic (ROC) curve analysis. Through systematic bioinformatics screening, we identified a four-gene prognostic signature comprising NELL2, C4orf48, PRAM1, and KLHL35, which served as the foundation for developing our risk stratification algorithm. Rigorous internal cross-validation and external cohort validation substantiated the moderate predictive performance of this signature. Comprehensive clinicopathological correlation analysis revealed that elevated risk indices, advanced pathological staging (stage III-IV), increased primary tumor dimensions, regional lymph node metastasis, and distant organ dissemination each demonstrated statistically significant associations with diminished overall survival (OS) outcomes in lung cancer patients. The clinical nomogram exhibited acceptable calibration, with calibration plots showing reasonable concordance between predicted and observed survival probabilities across all time points. Discriminative capacity assessment via time-dependent ROC analysis yielded area under the curve (AUC) values consistently surpassing 0.6, confirming moderate prognostic discrimination. Furthermore, decision curve analysis (DCA) demonstrated that our integrated multi-gene model conferred potential net clinical benefit compared to individual prognostic variables across the full spectrum of clinically relevant threshold probabilities (0-1 range), thereby establishing its potential utility for risk-informed clinical decision-making. This study identified NELL2, C4orf48, PRAM1, and KLHL35 as candidate TEP-related prognostic biomarkers for non-small cell lung cancer (NSCLC). The developed prognostic model shows preliminary potential for patient stratification, but its clinical application, particularly as a platelet-based liquid biopsy tool, requires further validation in independent TEP-based cohorts.",
+      "journal": "Translational cancer research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Science and Technology, The Affiliated Hospital of Nanjing University of Chinese Medicine, Nanjing, China.",
+        "School of Chinese Medicine, Nanjing University of Chinese Medicine, Nanjing, China.",
+        "Qinghai University Medical College, Qinghai University, Xining, China."
+      ],
+      "doi": "10.21037/tcr-2026-1075",
+      "date": "2026-07-23",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42724399/"
+    },
+    {
+      "pmid": "42723806",
+      "title": "Clinical value of blood circulating tumor RNA (ctRNA) in liquid biopsy of lung cancer: a narrative review.",
+      "abstract": "Lung cancer remains a major global health challenge, with substantial incidence rates and the highest cancer-related mortality. Liquid biopsy based on circulating tumor DNA (ctDNA) has been widely used in lung cancer diagnosis, monitoring, and treatment guidance. However, its sensitivity remains limited due to the low abundance of ctDNA in circulation. Circulating tumor RNA (ctRNA), released actively or passively by tumor cells and carrying tumor-specific alterations, offers a promising complementary biomarker in lung cancer liquid biopsy. This review summarizes current ctRNA research in lung cancer and highlights the potential of ctRNA approaches to improve diagnostic and monitoring performance. We performed a narrative review by systematically searching the PubMed and Google Scholar databases for identifying significant literatures related to clinical research for ctRNA in lung cancer. This review summarizes the biological resources, including plasma, exosome, and platelet, and liquid biopsy techniques, such as quantitative polymerase chain reaction (qPCR), digital droplet PCR (ddPCR), nCounter, as well as next-generation sequencing (NGS) for ctRNA detection in lung cancer. In addition, we discuss the current clinical studies of ctRNA in diagnosis, prognosis, and monitoring, as well as its integration with ctDNA in liquid biopsy of lung cancer. Finally, we highlight the current limitations and further perspective of ctRNA in clinical applications. ctRNA represents a powerful and increasingly essential component of next-generation liquid biopsy. Its integration with ctDNA enhances molecular profiling and supports more precise diagnosis, dynamic disease monitoring, and adaptation of targeted therapies in lung cancer. Continued methodological advancements will further accelerate its clinical translation.",
+      "journal": "Translational lung cancer research",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Dx-Rx Institute, Fredensborg, Denmark.",
-        "University College Absalon, Centre for Health, Roskilde, Denmark."
+        "Department of Thoracic Surgery and Institute of Thoracic Oncology, West China Hospital, Sichuan University, Chengdu, China."
       ],
-      "doi": "10.21037/atm-2026-0136",
-      "date": "2026-08-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42718847/"
+      "doi": "10.21037/tlcr-2026-0525",
+      "date": "2026-07-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42723806/"
     },
     {
-      "pmid": "42716838",
-      "title": "Prognostic Value of Androgen Receptor (AR) Gene Alterations Detected in Circulating Tumor DNA (ctDNA) in Patients With Metastatic Castration-Resistant Prostate Cancer: A Systematic Review and Meta-analysis.",
-      "abstract": "Circulating tumor DNA (ctDNA) has emerged as a novel detection technique that provides molecular profiles without invasive procedures. This study assessed the prognostic value of ctDNA-based androgen receptor (AR) gene alterations in metastatic castration-resistant prostate cancer (mCRPC) treated with enzalutamide and abiraterone. A comprehensive search was conducted in PubMed, Embase, and the Cochrane Library from January 2016 to April 2025. Studies investigating the prognostic value of AR alterations in ctDNA in mCRPC were included. Hazard ratios of overall and progression-free survival were extracted. The overall meta-analysis and subgroup exploration stratified by ctDNA sampling time, research type, prior androgen receptor inhibitor (ARI) use, detection method, and AR alteration type were performed using Review Manager, Stata, and R software. Twenty-five studies were included in the meta-analysis. The presence of AR gene alterations in ctDNA was significantly associated with worse overall survival (HR = 1.99, 95% CI, 1.61-2.46, P < .001) and progression-free survival (HR = 2.37, 95% CI, 1.81-3.10, P < .001). Subgroup analyses showed that these associations were observed across different ctDNA detection methods and sampling-time categories. Among patients with prior exposure to next-generation AR-targeted therapies, the association with OS was attenuated and was not statistically significant (HR = 1.58, 95% CI, 0.96-2.62, P = .07), whereas the association with PFS remained significant (HR = 2.00, 95% CI, 1.16-3.46, P = .01). Significant between-study heterogeneity was observed. ctDNA-detected AR gene alterations are associated with inferior OS and PFS in patients with mCRPC treated with novel hormonal therapies, supporting their potential role as prognostic biomarkers. However, the available evidence does not establish treatment-predictive utility, because the included analyses do not demonstrate that AR status modifies the relative benefit of one therapy compared with another. Interpretation should consider sampling timing, alteration type, prior and subsequent treatment exposure, substantial between-study heterogeneity, and potential publication bias. Prospective biomarker-stratified studies are needed to determine whether ctDNA AR alterations predict differential benefit from specific therapies.",
-      "journal": "Clinical genitourinary cancer",
+      "pmid": "42723745",
+      "title": "Predictive modeling of peripheral blood EGFR positivity in patients with advanced primary non-small cell lung cancer.",
+      "abstract": "Lung cancer is the leading cause of cancer-related mortality worldwide, with non-small cell lung cancer (NSCLC) accounting for approximately 85% of cases. Epidermal growth factor receptor (EGFR) mutations are the most prevalent driver alterations in NSCLC, and tyrosine kinase inhibitors (TKIs) have markedly improved survival outcomes. Accurate molecular testing is essential for guiding targeted therapy. However, tissue biopsy, the current gold standard, is often limited by insufficient samples, invasive procedure risks, or tumor heterogeneity, some patients experiencing sampling failure. Liquid biopsy based on circulating tumor DNA (ctDNA) offers a minimally invasive alternative and can shorten the detection cycle by 2 to 3 weeks, but its sensitivity depends on ctDNA shedding, and patient selection for blood-based testing remains challenging in clinical practice. This study aimed to develop a peripheral blood EGFR positivity prediction model and a simple scoring system to identify high probability candidates for liquid biopsy and prioritize blood-based EGFR testing when tissue samples are inadequate. A retrospective case-control study design was employed. Data were collected from 384 patients with NSCLC who were hospitalized at The First Affiliated Hospital of Guangzhou Medical University between June 2018 and September 2024 and met the study's inclusion criteria. The patients were categorized into two groups: the peripheral blood EGFR-positive group (191 cases) and peripheral blood EGFR-negative group (193 cases). Univariate and binary logistic regression analyses were conducted to establish a predictive model for EGFR in peripheral blood, which was subsequently converted into a scoring system. The results of multi-factor analysis showed that gender, smoking status, pulmonary lymphangitic carcinomatosis, non-vertebral bone metastasis, brain metastasis, and liver metastasis were independent factors for the prediction of EGFR positivity in peripheral blood (P<0.05). The receiver operating characteristic (ROC) curve analysis of predicted peripheral blood EGFR positivity showed that the area under the curve (AUC) was 0.884. A score of ≥3 was considered a high-probability population with positive EGFR in peripheral blood. The sensitivity for diagnosing positive EGFR in peripheral blood was 84.8%, and the specificity was 73.1%. Taking the next-generation sequencing (NGS) detection results as the reference standard, the sensitivity of amplification refractory mutation system polymerase chain reaction (ARMS-PCR) detection was 94.96%, the specificity was 100%, and the overall compliance rate was 96.2% [Kappa (Cohen's kappa coefficient) =0.903, P<0.001]. The Gspnbl score demonstrates good predictive performance in identifying patients with a high probability of peripheral blood EGFR positivity. This easy‑to‑apply tool helps clinicians rapidly select appropriate candidates for liquid‑biopsy EGFR testing. ARMS‑PCR and NGS have high consistency in detecting common EGFR‑sensitive mutations. ARMS‑PCR can be adopted for rapid initial screening in critically‑ill patients with high suspicion of EGFR mutations.",
+      "journal": "Translational lung cancer research",
       "publicationTypes": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ],
       "affiliations": [
-        "Department of Urology, Peking University First Hospital, Institute of Urology, Peking University, National Urological Cancer Center, Xicheng District, Beijing, China.",
-        "The First Norman Bethune College of Clinical Medicine, Jilin University, Changchun, China.",
-        "Division of Clinical Epidemiology, The First Hospital of Jilin University, Changchun, China. Electronic address: fuyingli@jlu.edu.cn.",
-        "Department of Urology, Peking University First Hospital, Institute of Urology, Peking University, National Urological Cancer Center, Xicheng District, Beijing, China. Electronic address: zhoulqmail@sina.com."
+        "Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou Institute of Respiratory Health, National Clinical Research Centre for Respiratory Disease, Guangzhou, China.",
+        "Department of Medical Imaging, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China."
       ],
-      "doi": "10.1016/j.clgc.2026.102651",
-      "date": "2026-08-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42716838/"
+      "doi": "10.21037/tlcr-2026-0625",
+      "date": "2026-07-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42723745/"
     }
   ],
   "signals": [
@@ -585,38 +590,6 @@
       "fact": "PubMed 记录显示该文献收录于 Cell systems，PMID 为 42721974。",
       "report": "Although patient-derived tumor organoids are widely applied for evaluating anti-tumor drugs, the lack of a physiologically relevant environment limits drug assessment. Intestinal absorption and liver metabolism are critical for drug efficacy but cannot be reca...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42721963",
-      "date": "2026-09-10",
-      "title": "4D spatiotemporal landscape of mitochondrial phenotypes across cellular states unlocked through representation learning.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721963/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell，PMID 为 42721963。",
-      "report": "Mitochondria are four-dimensional (4D: x, y, z, and time) organelles essential for cellular function. Characterizing their 4D phenotypic landscape across diverse cellular states requires both 4D imaging and analytical frameworks. We present MitoSpace, a self-s...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -716,66 +689,6 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of medicinal chemistry，PMID 为 42720471。",
       "report": "ATP-binding cassette (ABC) transporters ABCB1/P-glycoprotein (P-gp) and ABCG2/breast cancer resistance protein (BCRP) drive multidrug resistance (MDR) by limiting intracellular chemotherapy accumulation, and are coexpressed in cancers with overlapping substrat...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42722112",
-      "date": "2026-09-10",
-      "title": "Astrocyte-derived extracellular vesicle phosphorylated TDP-43 as a blood-based biomarker for amyotrophic lateral sclerosis.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42722112/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neurobiology of disease，PMID 为 42722112。",
-      "report": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease characterized by central nervous system (CNS) neuroglial TAR DNA-binding protein 43 (TDP-43) pathology in ~90-95% of cases. Non-invasive biomarkers are critically needed to reduce diagnos...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42720694",
-      "date": "2026-09-10",
-      "title": "The mechanism of malignant progression in extramammary Paget's disease (EMPD): hallmarks of EMPD.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42720694/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Medical molecular morphology，PMID 为 42720694。",
-      "report": "The pathogenesis of cancer is characterized by the acceleration of tumor growth, inhibition of tumor suppression, genetic and epigenetic alteration, lubricative transformation and tumor microenvironment. Extramammary Paget's disease (EMPD) is a rare skin cance...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -943,34 +856,31 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42701174",
+      "id": "pubmed-42724935",
       "date": "2026-09-05",
-      "title": "A dynamic fusion diffusion model for molecular generation.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
+      "title": "Humanizing Antibodies and Nanobodies From Scratch With HuDiff.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42701174/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42724935/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Multi-omics"
+        "Biotech",
+        "Drug Screening"
       ],
       "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "多组学"
+        "biotech",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular diversity，PMID 为 42701174。",
-      "report": "Molecular generation aims to construct valid, diverse, and novel molecular graphs by transforming noise into structured atom and bond representations through reverse diffusion. Because each reverse step relies on accurate denoising, the denoising network must...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Bio-protocol，PMID 为 42724935。",
+      "report": "Antibody (Ab) and nanobody (Nb) humanization is essential for reducing immunogenicity in therapeutic applications. HuDiff is an adaptive autoregressive diffusion approach that generates humanized antibodies and nanobodies from scratch using only complementarit...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1070,6 +980,98 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42724635",
+      "date": "2026-08-27",
+      "title": "Advanced and underlying therapeutic strategies in transformed small cell lung cancer.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42724635/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in medicine，PMID 为 42724635。",
+      "report": "Transformed small-cell lung cancer (T-SCLC) is a clinically important form of histologic transformation and a mechanism of acquired resistance in non-small-cell lung cancer (NSCLC). It is associated with poor prognosis, with a median overall survival of only a...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42724581",
+      "date": "2026-08-27",
+      "title": "Epigenetic profiling of circulating cell-free DNA for early detection and minimal residual disease assessment in lung cancer: a focus on DNA methylation.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42724581/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42724581。",
+      "report": "Lung Cancer (LC) continues to be the biggest cause of cancer-related deaths around the world, mostly because of delayed diagnosis. Even if tissue biopsies and circulating tumor DNA (ctDNA) tests have revolutionized clinical management of LC patients, their eff...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42724455",
+      "date": "2026-08-27",
+      "title": "Radiation biomarkers in body fluids: translational perspectives for precision radiotherapy-a narrative review.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42724455/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Translational cancer research，PMID 为 42724455。",
+      "report": "Radiotherapy and radionuclide therapy are essential components of modern cancer treatment. Despite substantial advances in radiation delivery and treatment planning, considerable interindividual variability remains in therapeutic response and radiation-induced...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42699656",
       "date": "2026-08-26",
       "title": "Artificial intelligence virtual bone organoids (AIVBOs).",
@@ -1110,93 +1112,39 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42719702",
-      "date": "2026-08-26",
-      "title": "How advances in machine learning drive early detection and risk prediction of early-onset colorectal cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42719702/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42719702。",
-      "report": "Early-onset colorectal cancer (EOCRC), defined as colorectal cancer diagnosed before age 50, is rising across high- and middle-income settings whilst organised screening stays anchored to older age thresholds. Blood-based liquid biopsy, combined with machine l...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42719676",
-      "date": "2026-08-26",
-      "title": "Circulating tumor DNA in neoadjuvant therapy for solid tumors.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42719676/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42719676。",
-      "report": "Circulating tumor DNA (ctDNA), a core component of liquid biopsy, demonstrates significant potential in the field of neoadjuvant therapy for solid tumors. This review systematically examines the role of ctDNA across the pre-, intra-, and post-neoadjuvant treat...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42716838",
-      "date": "2026-08-18",
-      "title": "Prognostic Value of Androgen Receptor (AR) Gene Alterations Detected in Circulating Tumor DNA (ctDNA) in Patients With Metastatic Castration-Resistant Prostate Cancer: A Systematic Review and Meta-analysis.",
-      "entity": "Biotech Research",
+      "id": "pubmed-42724647",
+      "date": "2026-08-13",
+      "title": "Safety and toxicity assessment of antisense oligonucleotides in brain-relevant human cellular models.",
+      "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
+      "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42716838/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42724647/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Biotech",
-        "Precision Oncology"
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Drug Screening",
+        "Multi-omics"
       ],
       "tags": [
-        "biotech",
-        "肿瘤"
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "药筛",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Clinical genitourinary cancer，PMID 为 42716838。",
-      "report": "Circulating tumor DNA (ctDNA) has emerged as a novel detection technique that provides molecular profiles without invasive procedures. This study assessed the prognostic value of ctDNA-based androgen receptor (AR) gene alterations in metastatic castration-resi...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Molecular therapy. Nucleic acids，PMID 为 42724647。",
+      "report": "Antisense oligonucleotides (ASOs) have become an established therapeutic modality for central nervous system (CNS) disorders, enabling selective modulation of gene expression through splice-switching or steric-hindrance mechanisms. Backbone and sugar chemistry...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1230,38 +1178,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42718847",
-      "date": "2026-08-05",
-      "title": "Individualized pharmacotherapy: background and development.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42718847/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Annals of translational medicine，PMID 为 42718847。",
-      "report": "Most drug prescriptions are still based on empiricism and not on solid biological data, which often results in considerable patient variability and, sometimes, low patient benefits. Although variability in patient response to pharmacotherapy has long been reco...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42693007",
       "date": "2026-08-01",
       "title": "[TCM digital human: an innovation engine driving TCM integrative pharmacology 2.0].",
@@ -1289,6 +1205,102 @@
       "fact": "PubMed 记录显示该文献收录于 Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica，PMID 为 42693007。",
       "report": "As the primary carrier of clinical treatment in traditional Chinese medicine(TCM), TCM formulae require elucidation of the interaction laws between their chemical substance basis and biological activities, which represents a key scientific issue in TCM researc...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42723806",
+      "date": "2026-07-30",
+      "title": "Clinical value of blood circulating tumor RNA (ctRNA) in liquid biopsy of lung cancer: a narrative review.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42723806/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Translational lung cancer research，PMID 为 42723806。",
+      "report": "Lung cancer remains a major global health challenge, with substantial incidence rates and the highest cancer-related mortality. Liquid biopsy based on circulating tumor DNA (ctDNA) has been widely used in lung cancer diagnosis, monitoring, and treatment guidan...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42723745",
+      "date": "2026-07-27",
+      "title": "Predictive modeling of peripheral blood EGFR positivity in patients with advanced primary non-small cell lung cancer.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42723745/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Translational lung cancer research，PMID 为 42723745。",
+      "report": "Lung cancer is the leading cause of cancer-related mortality worldwide, with non-small cell lung cancer (NSCLC) accounting for approximately 85% of cases. Epidermal growth factor receptor (EGFR) mutations are the most prevalent driver alterations in NSCLC, and...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42724399",
+      "date": "2026-07-23",
+      "title": "Non-small cell lung cancer and tumor-educated platelets: screening of biomarkers and construction of a prognostic model.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42724399/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Translational cancer research，PMID 为 42724399。",
+      "report": "Lung cancer is a leading cause of cancer-related mortality worldwide, emphasizing the urgent need for effective early detection strategies. Traditional Chinese medicine (TCM) provides a unique perspective on tumor pathogenesis, focusing on concepts such as \"lo...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
