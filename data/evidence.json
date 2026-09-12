@@ -4,6 +4,34 @@
   "asOfDate": "2026-09-12",
   "evidence": [
     {
+      "id": "evidence-pubmed-42728338",
+      "signalId": "pubmed-42728338",
+      "companyIds": [],
+      "publishedAt": "2026-09-11",
+      "snapshotDate": "2026-09-12",
+      "title": "Engineering the human endometrium at the intersection of development and reproduction.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42728338/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Nature biomedical engineering，PMID 为 42728338。",
+      "report": "The human endometrium plays a central role in embryo implantation, pregnancy, and reproductive and systemic health, making it of great biological and clinical interest. Animal models of the endometrium often fail to mimic many intrinsic characteristics at the...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-pubmed-42728176",
       "signalId": "pubmed-42728176",
       "companyIds": [
@@ -136,34 +164,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42727715",
-      "signalId": "pubmed-42727715",
-      "companyIds": [],
-      "publishedAt": "2026-09-11",
-      "snapshotDate": "2026-09-12",
-      "title": "Bupleuri Radix- Aurantii Fructus Immaturus pair attenuates metabolic dysfunction-associated fatty liver disease in association with modulation of PI3K/Akt-GSK3β/FoxO1 pathway: Evidence from multi-model validation including human iPSC-derived liver organoids.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42727715/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Journal of ethnopharmacology，PMID 为 42727715。",
-      "report": "Bupleuri Radix (Chaihu) and Aurantii Fructus Immaturus (Zhishi) is a classic herb pair from Si-Ni-San. In traditional Chinese medicine theory, they regulate liver-spleen qi movement through a \"one ascending, one descending\" dynamic, and are used for syndromes...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-pubmed-42725532",
       "signalId": "pubmed-42725532",
       "companyIds": [],
@@ -192,34 +192,6 @@
       "fact": "PubMed 记录显示该文献收录于 Chemistry (Weinheim an der Bergstrasse, Germany)，PMID 为 42725532。",
       "report": "Covalent drugs have attracted increasing attention in modern drug discovery because of their prolonged target engagement, enhanced pharmacological efficacy, and potential to address traditionally challenging protein targets. The rapid development of electrophi...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42727690",
-      "signalId": "pubmed-42727690",
-      "companyIds": [],
-      "publishedAt": "2026-09-11",
-      "snapshotDate": "2026-09-12",
-      "title": "The effect of unique molecular identifier family size using tumor-informed circulating tumor-DNA analysis in childhood cancers.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42727690/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 The Journal of molecular diagnostics : JMD，PMID 为 42727690。",
-      "report": "Analysis of circulating tumor-DNA (ctDNA) provides a molecular assessment that can complement routine imaging in childhood cancer management. Detailed monitoring of ctDNA levels may provide information on treatment efficacy and resistance, minimal residual dis...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -660,6 +632,36 @@
       "fact": "PubMed 记录显示该文献收录于 Bio-protocol，PMID 为 42724935。",
       "report": "Antibody (Ab) and nanobody (Nb) humanization is essential for reducing immunogenicity in therapeutic applications. HuDiff is an adaptive autoregressive diffusion approach that generates humanized antibodies and nanobodies from scratch using only complementarit...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42725339",
+      "signalId": "pubmed-42725339",
+      "companyIds": [],
+      "publishedAt": "2026-09-05",
+      "snapshotDate": "2026-09-12",
+      "title": "Endoscopic Collection and Analysis of Gastric Fluid DNA: A Liquid Biopsy Methodology for Tumor Biomarker Discovery.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42725339/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Bio-protocol，PMID 为 42725339。",
+      "report": "Gastric cancer remains a major global health challenge, and reliable prognostic biomarkers are urgently needed to guide treatment decisions. Here, we present a simple and efficient protocol for a novel liquid biopsy approach based on quantifying gastric fluid...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
