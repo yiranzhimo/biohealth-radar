@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-12T15:35:42.301955+00:00",
+  "capturedAt": "2026-09-12T20:37:51.475893+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -17,9 +17,9 @@
     "42728338",
     "42728176",
     "42728030",
-    "42728025",
     "42728022",
     "42727800",
+    "42727715",
     "42717098",
     "42715312",
     "42699656",
@@ -102,29 +102,6 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42728030/"
     },
     {
-      "pmid": "42728025",
-      "title": "Bridging preclinical and clinical efficacy of SIK2/SIK3 inhibition in inflammatory bowel disease through integrated murine, patient-derived models, and phase 2a trial-based analyses.",
-      "abstract": "Translational attrition remains a major obstacle in inflammatory bowel disease (IBD) drug development due to limited concordance between conventional preclinical models and patient responses. In this study we aimed to evaluate the activity of the selective salt-inducible kinase 2/3 (SIK2/3) inhibitor GLPG3970 across complementary experimental platforms, including murine colitis, patient-derived intestinal organoids, and ex vivo mucosal biopsies, and compared these findings with transcriptional data from a UC-phase 2 study. Therapeutic efficacy of GLPG3970 (20 mg/kg) was assessed in the murine CD4 + CD25- T-cell transfer colitis model. Epithelial-intrinsic responses were investigated in ulcerative colitis (UC) patient-derived intestinal organoids (n = 5). In parallel, mucosal biopsies from UC (n = 10) and Crohn's disease (CD; n = 10) patients were treated ex vivo with GLPG3970 (60 µM) or tofacitinib (10 µM) for 24 h. Treatment-induced transcriptional signatures were compared with bulk RNA sequencing data from patients enrolled in a short 6-week UC-phase 2 study (GLPG3970 n = 21, placebo n = 10; NCT04577794). GLPG3970 reduced disease activity and restored goblet cell-associated mucus production in the T-cell transfer model. In patient-derived intestinal organoids, SIK2/SIK3 inhibition enhanced epithelial mucus secretion. Ex vivo exposure of IBD biopsies elicited anti-inflammatory transcriptional and proteomic responses, revealing disease- and treatment-specific signatures. Notably, GLPG3970-induced signatures in ex vivo biopsies closely aligned with treatment-responsive gene expression changes observed in the UC-phase 2 study. Integrated analyses across murine, patient-derived, and clinical trial datasets demonstrate conserved immune-epithelial responses to SIK2/SIK3 inhibition by GLPG3970. These findings support the value of patient-relevant experimental platforms to assess target engagement and therapeutic activity prior to clinical testing, strengthening translational alignment in IBD drug development.",
-      "journal": "Journal of Crohn's & colitis",
-      "publicationTypes": [
-        "Journal Article",
-        "Clinical Trial, Phase II"
-      ],
-      "affiliations": [
-        "Department of Chronic Diseases and Metabolism (CHROMETA), Translational Research Center for Gastrointestinal Disorders (TARGID), KU Leuven, Leuven, Belgium.",
-        "Galapagos NV, Mechelen, Belgium.",
-        "FoxBioPath BV, Duffel, Belgium.",
-        "Aspect Analytics NV, Genk, Belgium.",
-        "In Vivo Pharmacology, Novalix, Romainville, France.",
-        "Department of Experimental and Clinical Biomedical Sciences, University of Florence, Florence, Italy.",
-        "Coultreon Biopharma, Leuven, Belgium.",
-        "Department of Gastroenterology and Hepatology, University Hospitals Leuven, KU Leuven, Leuven, Belgium."
-      ],
-      "doi": "10.1093/ecco-jcc/jjag133",
-      "date": "2026-09-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42728025/"
-    },
-    {
       "pmid": "42728022",
       "title": "Lymphatics-epicardial cross talk via Reelin controls cardiac growth.",
       "abstract": "How mammalian organ size is precisely regulated remains incompletely understood. This process depends on the coordinated balance between cell proliferation, differentiation, and apoptosis. In the heart, the epicardium plays a central role in embryonic cardiac growth as a source of multiple cardiac progenitor lineages. The transcription factor Wt1 is essential for epicardial development and maturation, and its loss disrupts epicardial maintenance and the generation of epicardial-derived cells (EPDCs). In addition, the epicardium produces mitogenic factors required for cardiomyocyte (CM) proliferation, including those of the insulin-like growth factor (IGF) signaling pathway. Consistently, functional inactivation of Igf1 or Igf2 in mice results in severe prenatal growth reduction, with mutant embryos ∼60% smaller than controls, underscoring the roles of these genes in organ and fetal growth. We recently identified the cardiac lymphatic vasculature as an unexpected regulator of heart size during embryonic development. Here, by combining single-cell RNA sequencing with loss-of-function mouse models, we uncover a critical regulatory network linking cardiac lymphatics, the epicardium, Wt1, and Igf1 signaling that controls the final stages of embryonic cardiac growth. Our findings suggest that cardiac lymphatics act as a physiological quality control system for heart growth. Furthermore, using gain-of-function approaches in human epicardial organoids, we demonstrate that Reelin promotes epicardial fate, suggesting that the beneficial roles of lymphatics in adult cardiac repair are likely mediated through Reelin-dependent epicardial reactivation.",
@@ -161,6 +138,25 @@
       "doi": "10.1016/j.expneurol.2026.116022",
       "date": "2026-09-11",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42727800/"
+    },
+    {
+      "pmid": "42727715",
+      "title": "Bupleuri Radix- Aurantii Fructus Immaturus pair attenuates metabolic dysfunction-associated fatty liver disease in association with modulation of PI3K/Akt-GSK3β/FoxO1 pathway: Evidence from multi-model validation including human iPSC-derived liver organoids.",
+      "abstract": "Bupleuri Radix (Chaihu) and Aurantii Fructus Immaturus (Zhishi) is a classic herb pair from Si-Ni-San. In traditional Chinese medicine theory, they regulate liver-spleen qi movement through a \"one ascending, one descending\" dynamic, and are used for syndromes of liver depression and spleen deficiency with phlegm-stasis intermingling. This syndrome pattern closely mirrors the pathogenesis of metabolic dysfunction-associated fatty liver disease (MAFLD). However, the mechanisms underlying the anti-MAFLD effect of this herb pair remain unclear. To determine the effects and molecular mechanisms of the Bupleuri Radix- Aurantii Fructus Immaturus pair (BAP) in alleviating MAFLD. The quality of the BAP preparation used in this study was partially assessed by high-performance liquid chromatography (HPLC). Potential mechanisms were predicted via network pharmacology and functional enrichment analysis, and experimentally explored using high-fat high-sucrose diet mice, FFA-induced AML12 hepatocytes and human induced pluripotent stem cell (iPSC)-derived liver organoids. The PI3K/Akt-GSK3β/FoxO1 signaling pathway was further examined by LY294002 rescue assay. BAP ameliorated MAFLD-related hepatic phenotypes both in vivo and in vitro. Four representative quality control markers, namely synephrine, naringin, saikosaponin A, and saikosaponin D, were identified using validated reference standard methods. Network pharmacological analysis predicted that AKT1, GSK3B, and FOXO1 might be central targets, and the PI3K-Akt signalling pathway was identified as a potential pathway associated with the anti-MAFLD effects of BAP. GO and KEGG enrichment analyses revealed that the overlapping targets were significantly enriched in insulin signalling, lipid metabolism, and FoxO signalling pathways. In vivo, BAP treatment significantly reduced body weight gain, improved serum lipid profiles and liver function, alleviated insulin resistance, and attenuated hepatic steatosis and inflammation in HFSW-fed mice. Energy metabolism monitoring indicated that BAP markedly enhanced oxygen consumption and carbon dioxide production throughout the 24-hour light-dark cycle. In human iPSC-derived liver organoids, BAP reduced FFA-induced hepatocyte injury, lipid accumulation, and oxidative stress, and partially normalized the aberrant expression of genes involved in lipogenesis (SREBF1, FASN, SCD1), fatty acid oxidation (PPARA, CPT1A), and gluconeogenesis (G6PC). Western blot analysis demonstrated that BAP significantly upregulated PI3K expression and the phosphorylation levels of Akt (Ser473), GSK-3β (Ser9), and FoxO1 (Ser256), while downregulating p-GS (Ser641) in mouse livers, liver organoids, and AML12 cells. Moreover, co-treatment with the PI3K inhibitor LY294002 partially counteracted the beneficial effects of BAP on these proteins and counteracted the improvements in glycolipid metabolism, suggesting that the anti-MAFLD effects of BAP are associated with modulation of the PI3K/Akt pathway. With BAP as the research subject, this study conducts cross-validation across a multi-model system including whole-animal models, hepatocytes and human liver organoids, and suggests that BAP ameliorates glucolipid metabolic disorders and slows MAFLD progression, effects that are closely associated with modulation of the PI3K/Akt-GSK3β/FoxO1 signaling pathway. These findings provide novel compatibility insights and experimental evidence for traditional Chinese medicine-based intervention of MAFLD.",
+      "journal": "Journal of ethnopharmacology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "The Second Qilu Hospital of Shandong University, 247 Beiyuan Street, Jinan, Shandong, 250033, China; Tianjin University of Traditional Chinese Medicine, 10 Poyanghu road, Tianjin, 301617, 12 China. Electronic address: 18928895015@163.com.",
+        "The Second Qilu Hospital of Shandong University, 247 Beiyuan Street, Jinan, Shandong, 250033, China. Electronic address: lijianchao0117@163.com.",
+        "Department of Basic Medicine, Shandong University, 44 Wenhuaxi Road, Jinan, Shandong, 250012, China. Electronic address: 13188990080@163.com.",
+        "The Second Qilu Hospital of Shandong University, 247 Beiyuan Street, Jinan, Shandong, 250033, China. Electronic address: 18264118723@163.com.",
+        "The Second Qilu Hospital of Shandong University, 247 Beiyuan Street, Jinan, Shandong, 250033, China; Advanced Medical Research Institute, Shandong University, 44 Wenhua Xi Road, Jinan, Shandong, 250012, China. Electronic address: sunrong@sdu.edu.cn."
+      ],
+      "doi": "10.1016/j.jep.2026.122376",
+      "date": "2026-09-11",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42727715/"
     },
     {
       "pmid": "42717098",
@@ -708,6 +704,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42727715",
+      "date": "2026-09-11",
+      "title": "Bupleuri Radix- Aurantii Fructus Immaturus pair attenuates metabolic dysfunction-associated fatty liver disease in association with modulation of PI3K/Akt-GSK3β/FoxO1 pathway: Evidence from multi-model validation including human iPSC-derived liver organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42727715/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of ethnopharmacology，PMID 为 42727715。",
+      "report": "Bupleuri Radix (Chaihu) and Aurantii Fructus Immaturus (Zhishi) is a classic herb pair from Si-Ni-San. In traditional Chinese medicine theory, they regulate liver-spleen qi movement through a \"one ascending, one descending\" dynamic, and are used for syndromes...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42725532",
       "date": "2026-09-11",
       "title": "High-Throughput Technologies for Targeted Covalent Drug Discovery: Recent Advances and Perspectives.",
@@ -1080,38 +1104,6 @@
       "fact": "PubMed 记录显示该文献收录于 Bio-protocol，PMID 为 42724935。",
       "report": "Antibody (Ab) and nanobody (Nb) humanization is essential for reducing immunogenicity in therapeutic applications. HuDiff is an adaptive autoregressive diffusion approach that generates humanized antibodies and nanobodies from scratch using only complementarit...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42728025",
-      "date": "2026-09-03",
-      "title": "Bridging preclinical and clinical efficacy of SIK2/SIK3 inhibition in inflammatory bowel disease through integrated murine, patient-derived models, and phase 2a trial-based analyses.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Clinical Study",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42728025/",
-      "reliability": "High",
-      "evidenceLevel": "High",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of Crohn's & colitis，PMID 为 42728025。",
-      "report": "Translational attrition remains a major obstacle in inflammatory bowel disease (IBD) drug development due to limited concordance between conventional preclinical models and patient responses. In this study we aimed to evaluate the activity of the selective sal...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

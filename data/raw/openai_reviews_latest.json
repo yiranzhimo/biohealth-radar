@@ -1,46 +1,43 @@
 {
-  "capturedAt": "2026-09-12T15:35:51.432200+00:00",
+  "capturedAt": "2026-09-12T20:38:00.492805+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42727690",
-      "responseId": "resp_01ff19813521d87a006aa57158925087d08ce3d29520dc0319",
+      "signalId": "pubmed-42727715",
+      "responseId": "resp_03d670a3e1486ca9006aa5b829987887d0ab0287dea688f12a",
       "review": {
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需人类审查，部分结论未充分支持，存在未知因素。",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信息分离良好，分类和证据水平合理，文章未附加临床结论。",
         "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类不够明确，无法准确评估研究质量。"
+          "isSupported": true,
+          "notesCn": "分类合理，符合研究主题。"
         },
         "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
-          "evidenceLevelReasonable": false,
-          "notesCn": "事实、报告和推断之间的界限不清。"
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断分离清晰，证据水平适当。"
         },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
+        "riskFlags": [],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
+          "subCategory": "Organoids & Advanced Disease Models",
           "evidenceLevel": "Medium",
           "themes": [
-            "Biotech",
-            "Precision Oncology"
+            "Organoids",
+            "Advanced Disease Models"
           ],
           "tags": [
-            "biotech",
-            "肿瘤"
+            "类器官",
+            "疾病模型"
           ],
-          "fact": "PubMed 记录显示该文献收录于 The Journal of molecular diagnostics : JMD，PMID 为 42727690。",
-          "report": "分析循环肿瘤-DNA (ctDNA) 提供分子评估，补充儿童癌症管理中的常规成像。详细监测 ctDNA 水平可能提供有关治疗有效性和抗药性的信...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Journal of ethnopharmacology，PMID 为 42727715。",
+          "report": "Bupleuri Radix (Chaihu) and Aurantii Fructus Immaturus (Zhishi) is a classic herb pair from Si-Ni-San. In traditional Chinese medicine theory, they regulate liver-spleen qi movement through a 'one ascending, one descending' dynamic, and are used for syndromes...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
