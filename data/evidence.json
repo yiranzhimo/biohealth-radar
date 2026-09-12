@@ -195,6 +195,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "evidence-pubmed-42727690",
+      "signalId": "pubmed-42727690",
+      "companyIds": [],
+      "publishedAt": "2026-09-11",
+      "snapshotDate": "2026-09-12",
+      "title": "The effect of unique molecular identifier family size using tumor-informed circulating tumor-DNA analysis in childhood cancers.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42727690/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 The Journal of molecular diagnostics : JMD，PMID 为 42727690。",
+      "report": "Analysis of circulating tumor-DNA (ctDNA) provides a molecular assessment that can complement routine imaging in childhood cancer management. Detailed monitoring of ctDNA levels may provide information on treatment efficacy and resistance, minimal residual dis...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-pubmed-42727688",
       "signalId": "pubmed-42727688",
       "companyIds": [],
@@ -632,36 +660,6 @@
       "fact": "PubMed 记录显示该文献收录于 Bio-protocol，PMID 为 42724935。",
       "report": "Antibody (Ab) and nanobody (Nb) humanization is essential for reducing immunogenicity in therapeutic applications. HuDiff is an adaptive autoregressive diffusion approach that generates humanized antibodies and nanobodies from scratch using only complementarit...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42725339",
-      "signalId": "pubmed-42725339",
-      "companyIds": [],
-      "publishedAt": "2026-09-05",
-      "snapshotDate": "2026-09-12",
-      "title": "Endoscopic Collection and Analysis of Gastric Fluid DNA: A Liquid Biopsy Methodology for Tumor Biomarker Discovery.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42725339/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Bio-protocol，PMID 为 42725339。",
-      "report": "Gastric cancer remains a major global health challenge, and reliable prognostic biomarkers are urgently needed to guide treatment decisions. Here, we present a simple and efficient protocol for a novel liquid biopsy approach based on quantifying gastric fluid...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

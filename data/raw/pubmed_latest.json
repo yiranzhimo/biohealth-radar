@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-12T10:53:46.537609+00:00",
+  "capturedAt": "2026-09-12T15:35:42.301955+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -32,12 +32,12 @@
     "42721204",
     "42720471",
     "42716964",
+    "42727690",
     "42727688",
     "42727528",
     "42727325",
     "42726644",
-    "42725427",
-    "42725339"
+    "42725427"
   ],
   "records": [
     {
@@ -415,6 +415,37 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42716964/"
     },
     {
+      "pmid": "42727690",
+      "title": "The effect of unique molecular identifier family size using tumor-informed circulating tumor-DNA analysis in childhood cancers.",
+      "abstract": "Analysis of circulating tumor-DNA (ctDNA) provides a molecular assessment that can complement routine imaging in childhood cancer management. Detailed monitoring of ctDNA levels may provide information on treatment efficacy and resistance, minimal residual disease and allows for early detection of relapse. Here, tumor-informed ctDNA analysis was applied to 90 blood plasma samples collected from eight children with malignant tumors. Four to ten tumor-specific mutations per patient were assessed using SiMSen-Seq, a digital sequencing approach utilizing unique molecular identifiers (UMIs). The effects of individual SiMSen-Seq assays and plasma samples were evaluated in relation to their impact on background error rate, number of detected target molecules and mutant calling using different UMI family size cutoff settings. The use of at least two sequencing reads per UMI provided the best overall performance by generating the highest number of detected target molecules and hence the optimal chance to detect low-frequent mutations. Data were consistent between SiMSen-Seq assays and plasma samples, providing robust ctDNA profiling over time for all patients. In conclusion, the results show that optimal use of UMIs in tumor-informed ctDNA analysis enables sensitive molecular readout that can assist in management of childhood cancers.",
+      "journal": "The Journal of molecular diagnostics : JMD",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Sahlgrenska Center for Cancer Research, Department of Laboratory Medicine, Institute of Biomedicine, Sahlgrenska Academy, University of Gothenburg, 413 90 Gothenburg, Sweden; Wallenberg Centre for Molecular and Translational Medicine, University of Gothenburg, 413 90 Gothenburg, Sweden; Department of Clinical Genetics and Genomics, Sahlgrenska University Hospital, 413 45 Gothenburg, Region Västra Götaland, Sweden.",
+        "Sahlgrenska Center for Cancer Research, Department of Laboratory Medicine, Institute of Biomedicine, Sahlgrenska Academy, University of Gothenburg, 413 90 Gothenburg, Sweden.",
+        "Wallenberg Centre for Molecular and Translational Medicine, University of Gothenburg, 413 90 Gothenburg, Sweden; Sahlgrenska Center for Cancer Research, Department of Pediatrics, Institute of Clinical Sciences, Sahlgrenska Academy, University of Gothenburg, 413 90 Gothenburg, Sweden.",
+        "Wallenberg Centre for Molecular and Translational Medicine, University of Gothenburg, 413 90 Gothenburg, Sweden; Sahlgrenska Center for Cancer Research, Department of Pediatrics, Institute of Clinical Sciences, Sahlgrenska Academy, University of Gothenburg, 413 90 Gothenburg, Sweden; Childhood Cancer Centre, Queen Silvia Children's Hospital, Sahlgrenska University Hospital, 416 50 Gothenburg, Sweden.",
+        "RISE Research Institutes of Sweden, Division Material and Production, Medical Device and Diagnostics, Brinellgatan 4, 504 62 Borås, Sweden.",
+        "Sahlgrenska Center for Cancer Research, Department of Laboratory Medicine, Institute of Biomedicine, Sahlgrenska Academy, University of Gothenburg, 413 90 Gothenburg, Sweden; Simsen Diagnostics AB, 421 54 Mölndal, Sweden.",
+        "Sahlgrenska Center for Cancer Research, Department of Laboratory Medicine, Institute of Biomedicine, Sahlgrenska Academy, University of Gothenburg, 413 90 Gothenburg, Sweden; Department of Clinical Genetics and Genomics, Sahlgrenska University Hospital, 413 45 Gothenburg, Region Västra Götaland, Sweden.",
+        "Sahlgrenska Center for Cancer Research, Department of Laboratory Medicine, Institute of Biomedicine, Sahlgrenska Academy, University of Gothenburg, 413 90 Gothenburg, Sweden; Wallenberg Centre for Molecular and Translational Medicine, University of Gothenburg, 413 90 Gothenburg, Sweden.",
+        "Sahlgrenska Center for Cancer Research, Department of Laboratory Medicine, Institute of Biomedicine, Sahlgrenska Academy, University of Gothenburg, 413 90 Gothenburg, Sweden; Department of Oncology, Ryhov County Hospital, 551 85 Jönköping, Sweden.",
+        "Sahlgrenska Center for Cancer Research, Department of Laboratory Medicine, Institute of Biomedicine, Sahlgrenska Academy, University of Gothenburg, 413 90 Gothenburg, Sweden; Department of Oncology, Sahlgrenska University Hospital, 413 45 Gothenburg, Region Västra Götaland, Sweden; Department of Oncology, Institute of Clinical Sciences, Sahlgrenska Academy, University of Gothenburg, 413 90 Gothenburg, Sweden.",
+        "Sahlgrenska Center for Cancer Research, Department of Pediatrics, Institute of Clinical Sciences, Sahlgrenska Academy, University of Gothenburg, 413 90 Gothenburg, Sweden.",
+        "Department of Laboratory Medicine, Institute of Biomedicine, Sahlgrenska Academy, University of Gothenburg, 413 90 Gothenburg, Sweden; Core Facilities, Sahlgrenska Academy, University of Gothenburg, 413 90 Gothenburg, Sweden; Biobank West, Sahlgrenska University Hospital, 413 45 Gothenburg, Region Västra Götaland, Sweden.",
+        "Mathematical Sciences, Chalmers University of Technology and University of Gothenburg, 412 58 Gothenburg, Sweden.",
+        "RISE Research Institutes of Sweden, Division Material and Production, Medical Device and Diagnostics, Brinellgatan 4, 504 62 Borås, Sweden; Department of Laboratory Medicine, Institute of Biomedicine, Sahlgrenska Academy, University of Gothenburg, 413 90 Gothenburg, Sweden.",
+        "Sahlgrenska Center for Cancer Research, Department of Laboratory Medicine, Institute of Biomedicine, Sahlgrenska Academy, University of Gothenburg, 413 90 Gothenburg, Sweden; Department of Clinical Pathology, Sahlgrenska University Hospital, 413 45 Gothenburg, Region Västra Götaland, Sweden.",
+        "Wallenberg Centre for Molecular and Translational Medicine, University of Gothenburg, 413 90 Gothenburg, Sweden; Sahlgrenska Center for Cancer Research, Department of Pediatrics, Institute of Clinical Sciences, Sahlgrenska Academy, University of Gothenburg, 413 90 Gothenburg, Sweden; Childhood Cancer Centre, Queen Silvia Children's Hospital, Sahlgrenska University Hospital, 416 50 Gothenburg, Sweden. Electronic address: martin.dalin@gu.se.",
+        "Sahlgrenska Center for Cancer Research, Department of Laboratory Medicine, Institute of Biomedicine, Sahlgrenska Academy, University of Gothenburg, 413 90 Gothenburg, Sweden; Wallenberg Centre for Molecular and Translational Medicine, University of Gothenburg, 413 90 Gothenburg, Sweden; Department of Clinical Genetics and Genomics, Sahlgrenska University Hospital, 413 45 Gothenburg, Region Västra Götaland, Sweden; Science for Life Laboratory, Institute of Biomedicine, University of Gothenburg, 413 90 Gothenburg, Sweden. Electronic address: anders.stahlberg@gu.se."
+      ],
+      "doi": "10.1016/j.jmoldx.2026.08.002",
+      "date": "2026-09-11",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42727690/"
+    },
+    {
       "pmid": "42727688",
       "title": "Towards a Robust cell-free DNA Isolation Protocol for NGS Applications in a Clinical Molecular Diagnostics Setting.",
       "abstract": "Cell-free DNA (cfDNA), released from apoptotic and necrotic cells into body fluids, is a non-invasive source of genetic information for disease prediction, diagnosis, and monitoring. However, its low abundance makes cfDNA highly susceptible to various pre-analytical influences, potentially increasing high molecular weight (HMW) or genomic DNA (gDNA) compromising downstream cfDNA analyses. This study evaluated the impact of different cfDNA-stabilizing blood collection tubes (BCT; Cell-Free DNA BCT, Streck; S-Monovette cfDNA Exact, Sarstedt) stored at room temperature for 1, 5, or 10 days, prior to plasma isolation using different isolation methods (magnetic bead-based or silica column-based) on cfDNA stability and yield. DNA quantity and quality were assessed by fluorometric quantification, automated fragment analysis, and gene-specific quantitative PCR. Streck-based workflows maintained stable cfDNA yields and characteristic mononucleosomal fragmentation profiles across all storage times. In contrast, Sarstedt tubes showed reduced cfDNA concentrations after 5 days and a pronounced increase at 10 Days, accompanied by high-molecular weight DNA patterns consistent with white-blood cells (WBC) lysis. These trends were largely independent of the extraction method. Overall, the results demonstrate that blood collection tube chemistry critically influences cfDNA integrity during delayed processing. Streck tubes, particularly when combined with silica column-based isolation method, provided the most robust and reproducible workflow for routine molecular diagnostics, whereas Sarstedt tubes produced physiologically implausible results after extended storage.",
@@ -513,28 +544,6 @@
       "doi": "10.5603/ep.112817",
       "date": "2026-09-11",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42725427/"
-    },
-    {
-      "pmid": "42725339",
-      "title": "Endoscopic Collection and Analysis of Gastric Fluid DNA: A Liquid Biopsy Methodology for Tumor Biomarker Discovery.",
-      "abstract": "Gastric cancer remains a major global health challenge, and reliable prognostic biomarkers are urgently needed to guide treatment decisions. Here, we present a simple and efficient protocol for a novel liquid biopsy approach based on quantifying gastric fluid DNA (gfDNA) collected during routine esophagogastroduodenoscopy (EGD). We have previously shown that gfDNA carries gastric cancer-derived mutations; moreover, its concentration increases with tumor progression and varies according to cancer prognosis. This empirically observed increase in gfDNA may mechanistically stem from enhanced cellular turnover, tissue disorganization, dysbiosis of the local microbiota, and/or fluctuations in immune cell infiltrates. Surprisingly, however, in patients diagnosed with gastric cancer, elevated gfDNA levels were also associated with improved survival. This paradoxical finding may be reconciled by an increased anti-tumor immune cell response in treatment-responsive gastric cancers, as well as by the contribution of non-tumoral DNA from inflammatory processes within the microenvironment of the stomach. Here, we detail a standardized protocol for gastric fluid collection and processing, designed to support downstream gfDNA quantification among other potential molecular applications. Key features • A novel liquid biopsy approach for discovering potential biomarkers in human gastric cancer. • Translation of simple gfDNA concentration analysis for the diagnosis and prognosis of gastric cancer. • gfDNA cutoff metrics that discriminate between groups and enable tumor prognostic classification. • gfDNA as a source for downstream profiling of genetic mutations and microbiome-related studies.",
-      "journal": "Bio-protocol",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Masters in Health & Life Sciences, Franciscana University, Santa Maria, RS, Brazil.",
-        "A. C. Camargo Cancer Center, São Paulo, SP, Brazil.",
-        "Department of Genetics, The University of Texas, M. D. Anderson Cancer Center, Houston, TX, USA.",
-        "Division of Surgical Oncology, Rutgers Cancer Institute, New Brunswick, NJ, USA.",
-        "Early Cancer Institute, Department of Oncology, University of Cambridge, Cambridge, MA, UK.",
-        "Rutgers Cancer Institute, Newark, NJ, USA.",
-        "Division of Cancer Biology, Department of Radiation Oncology, Rutgers New Jersey Medical School, Newark, NJ, USA.",
-        "Division of Hematology/Oncology, Department of Medicine, Rutgers New Jersey Medical School, Newark, NJ, USA."
-      ],
-      "doi": "10.21769/BioProtoc.5809",
-      "date": "2026-09-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42725339/"
     }
   ],
   "signals": [
@@ -727,6 +736,34 @@
       "fact": "PubMed 记录显示该文献收录于 Chemistry (Weinheim an der Bergstrasse, Germany)，PMID 为 42725532。",
       "report": "Covalent drugs have attracted increasing attention in modern drug discovery because of their prolonged target engagement, enhanced pharmacological efficacy, and potential to address traditionally challenging protein targets. The rapid development of electrophi...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42727690",
+      "date": "2026-09-11",
+      "title": "The effect of unique molecular identifier family size using tumor-informed circulating tumor-DNA analysis in childhood cancers.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42727690/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 The Journal of molecular diagnostics : JMD，PMID 为 42727690。",
+      "report": "Analysis of circulating tumor-DNA (ctDNA) provides a molecular assessment that can complement routine imaging in childhood cancer management. Detailed monitoring of ctDNA levels may provide information on treatment efficacy and resistance, minimal residual dis...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1043,36 +1080,6 @@
       "fact": "PubMed 记录显示该文献收录于 Bio-protocol，PMID 为 42724935。",
       "report": "Antibody (Ab) and nanobody (Nb) humanization is essential for reducing immunogenicity in therapeutic applications. HuDiff is an adaptive autoregressive diffusion approach that generates humanized antibodies and nanobodies from scratch using only complementarit...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42725339",
-      "date": "2026-09-05",
-      "title": "Endoscopic Collection and Analysis of Gastric Fluid DNA: A Liquid Biopsy Methodology for Tumor Biomarker Discovery.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42725339/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bio-protocol，PMID 为 42725339。",
-      "report": "Gastric cancer remains a major global health challenge, and reliable prognostic biomarkers are urgently needed to guide treatment decisions. Here, we present a simple and efficient protocol for a novel liquid biopsy approach based on quantifying gastric fluid...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

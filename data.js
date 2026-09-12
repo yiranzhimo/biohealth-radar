@@ -1280,6 +1280,76 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "pubmed-42727690",
+      "date": "2026-09-11",
+      "title": "The effect of unique molecular identifier family size using tumor-informed circulating tumor-DNA analysis in childhood cancers.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42727690/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 The Journal of molecular diagnostics : JMD，PMID 为 42727690。",
+      "report": "Analysis of circulating tumor-DNA (ctDNA) provides a molecular assessment that can complement routine imaging in childhood cancer management. Detailed monitoring of ctDNA levels may provide information on treatment efficacy and resistance, minimal residual dis...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_01ff19813521d87a006aa57158925087d08ce3d29520dc0319",
+        "reviewedAt": "2026-09-12T15:35:51.432200+00:00",
+        "inputHash": "430e37fad5d6df3cad95504938b25b732a00b4c35a1aaa7e10d9743b859a63c1",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需人类审查，部分结论未充分支持，存在未知因素。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类不够明确，无法准确评估研究质量。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "事实、报告和推断之间的界限不清。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Biotech",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "biotech",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 The Journal of molecular diagnostics : JMD，PMID 为 42727690。",
+          "report": "分析循环肿瘤-DNA (ctDNA) 提供分子评估，补充儿童癌症管理中的常规成像。详细监测 ctDNA 水平可能提供有关治疗有效性和抗药性的信...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42727688",
       "date": "2026-09-11",
       "title": "Towards a Robust cell-free DNA Isolation Protocol for NGS Applications in a Clinical Molecular Diagnostics Setting.",
@@ -2326,80 +2396,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Bio-protocol，PMID 为 42724935。",
           "report": "Antibody (Ab) and nanobody (Nb) humanization is essential for reducing immunogenicity in therapeutic applications. HuDiff is an adaptive autoregressive diffusion approach that generates humanized antibodies and nanobodies from scratch using only complementarit...",
           "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42725339",
-      "date": "2026-09-05",
-      "title": "Endoscopic Collection and Analysis of Gastric Fluid DNA: A Liquid Biopsy Methodology for Tumor Biomarker Discovery.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42725339/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bio-protocol，PMID 为 42725339。",
-      "report": "Gastric cancer remains a major global health challenge, and reliable prognostic biomarkers are urgently needed to guide treatment decisions. Here, we present a simple and efficient protocol for a novel liquid biopsy approach based on quantifying gastric fluid...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_09b7f533f09d2265006aa52f482ba087d2ae96432970a863ef",
-        "reviewedAt": "2026-09-12T10:53:54.231074+00:00",
-        "inputHash": "75bdb19b5caf4cc165d72378b4d9b2dbf44d68b30917de9836508f612e8b6652",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录准确，无临床推荐或不当结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，与源信息一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "源信息支持的事实、报告和推论清晰分开，证据水平适中。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Bio-protocol，PMID 为 42725339。",
-          "report": "Gastric cancer remains a major global health challenge, and reliable prognostic biomarkers are urgently needed to guide treatment decisions. Here, we present a simple and efficient protocol for a novel liquid biopsy approach based on quantifying gastric fluid...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
