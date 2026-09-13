@@ -4,6 +4,36 @@
   "asOfDate": "2026-09-13",
   "evidence": [
     {
+      "id": "evidence-pubmed-42731995",
+      "signalId": "pubmed-42731995",
+      "companyIds": [],
+      "publishedAt": "2026-09-12",
+      "snapshotDate": "2026-09-13",
+      "title": "In vitro approaches for modelling gut-liver crosstalk in drug-induced liver injury.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42731995/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Archives of toxicology，PMID 为 42731995。",
+      "report": "Drug-induced liver injury (DILI) remains a major challenge in drug development and clinical practice due to its limited predictability in current preclinical models. Increasing evidence indicates that the gut-liver axis, through bidirectional interactions betw...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-pubmed-42731958",
       "signalId": "pubmed-42731958",
       "companyIds": [],
@@ -91,36 +121,6 @@
       "fact": "PubMed 记录显示该文献收录于 Stem cell reviews and reports，PMID 为 42730907。",
       "report": "Three-dimensional organoids of the gut, liver, and lung have become mainstream models of human development, disease, and therapy. These organs share an embryonic endodermal origin, yet the field measures their progress inconsistently because the word \"maturity...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42730548",
-      "signalId": "pubmed-42730548",
-      "companyIds": [],
-      "publishedAt": "2026-09-12",
-      "snapshotDate": "2026-09-13",
-      "title": "Testicular Tissue Cryopreservation in Prepubertal Boys: Current Advances, Clinical Feasibility, and Future Directions-A Comprehensive Literature Review.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42730548/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Andrology，PMID 为 42730548。",
-      "report": "Prepubertal boys cannot use semen cryopreservation because mature spermatozoa are not yet produced. Testicular tissue cryopreservation (TTC) is therefore offered to selected high-risk patients as an experimental fertility-preservation procedure that stores spe...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -240,6 +240,38 @@
       "fact": "PubMed 记录显示该文献收录于 Chemistry (Weinheim an der Bergstrasse, Germany)，PMID 为 42725532。",
       "report": "Covalent drugs have attracted increasing attention in modern drug discovery because of their prolonged target engagement, enhanced pharmacological efficacy, and potential to address traditionally challenging protein targets. The rapid development of electrophi...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42732057",
+      "signalId": "pubmed-42732057",
+      "companyIds": [],
+      "publishedAt": "2026-09-11",
+      "snapshotDate": "2026-09-13",
+      "title": "The landscape of peripheral blood RNA modifications and its clinical implications for diagnosis of hepatocellular carcinoma.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42732057/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Cell communication and signaling : CCS，PMID 为 42732057。",
+      "report": "While over 170 RNA modifications have been identified and implicated in various cancers, their role in hepatocellular carcinoma (HCC) progression is increasingly recognized. Despite this established relevance in tumor biology, the landscape of RNA modification...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -840,36 +872,6 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Oncology reviews，PMID 为 42729364。",
       "report": "Lung cancer remains the leading cause of cancer-related mortality worldwide, with poor prognosis in advanced stage diseases. Although early diagnosis has the potential to improve patient outcomes, current diagnostic methods remain suboptimal, highlighting the...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42729323",
-      "signalId": "pubmed-42729323",
-      "companyIds": [],
-      "publishedAt": "2026-08-28",
-      "snapshotDate": "2026-09-13",
-      "title": "Acquired TPM3::NTRK1 fusion as a novel off-target resistance mechanism to selpercatinib in RET-positive lung adenocarcinoma: a case report.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42729323/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42729323。",
-      "report": "Acquired resistance remains a major challenge in RET fusion-positive non-small cell lung cancer treated with selective RET inhibitors. NTRK fusions represent a rare off-target resistance mechanism in this setting, with limited clinical data to guide management...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },

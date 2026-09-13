@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-13T11:58:49.491270+00:00",
+  "capturedAt": "2026-09-13T16:23:47.841855+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-09-13"
   },
   "pmids": [
+    "42731995",
     "42731958",
     "42731692",
     "42731220",
     "42731203",
     "42730907",
-    "42730548",
     "42717098",
     "42715312",
     "42699656",
@@ -32,14 +32,32 @@
     "42723155",
     "42721204",
     "42720471",
+    "42732057",
     "42731132",
     "42730986",
     "42730833",
     "42729528",
-    "42729364",
-    "42729323"
+    "42729364"
   ],
   "records": [
+    {
+      "pmid": "42731995",
+      "title": "In vitro approaches for modelling gut-liver crosstalk in drug-induced liver injury.",
+      "abstract": "Drug-induced liver injury (DILI) remains a major challenge in drug development and clinical practice due to its limited predictability in current preclinical models. Increasing evidence indicates that the gut-liver axis, through bidirectional interactions between the gut and the liver, plays an important role in modulating drug metabolism and hepatotoxicity. Nevertheless, the exact role of our gut, its microbiota and microbiota-derived metabolites in the manifestation of DILI remains poorly understood, highlighting the need for more human-relevant in vitro models taking along gut-liver interactions. To address this need, this review paper aimed to map the current landscape of in vitro gut-liver models and evaluate their potential applicability for future DILI research. A literature screening using the PubMed database identified 95 articles published on this subject between 2000 and 2026. The in vitro models were categorized into 5 groups, including monocultures, Transwell® systems, hydrogel-based systems, organ-on-a-chip platforms and microfluidic bioreactors. Each category features distinct advantages and disadvantages with respect to physiological relevance, complexity, integration of gut microbiota interactions and industrial applicability. Despite these differences, several key gaps remain across all in vitro gut-liver models, including the limited incorporation of a gut microbiota component, insufficient modelling of interindividual variability and the lack of physiologically relevant flow conditions. Future optimization efforts of these models, combined with integration with in silico tools, may improve the prediction of human DILI, ultimately resulting in reduced late-stage drug attrition, less reliance on animal studies and the development of safer pharmaceutical drugs.",
+      "journal": "Archives of toxicology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Pharmaceutical and Pharmacological Sciences, Vrije Universiteit Brussel, Laarbeeklaan 103, 1090, Brussels, Belgium.",
+        "AI Supported Modelling in Clinical Sciences Lab, Faculty of Medicine and Pharmacy, Vrije Universiteit Brussel, Laarbeeklaan 103, 1090, Brussels, Belgium.",
+        "Department of Pharmaceutical and Pharmacological Sciences, Vrije Universiteit Brussel, Laarbeeklaan 103, 1090, Brussels, Belgium. mvinken@vub.ac.be."
+      ],
+      "doi": "10.1007/s00204-026-04537-2",
+      "date": "2026-09-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42731995/"
+    },
     {
       "pmid": "42731958",
       "title": "AISP position statement: Standardising biological sample collection and handling for advanced diagnostics and multi-omic analyses in pancreatic cancer.",
@@ -135,24 +153,6 @@
       "doi": "10.1007/s12015-026-11235-0",
       "date": "2026-09-12",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42730907/"
-    },
-    {
-      "pmid": "42730548",
-      "title": "Testicular Tissue Cryopreservation in Prepubertal Boys: Current Advances, Clinical Feasibility, and Future Directions-A Comprehensive Literature Review.",
-      "abstract": "Prepubertal boys cannot use semen cryopreservation because mature spermatozoa are not yet produced. Testicular tissue cryopreservation (TTC) is therefore offered to selected high-risk patients as an experimental fertility-preservation procedure that stores spermatogonia and their supporting niche for potential future use. To integrate the TTC pathway from patient selection and tissue banking through follow-up, fertility restoration, and oncologic safety, while reassessing translational readiness in light of recent first-in-human evidence. A structured narrative review of 49 publications was conducted using literature updated through August 15, 2026. PubMed was supplemented by targeted journal, publisher, preprint, and reference-list searches. Original human evidence was prioritized, with first-in-human reports classified according to the highest endpoint demonstrated. More than 3000 patients younger than 18 years have undergone TTC internationally, with contemporary cohorts reporting low short-term morbidity and no clinically meaningful treatment delay in appropriately selected patients. Tissue quality may be affected by disease and prior gonadotoxic exposure. First-in-human autologous transplantation of cryopreserved immature testicular tissue demonstrated graft survival, revascularization, complete intragraft spermatogenesis, and rare sperm recovery. Autologous transplantation of cryopreserved testicular cells demonstrated feasible rete-testis delivery without restoration of spermatogenesis at 1 year. Patient-specific germline regeneration has also reached the human primordial germ cell-like cell stage. Malignant contamination remains a major concern, particularly in hematologic malignancies. TTC has entered an early human translational phase but remains investigational. The key challenge is now to achieve reproducible, clinically usable sperm production with proven fertilization competence, healthy live birth, and offspring safety.",
-      "journal": "Andrology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "RAK College of Medical Sciences, RAK Medical and Health Sciences University, Ras Al Khaimah, UAE.",
-        "Department of Urology, Integrated Surgical Institute, Cleveland Clinic Abu Dhabi, Abu Dhabi, UAE.",
-        "College of Medicine, University of Sharjah, Sharjah, UAE."
-      ],
-      "doi": "10.1111/andr.70390",
-      "date": "2026-09-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42730548/"
     },
     {
       "pmid": "42717098",
@@ -414,6 +414,29 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42720471/"
     },
     {
+      "pmid": "42732057",
+      "title": "The landscape of peripheral blood RNA modifications and its clinical implications for diagnosis of hepatocellular carcinoma.",
+      "abstract": "While over 170 RNA modifications have been identified and implicated in various cancers, their role in hepatocellular carcinoma (HCC) progression is increasingly recognized. Despite this established relevance in tumor biology, the landscape of RNA modifications in the peripheral blood of HCC patients-and their potential diagnostic utility-remains largely unexplored. Peripheral blood samples from patients with HCC, liver cirrhosis (LC), and normal healthy (NH) controls were collected. The abundances of 55 RNA modifications were quantified using liquid chromatography-tandem mass spectrometry (LC-MS/MS) to assess their diagnostic potential for HCC, particularly at early stages. Correlations among these modifications and their associations with clinical parameters were analyzed. Simultaneously, differentially expressed genes, including those encoding RNA-modifying enzymes, were screened in peripheral blood. The biological relevance of the identified signatures was subsequently validated using in vitro co-culture and in vivo syngeneic HCC mouse models. Compared to the combined non-HCC group (NH and LC), the abundances of 11 RNA modifications were significantly altered in both overall and stage I HCC groups, with N2,N2-dimethylguanosine (m2,2G) emerging as a key component exhibiting the most pronounced dysregulation. A diagnostic model centered on an m2,2G-based modification panel achieved area under the curves (AUCs) of 0.901 and 0.891 for detecting HCC and stage I HCC, respectively, demonstrating promising diagnostic potential. Notably, the incorporation of two upregulated genes in peripheral blood-IFI27 and CCR2-significantly enhanced the model's performance, yielding improved AUCs of 0.972 and 0.968, respectively. Further analysis revealed distinct correlation patterns among RNA modifications, as well as between RNA modifications and clinical laboratory parameters, exhibiting both shared and HCC-specific features that suggest systemic reprogramming of RNA modification network in HCC. This biological relevance was confirmed by elevated m2,2G abundances in human lymphocytes co-cultured with HCC cells and blood from a syngeneic HCC mouse model. This study systematically profiled peripheral blood RNA modifications and provided preliminary evidence supporting their potential as diagnostic biomarkers for HCC. By integrating key modifications (m2,2G, m2,2,7G, m6,6A) with two mRNA markers (IFI27 and CCR2), we developed a multi-omics signature that demonstrated promising diagnostic performance, particularly for early-stage HCC.",
+      "journal": "Cell communication and signaling : CCS",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Laboratory Medicine, Third Affiliated Hospital of Sun Yat-sen University, Guangzhou, 510630, China. gelch5@mail.sysu.edu.cn.",
+        "Department of Laboratory Medicine, Third Affiliated Hospital of Sun Yat-sen University, Guangzhou, 510630, China.",
+        "Department of Laboratory Medicine, State Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine, Sun Yat-sen University Cancer Center, Guangzhou, 510060, China.",
+        "State Key Laboratory of Anti-Infective Drug Discovery and Development, School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou, 510006, China.",
+        "Guangdong Provincial Key Laboratory of New Drug Design and Evaluation, School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou, 510006, China.",
+        "Department of Laboratory Medicine, State Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine, Sun Yat-sen University Cancer Center, Guangzhou, 510060, China. daishq@sysucc.org.cn.",
+        "State Key Laboratory of Anti-Infective Drug Discovery and Development, School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou, 510006, China. whongsh@mail.sysu.edu.cn.",
+        "Guangdong Provincial Key Laboratory of New Drug Design and Evaluation, School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou, 510006, China. whongsh@mail.sysu.edu.cn.",
+        "Department of Laboratory Medicine, Third Affiliated Hospital of Sun Yat-sen University, Guangzhou, 510630, China. hubo@mail.sysu.edu.cn."
+      ],
+      "doi": "10.1186/s12964-026-03206-2",
+      "date": "2026-09-11",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42732057/"
+    },
+    {
       "pmid": "42731132",
       "title": "A versatile biointerface with multiply flexible spatial molecular layers for improving tumor cell isolation and detection.",
       "abstract": "Circulating tumor cells (CTCs) serve as critical biomarkers in liquid biopsy, creating a demand for materials capable of their specific capture. Conventional rigid micro/nanostructures are often hindered by a dimensional mismatch with cells and limited deformability, resulting in inefficient use of capture sites. In this study, we constructed a versatile biointerface with multiply flexible molecular layers (M-FML) to overcome these limitations. The M-FML was fabricated on a silicon substrate by alternately polymerizing poly-γ-glutamic acid and poly-ε-lysine. With an average height of approximately 20.20 ± 1.21 μm, this layer mimics the topological features of the extracellular matrix. The flexible and dynamic macromolecular chains within the M-FML greatly improve both the contact probability and spatial compatibility with recognition sites on cell surfaces. The substrate demonstrated strong capture performance for SK-BR-3 and MDA-MB-231 cells, maintaining efficiencies of about 36.67% and 40%, respectively, even at very low cell densities in environments simulating whole blood. Furthermore, the surface showed excellent resistance to the non-specific adhesion of fibrinogen, platelets, and other blood components. This work presents a flexible interfacial strategy for the efficient and specific enrichment of CTCs from complex biological samples.",
@@ -511,27 +534,39 @@
       "doi": "10.3389/or.2026.1876563",
       "date": "2026-08-28",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42729364/"
-    },
-    {
-      "pmid": "42729323",
-      "title": "Acquired TPM3::NTRK1 fusion as a novel off-target resistance mechanism to selpercatinib in RET-positive lung adenocarcinoma: a case report.",
-      "abstract": "Acquired resistance remains a major challenge in RET fusion-positive non-small cell lung cancer treated with selective RET inhibitors. NTRK fusions represent a rare off-target resistance mechanism in this setting, with limited clinical data to guide management. We report the first case of an acquired TPM3::NTRK1 fusion as a resistance mechanism to selpercatinib in KIF5B::RET-positive lung adenocarcinoma. A male in his late 40s, a non-smoker, underwent surgical resection for NSCLC after incidental detection of a pulmonary lesion. Following disease recurrence, KIF5B::RET was identified as the sole oncogenic driver and the patient achieved durable disease control for 46 months on selpercatinib, with three episodes of oligoprogression managed by stereotactic body radiotherapy. At systemic progression, RNA-inclusive tissue next-generation sequencing (Guardant360 Tissue) identified TPM3::NTRK1 (variant allele fraction 30.9%; RNA 6,109 transcripts per million) and residual KIF5B::RET (variant allele fraction 6.9%), with no secondary RET kinase domain mutations. A concurrent liquid biopsy (cfDNA) assay failed to detect either fusion, with tumor fraction <0.05%, highlighting the limitations of cfDNA-based platforms for fusion detection at low tumor shedding. Combination selpercatinib and larotrectinib was commenced, demonstrating metabolic response on PET-CT at eight weeks with concurrent clinical improvement. This case identifies acquired NTRK1 fusion as a rare, actionable bypass resistance mechanism to selective RET inhibition, distinct from previously reported NTRK3 fusions, and underscores the importance of RNA-based tissue reassessment at progression to guide rational combination targeted therapies.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Research (Medical Oncology Unit 5), Rajiv Gandhi Cancer Institute & Research Centre, New Delhi, India.",
-        "Department of Medical Oncology, Rajiv Gandhi Cancer Institute & Research Centre, New Delhi, India.",
-        "Stanford Cancer Institute, Division of Oncology, Stanford University School of Medicine, Palo Alto, CA, United States."
-      ],
-      "doi": "10.3389/fonc.2026.1936583",
-      "date": "2026-08-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42729323/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42731995",
+      "date": "2026-09-12",
+      "title": "In vitro approaches for modelling gut-liver crosstalk in drug-induced liver injury.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42731995/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Archives of toxicology，PMID 为 42731995。",
+      "report": "Drug-induced liver injury (DILI) remains a major challenge in drug development and clinical practice due to its limited predictability in current preclinical models. Increasing evidence indicates that the gut-liver axis, through bidirectional interactions betw...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42731958",
       "date": "2026-09-12",
@@ -620,36 +655,6 @@
       "fact": "PubMed 记录显示该文献收录于 Stem cell reviews and reports，PMID 为 42730907。",
       "report": "Three-dimensional organoids of the gut, liver, and lung have become mainstream models of human development, disease, and therapy. These organs share an embryonic endodermal origin, yet the field measures their progress inconsistently because the word \"maturity...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42730548",
-      "date": "2026-09-12",
-      "title": "Testicular Tissue Cryopreservation in Prepubertal Boys: Current Advances, Clinical Feasibility, and Future Directions-A Comprehensive Literature Review.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42730548/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Andrology，PMID 为 42730548。",
-      "report": "Prepubertal boys cannot use semen cryopreservation because mature spermatozoa are not yet produced. Testicular tissue cryopreservation (TTC) is therefore offered to selected high-risk patients as an experimental fertility-preservation procedure that stores spe...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -769,6 +774,38 @@
       "fact": "PubMed 记录显示该文献收录于 Chemistry (Weinheim an der Bergstrasse, Germany)，PMID 为 42725532。",
       "report": "Covalent drugs have attracted increasing attention in modern drug discovery because of their prolonged target engagement, enhanced pharmacological efficacy, and potential to address traditionally challenging protein targets. The rapid development of electrophi...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42732057",
+      "date": "2026-09-11",
+      "title": "The landscape of peripheral blood RNA modifications and its clinical implications for diagnosis of hepatocellular carcinoma.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42732057/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell communication and signaling : CCS，PMID 为 42732057。",
+      "report": "While over 170 RNA modifications have been identified and implicated in various cancers, their role in hepatocellular carcinoma (HCC) progression is increasingly recognized. Despite this established relevance in tumor biology, the landscape of RNA modification...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1121,36 +1158,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Oncology reviews，PMID 为 42729364。",
       "report": "Lung cancer remains the leading cause of cancer-related mortality worldwide, with poor prognosis in advanced stage diseases. Although early diagnosis has the potential to improve patient outcomes, current diagnostic methods remain suboptimal, highlighting the...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42729323",
-      "date": "2026-08-28",
-      "title": "Acquired TPM3::NTRK1 fusion as a novel off-target resistance mechanism to selpercatinib in RET-positive lung adenocarcinoma: a case report.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42729323/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42729323。",
-      "report": "Acquired resistance remains a major challenge in RET fusion-positive non-small cell lung cancer treated with selective RET inhibitors. NTRK fusions represent a rare off-target resistance mechanism in this setting, with limited clinical data to guide management...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
