@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-14T12:56:41.165065+00:00",
+  "capturedAt": "2026-09-14T21:52:54.905293+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -26,18 +26,18 @@
     "42696754",
     "42693007",
     "42667121",
+    "42734526",
+    "42734505",
     "42732655",
     "42728566",
     "42725532",
     "42724935",
-    "42723155",
-    "42721204",
+    "42734703",
+    "42734099",
     "42732057",
     "42731132",
     "42730986",
-    "42730833",
-    "42729528",
-    "42729364"
+    "42730833"
   ],
   "records": [
     {
@@ -297,6 +297,41 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667121/"
     },
     {
+      "pmid": "42734526",
+      "title": "DASH: A Pocket-Aware and Objective-Aware Framework for Million-Scale Structure-Based Molecular Generation.",
+      "abstract": "Structure-based molecular diffusion models have shown considerable potential for de novo drug design. However, their practical use in million-scale candidate-library construction remains limited by fixed target-agnostic inference settings, insufficient support for objective-aware molecular prioritization, and limited integration of scalable property evaluation with standardized library production. Here, we present DASH, a pocket-aware and objective-aware framework for converting protein-conditioned diffusion outputs into property-tagged molecular libraries for computational prioritization. DASH combines pocket-complexity-aware sampling, configurable objective-aware molecular scoring, and a scalable production layer. The sampling strategy adjusts inference effort according to geometric and physicochemical features of the target binding pocket. The Objective-Aware Quality Module (OQM) filters and reranks generated molecules using configurable descriptors, desirability functions, and scoring profiles. The production layer supports million-scale execution through asynchronous GPU-CPU processing, streaming output, molecular scoring, and SDF annotation. We evaluated DASH through pocket-complexity analysis, OQM profile analysis, execution benchmarks, and multi-GPU/multinode scaling experiments. The results show that DASH can adapt inference effort across pockets, rerank generated libraries under different design objectives, and produce standardized molecular libraries for downstream analysis. An EGFR-oriented case study further demonstrates how DASH-generated libraries can support downstream computational prioritization and representative candidate selection. Together, these results demonstrate that DASH extends protein-conditioned diffusion models from raw molecular generation toward practical-scale, objective-aware candidate-library construction and computational hit prioritization.",
+      "journal": "Journal of chemical information and modeling",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Computer Network Information Center, Chinese Academy of Sciences , Dongsheng South Road, Beijing100083, China.",
+        "School of Computer Science and Technology, University of Chinese Academy of Sciences, Yanqi Lake East Road, Beijing101408, China.",
+        "College of Pharmaceutical Science, Hebei University, Wusi East Road, Baoding, Hebei071002, China."
+      ],
+      "doi": "10.1021/acs.jcim.6c01357",
+      "date": "2026-09-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42734526/"
+    },
+    {
+      "pmid": "42734505",
+      "title": "PockLigGPT: Pocket-Sequence-Conditioned Molecular Generation with GPTs and RL.",
+      "abstract": "De novo drug design aims to generate molecules targeting specific protein pockets while retaining chemical plausibility and drug-like properties. Recent 3D structure-based generative methods explicitly model pocket-ligand geometry, but this does not always translate into chemically realistic or practically usable candidate molecules. Molecular language models provide a complementary sequence-based alternative. However, it remains unclear whether sequence-based pocket information can effectively guide ligand generation, whether multistage training improves pocket-specific generation, and whether docking-guided reinforcement learning can be integrated into a practical generation pipeline. We introduce PockLigGPT, a GPT-based framework for pocket-sequence-conditioned molecular generation. Rather than producing fixed 3D coordinates, PockLigGPT formulates ligand design as a sequence-generation problem conditioned on the amino acid composition of the protein pocket. The model is trained in four stages: large-scale chemical pretraining based on ZINC20; bioactivity-oriented adaptation based on ChEMBL; pocket-sequence-conditioned fine-tuning using binding-pocket amino acid sequences paired with ligands; and, finally, pocket-specific docking-guided reinforcement learning using AutoDock Vina-based rewards. PockLigGPT achieves competitive docking-oriented performance under a standardized evaluation protocol while maintaining chemical plausibility, favorable physicochemical profiles, and Lipinski-based drug-likeness. Docking studies on Alzheimer's disease-associated targets and token-level analyses further support the utility of PockLigGPT for de novo drug design.",
+      "journal": "Journal of chemical information and modeling",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "AItenea Biotech S.L. , Madrid28014, Spain.",
+        "Instituto de Ciencias Matemáticas (ICMAT-CSIC) , Madrid28049, Spain.",
+        "Universidad Autónoma de Madrid, Escuela de Doctorado, Madrid28049, Spain.",
+        "Centro de Investigaciones Biológicas Margarita Salas (CIB Margarita Salas-CSIC), Madrid28040, Spain."
+      ],
+      "doi": "10.1021/acs.jcim.6c01980",
+      "date": "2026-09-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42734505/"
+    },
+    {
       "pmid": "42732655",
       "title": "Interaction between hemin and the SpyTag/SpyCatcher system: towards an artificial bioinspired metalloprotein.",
       "abstract": "The challenging design of artificial metalloenzymes can be achieved by bioconjugation based on the targeted insertion of synthetic metal coordination motif on a peptide that can subsequently be covalently attached to a protein scaffold. The Spy system, consisting of a protein domain, SpyCatcher, which reacts spontaneously with a short peptide, SpyTag, forming a covalent isopeptide bond, can be used for this purpose. In this work, a SpyTag peptide functionalized with a histidine-based domain is engineered to bind hemin both as a free peptide and after assembly with SpyCatcher. The binding between SpyTag and hemin occurs successfully with micromolar affinity, but the coordination of hemin with reconstituted Spy protein (the SpyTag/SpyCatcher adduct) is not maintained with the same strength. The hemin-SpyTag peptide complex displays enhanced reactivity towards the activation of hydrogen peroxide in oxidative reactions, while the SpyTag/SpyCatcher adduct does not significantly affect hemin reactivity. Neither system exhibits substantial catalase-like activity. All tested components act as ROS scavengers, likely due to oxidative modifications undergone by the peptide/protein backbone. Overall, the study provides a solid experimental and methodological basis and highlights the need to improve hemin binding within the Spy system for future optimization and development of more advanced artificial hemoproteins.",
@@ -371,43 +406,44 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42724935/"
     },
     {
-      "pmid": "42723155",
-      "title": "A Site-Aware Representation Learning Framework For Unified Molecular Interaction Modeling and Generative Design.",
-      "abstract": "Unifying drug-target affinity prediction and targeted molecular design within a single interpretable framework remains challenging. Many sequence-based affinity and design methods rely on global target representations without explicitly modeling binding regions, leading to site-level ambiguity in both screening and design. By contrast, structure-based methods require high-quality structural data and are poorly suited to dynamic targets. In this study, a new model named MolDBG is proposed as a unified site-aware framework that combines affinity prediction, binding-site identification, and affinity-conditioned molecular generation within a single architecture. With binding-site supervision, MolDBG prioritizes interaction-critical residues before learning drug-target representations, reducing false positives from misaligned binding sites and improving interpretability. MolDBG achieves competitive performance across all three tasks while enabling site-specific affinity prediction and interpretable binding-site discovery. The framework generalizes to structurally elusive targets, including cryptic pockets and intrinsically disordered proteins. Overall, these results demonstrate that MolDBG is a promising framework for molecular design and screening.",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "pmid": "42734703",
+      "title": "ASO Author Reflections: Liquid Biopsy in Resected Pancreatic Ductal Adenocarcinoma-From Prognostic Association to Clinical Utility.",
+      "abstract": "",
+      "journal": "Annals of surgical oncology",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "School of Computer Science and Engineering, Central South University, Changsha, China.",
-        "Sai Ling Pharmaceutical Technology Group Co., Ltd., Yuxi, China.",
-        "Research Program in Systems Oncology, Faculty of Medicine, University of Helsinki, Helsinki, Finland."
+        "Division of GI Surgical Oncology, UPMC Pancreatic Cancer Center, University of Pittsburgh Medical Center, UPMC Cancer Pavilion, Pittsburgh, PA, USA.",
+        "Division of GI Surgical Oncology, UPMC Pancreatic Cancer Center, University of Pittsburgh Medical Center, UPMC Cancer Pavilion, Pittsburgh, PA, USA. panicciaa2@upmc.edu."
       ],
-      "doi": "10.1002/advs.77238",
-      "date": "2026-09-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42723155/"
+      "doi": "10.1245/s10434-026-20585-5",
+      "date": "2026-09-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42734703/"
     },
     {
-      "pmid": "42721204",
-      "title": "AET5: A transcriptome-guided molecular generation framework with contrastive self-supervised learning.",
-      "abstract": "Gene expression profiles capture system-level drug responses and offer a promising basis for de novo molecular generation. However, their application is limited by data sparsity and experimental noise, which hinder the reliable mapping between disease-associated transcriptomic perturbations and chemically valid therapeutic molecules. Here, we present AET5, a de novo molecular generation framework that conditions molecular design on disease-reversal gene expression profiles. AET5 integrates contrastive self-supervised learning with pre-trained sequence-to-sequence models to learn robust associations between transcriptomic signatures and molecular structures by deriving noise-tolerant transcriptomic representations and aligning them with molecular sequence space. Across the L1000 dataset, AET5 outperforms existing expression-guided generation methods in generation quality and distributional characteristics, while maintaining favorable physicochemical and drug-related properties. We further apply AET5 to generate candidate compounds for SARS-CoV-2 infection and prostate cancer. Molecular docking and dynamics simulations indicate stable target binding, supporting the biological relevance of the generated molecules. These results demonstrate that disease-reversal expression profiles can effectively guide de novo molecular generation, providing a general framework for biologically informed drug design under noisy transcriptomic conditions.",
-      "journal": "PLoS computational biology",
+      "pmid": "42734099",
+      "title": "Bioactive Gold Plasmonic Interfaces Meet Artificial Intelligence: Advancing Saliva-Based Surface-Enhanced Raman Spectroscopy Diagnostics.",
+      "abstract": "Bioactive gold plasmonic nanostructures are enabling non-invasive saliva diagnostics by amplifying weak Raman signals and converting complex biofluid chemistry into information-rich spectral fingerprints. This Review examines saliva-based Raman and surface-enhanced Raman spectroscopy (SERS) integrated with artificial intelligence (AI) from a bioactive-materials perspective. Saliva is positioned as a cross-disease liquid biopsy relevant to oncological, infectious, inflammatory, metabolic, neurodegenerative, and pulmonary disorders. Particular emphasis is placed on how gold nanostructure geometry, substrate architecture, surface functionalization, antifouling strategies, affinity capture, and protein-corona formation govern molecular access to electromagnetic hot spots, spectral reproducibility, and computational reliability. Case studies spanning oncology, infectious, inflammatory, and pulmonary disorders illustrate how substrate engineering and dataset construction jointly determine diagnostic performance and clinical portability. Because human studies combining saliva, gold-enabled SERS, and AI remain limited, explicit inclusion criteria distinguish direct salivary evidence from contextual studies using related biospecimens. Clinically viable saliva-based SERS diagnostics require coordinated co-design of bioactive plasmonic interfaces and computational pipelines, together with standardized pre-analytics, reproducible substrates, rigorous patient-level validation, shared datasets, and independent multicenter evaluation.",
+      "journal": "Small (Weinheim an der Bergstrasse, Germany)",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "affiliations": [
-        "School of Electronic and Information Engineering, Suzhou University of Science and Technology, Suzhou, Jiangsu, China.",
-        "Hangzhou Institute of Medicine, Chinese Academy of Sciences, Hangzhou, Zhejiang, China.",
-        "School of Computer Science and Technology, Zhejiang Normal University, Jinhua, Zhejiang, China.",
-        "Yangtze Delta Region Institute (Quzhou), University of Electronic Science and Technology of China, Quzhou, Zhejiang, China.",
-        "University of Oxford, Oxford, Oxfordshire, United Kingdom.",
-        "Faculty of Computing, Harbin Institute of Technology, Harbin, Heilongjiang, China.",
-        "School of Information Technology, Halmstad University, Halmstad, Sweden.",
-        "Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China."
+        "International Ph.D. Program in Biomedical Engineering, College of Biomedical Engineering, Taipei Medical University, Taipei, Taiwan.",
+        "Graduate Institute of Biomedical Optomechatronics, Taipei Medical University, Taipei, Taiwan.",
+        "International Ph.D. Program in Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan.",
+        "Division of Plastic Surgery, Department of Surgery, Taipei Medical University Hospital, Taipei, Taiwan.",
+        "Department of Otolaryngology, National Taiwan University Hospital, Taipei, Taiwan.",
+        "School of Dental Technology, Taipei Medical University, Taipei, Taiwan.",
+        "Department of Surgery, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan.",
+        "Research Center of Biomedical Devices, Taipei Medical University, Taipei, Taiwan.",
+        "College of Biomedical Engineering, Taipei Medical University, Taipei, Taiwan."
       ],
-      "doi": "10.1371/journal.pcbi.1014703",
-      "date": "2026-09-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721204/"
+      "doi": "10.1002/smll.75720",
+      "date": "2026-09-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42734099/"
     },
     {
       "pmid": "42732057",
@@ -491,48 +527,127 @@
       "doi": "10.1007/s11033-026-12767-x",
       "date": "2026-09-12",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42730833/"
-    },
-    {
-      "pmid": "42729528",
-      "title": "Clonal evolution in gastrointestinal cancers: multi-omics insights into tumor heterogeneity, microenvironmental selection, and translational biomarkers.",
-      "abstract": "Clonal evolution in hepatocellular carcinoma (HCC), esophageal squamous cell carcinoma (ESCC), and gastric cancer (GC) reflects the interaction of genetic diversification, cell-state plasticity, and tissue-specific selection. Multi-region and single-cell DNA sequencing resolve truncal and subclonal lineages, whereas single-cell and spatial transcriptomics, proteomics, and serial liquid biopsy characterize cellular states, ecological niches, and temporal dynamics. The three cancers differ in dissemination timing, dominant selective pressures, and biomarker maturity: early seeding is best supported in selected HCC cohorts, ESCC is strongly influenced by field cancerization and epithelial-stromal crosstalk, and GC follows subtype- and ecotype-dependent trajectories. We discuss the assumptions and sampling biases that constrain phylogenetic inference, the causal limits of cross-sectional tumor atlases, clonal hematopoiesis, and the incremental value of broad multi-omics over focused assays. Liquid-biopsy detection of minimal residual disease is prognostic, but treatment benefit from marker-guided intervention remains context dependent. Near-term translation requires standardized, decision-linked assays; adaptive therapy and evolutionary steering remain investigational.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Frontiers Science Center for Cancer Integrative Omics, Peking University International Cancer Institute, Peking University, Beijing, China.",
-        "State Key Laboratory of Molecular Oncology, Beijing Key Laboratory of Cell & Gene Therapy for Solid Tumor, Peking University Cancer Hospital & Institute, Beijing, China."
-      ],
-      "doi": "10.3389/fonc.2026.1907210",
-      "date": "2026-08-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42729528/"
-    },
-    {
-      "pmid": "42729364",
-      "title": "Clinical value of combined SHOX2 and RASSF1A methylation in lung cancer diagnosis across tissue and liquid biopsy samples: a systematic review and meta-analysis.",
-      "abstract": "Lung cancer remains the leading cause of cancer-related mortality worldwide, with poor prognosis in advanced stage diseases. Although early diagnosis has the potential to improve patient outcomes, current diagnostic methods remain suboptimal, highlighting the need for accurate molecular biomarkers. We systematically reviewed 49 studies to evaluate the diagnostic performance of SHOX2 methylation, RASSF1A methylation, and their combined panel for lung cancer detection. The combined SHOX2/RASSF1A methylation panel demonstrated a pooled sensitivity of 77.8% (95% CI: 72.3%-82.5%) and specificity of 89.0% (95% CI: 86.6%-91.1%), with an HSROC area under the curve (AUC) of 0.916. SHOX2 methylation alone yielded a sensitivity of 69.4% and specificity of 91.7%, whereas RASSF1A methylation showed lower sensitivity (45.7%) but the highest specificity (93.8%). Pairwise comparisons demonstrated that the combined panel significantly improved sensitivity compared with either SHOX2 or RASSF1A alone while maintaining specificity comparable to SHOX2, although lower than that of RASSF1A. Subgroup analyses showed that assay method and pathological subtype contributed to differences in pooled sensitivity, whereas leave-one-out sensitivity analyses confirmed the robustness of the pooled estimates. In conclusion, the combined SHOX2/RASSF1A methylation panel provides a more balanced diagnostic performance than either biomarker alone and represents a promising adjunctive approach for lung cancer detection. Future studies should focus on standardizing detection methods, integrating these biomarkers with other diagnostic modalities, and evaluating their diagnostic performance in early-stage lung cancer to further enhance their clinical utility.",
-      "journal": "Oncology reviews",
-      "publicationTypes": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "affiliations": [
-        "Department of Radiation Oncology, The Affiliated Cancer Hospital of Zhengzhou University and Henan Cancer Hospital, Zhengzhou, Henan, China.",
-        "Department of Pathology, Affiliated Hospital of Nantong University, Nantong, Jiangsu, China.",
-        "Precision Health Program, Department of Radiology, College of Human Medicine, Michigan State University, East Lansing, MI, United States.",
-        "Division of Hematology and Oncology, Rhode Island Hospital, Warren Alpert Medical School of Brown University, Providence, RI, United States.",
-        "Division of Cardiothoracic Surgery, Rhode Island Hospital, Warren Alpert Medical School of Brown University, Providence, RI, United States.",
-        "Department of Pathology and Laboratory Medicine, Warren Alpert Medical School of Brown University, The Legorreta Cancer Center at Brown University, and Brown University Health, Providence, RI, United States.",
-        "Department of Surgery, Warren Alpert Medical School of Brown University, The Legorreta Cancer Center at Brown University, and Brown University Health, Providence, RI, United States."
-      ],
-      "doi": "10.3389/or.2026.1876563",
-      "date": "2026-08-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42729364/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42734526",
+      "date": "2026-09-14",
+      "title": "DASH: A Pocket-Aware and Objective-Aware Framework for Million-Scale Structure-Based Molecular Generation.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42734526/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of chemical information and modeling，PMID 为 42734526。",
+      "report": "Structure-based molecular diffusion models have shown considerable potential for de novo drug design. However, their practical use in million-scale candidate-library construction remains limited by fixed target-agnostic inference settings, insufficient support...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42734505",
+      "date": "2026-09-14",
+      "title": "PockLigGPT: Pocket-Sequence-Conditioned Molecular Generation with GPTs and RL.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42734505/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of chemical information and modeling，PMID 为 42734505。",
+      "report": "De novo drug design aims to generate molecules targeting specific protein pockets while retaining chemical plausibility and drug-like properties. Recent 3D structure-based generative methods explicitly model pocket-ligand geometry, but this does not always tra...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42734703",
+      "date": "2026-09-14",
+      "title": "ASO Author Reflections: Liquid Biopsy in Resected Pancreatic Ductal Adenocarcinoma-From Prognostic Association to Clinical Utility.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42734703/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Annals of surgical oncology，PMID 为 42734703。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42734099",
+      "date": "2026-09-14",
+      "title": "Bioactive Gold Plasmonic Interfaces Meet Artificial Intelligence: Advancing Saliva-Based Surface-Enhanced Raman Spectroscopy Diagnostics.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42734099/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Small (Weinheim an der Bergstrasse, Germany)，PMID 为 42734099。",
+      "report": "Bioactive gold plasmonic nanostructures are enabling non-invasive saliva diagnostics by amplifying weak Raman signals and converting complex biofluid chemistry into information-rich spectral fingerprints. This Review examines saliva-based Raman and surface-enh...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42730986",
       "date": "2026-09-12",
@@ -708,72 +823,6 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of inorganic biochemistry，PMID 为 42732655。",
       "report": "The challenging design of artificial metalloenzymes can be achieved by bioconjugation based on the targeted insertion of synthetic metal coordination motif on a peptide that can subsequently be covalently attached to a protein scaffold. The Spy system, consist...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42723155",
-      "date": "2026-09-10",
-      "title": "A Site-Aware Representation Learning Framework For Unified Molecular Interaction Modeling and Generative Design.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42723155/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42723155。",
-      "report": "Unifying drug-target affinity prediction and targeted molecular design within a single interpretable framework remains challenging. Many sequence-based affinity and design methods rely on global target representations without explicitly modeling binding region...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42721204",
-      "date": "2026-09-10",
-      "title": "AET5: A transcriptome-guided molecular generation framework with contrastive self-supervised learning.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721204/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 PLoS computational biology，PMID 为 42721204。",
-      "report": "Gene expression profiles capture system-level drug responses and offer a promising basis for de novo molecular generation. However, their application is limited by data sparsity and experimental noise, which hinder the reliable mapping between disease-associat...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1090,68 +1139,6 @@
       "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42667121。",
       "report": "Predicting how single cells respond to perturbations is a central problem in computational biology, with potential relevance to emerging artificial intelligence virtual cell (AIVC) research and drug-discovery efforts. However, substantial variation in perturba...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42729528",
-      "date": "2026-08-28",
-      "title": "Clonal evolution in gastrointestinal cancers: multi-omics insights into tumor heterogeneity, microenvironmental selection, and translational biomarkers.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42729528/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42729528。",
-      "report": "Clonal evolution in hepatocellular carcinoma (HCC), esophageal squamous cell carcinoma (ESCC), and gastric cancer (GC) reflects the interaction of genetic diversification, cell-state plasticity, and tissue-specific selection. Multi-region and single-cell DNA s...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42729364",
-      "date": "2026-08-28",
-      "title": "Clinical value of combined SHOX2 and RASSF1A methylation in lung cancer diagnosis across tissue and liquid biopsy samples: a systematic review and meta-analysis.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42729364/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Oncology reviews，PMID 为 42729364。",
-      "report": "Lung cancer remains the leading cause of cancer-related mortality worldwide, with poor prognosis in advanced stage diseases. Although early diagnosis has the potential to improve patient outcomes, current diagnostic methods remain suboptimal, highlighting the...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
