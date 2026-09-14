@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-14T05:03:10.677471+00:00",
+  "capturedAt": "2026-09-14T12:56:41.165065+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-09-14"
   },
   "pmids": [
-    "42732714",
-    "42732702",
-    "42732519",
-    "42731995",
-    "42731958",
-    "42731692",
+    "42733868",
+    "42733859",
+    "42733753",
+    "42733592",
+    "42733575",
+    "42733516",
     "42717098",
     "42715312",
     "42699656",
@@ -41,122 +41,116 @@
   ],
   "records": [
     {
-      "pmid": "42732714",
-      "title": "Ferroptosis in neonatal and paediatric disease: From molecular mechanism to therapeutic target.",
-      "abstract": "Ferroptosis is an iron-dependent regulatory cell death mechanism mediated by lipid peroxidation. Increasing evidence suggests that this process is closely related to the etiology of a variety of paediatric diseases. This review systematically elaborates the core molecular mechanism of ferroptosis, and highlights that newborns exhibit organ‑specific susceptibility to ferroptosis, predominantly attributed to the convergence of high PUFA content in the developing brain and erythrocytes, immature antioxidant defences, and a propensity for free iron accumulation. Building on this, we further examine the role of ferroptosis in multiple childhood disorders, such as bronchopulmonary dysplasia, hypoxic-ischaemic encephalopathy, haemolytic hyperbilirubinemia, necrotizing enterocolitis, retinopathy of prematurity, and neonatal rotavirus‑associated biliary atresia. Furthermore, we synthesize existing evidence, which is largely preclinical, regarding therapeutic interventions that modulate ferroptosis, including iron chelators, selective inhibitors (e.g., ferrostatin-1), and activators of endogenous antioxidant pathways (e.g., Nrf2 inducers). We also discuss the multiple difficulties and challenges encountered by the current study in paediatric clinical trials, especially with respect to ferroptosis‑related issues. This review identifies a series of key barriers to clinical translational research in paediatric ferroptosis, based on a systematic review of the available evidence. In response to these obstacles, we propose a prioritized translational framework that focuses on juvenile animal models, age-stratified pharmacokinetics, and patient-derived organoids, to provide guidance for translating clinical practice to this vulnerable population.",
-      "journal": "European journal of cell biology",
+      "pmid": "42733868",
+      "title": "From optical control to translational readiness: an evidence-tiered framework for optogenetics in neuromuscular and neurological disorders.",
+      "abstract": "Optogenetics provides exceptional spatial, temporal, and cell-type specificity for manipulating biological function, but the ability to produce a light-evoked response does not by itself establish therapeutic relevance. Disease-oriented studies now span molecular assembly, neuronal excitability, neuromuscular transmission, circuit modulation, engineered human tissues, closed-loop control, and early human intervention, yet these outcomes support fundamentally different levels of inference. Here, we critically examine optogenetic applications across neuromuscular and neurological disorders and propose an evidence-tiered framework for distinguishing mechanistic causality, disease-relevant functional validation, in vivo therapeutic modulation, integrated translational system validation, and human clinical proof-of-concept. Neuromuscular disorders illustrate how optogenetics can connect molecular mechanisms and activity-dependent phenotypes to human motor-unit function, whereas studies in Parkinson's disease, Alzheimer's disease, Huntington's disease, stroke, and epilepsy primarily define causal pathways, network states, stimulation rules, and opportunities for clinically feasible neuromodulation. Human-derived motor-unit systems, organoids, and other bioengineered platforms provide important functional de-risking but should not be equated with clinical evidence. Retinal optogenetics currently provides the clearest human proof-of-concept, while its favorable anatomy limits generalization to deeper or distributed neural targets. We further show that translational progression depends on coordinated optimization of gene delivery, actuator performance, optical dosimetry, material-tissue compatibility, implant mechanics, sensing and feedback control, durability, safety, and clinically meaningful advantage over established therapies. Accordingly, optogenetic translation should be viewed as a coupled gene-material-device-control problem rather than as optical stimulation alone. This framework clarifies what different experimental designs demonstrate, where evidence remains incomplete, and which biological and engineering barriers must be resolved before optical specificity can be converted into durable clinical benefit.",
+      "journal": "Materials today. Bio",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "College of Traditional Chinese Medicine, Changchun University of Chinese Medicine, Changchun, Jilin, China.",
-        "Department of Paediatrics, the Fourth Affiliated Hospital of Nanjing Medical University, Nanjing, China.",
-        "Department of Paediatric Internal Medicine One, The Affiliated Hospital to Changchun University of Chinese Medicine, Changchun, Jilin, China.",
-        "School of Medicine, Southeast University, Nanjing, China.",
-        "School of Medicine, Southeast University, Nanjing, China. Electronic address: qingsongnjtr1969@163.com.",
-        "Department of Paediatric Internal Medicine Two, The Affiliated Hospital of Changchun University of Chinese Medicine, Changchun, Jilin, China. Electronic address: 285865803@qq.com.",
-        "Department of Paediatric Internal Medicine One, The Affiliated Hospital to Changchun University of Chinese Medicine, Changchun, Jilin, China. Electronic address: cczyygyn@163.com."
+        "Department of Rehabilitation Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430030, China.",
+        "State Key Laboratory of Microbial Diversity and Innovative Utilization, Department of Agri-microbiomics and Biotechnology, Institute of Microbiology, Chinese Academy of Sciences, Peking, 100101, China.",
+        "School of Brain Science and Brain Medicine, Zhejiang University School of Medicine, Hangzhou, China.",
+        "Department of Neurophysiology, Institute of Physiology, University Wuerzburg, Wuerzburg, 97070, Germany.",
+        "Stem Cell Research Center, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430000, China.",
+        "Hubei Key Laboratory of Neural Injury and Functional Reconstruction, Huazhong University of Science and Technology, Wuhan, 430030, China."
       ],
-      "doi": "10.1016/j.ejcb.2026.151572",
-      "date": "2026-09-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42732714/"
+      "doi": "10.1016/j.mtbio.2026.103643",
+      "date": "2026-09-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42733868/"
     },
     {
-      "pmid": "42732702",
-      "title": "Photonic crystal barcode microfluidic chip for smart screening of lactogenic Chinese herbs using human mammary organoids.",
-      "abstract": "Postpartum insufficient lactation is challenging to maternal and infant health, yet safe and effective lactation-promoting drugs remain lacking. Here, we present an integrated smart screening platform that combines human mammary organoids with a photonic crystal barcode microfluidic chip for high-throughput identification and mechanistic elucidation of lactation-promoting traditional Chinese medicines (TCMs). Human mammary organoids recapitulate key structural and functional features of native mammary tissue and, critically, acquire the capacity to stably secrete milk proteins including TIMP1, which serves as a quantifiable lactogenic marker. The photonic crystal barcodes, fabricated as monodisperse silica colloidal crystal microspheres with tunable structural colors, are functionalized with capture antibodies and embedded in a herringbone-structured microfluidic chip, enabling in situ, visual, and highly sensitive fluorescence-based detection of secreted proteins. Using this system, we screen 18 TCM compounds and identify curcumin, puerarin, and forsythoside H as the three most effective candidates for enhancing TIMP1 secretion in vitro. Notably, in vivo experiments in a postpartum mouse model demonstrated that all three TCMs markedly induced milk yield and mammary alveolar development. RNA-seq analysis further unveils that forsythia uniquely regulates a series of pathways involving reprogramming of carbohydrate metabolism, amplification of estrogen/prolactin hormone signaling cascades, and induction of mammary epithelial differentiation. This synergistic activation of core lactogenic pathways provides a molecular basis for forsythia's superior lactation-promoting efficacy. These findings demonstrate that the present platform shows potential for efficient screening of lactation-promoting herbs and advancing the modernization of TCMs in lactation management.",
-      "journal": "Biomaterials",
+      "pmid": "42733859",
+      "title": "Generation of T cell containing adipose tissue organoids.",
+      "abstract": "T cells and especially regulatory T cells play a pivotal role in adipose tissue homeostasis. Peripheral blood T cells are well studied; however, in-depth analysis of adipose tissue T cells in their environment is challenging, and the analysis of adipose tissue-resident T cells is currently restricted to in vivo mouse models and ex vivo human donor samples. We developed a model to study T cells in adipose tissue by means of an adipose tissue organoid model. We could observe a clear T cell infiltration in these organoids. Interestingly, we observed different infiltration ratios of regulatory T cells and CD4+ effector T cells. In addition to this, mimicking the inflammatory milieu in adipose tissue by the addition of lipopolysaccharide (LPS) enhanced CD4+ T cell infiltration within adipose tissue organoids. In summary, we herein provide a suitable ex vivo tool to analyze adipose tissue-resident T cells from different fat depots under near-physiological conditions.",
+      "journal": "iScience",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Thyroid and Breast Surgery, Research Center of Clinical Medicine, Affiliated Hospital of Nantong University, Nantong University, Nantong, 226001, China; Medical School of Nantong University, Nantong, 226001, China.",
-        "Medical School of Nantong University, Nantong, 226001, China.",
-        "Department of Thyroid and Breast Surgery, Research Center of Clinical Medicine, Affiliated Hospital of Nantong University, Nantong University, Nantong, 226001, China.",
-        "Department of Biomedical Engineering, Columbia University, New York, NY, 10027, USA.",
-        "Laboratory Medicine Center, The Second Affiliated Hospital of Nanjing Medical University, Nanjing, 210012, China. Electronic address: weixiaowei@njmu.edu.cn.",
-        "Department of Thyroid and Breast Surgery, Research Center of Clinical Medicine, Affiliated Hospital of Nantong University, Nantong University, Nantong, 226001, China. Electronic address: guzf@ntu.edu.cn.",
-        "Department of Thyroid and Breast Surgery, Research Center of Clinical Medicine, Affiliated Hospital of Nantong University, Nantong University, Nantong, 226001, China. Electronic address: hezhixian@ntu.edu.cn."
+        "Institute of Immunology, Medical Faculty, RWTH Aachen University, Pauwelstrasse 30, 52074 Aachen, Germany.",
+        "Department of Pediatrics, Pediatric Rheumatology, RWTH Aachen University, Aachen, Germany.",
+        "Institute for Tumor Biology and Experimental Therapy, Georg-Speyer-Haus, Frankfurt am Main, Germany.",
+        "Immunology and Environment, Life & Medical Sciences (LIMES) Institute, University of Bonn, Bonn, Germany.",
+        "Department of Plastic Surgery, Hand Surgery-Burn Center, University Hospital RWTH Aachen, Aachen, Germany.",
+        "Division of Pediatric Rheumatology, Department of Pediatrics, Inselspital, University of Bern, Bern, Switzerland.",
+        "Faculty of Food and Nutrition Sciences, University of Applied Sciences, Hochschule Niederrhein, Moenchengladbach, Germany."
       ],
-      "doi": "10.1016/j.biomaterials.2026.124626",
-      "date": "2026-09-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42732702/"
+      "doi": "10.1016/j.isci.2026.117429",
+      "date": "2026-09-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42733859/"
     },
     {
-      "pmid": "42732519",
-      "title": "Cryopreservation of Reproductive Organoids.",
-      "abstract": "Three-dimensional organoid cell cultures are an in vitro model that is more similar to the in vivo environment than other cell culture methods. Because of this, organoids are a powerful alternative to live animal research studies. Cryopreservation of organoids is essential when working with a tissue source that is not readily available at all times, and a cryo-repository of organoids allows these cell cultures to be performed as needed. The cryopreservation and thawing protocols must be optimized for each species and tissue type to ensure the optimal cellular viability and proliferation after freeze-thawing. The protocol provided here has been used to cryopreserve various types of reproductive cell cultures (oviduct and endometrium) in several domestic and wildlife species.",
-      "journal": "Methods in molecular biology (Clifton, N.J.)",
+      "pmid": "42733753",
+      "title": "Skin organoid-derived exosomes in a hydrogel system potentiate skin wound healing.",
+      "abstract": "Skin wounds, whether acute or chronic, remain a major clinical challenge due to their complex healing processes involving inflammation, angiogenesis, and tissue remodeling. While stem cell-derived exosomes offer a promising cell-free therapeutic approach, their clinical translation is limited by rapid clearance and insufficient tissue-specificity. In this study, we developed a novel strategy by integrating exosomes derived from skin organoids (SKO-Exo)-which mimic native skin heterogeneity-into a hydrogel-based sustained-release system (Exo-Gel) to enhance wound healing. Skin organoids were generated from human embryonic stem cells, and exosomes were isolated and characterized, revealing typical cup-shaped morphology and exosomal markers. The hydrogel, composed of polyvinyl alcohol/gelatin/boric acid, exhibited excellent self-healing, adhesion, and sustained exosome release with an initial burst. In vitro, SKO-Exo-loaded hydrogel (SKOexo-Gel) significantly promoted endothelial cell proliferation, migration, and tube formation, as well as fibroblast collagen III secretion, outperforming exosomes from 3D keratinocytes (KC-Exo). In a rat full-thickness wound model, SKOexo-Gel accelerated wound closure, enhanced angiogenesis, and increased collagen III deposition. miRNA sequencing identified Hsa-miR-125b-5p as a prominent SKO-Exo-enriched miRNA that activates the Wnt/β-catenin pathway to drive angiogenesis, validated by functional assays. These findings demonstrate that skin organoid-derived exosomes in a hydrogel system synergistically promote wound healing through tissue-specific cues, offering a next-generation therapy for refractory wounds.",
+      "journal": "Materials today. Bio",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Clinical Sciences, Colorado State University, Fort Collins, CO, USA. riley.thompson2@colostate.edu.",
-        "Animal Reproduction and Biotechnology Laboratory, Colorado State University, Fort Collins, CO, USA. riley.thompson2@colostate.edu."
+        "Dermatology Hospital, Southern Medical University, Guangzhou, People's Republic of China.",
+        "The First School of Clinical Medicine, Southern Medical University, Guangzhou, People's Republic of China.",
+        "Department of Dermatology, The First Affiliated Hospital of Anhui Medical University, Hefei, People's Republic of China."
       ],
-      "doi": "10.1007/978-1-0716-5416-3_29",
-      "date": "2026-01-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42732519/"
+      "doi": "10.1016/j.mtbio.2026.103632",
+      "date": "2026-09-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42733753/"
     },
     {
-      "pmid": "42731995",
-      "title": "In vitro approaches for modelling gut-liver crosstalk in drug-induced liver injury.",
-      "abstract": "Drug-induced liver injury (DILI) remains a major challenge in drug development and clinical practice due to its limited predictability in current preclinical models. Increasing evidence indicates that the gut-liver axis, through bidirectional interactions between the gut and the liver, plays an important role in modulating drug metabolism and hepatotoxicity. Nevertheless, the exact role of our gut, its microbiota and microbiota-derived metabolites in the manifestation of DILI remains poorly understood, highlighting the need for more human-relevant in vitro models taking along gut-liver interactions. To address this need, this review paper aimed to map the current landscape of in vitro gut-liver models and evaluate their potential applicability for future DILI research. A literature screening using the PubMed database identified 95 articles published on this subject between 2000 and 2026. The in vitro models were categorized into 5 groups, including monocultures, Transwell® systems, hydrogel-based systems, organ-on-a-chip platforms and microfluidic bioreactors. Each category features distinct advantages and disadvantages with respect to physiological relevance, complexity, integration of gut microbiota interactions and industrial applicability. Despite these differences, several key gaps remain across all in vitro gut-liver models, including the limited incorporation of a gut microbiota component, insufficient modelling of interindividual variability and the lack of physiologically relevant flow conditions. Future optimization efforts of these models, combined with integration with in silico tools, may improve the prediction of human DILI, ultimately resulting in reduced late-stage drug attrition, less reliance on animal studies and the development of safer pharmaceutical drugs.",
-      "journal": "Archives of toxicology",
+      "pmid": "42733592",
+      "title": "Construction and application of mammary and breast cancer organoids.",
+      "abstract": "Mammary organoids and breast cancer organoids (BCOs) have become indispensable models for investigating mammary development, tumorigenesis, therapeutic response, and drug resistance. In this review, we summarize current strategies for constructing mammary organoids from adult mammary stem cells, pluripotent stem cells and immortalized mammary epithelial cell lines, and discuss how these models recapitulate key physiological processes. Additionally, we elaborate on four complementary approaches for building BCOs, including patient-derived tumor organoids (PDOs), gene-edited models, microenvironment reconstruction via multicellular co-culture, and organoid-on-a-chip platforms. Notably, we outline major applications of mammary organoids in developmental biology and translational fields, and emphasize the expanding roles of BCOs in living biobanks, mechanistic studies, high-throughput drug screening, personalized drug sensitivity testing, and immunotherapy response prediction. Finally, we point out key challenges including standardization, long-term genetic and phenotypic stability, vascularization, immune-context integration, and optimization of dynamic culture conditions, and propose directions to improve model fidelity and clinical utility.",
+      "journal": "Cell insight",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Department of Pharmaceutical and Pharmacological Sciences, Vrije Universiteit Brussel, Laarbeeklaan 103, 1090, Brussels, Belgium.",
-        "AI Supported Modelling in Clinical Sciences Lab, Faculty of Medicine and Pharmacy, Vrije Universiteit Brussel, Laarbeeklaan 103, 1090, Brussels, Belgium.",
-        "Department of Pharmaceutical and Pharmacological Sciences, Vrije Universiteit Brussel, Laarbeeklaan 103, 1090, Brussels, Belgium. mvinken@vub.ac.be."
+        "Key Laboratory of Systems Health Science of Zhejiang Province, School of Life Science, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, Hangzhou, Zhejiang, 310024, China."
       ],
-      "doi": "10.1007/s00204-026-04537-2",
-      "date": "2026-09-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42731995/"
+      "doi": "10.1016/j.cellin.2026.100354",
+      "date": "2026-08-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42733592/"
     },
     {
-      "pmid": "42731958",
-      "title": "AISP position statement: Standardising biological sample collection and handling for advanced diagnostics and multi-omic analyses in pancreatic cancer.",
-      "abstract": "The quality of biological samples is a major determinant of analytical reliability and translational relevance in patients with pancreatic ductal adenocarcinoma (PDAC). However, variability in specimen procurement, handling, transport, processing, and storage can substantially affect tissue integrity and the robustness of downstream analyses. This paper, promoted by the Pathology and Basic Science Task Force of the Italian Association for the Study of the Pancreas (AISP), brings together experts in pathology, molecular biology, translational research, medical oncology, and gastroenterology to provide practical recommendations for the collection, handling, and pre-analytical management of biological samples. Draft recommendations were discussed during dedicated working group meetings and approved by consensus among all authors, supported by key literature. The document identifies the biological specimen as the critical link between patient care, pathology, and research, and provides guidance for clinicians and professionals involved in sample procurement and processing. By addressing the requirements of different analytical platforms, including genomics, organoid generation, immunophenotyping, pharmacogenomics, and multiplex/spatial analyses, this paper aims to reduce pre-analytical variability, improve diagnostic accuracy, and enhance the clinical and translational value of molecular investigations in pancreatic cancer. Standardised procedures across centres may facilitate comparable data collection, support multicentre studies, and strengthen collaboration between clinicians, pathologists, and research laboratories.",
-      "journal": "Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver",
+      "pmid": "42733575",
+      "title": "Organoid Intelligent Morphomics: Decoding the organoid morphome through artificial intelligence from phenotypic quantification to mechanistic insight.",
+      "abstract": "Organoids, as three-dimensional bioactive microtissues capable of recapitulating native organ architecture and function, have become valuable models in biomedical research. However, their broad adoption is constrained by subjective morphological assessment and endpoint assays that compromise standardization and scalability. This review introduces Organoid Intelligent Morphomics (OIM), an integrative analytical framework that synergizes imaging technologies with artificial intelligence to establish a \"morphology-function-mechanism\" mapping. OIM enables a paradigm shift from qualitative to quantitative analysis, from static to dynamic monitoring, and from superficial observation to deep molecular inference. The applications of OIM are critically examined across three interconnected domains: (1) quality control, encompassing real-time assessment through non-invasive viability quantification and morphological evaluation, as well as predictive quality control for early differentiation outcome forecasting; (2) disease deconstruction, enabling quantitative, multiscale phenotyping of disease morphology and establishing morphology-mechanism association analyses; (3) drug development, facilitating high-throughput efficacy screening, toxicity assessment, and personalized therapeutic guidance. Furthermore, we critically analyze the current data, algorithmic, and translational challenges facing OIM, propose corresponding solutions, and provide a roadmap toward artificial intelligence virtual organoids. Ultimately, OIM holds promise for establishing the critical technological infrastructure for the scalable manufacturing and clinical translation of organoid-based therapeutics.",
+      "journal": "Bioactive materials",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Department of Molecular Biotechnology and Health Sciences, University of Torino, Piazza Nizza 44b, 10126, Torino, Italy; Center of Molecular Biotechnology \"Guido Tarone\", University of Torino, via Nizza 52, 10126, Torino, Italy. Electronic address: paola.cappello@unito.it.",
-        "Department of Biology, University of Pisa, 56126, Pisa, Italy.",
-        "Cancer Pharmacology Lab, Fondazione Pisana per la Scienza ONLUS, via Giovannini 13, San Giuliano Terme 56017, Italy; Laboratory of Medical Oncology, Amsterdam UMC, Vrije Universiteit, Cancer Center Amsterdam, De Boelelaan 1117, 1081HV Amsterdam, the Netherlands.",
-        "Gastrointestinal Cancer Lab, Institute of Genetics and Biophysics (IGB) \"A. Buzzati Traverso\", Consiglio Nazionale delle Ricerche, CNR, Via P. Castellino, 111 Napoli, Italy.",
-        "Department of Diagnostics and Public Health, Section of Pathology, University of Verona, Piazzale L.A. Scuro, 37134 Verona, Italy.",
-        "Department of Medical Biotechnology and Translational Medicine, University of Milan, Via Vanvitelli 32, 20133 Milano, Italy.",
-        "Department of Medical Oncology, Humanitas Istituto Clinico Catanese, Contrada Cubba, SP54 n.11, 95045 Misterbianco, Catania, Italy.",
-        "Pancreatic Surgery Unit, Department of Surgery, Dentistry, Paediatrics and Gynecology, University of Verona, Verona, Italy, Piazzale L.A. Scuro 10, 37134 Verona, Italy.",
-        "Department of Biomedical Sciences, Humanitas University, Via Rita Levi Montalcini 4, 20072 Pieve Emanuele, Milano, Italy; IRCCS Humanitas Research Hospital, Gastroenterology Department, via Manzoni 56, 20089 Rozzano, Milano, Italy. Electronic address: silvia.carrara@hunimed.eu."
+        "Department of Basic Oral Medicine, School and Hospital of Stomatology, Guangdong Engineering Research Center of Oral Restoration and Reconstruction, Guangzhou Key Laboratory of Basic and Applied Research of Oral Regenerative Medicine, Guangzhou Medical University, Guangzhou, 510182, China.",
+        "Laboratory for Myology, Department of Human Movement Sciences, Faculty of Behavioural and Movement Sciences, Vrije Universiteit Amsterdam, Amsterdam Movement Sciences, Amsterdam, 1081 BT, the Netherlands.",
+        "School of Medicine and Dentistry & Institute for Biomedicine and Glycomics, Griffith University, Gold Coast, QLD, 4222, Australia.",
+        "The Australia-China Centre for Tissue Engineering and Regenerative Medicine (ACCTERM), Brisbane, QLD, 4000, Australia."
       ],
-      "doi": "10.1016/j.dld.2026.08.021",
-      "date": "2026-09-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42731958/"
+      "doi": "10.1016/j.bioactmat.2026.08.043",
+      "date": "2026-09-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42733575/"
     },
     {
-      "pmid": "42731692",
-      "title": "From crop stress to host response: plant extracellular vesicles as dynamic exposure vectors in food and botanical toxicology.",
-      "abstract": "Plant-derived extracellular vesicles and vesicle-like nanoparticles are increasingly discussed as stable natural carriers in foods, botanical preparations and nanomedicine. That framing overlooks a central toxicological variable: the source plant is a responsive biological system whose cultivar, organ, developmental stage and stress history can alter vesicle release and cargo before harvest. Drought, salinity, temperature, pathogens, wounding, nutrient imbalance and agricultural chemicals may therefore change not only crop composition but also the membrane-bound biological dose presented to oral, intestinal, dermal or respiratory barriers. This Review develops a crop-to-host framework for plant extracellular-vesicle toxicology. It distinguishes apoplastic extracellular vesicles from homogenate-derived vesicle-enriched fractions, traces how cultivation, harvest, processing, storage and digestion reshape identity and exposure, and evaluates mechanisms involving barrier uptake, microbiome interactions, innate immune sensing, lipid and protein cargo, small RNAs, co-isolated phytochemicals and environmental contaminants. Current evidence is strongest for particle isolation, selected cargo transfer and engineered delivery, but remains weak for real-world dietary dose, stress-dependent cargo changes, chronic exposure and adverse outcomes. We propose an evidence ladder and a human-relevant testing strategy combining crop-side metadata, orthogonal vesicle characterization, contaminant mass balance, gastrointestinal digestion, intestinal organoids, gut-liver microphysiological systems, immune modules and quantitative in vitro-in vivo extrapolation. Treating plant physiological history as part of exposure definition could convert plant vesicles from poorly specified \"natural nanoparticles\" into measurable and testable entities for food, botanical and environmental toxicology.",
-      "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+      "pmid": "42733516",
+      "title": "Construction and characterization of a cardiac organoid ARVC disease model with its application in gene therapy targeting PKP2.",
+      "abstract": "",
+      "journal": "Genes & diseases",
       "publicationTypes": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ],
       "affiliations": [
-        "Department of Life Sciences, Yeungnam University, Gyeongsan 38541, Republic of Korea. Electronic address: wajidzaman@yu.ac.kr.",
-        "Department of Horticulture and Life Science, Yeungnam University, Gyeongsan 38541, Republic of Korea. Electronic address: drsajid@yu.ac.kr."
+        "Department of Cardiology, Putuo Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai 200062, China.",
+        "ACROBiosystems Inc, Beijing 100176, China.",
+        "Department of GCP Office, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200011, China.",
+        "Shanghai Key Laboratory of Regulatory Biology, School of Life Sciences, East China Normal University, Shanghai 200241, China."
       ],
-      "doi": "10.1016/j.fct.2026.116385",
-      "date": "2026-09-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42731692/"
+      "doi": "10.1016/j.gendis.2026.102184",
+      "date": "2026-04-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42733516/"
     },
     {
       "pmid": "42717098",
@@ -540,96 +534,6 @@
   ],
   "signals": [
     {
-      "id": "pubmed-42731995",
-      "date": "2026-09-12",
-      "title": "In vitro approaches for modelling gut-liver crosstalk in drug-induced liver injury.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42731995/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Archives of toxicology，PMID 为 42731995。",
-      "report": "Drug-induced liver injury (DILI) remains a major challenge in drug development and clinical practice due to its limited predictability in current preclinical models. Increasing evidence indicates that the gut-liver axis, through bidirectional interactions betw...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42731958",
-      "date": "2026-09-12",
-      "title": "AISP position statement: Standardising biological sample collection and handling for advanced diagnostics and multi-omic analyses in pancreatic cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42731958/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver，PMID 为 42731958。",
-      "report": "The quality of biological samples is a major determinant of analytical reliability and translational relevance in patients with pancreatic ductal adenocarcinoma (PDAC). However, variability in specimen procurement, handling, transport, processing, and storage...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42731692",
-      "date": "2026-09-12",
-      "title": "From crop stress to host response: plant extracellular vesicles as dynamic exposure vectors in food and botanical toxicology.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42731692/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association，PMID 为 42731692。",
-      "report": "Plant-derived extracellular vesicles and vesicle-like nanoparticles are increasingly discussed as stable natural carriers in foods, botanical preparations and nanomedicine. That framing overlooks a central toxicological variable: the source plant is a responsi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42730986",
       "date": "2026-09-12",
       "title": "Quantifying HER-2 for Precision Oncology: The Role of Optical Biosensors.",
@@ -873,38 +777,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42732714",
-      "date": "2026-09-09",
-      "title": "Ferroptosis in neonatal and paediatric disease: From molecular mechanism to therapeutic target.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42732714/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 European journal of cell biology，PMID 为 42732714。",
-      "report": "Ferroptosis is an iron-dependent regulatory cell death mechanism mediated by lipid peroxidation. Increasing evidence suggests that this process is closely related to the etiology of a variety of paediatric diseases. This review systematically elaborates the co...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42717098",
       "date": "2026-09-09",
       "title": "An operational perturbation proteomics-based virtual cell model.",
@@ -1005,36 +877,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42732702",
-      "date": "2026-09-08",
-      "title": "Photonic crystal barcode microfluidic chip for smart screening of lactogenic Chinese herbs using human mammary organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42732702/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomaterials，PMID 为 42732702。",
-      "report": "Postpartum insufficient lactation is challenging to maternal and infant health, yet safe and effective lactation-promoting drugs remain lacking. Here, we present an integrated smart screening platform that combines human mammary organoids with a photonic cryst...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42724935",
       "date": "2026-09-05",
       "title": "Humanizing Antibodies and Nanobodies From Scratch With HuDiff.",
@@ -1060,6 +902,130 @@
       "fact": "PubMed 记录显示该文献收录于 Bio-protocol，PMID 为 42724935。",
       "report": "Antibody (Ab) and nanobody (Nb) humanization is essential for reducing immunogenicity in therapeutic applications. HuDiff is an adaptive autoregressive diffusion approach that generates humanized antibodies and nanobodies from scratch using only complementarit...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42733859",
+      "date": "2026-09-03",
+      "title": "Generation of T cell containing adipose tissue organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42733859/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42733859。",
+      "report": "T cells and especially regulatory T cells play a pivotal role in adipose tissue homeostasis. Peripheral blood T cells are well studied; however, in-depth analysis of adipose tissue T cells in their environment is challenging, and the analysis of adipose tissue...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42733575",
+      "date": "2026-09-03",
+      "title": "Organoid Intelligent Morphomics: Decoding the organoid morphome through artificial intelligence from phenotypic quantification to mechanistic insight.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42733575/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Bioactive materials，PMID 为 42733575。",
+      "report": "Organoids, as three-dimensional bioactive microtissues capable of recapitulating native organ architecture and function, have become valuable models in biomedical research. However, their broad adoption is constrained by subjective morphological assessment and...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42733868",
+      "date": "2026-09-02",
+      "title": "From optical control to translational readiness: an evidence-tiered framework for optogenetics in neuromuscular and neurological disorders.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42733868/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Materials today. Bio，PMID 为 42733868。",
+      "report": "Optogenetics provides exceptional spatial, temporal, and cell-type specificity for manipulating biological function, but the ability to produce a light-evoked response does not by itself establish therapeutic relevance. Disease-oriented studies now span molecu...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42733753",
+      "date": "2026-09-01",
+      "title": "Skin organoid-derived exosomes in a hydrogel system potentiate skin wound healing.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42733753/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Materials today. Bio，PMID 为 42733753。",
+      "report": "Skin wounds, whether acute or chronic, remain a major clinical challenge due to their complex healing processes involving inflammation, angiogenesis, and tissue remodeling. While stem cell-derived exosomes offer a promising cell-free therapeutic approach, thei...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1229,6 +1195,38 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42733592",
+      "date": "2026-08-17",
+      "title": "Construction and application of mammary and breast cancer organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42733592/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell insight，PMID 为 42733592。",
+      "report": "Mammary organoids and breast cancer organoids (BCOs) have become indispensable models for investigating mammary development, tumorigenesis, therapeutic response, and drug resistance. In this review, we summarize current strategies for constructing mammary orga...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42693007",
       "date": "2026-08-01",
       "title": "[TCM digital human: an innovation engine driving TCM integrative pharmacology 2.0].",
@@ -1259,18 +1257,18 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42732519",
-      "date": "2026-01-01",
-      "title": "Cryopreservation of Reproductive Organoids.",
+      "id": "pubmed-42733516",
+      "date": "2026-04-10",
+      "title": "Construction and characterization of a cardiac organoid ARVC disease model with its application in gene therapy targeting PKP2.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42732519/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42733516/",
       "reliability": "High",
-      "evidenceLevel": "Medium",
+      "evidenceLevel": "Low",
       "needsReview": true,
       "themes": [
         "Organoids",
@@ -1281,8 +1279,8 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Methods in molecular biology (Clifton, N.J.)，PMID 为 42732519。",
-      "report": "Three-dimensional organoid cell cultures are an in vitro model that is more similar to the in vivo environment than other cell culture methods. Because of this, organoids are a powerful alternative to live animal research studies. Cryopreservation of organoids...",
+      "fact": "PubMed 记录显示该文献收录于 Genes & diseases，PMID 为 42733516。",
+      "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }

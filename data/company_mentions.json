@@ -4,57 +4,168 @@
   "asOfDate": "2026-09-14",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-148abb0596000744",
-      "observedName": "ExcellaBio LLC",
-      "normalizedName": "excellabio",
+      "id": "mention-clinicaltrials-1ab725a85ed5a966",
+      "observedName": "Puer Research, LLC",
+      "normalizedName": "puer research",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT03342417",
-      "sourceDate": "2021-11-09",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03342417",
+      "sourceRecordId": "NCT05687578",
+      "sourceDate": "2024-10-15",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05687578",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Longevity",
+        "biomarker",
+        "临床试验",
+        "衰老"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "PUER (\"Previously Unrecognized Emerging Risks\") Life Clinical Study"
+    },
+    {
+      "id": "mention-clinicaltrials-290ae8db2534e749",
+      "observedName": "MTU AUSTRALO ALPHA LAB",
+      "normalizedName": "mtu australo alpha lab",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT07506967",
+      "sourceDate": "2026-04-02",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07506967",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Diagnostics",
+        "Healthcare AI",
+        "Medical AI",
+        "Precision Medicine",
+        "Recruiting",
+        "临床决策支持",
+        "临床试验",
+        "医疗 AI",
+        "精准医疗",
+        "诊断"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Early Detection and AI-Based Management of Skin-Related Neglected Tropical Diseases in Sub-Saharan Africa by Frontline Health Workers"
+    },
+    {
+      "id": "mention-clinicaltrials-3ada99c2c01dc9b6",
+      "observedName": "Ajinomoto USA, INC.",
+      "normalizedName": "ajinomoto usa",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT00586885",
+      "sourceDate": "2012-10-11",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00586885",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "临床试验"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Effects of Alanine in Patients With Nonalcoholic Steatohepatitis"
+    },
+    {
+      "id": "mention-clinicaltrials-d918de81ef4a78ea",
+      "observedName": "Shanghai Weihe Medical Laboratory Co., Ltd.",
+      "normalizedName": "shanghai weihe medical laboratory",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT06249308",
+      "sourceDate": "2024-02-08",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06249308",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Diagnostics",
+        "Healthcare AI",
+        "Medical AI",
+        "Oncology",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Recruiting",
+        "中国",
+        "临床决策支持",
+        "临床试验",
+        "医疗 AI",
+        "精准医疗",
+        "肿瘤",
+        "诊断"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Liquid Biopsy-based Early Detection of Ovarian Cancer: a Proof-of-concept Study ( PROFOUND-OC )"
+    },
+    {
+      "id": "mention-clinicaltrials-e384ec0ab0408f51",
+      "observedName": "Genentech, Inc.",
+      "normalizedName": "genentech",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT05340309",
+      "sourceDate": "2026-01-29",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05340309",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
         "Oncology",
         "Precision Oncology",
+        "Recruiting",
         "临床试验",
-        "乳腺癌",
         "肿瘤"
       ],
       "activitySignals": [
+        "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Combination of Nivolumab and Ipilimumab in Breast, Ovarian and Gastric Cancer Patients"
+      "contextTitle": "Subcutaneous Atezolizumab for the Treatment of Non-small Cell Lung Cancer"
     },
     {
-      "id": "mention-clinicaltrials-8d492670ce333e4c",
-      "observedName": "Peerbridge Health, Inc",
-      "normalizedName": "peerbridge health",
+      "id": "mention-clinicaltrials-f2a6cf981b1a59b7",
+      "observedName": "Truway Health, Inc.",
+      "normalizedName": "truway health",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06699056",
-      "sourceDate": "2026-06-01",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06699056",
+      "sourceRecordId": "NCT07805044",
+      "sourceDate": "2026-09-04",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07805044",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
+        "Biomarkers",
         "Clinical Trials",
-        "Healthcare AI",
-        "Medical AI",
-        "Recruiting",
-        "临床决策支持",
+        "Longevity",
+        "biomarker",
         "临床试验",
-        "医疗 AI"
+        "衰老"
       ],
       "activitySignals": [
-        "active_trial",
         "trial_intervention"
       ],
-      "contextTitle": "AI-Enabled Direct-from-ECG Ejection Fraction (EF) Severity Assessment Using COR ECG Wearable Monitor"
+      "contextTitle": "Truway Whole-Body Digital Twin and Physiologic Resilience Study (TRU-OMNIBODY)"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",

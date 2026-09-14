@@ -52132,6 +52132,14 @@
           {
             "form": "6-K",
             "label": "半年报/临时报告",
+            "date": "2026-09-14",
+            "title": "Legend Biotech filed Form 6-K",
+            "url": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006027/f6k_091426.htm",
+            "source": "SEC EDGAR"
+          },
+          {
+            "form": "6-K",
+            "label": "半年报/临时报告",
             "date": "2026-08-18",
             "title": "Legend Biotech filed Form 6-K",
             "url": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326005623/f6k_081826.htm",
@@ -52243,6 +52251,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001801198-000117184326006027",
           "evidence-company-legend-biotech-official-fb4044f3a898",
           "evidence-sec-0001801198-000117184326005623",
           "evidence-sec-0001801198-000180119826000022",
@@ -52273,6 +52282,17 @@
           }
         ],
         "observedMoves": [
+          {
+            "id": "event-sec-0001801198-000117184326006027",
+            "date": "2026-09-14",
+            "title": "Legend Biotech filed Form 6-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001801198-000117184326006027",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006027/f6k_091426.htm"
+          },
           {
             "id": "event-evidence-company-legend-biotech-official-fb4044f3a898",
             "date": "2026-09-11",
@@ -52316,17 +52336,6 @@
             "needsReview": true,
             "evidenceId": "evidence-company-legend-biotech-pipeline-ff06a79c40a1",
             "sourceUrl": "https://legendbiotech.com/research-development/pipeline/"
-          },
-          {
-            "id": "event-evidence-company-legend-biotech-investor_relations-d012c3bec9f7",
-            "date": "2026-08-10",
-            "title": "Investor Relations - Legend Biotech",
-            "eventType": "Official Source Update",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-legend-biotech-investor_relations-d012c3bec9f7",
-            "sourceUrl": "https://investors.legendbiotech.com/"
           }
         ],
         "inferences": [],
@@ -52337,12 +52346,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 8,
+        "evidenceCount": 9,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 5
+          "Filing": 6
         },
-        "lastEvidenceDate": "2026-09-11",
+        "lastEvidenceDate": "2026-09-14",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -52351,6 +52360,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001801198-000117184326006027",
+          "date": "2026-09-14",
+          "title": "Legend Biotech filed Form 6-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001801198-000117184326006027",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006027/f6k_091426.htm"
+        },
         {
           "id": "event-evidence-company-legend-biotech-official-fb4044f3a898",
           "date": "2026-09-11",
@@ -52427,17 +52447,6 @@
           "needsReview": false,
           "evidenceId": "evidence-sec-0001801198-000119312526316760",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000119312526316760/d56062d6k.htm"
-        },
-        {
-          "id": "event-sec-0001801198-000117184326004649",
-          "date": "2026-07-15",
-          "title": "Legend Biotech filed Form 6-K",
-          "eventType": "Corporate Update",
-          "sourceType": "Filing",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-sec-0001801198-000117184326004649",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326004649/f6k_071426.htm"
         }
       ]
     },
